@@ -10,33 +10,67 @@ thins out before the 111th, and House organising resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
+## By measure type
+
+| Type | Without text |
+|---|---|
+| `s` | 144 |
+| `hr` | 120 |
+| `hres` | 27 |
+| `sres` | 11 |
+| `hconres` | 7 |
+| `hjres` | 2 |
+| `sjres` | 2 |
+| `sconres` | 1 |
+
+## The first 50
+
+The complete list of 314 is in [`GAPS.tsv`](GAPS.tsv), which
+is tab-separated so it can be grepped and diffed without a Markdown
+reader.
+
 | Measure | Title |
 |---|---|
+| `H.Con.Res. 6` | Expressing the sense of Congress that the Supreme Court misinterpreted the First Amendment to the Constitution in the case of Buckley v. Valeo. |
 | `H.Con.Res. 26` | Expressing the sense of the Congress that the United States Postal Service should issue a postage stamp commemorating Congressman Adam Clayton Powell, Jr. |
+| `H.Con.Res. 48` | Recognizing the efforts and contributions of the members of the Monuments, Fine Arts, and Archives program under the Civil Affairs and Military Government Sections of the United States Armed Forces during and following World War II who were responsible for the preservation, protection, and restitution of artistic and cultural treasures in countries occupied by the Allied armies. |
 | `H.Con.Res. 270` | To make corrections in the enrollment of the bill H.R. 1593. |
 | `H.Con.Res. 271` | Providing for the sine die adjournment of the first session of the One Hundred Tenth Congress. |
 | `H.Con.Res. 312` | Revising the congressional budget for the United States Government for fiscal year 2008, establishing the congressional budget for the United States Government for fiscal year 2009, and setting forth appropriate budgetary levels for fiscal years 2010 through 2013. |
 | `H.Con.Res. 338` | Recognizing the Honorable Yvonne Brathwaite Burke for her distinguished career in public service. |
-| `H.Con.Res. 48` | Recognizing the efforts and contributions of the members of the Monuments, Fine Arts, and Archives program under the Civil Affairs and Military Government Sections of the United States Armed Forces during and following World War II who were responsible for the preservation, protection, and restitution of artistic and cultural treasures in countries occupied by the Allied armies. |
-| `H.Con.Res. 6` | Expressing the sense of Congress that the Supreme Court misinterpreted the First Amendment to the Constitution in the case of Buckley v. Valeo. |
-| `H.J.Res. 38` | Proposing an amendment to the Constitution of the United States to authorize the line item veto. |
 | `H.J.Res. 4` | Every Vote Counts Amendment |
+| `H.J.Res. 38` | Proposing an amendment to the Constitution of the United States to authorize the line item veto. |
+| `H.R. 15` | National Health Insurance Act |
+| `H.R. 25` | Fair Tax Act of 2007 |
+| `H.R. 48` | To redesignate the White Rocks National Recreation Area in the State of Vermont as the "Robert T. Stafford White Rocks National Recreation Area". |
+| `H.R. 76` | To amend the Internal Revenue Code of 1986 to increase the number vehicles for which the alternative motor vehicle credit is allowed. |
+| `H.R. 89` | Combat-Related Special Compensation Act |
+| `H.R. 96` | Gun Show Loophole Closing Act of 2007 |
+| `H.R. 97` | Accountability and Transparency in Ethics Act |
+| `H.R. 98` | Illegal Immigration Enforcement and Social Security Protection Act of 2007 |
+| `H.R. 121` | High-Performance Green Buildings Act of 2007 |
+| `H.R. 129` | To direct the Director of the Federal Emergency Management Agency to designate New Jersey Task Force 1 as part of the National Urban Search and Rescue System. |
+| `H.R. 173` | One Strike and You're Out! Act of 2007 |
+| `H.R. 250` | National Oceanic and Atmospheric Administration Act |
+| `H.R. 352` | Poverty Impact Trigger Act of 2007 |
+| `H.R. 422` | To establish the Office of Public Integrity as an independent office within the legislative branch of the Government, to reduce the duties of the Committee on Standards of Official Conduct of the House of Representatives and the Select Committee on Ethics of the Senate, and for other purposes. |
+| `H.R. 563` | Congressional Pardon for Border Patrol Agents Ramos and Compean Act |
+| `H.R. 631` | Earmark Transparency and Accountability Act of 2007 |
+| `H.R. 648` | No Child Left Behind Improvements Act of 2007 |
+| `H.R. 708` | Trade Law Reform Act of 2007 |
+| `H.R. 775` | Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq, 2007 |
 | `H.R. 1013` | To amend title XXI of the Social Security Act to prohibit the approval or continuation of section 1115 waivers insofar as they provide coverage of nonpregnant adults under the State Children's Health Insurance Program (SCHIP). |
 | `H.R. 1136` | Ethics Reform Act of 2007 |
 | `H.R. 1159` | To amend title II of the Social Security Act to provide for full benefits for disabled widows and widowers without regard to age. |
 | `H.R. 1161` | Social Security Caregiver Credit Act of 2007 |
 | `H.R. 1207` | To amend the Internal Revenue Code of 1986 to impose an excise tax on any tax-exempt organization which accepts any contribution which may be used to relocate property held by the organization if the relocation is contrary to the intent of the donor of the property. |
-| `H.R. 121` | High-Performance Green Buildings Act of 2007 |
-| `H.R. 129` | To direct the Director of the Federal Emergency Management Agency to designate New Jersey Task Force 1 as part of the National Urban Search and Rescue System. |
 | `H.R. 1356` | Next Generation Air Transportation System Financing Reform Act of 2007 |
 | `H.R. 1375` | Earmark Accountability and Reform Act of 2007 |
-| `H.R. 15` | National Health Insurance Act |
 | `H.R. 1591` | U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 |
 | `H.R. 1600` | EAT Healthy America Act |
 | `H.R. 1637` | For the relief of Malachy McAllister, Nicola McAllister, and Sean Ryan McAllister. |
 | `H.R. 1647` | To amend title XIX of the Social Security Act to include podiatrists as physicians for purposes of covering physicians services under the Medicaid Program. |
 | `H.R. 1672` | To amend the Internal Revenue Code of 1986 to deny qualified dividend income treatment to certain foreign dividends. |
-| `H.R. 173` | One Strike and You're Out! Act of 2007 |
 | `H.R. 1739` | National Security Letter Judicial and Congressional Oversight Act |
 | `H.R. 1754` | House Ethics Commission Establishment Act of 2007 |
 | `H.R. 1841` | AmeriCare Health Care Act of 2007 |
@@ -47,282 +81,3 @@ Congress.
 | `H.R. 1992` | Decent Working Conditions and Fair Competition Act |
 | `H.R. 1994` | Financial Aid Accountability and Transparency Act of 2007 |
 | `H.R. 2031` | To safely redeploy United States troops from Iraq. |
-| `H.R. 2034` | Medicare for All Act |
-| `H.R. 2187` | Katrina Recovery Supplemental Appropriations Act, 2007 |
-| `H.R. 2206` | U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 |
-| `H.R. 2388` | Violence Against Immigrant Women Act of 2007 |
-| `H.R. 2416` | Commission on the Accountability and Review of Federal Agencies Act |
-| `H.R. 2469` | Biennial Budgeting Act of 2008 |
-| `H.R. 25` | Fair Tax Act of 2007 |
-| `H.R. 250` | National Oceanic and Atmospheric Administration Act |
-| `H.R. 2510` | To amend title 31, United States Code, to require the inscription "In God We Trust" to appear on a face of the $1 coins honoring each of the Presidents of the United States. |
-| `H.R. 2532` | Minority-Owned Venture Empowerment Act of 2007 |
-| `H.R. 2638` | Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009 |
-| `H.R. 2641` | Energy and Water Development and Related Agencies Appropriations Act, 2008 |
-| `H.R. 2643` | Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008 |
-| `H.R. 2733` | Trinity River Restoration Fund Act of 2007 |
-| `H.R. 2747` | Methamphetamine Production Prevention Act of 2007 |
-| `H.R. 2764` | Consolidated Appropriations Act, 2008 |
-| `H.R. 2771` | Legislative Branch Appropriations Act, 2008 |
-| `H.R. 2829` | Financial Services and General Government Appropriations Act, 2008 |
-| `H.R. 2970` | Pharmacy Benefit Manager Transparency Act of 2007 |
-| `H.R. 3043` | Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2008 |
-| `H.R. 3050` | To grant the consent and approval of Congress to an interstate forest fire protection compact. |
-| `H.R. 3074` | Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2008 |
-| `H.R. 3093` | Departments of Commerce and Justice, Science, and Related Agencies Appropriations Act, 2008 |
-| `H.R. 3131` | To amend the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007, to strike a requirement relating to forage producers. |
-| `H.R. 3155` | Intellectual Property Enhanced Criminal Enforcement Act of 2007 |
-| `H.R. 3161` | Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2008 |
-| `H.R. 3194` | H1B Strengthening Anti-Fraud Effectiveness Act |
-| `H.R. 3222` | Department of Defense Appropriations Act, 2008 |
-| `H.R. 3290` | School Environment Protection Act of 2007 |
-| `H.R. 3393` | Reservist Access to Justice Act of 2007 |
-| `H.R. 3409` | Place to Call Home Act |
-| `H.R. 352` | Poverty Impact Trigger Act of 2007 |
-| `H.R. 3552` | To amend the Immigration and Nationality Act to include within the definition of "refugee" spouses of persons who have been forced to abort a pregnancy or undergo involuntary sterilization. |
-| `H.R. 3557` | Restore American Dream Act of 2007 |
-| `H.R. 3592` | State Sales Tax Equity Relief Act of 2007 |
-| `H.R. 3655` | Bipartisan Task Force for Responsible Fiscal Action Act of 2007 |
-| `H.R. 3688` | United States-Peru Trade Promotion Agreement Implementation Act |
-| `H.R. 3794` | Recognition of Forgotten Atomic Veterans and their Surviving Spouses Act of 2007 |
-| `H.R. 3795` | You Were There, You Get Care Act of 2007 |
-| `H.R. 3797` | New Diplomatic Offensive for Iraq Act |
-| `H.R. 3800` | Promoting Health Information Technology Act |
-| `H.R. 3805` | Food Stamp Equality Act of 2007 |
-| `H.R. 3806` | Supporting Prosecutions of International Espionage Schemes Act of 2007 |
-| `H.R. 3808` | Combat Troops Tax Relief Act of 2007 |
-| `H.R. 3809` | To amend the Delaware and Lehigh National Heritage Corridor Act of 1988 regarding the local coordinating entity of the Delaware and Lehigh National Heritage Corridor, and for other purposes. |
-| `H.R. 3813` | Mortgage Kickback Prevention Act of 2007 |
-| `H.R. 3820` | Commercial Motor Vehicle Advanced Safety Technology Tax Act of 2007 |
-| `H.R. 3874` | Small Business Growth and Opportunity Act |
-| `H.R. 3912` | Naval Vessel Transfer Act of 2007 |
-| `H.R. 3914` | Protecting Consumers through Proper Forbearance Procedures Act |
-| `H.R. 3916` | Border Security Technology Innovation Act of 2008 |
-| `H.R. 3958` | Truth in Accounting Act of 2007 |
-| `H.R. 4104` | Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 |
-| `H.R. 4128` | Criminal Code Modernization and Simplification Act of 2007 |
-| `H.R. 4176` | Prevention of Unsafe Licensing Act |
-| `H.R. 422` | To establish the Office of Public Integrity as an independent office within the legislative branch of the Government, to reduce the duties of the Committee on Standards of Official Conduct of the House of Representatives and the Select Committee on Ethics of the Senate, and for other purposes. |
-| `H.R. 4266` | Katie Elise and Meghan Agnes Act |
-| `H.R. 4312` | To amend the Internal Revenue Code of 1986 to extend certain benefits applicable to the Gulf Opportunity Zone, and for other purposes. |
-| `H.R. 4460` | Health Care Choice Act of 2007 |
-| `H.R. 4507` | To extend the temporary reduction of duty on palm fatty acid distillate. |
-| `H.R. 4531` | To suspend temporarily the duty on S)-methyl 7-chloro-2,5-dihydro-2-ÝÝ(methoxy-carbonyl)Ý4(trifluorometho )phenyl¨amino¨-carbonyl¨indenoÝ1,2-e¨Ý1,3,4¨oxadiazine-4a-(3 H)-carboxylate (a.k.a. DPX-KN128, Indoxacarb), CAS Number 144171-61-9. |
-| `H.R. 4566` | To extend the temporary suspension of duty on 1, propene, 1,1,2,3,3,3-hexafluoro-, telomers with chlorotrifluoroethene, oxidized, reduced, ethyl ester, hydrolyzed. |
-| `H.R. 4779` | To enact certain laws relating to public contracts as title 41, United States Code, "Public Contracts". |
-| `H.R. 4780` | To enact title 51, United States Code, "National and Commercial Space Programs", as positive law. |
-| `H.R. 48` | To redesignate the White Rocks National Recreation Area in the State of Vermont as the "Robert T. Stafford White Rocks National Recreation Area". |
-| `H.R. 4856` | Liberty Bill Act |
-| `H.R. 4986` | National Defense Authorization Act for Fiscal Year 2008 |
-| `H.R. 5013` | To extend the temporary suspension of duty on artichokes, prepared or preserved otherwise than by vinegar or acetic acid, not frozen. |
-| `H.R. 5228` | Employee Changing Room Privacy Act |
-| `H.R. 5229` | Montgomery GI Bill Educational Assistance Transferability Act of 2008 |
-| `H.R. 5238` | Restoring the West's Fair Share Act of 2008 |
-| `H.R. 5423` | To extend and modify the suspension of duty on polyisobutylene. |
-| `H.R. 5509` | Noble Warrior Act |
-| `H.R. 5597` | Next Generation Homes Act of 2008 |
-| `H.R. 563` | Congressional Pardon for Border Patrol Agents Ramos and Compean Act |
-| `H.R. 5724` | United States-Colombia Trade Promotion Agreement Implementation Act |
-| `H.R. 6165` | End the Pain at the Pump Act of 2008 |
-| `H.R. 6246` | To require the Secretary of the Department of Homeland Security to establish an international registered traveler program that incorporates available technologies to expedite and enhance the security, screening, and processing of international travelers at United States borders, including United States citizens and lawful permanent residents, who enter and exit the United States, and for other purposes. |
-| `H.R. 6257` | Assault Weapons Ban Reauthorization Act of 2008 |
-| `H.R. 631` | Earmark Transparency and Accountability Act of 2007 |
-| `H.R. 648` | No Child Left Behind Improvements Act of 2007 |
-| `H.R. 6577` | Great Lakes-St. Lawrence River Basin Water Resources Compact |
-| `H.R. 6746` | Northwest Straits Marine Conservation Initiative Reauthorization and Expansion Act of 2008 |
-| `H.R. 6754` | White Mountain Apache Tribe Rural Water System Loan Authorization Act |
-| `H.R. 6828` | Export Control Improvements Act |
-| `H.R. 6866` | To direct the Secretary of the Interior to conduct a special resource study to evaluate the significance of the Newtown Battlefield located in Chemung County, New York, and the suitability and feasibility of its inclusion in the National Parks System, and for other purposes. |
-| `H.R. 6915` | Energy Efficient Vehicles Act |
-| `H.R. 708` | Trade Law Reform Act of 2007 |
-| `H.R. 76` | To amend the Internal Revenue Code of 1986 to increase the number vehicles for which the alternative motor vehicle credit is allowed. |
-| `H.R. 775` | Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq, 2007 |
-| `H.R. 89` | Combat-Related Special Compensation Act |
-| `H.R. 96` | Gun Show Loophole Closing Act of 2007 |
-| `H.R. 97` | Accountability and Transparency in Ethics Act |
-| `H.R. 98` | Illegal Immigration Enforcement and Social Security Protection Act of 2007 |
-| `H.Res. 1` | Electing officers of the House of Representatives. |
-| `H.Res. 102` | Condemning the assassination of human rights advocate and outspoken defender of freedom of the press, Turkish-Armenian journalist Hrant Dink on January 19, 2007. |
-| `H.Res. 1258` | Impeaching George W. Bush, President of the United States, of high crimes and misdemeanors. |
-| `H.Res. 1345` | Impeaching George W. Bush, President of the United States, of high crimes and misdemeanors. |
-| `H.Res. 1397` | Commending the important achievements of the National Coalition Against Domestic Violence as it celebrates 30 years of service to local domestic violence shelter and service programs and the victims of domestic violence. |
-| `H.Res. 14` | Amending the Rules of the House of Representatives to curtail the growth of Government programs. |
-| `H.Res. 169` | Amending the Rules of the House of Representatives to require that the lists of earmarks be made available to the general public on the Internet. |
-| `H.Res. 2` | To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk. |
-| `H.Res. 218` | Amending the Rules of the House of Representatives to require that, as of the date of adoption of this resolution, a proportional distribution of committee seats, staff, and financial resources be made. |
-| `H.Res. 249` | Amending the Rules of the House of Representatives to limit gifts to Members, officers, and employees of the House from State and local governments. |
-| `H.Res. 283` | Amending the Rules of the House of Representatives to prohibit the consideration of conference reports on omnibus appropriation bills. |
-| `H.Res. 3` | Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress. |
-| `H.Res. 333` | Impeaching Richard B. Cheney, Vice President of the United States, for high crimes and misdemeanors. |
-| `H.Res. 38` | To enhance intelligence oversight authority. |
-| `H.Res. 4` | Authorizing the Clerk to inform the President of the election of the Speaker and the Clerk. |
-| `H.Res. 40` | Amending the Rules of the House of Representatives to establish a minority bill of rights to require the House to be administered in a bipartisan manner and to require regular order in the legislative process. |
-| `H.Res. 48` | Amending the Rules of the House of Representatives by requiring transparency of record votes in the Committee on Rules. |
-| `H.Res. 50` | Amending the Rules of the House of Representatives to require the reduction of section 302(b) suballocations to reflect floor amendments to general appropriation bills. |
-| `H.Res. 6` | Adopting the Rules of the House of Representatives for the One Hundred Tenth Congress. |
-| `H.Res. 614` | Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules. |
-| `H.Res. 63` | Amending the Rules of the House of Representatives to ensure that Members have a reasonable amount of time to read legislation that will be voted upon. |
-| `H.Res. 73` | Electing Members to a certain standing committee of the House of Representatives. |
-| `H.Res. 77` | Amending the Rules of the House of Representatives to establish the Committee on Indian Affairs. |
-| `H.Res. 799` | Impeaching Richard B. Cheney, Vice President of the United States, of high crimes and misdemeanors. |
-| `H.Res. 884` | Heroes Earnings Assistance and Relief Tax Act of 2007 |
-| `H.Res. 91` | Demanding the return of the U.S.S. Pueblo to the United States Navy from North Korea. |
-| `H.Res. 92` | Amending the Rules of the House of Representatives to clarify and make corrections to the House ban on air travel. |
-| `S. 101` | Universal Service for Americans Act |
-| `S. 1042` | Consistency, Accuracy, Responsibility, and Excellence in Medical Imaging and Radiation Therapy Act of 2007 |
-| `S. 1049` | A bill to amend section 512 of the Merchant Marine Act, 1936. |
-| `S. 1072` | Federal Agency Environmental Responsibility Act |
-| `S. 1076` | Next Generation Air Transportation System Financing Reform Act of 2007 |
-| `S. 1077` | A bill to safely redeploy United States troops from Iraq. |
-| `S. 1087` | Fair Pay Act of 2007 |
-| `S. 1093` | New Homestead Act of 2007 |
-| `S. 1142` | Coastal and Estuarine Land Protection Act |
-| `S. 1178` | Identity Theft Prevention Act |
-| `S. 1208` | Social Security Account Number Protection Act |
-| `S. 1218` | Medicare for All Act |
-| `S. 1244` | Protecting America's Workers Act |
-| `S. 1256` | Small Business Lending Reauthorization and Improvements Act of 2007 |
-| `S. 1263` | Petroleum Consumer Price Gouging Protection Act |
-| `S. 1300` | Aviation Investment and Modernization Act of 2007 |
-| `S. 1305` | Support Our Troops Act of 2007 |
-| `S. 1342` | Healthy Lifestyles and Prevention America Act |
-| `S. 1453` | ITFA Extension Act of 2007 |
-| `S. 1492` | Broadband Data Improvement Act |
-| `S. 1493` | Advanced Information and Communications Technology Research Act |
-| `S. 1526` | Bright Idea Act of 2007 |
-| `S. 1527` | A bill to amend the Internal Revenue Code of 1986 to provide a tax credit for renovation and construction of manufacturing facilities for incandescent lamps. |
-| `S. 1570` | Truth in Employment Act of 2007 |
-| `S. 1578` | Ballast Water Management Act of 2007 |
-| `S. 1579` | Coastal Zone Enhancement Reauthorization Act of 2007 |
-| `S. 1580` | Coral Reef Conservation Amendments Act of 2007 |
-| `S. 1581` | Federal Ocean Acidification Research And Monitoring Act of 2007 |
-| `S. 1582` | Hydrographic Services Improvement Act Amendments of 2008 |
-| `S. 1583` | Coral Reef Ecosystem Conservation Amendments Act of 2007 |
-| `S. 1584` | Hydrographic Services Improvement Act Amendments of 2007 |
-| `S. 1594` | Maritime Hazardous Cargo Security Act |
-| `S. 1609` | National Offshore Aquaculture Act of 2007 |
-| `S. 1620` | Oil Pollution Prevention and Response Act of 2007 |
-| `S. 1625` | Counter Spy Act |
-| `S. 1632` | Vessel Conveyance Act |
-| `S. 1639` | A bill to provide for comprehensive immigration reform and for other purposes. |
-| `S. 1644` | Department of Homeland Security Appropriations Act, 2008 |
-| `S. 1645` | Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 |
-| `S. 1650` | Max Cleland Minority Serving Institution Digital and Wireless Technology Opportunity Act |
-| `S. 1661` | Travel Promotion Act of 2007 |
-| `S. 1686` | Legislative Branch Appropriations Act, 2008 |
-| `S. 1696` | Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008 |
-| `S. 1745` | Departments of Commerce and Justice, Science, and Related Agencies Appropriations Act, 2008 |
-| `S. 1749` | Crime Victims' Rights Rules Act of 2007 |
-| `S. 1751` | Energy and Water Development Appropriations Act, 2008 |
-| `S. 1769` | Same Number Act of 2007 |
-| `S. 1778` | Maritime Administration Authorities Act of 2007 |
-| `S. 1780` | Protecting Children from Indecent Programming Act |
-| `S. 1789` | Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2008 |
-| `S. 1815` | All-Terrain Vehicle Standards and Compliance Act of 2007 |
-| `S. 183` | Improved Passenger Automobile Fuel Economy Act of 2007 |
-| `S. 184` | Surface Transportation and Rail Security Act of 2007 |
-| `S. 1859` | Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2008 |
-| `S. 1889` | Railroad Safety Enhancement Act of 2007 |
-| `S. 1892` | Coast Guard Authorization Act for Fiscal Year 2008 |
-| `S. 1965` | Protecting Children in the 21st Century Act |
-| `S. 2033` | Cell Phone Consumer Empowerment Act of 2007 |
-| `S. 2037` | A bill to amend the Consumer Product Safety Act to make it unlawful to sell a recalled product, and for other purposes. |
-| `S. 2045` | CPSC Reform Act of 2007 |
-| `S. 2096` | Do-Not-Call Improvement Act of 2007 |
-| `S. 2113` | United States-Peru Trade Promotion Agreement Implementation Act |
-| `S. 2171` | Uniform Wireless Consumer Protection Act |
-| `S. 23` | Biofuels Security Act of 2007 |
-| `S. 2355` | Climate Change Adaptation Act |
-| `S. 2363` | Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008 |
-| `S. 2450` | A bill to amend the Federal Rules of Evidence to address the waiver of the attorney-client privilege and the work product doctrine. |
-| `S. 2469` | Protecting Consumers through Proper Forbearance Procedures Act |
-| `S. 2477` | Health Care Choice Act of 2007 |
-| `S. 2645` | Vessel Discharge Evaluation and Review Act |
-| `S. 2663` | CPSC Reform Act |
-| `S. 2686` | Complete Streets Act of 2008 |
-| `S. 2688` | Commercial Seafood Consumer Protection Act |
-| `S. 2699` | Oil Spill Prevention Act of 2008 |
-| `S. 280` | Climate Stewardship and Innovation Act of 2007 |
-| `S. 2830` | United States-Colombia Trade Promotion Agreement Implementation Act |
-| `S. 2831` | Federal Trade Commission Reauthorization Act of 2008 |
-| `S. 2854` | National Guard and Reserve Medical Readiness Act of 2008 |
-| `S. 2865` | Fisheries Capital Construction Fund Enhancement Act of 2008 |
-| `S. 2907` | International Fisheries Stewardship and Enforcement Act |
-| `S. 2919` | Signaling Modernization Act of 2008 |
-| `S. 2972` | Aviation Investment and Modernization Act of 2008 |
-| `S. 2997` | Maritime Administration Act for Fiscal Year 2009 |
-| `S. 3021` | Safe Truck Operations and Preservation Act |
-| `S. 3160` | National Sea Grant College Program Amendments Act of 2008 |
-| `S. 3174` | Port Authority of New York/New Jersey Port Security Task Force Implementation Act of 2008 |
-| `S. 3181` | Department of Homeland Security Appropriations Act, 2009 |
-| `S. 3182` | Commerce, Justice, Science, and Related Agencies Appropriations Act, 2009 |
-| `S. 3191` | Harmful Algal Blooms and Hypoxia Amendments Act of 2008 |
-| `S. 3198` | A bill to amend title 46, United States Code, with respect to the navigation of submersible or semi-submersible vessels without nationality. |
-| `S. 3199` | A bill to amend the Internal Revenue Code of 1986 to exempt certain shipping from the harbor maintenance tax. |
-| `S. 3204` | Cruise Vessel Security and Safety Act of 2008 |
-| `S. 3229` | Air Medical Service Safety Improvement Act of 2008 |
-| `S. 3230` | Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2009 |
-| `S. 3258` | Energy and Water Development and Related Agencies Appropriations Act, 2009 |
-| `S. 3260` | Financial Services and General Government Appropriations Act, 2009 |
-| `S. 3261` | Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2009 |
-| `S. 3270` | National Aeronautics and Space Administration Authorization Act of 2008 |
-| `S. 3274` | National Nanotechnology Initiative Amendments Act of 2008 |
-| `S. 3288` | Department of State, Foreign Operations, and Related Programs Appropriations Act, 2009 |
-| `S. 3289` | Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2009 |
-| `S. 3301` | Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2009 |
-| `S. 3333` | Whaling Convention Amendments Act of 2008 |
-| `S. 3431` | Time for Innovation Matters in Education Act of 2008 |
-| `S. 3491` | Telehealth for America Act of 2008 |
-| `S. 3536` | Air Carriage of International Mail Act |
-| `S. 357` | Ten-in-Ten Fuel Economy Act |
-| `S. 3598` | Drug Trafficking Vessel Interdiction Act of 2008 |
-| `S. 3604` | Economic Recovery Act, 2008 |
-| `S. 3660` | Residential Carbon Monoxide Poisoning Prevention Act |
-| `S. 3663` | Short-term Analog Flash and Emergency Readiness Act |
-| `S. 3667` | Prevention of Unreasonable Fees Act |
-| `S. 3674` | 21st Century Wellness Trust Act |
-| `S. 3689` | Economic Recovery Act of 2008 |
-| `S. 385` | Interoperable Emergency Communications Act |
-| `S. 386` | Cellulosic Ethanol Incentive Act of 2007 |
-| `S. 39` | Ocean and Coastal Exploration and NOAA Act (OCEAN Act) |
-| `S. 428` | IP-Enabled Voice Communications and Public Safety Act of 2007 |
-| `S. 477` | American Falls Reservoir District Number 2 Conveyance Act |
-| `S. 49` | Protecting Children in the 21st Century Act |
-| `S. 509` | Aviation Security Improvement Act |
-| `S. 586` | Community Health Workers Act of 2007 |
-| `S. 616` | HIPAA Recreational Injury Technical Correction Act |
-| `S. 624` | National Breast and Cervical Cancer Early Detection Program Reauthorization Act of 2007 |
-| `S. 641` | A bill to express the sense of Congress that no funds should be cut off or reduced for American troops in the field which would result in undermining their safety or their ability to complete their assigned missions. |
-| `S. 66` | A bill to require the Secretary of the Army to determine the validity of the claims of certain Filipinos that they performed military service on behalf of the United States during World War II. |
-| `S. 67` | A bill to amend title 10, United States Code, to permit former members of the Armed Forces who have a service-connected disability rated as total to travel on military aircraft in the same manner and to the same extent as retired members of the Armed Forces are entitled to travel on such aircraft. |
-| `S. 70` | A bill to restore the traditional day of observance of Memorial Day, and for other purposes. |
-| `S. 71` | A bill to amend title 10, United States Code, to authorize certain disabled former prisoners of war to use Department of Defense commissary and exchange stores. |
-| `S. 719` | Clean Railroads Act of 2007 |
-| `S. 780` | Protecting Consumer Phone Records Act |
-| `S. 781` | Do-Not-Call Registry Fee Extension Act of 2007 |
-| `S. 806` | Consumer ID Protection and Security Act |
-| `S. 897` | Alzheimer's Family Assistance Act of 2007 |
-| `S. 918` | Federal Railroad Safety Accountability and Improvement Act |
-| `S. 92` | Protecting Consumer Phone Records Act |
-| `S. 924` | Integrated Deepwater Program Reform Act |
-| `S. 93` | 911 Modernization Act |
-| `S. 94` | Gasoline Consumer Anti-price-gouging Protection Act |
-| `S. 950` | Coastal and Ocean Observation System Act of 2007 |
-| `S. 957` | Amniotic Fluid and Placental Stem Cell Banking Act of 2007 |
-| `S. 965` | U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 |
-| `S. 975` | A bill granting the consent and approval of Congress to an interstate forest fire protection compact. |
-| `S. 986` | Combat-Related Special Compensation Act of 2007 |
-| `S.Con.Res. 105` | A concurrent resolution directing the Clerk of the House of Representatives to correct the enrollment of H.R. 6063. |
-| `S.J.Res. 17` | A joint resolution directing the United States to initiate international discussions and take necessary steps with other Nations to negotiate an agreement for managing migratory and transboundary fish stocks in the Arctic Ocean. |
-| `S.J.Res. 45` | Great Lakes--St. Lawrence River Basin Water Resources Compact |
-| `S.Res. 104` | A resolution commending the national explosives detection canine team program for 35 years of service to the safety and security of the transportation systems within the United States. |
-| `S.Res. 132` | A resolution recognizing the Civil Air Patrol for 65 years of service to the United States. |
-| `S.Res. 208` | A resolution encouraging the elimination of harmful fishing subsidies that contribute to overcapacity in the world's commercial fishing fleet and lead to the overfishing of global fish stocks. |
-| `S.Res. 368` | A resolution expressing the sense of the Senate that, at the 20th Regular Meeting of the International Commission on the Conservation of Atlantic Tunas, the United States should pursue a moratorium on the eastern Atlantic and Mediterranean bluefin tuna fishery to ensure control of the fishery and further facilitate recovery of the stock, pursue strengthened conservation and management measures to facilitate the recovery of the Atlantic bluefin tuna, and seek a review of compliance by all Nations with the International Commission for the Conservation of Atlantic Tunas' conservation and management recommendation for Atlantic bluefin tuna and other species, and for other purposes. |
-| `S.Res. 433` | A resolution honoring the brave men and women of the United States Coast Guard whose tireless work, dedication, and selfless service to the United States have led to more than 1 million lives saved over the course of its long and storied 217-year history. |
-| `S.Res. 456` | A resolution directing the United States to undertake bilateral discussions with Canada to negotiate an agreement to conserve populations of large whales at risk of extinction that migrate along the Atlantic seaboard of North America. |
-| `S.Res. 489` | A resolution designating April 2008 as Public Radio Recognition Month. |
-| `S.Res. 54` | An original resolution authorizing expenditures by the Committee on Health, Education, Labor, and Pensions. |
-| `S.Res. 557` | A resolution supporting the goals and ideals of National Train Day. |
-| `S.Res. 58` | An original resolution authorizing expenditures by the Committee on Commerce, Science, and Transportation. |
-| `S.Res. 651` | A resolution honoring the National Aeronautics and Space Administration on the 50th anniversary of its establishment. |
