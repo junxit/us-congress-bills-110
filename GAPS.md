@@ -174,6 +174,16 @@ and can be checked against it.
 | the bill quotes the text struck but describes what replaces it | 4,789 |
 | the bill quotes text on both sides, but not as a single substitution this could carry out | 134 |
 
+**The rate varies enormously between Congresses, and that is upstream.**
+An instruction can only be placed if GPO tagged the citation it names,
+and whether they did is a fact about the year rather than about the
+bill: sampled at 1,500 documents per Congress, 64% of the 108th's carry
+a machine-readable US Code citation, 55% of the 113th's — and 5% of the
+111th's and 5% of the 112th's. So a Congress here may report a very low
+share carried out while the reading of it worked perfectly. Compare this
+table with a neighbouring Congress before concluding anything about the
+bills themselves.
+
 Counted on each measure's last committed version. An instruction
 usually survives from the introduced text to the enrolled one, so
 counting every version would report the same instruction several times.
