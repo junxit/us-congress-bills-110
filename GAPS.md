@@ -1,4 +1,4 @@
-# Measures without text — 110th Congress
+# What this repository does not hold — 110th Congress
 
 314 measures are recorded in BILLSTATUS but have no bill text
 linked in any of their `textVersions` entries, so they have no branch in
@@ -6,7 +6,7 @@ this repository.
 
 This is an upstream gap, not a build failure. It is heavily
 concentrated in the older Congresses: govinfo's coverage of bill text
-thins out before the 111th, and House organising resolutions -- electing
+thins out before the 111th, and House organizing resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
@@ -81,3 +81,72 @@ reader.
 | `H.R. 1992` | Decent Working Conditions and Fair Competition Act |
 | `H.R. 1994` | Financial Aid Accountability and Transparency Act of 2007 |
 | `H.R. 2031` | To safely redeploy United States troops from Iraq. |
+
+## Roll-call votes taken after the last published text
+
+256 roll calls were taken later than the most recent
+dated text version of their measure, so there is no commit for them to
+sit on. Every record in this repository is the record *as of* the version
+it accompanies -- see the caveat in the README -- and a vote cannot be
+written onto text that predates it.
+
+This is a limit of the shape of this repository, not an upstream gap and
+not a build failure. The votes themselves are published; they are listed
+here with the address the chamber serves them from.
+
+The complete list of 256 is in [`GAPS-late-votes.tsv`](GAPS-late-votes.tsv),
+which is tab-separated so it can be grepped and diffed without a
+Markdown reader. The first few:
+
+| Measure | Vote | When |
+|---|---|---|
+| `hconres-398` | Senate 110-2-196 | 2008-07-31, after the last version committed (2008-07-30) |
+| `hr-2` | Senate 110-1-20 | 2007-01-23, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-21 | 2007-01-23, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-22 | 2007-01-24, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-23 | 2007-01-24, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-24 | 2007-01-24, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-25 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-26 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-27 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-28 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-29 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-30 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-31 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-32 | 2007-01-25, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-34 | 2007-01-30, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-37 | 2007-01-31, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-38 | 2007-01-31, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-39 | 2007-01-31, after the last version committed (2007-01-11) |
+| `hr-2` | Senate 110-1-42 | 2007-02-01, after the last version committed (2007-01-11) |
+| `hr-6` | House 110-1-1177 | 2007-12-18, after the last version committed (2007-12-07) |
+| `hr-6` | Senate 110-1-425 | 2007-12-13, after the last version committed (2007-12-07) |
+| `hr-6` | Senate 110-1-430 | 2007-12-13, after the last version committed (2007-12-07) |
+| `hr-327` | House 110-1-987 | 2007-10-23, after the last version committed (2007-03-22) |
+| `hr-556` | House 110-1-614 | 2007-07-11, after the last version committed (2007-03-01) |
+| `hr-800` | Senate 110-1-227 | 2007-06-26, after the last version committed (2007-03-02) |
+| `hr-980` | Senate 110-2-126 | 2008-05-13, after the last version committed (2007-07-20) |
+| `hr-980` | Senate 110-2-127 | 2008-05-14, after the last version committed (2007-07-20) |
+| `hr-1585` | House 110-1-1127 | 2007-12-05, after the last version committed (2007-06-05) |
+| `hr-1585` | House 110-1-1128 | 2007-12-05, after the last version committed (2007-06-05) |
+| `hr-1585` | House 110-1-1151 | 2007-12-12, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-241 | 2007-07-11, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-242 | 2007-07-11, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-243 | 2007-07-11, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-244 | 2007-07-11, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-245 | 2007-07-12, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-246 | 2007-07-12, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-247 | 2007-07-13, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-248 | 2007-07-17, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-252 | 2007-07-18, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-340 | 2007-09-19, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-341 | 2007-09-19, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-342 | 2007-09-19, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-343 | 2007-09-20, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-344 | 2007-09-20, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-345 | 2007-09-20, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-346 | 2007-09-21, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-348 | 2007-09-26, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-349 | 2007-09-26, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-350 | 2007-09-27, after the last version committed (2007-06-05) |
+| `hr-1585` | Senate 110-1-351 | 2007-09-27, after the last version committed (2007-06-05) |
