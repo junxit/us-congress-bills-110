@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 71
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 71
+
+> To amend the Federal Election Campaign Act of 1971 to repeal the requirement that persons making disbursements for electioneering communications file reports on such disbursements with the Federal Election Commission and the prohibition against the making of disbursements for electioneering communications by corporations and labor organizations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “First Amendment Restoration Act”.
+
+## § 2. Repeal of Certain Requirements Relating to Electioneering Communications
+
+- **(a)** *Disclosure of Disbursements for Communications* Section 304(f) of the Federal Election Campaign Act of 1971 (2 U.S.C. 434(f)) is amended by adding at the end the following new paragraph:
+  > - **(8)** *Termination of reporting requirement* No person shall be required to file any statement under this subsection with respect to any disbursement made on or after November 6, 2002.
+
+- **(b)** *Prohibition Against Making of Disbursements for Communications by Corporations and Labor Organizations* Section 316 of such Act (2 U.S.C. 441b) is amended—
+  - **(1)** in subsection (b)(2), by striking “or for any applicable electioneering communication”; and
+  - **(2)** by striking subsection (c).
+- **(c)** *Treatment of Coordinated Communications as Contributions* Section 315(a)(7) of such Act (2 U.S.C. 441a(a)(7)) is amended—
+  - **(1)** by striking subparagraph (C); and
+  - **(2)** by redesignating subparagraph (D) as subparagraph (C).
+
+## § 3. Effective Date
+
+The amendments made by this Act shall take effect as if included in the enactment of the Bipartisan Campaign Reform Act of 2002.
