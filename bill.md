@@ -1,0 +1,71 @@
+---
+legis-num: H.R. 279
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 279
+
+> To amend title II of the Social Security Act to provide for Congressional oversight and approval of totalization agreements.
+
+## § 1. Short title
+
+This Act may be cited as the “Social Security Totalization Agreement Reform Act of 2007”.
+
+## § 2. Transmittal and approval of totalization agreements
+
+- **(a)** *In general* Section 233(e) of the Social Security Act (42 U.S.C. 433(e)) is amended to read as follows:
+  > - **(e)**
+  >   - **(1)** Any agreement to establish a totalization arrangement which is entered into with another country under this section shall enter into force with respect to the United States if (and only if)—
+  >     - **(A)** the President, at least 90 calendar days before the date on which the President enters into the agreement, notifies each House of the Congress of the President’s intention to enter into the agreement, and promptly thereafter publishes notice of such intention in the Federal Register,
+  >     - **(B)** the President transmits the text of such agreement to each House of the Congress as provided in paragraph (2), and
+  >     - **(C)** an approval resolution regarding such agreement has passed both Houses of the Congress and has been enacted into law.
+  >   - **(2)**
+  >     - **(A)** Whenever an agreement referred to in paragraph (1) is entered into, the President shall transmit to each House of the Congress a document setting forth the final legal text of such agreement and including a report by the President in support of such agreement. The President’s report shall include the following:
+  >       - **(i)** an estimate by the Chief Actuary of the Social Security Administration of the effect of the agreement, in the short term and in the long term, on the receipts and disbursements under the social security system established by this title;
+  >       - **(ii)** a statement of any administrative action proposed to implement the agreement and how such action will change or affect existing law,
+  >       - **(iii)** a statement describing whether and how the agreement changes provisions of an agreement previously negotiated,
+  >       - **(iv)** a statement describing how and to what extent the agreement makes progress in achieving the purposes, policies, and objectives of this title,
+  >       - **(v)** an estimate by the Chief Actuary of the Social Security Administration, working in consultation with the Comptroller General of the United States, of the numbers of individuals who may become eligible for any benefits under this title by reason of the agreement or who may otherwise be affected by the agreement,
+  >       - **(vi)** an assessment of the integrity of the retirement data and records (including birth, death, and marriage records) of the other country that is a party to the agreement, and
+  >       - **(vii)** an assessment of the ability of such other country to track and monitor recipients of benefits affected by such agreement.
+  >     - **(B)** If any separate agreement or other understanding with another country (whether oral or in writing) relating to an agreement to establish a totalization arrangement under this section is not disclosed to the Congress in the transmittal to the Congress under this paragraph of the agreement to establish a totalization arrangement, then such separate agreement or understanding shall not be considered to be part of the agreement approved by the Congress under this section and shall have no force and effect under United States law.
+  >   - **(3)** For purposes of this subsection, the term “approval resolution” means a joint resolution, the matter after the resolving clause of which is as follows: “That the proposed agreement entered into pursuant to section 233 of the Social Security Act between the United States and _______ establishing totalization arrangements between the social security system established by title II of such Act and the social security system of _______, transmitted to the Congress by the President on ______, is hereby approved.”, the first two blanks therein being filled with the name of the country with which the United States entered into the agreement, and the third blank therein being filled with the date of the transmittal of the agreement to the Congress.
+  >   - **(4)** The succeeding paragraphs of this subsection are enacted by the Congress—
+  >     - **(A)** as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of disapproval resolutions and approval resolutions, and they supersede other rules only to the extent that they are inconsistent therewith; and
+  >     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+  >   - **(5)**
+  >     - **(A)** Whenever a document setting forth an agreement entered into under this section and the President’s report in support of the agreement is transmitted to the Congress pursuant to paragraph (2), copies of such document shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
+  >   - **(6)**
+  >     - **(A)** On the day on which a document setting forth the agreement is transmitted to the House of Representatives and the Senate pursuant to paragraph (1), an approval resolution with respect to such agreement shall be introduced (by request) in the House by the majority leader of the House, for himself or herself and the minority leader of the House, or by Members of the House designated by the majority leader and minority leader of the House; and shall be introduced (by request) in the Senate by the majority leader of the Senate, for himself or herself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such an agreement is transmitted, the approval resolution with respect to such agreement shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session. The resolution introduced in the House of Representatives shall be referred to the Committee on Ways and Means and the resolution introduced in the Senate shall be referred to the Committee on Finance.
+  >     - **(B)** No amendment to the approval resolution shall be in order in either the House of Representatives or the Senate; and no motion to suspend the application of this clause shall be in order in either House, nor shall it be in order in either House for the Presiding Officer to entertain a request to suspend the application of this clause by unanimous consent.
+  >     - **(C)** If the committee of either House to which an approval resolution has been referred has not reported it at the close of the 45th day after its introduction, such committee shall be automatically discharged from further consideration of the resolution and it shall be placed on the appropriate calendar. A vote on final passage of the resolution shall be taken in each House on or before the close of the 15th day after the resolution is reported by the committee of that House to which it was referred, or after such committee has been discharged from further consideration of the resolution.
+  >     - **(D)**
+  >       - **(i)** On or after the third day after the date on which the committee to which the approval resolution is referred has reported, or has been discharged from further consideration of, such resolution, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. A Member may make the motion only on the day after the calendar day on which the Member announces to the respective House the Member’s intention to make the motion, except that, in the case of the House of Representatives, the motion may be made without such prior announcement if the motion is made by direction of the Committee on Ways and Means. All points of order against the approval resolution (and against consideration of the resolution) are waived. The motion is highly privileged in the House of Representatives and is privileged in the Senate and is not debatable. The motion is not subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the respective House shall immediately proceed to consideration of the approval resolution without intervening motion, order, or other business, and the resolution shall remain the unfinished business of the respective House until disposed of.
+  >       - **(ii)** Debate on the approval resolution, and on all debatable motions and appeals in connection with the resolution, shall be limited to not more than 20 hours, which shall be divided equally between those favoring and those opposing the resolution. An amendment to the resolution is not in order. A motion further to limit debate is in order and not debatable. A motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order.
+  >       - **(iii)** Immediately following the conclusion of the debate in the respective House on the approval resolution and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the respective House, the vote on final passage of the resolution shall occur.
+  >       - **(iv)** Appeals from the decisions of the Presiding Officer relating to the application of the rules of the respective House to the procedure relating to the approval resolution shall be decided without debate.
+  >       - **(v)** A motion to reconsider the vote by which the approval resolution is agreed to or disagreed to is not in order.
+  >     - **(E)** For purposes of this paragraph, in computing a number of days in either House, there shall be excluded any day on which that House is not in session.
+  >   - **(7)**
+  >     - **(A)** If, before the passage by one House of an approval resolution of that House, that House receives an approval resolution from the other House, then the following procedures shall apply:
+  >       - **(i)** The approval resolution of the other House shall not be referred to a committee and may not be considred in the House receiving it except in the case of final passage as provided in clause (ii)(II).
+  >       - **(ii)** With respect to an approval resolution of the House receiving the resolution—
+  >         - **(I)** the procedure in that House shall be the same as if no resolution had been received from the other House, and
+  >         - **(II)** the vote on final passage shall be on the resolution of the other House.
+  >     - **(B)** Upon disposition of the resolution received from the other House, it shall no longer be in order to consider the resolution that originated in the receiving House.
+
+- **(b)** *Additional reports and evaluations* Section 233 of such Act is amended further by adding at the end the following new subsections:
+  > - **(f)** *Biennial SSA report on impact of totalization agreements* Not later than 2 years after the effective date of each totalization agreement that is transmitted to the Congress pursuant to subsection (e), and biennially thereafter, the Commissioner of Social Security shall submit to each House of the Congress and to the Comptroller General a report relating to such agreement. Such report shall—
+  >   - **(1)** compare the estimates contained in the report submitted to Congress under clauses (i) and (v) of subsection (e)(2)(A) with respect to that agreement with the actual number of individuals affected by the agreement and the actual effect of the agreement on receipts and disbursements of the social security system established by this title; and
+  >   - **(2)** contain recommendations for adjusting the methods used to make the estimates.
+  > - **(g)** *GAO evaluation and report*
+  >   - **(1)** *Evaluation of initial report on impact of totalization agreements* With respect to each initial report regarding a totalization agreement submitted under subsection (f), the Comptroller General of the United States shall conduct an evaluation of the report that includes—
+  >     - **(A)** an evaluation of the procedures used for making the estimates required by subsection (e)(2)(A);
+  >     - **(B)** an evaluation of the procedures used for determining the actual number of individuals affected by the agreement and the effects of the totalization agreement on receipts and disbursements under the social security system established by this title; and
+  >     - **(C)** such recommendations as the Comptroller General determines appropriate.
+  >   - **(2)** *Report* Not later than 1 year after the date of the submission of an initial report regarding a totalization agreement under subsection (f), the Comptroller General shall submit to Congress a report setting forth the results of the evaluation conducted under paragraph (1).
+  >   - **(3)** *Data collection* The Commissioner of Social Security shall collect and maintain the data necessary for the Comptroller General of the United States to conduct the evaluation required by paragraph (1).
+
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to agreements establishing totalization arrangements entered into under section 233 of the Social Security Act with are transmitted to the Congress on or after January 1, 2007.
