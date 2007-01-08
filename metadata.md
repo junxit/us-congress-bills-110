@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 1
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 1
@@ -16,6 +16,10 @@ Regarding consent to assemble outside the seat of government.
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
+## Committees (1)
+
+- Senate — Rules and Administration Committee
+
 ## Actions
 
 - 2007-01-04 — Considered as privileged matter. (consideration: CR H40)
@@ -24,3 +28,4 @@ Regarding consent to assemble outside the seat of government.
 - 2007-01-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-01-04 — On agreeing to the resolution Agreed to without objection. (text: CR H40)
 - 2007-01-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H40)
+- 2007-01-08 — Received in the Senate and referred to the Committee on Rules and Administration.
