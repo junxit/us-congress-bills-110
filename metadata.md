@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 19
 congress: 110
-version: Held at Desk Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 19
@@ -122,3 +122,7 @@ A resolution honoring President Gerald Rudolph Ford.
 
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Submitted in the Senate and ordered held at desk. (text of measure as introduced: CR S189)
+- 2007-01-08 — Measure laid before Senate by unanimous consent. (consideration: CR S210-211)
+- 2007-01-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 88 - 0. Record Vote Number: 1.(text as passed Senate:  CR S211)
+- 2007-01-08 — Resolution agreed to in Senate without amendment and with a preamble by Yea-Nay Vote. 88 - 0. Record Vote Number: 1. (text as passed Senate:  CR S211)
+- 2007-01-08 — The preamble was modified by Unanimous Consent.
