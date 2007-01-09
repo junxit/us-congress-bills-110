@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1
@@ -16,7 +16,7 @@ Implementing Recommendations of the 9/11 Commission Act of 2007
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Cosponsors (201)
+## Cosponsors (205)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
@@ -219,6 +219,26 @@ Implementing Recommendations of the 9/11 Commission Act of 2007
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Mollohan, Alan B. [D-WV-1] (M000844)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+
+## Committees (8)
+
+- House — Ways and Means Committee
+- House — Oversight and Accountability Committee
+- House — Transportation and Infrastructure Committee
+- House — Foreign Affairs Committee
+- House — Intelligence (Permanent Select) Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
+- House — Homeland Security Committee
+
+## Recorded votes (2)
+
+- 2007-01-09 — [House 110-1-14](votes/house-110-1-0014.md) — On Motion to Recommit with Instructions — **Failed** (198–230)
+- 2007-01-09 — [House 110-1-15](votes/house-110-1-0015.md) — On Passage — **Passed** (299–128)
 
 ## Actions
 
@@ -234,3 +254,17 @@ Implementing Recommendations of the 9/11 Commission Act of 2007
 - 2007-01-05 — Referred to the Committee on Homeland Security, and in addition to the Committees on Energy and Commerce, the Judiciary, Intelligence (Permanent Select), Foreign Affairs, Transportation and Infrastructure, Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-05 — Referred to the Committee on Homeland Security, and in addition to the Committees on Energy and Commerce, the Judiciary, Intelligence (Permanent Select), Foreign Affairs, Transportation and Infrastructure, Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-05 — Sponsor introductory remarks on measure. (CR E37-38)
+- 2007-01-09 — Considered as unfinished business. (consideration: CR H209-222)
+- 2007-01-09 — Considered pursuant to H. Res. 6. (consideration: CR H132-199)
+- 2007-01-09 — DEBATE - Pursuant to the provisions of H. Res. 6, the House proceeded with 3 hours of debate on H.R. 1.
+- 2007-01-09 — DEBATE - The House resumed debate on H.R. 1.
+- 2007-01-09 — Floor summary: DEBATE - The House proceeded with ten minutes of debate on the motion to recommit with instructions on H.R.1. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments which extend and clarify U.S. policy with respect to Homeland Security.
+- 2007-01-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-09 — Ms. Ros-Lehtinen moved to recommit with instructions to Foreign Affairs.
+- 2007-01-09 — On motion to recommit with instructions Failed by recorded vote: 198 - 230 (Roll no. 14).
+- 2007-01-09 — On passage Passed by recorded vote: 299 - 128 (Roll no. 15). (text: CR H132-161)
+- 2007-01-09 — Passed/agreed to in House: On passage Passed by recorded vote: 299 - 128 (Roll no. 15).(text: CR H132-161)
+- 2007-01-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-01-09 — The previous question on the motion to recommit with instructions was ordered without objection. (text: CR H219-220)
+- 2007-01-09 — The previous question was ordered pursuant to the rule. (consideration: CR H219)
+- 2007-01-09 — UNFINISHED BUSINESS - The House left H.R. 1 as unfinished business and moved to consideration of H. Res. 35. Consideration of H.R. 1 will resume later in the legislative day.
