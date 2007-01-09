@@ -1,7 +1,7 @@
 ---
 measure: S. 197
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 197
@@ -23,8 +23,15 @@ A bill to authorize salary adjustments for justices and judges of the United Sta
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Cornyn, John [R-TX] (C001056)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2007-01-08 — Introduced in Senate
 - 2007-01-08 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration:  CR S219; text as passed Senate: CR S219)
 - 2007-01-08 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration:  CR S219; text as passed Senate: CR S219)
+- 2007-01-09 — Message on Senate action sent to the House.
+- 2007-01-09 — Received in the House.
+- 2007-01-09 — Referred to the House Committee on the Judiciary.
