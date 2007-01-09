@@ -1,0 +1,52 @@
+---
+legis-num: H.R. 333
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 333
+
+> To amend title 10, United States Code, to permit retired members of the Armed Forces who have a service-connected disability rated less than 50 percent to receive concurrent payment of both retired pay and veterans’ disability compensation, to eliminate the phase-in period for concurrent receipt, to extend eligibility for concurrent receipt and combat-related special compensation to chapter 61 disability retirees with less than 20 years of service, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Disabled Veterans Tax Termination Act”.
+
+## § 2. Concurrent receipt of both retired pay and veterans’ disability compensation for military retirees with compensable service-connected disabilities
+
+- **(a)** *Inclusion of Retirees With Service-Connected Disabilities Rated Less Than 50 Percent* Subsection (a) of section 1414 of title 10, United States Code, is amended—
+  - **(1)** by striking “Compensation” in the subsection heading and all that follows through “Subject” and inserting “Compensation.—Subject”;
+  - **(2)** by striking “qualifying service-connected disability” and inserting “service-connected disability”; and
+  - **(3)** by striking paragraph (2).
+- **(b)** *Repeal of Phase-In of Concurrent Receipt of Retired Pay and Veterans’ Disability Compensation* Such section is further amended—
+  - **(1)** in subsection (a), as amended by subsection (a) of this section, by striking the final sentence;
+  - **(2)** by striking subsection (c) and redesignating subsections (d) and (e) as subsections (c) and (d), respectively; and
+  - **(3)** in subsection (d), as so redesignated, by striking paragraphs (3) and (4).
+- **(c)** *Inclusion of disability retirees with less than 20 years of service* Subsection (b) of such section is amended—
+  - **(1)** in paragraph (1), by striking “member retired” and inserting “qualified retiree who is retired”; and
+  - **(2)** by striking paragraph (2) and inserting the following new paragraph:
+    > - **(2)** *Disability retirees with less than 20 years of service* The retired pay of a qualified retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service is subject to reduction under sections 5304 and 5305 of title 38, but only by the amount (if any) by which the amount of the member’s retired pay under such chapter exceeds the amount equal to 2½ percent of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+
+- **(d)** *Clerical Amendments*
+  - **(1)** *Section heading* The heading for such section is amended to read as follows:
+    > ## § 1414. Members eligible for retired pay who are also eligible for veterans’ disability compensation: concurrent payment of retired pay and disability compensation
+
+  - **(2)** *Table of sections* The item relating to such section in the table of sections at the beginning of chapter 71 of such title is amended to read as follows:
+- **(e)** *Conforming amendment* Section 1413a(f) of such title is amended by striking “Subsection (d)” and inserting “Subsection (c)”.
+- **(f)** *Effective Date* The amendments made by this section shall take effect on the first day of the first month beginning after the date of the enactment of this Act and shall apply to payments for months beginning on or after that date.
+
+## § 3. Availability of combat-related special compensation eligibility for chapter 61 military retirees with less than 20 years of service
+
+- **(a)** *Eligibility* Subsection (c) of section 1413a of title 10, United States Code, is amended by striking “entitled to retired pay who_” and all that follows through the end of paragraph (1) and inserting
+  > who_
+  > - **(1)** is entitled to retired pay (other than by reason of section 12731b of this title); and
+
+- **(b)** *Computation* Paragraph (3) of subsection (b) of such section is amended—
+  - **(1)** by striking “In the case of” and inserting the following:
+    > - **(A)** *In general* In the case of
+
+  - **(2)** by adding at the end the following new subparagraph:
+    > - **(B)** *Retirees with fewer than 20 years of service* In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month shall be reduced by the amount (if any) by which the amount of the member’s retired pay under chapter 61 of this title exceeds the amount equal to 2½ percent of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+
+- **(c)** *Effective date* The amendments made by this section shall take effect on the first day of the first month beginning after the date of the enactment of this Act and shall apply to payments for months beginning on or after that date.
