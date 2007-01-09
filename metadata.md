@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1
@@ -224,7 +224,7 @@ Implementing Recommendations of the 9/11 Commission Act of 2007
 - Rep. Mollohan, Alan B. [D-WV-1] (M000844)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 
-## Committees (8)
+## Committees (11)
 
 - House — Ways and Means Committee
 - House — Oversight and Accountability Committee
@@ -234,6 +234,9 @@ Implementing Recommendations of the 9/11 Commission Act of 2007
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Commerce, Science, and Transportation Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -263,3 +266,59 @@ Implementing Recommendations of the 9/11 Commission Act of 2007
 - 2007-01-09 — The previous question on the motion to recommit with instructions was ordered without objection. (text: CR H219-220)
 - 2007-01-09 — The previous question was ordered pursuant to the rule. (consideration: CR H219)
 - 2007-01-09 — UNFINISHED BUSINESS - The House left H.R. 1 as unfinished business and moved to consideration of H. Res. 35. Consideration of H.R. 1 will resume later in the legislative day.
+- 2007-07-09 — Measure laid before Senate by unanimous consent. (consideration: CR S8760-8761)
+- 2007-07-09 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-07-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-07-09 — See also S.4.
+- 2007-07-09 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S8760)
+- 2007-07-09 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S8760)
+- 2007-07-09 — Senate appointed conferee(s) Biden; Lugar from the Committee on Foreign Relations.
+- 2007-07-09 — Senate appointed conferee(s) Dodd; Shelby from the Committee on Banking, Housing, and Urban Affairs.
+- 2007-07-09 — Senate appointed conferee(s) Lieberman; Levin; Akaka; Carper; Pryor; Collins; Voinovich; Coleman; Coburn.
+- 2007-07-09 — Senate appointed conferee(s) Stevens; Inouye from the Committee on Commerce, Science, and Transportation.
+- 2007-07-09 — Senate insisted on its amendment, requested a conference. (consideration: CR S8760)
+- 2007-07-09 — Senate struck all after the Enacting Clause and substituted the language of S.4 amended. (consideration: CR S8760-8761, S8881)
+- 2007-07-10 — Message on Senate action sent to the House.
+- 2007-07-17 — DEBATE - The House proceeded with one hour of debate on the Blackburn motion to instruct conferees on H.R. 1. The instructions contained in the motion seek to require the managers on the part of the House to agree to section 1455 of the Senate amendment.
+- 2007-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-17 — Mr. Thompson (MS) moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H7868-7871, H7873, H7878)
+- 2007-07-17 — Mrs. Blackburn moved that the House instruct conferees. (consideration: CR H7869)
+- 2007-07-17 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote. (consideration: CR H7869-7871, H7873)
+- 2007-07-17 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 354 - 66 (Roll no. 635). (consideration: CR H7873)
+- 2007-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn motion to instruct conferees, the chair put the question on adoption of the motion and by voice vote announced the noes had prevailed. Mrs. Blackburn demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until later in the legislative day.
+- 2007-07-17 — The Speaker appointed a conferee for consideration of Title II of the House bill, and Title III and subtitle C of title XIV of the Senate amendment, and modifications committed to conference: Larson (CT).
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of secs. 1202, 1211, 1221, 1232, 1233, and 1241 of the House bill, and section 703 of the Senate amendment, and modifications committed to conference: Skelton, Spratt, and Saxton.
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of Title I, Title II, secs. 743 and 901 of the House bill, and Title III, secs. 1002, 1481, 1482, 1484, and Title XVII of the Senate amendment, and modifications committed to conference: Dingell, Markey, and Barton (TX).
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 601, 1202, 1211, 1221, 1222, 1232, 1233, 1241, 1302, 1311, 1312, 1322, 1323, 1331-1333, 1412, 1414, 1422, 1431, and 1441-1443 of the House bill, and secs. 502, 1301, Title XVIII, secs. 1911-1913, and 1951 of the Senate amendment, and modifications committed to conference: Lantos, Ackerman, and Ros-Lehtinen.
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on Homeland Security for consideration of the House bill and the Senate amendment, and modifications committed to conference: Thompson (MS), Sanchez, Loretta, Dicks, Harman, Lowey, Jackson-Lee (TX), Christensen, Etheridge, Langevin, Cuellar, Green, Al, Perlmutter, King (NY), Smith (TX), Souder, Davis, Tom, Lungren, Daniel E., Rogers (AL), McCaul (TX), Dent, and Brown-Waite, Ginny.
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of sec. 408 and subtitle A of title VIII of the House bill, and secs. 114, 601, 602, 903, 904, 1203, 1205, and 1601 of the Senate amendment, and modifications committed to conference: Waxman, Clay, and Issa.
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on Science and Technology for consideration of secs. 703, 1301, 1464, 1467, and 1507 of the Senate amendment, and modifications committed to conference: Gordon, Wu, and Gingrey.
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of Titles I-III, sec. 1002, and Title XI of the House bill, and secs. 202, 301, Title IV, secs. 801-803, 807, 901, 1001, 1002, 1101-1103, 1422-1424, 1426, 1427, 1429, 1430, 1433, 1436-1438, 1441, 1443, 1444, 1446, 1449, 1464, 1473, 1503, and 1605 of the Senate amendment, and modifications committed to conference: Oberstar, DeFazio, and Mica.
+- 2007-07-17 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 406, 501, 601, 702, and Title VIII of the House bill, and secs. 123, 501-503, 601-603, 1002, and 1432 of the Senate amendment, and modifications committed to conference: Conyers, Lofgren, Zoe, and Sensenbrenner.
+- 2007-07-17 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of secs. 601, 712, 723, 732, 733, 741, 742, and subtitle A of title VIII of the House bill, and secs. 111-113, 121, 122, 131, 502, 601, 602, 703, 1201-1203, 1205, 1206, and 1606 of the Senate amendment, and modifications committed to conference: Reyes, Cramer, and Hoekstra.
+- 2007-07-17 — The previous question was ordered without objection. (consideration: CR H7871)
+- 2007-07-25 — Conference report H. Rept. 110-259 filed. (text of conference report:  CR H8496-8605)
+- 2007-07-25 — Conference report filed: Conference report H. Rept. 110-259 filed.(text of conference report:  CR H8496-8605)
+- 2007-07-25 — Rules Committee Resolution H. Res. 567 Reported to House. Rule provides for consideration of the conference report to H.R. 1 with 1 hour of general debate. All points of order against the conference report and against its consideration are waived.
+- 2007-07-26 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 85 - 8. Record Vote Number: 284.
+- 2007-07-26 — Conference report considered in Senate. (consideration: CR S10115-10117)
+- 2007-07-26 — Motion by Senator DeMint to recommit to conference with instructions made in Senate.
+- 2007-07-26 — Motion by Senator DeMint to recommit to conference with instructions rejected in Senate by Yea-Nay Vote. 26 - 67. Record Vote Number: 283.
+- 2007-07-26 — Senate agreed to conference report by Yea-Nay Vote. 85 - 8. Record Vote Number: 284.
+- 2007-07-27 — Cleared for White House.
+- 2007-07-27 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 371 - 40 (Roll no. 757).
+- 2007-07-27 — DEBATE - The House proceeded with 1 hour of debate on the conference report to accompany H.R. 1.
+- 2007-07-27 — Message on Senate action sent to the House.
+- 2007-07-27 — Motions to reconsider laid on the table Agreed to without objection.
+- 2007-07-27 — Mr. Thompson (MS) brought up conference report H. Rept. 110-259 for consideration under the provisions of H. Res. 567. (consideration: CR H8797-8812)
+- 2007-07-27 — On agreeing to the conference report Agreed to by the Yeas and Nays: 371 - 40 (Roll no. 757).
+- 2007-07-27 — Rule H. Res. 567 passed House.
+- 2007-07-27 — The previous question was ordered without objection. (consideration: CR H8812)
+- 2007-08-01 — Presented to President.
+- 2007-08-01 — Presented to President.
+- 2007-08-03 — Became Public Law No: 110-53.
+- 2007-08-03 — Became Public Law No: 110-53.
+- 2007-08-03 — Signed by President.
+- 2007-08-03 — Signed by President.
+- 2007-10-16 — Committee on Commerce, Science, and Transportation. Hearings held.
+- 2008-02-28 — Committee on the Judiciary. Hearings held.
