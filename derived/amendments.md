@@ -1,7 +1,7 @@
 ---
 measure: S. 198
 congress: 110
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 

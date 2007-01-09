@@ -1,7 +1,7 @@
 ---
 measure: S. 198
 congress: 110
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 198
@@ -25,3 +25,6 @@ Nunn-Lugar Cooperative Threat Reduction Act of 2007
 - 2007-01-08 — Introduced in Senate
 - 2007-01-08 — Read twice and referred to the Committee on Foreign Relations.
 - 2007-01-08 — Sponsor introductory remarks on measure. (CR S237-238)
+- 2007-01-09 — Referred to the Committee on Armed Services.
+- 2007-01-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2007-01-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
