@@ -1,0 +1,15 @@
+---
+legis-num: S. 219
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 219
+
+> To designate the facility of the United States Postal Service located at 152 North 5th Street in Laramie, Wyoming, as the “Gale W. McGee Post Office”.
+
+## § 1. Gale W. McGee Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 152 North 5th Street in Laramie, Wyoming, shall be known and designated as the “Gale W. McGee Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Gale W. McGee Post Office”.
