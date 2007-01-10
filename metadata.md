@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2
@@ -16,7 +16,7 @@ Fair Minimum Wage Act of 2007
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (214)
+## Cosponsors (222)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
@@ -232,10 +232,24 @@ Fair Minimum Wage Act of 2007
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Mollohan, Alan B. [D-WV-1] (M000844)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Weller, Jerry [R-IL-11] (W000273)
+- Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (3)
+
+- 2007-01-10 — [House 110-1-16](votes/house-110-1-0016.md) — On Motion to Table the Appeal of the Ruling of the Chair — **Passed** (232–197)
+- 2007-01-10 — [House 110-1-17](votes/house-110-1-0017.md) — On Motion to Recommit with Instructions — **Failed** (144–287)
+- 2007-01-10 — [House 110-1-18](votes/house-110-1-0018.md) — On Passage — **Passed** (315–116)
 
 ## Actions
 
@@ -243,3 +257,23 @@ Fair Minimum Wage Act of 2007
 - 2007-01-05 — Introduced in House
 - 2007-01-05 — Referred to the House Committee on Education and Labor.
 - 2007-01-05 — Sponsor introductory remarks on measure. (CR E32)
+- 2007-01-10 — Considered as unfinished business. (consideration: CR H289-308)
+- 2007-01-10 — Considered pursuant to H. Res. 6. (consideration: CR H260-288)
+- 2007-01-10 — DEBATE - Pursuant to the provisions of H. Res. 6, the House proceeded with 3 hours of debate on H.R. 2.
+- 2007-01-10 — DEBATE - The House continued with debate on H.R. 2.
+- 2007-01-10 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new subsection relating to minimum wage for employers providing employees certain health care benefits.
+- 2007-01-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-10 — Mr. McKeon appealed the ruling of the chair.
+- 2007-01-10 — Mr. McKeon moved to recommit with instructions to Education and Labor. (consideration: CR H298-305; text: CR H298-305)
+- 2007-01-10 — Mr. McKeon moved to recommit with instructions to Education and Labor. (consideration: CR H306-307)
+- 2007-01-10 — Mr. Miller, George moved to table the motion to appeal the ruling of the chair (consideration: CR H305-306)
+- 2007-01-10 — Mr. Miller, George raised a point of order against the motion to recommit with instructions. Mr. George Miller stated that provisions contained in the motion to recommit with instructions are outside the parameters of the bill and are not germane. Sustained by the Chair.
+- 2007-01-10 — On motion to recommit with instructions Failed by recorded vote: 144 - 287 (Roll no. 17).
+- 2007-01-10 — On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 232 - 197 (Roll no. 16).
+- 2007-01-10 — On passage Passed by recorded vote: 315 - 116 (Roll no. 18). (text: CR H260)
+- 2007-01-10 — Passed/agreed to in House: On passage Passed by recorded vote: 315 - 116 (Roll no. 18).(text: CR H260)
+- 2007-01-10 — Point of order sustained against the motion to recommit with instructions. (consideration: CR H305)
+- 2007-01-10 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-01-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H307)
+- 2007-01-10 — The previous question was ordered pursuant to the rule. (consideration: CR H298)
+- 2007-01-10 — UNFINISHED BUSINESS - Pursuant to the provisions of H.Res. 6, the Chair announced that further consideration of H.R. 2 will continue later in the legislative day.
