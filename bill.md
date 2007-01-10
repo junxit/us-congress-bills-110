@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 374
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 374
+
+> To make 2 percent across-the-board rescissions in non-defense, non-homeland-security discretionary spending for fiscal year 2007.
+
+## § 1. Across-the-board rescissions in non-defense, non-homeland-security discretionary spending for fiscal year 2007
+
+- **(a)** *Across-the-board rescissions* There is hereby rescinded an amount equal to 2 percent of—
+  - **(1)** the budget authority provided (or obligation limitation imposed) for fiscal year 2007 for any non-defense, non-homeland-security discretionary account in any fiscal year 2007 appropriation Act;
+  - **(2)** the budget authority provided in any advance appropriation for fiscal year 2007 for any non-defense, non-homeland-security discretionary account in any prior fiscal year appropriation Act; and
+  - **(3)** the contract authority provided in fiscal year 2007 for any program that is subject to a limitation contained in any fiscal year 2007 appropriation Act for any non-defense, non-homeland-security discretionary account.
+- **(b)** *Non-defense, Non-homeland-security discretionary account* For purposes of subsection (a), the term “non-defense, non-homeland security discretionary account” means any discretionary account, other than—
+  - **(1)** any account included in a Department of Defense Appropriations Act;
+  - **(2)** any account included in a Department of Homeland Security Appropriations Act;
+  - **(3)** any account of the Department of Defense included in a Military Quality of Life and Veterans Affairs Appropriations Act; or
+  - **(4)** any account for Department of Energy defense activities included in an Energy and Water Development Appropriations Act.
+- **(c)** *Proportionate application* Any rescission made by subsection (a) shall be applied proportionately—
+  - **(1)** to each discretionary account and each item of budget authority described in such subsection; and
+  - **(2)** within each such account and item, to each program, project, and activity (with programs, projects, and activities as delineated in the appropriation Act or accompanying reports for the relevant fiscal year covering such account or item, or for accounts and items not included in appropriation Acts, as delineated in the most recently submitted President's budget).
+- **(d)** *Subsequent appropriation laws* In the case of any fiscal year 2007 appropriation Act enacted after the enactment of this section, any rescission required by subsection (a) shall take effect immediately after the enactment of such Act.
+- **(e)** *OMB report* Within 30 days after the enactment of this section (or, if later, 30 days after the enactment of any fiscal year 2007 appropriation Act), the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a report specifying the account and amount of each rescission made pursuant to subsection (a).
