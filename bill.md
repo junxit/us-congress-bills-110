@@ -2,7 +2,7 @@
 legis-num: H. RES. 15
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 15
@@ -36,6 +36,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** expresses its appreciation for the profound public service of President Gerald Rudolph Ford;
-- **(2)** tenders its deep sympathy to Betty Ford; to Michael, Jack, Steven, and Susan; and to the rest of the family of the former President;
-- **(3)** directs that the eulogies offered concerning the life of the Honorable Gerald Rudolph Ford, former President of the United States, former Vice President of the United States, and former Representative from the State of Michigan, be bound and printed as a House document; and
-- **(4)** directs the Clerk of the House to transmit a copy of this resolution to the family of President Gerald Rudolph Ford.
+- **(2)** tenders its deep sympathy to Betty Ford; to Michael, Jack, Steven, and Susan; and to the rest of the family of the former President; and
+- **(3)** directs the Clerk of the House to transmit a copy of this resolution to the family of President Gerald Rudolph Ford.
