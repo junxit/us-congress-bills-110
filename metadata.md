@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2
@@ -277,3 +277,4 @@ Fair Minimum Wage Act of 2007
 - 2007-01-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H307)
 - 2007-01-10 — The previous question was ordered pursuant to the rule. (consideration: CR H298)
 - 2007-01-10 — UNFINISHED BUSINESS - Pursuant to the provisions of H.Res. 6, the Chair announced that further consideration of H.R. 2 will continue later in the legislative day.
+- 2007-01-11 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 5.
