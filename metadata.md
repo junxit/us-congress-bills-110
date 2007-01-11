@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3
@@ -16,7 +16,7 @@ Stem Cell Research Enhancement Act of 2007
 
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Cosponsors (209)
+## Cosponsors (217)
 
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
@@ -227,9 +227,37 @@ Stem Cell Research Enhancement Act of 2007
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
+## Recorded votes (2)
+
+- 2007-01-11 — [House 110-1-19](votes/house-110-1-0019.md) — On Motion to Recommit with Instructions — **Failed** (189–238)
+- 2007-01-11 — [House 110-1-20](votes/house-110-1-0020.md) — On Passage — **Passed** (253–174)
 
 ## Actions
 
 - 2007-01-05 — Introduced in House
 - 2007-01-05 — Introduced in House
 - 2007-01-05 — Referred to the House Committee on Energy and Commerce.
+- 2007-01-11 — Considered pursuant to H. Res. 6. (consideration: CR H349-392)
+- 2007-01-11 — DEBATE - Pursuant to the provisions of H. Res. 6, the House proceeded with three hours of debate on H.R. 3.
+- 2007-01-11 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Burgess motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting provisions preventing federal support for human cloning.
+- 2007-01-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-11 — Mr. Burgess moved to recommit with instructions to Energy and Commerce. (consideration: CR H389-390; text: CR H389-390)
+- 2007-01-11 — On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 238 (Roll no. 19).
+- 2007-01-11 — On passage Passed by recorded vote: 253 - 174 (Roll no. 20). (text: CR H349)
+- 2007-01-11 — Passed/agreed to in House: On passage Passed by recorded vote: 253 - 174 (Roll no. 20).(text: CR H349)
+- 2007-01-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-01-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H391)
+- 2007-01-11 — The previous question was ordered pursuant to the rule. (consideration: CR H389)

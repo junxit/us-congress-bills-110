@@ -19,7 +19,7 @@ Part H of title IV of the Public Health Service Act (42 U.S.C. 289 et seq.) is a
 
 > ## § 498D. Human embryonic stem cell research
 >
-> - **(a)** *In General* Notwithstanding any other provision of law (including any regulation or guidance), the Secretary shall conduct and support research that utilizes human embryonic stem cells in accordance with this section (regardless of the date on which the stem cells were derived from a human embryo) .
+> - **(a)** *In General* Notwithstanding any other provision of law (including any regulation or guidance), the Secretary shall conduct and support research that utilizes human embryonic stem cells in accordance with this section (regardless of the date on which the stem cells were derived from a human embryo).
 > - **(b)** *Ethical Requirements* Human embryonic stem cells shall be eligible for use in any research conducted or supported by the Secretary if the cells meet each of the following:
 >   - **(1)** The stem cells were derived from human embryos that have been donated from in vitro fertilization clinics, were created for the purposes of fertility treatment, and were in excess of the clinical need of the individuals seeking such treatment.
 >   - **(2)** Prior to the consideration of embryo donation and through consultation with the individuals seeking fertility treatment, it was determined that the embryos would never be implanted in a woman and would otherwise be discarded.
