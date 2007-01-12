@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4
@@ -16,7 +16,7 @@ Medicare Prescription Drug Price Negotiation Act of 2007
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 
-## Cosponsors (189)
+## Cosponsors (198)
 
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -207,6 +207,21 @@ Medicare Prescription Drug Price Negotiation Act of 2007
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+
+## Committees (3)
+
+- House — Ways and Means Committee
+- House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -215,3 +230,15 @@ Medicare Prescription Drug Price Negotiation Act of 2007
 - 2007-01-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-05 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-01-09 — Sponsor introductory remarks on measure. (CR E50)
+- 2007-01-12 — Considered pursuant to H. Res. 6. (consideration: CR H440-489)
+- 2007-01-12 — DEBATE - Pursuant to the provisions of H. Res. 6, the House proceeded with three hours of debate on H.R. 4.
+- 2007-01-12 — Floor Summary: DEBATE - The House proceeded with 10 minutes of debate on the Barton motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting provisions assuring continued access to covered part D drugs and pharmacy networks and protection against increasing drug prices for veterans.
+- 2007-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-12 — Mr. Barton (TX) moved to recommit with instructions to Ways and Means and Energy and Commerce. (consideration: CR H486-488; text: CR H486)
+- 2007-01-12 — On motion to recommit with instructions Failed by the Yeas and Nays: 196 - 229 (Roll no. 22).
+- 2007-01-12 — On passage Passed by recorded vote: 255 - 170 (Roll no. 23). (text: CR H440)
+- 2007-01-12 — Passed/agreed to in House: On passage Passed by recorded vote: 255 - 170 (Roll no. 23).(text: CR H440)
+- 2007-01-12 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2007-01-12 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H488)
+- 2007-01-12 — The previous question was ordered pursuant to the rule. (consideration: CR H486)
