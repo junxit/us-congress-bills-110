@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3
@@ -261,3 +261,4 @@ Stem Cell Research Enhancement Act of 2007
 - 2007-01-11 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-01-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H391)
 - 2007-01-11 — The previous question was ordered pursuant to the rule. (consideration: CR H389)
+- 2007-01-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.
