@@ -1,7 +1,7 @@
 ---
 measure: H.R. 188
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 188
@@ -31,3 +31,9 @@ To provide a new effective date for the applicability of certain provisions of l
 - 2007-01-04 — Introduced in House
 - 2007-01-04 — Introduced in House
 - 2007-01-04 — Referred to the House Committee on Financial Services.
+- 2007-01-16 — Considered under suspension of the rules. (consideration: CR H532-534)
+- 2007-01-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 188.
+- 2007-01-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-16 — Mr. Scott (GA) moved to suspend the rules and pass the bill.
+- 2007-01-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H532)
+- 2007-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H532)
