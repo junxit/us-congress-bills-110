@@ -2,7 +2,7 @@
 legis-num: H. RES. 39
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 39
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas, on January 8, 2007, the University of Florida Gators won the 2006 Bowl Championship Series national title with a stunning 41–14 defeat over the Ohio State University Buckeyes;
-- Whereas the University of Florida is the premier academic institution in the State of Florida;
+- Whereas the University of Florida is one of the premier academic institutions in the State of Florida;
 - Whereas the University of Florida football program celebrated its 100th Anniversary this season;
 - Whereas the University of Florida Gators captured the South Eastern Conference (SEC) Championship title on December 2, 2006;
 - Whereas the University of Florida won the NCAA Championship title in basketball in April 2006;
@@ -29,4 +29,4 @@ That the House of Representatives—
 
 - **(1)** commends the Florida Gators for their victory in the 2006 Bowl Championship Series and for winning the national college football championship;
 - **(2)** recognizes the achievements of the players, coaches, students, and staff whose hard work and dedication helped the University of Florida Gators win the championship; and
-- **(3)** directs the Clerk of the House of Representatives to transmit a copy of this resolution to University of Florida President J. Bernard Machen, football Head Coach Urban Meyer, and Athletic Director Jeremy Foley for appropriate display.
+- **(3)** directs the Clerk of the House of Representatives to transmit a copy of this resolution to University of Florida President J. Bernard Machen, football Head Coach Urban Meyer, and Athletic Director Jeremy N. Foley for appropriate display.
