@@ -1,7 +1,7 @@
 ---
 measure: H.R. 188
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 188
@@ -22,9 +22,10 @@ To provide a new effective date for the applicability of certain provisions of l
 - Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To provide a new effective date for the applicability of certain provisions of l
 - 2007-01-16 — Mr. Scott (GA) moved to suspend the rules and pass the bill.
 - 2007-01-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H532)
 - 2007-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H532)
+- 2007-01-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
