@@ -1,7 +1,7 @@
 ---
 measure: H.R. 188
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 188
@@ -39,3 +39,15 @@ To provide a new effective date for the applicability of certain provisions of l
 - 2007-01-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H532)
 - 2007-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H532)
 - 2007-01-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2007-01-25 — Cleared for White House.
+- 2007-01-25 — Passed Senate without amendment by Unanimous Consent.
+- 2007-01-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-01-25 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S1204)
+- 2007-01-25 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S1204)
+- 2007-01-26 — Message on Senate action sent to the House.
+- 2007-01-30 — Presented to President.
+- 2007-01-30 — Presented to President.
+- 2007-02-08 — Became Public Law No: 110-3.
+- 2007-02-08 — Became Public Law No: 110-3.
+- 2007-02-08 — Signed by President.
+- 2007-02-08 — Signed by President.
