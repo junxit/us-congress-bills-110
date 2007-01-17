@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5
@@ -16,7 +16,7 @@ College Student Relief Act of 2007
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (209)
+## Cosponsors (211)
 
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
@@ -227,6 +227,8 @@ College Student Relief Act of 2007
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
 
 ## Committees (1)
 
@@ -238,3 +240,17 @@ College Student Relief Act of 2007
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Referred to the House Committee on Education and Labor.
 - 2007-01-12 — Sponsor introductory remarks on measure. (CR E101-102)
+- 2007-01-16 — Rules Committee Resolution H. Res. 65 Reported to House. Rule provides for consideration of H.R. 5 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-01-17 — Considered under the provisions of rule H. Res. 65. (consideration: CR H597-631)
+- 2007-01-17 — DEBATE - The House proceeded with three hours of debate on H.R. 5.
+- 2007-01-17 — Floor Summary: DEBATE - The House proceeded with 10 minutes of debate on the McKeon motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section providing for benefits contingent on income or military service.
+- 2007-01-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-17 — Mr. McKeon moved to recommit with instructions to Education and Labor. (consideration: CR H628-630; text: CR H628-629)
+- 2007-01-17 — On motion to recommit with instructions Failed by the Yeas and Nays: 186 - 241 (Roll no. 31).
+- 2007-01-17 — On passage Passed by the Yeas and Nays: 356 - 71 (Roll no. 32). (text: CR H597-598)
+- 2007-01-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 356 - 71 (Roll no. 32).(text: CR H597-598)
+- 2007-01-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2007-01-17 — Rule H. Res. 65 passed House.
+- 2007-01-17 — Rule provides for consideration of H.R. 5 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-01-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H630)
+- 2007-01-17 — The previous question was ordered pursuant to the rule. (consideration: CR H628)
