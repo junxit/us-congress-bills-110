@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 58
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 58
@@ -16,7 +16,7 @@ To honor Muhammad Ali, global humanitarian, on the occasion of his 65th birthday
 
 - Rep. Carson, Julia [D-IN-7] (C000191)
 
-## Cosponsors (52)
+## Cosponsors (54)
 
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
@@ -70,6 +70,8 @@ To honor Muhammad Ali, global humanitarian, on the occasion of his 65th birthday
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
 - Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
 ## Committees (1)
 
@@ -80,3 +82,11 @@ To honor Muhammad Ali, global humanitarian, on the occasion of his 65th birthday
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-01-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-01-17 — Considered as unfinished business. (consideration: CR H631-632)
+- 2007-01-17 — Considered under suspension of the rules. (consideration: CR H584-587)
+- 2007-01-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 58.
+- 2007-01-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-17 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-01-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 33). (text: CR H584)
+- 2007-01-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 33).(text: CR H584)
