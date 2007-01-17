@@ -1,0 +1,165 @@
+---
+legis-num: H.R. 506
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 506
+
+> To provide for innovation in health care through State initiatives that expand coverage and access.
+
+## § 1. Short title
+
+This Act may be cited as the “Health Partnership Through Creative Federalism Act”.
+
+## § 2. State health reform projects
+
+- **(a)** *Purposes; Establishment of State Health Care Expansion and Improvement Program*
+  - **(1)** *Purposes* The purposes of the programs approved under this section shall include, but not be limited to—
+    - **(A)** achieving the goals of increased health coverage and access; and
+    - **(B)** testing alternative reforms, such as building on the public or private health systems, or creating new systems, to achieve the objectives of this Act.
+  - **(2)** *Intent of Congress* It is the intent of Congress that—
+    - **(A)** the programs approved under this Act each comprise significant coverage expansions;
+    - **(B)** taken as a whole, such programs should be diverse and balanced in their approaches to covering the uninsured; and
+    - **(C)** each such program should be rigorously and objectively evaluated, so that the State programs developed pursuant to this Act may guide the development of future State and national policy.
+- **(b)** *Applications by States and Local Governments*
+  - **(1)** *Entities that may apply*
+    - **(A)** *In general* A State may apply for a State health care expansion and improvement program for the entire State (or for regions of the State) under paragraph (2).
+    - **(B)** *Regional and sub-state groups* A regional entity consisting of more than one State or one or more local governments within a State may apply for a multi-State or a sub-state health care expansion and improvement program for the region or area involved.
+    - **(C)** *Definition* In this Act, the term State means the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico. Such term shall include a regional entity described in subparagraph (B).
+  - **(2)** *Submission of application* In accordance with this section, each State or regional entity desiring to implement a State health care expansion and improvement program may submit an application to the State Health Coverage Innovation Commission under subsection (c) (referred to in this section as the “Commission”) for approval.
+  - **(3)** *Local government applications* Where a State fails to submit an application under this section, a unit of local government of such State, or a consortium of such units of local governments, may submit an application directly to the Commission for programs or projects under this subsection. Such an application shall be subject to the requirements of this section.
+- **(c)** *State Health Coverage Innovation Commission*
+  - **(1)** *In general* Within 90 days after the date of the enactment of this Act, the Secretary of Health and Human Services (in this section referred to as the “Secretary”) shall establish a State Health Coverage Innovation Commission that—
+    - **(A)** shall be comprised of—
+      - **(i)** the Secretary;
+      - **(ii)** four State governors to be appointed by the National Governors Association on a bipartisan basis;
+      - **(iii)** two members of a State legislature to be appointed, on a joint and bipartisan basis, by the National Conference of State Legislators and the American Legislative Exchange Council;
+      - **(iv)** two county officials to be appointed by the National Association of Counties on a bipartisan basis;
+      - **(v)** two mayors to be appointed, on a joint and bipartisan basis, by the National League of Cities and by the United States Conference of Mayors;
+      - **(vi)** two individuals to be appointed by the Speaker of the House of Representatives;
+      - **(vii)** two individuals to be appointed by the Minority Leader of the House of Representatives;
+      - **(viii)** two individuals to be appointed by the Majority Leader of the Senate; and
+      - **(ix)** two individuals to be appointed by the Minority Leader of the Senate;
+    - **(B)** shall request States to submit proposals, which may include a variety of reform options such as tax credit approaches, expansions of public programs such as Medicaid and the State Children’s Health Insurance Program, the creation of purchasing pooling arrangements similar to the Federal Employees Health Benefits Program, individual market purchasing options, single risk pool or single payer systems, health savings accounts, a combination of the options described in this subparagraph, or other alternatives determined appropriate by the Commission, including options suggested by States or the public, and nothing in this subparagraph shall be construed to prevent the Commission from approving a reform proposal not included in this subparagraph;
+    - **(C)** shall conduct a thorough review of the grant application from a State and carry on a dialogue with all State applicants concerning possible modifications and adjustments;
+    - **(D)** shall submit the recommendations and legislative proposal described in subsection (d)(4)(C);
+    - **(E)** shall be responsible for receiving information to determine the status and progress achieved under program or projects granted under this section;
+    - **(F)** shall report to the public concerning progress made by States with respect to the performance measures and goals established under this Act, the periodic progress of the State relative to its State performance measures and goals, and the State program application procedures, by region and State jurisdiction;
+    - **(G)** shall promote information exchange between States and the Federal Government;
+    - **(H)** shall be responsible for making recommendations to the Secretary and the Congress, using equivalency or minimum standards, for minimizing the negative effect of State program on national employer groups, provider organizations, and insurers because of differing State requirements under the programs; and
+    - **(I)** may require States to submit additional information or reports concerning the status and progress achieved under health care expansion and improvement programs granted under this section, as needed.
+  - **(2)** *Period of appointment; representation requirements; vacancies* Members shall be appointed for a term of 5 years. In appointing such members under paragraph (1)(A), the designated appointing individuals shall ensure the representation of urban and rural areas and an appropriate geographic distribution of such members. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+  - **(3)** *Chairperson, meetings*
+    - **(A)** *Chairperson* The Commission shall select a Chairperson from among its members.
+    - **(B)** *Quorum* Two-thirds of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
+    - **(C)** *Meetings* Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting. The Commission shall meet at the call of the Chairperson.
+  - **(4)** *Powers of the commission*
+    - **(A)** *Negotiations with states* The Commission may conduct detailed discussions and negotiations with States submitting applications under this section, either individually or in groups, to facilitate a final set of recommendations for purposes of subsection (d)(4)(C).
+    - **(B)** *Hearings* The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the purposes of this subsection.
+    - **(C)** *Meetings* In addition to other meetings the Commission may hold, the Commission shall hold an annual meeting with the participating States under this section for the purpose of having States report progress toward the purposes in subsection (a) and for an exchange of information.
+    - **(D)** *Information* The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this subsection. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission if the head of the department or agency involved determines it appropriate.
+    - **(E)** *Postal services* The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+  - **(5)** *Personnel matters*
+    - **(A)** *Compensation* Each member of the Commission who is not an officer or employee of the Federal Government or of a State or local government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission. All members of the Commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+    - **(B)** *Travel expenses* The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+    - **(C)** *Staff* The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
+    - **(D)** *Detail of government employees* Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+    - **(E)** *Temporary and intermittent services* The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+  - **(6)** *Funding* For the purpose of carrying out this subsection, there are authorized to be appropriated $3,000,000 for fiscal year 2008 and each fiscal year thereafter.
+- **(d)** *Requirements for Programs*
+  - **(1)** *State plan* A State that seeks to operate a program under this section shall prepare and submit to the Commission, as part of the application under subsection (b), a State health care plan that shall have as its goal increased coverage, and in service of that goal such additional goals as improvements in quality, efficiency, cost-effectiveness, and the appropriate use of information technology. To achieve such goal, the State plan shall comply with the following:
+    - **(A)** *Coverage*
+      - **(i)** *In general* With respect to coverage, the State plan shall—
+        - **(I)** provide and describe the manner in which the State will ensure that an increased number of individuals residing within the State will have expanded access to health care coverage with a specific 5-year target for reduction in the number or proportion of uninsured individuals through either private or public program expansion, or both, in accordance with or in addition to the options established by the Commission;
+        - **(II)** describe the number and percentage of current uninsured individuals who will achieve coverage under a State health program;
+        - **(III)** describe the coverage that will be provided to beneficiaries under a State health program;
+        - **(IV)** identify Federal, State, or local and private programs that currently provide health care services in the State and describe how such programs could be coordinated with a State health program, to the extent practicable; and
+        - **(V)** provide for improvements in the availability of appropriate health care coverage that will increase access to care in urban, suburban, rural, and frontier areas of the State with medically underserved populations or where there may be an inadequate supply of health care providers.
+      - **(ii)** *Coverage options* The coverage under the State plan may be—
+        - **(I)** health insurance coverage that meets the aggregate actuarial value requirement of section 2103(a)(2)(B) of the Social Security Act (42 U.S.C. 1397cc(a)(2)(B));
+        - **(II)** a combination of health insurance coverage and a consumer-directed health care spending account, if the actuarial value of such coverage plus the amount of annual deposits into such account from sources other than the beneficiary is not less than the actuarial value amount described in subclause (I); or
+        - **(III)** health care access not less on average than that provided through coverage described in subclause (I).
+      - **(iii)** *Construction* Nothing in this clause shall be construed to limit in any way the authority of the Secretary of Health and Human Services to issue waivers under section 1115 of the Social Security Act.
+    - **(B)** *Quality* With respect to quality, the State plan may describe efforts to improve health care quality in the State, including an explanation of how such efforts would change (if at all) under the State plan.
+    - **(C)** *Costs* With respect to costs, the State plan shall—
+      - **(i)** describe such steps as the State may undertake to improve the efficiency of health care;
+      - **(ii)** describe the public and private sector financing to be provided for the State health program;
+      - **(iii)** estimate the amount of Federal, State, and local expenditures, as well as, the costs to business and individuals under the State health program; and
+      - **(iv)** describe how the State plan will ensure the financial solvency of the State health program.
+    - **(D)** *Health information technology* With respect to health information technology, the State plan may describe efforts to improve the appropriate use of health information technology, including an explanation of how such efforts would change (if at all) under the State plan.
+    - **(E)** *Exceptions to Federal policies* The State plan shall describe the exceptions to otherwise applicable Federal statutes, regulations, and policies that would apply within the geographic area and time period governed by the plan.
+  - **(2)** *Technical assistance* The Secretary shall, if requested, provide technical assistance to States to assist such States in developing applications and plans under this section, including technical assistance by private sector entities if determined appropriate by the Commission.
+  - **(3)** *Initial review* With respect to a State application under subsection (b), the Secretary and the Commission shall complete an initial review of such State application within 60 days of the receipt of such application, analyze the scope of the proposal, and determine whether additional information is needed from the State. The Commission shall advise the State within such period of the need to submit additional information.
+  - **(4)** *Final determination*
+    - **(A)** *In general* In a timely manner consistent with subparagraph (C), the Commission shall determine whether to submit a State proposal to Congress for approval.
+    - **(B)** *Voting*
+      - **(i)** *In general* The determination to submit a State proposal to Congress under subparagraph (A) shall be approved by 2/3 of the members of the Commission who are present and eligible to vote and a majority of the entire Commission.
+      - **(ii)** *Eligibility* A member of the Commission shall not participate in a determination under subparagraph (A) if—
+        - **(I)** in the case of a member who is a Governor, such determination relates to the State of which the member is the Governor; or
+        - **(II)** in the case of member not described in subclause (I), such determination relates to the geographic area of a State of which such member serves as a State or local official or as a Member of Congress.
+    - **(C)** *Submission* Not later than 90 days prior to October 1 of each fiscal year, the Commission may submit to Congress a list, in the form of a legislative proposal, of the State applications that the Commission recommends for approval under this section.
+  - **(5)** *Program or project period* A State program or project may be approved for a period of 5 years and may be extended for a subsequent period of time upon approval by the Commission, based upon achievement of targets.
+- **(e)** *Expedited Congressional Consideration*
+  - **(1)** *Introduction and expedited consideration in the House of Representatives*
+    - **(A)** *Introduction in House of Representatives* The legislative proposal submitted pursuant to subsection (d)(4)(C) shall be in the form of a joint resolution (in this subsection referred to as the “resolution”). Such resolution shall be introduced in the House of Representatives by the Speaker immediately upon receipt of the language and shall be referred non-sequentially to the appropriate committee (or committees) of House of Representatives. If the resolution is not introduced in accordance with the preceding sentence, the resolution may be introduced by any member of the House of Representatives.
+    - **(B)** *Committee consideration* Not later than 15 calendar days after the introduction of the resolution described in subparagraph (A), each committee of House of Representatives to which the resolution was referred shall report the resolution. The report may include, at the committee’s discretion, a recommendation for action by the House. If a committee has not reported such resolution (or an identical resolution) at the end of 15 calendar days after its introduction or at the end of the first day after there has been reported to the House a resolution, whichever is earlier, such committee shall be deemed to be discharged from further consideration of such resolution and such resolution shall be placed on the appropriate calendar of the House of Representatives.
+    - **(C)** *Expedited procedure in House* Not later than 5 legislative days after the date on which all committees have been discharged from consideration of a resolution, the Speaker of the House of Representatives, or the Speaker’s designee, shall move to proceed to the consideration of the resolution. It shall also be in order for any member of the House of Representatives to move to proceed to the consideration of the resolution at any time after the conclusion of such 5-day period. All points of order against the resolution (and against consideration of the resolution) are waived. A motion to proceed to the consideration of the resolution is highly privileged in the House of Representatives and is not debatable. The motion is not subject to amendment, to a motion to postpone consideration of the resolution, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion to proceed is agreed to or not agreed to shall not be in order. If the motion to proceed is agreed to, the House of Representatives shall immediately proceed to consideration of the resolution without intervening motion, order, or other business, and the resolution shall remain the unfinished business of the House of Representatives until disposed of. A motion to recommit the resolution shall not be in order. Upon its passage in the House, the clerk of the House shall provide for its immediate transmittal to the Senate.
+  - **(2)** *Expedited consideration in the Senate*
+    - **(A)** *Referral to committee* If the resolution is agreed to by the House of Representatives, upon its receipt in the Senate the Majority Leader of the Senate, or the Leader’s designee, the resolution shall be referred to the appropriate committee of Senate.
+    - **(B)** *Committee consideration* Not later than 15 calendar days after the referral of the resolution under subparagraph (A), the committee of the Senate to which the resolution was referred shall report the resolution. The report may include, at the committee’s discretion, a recommendation for action by the Senate. If a committee has not reported such resolution (or an identical resolution) at the end of 15 calendar days after its referral or at the end of the first day after there has been reported to the Senate a resolution, whichever is earlier, such committee shall be deemed to be discharged from further consideration of such resolution and such resolution shall be placed on the appropriate calendar of the Senate.
+    - **(C)** *Expedited floor consideration* Not later than 5 legislative days after the date on which all committees have been discharged from consideration of a resolution, the Majority Leader of the Senate, or the Majority Leader’s designee, shall move to proceed to the consideration of the resolution. It shall also be in order for any member of the Senate to move to proceed to the consideration of the resolution at any time after the conclusion of such 5-day period. All points of order against the resolution (and against consideration of the resolution) are waived. A motion to proceed to the consideration of the resolution in the Senate is privileged and is not debatable. The motion is not subject to amendment, to a motion to postpone consideration of the resolution, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion to proceed is agreed to or not agreed to shall not be in order. If the motion to proceed is agreed to, the Senate shall immediately proceed to consideration of the resolution without intervening motion, order, or other business, and the resolution shall remain the unfinished business of the Senate until disposed of.
+  - **(3)** *Rules of the senate and house of representatives* This subsection is enacted by Congress—
+    - **(A)** as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and is deemed to be part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a resolution under this subsection, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+    - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as they relate to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+  - **(4)** *Federal budget neutrality* Except insofar as it allots appropriations made pursuant to subsection (k), the legislative proposal submitted pursuant to subsection (d)(4)(C) may not increase the cumulative, net Federal budget deficit during the multi-year operation of all the State applications contained therein, taking into account such applications’ impact on Federal mandatory and discretionary spending, Federal revenue, and Federal tax expenditures.
+- **(f)** *Funding*
+  - **(1)** *In general* The Secretary shall provide a grant to a State that has an application approved under subsection (e) to enable such State to carry out an innovative State health program in the State, to the extent that such a grant is included in the recommendation of the Commission.
+  - **(2)** *Amount of grant* The amount of a grant provided to a State under paragraph (1) shall be determined based upon the recommendations of the Commission, subject to the amount appropriated under subsection (k).
+  - **(3)** *Performance-based funding allocation* In awarding grants under paragraph (1), the Commission shall direct the Secretary to—
+    - **(A)** fund a balanced diversity of approaches as provided for by the Commission in subsection (c)(1)(B); and
+    - **(B)** link allocations to the State to the meeting of the goals and performance measures relating to health care coverage and health care costs established under this Act through the State project application process.
+  - **(4)** *Report* One year prior to the end of the 5-year period beginning on the date on which the first State begins to implement a plan approved under subsection (e), the Commission shall prepare and submit to the appropriate committees of Congress, a report on the progress made by States in meeting the goals of expanded coverage and cost containment through performance measures established during the 5-year period of the State plan. Such report may contain the recommendation of the Commission concerning any future action that Congress should take concerning health care reform, including whether or not to extend the program established under this subsection.
+- **(g)** *Monitoring and Evaluation*
+  - **(1)** *Annual reports and participation by states* Each State that has received a program approval shall—
+    - **(A)** submit to the Commission an annual report based on the period representing the respective State’s fiscal year, detailing compliance with the requirements established by the Commission and the Secretary in the approval and in this section; and
+    - **(B)** participate in the annual meeting under subsection (c)(4)(C).
+  - **(2)** *Evaluations by commission* The Commission shall prepare and submit to the Congress annual reports that shall contain—
+    - **(A)** a description of the effects of the reforms undertaken in States receiving approvals under this section;
+    - **(B)** a description of the recommendations of the Commission and actions taken based on these recommendations;
+    - **(C)** an independent evaluation of the effectiveness of such reforms in—
+      - **(i)** expanding health care coverage for State residents; and
+      - **(ii)** reducing or containing health care costs in the States,
+    - **(D)** recommendations regarding the advisability of increasing Federal financial assistance for State ongoing or future health program initiatives, including the amount and source of such assistance; and
+    - **(E)** as required by the Commission or the Secretary under this section, a periodic, independent evaluation of the program.
+- **(h)** *Noncompliance*
+  - **(1)** *Corrective action plans* If a State is not in compliance with a requirement of this section, the Commission, on recommendation of the Secretary, shall develop a corrective action plan for such State.
+  - **(2)** *Termination* The Commission, on recommendation of the Secretary, may revoke any program granted under this section. Such decisions shall be subject to a petition for reconsideration and appeal pursuant to regulations established by the Secretary.
+- **(i)** *Relationship to Federal Programs*
+  - **(1)** *In general* Nothing in this Act, or in section 1115 of the Social Security Act (42 U.S.C. 1315) shall be construed as authorizing the Secretary, the Commission, a State, or any other person or entity to alter or affect in any way the provisions of title XIX of such Act (42 U.S.C. 1396 et seq.) or the regulations implementing such title.
+  - **(2)** *Maintenance of effort* No payment may be made under subsection (f)(1) if the State adopts criteria for benefits or criteria for standards and methodologies for purposes of determining an individual’s eligibility for medical assistance under the State plan under title XIX that are more restrictive than those required under Federal law and applied as of the date of enactment of this Act.
+- **(j)** *Miscellaneous Provisions*
+  - **(1)** *Application of certain requirements*
+    - **(A)** *Restriction on application of preexisting condition exclusions*
+      - **(i)** *In general* Subject to subparagraph (B), a State shall not permit the imposition of any preexisting condition exclusion for covered benefits under a program or project under this section.
+      - **(ii)** *Group health plans and group health insurance coverage* If the State program or project provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the program or project may permit the imposition of a preexisting condition exclusion but only insofar and to the extent that such exclusion is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 and title XXVII of the Public Health Service Act.
+    - **(B)** *Compliance with other requirements* Coverage offered under the program or project shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act insofar as such requirements apply with respect to a health insurance issuer that offers group health insurance coverage.
+  - **(2)** *Prevention of duplicative payments*
+    - **(A)** *Other health plans* No payment shall be made to a State under subsection (f)(1) for expenditures for health assistance provided for an individual to the extent that a private insurer (as defined by the Secretary by regulation and including a group health plan (as defined in section 607(1) of the Employee Retirement Income Security Act of 1974), a service benefit plan, and a health maintenance organization) would have been obligated to provide such assistance but for a provision of its insurance contract which has the effect of limiting or excluding such obligation because the individual is eligible for or is provided health assistance under the plan.
+    - **(B)** *Other federal governmental programs* Except as provided in any other provision of law, no payment shall be made to a State under subsection (f)(1) for expenditures for health assistance provided for an individual to the extent that payment has been made or can reasonably be expected to be made promptly (as determined in accordance with regulations) under any other federally operated or financed health care insurance program. For purposes of this paragraph, rules similar to the rules for overpayments under section 1903(d)(2) of the Social Security Act shall apply.
+  - **(3)** *Application of certain general provisions* The following provisions of the Social Security Act shall apply to States under subsection (f)(1) in the same manner as they apply to a State under such title XIX:
+    - **(A)** *Title xix provisions*
+      - **(i)** Section 1902(a)(4)(C) (relating to conflict of interest standards).
+      - **(ii)** Paragraphs (2), (16), and (17) of section 1903(i) (relating to limitations on payment).
+      - **(iii)** Section 1903(w) (relating to limitations on provider taxes and donations).
+      - **(iv)** Section 1920A (relating to presumptive eligibility for children).
+    - **(B)** *Title xi provisions*
+      - **(i)** Section 1116 (relating to administrative and judicial review), but only insofar as consistent with this title.
+      - **(ii)** Section 1124 (relating to disclosure of ownership and related information).
+      - **(iii)** Section 1126 (relating to disclosure of information about certain convicted individuals).
+      - **(iv)** Section 1128A (relating to civil monetary penalties).
+      - **(v)** Section 1128B(d) (relating to criminal penalties for certain additional charges).
+      - **(vi)** Section 1132 (relating to periods within which claims must be filed).
+  - **(4)** *Relation to HIPAA* Health benefits coverage provided under a State program or project under this section shall be treated as creditable coverage for purposes of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, title XXVII of the Public Health Service Act, and subtitle K of the Internal Revenue Code of 1986.
+- **(k)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section, such sums as may be necessary in each fiscal year. Amounts appropriated for a fiscal year under this subsection and not expended may be used in subsequent fiscal years to carry out this section.
