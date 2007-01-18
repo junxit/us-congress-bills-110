@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 32
 congress: 110
-version: Committee Discharged Senate
+version: Reference Change Senate
 ---
 
 # S.Res. 32
