@@ -1,7 +1,7 @@
 ---
 measure: H.R. 57
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 57
@@ -16,9 +16,10 @@ To repeal certain sections of the Act of May 26, 1936, pertaining to the Virgin 
 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To repeal certain sections of the Act of May 26, 1936, pertaining to the Virgin 
 - 2007-01-17 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2007-01-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H587)
 - 2007-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H587)
+- 2007-01-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
