@@ -1,7 +1,7 @@
 ---
 measure: H.R. 391
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 391
@@ -40,3 +40,5 @@ To authorize the Secretary of Housing and Urban Development to continue to insur
 - 2007-01-16 — Mr. Scott (GA) moved to suspend the rules and pass the bill.
 - 2007-01-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H534)
 - 2007-01-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H534)
+- 2007-01-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-01-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.
