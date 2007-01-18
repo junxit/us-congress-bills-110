@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 31
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 31
@@ -16,9 +16,10 @@ Honoring the Mare Island Original 21ers for their efforts to remedy racial discr
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -37,3 +38,4 @@ Honoring the Mare Island Original 21ers for their efforts to remedy racial discr
 - 2007-01-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-01-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 27). (text: CR 1/16/2007 H536)
 - 2007-01-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 27).(text: CR 1/16/2007 H536)
+- 2007-01-18 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
