@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6
@@ -16,7 +16,7 @@ Energy Independence and Security Act of 2007
 
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Cosponsors (196)
+## Cosponsors (200)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
@@ -214,6 +214,10 @@ Energy Independence and Security Act of 2007
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
 
 ## Committees (4)
 
@@ -231,3 +235,24 @@ Energy Independence and Security Act of 2007
 - 2007-01-12 — Referred to the Committee on Ways and Means, and in addition to the Committees on Natural Resources, the Budget, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-12 — Referred to the Committee on Ways and Means, and in addition to the Committees on Natural Resources, the Budget, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-12 — Referred to the Committee on Ways and Means, and in addition to the Committees on Natural Resources, the Budget, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-01-16 — Rules Committee Resolution H. Res. 66 Reported to House. Rule provides for consideration of H.R. 6 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-01-18 — Considered under the provisions of rule H. Res. 66. (consideration: CR H690-729)
+- 2007-01-18 — DEBATE - Pursuant to the provisions of H. Res. 66, the House proceeded with three hours of debate on H.R. 6.
+- 2007-01-18 — Floor Summary: Debate - The House proceeded with ten minutes of debate on the McCrery motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported to the House after the Committee holds hearings on, and considers, the bill.
+- 2007-01-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-18 — Mr. Blunt appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2007-01-18 — Mr. McCrery moved to recommit with instructions to Ways and Means, Natural Resources, The Budget, and Rules. (consideration: CR H726; text: CR H726)
+- 2007-01-18 — Mr. McDermott moved to table the appeal of the ruling of the chair.
+- 2007-01-18 — On consideration of the bill H.R. 6 Agreed to by recorded vote: 228 - 193 (Roll no. 37).
+- 2007-01-18 — On motion to recommit with instructions Failed by the Yeas and Nays: 194 - 232 (Roll no. 38).
+- 2007-01-18 — On motion to table the appeal of the ruling of the chair Agreed to by the Yeas and Nays: 230 - 195 (Roll no. 39).
+- 2007-01-18 — On passage Passed by the Yeas and Nays: 264 - 163 (Roll no. 40). (text: CR H688-689)
+- 2007-01-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 264 - 163 (Roll no. 40).(text: CR H688-689)
+- 2007-01-18 — Point of order raised by Mr. Blunt on the content of the measure. Point of order overruled by the Chair.
+- 2007-01-18 — Pursuant to the provisions of H. Res. 66, Mr. Rangel called up H.R. 6 and asked unanimous consent for its immediate consideration. (consideration: CR H688-690)
+- 2007-01-18 — QUESTION OF CONSIDERATION - Mr. Price of Georgia demanded that the question be put on consideration of the bill H.R. 6.
+- 2007-01-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-01-18 — Rule H. Res. 66 passed House.
+- 2007-01-18 — Rule provides for consideration of H.R. 6 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-01-18 — The previous question on the motion was ordered without objection. (consideration: CR H727)
+- 2007-01-18 — The previous question was ordered pursuant to the rule. (consideration: CR H726)

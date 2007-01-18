@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Creating Long-Term Energy Alternatives for the Nation Act of 2007” or the “CLEAN Energy Act of 2007” .
+This Act may be cited as the “Creating Long-Term Energy Alternatives for the Nation Act of 2007” or the “CLEAN Energy Act of 2007”.
