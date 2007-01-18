@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 32
 congress: 110
-version: Introduced in Senate
+version: Committee Discharged Senate
 ---
 
 # S.Res. 32
@@ -20,7 +20,19 @@ A resolution authorizing expenditures by the Committee on Small Business and Ent
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 
+## Committees (2)
+
+- Senate — Rules and Administration Committee
+- Senate — Small Business and Entrepreneurship Committee
+
 ## Actions
 
 - 2007-01-17 — Introduced in Senate
 - 2007-01-17 — Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S703)
+- 2007-01-18 — Committee on Small Business and Entrepreneurship ordered to be reported an original measure.
+- 2007-01-18 — Committee on Small Business and Entrepreneurship. Reported by Senator Kerry without amendment. Without written report.
+- 2007-01-18 — Committee on Small Business and Entrepreneurship. Reported by Senator Kerry without amendment. Without written report.
+- 2007-01-18 — Referred to the Committee on Rules and Administration.
+- 2007-01-18 — Referred to the Committee on Small Business and Entrepreneurship.
+- 2007-01-18 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2007-01-18 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
