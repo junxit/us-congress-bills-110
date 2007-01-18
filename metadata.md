@@ -1,7 +1,7 @@
 ---
 measure: H.R. 434
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 434
@@ -20,9 +20,10 @@ An act to provide for an additional temporary extension of programs under the Sm
 
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ An act to provide for an additional temporary extension of programs under the Sm
 - 2007-01-17 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2007-01-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 28). (text: CR H582-583)
 - 2007-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 28).(text: CR H582-583)
+- 2007-01-18 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
