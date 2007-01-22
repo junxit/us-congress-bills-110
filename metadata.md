@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 52
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 52
@@ -16,7 +16,7 @@ Paying tribute to Reverend Waitstill Sharp and Martha Sharp for their recognitio
 
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 
-## Cosponsors (28)
+## Cosponsors (35)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Cannon, Chris [R-UT-3] (C000116)
@@ -46,13 +46,32 @@ Paying tribute to Reverend Waitstill Sharp and Martha Sharp for their recognitio
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2007-01-22 — [House 110-1-44](votes/house-110-1-0044.md) — On Motion to Suspend the Rules and Agree — **Passed** (413–0)
 
 ## Actions
 
 - 2007-01-11 — Introduced in House
 - 2007-01-11 — Introduced in House
 - 2007-01-11 — Referred to the House Committee on Foreign Affairs.
+- 2007-01-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-01-22 — Considered as unfinished business. (consideration: CR H815-816)
+- 2007-01-22 — Considered under suspension of the rules. (consideration: CR H801-805)
+- 2007-01-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 52.
+- 2007-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-22 — Mr. Lantos moved to suspend the rules and agree to the resolution.
+- 2007-01-22 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 44). (text: CR H801-802)
+- 2007-01-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 44).(text: CR H801-802)
