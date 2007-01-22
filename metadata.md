@@ -1,7 +1,7 @@
 ---
 measure: S. 69
 congress: 110
-version: Introduced in Senate
+version: Committee Discharged Senate
 ---
 
 # S. 69
@@ -20,12 +20,16 @@ A bill to authorize appropriations for the Hollings Manufacturing Extension Part
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on the Judiciary.
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S83)
+- 2007-01-22 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2007-01-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2007-01-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.
