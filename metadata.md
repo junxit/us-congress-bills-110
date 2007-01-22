@@ -1,7 +1,7 @@
 ---
 measure: H.R. 475
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 475
@@ -42,3 +42,13 @@ House Page Board Revision Act of 2007
 - 2007-01-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 416 - 0 (Roll No. 42).(text: CR H765)
 - 2007-01-19 — The previous question was ordered pursuant to a previous  order of the House. (consideration: CR H768)
 - 2007-01-22 — Received in the Senate, read twice.
+- 2007-01-23 — Cleared for White House.
+- 2007-01-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1000)
+- 2007-01-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1000)
+- 2007-01-24 — Message on Senate action sent to the House.
+- 2007-01-25 — Presented to President.
+- 2007-01-25 — Presented to President.
+- 2007-02-02 — Became Public Law No: 110-2.
+- 2007-02-02 — Became Public Law No: 110-2.
+- 2007-02-02 — Signed by President.
+- 2007-02-02 — Signed by President.
