@@ -1,0 +1,33 @@
+---
+legis-num: S. RES. 36
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 36
+
+> Honoring women’s health advocate Cynthia Boles Dailard.
+
+## Preamble
+
+- Whereas women’s health advocate Cynthia Boles Dailard was born on February 29, 1968 and grew up in Syosset, New York;
+- Whereas Cynthia Dailard excelled as a student both at Harvard University, from which she graduated cum laude with a bachelor's degree in English in 1990, and at the University of California at Berkeley's Boalt Hall School of Law, from which she graduated in 1994;
+- Whereas Cynthia Dailard entered the nonprofit sector upon graduating from law school, receiving a year-long fellowship at the National Women’s Law Center in Washington, D.C.;
+- Whereas Cynthia Dailard worked as legislative assistant and counsel for Senator Olympia J. Snowe, bringing to bear her keen intelligence, vision, energy, expertise, and talent in service to the Nation and the women of the United States;
+- Whereas Cynthia Dailard worked as associate director for domestic policy for President William J. Clinton;
+- Whereas Cynthia Dailard worked for 8 years for the Guttmacher Institute, a respected public policy think tank devoted to women's health;
+- Whereas Cynthia Dailard spearheaded the Guttmacher Institute’s policy work on issues related to domestic family planning programs and sex education;
+- Whereas Cynthia Dailard was a member of the National Family Planning and Reproductive Health Association Board of Directors;
+- Whereas Cynthia Dailard spoke and wrote prolifically on matters including family planning, adolescent sexual behavior, and insurance coverage for contraception;
+- Whereas Cynthia Dailard worked in a bipartisan fashion with elected officials and their staffs to promote the health and well-being of women and families;
+- Whereas Cynthia Dailard was a gifted and passionate voice within the women’s health community;
+- Whereas Cynthia Dailard was driven by an abiding concern for human relationships and the health and well-being of all individuals;
+- Whereas Cynthia Dailard has left a thoughtful and enduring mark on women's health policy and will remain a role model for advocates by virtue of her wisdom, character, commitment, and scholarship; and
+- Whereas Cynthia Dailard is survived by her husband Scott and her daughters Miranda and Julia: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** notes with deep sorrow the death of Cynthia Boles Dailard on December 24, 2006;
+- **(2)** extends its heartfelt sympathy to Scott, Miranda, and Julia Dailard; and
+- **(3)** directs the Secretary of the Senate to transmit a copy of this resolution to the family of Cynthia Boles Dailard.
