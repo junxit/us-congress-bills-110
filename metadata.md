@@ -1,7 +1,7 @@
 ---
 measure: H.R. 475
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 475
@@ -41,3 +41,4 @@ House Page Board Revision Act of 2007
 - 2007-01-19 — On passage Passed by the Yeas and Nays: 416 - 0 (Roll No. 42). (text: CR H765)
 - 2007-01-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 416 - 0 (Roll No. 42).(text: CR H765)
 - 2007-01-19 — The previous question was ordered pursuant to a previous  order of the House. (consideration: CR H768)
+- 2007-01-22 — Received in the Senate, read twice.
