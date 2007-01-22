@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6
@@ -263,3 +263,4 @@ Energy Independence and Security Act of 2007
 - 2007-01-18 — Rule provides for consideration of H.R. 6 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2007-01-18 — The previous question on the motion was ordered without objection. (consideration: CR H727)
 - 2007-01-18 — The previous question was ordered pursuant to the rule. (consideration: CR H726)
+- 2007-01-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 9.
