@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 51
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 51
@@ -16,7 +16,7 @@ Honoring the contributions of Catholic schools.
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Cosponsors (62)
+## Cosponsors (73)
 
 - Rep. Fossella, Vito [R-NY-13] (F000440)
 - Rep. Davis, Geoff [R-KY-4] (D000603)
@@ -80,13 +80,36 @@ Honoring the contributions of Catholic schools.
 - Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Walberg, Timothy [R-MI-7] (W000798)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2007-01-23 — [House 110-1-48](votes/house-110-1-0048.md) — On Motion to Suspend the Rules and Agree — **Passed** (428–0)
 
 ## Actions
 
 - 2007-01-10 — Introduced in House
 - 2007-01-10 — Introduced in House
 - 2007-01-10 — Referred to the House Committee on Education and Labor.
+- 2007-01-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-01-22 — Considered under suspension of the rules. (consideration: CR H796-800)
+- 2007-01-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 51.
+- 2007-01-22 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2007-01-23 — Considered as unfinished business. (consideration: CR H859-860)
+- 2007-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 428 - 0 (Roll no. 48). (text: CR 1/22/2007 H796)
+- 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 428 - 0 (Roll no. 48).(text: CR 1/22/2007 H796)
