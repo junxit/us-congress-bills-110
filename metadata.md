@@ -1,7 +1,7 @@
 ---
 measure: H.R. 599
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 599
@@ -16,7 +16,7 @@ To direct the Secretary of Homeland Security to streamline the SAFETY Act and an
 
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 
-## Cosponsors (16)
+## Cosponsors (18)
 
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
@@ -34,13 +34,25 @@ To direct the Secretary of Homeland Security to streamline the SAFETY Act and an
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
 ## Committees (1)
 
 - House — Homeland Security Committee
+
+## Recorded votes (1)
+
+- 2007-01-23 — [House 110-1-47](votes/house-110-1-0047.md) — On Motion to Suspend the Rules and Pass — **Passed** (427–0)
 
 ## Actions
 
 - 2007-01-22 — Introduced in House
 - 2007-01-22 — Introduced in House
 - 2007-01-22 — Referred to the House Committee on Homeland Security.
+- 2007-01-23 — Considered under suspension of the rules. (consideration: CR H855-859)
+- 2007-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 599.
+- 2007-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-23 — Mr. Langevin moved to suspend the rules and pass the bill.
+- 2007-01-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 47). (text: CR H855)
+- 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 47).(text: CR H855)
