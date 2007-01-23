@@ -1,7 +1,7 @@
 ---
 measure: H.R. 392
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 392
@@ -36,3 +36,9 @@ District of Columbia and United States Territories Circulating Quarter Dollar Pr
 - 2007-01-10 — Introduced in House
 - 2007-01-10 — Referred to the House Committee on Financial Services.
 - 2007-01-10 — Sponsor introductory remarks on measure. (CR E68)
+- 2007-01-23 — Considered under suspension of the rules. (consideration: CR H851-855)
+- 2007-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 392.
+- 2007-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-23 — Mr. Gutierrez moved to suspend the rules and pass the bill.
+- 2007-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H851-852)
+- 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H851-852)
