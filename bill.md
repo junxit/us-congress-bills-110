@@ -28,6 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(iv)** Perjury committed under section 1621 of title 18 in falsely denying the commission of an act which constitutes—
   >         - **(I)** an offense under clause (i) or (ii); or
   >         - **(II)** an offense under clause (iii), to the extent provided in such clause.
+  >       - **(v)** Subornation of perjury committed under section 1622 of title 18 in connection with the false denial or false testimony of another individual as specified in clause (iv).
   >   - **(3)** An individual convicted of an offense described in paragraph (2) shall not, after the date of the final conviction, be eligible to participate in the retirement system under this subchapter or chapter 84 while serving as a Member.
   >   - **(4)** The Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection. Such regulations shall include—
   >     - **(A)** provisions under which interest on any lump-sum payment under the second sentence of paragraph (1) shall be limited in a manner similar to that specified in the last sentence of section 8316(b); and
