@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 57
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 57
@@ -41,8 +41,20 @@ Congratulating Illinois State University as it celebrates its sesquicentennial.
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2007-01-23 — [House 110-1-50](votes/house-110-1-0050.md) — On Motion to Suspend the Rules and Agree — **Passed** (423–0)
+
 ## Actions
 
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Referred to the House Committee on Education and Labor.
+- 2007-01-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-01-22 — Considered under suspension of the rules. (consideration: CR H800-801)
+- 2007-01-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 57.
+- 2007-01-22 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2007-01-23 — Considered as unfinished business. (consideration: CR H860-861)
+- 2007-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 50). (text: CR 1/22/2007 H800)
+- 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 50).(text: CR 1/22/2007 H800)
