@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 38
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 38
@@ -33,3 +33,8 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2007-01-22 — Senate amendment agreed to: Amendment SA 109 agreed to in Senate by Unanimous Consent.
 - 2007-01-22 — Senate amendment proposed (on the floor): Amendment SA 109 proposed by Senator Reid.(consideration: CR S868; text: CR S868)
 - 2007-01-22 — Senate amendment submitted
+- 2007-01-23 — Message on Senate action sent to the House.
+- 2007-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-23 — On motion that the House agree to the Senate amendment Agreed to without objection. (consideration: CR H847; text as House agreed to Senate amendment: CR H847)
+- 2007-01-23 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(consideration: CR H847; text as House agreed to Senate amendment: CR H847)
+- 2007-01-23 — The Chair laid before the House a privileged messeage from the Senate.
