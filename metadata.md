@@ -1,7 +1,7 @@
 ---
 measure: H.R. 323
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 323
@@ -16,7 +16,7 @@ Seasoned Customer CTR Exemption Act of 2007
 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 
-## Cosponsors (21)
+## Cosponsors (25)
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -39,6 +39,10 @@ Seasoned Customer CTR Exemption Act of 2007
 - Rep. Hooley, Darlene [D-OR-5] (H000762)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Campbell, John [R-CA-48] (C001064)
 
 ## Committees (1)
 
@@ -49,3 +53,9 @@ Seasoned Customer CTR Exemption Act of 2007
 - 2007-01-09 — Introduced in House
 - 2007-01-09 — Introduced in House
 - 2007-01-09 — Referred to the House Committee on Financial Services.
+- 2007-01-23 — Considered under suspension of the rules. (consideration: CR H848-851)
+- 2007-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 323.
+- 2007-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-23 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
+- 2007-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H848-849)
+- 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H848-849)
