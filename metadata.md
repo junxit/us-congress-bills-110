@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 41
 congress: 110
-version: Enrolled Bill
+version: Received in Senate
 ---
 
 # H.Con.Res. 41
