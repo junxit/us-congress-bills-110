@@ -2,7 +2,7 @@
 legis-num: H. RES. 86
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 86
@@ -13,4 +13,4 @@ That upon the adoption of this resolution it shall be in order without intervent
 
 ## § 2.
 
-During consideration of H. Res. 78 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the bill to a time designated by the Speaker.
+During consideration of H. Res. 78 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the resolution to a time designated by the Speaker.
