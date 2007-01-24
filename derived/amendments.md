@@ -1,7 +1,7 @@
 ---
 measure: H.R. 323
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `31 U.S.C. § 5313` | amend | Section 5313(e) of title 31, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 5318` | add-at-end | Section 5318 of title 31, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 5318 of title 31, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
