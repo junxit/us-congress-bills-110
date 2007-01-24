@@ -1,7 +1,7 @@
 ---
 measure: H.R. 476
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 476
@@ -75,10 +75,11 @@ To amend title 5, United States Code, to make noncreditable for Federal retireme
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Accountability Committee
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (2)
 
@@ -105,3 +106,4 @@ To amend title 5, United States Code, to make noncreditable for Federal retireme
 - 2007-01-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-01-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 431 - 0 (Roll no. 49). (text: CR 1/22/2007 H807)
 - 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 431 - 0 (Roll no. 49).(text: CR 1/22/2007 H807)
+- 2007-01-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
