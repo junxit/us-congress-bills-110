@@ -1,7 +1,7 @@
 ---
 measure: H.R. 323
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 323
@@ -44,9 +44,10 @@ Seasoned Customer CTR Exemption Act of 2007
 - Rep. Davis, Artur [D-AL-7] (D000602)
 - Rep. Campbell, John [R-CA-48] (C001064)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ Seasoned Customer CTR Exemption Act of 2007
 - 2007-01-23 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
 - 2007-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H848-849)
 - 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H848-849)
+- 2007-01-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
