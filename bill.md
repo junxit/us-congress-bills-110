@@ -32,7 +32,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That it is the sense of Congress that—
 
-- **(1)** it is not in the national interest of the United States to deepen its military involvement in Iraq, particularly by escalating the United States military force presence in Iraq;
+- **(1)** it is not in the national interest of the United States to deepen its military involvement in Iraq, particularly by escalatingincreasing the United States military force presence in Iraq;
 - **(2)** the primary objective of United States strategy in Iraq should be to have the Iraqi political leaders make the political compromises necessary to end the violence in Iraq;
 - **(3)** greater concerted regional, and international support would assist the Iraqis in achieving a political solution and national reconciliation;
 - **(4)** main elements of the mission of United States forces in Iraq should transition to helping ensure the territorial integrity of Iraq, conduct counterterrorism activities, reduce regional interference in the internal affairs of Iraq, and accelerate training of Iraqi troops;
