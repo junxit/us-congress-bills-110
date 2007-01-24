@@ -1,7 +1,7 @@
 ---
 measure: H.R. 599
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 599
@@ -37,9 +37,10 @@ To direct the Secretary of Homeland Security to streamline the SAFETY Act and an
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ To direct the Secretary of Homeland Security to streamline the SAFETY Act and an
 - 2007-01-23 — Mr. Langevin moved to suspend the rules and pass the bill.
 - 2007-01-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 47). (text: CR H855)
 - 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 427 - 0 (Roll no. 47).(text: CR H855)
+- 2007-01-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
