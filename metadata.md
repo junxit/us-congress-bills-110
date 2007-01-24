@@ -1,7 +1,7 @@
 ---
 measure: H.R. 392
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 392
@@ -26,9 +26,10 @@ District of Columbia and United States Territories Circulating Quarter Dollar Pr
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ District of Columbia and United States Territories Circulating Quarter Dollar Pr
 - 2007-01-23 — Mr. Gutierrez moved to suspend the rules and pass the bill.
 - 2007-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H851-852)
 - 2007-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H851-852)
+- 2007-01-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
