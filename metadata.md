@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 24
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 24
@@ -29,3 +29,7 @@ A resolution designating January 2007 as "National Stalking Awareness Month".
 - 2007-01-11 — Introduced in Senate
 - 2007-01-11 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S465)
 - 2007-01-11 — Sponsor introductory remarks on measure. (CR S464-465)
+- 2007-01-25 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-01-25 — Committee on the Judiciary. Reported by Senator Biden without amendment and with a preamble. Without written report.
+- 2007-01-25 — Committee on the Judiciary. Reported by Senator Biden without amendment and with a preamble. Without written report.
+- 2007-01-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
