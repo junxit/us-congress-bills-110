@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 29
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 29
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate regarding Martin Luther King, Jr
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Cosponsors (41)
+## Cosponsors (42)
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
@@ -59,6 +59,7 @@ A resolution expressing the sense of the Senate regarding Martin Luther King, Jr
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Kyl, Jon [R-AZ] (K000352)
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (1)
 
@@ -72,3 +73,5 @@ A resolution expressing the sense of the Senate regarding Martin Luther King, Jr
 - 2007-01-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-01-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-01-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.
+- 2007-01-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1245-1246; text as passed Senate: CR S1245-1246)
+- 2007-01-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1245-1246; text as passed Senate: CR S1245-1246)
