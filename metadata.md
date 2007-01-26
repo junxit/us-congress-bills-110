@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 24
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 24
@@ -16,9 +16,10 @@ A resolution designating January 2007 as "National Stalking Awareness Month".
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 
 ## Committees (1)
 
@@ -33,3 +34,5 @@ A resolution designating January 2007 as "National Stalking Awareness Month".
 - 2007-01-25 — Committee on the Judiciary. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2007-01-25 — Committee on the Judiciary. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2007-01-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 14.
+- 2007-01-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1244-1245; text as passed Senate: CR S1244-1245)
+- 2007-01-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1244-1245; text as passed Senate: CR S1244-1245)
