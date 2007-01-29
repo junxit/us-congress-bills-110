@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 59
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 59
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Engineeers Week, and for other purpo
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Cosponsors (21)
+## Cosponsors (27)
 
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
@@ -39,6 +39,12 @@ Supporting the goals and ideals of National Engineeers Week, and for other purpo
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
 
 ## Committees (1)
 
@@ -49,3 +55,8 @@ Supporting the goals and ideals of National Engineeers Week, and for other purpo
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Referred to the House Committee on Science and Technology.
+- 2007-01-24 — Committee Consideration and Mark-up Session Held.
+- 2007-01-24 — Ordered to be Reported.
+- 2007-01-29 — Placed on the House Calendar, Calendar No. 5.
+- 2007-01-29 — Reported by the Committee on Science and Technology. H. Rept. 110-5.
+- 2007-01-29 — Reported by the Committee on Science and Technology. H. Rept. 110-5.
