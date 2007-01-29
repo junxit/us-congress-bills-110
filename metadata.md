@@ -1,7 +1,7 @@
 ---
 measure: H.R. 335
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 335
@@ -25,3 +25,9 @@ To designate the facility of the United States Postal Service located at 152 Nor
 - 2007-01-09 — Introduced in House
 - 2007-01-09 — Introduced in House
 - 2007-01-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-01-29 — Considered under suspension of the rules. (consideration: CR H955-956)
+- 2007-01-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 335.
+- 2007-01-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-29 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-01-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H955)
+- 2007-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H955)
