@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 34
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 34
@@ -16,7 +16,7 @@ Honoring the life of Percy Lavon Julian, a pioneer in the field of organic chemi
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -29,6 +29,7 @@ Honoring the life of Percy Lavon Julian, a pioneer in the field of organic chemi
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
 
 ## Committees (1)
 
@@ -39,3 +40,8 @@ Honoring the life of Percy Lavon Julian, a pioneer in the field of organic chemi
 - 2007-01-18 — Introduced in House
 - 2007-01-18 — Introduced in House
 - 2007-01-18 — Referred to the House Committee on Science and Technology.
+- 2007-01-24 — Committee Consideration and Mark-up Session Held.
+- 2007-01-24 — Ordered to be Reported.
+- 2007-01-29 — Placed on the House Calendar, Calendar No. 4.
+- 2007-01-29 — Reported by the Committee on Science and Technology. H. Rept. 110-4.
+- 2007-01-29 — Reported by the Committee on Science and Technology. H. Rept. 110-4.
