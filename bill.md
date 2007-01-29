@@ -2,7 +2,7 @@
 legis-num: H. RES. 82
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 82
@@ -13,8 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas on January 2, 2007, the University of Louisville Cardinals football team defeated the Wake Forest Demon Deacons 24–13 at Dolphin Stadium in Miami, Florida, to win the Orange Bowl;
 - Whereas the Cardinals victory marked the climax of a 12–1 season, which yielded the most wins in the program’s history, a Big East Championship, and the school’s first Bowl Championship Series victory;
-- Whereas junior quarterback Brian Brohm was named the most valuable player of the game after completing 24 of 34 passes for 312 yards, and junior wide receiver Harry Douglas tied an Orange Bowl record with 10 catches and 165 receiving yards to finish the season with a school record 1,265 receiving yards;
-- Whereas the Cardinals offensive line provided protection and momentum throughout the season and was a major factor in the team’s 475 yards of offense in the Orange Bowl;
+- Whereas junior quarterback Brian Brohm was named the most valuable player of the game after completing 24 of 34 passes for 311 yards, and junior wide receiver Harry Douglas tied an Orange Bowl record with 10 catches totaling 165 receiving yards and finished the season with a school record 1,265 receiving yards;
+- Whereas the Cardinals offensive line provided protection and momentum throughout the season and was a major factor in the team’s 457 yards of offense in the Orange Bowl;
 - Whereas the relentless defense of the Cardinals played a vital role in the Orange Bowl victory;
 - Whereas the Cardinals defense was led by senior cornerback William Gay, who broke up 2 passes late in the game and extinguished the final hope of the Demon Deacons with an interception;
 - Whereas the success of the Cardinals is due in no small part to the dedication of Coach Bobby Petrino and his staff, as well as the Cardinals coaches of the last 2 decades, who led a magnificent ascent begun by Coach Howard Schnellenberger;
