@@ -2,7 +2,7 @@
 legis-num: H. RES. 24
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 24
@@ -21,7 +21,7 @@ There is established in the House of Representatives a commission to be known as
 
 ## § 3. Duties
 
-- **(a)** *Activities* The Commission shall work with the legislatures of partner countries, as determined pursuant to subsections (b) and (c)(3), on a frequent and regular basis in order to—
+- **(a)** *Activities* The Commission shall work with the legislatures of partner countries, as determined pursuant to paragraphs (2) and (3) of subsection (b), on a frequent and regular basis in order to—
   - **(1)** enable Members, officers, and staff of the House of Representatives and congressional support agencies to provide expert advice and consultation to members and staff of the legislatures of partner countries;
   - **(2)** enable members and staff of legislatures of partner countries to study the operations of the House of Representatives and its support agencies; and
   - **(3)** provide recommendations to the Administrator of the United States Agency for International Development regarding the provision of material assistance, such as modern automation and office systems, information technology, and library supplies, as the Commission determines to be needed by a legislature of a partner country in order to improve the efficiency and transparency of its work, and to oversee the provision of such assistance.
@@ -35,16 +35,16 @@ There is established in the House of Representatives a commission to be known as
 - **(c)** *Reports*
   - **(1)** *In general* Not later than December 31, 2007, and each December 31 thereafter, the Commission shall prepare and submit to the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, appropriate House committees, the Office of Interparliamentary Affairs of the House of Representatives, and the Administrator of the United States Agency for International Development, an annual report on the Commission’s activities, including a review of the activities of the Commission in the current year and a proposal for the activities of the Commission in the upcoming year, as described in subsection (a).
   - **(2)** *Definition* In this subsection, the term “appropriate House committees” means the following committees of the House of Representatives:
-    - **(A)** The Committee on International Relations.
+    - **(A)** The Committee on Foreign Affairs.
     - **(B)** The Committee on Appropriations.
     - **(C)** The Committee on House Administration.
     - **(D)** The Committee on Rules.
 
-## § 4. Role of the Committee on International Relations
+## § 4. Role of the Committee on Foreign Affairs
 
-- **(a)** *In General* The Commission shall carry out the duties described in section 3 using the staff and resources of the Committee on International Relations, including the use of consultants or temporary employees, such as individuals with expertise in development of democratic parliaments, legislative systems management, legislative research, parliamentary procedure, related legislative matters, and technology systems management, as appropriate.
+- **(a)** *In General* The Commission shall carry out the duties described in section 3 using the staff and resources of the Committee on Foreign Affairs, including the use of consultants or temporary employees, such as individuals with expertise in development of democratic parliaments, legislative systems management, legislative research, parliamentary procedure, related legislative matters, and technology systems management, as appropriate.
 - **(b)** *Participation of Legislative Branch Employees* At the request of the Commission, the head of any office of the House of Representatives or any congressional support agency may assist the work of the Commission by—
-  - **(1)** detailing personnel to the staff of the Committee on International Relations or another standing committee of the House of Representatives; or
+  - **(1)** detailing personnel to the staff of the Committee on Foreign Affairs or another standing committee of the House of Representatives; or
   - **(2)** authorizing personnel to participate in activities of the Commission.
 
 ## § 5. Transition From Former Commission
