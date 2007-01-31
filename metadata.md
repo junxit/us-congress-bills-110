@@ -1,7 +1,7 @@
 ---
 measure: H.R. 335
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 335
@@ -16,9 +16,10 @@ To designate the facility of the United States Postal Service located at 152 Nor
 
 - Rep. Cubin, Barbara [R-WY-At Large] (C000962)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To designate the facility of the United States Postal Service located at 152 Nor
 - 2007-01-29 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2007-01-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H955)
 - 2007-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H955)
+- 2007-01-31 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
