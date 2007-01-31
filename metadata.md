@@ -1,7 +1,7 @@
 ---
 measure: H.R. 521
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 521
@@ -103,9 +103,10 @@ To designate the facility of the United States Postal Service located at 2633 11
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -124,3 +125,4 @@ To designate the facility of the United States Postal Service located at 2633 11
 - 2007-01-29 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2007-01-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 58). (text: CR H949)
 - 2007-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 58).(text: CR H949)
+- 2007-01-31 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
