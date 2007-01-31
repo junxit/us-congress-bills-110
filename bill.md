@@ -2,12 +2,12 @@
 legis-num: H. RES. 59
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 59
 
-> Supporting the goals and ideals of National Engineeers Week, and for other purposes.
+> Supporting the goals and ideals of National Engineer Week, and for other purposes.
 
 ## Preamble
 

@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 59
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 59
@@ -60,3 +60,11 @@ Supporting the goals and ideals of National Engineeers Week, and for other purpo
 - 2007-01-29 — Placed on the House Calendar, Calendar No. 5.
 - 2007-01-29 — Reported by the Committee on Science and Technology. H. Rept. 110-5.
 - 2007-01-29 — Reported by the Committee on Science and Technology. H. Rept. 110-5.
+- 2007-01-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-01-30 — Considered under suspension of the rules. (consideration: CR H1004-1007)
+- 2007-01-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 59.
+- 2007-01-30 — Mr. Lipinski moved to suspend the rules and agree to the resolution.
+- 2007-01-31 — Considered as unfinished business. (consideration: CR H1068-1069)
+- 2007-01-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-01-31 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 64). (text: CR 1/30/2007 H1004)
+- 2007-01-31 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 64).(text: CR 1/30/2007 H1004)
