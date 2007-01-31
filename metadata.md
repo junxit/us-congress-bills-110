@@ -1,7 +1,7 @@
 ---
 measure: H.R. 521
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 521
@@ -122,3 +122,16 @@ To designate the facility of the United States Postal Service located at 2633 11
 - 2007-01-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 58). (text: CR H949)
 - 2007-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 58).(text: CR H949)
 - 2007-01-31 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-02-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-02-17 — Cleared for White House.
+- 2007-02-17 — Passed Senate without amendment by Unanimous Consent.
+- 2007-02-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S2217-2218)
+- 2007-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S2217-2218)
+- 2007-02-20 — Message on Senate action sent to the House.
+- 2007-03-05 — Presented to President.
+- 2007-03-05 — Presented to President.
+- 2007-03-15 — Became Public Law No: 110-12.
+- 2007-03-15 — Became Public Law No: 110-12.
+- 2007-03-15 — Signed by President.
+- 2007-03-15 — Signed by President.
