@@ -1,0 +1,162 @@
+---
+measure: H.R. 758
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 758
+
+Breast Cancer Patient Protection Act of 2008
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+
+## Cosponsors (127)
+
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. Millender-McDonald, Juanita [D-CA-37] (M000714)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+
+## Committees (3)
+
+- House — Education and the Workforce Committee
+- House — Ways and Means Committee
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2007-01-31 — Introduced in House
+- 2007-01-31 — Introduced in House
+- 2007-01-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-01-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-01-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-01-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
