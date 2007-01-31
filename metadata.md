@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 34
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 34
@@ -58,3 +58,6 @@ Honoring the life of Percy Lavon Julian, a pioneer in the field of organic chemi
 - 2007-01-31 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 65). (text: CR 1/30/2007 H1007)
 - 2007-01-31 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 65).(text: CR 1/30/2007 H1007)
 - 2007-01-31 — Received in the Senate.
+- 2007-02-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1542)
+- 2007-02-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1542)
+- 2007-02-05 — Message on Senate action sent to the House.
