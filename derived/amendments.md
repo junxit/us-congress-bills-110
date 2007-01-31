@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 20
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -116,7 +116,7 @@ to guess them.
 
 ### 42 U.S.C. § 1437f
 
-> in subsection (a)(1), by striking “October 1, 2006” and inserting “October 1, 2011”, and
+> in subsection (a)(1), by striking “October 1, 2006” and inserting “October 1, 2011”; and
 
 | | |
 |---|---|
@@ -154,7 +154,7 @@ complete account of the bill's effect, which it is not.
 | — | repeal | Section 302 of Public Law 102–377 is repealed. | the bill names no machine-readable US Code section |
 | — | strike | Title III of the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103) is amended by striking sections 310 and 312. | the bill names no machine-readable US Code section |
 | — | replace | Section 599D of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2006 (Public Law 109–102) is amended by striking “certifies” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The Inter-American Development Bank Act (22 U.S.C. 283—283z–10) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Inter-American Development Bank Act (22 U.S.C. 283–283z–10) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 123 of Public Law 109–54 is amended by striking “9” in the first sentence and inserting “10”. | the bill names no machine-readable US Code section |
 | — | replace | Section 337 of division E of Public Law 108–447 is amended by striking “2006” and inserting “2007”. | the bill names no machine-readable US Code section |
 | `29 U.S.C. § 2943` | amend | Section 193 of the Workforce Investment Act of 1998 (29 U.S.C. 2943) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
