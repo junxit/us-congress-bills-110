@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 20
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 20
