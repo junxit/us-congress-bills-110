@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 34
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 34
