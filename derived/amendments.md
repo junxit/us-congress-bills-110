@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 20
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `October 1, 2006` |
 | Inserted | `October 1, 2007` |
 
-### 8 U.S.C. § 1157
+### 8 U.S.C. § 1255
 
 > in subsection (b)(3), by striking “and 2006” and inserting “2006, and 2007”; and
 
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `and 2006` |
 | Inserted | `2006, and 2007` |
 
-### 8 U.S.C. § 1157
+### 8 U.S.C. § 1255
 
 > in subsection (e), by striking “2006” each place it appears and inserting “2007”; and
 
