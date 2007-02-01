@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 20
 congress: 110
-version: Received in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 20
@@ -49,3 +49,4 @@ Revised Continuing Appropriations Resolution, 2007
 - 2007-01-31 — Rule provides for consideration of H.J. Res. 20 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2007-01-31 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H1111)
 - 2007-01-31 — The previous question was ordered pursuant to the rule. (consideration: CR H1110)
+- 2007-02-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
