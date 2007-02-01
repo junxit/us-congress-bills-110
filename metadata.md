@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 20
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 20
@@ -15,6 +15,57 @@ Revised Continuing Appropriations Resolution, 2007
 ## Sponsor
 
 - Rep. Obey, David R. [D-WI-7] (O000007)
+
+## Cosponsors (48)
+
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Thomas, Craig [R-WY] (T000162)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Crapo, Mike [R-ID] (C000880)
 
 ## Committees (1)
 
@@ -50,3 +101,78 @@ Revised Continuing Appropriations Resolution, 2007
 - 2007-01-31 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H1111)
 - 2007-01-31 — The previous question was ordered pursuant to the rule. (consideration: CR H1110)
 - 2007-02-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
+- 2007-02-07 — Senate amendment submitted
+- 2007-02-07 — Senate amendment submitted
+- 2007-02-07 — Senate amendment submitted
+- 2007-02-07 — Senate amendment submitted
+- 2007-02-08 — Amendment SA 237 proposed by Senator Reid. (consideration: CR S1746; text: CR S1746) To change an effective date.
+- 2007-02-08 — Amendment SA 238 proposed by Senator Reid to Amendment SA 237. (consideration: CR S1746) Of a technical nature.
+- 2007-02-08 — Amendment SA 239 proposed by Senator Reid. (consideration: CR S1746) To change an effective date.
+- 2007-02-08 — Amendment SA 240 proposed by Senator Reid to Amendment SA 239 (the instructions). (consideration: CR S1746) Of a technical nature.
+- 2007-02-08 — Amendment SA 241 proposed by Senator Reid to Amendment SA 240. Of a technical nature.
+- 2007-02-08 — Cloture motion on the bill presented in Senate. (consideration: CR S1746-1750; text: CR S1746)
+- 2007-02-08 — Measure laid before Senate by unanimous consent. (consideration: CR S1746-1750)
+- 2007-02-08 — Motion by Senator Reid to commit to Senate Committee on Appropriations to report back forthwith with the following amendment (SA 239) made in Senate.
+- 2007-02-08 — Senate amendment proposed (on the floor): Amendment SA 237 proposed by Senator Reid.(consideration: CR S1746; text: CR S1746)
+- 2007-02-08 — Senate amendment proposed (on the floor): Amendment SA 238 proposed by Senator Reid to Amendment SA 237.(consideration: CR S1746)
+- 2007-02-08 — Senate amendment proposed (on the floor): Amendment SA 239 proposed by Senator Reid.(consideration: CR S1746)
+- 2007-02-08 — Senate amendment proposed (on the floor): Amendment SA 240 proposed by Senator Reid to Amendment SA 239 (the instructions).(consideration: CR S1746)
+- 2007-02-08 — Senate amendment proposed (on the floor): Amendment SA 241 proposed by Senator Reid to Amendment SA 240.
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-08 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-12 — Senate amendment submitted
+- 2007-02-13 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 71 - 26. Record Vote Number: 46. (consideration: CR S1890; text: CR S1890)
+- 2007-02-13 — Considered by Senate. (consideration: CR S1889)
+- 2007-02-13 — Considered by Senate. (consideration: CR S1889)
+- 2007-02-13 — Considered by Senate. (consideration: CR S1889)
+- 2007-02-13 — Considered by Senate. (consideration: CR S1889)
+- 2007-02-13 — Considered by Senate. (consideration: CR S1889)
+- 2007-02-13 — Considered by Senate. (consideration: CR S1889-1890, S1891-1897)
+- 2007-02-13 — Senate amendment submitted
+- 2007-02-13 — Senate amendment submitted
+- 2007-02-14 — Cleared for White House.
+- 2007-02-14 — Considered by Senate.
+- 2007-02-14 — Considered by Senate. (consideration: CR S1933, S1937, S1942-1952, S1953)
+- 2007-02-14 — Considered by Senate. (consideration: CR S1933, S1953)
+- 2007-02-14 — Considered by Senate. (consideration: CR S1933, S1953)
+- 2007-02-14 — Considered by Senate. (consideration: CR S1933, S1953)
+- 2007-02-14 — Considered by Senate. (consideration: CR S1933, S1953)
+- 2007-02-14 — Message on Senate action sent to the House.
+- 2007-02-14 — Motion by Senator Reid to commit to Senate Committee on Appropriations withdrawn in Senate by Unanimous Consent.
+- 2007-02-14 — Passed Senate without amendment by Yea-Nay Vote. 81 - 15. Record Vote Number: 48.
+- 2007-02-14 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 81 - 15. Record Vote Number: 48.
+- 2007-02-14 — Proposed amendment SA 237 withdrawn in Senate.
+- 2007-02-14 — Proposed amendment SA 238 withdrawn in Senate.
+- 2007-02-14 — SA 239 (the instructions) fell when motion to commit withdrawn.
+- 2007-02-14 — SA 240 fell when SA 239 fell.
+- 2007-02-14 — SA 241 fell when SA 240 fell.
+- 2007-02-15 — Became Public Law No: 110-5.
+- 2007-02-15 — Became Public Law No: 110-5.
+- 2007-02-15 — Presented to President.
+- 2007-02-15 — Presented to President.
+- 2007-02-15 — Signed by President.
+- 2007-02-15 — Signed by President.

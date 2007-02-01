@@ -1,8 +1,8 @@
 ---
 legis-num: H.J. RES. 20
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.J. RES. 20
