@@ -1,7 +1,7 @@
 ---
 measure: S. 153
 congress: 110
-version: Introduced in Senate
+version: Committee Discharged Senate
 ---
 
 # S. 153
@@ -25,3 +25,6 @@ Healthy Firefighters Act
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S142)
+- 2007-02-05 — Referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-02-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2007-02-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
