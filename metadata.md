@@ -1,7 +1,7 @@
 ---
 measure: H.R. 514
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 514
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 16150 A
 - Rep. Weldon, Dave [R-FL-15] (W000267)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ To designate the facility of the United States Postal Service located at 16150 A
 - 2007-02-05 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2007-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1158)
 - 2007-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1158)
+- 2007-02-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
