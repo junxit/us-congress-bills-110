@@ -1,7 +1,7 @@
 ---
 measure: H.R. 235
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 422a` | amend | By amending paragraph (2) of subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 422a` | strike | By striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | By amending paragraph (2) of subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | By striking subsection (c). | the bill names no machine-readable US Code section |
