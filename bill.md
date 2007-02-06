@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 861
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 861
+
+> To amend title 18, United States Code, to provide a national standard in accordance with which nonresidents of a State may carry concealed firearms in the State.
+
+## § 1. Short title
+
+This Act may be cited as the “National Right-to-Carry Reciprocity Act of 2007”.
+
+## § 2. National standard for the carrying of certain concealed firearms by nonresidents
+
+- **(a)** *In general* Chapter 44 of title 18, United States Code, is amended by inserting after section 926C the following:
+  > ## § 926D. National standard for the carrying of certain concealed firearms by nonresidents
+  >
+  > - **(a)** Notwithstanding any provision of the law of any State or political subdivision thereof, a person who is not prohibited by Federal law from possessing, transporting, shipping, or receiving a firearm and is carrying a valid license or permit which is issued by a State and which permits the person to carry a concealed firearm (other than a machinegun or destructive device) may carry in another State a concealed firearm (other than a machinegun or destructive device) that has been shipped or transported in interstate or foreign commerce, subject to subsection (b).
+  > - **(b)**
+  >   - **(1)** If such other State issues licenses or permits to carry concealed firearms, the person may carry a concealed firearm in the State under the same restrictions which apply to the carrying of a concealed firearm by a person to whom the State has issued such a license or permit.
+  >   - **(2)** If such other State does not issue licenses or permits to carry concealed firearms, the person may not, in the State, carry a concealed firearm in a police station, in a public detention facility, in a courthouse, in a public polling place, at a meeting of a State, county, or municipal governing body, in a school, at a professional or school athletic event not related to firearms, in a portion of an establishment licensed by the State to dispense alcoholic beverages for consumption on the premises, or inside the sterile or passenger area of an airport, except to the extent expressly permitted by State law.
+
+- **(b)** *Clerical amendment* The table of sections for such chapter is amended by inserting after the item relating to section 926C the following:
