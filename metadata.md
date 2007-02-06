@@ -1,7 +1,7 @@
 ---
 measure: H.R. 577
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 577
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 3903 So
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -65,3 +66,4 @@ To designate the facility of the United States Postal Service located at 3903 So
 - 2007-02-05 — Mr. Lynch moved to suspend the rules and pass the bill.
 - 2007-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1156)
 - 2007-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1156)
+- 2007-02-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
