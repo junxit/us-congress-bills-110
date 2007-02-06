@@ -16,7 +16,7 @@ This Act may be cited as the “Bainbridge Island Japanese American Monument Act
 ## § 2. Boundary adjustment
 
 - **(a)** *In general* The boundary of the Minidoka Internment National Monument, located in the State of Idaho and established by Presidential Proclamation 7395 of January 17, 2001, is adjusted to include the Nidoto Nai Yoni (“Let it not happen again”) memorial. That memorial—
-  - **(1)** commemorates the Japanese Americans of Bainbridge Island, Washington, who were the first to be forcibly removed from their homes and relocated to internment camps during World War II under Executive Order 9066: and
+  - **(1)** commemorates the Japanese Americans of Bainbridge Island, Washington, who were the first to be forcibly removed from their homes and relocated to internment camps during World War II under Executive Order No. 9066; and
   - **(2)** consists of approximately 8 acres of land owned by the City of Bainbridge Island, Washington, as depicted on the map titled “Bainbridge Island Japanese American Memorial”, numbered 194/80,003, and dated September, 2006.
 - **(b)** *Map* The map referred to in subsection (a) shall be kept on file and made available for public inspection in the appropriate offices of the National Parks Service.
 
