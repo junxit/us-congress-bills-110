@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 512
@@ -16,7 +16,7 @@ Commission to Study the Potential Creation of the National Museum of the America
 
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 
-## Cosponsors (50)
+## Cosponsors (108)
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -68,6 +68,64 @@ Commission to Study the Potential Creation of the National Museum of the America
 - Rep. Renzi, Rick [R-AZ-1] (R000574)
 - Rep. Weller, Jerry [R-IL-11] (W000273)
 - Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Pearce, Stevan [R-NM-2] (P000588)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
 
 ## Committees (2)
 
@@ -81,3 +139,9 @@ Commission to Study the Potential Creation of the National Museum of the America
 - 2007-01-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-02-06 — Considered under suspension of the rules. (consideration: CR H1222-1225)
+- 2007-02-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 512.
+- 2007-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-06 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2007-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1222)
+- 2007-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1222)
