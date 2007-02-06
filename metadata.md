@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 35
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 35
@@ -59,9 +59,10 @@ Supporting the goals and ideals of National Black HIV/AIDS Awareness Day.
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -81,3 +82,4 @@ Supporting the goals and ideals of National Black HIV/AIDS Awareness Day.
 - 2007-02-05 — Mr. Towns moved to suspend the rules and agree to the resolution, as amended.
 - 2007-02-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 75). (text: CR H1162-1163)
 - 2007-02-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 75).(text: CR H1162-1163)
+- 2007-02-06 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
