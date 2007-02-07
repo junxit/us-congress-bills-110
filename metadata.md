@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 512
@@ -127,10 +127,11 @@ Commission to Study the Potential Creation of the National Museum of the America
 - Rep. English, Phil [R-PA-3] (E000187)
 - Rep. Walsh, James T. [R-NY-25] (W000099)
 
-## Committees (2)
+## Committees (3)
 
 - House — Committee on House Administration
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -145,3 +146,4 @@ Commission to Study the Potential Creation of the National Museum of the America
 - 2007-02-06 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2007-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1222)
 - 2007-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1222)
+- 2007-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
