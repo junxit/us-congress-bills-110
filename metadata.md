@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 120
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 120
@@ -16,7 +16,7 @@ Recognizing the African American spiritual as a national treasure.
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Cosponsors (52)
+## Cosponsors (59)
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
@@ -70,13 +70,32 @@ Recognizing the African American spiritual as a national treasure.
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2007-02-07 — [House 110-1-79](votes/house-110-1-0079.md) — On Motion to Suspend the Rules and Agree — **Passed** (426–0)
 
 ## Actions
 
 - 2007-01-31 — Introduced in House
 - 2007-01-31 — Introduced in House
 - 2007-01-31 — Referred to the House Committee on Education and Labor.
+- 2007-02-07 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-02-07 — Considered as unfinished business. (consideration: CR H1302-1303)
+- 2007-02-07 — Considered under suspension of the rules. (consideration: CR H1288-1291)
+- 2007-02-07 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 120.
+- 2007-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-07 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2007-02-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 79). (text: CR H1288)
+- 2007-02-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 79).(text: CR H1288)
