@@ -1,7 +1,7 @@
 ---
 measure: H.R. 356
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 356
@@ -16,9 +16,10 @@ To remove certain restrictions on the Mammoth Community Water District's ability
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To remove certain restrictions on the Mammoth Community Water District's ability
 - 2007-02-06 — Mrs. Napolitano moved to suspend the rules and pass the bill.
 - 2007-02-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1225-1226)
 - 2007-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1225-1226)
+- 2007-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
