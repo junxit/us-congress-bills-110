@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 99
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 99
@@ -30,3 +30,9 @@ Commending the University of Nebraska-Lincoln volleyball team for winning the NC
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Referred to the House Committee on Education and Labor.
+- 2007-02-07 — Considered under suspension of the rules. (consideration: CR H1286-1288)
+- 2007-02-07 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 99.
+- 2007-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-07 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-02-07 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H1286)
+- 2007-02-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H1286)
