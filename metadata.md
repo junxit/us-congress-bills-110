@@ -1,7 +1,7 @@
 ---
 measure: H.R. 161
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 161
@@ -34,9 +34,10 @@ Minidoka National Historic Site Act
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Smith, Adam [D-WA-9] (S000510)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Minidoka National Historic Site Act
 - 2007-02-06 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-02-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 76). (text: CR H1218-1219)
 - 2007-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 76).(text: CR H1218-1219)
+- 2007-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
