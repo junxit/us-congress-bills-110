@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 131
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 131
@@ -16,7 +16,7 @@ Recognizing and honoring the lifetime contributions of Rafael Jose Diaz-Balart o
 
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 
-## Cosponsors (22)
+## Cosponsors (24)
 
 - Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
@@ -40,6 +40,8 @@ Recognizing and honoring the lifetime contributions of Rafael Jose Diaz-Balart o
 - Rep. Boyd, Allen [D-FL-2] (B000716)
 - Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
 - Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Weldon, Dave [R-FL-15] (W000267)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 
 ## Committees (1)
 
@@ -50,3 +52,9 @@ Recognizing and honoring the lifetime contributions of Rafael Jose Diaz-Balart o
 - 2007-02-06 — Introduced in House
 - 2007-02-06 — Introduced in House
 - 2007-02-06 — Referred to the House Committee on Education and Labor.
+- 2007-02-07 — Considered under suspension of the rules. (consideration: CR H1304-1306)
+- 2007-02-07 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 131.
+- 2007-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-07 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-02-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1304)
+- 2007-02-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1304)

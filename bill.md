@@ -2,12 +2,12 @@
 legis-num: H. RES. 131
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 131
 
-> Recognizing and honoring the lifetime contributions of Rafael Jose Diaz-Balart on the dedication of the Rafael Diaz-Balart Hall at the Florida International University College of Law.
+> Recognizing and honoring the lifetime contributions of Rafael José Diaz-Balart on the dedication of the Rafael Diaz-Balart-Hall at the Florida International University College of Law.
 
 ## Preamble
 
@@ -19,8 +19,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Rafael José Diaz-Balart lived in exile after 1959, and became a proud citizen of the United States;
 - Whereas along with his son, Rafael Lincoln Diaz-Balart, Rafael José Diaz-Balart commenced law school at the University of Madrid, Spain, and in 1965, at age 66, earned a second Law Degree;
 - Whereas Rafael José Diaz-Balart died in Miami, Florida in 1985;
-- Whereas Rafael José Diaz-Balart instilled not only in his son, but in his four grandsons a sense of honor and service, which led them to become prominent members of American society;
-- Whereas his son, Rafael Lincoln, was a prominent member of the Cuban House of Representatives, and his grandsons, Lincoln Diaz-Balart and Mario Diaz-Balart were elected to the United States House of Representatives in 1992 and 2002, respectively, Jose Diaz Balart became a prominent journalist as the Washington bureau chief for Telemundo Network and was the first United States journalist to host daily Spanish and English language newscasts, and Rafael Diaz-Balart became a prominent Miami investment banker;
+- Whereas Rafael José Diaz-Balart instilled not only in his son, but in his four grandsons a sense honor and service, which led them to become prominent members of American society;
+- Whereas his son, Rafael Lincoln, was a prominent member of the Cuban House of Representatives, and his grandsons, Lincoln Diaz-Balart and Mario Diaz-Balart were elected to the United States House of Representatives in 1992 and 2002, respectively, Jose Diaz Balart became a prominent journalist as the Washington bureau chief for Telemundo Network and was the first United States journalist to host daily Spanish and English language newscasts, and Rafael Diaz Balart became a prominent Miami investment banker;
 - Whereas, on February 10, 2007, Florida International University will dedicate the Rafael Diaz-Balart Hall as the new home of the College of Law;
 - Whereas Rafael Diaz-Balart Hall will provide a state-of-the-art facility for teaching, research, and study, as well as scholarly and social interaction; and
 - Whereas the Rafael Diaz-Balart Hall was designed by the internationally renowned architect Robert A. M. Stern, Dean of the School of Architecture at Yale University: Now, therefore, be it
