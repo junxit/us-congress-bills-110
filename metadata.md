@@ -1,7 +1,7 @@
 ---
 measure: H.R. 365
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 365
@@ -141,9 +141,10 @@ Methamphetamine Remediation Research Act of 2007
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -167,3 +168,4 @@ Methamphetamine Remediation Research Act of 2007
 - 2007-02-07 — Placed on the Union Calendar, Calendar No. 3.
 - 2007-02-07 — Reported by the Committee on Science and Technology. H. Rept. 110-8.
 - 2007-02-07 — Reported by the Committee on Science and Technology. H. Rept. 110-8.
+- 2007-02-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
