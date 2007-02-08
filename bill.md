@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 971
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 971
+
+> To ensure and foster continued patient safety and quality of care by making the antitrust laws apply to negotiations between groups of independent pharmacies and health plans and health insurance issuers (including health plans under parts C and D of the Medicare Program) in the same manner as such laws apply to protected activities under the National Labor Relations Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Community Pharmacy Fairness Act of 2007”.
+
+## § 2. Application of the antitrust laws to independent pharmacies negotiating with health plans
+
+- **(a)** *In general* Any independent pharmacies who are engaged in negotiations with a health plan regarding the terms of any contract under which the pharmacies provide health care items or services for which benefits are provided under such plan shall, in connection with such negotiations, be entitled to the same treatment under the antitrust laws as the treatment to which bargaining units which are recognized under the National Labor Relations Act are entitled in connection with activities described in section 7 of such Act. Such a pharmacy shall, only in connection with such negotiations, be treated as an employee engaged in concerted activities and shall not be regarded as having the status of an employer, independent contractor, managerial employee, or supervisor.
+- **(b)** *Protection for good faith actions* Actions taken in good faith reliance on subsection (a) shall not be the subject under the antitrust laws of criminal sanctions nor of any civil damages, fees, or penalties beyond actual damages incurred.
+- **(c)** *No change in National Labor Relations Act* This section applies only to independent pharmacies excluded from the National Labor Relations Act. Nothing in this section shall be construed as changing or amending any provision of the National Labor Relations Act, or as affecting the status of any group of persons under that Act.
+- **(d)** *Effective date* The exemption provided in subsection (a) shall apply to conduct occurring beginning on the date of the enactment of this Act.
+- **(e)** *Limitation on exemption* Nothing in this section shall exempt from the application of the antitrust laws any agreement or otherwise unlawful conspiracy that excludes, limits the participation or reimbursement of, or otherwise limits the scope of services to be provided by any independent pharmacy or group of independent pharmacies with respect to the performance of services that are within their scope of practice as defined or permitted by relevant law or regulation.
+- **(f)** *No effect on title VI of Civil Rights Act of 1964* Nothing in this section shall be construed to affect the application of title VI of the Civil Rights Act of 1964.
+- **(g)** *No application to specified Federal programs* Nothing in this section shall apply to negotiations between independent pharmacies and health plans pertaining to benefits provided under any of the following:
+  - **(1)** The Medicaid Program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+  - **(2)** The State Children’s Health Insurance Program (SCHIP) under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.).
+  - **(3)** Chapter 55 of title 10, United States Code (relating to medical and dental care for members of the uniformed services).
+  - **(4)** Chapter 17 of title 38, United States Code (relating to Veterans’ medical care).
+  - **(5)** Chapter 89 of title 5, United States Code (relating to the Federal employees’ health benefits program).
+  - **(6)** The Indian Health Care Improvement Act (25 U.S.C. 1601 et seq.).
+- **(h)** *Definitions* For purposes of this section:
+  - **(1)** *Antitrust laws* The term antitrust laws—
+    - **(A)** has the meaning given it in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and
+    - **(B)** includes any State law similar to the laws referred to in subparagraph (A).
+  - **(2)** *Health plan and related terms*
+    - **(A)** *In general* The term health plan—
+      - **(i)** means a group health plan or a health insurance issuer that is offering health insurance coverage;
+      - **(ii)** includes a prescription drug plan offered under part D of title XVIII of the Social Security Act and a Medicare Advantage plan offered under part C of such title; and
+      - **(iii)** includes any entity that contracts with such a plan or issuer for the administering of services under the plan or coverage.
+    - **(B)** *Health insurance coverage; health insurance issuer* The terms health insurance coverage and health insurance issuer have the meanings given such terms under paragraphs (1) and (2), respectively, of section 733(b) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191b(b)).
+    - **(C)** *Group health plan* The term group health plan has the meaning given that term in section 733(a)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191b(a)(1)).
+  - **(3)** *Independent pharmacy* The term independent pharmacy means a pharmacy which is not owned (or operated) by a publicly traded company. For purposes of the previous sentence, the term publicly traded company means a company that is an issuer within the meaning of section 2(a)(7) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a)(7)).
