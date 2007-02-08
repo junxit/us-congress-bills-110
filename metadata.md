@@ -1,7 +1,7 @@
 ---
 measure: H.R. 742
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 742
@@ -36,3 +36,4 @@ Antitrust Modernization Commission Extension Act of 2007
 - 2007-02-07 — Mr. Conyers moved to suspend the rules and pass the bill.
 - 2007-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1297)
 - 2007-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1297)
+- 2007-02-08 — Received in the Senate, read twice.
