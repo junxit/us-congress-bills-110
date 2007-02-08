@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 37
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 37
@@ -28,3 +28,7 @@ A resolution designating March 26, 2007 as "National Support the Troops Day" and
 
 - 2007-01-23 — Introduced in Senate
 - 2007-01-23 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S923)
+- 2007-02-08 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-02-08 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-02-08 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-02-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 22.
