@@ -1,0 +1,45 @@
+---
+legis-num: S. 533
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 533
+
+> To amend the National Aquaculture Act of 1980 to prohibit the issuance of permits for marine aquaculture facilities until requirements for the permits are enacted into law.
+
+## § 1. Short title
+
+This Act may be cited as the “Natural Stock Conservation Act of 2007”.
+
+## § 2. Prohibition on permits for aquaculture
+
+The National Aquaculture Act of 1980 (16 U.S.C. 2801 et seq.) is amended—
+
+- **(1)** by redesignating sections 10 and 11 (16 U.S.C. 2809, 2810) as sections 11 and 12 respectively; and
+- **(2)** by inserting after section 9 (16 U.S.C. 2808) the following:
+  > ## § 10. Prohibition on permits for aquaculture
+  >
+  > - **(a)** *Definitions* In this section:
+  >   - **(1)** *Agency with jurisdiction to regulate aquaculture* The term agency with jurisdiction to regulate aquaculture means—
+  >     - **(A)** the Department of Agriculture;
+  >     - **(B)** the Coast Guard;
+  >     - **(C)** the Department of Commerce;
+  >     - **(D)** the Environmental Protection Agency;
+  >     - **(E)** the Department of the Interior; and
+  >     - **(F)** the Army Corps of Engineers.
+  >   - **(2)** *Exclusive economic zone* The term exclusive economic zone has the meaning given the term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).
+  >   - **(3)** *Regional fishery management council* The term regional fishery management council means a regional fishery management council established under section 302(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)).
+  > - **(b)** *Prohibition on permits for aquaculture* The head of an agency with jurisdiction to regulate aquaculture may not issue a permit or license to permit an aquaculture facility located in the exclusive economic zone to operate until after the effective date of a bill enacted into law that—
+  >   - **(1)** sets out the type and specificity of the analyses that the head of an agency with jurisdiction to regulate aquaculture shall carry out prior to issuing any such permit or license, including analyses related to—
+  >     - **(A)** disease control;
+  >     - **(B)** structural engineering;
+  >     - **(C)** pollution;
+  >     - **(D)** biological and genetic impacts;
+  >     - **(E)** access and transportation;
+  >     - **(F)** food safety; and
+  >     - **(G)** social and economic impacts of the facility on other marine activities, including commercial and recreational fishing; and
+  >   - **(2)** requires that a decision to issue such a permit or license be—
+  >     - **(A)** made only after the head of the agency that issues the license or permit consults with the Governor of each State located within a 200-mile radius of the aquaculture facility; and
+  >     - **(B)** approved by the regional fishery management council that is granted authority under title III of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.) over a fishery in the region where the aquaculture facility will be located.
