@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 133
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 133
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 547) to facilitate the development
 - 2007-02-07 — Placed on the House Calendar, Calendar No. 7.
 - 2007-02-07 — The House Committee on Rules reported an original measure, H. Rept. 110-9, by Mr. Welch (VT).
 - 2007-02-07 — The House Committee on Rules reported an original measure, H. Rept. 110-9, by Mr. Welch (VT).
+- 2007-02-08 — Considered as privileged matter. (consideration: CR H1350-1356)
+- 2007-02-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 133.
+- 2007-02-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-08 — On agreeing to the resolution Agreed to by voice vote. (text: CR H1350)
+- 2007-02-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H1350)
+- 2007-02-08 — The previous question was ordered without objection. (consideration: CR H1356)
