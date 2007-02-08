@@ -1,7 +1,7 @@
 ---
 measure: H.R. 365
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 365
@@ -169,3 +169,15 @@ Methamphetamine Remediation Research Act of 2007
 - 2007-02-07 — Reported by the Committee on Science and Technology. H. Rept. 110-8.
 - 2007-02-07 — Reported by the Committee on Science and Technology. H. Rept. 110-8.
 - 2007-02-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2007-12-11 — Cleared for White House.
+- 2007-12-11 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-11 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S15152)
+- 2007-12-11 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S15152)
+- 2007-12-12 — Message on Senate action sent to the House.
+- 2007-12-13 — Presented to President.
+- 2007-12-13 — Presented to President.
+- 2007-12-21 — Became Public Law No: 110-143.
+- 2007-12-21 — Became Public Law No: 110-143.
+- 2007-12-21 — Signed by President.
+- 2007-12-21 — Signed by President.
