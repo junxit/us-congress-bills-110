@@ -1,7 +1,7 @@
 ---
 measure: H.R. 187
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 187
@@ -16,9 +16,10 @@ To designate the Federal building and United States courthouse and customhouse l
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To designate the Federal building and United States courthouse and customhouse l
 - 2007-02-07 — Mr. Oberstar moved to suspend the rules and pass the bill.
 - 2007-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1299)
 - 2007-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1299)
+- 2007-02-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
