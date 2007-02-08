@@ -1,7 +1,7 @@
 ---
 measure: H.R. 742
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 742
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 742
@@ -37,3 +37,13 @@ Antitrust Modernization Commission Extension Act of 2007
 - 2007-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1297)
 - 2007-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1297)
 - 2007-02-08 — Received in the Senate, read twice.
+- 2007-02-12 — Cleared for White House.
+- 2007-02-12 — Message on Senate action sent to the House.
+- 2007-02-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1873)
+- 2007-02-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1873)
+- 2007-02-16 — Presented to President.
+- 2007-02-16 — Presented to President.
+- 2007-02-26 — Became Public Law No: 110-6.
+- 2007-02-26 — Became Public Law No: 110-6.
+- 2007-02-26 — Signed by President.
+- 2007-02-26 — Signed by President.
