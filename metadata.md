@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 44
@@ -16,7 +16,7 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (104)
+## Cosponsors (118)
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
@@ -122,13 +122,40 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2007-02-12 — [House 110-1-94](votes/house-110-1-0094.md) — On Motion to Suspend the Rules and Agree — **Passed** (410–0)
 
 ## Actions
 
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Referred to the House Committee on the Judiciary.
+- 2007-02-02 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2007-02-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-02-12 — Considered as unfinished business. (consideration: CR H1448-1449)
+- 2007-02-12 — Considered under suspension of the rules. (consideration: CR H1433-1436)
+- 2007-02-12 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 44.
+- 2007-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-12 — Mr. Berman moved to suspend the rules and agree to the resolution.
+- 2007-02-12 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 94). (text: CR H1433)
+- 2007-02-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 94).(text: CR H1433)
