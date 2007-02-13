@@ -1,7 +1,7 @@
 ---
 measure: H.R. 34
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 34
@@ -21,9 +21,10 @@ To establish a pilot program in certain United States district courts to encoura
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To establish a pilot program in certain United States district courts to encoura
 - 2007-02-12 — Mr. Berman moved to suspend the rules and pass the bill.
 - 2007-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1430)
 - 2007-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1430)
+- 2007-02-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
