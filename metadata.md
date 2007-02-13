@@ -1,7 +1,7 @@
 ---
 measure: H.R. 798
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 798
@@ -21,9 +21,10 @@ To direct the Administrator of General Services to install a photovoltaic system
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To direct the Administrator of General Services to install a photovoltaic system
 - 2007-02-12 — Placed on the Union Calendar, Calendar No. 4.
 - 2007-02-12 — Reported by the Committee on Transportation. H. Rept. 110-11.
 - 2007-02-12 — Reported by the Committee on Transportation. H. Rept. 110-11.
+- 2007-02-13 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
