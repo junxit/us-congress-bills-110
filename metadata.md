@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 78
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 78
