@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 50
 congress: 110
-version: Placed on Calendar Senate
+version: Agreed to Senate
 derived: true
 ---
 
