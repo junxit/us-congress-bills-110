@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 53
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 53
@@ -29,3 +29,7 @@ A resolution congratulating Illinois State University as it marks its sesquicent
 - 2007-01-31 — Introduced in Senate
 - 2007-01-31 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1458)
 - 2007-01-31 — Sponsor introductory remarks on measure. (CR S1458)
+- 2007-02-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1981)
+- 2007-02-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1981)
+- 2007-02-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1981)
+- 2007-02-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1981)
