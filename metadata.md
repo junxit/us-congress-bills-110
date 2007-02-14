@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 50
 congress: 110
-version: Placed on Calendar Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 50
@@ -26,3 +26,5 @@ An original resolution amending Senate Resolution 400 (94th Congress) to make am
 - 2007-01-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16. (text of measure as introduced: CR S1354)
 - 2007-01-30 — Select Committee on Intelligence. Original measure reported to Senate by Senator Rockefeller. With written report No. 110-3.
 - 2007-01-30 — Select Committee on Intelligence. Original measure reported to Senate by Senator Rockefeller. With written report No. 110-3.
+- 2007-02-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1981; text as passed Senate: CR S1981)
+- 2007-02-14 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1981; text as passed Senate: CR S1981)
