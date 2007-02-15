@@ -1,7 +1,7 @@
 ---
 measure: S. 245
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 245
@@ -28,3 +28,7 @@ A bill to authorize the Secretary of the Interior to designate the President Wil
 
 - 2007-01-10 — Introduced in Senate
 - 2007-01-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-11.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-11.
+- 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
