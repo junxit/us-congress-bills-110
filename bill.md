@@ -86,7 +86,7 @@ Section 105(f)(1)(C) of the Compact of Free Association Amendments Act of 2003 (
     - **(M)** in section 461(h), by striking “Telecommunications” and inserting “Telecommunication”;
     - **(N)** in section 462(b)(4), by striking “of Free Association” the second place it appears; and
     - **(O)** in section 463(b), by striking “Articles IV” and inserting “Article IV”.
-  - **(2)** *U.S.–rmi compact* The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands (as provided in section 201(b) of the Compact of Free Association Amendments Act of 2003 (117 Stat. 2795)) is amended—
+  - **(2)** *U.S.–RMI compact* The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands (as provided in section 201(b) of the Compact of Free Association Amendments Act of 2003 (117 Stat. 2795)) is amended—
     - **(A)** in section 174(a), by striking “court” and inserting “courts”;
     - **(B)** in section 177(a), by striking the comma before “(or Palau)”;
     - **(C)** in section 179(b), by striking “amended Compact,” and inserting “Compact, as amended,”;
