@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 69
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 69
@@ -38,3 +38,7 @@ A resolution recognizing the African-American spiritual as a national treasure.
 
 - 2007-02-05 — Introduced in Senate
 - 2007-02-05 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1578-1579)
+- 2007-02-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-02-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-02-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
