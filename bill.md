@@ -68,7 +68,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 5. Waiver of individual and corporate alternative minimum tax limits on work opportunity credit and credit for taxes paid with respect to employee cash tips
 
-- **(a)** *Allowance against alternative minimum tax* Subparagraph (B) of section 38(c)(4) is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting a comma, and by adding at the end the following new clauses:
+- **(a)** *Allowance against alternative minimum tax* Subparagraph (B) of section 38(c)(4) is amended by striking “and” at the end of clause (i), by inserting a comma at the end of clause (ii), and by adding at the end the following new clauses:
   > - **(iii)** the credit determined under section 45B, and
   > - **(iv)** the credit determined under section 51.
 
@@ -91,7 +91,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** Subsection (a) of section 1402 (defining net earnings from self-employment) is amended by striking “, and” at the end of paragraph (15) and inserting a semicolon, by striking the period at the end of paragraph (16) and inserting “; and”, and by inserting after paragraph (16) the following new paragraph:
     > - **(17)** notwithstanding the preceding provisions of this subsection, each spouse’s share of income or loss from a qualified joint venture shall be taken into account as provided in section 761(f) in determining net earnings from self-employment of such spouse.
 
-  - **(2)** Subsection (a) of section 211 of the Social Security Act (defining net earnings from self-employment) is amended by striking “and” at the end of paragraph (14), by striking the period at the end of paragraph (15) and inserting “; and”, and by inserting after paragraph (16) the following new paragraph:
+  - **(2)** Subsection (a) of section 211 of the Social Security Act (defining net earnings from self-employment) is amended by striking “and” at the end of paragraph (14), by striking the period at the end of paragraph (15) and inserting “; and”, and by inserting after paragraph (15) the following new paragraph:
     > - **(16)** Notwithstanding the preceding provisions of this subsection, each spouse’s share of income or loss from a qualified joint venture shall be taken into account as provided in section 761(f) of the Internal Revenue Code of 1986 in determining net earnings from self-employment of such spouse.
 
 - **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2006.
@@ -113,13 +113,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(I)** the taxpayer and the taxpayer’s spouse shall be treated as a single individual for purposes of applying subclause (II) of clause (i), and
   >       - **(II)** the taxpayer shall be treated as an individual described in this subparagraph only if the taxpayer and the taxpayer’s spouse are described in clause (i) (determined after application of subclause (I)).
 
-- **(b)** *Alternative minimum tax* Section 55(b)(3) of such Code is amended by inserting before the last sentence the following flush sentence: “In the case of an individual described in section 1(h)(12)(B), no amount shall be determined under subparagraph (B).”.
-- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2006.
+- **(b)** *Alternative minimum tax* Section 55 is amended by adding at the end the following new subsection:
+  > - **(f)** *Certain individuals not eligible for lowest rate* In the case of an individual described in section 1(h)(12)(B), no amount shall be determined under subsection (b)(3)(B).
+
+- **(c)** *Coordination with sunset of provisions of the Jobs and Growth Tax Relief Reconciliation Act of 2003* Subparagraph (A) of section 1(h)(12), as added by this section, is amended by striking “and” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, and”, and by adding at the end the following new clause:
+  > - **(iii)** no amount of qualified 5-year gain shall be taken into account under subparagraph (A) of paragraph (2) (as in effect after the application of section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003).
+
+- **(d)** *Effective date*
+  - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2006.
+  - **(2)** *Sunset of JGTRRA* The amendment made by subsection (c) shall apply to taxable years beginning after the date specified in section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003.
 
 ## § 8. Suspension of certain penalties and interest
 
 - **(a)** *In general* Paragraphs (1)(A) and (3)(A) of section 6404(g) are each amended by striking “18-month period” and inserting “22-month period”.
-- **(b)** *Effective date* The amendments made by this section shall apply to notices provided by the Secretary of the Treasury after the date which is 6 months after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendments made by this section shall apply to notices provided by the Secretary of the Treasury, or his delegate, after the date which is 6 months after the date of the enactment of this Act.
 
 ## § 9. Time for payment of corporate estimated taxes
 
