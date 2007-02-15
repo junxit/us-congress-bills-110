@@ -1,7 +1,7 @@
 ---
 measure: H.R. 57
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 57
@@ -37,3 +37,13 @@ To repeal certain sections of the Act of May 26, 1936, pertaining to the Virgin 
 - 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-19.
 - 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-19.
 - 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
+- 2007-06-12 — Cleared for White House.
+- 2007-06-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7571-7572)
+- 2007-06-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7571-7572)
+- 2007-06-13 — Message on Senate action sent to the House.
+- 2007-06-20 — Presented to President.
+- 2007-06-20 — Presented to President.
+- 2007-06-29 — Became Public Law No: 110-40.
+- 2007-06-29 — Became Public Law No: 110-40.
+- 2007-06-29 — Signed by President.
+- 2007-06-29 — Signed by President.
