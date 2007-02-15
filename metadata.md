@@ -1,7 +1,7 @@
 ---
 measure: S. 268
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 268
@@ -16,11 +16,12 @@ Ice Age Floods National Geologic Trail Designation Act
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Craig, Larry E. [R-ID] (C000858)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Ice Age Floods National Geologic Trail Designation Act
 
 - 2007-01-11 — Introduced in Senate
 - 2007-01-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-15.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-15.
+- 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
