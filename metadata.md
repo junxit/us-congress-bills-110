@@ -1,7 +1,7 @@
 ---
 measure: H.R. 57
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 57
@@ -33,3 +33,7 @@ To repeal certain sections of the Act of May 26, 1936, pertaining to the Virgin 
 - 2007-01-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H587)
 - 2007-01-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H587)
 - 2007-01-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-19.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-19.
+- 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
