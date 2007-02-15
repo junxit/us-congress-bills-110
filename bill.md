@@ -24,7 +24,7 @@ In this Act:
 ## § 3. Establishment of Fort Stanton-Snowy River Cave National Conservation Area
 
 - **(a)** *Establishment; Purposes* There is established the Fort Stanton-Snowy River Cave National Conservation Area in Lincoln County, New Mexico, to protect, conserve, and enhance the unique and nationally important historic, cultural, scientific, archaeological, natural, and educational subterranean cave resources of the Fort Stanton-Snowy River cave system.
-- **(b)** *Area Included* The Conservation Area shall include the area within the boundaries depicted on the map entitled “Fort Stanton-Snowy River Cave National Conservation Area” and dated November 2005.
+- **(b)** *Area Included* The Conservation Area shall include the area within the boundaries depicted on the map entitled “Fort Stanton-Snowy River Cave National Conservation Area” and dated November 2005January 25, 2007.
 - **(c)** *Map and Legal Description*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall submit to Congress a map and legal description of the Conservation Area.
   - **(2)** *Effect* The map and legal description of the Conservation Area shall have the same force and effect as if included in this Act, except that the Secretary may correct any minor errors in the map and legal description.
