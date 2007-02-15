@@ -1,7 +1,7 @@
 ---
 measure: S. 241
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 241
@@ -29,3 +29,7 @@ Natural Resource Protection Cooperative Agreement Act
 - 2007-01-10 — Introduced in Senate
 - 2007-01-10 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S382)
 - 2007-01-10 — Sponsor introductory remarks on measure. (CR S382)
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-10.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-10.
+- 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
