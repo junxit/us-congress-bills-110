@@ -1,0 +1,89 @@
+---
+legis-num: H.R. 1108
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1108
+
+> To protect the public health by providing the Food and Drug Administration with certain authority to regulate tobacco products.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short Title* This Act may be cited as the “Family Smoking Prevention and Tobacco Control Act”.
+- **(b)** *Table of Contents* The table of contents of this Act is as follows:
+
+## § 2. Findings
+
+The Congress finds the following:
+
+- **(1)** The use of tobacco products by the Nation’s children is a pediatric disease of considerable proportions that results in new generations of tobacco-dependent children and adults.
+- **(2)** A consensus exists within the scientific and medical communities that tobacco products are inherently dangerous and cause cancer, heart disease, and other serious adverse health effects.
+- **(3)** Nicotine is an addictive drug.
+- **(4)** Virtually all new users of tobacco products are under the minimum legal age to purchase such products.
+- **(5)** Tobacco advertising and marketing contribute significantly to the use of nicotine-containing tobacco products by adolescents.
+- **(6)** Because past efforts to restrict advertising and marketing of tobacco products have failed adequately to curb tobacco use by adolescents, comprehensive restrictions on the sale, promotion, and distribution of such products are needed.
+- **(7)** Federal and State governments have lacked the legal and regulatory authority and resources they need to address comprehensively the public health and societal problems caused by the use of tobacco products.
+- **(8)** Federal and State public health officials, the public health community, and the public at large recognize that the tobacco industry should be subject to ongoing oversight.
+- **(9)** Under article I, section 8 of the Constitution, the Congress is vested with the responsibility for regulating interstate commerce and commerce with Indian tribes.
+- **(10)** The sale, distribution, marketing, advertising, and use of tobacco products are activities in and substantially affecting interstate commerce because they are sold, marketed, advertised, and distributed in interstate commerce on a nationwide basis, and have a substantial effect on the Nation’s economy.
+- **(11)** The sale, distribution, marketing, advertising, and use of such products substantially affect interstate commerce through the health care and other costs attributable to the use of tobacco products.
+- **(12)** It is in the public interest for Congress to enact legislation that provides the Food and Drug Administration with the authority to regulate tobacco products and the advertising and promotion of such products. The benefits to the American people from enacting such legislation would be significant in human and economic terms.
+- **(13)** Tobacco use is the foremost preventable cause of premature death in America. It causes over 400,000 deaths in the United States each year and approximately 8,600,000 Americans have chronic illnesses related to smoking.
+- **(14)** Reducing the use of tobacco by minors by 50 percent would prevent well over 10,000,000 of today’s children from becoming regular, daily smokers, saving over 3,000,000 of them from premature death due to tobacco induced disease. Such a reduction in youth smoking would also result in approximately $75,000,000,000 in savings attributable to reduced health care costs.
+- **(15)** Advertising, marketing, and promotion of tobacco products have been especially directed to attract young persons to use tobacco products and these efforts have resulted in increased use of such products by youth. Past efforts to oversee these activities have not been successful in adequately preventing such increased use.
+- **(16)** In 2003, the cigarette manufacturers spent more than $15,000,000,000 to attract new users, retain current users, increase current consumption, and generate favorable long-term attitudes toward smoking and tobacco use.
+- **(17)** Tobacco product advertising often misleadingly portrays the use of tobacco as socially acceptable and healthful to minors.
+- **(18)** Tobacco product advertising is regularly seen by persons under the age of 18, and persons under the age of 18 are regularly exposed to tobacco product promotional efforts.
+- **(19)** Through advertisements during and sponsorship of sporting events, tobacco has become strongly associated with sports and has become portrayed as an integral part of sports and the healthy lifestyle associated with rigorous sporting activity.
+- **(20)** Children are exposed to substantial and unavoidable tobacco advertising that leads to favorable beliefs about tobacco use, plays a role in leading young people to overestimate the prevalence of tobacco use, and increases the number of young people who begin to use tobacco.
+- **(21)** The use of tobacco products in motion pictures and other mass media glamorizes its use for young people and encourages them to use tobacco products.
+- **(22)** Tobacco advertising expands the size of the tobacco market by increasing consumption of tobacco products including tobacco use by young people.
+- **(23)** Children are more influenced by tobacco marketing than adults: more than 80 percent of youth smoke three heavily marketed brands, while only 54 percent of adults, 26 and older, smoke these same brands.
+- **(24)** Tobacco company documents indicate that young people are an important and often crucial segment of the tobacco market. Children, who tend to be more price-sensitive than adults, are influenced by advertising and promotion practices that result in drastically reduced cigarette prices.
+- **(25)** Comprehensive advertising restrictions will have a positive effect on the smoking rates of young people.
+- **(26)** Restrictions on advertising are necessary to prevent unrestricted tobacco advertising from undermining legislation prohibiting access to young people and providing for education about tobacco use.
+- **(27)** International experience shows that advertising regulations that are stringent and comprehensive have a greater impact on overall tobacco use and young people’s use than weaker or less comprehensive ones.
+- **(28)** Text only requirements, although not as stringent as a ban, will help reduce underage use of tobacco products while preserving the informational function of advertising.
+- **(29)** It is in the public interest for Congress to adopt legislation to address the public health crisis created by actions of the tobacco industry.
+- **(30)** The final regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618) for inclusion as part 897 of title 21, Code of Federal Regulations, are consistent with the First Amendment to the United States Constitution and with the standards set forth in the amendments made by this subtitle for the regulation of tobacco products by the Food and Drug Administration and the restriction on the sale and distribution, including access to and the advertising and promotion of, tobacco products contained in such regulations are substantially related to accomplishing the public health goals of this Act.
+- **(31)** The regulations described in paragraph (30) will directly and materially advance the Federal Government’s substantial interest in reducing the number of children and adolescents who use cigarettes and smokeless tobacco and in preventing the life-threatening health consequences associated with tobacco use. An overwhelming majority of Americans who use tobacco products begin using such products while they are minors and become addicted to the nicotine in those products before reaching the age of 18. Tobacco advertising and promotion plays a crucial role in the decision of these minors to begin using tobacco products. Less restrictive and less comprehensive approaches have not and will not be effective in reducing the problems addressed by such regulations. The reasonable restrictions on the advertising and promotion of tobacco products contained in such regulations will lead to a significant decrease in the number of minors using and becoming addicted to those products.
+- **(32)** The regulations described in paragraph (30) impose no more extensive restrictions on communication by tobacco manufacturers and sellers than are necessary to reduce the number of children and adolescents who use cigarettes and smokeless tobacco and to prevent the life-threatening health consequences associated with tobacco use. Such regulations are narrowly tailored to restrict those advertising and promotional practices which are most likely to be seen or heard by youth and most likely to entice them into tobacco use, while affording tobacco manufacturers and sellers ample opportunity to convey information about their products to adult consumers.
+- **(33)** Tobacco dependence is a chronic disease, one that typically requires repeated interventions to achieve long-term or permanent abstinence.
+- **(34)** Because the only known safe alternative to smoking is cessation, interventions should target all smokers to help them quit completely.
+- **(35)** Tobacco products have been used to facilitate and finance criminal activities both domestically and internationally. Illicit trade of tobacco products has been linked to organized crime and terrorist groups.
+- **(36)** It is essential that the Food and Drug Administration review products sold or distributed for use to reduce risks or exposures associated with tobacco products and that it be empowered to review any advertising and labeling for such products. It is also essential that manufacturers, prior to marketing such products, be required to demonstrate that such products will meet a series of rigorous criteria, and will benefit the health of the population as a whole, taking into account both users of tobacco products and persons who do not currently use tobacco products.
+- **(37)** Unless tobacco products that purport to reduce the risks to the public of tobacco use actually reduce such risks, those products can cause substantial harm to the public health to the extent that the individuals, who would otherwise not consume tobacco products or would consume such products less, use tobacco products purporting to reduce risk. Those who use products sold or distributed as modified risk products that do not in fact reduce risk, rather than quitting or reducing their use of tobacco products, have a substantially increased likelihood of suffering disability and premature death. The costs to society of the widespread use of products sold or distributed as modified risk products that do not in fact reduce risk or that increase risk include thousands of unnecessary deaths and injuries and huge costs to our health care system.
+- **(38)** As the National Cancer Institute has found, many smokers mistakenly believe that “low tar” and “light” cigarettes cause fewer health problems than other cigarettes. As the National Cancer Institute has also found, mistaken beliefs about the health consequences of smoking “low tar” and “light” cigarettes can reduce the motivation to quit smoking entirely and thereby lead to disease and death.
+- **(39)** Recent studies have demonstrated that there has been no reduction in risk on a population-wide basis from “low tar” and “light” cigarettes and such products may actually increase the risk of tobacco use.
+- **(40)** The dangers of products sold or distributed as modified risk tobacco products that do not in fact reduce risk are so high that there is a compelling governmental interest in insuring that statements about modified risk tobacco products are complete, accurate, and relate to the overall disease risk of the product.
+- **(41)** As the Federal Trade Commission has found, consumers have misinterpreted advertisements in which one product is claimed to be less harmful than a comparable product, even in the presence of disclosures and advisories intended to provide clarification.
+- **(42)** Permitting manufacturers to make unsubstantiated statements concerning modified risk tobacco products, whether express or implied, even if accompanied by disclaimers would be detrimental to the public health.
+- **(43)** The only way to effectively protect the public health from the dangers of unsubstantiated modified risk tobacco products is to empower the Food and Drug Administration to require that products that tobacco manufacturers sold or distributed for risk reduction be approved in advance of marketing, and to require that the evidence relied on to support approval of these products is rigorous.
+
+## § 3. Purpose
+
+The purposes of this Act are—
+
+- **(1)** to provide authority to the Food and Drug Administration to regulate tobacco products under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), by recognizing it as the primary Federal regulatory authority with respect to the manufacture, marketing, and distribution of tobacco products;
+- **(2)** to ensure that the Food and Drug Administration has the authority to address issues of particular concern to public health officials, especially the use of tobacco by young people and dependence on tobacco;
+- **(3)** to authorize the Food and Drug Administration to set national standards controlling the manufacture of tobacco products and the identity, public disclosure, and amount of ingredients used in such products;
+- **(4)** to provide new and flexible enforcement authority to ensure that there is effective oversight of the tobacco industry’s efforts to develop, introduce, and promote less harmful tobacco products;
+- **(5)** to vest the Food and Drug Administration with the authority to regulate the levels of tar, nicotine, and other harmful components of tobacco products;
+- **(6)** in order to ensure that consumers are better informed, to require tobacco product manufacturers to disclose research which has not previously been made available, as well as research generated in the future, relating to the health and dependency effects or safety of tobacco products;
+- **(7)** to continue to permit the sale of tobacco products to adults in conjunction with measures to ensure that they are not sold or accessible to underage purchasers;
+- **(8)** to impose appropriate regulatory controls on the tobacco industry;
+- **(9)** to promote cessation to reduce disease risk and the social costs associated with tobacco related diseases; and
+- **(10)** to strengthen legislation against illicit trade in tobacco products.
+
+## § 4. Scope and effect
+
+- **(a)** *Intended Effect* Nothing in this Act (or an amendment made by this Act) shall be construed to—
+  - **(1)** establish a precedent with regard to any other industry, situation, circumstance, or legal action; or
+  - **(2)** affect any action pending in Federal, State, or Tribal court, or any agreement, consent decree, or contract of any kind.
+- **(b)** *Agricultural Activities* The provisions of this Act (or an amendment made by this Act) which authorize the Secretary to take certain actions with regard to tobacco and tobacco products shall not be construed to affect any authority of the Secretary of Agriculture under existing law regarding the growing, cultivation, or curing of raw tobacco.
+
+## § 5. Severability
+
+If any provision of this Act, the amendments made by this Act, or the application of any provision of this Act to any person or circumstance is held to be invalid, the remainder of this Act, the amendments made by this Act, and the application of the provisions of this Act to any other person or circumstance shall not be affected and shall continue to be enforced to the fullest extent possible.
