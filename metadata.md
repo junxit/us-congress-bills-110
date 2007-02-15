@@ -1,7 +1,7 @@
 ---
 measure: S. 262
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 262
@@ -28,3 +28,7 @@ Morley Nelson Snake River Birds of Prey National Conservation Area Act
 
 - 2007-01-11 — Introduced in Senate
 - 2007-01-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-14.
+- 2007-02-15 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-14.
+- 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.
