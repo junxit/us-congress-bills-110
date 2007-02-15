@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 84
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 84
