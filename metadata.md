@@ -1,0 +1,46 @@
+---
+measure: H.R. 1089
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 1089
+
+Project BioShield Material Threats Act of 2007
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+
+## Cosponsors (12)
+
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Davis, Tom [R-VA-11] (D000136)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Davis, David [R-TN-1] (D000606)
+- Rep. Linder, John [R-GA-7] (L000321)
+
+## Committees (2)
+
+- House — Homeland Security Committee
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2007-02-15 — Introduced in House
+- 2007-02-15 — Introduced in House
+- 2007-02-15 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-02-15 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-02-15 — Referred to the Committee on Homeland Security, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-02-15 — Sponsor introductory remarks on measure. (CR E363-364)
