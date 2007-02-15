@@ -1,7 +1,7 @@
 ---
 measure: H.R. 57
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Sections 1 through 6 of the Act of May 26, 1936 (Chapter 450; 49 Stat. 1372–1373; 48 U.S.C. 1401–1401e) are repealed. | the bill names no machine-readable US Code section |
+| `48 U.S.C. § 1401-1401e` | repeal | Sections 1 through 6 of the Act of May 26, 1936 (Chapter 450; 49 Stat. 1372–1373; 48 U.S.C. 1401–1401e) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
