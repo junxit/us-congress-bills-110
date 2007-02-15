@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 49
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 49
@@ -28,3 +28,8 @@ A resolution recognizing and celebrating the 50th anniversary of the entry of Al
 
 - 2007-01-30 — Introduced in Senate
 - 2007-01-30 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1354)
+- 2007-02-01 — Sponsor introductory remarks on measure. (CR S1514)
+- 2007-02-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-02-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-02-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-02-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 29.
