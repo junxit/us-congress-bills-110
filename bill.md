@@ -1,0 +1,37 @@
+---
+legis-num: S. 665
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 665
+
+> To require congressional approval of loans made by the Secretary of Transportation in excess of $1,000,000,000.
+
+## § 1. Notice by the Secretary
+
+The Secretary of Transportation may not make a loan or loans to any entity in excess of $1,000,000,000 in the aggregate over a 5 year period unless the loan exceeding the $1,000,000,000 limit is approved by Congress as provided in section 3 not later than 6 months after notice is provided to Congress.
+
+## § 2. Procedure
+
+- **(a)** *Contents of resolution* For the purposes of this section, the term “joint resolution” means only a joint resolution introduced after the date on which Congress receives notice from the Secretary of Transportation under section 2 the matter after the resolving clause of which is as follows: “The Congress approves the loan numbered _____ by the Secretary of Transportation to (entity) in the amount of ______.”.
+- **(b)** *Referral to committee* A resolution described in subsection (a) introduced in the House of Representatives shall be referred to the Committee on Transportation and Infrastructure of the House of Representatives. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Commerce, Science, and Transportation of the Senate. Such a resolution may not be reported before the 8th day after its introduction.
+- **(c)** *Discharge of committee* If the committee to which is referred a resolution described in subsection (a) has not reported such resolution (or an identical resolution) at the end of 15 calendar days after its introduction such resolution shall be placed on the appropriate calendar of the House involved.
+- **(d)** *Floor consideration*
+  - **(1)** *In general* When the committee to which a resolution is referred has reported, or has been deemed to be discharged (under subsection (c)) from further consideration of, a resolution described in subsection (a), it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution, and all points of order against the resolution (and against consideration of the resolution) are waived. The motion is highly privileged in the House of Representatives and is privileged in the Senate and is not debatable. The motion is not subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
+  - **(2)** *Debate* Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to is not in order.
+  - **(3)** *Vote on final passage* Immediately following the conclusion of the debate on a resolution described in subsection (a), and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the appropriate House, the vote on final passage of the resolution shall occur.
+  - **(4)** *Rulings of the chair on procedure* Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution described in subsection (a) shall be decided without debate.
+- **(e)** *Coordination with action by other house* If, before the passage by one House of a resolution of that House described in subsection (a), that House receives from the other House a resolution described in subsection (a), then the following procedures shall apply:
+  - **(1)** The resolution of the other House shall not be referred to a committee.
+  - **(2)** With respect to a resolution described in subsection (a) of the House receiving the resolution—
+    - **(A)** the procedure in that House shall be the same as if no resolution had been received from the other House; but
+    - **(B)** the vote on final passage shall be on the resolution of the other House.
+- **(f)** *Rules of House of Representatives and Senate* This section is enacted by Congress—
+  - **(1)** as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a resolution described in subsection (a), and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+  - **(2)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
+
+## § 3. Effective date
+
+This Act shall take effect January 1, 2007.
