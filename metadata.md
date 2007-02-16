@@ -1,7 +1,7 @@
 ---
 measure: S. 220
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 220
@@ -25,3 +25,7 @@ Southern Idaho Bureau of Reclamation Repayment Act of 2007
 - 2007-01-09 — Introduced in Senate
 - 2007-01-09 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-01-09 — Sponsor introductory remarks on measure. (CR S290-291)
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-26.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-26.
+- 2007-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 52.
