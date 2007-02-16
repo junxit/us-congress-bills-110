@@ -1,7 +1,7 @@
 ---
 measure: H.R. 800
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 800
@@ -16,7 +16,7 @@ Employee Free Choice Act of 2007
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (230)
+## Cosponsors (233)
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
@@ -248,6 +248,9 @@ Employee Free Choice Act of 2007
 - Rep. Lampson, Nick [D-TX-22] (L000043)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
 
 ## Committees (1)
 
@@ -259,3 +262,8 @@ Employee Free Choice Act of 2007
 - 2007-02-05 — Introduced in House
 - 2007-02-05 — Referred to the House Committee on Education and Labor.
 - 2007-02-05 — Sponsor introductory remarks on measure. (CR E260)
+- 2007-02-14 — Committee Consideration and Mark-up Session Held.
+- 2007-02-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 19.
+- 2007-02-16 — Placed on the Union Calendar, Calendar No. 8.
+- 2007-02-16 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-23.
+- 2007-02-16 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-23.
