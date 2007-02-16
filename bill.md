@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 1129
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1129
+
+> To provide for the construction, operation, and maintenance of an arterial road in St. Louis County, Missouri.
+
+## § 1. Project defined
+
+In this Act, the term “project” means only the portion of St. Louis County, Missouri, arterial road 1151 that is deed-restricted property, which specifically applies to approximately 0.3 acres and 540 lineal feet and is identified as the “FEMA” route in the document entitled “Lemay Connector Road for Long-Term Recovery, Recreational Enhancements, & Community, & Economic Development”, dated June 1, 2006, on file with the St. Louis County department of highways and traffic.
+
+## § 2. Applicablity of certain Federal law
+
+The St. Louis County arterial road 1151, known as the “Lemay Connector Road” in St. Louis City and County, Missouri, may be constructed, operated, and maintained over the deed-restricted property described in section 1, notwithstanding section 404(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c) or Public Law 103–211 and any easement or other similar restriction pursuant to those Federal laws on the development of property that requires the property be maintained for open space, recreation, or wetland management.
+
+## § 3. No detrimental effect on flood plain
+
+For the project, St. Louis County, Missouri, shall ensure that the project is constructed, operated, and maintained in such a manner that would not cause any future additional flood damage that would not have occurred without the project. Prior to constructing the project, St. Louis County or its assignee must identify and agree to restrict a nearby parcel of land of equal or greater size to the deed restricted land used for the project so that such parcel is maintained for open space, recreation, or wetland management.
+
+## § 4. Liability for flood damage
+
+The Federal Government shall not be liable for future flood damage that is caused by the project. St. Louis County, Missouri, or its assignee shall be liable for any future flood damage that is caused by the project.
+
+## § 5. No future disaster assistance
+
+The deed-restricted property described in section 1 is not eligible for any future disaster assistance from any other Federal source.
