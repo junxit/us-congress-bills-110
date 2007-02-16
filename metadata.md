@@ -1,7 +1,7 @@
 ---
 measure: S. 265
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 265
@@ -28,3 +28,7 @@ Little Butte/Bear Creek Subbasins Water Feasibility Act
 
 - 2007-01-11 — Introduced in Senate
 - 2007-01-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-24.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-24.
+- 2007-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
