@@ -1,7 +1,7 @@
 ---
 measure: S. 200
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 200
@@ -16,6 +16,10 @@ Alaska Water Resources Act of 2007
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
+## Cosponsors (1)
+
+- Sen. Stevens, Ted [R-AK] (S000888)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -25,3 +29,7 @@ Alaska Water Resources Act of 2007
 - 2007-01-08 — Introduced in Senate
 - 2007-01-08 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-01-08 — Sponsor introductory remarks on measure. (CR S239-240)
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-20.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-20.
+- 2007-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
