@@ -1,0 +1,224 @@
+---
+legis-num: S. 657
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 657
+
+> To amend the Public Health Service Act to add requirements regarding trauma care, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Trauma Care Systems Planning and Development Act of 2007”.
+
+## § 2. Establishment
+
+Section 1201 of the Public Health Service Act (42 U.S.C. 300d) is amended to read as follows:
+
+> ## § 1201. Establishment
+>
+> - **(a)** *In General* The Secretary shall, with respect to trauma care—
+>   - **(1)** conduct and support research, training, evaluations, and demonstration projects;
+>   - **(2)** foster the development of appropriate, modern systems of such care through the sharing of information among agencies and individuals involved in the study and provision of such care;
+>   - **(3)** collect, compile, and disseminate information on the achievements of, and problems experienced by, State and local agencies and private entities in providing trauma care and emergency medical services and, in so doing, give special consideration to the unique needs of rural areas;
+>   - **(4)** provide to State and local agencies technical assistance to enhance each State’s capability to develop, implement, and sustain the trauma care component of each State’s plan for the provision of emergency medical services;
+>   - **(5)** sponsor workshops and conferences; and
+>   - **(6)** promote the collection and categorization of trauma data in a consistent and standardized manner.
+> - **(b)** *Grants, Cooperative Agreements, and Contracts* The Secretary may make grants, and enter into cooperative agreements and contracts, for the purpose of carrying out subsection (a).
+
+## § 3. Clearinghouse on Trauma Care and Emergency Medical Services
+
+The Public Health Service Act (42 U.S.C. 201 et seq.) is amended—
+
+- **(1)** by striking section 1202; and
+- **(2)** by redesignating section 1203 as section 1202.
+
+## § 4. Establishment of programs for improving trauma care in rural areas
+
+Section 1202 of the Public Health Service Act, as redesignated by section 3(2), is amended to read as follows:
+
+> ## § 1202. Establishment of programs for improving trauma care in rural areas
+>
+> - **(a)** *In general* The Secretary may make grants to public and nonprofit private entities for the purpose of carrying out research and demonstration projects with respect to improving the availability and quality of emergency medical services in rural areas—
+>   - **(1)** by developing innovative uses of communications technologies and the use of new communications technology;
+>   - **(2)** by developing model curricula, such as advanced trauma life support, for training emergency medical services personnel, including first responders, emergency medical technicians, emergency nurses and physicians, and paramedics—
+>     - **(A)** in the assessment, stabilization, treatment, preparation for transport, and resuscitation of seriously injured patients, with special attention to problems that arise during long transports and to methods of minimizing delays in transport to the appropriate facility; and
+>     - **(B)** in the management of the operation of the emergency medical services system;
+>   - **(3)** by making training for original certification, and continuing education, in the provision and management of emergency medical services more accessible to emergency medical personnel in rural areas through telecommunications, home studies, providing teachers and training at locations accessible to such personnel, and other methods;
+>   - **(4)** by developing innovative protocols and agreements to increase access to prehospital care and equipment necessary for the transportation of seriously injured patients to the appropriate facilities;
+>   - **(5)** by evaluating the effectiveness of protocols with respect to emergency medical services and systems; and
+>   - **(6)** by increasing communication and coordination with State trauma systems.
+> - **(b)** *Special consideration for certain rural areas* In making grants under subsection (a), the Secretary shall give special consideration to any applicant for the grant that will provide services under the grant in any rural area identified by a State under section 1214(d)(1).
+> - **(c)** *Requirement of application* The Secretary may not make a grant under subsection (a) unless an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+
+## § 5. Competitive grants
+
+Part A of title XII of the Public Health Service Act, as amended by section 3, is amended by adding at the end the following:
+
+> ## § 1203. Competitive grants for the improvement of trauma care
+>
+> - **(a)** *In General* The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States, political subdivisions, or consortia of States or political subdivisions for the purpose of improving access to and enhancing the development of trauma care systems.
+> - **(b)** *Use of Funds* The Secretary may make a grant under this section only if the applicant agrees to use the grant—
+>   - **(1)** to integrate and broaden the reach of a trauma care system, such as by developing innovative protocols to increase access to prehospital care;
+>   - **(2)** to strengthen, develop, and improve an existing trauma care system;
+>   - **(3)** to expand communications between the trauma care system and emergency medical services through improved equipment or a telemedicine system;
+>   - **(4)** to improve data collection and retention; or
+>   - **(5)** to increase education, training, and technical assistance opportunities, such as training and continuing education in the management of emergency medical services accessible to emergency medical personnel in rural areas through telehealth, home studies, and other methods.
+> - **(c)** *Preference* In selecting among States, political subdivisions, and consortia of States or political subdivisions for purposes of making grants under this section, the Secretary shall give preference to applicants that—
+>   - **(1)** have developed a process, using national standards, for designating trauma centers;
+>   - **(2)** recognize protocols for the delivery of seriously injured patients to trauma centers;
+>   - **(3)** implement a process for evaluating the performance of the trauma system; and
+>   - **(4)** agree to participate in information systems described in section 1202 by collecting, providing, and sharing information.
+> - **(d)** *Priority* In making grants under this section, the Secretary shall give priority to applicants that will use the grants to focus on improving access to trauma care systems.
+> - **(e)** *Special consideration* In awarding grants under this section, the Secretary shall give special consideration to projects that demonstrate strong State or local support, including availability of non-Federal contributions.
+
+## § 6. Requirement of matching funds for fiscal years subsequent to first fiscal year of payments
+
+Section 1212 of the Public Health Service Act (42 U.S.C. 300d–12) is amended to read as follows:
+
+> ## § 1212. Requirement of matching funds for fiscal years subsequent to first fiscal year of payments
+>
+> - **(a)** *Non-Federal Contributions*
+>   - **(1)** *In general* The Secretary may not make payments under section 1211(a) unless the State involved agrees, with respect to the costs described in paragraph (2), to make available non-Federal contributions (in cash or in kind under subsection (b)(1)) toward such costs in an amount that—
+>     - **(A)** for the second and third fiscal years of such payments to the State, is not less than $1 for each $1 of Federal funds provided in such payments for such fiscal years; and
+>     - **(B)** for the fourth and subsequent fiscal years of such payments to the State, is not less than $2 for each $1 of Federal funds provided in such payments for such fiscal years.
+>   - **(2)** *Program costs* The costs referred to in paragraph (1) are—
+>     - **(A)** the costs to be incurred by the State in carrying out the purpose described in section 1211(b); or
+>     - **(B)** the costs of improving the quality and availability of emergency medical services in rural areas of the State.
+>   - **(3)** *Initial year of payments* The Secretary may not require a State to make non-Federal contributions as a condition of receiving payments under section 1211(a) for the first fiscal year of such payments to the State.
+> - **(b)** *Determination of Amount of Non-Federal Contribution* With respect to compliance with subsection (a) as a condition of receiving payments under section 1211(a)—
+>   - **(1)** a State may make the non-Federal contributions required in such subsection in cash or in kind, fairly evaluated, including plant, equipment, or services; and
+>   - **(2)** the Secretary may not, in making a determination of the amount of non-Federal contributions, include amounts provided by the Federal Government or services assisted or subsidized to any significant extent by the Federal Government.
+
+## § 7. Requirements with respect to carrying out purpose of allotments
+
+Section 1213 of the Public Health Service Act (42 U.S.C. 300d–13) is amended to read as follows:
+
+> ## § 1213. Requirements with respect to carrying out purpose of allotments
+>
+> - **(a)** *Trauma care modifications to state plan for emergency medical services* With respect to the trauma care component of a State plan for the provision of emergency medical services, the modifications referred to in section 1211(b) are such modifications to the State plan as may be necessary for the State involved to ensure that the plan provides for access to the highest possible quality of trauma care, and that the plan—
+>   - **(1)** specifies that the modifications required pursuant to paragraphs (2) through (11) will be implemented by the principal State agency with respect to emergency medical services or by the designee of such agency;
+>   - **(2)** specifies a public or private entity that will designate trauma care regions and trauma centers in the State;
+>   - **(3)** subject to subsection (b), contains national standards and requirements of the American College of Surgeons or another appropriate entity for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in the care of pediatric trauma patient), by such entity, including standards and requirements for—
+>     - **(A)** the number and types of trauma patients for whom such centers must provide care in order to ensure that such centers will have sufficient experience and expertise to be able to provide quality care for victims of injury;
+>     - **(B)** the resources and equipment needed by such centers; and
+>     - **(C)** the availability of rehabilitation services for trauma patients;
+>   - **(4)** contains standards and requirements for the implementation of regional trauma care systems, including standards and guidelines (consistent with the provisions of section 1867 of the Social Security Act) for medically directed triage and transportation of trauma patients (including patients injured in rural areas) prior to care in designated trauma centers;
+>   - **(5)** subject to subsection (b), contains national standards and requirements, including those of the American Academy of Pediatrics and the American College of Emergency Physicians, for medically directed triage and transport of severely injured children to designated trauma centers with specified capabilities and expertise in the care of the pediatric trauma patient;
+>   - **(6)** utilizes a program with procedures for the evaluation of designated trauma centers (including trauma centers described in paragraph (5)) and trauma care systems;
+>   - **(7)** provides for the establishment and collection of data in accordance with data collection requirements developed in consultation with surgical, medical, and nursing specialty groups, State and local emergency medical services directors, and other trained professionals in trauma care, from each designated trauma center in the State of a central data reporting and analysis system—
+>     - **(A)** to identify the number of severely injured trauma patients and the number of deaths from trauma within trauma care systems in the State;
+>     - **(B)** to identify the cause of the injury and any factors contributing to the injury;
+>     - **(C)** to identify the nature and severity of the injury;
+>     - **(D)** to monitor trauma patient care (including prehospital care) in each designated trauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment, and treatment outcome of such trauma patients;
+>     - **(E)** to identify the total amount of uncompensated trauma care expenditures for each fiscal year by each designated trauma center in the State; and
+>     - **(F)** to identify patients transferred within a regional trauma system, including reasons for such transfer and the outcomes of such patients;
+>   - **(8)** provides for the use of procedures by paramedics and emergency medical technicians to assess the severity of the injuries incurred by trauma patients;
+>   - **(9)** provides for appropriate transportation and transfer policies to ensure the delivery of patients to designated trauma centers and other facilities within and outside of the jurisdiction of such system, including policies to ensure that only individuals appropriately identified as trauma patients are transferred to designated trauma centers, and to provide periodic reviews of the transfers and the auditing of such transfers that are determined to be appropriate;
+>   - **(10)** conducts public education activities concerning injury prevention and obtaining access to trauma care;
+>   - **(11)** coordinates planning for trauma systems with State disaster emergency planning and bioterrorism hospital preparedness planning; and
+>   - **(12)** with respect to the requirements established in this subsection, provides for coordination and cooperation between the State and any other State with which the State shares any standard metropolitan statistical area.
+> - **(b)** *Certain standards with respect to trauma care centers and systems*
+>   - **(1)** *In general* The Secretary may not make payments under section 1211(a) for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a), the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies, and that the State will, in adopting such standards—
+>     - **(A)** take into account national standards concerning that outline resources for optimal care of the injured patient;
+>     - **(B)** consult with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State and local directors, concerned advocates and other interested parties;
+>     - **(C)** conduct hearings on the proposed standards after providing adequate notice to the public concerning such hearing; and
+>     - **(D)** beginning in fiscal year 2008, take into account the model plan described in subsection (c).
+>   - **(2)** *Quality of trauma care* The highest quality of trauma care shall be the primary goal of State standards adopted under this subsection.
+>   - **(3)** *Approval by the secretary* The Secretary may not make payments under section 1211(a) to a State if the Secretary determines that—
+>     - **(A)** in the case of payments for fiscal year 2008 and subsequent fiscal years, the State has not taken into account national standards, including those of the American College of Surgeons, the American College of Emergency Physicians, and the American Academy of Pediatrics, in adopting standards under this subsection; or
+>     - **(B)** in the case of payments for fiscal year 2008 and subsequent fiscal years, the State has not, in adopting such standards, taken into account the model plan developed under subsection (c).
+> - **(c)** *Model trauma care plan*
+>   - **(1)** *In general* Not later than 1 year after the date of the enactment of the Trauma Care Systems Planning and Development Act of 2007, the Secretary shall update the model plan for the designation of trauma centers and for triage, transfer, and transportation policies that may be adopted for guidance by the State. Such plan shall—
+>     - **(A)** take into account national standards, including those of the American College of Surgeons, American College of Emergency Physicians, and the American Academy of Pediatrics;
+>     - **(B)** take into account existing State plans;
+>     - **(C)** be developed in consultation with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State directors and associations, and other interested parties; and
+>     - **(D)** include standards for the designation of rural health facilities and hospitals best able to receive, stabilize, and transfer trauma patients to the nearest appropriate designated trauma center, and for triage, transfer, and transportation policies as they relate to rural areas.
+>   - **(2)** *Applicability* Standards described in paragraph (1)(D) shall be applicable to all rural areas in the State, including both non-metropolitan areas and frontier areas that have populations of less than 6,000 per square mile.
+> - **(d)** *Rule of construction with respect to number of designated trauma centers* With respect to compliance with subsection (a) as a condition of the receipt of a grant under section 1211(a), such subsection may not be construed to specify the number of trauma care centers designated pursuant to such subsection.
+
+## § 8. Requirement of submission to Secretary of trauma plan and certain information
+
+Section 1214 of the Public Health Service Act (42 U.S.C. 300d–14) is amended to read as follows:
+
+> ## § 1214. Requirement of submission to Secretary of trauma plan and certain information
+>
+> - **(a)** *In general* For each fiscal year, the Secretary may not make payments to a State under section 1211(a) unless, subject to subsection (b), the State submits to the Secretary the trauma care component of the State plan for the provision of emergency medical services, including any changes to the trauma care component and any plans to address deficiencies in the trauma care component.
+> - **(b)** *Interim plan or description of efforts* For each fiscal year, if a State has not completed the trauma care component of the State plan described in subsection (a), the State may provide, in lieu of such completed component, an interim component or a description of efforts made toward the completion of the component.
+> - **(c)** *Information received by state reporting and analysis system* The Secretary may not make payments to a State under section 1211(a) unless the State agrees that the State will, not less than once each year, provide to the Secretary the information received by the State pursuant to section 1213(a)(7).
+> - **(d)** *Availability of emergency medical services in rural areas* The Secretary may not make payments to a State under section 1211(a) unless—
+>   - **(1)** the State identifies any rural area in the State for which—
+>     - **(A)** there is no system of access to emergency medical services through the telephone number 911;
+>     - **(B)** there is no basic life-support system; or
+>     - **(C)** there is no advanced life-support system; and
+>   - **(2)** the State submits to the Secretary a list of rural areas identified pursuant to subparagraph (A) or, if there are no such areas, a statement that there are no such areas.
+
+## § 9. Restrictions on use of payments
+
+Section 1215 of the Public Health Service Act (42 U.S.C. 300d–15) is amended to read as follows:
+
+> ## § 1215. Restrictions on use of payments
+>
+> - **(a)** *In general* The Secretary may not, except as provided in subsection (b), make payments under section 1211(a) for a fiscal year unless the State involved agrees that the payments will not be expended—
+>   - **(1)** for any purpose other than developing, implementing, and monitoring the modifications required by section 1211(b) to be made to the State plan for the provision of emergency medical services;
+>   - **(2)** to make cash payments to intended recipients of services provided pursuant to this section;
+>   - **(3)** to purchase or improve real property (other than minor remodeling of existing improvements to real property);
+>   - **(4)** to satisfy any requirement for the expenditure of non-Federal funds as a condition for the receipt of Federal funds; or
+>   - **(5)** to provide financial assistance to any entity other than a public or nonprofit private entity.
+> - **(b)** *Waiver* The Secretary may waive a restriction under subsection (a) only if the Secretary determines that the activities outlined by the State plan submitted under section 1214(a)(1) by the State involved cannot otherwise be carried out.
+
+## § 10. Requirements of reports by States
+
+The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by striking section 1216.
+
+## § 11. Report by Secretary
+
+Section 1222 of the Public Health Service Act (42 U.S.C. 300d–22) is amended to read as follows:
+
+> ## § 1222. Report by Secretary
+>
+> Not later than October 1, 2008, the Secretary shall report to the appropriate committees of Congress on the activities of the States carried out pursuant to section 1211. Such report shall include an assessment of the extent to which Federal and State efforts to develop systems of trauma care and to designate trauma centers have reduced the incidence of mortality, and the incidence of permanent disability, resulting from trauma. Such report may include any recommendations of the Secretary for appropriate administrative and legislative initiatives with respect to trauma care.
+
+## § 12. Funding
+
+Section 1232 of the Public Health Service Act (42 U.S.C. 300d–32) is amended to read as follows:
+
+> ## § 1232. Funding
+>
+> - **(a)** *Authorization of Appropriations* For the purpose of carrying out parts A and B, there are authorized to be appropriated $12,000,000 for fiscal year 2008, $10,000,000 for fiscal year 2009, and $8,000,000 for each of the fiscal years 2010 through 2012.
+> - **(b)** *Reservation of funds* If the amount appropriated under subsection (a) for a fiscal year is equal to or less than $1,000,000, such appropriation is available only for making grants under part A. If the amount so appropriated is greater than $1,000,000, 50 percent of such appropriation shall be made available for grants under part A and 50 percent shall be made available for grants under part B.
+> - **(c)** *Allocation of funds by secretary*
+>   - **(1)** *General authority* For the purpose of carrying out part A, the Secretary shall make available 10 percent of the amounts appropriated for a fiscal year under subsection (a).
+>   - **(2)** *Rural grants* For the purpose of carrying out section 1202, the Secretary shall make available 10 percent of the amounts appropriated for a fiscal year under subsection (a).
+
+## § 13. Institute of Medicine study
+
+Part E of title XII of the Public Health Service Act (20 U.S.C. 300d–51 et seq.) is amended by adding at the end the following:
+
+> ## § 1254. Institute of Medicine study
+>
+> - **(a)** *In General* The Secretary shall enter into a contract with the Institute of Medicine of the National Academy of Sciences, or another appropriate entity, to conduct a study on the state of trauma care and trauma research.
+> - **(b)** *Content* The study conducted under subsection (a) shall—
+>   - **(1)** examine and evaluate the state of trauma care and trauma systems research (including the role of Federal entities in trauma research) on the date of enactment of this section, and identify trauma research priorities;
+>   - **(2)** examine and evaluate the clinical effectiveness of trauma care and the impact of trauma care on patient outcomes, with special attention to high-risk groups, such as children, the elderly, and individuals in rural areas;
+>   - **(3)** examine and evaluate trauma systems development and identify obstacles that prevent or hinder the effectiveness of trauma systems and trauma systems development;
+>   - **(4)** examine and evaluate alternative strategies for the organization, financing, and delivery of trauma care within an overall systems approach; and
+>   - **(5)** examine and evaluate the role of trauma systems and trauma centers in preparedness for mass casualties.
+> - **(c)** *Report* Not later than 2 years after the date of enactment of this section, the Secretary shall submit to the appropriate committees of Congress a report containing the results of the study conducted under this section.
+> - **(d)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $750,000 for fiscal year 2008.
+
+## § 14. Residency training programs in emergency medicine
+
+Section 1251 of the Public Health Service Act (42 U.S.C. 300d–51) is amended to read as follows:
+
+> ## § 1251. Residency training programs in emergency medicine
+>
+> - **(a)** *In general* The Secretary may make grants to public and nonprofit private entities for the purpose of planning and developing approved residency training programs in emergency medicine.
+> - **(b)** *Identification and referral of domestic violence* The Secretary may make a grant under subsection (a) only in the applicant involved agrees that the training programs under subsection (a) will provide education and training in identifying and referring cases of domestic violence.
+> - **(c)** *Authorization of appropriations* For the purpose of carrying out this section, there is authorized to be appropriated $400,000 for each of the fiscal years 2008 though 2012.
+
+## § 15. State grants for certain projects
+
+Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended in the section heading by striking “demonstration” .
