@@ -39,7 +39,7 @@ Congress finds that—
 ## § 4. Establishment
 
 - **(a)** *In general* In order to conserve, protect, and enhance the unique and nationally important paleontological, scientific, educational, scenic, and recreational resources and values of the public land described in subsection (b), there is established the Prehistoric Trackways National Monument in the State of New Mexico.
-- **(b)** *Description of land* The Monument shall consist of approximately 5,367 acres of public land in Doña Ana County, New Mexico, as generally depicted on the map entitled “Prehistoric Trackways National Monument” and dated June 1, 2006.
+- **(b)** *Description of land* The Monument shall consist of approximately 5,3675,280 acres of public land in Doña Ana County, New Mexico, as generally depicted on the map entitled “Prehistoric Trackways National Monument” and dated June 1, 2006January 25, 2007.
 - **(c)** *Map; legal description*
   - **(1)** *In general* As soon as practicable after the date of enactment of this Act, the Secretary shall prepare and submit to Congress an official map and legal description of the Monument.
   - **(2)** *Corrections* The map and legal description submitted under paragraph (1) shall have the same force and effect as if included in this Act, except that the Secretary may correct any clerical or typographical errors in the legal description and the map.
@@ -90,6 +90,7 @@ Congress finds that—
   - **(1)** *In general* Nothing in this Act diminishes the jurisdiction of the State of New Mexico with respect to fish and wildlife management, including regulation of hunting on public land within the Monument.
   - **(2)** *Regulations* The Secretary, after consultation with the New Mexico Department of Game and Fish, may issue regulations designating zones in which and establishing periods during which hunting shall not be allowed for reasons of public safety, administration, or public use and enjoyment.
 - **(j)** *Water Rights* Nothing in this Act constitutes an express or implied reservation by the United States of any water or water rights with respect to the Monument.
+- **(i)** *Water Rights* Nothing in this Act constitutes an express or implied reservation by the United States of any water or water rights with respect to the Monument.
 
 ## § 6. Authorization of appropriations
 
