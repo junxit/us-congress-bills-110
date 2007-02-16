@@ -1,7 +1,7 @@
 ---
 measure: H.R. 976
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 976
@@ -95,6 +95,10 @@ Children's Health Insurance Program Reauthorization Act of 2007
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2007-02-16 — [House 110-1-102](votes/house-110-1-0102.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (360–45)
+
 ## Actions
 
 - 2007-02-09 — Introduced in House
@@ -105,3 +109,10 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - 2007-02-15 — Placed on the Union Calendar, Calendar No. 5.
 - 2007-02-15 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-14.
 - 2007-02-15 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-14.
+- 2007-02-16 — Considered under suspension of the rules. (consideration: CR H1854-1860)
+- 2007-02-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 976.
+- 2007-02-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-16 — Mr. Rangel moved to suspend the rules and pass the bill, as amended.
+- 2007-02-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 360 - 45 (Roll no. 102). (text: CR H1854-1855)
+- 2007-02-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 360 - 45 (Roll no. 102).(text: CR H1854-1855)
+- 2007-02-16 — Received in the Senate.
