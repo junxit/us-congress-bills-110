@@ -1,7 +1,7 @@
 ---
 measure: S. 235
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 235
@@ -24,3 +24,7 @@ Yakima-Tieton Irrigation District Conveyance Act of 2007
 
 - 2007-01-10 — Introduced in Senate
 - 2007-01-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-01-31 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-21.
+- 2007-02-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-21.
+- 2007-02-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.
