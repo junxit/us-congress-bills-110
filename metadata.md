@@ -1,7 +1,7 @@
 ---
 measure: H.R. 429
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 429
@@ -25,3 +25,12 @@ To designate the United States courthouse located at 225 Cadman Plaza East, Broo
 - 2007-01-11 — Introduced in House
 - 2007-01-11 — Introduced in House
 - 2007-01-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-01-12 — Referred to the Subcommittee on Highways and Transit.
+- 2007-02-06 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-02-06 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-02-06 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-02-07 — Committee Consideration and Mark-up Session Held.
+- 2007-02-07 — Ordered to be Reported by Voice Vote.
+- 2007-02-16 — Placed on the House Calendar, Calendar No. 16.
+- 2007-02-16 — Reported by the Committee on Transportation. H. Rept. 110-22.
+- 2007-02-16 — Reported by the Committee on Transportation. H. Rept. 110-22.
