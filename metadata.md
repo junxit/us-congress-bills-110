@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 20
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 20
@@ -46,9 +46,10 @@ Calling on the Government of the United Kingdom to immediately establish a full,
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -65,3 +66,7 @@ Calling on the Government of the United Kingdom to immediately establish a full,
 - 2007-01-30 — Mr. Lantos moved to suspend the rules and agree to the resolution, as amended.
 - 2007-01-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 34, 25 Present (Roll no. 63). (text: CR H1000-1001)
 - 2007-01-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 34, 25 Present (Roll no. 63).(text: CR H1000-1001)
+- 2007-01-31 — Received in the Senate.
+- 2007-02-05 — Referred to the Subcommittee on Europe.
+- 2007-02-05 — Referred to the Subcommittee on International Organizations, Human Rights, and Oversight.
+- 2007-02-17 — Referred to the Committee on Foreign Relations.
