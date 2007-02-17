@@ -1,7 +1,7 @@
 ---
 measure: H.R. 547
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 547
@@ -34,9 +34,10 @@ Advanced Fuels Infrastructure Research and Development Act
 - Rep. Udall, Mark [D-CO-2] (U000038)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -184,3 +185,5 @@ Advanced Fuels Infrastructure Research and Development Act
 - 2007-02-08 — The previous question was ordered pursuant to the rule. (consideration: CR H1387)
 - 2007-02-08 — The title of the measure was amended. Agreed to without objection.
 - 2007-02-08 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-02-12 — Received in the Senate.
+- 2007-02-17 — Read twice and referred to the Committee on Environment and Public Works.
