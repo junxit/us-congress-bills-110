@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 63
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 63
@@ -24,10 +24,11 @@ Disapproving of the decision of the President announced on January 10, 2007, to 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Armed Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,4 @@ Disapproving of the decision of the President announced on January 10, 2007, to 
 - 2007-02-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 246 - 182 (Roll no. 99).
 - 2007-02-16 — Received in the Senate.
 - 2007-02-16 — The previous question was ordered pursuant to the rule. (consideration: CR H1847)
+- 2007-02-17 — Referred to the Committee on Foreign Relations.
