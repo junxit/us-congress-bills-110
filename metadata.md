@@ -1,7 +1,7 @@
 ---
 measure: H.R. 342
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 342
@@ -53,3 +53,15 @@ To designate the United States courthouse located at 555 Independence Street in 
 - 2007-02-12 — The title of the measure was amended. Agreed to without objection.
 - 2007-02-13 — Received in the Senate.
 - 2007-02-17 — Read twice and referred to the Committee on Environment and Public Works.
+- 2007-03-09 — Cleared for White House.
+- 2007-03-09 — Message on Senate action sent to the House.
+- 2007-03-09 — Passed Senate without amendment by Unanimous Consent.
+- 2007-03-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-03-09 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S2989)
+- 2007-03-09 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S2989)
+- 2007-03-14 — Presented to President.
+- 2007-03-14 — Presented to President.
+- 2007-03-21 — Became Public Law No: 110-13.
+- 2007-03-21 — Became Public Law No: 110-13.
+- 2007-03-21 — Signed by President.
+- 2007-03-21 — Signed by President.
