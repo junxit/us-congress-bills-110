@@ -1,7 +1,7 @@
 ---
 measure: S. 219
 congress: 110
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 219
@@ -28,3 +28,7 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2007-01-09 — Introduced in Senate
 - 2007-01-09 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-02-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-02-17 — Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 55.
+- 2007-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2007-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
