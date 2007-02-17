@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 20
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 20
@@ -70,3 +70,16 @@ Calling on the Government of the United Kingdom to immediately establish a full,
 - 2007-02-05 — Referred to the Subcommittee on Europe.
 - 2007-02-05 — Referred to the Subcommittee on International Organizations, Human Rights, and Oversight.
 - 2007-02-17 — Referred to the Committee on Foreign Relations.
+- 2007-03-15 — Amendment SA 463 agreed to in Senate by Unanimous Consent.
+- 2007-03-15 — Amendment SA 463 proposed by Senator Reid for Senator Biden. (consideration: CR S3236-3237; text: CR S3237) To make a technical correction.
+- 2007-03-15 — Measure laid before Senate by unanimous consent. (consideration: CR S3236-3237)
+- 2007-03-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2007-03-15 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2007-03-15 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2007-03-15 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2007-03-15 — Senate amendment agreed to: Amendment SA 463 agreed to in Senate by Unanimous Consent.
+- 2007-03-15 — Senate amendment proposed (on the floor): Amendment SA 463 proposed by Senator Reid for Senator Biden.(consideration: CR S3236-3237; text: CR S3237)
+- 2007-03-15 — Senate amendment submitted
+- 2007-03-19 — Message on Senate action sent to the House.
+- 2007-03-19 — Notwithstanding the Senate's previous adoption of H.Con.Res. 20, the adoption of the amendment to the preamble was vitiated by Unanimous Consent. (consideration: CR S3283)
+- 2007-03-19 — Senate vitiated previous adoption of amendment SA 463 to the preamble.
