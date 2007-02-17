@@ -1,7 +1,7 @@
 ---
 measure: S. 194
 congress: 110
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 194
@@ -29,3 +29,7 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-01-08 — Introduced in Senate
 - 2007-01-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2007-01-08 — Sponsor introductory remarks on measure. (CR S236)
+- 2007-02-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-02-17 — Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.
+- 2007-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2007-02-17 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
