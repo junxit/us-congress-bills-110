@@ -1,7 +1,7 @@
 ---
 measure: H.R. 342
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 342
@@ -26,9 +26,10 @@ To designate the United States courthouse located at 555 Independence Street in 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 - Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -50,3 +51,5 @@ To designate the United States courthouse located at 555 Independence Street in 
 - 2007-02-12 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-10.
 - 2007-02-12 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-10.
 - 2007-02-12 — The title of the measure was amended. Agreed to without objection.
+- 2007-02-13 — Received in the Senate.
+- 2007-02-17 — Read twice and referred to the Committee on Environment and Public Works.
