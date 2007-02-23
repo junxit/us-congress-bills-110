@@ -1,7 +1,7 @@
 ---
 measure: S. 4
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4
@@ -16,7 +16,7 @@ Improving America's Security Act of 2007
 
 - Sen. Reid, Harry [D-NV] (R000146)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Sen. Lieberman, Joseph I. [D-CT] (L000304)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -29,6 +29,10 @@ Improving America's Security Act of 2007
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -39,3 +43,7 @@ Improving America's Security Act of 2007
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S48)
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S9-11)
+- 2007-02-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-02-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 02/17/2007 with an amendment in the nature of a substitute. Without written report.
+- 2007-02-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 02/17/2007 with an amendment in the nature of a substitute. Without written report.
+- 2007-02-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 57.
