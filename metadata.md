@@ -1,7 +1,7 @@
 ---
 measure: H.R. 976
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 976
@@ -112,3 +112,5 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - 2007-02-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 360 - 45 (Roll no. 102). (text: CR H1854-1855)
 - 2007-02-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 360 - 45 (Roll no. 102).(text: CR H1854-1855)
 - 2007-02-16 — Received in the Senate.
+- 2007-02-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-02-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
