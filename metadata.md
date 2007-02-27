@@ -1,7 +1,7 @@
 ---
 measure: S. 316
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 316
@@ -16,12 +16,14 @@ Preserve Access to Affordable Generics Act
 
 - Sen. Kohl, Herb [D-WI] (K000305)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -33,3 +35,7 @@ Preserve Access to Affordable Generics Act
 - 2007-01-17 — Introduced in Senate
 - 2007-01-17 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S679-680)
 - 2007-01-17 — Sponsor introductory remarks on measure. (CR S679)
+- 2007-02-15 — Committee on the Judiciary. Approved for reporting without amendment favorably.
+- 2007-02-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-02-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-02-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.
