@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 644
@@ -16,7 +16,7 @@ Brownfields Redevelopment Enhancement Act
 
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 
-## Cosponsors (11)
+## Cosponsors (14)
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 - Rep. Frank, Barney [D-MA-4] (F000339)
@@ -29,6 +29,9 @@ Brownfields Redevelopment Enhancement Act
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
 
 ## Committees (1)
 
@@ -39,3 +42,9 @@ Brownfields Redevelopment Enhancement Act
 - 2007-01-23 — Introduced in House
 - 2007-01-23 — Introduced in House
 - 2007-01-23 — Referred to the House Committee on Financial Services.
+- 2007-02-27 — Considered under suspension of the rules. (consideration: CR H1906-1909)
+- 2007-02-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 644.
+- 2007-02-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-02-27 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
+- 2007-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1906-1907)
+- 2007-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1906-1907)
