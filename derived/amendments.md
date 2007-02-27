@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -38,5 +38,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5305` | strike | in paragraph (24) (as added by subsection (a)(1) of this section), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5305` | replace | in paragraph (25) (as added by subsection (a)(2) of this section), by striking the period at the end and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5305` | replace | in paragraph (26) (as added by subsection (a)(3) of this section), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5305` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5305` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5305` | insert | Section 105(a)(13) of the Housing and Community Development Act of 1974 (42 U.S.C. 5305(a)(13)) is amended by inserting “and renewal communities” after “enterprise zones”. | the bill quotes the text inserted but describes where it goes |
