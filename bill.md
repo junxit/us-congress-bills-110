@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 In this Act, the term “project” means only the portion of St. Louis County, Missouri, arterial road 1151 that is deed-restricted property, which specifically applies to approximately 0.3 acres and 540 lineal feet and is identified as the “FEMA” route in the document entitled “Lemay Connector Road for Long-Term Recovery, Recreational Enhancements, & Community, & Economic Development”, dated June 1, 2006, on file with the St. Louis County department of highways and traffic.
 
-## § 2. Applicablity of certain Federal law
+## § 2. Applicability of certain Federal law
 
 The St. Louis County arterial road 1151, known as the “Lemay Connector Road” in St. Louis City and County, Missouri, may be constructed, operated, and maintained over the deed-restricted property described in section 1, notwithstanding section 404(b)(2) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c) or Public Law 103–211 and any easement or other similar restriction pursuant to those Federal laws on the development of property that requires the property be maintained for open space, recreation, or wetland management.
 
