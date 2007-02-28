@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 47
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 47
@@ -46,3 +46,6 @@ Supporting the goals and ideals of a National Medal of Honor Day to celebrate an
 - 2007-02-27 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 103). (text: CR H1900)
 - 2007-02-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 103).(text: CR H1900)
 - 2007-02-28 — Received in the Senate.
+- 2007-03-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2541)
+- 2007-03-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2541)
+- 2007-03-02 — Message on Senate action sent to the House.
