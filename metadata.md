@@ -1,7 +1,7 @@
 ---
 measure: H.R. 494
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 494
@@ -16,9 +16,10 @@ To provide for the conditional conveyance of any interest retained by the United
 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To provide for the conditional conveyance of any interest retained by the United
 - 2007-02-27 — Mr. Oberstar moved to suspend the rules and pass the bill, as amended.
 - 2007-02-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1926)
 - 2007-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1926)
+- 2007-02-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
