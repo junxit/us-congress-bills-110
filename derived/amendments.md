@@ -1,7 +1,7 @@
 ---
 measure: H.R. 884
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 193` | insert | The Homeland Security Act of 2002 is amended by inserting after section 313 (6 U.S.C. 193) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 193` | amend | The table of contents for the Homeland Security Act of 2002 is amended by adding after the item relating to section 313 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | The Homeland Security Act of 2002 is amended by inserting after section 313 (6 U.S.C. 193) the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of contents for the Homeland Security Act of 2002 is amended by adding after the item relating to section 313 the following new item: | the bill names no machine-readable US Code section |
