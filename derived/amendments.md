@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1066
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `promotes the public welfare by benefiting primarily` |
 | Inserted | `is designed primarily to promote the public welfare, including the welfare of` |
 
-### 12 U.S.C. § 338a
+### 12 U.S.C. § 24
 
 > The first sentence of the 23rd undesignated paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 338a) (as amended by section 305(b) of the Financial Services Regulatory Relief Act of 2006) is amended by striking “promotes the public welfare by benefiting primarily” and inserting “is designed primarily to promote the public welfare, including the welfare of”.
 
