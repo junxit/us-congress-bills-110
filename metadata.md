@@ -1,7 +1,7 @@
 ---
 measure: H.R. 884
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 884
@@ -41,9 +41,10 @@ PACTS Act
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ PACTS Act
 - 2007-02-27 — Mr. King (NY) moved to suspend the rules and pass the bill.
 - 2007-02-27 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 16 (Roll no. 105). (text: CR H1909-1910)
 - 2007-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 16 (Roll no. 105).(text: CR H1909-1910)
+- 2007-02-28 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
