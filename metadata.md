@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 74
@@ -45,9 +45,10 @@ Expressing the sense of the Congress regarding the need for additional research 
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Expressing the sense of the Congress regarding the need for additional research 
 - 2007-02-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1929)
 - 2007-02-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1929)
 - 2007-02-27 — Referred to the Subcommittee on Health.
+- 2007-02-28 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
