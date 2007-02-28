@@ -1,7 +1,7 @@
 ---
 measure: H.R. 644
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 644
@@ -33,9 +33,10 @@ Brownfields Redevelopment Enhancement Act
 - Rep. Altmire, Jason [D-PA-4] (A000362)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Brownfields Redevelopment Enhancement Act
 - 2007-02-27 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
 - 2007-02-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1906-1907)
 - 2007-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1906-1907)
+- 2007-02-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
