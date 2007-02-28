@@ -1,7 +1,7 @@
 ---
 measure: H.R. 990
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 1070a` | add-at-end | Section 401(b)(3) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1078` | amend | Clause (ii) of section 428(c)(6)(A) of the Higher Education Act of 1965 (20 U.S.C. 1078(c)(6)(A)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Clause (ii) of section 428(c)(6)(A) of the Higher Education Act of 1965 (20 U.S.C. 1078(c)(6)(A)(ii)) is amended to read as follows: | the bill names no machine-readable US Code section |
