@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 47
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 47
@@ -45,3 +45,4 @@ Supporting the goals and ideals of a National Medal of Honor Day to celebrate an
 - 2007-02-27 — Mr. Skelton moved to suspend the rules and agree to the resolution.
 - 2007-02-27 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 103). (text: CR H1900)
 - 2007-02-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 103).(text: CR H1900)
+- 2007-02-28 — Received in the Senate.
