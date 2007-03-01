@@ -1,7 +1,7 @@
 ---
 measure: H.R. 800
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 800
@@ -267,3 +267,49 @@ Employee Free Choice Act of 2007
 - 2007-02-16 — Placed on the Union Calendar, Calendar No. 8.
 - 2007-02-16 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-23.
 - 2007-02-16 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-23.
+- 2007-02-28 — Rules Committee Resolution H. Res. 203 Reported to House. Rule provides for consideration of H.R. 800 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill.
+- 2007-03-01 — Amendment (A001) offered by Mr. King (IA). (consideration: CR H2078-2080, H2087; text: CR H2078-2079)
+- 2007-03-01 — Amendment (A002) offered by Ms. Foxx. (consideration: CR H2080-2082, H2087-2088; text: CR H2080)
+- 2007-03-01 — Amendment (A003) offered by Mr. McKeon. (consideration: CR H2082-2087, H2088-2089; text: CR H2082)
+- 2007-03-01 — Amendment failed in Committee of the Whole
+- 2007-03-01 — Amendment failed in Committee of the Whole
+- 2007-03-01 — Amendment failed in Committee of the Whole
+- 2007-03-01 — Considered under the provisions of rule H. Res. 203. (consideration: CR H2054-2091)
+- 2007-03-01 — DEBATE - Pursuant to the provisions of H. Res. 203, the Committee of the Whole proceed with ten minutes of debate on the King (IA) amendment.
+- 2007-03-01 — DEBATE - Pursuant to the provisions of H. Res. 203, the Committee of the Whole proceeded with ten minutes of debate on the Foxx (NC) amendment.
+- 2007-03-01 — DEBATE - Pursuant to the provisions of H. Res. 203, the Committee of the Whole proceeded with thirty minutes of debate on the McKeon (CA) amendment.
+- 2007-03-01 — DEBATE - The House proceeded with ten minutes of debate on the Mckeon motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to include language specifying that in addition to the signature of the employee, an attestation that the employee is a lawful citizen or legal resident alien of the United States must be present.
+- 2007-03-01 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 800.
+- 2007-03-01 — House amendment not agreed to: On agreeing to the Foxx amendment (A002) Failed by recorded vote: 173 - 256 (Roll no. 115).
+- 2007-03-01 — House amendment not agreed to: On agreeing to the King (IA) amendment (A001) Failed by recorded vote: 164 - 264 (Roll no. 114).
+- 2007-03-01 — House amendment not agreed to: On agreeing to the McKeon amendment (A003) Failed by recorded vote: 173 - 256 (Roll no. 116).
+- 2007-03-01 — House amendment offered
+- 2007-03-01 — House amendment offered
+- 2007-03-01 — House amendment offered
+- 2007-03-01 — House amendment offered/reported by : Amendment (A001) offered by Mr. King (IA).(consideration: CR H2078-2080, H2087; text: CR H2078-2079)
+- 2007-03-01 — House amendment offered/reported by : Amendment (A002) offered by Ms. Foxx.(consideration: CR H2080-2082, H2087-2088; text: CR H2080)
+- 2007-03-01 — House amendment offered/reported by : Amendment (A003) offered by Mr. McKeon.(consideration: CR H2082-2087, H2088-2089; text: CR H2082)
+- 2007-03-01 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 203 and Rule XVIII.
+- 2007-03-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-01 — Mr. McKeon moved to recommit with instructions to Education and Labor. (consideration: CR H2089; text: CR H2089)
+- 2007-03-01 — On agreeing to the Foxx amendment (A002) Failed by recorded vote: 173 - 256 (Roll no. 115).
+- 2007-03-01 — On agreeing to the King (IA) amendment (A001) Failed by recorded vote: 164 - 264 (Roll no. 114).
+- 2007-03-01 — On agreeing to the McKeon amendment (A003) Failed by recorded vote: 173 - 256 (Roll no. 116).
+- 2007-03-01 — On motion to recommit with instructions Failed by recorded vote: 202 - 225, 1 Present (Roll no. 117).
+- 2007-03-01 — On passage Passed by recorded vote: 241 - 185 (Roll no. 118). (text: CR H2078)
+- 2007-03-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Foxx (NC) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Foxx demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-03-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. King demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-03-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mckeon (CA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McKeon demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-03-01 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 185 (Roll no. 118).(text: CR H2078)
+- 2007-03-01 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-03-01 — Roll call votes on amendments in House
+- 2007-03-01 — Roll call votes on amendments in House
+- 2007-03-01 — Roll call votes on amendments in House
+- 2007-03-01 — Rule H. Res. 203 passed House.
+- 2007-03-01 — Rule provides for consideration of H.R. 800 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill.
+- 2007-03-01 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-03-01 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 800.
+- 2007-03-01 — The Speaker designated the Honorable Zoe Lofgren to act as Chairwoman of the Committee.
+- 2007-03-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2090)
+- 2007-03-01 — The previous question was ordered pursuant to the rule. (consideration: CR H2089)
+- 2007-03-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
