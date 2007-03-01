@@ -1,7 +1,7 @@
 ---
 measure: H.R. 556
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 556
@@ -77,11 +77,12 @@ Foreign Investment and National Security Act of 2007
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -170,3 +171,4 @@ Foreign Investment and National Security Act of 2007
 - 2007-02-28 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2008)
 - 2007-02-28 — The previous question was ordered pursuant to the rule. (consideration: CR H2007)
 - 2007-02-28 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-03-01 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
