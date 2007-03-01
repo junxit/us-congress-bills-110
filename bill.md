@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1299
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1299
+
+> To permit the televising of Supreme Court proceedings.
+
+## § 1. Amendment to title 28
+
+- **(a)** *In general* Chapter 45 of title 28, United States Code, is amended by inserting at the end the following:
+  > ## § 678. Televising Supreme Court proceedings
+  >
+  > The Supreme Court shall permit television coverage of all open sessions of the Court unless the Court decides, by a vote of the majority of justices, that allowing such coverage in a particular case would constitute a violation of the due process rights of 1 or more of the parties before the Court.
+
+- **(b)** *Clerical amendment* The chapter analysis for chapter 45 of title 28, United States Code, is amended by inserting at the end the following:
