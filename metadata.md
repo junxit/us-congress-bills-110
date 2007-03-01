@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 89
 congress: 110
-version: Placed on Calendar Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 89
@@ -27,3 +27,5 @@ An original resolution authorizing expenditures by committees of the Senate for 
 - 2007-02-28 — Committee on Rules and Administration. Original measure reported to Senate by Senator Feinstein. Without written report.
 - 2007-02-28 — Introduced in Senate
 - 2007-02-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 60. (text of measure as introduced: CR S2372-2378)
+- 2007-03-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S2534-2540; text as passed Senate: CR S2534-2540)
+- 2007-03-01 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2534-2540; text as passed Senate: CR S2534-2540)
