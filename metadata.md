@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 10
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 10
@@ -16,7 +16,7 @@ A concurrent resolution honoring and praising the National Association for the A
 
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 
-## Cosponsors (27)
+## Cosponsors (31)
 
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
@@ -45,6 +45,10 @@ A concurrent resolution honoring and praising the National Association for the A
 - Sen. Warner, John [R-VA] (W000154)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cochran, Thad [R-MS] (C000567)
 
 ## Committees (1)
 
@@ -55,3 +59,7 @@ A concurrent resolution honoring and praising the National Association for the A
 - 2007-02-12 — Introduced in Senate
 - 2007-02-12 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1869)
 - 2007-02-12 — Sponsor introductory remarks on measure. (CR S1869)
+- 2007-03-01 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 61.
