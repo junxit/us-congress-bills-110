@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 1257
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1257
+
+> To amend the Securities Exchange Act of 1934 to provide shareholders with an advisory vote on executive compensation.
+
+## § 1. Short title
+
+This Act may be cited as the “Shareholder Vote on Executive Compensation Act”.
+
+## § 2. Shareholder vote on executive compensation disclosures
+
+- **(a)** *Amendment* Section 16 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by adding at the end the following new subsection:
+  > - **(h)** *Annual shareholder approval of executive compensation*
+  >   - **(1)** *In general* Any proxy or consent or authorization under this section shall permit a separate shareholder vote to approve the compensation of executives as disclosed pursuant to the Commission’s compensation disclosure rules (which disclosure shall include the compensation discussion and analysis, the compensation tables, and any related material). The shareholder vote shall not be binding on the board of directors and shall not be construed as overruling a decision by such board.
+  >   - **(2)** *Shareholder approval of golden parachute compensation*
+  >     - **(A)** *Disclosure* In any proxy solicitation material that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of an issuer, the person making such solicitation shall disclose in the proxy solicitation material, in a clear and simple form in accordance with regulations of the Commission, any agreements or understandings that such person has with any principal executive officers of such issuer (or of the acquiring issuer, if such issuer is not the acquiring issuer) concerning any type of compensation (whether present, deferred, or contingent) that are based on or otherwise relate to the acquisition, merger, consolidation, sale, or other disposition, and that have not been subject to a shareholder vote under paragraph (1).
+  >     - **(B)** *Shareholder approval* The proxy solicitation material containing the disclosure required by subparagraph (A) shall require a separate shareholder vote to approve such agreements or understandings. A vote by the shareholders shall not be binding on the board of directors and shall not be construed as overruling a decision by such board.
+
+- **(b)** *Deadline for rulemaking* Not later than 1 year after the date of the enactment of this Act, the Securities and Exchange Commission shall issue any final rules and regulations required by the amendments made by subsection (a).
