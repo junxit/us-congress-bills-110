@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 52
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 52
@@ -16,9 +16,10 @@ Supporting the goals and ideals of American Heart Month.
 
 - Rep. Millender-McDonald, Juanita [D-CA-37] (M000714)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -39,3 +40,4 @@ Supporting the goals and ideals of American Heart Month.
 - 2007-02-28 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-02-28 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 111). (text: CR H1927-1928)
 - 2007-02-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 111).(text: CR H1927-1928)
+- 2007-03-01 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
