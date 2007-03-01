@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 44
@@ -157,3 +157,7 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - 2007-02-12 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 94). (text: CR H1433)
 - 2007-02-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 94).(text: CR H1433)
 - 2007-02-13 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2007-03-01 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
