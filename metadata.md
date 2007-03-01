@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 44
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 44
@@ -161,3 +161,6 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
+- 2007-03-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3724)
+- 2007-03-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3724)
+- 2007-03-26 — Message on Senate action sent to the House.
