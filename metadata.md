@@ -1,7 +1,7 @@
 ---
 measure: H.R. 800
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 800
@@ -321,3 +321,4 @@ Employee Free Choice Act of 2007
 - 2007-03-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2090)
 - 2007-03-01 — The previous question was ordered pursuant to the rule. (consideration: CR H2089)
 - 2007-03-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-03-02 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.
