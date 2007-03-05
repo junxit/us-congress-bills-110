@@ -1,7 +1,7 @@
 ---
 measure: H.R. 467
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 467
@@ -25,3 +25,10 @@ Southern Idaho Bureau of Reclamation Repayment Act of 2007
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Introduced in House
 - 2007-01-12 — Referred to the House Committee on Natural Resources.
+- 2007-02-07 — Referred to the Subcommittee on Water and Power.
+- 2007-03-05 — Considered under suspension of the rules. (consideration: CR H2126)
+- 2007-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 467.
+- 2007-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2007-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2126)
+- 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2126)
