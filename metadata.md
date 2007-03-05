@@ -1,7 +1,7 @@
 ---
 measure: H.R. 376
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 376
@@ -25,3 +25,10 @@ To authorize the Secretary of the Interior to conduct a special resource study t
 - 2007-01-10 — Introduced in House
 - 2007-01-10 — Introduced in House
 - 2007-01-10 — Referred to the House Committee on Natural Resources.
+- 2007-02-07 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-03-05 — Considered under suspension of the rules. (consideration: CR H2133-2134)
+- 2007-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 376.
+- 2007-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2133-2134)
+- 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2133-2134)
