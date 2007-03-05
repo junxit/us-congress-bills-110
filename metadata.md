@@ -1,7 +1,7 @@
 ---
 measure: H.R. 497
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 497
@@ -28,8 +28,21 @@ Brigadier General Francis Marion Memorial Act of 2007
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2007-03-05 — [House 110-1-120](votes/house-110-1-0120.md) — On Motion to Suspend the Rules and Pass — **Passed** (390–0)
+
 ## Actions
 
 - 2007-01-16 — Introduced in House
 - 2007-01-16 — Introduced in House
 - 2007-01-16 — Referred to the House Committee on Natural Resources.
+- 2007-02-07 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-03-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-03-05 — Considered as unfinished business. (consideration: CR H2138-2139)
+- 2007-03-05 — Considered under suspension of the rules. (consideration: CR H2136-2137)
+- 2007-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 497.
+- 2007-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 120). (text: CR H2136)
+- 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 120).(text: CR H2136)
