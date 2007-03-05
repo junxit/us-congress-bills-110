@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 202
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 202
@@ -29,3 +29,8 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2007-02-28 — Introduced in House
 - 2007-02-28 — Introduced in House
 - 2007-02-28 — Referred to the House Committee on House Administration.
+- 2007-03-01 — Committee Consideration and Mark-up Session Held.
+- 2007-03-01 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-05 — Placed on the House Calendar, Calendar No. 19.
+- 2007-03-05 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-29.
+- 2007-03-05 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-29.
