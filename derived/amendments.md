@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 10 executed, 47 stated and not applied.
+68 amendatory instructions. 17 executed, 51 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,15 @@ to guess them.
 |---|---|
 | Removed | `5 years` |
 | Inserted | `10 years` |
+
+### 33 U.S.C. § 1292
+
+> by striking “is used for ultimate” and inserting “will be used for ultimate”; and
+
+| | |
+|---|---|
+| Removed | `is used for ultimate` |
+| Inserted | `will be used for ultimate` |
 
 ### 33 U.S.C. § 1298
 
@@ -114,6 +123,60 @@ to guess them.
 | Removed | `and (6)` |
 | Inserted | `(6), (15), and (17)` |
 
+### 46 U.S.C. § 60301
+
+> in the section heading by striking “taxes” and inserting “duties”;
+
+| | |
+|---|---|
+| Removed | `taxes` |
+| Inserted | `duties` |
+
+### 46 U.S.C. § 60301
+
+> in subsection (c) by striking “taxes” and inserting “duties”.
+
+| | |
+|---|---|
+| Removed | `taxes` |
+| Inserted | `duties` |
+
+### 46 U.S.C. § 60301
+
+> in the headings of sections in chapter 603, by striking “taxes” each place it appears and inserting “duties”;
+
+| | |
+|---|---|
+| Removed | `taxes` |
+| Inserted | `duties` |
+
+### 46 U.S.C. § 60301
+
+> in the heading for subsection (a) of section 60303, by striking “tax” and inserting “duty”;
+
+| | |
+|---|---|
+| Removed | `tax` |
+| Inserted | `duty` |
+
+### 46 U.S.C. § 60301
+
+> in the text of sections in chapter 603, by striking “taxes” each place it appears and inserting “duties”; and
+
+| | |
+|---|---|
+| Removed | `taxes` |
+| Inserted | `duties` |
+
+### 46 U.S.C. § 60301
+
+> in the text of sections in chapter 603, by striking “tax” each place it appears and inserting “duty”.
+
+| | |
+|---|---|
+| Removed | `tax` |
+| Inserted | `duty` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -125,7 +188,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `33 U.S.C. § 1254` | strike | by striking “and” at the end of paragraph (6); | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1254` | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1254` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1254` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1254` | insert | by inserting before the period at the end the following: “; and (7) not to exceed $75,000,000 for each of fiscal years 2008 through 2012 for carrying out subsections (b)(3) and (b)(8), except that not less than 20 percent of the amounts … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1254` | add-at-end | Section 104 (33 U.S.C. 1254(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1256` | strike | by striking “and” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
@@ -134,39 +197,43 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1274` | strike | in the section heading by striking “Wet weather”; and | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1274` | strike | in the matter preceding paragraph (1) by striking “wet weather discharge”; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1274` | insert | in paragraph (2) by inserting “, including low-impact development technologies” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1274` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1274` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1291` | replace | by striking the section designation and all that follows through “(a) No” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1291` | insert | in subsection (b) by inserting “Population Density.—” after “(b)”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1291` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | by striking “any works, including site”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “is used for ultimate” and inserting “will be used for ultimate”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period at the end the following: “and acquisition of other lands, and interests in lands, which are necessary for construction”. | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 1292` | strike | by striking “any works, including site”; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1292` | insert | by inserting before the period at the end the following: “and acquisition of other lands, and interests in lands, which are necessary for construction”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1381` | replace | Section 601(a) (33 U.S.C. 1381(a)) is amended by striking “for providing assistance” and all that follows through the period at the end and inserting the following: “to accomplish the objectives, goals, and policies of this Act by provid… | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1382` | strike | by striking “and” at the end of paragraph (9); | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1382` | replace | by striking the period at the end of paragraph (10) and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1382` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1382` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | amend | Section 603(c) (33 U.S.C. 1383(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | strike | by striking “and” at the end of subparagraph (C); | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1383` | insert | by inserting “and” at the end of subparagraph (D); and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1383` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1383` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | insert | Section 603(d)(7) (33 U.S.C. 1383(d)(7)) is amended by inserting before the period at the end the following: “, $400,000 per year, or 1/5 percent per year of the current valuation of the fund, whichever amount is greatest, plus the amoun… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | strike | by striking “and” at the end of paragraph (6); | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1383` | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1383` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1383` | amend | Section 603 (33 U.S.C. 1383) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1383` | add-at-end | Section 603 (33 U.S.C. 1383) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1384` | amend | Section 604(a) (33 U.S.C. 1384(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1384` | add-at-end | Section 604 (33 U.S.C. 1384) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | amend | Section 603(g) (33 U.S.C. 1383(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1386` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1386` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1386` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1386` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 606(d) (33 U.S.C. 1386(d)) is amended by inserting “the eligible purpose under section 603(c) for which the assistance is provided,” after “loan amounts,”. | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating section 607 as section 608; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 606 the following: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 1386` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1386` | insert | Section 606(d) (33 U.S.C. 1386(d)) is amended by inserting “the eligible purpose under section 603(c) for which the assistance is provided,” after “loan amounts,”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 1381` | redesignate | by redesignating section 607 as section 608; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1381` | insert | by inserting after section 606 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Section 608 (as redesignated by section 307 of this Act) is amended by striking paragraphs (1) through (5) and inserting the following: | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1362` | add-at-end | Section 502 (33 U.S.C. 1362) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1377` | replace | by striking “The Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1377` | insert | by inserting “and ending before October 1, 2006,” after “1986,”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1377` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1377` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1602` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 60301` | amend | by amending subsections (a) and (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 60301` | replace | by striking the heading for subtitle VI and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 60301` | replace | in the title analysis by striking the item relating to subtitle VI and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 60301` | replace | by striking the items relating to sections 60301 and 60302 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 60301` | replace | by striking the item relating to section 60304 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
