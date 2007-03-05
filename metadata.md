@@ -1,7 +1,7 @@
 ---
 measure: H.R. 122
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 122
@@ -16,11 +16,12 @@ Inland Empire Regional Water Recycling Initiative
 
 - Rep. Dreier, David [R-CA-26] (D000492)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Baca, Joe [D-CA-43] (B001234)
 
 ## Committees (1)
 
@@ -31,3 +32,12 @@ Inland Empire Regional Water Recycling Initiative
 - 2007-01-04 — Introduced in House
 - 2007-01-04 — Introduced in House
 - 2007-01-04 — Referred to the House Committee on Natural Resources.
+- 2007-01-05 — Sponsor introductory remarks on measure. (CR E15)
+- 2007-02-07 — Referred to the Subcommittee on Water and Power.
+- 2007-03-05 — Considered under suspension of the rules. (consideration: CR H2124-2125)
+- 2007-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 122.
+- 2007-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2007-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2124)
+- 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2124)
+- 2007-03-05 — Subcommittee on Water and Power Discharged.
