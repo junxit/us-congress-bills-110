@@ -1,0 +1,26 @@
+---
+legis-num: S.J. RES. 5
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 5
+
+> Proclaiming Casimir Pulaski to be an honorary citizen of the United States posthumously.
+
+## Preamble
+
+- Whereas Casimir Pulaski was a Polish military officer who fought on the side of the American colonists against the British in the American Revolutionary War;
+- Whereas Benjamin Franklin recommended that General George Washington accept Casimir Pulaski as a volunteer in the American Cavalry and said that Pulaski was “renowned throughout Europe for the courage and bravery he displayed in defense of his country’s freedom”;
+- Whereas, after arriving in America, Casimir Pulaski wrote to General Washington, “I came here, where freedom is being defended, to serve it, and to live or die for it.”;
+- Whereas the first military engagement of Casimir Pulaski with the British was on September 11, 1777, at the Battle of Brandywine, and his courageous charge in this engagement averted a disastrous defeat of the American Cavalry and saved the life of George Washington;
+- Whereas, on September 15, 1777, George Washington elevated Casimir Pulaski to the rank of Brigadier General of the American Cavalry;
+- Whereas Casimir Pulaski formed the Pulaski Cavalry Legion, and in February 1779, this legion ejected the British occupiers from Charleston, South Carolina;
+- Whereas, in October 1779, Casimir Pulaski mounted an assault against British forces in Savannah, Georgia;
+- Whereas, on the morning of October 9, 1779, Casimir Pulaski was mortally wounded and was taken aboard the American ship USS Wasp, where he died at sea on October 11, 1779;
+- Whereas, before the end of 1779, the Continental Congress resolved that a monument should be erected in honor of Casimir Pulaski;
+- Whereas, in 1825, General Lafayette laid the cornerstone for the Casimir Pulaski monument in Savannah, Georgia; and
+- Whereas, in 1929, Congress passed a resolution recognizing October 11 of each year as Pulaski Day in the United States: Now, therefore, be it
+
+That Casimir Pulaski is proclaimed to be an honorary citizen of the United States posthumously.
