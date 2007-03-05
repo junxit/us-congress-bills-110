@@ -19,6 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(b)** *Cost sharing* The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the total cost of the project.
   > - **(c)** *Limitation* Funds provided by the Secretary shall not be used for operation and maintenance of the project described in subsection (a).
   > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $20,000,000.
+  > - **(e)** *Sunset of authority* The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
   >
   > ## § 16__. Cucamonga Valley Water Recycling Project
   >
@@ -26,5 +27,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(b)** *Cost sharing* The Federal share of the cost of the project described in subsection (a) shall not exceed 25 percent of the capital cost of the project.
   > - **(c)** *Limitation* Funds provided by the Secretary shall not be used for operation and maintenance of the project described in subsection (a).
   > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $10,000,000.
+  > - **(e)** *Sunset of authority* The authority of the Secretary to carry out any provisions of this section shall terminate 10 years after the date of the enactment of this section.
 
 - **(c)** *Conforming amendments* The table of sections in section 2 of Public Law 102–575 is amended by inserting after the last item the following:
