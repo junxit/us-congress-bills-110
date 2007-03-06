@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 149
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 149
@@ -16,7 +16,7 @@ Supporting the goals of International Women's Day.
 
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 
-## Cosponsors (75)
+## Cosponsors (102)
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Capps, Lois [D-CA-23] (C001036)
@@ -93,11 +93,42 @@ Supporting the goals of International Women's Day.
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Hall, John J. [D-NY-19] (H001039)
 
 ## Committees (2)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2007-03-06 — [House 110-1-122](votes/house-110-1-0122.md) — On Motion to Suspend the Rules and Agree — **Passed** (403–0)
 
 ## Actions
 
@@ -106,3 +137,14 @@ Supporting the goals of International Women's Day.
 - 2007-02-08 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-08 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-08 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-02-15 — Committee Consideration and Mark-up Session Held.
+- 2007-02-15 — Ordered to be Reported by Voice Vote.
+- 2007-03-01 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2007-03-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-03-06 — Considered as unfinished business. (consideration: CR H2208-2209)
+- 2007-03-06 — Considered under suspension of the rules. (consideration: CR H2178-2182)
+- 2007-03-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 149.
+- 2007-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-06 — Ms. Watson moved to suspend the rules and agree to the resolution.
+- 2007-03-06 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 122). (text: CR H2178)
+- 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 122).(text: CR H2178)
