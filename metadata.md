@@ -1,7 +1,7 @@
 ---
 measure: H.R. 467
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 467
@@ -16,9 +16,10 @@ Southern Idaho Bureau of Reclamation Repayment Act of 2007
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Southern Idaho Bureau of Reclamation Repayment Act of 2007
 - 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2007-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2126)
 - 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2126)
+- 2007-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
