@@ -1,7 +1,7 @@
 ---
 measure: H.R. 122
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of Public Law 102–575 is amended by inserting after the last item the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections in section 2 of Public Law 102–575 is amended by inserting after the last item the following: | the bill names no machine-readable US Code section |
