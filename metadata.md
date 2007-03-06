@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 182
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 182
@@ -16,7 +16,7 @@ Commending and congratulating Virginia State University on the occasion of its 1
 
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Boucher, Rick [D-VA-9] (B000657)
@@ -29,6 +29,8 @@ Commending and congratulating Virginia State University on the occasion of its 1
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 - Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -39,3 +41,9 @@ Commending and congratulating Virginia State University on the occasion of its 1
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Referred to the House Committee on Education and Labor.
+- 2007-03-06 — Considered under suspension of the rules. (consideration: CR H2197-2198)
+- 2007-03-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 182.
+- 2007-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-06 — Mr. Scott (VA) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-03-06 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2197)
+- 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2197)

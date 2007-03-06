@@ -2,7 +2,7 @@
 legis-num: H. RES. 182
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 182
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the first president of Virginia State University was John Mercer Langston, who became the first African American elected to Congress from Virginia;
 - Whereas Virginia State University has an exemplary and dedicated faculty and staff, who are committed to offering their students the personal attention that smaller institutions can offer;
 - Whereas Virginia State University’s academic programs include the Bridges to Baccalaureate program for students transferring from 2-year colleges who want to major in the sciences, the Ronald E. McNair Scholars Program for students planning to pursue doctoral degrees, and the Honda Campus All-Star Challenge;
-- Whereas Virginia State University offers 47 baccalaureate and master’s degree programs within its 5 schools (the School of Agriculture, School of Business, School of Engineering, Science, and Technology, School of Liberal Arts and Education, and the School of Graduate Studies, Research, and Outreach), and a Certificate of Advanced Study may also be earned from each school;
+- Whereas Virginia State University offers 45 baccalaureate and master’s degree programs within its 5 schools (the School of Agriculture, School of Business, School of Engineering, Science, and Technology, School of Liberal Arts and Education, and the School of Graduate Studies, Research, and Outreach), and a Certificate of Advanced Study may also be earned from each school;
 - Whereas honors scholarships are available to entering VSU freshmen, including the Presidential and Provost Scholarships;
 - Whereas in 2003 Virginia State University introduced its first doctoral program and 12 enthusiastic students enrolled in the new Doctor of Education in Administration and Supervision program;
 - Whereas in 2005 Virginia State University began a vital new nursing degree program, an important initiative that will train nurses to meet the urgent demand for qualified medical professionals in the hospitals and clinics of Southside Virginia;
