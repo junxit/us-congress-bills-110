@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 180
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 180
@@ -88,3 +88,11 @@ Honoring the life and achievements of Leo T. McCarthy and expressing profound so
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-02-28 — Committee Consideration and Mark-up Session Held.
+- 2007-02-28 — Ordered to be Reported by Unanimous Consent.
+- 2007-03-06 — Considered under suspension of the rules. (consideration: CR H2203-2207)
+- 2007-03-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 180.
+- 2007-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-06 — Ms. Watson moved to suspend the rules and agree to the resolution.
+- 2007-03-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2203-2204)
+- 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2203-2204)

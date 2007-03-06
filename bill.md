@@ -2,7 +2,7 @@
 legis-num: H. RES. 180
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 180
@@ -43,7 +43,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Leo McCarthy earned the highest respect of the people of California for his record of accomplishment on their behalf; and
 - Whereas the House of Representatives has learned of the death of Leo McCarthy on February 5, 2007: Now, therefore, be it
 
-That the House of Representatives——
+That the House of Representatives—
 
 - **(1)** expresses its profound sorrow and deep condolences to the McCarthy family on the occasion of the death of Leo McCarthy on February 5, 2007; and
 - **(2)** directs the Clerk of the House of Representatives to transmit a copy of this resolution to the family of Leo McCarthy.
