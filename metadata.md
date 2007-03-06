@@ -1,7 +1,7 @@
 ---
 measure: H.R. 399
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 399
@@ -33,3 +33,9 @@ To designate the United States Courthouse to be constructed in Jackson, Mississi
 - 2007-02-16 — Placed on the House Calendar, Calendar No. 14.
 - 2007-02-16 — Reported by the Committee on Transportation. H. Rept. 110-20.
 - 2007-02-16 — Reported by the Committee on Transportation. H. Rept. 110-20.
+- 2007-03-06 — Considered under suspension of the rules. (consideration: CR H2190-2191)
+- 2007-03-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 399.
+- 2007-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-06 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2190)
+- 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2190)
