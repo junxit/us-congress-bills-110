@@ -1,7 +1,7 @@
 ---
 measure: H.R. 807
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 807
@@ -16,9 +16,10 @@ Columbia Space Shuttle Memorial Study Act
 
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Columbia Space Shuttle Memorial Study Act
 - 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2134-2135)
 - 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2134-2135)
+- 2007-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
