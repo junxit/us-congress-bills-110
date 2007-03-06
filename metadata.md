@@ -1,7 +1,7 @@
 ---
 measure: H.R. 497
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 497
@@ -24,9 +24,10 @@ Brigadier General Francis Marion Memorial Act of 2007
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 - Rep. Barrett, J. Gresham [R-SC-3] (B001239)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Brigadier General Francis Marion Memorial Act of 2007
 - 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 120). (text: CR H2136)
 - 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 120).(text: CR H2136)
+- 2007-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
