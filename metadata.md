@@ -1,7 +1,7 @@
 ---
 measure: H.R. 247
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 247
@@ -23,9 +23,10 @@ To designate a Forest Service trail at Waldo Lake in the Willamette National For
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate a Forest Service trail at Waldo Lake in the Willamette National For
 - 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2132)
 - 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2132)
+- 2007-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
