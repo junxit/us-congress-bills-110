@@ -2,7 +2,7 @@
 legis-num: H. RES. 149
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 149
@@ -33,7 +33,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas between 75 and 80 percent of the world’s 27,000,000 refugees are women and children;
 - Whereas in times and places of conflict and war, women and girls continue to be the focus of extreme violence and intimidation and face tremendous obstacles to legal recourse and justice;
 - Whereas March 8 has become known as International Women’s Day for the last century, and is a day on which people, often divided by ethnicity, language, culture, and income, come together to celebrate a common struggle for women’s equality, justice, and peace; and
-- Whereas the people of the United States should be encouraged to participate in International Women’s Day: Now therefore, be it
+- Whereas the people of the United States should be encouraged to participate in International Women’s Day: Now, therefore, be it
 
 That the House of Representatives—
 
