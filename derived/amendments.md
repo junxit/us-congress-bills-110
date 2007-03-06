@@ -1,7 +1,7 @@
 ---
 measure: H.R. 995
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -69,5 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `40 U.S.C. § 1010` | strike | by striking “or upon expiration of the authority for the memorial under section 10(b) of such Act (40 U.S.C. 1010(b)),”; and | the bill quotes the text struck but describes what replaces it |
-| `40 U.S.C. § 8903` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 1008` | strike | by striking “or upon expiration of the authority for the memorial under section 10(b) of such Act (40 U.S.C. 1010(b)),”; and | the bill quotes the text struck but describes what replaces it |
+| `40 U.S.C. § 1001` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
