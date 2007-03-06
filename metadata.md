@@ -1,7 +1,7 @@
 ---
 measure: H.R. 903
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 903
@@ -16,9 +16,10 @@ Colorado Northern Front Range Mountain Backdrop Protection Study Act
 
 - Rep. Udall, Mark [D-CO-2] (U000038)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ Colorado Northern Front Range Mountain Backdrop Protection Study Act
 - 2007-03-05 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2128-2129)
 - 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2128-2129)
+- 2007-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
