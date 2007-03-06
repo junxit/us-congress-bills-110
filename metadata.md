@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 98
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 98
@@ -16,7 +16,7 @@ Honoring the life and achievements of the late Dr. John Garang de Mabior and rea
 
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
-## Cosponsors (43)
+## Cosponsors (53)
 
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
@@ -61,6 +61,16 @@ Honoring the life and achievements of the late Dr. John Garang de Mabior and rea
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
 
 ## Committees (1)
 
@@ -71,3 +81,14 @@ Honoring the life and achievements of the late Dr. John Garang de Mabior and rea
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Referred to the House Committee on Foreign Affairs.
+- 2007-02-05 — Referred to the Subcommittee on Africa and Global Health.
+- 2007-02-15 — Committee Consideration and Mark-up Session Held.
+- 2007-02-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-03-06 — Considered as unfinished business. (consideration: CR H2208)
+- 2007-03-06 — Considered under suspension of the rules. (consideration: CR H2172-2174)
+- 2007-03-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 98.
+- 2007-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-06 — Mr. Payne moved to suspend the rules and agree to the resolution, as amended.
+- 2007-03-06 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 121). (text: CR H2172)
+- 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 121).(text: CR H2172)
