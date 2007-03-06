@@ -1,7 +1,7 @@
 ---
 measure: H.R. 987
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 987
@@ -33,3 +33,11 @@ NATO Freedom Consolidation Act of 2007
 - 2007-02-12 — Introduced in House
 - 2007-02-12 — Introduced in House
 - 2007-02-12 — Referred to the House Committee on Foreign Affairs.
+- 2007-02-15 — Committee Consideration and Mark-up Session Held.
+- 2007-02-15 — Ordered to be Reported by Voice Vote.
+- 2007-03-06 — Considered under suspension of the rules. (consideration: CR H2174-2178)
+- 2007-03-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 987.
+- 2007-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-06 — Mr. Tanner moved to suspend the rules and pass the bill.
+- 2007-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2175-2176)
+- 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2175-2176)
