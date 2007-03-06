@@ -80,7 +80,25 @@ This Act may be cited as the “Appalachian Regional Development Act Amendments 
   - **(2)** by adding at the end the following:
     > - **(3)** *At-risk counties* The maximum Commission contribution for a project to be carried out in a county for which an at-risk county designation is in effect under section 14526 may be increased to 70 percent.
 
-## § 3. Distressed, at-risk, and economically strong counties
+## § 3. Economic and energy development initiative
+
+- **(a)** *In general* Subchapter I of chapter 145 of subtitle IV of title 40, United States Code, is amended by adding at the end the following:
+  > ## § 14508. Economic and energy development initiative
+  >
+  > - **(a)** *Projects To Be Assisted* The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to persons or entities in the Appalachian region for projects—
+  >   - **(1)** to promote energy efficiency in the region to enhance its economic competitiveness;
+  >   - **(2)** to increase the use of renewable energy resources in the region to produce alternative transportation fuels, electricity, and heat; and
+  >   - **(3)** to support the development of conventional energy resources in the region to produce alternative transportation fuels, electricity, and heat.
+  > - **(b)** *Limitation on available amounts* Of the cost of any project eligible for a grant under this section, not more than—
+  >   - **(1)** 50 percent may be provided from amounts appropriated to carry out this section;
+  >   - **(2)** in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, 80 percent may be provided from amounts appropriated to carry out this section; or
+  >   - **(3)** in the case of a project to be carried out in a county for which an at-risk county designation is in effect under section 14526, 70 percent may be provided from amounts appropriated to carry out this section.
+  > - **(c)** *Sources of Assistance* Assistance under this section may be provided from amounts made available to carry out this section in combination with amounts made available under other Federal programs or from any other source.
+  > - **(d)** *Federal Share* Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
+
+- **(b)** *Conforming amendment* The analysis for chapter 145 of title 40, United States Code, is amended by inserting after the item relating to section 14507 the following:
+
+## § 4. Distressed, at-risk, and economically strong counties
 
 - **(a)** *Designation of at-risk counties* Section 14526 of title 40, United States Code, is amended—
   - **(1)** in the section heading by inserting “, at-risk,” after “Distressed”; and
@@ -92,22 +110,23 @@ This Act may be cited as the “Appalachian Regional Development Act Amendments 
 
 - **(b)** *Conforming amendment* The analysis for chapter 145 of such title is amended by striking the item relating to section 14526 and inserting the following:
 
-## § 4. Authorization of appropriations
+## § 5. Authorization of appropriations
 
 - **(a)** *In general* Section 14703(a) of title 40, United States Code, is amended to read as follows:
-  > - **(a)** *In general* In addition to amounts made available under section 14501, there is authorized to be appropriated to the Appalachian Regional Commission to carry out this subtitle—
+  > - **(a)** *In general* In addition to amounts made available under section 14501, there is authorized to be appropriated to the Appalachian Regional Commission to carry out this subtitle (other than section 14508)—
   >   - **(1)** $65,000,000 for fiscal year 2007;
   >   - **(2)** $80,000,000 for fiscal year 2008;
   >   - **(3)** $85,000,000 for fiscal year 2009;
   >   - **(4)** $90,000,000 for fiscal year 2010; and
   >   - **(5)** $95,000,000 for fiscal year 2011.
 
-- **(b)** *Allocation of funds* Section 14703 of title 40, United States Code, is amended—
-  - **(1)** by striking subsection (b);
-  - **(2)** by redesignating subsection (c) as subsection (b); and
-  - **(3)** by adding at the end the following:
-    > - **(c)** *Allocation of funds* Funds approved by the Commission for a project in a State in the Appalachian region pursuant to congressional direction shall be derived from such State’s portion of the Commission’s allocation of appropriated amounts among the States.
+- **(b)** *Authorization of Appropriations* Section 14703(b) of such title is amended to read as follows:
+  > - **(b)** *Economic and energy development initiative* In addition to amounts made available under section 14501, there is authorized to be appropriated to the Commission to carry out section 14508 $12,000,000 for each of fiscal years 2008 through 2011.
 
-## § 5. Termination
+- **(c)** *Availability* Section 14703(c) of such title is amended by striking “subsection (a)” and by inserting “subsections (a) and (b)”.
+- **(d)** *Allocation of funds* Section 14703 of such title is amended by adding at the end the following:
+  > - **(d)** *Allocation of funds* Funds approved by the Commission for a project in a State in the Appalachian region pursuant to congressional direction shall be derived from such State’s portion of the Commission’s allocation of appropriated amounts among the States.
+
+## § 6. Termination
 
 Section 14704 of title 40, United States Code, is amended by striking “2006” and inserting “2011”.
