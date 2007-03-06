@@ -1,7 +1,7 @@
 ---
 measure: H.R. 299
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 410cc` | amend | In section 101(a), by adding a new paragraph after paragraph (2) as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 410cc` | add-at-end | In section 202(a)(2), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | In section 101(a), by adding a new paragraph after paragraph (2) as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | In section 202(a)(2), by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
