@@ -1,7 +1,7 @@
 ---
 measure: H.R. 584
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 584
@@ -97,3 +97,4 @@ To designate the Federal building located at 400 Maryland Avenue Southwest in th
 - 2007-03-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2182)
 - 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2182)
 - 2007-03-06 — The title of the measure was amended. Agreed to without objection.
+- 2007-03-07 — Received in the Senate, read twice.
