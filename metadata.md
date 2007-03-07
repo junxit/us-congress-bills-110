@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 62
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 62
@@ -69,9 +69,10 @@ Supporting the goals and ideals of a National Children and Families Day, in orde
 - Rep. Cantor, Eric [R-VA-7] (C001046)
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ Supporting the goals and ideals of a National Children and Families Day, in orde
 - 2007-03-06 — Ms. Watson moved to suspend the rules and agree to the resolution.
 - 2007-03-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2202)
 - 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2202)
+- 2007-03-07 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
