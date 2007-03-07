@@ -1,7 +1,7 @@
 ---
 measure: H.R. 569
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 4 executed, 4 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,12 @@ to guess them.
 
 ### 33 U.S.C. § 1301
 
-> The first sentence of section 221(f) of such Act (33 U.S.C. 1301(f)) is amended by striking “this section $750,000,000” and all that follows through the period at the end and inserting “this section $250,000,000 for fiscal year 2008, $350,000,000 for fiscal year 2009, $450,000,000 for fiscal year 2010, $550,000,000 for fiscal year 2011, $650,000,000 for fiscal year 2012, and $750,000,000 for fiscal year 2013”.
-
-| | |
-|---|---|
-| Removed | `this section $750,000,000` |
-| Inserted | `this section $250,000,000 for fiscal year 2008, $350,000,000 for fiscal year 2009, $450,000,000 for fiscal year 2010, $550,000,000 for fiscal year 2011, $650,000,000 for fiscal year 2012, and $750,000,000 for fiscal year 2013` |
-
-### 33 U.S.C. § 1301
-
-> The first sentence of section 221(i) of such Act (33 U.S.C. 1301(i)) is amended by striking “2003” and inserting “2010”.
-
-| | |
-|---|---|
-| Removed | `2003` |
-| Inserted | `2010` |
-
-### 33 U.S.C. § 1301
-
-> The first sentence of section 221(f) of such Act (33 U.S.C. 1301(f)) is amended by striking “$750,000,000” and all that follows before the period and inserting “$250,000,000 for fiscal year 2008, $300,000,000 for fiscal year 2009, $350,000,000 for fiscal year 2010, $400,000,000 for fiscal year 2011, and $500,000,000 for fiscal year 2012”.
+> The first sentence of section 221(f) of such Act (33 U.S.C. 1301(f)) is amended by striking “$750,000,000” and all that follows before the period and inserting “$237,500,000 for fiscal year 2008, $285,000,000 for fiscal year 2009, $332,500,000 for fiscal year 2010, $380,000,000 for fiscal year 2011, and $475,000,000 for fiscal year 2012”.
 
 | | |
 |---|---|
 | Removed | `$750,000,000` |
-| Inserted | `$250,000,000 for fiscal year 2008, $300,000,000 for fiscal year 2009, $350,000,000 for fiscal year 2010, $400,000,000 for fiscal year 2011, and $500,000,000 for fiscal year 2012` |
+| Inserted | `$237,500,000 for fiscal year 2008, $285,000,000 for fiscal year 2009, $332,500,000 for fiscal year 2010, $380,000,000 for fiscal year 2011, and $475,000,000 for fiscal year 2012` |
 
 ### 33 U.S.C. § 1301
 
@@ -69,7 +51,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1301` | amend | Section 221(e) of the Federal Water Pollution Control Act (33 U.S.C. 1301(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1301` | amend | Section 221(g)(2) of such Act (33 U.S.C. 1301(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1301` | amend | Section 221(e) of the Federal Water Pollution Control Act (33 U.S.C. 1301(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1301` | amend | Section 221(g) of such Act (33 U.S.C. 1301(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
