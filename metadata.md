@@ -1,7 +1,7 @@
 ---
 measure: H.R. 544
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 544
@@ -50,3 +50,4 @@ To designate the United States courthouse at South Federal Place in Santa Fe, Ne
 - 2007-03-06 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2007-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2191)
 - 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2191)
+- 2007-03-07 — Received in the Senate, read twice.
