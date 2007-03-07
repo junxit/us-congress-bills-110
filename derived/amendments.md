@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 1395w-4
+
+> by striking “specified in subparagraph (A)” and inserting “specified in the first sentence of subparagraph (A)”; and
+
+| | |
+|---|---|
+| Removed | `specified in subparagraph (A)` |
+| Inserted | `specified in the first sentence of subparagraph (A)` |
 
 ## Stated, not applied
 
@@ -31,4 +42,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 274e` | add-at-end | Section 301(a) of the National Organ Transplant Act (42 U.S.C. 274e(a)) is amended by adding at the end the following: “For purposes of this section, kidney paired donation shall not be considered to involve the transfer of a human organ… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274e` | add-at-end | Section 301(a) of the National Organ Transplant Act (42 U.S.C. 274e(a)) is amended by adding at the end the following: “The preceding sentence does not apply with respect to the paired donation of human kidneys.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274e` | add-at-end | Section 301(c) of the National Organ Transplant Act (42 U.S.C. 274e(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | add-at-end | in subparagraph (A), by adding at the end the following: “In addition, there shall be available to the Fund for expenditures during 2009 an amount equal to $30,000,000 and for expenditures during or after 2013 an amount equal to $470,000… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | strike | in the heading, by striking “furnished during 2008”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395w-4` | insert | by inserting after “furnished during 2008” the following: “and for the obligation of the entire first amount specified in the second sentence of such subparagraph for payment with respect to physicians' services furnished during 2009 and… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
