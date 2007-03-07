@@ -1,7 +1,7 @@
 ---
 measure: H.R. 544
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 544
@@ -51,3 +51,14 @@ To designate the United States courthouse at South Federal Place in Santa Fe, Ne
 - 2007-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2191)
 - 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2191)
 - 2007-03-07 — Received in the Senate, read twice.
+- 2007-03-08 — Sponsor introductory remarks on measure. (CR E494-495)
+- 2007-03-09 — Cleared for White House.
+- 2007-03-09 — Message on Senate action sent to the House.
+- 2007-03-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2989)
+- 2007-03-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2989)
+- 2007-03-14 — Presented to President.
+- 2007-03-14 — Presented to President.
+- 2007-03-21 — Became Public Law No: 110-14.
+- 2007-03-21 — Became Public Law No: 110-14.
+- 2007-03-21 — Signed by President.
+- 2007-03-21 — Signed by President.
