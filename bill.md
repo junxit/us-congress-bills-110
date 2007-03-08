@@ -1,0 +1,41 @@
+---
+legis-num: H.R. 1398
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1398
+
+> To amend the Comprehensive Environmental Response Compensation and Liability Act of 1980 to provide that manure shall not be considered to be a hazardous substance, pollutant, or contaminant.
+
+## § 1. Short title
+
+This Act may be cited as the “Agricultural Protection and Prosperity Act of 2007”.
+
+## § 2. Animal waste
+
+- **(a)** *Amendment of Superfund* Title III of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9651 et seq.) is amended by adding at the end the following:
+  > ## § 313. Exception for manure
+  >
+  > - **(a)** *Definition of manure* In this section, the term manure means—
+  >   - **(1)** digestive emissions, feces, urine, urea, and other excrement from livestock (as defined in section 10403 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8302));
+  >   - **(2)** any associated bedding, compost, raw materials, or other materials commingled with such excrement from livestock (as so defined);
+  >   - **(3)** any process water associated with any item referred to in paragraph (1) or (2); and
+  >   - **(4)** any byproduct, constituent, or substance contained in or originating from, or any emission relating to, an item described in paragraph (1), (2), or (3).
+  > - **(b)** *Exemption* Upon the date of enactment of this section, manure shall not be included in the meaning of—
+  >   - **(1)** the term hazardous substance, as defined in section 101(14); or
+  >   - **(2)** the term pollutant or contaminant, as defined in section 101(33).
+  > - **(c)** *Effect on Other Law* Nothing with respect to the enactment of this subsection shall—
+  >   - **(1)** impose any liability under the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001 et seq.) with respect to manure;
+  >   - **(2)** abrogate or otherwise affect any provision of the Air Quality Agreement entered into between the Administrator and operators of animal feeding operations (70 Fed. Reg. 4958 (January 31, 2005)); or
+  >   - **(3)** affect the applicability of any other environmental law as such a law relates to—
+  >     - **(A)** the definition of manure; or
+  >     - **(B)** the responsibilities or liabilities of any person regarding the treatment, storage, or disposal of manure.
+
+- **(b)** *Amendment of SARA* Section 304(a)(4) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 11004(a)(4)) is amended—
+  - **(1)** by striking “This section” and inserting the following:
+    > - **(A)** *In general* This section
+
+  - **(2)** by adding at the end the following:
+    > - **(B)** *Manure* The notification requirements under this subsection do not apply to releases associated with manure (as defined in section 313 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980).
