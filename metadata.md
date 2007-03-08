@@ -1,7 +1,7 @@
 ---
 measure: H.R. 569
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 569
@@ -38,9 +38,10 @@ Water Quality Investment Act of 2007
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 - Rep. Lynch, Stephen F. [D-MA-9] (L000562)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -107,3 +108,4 @@ Water Quality Investment Act of 2007
 - 2007-03-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2263-2264)
 - 2007-03-07 — The previous question was ordered pursuant to the rule.
 - 2007-03-07 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2007-03-08 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
