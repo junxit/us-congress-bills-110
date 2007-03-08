@@ -19,12 +19,13 @@ Section 917 of the Energy Policy Act of 2005 (42 U.S.C. 16197) is amended to rea
 
 > ## § 917. Advanced Energy Technology Transfer Centers
 >
-> - **(a)** *Grants* Not later than 18 months after the date of enactment of the Energy Technology Transfer Act, the Secretary shall make grants to nonprofit institutions, State and local governments, cooperative extension services, or universities (or consortia thereof), to establish a geographically dispersed network of Advanced Energy Technology Transfer Centers, to be located in areas the Secretary determines have the greatest need of the services of such Centers. In establishing the network, the Secretary shall consider the special needs and opportunities for increased energy efficiency for manufactured and site-built housing, including construction, renovation, and retrofit. In making awards under this section, the Secretary shall—
+> - **(a)** *Grants* Not later than 18 months after the date of enactment of the Energy Technology Transfer Act, the Secretary shall make grants to nonprofit institutions, State and local governments, cooperative extension services, or institutions of higher education (or consortia thereof), to establish a geographically dispersed network of Advanced Energy Technology Transfer Centers, to be located in areas the Secretary determines have the greatest need of the services of such Centers. In making awards under this section, the Secretary shall—
 >   - **(1)** give priority to applicants already operating or partnered with an outreach program capable of transferring knowledge and information about advanced energy efficiency methods and technologies;
 >   - **(2)** ensure that, to the extent practicable, the program enables the transfer of knowledge and information—
 >     - **(A)** about a variety of technologies and
->     - **(B)** in a variety of geographic areas; and
->   - **(3)** give preference to applicants that would significantly expand on or fill a gap in existing programs in a geographical region.
+>     - **(B)** in a variety of geographic areas;
+>   - **(3)** give preference to applicants that would significantly expand on or fill a gap in existing programs in a geographical region; and
+>   - **(4)** consider the special needs and opportunities for increased energy efficiency for manufactured and site-built housing, including construction, renovation, and retrofit.
 > - **(b)** *Activities* Each Center shall operate a program to encourage demonstration and commercial application of advanced energy methods and technologies through education and outreach to building and industrial professionals, and to other individuals and organizations with an interest in efficient energy use. Funds awarded under this section may be used for the following activities:
 >   - **(1)** Developing and distributing informational materials on technologies that could use energy more efficiently.
 >   - **(2)** Carrying out demonstrations of advanced energy methods and technologies.
@@ -40,7 +41,7 @@ Section 917 of the Energy Policy Act of 2005 (42 U.S.C. 16197) is amended to rea
 >   - **(5)** a description of how the applicant will assess the success of the program.
 > - **(d)** *Selection criteria* The Secretary shall award grants under this section on the basis of the following criteria, at a minimum:
 >   - **(1)** The ability of the applicant to carry out the proposed activities.
->   - **(2)** The extent to which the applicant will coordinate the activities of the Center with other entities as appropriate, such as State and local governments, utilities, universities, and National Laboratories.
+>   - **(2)** The extent to which the applicant will coordinate the activities of the Center with other entities as appropriate, such as State and local governments, utilities, institutions of higher education, and National Laboratories.
 >   - **(3)** The appropriateness of the applicant’s outreach program for carrying out the program described in this section.
 >   - **(4)** The likelihood that proposed activities could be expanded or used as a model for other areas.
 > - **(e)** *Cost-sharing* In carrying out this section, the Secretary shall require cost-sharing in accordance with the requirements of section 988 for commercial application activities.
@@ -53,7 +54,7 @@ Section 917 of the Energy Policy Act of 2005 (42 U.S.C. 16197) is amended to rea
 > - **(h)** *Definitions* For purposes of this section:
 >   - **(1)** *Advanced energy methods and technologies* The term “advanced energy methods and technologies” means all methods and technologies that promote energy efficiency and conservation, including distributed generation technologies, and life-cycle analysis of energy use.
 >   - **(2)** *Center* The term “Center” means an Advanced Energy Technology Transfer Center established pursuant to this section.
->   - **(3)** *Distributed generation* The term “distributed generation” means an electric power generation technology, including photovoltaic, small wind and micro-combined heat and power, that is designed to serve retail electric consumers on-site.
+>   - **(3)** *Distributed generation* The term “distributed generation” means an electric power generation technology, including photovoltaic, small wind, and micro-combined heat and power, that serves electric consumers at or near the site of production.
 >   - **(4)** *Cooperative extension* The term “Cooperative Extension” means the extension services established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914.
 >   - **(5)** *Land-grant colleges and universities* The term “land-grant colleges and universities” means—
 >     - **(A)** 1862 Institutions (as defined in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7601));
