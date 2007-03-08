@@ -172,4 +172,20 @@ Subsection (a) of section 300110 of title 36, United States Code, is amended to 
   > - **(a)** *Establishment* The corporation shall establish an Office of the Ombudsman with such duties and responsibilities as may be provided in the bylaws or a resolution of the board of governors.
   > - **(b)** *Report* The Office of the Ombudsman shall submit a report annually to Congress concerning any trends and systemic matters that the Office of the Ombudsman has identified as confronting the corporation.
 
+  > - **(b)** *Report*
+  >   - **(1)** *In general* The Office of the Ombudsman shall submit annually to the appropriate Congressional committees a report concerning any trends and systemic matters that the Office of the Ombudsman has identified as confronting the corporation.
+  >   - **(2)** *Appropriate Congressional committees* For purposes of paragraph (1), the appropriate Congressional committees are the following committees of Congress:
+  >     - **(A)** *Senate Committees* The appropriate Congressional committees of the Senate are—
+  >       - **(i)** the Committee on Finance;
+  >       - **(ii)** the Committee on Foreign Relations;
+  >       - **(iii)** the Committee on Health, Education, Labor, and Pensions;
+  >       - **(iv)** the Committee on Homeland Security and Governmental Affairs; and
+  >       - **(v)** the Committee on the Judiciary.
+  >     - **(B)** *House Committees* The appropriate Congressional committees of the House of Representatives are—
+  >       - **(i)** the Committee on Energy and Commerce;
+  >       - **(ii)** the Committee on Foreign Affairs;
+  >       - **(iii)** the Committee on Homeland Security;
+  >       - **(iv)** the Committee on the Judiciary; and
+  >       - **(v)** the Committee on Ways and Means.
+
 - **(b)** *Clerical amendment* The table of sections for chapter 3001 of title 36, United States Code, is amended by striking the item relating to section 300111 and inserting the following:
