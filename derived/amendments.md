@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1068
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -105,4 +105,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 5503` | strike | in paragraph (4), by striking “packet switched”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 5503` | strike | by striking “and” at the end of paragraph (5); | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 5503` | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5503` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5503` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

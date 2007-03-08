@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1068
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1068
@@ -29,3 +29,8 @@ To amend the High-Performance Computing Act of 1991.
 - 2007-02-15 — Introduced in House
 - 2007-02-15 — Introduced in House
 - 2007-02-15 — Referred to the House Committee on Science and Technology.
+- 2007-02-28 — Committee Consideration and Mark-up Session Held.
+- 2007-02-28 — Ordered to be Reported by Voice Vote.
+- 2007-03-08 — Placed on the Union Calendar, Calendar No. 16.
+- 2007-03-08 — Reported by the Committee on Science and Technology. H. Rept. 110-40.
+- 2007-03-08 — Reported by the Committee on Science and Technology. H. Rept. 110-40.
