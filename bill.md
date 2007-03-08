@@ -1,0 +1,35 @@
+---
+legis-num: S. 823
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 823
+
+> To amend the Public Health Service Act with respect to facilitating the development of microbicides for preventing transmission of HIV/AIDS and other diseases, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Microbicide Development Act”.
+
+## § 2. Findings
+
+Congress makes the following findings:
+
+- **(1)** Women and girls are the new face of HIV/AIDS, and are increasingly affected by the disease in every region of the world. As of 2006, nearly half of the 37,200,000 adults living with HIV and AIDS worldwide were women. In sub-Saharan Africa, that proportion was 59 percent.
+- **(2)** Because of their social and biological vulnerabilities, young women are particularly at risk of HIV infection. In sub-Saharan Africa, the prevalence of HIV/AIDS is three times higher among women ages 15 to 24 than it is among men in that same age group.
+- **(3)** Women infected with HIV can transmit the infection to their infants during pregnancy, labor, delivery, or breast-feeding. The most effective way to interrupt mother-to-child transmission is to ensure that mothers are not infected in the first place.
+- **(4)** Many women who become infected with HIV have just one sexual partner—their husband. Marriage is not necessarily effective protection against HIV, because to protect themselves from HIV, women have to rely on their male partners to be faithful or to use condoms. Many women, especially in the developing world, are unable to insist on mutual monogamy or negotiate condom use, particularly in long-term relationships.
+- **(5)** Scientists are working on a promising new prevention tool that could slow down the spread of the HIV/AIDS epidemic—microbicides. Formulated as gels, creams, tablets or rings, microbicides are being designed to stop the transmission of the pathogens that cause AIDS and other sexually transmitted infections (referred to in this section as “STIs”). Microbicides could allow a woman to protect herself from disease.
+- **(6)** Couples need a method of HIV protection that will allow them to conceive a child and start a family. No existing HIV prevention method also allows conception. Some microbicides in development may allow women to become pregnant while at the same time protecting them from infection.
+- **(7)** According to UNICEF, worldwide, the lack of HIV/AIDS prevention and treatment has left over 15,000,000 children as orphans. Of these, more than 12,000,000 live in sub-Saharan Africa. The number of AIDS orphans in sub-Saharan Africa alone is expected to grow to nearly 16,000,000 by 2010.
+- **(8)** HIV prevention tools like microbicides could also be valuable for women in the United States, who account for an increasing proportion of new HIV and AIDS cases among Americans. Minority women in the United States are particularly affected. Both African-American and Latina women account for a disproportionate number of new AIDS cases, and HIV/AIDS was the leading cause of death in 2002 for African-American women ages 25 to 34.
+- **(9)** With nearly 20,000,000 new cases of sexually transmitted infections occurring every year, the United States has the highest STI rates of any industrialized nation. Like HIV, STIs pose significant health threats and costs, with young people and women bearing a disproportionate burden. Nearly half of new STI cases each year occur in people under 25 years of age with women both more vulnerable to infection and more likely to experience serious and lasting health consequences when they do become infected. Some microbicides could help prevent STIs.
+- **(10)** HIV/AIDS threatens national and global security. Beyond its burdens on individuals, families, and communities, the pandemic reduces economic growth, decimates health budgets, undermines civil society, and burdens the armed forces of many nations, including the United States military.
+- **(11)** The microbicide field has gained considerable scientific momentum. Several first-generation products are in large-scale human trials to measure effectiveness, and new products based on recent advances in HIV treatment are well into safety trials.
+- **(12)** Microbicides are a public health good with potential for large social benefits but limited economic incentives for private investment, so that public funding is required to fill the gap. As is the case for vaccines and other public goods, microbicide development must depend heavily on government leadership and investment.
+- **(13)** The Federal Government needs to make a strong commitment to microbicide research and development. Three agencies, the National Institutes of Health, Centers for Disease Control and Prevention, and United States Agency for International Development, have played important roles in the progress to date, and each makes a valuable and unique contribution. As the primary federal agency for conducting and supporting medical research and the largest single Federal Government contributor to microbicide research, the National Institutes of Health supports the Microbicide Trials Network as well as other important research activities. The United States Agency for International Development sustains strong partnerships with public and private organizations working on microbicide research, including trials in developing countries where its experience is extensive, and is well positioned to facilitate introduction of microbicides once available. The Centers for Disease Control and Prevention has a long history of conducting field trials in developing countries, but the extent of its current engagement remains quite limited.
+- **(14)** According to the National Institutes of Health's strategic plan, microbicides may provide “one of the most promising primary preventative interventions that could be safe, effective, readily available, affordable, and widely acceptable.” In a recent report to Congress, the United States Agency for International Development states that “the US government is firmly committed to accelerating the development of safe and effective microbicides to prevent HIV.” In addition, the President's Emergency Plan for AIDS Relief recognizes the urgency of developing safe and effective microbicides.
+- **(15)** The National Institutes of Health, United States Agency for International Development, and the Centers for Disease Control and Prevention have expanded their microbicide portfolios, but overall Federal leadership and coordination is required to eliminate costly inefficiencies and unproductive duplication of effort.
+- **(16)** HIV prevention options available as of 2006 are insufficient in general. Most critically, they fail to recognize women's particular needs and vulnerabilities. If women are to have a genuine opportunity to protect themselves, their best option is the rapid development of new HIV-prevention technologies like microbicides, which women can initiate.
