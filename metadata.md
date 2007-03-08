@@ -1,7 +1,7 @@
 ---
 measure: S. 655
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 655
@@ -16,7 +16,7 @@ American National Red Cross Governance Modernization Act of 2007
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (10)
+## Cosponsors (13)
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
@@ -28,6 +28,9 @@ American National Red Cross Governance Modernization Act of 2007
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
 ## Committees (1)
 
@@ -37,3 +40,7 @@ American National Red Cross Governance Modernization Act of 2007
 
 - 2007-02-16 — Introduced in Senate
 - 2007-02-16 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S2166-2168)
+- 2007-03-08 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2007-03-08 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2007-03-08 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2007-03-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.
