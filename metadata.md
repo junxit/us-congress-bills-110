@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 215
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 215
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 700) to amend the Federal Water Po
 - 2007-03-06 — Placed on the House Calendar, Calendar No. 21.
 - 2007-03-06 — The House Committee on Rules reported an original measure, H. Rept. 110-32, by Mr. Cardoza.
 - 2007-03-06 — The House Committee on Rules reported an original measure, H. Rept. 110-32, by Mr. Cardoza.
+- 2007-03-08 — Considered as privileged matter. (consideration: CR H2307-2309)
+- 2007-03-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 215.
+- 2007-03-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-08 — On agreeing to the resolution Agreed to by voice vote. (text: CR H2307-2308)
+- 2007-03-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H2307-2308)
+- 2007-03-08 — The previous question was ordered without objection. (consideration: CR H2309)
