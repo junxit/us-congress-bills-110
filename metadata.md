@@ -1,7 +1,7 @@
 ---
 measure: S. 377
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 377
@@ -16,6 +16,12 @@ United States-Poland Parliamentary Youth Exchange Program Act of 2007
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 
+## Cosponsors (3)
+
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -25,3 +31,7 @@ United States-Poland Parliamentary Youth Exchange Program Act of 2007
 - 2007-01-24 — Introduced in Senate
 - 2007-01-24 — Read twice and referred to the Committee on Foreign Relations.
 - 2007-01-24 — Sponsor introductory remarks on measure. (CR S1062)
+- 2007-03-06 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2007-03-09 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-33.
+- 2007-03-09 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-33.
+- 2007-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
