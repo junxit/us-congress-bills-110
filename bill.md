@@ -44,10 +44,13 @@ This Act may be cited as the “Presidential Records Act Amendments of 2007”.
   >   - **(2)** This subsection shall not apply with respect to any Presidential record required to be made available under section 2205(2)(A) or (C).
   > - **(e)** The Archivist shall adjust any otherwise applicable time period under this section as necessary to comply with the return date of any congressional subpoena, judicial subpoena, or judicial process.
 
-- **(b)** *Conforming amendments*
+- **(b)** *Restrictions* Section 2204 of title 44, United States Code (relating to restrictions on access to presidential records) is amended by adding at the end the following new subsection:
+  > - **(f)** The Archivist shall not make available any original presidential records to any individual claiming access to any presidential record as a designated representative under section 2205(3) if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
+
+- **(b) (c)** *Conforming amendments*
   - **(1)** Section 2204(d) of title 44, United States Code, is amended by inserting “, except section 2208,” after “chapter”.
   - **(2)** Section 2207 of title 44, United States Code, is amended in the second sentence by inserting “, except section 2208,” after “chapter”.
-- **(c)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, is amended by adding at the end the following:
+- **(c) (d)** *Clerical amendment* The table of sections at the beginning of chapter 22 of title 44, United States Code, is amended by adding at the end the following:
 
 ## § 3. Executive order of november 1, 2001
 
