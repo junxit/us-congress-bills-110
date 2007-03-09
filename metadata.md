@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 229
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 229
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 720) to amend the Federal Water Po
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2007-03-09 — [House 110-1-132](votes/house-110-1-0132.md) — On Agreeing to the Resolution — **Passed** (229–179)
+
 ## Actions
 
 - 2007-03-08 — All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, modified by the amendment printed in part A of the report of the Committee of the Whole.
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 720) to amend the Federal Water Po
 - 2007-03-08 — Placed on the House Calendar, Calendar No. 23.
 - 2007-03-08 — The House Committee on Rules reported an original measure, H. Rept. 110-36, by Ms. Castor.
 - 2007-03-08 — The House Committee on Rules reported an original measure, H. Rept. 110-36, by Ms. Castor.
+- 2007-03-09 — Considered as privileged matter. (consideration: CR H2345-2351)
+- 2007-03-09 — DEBATE - The House proceeded with one hour of debate on H. Res. 229.
+- 2007-03-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-09 — On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 179 (Roll no. 132). (text: CR H2345)
+- 2007-03-09 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 179 (Roll no. 132).(text: CR H2345)
+- 2007-03-09 — The previous question was ordered without objection. (consideration: CR H2350)
