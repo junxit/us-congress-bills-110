@@ -1,7 +1,7 @@
 ---
 measure: H.R. 987
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 987
@@ -41,3 +41,5 @@ NATO Freedom Consolidation Act of 2007
 - 2007-03-06 — Mr. Tanner moved to suspend the rules and pass the bill.
 - 2007-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2175-2176)
 - 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2175-2176)
+- 2007-03-07 — Received in the Senate.
+- 2007-03-09 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.
