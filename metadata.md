@@ -1,7 +1,7 @@
 ---
 measure: S. 676
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 676
@@ -16,9 +16,10 @@ A bill to provide that the Executive Director of the Inter-American Development 
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Hagel, Chuck [R-NE] (H001028)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A bill to provide that the Executive Director of the Inter-American Development 
 
 - 2007-02-17 — Introduced in Senate
 - 2007-02-17 — Read twice and referred to the Committee on Foreign Relations.
+- 2007-03-06 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2007-03-09 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-35.
+- 2007-03-09 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-35.
+- 2007-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 75.
