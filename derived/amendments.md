@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-68 amendatory instructions. 17 executed, 51 stated and not applied.
+70 amendatory instructions. 20 executed, 50 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,33 @@ to guess them.
 |---|---|
 | Removed | `and (6)` |
 | Inserted | `(6)` |
+
+### 33 U.S.C. § 1254
+
+> in the first sentence by striking “$1,000,000” and inserting “$3,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$1,000,000` |
+| Inserted | `$3,000,000` |
+
+### 33 U.S.C. § 1254
+
+> in the second sentence by striking “1986” and inserting “2009”.
+
+| | |
+|---|---|
+| Removed | `1986` |
+| Inserted | `2009` |
+
+### 33 U.S.C. § 1274
+
+> in paragraph (2) by striking “in reducing such pollutants” and all that follows before the period at the end and inserting “to manage, reduce, treat, or reuse municipal stormwater, including low-impact development technologies”; and
+
+| | |
+|---|---|
+| Removed | `in reducing such pollutants` |
+| Inserted | `to manage, reduce, treat, or reuse municipal stormwater, including low-impact development technologies` |
 
 ### 33 U.S.C. § 1274
 
@@ -196,7 +223,6 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1256` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1274` | strike | in the section heading by striking “Wet weather”; and | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1274` | strike | in the matter preceding paragraph (1) by striking “wet weather discharge”; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 1274` | insert | in paragraph (2) by inserting “, including low-impact development technologies” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1274` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1291` | replace | by striking the section designation and all that follows through “(a) No” and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1291` | insert | in subsection (b) by inserting “Population Density.—” after “(b)”; and | the bill quotes the text inserted but describes where it goes |
