@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1126
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1126
@@ -42,3 +42,9 @@ To reauthorize the Steel and Aluminum Energy Conservation and Technology Competi
 - 2007-03-08 — Placed on the Union Calendar, Calendar No. 17.
 - 2007-03-08 — Reported by the Committee on Science and Technology. H. Rept. 110-41.
 - 2007-03-08 — Reported by the Committee on Science and Technology. H. Rept. 110-41.
+- 2007-03-12 — Considered under suspension of the rules. (consideration: CR H2411-2412)
+- 2007-03-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1126.
+- 2007-03-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-12 — Mr. Lipinski moved to suspend the rules and pass the bill.
+- 2007-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2411)
+- 2007-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2411)
