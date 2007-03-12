@@ -1,7 +1,7 @@
 ---
 measure: H.R. 720
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 720
@@ -51,9 +51,10 @@ Water Quality Financing Act of 2007
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -135,3 +136,4 @@ Water Quality Financing Act of 2007
 - 2007-03-09 — The Speaker designated the Honorable Hilda L. Solis to act as Chairwoman of the Committee.
 - 2007-03-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2375-2376)
 - 2007-03-09 — The previous question was ordered pursuant to the rule. (consideration: CR H2374)
+- 2007-03-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
