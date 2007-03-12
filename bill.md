@@ -58,7 +58,7 @@ Section 552(a)(4)(F) of title 5, United States Code, is amended—
   - **(2)** *Effective date* The amendment made by this subsection shall take effect 1 year after the date of enactment of this Act.
 - **(b)** *Applicability of agency fees*
   - **(1)** *Limitation* Section 552(a)(4)(A) of title 5, United States Code, is amended by adding at the end the following:
-    > - **(vii)** An agency may not charge any fees under this subparagraph if the agency fails to comply with any time limit that applies under paragraph (6).
+    > - **(viii)** An agency may not charge any fees under this subparagraph if the agency fails to comply with any time limit that applies under paragraph (6).
 
   - **(2)** *Effective date and application* The amendment made by this subsection shall take effect 1 year after the date of enactment of this Act and shall apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.
 
@@ -117,7 +117,7 @@ Section 552(f) of title 5, United States Code, is amended by striking paragraph 
 
 ## § 11. Office of Government Information Services
 
-- **(a)** *In general* Chapter 21 of title 5, United States Code, is amended by inserting after section 2119 the following new section:
+- **(a)** *In general* Chapter 21 of title 44, United States Code, is amended by inserting after section 2119 the following new section:
   > ## § 2120. Office of Government Information Services
   >
   > - **(a)** *In general* There is established in the National Archives an office to be known as the “Office of Government Information Services”.
@@ -134,7 +134,7 @@ Section 552(f) of title 5, United States Code, is amended by striking paragraph 
   >       - **(ii)** recommend policy changes to Congress and the President to improve the administration of section 552 of this title, including whether agencies are receiving and expending adequate funds to ensure compliance with that section.
   >   - **(3)** *Impact on requester access to litigation* Nothing in this section shall affect the right of requesters to seek judicial review as described in section 552 of this title.
 
-- **(b)** *Technical and conforming amendment* The table of sections for chapter 21 of title 5, United States Code, is amended by inserting after the item relating to section 2119 the following:
+- **(b)** *Technical and conforming amendment* The table of sections for chapter 21 of title 44, United States Code, is amended by inserting after the item relating to section 2119 the following:
 
 ## § 12. Accessibility of critical infrastructure information
 
@@ -154,7 +154,7 @@ Not later than 1 year after the date of enactment of this Act, the Office of Per
   - **(B)** enhance the stature of officials administering that section within the executive branch;
 - **(2)** whether performance of compliance with section 552 of title 5, United States Code, should be included as a factor in personnel performance evaluations for any or all categories of Federal employees and officers;
 - **(3)** whether an employment classification series specific to compliance with sections 552 and 552a of title 5, United States Code, should be established;
-- **(4)** whether the highest level officials in particular agencies administering such sections should be paid at a rate of pay equal to or greater than a particular minimum rate; and
+- **(4)** whether the highest level officials in particular agencies administering such sections should be paid at a rate of pay equal to or greater than a particular minimum rate;
 - **(5)** whether other changes to personnel policies can be made to ensure that there is a clear career advancement track for individuals interested in devoting themselves to a career in compliance with such sections; and
 - **(6)** whether the executive branch should require any or all categories of Federal employees to undertake awareness training of such sections.
 
@@ -167,3 +167,10 @@ Section 552 of title 5, United States Code, is amended by adding at the end the 
 >     - **(A)** if such release is required by law; or
 >     - **(B)** if such release is allowed by law and the agency concerned does not reasonably foresee that disclosure would be harmful to an interest protected by an applicable exemption.
 >   - **(2)** All guidance provided to Federal Government employees responsible for carrying out this section shall be consistent with the policy set forth in paragraph (1).
+
+## § 15. Requirement to describe exemptions authorizing deletions of material provided under FOIA
+
+Section 552(b) of title 5, United States Code, is amended in the matter appearing after paragraph (9)—
+
+- **(1)** in the second sentence, by inserting after “amount of information deleted” the following: “, and the exemption under which the deletion is made,”; and
+- **(2)** in the third sentence, by inserting after “amount of the information deleted” the following: “, and the exemption under which the deletion is made,”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1309
@@ -31,3 +31,10 @@ Freedom of Information Act Amendments of 2007
 - 2007-03-05 — Introduced in House
 - 2007-03-05 — Referred to the House Committee on Oversight and Government Reform.
 - 2007-03-05 — Referred to the Subcommittee on Information Policy, Census, and National Archives.
+- 2007-03-06 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-03-06 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-03-08 — Committee Consideration and Mark-up Session Held.
+- 2007-03-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-12 — Placed on the Union Calendar, Calendar No. 21.
+- 2007-03-12 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-45.
+- 2007-03-12 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-45.
