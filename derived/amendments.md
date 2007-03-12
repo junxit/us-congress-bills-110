@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1068
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -62,7 +62,7 @@ to guess them.
 
 ### 15 U.S.C. § 5511
 
-> in subsection (c)(1)(A), by striking “Program or” and inserting “Program Component Areas or”.
+> in section 101(c)(1)(A), by striking “Program or” and inserting “Program Component Areas or”.
 
 | | |
 |---|---|
@@ -97,7 +97,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 5511` | insert | in subparagraph (D), by inserting “and for each Program Component Area” after “participating in the Program”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 5511` | redesignate | by striking subparagraph (E) and redesignating subparagraph (F) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5511` | redesignate | in subparagraph (E), as so redesignated by clause (vi) of this subparagraph, by inserting “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Pr… | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5511` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5511` | replace | by striking subsection (b) of section 101 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 5503` | insert | in paragraph (2), by inserting “and multidisciplinary teams of researchers” after “high-performance computing resources”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 5503` | strike | by striking “scientific workstations,”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 5503` | strike | by striking “(including vector supercomputers and large scale parallel systems)”; | the bill quotes the text struck but describes what replaces it |

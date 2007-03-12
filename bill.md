@@ -48,7 +48,7 @@ Title I of the High-Performance Computing Act of 1991 (15 U.S.C. 5511 et seq.) i
     - **(v)** in subparagraph (D), by striking “applies;” and inserting “applies; and”;
     - **(vi)** by striking subparagraph (E) and redesignating subparagraph (F) as subparagraph (E); and
     - **(vii)** in subparagraph (E), as so redesignated by clause (vi) of this subparagraph, by inserting “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Program”;
-- **(3)** by striking subsection (b) and inserting the following:
+- **(3)** by striking subsection (b) of section 101 and inserting the following:
   > - **(b)** *Advisory committee*
   >   - **(1)** The President shall establish an advisory committee on high-performance computing consisting of non-Federal members, including representatives of the research, education, and library communities, network providers, and industry, who are specially qualified to provide the Director with advice and information on high-performance computing. The recommendations of the advisory committee shall be considered in reviewing and revising the Program. The advisory committee shall provide the Director with an independent assessment of—
   >     - **(A)** progress made in implementing the Program;
@@ -59,7 +59,7 @@ Title I of the High-Performance Computing Act of 1991 (15 U.S.C. 5511 et seq.) i
   >   - **(2)** In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program, and shall report not less frequently than once every two fiscal years to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations. The first report shall be due within one year after the date of enactment of this paragraph.
   >   - **(3)** Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established by this subsection.
 
-- **(4)** in subsection (c)(1)(A), by striking “Program or” and inserting “Program Component Areas or”.
+- **(4)** in section 101(c)(1)(A), by striking “Program or” and inserting “Program Component Areas or”.
 
 ## § 2. Definitions
 
