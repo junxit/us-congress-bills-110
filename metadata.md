@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 198
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 198
@@ -16,7 +16,7 @@ Recognizing the significance of Black History Month.
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (69)
+## Cosponsors (81)
 
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Lewis, John [D-GA-5] (L000287)
@@ -87,6 +87,18 @@ Recognizing the significance of Black History Month.
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Hare, Phil [D-IL-17] (H001040)
 
 ## Committees (1)
 
@@ -97,3 +109,12 @@ Recognizing the significance of Black History Month.
 - 2007-02-27 — Introduced in House
 - 2007-02-27 — Introduced in House
 - 2007-02-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-02-28 — Sponsor introductory remarks on measure. (CR H1981-1982)
+- 2007-03-08 — Committee Consideration and Mark-up Session Held.
+- 2007-03-08 — Ordered to be Reported by Voice Vote.
+- 2007-03-12 — Considered under suspension of the rules. (consideration: CR H2416-2418)
+- 2007-03-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 198.
+- 2007-03-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-12 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-03-12 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2416)
+- 2007-03-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2416)
