@@ -1,7 +1,7 @@
 ---
 measure: H.R. 430
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 430
@@ -33,3 +33,10 @@ To designate the United States bankruptcy courthouse located at 271 Cadman Plaza
 - 2007-02-16 — Placed on the House Calendar, Calendar No. 15.
 - 2007-02-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-21.
 - 2007-02-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-21.
+- 2007-03-13 — Considered under suspension of the rules. (consideration: CR H2459-2460)
+- 2007-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 430.
+- 2007-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-13 — Mr. Boswell moved to suspend the rules and pass the bill, as amended.
+- 2007-03-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2459)
+- 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2459)
+- 2007-03-13 — The title of the measure was amended. Agreed to without objection.
