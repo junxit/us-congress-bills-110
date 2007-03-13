@@ -2,7 +2,7 @@
 legis-num: H. RES. 107
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 107
@@ -12,6 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas Israel completed its withdrawal from southern Lebanon on May 24, 2000;
+- Whereas Congress previously expressed its concern for Israeli soldiers missing in Lebanon and Syrian-controlled territory of Lebanon in Public Law 106–89 (113 Stat. 1305; November 8, 1999), which required the Secretary of State to raise the status of missing Israeli soldiers with appropriate government officials of Syria, Lebanon, the Palestinian Authority, and other governments in the region, and to submit to Congress reports on those efforts and any subsequent discovery of relevant information;
 - Whereas on June 18, 2000, the United Nations Security Council welcomed and endorsed United Nations Secretary-General Kofi Annan’s report that Israel had withdrawn completely from Lebanon under the terms of United Nations Security Council Resolution 425 (1978);
 - Whereas Israel completed its withdrawal from Gaza on September 12, 2005;
 - Whereas on June 25, 2006, Hamas and allied terrorists crossed into Israel to attack a military post, killing two soldiers and wounding a third, Gilad Shalit, who was kidnapped;
@@ -30,7 +31,7 @@ That the House of Representatives—
 - **(2)** expresses—
   - **(A)** its vigorous support and unwavering commitment to the welfare and survival of the State of Israel as a Jewish and democratic state with secure borders;
   - **(B)** its strong support and deep interest in achieving a resolution of the Israeli-Palestinian conflict through the creation of a viable and independent Palestinian state living in peace alongside of the State of Israel;
-  - **(C)** its ongoing concern and sympathy for the families of Gilad Shalit, Ehud Goldwasser, and Eldad Regev; and
+  - **(C)** its ongoing concern and sympathy for the families of Gilad Shalit, Ehud Goldwasser, and Eldad Regev and all other missing Israeli soldiers; and
   - **(D)** its full commitment to seek the immediate and unconditional release of the Israeli captives; and
 - **(3)** condemns—
   - **(A)** Hamas and Hezbollah for the cross border attacks and kidnappings which precipitated weeks of intensive armed conflict between Israel, Hezbollah, and armed Palestinian groups; and
