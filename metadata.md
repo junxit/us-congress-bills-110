@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1126
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1126
@@ -28,9 +28,10 @@ To reauthorize the Steel and Aluminum Energy Conservation and Technology Competi
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
 - Rep. Holden, Tim [D-PA-17] (H000712)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To reauthorize the Steel and Aluminum Energy Conservation and Technology Competi
 - 2007-03-12 — Mr. Lipinski moved to suspend the rules and pass the bill.
 - 2007-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2411)
 - 2007-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2411)
+- 2007-03-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
