@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1045
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1045
@@ -38,3 +38,9 @@ To designate the Federal building located at 210 Walnut Street in Des Moines, Io
 - 2007-03-12 — Placed on the House Calendar, Calendar No. 24.
 - 2007-03-12 — Reported by the Committee on Transportation. H. Rept. 110-46.
 - 2007-03-12 — Reported by the Committee on Transportation. H. Rept. 110-46.
+- 2007-03-13 — Considered under suspension of the rules. (consideration: CR H2460-2461)
+- 2007-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1045.
+- 2007-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-13 — Mr. Boswell moved to suspend the rules and pass the bill.
+- 2007-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2460)
+- 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2460)
