@@ -1,7 +1,7 @@
 ---
 measure: H.R. 478
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 478
@@ -37,3 +37,9 @@ To designate the Federal building and United States courthouse located at 101 Ba
 - 2007-02-16 — Placed on the House Calendar, Calendar No. 13.
 - 2007-02-16 — Reported by the Committee on Transportation. H. Rept. 110-19.
 - 2007-02-16 — Reported by the Committee on Transportation. H. Rept. 110-19.
+- 2007-03-13 — Considered under suspension of the rules. (consideration: CR H2457-2458)
+- 2007-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 478.
+- 2007-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-13 — Mr. Boswell moved to suspend the rules and pass the bill.
+- 2007-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2457)
+- 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2457)
