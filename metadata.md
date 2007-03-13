@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 228
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 228
@@ -16,7 +16,7 @@ Recognizing the 186th anniversary of the independence of Greece and celebrating 
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (28)
+## Cosponsors (31)
 
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -46,6 +46,9 @@ Recognizing the 186th anniversary of the independence of Greece and celebrating 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
 ## Committees (1)
 
@@ -56,3 +59,11 @@ Recognizing the 186th anniversary of the independence of Greece and celebrating 
 - 2007-03-08 — Introduced in House
 - 2007-03-08 — Introduced in House
 - 2007-03-08 — Referred to the House Committee on Foreign Affairs.
+- 2007-03-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-03-13 — Considered as unfinished business. (consideration: CR H2461-2462)
+- 2007-03-13 — Considered under suspension of the rules. (consideration: CR H2450-2453)
+- 2007-03-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 228.
+- 2007-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-13 — Mr. Wexler moved to suspend the rules and agree to the resolution.
+- 2007-03-13 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 140). (text: CR H2450-2451)
+- 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 140).(text: CR H2450-2451)
