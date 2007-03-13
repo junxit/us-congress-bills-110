@@ -1,7 +1,7 @@
 ---
 measure: H.R. 85
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 85
@@ -20,9 +20,10 @@ Energy Technology Transfer Act
 
 - Rep. Miller, Brad [D-NC-13] (M001154)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Energy Technology Transfer Act
 - 2007-03-12 — Mr. Baird moved to suspend the rules and pass the bill, as amended.
 - 2007-03-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 1 (Roll no. 136). (text: CR H2408-2409)
 - 2007-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 1 (Roll no. 136).(text: CR H2408-2409)
+- 2007-03-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
