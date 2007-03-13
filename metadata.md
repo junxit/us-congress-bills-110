@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1003
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1003
@@ -16,6 +16,13 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 
+## Cosponsors (4)
+
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+
 ## Committees (1)
 
 - House — Foreign Affairs Committee
@@ -25,3 +32,11 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 - 2007-02-12 — Introduced in House
 - 2007-02-12 — Introduced in House
 - 2007-02-12 — Referred to the House Committee on Foreign Affairs.
+- 2007-02-15 — Committee Consideration and Mark-up Session Held.
+- 2007-02-15 — Ordered to be Reported by Voice Vote.
+- 2007-03-13 — Considered under suspension of the rules. (consideration: CR H2444-2445)
+- 2007-03-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1003.
+- 2007-03-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-13 — Ms. Watson moved to suspend the rules and pass the bill.
+- 2007-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2444)
+- 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2444)
