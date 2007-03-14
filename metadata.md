@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 710
@@ -76,3 +76,5 @@ Charlie W. Norwood Living Organ Donation Act
 - 2007-03-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 126). (text: CR 3/06/2007 H2192)
 - 2007-03-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 0 (Roll no. 126).(text: CR 3/06/2007 H2192)
 - 2007-03-07 — The title of the measure was amended. Agreed to without objection.
+- 2007-03-08 — Received in the Senate.
+- 2007-03-14 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.
