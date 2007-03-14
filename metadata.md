@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 985
@@ -67,3 +67,78 @@ Whistleblower Protection Enhancement Act of 2007
 - 2007-03-09 — Placed on the Union Calendar, Calendar No. 18.
 - 2007-03-09 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-42, Part I.
 - 2007-03-09 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-42, Part I.
+- 2007-03-12 — PERMISSION TO FILE SUPPLEMENTAL REPORT - Mr. Tierney asked unanimous consent that the Committee on Oversight and Government Reform may have permission to file a supplemental report on H.R. 985. Agreed to without objection.
+- 2007-03-12 — Supplemental report filed by the Committee on Oversight and Government, H. Rept. 110-42, Part II.
+- 2007-03-12 — Supplemental report filed by the Committee on Oversight and Government, H. Rept. 110-42, Part II.
+- 2007-03-13 — Rules Committee Resolution H. Res. 239 Reported to House. Rule provides for consideration of H.R. 985 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived eexcept those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute consisting of the text of the bill, modified by the amendments recommended by the Committee on Oversight and Government Reform now printed in the bill, shall be considered as the original bill for the purpose of further amendment under the five-minute rule.
+- 2007-03-14 — Amendment (A001) offered by Mr. Stupak. (consideration: CR H2530-2532, H2537-2538, H2539-2540; text: CR H2530)
+- 2007-03-14 — Amendment (A002) offered by Mr. Platts. (consideration: CR H2532-2533, H2537; text: CR H2532)
+- 2007-03-14 — Amendment (A003) offered by Mr. Platts. (consideration: CR H2533-2534; text: CR H2533-2534)
+- 2007-03-14 — Amendment (A004) offered by Mr. Sali. (consideration: CR H2534-2536, H2538-2539; text: CR H2534)
+- 2007-03-14 — Amendment (A005) offered by Mr. Tierney. (consideration: CR H2536-2537; text: CR H2536-2537)
+- 2007-03-14 — Amendment agreed to Committee of the Whole
+- 2007-03-14 — Amendment agreed to Committee of the Whole
+- 2007-03-14 — Amendment agreed to Committee of the Whole
+- 2007-03-14 — Amendment agreed to Committee of the Whole
+- 2007-03-14 — Amendment agreed to by House: On agreeing to the Oversight and Government Refor amendments Agreed to by voice vote.
+- 2007-03-14 — Amendment agreed to by House: On agreeing to the Stupak amendment (A001) Agreed to by the Yeas and Nays: 252 - 173 (Roll no. 151).
+- 2007-03-14 — Amendment failed in Committee of the Whole
+- 2007-03-14 — Amendments reported by the House Committee on Oversight and Government Reform. (consideration: CR H2541-2542; text: CR H2542)
+- 2007-03-14 — Considered under the provisions of rule H. Res. 239. (consideration: CR H2517-2543; text of measure as reported in House: CR H2527-2530)
+- 2007-03-14 — DEBATE - Pursuant to the provisions of H. Res. 239, the Committee of the Whole proceeded with 10 minutes of debate on the Platts No. 2 amendment.
+- 2007-03-14 — DEBATE - Pursuant to the provisions of H. Res. 239, the Committee of the Whole proceeded with 10 minutes of debate on the Platts No. 3 amendment.
+- 2007-03-14 — DEBATE - Pursuant to the provisions of H.Res. 239, the Committee of the Whole proceeded with 10 minutes of debate on the Sali amendment.
+- 2007-03-14 — DEBATE - Pursuant to the provisions of H.Res. 239, the Committee of the Whole proceeded with 10 minutes of debate on the Stupak amendment.
+- 2007-03-14 — DEBATE - Pursuant to the provisions of H.Res. 239, the Committee of the Whole proceeded with 10 minutes of debate on the Tierney amendment.
+- 2007-03-14 — DEBATE - The House proceeded with 10 minutes of debate on the Westmoreland motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with sundry amendments.
+- 2007-03-14 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour and twenty minutes of debate on H.R. 985.
+- 2007-03-14 — House amendment agreed to: On agreeing to the Oversight and Government Refor amendments Agreed to by voice vote.
+- 2007-03-14 — House amendment agreed to: On agreeing to the Platts amendment Agreed to by voice vote.
+- 2007-03-14 — House amendment agreed to: On agreeing to the Platts amendment Agreed to by voice vote.
+- 2007-03-14 — House amendment agreed to: On agreeing to the Stupak amendment (A001) Agreed to by recorded vote: 250 - 178 (Roll no. 149).
+- 2007-03-14 — House amendment agreed to: On agreeing to the Stupak amendment (A001) Agreed to by the Yeas and Nays: 252 - 173 (Roll no. 151).
+- 2007-03-14 — House amendment agreed to: On agreeing to the Tierney amendment (A005) Agreed to by voice vote.
+- 2007-03-14 — House amendment not agreed to: On agreeing to the Sali amendment (A004) Failed by recorded vote: 159 - 271 (Roll no. 150).
+- 2007-03-14 — House amendment offered
+- 2007-03-14 — House amendment offered
+- 2007-03-14 — House amendment offered
+- 2007-03-14 — House amendment offered
+- 2007-03-14 — House amendment offered
+- 2007-03-14 — House amendment offered
+- 2007-03-14 — House amendment offered/reported by : Amendment (A001) offered by Mr. Stupak.(consideration: CR H2530-2532, H2537-2538, H2539-2540; text: CR H2530)
+- 2007-03-14 — House amendment offered/reported by : Amendment (A002) offered by Mr. Platts.(consideration: CR H2532-2533, H2537; text: CR H2532)
+- 2007-03-14 — House amendment offered/reported by : Amendment (A003) offered by Mr. Platts.(consideration: CR H2533-2534; text: CR H2533-2534)
+- 2007-03-14 — House amendment offered/reported by : Amendment (A004) offered by Mr. Sali.(consideration: CR H2534-2536, H2538-2539; text: CR H2534)
+- 2007-03-14 — House amendment offered/reported by : Amendment (A005) offered by Mr. Tierney.(consideration: CR H2536-2537; text: CR H2536-2537)
+- 2007-03-14 — House amendment offered/reported by : Amendments reported by the House Committee on Oversight and Government Reform.(consideration: CR H2541-2542; text: CR H2542)
+- 2007-03-14 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 239 and Rule XVIII.
+- 2007-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-14 — Mr. Price (GA) demanded a separate vote on the Stupak amendment (A001).
+- 2007-03-14 — Mr. Westmoreland moved to recommit with instructions to Oversight and Government. (consideration: CR H2540-2541; text: CR H2540)
+- 2007-03-14 — On agreeing to the Oversight and Government Refor amendments Agreed to by voice vote.
+- 2007-03-14 — On agreeing to the Platts amendment Agreed to by voice vote.
+- 2007-03-14 — On agreeing to the Platts amendment Agreed to by voice vote.
+- 2007-03-14 — On agreeing to the Sali amendment (A004) Failed by recorded vote: 159 - 271 (Roll no. 150).
+- 2007-03-14 — On agreeing to the Stupak amendment (A001) Agreed to by recorded vote: 250 - 178 (Roll no. 149).
+- 2007-03-14 — On agreeing to the Stupak amendment (A001) Agreed to by the Yeas and Nays: 252 - 173 (Roll no. 151).
+- 2007-03-14 — On agreeing to the Tierney amendment (A005) Agreed to by voice vote.
+- 2007-03-14 — On motion to recommit with instructions Agreed to by recorded vote: 426 - 0 (Roll no. 152). (consideration: CR H2541-2542)
+- 2007-03-14 — On passage Passed by the Yeas and Nays: 331 - 94 (Roll no. 153).
+- 2007-03-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Platts amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Platts demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-03-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sali amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sali demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-03-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Stupak amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Tom Davis (VA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-03-14 — PROCEEDINGS VACATED - Mr. Platts asked unanimous consent that the proceedings by which a recorded vote was demanded on the Platts amendment numbered 2 be vacated and that the question on adoption of the amendment be put de novo. Agreed to without objection.
+- 2007-03-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 331 - 94 (Roll no. 153).
+- 2007-03-14 — Pursuant to the instructions contained in the motion to recommit just adopted, sundry amendments were submitted to the House.
+- 2007-03-14 — Referred to the Subcommittee on Readiness.
+- 2007-03-14 — Roll call votes on amendments in House
+- 2007-03-14 — Roll call votes on amendments in House
+- 2007-03-14 — Roll call votes on amendments in House
+- 2007-03-14 — Rule H. Res. 239 passed House.
+- 2007-03-14 — Rule provides for consideration of H.R. 985 with 1 hour and 20 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived eexcept those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute consisting of the text of the bill, modified by the amendments recommended by the Committee on Oversight and Government Reform now printed in the bill, shall be considered as the original bill for the purpose of further amendment under the five-minute rule.
+- 2007-03-14 — The House adopted the remaining amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-03-14 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 985.
+- 2007-03-14 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
+- 2007-03-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2541)
+- 2007-03-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2539)
+- 2007-03-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
