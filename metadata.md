@@ -1,7 +1,7 @@
 ---
 measure: H.R. 399
 congress: 110
-version: Referred in Senate
+version: Committee Discharged Senate
 ---
 
 # H.R. 399
@@ -16,10 +16,11 @@ To designate the United States Courthouse to be constructed in Jackson, Mississi
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - Senate — Judiciary Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -41,3 +42,6 @@ To designate the United States Courthouse to be constructed in Jackson, Mississi
 - 2007-03-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2190)
 - 2007-03-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2190)
 - 2007-03-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2007-03-14 — Referred to the Committee on Environment and Public Works.
+- 2007-03-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2007-03-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
