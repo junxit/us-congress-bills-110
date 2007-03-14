@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-32 amendatory instructions. 6 executed, 26 stated and not applied.
+34 amendatory instructions. 6 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 5 U.S.C. § 2302
 
-> by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of”; and
+> by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of”; and
 
 | | |
 |---|---|
 | Removed | `which the employee or applicant reasonably believes evidences` |
-| Inserted | `, without restriction as to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of` |
+| Inserted | `, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of` |
 
 ### 5 U.S.C. § 2302
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 5 U.S.C. § 2302
 
-> by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of”; and
+> by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of”; and
 
 | | |
 |---|---|
 | Removed | `which the employee or applicant reasonably believes evidences` |
-| Inserted | `, without restriction as to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of` |
+| Inserted | `, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of` |
 
 ### 5 U.S.C. § 2302
 
@@ -71,12 +71,12 @@ to guess them.
 
 ### 5 U.S.C. § 1221
 
-> Section 7703(c) of such title 5 is amended by striking “court.” and inserting “court, and in the case of a prohibited personnel practice described in section 2302(b)(8) brought under any provision of law, rule, or regulation described in section 1221(k)(3), the employee or applicant shall have the right to de novo review in accordance with section 1221(k).”.
+> Section 7703(c) of such title 5 is amended by striking “court.” and inserting “court, and in the case of a prohibited personnel practice described in section 2302(b)(8) or 2302(b)(9)(B)–(D) brought under any provision of law, rule, or regulation described in section 1221(k)(3), the employee or applicant shall have the right to de novo review in accordance with section 1221(k).”.
 
 | | |
 |---|---|
 | Removed | `court.` |
-| Inserted | `court, and in the case of a prohibited personnel practice described in section 2302(b)(8) brought under any provision of law, rule, or regulation described in section 1221(k)(3), the employee or applicant shall have the right to de novo review in accordance with section 1221(k).` |
+| Inserted | `court, and in the case of a prohibited personnel practice described in section 2302(b)(8) or 2302(b)(9)(B)–(D) brought under any provision of law, rule, or regulation described in section 1221(k)(3), the employee or applicant shall have the right to de novo review in accordance with section 1221(k).` |
 
 ## Stated, not applied
 
@@ -87,9 +87,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 2302` | insert | Title 5, United States Code, is amended in subsections (a)(3), (b)(4)(A), and (b)(4)(B)(i) of section 1214 and in subsections (a) and (e)(1) of section 1221 by inserting “or 2302(b)(9)(B)–(D)” after “section 2302(b)(8)” each place it app… | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 2302` | strike | in subparagraph (B)(ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 2302` | replace | in subparagraph (C)(iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 2302` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 1214` | add-at-end | Sections 1214(b)(4)(B)(ii) and 1221(e)(2) of title 5, United States Code, are amended by adding at the end the following: “For purposes of the preceding sentence, clear and convincing evidence means evidence indicating that the matter to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 2302` | add-at-end | Section 2302(b) of title 5, United States Code, is amended by adding at the end the following: “For purposes of paragraph (8), any presumption relating to the performance of a duty by an employee who has authority to take, direct others … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 2302` | strike | in clause (x), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 2302` | redesignate | by redesignating clause (xi) as clause (xii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
