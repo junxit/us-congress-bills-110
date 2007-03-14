@@ -34,11 +34,12 @@ Section 552(a)(4)(A)(ii) of title 5, United States Code, is amended by adding at
 
 ## § 4. Recovery of attorney fees and litigation costs
 
-Section 552(a)(4)(E) of title 5, United State Code, is amended by adding at the end the following:
+- **(a)** *In general* Section 552(a)(4)(E) of title 5, United State Code, is amended by adding at the end the following:
+  > For purposes of this section only, a complainant has substantially prevailed if the complainant has obtained relief through either—
+  > - **(i)** a judicial order, administrative action, or an enforceable written agreement or consent decree; or
+  > - **(ii)** a voluntary or unilateral change in position by the opposing party, in a case in which the complainant’s claim or defense was not frivolous.
 
-> For purposes of this section only, a complainant has substantially prevailed if the complainant has obtained relief through either—
-> - **(i)** a judicial order, administrative action, or an enforceable written agreement or consent decree; or
-> - **(ii)** a voluntary or unilateral change in position by the opposing party, in a case in which the complainant’s claim or defense was not frivolous.
+- **(b)** *Limitation* Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from the amendments made by this section. Any such amounts shall be paid only from funds annually appropriated for the Federal agency against which a claim or judgment has been rendered.
 
 ## § 5. Disciplinary actions for arbitrary and capricious rejections of requests
 
@@ -58,7 +59,7 @@ Section 552(a)(4)(F) of title 5, United States Code, is amended—
   - **(2)** *Effective date* The amendment made by this subsection shall take effect 1 year after the date of enactment of this Act.
 - **(b)** *Applicability of agency fees*
   - **(1)** *Limitation* Section 552(a)(4)(A) of title 5, United States Code, is amended by adding at the end the following:
-    > - **(viii)** An agency may not charge any fees under this subparagraph if the agency fails to comply with any time limit that applies under paragraph (6).
+    > - **(viii)** An agency shall refund any fees collected under this subparagraph if the agency fails to comply with any time limit that applies under paragraph (6). Such refunds shall be paid from annual appropriations provided to that agency.
 
   - **(2)** *Effective date and application* The amendment made by this subsection shall take effect 1 year after the date of enactment of this Act and shall apply to requests for information under section 552 of title 5, United States Code, filed on or after that effective date.
 
