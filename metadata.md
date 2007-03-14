@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1045
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1045
@@ -46,3 +46,15 @@ To designate the Federal building located at 210 Walnut Street in Des Moines, Io
 - 2007-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2460)
 - 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2460)
 - 2007-03-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S16055)
+- 2007-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S16055)
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2007-12-20 — Presented to President.
+- 2007-12-20 — Presented to President.
+- 2007-12-26 — Became Public Law No: 110-158.
+- 2007-12-26 — Became Public Law No: 110-158.
+- 2007-12-26 — Signed by President.
+- 2007-12-26 — Signed by President.
