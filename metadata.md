@@ -1,7 +1,7 @@
 ---
 measure: H.R. 429
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 429
@@ -16,9 +16,10 @@ To designate the United States courthouse located at 225 Cadman Plaza East, Broo
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate the United States courthouse located at 225 Cadman Plaza East, Broo
 - 2007-03-13 — Mr. Boswell moved to suspend the rules and pass the bill.
 - 2007-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2458)
 - 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2458)
+- 2007-03-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
