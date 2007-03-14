@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 239
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 239
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 985) to amend title 5, United Stat
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2007-03-14 — [House 110-1-145](votes/house-110-1-0145.md) — On Ordering the Previous Question — **Passed** (224–197)
+- 2007-03-14 — [House 110-1-146](votes/house-110-1-0146.md) — On Agreeing to the Resolution — **Passed** (223–193)
+
 ## Actions
 
 - 2007-03-13 — All points of order against consideration of the bill are waived eexcept those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute consisting of the text of the bill, modified by the amendments recommended by the Committee on Oversight and Government Reform now printed in the bill, shall be considered as the original bill for the purpose of further amendment under the five-minute rule.
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 985) to amend title 5, United Stat
 - 2007-03-13 — Placed on the House Calendar, Calendar No. 25.
 - 2007-03-13 — The House Committee on Rules reported an original measure, H. Rept. 110-48, by Mr. Hastings (FL).
 - 2007-03-13 — The House Committee on Rules reported an original measure, H. Rept. 110-48, by Mr. Hastings (FL).
+- 2007-03-14 — Considered as privileged matter. (consideration: CR H2510-2515)
+- 2007-03-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 239.
+- 2007-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-14 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 193 (Roll no. 146). (text: CR H2510)
+- 2007-03-14 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 197 (Roll no. 145). (consideration: CR H2513-2514)
+- 2007-03-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 193 (Roll no. 146).(text: CR H2510)
