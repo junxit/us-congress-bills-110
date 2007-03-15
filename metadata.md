@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1309
@@ -21,9 +21,10 @@ Freedom of Information Act Amendments of 2007
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Freedom of Information Act Amendments of 2007
 - 2007-03-14 — Mr. Clay moved to suspend the rules and pass the bill, as amended.
 - 2007-03-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 117 (Roll no. 144). (text: CR H2500-2502)
 - 2007-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 308 - 117 (Roll no. 144).(text: CR H2500-2502)
+- 2007-03-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
