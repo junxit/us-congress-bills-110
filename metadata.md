@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1254
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1254
@@ -34,9 +34,10 @@ Presidential Library Donation Reform Act of 2007
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Presidential Library Donation Reform Act of 2007
 - 2007-03-14 — Mr. Murphy (CT) moved to suspend the rules and pass the bill.
 - 2007-03-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 34 (Roll no. 142). (text: CR H2493-2494)
 - 2007-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 34 (Roll no. 142).(text: CR H2493-2494)
+- 2007-03-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
