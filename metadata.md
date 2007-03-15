@@ -1,7 +1,7 @@
 ---
 measure: S. 377
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 377
@@ -35,3 +35,5 @@ United States-Poland Parliamentary Youth Exchange Program Act of 2007
 - 2007-03-09 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-33.
 - 2007-03-09 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-33.
 - 2007-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
+- 2007-03-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3234; text as passed Senate: CR S3234)
+- 2007-03-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3234; text as passed Senate: CR S3234)
