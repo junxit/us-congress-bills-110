@@ -170,7 +170,6 @@ Subsection (a) of section 300110 of title 36, United States Code, is amended to 
   > ## § 300112. Office of the Ombudsman
   >
   > - **(a)** *Establishment* The corporation shall establish an Office of the Ombudsman with such duties and responsibilities as may be provided in the bylaws or a resolution of the board of governors.
-  > - **(b)** *Report* The Office of the Ombudsman shall submit a report annually to Congress concerning any trends and systemic matters that the Office of the Ombudsman has identified as confronting the corporation.
 
   > - **(b)** *Report*
   >   - **(1)** *In general* The Office of the Ombudsman shall submit annually to the appropriate Congressional committees a report concerning any trends and systemic matters that the Office of the Ombudsman has identified as confronting the corporation.
