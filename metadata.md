@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 985
@@ -48,10 +48,11 @@ Whistleblower Protection Enhancement Act of 2007
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (5)
 
@@ -150,3 +151,4 @@ Whistleblower Protection Enhancement Act of 2007
 - 2007-03-14 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2541)
 - 2007-03-14 — The previous question was ordered pursuant to the rule. (consideration: CR H2539)
 - 2007-03-14 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-03-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

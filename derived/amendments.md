@@ -1,7 +1,7 @@
 ---
 measure: H.R. 985
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 6 executed, 28 stated and not applied.
+34 amendatory instructions. 2 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,42 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 5 U.S.C. § 2302
-
-> by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of”; and
-
-| | |
-|---|---|
-| Removed | `which the employee or applicant reasonably believes evidences` |
-| Inserted | `, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of` |
-
-### 5 U.S.C. § 2302
-
-> in clause (i), by striking “a violation” and inserting “any violation”; and
-
-| | |
-|---|---|
-| Removed | `a violation` |
-| Inserted | `any violation` |
-
-### 5 U.S.C. § 2302
-
-> by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of”; and
-
-| | |
-|---|---|
-| Removed | `which the employee or applicant reasonably believes evidences` |
-| Inserted | `, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of` |
-
-### 5 U.S.C. § 2302
-
-> in clause (i), by striking “a violation” and inserting “any violation (other than a violation of this section)”.
-
-| | |
-|---|---|
-| Removed | `a violation` |
-| Inserted | `any violation (other than a violation of this section)` |
 
 ### 5 U.S.C. § 1221
 
@@ -87,31 +51,35 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 2302` | insert | Title 5, United States Code, is amended in subsections (a)(3), (b)(4)(A), and (b)(4)(B)(i) of section 1214 and in subsections (a) and (e)(1) of section 1221 by inserting “or 2302(b)(9)(B)–(D)” after “section 2302(b)(8)” each place it app… | the bill quotes the text inserted but describes where it goes |
+| — | replace | by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, includi… | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “a violation” and inserting “any violation”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction as to time, place, form, motive, context, forum, or prior disclosure made to any person by an employee or applicant, includi… | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “a violation” and inserting “any violation (other than a violation of this section)”. | the bill names no machine-readable US Code section |
+| — | insert | Title 5, United States Code, is amended in subsections (a)(3), (b)(4)(A), and (b)(4)(B)(i) of section 1214 and in subsections (a) and (e)(1) of section 1221 by inserting “or 2302(b)(9)(B)–(D)” after “section 2302(b)(8)” each place it app… | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 2302` | strike | in subparagraph (B)(ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 2302` | replace | in subparagraph (C)(iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 2302` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 1214` | add-at-end | Sections 1214(b)(4)(B)(ii) and 1221(e)(2) of title 5, United States Code, are amended by adding at the end the following: “For purposes of the preceding sentence, clear and convincing evidence means evidence indicating that the matter to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 2302` | add-at-end | Section 2302(b) of title 5, United States Code, is amended by adding at the end the following: “For purposes of paragraph (8), any presumption relating to the performance of a duty by an employee who has authority to take, direct others … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2302` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2302` | add-at-end | Sections 1214(b)(4)(B)(ii) and 1221(e)(2) of title 5, United States Code, are amended by adding at the end the following: “For purposes of the preceding sentence, clear and convincing evidence means evidence indicating that the matter to… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 2302(b) of title 5, United States Code, is amended by adding at the end the following: “For purposes of paragraph (8), any presumption relating to the performance of a duty by an employee who has authority to take, direct others … | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 2302` | strike | in clause (x), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 2302` | redesignate | by redesignating clause (xi) as clause (xii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 2302` | insert | by inserting after clause (x) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 2302` | strike | in paragraph (11), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 2302` | redesignate | by redesignating paragraph (12) as paragraph (14); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7211` | insert | by inserting after paragraph (11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 2302` | replace | Section 2302(a)(2)(C) of title 5, United States Code, is amended by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 1215` | amend | Section 1215(a)(3) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 783` | insert | by inserting after paragraph (11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 2302(a)(2)(C) of title 5, United States Code, is amended by striking clause (ii) and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1215(a)(3) of title 5, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 1221` | add-at-end | Section 1221 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 1221` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 1221` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 1221` | replace | Section 1221(g)(1)(A)(ii) of such title 5 is amended by striking all after “travel expenses,” and inserting “any other reasonable and foreseeable consequential damages, and compensatory damages (including attorney’s fees, interest, reaso… | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 1221` | add-at-end | Section 1221(h) of such title 5 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 2303` | insert | Chapter 23 of title 5, United States Code, is amended by inserting after section 2303 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 2303` | insert | The table of sections for chapter 23 of title 5, United States Code, is amended by inserting after the item relating to section 2303 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 265` | replace | in paragraph (1), by striking “If the head” and all that follows through “actions:” and inserting the following: “Not later than 180 days after submission of a complaint under subsection (b), the head of the executive agency concerned sh… | the bill quotes the text struck but describes what replaces it |
-| `41 U.S.C. § 265` | redesignate | by redesignating paragraph (3) as paragraph (4) and adding after paragraph (2) the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Chapter 23 of title 5, United States Code, is amended by inserting after section 2303 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 23 of title 5, United States Code, is amended by inserting after the item relating to section 2303 the following: | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 2409` | replace | in paragraph (1), by striking “If the head” and all that follows through “actions:” and inserting the following: “Not later than 180 days after submission of a complaint under subsection (b), the head of the executive agency concerned sh… | the bill quotes the text struck but describes what replaces it |
+| `10 U.S.C. § 2409` | redesignate | by redesignating paragraph (3) as paragraph (4) and adding after paragraph (2) the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2409` | replace | in paragraph (1), by striking “If the head” and all that follows through “actions:” and inserting the following: “Not later than 180 days after submission of a complaint under subsection (b), the head of the agency concerned shall determ… | the bill quotes the text struck but describes what replaces it |
 | `10 U.S.C. § 2409` | redesignate | by redesignating paragraph (3) as paragraph (4) and adding after paragraph (2) the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating sections 2304 and 2305 as sections 2305 and 2306, respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 2303a (as inserted by section 10) the following: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections for chapter 23 of title 5, United States Code, is amended by striking the items relating to sections 2304 and 2305, respectively, and by inserting the following: | the bill names no machine-readable US Code section |
-| `5 U.S.C. § 2302` | add-at-end | Section 2302 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 2302 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
