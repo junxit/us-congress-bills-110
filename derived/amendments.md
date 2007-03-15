@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1362
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-28 amendatory instructions. 3 executed, 25 stated and not applied.
+13 amendatory instructions. 2 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 41 U.S.C. § 423
 
-> by striking “or consultant” and inserting “consultant, lawyer, or lobbyist”;
+> by striking “or consultant” and inserting “consultant, lawyer, or lobbyist”; and
 
 | | |
 |---|---|
@@ -35,21 +35,12 @@ to guess them.
 
 ### 41 U.S.C. § 423
 
-> in subparagraph (C), by striking “personally made for the Federal agency—” and inserting “participated personally and substantially in—”; and
+> in subparagraph (C), by striking “Federal agency—” and inserting “Federal agency or participated personally and substantially at a senior personnel level in—”; and
 
 | | |
 |---|---|
-| Removed | `personally made for the Federal agency—` |
-| Inserted | `participated personally and substantially in—` |
-
-### 41 U.S.C. § 423
-
-> in paragraph (1) by striking “or consultant” and inserting “consultant, lawyer, or lobbyist”; and
-
-| | |
-|---|---|
-| Removed | `or consultant` |
-| Inserted | `consultant, lawyer, or lobbyist` |
+| Removed | `Federal agency—` |
+| Inserted | `Federal agency or participated personally and substantially at a senior personnel level in—` |
 
 ## Stated, not applied
 
@@ -60,20 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `41 U.S.C. § 253` | add-at-end | Section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 253` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 253` | redesignate | by redesignating paragraph (5) as paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 2304` | add-at-end | Section 2304 of title 10, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 2304` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 2304` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 251` | add-at-end | Title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 251` | add-at-end | Chapter 141 of title 10, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 251` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | repeal | Subparagraph (H) of section 37(h)(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(h)(3)) is repealed. | the bill names no machine-readable US Code section |
-| `41 U.S.C. § 423` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 423` | insert | Section 27(c)(1) of such Act (41 U.S.C. 423(c)(1)) is amended by inserting after “that official” the following: “or for a relative of that official (as defined in section 3110 of title 5, United States Code)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 423` | add-at-end | Section 27 of such Act (41 U.S.C. 423) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `41 U.S.C. § 423` | add-at-end | Section 27 of such Act (41 U.S.C. 423) is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `41 U.S.C. § 253` | add-at-end | Section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `41 U.S.C. § 253` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `41 U.S.C. § 253` | redesignate | by redesignating paragraph (5) as paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
