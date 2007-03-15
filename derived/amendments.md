@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1362
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -51,7 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `41 U.S.C. § 253` | add-at-end | Section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `41 U.S.C. § 253` | amend | Section 303 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `41 U.S.C. § 253` | strike | by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `41 U.S.C. § 253` | redesignate | by redesignating paragraph (5) as paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2304` | add-at-end | Section 2304 of title 10, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
