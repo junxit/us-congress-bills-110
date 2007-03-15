@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 96
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 96
@@ -43,3 +43,7 @@ A resolution expressing the sense of the Senate that Harriett Woods will be reme
 - 2007-03-06 — Introduced in Senate
 - 2007-03-06 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2723)
 - 2007-03-06 — Sponsor introductory remarks on measure. (CR S2723)
+- 2007-03-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
