@@ -1,7 +1,7 @@
 ---
 measure: S. 655
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+18 amendatory instructions. 2 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 36 U.S.C. § 300103
+
+> by striking “board of governors” and inserting “corporation”; and
+
+| | |
+|---|---|
+| Removed | `board of governors` |
+| Inserted | `corporation` |
+
+### 36 U.S.C. § 300103
+
+> by striking “national convention” and inserting “annual meeting”.
+
+| | |
+|---|---|
+| Removed | `national convention` |
+| Inserted | `annual meeting` |
 
 ## Stated, not applied
 
@@ -31,17 +51,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (a), by inserting “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”; and | the bill names no machine-readable US Code section |
-| — | insert | in subsection (b), by inserting at the end the following new sentence: “The corporation may conduct its business and affairs, and otherwise hold itself out, as the American Red Cross in any jurisdiction.”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (3); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
-| — | insert | in subsection (a), by inserting “, or as otherwise provided,” before “in the bylaws”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “board of governors” and inserting “corporation”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “policies and” before “regulations related”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “policies and” before “regulations shall require”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “national convention” and inserting “annual meeting”. | the bill names no machine-readable US Code section |
-| — | amend | Section 300104 of title 36, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| `36 U.S.C. § 300101` | insert | in subsection (a), by inserting “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 300101` | insert | in subsection (b), by inserting at the end the following new sentence: “The corporation may conduct its business and affairs, and otherwise hold itself out, as the American Red Cross in any jurisdiction.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 300102` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
+| `36 U.S.C. § 300102` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `36 U.S.C. § 300102` | add-at-end | by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 300103` | insert | in subsection (a), by inserting “, or as otherwise provided,” before “in the bylaws”; | the bill quotes the text inserted but describes where it goes |
+| `36 U.S.C. § 300103` | insert | by inserting “policies and” before “regulations related”; and | the bill quotes the text inserted but describes where it goes |
+| `36 U.S.C. § 300103` | insert | by inserting “policies and” before “regulations shall require”; and | the bill quotes the text inserted but describes where it goes |
+| `36 U.S.C. § 300104` | amend | Section 300104 of title 36, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Paragraph (a)(1) of section 300105 of title 36, United States Code, is amended by striking “bylaws” and inserting “policies”. | the bill names no machine-readable US Code section |
 | — | amend | Section 300107 of title 36, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking “nine” from the first sentence thereof; and | the bill names no machine-readable US Code section |

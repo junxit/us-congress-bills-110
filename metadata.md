@@ -1,7 +1,7 @@
 ---
 measure: S. 655
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 655
@@ -44,3 +44,5 @@ American National Red Cross Governance Modernization Act of 2007
 - 2007-03-08 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
 - 2007-03-08 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
 - 2007-03-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.
+- 2007-03-15 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3229-3234; text of measure as reported in Senate: CR S3229-3231; text as passed Senate: CR S3232-3234)
+- 2007-03-15 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3229-3234; text of measure as reported in Senate: CR S3229-3231; text as passed Senate: CR S3232-3234)
