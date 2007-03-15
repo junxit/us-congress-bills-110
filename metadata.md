@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 14
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 14
@@ -16,9 +16,11 @@ A concurrent resolution commemorating the 85th anniversary of the founding of th
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Allard, Wayne [R-CO] (A000109)
 
 ## Committees (1)
 
@@ -29,3 +31,7 @@ A concurrent resolution commemorating the 85th anniversary of the founding of th
 - 2007-02-28 — Introduced in Senate
 - 2007-02-28 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2378-2379)
 - 2007-02-28 — Sponsor introductory remarks on measure. (CR S2379)
+- 2007-03-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.
