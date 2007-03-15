@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1362
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1362
