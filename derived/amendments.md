@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1309
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -51,21 +51,21 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `5 U.S.C. § 552` | add-at-end | Section 552(a)(4)(A)(ii) of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | add-at-end | Section 552(a)(4)(E) of title 5, United State Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | insert | by inserting “(i)” after “(F)”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 552` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 552(a)(4)(A)(ii) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 552(a)(4)(E) of title 5, United State Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(i)” after “(F)”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 552` | add-at-end | Section 552(a)(4)(A) of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | add-at-end | Section 552(a) of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | replace | Section 552(b) of title 5, United States Code, is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 552(b) of title 5, United States Code, is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 552` | insert | in subparagraph (B)(ii), by inserting after the first comma the following, “the number of occasions on which each statute was relied upon,”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | insert | in subparagraph (C), by inserting after “median” the following: “and average”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | insert | in subparagraph (E), by inserting before the semicolon the following: “, based on the date on which each request was initially received by the agency”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | redesignate | by redesignating subparagraphs (F) and (G) as subparagraphs (N) and (O), respectively, and inserting after subparagraph (E) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | amend | Section 552(e)(2) of title 5, United States Code, is amended by adding after the period the following: “In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | replace | Section 552(f) of title 5, United States Code, is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2119` | insert | Chapter 21 of title 44, United States Code, is amended by inserting after section 2119 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 2119` | insert | The table of sections for chapter 21 of title 44, United States Code, is amended by inserting after the item relating to section 2119 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | add-at-end | Section 552 of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | insert | in the second sentence, by inserting after “amount of information deleted” the following: “, and the exemption under which the deletion is made,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | insert | in the third sentence, by inserting after “amount of the information deleted” the following: “, and the exemption under which the deletion is made,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 552(f) of title 5, United States Code, is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 21 of title 44, United States Code, is amended by inserting after section 2119 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for chapter 21 of title 44, United States Code, is amended by inserting after the item relating to section 2119 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 552 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in the second sentence, by inserting after “amount of information deleted” the following: “, and the exemption under which the deletion is made,”; and | the bill names no machine-readable US Code section |
+| — | insert | in the third sentence, by inserting after “amount of the information deleted” the following: “, and the exemption under which the deletion is made,”. | the bill names no machine-readable US Code section |
