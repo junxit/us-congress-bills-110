@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1255
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1255
@@ -33,9 +33,10 @@ Presidential Records Act Amendments of 2007
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ Presidential Records Act Amendments of 2007
 - 2007-03-14 — Mr. Clay moved to suspend the rules and pass the bill, as amended.
 - 2007-03-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 93 (Roll no. 143). (text: CR H2497)
 - 2007-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 93 (Roll no. 143).(text: CR H2497)
+- 2007-03-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
