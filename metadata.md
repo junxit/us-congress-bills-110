@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 95
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 95
@@ -16,7 +16,7 @@ A resolution designating March 25, 2007, as "Greek Independence Day: A National 
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 
-## Cosponsors (53)
+## Cosponsors (57)
 
 - Sen. Allard, Wayne [R-CO] (A000109)
 - Sen. Bayh, Evan [D-IN] (B001233)
@@ -71,6 +71,10 @@ A resolution designating March 25, 2007, as "Greek Independence Day: A National 
 - Sen. Warner, John [R-VA] (W000154)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 
 ## Committees (1)
 
@@ -80,3 +84,9 @@ A resolution designating March 25, 2007, as "Greek Independence Day: A National 
 
 - 2007-03-06 — Introduced in Senate
 - 2007-03-06 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR 3/7/2007 S2722-2723)
+- 2007-03-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3228-3229; text as passed Senate: CR S3228-3229)
+- 2007-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 80.
+- 2007-03-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3228-3229; text as passed Senate: CR S3228-3229)
