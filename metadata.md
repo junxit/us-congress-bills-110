@@ -1,7 +1,7 @@
 ---
 measure: S. 494
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 494
@@ -50,3 +50,18 @@ NATO Freedom Consolidation Act of 2007
 - 2007-03-15 — Senate amendment agreed to: Amendment SA 462 agreed to in Senate by Unanimous Consent.
 - 2007-03-15 — Senate amendment proposed (on the floor): Amendment SA 462 proposed by Senator Reid for Senator Biden.(consideration: CR S3234; text: CR S3234)
 - 2007-03-15 — Senate amendment submitted
+- 2007-03-16 — Held at the desk.
+- 2007-03-16 — Message on Senate action sent to the House.
+- 2007-03-16 — Received in the House.
+- 2007-03-26 — Cleared for White House.
+- 2007-03-26 — Considered by unanimous consent. (consideration: CR H3055-3056)
+- 2007-03-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-26 — Mr. Tanner asked unanimous consent to take from the Speaker's table and consider.
+- 2007-03-26 — On passage Passed without objection. (text: CR H3055-3056)
+- 2007-03-26 — Passed/agreed to in House: On passage Passed without objection.(text: CR H3055-3056)
+- 2007-03-29 — Presented to President.
+- 2007-03-29 — Presented to President.
+- 2007-04-09 — Became Public Law No: 110-17.
+- 2007-04-09 — Became Public Law No: 110-17.
+- 2007-04-09 — Signed by President.
+- 2007-04-09 — Signed by President.
