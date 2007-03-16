@@ -1,0 +1,98 @@
+---
+legis-num: H.R. 1558
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1558
+
+> To direct the Secretary of the Interior and the Secretary of Agriculture to jointly conduct a study of certain land adjacent to the Walnut Canyon National Monument in the State of Arizona.
+
+## § 1. Short title
+
+This Act may be cited as the “Walnut Canyon Study Act of 2007”.
+
+## § 2. Purposes
+
+The purposes of this Act are—
+
+- **(1)** to authorize a study of the study area to evaluate public uses and public values; and
+- **(2)** to obtain recommendations for options for the management of the public uses and protection of resources of the study area.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Map* The term map means the map entitled “Walnut Canyon Proposed Study Area” and dated July 17, 2003.
+- **(2)** *Monument* The term Monument means the Walnut Canyon National Monument in the State of Arizona.
+- **(3)** *Public use* The term public use, with respect to the study area, includes—
+  - **(A)** livestock grazing;
+  - **(B)** hunting;
+  - **(C)** access to forested areas;
+  - **(D)** bird watching;
+  - **(E)** camping;
+  - **(F)** driving for pleasure on roads and trails;
+  - **(G)** firewood gathering;
+  - **(H)** general exercise;
+  - **(I)** group uses;
+  - **(J)** hiking;
+  - **(K)** horseback riding;
+  - **(L)** hunting;
+  - **(M)** mountain biking;
+  - **(N)** painting;
+  - **(O)** rock climbing;
+  - **(P)** sightseeing;
+  - **(Q)** skiing;
+  - **(R)** snowmobiling;
+  - **(S)** target practice, as permitted;
+  - **(T)** walking with pets; and
+  - **(U)** wildlife viewing.
+- **(4)** *Public value* The term public value, with respect to the study area, includes—
+  - **(A)** geologic features;
+  - **(B)** historic sites;
+  - **(C)** potential urban development;
+  - **(D)** prehistoric sites;
+  - **(E)** riparian communities;
+  - **(F)** scenery;
+  - **(G)** scientific education;
+  - **(H)** solitude and serenity;
+  - **(I)** vegetation diversity;
+  - **(J)** watershed health;
+  - **(K)** wildfire hazard reduction for healthy forests;
+  - **(L)** wildlife and wildlife habitat;
+  - **(M)** fee-free access; and
+  - **(N)** recreational uses.
+- **(5)** *Secretaries* The term Secretaries means the Secretary of the Interior and the Secretary of Agriculture, acting jointly.
+- **(6)** *Study area* The term study area means the area identified on the map as “Walnut Canyon Proposed Study Area”, consisting of 30,818 acres, of which—
+  - **(A)** 24,987 acres is Federal land in Coconino National Forest;
+  - **(B)** 2,037 acres is State land;
+  - **(C)** 214 acres is private land; and
+  - **(D)** 3,580 acres is the Monument.
+
+## § 4. Study
+
+- **(a)** *In general* The Secretaries shall conduct a study of the study area.
+- **(b)** *Requirements* The study shall evaluate—
+  - **(1)** the significance of the resources and public values of the study area as the resources and public values pertain to—
+    - **(A)** the management objectives of the Forest Service; and
+    - **(B)** the management objectives of the National Park Service;
+  - **(2)** the opportunities for maintaining existing public uses; and
+  - **(3)** a range of options for managing and conserving resources by the National Park Service or the Forest Service, or by both agencies acting jointly, including the suitability and feasibility of—
+    - **(A)** a boundary adjustment to the Monument;
+    - **(B)** designation of the study area as a National Recreation Area;
+    - **(C)** maintaining the study area as managed by the Forest Service; and
+    - **(D)** any other designation or management option that will accomplish both the protection of resources and the maintenance of public use and access for the study area.
+- **(c)** *Consultation* In conducting the study, the Secretaries shall—
+  - **(1)** designate the Forest Service as the lead agency;
+  - **(2)** consult with appropriate Federal, State, county, and local government entities;
+  - **(3)** contract with a third-party consultant with experience in park and land use planning to prepare a draft study; and
+  - **(4)** collaborate with the persons identified in subsection (d) in developing a scope of work for the draft study under the guidance of the third-party consultant.
+- **(d)** *Review* The Secretaries, the Forest Supervisor of the Coconino National Forest, the Superintendent of the Flagstaff Area National Monuments, the Flagstaff City Council, and the Coconino County Board of Supervisors shall—
+  - **(1)** review the draft study prepared by the third-party consultant; and
+  - **(2)** provide to the third-party consultant comments on the draft study.
+- **(e)** *Report* Not later than 18 months after the date on which funds are first made available to carry out this Act, the Secretaries shall submit to Congress a report that—
+  - **(1)** describes the findings and conclusions of the study conducted under this section; and
+  - **(2)** makes a recommendation for the future management of the study area.
+- **(f)** *Effect* Nothing in this Act affects the management of the land depicted on the map.
+- **(g)** *Authorization of appropriations* There is authorized to be appropriated to carry out this Act $350,000.
