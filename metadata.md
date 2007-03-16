@@ -1,7 +1,7 @@
 ---
 measure: S. 377
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 377
@@ -41,3 +41,18 @@ United States-Poland Parliamentary Youth Exchange Program Act of 2007
 - 2007-03-16 — Message on Senate action sent to the House.
 - 2007-03-16 — Received in the House.
 - 2007-03-16 — Referred to the House Committee on Foreign Affairs.
+- 2007-06-26 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2007-06-26 — Committee Consideration and Mark-up Session Held.
+- 2007-09-05 — Cleared for White House.
+- 2007-09-05 — Considered under suspension of the rules. (consideration: CR H10085-10088)
+- 2007-09-05 — DEBATE - The House proceeded with forty minutes of debate on S. 377.
+- 2007-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-05 — Mr. Faleomavaega moved to suspend the rules and pass the bill.
+- 2007-09-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10085-10086)
+- 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10085-10086)
+- 2007-09-10 — Presented to President.
+- 2007-09-10 — Presented to President.
+- 2007-09-20 — Became Public Law No: 110-83.
+- 2007-09-20 — Became Public Law No: 110-83.
+- 2007-09-20 — Signed by President.
+- 2007-09-20 — Signed by President.

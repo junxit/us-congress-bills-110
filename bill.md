@@ -1,8 +1,8 @@
 ---
 legis-num: S. 377
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 377
@@ -49,7 +49,7 @@ Congress makes the following findings:
 
 The Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives an annual report on the United States-Poland Parliamentary Youth Exchange Program established under this Act. Each annual report shall include—
 
-- **(1)** information on the implementation of the Program during the preceding year:
+- **(1)** information on the implementation of the Program during the preceding year;
 - **(2)** the number of participants in the Program during such year;
 - **(3)** the names and locations of the secondary schools in the United States and Poland attended by such participants;
 - **(4)** a description of the areas of study of such participants during their participation in the Program;
