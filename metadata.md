@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1227
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1227
@@ -32,3 +32,11 @@ Gulf Coast Hurricane Housing Recovery Act of 2007
 - 2007-02-28 — Referred to the Committee on Financial Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-28 — Referred to the Committee on Financial Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-28 — Referred to the Committee on Financial Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-03-01 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-03-06 — Committee Consideration and Mark-up Session Held.
+- 2007-03-07 — Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 16.
+- 2007-03-16 — Committee on Transportation discharged.
+- 2007-03-16 — Committee on Transportation discharged.
+- 2007-03-16 — Placed on the Union Calendar, Calendar No. 24.
+- 2007-03-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-51, Part I.
+- 2007-03-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-51, Part I.
