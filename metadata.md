@@ -1,7 +1,7 @@
 ---
 measure: S. 377
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 377
@@ -22,9 +22,10 @@ United States-Poland Parliamentary Youth Exchange Program Act of 2007
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,6 @@ United States-Poland Parliamentary Youth Exchange Program Act of 2007
 - 2007-03-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
 - 2007-03-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3234; text as passed Senate: CR S3234)
 - 2007-03-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3234; text as passed Senate: CR S3234)
+- 2007-03-16 — Message on Senate action sent to the House.
+- 2007-03-16 — Received in the House.
+- 2007-03-16 — Referred to the House Committee on Foreign Affairs.
