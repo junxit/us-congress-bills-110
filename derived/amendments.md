@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1006
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 16 U.S.C. § 1421h
+### 16 U.S.C. § 1421f-1
 
 > Section 408(a)(2)(B)(i) of such Act (16 U.S.C. 1421f–1(a)(2)(B)(i)) is amended by striking “section 410(6)” and inserting “section 410(7)”.
 
@@ -85,7 +85,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1421e` | insert | Section 406(a) of such Act (16 U.S.C. 1421e(a)) is amended by inserting “or entanglement” after “stranding”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1421h` | redesignate | by redesignating paragraphs (1) through (6) in order as paragraphs (2) through (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1421h` | redesignate | by inserting before paragraph (2) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1421f-1` | amend | by adding at the end of subsection (a)(1) the following: “All funds available to implement this section shall be distributed to eligible stranding network participants for the purposes set forth in this paragraph and paragraph (2), excep… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1421f-1` | add-at-end | by adding at the end of subsection (a)(1) the following: “All funds available to implement this section shall be distributed to eligible stranding network participants for the purposes set forth in this paragraph and paragraph (2), excep… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1421f-1` | amend | by amending subsection (f) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1421f-1` | redesignate | in subsection (a) by redesignating paragraph (2) as paragraph (3), and by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1421f-1` | add-at-end | in subsection (d) by inserting “(1)” before the text, and by adding at the end the following: | the bill quotes the text inserted but describes where it goes |
