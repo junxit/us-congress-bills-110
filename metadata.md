@@ -1,7 +1,7 @@
 ---
 measure: H.R. 838
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 838
@@ -29,3 +29,10 @@ To provide for the conveyance of the Bureau of Land Management parcels known as 
 - 2007-02-06 — Introduced in House
 - 2007-02-06 — Introduced in House
 - 2007-02-06 — Referred to the House Committee on Natural Resources.
+- 2007-02-12 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-03-19 — Considered under suspension of the rules. (consideration: CR H2633-2634)
+- 2007-03-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 838.
+- 2007-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-19 — Mr. Grijalva moved to suspend the rules and pass the bill.
+- 2007-03-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2633)
+- 2007-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2633)
