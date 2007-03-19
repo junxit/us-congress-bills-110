@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 1576
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1576
+
+> To amend the Internal Revenue Code of 1986 to make permanent the special rule for contributions of qualified conservation contributions.
+
+## § 1. Special rule for contributions of qualified conservation contributions made permanent
+
+- **(a)** *In general*
+  - **(1)** *Individuals* Subparagraph (E) of section 170(b)(1) of the Internal Revenue Code of 1986 (relating to contributions of qualified conservation contributions) is amended by striking clause (vi).
+  - **(2)** *Corporations* Subparagraph (B) of section 170(b)(2) of such Code (relating to qualified conservation contributions) is amended by striking clause (iii).
+- **(b)** *Effective date* The amendments made by this section shall apply to contributions made in taxable years beginning after the date of the enactment of this Act.
