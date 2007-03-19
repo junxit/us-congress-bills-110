@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1003
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1003
@@ -23,9 +23,10 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Smith, Adam [D-WA-9] (S000510)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 - 2007-03-13 — Ms. Watson moved to suspend the rules and pass the bill.
 - 2007-03-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2444)
 - 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2444)
+- 2007-03-14 — Received in the Senate.
+- 2007-03-19 — Read twice and referred to the Committee on Foreign Relations.
