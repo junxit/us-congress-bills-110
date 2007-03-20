@@ -1,7 +1,7 @@
 ---
 measure: H.R. 327
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 327
@@ -16,7 +16,7 @@ Joshua Omvig Veterans Suicide Prevention Act
 
 - Rep. Boswell, Leonard L. [D-IA-3] (B000652)
 
-## Cosponsors (90)
+## Cosponsors (152)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
@@ -108,6 +108,68 @@ Joshua Omvig Veterans Suicide Prevention Act
 - Rep. Ellsworth, Brad [D-IN-8] (E000289)
 - Rep. Hayes, Robin [R-NC-8] (H001029)
 - Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Buchanan, Vern [R-FL-13] (B001260)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
 
 ## Committees (1)
 
@@ -118,3 +180,11 @@ Joshua Omvig Veterans Suicide Prevention Act
 - 2007-01-09 — Introduced in House
 - 2007-01-09 — Introduced in House
 - 2007-01-09 — Referred to the House Committee on Veterans' Affairs.
+- 2007-03-02 — Referred to the Subcommittee on Health.
+- 2007-03-13 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-03-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-03-15 — Committee Consideration and Mark-up Session Held.
+- 2007-03-15 — Ordered to be Reported by Voice Vote.
+- 2007-03-20 — Placed on the Union Calendar, Calendar No. 26.
+- 2007-03-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-55.
+- 2007-03-20 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-55.
