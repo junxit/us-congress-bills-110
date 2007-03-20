@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *Short title* This section may be cited as the “Dr. James Allen Veteran Vision Equity Act”.
 - **(b)** *Enhanced compensation* Section 1160(a)(1) of title 38, United States Code, is amended—
   - **(1)** by striking “blindness” both places it appears and inserting “impairment of vision”; and
-  - **(2)** by inserting before the semicolon at the end the following: “, where the impairment in each eye is to a visual acuity of 20/200 or less or of a peripheral field loss of 20 degrees or less”.
+  - **(2)** by inserting before the semicolon at the end the following: “, where the impairment in each eye is to a visual acuity of 20/200 or less or of a peripheral field of 20 degrees or less”.
 
 ## § 2. Use of National Directory of New Hires for income verification purposes for certain veterans benefits
 
@@ -39,7 +39,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(e)** *Limitation with respect to individual unemployability cases* In the case of compensation described in subsection (d)(4), the Secretary may independently verify or otherwise act upon wage or self-employment information referred to in subsection (c) of this section only if the Secretary finds that the amount and duration of the earnings reported in that information clearly indicate that the individual is not qualified for a rating of total disability.
   > - **(f)** *Opportunity To contest findings* The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (c), and shall give the individual an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
   > - **(g)** *Source of funds for administration of section* The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
-  > - **(h)** *Termination of authority* The authority of the Secretary to obtain information from the Secretary of Health and Human Services under subsection (a) expires on September 30, 2010.
+  > - **(h)** *Termination of authority* The authority of the Secretary to obtain information from the Secretary of Health and Human Services under subsection (a) expires on September 30, 2012.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
 - **(c)** *Effective date* Section 5320 of title 38, United States Code, as added by subsection (a), shall take effect 270 days after the date of the enactment of this Act.
+
+## § 3. Extension of authority of Secretary of Veterans Affairs to provide an educational assistance allowance to persons performing qualifying work-study activities
+
+Section 3485(a)(4) of title 38, United States Code, is amended by striking “June 30, 2007” each place it appears and inserting “June 30, 2009”.
+
+## § 4. Provision of bronze representation of the letter “V” for grave of eligible individual buried in private cemetery in lieu of Government-provided headstone or marker
+
+Section 2306(d) of title 38, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(5)** In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, if requested, a bronze representation of the letter “V” to be attached to a headstone or marker furnished at private expense. The Secretary shall make such representation available in two sizes for such purpose.
