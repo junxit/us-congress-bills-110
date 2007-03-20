@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 658
@@ -23,9 +23,10 @@ Natural Resource Protection Cooperative Agreement Act
 - Rep. Kirk, Mark Steven [R-IL-10] (K000360)
 - Rep. Heller, Dean [R-NV-2] (H001041)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Natural Resource Protection Cooperative Agreement Act
 - 2007-03-19 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 10 (Roll no. 158). (text: CR H2631-2632)
 - 2007-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 10 (Roll no. 158).(text: CR H2631-2632)
+- 2007-03-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
