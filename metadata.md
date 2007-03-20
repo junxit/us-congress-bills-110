@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1130
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1130
@@ -34,3 +34,8 @@ Judicial Disclosure Responsibility Act
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Referred to the House Committee on the Judiciary.
+- 2007-02-28 — Committee Consideration and Mark-up Session Held.
+- 2007-02-28 — Ordered to be Reported by Voice Vote.
+- 2007-03-20 — Placed on the Union Calendar, Calendar No. 30.
+- 2007-03-20 — Reported by the Committee on Judiciary. H. Rept. 110-59.
+- 2007-03-20 — Reported by the Committee on Judiciary. H. Rept. 110-59.
