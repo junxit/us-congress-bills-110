@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1006
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1006
@@ -20,9 +20,10 @@ Marine Mammal Rescue Assistance Amendments of 2008
 
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Marine Mammal Rescue Assistance Amendments of 2008
 - 2007-03-19 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2634-2635)
 - 2007-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2634-2635)
+- 2007-03-20 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
