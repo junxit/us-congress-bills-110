@@ -1,7 +1,7 @@
 ---
 measure: H.R. 580
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `28 U.S.C. § 546` | replace | Section 546 of title 28, United States Code, is amended by striking subsection (c) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 546 of title 28, United States Code, is amended by striking subsection (c) and inserting the following new subsections: | the bill names no machine-readable US Code section |
