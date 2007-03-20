@@ -7,12 +7,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H. CON. RES. 42
 
-> Honoring the heroic service and sacrifice of the 6,500 glider pilots of the United States Army Air Forces during World War II.
+> Honoring the heroic service and sacrifice of the glider pilots of the United States Army Air Forces during World War II.
 
 ## Preamble
 
 - Whereas the use of gliders during World War II provided an innovative method of transporting troops and equipment behind enemy lines;
-- Whereas the United States Army Air Forces began training glider pilots in 1942, eventually training approximately 6,500 men;
+- Whereas the United States Army Air Forces began training glider pilots in 1942, eventually training thousands of men;
 - Whereas glider pilots exhibited exceptional valor by landing behind enemy lines in unarmed gliders;
 - Whereas glider pilots participated in 8 successful missions;
 - Whereas in Operation Husky, which took place in Sicily on July 9, 1943, glider pilots carried British airborne troops, completing their mission despite heavy casualties resulting from landings at sea;
@@ -27,5 +27,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That Congress—
 
-- **(1)** honors the heroic service and sacrifice of the 6,500 glider pilots of the United States Army Air Forces during World War II; and
-- **(2)** urges the people of the Nation to remember and teach future generations about the contributions and sacrifices that glider pilots, and all veterans, have made to and for the Nation.
+- **(1)** honors the heroic service and sacrifice of the glider pilots of the United States Army Air Forces during World War II; and
+- **(2)** urges the people of the United States to remember and teach future generations about the contributions and sacrifices that glider pilots, and all veterans, have made to and for the United States.
