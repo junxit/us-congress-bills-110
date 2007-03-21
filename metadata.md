@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1284
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1284
@@ -37,6 +37,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2007
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2007-03-21 — [House 110-1-176](votes/house-110-1-0176.md) — On Motion to Suspend the Rules and Pass — **Passed** (418–0)
+
 ## Actions
 
 - 2007-03-01 — Introduced in House
@@ -50,3 +54,11 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2007
 - 2007-03-20 — Placed on the Union Calendar, Calendar No. 27.
 - 2007-03-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-56.
 - 2007-03-20 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-56.
+- 2007-03-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-03-21 — Considered as unfinished business. (consideration: CR H2795)
+- 2007-03-21 — Considered under suspension of the rules. (consideration: CR H2782-2785)
+- 2007-03-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1284.
+- 2007-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-21 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2007-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 176). (text: CR H2782)
+- 2007-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 176).(text: CR H2782)
