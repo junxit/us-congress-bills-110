@@ -12,3 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title
 
 This Act may be cited as the “Gulf Coast Hurricane Housing Recovery Act of 2007”.
+
+## § 2. Limitation on use of authorized amounts
+
+None of the amounts authorized by this Act may be used to lobby or retain a lobbyist for the purpose of influencing a Federal, State, or local governmental entity or officer.
