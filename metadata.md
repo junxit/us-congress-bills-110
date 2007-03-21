@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 42
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 42
@@ -50,9 +50,10 @@ Honoring the heroic service and sacrifice of the glider pilots of the United Sta
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -74,3 +75,4 @@ Honoring the heroic service and sacrifice of the glider pilots of the United Sta
 - 2007-03-20 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 161). (text: CR H2677)
 - 2007-03-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 161).(text: CR H2677)
 - 2007-03-20 — The title of the measure was amended. Agreed to without objection.
+- 2007-03-21 — Received in the Senate and referred to the Committee on Armed Services.
