@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1195
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-406 amendatory instructions. 127 executed, 279 stated and not applied.
+419 amendatory instructions. 101 executed, 318 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `through 189 as sections 601 through 609, respectively` |
 | Inserted | `through 190 as sections 601 through 610, respectively` |
 
-### 23 U.S.C. § 104
+### 23 U.S.C. § 101
 
 > Effective October 1, 2006, section 104(b)(5)(A)(iii) of title 23, United States Code, is amended by striking “the Federal-aid system” each place it appears and inserting “Federal-aid highways”.
 
@@ -141,7 +141,7 @@ to guess them.
 | Removed | `paragraph (3)` |
 | Inserted | `paragraph (4)` |
 
-### 23 U.S.C. § 206
+### 23 U.S.C. § 101
 
 > Section 206(d)(3)(A) of title 23, United States Code, is amended by striking “(B), (C), and (D)” and inserting “(B) and (C)”.
 
@@ -260,7 +260,7 @@ to guess them.
 
 ### 23 U.S.C. § 104
 
-> in item number 2671 by striking “from 2 to 5 lanes and improve alignment within rights-of-way in St. George” each place it appears and inserting “, St. George”;
+> in item number 2671 by striking “from 2 to 5 lanes and improve alignment within rights-of-way in St. George” and inserting “, St. George”;
 
 | | |
 |---|---|
@@ -386,12 +386,12 @@ to guess them.
 
 ### 23 U.S.C. § 104
 
-> in item number 64 by striking “$6,560,000” and inserting “$7,760,000”;
+> in item number 64 by striking “$6,560,000” and inserting “$8,480,000”;
 
 | | |
 |---|---|
 | Removed | `$6,560,000` |
-| Inserted | `$7,760,000` |
+| Inserted | `$8,480,000` |
 
 ### 23 U.S.C. § 104
 
@@ -629,12 +629,39 @@ to guess them.
 
 ### 23 U.S.C. § 104
 
-> in item number 2424 by striking “Construction” and inserting “preconstruction (including survey and archeological clearances) and construction”; and
+> in item number 2424 by striking “Construction” and inserting “preconstruction (including survey and archeological clearances) and construction”;
 
 | | |
 |---|---|
 | Removed | `Construction` |
 | Inserted | `preconstruction (including survey and archeological clearances) and construction` |
+
+### 23 U.S.C. § 104
+
+> in item number 2956 by striking “$1,360,000” and inserting “$2,080,000”;
+
+| | |
+|---|---|
+| Removed | `$1,360,000` |
+| Inserted | `$2,080,000` |
+
+### 23 U.S.C. § 104
+
+> in item number 80 by striking “$4,544,000” and inserting “$4,731,200”;
+
+| | |
+|---|---|
+| Removed | `$4,544,000` |
+| Inserted | `$4,731,200` |
+
+### 23 U.S.C. § 104
+
+> in item number 2096 by striking “$4,800,000” and inserting “$5,217,600”; and
+
+| | |
+|---|---|
+| Removed | `$4,800,000` |
+| Inserted | `$5,217,600` |
 
 ### 23 U.S.C. § 510
 
@@ -681,277 +708,16 @@ to guess them.
 | Removed | `2003` |
 | Inserted | `2009` |
 
-### 49 U.S.C. § 5506
+### 23 U.S.C. § 133
 
-> Section 5506(e)(5)(C) of title 49, United States Code, is amended by striking “$2,225,000”and inserting “$2,250,000”.
-
-| | |
-|---|---|
-| Removed | `$2,225,000` |
-| Inserted | `$2,250,000` |
-
-### 49 U.S.C. § 5302
-
-> Section 5302(a)(10) of title 49, United States Code, is amended by striking “charter,” and inserting “charter, sightseeing,”.
+> by striking “0.75” and inserting “0.499”; and
 
 | | |
 |---|---|
-| Removed | `charter,` |
-| Inserted | `charter, sightseeing,` |
+| Removed | `0.75` |
+| Inserted | `0.499` |
 
-### 49 U.S.C. § 5302
-
-> in paragraph (2)(A) by striking “mass transportation” and inserting “public transportation”; and
-
-| | |
-|---|---|
-| Removed | `mass transportation` |
-| Inserted | `public transportation` |
-
-### 49 U.S.C. § 5302
-
-> in paragraph (3) by striking “section 5305(a)” and inserting “section 5303(k)”.
-
-| | |
-|---|---|
-| Removed | `section 5305(a)` |
-| Inserted | `section 5303(k)` |
-
-### 49 U.S.C. § 5302
-
-> in the heading for paragraph (2)(A) by striking “Major capital” and inserting “Capital”; and
-
-| | |
-|---|---|
-| Removed | `Major capital` |
-| Inserted | `Capital` |
-
-### 49 U.S.C. § 5302
-
-> in paragraph (7)(B) by striking “section 3039” and inserting “section 3045”.
-
-| | |
-|---|---|
-| Removed | `section 3039` |
-| Inserted | `section 3045` |
-
-### 49 U.S.C. § 5302
-
-> in subsection (g)(1)(A) by striking “for any purpose other than operating assistance” and inserting “for a capital project or project administrative expenses”;
-
-| | |
-|---|---|
-| Removed | `for any purpose other than operating assistance` |
-| Inserted | `for a capital project or project administrative expenses` |
-
-### 49 U.S.C. § 5302
-
-> in subsection (i)(1) by striking “Sections 5323(a)(1)(D) and 5333(b) of this title apply” and inserting “Section 5333(b) applies”.
-
-| | |
-|---|---|
-| Removed | `Sections 5323(a)(1)(D) and 5333(b) of this title apply` |
-| Inserted | `Section 5333(b) applies` |
-
-### 49 U.S.C. § 5302
-
-> The heading for section 5312(c) of such title is amended by striking “Mass Transportation” and inserting “Public Transportation”.
-
-| | |
-|---|---|
-| Removed | `Mass Transportation` |
-| Inserted | `Public Transportation` |
-
-### 49 U.S.C. § 5302
-
-> Section 5314(a)(3) is amended by striking “section 5323(a)(1)(D)” and inserting “section 5333(b)”.
-
-| | |
-|---|---|
-| Removed | `section 5323(a)(1)(D)` |
-| Inserted | `section 5333(b)` |
-
-### 49 U.S.C. § 5302
-
-> Section 5319 of such title is amended by striking “section 5307(k)” and inserting “section 5307(d)(1)(K)”.
-
-| | |
-|---|---|
-| Removed | `section 5307(k)` |
-| Inserted | `section 5307(d)(1)(K)` |
-
-### 49 U.S.C. § 5302
-
-> in subsection (a)(1)(A) by striking “intra—agency” and inserting “intraagency”;
-
-| | |
-|---|---|
-| Removed | `intra—agency` |
-| Inserted | `intraagency` |
-
-### 49 U.S.C. § 5302
-
-> in subsection (b)(5)(A) by striking “5302(a)(1)(A)” and inserting “5302(a)(1)” ;
-
-| | |
-|---|---|
-| Removed | `5302(a)(1)(A)` |
-| Inserted | `5302(a)(1)` |
-
-### 49 U.S.C. § 5302
-
-> Section 5323(n) of such title is amended by striking “section 5336(e)(2)” and inserting “section 5336(d)(2)”.
-
-| | |
-|---|---|
-| Removed | `section 5336(e)(2)` |
-| Inserted | `section 5336(d)(2)` |
-
-### 49 U.S.C. § 5302
-
-> in subsection (a) by striking “Of the amount” and all that follows before paragraph (1) and inserting “Of the amount apportioned under subsection (i)(2) to carry out section 5307—”;
-
-| | |
-|---|---|
-| Removed | `Of the amount` |
-| Inserted | `Of the amount apportioned under subsection (i)(2) to carry out section 5307—` |
-
-### 49 U.S.C. § 5302
-
-> in subsection (d)(1) by striking “subsections (a) and (h)(2) of section 5338” and inserting “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338”; and
-
-| | |
-|---|---|
-| Removed | `subsections (a) and (h)(2) of section 5338` |
-| Inserted | `subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338` |
-
-### 49 U.S.C. § 5302
-
-> Section 3034(d)(2) of the Safe, Accountable, Flexible, Efficient, Transportation Equity Act: A Legacy for Users (119 Stat. 1629), is amended by striking “paragraph (2)” and inserting “subsection (a)(2)”.
-
-| | |
-|---|---|
-| Removed | `paragraph (2)` |
-| Inserted | `subsection (a)(2)` |
-
-### 49 U.S.C. § 5337
-
-> Section 5337(a) of title 49, United States Code, is amended by striking “for each of fiscal years 1998 through 2003” and inserting “for each of fiscal years 2005 through 2009”.
-
-| | |
-|---|---|
-| Removed | `for each of fiscal years 1998 through 2003` |
-| Inserted | `for each of fiscal years 2005 through 2009` |
-
-### 49 U.S.C. § 5302
-
-> Section 5338(d)(1)(B) of such title is amended by striking “section 5315(a)(16)” and inserting “section 5315(b)(2)(P)”.
-
-| | |
-|---|---|
-| Removed | `section 5315(a)(16)` |
-| Inserted | `section 5315(b)(2)(P)` |
-
-### 49 U.S.C. § 5302
-
-> Section 3040(4) of such Act (119 Stat. 1639) is amended by striking “$7,871,895,000” and inserting “$7,872,893,000”.
-
-| | |
-|---|---|
-| Removed | `$7,871,895,000` |
-| Inserted | `$7,872,893,000` |
-
-### 49 U.S.C. § 5302
-
-> Section 3043(c)(105) of such Act (119 Stat. 1645) is amended by striking “LOSSAN Del Mar-San Diego Rail—Corridor Improvements” and inserting “LOSSAN Rail Corridor Improvements” .
-
-| | |
-|---|---|
-| Removed | `LOSSAN Del Mar-San Diego Rail—Corridor Improvements` |
-| Inserted | `LOSSAN Rail Corridor Improvements` |
-
-### 49 U.S.C. § 5302
-
-> Section 3043(c)(217) of such Act (119 Stat. 1648) is amended by striking “San Diego” and inserting “San Diego Transit”.
-
-| | |
-|---|---|
-| Removed | `San Diego` |
-| Inserted | `San Diego Transit` |
-
-### 49 U.S.C. § 5302
-
-> by striking “$217,360” and inserting “$167,360”; and
-
-| | |
-|---|---|
-| Removed | `$217,360` |
-| Inserted | `$167,360` |
-
-### 49 U.S.C. § 5302
-
-> by striking “$225,720” and inserting “$175,720”;
-
-| | |
-|---|---|
-| Removed | `$225,720` |
-| Inserted | `$175,720` |
-
-### 49 U.S.C. § 5302
-
-> in item number 120 by striking “Dayton Airport Intermodal Rail Feasibility Study” and inserting “Greater Dayton Regional Transit Authority bus facilities”;
-
-| | |
-|---|---|
-| Removed | `Dayton Airport Intermodal Rail Feasibility Study` |
-| Inserted | `Greater Dayton Regional Transit Authority bus facilities` |
-
-### 49 U.S.C. § 5302
-
-> in item number 416 by striking “Improve marine intermodal” and inserting “Improve marine dry-dock and”; and
-
-| | |
-|---|---|
-| Removed | `Improve marine intermodal` |
-| Inserted | `Improve marine dry-dock and` |
-
-### 49 U.S.C. § 5302
-
-> by striking “projects numbered 258 and 347” and inserting “projects numbered 258, 347, and 411”.
-
-| | |
-|---|---|
-| Removed | `projects numbered 258 and 347` |
-| Inserted | `projects numbered 258, 347, and 411` |
-
-### 49 U.S.C. § 5302
-
-> by striking “hydrogen fuel cell vehicles” and inserting “hydrogen fueled vehicles”;
-
-| | |
-|---|---|
-| Removed | `hydrogen fuel cell vehicles` |
-| Inserted | `hydrogen fueled vehicles` |
-
-### 49 U.S.C. § 5302
-
-> by striking “hydrogen fuel cell employee shuttle vans” and inserting “hydrogen fueled employee shuttle vans”; and
-
-| | |
-|---|---|
-| Removed | `hydrogen fuel cell employee shuttle vans` |
-| Inserted | `hydrogen fueled employee shuttle vans` |
-
-### 49 U.S.C. § 5302
-
-> by striking “in Allentown, Pennsylvania” and inserting “to the DaVinci Center in Allentown, Pennsylvania”.
-
-| | |
-|---|---|
-| Removed | `in Allentown, Pennsylvania` |
-| Inserted | `to the DaVinci Center in Allentown, Pennsylvania` |
-
-### 49 U.S.C. § 31104
+### 49 U.S.C. § 31151
 
 > by striking “Section 31104” and inserting “Section 31144”; and
 
@@ -960,7 +726,7 @@ to guess them.
 | Removed | `Section 31104` |
 | Inserted | `Section 31144` |
 
-### 49 U.S.C. § 31104
+### 49 U.S.C. § 31151
 
 > Section 4114(c)(1) of the such Act (119 Stat. 1726) is amended by striking “the second subsection (c)” and inserting “(f)”.
 
@@ -969,7 +735,7 @@ to guess them.
 | Removed | `the second subsection (c)` |
 | Inserted | `(f)` |
 
-### 49 U.S.C. § 31104
+### 49 U.S.C. § 31151
 
 > Section 4116(f) of such Act (119 Stat. 1728) is amended by striking “amendment made by subsection (a)” and inserting “amendments made by subsections (a) and (b)”.
 
@@ -987,7 +753,7 @@ to guess them.
 | Removed | `Act` |
 | Inserted | `section` |
 
-### 49 U.S.C. § 31104
+### 49 U.S.C. § 31151
 
 > Section 4121 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1734) is amended by striking “31139(f)(5)” and inserting “31139(g)(5)”.
 
@@ -996,7 +762,7 @@ to guess them.
 | Removed | `31139(f)(5)` |
 | Inserted | `31139(g)(5)` |
 
-### 49 U.S.C. § 31104
+### 49 U.S.C. § 31151
 
 > Section 4122(2)(A) of such Act (119 Stat. 1734) is amended by striking “license” and inserting “licenses”.
 
@@ -1041,7 +807,7 @@ to guess them.
 | Removed | `interstate` |
 | Inserted | `intrastate` |
 
-### 49 U.S.C. § 14504a
+### 49 U.S.C. § 31151
 
 > in subsection (c)(1)(B) by striking “the a” and inserting “a”; and
 
@@ -1050,7 +816,7 @@ to guess them.
 | Removed | `the a` |
 | Inserted | `a` |
 
-### 49 U.S.C. § 31104
+### 49 U.S.C. § 31151
 
 > Section 4305(a) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1764) is amended by striking “12 months” and inserting “24 months”.
 
@@ -1122,7 +888,7 @@ to guess them.
 | Removed | `Act` |
 | Inserted | `subsection` |
 
-### 49 U.S.C. § 5121
+### 49 U.S.C. § 5103a
 
 > in paragraph (2) by striking “exemptions” and inserting “special permits”; and
 
@@ -1131,7 +897,7 @@ to guess them.
 | Removed | `exemptions` |
 | Inserted | `special permits` |
 
-### 49 U.S.C. § 5121
+### 49 U.S.C. § 5103a
 
 > in paragraph (3) by striking “exemption” and inserting “special permit”.
 
@@ -1151,7 +917,7 @@ to guess them.
 
 ### 23 U.S.C. § 410
 
-> Effective October 1, 2006, section 402(c) of the title 23, United States Code, is amended by striking “The annual apportionment to each State shall not be less than one-half of 1 per centum” and inserting “The annual apportionment to each State shall not be less than three-quarters of 1 percent”.
+> Effective October 1, 2007, section 402(c) of the title 23, United States Code, is amended by striking “The annual apportionment to each State shall not be less than one-half of 1 per centum” and inserting “The annual apportionment to each State shall not be less than three-quarters of 1 percent”.
 
 | | |
 |---|---|
@@ -1186,9 +952,9 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 117` | redesignate | by redesignating subsections (d) through (h) as subsections (e) through (i), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 117` | redesignate | by redesignating the second subsection (c) (relating to Federal share) as subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 117` | insert | in subsection (a)(2)(A) by inserting “(112 Stat. 257)” after “21st Century”; and | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 134` | insert | by inserting “or the identified phase” before “within the time”; and | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 134` | insert | by inserting “or the identified phase” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 134` | strike | Section 134(k)(2) of such title is amended by striking “a metropolitan planning area serving”. | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 101` | insert | by inserting “or the identified phase” before “within the time”; and | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 101` | insert | by inserting “or the identified phase” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 101` | strike | Section 134(k)(2) of such title is amended by striking “a metropolitan planning area serving”. | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 144` | strike | in the section heading by striking “replacement and rehabilitation”; | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 144` | insert | in the heading to paragraph (4) of subsection (d) by inserting “systematic” before “preventive”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 144` | strike | by striking subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1207,8 +973,9 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 101` | insert | by inserting after “highway safety improvement programs” the following: “(and separately the set aside for the high risk rural road program)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1101(a)(18) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1155) is amended by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1307 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1217) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | The table contained in section 1301(m) of the Safe, Accountable, Flexible, Efficient Transportation Equity: A Legacy for Users (119 Stat. 1203) is amended in item number 4 by striking the project description and inserting “$7,400,000 for… | the bill names no machine-readable US Code section |
 | — | replace | The table contained in section 1302(e) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1205) is amended in item number 23 by striking the project description and inserting “Improveme… | the bill names no machine-readable US Code section |
-| `23 U.S.C. § 111` | repeal | Section 111(d) of title 23, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 111(d) of title 23, United States Code, is repealed. | the bill names no machine-readable US Code section |
 | `23 U.S.C. § 104` | replace | in item number 34 by striking the project description and inserting “Removal and Reconfiguration of Interstate ramps, I–40, Memphis”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | strike | by striking item number 61; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 104` | replace | in item number 87 by striking the project description and inserting “M–291 highway outer road improvement project”; | the bill quotes the text inserted but describes where it goes |
@@ -1233,10 +1000,9 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 104` | replace | in item number 1039 by striking the project description and inserting “Widen State Route 98, including storm drain developments, from D. Navarro Avenue to State Route 111”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1047 by striking the project description and inserting “Bridge and road work at Little Susitna River Access road in Matanuska-Susitna Borough”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1124 by striking “bridge over Stillwater River, Orono” and by inserting “routes”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `23 U.S.C. § 104` | replace | in item number 1210 by striking the project description and inserting “Town of New Windsor Riley Road and Shore Drive”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1281 by striking the project description and inserting “Upgrade roads in Attala County District 4 (Roads 4211 and 4204), Kosciusko, Ward 2, and Ethel, Attala County”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1575 by striking the project description and inserting “Highway and road signage, and traffic signal synchronization and upgrades, in Shippensburg Boro, Shippensburg Township, and surrounding municipalities”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | replace | in item number 1661 by striking the project description and inserting “Sheldon West Extension in Matanuska-Susitna Borough;” | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1661 by striking the project description and inserting “Sheldon West Extension in Matanuska-Susitna Borough”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1810 by striking the project description and inserting “Design, engineering, ROW acquisition, construction, and construction engineering for the reconstruction of TH 95, from 12th Avenue to CSAH 13, including bridge and ap… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item numbers 1926 and 2893 by striking the project descriptions and inserting “Grading, paving roads, and the transfer of rail-to-truck for the intermodal facility at Rickenbacker Airport, Columbus, Ohio”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1933 by striking the project description and inserting “Enhance Byzantine Latino Quarter transit plazas at Normandie and Pico, and Hoover and Pico, Los Angeles, by improving streetscapes, including expanding concrete and p… | the bill quotes the text inserted but describes where it goes |
@@ -1244,29 +1010,28 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 104` | replace | in item number 2015 by striking the project description and inserting “Heidelberg Borough/Scott Township/Carnegie Borough for design, engineering, acquisition, and construction of streetscaping enhancements, paving, lighting and safety u… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2087 by striking the project description and inserting “Railroad crossing improvement on Illinois Route 82 in Geneseo”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2211 by striking the project description and inserting “Construct road projects and transportation enhancements as part of or connected to RiverScape Phase III, Montgomery County, Ohio”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | replace | in item number 2234 by striking the project description and inserting “North Atherton Signal Coordination Project in Centre County”; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 2234 by striking the project description and amount and inserting “North Atherton Signal Coordination Project in Centre County” and “$400,000”, respectively; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2316 by striking the project description and inserting “Construct a new bridge at Indian Street, Martin County”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2420 by striking the project description and inserting “Preconstruction and construction activities of U.S. 51 between the Assumption Bypass and Vandalia”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2663 by striking the project description and inserting “Rosemead Boulevard safety enhancement and beautification, Temple City”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2743 by striking the project description and inserting “Improve safety of culvert replacement on 250th Rd. between 460th St. and Cty Hwy 20 in Grandview Township, Edgar County”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | strike | by striking item number 2800; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 104` | insert | in item number 3047 by inserting “and roadway improvements” after “safety project” each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | insert | in item number 3047 by inserting “and roadway improvements” after “safety project” ; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3078 by striking the project description and inserting “U.S. 2/Sultan Basin Road improvements in Sultan”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3174 by striking the project description and inserting “Improving Outer Harbor access through planning, design, construction, and relocations of Southtowns Connector–NY Route 5, Fuhrmann Boulevard, and a bridge connecting … | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3254 by striking the project description and inserting “Reconstruct PA Route 274/34 Corridor, Perry County”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | replace | in item number 3255 by striking the project description and inserting “Facility acquisition, road construction, and other transportation enhancement related improvements in the Northwest Triangle Redevelopment Area in the city of York”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3368 by striking the project description and inserting “Plan, design, and engineering, Ludlam Trail, Miami”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3410 by striking the project description and inserting “Design, purchase land, and construct sound walls along the west side of I–65 from approximately 950 feet south of the Harding Place interchange south to Hogan Road”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | insert | in item number 3537 by inserting “and the study of alternatives along the North South Corridor,” after “Valley”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3582 by striking the project description and inserting “Improving Outer Harbor access through planning, design, construction, and relocations of Southtowns Connector–NY Route 5, Fuhrmann Boulevard, and a bridge connecting … | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | insert | in item number 3604 by inserting “and Kane Creek Boulevard” after “500 West” each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | insert | in item number 3604 by inserting “/Kane Creek Boulevard” after “500 West”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3632 by striking the State, project description, and amount and inserting “FL”, “Pine Island Road pedestrian overpass, city of Tamarac”, and “$610,000”, respectively; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | replace | in item number 3634 by striking the State, project description, and amount and inserting “FL”, “West Avenue Bridge, city of Miami Beach”, and “$620,000”, respectively; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 3634 by striking the matters in the State, project description, and amount columns and inserting “FL”, “West Avenue Bridge, city of Miami Beach”, and “$620,000”, respectively; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3673 by striking the project description and inserting “Improve marine dry-dock and facilities in Ketchikan”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2942 by striking the project description and inserting “Redesigning the intersection of Business U.S. 322/High Street and Rosedale Avenue and constructing a new East Campus Drive between High Street (U.S. 322) and Matlock … | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2781 by striking the project description and inserting “Highway and road signage, road construction, and other transportation improvement and enhancement projects on or near Highway 26, in Riverton and surrounding areas”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | strike | by striking item number 20; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `23 U.S.C. § 104` | replace | in item number 1210 by striking the project description and inserting “Riley Road, Shore Drive, and area road improvements”; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1210 by striking the project description and inserting “Town of New Windsor—Riley Road, Shore Drive, and area road improvements”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | strike | by striking item numbers 68, 905, and 1742; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 104` | strike | by striking item numbers 841, 960, and 2030; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 104` | strike | by striking item number 2936; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1307,7 +1072,7 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 104` | replace | in item number 342 by striking the project description and inserting “Design, engineering, right-of-way acquisition, and construction of streetscaping enhancements, paving, lighting, safety improvements, parking, roadway redesign, and cr… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2436 by striking the project description and amount and inserting “For Wilkes-Barre to design, acquire land, and construct a parking garage or parkade, streetscaping enhancements, paving, lighting, safety improvements, and… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2723 by striking “$4,000,000” and by inserting “$3,150,000”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `23 U.S.C. § 104` | replace | in item number 61 by striking the State, project description, and amount and inserting “AL”, “Grade crossing improvements along Wiregrass Central RR at Boll Weevil Bypass in Enterprise, AL”, and “$300,000”, respectively; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 61 by striking the matters in the State, project description, and amount columns and inserting “AL”, “Grade crossing improvements along Wiregrass Central RR at Boll Weevil Bypass in Enterprise, AL”, and “$250,000”, respect… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 314 by striking the project description and amount and inserting “Streetscape enhancements to the transit and pedestrian corridor, Fort Lauderdale, Downtown Development Authority” and “$610,000”, respectively; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1639 by striking the project description and inserting “Operational and highway safety improvements on Hwy 94 between the 20 mile marker post in Jamul and Hwy 188 in Tecate”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2860 by striking the project description and inserting “Roadway improvements from Halchita to Mexican Hat on the Navajo Nation”; | the bill quotes the text inserted but describes where it goes |
@@ -1341,7 +1106,7 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 104` | replace | in item number 170 by striking the project description and amount and inserting “Study of a Maglev train route from Northeast Pennsylvania through New Jersey and New York” and “$1,600,000”, respectively; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2366 by striking the project description and inserting “Design, engineering, right-of-way acquisition, and paving of the parking lot at the Casey Plaza in Wilkes-Barre Township”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2144 by striking the project description and inserting “Design, engineering, right-of-way acquisition and construction of streetscaping enhancements, paving, lighting, safety improvements, parking, and roadway redesign on … | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | replace | in item number 2168 by striking the project description and amount and inserting “Design, engineering, right-of-way acquisition, and construction of street improvements, streetscaping enhancements, paving, lighting, safety improvements, … | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1765 by striking the project description and amount and inserting “Design, engineering, right-of-way acquisition, and construction of street improvements, streetscaping enhancements, paving, lighting, safety improvements, … | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2957 by striking the project description and amount and inserting “Design, engineering, land acquisition, right-of-way acquisition, and construction of a parking garage, streetscapping enhancements, paving, lighting, safet… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3283 by striking the project description and amount and inserting “Pedestrian access improvements, including installation of infrastructure and equipment for security and surveillance purposes at subway stations in Astoria… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3556 by striking the project description and amount and inserting “Design and rehabilitate staircases used as streets due to the steep grade of terrain in Bronx County” and “$1,100,000”, respectively; | the bill quotes the text inserted but describes where it goes |
@@ -1370,21 +1135,28 @@ complete account of the bill's effect, which it is not.
 | `23 U.S.C. § 104` | replace | in item number 1211 by striking the matters in the State, project description, and amount columns and inserting “PA”, “Road improvements and upgrades related to the Pennsylvania State Baseball Stadium”, and “$500,000”, respectively; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1501 by striking the project description and inserting “Construction and right-of-way acquisition of TH 241, CSAH 35 and associated streets in the city of St. Michael”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2031 by striking the project description and inserting “Construct and improve Westside Parkway in Fulton County”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | insert | in item number 2302 by inserting “and other road improvements to Stafford Street” after “crossings”; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | insert | in item number 2302 by inserting “and other road improvements to Safford Street” after “crossings”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2560 by striking the project description and inserting “I–285 underpass/tunnel assessment and engineering and interchange improvements in Sandy Springs”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2563 by striking the project description and amount and inserting “Construct hike and bike path as part of Bridgeview Bridge replacement in Macomb County” and “$486,400”, respectively; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 2698 by striking the project description and inserting “Interchanges at I–95/Ellis Road and between Grant Road and Micco Road, Brevard County”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | strike | by striking item number 3160; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 104` | insert | in item number 3353 by inserting “and construction” after “mitigation”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | replace | in item number 2166 by striking the project description and inserting “Design, right of way acquisition, and construction for I–35 and CSAH2 interchange and CSAH2 corridor to TH61 in Forest Lake”; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 2166 by striking the project description and inserting “Design, right-of-way acquisition, and construction for I–35 and CSAH2 interchange and CSAH2 corridor to TH61 in Forest Lake”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3251 by striking the project description and inserting “I–94 and Radio Drive Interchange and frontage road project, design, right-of-way, and construction, Woodbury”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 1488 by striking the project description and inserting “Construct a 4-lane highway between Maverick Junction and the Nebraska border”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3240 by striking the project description and inserting “Railroad-highway crossings in Pierre”; | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | replace | in item number 3672 by striking the project description and inserting “Pave remaining stretch of BIA Route 4 from the junction of the BIA Route 4 and N8031 in Pinon, AZ, to the Navajo and Hopi border”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 104` | replace | in item number 1216 by striking the matters in the State, project description, and amount columns and inserting “PA”, “For roadway construction improvements to Route 222 relocation, Lehigh County”, and “$1,313,000”, respectively. | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1216 by striking the matters in the State, project description, and amount columns and inserting “PA”, “For roadway construction improvements to Route 222 relocation, Lehigh County”, and “$1,313,000”, respectively; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1256 by striking the matters in the State, project description, and amount columns and inserting “PA”, “Construction of a bridge over Brandywine Creek as part of the Boot Road extension project, Downingtown Borough”, and “… | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1291 by striking the matters in the State, project description, and amount columns and inserting “PA”, “Enhance parking facilities in Chester Springs, Historic Yellow Springs”, and “$20,000”, respectively; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1304 by striking the matters in the State, project description, and amount columns and inserting “PA”, “Improve the intersection at SR 100/SR 4003 (Kernsville Road), Lehigh County”, and “$250,000”, respectively; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1357 by striking the matters in the State, project description, and amount columns and inserting “PA”, “Intersection signalization at SR 3020 (Newburg Road)/Country Club Road, Northampton County”, and “$250,000”, respectiv… | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1395 by striking the matters in the State, project description, and amount columns and inserting “PA”, “Improve the intersection at SR 100/SR 29, Lehigh County”, and “$220,000”, respectively; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 104` | replace | in item number 1496 by striking the matters in the State, project description, and amount columns and inserting “PA”, “Study future needs of East-West road infrastructure in Adams County”, and “$115,200”, respectively. | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 104` | repeal | Notwithstanding any other provision of law, unused obligation authority made available for an item in section 1702 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1256) that is repea… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 104` | repeal | for an item in section 1702 of that Act that is added or increased by this section and that is in the same State as the item for which obligation authority or funding is repealed or reduced; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 1807(a)(3) of the Safe, Accountable, Flexible, Efficient, Transportation Equity Act: A Legacy for Users (119 Stat. 1460) is amended by striking “Minneapolis-St. Paul, Minnesota” and inserting “Minneapolis, Minnesota”. | the bill names no machine-readable US Code section |
+| `23 U.S.C. § 104` | add-at-end | Section 1964 of the Safe, Accountable, Flexible, Efficient Transportation Equity: A Legacy for Users (119 Stat. 1519) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 1807(a)(3) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1460) is amended by striking “Minneapolis-St. Paul, Minnesota” and inserting “Minneapolis, Minnesota”. | the bill names no machine-readable US Code section |
 | — | strike | Section 1908(a) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1469) is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A) of paragraph (9) by striking “July 1, 2007” and inserting “December 31, 2007”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (11)(C) by striking “the Administrator of the Federal Highway Administration” and inserting “the Secretary”; | the bill names no machine-readable US Code section |
@@ -1397,6 +1169,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | in item number 436 by inserting “, Saole,” after “Sua”; and | the bill names no machine-readable US Code section |
 | — | insert | in item number 448 by inserting “by removing asphalt and concrete and reinstalling blue cobblestones” after “streets”. | the bill names no machine-readable US Code section |
 | `23 U.S.C. § 202` | replace | by striking “For the villages” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 202` | replace | by striking “, and the Secretary” and inserting a period and the following: | the bill quotes the text struck but describes what replaces it |
 | `23 U.S.C. § 202` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in the section heading by striking “study” and inserting “design” ; | the bill names no machine-readable US Code section |
 | — | replace | by striking subsections (a), (b), and (c) and inserting the following: | the bill names no machine-readable US Code section |
@@ -1408,47 +1181,79 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 5506` | replace | by striking “In order to” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 5506` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 10212 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (as amended by section 1302 of the Pension Protection Act of 2006 (Public Law 109–280)) (119 Stat. 1937; 120 Stat. 780) is amended … | the bill names no machine-readable US Code section |
-| `23 U.S.C. § 133` | replace | in item number 567 by striking the project description and inserting “Design and construction of scenic overlook and pedestrian-bicycle trail along Rt. 5 in the Town of Hamburg”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 133` | replace | in item number 585 by striking the project description and inserting “Improvements for Heth’s Run Bridge and other transportation projects eligible under title 23, United States Code, in Allegheny County, Pennsylvania, as identified by t… | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 133` | replace | in item number 815 by striking the project description and inserting “34th St. Alignment and Interchange and other transportation improvements for city of Moorhead SE MAIN GSI, 34th St., and I–94 Interchange, including reconstruction and… | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 133` | replace | by striking the project description and inserting “34th St. Alignment and Interchange and other transportation improvements for city of Moorhead SE MAIN GSI, 34th St., and I–94 Interchange, including reconstruction and retention of the S… | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 133` | insert | in item number 1096 (as amended by section 1703(a)(11) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1454)), by inserting “, and planning and construction to Heisley Road,” before … | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 133` | replace | item number 1257 is amended by striking the project description and inserting “3,278,000 to construct Eastern Long Island Scenic Byway in Suffolk County; Street improvements in Suffolk County with the amounts provided as follows: $1,500,… | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 164` | replace | Section 164(a)(5) of title 23, United States Code, is amended by striking subparagraphs (A) and (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | insert | by inserting “or the identified phase” before “within the time”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | insert | by inserting “or the identified phase” before “within the time” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | strike | Section 5303(k)(2) of such title is amended by striking “a metropolitan planning area serving”. | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 5302` | strike | in subsections (g)(1)(A) and (g)(1)(B) by striking “capital” after “net”; and | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 5302` | insert | in subsection (d)(1) by inserting “to administer this section and” after “5338(b)(2)(J)”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | add-at-end | by adding at the end of subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | insert | in paragraph (1) by inserting before the period at the end “adopted before August 10, 2005”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | redesignate | by redesignating paragraph (3) as paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | redesignate | by redesignating subsection (c), as added by section 3034(c) of the Safe, Accountable, Flexible, Efficient, Transportation Equity Act: A Legacy for Users (119 Stat. 1628), as subsection (k). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | strike | Section 3037(c)(3) of the Safe, Accountable, Flexible, Efficient, Transportation Equity Act: A Legacy for Users (119 Stat. 1636) is amended by striking “Phase II”. | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 5302` | insert | Section 3043(c) of such Act (119 Stat. 1645) is amended by inserting after paragraph (102) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | strike | Section 3043(c)(204) of such Act (119 Stat. 647) is amended by striking “Downtown”. | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 5302` | replace | in item number 36 by striking the project description and inserting “36. Los Angeles County Metropolitan Transportation Authority (LACMTA) for bus and bus-related facilities in the LACMTA’s service area”; | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | insert | in item number 71 by inserting “Metropolitan Bus Authority” after “Puerto Rico”; | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | replace | in item number 84 by striking the project description and inserting “Improvements to the existing Sacramento Intermodal Facility (Sacramento Valley Station)”; | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | replace | in item number 94 by striking the project description and inserting “94. Pacific Transit, WA Vehicle Replacement”; | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | insert | in item number 152 by inserting “Metropolitan Bus Authority” after “Puerto Rico”; | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | add-at-end | by adding at the end— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 5302` | insert | in each of the FY08 and FY09 columns by inserting “$50,000”. | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 5302` | insert | by inserting “, or other entity,” after “State or local government authority”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 31104` | strike | Section 31104(f) of title 49, United States Code, is amended by striking the designation and heading for paragraph (1) and by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 31104` | insert | in paragraph (2) by inserting “(c)” after “the second subsection”. | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 31104` | strike | Section 7112 of such Act (119 Stat. 1899) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 164(a)(5) of title 23, United States Code, is amended by striking subparagraphs (A) and (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5506(e)(5)(C) of title 49, United States Code, is amended by striking “$2,225,000”and inserting “$2,250,000”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5302(a)(10) of title 49, United States Code, is amended by striking “charter,” and inserting “charter, sightseeing,”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or the identified phase” before “within the time”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or the identified phase” before the period at the end. | the bill names no machine-readable US Code section |
+| — | strike | Section 5303(k)(2) of such title is amended by striking “a metropolitan planning area serving”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(A) by striking “mass transportation” and inserting “public transportation”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking “section 5305(a)” and inserting “section 5303(k)”. | the bill names no machine-readable US Code section |
+| — | replace | in the heading for paragraph (2)(A) by striking “Major capital” and inserting “Capital”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7)(B) by striking “section 3039” and inserting “section 3045”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (g)(1)(A) by striking “for any purpose other than operating assistance” and inserting “for a capital project or project administrative expenses”; | the bill names no machine-readable US Code section |
+| — | strike | in subsections (g)(1)(A) and (g)(1)(B) by striking “capital” after “net”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (i)(1) by striking “Sections 5323(a)(1)(D) and 5333(b) of this title apply” and inserting “Section 5333(b) applies”. | the bill names no machine-readable US Code section |
+| — | replace | The heading for section 5312(c) of such title is amended by striking “Mass Transportation” and inserting “Public Transportation”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5314(a)(3) is amended by striking “section 5323(a)(1)(D)” and inserting “section 5333(b)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5319 of such title is amended by striking “section 5307(k)” and inserting “section 5307(d)(1)(K)”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(1)(A) by striking “intra—agency” and inserting “intraagency”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(5)(A) by striking “5302(a)(1)(A)” and inserting “5302(a)(1)” ; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d)(1) by inserting “to administer this section and” after “5338(b)(2)(J)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of subsection (d) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5323(n) of such title is amended by striking “section 5336(e)(2)” and inserting “section 5336(d)(2)”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1) by inserting before the period at the end “adopted before August 10, 2005”; | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a) by striking “Of the amount” and all that follows before paragraph (1) and inserting “Of the amount apportioned under subsection (i)(2) to carry out section 5307—”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(1) by striking “subsections (a) and (h)(2) of section 5338” and inserting “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (c), as added by section 3034(c) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1628), as subsection (k). | the bill names no machine-readable US Code section |
+| — | replace | Section 3034(d)(2) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1629), is amended by striking “paragraph (2)” and inserting “subsection (a)(2)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5337(a) of title 49, United States Code, is amended by striking “for each of fiscal years 1998 through 2003” and inserting “for each of fiscal years 2005 through 2009”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5338(d)(1)(B) of such title is amended by striking “section 5315(a)(16)” and inserting “section 5315(b)(2)(P)”. | the bill names no machine-readable US Code section |
+| — | strike | Section 3037(c)(3) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1636) is amended by striking “Phase II”. | the bill names no machine-readable US Code section |
+| — | replace | Section 3040(4) of such Act (119 Stat. 1639) is amended by striking “$7,871,895,000” and inserting “$7,872,893,000”. | the bill names no machine-readable US Code section |
+| — | insert | Section 3043(b)(27) of such Act (119 Stat. 1642) is amended by inserting “/Milwaukie” after “Mall”. | the bill names no machine-readable US Code section |
+| — | replace | Section 3043(c)(105) of such Act (119 Stat. 1645) is amended by striking “LOSSAN Del Mar-San Diego—Rail Corridor Improvements” and inserting “LOSSAN Rail Corridor Improvements” . | the bill names no machine-readable US Code section |
+| — | replace | Section 3043(c)(217) of such Act (119 Stat. 1648) is amended by striking “San Diego” and inserting “San Diego Transit”. | the bill names no machine-readable US Code section |
+| — | insert | Section 3043(c) of such Act (119 Stat. 1645) is amended by inserting after paragraph (102) the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 3043(c)(204) of such Act (119 Stat. 647) is amended by striking “Downtown”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “$217,360” and inserting “$167,360”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$225,720” and inserting “$175,720”; | the bill names no machine-readable US Code section |
+| — | replace | in item number 36 by striking the project description and inserting “Los Angeles County Metropolitan Transportation Authority (LACMTA) for bus and bus-related facilities in the LACMTA’s service area”; | the bill names no machine-readable US Code section |
+| — | insert | in item number 71 by inserting “Metropolitan Bus Authority” after “Puerto Rico”; | the bill names no machine-readable US Code section |
+| — | replace | in item number 84 by striking the project description and inserting “Improvements to the existing Sacramento Intermodal Facility (Sacramento Valley Station)”; | the bill names no machine-readable US Code section |
+| — | replace | in item number 94 by striking the project description and inserting “Pacific Transit, WA Vehicle Replacement”; | the bill names no machine-readable US Code section |
+| — | replace | in item number 120 by striking “Dayton Airport Intermodal Rail Feasibility Study” and inserting “Greater Dayton Regional Transit Authority bus facilities”; | the bill names no machine-readable US Code section |
+| — | insert | in item number 152 by inserting “Metropolitan Bus Authority” after “Puerto Rico”; | the bill names no machine-readable US Code section |
+| — | replace | in item number 416 by striking “Improve marine intermodal” and inserting “Improve marine dry-dock and”; | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end— | the bill names no machine-readable US Code section |
+| — | insert | in each of the FY08 and FY09 columns by inserting “$50,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$65,000” and inserting “$0”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$67,500” and inserting “$0”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$65,000” and inserting “$130,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$67,500” and inserting “$135,000”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, or other entity,” after “State or local governmental authority”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “projects numbered 258 and 347” and inserting “projects numbered 258, 347, and 411”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “hydrogen fuel cell vehicles” and inserting “hydrogen fueled vehicles”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “hydrogen fuel cell employee shuttle vans” and inserting “hydrogen fueled employee shuttle vans”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “in Allentown, Pennsylvania” and inserting “to the DaVinci Center in Allentown, Pennsylvania”. | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 31151` | strike | Section 31104(f) of title 49, United States Code, is amended by striking the designation and heading for paragraph (1) and by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 31151` | insert | in paragraph (1) by inserting “(c)” after “the second subsection”. | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 31151` | strike | Section 7112 of such Act (119 Stat. 1899) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 31136` | insert | Section 229(a)(1) of the Federal Motor Carrier Safety Improvement Act of 1999 (49 U.S.C. 31136 note; 119 Stat. 1743) is amended by inserting “of title 49, United States Code,” after “31502”. | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 31104` | insert | Section 4142(c)(2) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1747) is amended by inserting “each place it appears” before the semicolon. | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 31151` | insert | Section 4142(c)(2) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1747) is amended by inserting “each place it appears” before the semicolon. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 5503` | redesignate | by redesignating the first subsection (h), relating to authorization of appropriations, as subsection (i) and moving it after the second subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 13908` | redesignate | Section 13908 of title 49, United States Code, is amended by redesignating subsection (e) as subsection (f) and by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 14504a` | strike | Section 14504a(f)(1)(A)(ii) of title 49, United States Code, is amended by striking “or” the last place it appears. | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 14504a` | strike | in subsection (f)(1)(i) by striking “in connection with the filing of proof of financial responsibility”. | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 31151` | strike | in subsection (f)(1)(A)(i) by striking “in connection with the filing of proof of financial responsibility”. | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 14506` | insert | Section 14506(b)(2) of title 49, United States Code, is amended by inserting before the semicolon at the end the following: “or under an applicable State law if, on October 1, 2006, the State has a form of highway use taxation not subjec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 31111` | insert | by inserting “Such combination may include one fullmount.” after the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 5103a` | insert | Section 7124(3) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (119 Stat. 1908) is amended by inserting “the first place it appears” before “and inserting”. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 5128` | replace | Section 5128 of title 49, United States Code, is amended by striking the section designation and heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 108` | insert | Section 5(b) of the Norman Y. Mineta Research and Special Programs Improvement Act (49 U.S.C. 108 note; 118 Stat. 2427) is amended by inserting “(including delegations by the Secretary of Transportation)” after “All orders”. | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 5103a` | insert | Section 5(b) of the Norman Y. Mineta Research and Special Programs Improvement Act (49 U.S.C. 108 note; 118 Stat. 2427) is amended by inserting “(including delegations by the Secretary of Transportation)” after “All orders”. | the bill quotes the text inserted but describes where it goes |
 | `23 U.S.C. § 410` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 410` | redesignate | by redesignating paragraphs (3) and (4) as (2) and (3), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `23 U.S.C. § 410` | insert | by inserting “and” after the semicolon at the end of subparagraph (A); | the bill quotes the text inserted but describes where it goes |
