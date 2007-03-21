@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 797
 
-> To amend title 38, United States Code, to improve compensation benefits for veterans in certain cases of impairment of vision involving both eyes, and for other purposes.
+> To amend title 38, United States Code, to improve compensation benefits for veterans in certain cases of impairment of vision involving both eyes, to provide for the use of the National Directory of New Hires for income verification purposes, to extend the authority of the Secretary of Veterans Affairs to provide an educational assistance allowance for qualifying work study activities, and to authorize the provision of bronze representations of the letter “V” for the graves of eligible individuals buried in private cemeteries in lieu of Government-provided headstones or markers.
 
 ## § 1. Enhanced compensation benefits for veterans in certain cases of impairment of vision involving both eyes
 
@@ -37,7 +37,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(3)** Health-care services furnished under subsections (a)(2)(G), (a)(3), and (b) of section 1710 of this title.
   >   - **(4)** Compensation paid under chapter 11 of this title at the 100 percent rate based solely on unemployability and without regard to the fact that the disability or disabilities are not rated as 100 percent disabling under the rating schedule.
   > - **(e)** *Limitation with respect to individual unemployability cases* In the case of compensation described in subsection (d)(4), the Secretary may independently verify or otherwise act upon wage or self-employment information referred to in subsection (c) of this section only if the Secretary finds that the amount and duration of the earnings reported in that information clearly indicate that the individual is not qualified for a rating of total disability.
-  > - **(f)** *Opportunity To contest findings* The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (c), and shall give the individual an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
+  > - **(f)** *Opportunity to contest findings* The Secretary shall inform the individual of the findings made by the Secretary on the basis of verified information under subsection (c), and shall give the individual an opportunity to contest such findings, in the same manner as applies to other information and findings relating to eligibility for the benefit or service involved.
   > - **(g)** *Source of funds for administration of section* The Secretary shall pay the expenses of carrying out this section from amounts available to the Department for the payment of compensation and pension.
   > - **(h)** *Termination of authority* The authority of the Secretary to obtain information from the Secretary of Health and Human Services under subsection (a) expires on September 30, 2012.
 
@@ -46,10 +46,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Extension of authority of Secretary of Veterans Affairs to provide an educational assistance allowance to persons performing qualifying work-study activities
 
-Section 3485(a)(4) of title 38, United States Code, is amended by striking “June 30, 2007” each place it appears and inserting “June 30, 2009”.
+Section 3485(a)(4) of title 38, United States Code, is amended by striking “June 30, 2007” each place it appears and inserting “June 30, 2012”.
 
-## § 4. Provision of bronze representation of the letter “V” for grave of eligible individual buried in private cemetery in lieu of Government-provided headstone or marker
+## § 4. Provision of bronze representations of the letter “V” for grave of eligible individual buried in private cemetery in lieu of Government-provided headstone or marker
 
 Section 2306(d) of title 38, United States Code, is amended by adding at the end the following new paragraph:
 
-> - **(5)** In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, if requested, a bronze representation of the letter “V” to be attached to a headstone or marker furnished at private expense. The Secretary shall make such representation available in two sizes for such purpose.
+> - **(5)** In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, if requested, a bronze representation of the letter “V” to be attached to a headstone or marker furnished at private expense. The Secretary shall make available two sizes of such representations for such purpose.
