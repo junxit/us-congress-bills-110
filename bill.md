@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 327
 
-> To direct the Secretary of Veterans Affairs to develop and implement a comprehensive program designed to reduce the incidence of suicide among veterans.
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to develop and implement a comprehensive program designed to reduce the incidence of suicide among veterans.
 
 ## § 1. Short Title
 
