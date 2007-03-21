@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1130
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1130
@@ -39,3 +39,11 @@ Judicial Disclosure Responsibility Act
 - 2007-03-20 — Placed on the Union Calendar, Calendar No. 30.
 - 2007-03-20 — Reported by the Committee on Judiciary. H. Rept. 110-59.
 - 2007-03-20 — Reported by the Committee on Judiciary. H. Rept. 110-59.
+- 2007-03-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-03-21 — Considered as unfinished business. (consideration: CR H2795-2796)
+- 2007-03-21 — Considered under suspension of the rules. (consideration: CR H2787-2788)
+- 2007-03-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1130.
+- 2007-03-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-21 — Ms. Sanchez, Linda T. moved to suspend the rules and pass the bill.
+- 2007-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 177). (text: CR H2787)
+- 2007-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 177).(text: CR H2787)
