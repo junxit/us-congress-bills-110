@@ -1,7 +1,7 @@
 ---
 measure: H.R. 797
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,23 @@ to guess them.
 
 ## Executed
 
+### 38 U.S.C. § 1160
+
+> by striking “blindness” both places it appears and inserting “impairment of vision”; and
+
+| | |
+|---|---|
+| Removed | `blindness` |
+| Inserted | `impairment of vision` |
+
 ### 38 U.S.C. § 3485
 
-> Section 3485(a)(4) of title 38, United States Code, is amended by striking “June 30, 2007” each place it appears and inserting “June 30, 2009”.
+> Section 3485(a)(4) of title 38, United States Code, is amended by striking “June 30, 2007” each place it appears and inserting “June 30, 2012”.
 
 | | |
 |---|---|
 | Removed | `June 30, 2007` |
-| Inserted | `June 30, 2009` |
+| Inserted | `June 30, 2012` |
 
 ## Stated, not applied
 
@@ -42,8 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “blindness” both places it appears and inserting “impairment of vision”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the semicolon at the end the following: “, where the impairment in each eye is to a visual acuity of 20/200 or less or of a peripheral field of 20 degrees or less”. | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1160` | insert | by inserting before the semicolon at the end the following: “, where the impairment in each eye is to a visual acuity of 20/200 or less or of a peripheral field of 20 degrees or less”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 653` | add-at-end | Chapter 53 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 653` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 2306(d) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 2306` | add-at-end | Section 2306(d) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
