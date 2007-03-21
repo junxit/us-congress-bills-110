@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1130
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,4 +36,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by striking “2005” each place that term appears and inserting “2009”. | the bill names no machine-readable US Code section |
 | — | strike | in clause (ii), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in clause (iii), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
