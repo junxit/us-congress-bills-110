@@ -1,7 +1,7 @@
 ---
 measure: H.R. 759
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 759
@@ -31,9 +31,10 @@ To redesignate the Ellis Island Library on the third floor of the Ellis Island I
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To redesignate the Ellis Island Library on the third floor of the Ellis Island I
 - 2007-03-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-03-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 162). (text: CR 3/19/2007 H2636)
 - 2007-03-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 162).(text: CR 3/19/2007 H2636)
+- 2007-03-21 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
