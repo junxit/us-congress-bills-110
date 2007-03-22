@@ -1,7 +1,7 @@
 ---
 measure: H.R. 740
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 740
@@ -28,9 +28,10 @@ Preventing Harassment through Outbound Number Enforcement Act of 2007
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ Preventing Harassment through Outbound Number Enforcement Act of 2007
 - 2007-03-21 — Ms. Sanchez, Linda T. moved to suspend the rules and pass the bill.
 - 2007-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 178). (text: CR H2790)
 - 2007-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 178).(text: CR H2790)
+- 2007-03-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.

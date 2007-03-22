@@ -1,7 +1,7 @@
 ---
 measure: H.R. 740
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 853` | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 853` | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (Fraud and related activity in connection with electronic mail),” after “1032”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1040 (Caller ID spoofing),” before “section 1111”. | the bill quotes the text inserted but describes where it goes |
