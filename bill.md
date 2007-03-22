@@ -32,14 +32,14 @@ This Act may be cited as the “Native American Methamphetamine Enforcement and 
       - **(i)** by inserting “, territory, Indian tribe,” after “agency of the State”; and
       - **(ii)** by inserting “, territory, Indian tribe,” after “criminal laws of that State”; and
     - **(C)** by adding at the end the following:
-      > - **(3)** *Indian tribe* The term Indian tribe has the meaning given the term in section 2704 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797d)).
+      > - **(3)** *Indian tribe* The term Indian tribe has the meaning given the term in section 2704 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797d).
 
   - **(3)** in subsection (c)—
     - **(A)** in paragraph (3), by striking “Indian Tribes” and inserting “Indian tribes”; and
     - **(B)** in paragraph (4)—
       - **(i)** in the matter preceding subparagraph (A)—
-        - **(I)** by striking “State’s services” and inserting “services of the State, territory, or Indian tribe”; and
+        - **(I)** by striking “State’s”; and
         - **(II)** by striking “and/or” and inserting “or”;
       - **(ii)** in subparagraph (A), by striking “State”;
       - **(iii)** in subparagraph (C), by inserting “, Indian tribes,” after “involved counties”; and
-      - **(iv)** in subparagraph (D), by inserting “, tribal” after “Federal, State”.
+      - **(iv)** in subparagraph (D), by inserting “, Tribal” after “Federal, State”.
