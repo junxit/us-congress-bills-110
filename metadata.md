@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1130
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1130
@@ -49,3 +49,15 @@ Judicial Disclosure Responsibility Act
 - 2007-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 177). (text: CR H2787)
 - 2007-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 177).(text: CR H2787)
 - 2007-03-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-04-19 — Cleared for White House.
+- 2007-04-19 — Passed Senate without amendment by Unanimous Consent.
+- 2007-04-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-04-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S4788)
+- 2007-04-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S4788)
+- 2007-04-20 — Message on Senate action sent to the House.
+- 2007-04-24 — Presented to President.
+- 2007-04-24 — Presented to President.
+- 2007-05-03 — Became Public Law No: 110-24.
+- 2007-05-03 — Became Public Law No: 110-24.
+- 2007-05-03 — Signed by President.
+- 2007-05-03 — Signed by President.
