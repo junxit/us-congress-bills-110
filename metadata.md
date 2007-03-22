@@ -1,7 +1,7 @@
 ---
 measure: H.R. 545
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 545
@@ -87,3 +87,7 @@ Native American Methamphetamine Enforcement and Treatment Act of 2007
 - 2007-03-21 — Placed on the Union Calendar, Calendar No. 34.
 - 2007-03-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-35, Part II.
 - 2007-03-21 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-35, Part II.
+- 2007-03-22 — Considered as unfinished business. (consideration: CR H2874)
+- 2007-03-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 183). (text: CR 3/21/2007 H2788-2789)
+- 2007-03-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 183).(text: CR 3/21/2007 H2788-2789)
