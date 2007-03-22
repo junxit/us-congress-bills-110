@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1401
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `49 U.S.C. § 114` | add-at-end | Section 114 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 46301` | add-at-end | Section 114 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 46301` | strike | Section 46301(a)(4) of title 49, United States Code, is amended by striking “or another requirement under this title administered by the Under Secretary of Transportation for Security”. | the bill quotes the text struck but describes what replaces it |
