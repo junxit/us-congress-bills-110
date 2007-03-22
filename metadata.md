@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1401
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1401
@@ -49,3 +49,12 @@ Rail and Public Transportation Security Act of 2007
 - 2007-03-08 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-03-08 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-03-08 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-03-09 — Referred to the Subcommittee on Highways and Transit.
+- 2007-03-09 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2007-03-13 — Committee Consideration and Mark-up Session Held.
+- 2007-03-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-22 — Committee on Transportation discharged.
+- 2007-03-22 — Committee on Transportation discharged.
+- 2007-03-22 — Placed on the Union Calendar, Calendar No. 36.
+- 2007-03-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-65, Part I.
+- 2007-03-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-65, Part I.
