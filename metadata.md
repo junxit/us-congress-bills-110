@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1284
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1284
@@ -33,9 +33,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2007
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2007
 - 2007-03-21 — Mr. Filner moved to suspend the rules and pass the bill.
 - 2007-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 176). (text: CR H2782)
 - 2007-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 176).(text: CR H2782)
+- 2007-03-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
