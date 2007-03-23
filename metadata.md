@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1227
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1227
@@ -20,10 +20,11 @@ Gulf Coast Hurricane Housing Recovery Act of 2007
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (8)
 
@@ -150,3 +151,4 @@ Gulf Coast Hurricane Housing Recovery Act of 2007
 - 2007-03-21 — The previous question was ordered pursuant to the rule. (consideration: CR H2765)
 - 2007-03-21 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2007-03-21 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words taken down. Subsequently, the words were reported to the Committee of the Whole and the Chair announced that the Committee would rise.
+- 2007-03-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
