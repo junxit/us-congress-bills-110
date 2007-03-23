@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1538
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 2 executed, 15 stated and not applied.
+24 amendatory instructions. 2 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -61,8 +61,15 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1222` | amend | The heading of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1222` | replace | The table of sections at the beginning of chapter 61 of such title is amended by striking the item relating to section 1222 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1222` | insert | in paragraph (2), by inserting after “(2)” the following new sentences: “The Secretary of Defense shall establish a standardized training program and curriculum for physical evaluation board liaison officers. Successful completion of the… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 1222` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1222` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 1216 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 1210(e) of title 10, United States Code, is amended by inserting “of a permanent nature and stable and is” after “physical disability is”. | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 490` | insert | Chapter 58 of title 10, United States Code, is amended by inserting after section 1142 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 490` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1142 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 490` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 490` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 490` | strike | Section 1142 of such title is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 490` | amend | The heading of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 490` | replace | The table of sections at the beginning of chapter 58 of such title is amended by striking the item relating to section 1142 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | add-at-end | Chapter 23 of title 10, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
