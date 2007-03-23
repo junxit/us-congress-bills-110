@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 78
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 78
@@ -16,10 +16,12 @@ A resolution designating April 2007 as "National Autism Awareness Month" and sup
 
 - Sen. Hagel, Chuck [R-NE] (H001028)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -29,3 +31,9 @@ A resolution designating April 2007 as "National Autism Awareness Month" and sup
 
 - 2007-02-13 — Introduced in Senate
 - 2007-02-13 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1922-1923)
+- 2007-03-01 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-01 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-03-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 62.
+- 2007-03-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3723; text as passed Senate: CR S3723)
+- 2007-03-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3723; text as passed Senate: CR S3723)
