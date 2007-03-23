@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 66
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 66
@@ -43,3 +43,6 @@ Permitting the use of the rotunda of the Capitol for a ceremony as part of the c
 - 2007-03-22 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 181). (text: CR 3/21/2007 H2793)
 - 2007-03-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 181).(text: CR 3/21/2007 H2793)
 - 2007-03-23 — Received in the Senate.
+- 2007-03-26 — Message on Senate action sent to the House.
+- 2007-03-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S3779)
+- 2007-03-26 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S3779)
