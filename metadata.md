@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1562
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1562
@@ -30,3 +30,8 @@ Katrina Housing Tax Relief Act of 2007
 - 2007-03-19 — Introduced in House
 - 2007-03-19 — Introduced in House
 - 2007-03-19 — Referred to the House Committee on Ways and Means.
+- 2007-03-21 — Committee Consideration and Mark-up Session Held.
+- 2007-03-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-23 — Placed on the Union Calendar, Calendar No. 37.
+- 2007-03-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-66.
+- 2007-03-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-66.
