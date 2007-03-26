@@ -16,7 +16,7 @@ Section 546 of title 28, United States Code, is amended by striking subsection (
 > - **(c)** A person appointed as United States attorney under this section may serve until the earlier of—
 >   - **(1)** the qualification of a United States attorney for such district appointed by the President under section 541 of this title; or
 >   - **(2)** the expiration of 120 days after appointment by the Attorney General under this section.
-> - **(d)** If an appointment expires under subsection (c)(2), the district court for such district may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.”.
+> - **(d)** If an appointment expires under subsection (c)(2), the district court for such district may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.
 > - **(e)** This section is the exclusive means for appointing a person to temporarily perform the functions of a United States attorney for a district in which the office of United States attorney is vacant.
 
 ## § 2. Applicability
