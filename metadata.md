@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1138
@@ -40,3 +40,15 @@ To designate the Federal building and United States courthouse located at 306 Ea
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-02-20 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-03-01 — Committee Consideration and Mark-up Session Held.
+- 2007-03-01 — Ordered to be Reported by Voice Vote.
+- 2007-03-26 — Considered under suspension of the rules. (consideration: CR H3023-3024)
+- 2007-03-26 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1138.
+- 2007-03-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-26 — Mr. Cohen moved to suspend the rules and pass the bill.
+- 2007-03-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3023)
+- 2007-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3023)
+- 2007-03-26 — Placed on the House Calendar, Calendar No. 31.
+- 2007-03-26 — Reported by the Committee on Transportation. H. Rept. 110-71.
+- 2007-03-26 — Reported by the Committee on Transportation. H. Rept. 110-71.
