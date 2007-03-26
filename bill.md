@@ -13,8 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Disadvantaged Business Disaster Eligibility Act”.
 
-## § 2. Extension of availability of disaster loans for victims of Hurricane Katrina
+## § 2. Extension of participation term for victims of Hurricane Katrina
 
-- **(a)** *Retroactivity* If a small business concern, while participating in any program or activity under the authority of paragraph (10) of section 7(j) of the Small Business Act (15 U.S.C. 636(j)), was located in a parish described in subsection (b) and was affected by Hurricane Katrina of 2005, the period during which the small business concern is permitted continuing participation and eligibility in such program or activity shall be extended for an additional 18 months.
-- **(b)** *Parishes covered* Subsection (a) applies to any parish in the State of Louisiana that has been designated by the Administrator of the Small Business Administration as a disaster area by reason of Hurricane Katrina under disaster declaration 10176 or 10177.
+- **(a)** *Retroactivity* If a small business concern, while participating in any program or activity under the authority of paragraph (10) of section 7(j) of the Small Business Act (15 U.S.C. 636(j)), was located in a parish or county described in subsection (b) and was affected by Hurricane Katrina of 2005, the period during which the small business concern is permitted continuing participation and eligibility in such program or activity shall be extended for an additional 18 months.
+- **(b)** *Parishes and Counties covered* Subsection (a) applies to any parish in the State of Louisiana, or any county in the State of Mississippi or in the State of Alabama, that has been designated by the Administrator of the Small Business Administration as a disaster area by reason of Hurricane Katrina under disaster declaration 10176, 10177, 10178, 10179, 10180, or 10181.
 - **(c)** *Review and compliance* The Administrator of the Small Business Administration shall ensure that the case of every small business concern participating before the date of the enactment of this Act in a program or activity covered by subsection (a) is reviewed and brought into compliance with this section.
