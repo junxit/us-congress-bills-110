@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 802
 
-> To amend the Act to Prevent Pollution from ships to implement MARPOL Annex VI.
+> To amend the Act to Prevent Pollution from Ships to implement MARPOL Annex VI.
 
 ## § 1. Short title
 
@@ -39,26 +39,30 @@ Section 3 (33 U.S.C. 1902) is amended—
   - **(B)** by striking the period at the end of paragraph (4) and inserting “; and”; and
   - **(C)** by adding at the end the following:
     > - **(5)** with respect to Annex VI to the Convention, and other than with respect to a ship referred to in paragraph (1)—
-    >   - **(A)** to a ship that is in the navigable waters of the United States;
+    >   - **(A)** to a ship that is in a port, shipyard, offshore terminal, or the internal waters of the United States;
     >   - **(B)** to a ship that is bound for, or departing from, a port, shipyard, offshore terminal, or the internal waters of the United States, and is in—
-    >     - **(i)** an emission control area designated pursuant to section 4; or
-    >     - **(ii)** any other area that the Administrator, in consultation with the Secretary, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
+    >     - **(i)** the navigable waters of the United States;
+    >     - **(ii)** an emission control area designated pursuant to section 4; or
+    >     - **(iii)** any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment;
     >   - **(C)** to a ship that is entitled to fly the flag of, or operating under the authority of, a party to Annex VI, and is in—
-    >     - **(i)** an emission control area designated under section 4; or
-    >     - **(ii)** any other area that the Administrator, in consultation with the Secretary, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment; and
+    >     - **(i)** the navigable waters of the United States;
+    >     - **(ii)** an emission control area designated under section 4; or
+    >     - **(iii)** any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment; and
     >   - **(D)** to the extent consistent with international law, to any other ship that is in—
     >     - **(i)** the exclusive economic zone of the United States;
-    >     - **(ii)** an emission control area designated under section 4; or
-    >     - **(iii)** any other area that the Administrator, in consultation with the Secretary, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment.
+    >     - **(ii)** the navigable waters of the United States;
+    >     - **(iii)** an emission control area designated under section 4; or
+    >     - **(iv)** any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment.
 
-- **(2)** in subsection (b)(1) by inserting “or (3)” after “paragraph (2)”;
-- **(3)** in subsection (b) by adding at the end the following:
-  > - **(3)** With respect to Annex VI the Administrator, or the Secretary, as relevant to their authorities pursuant to this Act, may determine that some or all of the requirements under this Act shall apply to one or more classes of public vessels, except that such a determination by the Administrator shall have no effect unless the head of the Department or agency under which the vessels operate concurs in the determination. This paragraph does not apply during time of war or during a declared national emergency.
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (1) by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
+  - **(B)** by adding at the end the following:
+    > - **(3)** With respect to Annex VI the Administrator, or the Secretary, as relevant to their authorities pursuant to this Act, may determine that some or all of the requirements under this Act shall apply to one or more classes of public vessels, except that such a determination by the Administrator shall have no effect unless the head of the Department or agency under which the vessels operate concurs in the determination. This paragraph does not apply during time of war or during a declared national emergency.
 
-- **(4)** by redesignating subsections (c) through (g) as subsections (d) through (h), respectively, and inserting after subsection (b) the following:
+- **(3)** by redesignating subsections (c) through (g) as subsections (d) through (h), respectively, and inserting after subsection (b) the following:
   > - **(c)** *Application to other persons* This Act shall apply to all persons to the extent necessary to ensure compliance with Annex VI to the Convention.
 
-- **(5)** in subsection (e), as redesignated—
+- **(4)** in subsection (e), as redesignated—
   - **(A)** by inserting “or the Administrator, consistent with section 4 of this Act,” after “Secretary”;
   - **(B)** by striking “of section (3)” and inserting “of this section”; and
   - **(C)** by striking “Protocol, including regulations conforming to and giving effect to the requirements of Annex V” and inserting “Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI”.
@@ -71,7 +75,7 @@ Section 4 (33 U.S.C. 1903) is amended—
   > - **(b)** *Duty of the Administrator* In addition to other duties specified in this Act, the Administrator and the Secretary, respectively, shall have the following duties and authorities:
   >   - **(1)** The Administrator shall, and no other person may, issue Engine International Air Pollution Prevention certificates in accordance with Annex VI and the International Maritime Organization’s Technical Code on Control of Emissions of Nitrogen Oxides from Marine Diesel Engines, on behalf of the United States for a vessel of the United States as that term is defined in section 116 of title 46, United States Code. The issuance of Engine International Air Pollution Prevention certificates shall be consistent with any applicable requirements of the Clean Air Act or regulations prescribed under that Act.
   >   - **(2)** The Administrator shall have authority to administer regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
-  >   - **(3)** The Secretary and the Administrator shall coordinate on the administration and enforcement of Annex VI to the Convention.
+  >   - **(3)** The Administrator shall, only as specified in section 8(f), have authority to enforce Annex VI of the Convention.
 
 - **(2)** in subsection (c), as redesignated, by redesignating paragraph (2) as paragraph (4), and inserting after paragraph (1) the following:
   > - **(2)** In addition to the authority the Secretary has to prescribe regulations under this Act, the Administrator shall also prescribe any necessary or desired regulations to carry out the provisions of regulations 12, 13, 14, 15, 16, 17, 18, and 19 of Annex VI to the Convention.
@@ -93,7 +97,7 @@ Section 5 (33 U.S.C. 1904) is amended—
 Section 6 (33 U.S.C. 1905) is amended—
 
 - **(1)** in subsection (a) by adding at the end the following:
-  > - **(3)** The Secretary or the Administrator, after consulting with appropriate Federal agencies, shall prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary or the Administrator may prescribe regulations to certify, and may issue certificates to the effect, that a port’s or terminal’s facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues from ships are adequate.
+  > - **(3)** The Secretary and the Administrator, after consulting with appropriate Federal agencies, shall jointly prescribe regulations setting criteria for determining the adequacy of reception facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues at a port or terminal, and stating any additional measures and requirements as are appropriate to ensure such adequacy. Persons in charge of ports and terminals shall provide reception facilities, or ensure that reception facilities are available, in accordance with those regulations. The Secretary and the Administrator may jointly prescribe regulations to certify, and may issue certificates to the effect, that a port’s or terminal’s facilities for receiving ozone depleting substances, equipment containing such substances, and exhaust gas cleaning residues from ships are adequate.
 
 - **(2)** in subsection (b) by inserting “or the Administrator” after “Secretary”;
 - **(3)** in subsection (e) by striking paragraph (2) and inserting the following:
