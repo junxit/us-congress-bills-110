@@ -1,7 +1,7 @@
 ---
 measure: S. 558
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+16 amendatory instructions. 0 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,6 +35,14 @@ complete account of the bill's effect, which it is not.
 | — | insert | Subpart 1 of part A of title XXVII of the Public Health Service Act is amended by inserting after section 2705 (42 U.S.C. 300gg–5) the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a) is amended by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 2705 of the Public Health Service Act (42 U.S.C. 300gg–5) is amended by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b), the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b), the following: | the bill names no machine-readable US Code section |
+| — | insert | Subpart B of part 7 of title I of the Employee Retirement Income Security Act of 1974 is amended by inserting after section 712 (29 U.S.C. 1185a) the following: | the bill names no machine-readable US Code section |
+| — | insert | Subpart 2 of part A of title XXVII of the Public Health Service Act is amended by inserting after section 2705 (42 U.S.C. 300gg-5) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 712 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185a) is amended by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 2705 of the Public Health Service Act (42 U.S.C. 300gg-5) is amended by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b), the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c) and (d) as subsections (e) and (f), respectively; and | the bill names no machine-readable US Code section |
