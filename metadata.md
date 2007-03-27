@@ -1,7 +1,7 @@
 ---
 measure: H.R. 137
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 137
@@ -359,3 +359,4 @@ Animal Fighting Prohibition Enforcement Act of 2007
 - 2007-03-26 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
 - 2007-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 39 (Roll no. 188). (text: CR H3031)
 - 2007-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 39 (Roll no. 188).(text: CR H3031)
+- 2007-03-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
