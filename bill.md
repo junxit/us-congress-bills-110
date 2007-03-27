@@ -101,12 +101,12 @@ Section 1213 of the Public Health Service Act (42 U.S.C. 300d–13) is amended t
 > - **(a)** *Trauma care modifications to state plan for emergency medical services* With respect to the trauma care component of a State plan for the provision of emergency medical services, the modifications referred to in section 1211(b) are such modifications to the State plan as may be necessary for the State involved to ensure that the plan provides for access to the highest possible quality of trauma care, and that the plan—
 >   - **(1)** specifies that the modifications required pursuant to paragraphs (2) through (11) will be implemented by the principal State agency with respect to emergency medical services or by the designee of such agency;
 >   - **(2)** specifies a public or private entity that will designate trauma care regions and trauma centers in the State;
->   - **(3)** subject to subsection (b), contains national standards and requirements of the American College of Surgeons or another appropriate entity for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in the care of pediatric trauma patient), by such entity, including standards and requirements for—
+>   - **(3)** subject to subsection (b), contains national standards and requirements of the American College of Surgeons or another appropriate entity for the designation of level I and level II trauma centers, and in the case of rural areas level III trauma centers (including trauma centers with specified capabilities and expertise in the care of pediatric trauma patients), by such entity, including standards and requirements for—
 >     - **(A)** the number and types of trauma patients for whom such centers must provide care in order to ensure that such centers will have sufficient experience and expertise to be able to provide quality care for victims of injury;
 >     - **(B)** the resources and equipment needed by such centers; and
 >     - **(C)** the availability of rehabilitation services for trauma patients;
 >   - **(4)** contains standards and requirements for the implementation of regional trauma care systems, including standards and guidelines (consistent with the provisions of section 1867 of the Social Security Act) for medically directed triage and transportation of trauma patients (including patients injured in rural areas) prior to care in designated trauma centers;
->   - **(5)** subject to subsection (b), contains national standards and requirements, including those of the American Academy of Pediatrics and the American College of Emergency Physicians, for medically directed triage and transport of severely injured children to designated trauma centers with specified capabilities and expertise in the care of the pediatric trauma patient;
+>   - **(5)** subject to subsection (b), contains national standards and requirements, including those of the American Academy of Pediatrics and the American College of Emergency Physicians, for medically directed triage and transport of severely injured children to designated trauma centers with specified capabilities and expertise in the care of pediatric trauma patients;
 >   - **(6)** utilizes a program with procedures for the evaluation of designated trauma centers (including trauma centers described in paragraph (5)) and trauma care systems;
 >   - **(7)** provides for the establishment and collection of data in accordance with data collection requirements developed in consultation with surgical, medical, and nursing specialty groups, State and local emergency medical services directors, and other trained professionals in trauma care, from each designated trauma center in the State of a central data reporting and analysis system—
 >     - **(A)** to identify the number of severely injured trauma patients and the number of deaths from trauma within trauma care systems in the State;
@@ -122,10 +122,10 @@ Section 1213 of the Public Health Service Act (42 U.S.C. 300d–13) is amended t
 >   - **(12)** with respect to the requirements established in this subsection, provides for coordination and cooperation between the State and any other State with which the State shares any standard metropolitan statistical area.
 > - **(b)** *Certain standards with respect to trauma care centers and systems*
 >   - **(1)** *In general* The Secretary may not make payments under section 1211(a) for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a), the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies, and that the State will, in adopting such standards—
->     - **(A)** take into account national standards concerning that outline resources for optimal care of the injured patient;
->     - **(B)** consult with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State and local directors, concerned advocates and other interested parties;
+>     - **(A)** take into account national standards that outline resources for optimal care of injured patients;
+>     - **(B)** consult with medical, surgical, and nursing speciality groups, hospital associations, emergency medical services State and local directors, concerned advocates, and other interested parties;
 >     - **(C)** conduct hearings on the proposed standards after providing adequate notice to the public concerning such hearing; and
->     - **(D)** beginning in fiscal year 2007, take into account the model plan described in subsection (c).
+>     - **(D)** beginning in fiscal year 2008, take into account the model plan described in subsection (c).
 >   - **(2)** *Quality of trauma care* The highest quality of trauma care shall be the primary goal of State standards adopted under this subsection.
 >   - **(3)** *Approval by the secretary* The Secretary may not make payments under section 1211(a) to a State if the Secretary determines that—
 >     - **(A)** in the case of payments for fiscal year 2008 and subsequent fiscal years, the State has not taken into account national standards, including those of the American College of Surgeons, the American College of Emergency Physicians, and the American Academy of Pediatrics, in adopting standards under this subsection; or
@@ -153,7 +153,7 @@ Section 1214 of the Public Health Service Act (42 U.S.C. 300d–14) is amended t
 >     - **(A)** there is no system of access to emergency medical services through the telephone number 911;
 >     - **(B)** there is no basic life-support system; or
 >     - **(C)** there is no advanced life-support system; and
->   - **(2)** the State submits to the Secretary a list of rural areas identified pursuant to subparagraph (A) or, if there are no such areas, a statement that there are no such areas.
+>   - **(2)** the State submits to the Secretary a list of rural areas identified pursuant to paragraph (1) or, if there are no such areas, a statement that there are no such areas.
 
 ## § 9. Restrictions on use of payments
 
@@ -167,7 +167,7 @@ Section 1215 of the Public Health Service Act (42 U.S.C. 300d–15) is amended t
 >   - **(3)** to purchase or improve real property (other than minor remodeling of existing improvements to real property);
 >   - **(4)** to satisfy any requirement for the expenditure of non-Federal funds as a condition for the receipt of Federal funds; or
 >   - **(5)** to provide financial assistance to any entity other than a public or nonprofit private entity.
-> - **(b)** *Waiver* The Secretary may waive a restriction under subsection (a) only if the Secretary determines that the activities outlined by the State plan submitted under section 1214(a)(1) by the State involved cannot otherwise be carried out.
+> - **(b)** *Waiver* The Secretary may waive a restriction under subsection (a) only if the Secretary determines that the activities outlined by the State plan submitted under section 1214(a) by the State involved cannot otherwise be carried out.
 
 ## § 10. Requirements of reports by States
 
@@ -187,38 +187,22 @@ Section 1232 of the Public Health Service Act (42 U.S.C. 300d–32) is amended t
 
 > ## § 1232. Funding
 >
-> - **(a)** *Authorization of Appropriations* For the purpose of carrying out parts A and B, there are authorized to be appropriated $12,000,000 for fiscal year 2008, $10,000,000 for fiscal year 2009, and $8,000,000 for each of the fiscal years 2010 through 2012.
-> - **(b)** *Reservation of funds* If the amount appropriated under subsection (a) for a fiscal year is equal to or less than $1,000,000, such appropriation is available only for making grants under part A. If the amount so appropriated is greater than $1,000,000, 50 percent of such appropriation shall be made available for grants under part A and 50 percent shall be made available for grants under part B.
-> - **(c)** *Allocation of funds by secretary*
->   - **(1)** *General authority* For the purpose of carrying out part A, the Secretary shall make available 10 percent of the amounts appropriated for a fiscal year under subsection (a).
->   - **(2)** *Rural grants* For the purpose of carrying out section 1202, the Secretary shall make available 10 percent of the amounts appropriated for a fiscal year under subsection (a).
+> - **(a)** *Authorization of Appropriations* For the purpose of carrying out parts A and B, subject to subsections (b) and (c), there are authorized to be appropriated $12,000,000 for fiscal year 2008, $10,000,000 for fiscal year 2009, and $8,000,000 for each of the fiscal years 2010 through 2012.
+> - **(b)** *Reservation of funds* If the amount appropriated under subsection (a) for a fiscal year is equal to or less than $1,000,000, such appropriation is available only for the purpose of carrying out part A. If the amount so appropriated is greater than $1,000,000, 50 percent of such appropriation shall be made available for the purpose of carrying out part A and 50 percent shall be made available for the purpose of carrying out part B.
+> - **(c)** *Allocation of part A funds* Of the amounts appropriated under subsection (a) for a fiscal year to carry out part A—
+>   - **(1)** 10 percent of such amounts for such year shall be allocated for administrative purposes; and
+>   - **(2)** 10 percent of such amounts for such year shall be allocated for the purpose of carrying out section 1202.
 
-## § 13. Institute of Medicine study
-
-Part E of title XII of the Public Health Service Act (20 U.S.C. 300d–51 et seq.) is amended by adding at the end the following:
-
-> ## § 1254. Institute of Medicine study
->
-> - **(a)** *In General* The Secretary shall enter into a contract with the Institute of Medicine of the National Academy of Sciences, or another appropriate entity, to conduct a study on the state of trauma care and trauma research.
-> - **(b)** *Content* The study conducted under subsection (a) shall—
->   - **(1)** examine and evaluate the state of trauma care and trauma systems research (including the role of Federal entities in trauma research) on the date of enactment of this section, and identify trauma research priorities;
->   - **(2)** examine and evaluate the clinical effectiveness of trauma care and the impact of trauma care on patient outcomes, with special attention to high-risk groups, such as children, the elderly, and individuals in rural areas;
->   - **(3)** examine and evaluate trauma systems development and identify obstacles that prevent or hinder the effectiveness of trauma systems and trauma systems development;
->   - **(4)** examine and evaluate alternative strategies for the organization, financing, and delivery of trauma care within an overall systems approach; and
->   - **(5)** examine and evaluate the role of trauma systems and trauma centers in preparedness for mass casualties.
-> - **(c)** *Report* Not later than 2 years after the date of enactment of this section, the Secretary shall submit to the appropriate committees of Congress a report containing the results of the study conducted under this section.
-> - **(d)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $750,000 for fiscal year 2008.
-
-## § 14. Residency training programs in emergency medicine
+## § 13. Residency training programs in emergency medicine
 
 Section 1251 of the Public Health Service Act (42 U.S.C. 300d–51) is amended to read as follows:
 
 > ## § 1251. Residency training programs in emergency medicine
 >
 > - **(a)** *In general* The Secretary may make grants to public and nonprofit private entities for the purpose of planning and developing approved residency training programs in emergency medicine.
-> - **(b)** *Identification and referral of domestic violence* The Secretary may make a grant under subsection (a) only in the applicant involved agrees that the training programs under subsection (a) will provide education and training in identifying and referring cases of domestic violence.
+> - **(b)** *Identification and referral of domestic violence* The Secretary may make a grant under subsection (a) only if the applicant involved agrees that the training programs under subsection (a) will provide education and training in identifying and referring cases of domestic violence.
 > - **(c)** *Authorization of appropriations* For the purpose of carrying out this section, there is authorized to be appropriated $400,000 for each of the fiscal years 2008 though 2012.
 
-## § 15. State grants for certain projects
+## § 14. State grants for certain projects
 
 Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended in the section heading by striking “demonstration”.
