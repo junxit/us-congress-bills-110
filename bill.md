@@ -22,27 +22,33 @@ Title XV of the Public Health Service Act (42 U.S.C. 300k et seq.) is amended—
   - **(B)** by striking “by the year 2000” and inserting “by the year 2020”;
 - **(2)** in section 1503, by adding at the end the following:
   > - **(d)** *Waiver of Services Requirement on Division of Funds*
-  >   - **(1)** *In general* The Secretary shall establish a demonstration project under which the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may waive the requirements of paragraphs (1) and (4) of subsection (a) for not more than 5 States, if—
-  >     - **(A)**
-  >       - **(i)** the State involved will use the waiver to leverage private funds to supplement each of the services or activities described in paragraphs (1) and (2) of section 1501(a); or
-  >       - **(ii)** the application of such requirement would result in a barrier to the enrollment of qualifying women;
-  >     - **(B)** the State involved provides assurances that the State will, on an annual basis, demonstrate to the Secretary the manner in which the State will use such waiver to maintain or expand the level of screening and follow-up services provided immediately prior to the waiver, and provide documentation of compliance with such maintenance or expansion requirement;
-  >     - **(C)** the State involved submits to the Secretary a plan for maintaining the level of activities carried out under the waiver after the expiration of the waiver;
-  >     - **(D)** the Secretary finds that granting such a waiver to a State will not reduce the number of women in the State that receive each of the services or activities described in paragraphs (1) and (2) of section 1501(a), including making available screening procedures for both breast and cervical cancers; and
-  >     - **(E)** the Secretary finds that granting such a waiver to a State will not adversely affect the quality of each of the services or activities described in paragraphs (1) and (2) of section 1501(a).
+  >   - **(1)** *In general* The Secretary shall establish a demonstration project under which the Secretary may waive the requirements of paragraphs (1) and (4) of subsection (a) for not more than 5 States, if—
+  >     - **(A)** the State involved will use the waiver to leverage non-Federal funds to supplement each of the services or activities described in paragraphs (1) and (2) of section 1501(a);
+  >     - **(B)** the application of such requirement would result in a barrier to the enrollment of qualifying women;
+  >     - **(C)** the State involved—
+  >       - **(i)** demonstrates, to the satisfaction of the Secretary, the manner in which the State will use such waiver to expand the level of screening and follow-up services provided immediately prior to the date on which the waiver is granted; and
+  >       - **(ii)** provides assurances, satisfactory to the Secretary, that the State will, on an annual basis, demonstrate, through such documentation as the Secretary may require, that the State has used such waiver as described in clause (i);
+  >     - **(D)** the State involved submits to the Secretary—
+  >       - **(i)** assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 1501(a) for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
+  >         - **(I)** the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
+  >         - **(II)** at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
+  >       - **(ii)** a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
+  >     - **(E)** the Secretary finds that granting such a waiver to a State will increase the number of women in the State that receive each of the services or activities described in paragraphs (1) and (2) of section 1501(a), including making available screening procedures for both breast and cervical cancers; and
+  >     - **(F)** the Secretary finds that granting such a waiver to a State will not adversely affect the quality of each of the services or activities described in paragraphs (1) and (2) of section 1501(a).
   >   - **(2)** *Duration of waiver*
   >     - **(A)** *In general* In granting waivers under paragraph (1), the Secretary—
-  >       - **(i)** shall grant such waivers for a period of 2 years; and
-  >       - **(ii)** upon request of a State, may extend a waiver for an additional 2-year period in accordance with subparagraph (B).
-  >     - **(B)** *Additional period* The Secretary, upon the request of a State that has received a waiver under paragraph (1), shall, at the end of the 2-year waiver period described in subparagraph (A), review performance under the waiver and may extend the waiver for an additional 2-year period if the Secretary determines that—
-  >       - **(i)**
-  >         - **(I)** without an extension of the waiver, there will be a barrier to the enrollment of qualifying women; or
-  >         - **(II)** the State requesting such extended waiver will use the waiver to leverage private funds to supplement the services or activities described in paragraphs (1) and (2) of section 1501(a);
-  >       - **(ii)** the waiver has not, and will not, reduce the number of women in the State that receive the services or activities described in paragraphs (1) and (2) of section 1501(a);
-  >       - **(iii)** the waiver has not, and will not, result in lower quality in the State of the services or activities described in paragraphs (1) and (2) of section 1501(a); and
-  >       - **(iv)** the State has maintained the average annual level of State fiscal expenditures for the services and activities described in paragraphs (1) and (2) of section 1501(a) for the 2 years for which the waiver was granted at a level that is not less than the level of the State fiscal expenditures for such services and activities for the year preceding the first year for which the waiver is granted.
+  >       - **(i)** shall grant such waivers for a period that is not less than 1 year but not more than 2 years; and
+  >       - **(ii)** upon request of a State, may extend a waiver for an additional period that is not less than 1 year but not more than 2 years in accordance with subparagraph (B).
+  >     - **(B)** *Additional period* The Secretary, upon the request of a State that has received a waiver under paragraph (1), shall, at the end of the waiver period described in subparagraph (A)(i), review performance under the waiver and may extend the waiver for an additional period if the Secretary determines that—
+  >       - **(i)** without an extension of the waiver, there will be a barrier to the enrollment of qualifying women;
+  >       - **(ii)** the State requesting such extended waiver will use the waiver to leverage non-Federal funds to supplement the services or activities described in paragraphs (1) and (2) of section 1501(a);
+  >       - **(iii)** the waiver has increased, and will continue to increase, the number of women in the State that receive the services or activities described in paragraphs (1) and (2) of section 1501(a);
+  >       - **(iv)** the waiver has not, and will not, result in lower quality in the State of the services or activities described in paragraphs (1) and (2) of section 1501(a); and
+  >       - **(v)** the State has maintained the average annual level of State fiscal expenditures for the services and activities described in paragraphs (1) and (2) of section 1501(a) for the period for which the waiver was granted at a level that is not less than—
+  >         - **(I)** the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
+  >         - **(II)** at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted.
   >   - **(3)** *Reporting requirements* The Secretary shall include as part of the evaluations and reports required under section 1508, the following:
-  >     - **(A)** A description of the total amount of dollars leveraged annually from private entities in States receiving a waiver under paragraph (1) and how these amounts were used.
+  >     - **(A)** A description of the total amount of dollars leveraged annually from Non-Federal entities in States receiving a waiver under paragraph (1) and how these amounts were used.
   >     - **(B)** With respect to States receiving a waiver under paragraph (1), a description of the percentage of the grant that is expended on providing each of the services or activities described in—
   >       - **(i)** paragraphs (1) and (2) of section 1501(a); and
   >       - **(ii)** paragraphs (3) through (6) of section 1501(a).
@@ -55,10 +61,10 @@ Title XV of the Public Health Service Act (42 U.S.C. 300k et seq.) is amended—
   >     - **(A)** *Indian tribe* The term Indian tribe has the meaning given the term in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603).
   >     - **(B)** *Tribal organization* The term tribal organization has the meaning given the term in section 4 of the Indian Health Care Improvement Act.
   >     - **(C)** *State* The term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
+  >   - **(6)** *Sunset* The Secretary may not grant a waiver or extension under this subsection after September 30, 2012.
 
 - **(3)** in section 1508—
-  - **(A)** in subsection (a), by striking “evaluations of the extent to which” and all that follows through the period and inserting:
-    > evaluations of—
+  - **(A)** in subsection (a), by striking “evaluations of the extent to which” and all that follows through the period and inserting: “evaluations of—
     > - **(1)** the extent to which States carrying out such programs are in compliance with section 1501(a)(2) and with section 1504(c); and
     > - **(2)** the extent to which each State receiving a grant under this title is in compliance with section 1502, including identification of—
     >   - **(A)** the amount of the non-Federal contributions by the State for the preceding fiscal year, disaggregated according to the source of the contributions; and

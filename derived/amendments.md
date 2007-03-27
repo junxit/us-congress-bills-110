@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -61,6 +61,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `25 U.S.C. § 1603` | add-at-end | in section 1503, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300k` | replace | in subsection (a), by striking “evaluations of the extent to which” and all that follows through the period and inserting: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300k` | replace | in subsection (a), by striking “evaluations of the extent to which” and all that follows through the period and inserting: “evaluations of— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300k` | strike | by striking “and” after “$150,000,000 for fiscal year 1994,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300k` | insert | by inserting “, $225,000,000 for fiscal year 2008, $245,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $255,000,000 for fiscal year 2011, and $275,000,000 for fiscal year 2012” before the period at the end. | the bill quotes the text inserted but describes where it goes |
