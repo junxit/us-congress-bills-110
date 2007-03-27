@@ -1,7 +1,7 @@
 ---
 measure: S. 474
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 474
@@ -90,9 +90,10 @@ A bill to award a congressional gold medal to Michael Ellis DeBakey, M.D.
 - Sen. Conrad, Kent [D-ND] (C000705)
 - Sen. Coburn, Tom [R-OK] (C000560)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -106,3 +107,16 @@ A bill to award a congressional gold medal to Michael Ellis DeBakey, M.D.
 - 2007-03-27 — Referred to the House Committee on Financial Services.
 - 2007-03-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S3982-3983)
 - 2007-03-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S3982-3983)
+- 2007-10-02 — Cleared for White House.
+- 2007-10-02 — Considered under suspension of the rules. (consideration: CR H11078-11081)
+- 2007-10-02 — DEBATE - The House proceeded with forty minutes of debate on S. 474.
+- 2007-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-02 — Mr. Green, Al moved to suspend the rules and pass the bill.
+- 2007-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11078)
+- 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11078)
+- 2007-10-04 — Presented to President.
+- 2007-10-04 — Presented to President.
+- 2007-10-16 — Became Public Law No: 110-95.
+- 2007-10-16 — Became Public Law No: 110-95.
+- 2007-10-16 — Signed by President.
+- 2007-10-16 — Signed by President.
