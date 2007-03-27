@@ -1,0 +1,16 @@
+---
+legis-num: H. RES. 275
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 275
+
+> Providing for consideration of the concurrent resolution (H. Con. Res. 99) revising the congressional budget for the United States Government for fiscal year 2007, establishing the congressional budget for the United States Government for fiscal year 2008, and setting forth appropriate budgetary levels for fiscal years 2009 through 2012.
+
+That at any time after the adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the concurrent resolution (H. Con. Res. 99) revising the congressional budget for the United States Government for fiscal year 2007, establishing the congressional budget for the United States Government for fiscal year 2008, and setting forth appropriate budgetary levels for fiscal years 2009 through 2012. The first reading of the concurrent resolution shall be dispensed with. All points of order against consideration of the concurrent resolution shall be dispensed with. All points of order against consideration of the concurrent resolution are waived. General debate shall not exceed four hours, with three hours confined to the congressional budget equally divided and controlled by the chairman and ranking minority member of the Committee on the Budget and one hour on the subject of economic goals and policies equally divided and controlled by Representative Maloney of New York and Representative Saxton of New Jersey or their designees. After general debate the concurrent resolution shall be considered for amendment under the five-minute rule. The concurrent resolution shall be considered as read. No amendment shall be in order except those printed in the report of the Committee on Rules accompanying this resolution. Each amendment may be offered only in the order printed in the report, may be offered only by a Member designated in the report, shall be considered as read, shall be debatable for the time specified in the report, and shall not be subject to amendment. All points of order against the amendments printed in the report are waived except that the adoption of an amendment in the nature of a substitute shall constitute the conclusion of consideration of the concurrent resolution for amendment. After the conclusion of consideration of the concurrent resolution for amendment, the Committee shall rise and report the concurrent resolution to the House with such amendment as may have been adopted. The previous question shall be considered as ordered on the concurrent resolution and amendments thereto to final adoption without intervening motion except amendments offered by the chairman of the Committee on the Budget pursuant to section 305(a)(5) of the Congressional Budget Act of 1974 to achieve mathematical consistency. The concurrent resolution shall not be subject to a demand for division of the question of its adoption.
+
+## § 2.
+
+During consideration in the House of House Concurrent Resolution 99 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the concurrent resolution to such time as may be designated by the Speaker.
