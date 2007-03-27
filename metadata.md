@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1138
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1138
@@ -31,9 +31,10 @@ To designate the Federal building and United States courthouse located at 306 Ea
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 - Rep. Shuler, Heath [D-NC-11] (S001171)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the Federal building and United States courthouse located at 306 Ea
 - 2007-03-26 — Placed on the House Calendar, Calendar No. 31.
 - 2007-03-26 — Reported by the Committee on Transportation. H. Rept. 110-71.
 - 2007-03-26 — Reported by the Committee on Transportation. H. Rept. 110-71.
+- 2007-03-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
