@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Rail and Public Transportation Security Act of 2007”.
-- **(b)** *Table of contents*
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Definitions
 
@@ -24,7 +24,7 @@ In this Act, the following definitions apply:
   - **(B)** organizations representing providers of covered transportation;
   - **(C)** nonprofit employee labor organizations representing railroad, public transportation, or over-the-road bus workers;
   - **(D)** shippers of hazardous material;
-  - **(E)** manufacturers of railroad and transit cars;
+  - **(E)** manufacturers of railroad cars, public transportation cars and buses, and over-the-road buses;
   - **(F)** State departments of transportation, regional agencies, and metropolitan planning organizations;
   - **(G)** public safety officials;
   - **(H)** law enforcement and fire service officials; and
@@ -34,7 +34,7 @@ In this Act, the following definitions apply:
 - **(5)** *Designated recipient* The term “designated recipient” has the meaning that the term has in section 5307(a) of title 49, United States Code.
 - **(6)** *Provider of covered transportation* The term “provider of covered transportation” means—
   - **(A)** with respect to transportation provided by a railroad carrier, the railroad carrier;
-  - **(B)** with respect to public transportation, the public transportation designated recipient providing the transportation; and
+  - **(B)** with respect to public transportation, the designated recipient; and
   - **(C)** with respect to transportation provided by an over-the-road bus, the private operator.
 - **(7)** *Over-the-road bus* The term “over-the-road bus” means a bus characterized by an elevated passenger deck located over a baggage compartment.
 - **(8)** *Public transportation* The term “public transportation” has the meaning that term has in section 5302(a) of title 49, United States Code.
@@ -43,7 +43,12 @@ In this Act, the following definitions apply:
 - **(11)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
 - **(12)** *State* The term “State” means any one of the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
 - **(13)** *Terrorism* The term “terrorism” has the meaning that term has in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101).
-- **(14)** *Transportation* The term “transportation”, as used with respect to an over-the-road-bus, means the movement of passengers or property by an over-the-road-bus.
+- **(14)** *Transportation* The term “transportation”, as used with respect to an over-the-road-bus, means the movement of passengers or property by an over-the-road-bus—
   - **(A)** in the jurisdiction of the United States between a place in a State and a place outside the State (including a place outside the United States); or
   - **(B)** in a State that affects trade, traffic, and transportation described in subparagraph (A).
 - **(15)** *United States* The term “United States” means the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
+
+## § 3. No preemption of State law
+
+- **(a)** *No preemption of State law* Nothing in section 20106 of title 49, United States Code, preempts a State cause of action, or any damages recoverable in such an action, including negligence, recklessness, and intentional misconduct claims, unless compliance with State law would make compliance with Federal requirements impossible. Nothing in section 20106 of title 49, United States Code, confers Federal jurisdiction of a question for such a cause of action.
+- **(b)** *Secretarial power* Section 20106 of title 49, United States Code, preempts only positive laws, regulations, or orders by executive or legislative branch officials that expressly address railroad safety or security. The Secretary and the Secretary of Transportation have the power to preempt such positive enactments by substantially subsuming the same subject matter, pursuant to proper administrative procedures.
