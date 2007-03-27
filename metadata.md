@@ -1,7 +1,7 @@
 ---
 measure: S. 558
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 558
@@ -16,7 +16,7 @@ Mental Health Parity Act of 2007
 
 - Sen. Domenici, Pete V. [R-NM] (D000407)
 
-## Cosponsors (21)
+## Cosponsors (42)
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 - Sen. Enzi, Michael B. [R-WY] (E000285)
@@ -39,8 +39,37 @@ Mental Health Parity Act of 2007
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+
+## Committees (1)
+
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
 - 2007-02-12 — Introduced in Senate
 - 2007-02-12 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S1865-1867)
+- 2007-02-14 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment favorably.
+- 2007-03-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-03-27 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-03-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 93.
