@@ -1,7 +1,7 @@
 ---
 measure: H.R. 753
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 753
@@ -50,3 +50,13 @@ To redesignate the Federal building located at 167 North Main Street in Memphis,
 - 2007-03-26 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-72.
 - 2007-03-26 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-72.
 - 2007-03-27 — Received in the Senate, read twice.
+- 2007-04-10 — Cleared for White House.
+- 2007-04-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4316-4317)
+- 2007-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4316-4317)
+- 2007-04-11 — Message on Senate action sent to the House.
+- 2007-04-24 — Presented to President.
+- 2007-04-24 — Presented to President.
+- 2007-05-02 — Became Public Law No: 110-20.
+- 2007-05-02 — Became Public Law No: 110-20.
+- 2007-05-02 — Signed by President.
+- 2007-05-02 — Signed by President.
