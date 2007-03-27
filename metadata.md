@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1562
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1562
@@ -35,3 +35,9 @@ Katrina Housing Tax Relief Act of 2007
 - 2007-03-23 — Placed on the Union Calendar, Calendar No. 37.
 - 2007-03-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-66.
 - 2007-03-23 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-66.
+- 2007-03-27 — Considered under suspension of the rules. (consideration: CR H3150-3153)
+- 2007-03-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1562.
+- 2007-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-27 — Mr. Rangel moved to suspend the rules and pass the bill, as amended.
+- 2007-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3150)
+- 2007-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3150)
