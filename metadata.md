@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1195
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1195
@@ -22,9 +22,10 @@ SAFETEA-LU Technical Corrections Act of 2008
 - Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ SAFETEA-LU Technical Corrections Act of 2008
 - 2007-03-26 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2007-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3041-3050)
 - 2007-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3041-3050)
+- 2007-03-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
