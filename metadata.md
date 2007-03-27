@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 266
 congress: 110
-version: Agreed to House
+version: Engrossed in House
 ---
 
 # H.Res. 266
@@ -38,3 +38,7 @@ Supporting the goals and ideals of Professional Social Work Month and World Soci
 - 2007-03-26 — Introduced in House
 - 2007-03-26 — Ms. Shea-Porter moved to suspend the rules and agree to the resolution.
 - 2007-03-26 — Referred to the House Committee on Education and Labor.
+- 2007-03-27 — Considered as unfinished business. (consideration: CR H3098-3099)
+- 2007-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-03-27 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 193). (text: CR 3/26/2007 H3028)
+- 2007-03-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 2 (Roll no. 193).(text: CR 3/26/2007 H3028)
