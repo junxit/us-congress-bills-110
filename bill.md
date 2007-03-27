@@ -2,7 +2,7 @@
 legis-num: H. RES. 266
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 266
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas social workers are positive and compassionate professionals;
 - Whereas social workers stand up for others to make sure everyone has access to the same basic rights, protections, and opportunities;
 - Whereas social workers have been the driving force behind important social movements in the United States and abroad; and
-- Whereas Professional Social Work Month, and World Social Work Day, which is March 27, 2007, will build awareness of the role of professional social workers and their commitment and dedication to individuals, families, and communities everywhere through service delivery, research, education, and legislative advocacy: Now, therefore, be it
+- Whereas Professional Social Work Month, and World Social Work Day, which is March 27, 2007, will build awareness of the role of professional social workers and their commitment and dedication to individuals, families, and communities everywhere though service delivery, research, education, and legislative advocacy: Now, therefore, be it
 
 That the House of Representatives—
 
