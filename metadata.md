@@ -1,7 +1,7 @@
 ---
 measure: H.R. 238
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 238
@@ -20,9 +20,10 @@ To repeal a prohibition on the use of certain funds for tunneling in certain are
 
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ To repeal a prohibition on the use of certain funds for tunneling in certain are
 - 2007-02-07 — Mr. Oberstar moved to suspend the rules and pass the bill.
 - 2007-02-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1300-1301)
 - 2007-02-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1300-1301)
+- 2007-02-08 — Received in the Senate.
+- 2007-03-27 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
