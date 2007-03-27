@@ -1,7 +1,7 @@
 ---
 measure: H.R. 137
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 137
@@ -360,3 +360,13 @@ Animal Fighting Prohibition Enforcement Act of 2007
 - 2007-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 39 (Roll no. 188). (text: CR H3031)
 - 2007-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 39 (Roll no. 188).(text: CR H3031)
 - 2007-03-27 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
+- 2007-04-10 — Cleared for White House.
+- 2007-04-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4317)
+- 2007-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4317)
+- 2007-04-11 — Message on Senate action sent to the House.
+- 2007-04-24 — Presented to President.
+- 2007-04-24 — Presented to President.
+- 2007-05-03 — Became Public Law No: 110-22.
+- 2007-05-03 — Became Public Law No: 110-22.
+- 2007-05-03 — Signed by President.
+- 2007-05-03 — Signed by President.

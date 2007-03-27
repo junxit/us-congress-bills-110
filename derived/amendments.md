@@ -1,7 +1,7 @@
 ---
 measure: H.R. 137
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -56,4 +56,4 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 2156` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2156` | strike | in paragraph (1), by striking “or animals, such as waterfowl, bird, raccoon, or fox hunting”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2156` | replace | by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2156` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 49` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
