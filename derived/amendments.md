@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `or housing entity` |
 | Inserted | `, housing entity, or the Department of Hawaiian Home Lands` |
 
-### 25 U.S.C. § 4195
+### 25 U.S.C. § 4191
 
 > In section 605(b) (25 U.S.C. 4195(b)), by striking “1997 through 2007” and inserting “2008 through 2012”.
 
