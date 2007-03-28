@@ -1,7 +1,7 @@
 ---
 measure: H.R. 477
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 241` | add-at-end | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300d-51` | amend | Section 1251 of the Public Health Service Act (42 U.S.C. 300d–51) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254b` | insert | Part D of title III of the Public Health Service Act (42 U.S.C. 254b et seq.) is amended by inserting after section 330L the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title III of the Public Health Service Act (42 U.S.C. 241 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1251 of the Public Health Service Act (42 U.S.C. 300d–51) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Part D of title III of the Public Health Service Act (42 U.S.C. 254b et seq.) is amended by inserting after section 330L the following: | the bill names no machine-readable US Code section |
