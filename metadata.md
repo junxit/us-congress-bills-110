@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 114
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 114
@@ -28,3 +28,7 @@ A resolution recognizing the contributions of agricultural producers in Pennsylv
 
 - 2007-03-21 — Introduced in Senate
 - 2007-03-21 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text of measure as introduced: CR S3532)
+- 2007-03-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4078; text as passed Senate: CR S4078)
+- 2007-03-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4078; text as passed Senate: CR S4078)
+- 2007-03-28 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
+- 2007-03-28 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
