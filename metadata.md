@@ -1,7 +1,7 @@
 ---
 measure: H.R. 477
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 477
@@ -108,9 +108,10 @@ Stroke Treatment and Ongoing Prevention Act
 - Rep. Jindal, Bobby [R-LA-1] (J000287)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -131,3 +132,4 @@ Stroke Treatment and Ongoing Prevention Act
 - 2007-03-27 — Placed on the Union Calendar, Calendar No. 41.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-75.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-75.
+- 2007-03-28 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
