@@ -1,7 +1,7 @@
 ---
 measure: H.R. 802
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 10 executed, 25 stated and not applied.
+35 amendatory instructions. 9 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,15 +96,6 @@ to guess them.
 | Removed | `environment.` |
 | Inserted | `environment or the public health and welfare.` |
 
-### 33 U.S.C. § 1905
-
-> in subsection (f)(1) by striking “Secretary is” and inserting “Secretary and the Administrator are”; and
-
-| | |
-|---|---|
-| Removed | `Secretary is` |
-| Inserted | `Secretary and the Administrator are` |
-
 ### 33 U.S.C. § 1908
 
 > by striking “Protocol,,” each place it appears and inserting “Protocol,”;
@@ -128,23 +119,24 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1901` | redesignate | by redesignating paragraphs (7) through (13) (as redesignated) as paragraphs (8) through (14), respectively, and inserting after paragraph (6) (as redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1902` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1902` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1902` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1902` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1902` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | redesignate | by redesignating subsections (c) through (g) as subsections (d) through (h), respectively, and inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | insert | by inserting “or the Administrator, consistent with section 4 of this Act,” after “Secretary”; | the bill quotes the text inserted but describes where it goes |
-| `46 U.S.C. § 116` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively, and inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1903` | redesignate | in subsection (c), as redesignated, by redesignating paragraph (2) as paragraph (4), and inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1903` | redesignate | by adding at the end of subsection (c), as redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1905` | add-at-end | in subsection (a) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1905` | insert | in subsection (b) by inserting “or the Administrator” after “Secretary”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1905` | replace | in subsection (e) by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1905` | strike | in subsection (f)(2) by striking “(A)”. | the bill quotes the text struck but describes what replaces it |
+| — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively, and inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (c), as redesignated, by redesignating paragraph (2) as paragraph (4), and inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by adding at the end of subsection (c), as redesignated, the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a) by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b) by inserting “or the Administrator” after “Secretary”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e) by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f)(1) by striking “Secretary is” and inserting “Secretary and the Administrator are”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (f)(2) by striking “(A)”. | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1907` | amend | Section 8(f) (33 U.S.C. 1907(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1909` | insert | Section 10(b) (33 U.S.C. 1909(b)) is amended by inserting “or the Administrator as provided for in this Act,” after “Secretary,”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | Section 10(b) (33 U.S.C. 1909(b)) is amended by inserting “or the Administrator as provided for in this Act,” after “Secretary,”. | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1908` | insert | by inserting “, or the Administrator as provided for in this Act” after “Secretary” the first place it appears; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1908` | insert | in paragraph (2), by inserting “, or the Administrator as provided for in this Act,” after “Secretary”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1908` | insert | by inserting “, or the Administrator as provided for in this Act” after “Secretary” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1908` | insert | by inserting “, or the Administrator as provided for in this Act,” after “Secretary” the second and third places it appears; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1908` | insert | in subsection (c), by inserting “, or the Administrator as provided for in this Act,” after “Secretary” each place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1908` | insert | in subsection (f), by inserting “, or the Administrator as provided for in this Act” after “Secretary” the first place appears. | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1911` | amend | Section 15 (33 U.S.C. 1911) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 15 (33 U.S.C. 1911) is amended to read as follows: | the bill names no machine-readable US Code section |
