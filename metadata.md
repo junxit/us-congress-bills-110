@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1132
@@ -111,3 +111,13 @@ National Breast and Cervical Cancer Early Detection Program Reauthorization Act 
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-76.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-76.
 - 2007-03-28 — Received in the Senate, read twice.
+- 2007-03-29 — Cleared for White House.
+- 2007-03-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4224-4225)
+- 2007-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4224-4225)
+- 2007-03-30 — Message on Senate action sent to the House.
+- 2007-04-19 — Presented to President.
+- 2007-04-19 — Presented to President.
+- 2007-04-20 — Became Public Law No: 110-18.
+- 2007-04-20 — Became Public Law No: 110-18.
+- 2007-04-20 — Signed by President.
+- 2007-04-20 — Signed by President.
