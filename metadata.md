@@ -1,7 +1,7 @@
 ---
 measure: H.R. 727
 congress: 110
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 727
@@ -59,3 +59,4 @@ Trauma Care Systems Planning and Development Act of 2007
 - 2007-03-27 — Placed on the Union Calendar, Calendar No. 43.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-77.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-77.
+- 2007-03-28 — Received in the Senate, read twice.
