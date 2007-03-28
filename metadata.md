@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1562
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1562
@@ -21,9 +21,10 @@ Katrina Housing Tax Relief Act of 2007
 - Rep. McCrery, Jim [R-LA-4] (M000388)
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Katrina Housing Tax Relief Act of 2007
 - 2007-03-27 — Mr. Rangel moved to suspend the rules and pass the bill, as amended.
 - 2007-03-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3150)
 - 2007-03-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3150)
+- 2007-03-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
