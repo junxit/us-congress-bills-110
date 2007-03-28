@@ -1,7 +1,7 @@
 ---
 measure: S. 223
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 223
@@ -16,7 +16,7 @@ Senate Campaign Disclosure Parity Act
 
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 
-## Cosponsors (22)
+## Cosponsors (34)
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -40,6 +40,18 @@ Senate Campaign Disclosure Parity Act
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Nelson, Ben [D-NE] (N000180)
 
 ## Committees (1)
 
@@ -50,3 +62,8 @@ Senate Campaign Disclosure Parity Act
 - 2007-01-09 — Introduced in Senate
 - 2007-01-09 — Read twice and referred to the Committee on Rules and Administration. (text of measure as introduced: CR S293)
 - 2007-01-09 — Sponsor introductory remarks on measure. (CR S293)
+- 2007-03-14 — Committee on Rules and Administration. Hearings held.
+- 2007-03-28 — Committee on Rules and Administration. Ordered to be reported with an amendment favorably.
+- 2007-03-28 — Committee on Rules and Administration. Reported by Senator Feinstein with an amendment. Without written report.
+- 2007-03-28 — Committee on Rules and Administration. Reported by Senator Feinstein with an amendment. Without written report.
+- 2007-03-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 96.
