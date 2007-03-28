@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 110
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1132
@@ -110,3 +110,4 @@ National Breast and Cervical Cancer Early Detection Program Reauthorization Act 
 - 2007-03-27 — Placed on the Union Calendar, Calendar No. 42.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-76.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-76.
+- 2007-03-28 — Received in the Senate, read twice.
