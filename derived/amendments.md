@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `or housing entity` |
 | Inserted | `, housing entity, or the Department of Hawaiian Home Lands` |
 
-### 25 U.S.C. § 4191
+### 25 U.S.C. § 4195
 
 > In section 605(b) (25 U.S.C. 4195(b)), by striking “1997 through 2007” and inserting “2008 through 2012”.
 
@@ -75,7 +75,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1715z-13b` | replace | In subsection (c), by striking paragraph (2) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 4191` | insert | In the heading for the title, by inserting “and Native Hawaiian” after “tribal”. | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 4191` | insert | by inserting “or by the Department of Hawaiian Home Lands,” after “tribal approval,”; and | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 4191` | insert | by inserting “or 810, as applicable,” after “section 202” ; and | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 4191` | insert | by inserting “or 810, as applicable,” after “section 202”; and | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 4191` | insert | in subsection (c), by inserting “or VIII, as applicable” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 4192` | insert | by inserting “or Department” after “tribe”; | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 4192` | insert | by inserting “or VIII, as applicable,” after “title I”; and | the bill quotes the text inserted but describes where it goes |

@@ -31,10 +31,10 @@ Section 184A of the Housing and Community Development Act of 1992 (12 U.S.C. 171
 Title VI of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4191 et seq.) is amended as follows:
 
 - **(1)** *Heading* In the heading for the title, by inserting “and Native Hawaiian” after “tribal”.
-- **(2)** *Authority and requirements* In section 601 (25 U.S.C. 4191)——
+- **(2)** *Authority and requirements* In section 601 (25 U.S.C. 4191)—
   - **(A)** in subsection (a)—
     - **(i)** by inserting “or by the Department of Hawaiian Home Lands,” after “tribal approval,”; and
-    - **(ii)** by inserting “or 810, as applicable,” after “section 202” ; and
+    - **(ii)** by inserting “or 810, as applicable,” after “section 202”; and
   - **(B)** in subsection (c), by inserting “or VIII, as applicable” before the period at the end.
 - **(3)** *Security and repayment* In section 602 (25 U.S.C. 4192)—
   - **(A)** in subsection (a)—
