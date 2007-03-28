@@ -1,7 +1,7 @@
 ---
 measure: H.R. 727
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 727
@@ -60,3 +60,13 @@ Trauma Care Systems Planning and Development Act of 2007
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-77.
 - 2007-03-27 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-77.
 - 2007-03-28 — Received in the Senate, read twice.
+- 2007-03-29 — Cleared for White House.
+- 2007-03-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4224)
+- 2007-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4224)
+- 2007-03-30 — Message on Senate action sent to the House.
+- 2007-04-24 — Presented to President.
+- 2007-04-24 — Presented to President.
+- 2007-05-03 — Became Public Law No: 110-23.
+- 2007-05-03 — Became Public Law No: 110-23.
+- 2007-05-03 — Signed by President.
+- 2007-05-03 — Signed by President.
