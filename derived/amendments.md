@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1132
 congress: 110
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
