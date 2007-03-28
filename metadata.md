@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1401
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1401
@@ -156,3 +156,4 @@ Rail and Public Transportation Security Act of 2007
 - 2007-03-27 — The Speaker designated the Honorable G. K. Butterfield to act as Chairman of the Committee.
 - 2007-03-27 — The previous question was ordered pursuant to the rule. (consideration: CR H3146)
 - 2007-03-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-03-28 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
