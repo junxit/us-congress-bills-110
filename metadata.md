@@ -1,7 +1,7 @@
 ---
 measure: H.R. 802
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 802
@@ -20,9 +20,10 @@ Maritime Pollution Prevention Act of 2008
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,5 @@ Maritime Pollution Prevention Act of 2008
 - 2007-03-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 48 (Roll no. 187). (text: CR H3025-3026)
 - 2007-03-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 359 - 48 (Roll no. 187).(text: CR H3025-3026)
 - 2007-03-26 — The title of the measure was amended. Agreed to without objection.
+- 2007-03-27 — Received in the Senate.
+- 2007-03-28 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
