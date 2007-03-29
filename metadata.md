@@ -1,7 +1,7 @@
 ---
 measure: H.R. 493
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 493
@@ -16,7 +16,7 @@ Genetic Information Nondiscrimination Act of 2008
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Cosponsors (143)
+## Cosponsors (224)
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
@@ -161,6 +161,87 @@ Genetic Information Nondiscrimination Act of 2008
 - Rep. Jindal, Bobby [R-LA-1] (J000287)
 - Rep. LaTourette, Steven C. [R-OH-14] (L000553)
 - Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Berry, Marion [D-AR-1] (B000420)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Obey, David R. [D-WI-7] (O000007)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Pickering, Charles W. "Chip" [R-MS-3] (P000323)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
 
 ## Committees (3)
 
@@ -177,3 +258,26 @@ Genetic Information Nondiscrimination Act of 2008
 - 2007-01-16 — Referred to the Committee on Education and Labor, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-16 — Referred to the Committee on Education and Labor, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-16 — Sponsor introductory remarks on measure. (CR E120-121)
+- 2007-02-02 — Referred to the Subcommittee on Health.
+- 2007-02-14 — Committee Consideration and Mark-up Session Held.
+- 2007-02-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-05 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than March 23, 2007.
+- 2007-03-05 — House Committee on Ways and Means Granted an extension for further consideration ending not later than March 23, 2007.
+- 2007-03-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-28, Part I.
+- 2007-03-05 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-28, Part I.
+- 2007-03-08 — Subcommittee Hearings Held.
+- 2007-03-13 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-03-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-03-21 — Committee Consideration and Mark-up Session Held.
+- 2007-03-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-22 — Committee Consideration and Mark-up Session Held.
+- 2007-03-23 — Committee Consideration and Mark-up Session Held.
+- 2007-03-23 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than March 26, 2007.
+- 2007-03-23 — House Committee on Ways and Means Granted an extension for further consideration ending not later than March 26, 2007.
+- 2007-03-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-03-26 — House Committee on Energy and Commerce Granted an extension for further consideration ending not later than March 29, 2007.
+- 2007-03-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-28, Part II.
+- 2007-03-26 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-28, Part II.
+- 2007-03-29 — Placed on the Union Calendar, Calendar No. 46.
+- 2007-03-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-28, Part III.
+- 2007-03-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-28, Part III.
