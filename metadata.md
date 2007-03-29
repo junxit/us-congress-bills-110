@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 131
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 131
@@ -34,3 +34,7 @@ A resolution designating the first week of April 2007 as "National Asbestos Awar
 
 - 2007-03-28 — Introduced in Senate
 - 2007-03-28 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4062)
+- 2007-03-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S4224)
+- 2007-03-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4224)
+- 2007-03-29 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4223-4224)
+- 2007-03-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4223-4224)
