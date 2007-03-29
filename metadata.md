@@ -1,7 +1,7 @@
 ---
 measure: S. 556
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 556
@@ -16,11 +16,14 @@ Head Start for School Readiness Act
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
-## Cosponsors (3)
+## Cosponsors (6)
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
 ## Committees (1)
 
@@ -31,3 +34,7 @@ Head Start for School Readiness Act
 - 2007-02-12 — Introduced in Senate
 - 2007-02-12 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
 - 2007-02-12 — Sponsor introductory remarks on measure. (CR S1861-1863)
+- 2007-02-14 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2007-03-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-03-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.
