@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 103
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 103
@@ -30,3 +30,4 @@ Providing for an adjournment or recess of the two Houses.
 - 2007-03-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 214 - 192 (Roll no. 213).(text: CR H3338)
 - 2007-03-29 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S4223; text as passed Senate: CR S4223)
 - 2007-03-29 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4223; text as passed Senate: CR S4223)
+- 2007-03-30 — Message on Senate action sent to the House.
