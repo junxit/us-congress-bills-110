@@ -1,0 +1,313 @@
+---
+legis-num: S. 1067
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1067
+
+> To require Federal agencies to support health impact assessments and take other actions to improve health and the environmental quality of communities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Healthy Places Act of 2007”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
+- **(2)** *Built environment* The term built environment means an environment consisting of all buildings, spaces, and products that are created or modified by people, including—
+  - **(A)** homes, schools, workplaces, parks and recreation areas, greenways, business areas, and transportation systems;
+  - **(B)** electric transmission lines;
+  - **(C)** waste disposal sites; and
+  - **(D)** land-use planning and policies that impact urban, rural, and suburban communities.
+- **(3)** *Director* The term Director means the Director of the Centers for Disease Control and Prevention.
+- **(4)** *Environmental health* The term environmental health means the health and well-being of a population as affected by—
+  - **(A)** the direct pathological effects of chemicals, radiation, and some biological agents; and
+  - **(B)** the effects (often indirect) of the broad physical, psychological, social, and aesthetic environment.
+- **(5)** *Health impact assessment* The term health impact assessment means any combination of procedures, methods, tools, and means used under section 4 to analyze the actual or potential effects of a policy, program, or project on the health of a population (including the distribution of those effects within the population).
+- **(6)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
+
+## § 3. Interagency working group on environmental health
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Institute* The term Institute means the Institute of Medicine of the National Academies of Science.
+  - **(2)** *IWG* The term IWG means the interagency working group established under subsection (b).
+- **(b)** *Establishment* The Secretary, in coordination with the Administrator, shall establish an interagency working group to discuss environmental health concerns, particularly concerns disproportionately affecting disadvantaged populations.
+- **(c)** *Membership* The IWG shall be composed of a representative from each Federal agency (as appointed by the head of the agency) that has jurisdiction over, or is affected by, environmental policies and projects, including—
+  - **(1)** the Council on Environmental Quality;
+  - **(2)** the Department of Agriculture;
+  - **(3)** the Department of Commerce;
+  - **(4)** the Department of Defense;
+  - **(5)** the Department of Education;
+  - **(6)** the Department of Energy;
+  - **(7)** the Department of Health and Human Services;
+  - **(8)** the Department of Housing and Urban Development;
+  - **(9)** the Department of the Interior;
+  - **(10)** the Department of Justice;
+  - **(11)** the Department of Labor;
+  - **(12)** the Department of State;
+  - **(13)** the Department of Transportation;
+  - **(14)** the Environmental Protection Agency; and
+  - **(15)** such other Federal agencies as the Administrator and the Secretary jointly determine to be appropriate.
+- **(d)** *Duties* The IWG shall—
+  - **(1)** facilitate communication and partnership on environmental health-related projects and policies—
+    - **(A)** to generate a better understanding of the interactions between policy areas; and
+    - **(B)** to raise awareness of the relevance of health across policy areas to ensure that the potential positive and negative health consequences of decisions are not overlooked;
+  - **(2)** serve as a centralized mechanism to coordinate a national effort—
+    - **(A)** to discuss and evaluate evidence and knowledge on the relationship between the general environment and the health of the population of the United States;
+    - **(B)** to determine the range of effective, feasible, and comprehensive actions to improve environmental health; and
+    - **(C)** to examine and better address the influence of social and environmental determinants of health;
+  - **(3)** survey Federal agencies to determine which policies are effective in encouraging, and how best to facilitate outreach without duplicating, efforts relating to environmental health promotion;
+  - **(4)** establish specific goals within and across Federal agencies for environmental health promotion, including determinations of accountability for reaching those goals;
+  - **(5)** develop a strategy for allocating responsibilities and ensuring participation in environmental health promotions, particularly in the case of competing agency priorities;
+  - **(6)** coordinate plans to communicate research results relating to environmental health to enable reporting and outreach activities to produce more useful and timely information;
+  - **(7)** establish an interdisciplinary committee to continue research efforts to further understand the relationship between the built environment and health factors (including air quality, physical activity levels, housing quality, access to primary health care practitioners and health care facilities, injury risk, and availability of nutritional, fresh food) that coordinates the expertise of the public health, urban planning, and transportation communities;
+  - **(8)** develop an appropriate research agenda for Federal agencies—
+    - **(A)** to support—
+      - **(i)** longitudinal studies;
+      - **(ii)** rapid-response capability to evaluate natural conditions and occurrences; and
+      - **(iii)** extensions of national databases; and
+    - **(B)** to review evaluation and economic data relating to the impact of Federal interventions on the prevention of environmental health concerns;
+  - **(9)** initiate environmental health impact demonstration projects to develop integrated place-based models for addressing community quality-of-life issues;
+  - **(10)** provide a description of evidence-based best practices, model programs, effective guidelines, and other strategies for promoting environmental health;
+  - **(11)** make recommendations to improve Federal efforts relating to environmental health promotion and to ensure Federal efforts are consistent with available standards and evidence and other programs in existence as of the date of enactment of this Act;
+  - **(12)** monitor Federal progress in meeting specific environmental health promotion goals;
+  - **(13)** assist in ensuring, to the maximum extent practicable, integration of the impact of environmental policies, programs, and activities on the areas under Federal jurisdiction;
+  - **(14)** assist in the implementation of the recommendations from the reports of the Institute of Medicine entitled “Does the Built Environment Influence Physical Activity? Examining the Evidence” and dated January 11, 2005, and “Rebuilding the Unity of Health and the Environment: A New Vision of Environmental Health for the 21st Century” and dated January 22, 2001, including recommendations for—
+    - **(A)** the expansion of national public health and travel surveys to provide more detailed information about the connection between the built environment and health, including expansion of such surveys as—
+      - **(i)** the Behavioral Risk Factor Surveillance System, the National Health and Nutrition Examination Survey, and the National Health Interview Survey conducted by the Centers for Disease Control and Prevention;
+      - **(ii)** the American Community survey conducted by the Census Bureau;
+      - **(iii)** the American Time Use Survey conducted by the Bureau of Labor Statistics;
+      - **(iv)** the Youth Risk Behavior Survey conducted by the Centers for Disease Control and Prevention; and
+      - **(v)** the National Longitudinal Cohort Survey of American Children (the National Children's Study) conducted by the National Institute of Child Health and Human Development;
+    - **(B)** collaboration with national initiatives to learn from natural experiments such as observations from changes in the built environment and the consequent effects on health;
+    - **(C)** development of a program of research with a defined mission and recommended budget, concentrating on multiyear projects and enhanced data collection;
+    - **(D)** development of interdisciplinary education programs—
+      - **(i)** to train professionals in conducting recommended research; and
+      - **(ii)** to prepare practitioners with appropriate skills at the intersection of physical activity, public health, transportation, and urban planning;
+  - **(15)** not later than 2 years after the date of enactment of this Act, submit to Congress a report that describes the extent to which recommendations from the Institute of Medicine reports described in paragraph (14) were executed; and
+  - **(16)** assist the Director with the development of guidance for the assessment of the potential health effects of land use, housing, and transportation policy and plans.
+- **(e)** *Meetings*
+  - **(1)** *In general* The IWG shall meet at least 3 times each year.
+  - **(2)** *Annual conference* The Secretary, acting through the Director and in collaboration with the Administrator, shall sponsor an annual conference on environmental health and health disparities to enhance coordination, build partnerships, and share best practices in environmental health data collection, analysis, and reporting.
+- **(f)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+## § 4. Health impact assessments
+
+- **(a)** *Definition of eligible entity* In this section, the term eligible entity means any unit of State or local government the jurisdiction of which includes individuals or populations the health of which are or will be affected by an activity or a proposed activity.
+- **(b)** *Establishment* The Secretary, acting through the Director and in collaboration with the Administrator, shall—
+  - **(1)** establish a program at the National Center of Environmental Health at the Centers for Disease Control and Prevention focused on advancing the field of health impact assessment, including—
+    - **(A)** collecting and disseminating best practices;
+    - **(B)** administering capacity building grants, in accordance with subsection (d);
+    - **(C)** providing technical assistance;
+    - **(D)** providing training;
+    - **(E)** conducting evaluations; and
+    - **(F)** awarding competitive extramural research grants;
+  - **(2)** in accordance with subsection (f), develop guidance to conduct health impact assessments; and
+  - **(3)** establish a grant program to allow eligible entities to conduct health impact assessments.
+- **(c)** *Guidance* The Director, in collaboration with the IWG, shall—
+  - **(1)** develop guidance for the assessment of the potential health effects of land use, housing, and transportation policy and plans, including—
+    - **(A)** background on international efforts to bridge urban planning and public health institutions and disciplines, including a review of health impact assessment best practices internationally;
+    - **(B)** evidence-based causal pathways that link urban planning, transportation, and housing policy and objectives to human health objectives;
+    - **(C)** data resources and quantitative and qualitative forecasting methods to evaluate both the status of health determinants and health effects; and
+    - **(D)** best practices for inclusive public involvement in planning decision-making;
+  - **(2)** not later than 1 year after the date of enactment of this Act, promulgate the guidance; and
+  - **(3)** present the guidance to the public at the annual conference described in section 3(e)(2).
+- **(d)** *Grant program* The Secretary, acting through the Director and in collaboration with the Administrator, shall establish a program under which the Secretary shall provide funding and technical assistance to eligible entities to prepare health impact assessments—
+  - **(1)** to ensure that appropriate health factors are taken into consideration as early as practicable during any planning, review, or decision-making process; and
+  - **(2)** to evaluate the effect on the health of individuals and populations, and on social and economic development, of decisions made outside of the health sector that result in modifications of a physical or social environment.
+- **(e)** *Applications*
+  - **(1)** *In general* To receive a grant under this section, an eligible entity shall submit to the Secretary an application in accordance with this subsection, in such time, in such manner, and containing such additional information as the Secretary may require.
+  - **(2)** *Inclusion*
+    - **(A)** *In general* An application under this subsection shall include an assessment by the eligible entity of the probability that an applicable activity or proposed activity will have at least 1 significant, adverse health effect on an individual or population in the jurisdiction of the eligible entity, based on the criteria described in subparagraph (B).
+    - **(B)** *Criteria* The criteria referred to in subparagraph (A) include, with respect to the applicable activity or proposed activity—
+      - **(i)** any substantial adverse effect on—
+        - **(I)** existing air quality, ground or surface water quality or quantity, or traffic or noise levels;
+        - **(II)** a significant habitat area;
+        - **(III)** physical activity;
+        - **(IV)** injury;
+        - **(V)** mental health;
+        - **(VI)** social capital;
+        - **(VII)** accessibility;
+        - **(VIII)** the character or quality of an important historical, archeological, architectural, or aesthetic resource (including neighborhood character) of the community of the eligible entity; or
+        - **(IX)** any other natural resource;
+      - **(ii)** any increase in—
+        - **(I)** solid waste production; or
+        - **(II)** problems relating to erosion, flooding, leaching, or drainage;
+      - **(iii)** any requirement that a large quantity of vegetation or fauna be removed or destroyed;
+      - **(iv)** any conflict with the plans or goals of the community of the eligible entity;
+      - **(v)** any major change in the quantity or type of energy used by the community of the eligible entity;
+      - **(vi)** any hazard presented to human health;
+      - **(vii)** any substantial change in the use, or intensity of use, of land in the jurisdiction of the eligible entity, including agricultural, open space, and recreational uses;
+      - **(viii)** the probability that the activity or proposed activity will result in an increase in tourism in the jurisdiction of the eligible entity;
+      - **(ix)** any substantial, adverse aggregate impact on environmental health resulting from—
+        - **(I)** changes caused by the activity or proposed activity to 2 or more elements of the environment; or
+        - **(II)** 2 or more related actions carried out under the activity or proposed activity; and
+      - **(x)** any other significant change of concern, as determined by the eligible entity.
+    - **(C)** *Factors for consideration* In making an assessment under subparagraph (A), an eligible entity may take into consideration any reasonable, direct, indirect, or cumulative effect relating to the applicable activity or proposed activity, including the effect of any action that is—
+      - **(i)** included in the long-range plan relating to the activity or proposed activity;
+      - **(ii)** likely to be carried out in coordination with the activity or proposed activity;
+      - **(iii)** dependent on the occurrence of the activity or proposed activity; or
+      - **(iv)** likely to have a disproportionate impact on disadvantaged populations.
+- **(f)** *Use of funds*
+  - **(1)** *In general* An eligible entity shall use assistance received under this section to prepare and submit to the Secretary a health impact assessment in accordance with this subsection.
+  - **(2)** *Purposes* The purposes of a health impact assessment are—
+    - **(A)** to facilitate the involvement of State and local health officials in community planning and land use decisions to identify any potential health concern relating to an activity or proposed activity;
+    - **(B)** to provide for an investigation of any health-related issue addressed in an environmental impact statement or policy appraisal relating to an activity or a proposed activity;
+    - **(C)** to describe and compare alternatives (including no-action alternatives) to an activity or a proposed activity to provide clarification with respect to the costs and benefits of the activity or proposed activity; and
+    - **(D)** to contribute to the findings of an environmental impact statement with respect to the terms and conditions of implementing an activity or a proposed activity, as necessary.
+  - **(3)** *Requirements* A health impact assessment prepared under this subsection shall—
+    - **(A)** describe the relevance of the applicable activity or proposed activity (including the policy of the activity) with respect to health issues;
+    - **(B)** assess each health impact of the applicable activity or proposed activity;
+    - **(C)** provide recommendations of the eligible entity with respect to—
+      - **(i)** the mitigation of any adverse impact on health of the applicable activity or proposed activity; or
+      - **(ii)** the encouragement of any positive impact of the applicable activity or proposed activity;
+    - **(D)** provide for monitoring of the impacts on health of the applicable activity or proposed activity, as the eligible entity determines to be appropriate; and
+    - **(E)** include a list of each comment received with respect to the health impact assessment under subsection (e).
+  - **(4)** *Methodology* In preparing a health impact assessment under this subsection, an eligible entity—
+    - **(A)** shall follow guidelines developed by the Director, in collaboration with the IWG, that—
+      - **(i)** are consistent with subsection (c);
+      - **(ii)** will be established not later than 1 year after the date of enactment of this Act; and
+      - **(iii)** will be made publicly available at the annual conference described in section 3(e)(2); and
+    - **(B)** may establish a balance, as the eligible entity determines to be appropriate, between the use of—
+      - **(i)** rigorous methods requiring special skills or increased use of resources; and
+      - **(ii)** expedient, cost-effective measures.
+- **(g)** *Public participation*
+  - **(1)** *In general* Before preparing and submitting to the Secretary a final health impact assessment, an eligible entity shall request and take into consideration public and agency comments, in accordance with this subsection.
+  - **(2)** *Requirement* Not later than 30 days after the date on which a draft health impact assessment is completed, an eligible entity shall submit the draft health impact assessment to each Federal agency, and each State and local organization, that—
+    - **(A)** has jurisdiction with respect to the activity or proposed activity to which the health impact assessment applies;
+    - **(B)** has special knowledge with respect to an environmental or health impact of the activity or proposed activity; or
+    - **(C)** is authorized to develop or enforce any environmental standard relating to the activity or proposed activity.
+  - **(3)** *Comments requested*
+    - **(A)** *Request by eligible entity* An eligible entity may request comments with respect to a health impact assessment from—
+      - **(i)** affected Indian tribes;
+      - **(ii)** interested or affected individuals or organizations; and
+      - **(iii)** any other State or local agency, as the eligible entity determines to be appropriate.
+    - **(B)** *Request by others* Any interested or affected agency, organization, or individual may—
+      - **(i)** request an opportunity to comment on a health impact assessment; and
+      - **(ii)** submit to the appropriate eligible entity comments with respect to the health impact assessment by not later than—
+        - **(I)** for a Federal, State, or local government agency or organization, the date on which a final health impact assessment is prepared; and
+        - **(II)** for any other individual or organization, the date described in subclause (I) or another date, as the eligible entity may determine.
+  - **(4)** *Response to comments* A final health impact assessment shall describe the response of the eligible entity to comments received within a 90-day period under this subsection, including—
+    - **(A)** a description of any means by which the eligible entity, as a result of such a comment—
+      - **(i)** modified an alternative recommended with respect to the applicable activity or proposed activity;
+      - **(ii)** developed and evaluated any alternative not previously considered by the eligible entity;
+      - **(iii)** supplemented, improved, or modified an analysis of the eligible entity; or
+      - **(iv)** made any factual correction to the health impact assessment; and
+    - **(B)** for any comment with respect to which the eligible entity took no action, an explanation of the reasons why no action was taken and, if appropriate, a description of the circumstances under which the eligible entity would take such an action.
+- **(h)** *Health impact assessment database* The Secretary, acting through the Director and in collaboration with the Administrator, shall establish and maintain a health impact assessment database, including—
+  - **(1)** a catalog of health impact assessments received under this section;
+  - **(2)** an inventory of tools used by eligible entities to prepare draft and final health impact assessments; and
+  - **(3)** guidance for eligible entities with respect to the selection of appropriate tools described in paragraph (2).
+- **(i)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section such sums as are necessary.
+
+## § 5. Grant program
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Director* The term Director means the Director of the Centers for Disease Control and Prevention, acting in collaboration with the Administrator and the Director of the National Institute of Environmental Health Sciences.
+  - **(2)** *Eligible entity* The term eligible entity means a State or local community that—
+    - **(A)** bears a disproportionate burden of exposure to environmental health hazards;
+    - **(B)** has established a coalition—
+      - **(i)** with not less than 1 community-based organization; and
+      - **(ii)** with not less than 1—
+        - **(I)** public health entity;
+        - **(II)** health care provider organization; or
+        - **(III)** academic institution;
+    - **(C)** ensures planned activities and funding streams are coordinated to improve community health; and
+    - **(D)** submits an application in accordance with subsection (c).
+- **(b)** *Establishment* The Director shall establish a grant program under which eligible entities shall receive grants to conduct environmental health improvement activities.
+- **(c)** *Application* To receive a grant under this section, an eligible entity shall submit an application to the Director at such time, in such manner, and accompanied by such information as the Director may require.
+- **(d)** *Cooperative agreements* An eligible entity may use a grant under this section—
+  - **(1)** to promote environmental health; and
+  - **(2)** to address environmental health disparities.
+- **(e)** *Amount of cooperative agreement*
+  - **(1)** *In general* The Director shall award grants to eligible entities at the 2 different funding levels described in this subsection.
+  - **(2)** *Level 1 Cooperative Agreements*
+    - **(A)** *In general* An eligible entity awarded a grant under this paragraph shall use the funds to identify environmental health problems and solutions by—
+      - **(i)** establishing a planning and prioritizing council in accordance with subparagraph (B); and
+      - **(ii)** conducting an environmental health assessment in accordance with subparagraph (C).
+    - **(B)** *Planning and prioritizing council*
+      - **(i)** *In general* A prioritizing and planning council established under subparagraph (A)(i) (referred to in this paragraph as a PPC) shall assist the environmental health assessment process and environmental health promotion activities of the eligible entity.
+      - **(ii)** *Membership* Membership of a PPC shall consist of representatives from various organizations within public health, planning, development, and environmental services and shall include stakeholders from vulnerable groups such as children, the elderly, disabled, and minority ethnic groups that are often not actively involved in democratic or decision-making processes.
+      - **(iii)** *Duties* A PPC shall—
+        - **(I)** identify key stakeholders and engage and coordinate potential partners in the planning process;
+        - **(II)** establish a formal advisory group to plan for the establishment of services;
+        - **(III)** conduct an in-depth review of the nature and extent of the need for an environmental health assessment, including a local epidemiological profile, an evaluation of the service provider capacity of the community, and a profile of any target populations; and
+        - **(IV)** define the components of care and form essential programmatic linkages with related providers in the community.
+    - **(C)** *Environmental health assessment*
+      - **(i)** *In general* A PPC shall carry out an environmental health assessment to identify environmental health concerns.
+      - **(ii)** *Assessment process* The PPC shall—
+        - **(I)** define the goals of the assessment;
+        - **(II)** generate the environmental health issue list;
+        - **(III)** analyze issues with a systems framework;
+        - **(IV)** develop appropriate community environmental health indicators;
+        - **(V)** rank the environmental health issues;
+        - **(VI)** set priorities for action;
+        - **(VII)** develop an action plan;
+        - **(VIII)** implement the plan; and
+        - **(IX)** evaluate progress and planning for the future.
+    - **(D)** *Evaluation* Each eligible entity that receives a grant under this paragraph shall evaluate, report, and disseminate program findings and outcomes.
+    - **(E)** *Technical assistance* The Director may provide such technical and other non-financial assistance to eligible entities as the Director determines to be necessary.
+  - **(3)** *Level 2 Cooperative Agreements*
+    - **(A)** *Eligibility*
+      - **(i)** *In general* The Director shall award grants under this paragraph to eligible entities that have already—
+        - **(I)** established broad-based collaborative partnerships; and
+        - **(II)** completed environmental assessments.
+      - **(ii)** *No level 1 requirement* To be eligible to receive a grant under this paragraph, an eligible entity is not required to have successfully completed a Level 1 Cooperative Agreement (as described in paragraph (2).
+    - **(B)** *Use of grant funds* An eligible entity awarded a grant under this paragraph shall use the funds to further activities to carry out environmental health improvement activities, including—
+      - **(i)** addressing community environmental health priorities in accordance with paragraph (2)(C)(ii), including—
+        - **(I)** air quality;
+        - **(II)** water quality;
+        - **(III)** solid waste;
+        - **(IV)** land use;
+        - **(V)** housing;
+        - **(VI)** food safety;
+        - **(VII)** crime;
+        - **(VIII)** injuries; and
+        - **(IX)** healthcare services;
+      - **(ii)** building partnerships between planning, public health, and other sectors, to address how the built environment impacts food availability and access and physical activity to promote healthy behaviors and lifestyles and reduce obesity and related co-morbidities;
+      - **(iii)** establishing programs to address—
+        - **(I)** how environmental and social conditions of work and living choices influence physical activity and dietary intake; or
+        - **(II)** how those conditions influence the concerns and needs of people who have impaired mobility and use assistance devices, including wheelchairs and lower limb prostheses; and
+      - **(iv)** convening intervention programs that examine the role of the social environment in connection with the physical and chemical environment in—
+        - **(I)** determining access to nutritional food; and
+        - **(II)** improving physical activity to reduce morbidity and increase quality of life.
+- **(f)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section—
+  - **(1)** $25,000,000 for fiscal year 2007; and
+  - **(2)** such sums as are necessary for the period of fiscal years 2008 through 2011.
+
+## § 6. Additional research on the relationship between the built environment and the health of community residents
+
+- **(a)** *Definition of eligible institution* In this section, the term “eligible institution” means a public or private nonprofit institution that submits to the Secretary and the Administrator an application for a grant under the grant program authorized under subsection (b)(2) at such time, in such manner, and containing such agreements, assurances, and information as the Secretary and Administrator may require.
+- **(b)** *Research grant program*
+  - **(1)** *Definition of health* In this section, the term health includes—
+    - **(A)** levels of physical activity;
+    - **(B)** consumption of nutritional foods;
+    - **(C)** rates of crime;
+    - **(D)** air, water, and soil quality;
+    - **(E)** risk of injury;
+    - **(F)** accessibility to healthcare services; and
+    - **(G)** other indicators as determined appropriate by the Secretary.
+  - **(2)** *Grants* The Secretary, in collaboration with the Administrator, shall provide grants to eligible institutions to conduct and coordinate research on the built environment and its influence on individual and population-based health.
+  - **(3)** *Research* The Secretary shall support research that—
+    - **(A)** investigates and defines the causal links between all aspects of the built environment and the health of residents;
+    - **(B)** examines—
+      - **(i)** the extent of the impact of the built environment (including the various characteristics of the built environment) on the health of residents;
+      - **(ii)** the variance in the health of residents by—
+        - **(I)** location (such as inner cities, inner suburbs, and outer suburbs); and
+        - **(II)** population subgroup (such as children, the elderly, the disadvantaged); or
+      - **(iii)** the importance of the built environment to the total health of residents, which is the primary variable of interest from a public health perspective;
+    - **(C)** is used to develop—
+      - **(i)** measures to address health and the connection of health to the built environment; and
+      - **(ii)** efforts to link the measures to travel and health databases;
+    - **(D)** distinguishes carefully between personal attitudes and choices and external influences on observed behavior to determine how much an observed association between the built environment and the health of residents, versus the lifestyle preferences of the people that choose to live in the neighborhood, reflects the physical characteristics of the neighborhood; and
+    - **(E)**
+      - **(i)** identifies or develops effective intervention strategies to promote better health among residents with a focus on behavioral interventions and enhancements of the built environment that promote increased use by residents; and
+      - **(ii)** in developing the intervention strategies under clause (i), ensures that the intervention strategies will reach out to high-risk populations, including low-income urban and rural communities.
+  - **(4)** *Priority* In providing assistance under the grant program authorized under paragraph (2), the Secretary and the Administrator shall give priority to research that incorporates—
+    - **(A)** interdisciplinary approaches; or
+    - **(B)** the expertise of the public health, physical activity, urban planning, and transportation research communities in the United States and abroad.
+- **(c)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.
