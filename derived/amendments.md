@@ -1,7 +1,7 @@
 ---
 measure: S. 845
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating section 393B (as added by section 1401 of Public Law 106–386) as section 393C and transferring such section so that it appears after section 393B (as added by section 1301 of Public Law 106–310); and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting after section 393C (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 393B (as added by section 1401 of Public Law 106–386) as section 393C and transferring such section so that it appears after section 393B (as added by section 1301 of Public Law 106–310); and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after section 393C (as redesignated by paragraph (1)) the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 394A of the Public Health Service Act (42 U.S.C. 280b–3) is amended by striking “$50,000,000” and all that follows through the period and inserting “$58,361,000 for fiscal year 2008, and such sums as may be necessary for each of … | the bill names no machine-readable US Code section |
