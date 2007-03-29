@@ -1,7 +1,7 @@
 ---
 measure: S. 378
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 0 executed, 44 stated and not applied.
+46 amendatory instructions. 0 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -75,3 +75,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 296 of title 28, United States Code, is amended by inserting at the end of the second undesignated paragraph the following new sentence: “However, a judge who has retired from regular active service under section 371(b) of this t… | the bill names no machine-readable US Code section |
 | — | replace | Section 631(a) of title 28, United States Code, is amended by striking “Northern Mariana Islands” the first place it appears and inserting “Northern Mariana Islands (including any judge in regular active service and any judge who has ret… | the bill names no machine-readable US Code section |
 | — | replace | Section 405 of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by striking “2006” and inserting “2011”. | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the District of Columbia Circuit, by striking “12” and inserting “11”; and | the bill names no machine-readable US Code section |
+| — | replace | in the item relating to the Ninth Circuit, by striking “28” and inserting “29”. | the bill names no machine-readable US Code section |
