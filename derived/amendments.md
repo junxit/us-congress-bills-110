@@ -1,7 +1,7 @@
 ---
 measure: S. 888
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1091 of title 18, United States Code, is amended by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1091` | replace | Section 1091 of title 18, United States Code, is amended by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
