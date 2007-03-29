@@ -12,4 +12,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Concurrent resolution on the budget for fiscal year 2008
 
 - **(a)** *Declaration* The Congress determines and declares that the concurrent resolution on the budget for fiscal year 2007 is revised and replaced and that this is the concurrent resolution on the budget for fiscal year 2008, including appropriate budgetary levels for fiscal years 2009 through 2012.
-- **(b)** *Table of Contents*
+- **(b)** *Table of Contents* The table of contents for this resolution is as follows:
