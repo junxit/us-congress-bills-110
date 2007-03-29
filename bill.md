@@ -221,4 +221,4 @@ Section 1251 of the Public Health Service Act (42 U.S.C. 300d–51) is amended t
 
 ## § 15. State grants for certain projects
 
-Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended in the section heading by striking “demonstration” .
+Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended in the section heading by striking “demonstration”.

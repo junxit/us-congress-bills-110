@@ -1,7 +1,7 @@
 ---
 measure: S. 657
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 0 executed, 15 stated and not applied.
+29 amendatory instructions. 0 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -45,4 +45,18 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 1232 of the Public Health Service Act (42 U.S.C. 300d–32) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part E of title XII of the Public Health Service Act (20 U.S.C. 300d–51 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 1251 of the Public Health Service Act (42 U.S.C. 300d–51) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended in the section heading by striking “demonstration” . | the bill names no machine-readable US Code section |
+| — | strike | Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended in the section heading by striking “demonstration”. | the bill names no machine-readable US Code section |
+| — | amend | Section 1201 of the Public Health Service Act (42 U.S.C. 300d) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | by striking section 1202; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 1203 as section 1202. | the bill names no machine-readable US Code section |
+| — | redesignate | Section 1202 of the Public Health Service Act, as redesignated by section 3(2), is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part A of title XII of the Public Health Service Act, as amended by section 3, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 1212 of the Public Health Service Act (42 U.S.C. 300d–12) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1213 of the Public Health Service Act (42 U.S.C. 300d–13) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1214 of the Public Health Service Act (42 U.S.C. 300d–14) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1215 of the Public Health Service Act (42 U.S.C. 300d–15) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | The Public Health Service Act (42 U.S.C. 201 et seq.) is amended by striking section 1216. | the bill names no machine-readable US Code section |
+| — | amend | Section 1222 of the Public Health Service Act (42 U.S.C. 300d–22) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1232 of the Public Health Service Act (42 U.S.C. 300d–32) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1251 of the Public Health Service Act (42 U.S.C. 300d–51) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended in the section heading by striking “demonstration”. | the bill names no machine-readable US Code section |

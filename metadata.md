@@ -1,7 +1,7 @@
 ---
 measure: S. 657
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 657
@@ -39,3 +39,7 @@ Trauma Care Systems Planning and Development Act of 2007
 - 2007-02-16 — Introduced in Senate
 - 2007-02-16 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2169-2171)
 - 2007-02-16 — Sponsor introductory remarks on measure. (CR S2168-2169)
+- 2007-03-15 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-03-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-03-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 98.
