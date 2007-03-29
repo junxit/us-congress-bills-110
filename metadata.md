@@ -1,7 +1,7 @@
 ---
 measure: H.R. 518
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 518
@@ -16,7 +16,7 @@ International Solid Waste Importation and Management Act of 2007
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 
-## Cosponsors (17)
+## Cosponsors (19)
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
@@ -35,6 +35,8 @@ International Solid Waste Importation and Management Act of 2007
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 - Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
 
 ## Committees (1)
 
@@ -45,3 +47,11 @@ International Solid Waste Importation and Management Act of 2007
 - 2007-01-17 — Introduced in House
 - 2007-01-17 — Introduced in House
 - 2007-01-17 — Referred to the House Committee on Energy and Commerce.
+- 2007-02-02 — Referred to the Subcommittee on Environment and Hazardous Materials.
+- 2007-03-20 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-03-20 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-03-22 — Committee Consideration and Mark-up Session Held.
+- 2007-03-22 — Ordered to be Reported by Voice Vote.
+- 2007-03-29 — Placed on the Union Calendar, Calendar No. 45.
+- 2007-03-29 — Reported by the Committee on Energy and Commerce. H. Rept. 110-81.
+- 2007-03-29 — Reported by the Committee on Energy and Commerce. H. Rept. 110-81.
