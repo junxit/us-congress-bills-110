@@ -1,7 +1,7 @@
 ---
 measure: S. 888
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 888
@@ -36,3 +36,5 @@ Genocide Accountability Act of 2007
 - 2007-03-26 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-03-26 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-03-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.
+- 2007-03-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4148-4150; text as passed Senate: CR S4150)
+- 2007-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4148-4150; text as passed Senate: CR S4150)

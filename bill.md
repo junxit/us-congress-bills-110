@@ -1,11 +1,13 @@
 ---
 legis-num: S. 888
-congress: 
-session: 
-chamber: 
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 888
+
+> To amend section 1091 of title 18, United States Code, to allow the prosecution of genocide in appropriate circumstances.
 
 ## § 1. Short title
 
