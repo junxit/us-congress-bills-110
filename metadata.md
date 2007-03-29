@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1538
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1538
@@ -47,10 +47,11 @@ Dignified Treatment of Wounded Warriors Act
 - Rep. Porter, Jon C. [R-NV-3] (P000589)
 - Rep. Harman, Jane [D-CA-36] (H000213)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Veterans' Affairs Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (3)
 
@@ -186,3 +187,4 @@ Dignified Treatment of Wounded Warriors Act
 - 2007-03-28 — The Speaker designated the Honorable Xavier Becerra to act as Chairman of the Committee.
 - 2007-03-28 — The previous question was ordered pursuant to the rule. (consideration: CR H3234)
 - 2007-03-28 — VITIATION OF EARLIER PROCEEDINGS - Mr. Kennedy of Rhode Island asked unanimous consent that he be allowed to request a recorded vote on the question of adoption of amendment numbered 7 printed in House Report 110-78 offered by Mr. Sestak, notwithstanding the previous adoption of the amendment by a voice vote. Agreed to without objection. Subsequently, the Chair announced that further proceedings on the amendment would be postponed.
+- 2007-03-29 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
