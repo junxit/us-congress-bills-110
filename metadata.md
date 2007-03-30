@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1361
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1361
@@ -16,7 +16,7 @@ Relief for Entrepreneurs: Coordination of Objectives and Values for Effective Re
 
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Rep. Baker, Richard H. [R-LA-6] (B000072)
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
@@ -28,6 +28,8 @@ Relief for Entrepreneurs: Coordination of Objectives and Values for Effective Re
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Jindal, Bobby [R-LA-1] (J000287)
+- Rep. Millender-McDonald, Juanita [D-CA-37] (M000714)
 
 ## Committees (1)
 
@@ -38,3 +40,9 @@ Relief for Entrepreneurs: Coordination of Objectives and Values for Effective Re
 - 2007-03-06 — Introduced in House
 - 2007-03-06 — Introduced in House
 - 2007-03-06 — Referred to the House Committee on Small Business.
+- 2007-03-08 — Committee Hearings Held.
+- 2007-03-15 — Committee Consideration and Mark-up Session Held.
+- 2007-03-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 17 - 9.
+- 2007-03-30 — Placed on the Union Calendar, Calendar No. 47.
+- 2007-03-30 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-82.
+- 2007-03-30 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-82.
