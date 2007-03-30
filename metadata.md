@@ -1,7 +1,7 @@
 ---
 measure: S. 682
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 682
@@ -86,9 +86,10 @@ Edward William Brooke III Congressional Gold Medal Act
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
+- House — Financial Services Committee
 
 ## Actions
 
@@ -98,3 +99,6 @@ Edward William Brooke III Congressional Gold Medal Act
 - 2007-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4226)
 - 2007-03-29 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S4225-4226)
 - 2007-03-29 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S4225-4226)
+- 2007-03-30 — Message on Senate action sent to the House.
+- 2007-03-30 — Received in the House.
+- 2007-03-30 — Referred to the House Committee on Financial Services.
