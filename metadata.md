@@ -1,7 +1,7 @@
 ---
 measure: S. 888
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 888
@@ -24,9 +24,10 @@ Genocide Accountability Act of 2007
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ Genocide Accountability Act of 2007
 - 2007-03-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.
 - 2007-03-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4148-4150; text as passed Senate: CR S4150)
 - 2007-03-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4148-4150; text as passed Senate: CR S4150)
+- 2007-03-30 — Message on Senate action sent to the House.
+- 2007-03-30 — Received in the House.
+- 2007-03-30 — Referred to the House Committee on the Judiciary.
