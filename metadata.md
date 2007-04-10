@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 375
@@ -28,3 +28,7 @@ A bill to waive application of the Indian Self-Determination and Education Assis
 
 - 2007-01-24 — Introduced in Senate
 - 2007-01-24 — Read twice and referred to the Committee on Indian Affairs.
+- 2007-02-08 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2007-04-10 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-44.
+- 2007-04-10 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-44.
+- 2007-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
