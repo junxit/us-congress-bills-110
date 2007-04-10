@@ -1,7 +1,7 @@
 ---
 measure: S. 521
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 521
@@ -28,3 +28,5 @@ A bill to designate the Federal building and United States courthouse and custom
 - 2007-03-29 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2007-03-29 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2007-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
+- 2007-04-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4316-4317; text as passed Senate: CR S4316)
+- 2007-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4316-4317; text as passed Senate: CR S4316)
