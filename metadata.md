@@ -1,7 +1,7 @@
 ---
 measure: S. 613
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 613
@@ -16,9 +16,11 @@ Reconstruction and Stabilization Civilian Management Act of 2007
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Hagel, Chuck [R-NE] (H001028)
 
 ## Committees (1)
 
@@ -29,3 +31,7 @@ Reconstruction and Stabilization Civilian Management Act of 2007
 - 2007-02-15 — Introduced in Senate
 - 2007-02-15 — Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2040-2042)
 - 2007-02-15 — Sponsor introductory remarks on measure. (CR S2039-2040)
+- 2007-03-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2007-04-10 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-50.
+- 2007-04-10 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-50.
+- 2007-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 112.
