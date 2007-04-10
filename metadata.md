@@ -1,7 +1,7 @@
 ---
 measure: S. 521
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 521
@@ -16,9 +16,10 @@ A bill to designate the Federal building and United States courthouse and custom
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -30,3 +31,19 @@ A bill to designate the Federal building and United States courthouse and custom
 - 2007-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 105.
 - 2007-04-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4316-4317; text as passed Senate: CR S4316)
 - 2007-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4316-4317; text as passed Senate: CR S4316)
+- 2007-04-11 — Message on Senate action sent to the House.
+- 2007-04-16 — Held at the desk.
+- 2007-04-16 — Received in the House.
+- 2007-04-23 — Cleared for White House.
+- 2007-04-23 — Considered under suspension of the rules. (consideration: CR H3740-3741)
+- 2007-04-23 — DEBATE - The House proceeded with forty minutes of debate on S. 521.
+- 2007-04-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-23 — Mr. Michaud moved to suspend the rules and pass the bill.
+- 2007-04-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3743)
+- 2007-04-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3743)
+- 2007-04-30 — Presented to President.
+- 2007-04-30 — Presented to President.
+- 2007-05-08 — Became Public Law No: 110-25.
+- 2007-05-08 — Became Public Law No: 110-25.
+- 2007-05-08 — Signed by President.
+- 2007-05-08 — Signed by President.
