@@ -91,7 +91,7 @@ In this Act:
 - **(e)** *Annual Report* Each grant recipient shall submit to the Secretary an annual report that—
   - **(1)** describes the number of telemental health services provided; and
   - **(2)** includes any other information that the Secretary may require.
-- **(f)** *Report to Congress* Not later than 270 days after the date of termination of the demonstration project, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Resources and the Committee on Energy and Commerce of the House of Representatives a final report that—
+- **(f)** *Report to Congress* Not later than 270 days after the date of termination of the demonstration project, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources and the Committee on Energy and Commerce of the House of Representatives a final report that—
   - **(1)** describes the results of the projects funded by grants awarded under this section, including any data available that indicate the number of attempted suicides;
   - **(2)** evaluates the impact of the telemental health services funded by the grants in reducing the number of completed suicides among Indian youth;
   - **(3)** evaluates whether the demonstration project should be—
