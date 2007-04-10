@@ -1,7 +1,7 @@
 ---
 measure: S. 481
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 481
@@ -16,7 +16,7 @@ Tribal Colleges and Universities Faculty Loan Forgiveness Act
 
 - Sen. Conrad, Kent [D-ND] (C000705)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Sen. Domenici, Pete V. [R-NM] (D000407)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
@@ -24,6 +24,8 @@ Tribal Colleges and Universities Faculty Loan Forgiveness Act
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Thune, John [R-SD] (T000250)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Johnson, Tim [D-SD] (J000177)
 
 ## Committees (1)
 
@@ -34,3 +36,7 @@ Tribal Colleges and Universities Faculty Loan Forgiveness Act
 - 2007-02-01 — Introduced in Senate
 - 2007-02-01 — Read twice and referred to the Committee on Indian Affairs.
 - 2007-02-01 — Sponsor introductory remarks on measure. (CR S1530)
+- 2007-02-08 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2007-04-10 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-46.
+- 2007-04-10 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-46.
+- 2007-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.
