@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 76
 
-> Calling on the United States Government and the international community to promptly develop, fund, and implement a comprehensive regional strategy in Africa to protect civilians, facilitate humanitarian operations, contain and reduce violence, and contribute to conditions for sustainable peace in eastern Chad, the Central African Republic, and Darfur, Sudan.
+> Calling on the United States Government and the international community to promptly develop, fund, and implement a comprehensive regional strategy in Africa to protect civilians, facilitate humanitarian operations, contain and reduce violence, and contribute to conditions for sustainable peace in eastern Chad, northern Central African Republic, and Darfur, Sudan.
 
 ## Preamble
 
@@ -37,9 +37,13 @@ That the Senate—
 - **(3)** urges the Government of Chad to improve accountability and transparency as well as the provision of basic services to redeem the legitimacy of the Government in the eyes of its citizens;
 - **(4)** urges the Government of Chad to take action to increase political participation and to strengthen democratic institutions to ensure that all segments of society in Chad can participate in and benefit from a transparent, open, and capable government;
 - **(5)** urges the Government of Chad, the Government of Sudan, and other key regional and international stakeholders to commit to another round of inclusive political negotiations that can bring lasting peace and stability to the region;
-- **(6)** calls upon the President to advocate for the appointment of a senior United Nations official to direct and coordinate all international humanitarian activities on both sides of Sudan’s western border and expand the response to emergency needs related to the political and humanitarian situation in the Central African Republic;
-- **(7)** urges the President to utilize the resources and leverage at the President's disposal to press for the immediate deployment of an advance mission to eastern Chad to lay the groundwork for a robust multilateral and multidimensional presence;
-- **(8)** urges the United Nations Security Council to authorize a multilateral and multidimensional peacekeeping force to eastern Chad with the mandate and means—
+- **(6)** urges the Government of the Central African Republic—
+  - **(A)** to engage in constructive and inclusive dialogue with rebels in the northwestern region of the country;
+  - **(B)** to hold accountable security forces engaging in human rights violations; and
+  - **(C)** to strengthen government services in order to meet the needs of affected populations;
+- **(7)** calls upon the President to urge the United Nations Security Council to appoint a senior United Nations official to direct and coordinate all international humanitarian activities on both sides of Sudan’s western border and expand the response to emergency needs related to the political and humanitarian situation in the Central African Republic;
+- **(8)** urges the President to utilize the resources and leverage at the President's disposal to press for the immediate deployment of an advance United Nations mission to eastern Chad and northern Central African Republic to lay the groundwork for a robust multilateral and multidimensional presence;
+- **(9)** urges the United Nations Security Council to authorize a multilateral and multidimensional peacekeeping force to eastern Chad and northern Central African Republic with the mandate and means—
   - **(A)** to ensure effective protection of civilians, particularly refugees and internally displaced persons, including by preempting, preventing, and deterring attacks on civilians;
   - **(B)** to organize regular patrols along the western border of Sudan and implement practical protection measures for asylum seekers;
   - **(C)** to maintain the civilian and humanitarian nature of the internally displaced persons and refugee camps in Chad and facilitate the efforts of aid workers;
@@ -48,4 +52,4 @@ That the Senate—
   - **(F)** to coordinate and share information with humanitarian organizations, actively preserve unhindered humanitarian access to all displaced persons, and ensure the safety of all humanitarian workers in accordance with international humanitarian law;
   - **(G)** to collect and report evidence of human rights violations and perpetrators to the United Nations on a timely and regular basis; and
   - **(H)** to support domestic and multilateral initiatives to strengthen local judicial, police, and correctional systems in Chad; and
-- **(9)** urges the President and the international community to coordinate efforts to make available sufficient resources in support of this multilateral and multidimensional mission, as well as adequate assistance to meet the continuing humanitarian and security needs of the individuals and areas most affected by this conflict.
+- **(10)** urges the President and the international community to coordinate efforts to make available sufficient resources in support of this multilateral and multidimensional mission, as well as adequate assistance to meet the continuing humanitarian and security needs of the individuals and areas most affected by this conflict.
