@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 142
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 142
@@ -16,7 +16,7 @@ A resolution observing Yom Hashoah, Holocaust Memorial Day, and calling on the r
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Cosponsors (14)
+## Cosponsors (22)
 
 - Sen. Warner, John [R-VA] (W000154)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
@@ -32,6 +32,14 @@ A resolution observing Yom Hashoah, Holocaust Memorial Day, and calling on the r
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Obama, Barack [D-IL] (O000167)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Coleman, Norm [R-MN] (C001057)
 
 ## Committees (1)
 
@@ -42,3 +50,7 @@ A resolution observing Yom Hashoah, Holocaust Memorial Day, and calling on the r
 - 2007-04-10 — Introduced in Senate
 - 2007-04-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4312)
 - 2007-04-10 — Sponsor introductory remarks on measure. (CR S4312)
+- 2007-04-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S4391)
+- 2007-04-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S4391)
+- 2007-04-11 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S4391)
+- 2007-04-11 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S4391)
