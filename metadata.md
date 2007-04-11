@@ -1,7 +1,7 @@
 ---
 measure: S. 343
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 343
@@ -16,11 +16,13 @@ A bill to extend the District of Columbia College Access Act of 1999.
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
 ## Committees (1)
 
@@ -31,3 +33,7 @@ A bill to extend the District of Columbia College Access Act of 1999.
 - 2007-01-22 — Introduced in Senate
 - 2007-01-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S830-831)
 - 2007-01-22 — Sponsor introductory remarks on measure. (CR S830)
+- 2007-02-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-04-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-52.
+- 2007-04-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-52.
+- 2007-04-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.
