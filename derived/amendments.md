@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1003
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
