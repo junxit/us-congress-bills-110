@@ -1,7 +1,7 @@
 ---
 measure: S. 229
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 229
@@ -29,3 +29,7 @@ A bill to redesignate a Federal building in Albuquerque, New Mexico, as the "Ray
 - 2007-01-09 — Introduced in Senate
 - 2007-01-09 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced:  CR S299)
 - 2007-01-09 — Sponsor introductory remarks on measure. (CR S298-299)
+- 2007-04-12 — Passed Senate without amendment by Unanimous Consent. (text: CR S4455)
+- 2007-04-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4455)
+- 2007-04-12 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S4455)
+- 2007-04-12 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S4455)
