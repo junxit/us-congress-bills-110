@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(a)** *Increase in numbers admitted* Section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (8 U.S.C. 1101 note) is amended—
   - **(1)** in subsection (b)(1)—
-    - **(A)** in subparagraph (B), by striking “as a translator” and inserting “, or under Chief of Mission authority, as a translator or interpreter” ;
+    - **(A)** in subparagraph (B), by striking “as a translator” and inserting “, or under Chief of Mission authority, as a translator or interpreter”;
     - **(B)** in subparagraph (C), by inserting “the Chief of Mission or” after “recommendation from”; and
     - **(C)** in subparagraph (D), by inserting “the Chief of Mission or” after “as determined by”; and
   - **(2)** in subsection (c)(1), by striking “section during any fiscal year shall not exceed 50.” and inserting the following: “section—
