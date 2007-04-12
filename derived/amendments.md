@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1003
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
