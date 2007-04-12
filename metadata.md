@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1003
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1003
@@ -43,3 +43,7 @@ To amend the Foreign Affairs Reform and Restructuring Act of 1998 to reauthorize
 - 2007-03-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2444)
 - 2007-03-14 — Received in the Senate.
 - 2007-03-19 — Read twice and referred to the Committee on Foreign Relations.
+- 2007-03-28 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2007-04-12 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-55.
+- 2007-04-12 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-55.
+- 2007-04-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
