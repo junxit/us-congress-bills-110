@@ -1,7 +1,7 @@
 ---
 measure: S. 801
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 801
@@ -20,9 +20,10 @@ A bill to designate a United States courthouse located in Fresno, California, as
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A bill to designate a United States courthouse located in Fresno, California, as
 - 2007-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 106.
 - 2007-04-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4316-4317; text as passed Senate: CR S4316-4317)
 - 2007-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4316-4317; text as passed Senate: CR S4316-4317)
+- 2007-04-11 — Message on Senate action sent to the House.
+- 2007-04-16 — Received in the House.
+- 2007-04-16 — Referred to the House Committee on Transportation and Infrastructure.
