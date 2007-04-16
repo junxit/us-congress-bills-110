@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1677
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 1 executed, 13 stated and not applied.
+23 amendatory instructions. 1 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,8 +50,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (1) by striking “9 months” and inserting “2 years”, and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “9-month” and inserting “2-year”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6343 (relating to authority to release levy and return property) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | insert | Section 6103(m)(1) (relating to tax refunds) is amended by inserting after “media” and “, and through any other means of mass communication,”. | the bill names no machine-readable US Code section |
+| — | insert | Section 6103(m)(1) (relating to tax refunds) is amended by inserting “, and through any other means of mass communication,” after “media”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (f) of section 6011 (relating to promotion of electronic filing) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `31 U.S.C. § 333` | insert | Subsection (a) of section 333 of title 31, United States Code, is amended by inserting “internet domain address,” after “solicitation,” both places it appears. | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 333` | insert | Subsections (c)(2) and (d)(1) of section 333 of such Code are each amended by inserting “or any other mass communications by electronic means,” after “telecast,”. | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Section 32 (relating to earned income) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (b) of section 1445 (relating to exemptions) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (f) of section 1445 (relating to definitions) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (7) of section 1445(b) (relating to special rules for paragraphs (2) and (3)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (1) of section 1445(d) (relating to notice of false affidavit; foreign corporations) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (2) of section 1445(d) (relating to failure to furnish notice) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The heading for section 1445(d) is amended by striking “or transferee’s agents” and inserting “, transferee’s agents, or qualified substitutes”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (k) of section 6103 (relating to disclosure of certain return and return information for tax administration purposes) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (4) of section 6103(p) is amended by striking “(k)(8)” both places it appears and inserting “(k)(8) or (10)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (3) of section 7803(d) is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “; and”, and by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
