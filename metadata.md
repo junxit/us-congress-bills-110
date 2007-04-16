@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1515
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1515
@@ -29,3 +29,8 @@ To amend the Housing and Community Development Act of 1974 to treat certain comm
 - 2007-03-14 — Introduced in House
 - 2007-03-14 — Introduced in House
 - 2007-03-14 — Referred to the House Committee on Financial Services.
+- 2007-03-29 — Committee Consideration and Mark-up Session Held.
+- 2007-03-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-04-16 — Placed on the Union Calendar, Calendar No. 51.
+- 2007-04-16 — Reported by the Committee on Financial Services. H. Rept. 110-86.
+- 2007-04-16 — Reported by the Committee on Financial Services. H. Rept. 110-86.
