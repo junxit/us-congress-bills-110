@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-77 amendatory instructions. 19 executed, 58 stated and not applied.
+87 amendatory instructions. 19 executed, 68 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -188,12 +188,12 @@ to guess them.
 
 ### 42 U.S.C. § 1862n
 
-> in subsection (a)(3)(K) by striking “developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;” and inserting “developing educational programs and materials for use in and conducting mathematics or science enrichment programs for students, including after-school programs and summer camps for students described in subsection (b)(2)(G);”;
+> in subsection (a)(3)(K) by striking “developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;” and inserting “developing educational programs and materials and conducting mathematics, science, and technology enrichment programs for students, including after-school programs and summer camps for students described in subsection (b)(2)(G);”;
 
 | | |
 |---|---|
 | Removed | `developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;` |
-| Inserted | `developing educational programs and materials for use in and conducting mathematics or science enrichment programs for students, including after-school programs and summer camps for students described in subsection (b)(2)(G);` |
+| Inserted | `developing educational programs and materials and conducting mathematics, science, and technology enrichment programs for students, including after-school programs and summer camps for students described in subsection (b)(2)(G);` |
 
 ## Stated, not applied
 
@@ -218,19 +218,20 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n-1` | insert | by inserting “the type of activities proposed for the recruitment of students to the program,” after “intends to award,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | strike | by striking “scholarship or stipend”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862n-1` | replace | in subsection (b)(1), by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | redesignate | by redesignating subparagraphs (B), (C), (D), and (E) as subparagraphs (C), (D), (E) and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | redesignate | by redesignating subparagraphs (B), (C), (D), and (E) as subparagraphs (C), (D), (E) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | by inserting after subparagraph (A) a new subparagraph as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | redesignate | by amending subparagraph (F), as so redesignated by subparagraph (A) of this paragraph, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “, with a maximum service requirement of 6 years” after “was received”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | strike | by striking “Service required under this paragraph shall be performed in a high-need local educational agency.”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862n-1` | add-at-end | in subsection (c), by adding at the end a new paragraph as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | in subsection (d)(2), by inserting “and professional achievement” after “academic merit”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | strike | by striking “for each year a stipend was received”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1862n-1` | strike | by striking “multiplied by 2.” | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1862n-1` | strike | by striking “multiplied by 2.”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862n-1` | insert | in subsection (i)(3), by inserting “or had a career in” after “is working in”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862n-1` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862n-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | in the paragraph heading by inserting “Teacher” after “Noyce”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “Teacher” after “Noyce”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | strike | by striking “(A)”; | the bill quotes the text struck but describes what replaces it |
@@ -238,27 +239,36 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n` | insert | by inserting “, through 1 or more of its departments in science, mathematics, or engineering,” after “institution of higher education”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | insert | by inserting “content-specific” before “professional development programs”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | insert | by inserting “which are” before “designed”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862n` | insert | by inserting “and which may include teacher training activities to prepare mathematics and science teachers to teach Advanced Placement and International Baccalaureate mathematics and science courses” after “and science teachers”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n` | insert | by inserting “and which may include teacher training activities to prepare mathematics and science teachers to teach challenging mathematics, science, and technology college-preparatory courses, including Advanced Placement and Internati… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | insert | by inserting “and laboratory experiences” after “technology”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | insert | by inserting “and laboratory” after “provide technical”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | insert | in subsection (a)(3)(I) by inserting “including model induction programs for teachers in their first 2 years of teaching,” after “and science,”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | insert | in subsection (a) by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | redesignate | in subsection (b)(2) by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively, and inserting after subparagraph (D) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n` | strike | in subsection (b)(3)(A) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1862n` | redesignate | in subsection (b)(3) by redesignating subparagraph (B) as subparagraph (C) and inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | insert | in subsection (b) by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | insert | by inserting after paragraph (1) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in subparagraph (A) by striking “competitive, merit-based” and all that follows through “in recent years” and inserting | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B) by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1862n` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (A) by striking “competitive, merit-based” and all that follows through “in recent years.” and inserting | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(i)” before “The types of”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (i) through (vi) as subclauses (I) through (VI), respectively; | the bill names no machine-readable US Code section |
 | — | replace | by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D)(i), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D)(ii), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
 | — | add-at-end | after subparagraph (D)(iii), by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (E), by striking “under this paragraph” both places it appears and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (F) as subparagraph (J); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (E) the following new subparagraphs: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1862n` | amend | Section 4(8) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “master teacher” and inserting “teacher leader”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “master teacher” and inserting “teacher leader”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “master teachers” and inserting “teacher leaders”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(3)(E), by striking “master teachers” and inserting “teacher leaders”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “master teachers” and inserting “teacher leaders”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “master teachers” each place it appears and inserting “teacher leaders”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) through (F) as clauses (i) through (vi), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(A)” before “A program of competitive”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
