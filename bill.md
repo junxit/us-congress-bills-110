@@ -42,7 +42,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *In general* Chapter 77 (relating to miscellaneous provisions) is amended by adding at the end the following new section:
   > ## § 7529. Notification of suspected identity theft
   >
-  > If, in the course of an investigation under section 7206 (relating to fraud and false statements) or 7207 (relating to fraudulent returns, statements, or other documents), the Secretary determines that there may have been an unauthorized use of the identity of the taxpayer or dependents, the Secretary shall—
+  > If, in the course of an investigation under section 7206 (relating to fraud and false statements) or 7207 (relating to fraudulent returns, statements, or other documents), the Secretary determines that there was or may have been an unauthorized use of the identity of the taxpayer or dependents, the Secretary shall—
   >
   > - **(1)** as soon as practicable and without jeopardizing such investigation, notify the taxpayer of such determination, and
   > - **(2)** if any person is criminally charged by indictment or information under either of such sections, notify such taxpayer as soon as practicable of such charge.
@@ -78,17 +78,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 6. Clarification of IRS unclaimed refund authority
 
-Section 6103(m)(1) (relating to tax refunds) is amended by inserting after “media” and “, and through any other means of mass communication,”.
+Section 6103(m)(1) (relating to tax refunds) is amended by inserting “, and through any other means of mass communication,” after “media”.
 
 ## § 7. Prohibition on IRS debt indicators for predatory refund anticipation loans
 
 - **(a)** *In general* Subsection (f) of section 6011 (relating to promotion of electronic filing) is amended by adding at the end the following new paragraph:
   > - **(3)** *Prohibition on IRS debt indicators for predatory refund anticipation loans*
-  >   - **(A)** *In general* In carrying out any program under this subsection, the Secretary shall not provide a debt indicator to any person with respect to any refund anticipation loan if the Secretary determines that the business practices of such person involve refund anticipations loans and related charges and fees that are predatory.
+  >   - **(A)** *In general* In carrying out any program under this subsection, the Secretary shall not provide a debt indicator to any person with respect to any refund anticipation loan if the Secretary determines that the business practices of such person involve refund anticipation loans and related charges and fees that are predatory.
   >   - **(B)** *Refund anticipation loan* For purposes of this paragraph, the term refund anticipation loan means a loan of money or of any other thing of value to a taxpayer secured by the taxpayer’s anticipated receipt of a Federal tax refund.
   >   - **(C)** *IRS debt indicator* For purposes of this paragraph, the term debt indicator means a notification provided through a tax return’s acknowledgment file that a refund will be offset to repay debts for delinquent Federal or State taxes, student loans, child support, or other Federal agency debt.
 
-- **(b)** *Effective date* The amendment made by this section shall apply with respect to returns filed after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to determinations after the date of the enactment of this Act.
 
 ## § 8. Prohibition on misuse of Department of the Treasury names and symbols
 
@@ -106,3 +106,61 @@ Section 6103(m)(1) (relating to tax refunds) is amended by inserting after “me
   >   - **(2)** *Notice* Notice provided under paragraph (1) shall be in writing and sent to the last known address of the taxpayer.
 
 - **(b)** *Effective date* The amendment made by this section shall take effect on the date of the enactment of this Act.
+
+## § 10. Modification of rules pertaining to FIRPTA nonforeign affidavits
+
+- **(a)** *In general* Subsection (b) of section 1445 (relating to exemptions) is amended by adding at the end the following:
+  > - **(9)** *Alternative procedure for furnishing nonforeign affidavit* For purposes of paragraphs (2) and (7)—
+  >   - **(A)** *In general* Paragraph (2) shall be treated as applying to a transaction if, in connection with a disposition of a United States real property interest—
+  >     - **(i)** the affidavit specified in paragraph (2) is furnished to a qualified substitute, and
+  >     - **(ii)** the qualified substitute furnishes a statement to the transferee stating, under penalty of perjury, that the qualified substitute has such affidavit in his possession.
+  >   - **(B)** *Regulations* The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this paragraph.
+
+- **(b)** *Qualified substitute* Subsection (f) of section 1445 (relating to definitions) is amended by adding at the end the following new paragraph:
+  > - **(6)** *Qualified substitute* The term “qualified substitute” means, with respect to a disposition of a United States real property interest—
+  >   - **(A)** the person (including any attorney or title company) responsible for closing the transaction, other than the transferor’s agent, and
+  >   - **(B)** the transferee’s agent.
+
+- **(c)** *Exemption not To apply if knowledge or notice that affidavit or statement is false*
+  - **(1)** *In general* Paragraph (7) of section 1445(b) (relating to special rules for paragraphs (2) and (3)) is amended to read as follows:
+    > - **(7)** *Special rules for paragraphs (2), (3), and (9)* Paragraph (2), (3), or (9) (as the case may be) shall not apply to any disposition—
+    >   - **(A)** if—
+    >     - **(i)** the transferee or qualified substitute has actual knowledge that the affidavit referred to in such paragraph, or the statement referred to in paragraph (9)(A)(ii), is false, or
+    >     - **(ii)** the transferee or qualified substitute receives a notice (as described in subsection (d)) from a transferor’s agent, transferee’s agent, or qualified substitute that such affidavit or statement is false, or
+    >   - **(B)** if the Secretary by regulations requires the transferee or qualified substitute to furnish a copy of such affidavit or statement to the Secretary and the transferee or qualified substitute fails to furnish a copy of such affidavit or statement to the Secretary at such time and in such manner as required by such regulations.
+
+  - **(2)** *Liability*
+    - **(A)** *Notice* Paragraph (1) of section 1445(d) (relating to notice of false affidavit; foreign corporations) is amended to read as follows:
+      > - **(1)** *Notice of false affidavit; foreign corporations* If—
+      >   - **(A)** the transferor furnishes the transferee or qualified substitute an affidavit described in paragraph (2) of subsection (b) or a domestic corporation furnishes the transferee an affidavit described in paragraph (3) of subsection (b), and
+      >   - **(B)** in the case of—
+      >     - **(i)** any transferor’s agent—
+      >       - **(I)** such agent has actual knowledge that such affidavit is false, or
+      >       - **(II)** in the case of an affidavit described in subsection (b)(2) furnished by a corporation, such corporation is a foreign corporation, or
+      >     - **(ii)** any transferee’s agent or qualified substitute, such agent or substitute has actual knowledge that such affidavit is false,
+
+    - **(B)** *Failure to furnish notice* Paragraph (2) of section 1445(d) (relating to failure to furnish notice) is amended to read as follows:
+      > - **(2)** *Failure to furnish notice*
+      >   - **(A)** *In general* If any transferor’s agent, transferee’s agent, or qualified substitute is required by paragraph (1) to furnish notice, but fails to furnish such notice at such time or times and in such manner as may be required by regulations, such agent or substitute shall have the same duty to deduct and withhold that the transferee would have had if such agent or substitute had complied with paragraph (1).
+      >   - **(B)** *Liability limited to amount of compensation* An agent’s or substitute’s liability under subparagraph (A) shall be limited to the amount of compensation the agent or substitute derives from the transaction.
+
+    - **(C)** *Conforming amendment* The heading for section 1445(d) is amended by striking “or transferee’s agents” and inserting “, transferee’s agents, or qualified substitutes”.
+- **(d)** *Effective date* The amendments made by this section shall apply to dispositions of United States real property interests after the date of the enactment of this Act.
+
+## § 11. Disclosure of prisoner return information to Federal Bureau of Prisons
+
+- **(a)** *In general* Subsection (k) of section 6103 (relating to disclosure of certain return and return information for tax administration purposes) is amended by adding at the end the following new paragraph:
+  > - **(10)** *Disclosure of certain return information of prisoners to Federal Bureau of Prisons*
+  >   - **(A)** *In general* Under such procedures as the Secretary may prescribe, the Secretary may disclose to the head of the Federal Bureau of Prisons any return information with respect to individuals incarcerated in Federal prison whom the Secretary has determined may have filed or facilitated the filing of a false return to the extent that the Secretary determines that such disclosure is necessary to permit effective Federal tax administration.
+  >   - **(B)** *Restriction on redisclosure* Notwithstanding subsection (n), the head of the Federal Bureau of Prisons may not disclose any information obtained under subparagraph (A) to any person other than an officer or employee of such Bureau.
+  >   - **(C)** *Restriction on use of disclosed information* Return information received under this paragraph shall be used only for purposes of and to the extent necessary in taking administrative action to prevent the filing of false and fraudulent returns, including administrative actions to address possible violations of administrative rules and regulations of the prison facility.
+  >   - **(D)** *Annual report* In each of the calendar years 2007 through 2010, the Secretary shall submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison.
+  >   - **(E)** *Termination* No disclosure may be made under this paragraph after December 31, 2010.
+
+- **(b)** *Recordkeeping* Paragraph (4) of section 6103(p) is amended by striking “(k)(8)” both places it appears and inserting “(k)(8) or (10)”.
+- **(c)** *Evaluation by Treasury Inspector General for Tax Administration* Paragraph (3) of section 7803(d) is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “; and”, and by adding at the end the following new subparagraph:
+  > - **(C)** not later than December 31, 2009, submit a written report to Congress on the implementation of section 6103(k)(10).
+
+- **(d)** *Effective date*
+  - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to disclosures made after December 31, 2007.
+  - **(2)** *Annual report* Section 6103(k)(10)(D) of the Internal Revenue Code of 1986 (relating to annual reports), as added by this section, shall apply to reports submitted after the date of the enactment of this Act.

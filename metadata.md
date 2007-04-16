@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1677
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1677
@@ -29,3 +29,8 @@ Taxpayer Protection Act of 2007
 - 2007-03-26 — Introduced in House
 - 2007-03-26 — Introduced in House
 - 2007-03-26 — Referred to the House Committee on Ways and Means.
+- 2007-03-28 — Committee Consideration and Mark-up Session Held.
+- 2007-03-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-04-16 — Placed on the Union Calendar, Calendar No. 49.
+- 2007-04-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-84.
+- 2007-04-16 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-84.
