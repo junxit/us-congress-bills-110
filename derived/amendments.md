@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1681
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `36 U.S.C. § 300101` | insert | in subsection (a), by inserting “a federally chartered instrumentality of the United States and” before “a body corporate and politic”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 300101` | insert | in subsection (a), by inserting “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `36 U.S.C. § 300101` | insert | in subsection (b), by inserting at the end the following new sentence: “The corporation may conduct its business and affairs, and otherwise hold itself out, as the American Red Cross in any jurisdiction.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `36 U.S.C. § 300102` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `36 U.S.C. § 300102` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “policies and” before “regulations shall require”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “national convention” and inserting “annual meeting”. | the bill names no machine-readable US Code section |
 | — | amend | Section 300104 of title 36, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Paragraph (a)(1) of section 300105 of title 36, United States Code, is amended by striking “bylaws” and inserting “policies”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (a)(1) of section 300105 of title 36, United States Code, is amended by striking “bylaws” and inserting “policies”. | the bill names no machine-readable US Code section |
 | — | amend | Section 300107 of title 36, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking “nine” from the first sentence thereof; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the second sentence and inserting the following: “The corporation shall prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees.”. | the bill names no machine-readable US Code section |

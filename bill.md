@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “American National Red Cross Governance Modernization Act of 2007”.
+This Act may be cited as the “The American National Red Cross Governance Modernization Act of 2007”.
 
 ## § 2. Findings; Sense of Congress
 
@@ -29,8 +29,9 @@ This Act may be cited as the “American National Red Cross Governance Moderniza
     - **(F)** holding management accountable for performance;
     - **(G)** providing oversight of the financial stability of the corporation;
     - **(H)** ensuring the inclusiveness and diversity of the corporation;
-    - **(I)** providing oversight of the protection of the brand of the corporation; and
-    - **(J)** assisting with fundraising on behalf of the corporation.
+    - **(I)** ensuring the chapters of the corporation are geographically and regionally diverse;
+    - **(J)** providing oversight of the protection of the brand of the corporation; and
+    - **(K)** assisting with fundraising on behalf of the corporation.
   - **(6)**
     - **(A)** The selection of members of the Board of Governors is a critical component of effective governance for The American National Red Cross, and, as such, it is in the national interest that The American National Red Cross amend its bylaws to provide a method of selection consistent with that described in the Governance Report.
     - **(B)** The new method of selection should replace the current process by which—
@@ -48,14 +49,15 @@ This Act may be cited as the “American National Red Cross Governance Moderniza
 - **(b)** *Sense of Congress* It is the sense of Congress that—
   - **(1)** charitable organizations are an indispensable part of American society, but these organizations can only fulfill their important roles by maintaining the trust of the American public;
   - **(2)** trust is fostered by effective governance and transparency, which are the principal goals of the recommendations of the Board of Governors in the Governance Report and this Act;
-  - **(3)** Federal and State action play an important role in ensuring effective governance and transparency by setting standards, rooting out violations, and informing the public; and
-  - **(4)** while The American National Red Cross is and will remain a federally chartered instrumentality of the United States, and it has the rights and obligations consistent with that status, The American National Red Cross nevertheless should maintain appropriate communications with State regulators of charitable organizations and should cooperate with them as appropriate in specific matters as they arise from time to time.
+  - **(3)** Federal and State action play an important role in ensuring effective governance and transparency by setting standards, rooting out violations, and informing the public;
+  - **(4)** while The American National Red Cross is and will remain a Federally chartered instrumentality of the United States, and it has the rights and obligations consistent with that status, The American National Red Cross nevertheless should maintain appropriate communications with State regulators of charitable organizations and should cooperate with them as appropriate in specific matters as they arise from time to time; and
+  - **(5)** while The American National Red Cross is and will remain a Federally chartered instrumentality of the United States, and it has the rights and obligations consistent with that status, The American National Red Cross nevertheless should maintain appropriate communications and collaborations with local, community, and faith-based non-profit organizations, including those organizations that work within minority communities.
 
 ## § 3. Organization
 
 Section 300101 of title 36, United States Code, is amended—
 
-- **(1)** in subsection (a), by inserting “a federally chartered instrumentality of the United States and” before “a body corporate and politic”; and
+- **(1)** in subsection (a), by inserting “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”; and
 - **(2)** in subsection (b), by inserting at the end the following new sentence: “The corporation may conduct its business and affairs, and otherwise hold itself out, as the “American Red Cross” in any jurisdiction.”.
 
 ## § 4. Purposes
@@ -130,7 +132,7 @@ Section 300104 of title 36, United States Code, is amended to read as follows:
 
 ## § 7. Powers
 
-Paragraph (a)(1) of section 300105 of title 36, United States Code, is amended by striking “bylaws” and inserting “policies”.
+Subsection (a)(1) of section 300105 of title 36, United States Code, is amended by striking “bylaws” and inserting “policies”.
 
 ## § 8. Annual meeting
 
