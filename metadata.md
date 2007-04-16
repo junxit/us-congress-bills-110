@@ -1,7 +1,7 @@
 ---
 measure: S. 801
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 801
@@ -39,3 +39,17 @@ A bill to designate a United States courthouse located in Fresno, California, as
 - 2007-04-11 — Message on Senate action sent to the House.
 - 2007-04-16 — Received in the House.
 - 2007-04-16 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-04-17 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-06-25 — Cleared for White House.
+- 2007-06-25 — Considered under suspension of the rules. (consideration: CR H7013-7014)
+- 2007-06-25 — DEBATE - The House proceeded with forty minutes of debate on S. 801.
+- 2007-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-25 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7013-7014)
+- 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7013-7014)
+- 2007-06-28 — Presented to President.
+- 2007-06-28 — Presented to President.
+- 2007-07-05 — Became Public Law No: 110-46.
+- 2007-07-05 — Became Public Law No: 110-46.
+- 2007-07-05 — Signed by President.
+- 2007-07-05 — Signed by President.
