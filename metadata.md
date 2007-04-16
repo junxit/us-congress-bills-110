@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1257
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1257
@@ -16,7 +16,7 @@ Shareholder Vote on Executive Compensation Act
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Cosponsors (21)
+## Cosponsors (27)
 
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -39,6 +39,12 @@ Shareholder Vote on Executive Compensation Act
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
 ## Committees (1)
 
@@ -49,3 +55,10 @@ Shareholder Vote on Executive Compensation Act
 - 2007-03-01 — Introduced in House
 - 2007-03-01 — Introduced in House
 - 2007-03-01 — Referred to the House Committee on Financial Services.
+- 2007-03-08 — Committee Hearings Held.
+- 2007-03-21 — Committee Consideration and Mark-up Session Held.
+- 2007-03-28 — Committee Consideration and Mark-up Session Held.
+- 2007-03-28 — Ordered to be Reported (Amended) by the Yeas and Nays: 37 - 29.
+- 2007-04-16 — Placed on the Union Calendar, Calendar No. 53.
+- 2007-04-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-88.
+- 2007-04-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-88.
