@@ -1,7 +1,7 @@
 ---
 measure: S. 1104
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1104
@@ -30,8 +30,15 @@ A bill to increase the number of Iraqi and Afghani translators and interpreters 
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2007-04-12 — Introduced in Senate
 - 2007-04-12 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4454-4455; text as passed Senate: CR S4455)
 - 2007-04-12 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4454-4455; text as passed Senate: CR S4455)
+- 2007-04-13 — Message on Senate action sent to the House.
+- 2007-04-16 — Received in the House.
+- 2007-04-16 — Referred to the House Committee on the Judiciary.
