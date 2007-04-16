@@ -1,7 +1,7 @@
 ---
 measure: S. 229
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 229
@@ -20,9 +20,10 @@ A bill to redesignate a Federal building in Albuquerque, New Mexico, as the "Ray
 
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A bill to redesignate a Federal building in Albuquerque, New Mexico, as the "Ray
 - 2007-04-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4455)
 - 2007-04-12 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S4455)
 - 2007-04-12 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S4455)
+- 2007-04-13 — Message on Senate action sent to the House.
+- 2007-04-16 — Received in the House.
+- 2007-04-16 — Referred to the House Committee on Veterans' Affairs.
