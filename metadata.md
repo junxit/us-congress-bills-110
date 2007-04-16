@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 88
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 88
@@ -16,7 +16,7 @@ Honoring the life of Ernest Gallo.
 
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
 
-## Cosponsors (37)
+## Cosponsors (57)
 
 - Rep. Radanovich, George [R-CA-19] (R000004)
 - Rep. Thompson, Mike [D-CA-1] (T000460)
@@ -55,6 +55,26 @@ Honoring the life of Ernest Gallo.
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
 - Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Tanner, John S. [D-TN-8] (T000038)
+- Rep. Lewis, Jerry [R-CA-41] (L000274)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
 
 ## Committees (1)
 
@@ -65,3 +85,11 @@ Honoring the life of Ernest Gallo.
 - 2007-03-09 — Introduced in House
 - 2007-03-09 — Introduced in House
 - 2007-03-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-03-29 — Committee Consideration and Mark-up Session Held.
+- 2007-03-29 — Ordered to be Reported by Voice Vote.
+- 2007-04-16 — Considered under suspension of the rules. (consideration: CR H3389-3391)
+- 2007-04-16 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 88.
+- 2007-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-16 — Ms. Watson moved to suspend the rules and agree to the resolution.
+- 2007-04-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3389)
+- 2007-04-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3389)
