@@ -23,9 +23,9 @@ This Act may be cited as the “Jean Lafitte National Historical Park and Preser
       >   - **(1)** *Barataria preserve unit*
       >     - **(A)** *In general* The Secretary may acquire any land, water, and interests in land and water within the boundary of the Barataria Preserve Unit, as depicted on the map described in section 901, by donation, purchase with donated or appropriated funds, but only with the consent of the owner, transfer from any other Federal agency, or exchange.
       >     - **(B)** *Limitations*
-      >       - **(I)** *Federal land* Any Federal land acquired in the areas identified on the map as the “Bayou aux Carpes Addition” and “CIT Tract Addition” (the “Areas”) shall be transferred without consideration to the administrative jurisdiction of the National Park Service.
-      >       - **(II)** *Easements* Any Federal land in the Areas that is transferred under clause (I) shall be subject to any easements that have been agreed to by the Secretary and the Secretary of the Army.
-      >       - **(III)** *Private interests* Any private land, water, or interests in land and water in the Barataria Preserve Unit may be acquired by the Secretary only with the consent of the owner.
+      >       - **(i)** *Federal land* Any Federal land acquired in the areas identified on the map as the “Bayou aux Carpes Addition” and “CIT Tract Addition” (the “Areas”) shall be transferred without consideration to the administrative jurisdiction of the National Park Service.
+      >       - **(ii)** *Easements* Any Federal land in the Areas that is transferred under clause (I) shall be subject to any easements that have been agreed to by the Secretary and the Secretary of the Army.
+      >       - **(iii)** *Private interests* Any private land, water, or interests in land and water in the Barataria Preserve Unit may be acquired by the Secretary only with the consent of the owner.
 
     - **(B)** in the second sentence, by striking “The Secretary may also” and inserting the following:
       > - **(2)** *French quarter* The Secretary may
