@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 273
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 273
@@ -16,7 +16,7 @@ Supporting the goals and ideals of Financial Literacy Month, and for other purpo
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Cosponsors (113)
+## Cosponsors (119)
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Frank, Barney [D-MA-4] (F000339)
@@ -131,13 +131,33 @@ Supporting the goals and ideals of Financial Literacy Month, and for other purpo
 - Rep. Lynch, Stephen F. [D-MA-9] (L000562)
 - Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2007-04-17 — [House 110-1-217](votes/house-110-1-0217.md) — On Motion to Suspend the Rules and Agree — **Passed** (414–2)
 
 ## Actions
 
 - 2007-03-27 — Introduced in House
 - 2007-03-27 — Introduced in House
 - 2007-03-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-03-29 — Committee Consideration and Mark-up Session Held.
+- 2007-03-29 — Ordered to be Reported by Voice Vote.
+- 2007-04-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed until April 17.
+- 2007-04-16 — Considered under suspension of the rules. (consideration: CR H3379-3387)
+- 2007-04-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 273.
+- 2007-04-16 — Ms. Watson moved to suspend the rules and agree to the resolution.
+- 2007-04-17 — Considered as unfinished business. (consideration: CR H3437-3438)
+- 2007-04-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 217). (text: CR 4/16/2007 H3379-3380)
+- 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 217).(text: CR 4/16/2007 H3379-3380)
