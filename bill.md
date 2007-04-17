@@ -121,7 +121,7 @@ Section 6103(m)(1) (relating to tax refunds) is amended by inserting “, and th
   >   - **(A)** the person (including any attorney or title company) responsible for closing the transaction, other than the transferor’s agent, and
   >   - **(B)** the transferee’s agent.
 
-- **(c)** *Exemption not To apply if knowledge or notice that affidavit or statement is false*
+- **(c)** *Exemption not to apply if knowledge or notice that affidavit or statement is false*
   - **(1)** *In general* Paragraph (7) of section 1445(b) (relating to special rules for paragraphs (2) and (3)) is amended to read as follows:
     > - **(7)** *Special rules for paragraphs (2), (3), and (9)* Paragraph (2), (3), or (9) (as the case may be) shall not apply to any disposition—
     >   - **(A)** if—
@@ -164,3 +164,10 @@ Section 6103(m)(1) (relating to tax refunds) is amended by inserting “, and th
 - **(d)** *Effective date*
   - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this section shall apply to disclosures made after December 31, 2007.
   - **(2)** *Annual report* Section 6103(k)(10)(D) of the Internal Revenue Code of 1986 (relating to annual reports), as added by this section, shall apply to reports submitted after the date of the enactment of this Act.
+
+## § 12. Increase in penalty for bad checks and money orders
+
+- **(a)** *In general* Section 6657 (relating to bad checks) is amended—
+  - **(1)** by striking “$750” and inserting “$1,250”, and
+  - **(2)** by striking “$15” and inserting “$25”.
+- **(b)** *Effective date* The amendments made by this section shall apply to checks or money orders received after the date of the enactment of this Act.
