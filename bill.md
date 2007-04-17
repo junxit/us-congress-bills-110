@@ -23,17 +23,13 @@ The purpose of this Act is to establish a demonstration program to facilitate la
   - **(3)** Eradication of disease, insects, or invasive species within the unit.
   - **(4)** Fuel load reduction within the unit.
 
-## § 3. Reports
+## § 3. Report
 
-- **(a)** *Timeline* Six months after the date of the enactment of this Act, the Secretary shall submit a report to the House Resources Committee and the Senate Committee on Energy and Natural Resources that contains a specific timeline for timber removal in each of the units authorized to participate in the demonstration program under this Act. The timeline shall list—
-  - **(1)** those units that are ready to remove timber immediately;
-  - **(2)** those units that will be able to remove the timber within 6 months;
-  - **(3)** those units that will take longer than 6 months to remove the timber and an explanation why that removal will take longer than 6 months; and
-  - **(4)** those units where further timber removal is inappropriate and an explanation of why it is inappropriate.
-- **(b)** *Results* Two years after the date of enactment of this Act, the Secretary shall submit a report to the House Resources Committee and the Senate Committee on Energy and Natural Resources that contains the results of the demonstration program authorized under this Act, including—
-  - **(1)** a detailed accounting of the receipts generated in each unit by the demonstration program;
-  - **(2)** the expenditure by each unit of those receipts; and
-  - **(3)** any resource or other impacts, positive or negative, on each participating unit.
+Two years after the date of enactment of this Act, the Secretary shall submit a report to the House Natural Resources Committee and the Senate Committee on Energy and Natural Resources that contains the results of the demonstration program authorized under this Act, including—
+
+- **(1)** a detailed accounting of the receipts generated in each unit by the demonstration program;
+- **(2)** the expenditure by each unit of those receipts; and
+- **(3)** any resource or other impacts, positive or negative, on each participating unit.
 
 ## § 4. Sunset
 
