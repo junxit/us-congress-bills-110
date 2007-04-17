@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1681
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 0 executed, 18 stated and not applied.
+18 amendatory instructions. 3 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 36 U.S.C. § 300103
+
+> by striking “board of governors” and inserting “corporation”; and
+
+| | |
+|---|---|
+| Removed | `board of governors` |
+| Inserted | `corporation` |
+
+### 36 U.S.C. § 300103
+
+> by striking “national convention” and inserting “annual meeting”.
+
+| | |
+|---|---|
+| Removed | `national convention` |
+| Inserted | `annual meeting` |
+
+### 36 U.S.C. § 300105
+
+> Subsection (a)(1) of section 300105 of title 36, United States Code, is amended by striking “bylaws” and inserting “policies”.
+
+| | |
+|---|---|
+| Removed | `bylaws` |
+| Inserted | `policies` |
 
 ## Stated, not applied
 
@@ -36,16 +65,13 @@ complete account of the bill's effect, which it is not.
 | `36 U.S.C. § 300102` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `36 U.S.C. § 300102` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `36 U.S.C. § 300102` | add-at-end | by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | in subsection (a), by inserting “, or as otherwise provided,” before “in the bylaws”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “board of governors” and inserting “corporation”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “policies and” before “regulations related”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “policies and” before “regulations shall require”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “national convention” and inserting “annual meeting”. | the bill names no machine-readable US Code section |
-| — | amend | Section 300104 of title 36, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (a)(1) of section 300105 of title 36, United States Code, is amended by striking “bylaws” and inserting “policies”. | the bill names no machine-readable US Code section |
-| — | amend | Section 300107 of title 36, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | by striking “nine” from the first sentence thereof; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the second sentence and inserting the following: “The corporation shall prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees.”. | the bill names no machine-readable US Code section |
+| `36 U.S.C. § 300103` | insert | in subsection (a), by inserting “, or as otherwise provided,” before “in the bylaws”; | the bill quotes the text inserted but describes where it goes |
+| `36 U.S.C. § 300103` | insert | by inserting “policies and” before “regulations related”; and | the bill quotes the text inserted but describes where it goes |
+| `36 U.S.C. § 300103` | insert | by inserting “policies and” before “regulations shall require”; and | the bill quotes the text inserted but describes where it goes |
+| `36 U.S.C. § 300104` | amend | Section 300104 of title 36, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 300107` | amend | Section 300107 of title 36, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 300109` | strike | by striking “nine” from the first sentence thereof; and | the bill quotes the text struck but describes what replaces it |
+| `36 U.S.C. § 300109` | replace | by striking the second sentence and inserting the following: “The corporation shall prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `36 U.S.C. § 300110` | amend | Subsection (a) of section 300110 of title 36, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Chapter 3001 of title 36, United States Code, is amended by redesignating section 300111 as section 300113 and by inserting after section 300110 the following new sections: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections for chapter 3001 of title 36, United States Code, is amended by striking the item relating to section 300111 and inserting the following: | the bill names no machine-readable US Code section |
