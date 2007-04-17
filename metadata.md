@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 88
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 88
@@ -93,3 +93,4 @@ Honoring the life of Ernest Gallo.
 - 2007-04-16 — Ms. Watson moved to suspend the rules and agree to the resolution.
 - 2007-04-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3389)
 - 2007-04-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3389)
+- 2007-04-17 — Received in the Senate.
