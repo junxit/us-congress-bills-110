@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 88
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 88
@@ -17,6 +17,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Ernest Gallo, demonstrating great vision, anticipated the growth of the wine industry and developed the first-of-its kind vertically integrated company, with vineyards stretching across California, an on-site bottling plant, and an art department to design bottles and labels, changing the face of California’s wine industry;
 - Whereas the Gallo Winery employs 4,600 people in the State of California, providing critical highly-skilled employment opportunities in the San Joaquin Valley and greatly contributing to the economic strength of the State;
 - Whereas Ernest Gallo and the Gallo Winery were bestowed countless awards for achievement in winemaking, including the American Society of Enologists Merit Award, the wine industry’s highest honor, in 1964 for outstanding leadership in the wine industry, the Gold Vine Award from the Brotherhood of the Knights of the Vine wine fraternity, the 1983 Distinguished Service Award from The Wine Spectator, and the Winery of the Year Award in both 1996 and 1998 by the San Francisco International Wine Competition; and
-- Whereas Ernest Gallo was widely known for his generous philanthropic work in the City of Modesto and throughout the state of California, including an endowment for the Gallo Center for the Arts in Modesto, the establishment of the Ernest Gallo Clinic and Research Center at the University of California at San Francisco for research into genetic, biochemical, and neurobiological aspects of alcohol abuse, and countless other healthcare and educational endeavors: Now, therefore, be it
+- Whereas Ernest Gallo was widely known for his generous philanthropic work in the City of Modesto and throughout the State of California, including an endowment for the Gallo Center for the Arts in Modesto, the establishment of the Ernest Gallo Clinic and Research Center at the University of California at San Francisco for research into genetic, biochemical, and neurobiological aspects of alcohol abuse, and countless other healthcare and educational endeavors: Now, therefore, be it
 
 That Congress honors the life of Ernest Gallo, a pioneer in the field of winemaking, dedicated philanthropist, and community leader.

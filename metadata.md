@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 88
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 88
@@ -94,3 +94,6 @@ Honoring the life of Ernest Gallo.
 - 2007-04-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3389)
 - 2007-04-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3389)
 - 2007-04-17 — Received in the Senate.
+- 2007-04-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4722)
+- 2007-04-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4722)
+- 2007-04-19 — Message on Senate action sent to the House.
