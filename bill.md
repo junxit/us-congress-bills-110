@@ -2,7 +2,7 @@
 legis-num: H. RES. 196
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 196
