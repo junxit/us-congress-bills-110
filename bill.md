@@ -51,3 +51,4 @@ This Act may be cited as the “Steel Industry National Historic Site Act”.
     - **(B)** an appropriate official of the Steel Industry Heritage Corporation; and
     - **(C)** private property owners in the vicinity of the historic site.
   - **(3)** *Submission of plan to congress* Upon the completion of the general management plan, the Secretary shall submit a copy of the plan to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate.
+- **(i)** *Authorization of Appropriations* There is authorized to be appropriated not more than $30,000,000 for development of the historic site.
