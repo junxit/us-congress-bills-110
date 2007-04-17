@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 71
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 71
@@ -16,9 +16,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas since its inception, AHEPA has instilled in its members an understanding of their Hellenic heritage and an awareness of the contributions made to the development of democratic principles and governance in the United States and throughout the world;
 - Whereas AHEPA has done much throughout its history to foster American patriotism;
 - Whereas members of AHEPA served in the Armed Forces of the United States to protect American freedom and to preserve those democratic ideals that are part of the Hellenic legacy, and specifically in World War II, were parachuted behind enemy lines in Nazi-occupied Greece to help liberate it;
-- Whereas AHEPA raised more than $253 million for United States War Bonds during World War II, for which AHEPA was named an official Issuing Agent for United States War Bonds by the Department of Treasury, an honor that no other civic organization was able to achieve at the time;
+- Whereas AHEPA raised more than $253 million for United States War Bonds during World War II, for which AHEPA was named an official Issuing Agent for United States War Bonds by the Department of the Treasury, an honor that no other civic organization was able to achieve at the time;
 - Whereas the members of AHEPA donated $612,000 toward the restoration of the Statue of Liberty and Ellis Island, New York, for which AHEPA received special recognition by the Department of the Interior;
-- Whereas the AHEPA National Housing Program was awarded $500 million by the Department of Housing and Urban Development for its Section 202 Program that has yielded 4,370 units in 80 properties across 21 states and 49 cities which has provided dignified, affordable housing to senior citizens;
+- Whereas the AHEPA National Housing Program was awarded $500 million by the Department of Housing and Urban Development for its Section 202 Program that has yielded 4,370 units in 80 properties across 21 States and 49 cities which has provided dignified, affordable housing to senior citizens;
 - Whereas AHEPA was recognized by the Department of State as an organization that has engaged in “Track Two Diplomacy” to foster reconciliation and rapprochement in the Eastern Mediterranean, which is in the best interest of the United States;
 - Whereas members of AHEPA raised $110,000 for the creation of the George C. Marshall Statue erected on the grounds of the United States Embassy in Athens, Greece in celebration of the historic relationship between the United States and Greece, and in tribute to an outstanding Statesman and Philhellene, General Marshall;
 - Whereas AHEPA financially supports scholarships, educational chairs, medical research, and countless other charitable and philanthropic causes by contributing more than $2,000,000 annually from its national, district, and local levels collectively;
@@ -28,6 +28,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Congress—
 
-- **(1)** recognizes the significant contributions of American citizens of Hellenic heritage to the United States,
-- **(2)** commemorates the 85th Anniversary of the founding of the American Hellenic Educational Progressive Association (AHEPA), applauds its mission, and commends the many charitable contributions of its members to communities around the world, and
+- **(1)** recognizes the significant contributions of American citizens of Hellenic heritage to the United States;
+- **(2)** commemorates the 85th Anniversary of the founding of the American Hellenic Educational Progressive Association (AHEPA), applauds its mission, and commends the many charitable contributions of its members to communities around the world; and
 - **(3)** requests the President of the United States to issue a proclamation acknowledging the 85th Anniversary of AHEPA and its many accomplishments.

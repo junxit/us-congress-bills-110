@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 71
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 71
@@ -95,3 +95,8 @@ Commemorating the 85th Anniversary of the founding of the American Hellenic Educ
 - 2007-04-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3387)
 - 2007-04-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3387)
 - 2007-04-17 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2007-05-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2007-05-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2007-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6078)
+- 2007-05-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6078)
+- 2007-05-15 — Message on Senate action sent to the House.
