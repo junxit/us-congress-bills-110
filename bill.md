@@ -61,8 +61,7 @@ In this Act:
       - **(i)** compensation for each right-of-way based on an appraisal conducted in conformity with the version of the Uniform Appraisal Standards for Federal Land Acquisitions that is correct as of the date of the compensation proceeding; and
       - **(ii)** interest calculated based on the section 3116 of title 40, United States Code.
     - **(B)** *Date of valuation* For purposes of subparagraph (A), the date of valuation of the acquisition by the Association of each right-of-way shall be considered to be the date of enactment of this Act.
-  - **(3)** *Source of compensation payments* Notwithstanding any other provision of law, any compensation payments required by this subsection shall be paid on a nonreimbursable basis from the permanent judgment appropriation under section 1304 of title 31, United States Code.
-  - **(4)** *Judicial review* Notwithstanding any other provision of law, judicial review under this subsection shall be limited to a review of the determination of the Secretary under paragraph (2) regarding the compensation for a right-of-way over a Native allotment.
+  - **(3)** *Judicial review* Notwithstanding any other provision of law, judicial review under this subsection shall be limited to a review of the determination of the Secretary under paragraph (2) regarding the compensation for a right-of-way over a Native allotment.
 
 ## § 4. Authorization of appropriations
 
