@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 1868
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1868
+
+> To authorize appropriations for the National Institute of Standards and Technology for fiscal years 2008, 2009, and 2010, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Technology Innovation and Manufacturing Stimulation Act of 2007”.
