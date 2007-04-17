@@ -20,7 +20,7 @@ As used in this Act, the following definitions apply:
 
 ## § 2. Authorization
 
-The Secretary is authorized to pay the amount owed to the subcontractors of PGI for work performed at the park under an IDIQ with PGI between fiscal years 2002 and 2003 provided that—
+The Secretary is authorized, subject to the appropriation of such funds as may be necessary, to pay the amount owed to the subcontractors of PGI for work performed at the park under an IDIQ with PGI between fiscal years 2002 and 2003, provided that—
 
 - **(1)** the primary contract between PGI and the National Park Service is terminated;
 - **(2)** the amount owed to the subcontractors is verified;
