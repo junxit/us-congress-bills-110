@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1515
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Paragraph (4) of section 102(a) of the Housing and Community Development Act of 1974 (42 U.S.C. 5302) is amended by adding at the end the following new sentence: “Notwithstanding any other provision of this paragraph, with respect to any… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5302` | add-at-end | Paragraph (4) of section 102(a) of the Housing and Community Development Act of 1974 (42 U.S.C. 5302) is amended by adding at the end the following new sentence: “Notwithstanding any other provision of this paragraph, with respect to any… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
