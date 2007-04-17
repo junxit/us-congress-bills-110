@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 217
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 217
@@ -25,3 +25,9 @@ Expressing the sense of the House of Representatives concerning the 50th anniver
 - 2007-03-06 — Introduced in House
 - 2007-03-06 — Introduced in House
 - 2007-03-06 — Referred to the House Committee on Natural Resources.
+- 2007-04-17 — Considered under suspension of the rules. (consideration: CR H3409-3412)
+- 2007-04-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 217.
+- 2007-04-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-17 — Mr. Grijalva moved to suspend the rules and agree to the resolution.
+- 2007-04-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3409)
+- 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3409)
