@@ -1,7 +1,7 @@
 ---
 measure: H.R. 988
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 988
@@ -73,9 +73,10 @@ To designate the facility of the United States Postal Service located at 5757 Ti
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ To designate the facility of the United States Postal Service located at 5757 Ti
 - 2007-04-16 — Ms. Watson moved to suspend the rules and pass the bill.
 - 2007-04-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3378)
 - 2007-04-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3378)
+- 2007-04-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
