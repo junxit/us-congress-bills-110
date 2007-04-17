@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 71
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 71
@@ -76,9 +76,10 @@ Commemorating the 85th Anniversary of the founding of the American Hellenic Educ
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -93,3 +94,4 @@ Commemorating the 85th Anniversary of the founding of the American Hellenic Educ
 - 2007-04-16 — Ms. Watson moved to suspend the rules and agree to the resolution.
 - 2007-04-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3387)
 - 2007-04-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3387)
+- 2007-04-17 — Received in the Senate and referred to the Committee on the Judiciary.
