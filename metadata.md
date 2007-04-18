@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1281
@@ -16,7 +16,7 @@ Deceptive Practices and Voter Intimidation Prevention Act of 2007
 
 - Rep. Emanuel, Rahm [D-IL-5] (E000287)
 
-## Cosponsors (43)
+## Cosponsors (60)
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
@@ -61,6 +61,23 @@ Deceptive Practices and Voter Intimidation Prevention Act of 2007
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Price, David E. [D-NC-4] (P000523)
 
 ## Committees (1)
 
@@ -71,3 +88,8 @@ Deceptive Practices and Voter Intimidation Prevention Act of 2007
 - 2007-03-01 — Introduced in House
 - 2007-03-01 — Introduced in House
 - 2007-03-01 — Referred to the House Committee on the Judiciary.
+- 2007-03-29 — Committee Consideration and Mark-up Session Held.
+- 2007-03-29 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-04-18 — Placed on the Union Calendar, Calendar No. 61.
+- 2007-04-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-101.
+- 2007-04-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-101.
