@@ -1,7 +1,7 @@
 ---
 measure: H.R. 786
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 786
@@ -20,9 +20,10 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2007-04-17 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-04-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3413)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3413)
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
