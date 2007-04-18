@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1681
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1681
@@ -50,3 +50,13 @@ American National Red Cross Governance Modernization Act of 2007
 - 2007-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3429-3431)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3429-3431)
 - 2007-04-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.
+- 2007-04-23 — Cleared for White House.
+- 2007-04-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4863-4864)
+- 2007-04-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4863-4864)
+- 2007-04-24 — Message on Senate action sent to the House.
+- 2007-05-01 — Presented to President.
+- 2007-05-01 — Presented to President.
+- 2007-05-11 — Became Public Law No: 110-26.
+- 2007-05-11 — Became Public Law No: 110-26.
+- 2007-05-11 — Signed by President.
+- 2007-05-11 — Signed by President.
