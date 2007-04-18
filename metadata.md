@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 305
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 305
@@ -49,3 +49,9 @@ Honoring the 53,000 soldiers, sailors, airmen, Marines, and civilians that compr
 - 2007-04-17 — Introduced in House
 - 2007-04-17 — Introduced in House
 - 2007-04-17 — Referred to the House Committee on Armed Services.
+- 2007-04-18 — Considered under suspension of the rules. (consideration: CR H3494-3499)
+- 2007-04-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 305.
+- 2007-04-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-18 — Mr. Smith (WA) moved to suspend the rules and agree to the resolution.
+- 2007-04-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H3494-3495)
+- 2007-04-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H3494-3495)
