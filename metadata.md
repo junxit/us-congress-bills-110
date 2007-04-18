@@ -1,7 +1,7 @@
 ---
 measure: H.R. 815
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 815
@@ -16,9 +16,10 @@ Southern Nevada Readiness Center Act
 
 - Rep. Porter, Jon C. [R-NV-3] (P000589)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Southern Nevada Readiness Center Act
 - 2007-04-17 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-04-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3415)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3415)
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
