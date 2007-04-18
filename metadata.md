@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 76
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 76
@@ -26,9 +26,10 @@ Honoring the 50th Anniversary of the International Geophysical Year (IGY) and it
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Lampson, Nick [D-TX-22] (L000043)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Honoring the 50th Anniversary of the International Geophysical Year (IGY) and it
 - 2007-04-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-04-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 218). (text: CR 4/16/2007 H3391)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 218).(text: CR 4/16/2007 H3391)
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
