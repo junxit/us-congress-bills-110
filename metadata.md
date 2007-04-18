@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 306
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 306
@@ -38,3 +38,11 @@ Offering heartfelt condolences to the victims and their families regarding the h
 - 2007-04-17 — Introduced in House
 - 2007-04-17 — Introduced in House
 - 2007-04-17 — Referred to the House Committee on Education and Labor.
+- 2007-04-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-04-18 — Considered as unfinished business. (consideration: CR H3510-3511)
+- 2007-04-18 — Considered under suspension of the rules. (consideration: CR H3486-3492)
+- 2007-04-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 306.
+- 2007-04-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-18 — Mr. Scott (VA) moved to suspend the rules and agree to the resolution.
+- 2007-04-18 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 221). (text: CR H3486)
+- 2007-04-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 221).(text: CR H3486)
