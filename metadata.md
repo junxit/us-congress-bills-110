@@ -1,7 +1,7 @@
 ---
 measure: H.R. 609
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 609
@@ -16,9 +16,10 @@ Central Texas Water Recycling Act of 2007
 
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ Central Texas Water Recycling Act of 2007
 - 2007-04-17 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-04-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3412)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3412)
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
