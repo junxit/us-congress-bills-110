@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 1681
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 1681
@@ -17,7 +17,7 @@ This Act may be cited as the “The American National Red Cross Governance Moder
 
 - **(a)** *Findings* Congress makes the following findings:
   - **(1)** Substantive changes to the Congressional Charter of The American National Red Cross have not been made since 1947.
-  - **(2)** In February 2006, the board of governors of The American National Red Cross (the “Board of Governors”) commissioned an independent review and analysis of the Board of Governors’ role, composition, size, relationship with management, governance relationship with chartered units of The American National Red Cross, and whistleblower and audit functions.
+  - **(2)** In February 2006, the board of governors of The American National Red Cross (the “Board of Governors”) commissioned an independent review and analysis of the Board of Governors’ role, composition, size, relationship with management, governance relationship with chartered units of The American National Red Cross, and whistle blower and audit functions.
   - **(3)** In an October 2006 report of the Board of Governors, entitled “American Red Cross Governance for the 21st Century” (the “Governance Report”), the Board of Governors recommended changes to the Congressional Charter, bylaws, and other governing documents of The American National Red Cross to modernize and enhance the effectiveness of the Board of Governors and governance structure of The American National Red Cross.
   - **(4)** It is in the national interest to create a more efficient governance structure of The American National Red Cross and to enhance the Board of Governors’ ability to support the critical mission of The American National Red Cross in the 21st century.
   - **(5)** It is in the national interest to clarify the role of the Board of Governors as a governance and strategic oversight board and for The American National Red Cross to amend its bylaws, consistent with the recommendations described in the Governance Report, to clarify the role of the Board of Governors and to outline the areas of its responsibility, including—
@@ -29,7 +29,7 @@ This Act may be cited as the “The American National Red Cross Governance Moder
     - **(F)** holding management accountable for performance;
     - **(G)** providing oversight of the financial stability of the corporation;
     - **(H)** ensuring the inclusiveness and diversity of the corporation;
-    - **(I)** ensuring the chapters of the corporation are geographically and regionally diverse;
+    - **(I) ensuring the chapters of the corporation are geographically and regionally diverse;)**
     - **(J)** providing oversight of the protection of the brand of the corporation; and
     - **(K)** assisting with fundraising on behalf of the corporation.
   - **(6)**
@@ -151,7 +151,7 @@ Section 300107 of title 36, United States Code, is amended to read as follows:
 
 ## § 9. Endowment fund
 
-Section 300109 of title 36, United States Code is amended—
+Section 300109 of title 36, United States Code, is amended—
 
 - **(1)** by striking “nine” from the first sentence thereof; and
 - **(2)** by striking the second sentence and inserting the following: “The corporation shall prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees.”.
