@@ -1,7 +1,7 @@
 ---
 measure: H.R. 309
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 309
@@ -16,9 +16,10 @@ To direct the Secretary of the Interior to establish a demonstration program to 
 
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To direct the Secretary of the Interior to establish a demonstration program to 
 - 2007-04-17 — Placed on the Union Calendar, Calendar No. 55.
 - 2007-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-90.
 - 2007-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-90.
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
