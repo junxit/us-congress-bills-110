@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1515
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1515
@@ -20,9 +20,10 @@ To amend the Housing and Community Development Act of 1974 to treat certain comm
 
 - Rep. Shimkus, John [R-IL-19] (S000364)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Housing and Community Development Act of 1974 to treat certain comm
 - 2007-04-17 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
 - 2007-04-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3434)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3434)
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
