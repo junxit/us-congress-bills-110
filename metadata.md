@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1191
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1191
@@ -20,9 +20,10 @@ To authorize the National Park Service to pay for services rendered by subcontra
 
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To authorize the National Park Service to pay for services rendered by subcontra
 - 2007-04-17 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2007-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3416)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3416)
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
