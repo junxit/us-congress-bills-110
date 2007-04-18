@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 139
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 139
@@ -28,3 +28,7 @@ A resolution commending General Peter J. Schoomaker for his extraordinary dedica
 
 - 2007-03-29 — Introduced in Senate
 - 2007-03-29 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S4217-4218)
+- 2007-04-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S4721-4722)
+- 2007-04-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4721-4722)
+- 2007-04-18 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S4721-4722)
+- 2007-04-18 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S4721-4722)
