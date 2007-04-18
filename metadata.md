@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 100
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 100
@@ -50,9 +50,10 @@ Condemning the recent violent actions of the Government of Zimbabwe against peac
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ Condemning the recent violent actions of the Government of Zimbabwe against peac
 - 2007-04-17 — Mr. Lantos moved to suspend the rules and agree to the resolution, as amended.
 - 2007-04-17 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0, 4 Present (Roll no. 216). (text: CR H3426-3427)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0, 4 Present (Roll no. 216).(text: CR H3426-3427)
+- 2007-04-18 — Received in the Senate and referred to the Committee on Foreign Relations.
