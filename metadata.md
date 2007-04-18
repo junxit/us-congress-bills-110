@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1681
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1681
@@ -49,3 +49,4 @@ American National Red Cross Governance Modernization Act of 2007
 - 2007-04-17 — Mr. Lantos moved to suspend the rules and pass the bill, as amended.
 - 2007-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3429-3431)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H3429-3431)
+- 2007-04-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.

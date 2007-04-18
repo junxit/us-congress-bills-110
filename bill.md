@@ -2,7 +2,7 @@
 legis-num: H.R. 1681
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1681
@@ -29,7 +29,7 @@ This Act may be cited as the “The American National Red Cross Governance Moder
     - **(F)** holding management accountable for performance;
     - **(G)** providing oversight of the financial stability of the corporation;
     - **(H)** ensuring the inclusiveness and diversity of the corporation;
-    - **(I) ensuring the chapters of the corporation are geographically and regionally diverse;)**
+    - **(I)** ensuring the chapters of the corporation are geographically and regionally diverse;
     - **(J)** providing oversight of the protection of the brand of the corporation; and
     - **(K)** assisting with fundraising on behalf of the corporation.
   - **(6)**
