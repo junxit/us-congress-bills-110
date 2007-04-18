@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1677
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1677
@@ -20,9 +20,10 @@ Taxpayer Protection Act of 2007
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Taxpayer Protection Act of 2007
 - 2007-04-17 — Mr. Lewis (GA) moved to suspend the rules and pass the bill, as amended.
 - 2007-04-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 7 (Roll no. 214). (text: CR H3417-3419)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 7 (Roll no. 214).(text: CR H3417-3419)
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Finance.
