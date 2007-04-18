@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 886
@@ -25,9 +25,10 @@ Wild Sky Wilderness Act of 2007
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Wild Sky Wilderness Act of 2007
 - 2007-04-17 — Placed on the Union Calendar, Calendar No. 54.
 - 2007-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-89.
 - 2007-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-89.
+- 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
