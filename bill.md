@@ -2,17 +2,17 @@
 legis-num: H. RES. 300
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 300
 
-> Commending the achievements of the Rutgers University women’s basketball team and applauding the character and integrity of their student-athletes.
+> Commending the achievements of the Rutgers University women's basketball team and applauding the character and integrity of their student-athletes.
 
 ## Preamble
 
 - Whereas under head coach C. Vivian Stringer the Rutgers University Scarlet Knights women’s basketball team finished their extraordinary 2006–2007 season with a 27–9 record;
-- Whereas after losing four of their first six games the Lady Knights refused to give up and spent their Winter Break in the gym honing their skills and working to become a better team for the rest of the season;
+- Whereas after losing four of their first six games the Lady Knights refused to give up and spent their Winter Break in the gym honing their skills and working to become a better team for the rest the season;
 - Whereas on March 6, 2007, Rutgers upset top-seeded University of Connecticut for their first-ever Big East Championship title;
 - Whereas the young women displayed great talent in their run to the Final Four of the women’s National Collegiate Athletic Association (NCAA) tournament;
 - Whereas five freshmen played an integral role in the team’s march to the championship game;
@@ -31,4 +31,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** commends the amazing performance of Rutgers University women’s basketball team in the NCAA tournament; and
-- **(2)** expresses its admiration for the achievements and character of this team of remarkable young women.
+- **(2)** expresses its admiration for the achievements and character of this team of remarkable young women;
