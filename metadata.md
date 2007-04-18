@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 301
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 301
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 1257) to amend the Securities Exch
 - 2007-04-17 — Placed on the House Calendar, Calendar No. 37.
 - 2007-04-17 — The House Committee on Rules reported an original measure, H. Rept. 110-96, by Mr. McGovern.
 - 2007-04-17 — The House Committee on Rules reported an original measure, H. Rept. 110-96, by Mr. McGovern.
+- 2007-04-18 — Considered as privileged matter. (consideration: CR H3499-3506)
+- 2007-04-18 — Considered as unfinished business. (consideration: CR H3508-3510)
+- 2007-04-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 301.
+- 2007-04-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-18 — On agreeing to the resolution Agreed to by recorded vote: 227 - 195 (Roll no. 220). (text: CR H3499)
+- 2007-04-18 — On ordering the previous question Agreed to by the Yeas and Nays: 226 - 199 (Roll no. 219). (consideration: CR H3508-3509)
+- 2007-04-18 — POSTPONED PROCEEDINGS - At the conclusion of the debate on H. Res. 301, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. Sessions demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.
+- 2007-04-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 227 - 195 (Roll no. 220).(text: CR H3499)
