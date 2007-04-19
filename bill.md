@@ -2,7 +2,7 @@
 legis-num: H. RES. 317
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 317
@@ -20,7 +20,7 @@ Upon adoption of this resolution it shall be in order to consider in the House t
 - **(a)** If either H.R. 1905 or H.R. 1906 fails of passage or fails to reach the question of passage by an order of recommittal, then both such bills, together with H.R. 1433, shall be laid on the table.
 - **(b)** In the engrossment of H.R. 1905, the Clerk shall—
   - **(1)** add the text of H.R. 1906, as passed by the House, as new matter at the end of H.R. 1905;
-  - **(2)** conform the title of H.R. 1905 to reflect the addition of the text H.R. 1906 to the engrossment;
+  - **(2)** conform the title of H.R. 1905 to reflect the addition of the text of H.R. 1906 to the engrossment;
   - **(3)** assign appropriate designations to provisions within the engrossment; and
   - **(4)** conform provisions for short titles within the engrossment.
 - **(c)** Upon the addition of the text of H.R. 1906 to the engrossment of H.R. 1905, H.R. 1906 and H.R. 1433 shall be laid on the table.
