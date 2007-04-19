@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 319
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 319
@@ -27,3 +27,10 @@ Providing for consideration of the bill (H.R. 1495) to provide for the conservat
 - 2007-04-18 — Placed on the House Calendar, Calendar No. 41.
 - 2007-04-18 — The House Committee on Rules reported an original measure, H. Rept. 110-100, by Ms. Matsui.
 - 2007-04-18 — The House Committee on Rules reported an original measure, H. Rept. 110-100, by Ms. Matsui.
+- 2007-04-19 — AMENDMENT MODIFICATION - Ms. Matsui asked unanimous consent that during consideration of H.R. 1495, amendment number 1 printed in House Report 110-100 be considered in a modified form. Agreed to without objection.
+- 2007-04-19 — Considered as privileged matter. (consideration: CR H3566-3568)
+- 2007-04-19 — DEBATE - The House proceeded with one hour of debate on H. Res. 319.
+- 2007-04-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-19 — On agreeing to the resolution Agreed to by voice vote. (text: CR H3566)
+- 2007-04-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H3566)
+- 2007-04-19 — The previous question was ordered without objection. (consideration: CR H3568)
