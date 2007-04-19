@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1905
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1905
@@ -30,3 +30,14 @@ District of Columbia House Voting Rights Act of 2007
 - 2007-04-18 — Introduced in House
 - 2007-04-18 — Referred to the House Committee on the Judiciary.
 - 2007-04-18 — Rules Committee Resolution H. Res. 317 Reported to House. Rule provides for consideration of H.R. 1905 and H.R. 1906. With respect to H.R. 1905, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House. With respect to H.R. 1906, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House.
+- 2007-04-19 — Considered under the provisions of rule H. Res. 317. (consideration: CR H3577-3593)
+- 2007-04-19 — DEBATE - The House proceeded with one hour of debate on H.R. 1905.
+- 2007-04-19 — DEBATE - The House proceeded with ten minutes of debate on the motion to recommit with instructions on H.R. 1905. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section providing for expedited judicial review.
+- 2007-04-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-19 — Mr. Smith (TX) moved to recommit with instructions to Judiciary. (consideration: CR H3591-3593; text: CR H3591)
+- 2007-04-19 — On motion to recommit with instructions Failed by the Yeas and Nays: 193 - 227 (Roll no. 230).
+- 2007-04-19 — On passage Passed by recorded vote: 241 - 177, 1 Present (Roll no. 231). (text: CR H3577-3578)
+- 2007-04-19 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 177, 1 Present (Roll no. 231).(text: CR H3577-3578)
+- 2007-04-19 — Rule provides for consideration of H.R. 1905 and H.R. 1906. With respect to H.R. 1905, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House. With respect to H.R. 1906, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House.
+- 2007-04-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3592-3593)
+- 2007-04-19 — The previous question was ordered pursuant to the rule. (consideration: CR H3591)
