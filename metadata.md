@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1905
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1905
@@ -20,9 +20,10 @@ District of Columbia House Voting Rights Act of 2007
 
 - Rep. Davis, Tom [R-VA-11] (D000136)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -46,3 +47,4 @@ District of Columbia House Voting Rights Act of 2007
 - 2007-04-19 — Rule provides for consideration of H.R. 1905 and H.R. 1906. With respect to H.R. 1905, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House. With respect to H.R. 1906, all points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 of rule XXI. The bill shall be considered as read. The bill is closed to amendments and shall be considered in the House.
 - 2007-04-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3592-3593)
 - 2007-04-19 — The previous question was ordered pursuant to the rule. (consideration: CR H3591)
+- 2007-04-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
