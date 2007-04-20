@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1332
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -62,7 +62,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 636` | add-at-end | in paragraph (18) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | in paragraph (23) by striking subparagraph (C) and adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 636` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | strike | by striking paragraph (25)(C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | add-at-end | Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -74,7 +74,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 697a` | redesignate | by inserting before subsection (b) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 662` | amend | Section 103(6) of the Small Business Investment Act of 1958 (15 U.S.C. 662(6)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 697c` | amend | Section 506 of the Small Business Investment Act of 1958 (15 U.S.C. 697c) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 695` | amend | Section 501 of the Small Business Investment Act of 1958 (15 U.S.C. 695) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 695` | add-at-end | Section 501 of the Small Business Investment Act of 1958 (15 U.S.C. 695) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 695` | insert | Section 501(d)(3) of the Small Business Investment Act of 1958 (15 U.S.C. 695(d)(3)) is amended by inserting after “business district revitalization” the following: “or expansion of businesses in low-income communities that would be elig… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 695` | add-at-end | Section 501(e) of the Small Business Investment Act of 1958 (15 U.S.C. 695(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 696` | add-at-end | Section 502 of the Small Business Investment Act of 1958 (15 U.S.C. 696) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -88,4 +88,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 695` | insert | by inserting after subparagraph (H) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 696` | strike | in clause (ii) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 696` | replace | in clause (iii) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 696` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 696` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
