@@ -1,0 +1,26 @@
+---
+legis-num: H. CON. RES. 123
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 123
+
+> Authorizing the use of the Capitol Grounds for the District of Columbia Special Olympics Law Enforcement Torch Run.
+
+## § 1. Authorization of use of Capitol Grounds for D.C. Special Olympics Law Enforcement Torch Run
+
+On June 8, 2007, or on such other date as the Speaker of the House of Representatives and the Committee on Rules and Administration of the Senate may jointly designate, the 2007 District of Columbia Special Olympics Law Enforcement Torch Run (in this resolution referred to as the “event”) may be run through the Capitol Grounds as part of the journey of the Special Olympics torch to the District of Columbia Special Olympics summer games.
+
+## § 2. Responsibility of Capitol Police Board
+
+The Capitol Police Board shall take such actions as may be necessary to carry out the event.
+
+## § 3. Conditions relating to physical preparations
+
+The Architect of the Capitol may prescribe conditions for physical preparations for the event.
+
+## § 4. Enforcement of restrictions
+
+The Capitol Police Board shall provide for enforcement of the restrictions contained in section 5104(c) of title 40, United States Code, concerning sales, advertisements, displays, and solicitations on the Capitol Grounds, as well as other restrictions applicable to the Capitol Grounds, in connection with the event.
