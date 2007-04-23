@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1257
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1257
@@ -46,9 +46,10 @@ Shareholder Vote on Executive Compensation Act
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -173,3 +174,4 @@ Shareholder Vote on Executive Compensation Act
 - 2007-04-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1257.
 - 2007-04-20 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3712-3713)
 - 2007-04-20 — The previous question was ordered pursuant to the rule.
+- 2007-04-23 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
