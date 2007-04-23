@@ -1,7 +1,7 @@
 ---
 measure: H.R. 865
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 865
@@ -16,9 +16,10 @@ Copper Valley Native Allotment Resolution Act of 2007
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,5 @@ Copper Valley Native Allotment Resolution Act of 2007
 - 2007-04-17 — Placed on the Union Calendar, Calendar No. 56.
 - 2007-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-91.
 - 2007-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-91.
+- 2007-04-18 — Received in the Senate.
+- 2007-04-23 — Read twice and referred to the Committee on Energy and Natural Resources.
