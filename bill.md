@@ -1,0 +1,79 @@
+---
+legis-num: H.R. 2023
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2023
+
+> To establish a student loan forgiveness program for members of the Sudanese Diaspora to enable them to return to southern Sudan and contribute to the reconstruction effort of southern Sudan.
+
+## § 1. Short title
+
+This Act may be cited as the “Sudanese Diaspora Loan Forgiveness Act”.
+
+## § 2. Findings
+
+The Congress finds the following:
+
+- **(1)** The 21-year civil war between the North and the South in Sudan caused many Sudanese people to flee their homeland and seek refuge in other countries, including the United States.
+- **(2)** The United States has assisted many Sudanese citizens fleeing the violence in their homeland, including the Lost Boys in 2001, a group of approximately 3,800 children that were separated from their parents during the civil war and who fled on foot to Ethiopia, walking more than 1,000 kilometers on the four-month journey, and who then fled again to Kenya to avoid forcible repatriation to Sudan.
+- **(3)** Approximately 5,640 Sudanese citizens have been granted refugee status in the United States in Fiscal Years 2003 and 2004 alone.
+- **(4)** The National Congress Party Government and the Sudanese People’s Liberation Movement (SPLM) signed the Comprehensive Peace Agreement in Nairobi, Kenya, on January 9, 2005, formally ending the conflict between the North and the South and creating a new Government of Sudan that consists of a coalition of opposition groups and the former regime.
+- **(5)** With the signing of the Comprehensive Peace Agreement in Nairobi, Kenya, on January 9, 2005, the Government of Southern Sudan’s plans for reconstruction in Southern Sudan are moving forward.
+- **(6)** Sudanese refugees in the United States have acquired a reputation for being an extremely resilient group, and a number of them have, after adjusting to a new life in the United States, chosen to pursue a higher education, and now have professional skills to contribute to the rebuilding of their homeland.
+
+## § 3. Establishment of program
+
+- **(a)** *Stafford loans* Part B of title IV of the Higher Education Act of 1965 is amended by inserting after section 428K (20 U.S.C. 1078–11) the following new section:
+  > ## § 428L. Loan forgiveness for members of the sudanese diaspora
+  >
+  > - **(a)** *Statement of purpose* It is the purpose of this section to encourage members of the Sudanese Diaspora in the United States to return to Southern Sudan for purposes of contributing to the reconstruction efforts there.
+  > - **(b)** *Program authorized* From the amount appropriated under subsection (f) for any fiscal year, the Secretary of Education shall, in accordance with subsection (c) and in consultation with the Secretary of State, carry out a program, through the holder of the loan, of assuming the obligation to repay a qualified loan amount for a loan made under section 428 or 428H for any borrower who—
+  >   - **(1)** as of the date of the enactment of this section, is a Sudanese citizen who—
+  >     - **(A)** has been granted refugee or asylum status in the United States;
+  >     - **(B)** has been granted lawful permanent resident status in the United States; or
+  >     - **(C)** is a naturalized United States citizen;
+  >   - **(2)** commits to returning to Southern Sudan for a period of five or more years for purposes of contributing professional skills to repairing the damage to the infrastructure of Southern Sudan caused by the Sudanese civil war, as approved by the Secretary for purposes of this section; and
+  >   - **(3)** is not in default on a loan for which the borrower seeks forgiveness.
+  > - **(c)** *Qualified loans amount*
+  >   - **(1)** *In general* Of the aggregate of the loan obligation on a loan made under section 428 or 428H that is outstanding to an individual who meets the requirements of subsection (b), the Secretary may, from funds appropriated under subsection (f), repay not more than—
+  >     - **(A)** $3,000 after the first calendar year of service described in subsection (b)(2);
+  >     - **(B)** $4,000 after the second such year of service;
+  >     - **(C)** $5,000 after the third such year of service;
+  >     - **(D)** $6,000 after the fourth such year of service; and
+  >     - **(E)** $7,000 after the fifth such year of service.
+  >   - **(2)** *Award basis* The Secretary shall make payments under this subsection on a first-come first-served basis, subject to the availability of appropriations.
+  > - **(d)** *Additional provisions*
+  >   - **(1)** *Treatment of consolidation loans* A loan amount for a loan made under section 428C may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 428 or 428H for a borrower who meets the requirements of subsection (b), as determined in accordance with regulations prescribed by the Secretary.
+  >   - **(2)** *Double benefits prohibited* No borrower may receive a reduction of loan obligations under both this section and section 460A.
+  > - **(e)** *Regulations* The Secretary shall, in consultation with the Secretary of State, issue such regulations as may be necessary to carry out the provisions of this section.
+  > - **(f)** *Construction* Nothing in this section shall be construed to authorize any refunding of any repayment of a loan.
+  > - **(g)** *Authorization of Appropriations* For fiscal year 2008 and for each of the 5 succeeding fiscal years, there are authorized to be appropriated such sums as may be necessary to repay loans in the amounts specified in subsection (c)(1).
+
+- **(b)** *Direct loans* Part D of title IV is amended by inserting after section 460 (20 U.S.C. 1087j) the following new section:
+  > ## § 460A. Loan forgiveness for members of the sudanese diaspora
+  >
+  > - **(a)** *Statement of purpose* It is the purpose of this section to encourage members of the Sudanese Diaspora in the United States to return to Southern Sudan for purposes of contributing to the reconstruction efforts there.
+  > - **(b)** *Program authorized* From the amount appropriated under subsection (f) for any fiscal year, the Secretary of Education shall, in accordance with subsection (c) and in consultation with the Secretary of State, carry out a program of canceling the obligation to repay a qualified loan amount in accordance with subsection (c) for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans made under this part for any borrower who—
+  >   - **(1)** as of the date of the enactment of this section, is a Sudanese citizen who—
+  >     - **(A)** has been granted refugee or asylum status in the United States;
+  >     - **(B)** has been granted lawful permanent resident status in the United States; or
+  >     - **(C)** is a naturalized United States citizen;
+  >   - **(2)** commits to returning to Southern Sudan for a period of five or more years for purposes of contributing professional skills to repairing the damage to the infrastructure of Southern Sudan caused by the Sudanese civil war, as approved by the Secretary for purposes of this section; and
+  >   - **(3)** is not in default on a loan for which the borrower seeks forgiveness.
+  > - **(c)** *Qualified loans amount*
+  >   - **(1)** *In general* Of the aggregate of the loan obligation on a Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loan that is outstanding to an individual who meets the requirements of subsection (b), the Secretary may, from funds appropriated under subsection (f), repay not more than—
+  >     - **(A)** $3,000 after the first calendar year of service described in subsection (b)(2);
+  >     - **(B)** $4,000 after the second such year of service;
+  >     - **(C)** $5,000 after the third such year of service;
+  >     - **(D)** $6,000 after the fourth such year of service; and
+  >     - **(E)** $7,000 after the fifth such year of service.
+  >   - **(2)** *Award basis* The Secretary shall make payments under this subsection on a first-come first-served basis, subject to the availability of appropriations.
+  > - **(d)** *Additional provisions*
+  >   - **(1)** *Treatment of consolidation loans* A loan amount for Federal Direct Consolidation Loan may be a qualified loan amount for the purposes of this subsection only to the extent that such loan amount was used to repay a Federal Direct Stafford Loan, a Federal Direct Unsubsidized Stafford Loan, or a loan made under section 428 or 428H for a borrower who meets the requirements of subsection (b), as determined in accordance with regulations prescribed by the Secretary.
+  >   - **(2)** *Double benefits prohibited* No borrower may receive a reduction of loan obligations under both this section and section 428L.
+  > - **(e)** *Regulations* The Secretary shall, in consultation with the Secretary of State, issue such regulations as may be necessary to carry out the provisions of this section.
+  > - **(f)** *Construction* Nothing in this section shall be construed to authorize any refunding of any repayment of a loan.
+  > - **(g)** *Authorization of Appropriations* For fiscal year 2008 and for each of the 5 succeeding fiscal years, there are authorized to be appropriated such sums as may be necessary to repay loans in the amounts specified in subsection (c)(1).
