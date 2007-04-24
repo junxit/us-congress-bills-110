@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1676
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1676
@@ -43,3 +43,9 @@ Native American Home Ownership Opportunity Act of 2007
 - 2007-04-20 — Placed on the Union Calendar, Calendar No. 62.
 - 2007-04-20 — Reported by the Committee on Financial Services. H. Rept. 110-102.
 - 2007-04-20 — Reported by the Committee on Financial Services. H. Rept. 110-102.
+- 2007-04-24 — Considered under suspension of the rules. (consideration: CR H3788-3790)
+- 2007-04-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1676.
+- 2007-04-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-24 — Mr. Boren moved to suspend the rules and pass the bill.
+- 2007-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3788)
+- 2007-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3788)
