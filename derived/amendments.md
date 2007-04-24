@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-87 amendatory instructions. 19 executed, 68 stated and not applied.
+93 amendatory instructions. 19 executed, 74 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -212,7 +212,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n-1` | insert | in subsection (a)(3)(A) by inserting at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “qualified as” after “to become”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | amend | by amending clause (ii) of subsection (a)(3)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | insert | in subsection (a) by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1061` | insert | in subsection (a) by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | strike | by striking “scholarship or stipend”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “and summer internships” after “number of scholarships”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “the type of activities proposed for the recruitment of students to the program,” after “intends to award,”; | the bill quotes the text inserted but describes where it goes |
@@ -226,12 +226,18 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n-1` | add-at-end | in subsection (c), by adding at the end a new paragraph as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | in subsection (d)(2), by inserting “and professional achievement” after “academic merit”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | strike | by striking “for each year a stipend was received”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1862n-1` | insert | by inserting “or section 10A” after “under this section”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n-1` | insert | in paragraph (1) by inserting “or section 10A” after “subsection (d)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1862n-1` | insert | in subsection (f)(1), by inserting “or section 10A” after “under this section”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | strike | by striking “multiplied by 2.”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1862n-1` | insert | in subsection (h), by inserting “or section 10A” after “under this section”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | insert | in subsection (i)(3), by inserting “or had a career in” after “is working in”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1862n-1` | insert | in paragraph (5), by inserting “or section 10A” after “subsection (d)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | insert | The National Science Foundation Authorization Act of 2002 is amended by inserting after section 10 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | in the paragraph heading by inserting “Teacher” after “Noyce”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “Teacher” after “Noyce”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n` | strike | by striking “(A)”; | the bill quotes the text struck but describes what replaces it |
