@@ -1,7 +1,7 @@
 ---
 measure: H.R. 625
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 625
@@ -71,9 +71,10 @@ To designate the facility of the United States Postal Service located at 4230 Ma
 - Rep. Radanovich, George [R-CA-19] (R000004)
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -88,3 +89,4 @@ To designate the facility of the United States Postal Service located at 4230 Ma
 - 2007-04-23 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-04-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3731)
 - 2007-04-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3731)
+- 2007-04-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
