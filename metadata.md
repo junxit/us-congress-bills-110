@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1434
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1434
@@ -59,9 +59,10 @@ To designate the facility of the United States Postal Service located at 896 Pit
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -82,3 +83,4 @@ To designate the facility of the United States Postal Service located at 896 Pit
 - 2007-04-23 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-04-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 53, 3 Present (Roll no. 246). (text: CR H3733)
 - 2007-04-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 53, 3 Present (Roll no. 246).(text: CR H3733)
+- 2007-04-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
