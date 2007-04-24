@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1675
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1675
@@ -37,3 +37,9 @@ Preservation Approval Process Improvement Act of 2007
 - 2007-04-23 — Placed on the Union Calendar, Calendar No. 65.
 - 2007-04-23 — Reported by the Committee on Financial Services. H. Rept. 110-106.
 - 2007-04-23 — Reported by the Committee on Financial Services. H. Rept. 110-106.
+- 2007-04-24 — Considered under suspension of the rules. (consideration: CR H3787-3788)
+- 2007-04-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1675.
+- 2007-04-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-24 — Ms. Bean moved to suspend the rules and pass the bill.
+- 2007-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3787)
+- 2007-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3787)
