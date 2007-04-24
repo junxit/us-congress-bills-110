@@ -1,0 +1,31 @@
+---
+measure: S. 1193
+congress: 110
+version: Introduced in Senate
+---
+
+# S. 1193
+
+Albuquerque Indian School Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+
+## Cosponsors (1)
+
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+
+## Committees (1)
+
+- Senate — Indian Affairs Committee
+
+## Actions
+
+- 2007-04-24 — Introduced in Senate
+- 2007-04-24 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S4922)
+- 2007-04-24 — Sponsor introductory remarks on measure. (CR S4922)
