@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 327
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 327
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 362) to authorize science scholars
 - 2007-04-23 — Placed on the House Calendar, Calendar No. 42.
 - 2007-04-23 — The House Committee on Rules reported an original measure, H. Rept. 110-105, by Mr. Welch (VT).
 - 2007-04-23 — The House Committee on Rules reported an original measure, H. Rept. 110-105, by Mr. Welch (VT).
+- 2007-04-24 — Considered as privileged matter. (consideration: CR H3797-3799)
+- 2007-04-24 — Considered as unfinished business. (consideration: CR H3802-3803)
+- 2007-04-24 — DEBATE - The House proceeded with one hour of debate on H. Res. 327.
+- 2007-04-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-24 — On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 188 (Roll no. 248). (text: CR H3797)
+- 2007-04-24 — POSTPONED PROCEEDINGS - At the conclusion of the debate on H.Res. 327, the Chair put the question on adoption of the resolution and by voice vote, announced that the ayes had prevailed. Mr. Hastings of Washington demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption until later in the legislative day.
+- 2007-04-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 188 (Roll no. 248).(text: CR H3797)
+- 2007-04-24 — The previous question was ordered without objection. (consideration: CR H3799)
