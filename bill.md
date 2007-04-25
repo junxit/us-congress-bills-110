@@ -1,0 +1,37 @@
+---
+legis-num: S. 1209
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1209
+
+> To provide for the continued administration of Santa Rosa Island, Channel Islands National Park, in accordance with the laws (including regulations) and policies of the National Park Service, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Channel Islands National Park Management Act of 2007”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** Channel Islands National Monument was designated in 1938 by President Franklin D. Roosevelt under the authority of the Act of June 8, 1906 (16 U.S.C. 431 note);
+- **(2)** the Monument was expanded to include additional islands and redesignated as Channel Islands National Park in 1980 to protect the nationally significant natural, scenic, wildlife, marine, ecological, archaeological, cultural, and scientific values of the Channel Islands in California;
+- **(3)** Santa Rosa Island was acquired by the United States in 1986 for approximately $29,500,000 for the purpose of restoring the native ecology of the Island and making the Island available to the public for recreational uses;
+- **(4)** Santa Rosa Island contains numerous prehistoric and historic artifacts and provides important habitat for several threatened and endangered species;
+- **(5)** under a court-approved settlement, the nonnative elk and deer populations are scheduled to be removed from the Park by 2011 and the Island is to be restored to management consistent with other National Parks; and
+- **(6)** there have been recent proposals to remove Santa Rosa Island from the administration of the National Park Service or to direct the management of the Island in a manner inconsistent with existing legal requirements and the sound management of Park resources.
+
+## § 3. Management of santa rosa island, channel islands national park
+
+- **(a)** *In general* Notwithstanding any other provision of law, the Secretary of the Interior shall manage Santa Rosa Island, Channel Islands National Park (referred to in this section as the “Park”)—
+  - **(1)** in accordance with—
+    - **(A)** the National Park Service Organic Act (16 U.S.C. 1 et seq.);
+    - **(B)** title II of Public Law 96–199 (16 U.S.C. 410ff et seq.); and
+    - **(C)** any other laws generally applicable to units of the National Park System; and
+  - **(2)** in a manner that ensures that—
+    - **(A)** the natural, scenic and cultural resources of Santa Rosa Island are protected, restored, and interpreted for the public; and
+    - **(B)** visitors to the Park are provided with a safe and enjoyable Park experience.
+- **(b)** *Conforming Amendment* Section 1077(c) of Public Law 109–364 (120 Stat. 2406) is repealed.
