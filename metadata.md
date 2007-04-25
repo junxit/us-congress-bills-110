@@ -1,7 +1,7 @@
 ---
 measure: H.R. 363
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 363
@@ -37,9 +37,10 @@ Sowing the Seeds Through Science and Engineering Research Act
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -98,3 +99,4 @@ Sowing the Seeds Through Science and Engineering Research Act
 - 2007-04-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4025)
 - 2007-04-24 — The previous question was ordered pursuant to the rule. (consideration: CR H4024)
 - 2007-04-24 — The title of the measure was amended. Agreed to without objection.
+- 2007-04-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
