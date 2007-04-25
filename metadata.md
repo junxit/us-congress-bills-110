@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 332
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 332
@@ -27,3 +27,9 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 - 2007-04-24 — Placed on the House Calendar, Calendar No. 45.
 - 2007-04-24 — The House Committee on Rules reported an original measure, H. Rept. 110-110, by Ms. Slaughter.
 - 2007-04-24 — The House Committee on Rules reported an original measure, H. Rept. 110-110, by Ms. Slaughter.
+- 2007-04-25 — Considered as privileged matter. (consideration: CR H4121-4131)
+- 2007-04-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 332.
+- 2007-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-25 — On agreeing to the resolution Agreed to by recorded vote: 226 - 195 (Roll no. 264). (text: CR H4121)
+- 2007-04-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 226 - 195 (Roll no. 264).(text: CR H4121)
+- 2007-04-25 — The previous question was ordered without objection. (consideration: CR H4131)
