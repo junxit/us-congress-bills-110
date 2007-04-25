@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1675
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1675
@@ -23,9 +23,10 @@ Preservation Approval Process Improvement Act of 2007
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Preservation Approval Process Improvement Act of 2007
 - 2007-04-24 — Ms. Bean moved to suspend the rules and pass the bill.
 - 2007-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3787)
 - 2007-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3787)
+- 2007-04-25 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
