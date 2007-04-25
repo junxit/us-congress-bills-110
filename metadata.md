@@ -1,7 +1,7 @@
 ---
 measure: H.R. 493
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 493
@@ -281,3 +281,13 @@ Genetic Information Nondiscrimination Act of 2008
 - 2007-03-29 — Placed on the Union Calendar, Calendar No. 46.
 - 2007-03-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-28, Part III.
 - 2007-03-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-28, Part III.
+- 2007-04-19 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 110-28, Part IV.
+- 2007-04-19 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 110-28, Part IV.
+- 2007-04-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-04-25 — Considered as unfinished business. (consideration: CR H4108)
+- 2007-04-25 — Considered under suspension of the rules. (consideration: CR H4083-4101)
+- 2007-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 493.
+- 2007-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-25 — Mr. Miller, George moved to suspend the rules and pass the bill, as amended.
+- 2007-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 261). (text: CR H4083-4094)
+- 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 261).(text: CR H4083-4094)
