@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 125
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 125
@@ -16,7 +16,7 @@ A resolution designating May 18, 2007, as "Endangered Species Day", and encourag
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Feingold, Russell D. [D-WI] (F000061)
@@ -30,6 +30,7 @@ A resolution designating May 18, 2007, as "Endangered Species Day", and encourag
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
 
 ## Committees (1)
 
@@ -40,3 +41,7 @@ A resolution designating May 18, 2007, as "Endangered Species Day", and encourag
 - 2007-03-27 — Introduced in Senate
 - 2007-03-27 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3845)
 - 2007-03-27 — Sponsor introductory remarks on measure. (CR S3845-3846)
+- 2007-04-25 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 122.
