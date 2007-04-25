@@ -1,7 +1,7 @@
 ---
 measure: H.R. 518
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 518
@@ -38,9 +38,10 @@ International Solid Waste Importation and Management Act of 2007
 - Rep. Davis, Jo Ann [R-VA-1] (D000597)
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ International Solid Waste Importation and Management Act of 2007
 - 2007-04-24 — Mr. Wynn moved to suspend the rules and pass the bill.
 - 2007-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3792-3793)
 - 2007-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3792-3793)
+- 2007-04-25 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
