@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 362
@@ -51,9 +51,10 @@ To authorize science scholarships for educating mathematics and science teachers
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 - Rep. Chandler, Ben [D-KY-6] (C001058)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -102,3 +103,4 @@ To authorize science scholarships for educating mathematics and science teachers
 - 2007-04-24 — The Speaker designated the Honorable John T. Salazar to act as Chairman of the Committee.
 - 2007-04-24 — The previous question on the motion was ordered pursuant to the rule. (consideration: CR H3822)
 - 2007-04-24 — The previous question was ordered pursuant to the rule. (consideration: CR H3821)
+- 2007-04-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
