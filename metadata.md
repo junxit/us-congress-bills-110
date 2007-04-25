@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1676
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1676
@@ -29,9 +29,10 @@ Native American Home Ownership Opportunity Act of 2007
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Native American Home Ownership Opportunity Act of 2007
 - 2007-04-24 — Mr. Boren moved to suspend the rules and pass the bill.
 - 2007-04-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3788)
 - 2007-04-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H3788)
+- 2007-04-25 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
