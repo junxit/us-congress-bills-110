@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 240
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 240
@@ -16,7 +16,7 @@ Urging all member countries of the International Commission of the International
 
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 
-## Cosponsors (33)
+## Cosponsors (38)
 
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -51,6 +51,11 @@ Urging all member countries of the International Commission of the International
 - Rep. Davis, Artur [D-AL-7] (D000602)
 - Rep. Shimkus, John [R-IL-19] (S000364)
 - Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Garrett, Scott [R-NJ-5] (G000548)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
 ## Committees (1)
 
@@ -62,3 +67,11 @@ Urging all member countries of the International Commission of the International
 - 2007-03-13 — Introduced in House
 - 2007-03-13 — Referred to the House Committee on Foreign Affairs.
 - 2007-03-13 — Sponsor introductory remarks on measure. (CR E535)
+- 2007-03-27 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Voice Vote.
+- 2007-03-27 — Committee Consideration and Mark-up Session Held.
+- 2007-04-25 — Considered under suspension of the rules. (consideration: CR H4073-4076)
+- 2007-04-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 240.
+- 2007-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-25 — Mr. Ackerman moved to suspend the rules and agree to the resolution.
+- 2007-04-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4073-4074)
+- 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4073-4074)
