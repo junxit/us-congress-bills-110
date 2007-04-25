@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1678
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1678
@@ -69,3 +69,11 @@ Torture Victims Relief Reauthorization Act of 2007
 - 2007-04-20 — Placed on the Union Calendar, Calendar No. 63.
 - 2007-04-20 — Reported by the Committee on Foreign Affairs. H. Rept. 110-103, Part I.
 - 2007-04-20 — Reported by the Committee on Foreign Affairs. H. Rept. 110-103, Part I.
+- 2007-04-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-04-25 — Considered as unfinished business. (consideration: CR H4107-4108)
+- 2007-04-25 — Considered under suspension of the rules. (consideration: CR H4065-4068)
+- 2007-04-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1678.
+- 2007-04-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-25 — Mr. Ackerman moved to suspend the rules and pass the bill.
+- 2007-04-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 260). (text: CR H4065)
+- 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 260).(text: CR H4065)
