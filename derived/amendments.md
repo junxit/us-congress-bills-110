@@ -1,7 +1,7 @@
 ---
 measure: H.R. 362
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -235,8 +235,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n-1` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862n-1` | insert | in paragraph (5), by inserting “or section 10A” after “subsection (d)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | The National Science Foundation Authorization Act of 2002 is amended by inserting after section 10 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | in the paragraph heading by inserting “Teacher” after “Noyce”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “Teacher” after “Noyce”. | the bill quotes the text inserted but describes where it goes |
@@ -255,13 +255,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | insert | by inserting after paragraph (1) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subparagraph (A) by striking “competitive, merit-based” and all that follows through “in recent years.” and inserting | the bill names no machine-readable US Code section |
 | — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(i)” before “The types of”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (i) through (vi) as subclauses (I) through (VI), respectively; | the bill names no machine-readable US Code section |
 | — | replace | by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D)(i), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D)(ii), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
 | — | add-at-end | after subparagraph (D)(iii), by adding at the end the following new clause: | the bill names no machine-readable US Code section |
