@@ -1,0 +1,28 @@
+---
+measure: H.R. 2070
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 2070
+
+Comprehensive Learning Assessment for Students and Schools (CLASS) Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Udall, Mark [D-CO-2] (U000038)
+
+## Committees (1)
+
+- House — Education and the Workforce Committee
+
+## Actions
+
+- 2007-04-26 — Introduced in House
+- 2007-04-26 — Introduced in House
+- 2007-04-26 — Referred to the House Committee on Education and Labor.
+- 2007-04-26 — Sponsor introductory remarks on measure. (CR E879)
