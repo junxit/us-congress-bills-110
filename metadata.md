@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 121
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 121
@@ -71,3 +71,8 @@ Recognizing the benefits and importance of school-based music education, and for
 - 2007-04-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4082)
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4082)
 - 2007-04-26 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2007-05-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6155)
+- 2007-05-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6155)
+- 2007-05-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2007-05-15 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2007-05-17 — Message on Senate action sent to the House.
