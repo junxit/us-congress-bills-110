@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 7
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 7
@@ -130,9 +130,10 @@ Calling on the League of Arab States and each Member State individually to ackno
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -156,3 +157,4 @@ Calling on the League of Arab States and each Member State individually to ackno
 - 2007-04-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 259). (text: CR H4057-4058)
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 259).(text: CR H4057-4058)
 - 2007-04-25 — The title of the measure was amended. Agreed to without objection.
+- 2007-04-26 — Received in the Senate and referred to the Committee on Foreign Relations.
