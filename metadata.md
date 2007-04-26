@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 121
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 121
@@ -54,9 +54,10 @@ Recognizing the benefits and importance of school-based music education, and for
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Recognizing the benefits and importance of school-based music education, and for
 - 2007-04-25 — Ms. Clarke moved to suspend the rules and agree to the resolution.
 - 2007-04-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4082)
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4082)
+- 2007-04-26 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
