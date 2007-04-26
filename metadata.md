@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 68
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 68
@@ -62,3 +62,6 @@ Honoring the life and accomplishments of Gian Carlo Menotti and recognizing the 
 - 2007-04-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4076)
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4076)
 - 2007-04-26 — Received in the Senate.
+- 2007-05-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6001; text as passed Senate: CR S6001)
+- 2007-05-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6001; text as passed Senate: CR S6001)
+- 2007-05-11 — Message on Senate action sent to the House.
