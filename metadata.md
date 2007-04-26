@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 331
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 331
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 249) to restore the prohibition on
 - 2007-04-24 — Placed on the House Calendar, Calendar No. 44.
 - 2007-04-24 — The House Committee on Rules reported an original measure, H. Rept. 110-109, by Ms. Sutton.
 - 2007-04-24 — The House Committee on Rules reported an original measure, H. Rept. 110-109, by Ms. Sutton.
+- 2007-04-26 — Considered as privileged matter. (consideration: CR H4180-4182)
+- 2007-04-26 — DEBATE - The House proceeded with one hour of debate on H. Res. 331.
+- 2007-04-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-04-26 — On agreeing to the resolution Agreed to by voice vote. (text: CR H4180-4181)
+- 2007-04-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H4180-4181)
+- 2007-04-26 — The previous question was ordered without objection. (consideration: CR H4181)
