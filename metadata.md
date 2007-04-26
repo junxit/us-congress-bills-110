@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1678
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1678
@@ -49,10 +49,11 @@ Torture Victims Relief Reauthorization Act of 2007
 - Rep. Kirk, Mark Steven [R-IL-10] (K000360)
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -81,3 +82,4 @@ Torture Victims Relief Reauthorization Act of 2007
 - 2007-04-25 — Mr. Ackerman moved to suspend the rules and pass the bill.
 - 2007-04-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 260). (text: CR H4065)
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 260).(text: CR H4065)
+- 2007-04-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
