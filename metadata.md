@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1592
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1592
@@ -16,7 +16,7 @@ Local Law Enforcement Hate Crimes Prevention Act of 2007
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (137)
+## Cosponsors (171)
 
 - Rep. Kirk, Mark Steven [R-IL-10] (K000360)
 - Rep. Frank, Barney [D-MA-4] (F000339)
@@ -155,6 +155,40 @@ Local Law Enforcement Hate Crimes Prevention Act of 2007
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
 
 ## Committees (1)
 
@@ -165,3 +199,13 @@ Local Law Enforcement Hate Crimes Prevention Act of 2007
 - 2007-03-20 — Introduced in House
 - 2007-03-20 — Introduced in House
 - 2007-03-20 — Referred to the House Committee on the Judiciary.
+- 2007-03-21 — Sponsor introductory remarks on measure. (CR E600-601)
+- 2007-03-30 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2007-04-17 — Subcommittee Hearings Held.
+- 2007-04-24 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-04-24 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-04-25 — Committee Consideration and Mark-up Session Held.
+- 2007-04-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 14.
+- 2007-04-30 — Placed on the Union Calendar, Calendar No. 67.
+- 2007-04-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-113.
+- 2007-04-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-113.

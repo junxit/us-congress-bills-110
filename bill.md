@@ -113,13 +113,21 @@ There are authorized to be appropriated to the Department of the Treasury and th
   >   - **(3)** the term gender identity for the purposes of this chapter means actual or perceived gender-related characteristics.
   > - **(d)** *Rule of evidence* In a prosecution for an offense under this section, evidence of expression or associations of the defendant may not be introduced as substantive evidence at trial, unless the evidence specifically relates to that offense. However, nothing in this section affects the rules of evidence governing impeachment of a witness.
 
-- **(b)** *Technical and conforming amendment* The analysis for chapter 13 of title 18, United States Code, is amended by adding at the end the following:
+- **(b)** *Technical and conforming amendment* The table of sections at the beginning of chapter 13 of title 18, United States Code, is amended by adding at the end the following new item:
 
-## § 8. Statistics
+## § 8. Duties of Federal Sentencing Commission
 
-- **(a)** *In general* Subsection (b)(1) of the first section of the Hate Crimes Statistics Act (28 U.S.C. 534 note) is amended by inserting “gender and gender identity,” after “race,”.
-- **(b)** *Data* Subsection (b)(5) of the first section of the Hate Crimes Statistics Act (28 U.S.C. 534 note) is amended by inserting “, including data about crimes committed by, and crimes directed against, juveniles” after “data acquired under this section”.
+The United States Sentencing Commission shall study the issue of adult recruitment of juveniles to commit hate crimes and shall report the Commission’s findings back to the Congress not later than 180 days after the date of the enactment of this Act.
 
-## § 9. Severability
+## § 9. Statistics
+
+- **(a)** *In general* Subsection (b)(1) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note) is amended by inserting “gender and gender identity,” after “race,”.
+- **(b)** *Data* Subsection (b)(5) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note) is amended by inserting “, including data about crimes committed by, and crimes directed against, juveniles” after “data acquired under this section”.
+
+## § 10. Severability
 
 If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+
+## § 11. Rule of construction
+
+Nothing in this Act, or the amendments made by this Act, shall be construed to prohibit any expressive conduct protected from legal prohibition by, or any activities protected by the free speech or free exercise clauses of, the First Amendment to the Constitution.
