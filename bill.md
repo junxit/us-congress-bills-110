@@ -9,6 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To authorize appropriations for the National Institute of Standards and Technology for fiscal years 2008, 2009, and 2010, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Technology Innovation and Manufacturing Stimulation Act of 2007”.
+- **(a)** *Short title* This Act may be cited as the “Technology Innovation and Manufacturing Stimulation Act of 2007”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
