@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1124
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1124
@@ -30,3 +30,12 @@ To extend the District of Columbia College Access Act of 1999.
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-02-23 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2007-03-22 — Subcommittee Hearings Held.
+- 2007-03-27 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-03-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-03-29 — Committee Consideration and Mark-up Session Held.
+- 2007-03-29 — Ordered to be Reported by Voice Vote.
+- 2007-04-30 — Placed on the Union Calendar, Calendar No. 66.
+- 2007-04-30 — Reported by the Committee on Oversight and Government. H. Rept. 110-112.
+- 2007-04-30 — Reported by the Committee on Oversight and Government. H. Rept. 110-112.
