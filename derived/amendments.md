@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1592
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,6 +32,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Chapter 13 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The analysis for chapter 13 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `28 U.S.C. § 534` | insert | Subsection (b)(1) of the first section of the Hate Crimes Statistics Act (28 U.S.C. 534 note) is amended by inserting “gender and gender identity,” after “race,”. | the bill quotes the text inserted but describes where it goes |
-| `28 U.S.C. § 534` | insert | Subsection (b)(5) of the first section of the Hate Crimes Statistics Act (28 U.S.C. 534 note) is amended by inserting “, including data about crimes committed by, and crimes directed against, juveniles” after “data acquired under this se… | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | The table of sections at the beginning of chapter 13 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `28 U.S.C. § 534` | insert | Subsection (b)(1) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note) is amended by inserting “gender and gender identity,” after “race,”. | the bill quotes the text inserted but describes where it goes |
+| `28 U.S.C. § 534` | insert | Subsection (b)(5) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note) is amended by inserting “, including data about crimes committed by, and crimes directed against, juveniles” after “data acquired under this sec… | the bill quotes the text inserted but describes where it goes |
