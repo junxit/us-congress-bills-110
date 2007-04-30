@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1495
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1495
@@ -16,20 +16,98 @@ Water Resources Development Act of 2007
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (3)
+## Cosponsors (68)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Baker, Richard H. [R-LA-6] (B000072)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Isakson, Johnny [R-GA] (I000055)
 
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
 
-## Recorded votes (2)
+## Recorded votes (15)
 
 - 2007-04-19 — [House 110-1-233](votes/house-110-1-0233.md) — On Motion to Recommit with Instructions — **Failed** (194–226)
 - 2007-04-19 — [House 110-1-234](votes/house-110-1-0234.md) — On Passage — **Passed** (394–25)
+- 2007-05-10 — [Senate 110-1-162](votes/senate-110-1-0162.md) — On the Cloture Motion — **Cloture Motion Agreed to** (89–7)
+- 2007-05-15 — [Senate 110-1-163](votes/senate-110-1-0163.md) — On the Amendment — **Amendment Rejected** (12–77)
+- 2007-05-15 — [Senate 110-1-164](votes/senate-110-1-0164.md) — On the Amendment — **Amendment Rejected** (11–79)
+- 2007-05-15 — [Senate 110-1-165](votes/senate-110-1-0165.md) — On the Amendment — **Amendment Rejected** (22–69)
+- 2007-05-15 — [Senate 110-1-166](votes/senate-110-1-0166.md) — On the Amendment — **Amendment Rejected** (51–42)
+- 2007-05-16 — [Senate 110-1-167](votes/senate-110-1-0167.md) — On the Cloture Motion — **Cloture Motion Rejected** (29–67)
+- 2007-05-16 — [Senate 110-1-168](votes/senate-110-1-0168.md) — On the Cloture Motion — **Cloture Motion Rejected** (52–44)
+- 2007-05-16 — [Senate 110-1-169](votes/senate-110-1-0169.md) — On the Cloture Motion — **Cloture Motion Agreed to** (87–9)
+- 2007-05-16 — [Senate 110-1-170](votes/senate-110-1-0170.md) — On Passage of the Bill — **Bill Passed** (91–4)
+- 2007-08-01 — [House 110-1-790](votes/house-110-1-0790.md) — On Agreeing to the Conference Report — **Passed** (381–40)
+- 2007-09-24 — [Senate 110-1-347](votes/senate-110-1-0347.md) — On the Conference Report — **Conference Report Agreed to** (81–12)
+- 2007-11-06 — [House 110-1-1040](votes/house-110-1-1040.md) — Passage, Objections of the President Not Withstanding — **Passed** (361–54)
+- 2007-11-08 — [Senate 110-1-406](votes/senate-110-1-0406.md) — On Overriding the Veto — **Veto Overridden** (79–14)
 
 ## Actions
 
@@ -98,3 +176,194 @@ Water Resources Development Act of 2007
 - 2007-04-19 — The previous question was ordered pursuant to the rule. (consideration: CR H3662-3663)
 - 2007-04-23 — Received in the Senate.
 - 2007-04-30 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 128.
+- 2007-05-03 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5609)
+- 2007-05-03 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S5609)
+- 2007-05-03 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S5609)
+- 2007-05-10 — Cloture on the motion to proceed invoked in Senate by Yea-Nay Vote. 89 - 7. Record Vote Number: 162. (consideration: CR S5896; text: CR S5896)
+- 2007-05-10 — Motion to proceed to measure considered in Senate. (consideration: CR S5883-5908)
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-10 — Senate amendment submitted
+- 2007-05-11 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S6008, S6009-6010)
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-11 — Senate amendment submitted
+- 2007-05-14 — Amendment SA 1065 proposed by Senator Boxer. (consideration: CR S6036) In the nature of a substitute.
+- 2007-05-14 — Amendment SA 1086 proposed by Senator Boxer for Senator Feingold to Amendment SA 1065. (consideration: CR S6036) To establish a Water Resources Commission to prioritize water resources projects in the United States.
+- 2007-05-14 — Amendment SA 1089 proposed by Senator Coburn to Amendment SA 1065. (consideration: CR S6043-6044; text: CR S6043) To prioritize Federal spending to ensure the needs of Louisiana residents who lost their homes as a result of Hurricane Katrina and Rita are met before spending money to design or construct a nonessential visitors center.
+- 2007-05-14 — Amendment SA 1090 proposed by Senator Coburn to Amendment SA 1065. (consideration: CR S6044-6047; text: CR S6044) To prioritize Federal spending to ensure the residents of the city of Sacramento are protected from the threat of floods before spending money to add sand to beaches in San Diego.
+- 2007-05-14 — Amendment SA 1097 proposed by Senator Reid for Senator Levin to language proposed to be stricken by amendment no. 1065. (consideration: CR S6036-6038; text: CR S6037-6038) To provide for military readiness and benchmarks relative to Iraq.
+- 2007-05-14 — Amendment SA 1098 proposed by Senator Reid for Senator Feingold to Amendment SA 1097. (consideration: CR S6038-6043; text: CR S6038) To provide for a transition of the Iraq mission.
+- 2007-05-14 — Measure laid before Senate by motion. (consideration: CR S6036-6050)
+- 2007-05-14 — Pursuant to the order of Monday, May 14, 2007, cloture motion on amendment SA 1097 presented in Senate.
+- 2007-05-14 — Pursuant to the order of Monday, May 14, 2007, cloture motion on amendment SA 1098 presented in Senate.
+- 2007-05-14 — Senate amendment proposed (on the floor): Amendment SA 1065 proposed by Senator Boxer.(consideration: CR S6036)
+- 2007-05-14 — Senate amendment proposed (on the floor): Amendment SA 1086 proposed by Senator Boxer for Senator Feingold to Amendment SA 1065.(consideration: CR S6036)
+- 2007-05-14 — Senate amendment proposed (on the floor): Amendment SA 1089 proposed by Senator Coburn to Amendment SA 1065.(consideration: CR S6043-6044; text: CR S6043)
+- 2007-05-14 — Senate amendment proposed (on the floor): Amendment SA 1090 proposed by Senator Coburn to Amendment SA 1065.(consideration: CR S6044-6047; text: CR S6044)
+- 2007-05-14 — Senate amendment proposed (on the floor): Amendment SA 1097 proposed by Senator Reid for Senator Levin to language proposed to be stricken by amendment no. 1065.(consideration: CR S6036-6038; text: CR S6037-6038)
+- 2007-05-14 — Senate amendment proposed (on the floor): Amendment SA 1098 proposed by Senator Reid for Senator Feingold to Amendment SA 1097.(consideration: CR S6038-6043; text: CR S6038)
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-14 — Senate amendment submitted
+- 2007-05-15 — Amendment SA 1071 proposed by Senator Cardin to Amendment SA 1065. (consideration: CR S6092-6093; text: CR S6092) To provide for the siting, construction, expansion, and operation of liquefied natural gas terminals.
+- 2007-05-15 — Amendment SA 1086 not agreed to in Senate by Yea-Nay Vote. 22 - 69. Record Vote Number: 165.
+- 2007-05-15 — Amendment SA 1089 not agreed to in Senate by Yea-Nay Vote. 11 - 79. Record Vote Number: 164.
+- 2007-05-15 — Amendment SA 1090 not agreed to in Senate by Yea-Nay Vote. 12 - 77. Record Vote Number: 163.
+- 2007-05-15 — Amendment SA 1094 proposed by Senator Kerry to Amendment SA 1065. (consideration: CR S6100-6112, S6113-6115, S6118-6123; text: CR S6100) To require the consideration of certain factors relating to global climate change.
+- 2007-05-15 — Amendment SA 1094, pursuant to the order of May 15, 2007, having failed to achieve the required 60 votes in the affirmative, was  not agreed to in Senate by Yea-Nay Vote. 51 - 42. Record Vote Number: 166.
+- 2007-05-15 — Amendment SA 1134 proposed by Senator Warner to language proposed to be stricken by amendment no. 1065. (consideration: CR S6118-6121; text: CR S6120-6121) Relative to the President's strategy in Iraq.
+- 2007-05-15 — Amendment SA 1135 proposed by Senator McConnell for Senator Cochran to language proposed to be stricken by amendment no. 1065. (consideration: CR S6121; text: CR S6121) To express the sense of the Senate that Congress must send to the President acceptable legislation to continue funds for Operation Iraqi Freedom and Operation Enduring Freedom by not later than May 28, 2007.
+- 2007-05-15 — Cloture motion on amendment SA 1134 presented in Senate. (consideration: CR S6122; text: CR S6122)
+- 2007-05-15 — Cloture motion on amendment SA 1135 presented in Senate. (consideration: CR S6122; text: CR S6122)
+- 2007-05-15 — Considered by Senate. (consideration: CR S6086)
+- 2007-05-15 — Considered by Senate. (consideration: CR S6086, S6093)
+- 2007-05-15 — Considered by Senate. (consideration: CR S6086, S6093-6095)
+- 2007-05-15 — Considered by Senate. (consideration: CR S6086, S6121)
+- 2007-05-15 — Considered by Senate. (consideration: CR S6086, S6121)
+- 2007-05-15 — Considered by Senate. (consideration: CR S6086-6089)
+- 2007-05-15 — Considered by Senate. (consideration: CR S6086-6089, S6092-6115, S6118-6124)
+- 2007-05-15 — Proposed amendment SA 1071 withdrawn in Senate.
+- 2007-05-15 — Proposed amendment SA 1094, pursuant to the order of the Senate of May 15, 2007, having failed to achieve the required 60 votes in the affirmative, withdrawn in Senate.
+- 2007-05-15 — Roll call votes on amendments in Senate: Amendment SA 1086 not agreed to in Senate by Yea-Nay Vote. 22 - 69. Record Vote Number: 165.
+- 2007-05-15 — Roll call votes on amendments in Senate: Amendment SA 1089 not agreed to in Senate by Yea-Nay Vote. 11 - 79. Record Vote Number: 164.
+- 2007-05-15 — Roll call votes on amendments in Senate: Amendment SA 1090 not agreed to in Senate by Yea-Nay Vote. 12 - 77. Record Vote Number: 163.
+- 2007-05-15 — Roll call votes on amendments in Senate: Amendment SA 1094, pursuant to the order of May 15, 2007, having failed to achieve the required 60 votes in the affirmative, was  not agreed to in Senate by Yea-Nay Vote. 51 - 42. Record Vote Number: 166.
+- 2007-05-15 — Senate amendment not agreed to: Amendment SA 1086 not agreed to in Senate by Yea-Nay Vote. 22 - 69. Record Vote Number: 165.
+- 2007-05-15 — Senate amendment not agreed to: Amendment SA 1089 not agreed to in Senate by Yea-Nay Vote. 11 - 79. Record Vote Number: 164.
+- 2007-05-15 — Senate amendment not agreed to: Amendment SA 1090 not agreed to in Senate by Yea-Nay Vote. 12 - 77. Record Vote Number: 163.
+- 2007-05-15 — Senate amendment not agreed to: Amendment SA 1094, pursuant to the order of May 15, 2007, having failed to achieve the required 60 votes in the affirmative, was  not agreed to in Senate by Yea-Nay Vote. 51 - 42. Record Vote Number: 166.
+- 2007-05-15 — Senate amendment proposed (on the floor): Amendment SA 1071 proposed by Senator Cardin to Amendment SA 1065.(consideration: CR S6092-6093; text: CR S6092)
+- 2007-05-15 — Senate amendment proposed (on the floor): Amendment SA 1094 proposed by Senator Kerry to Amendment SA 1065.(consideration: CR S6100-6112, S6113-6115, S6118-6123; text: CR S6100)
+- 2007-05-15 — Senate amendment proposed (on the floor): Amendment SA 1134 proposed by Senator Warner to language proposed to be stricken by amendment no. 1065.(consideration: CR S6118-6121; text: CR S6120-6121)
+- 2007-05-15 — Senate amendment proposed (on the floor): Amendment SA 1135 proposed by Senator McConnell for Senator Cochran to language proposed to be stricken by amendment no. 1065.(consideration: CR S6121; text: CR S6121)
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-15 — Senate amendment submitted
+- 2007-05-16 — Amendment SA 1065 agreed to in Senate by Unanimous Consent.
+- 2007-05-16 — Amendment SA 1135 agreed to in Senate by Voice Vote.
+- 2007-05-16 — Amendment SA 1145 agreed to in Senate by Unanimous Consent.
+- 2007-05-16 — Amendment SA 1145 proposed by Senator Boxer to Amendment SA 1065. (consideration: CR S6177-6184) To modify certain provisions relating to water resources development projects.
+- 2007-05-16 — Cloture motion on amendment SA 1097 withdrawn by unanimous consent in Senate.
+- 2007-05-16 — Cloture not invoked in Senate by Yea-Nay Vote. 52 - 44. Record Vote Number: 168. (consideration: CR S6166-6167; text: CR S6167)
+- 2007-05-16 — Cloture on amendment SA 1098 not invoked in Senate by Yea-Nay Vote. 29 - 67. Record Vote Number: 167. (consideration: CR S6166; text: CR S6166)
+- 2007-05-16 — Cloture on amendment SA 1135 invoked in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 169. (consideration: CR S6167-6168; text: CR S6167)
+- 2007-05-16 — Considered by Senate. (consideration: CR S6157-6184)
+- 2007-05-16 — Considered by Senate. (consideration: CR S6158)
+- 2007-05-16 — Considered by Senate. (consideration: CR S6158)
+- 2007-05-16 — Considered by Senate. (consideration: CR S6158, S6166)
+- 2007-05-16 — Considered by Senate. (consideration: CR S6158, S6166)
+- 2007-05-16 — Considered by Senate. (consideration: CR S6158, S6167)
+- 2007-05-16 — Passed Senate with an amendment by Yea-Nay Vote. 91 - 4. Record Vote Number: 170. (text: CR 5/17/2007 S6314-6358)
+- 2007-05-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 91 - 4. Record Vote Number: 170.(text: CR 5/17/2007 S6314-6358)
+- 2007-05-16 — Proposed amendment SA 1097 withdrawn in Senate.
+- 2007-05-16 — Proposed amendment SA 1098 withdrawn in Senate.
+- 2007-05-16 — Proposed amendment SA 1134 withdrawn in Senate.
+- 2007-05-16 — Roll call votes on amendments in Senate: Cloture not invoked in Senate by Yea-Nay Vote. 52 - 44. Record Vote Number: 168.(consideration: CR S6166-6167; text: CR S6167)
+- 2007-05-16 — Roll call votes on amendments in Senate: Cloture on amendment SA 1098 not invoked in Senate by Yea-Nay Vote. 29 - 67. Record Vote Number: 167.(consideration: CR S6166; text: CR S6166)
+- 2007-05-16 — Roll call votes on amendments in Senate: Cloture on amendment SA 1135 invoked in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 169.(consideration: CR S6167-6168; text: CR S6167)
+- 2007-05-16 — Senate amendment agreed to: Amendment SA 1065 agreed to in Senate by Unanimous Consent.
+- 2007-05-16 — Senate amendment agreed to: Amendment SA 1135 agreed to in Senate by Voice Vote.
+- 2007-05-16 — Senate amendment agreed to: Amendment SA 1145 agreed to in Senate by Unanimous Consent.
+- 2007-05-16 — Senate amendment proposed (on the floor): Amendment SA 1145 proposed by Senator Boxer to Amendment SA 1065.(consideration: CR S6177-6184)
+- 2007-05-16 — Senate amendment submitted
+- 2007-05-16 — Senate amendment submitted
+- 2007-05-16 — Senate amendment submitted
+- 2007-05-16 — Senate amendment submitted
+- 2007-05-16 — Senate amendment submitted
+- 2007-05-16 — Senate insisted on its amendment, requested a conference.
+- 2007-05-17 — Message on Senate action sent to the House.
+- 2007-05-17 — Senate appointed conferees. Boxer; Baucus; Lieberman; Carper; Clinton; Lautenberg; Inhofe; Warner; Voinovich; Isakson; Vitter.
+- 2007-07-25 — Mr. Oberstar moved that the House disagree to the Senate amendment, and agree to a conference.
+- 2007-07-25 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote. (consideration: CR H8420)
+- 2007-07-25 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 2014, 2023, and 6009 of the House bill, and secs. 3023, 5008, and 5016 of the Senate amendment, and modifications committed to conference: Rahall, Napolitano, and McMorris Rodgers.
+- 2007-07-25 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of the House bill and the Senate amendment, and modifications committed to conference: Oberstar, Johnson, E. B., Tauscher, Baird, Higgins, Mitchell, Kagen, McNerney, Mica, Duncan, Ehlers, Baker, Brown (SC), and Boozman.
+- 2007-07-31 — Conferees agreed to file conference report.
+- 2007-07-31 — Conference committee actions: Conferees agreed to file conference report.
+- 2007-07-31 — Conference report H. Rept. 110-280 filed. (text of conference report: CR H9059-9188)
+- 2007-07-31 — Conference report filed: Conference report H. Rept. 110-280 filed.(text of conference report: CR H9059-9188)
+- 2007-08-01 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 381 - 40 (Roll no. 790).
+- 2007-08-01 — DEBATE - The House proceeded with 1 hour of debate on the conference report to accompany H.R. 1495.
+- 2007-08-01 — Motions to reconsider laid on the table Agreed to without objection.
+- 2007-08-01 — Mr. Oberstar brought up conference report H. Rept. 110-280 for consideration under the provisions of H. Res. 597. (consideration: CR 8/2/2007 H9522-9532)
+- 2007-08-01 — On agreeing to the conference report Agreed to by the Yeas and Nays: 381 - 40 (Roll no. 790).
+- 2007-08-01 — POSTPONED PROCEEDINGS - At the conclusion of the debate on the Conference Report to accompany H.R. 1495, the Chair announced that pursuant to the Rules of the House, the Yeas and Nays were ordered. Subsequently, the Chair postponed further proceedings on the question of adoption on the Conference Report until later in the legislative day.
+- 2007-08-01 — Rule H. Res. 597 passed House.
+- 2007-08-01 — Rules Committee Resolution H. Res. 597 Reported to House. Rule provides for consideration of the conference report to H.R. 1495 with 1 hour of general debate.
+- 2007-08-01 — The House proceeded to consider the conference report H.Rept. 110-280 as unfinished business. (consideration: CR 8/2/2007 H9533-9534)
+- 2007-08-01 — The previous question was ordered pursuant to the rule. (consideration: CR 8/2/2007 H9531)
+- 2007-08-02 — Conference papers: message on House action held at the desk in Senate.
+- 2007-09-24 — Cleared for White House.
+- 2007-09-24 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 81 - 12. Record Vote Number: 347.
+- 2007-09-24 — Conference report considered in Senate. (consideration: CR S11974-11996)
+- 2007-09-24 — Message on Senate action sent to the House.
+- 2007-09-24 — Senate agreed to conference report by Yea-Nay Vote. 81 - 12. Record Vote Number: 347.
+- 2007-10-23 — Presented to President.
+- 2007-10-23 — Presented to President.
+- 2007-11-02 — Vetoed by President. (text of veto message: CR H12458-12459)
+- 2007-11-02 — Vetoed by President.(text of veto message: CR H12458-12459)
+- 2007-11-05 — Pursuant to the permission granted in Clause 2(h) of Rule II of the Rules of the U.S. House of Representatives, the Clerk notified the House that she had received from the White House on November 2, 2007, at 1:49 p.m. stating a message from the President whereby he returns without his approval, H.R. 1495, the "Water Resources Development Act of 2007.
+- 2007-11-05 — The Chair laid before the House a veto message from the President on November 5, 2007 and that after the message was read and the objections of the President were spread at large upon the Journal, further consideration of the veto message and the bill shall be postponed until Tuesday, November 6, 2007.
+- 2007-11-06 — DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 1495, the objections of the President to the contrary, notwithstanding.
+- 2007-11-06 — Passed House over veto: Two-thirds of the Members present having voted in the affirmative the bill is passed, the objections of the President to the contrary notwithstanding. Passed by the Yeas and Nays (2/3 required): 361 - 54 (Roll No. 1040).(consideration: CR H12788-12798)
+- 2007-11-06 — The Chair announced that the unfinished business was the veto message on H.R. 1495.
+- 2007-11-06 — Two-thirds of the Members present having voted in the affirmative the bill is passed, the objections of the President to the contrary notwithstanding. Passed by the Yeas and Nays (2/3 required): 361 - 54 (Roll No. 1040). (consideration: CR H12788-12798)
+- 2007-11-07 — Veto message received in Senate. Held at the desk. (consideration: CR S14044-14056)
+- 2007-11-08 — Message on Senate action sent to the House.
+- 2007-11-08 — Passed Senate over veto by Yea-Nay Vote. 79 - 14. Record Vote Number: 406.
+- 2007-11-08 — Passed Senate over veto: Passed Senate over veto by Yea-Nay Vote. 79 - 14. Record Vote Number: 406.
+- 2007-11-08 — Veto Message considered in Senate. (consideration: CR S14113-14118)
+- 2007-11-09 — Became Public Law No: 110-114.
+- 2007-11-09 — Became Public Law No: 110-114.
