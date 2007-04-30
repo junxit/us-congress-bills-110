@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1495
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1495
@@ -91,3 +91,5 @@ Water Resources Development Act of 2007
 - 2007-04-19 — The Speaker designated the Honorable Mike Ross to act as Chairman of the Committee.
 - 2007-04-19 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H3664)
 - 2007-04-19 — The previous question was ordered pursuant to the rule. (consideration: CR H3662-3663)
+- 2007-04-23 — Received in the Senate.
+- 2007-04-30 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 128.
