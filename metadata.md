@@ -1,7 +1,7 @@
 ---
 measure: H.R. 493
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 493
@@ -291,3 +291,5 @@ Genetic Information Nondiscrimination Act of 2008
 - 2007-04-25 — Mr. Miller, George moved to suspend the rules and pass the bill, as amended.
 - 2007-04-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 261). (text: CR H4083-4094)
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 261).(text: CR H4083-4094)
+- 2007-04-26 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-04-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.
