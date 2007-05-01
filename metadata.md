@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 162
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 162
@@ -16,7 +16,7 @@ A resolution commemorating and acknowledging the dedication and sacrifice made b
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
@@ -29,6 +29,7 @@ A resolution commemorating and acknowledging the dedication and sacrifice made b
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -43,3 +44,11 @@ A resolution commemorating and acknowledging the dedication and sacrifice made b
 - 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 124.
+- 2007-05-01 — Amendment SA 1007 agreed to in Senate by Unanimous Consent.
+- 2007-05-01 — Amendment SA 1007 proposed by Senator Reid for Senator Bunning. (consideration: CR S5438; text: CR S5438) To amend the preamble.
+- 2007-05-01 — Measure laid before Senate by unanimous consent. (consideration: CR S5437-5438)
+- 2007-05-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.(text: CR S5438)
+- 2007-05-01 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S5438)
+- 2007-05-01 — Senate amendment agreed to: Amendment SA 1007 agreed to in Senate by Unanimous Consent.
+- 2007-05-01 — Senate amendment proposed (on the floor): Amendment SA 1007 proposed by Senator Reid for Senator Bunning.(consideration: CR S5438; text: CR S5438)
+- 2007-05-01 — Senate amendment submitted
