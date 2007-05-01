@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1332
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1332
@@ -91,3 +91,6 @@ Small Business Lending Improvements Act of 2007
 - 2007-04-25 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1332.
 - 2007-04-25 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
 - 2007-04-25 — The previous question was ordered pursuant to the rule. (consideration: CR H4105-4106)
+- 2007-04-26 — Received in the Senate.
+- 2007-04-30 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-05-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 129.
