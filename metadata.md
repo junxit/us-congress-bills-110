@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 116
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 116
@@ -29,3 +29,5 @@ A resolution designating May 2007 as "National Autoimmune Diseases Awareness Mon
 - 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.
+- 2007-05-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5436; text as passed Senate: CR S5436)
+- 2007-05-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5436; text as passed Senate: CR S5436)
