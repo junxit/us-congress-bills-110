@@ -17,7 +17,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Frances Allen made fundamental contributions to the theory and practice of program optimization, which translates the users’ problem-solving language statements;
 - Whereas Frances Allen’s work led to remarkable advances in compiler design and machine architecture that are at the foundation of modern high-performance computing;
 - Whereas Frances Allen’s unique dedication to meeting the needs of her customers led to IBM’s innovation model;
-- Whereas Frances Allen is nationally renowned for her work in encouraging women to study computer science; and
+- Whereas Frances Allen is nationally renowned for her work in encouraging women to study computer science;
+- Whereas the Association for Computing Machinery, an international organization of computing professionals, gives the A.M. Turing Award annually to individuals whose contributions in the field of computing are long-lasting and are of major technical importance; and
 - Whereas Frances Allen has now been honored as the first woman recipient of the Turing Award, computer science’s most prestigious award, which is equated by some to the Nobel Prizes: Now, therefore, be it
 
 That the Congress honors the pioneering life work of Frances Allen in computer research and development and salutes the Turing Award Committee for recognizing, through the selection of Frances Allen, that creative women have contributed mightily to the development of this important field.
