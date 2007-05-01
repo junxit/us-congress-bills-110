@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 146
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 146
@@ -16,7 +16,7 @@ A resolution designating June 20, 2007, as "American Eagle Day", and celebrating
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
 - Sen. Byrd, Robert C. [D-WV] (B001210)
 - Sen. Coleman, Norm [R-MN] (C001057)
@@ -27,6 +27,10 @@ A resolution designating June 20, 2007, as "American Eagle Day", and celebrating
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -40,3 +44,5 @@ A resolution designating June 20, 2007, as "American Eagle Day", and celebrating
 - 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-04-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-04-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
+- 2007-05-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5437; text as passed Senate: CR S5437)
+- 2007-05-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5437; text as passed Senate: CR S5437)
