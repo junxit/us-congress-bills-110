@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 118
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 118
@@ -46,3 +46,9 @@ Congratulating the City of Chicago for being chosen to represent the United Stat
 - 2007-04-18 — Introduced in House
 - 2007-04-18 — Introduced in House
 - 2007-04-18 — Referred to the House Committee on Foreign Affairs.
+- 2007-05-01 — Considered under suspension of the rules. (consideration: CR H4255-4257)
+- 2007-05-01 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 118.
+- 2007-05-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-01 — Mr. Sires moved to suspend the rules and agree to the resolution.
+- 2007-05-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4255)
+- 2007-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4255)
