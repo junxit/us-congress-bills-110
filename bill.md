@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 2098
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2098
+
+> To provide for the disposition of the Federal property located in Anne Arundel County, Maryland, a portion of which is currently used by the District of Columbia as the Oak Hill juvenile detention facility.
+
+## § 1. Disposition of Oak Hill property
+
+- **(a)** *In general* The Oak Hill property shall be disposed of as follows:
+  - **(1)** The portion of the property which is located west of the Baltimore-Washington Parkway shall be transferred to the jurisdiction of the Director of the National Park Service, who shall use such portion for parkland purposes.
+  - **(2)** Subject to subsection (b), the portion of the property which is located east of the Baltimore-Washington Parkway and 200 feet and further north of the Patuxent River shall be transferred to the Secretary of the Army (acting through the Chief of Engineers) for use by the Director of the National Security Agency.
+  - **(3)** The portion of the property which is located east of the Baltimore-Washington Parkway and south of the portion described in paragraph (2) shall be transferred to the jurisdiction of the Administrator of General Services, who shall in turn convey such portion to Anne Arundel County, Maryland, in accordance with subsection (c).
+- **(b)** *Payment for construction of new juvenile detention facility for District of Columbia* As a condition of the transfer under subsection (a)(2), the Director of the National Security Agency shall enter into an agreement with the Mayor of the District of Columbia under which—
+  - **(1)** the juvenile detention facility for the District of Columbia currently located on the Oak Hill property shall be closed; and
+  - **(2)** subject to appropriations, the Agency shall pay for the construction of a replacement facility at a site to be determined within the District of Columbia.
+- **(c)** *Conveyance of portion of property to Anne Arundel County*
+  - **(1)** *In general* The Administrator of General Services shall convey, without consideration, to Anne Arundel County, Maryland, all right, title, and interest of the United States in and to that portion of the Oak Hill property referred to in subsection (a)(3).
+  - **(2)** *Terms and conditions of conveyance* The conveyance under paragraph (1) shall be carried out under such terms and conditions as may be agreed to by the Administrator and Anne Arundel County, except that, as a condition of the conveyance—
+    - **(A)** Anne Arundel County shall agree to dedicate a portion of the property which is adjacent to the Patuxent River to parkland and recreational use; and
+    - **(B)** Anne Arundel County shall agree to reimburse the National Security Agency for the amounts paid by the Agency under subsection (b) for the construction of a new juvenile detention facility for the District of Columbia, but only if the County makes 25 percent or more of the property conveyed under this subsection available for purposes other than open space or recreational use.
+
+## § 2. Oak Hill property defined
+
+In this Act, the term Oak Hill property means the Federal property consisting of approximately 800 acres near Laurel, Maryland, a portion of which is currently used by the District of Columbia as a juvenile detention facility, and which is shown on Map Number 20 in the records of the Department of Assessments and Taxation, Tax Map Division, of Anne Arundel County.
