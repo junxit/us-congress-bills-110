@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 298
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 298
@@ -47,8 +47,20 @@ To commend the University of Florida Gators for their historic win in the 2007 N
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2007-05-01 — [House 110-1-272](votes/house-110-1-0272.md) — On Motion to Suspend the Rules and Agree — **Passed** (415–0)
+
 ## Actions
 
 - 2007-04-16 — Introduced in House
 - 2007-04-16 — Introduced in House
 - 2007-04-16 — Referred to the House Committee on Education and Labor.
+- 2007-05-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-01 — Considered as unfinished business. (consideration: CR H4259)
+- 2007-05-01 — Considered under suspension of the rules. (consideration: CR H4228-4230)
+- 2007-05-01 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 298.
+- 2007-05-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-01 — Mrs. McCarthy (NY) moved to suspend the rules and agree to the resolution.
+- 2007-05-01 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 4 Present (Roll no. 272). (text: CR H4228-4229)
+- 2007-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 4 Present (Roll no. 272).(text: CR H4228-4229)
