@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 344
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 344
@@ -32,3 +32,9 @@ Congratulating charter schools and their students, parents, teachers, and admini
 - 2007-04-30 — Introduced in House
 - 2007-04-30 — Introduced in House
 - 2007-04-30 — Referred to the House Committee on Education and Labor.
+- 2007-05-01 — Considered under suspension of the rules. (consideration: CR H4230-4232)
+- 2007-05-01 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 344.
+- 2007-05-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-01 — Mrs. McCarthy (NY) moved to suspend the rules and agree to the resolution.
+- 2007-05-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4230-4231)
+- 2007-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4230-4231)

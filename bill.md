@@ -2,12 +2,12 @@
 legis-num: H. RES. 344
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 344
 
-> Congratulating charter schools and their students, parents, teachers, and administrators across the United States for their ongoing contributions to education, and for other purposes.
+> Congratulating charter schools and their students, parents, teachers, and administrars across the United States for their ongoing contributions to education, and for other purposes.
 
 ## Preamble
 
