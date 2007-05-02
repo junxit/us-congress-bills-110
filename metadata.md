@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 112
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 112
@@ -29,9 +29,10 @@ Supporting the goals and ideas of a National Child Care Worthy Wage Day.
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Supporting the goals and ideas of a National Child Care Worthy Wage Day.
 - 2007-05-01 — Mrs. McCarthy (NY) moved to suspend the rules and agree to the resolution.
 - 2007-05-01 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 345 - 73, 1 Present (Roll no. 271). (text: CR H4227)
 - 2007-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 345 - 73, 1 Present (Roll no. 271).(text: CR H4227)
+- 2007-05-02 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
