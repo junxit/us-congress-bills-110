@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1429
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-57 amendatory instructions. 3 executed, 54 stated and not applied.
+56 amendatory instructions. 3 executed, 53 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -61,10 +61,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 9831` | amend | Section 636 of the Head Start Act (42 U.S.C. 9831) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9832` | redesignate | by redesignating paragraphs (16) and (17) as paragraphs (22) and (23), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9832` | redesignate | by redesignating paragraph (15) as paragraph (20), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9832` | redesignate | by redesignating paragraphs (11) through (14) as paragraphs (15) through (18), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9832` | redesignate | by redesignating paragraph (10) as paragraph (13), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9832` | redesignate | by redesignating paragraphs (16) and (17) as paragraphs (23) and (24), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9832` | redesignate | by redesignating paragraph (15) as paragraph (21), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9832` | redesignate | by redesignating paragraphs (11) through (14) as paragraphs (16) through (19), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9832` | redesignate | by redesignating paragraph (10) as paragraph (14), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9832` | redesignate | by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9832` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11434a` | redesignate | by inserting after paragraph (10), as so redesignated the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -76,6 +76,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 9835` | amend | Section 640(a) of the Head Start Act (42 U.S.C. 9835(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9835` | amend | Section 640(f) of the Head Start Act (42 U.S.C. 9835(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11432` | amend | by amending subparagraphs (C) through (H) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9835` | add-at-end | Section 640(g) of the Head Start Act (42 U.S.C. 9835(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9835` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9835` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9835` | add-at-end | Section 640 of the Head Start Act (42 U.S.C. 9835) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -100,12 +101,10 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1001` | replace | in subparagraph (C) by striking the period at the end and inserting “; or”, and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1001` | add-at-end | by adding at the end, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9843a` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9843a` | add-at-end | is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078` | add-at-end | is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9844` | amend | by amending subsection (a)(1)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9844` | amend | in paragraph (7) by adding “and” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9844` | replace | in paragraph (8) by striking the semicolon at the end and inserting a period, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9844` | strike | by striking paragraphs (9) and (10), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 9844` | strike | by striking the last sentence, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9844` | amend | in paragraph (8) by adding “and” at the end, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 9844` | replace | by striking paragraphs (9) and (10) and insert the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9844` | strike | by striking clause (i), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9844` | redesignate | by redesignating clauses (ii) and (iii) as clauses (i) and (ii), respectively, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9844` | amend | by amending paragraph (7)(C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
