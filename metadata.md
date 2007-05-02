@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 348
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 348
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 1429) to reauthorize the Head Star
 - 2007-05-01 — Placed on the House Calendar, Calendar No. 46.
 - 2007-05-01 — The House Committee on Rules reported an original measure, H. Rept. 110-116, by Ms. Castor.
 - 2007-05-01 — The House Committee on Rules reported an original measure, H. Rept. 110-116, by Ms. Castor.
+- 2007-05-02 — Considered as privileged matter. (consideration: CR H4306-4314)
+- 2007-05-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 348.
+- 2007-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 196 (Roll no. 274). (text: CR H4306)
+- 2007-05-02 — On ordering the previous question Agreed to by the Yeas and Nays: 226 - 194 (Roll no. 273). (consideration: CR H4312-4314)
+- 2007-05-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 196 (Roll no. 274).(text: CR H4306)
