@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 118
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 118
@@ -52,3 +52,4 @@ Congratulating the City of Chicago for being chosen to represent the United Stat
 - 2007-05-01 — Mr. Sires moved to suspend the rules and agree to the resolution.
 - 2007-05-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4255)
 - 2007-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4255)
+- 2007-05-02 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 130.
