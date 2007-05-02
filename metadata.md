@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 95
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 95
@@ -24,9 +24,10 @@ Honoring the career and research accomplishments of Frances E. Allen, the 2006 r
 - Rep. Solis, Hilda L. [D-CA-32] (S001153)
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Honoring the career and research accomplishments of Frances E. Allen, the 2006 r
 - 2007-05-01 — Ms. Woolsey moved to suspend the rules and agree to the resolution, as amended.
 - 2007-05-01 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4219)
 - 2007-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4219)
+- 2007-05-02 — Received in the Senate and referred to the Committee on the Judiciary.
