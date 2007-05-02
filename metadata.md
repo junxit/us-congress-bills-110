@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 349
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 349
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 1867) to authorize appropriations 
 - 2007-05-01 — Placed on the House Calendar, Calendar No. 47.
 - 2007-05-01 — The House Committee on Rules reported an original measure, H. Rept. 110-117, by Ms. Matsui.
 - 2007-05-01 — The House Committee on Rules reported an original measure, H. Rept. 110-117, by Ms. Matsui.
+- 2007-05-02 — Considered as privileged matter. (consideration: CR H4301-4302)
+- 2007-05-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 349.
+- 2007-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-02 — On agreeing to the resolution Agreed to by voice vote. (text: CR H4301)
+- 2007-05-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H4301)
+- 2007-05-02 — The previous question was ordered without objection. (consideration: CR H4302)
