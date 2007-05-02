@@ -11,7 +11,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Head Start Act of 2007”.
+- **(a)** *Short Title* This Act may be cited as the “Improving Head Start Act of 2007”.
+- **(b)** *Sense of the Congress* The Congress—
+  - **(1)** finds that—
+    - **(A)** while the steady economic growth and low inflation in the United States has yielded unprecedented prosperity, many children and families in this country have not benefited from this prosperity and continue to be socioeconomically disadvantaged,
+    - **(B)** many community- and faith-based organizations have expertise in moving individuals and families from dependency to self-sufficiency by providing families with the tools and skills they need to participate in the community and contribute to our economy,
+    - **(C)** the Head Start Act was established to help prepare low-income young children to succeed in school and in life by addressing the needs of the whole child and providing comprehensive services such as health and nutrition,
+    - **(D)** research confirms that children who attend Head Start programs enter school better prepared than low-income children who do not attend the program, are less likely to need special education services, to repeat a grade, or commit crimes in adolescence, and are more likely to graduate from high school,
+    - **(E)** community- and faith-based organizations have participated in Head Start programs since the enactment of the Head Start Act in 1965 and continue to serve more than 90,000 children and their families,
+    - **(F)** parents have an integral role in the development and implementation of Head Start programs, community- and faith-based providers of Head Start services employ parents and encourage parents to volunteer in the programs because parents are children’s most important and influential teachers,
+    - **(G)** community- and faith-based providers of Head Start services not only serve the needs of low-income children and their families but enrich, strengthen and reflect the diversity of the communities wherein they reside, and
+    - **(H)** the Head Start Act is a critical component of America’s civil rights platform, and community and faith-based organizations have been leaders in the civil rights movement in the United States,
+  - **(2)** supports the continued role of community and faith-based organizations in Head Start programs as providers of comprehensive services to children, families, and communities, and
+  - **(3)** extends its gratitude to community- and faith-based organizations that provide Head Start services, and to the employees and volunteers for their commitment to the education, health, and economic well-being of low-income children and families.
 
 ## § 2. Statement of purpose
 
@@ -28,10 +40,10 @@ Section 636 of the Head Start Act (42 U.S.C. 9831) is amended to read as follows
 
 Section 637 of the Head Start Act (42 U.S.C. 9832) is amended—
 
-- **(1)** by redesignating paragraphs (16) and (17) as paragraphs (22) and (23), respectively,
-- **(2)** by redesignating paragraph (15) as paragraph (20), respectively,
-- **(3)** by redesignating paragraphs (11) through (14) as paragraphs (15) through (18), respectively,
-- **(4)** by redesignating paragraph (10) as paragraph (13),
+- **(1)** by redesignating paragraphs (16) and (17) as paragraphs (23) and (24), respectively,
+- **(2)** by redesignating paragraph (15) as paragraph (21), respectively,
+- **(3)** by redesignating paragraphs (11) through (14) as paragraphs (16) through (19), respectively,
+- **(4)** by redesignating paragraph (10) as paragraph (14),
 - **(5)** by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively,
 - **(6)** by inserting after paragraph (1) the following:
   > - **(2)** The term deficiency means—
@@ -47,6 +59,7 @@ Section 637 of the Head Start Act (42 U.S.C. 9832) is amended—
 - **(7)** by inserting after paragraph (10), as so redesignated the following:
   > - **(11)** The term ‘homeless children’ has the meaning given such term in section 725(2) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11434a(2)).
   > - **(12)** The term “homeless family” means the family of a homeless child.
+  > - **(13)** The term “inclusive classroom” means a Head Start classroom that contains both children with disabilities and children without disabilities.
 
 - **(8)** by inserting after paragraph (13), as so redesignated the following:
   > - **(14)** The terms limited English proficient and limited English proficiency mean with respect to an individual, that such individual—
@@ -101,7 +114,7 @@ Section 639 of the Head Start Act (42 U.S.C. 9834) is amended to read as follows
 > ## § 639. Authorization of appropriations
 >
 > - **(a)** *In General* There are authorized to be appropriated to carry out this subchapter $7,350,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2012.
-> - **(b)** *Specific Programs* From the amount appropriated under subsection (a), the Secretary shall make available to carry out research, demonstration, and evaluation activities (including longitudinal studies under section 649) not more than $20,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal the years 2009 through 2012, of which not more than $7,000,000 for each of the fiscal years 2008 through 2012 shall be available to carry out impact studies under section 649(g).
+> - **(b)** *Specific Programs* From the amount appropriated under subsection (a), the Secretary shall make available to carry out research, demonstration, and evaluation activities (including longitudinal studies under section 649) not more than $20,000,000 for fiscal year 2008 and such sums as may be necessary for each of the fiscal years 2009 through 2012, of which not more than $7,000,000 for each of the fiscal years 2008 through 2012 shall be available to carry out impact studies under section 649(g).
 
 ## § 5. Allotment of funds; limitation on assistance
 
@@ -208,17 +221,22 @@ Section 639 of the Head Start Act (42 U.S.C. 9834) is amended to read as follows
     > - **(E)** the number of eligible children in each community who are not participating in a Head Start program or any other early childhood program;
     > - **(F)** the concentration of low-income families in each community;
     > - **(G)** the extent to which the applicant proposes to foster partnerships with other service providers in a manner that will leverage the existing delivery systems of such services and enhance the resource capacity of the applicant;
-    > - **(H)** the extent to which the applicant, in providing services, successfully coordinated its activities with the local educational agency serving the community involved, (including the local educational agency liaison designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)) and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency; and
+    > - **(H)** the extent to which the applicant, in providing services, successfully coordinated its activities with the local educational agency serving the community involved, (including the local educational agency liaison designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii))) and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency; and
     > - **(I)** the amount of funds used by such agency to pay administrative expenses and the amount of available funds received by such agency under this section to service each enrolled child.
 
-- **(d)** *Transportation safety*
+- **(d)** *Enrollment* Section 640(g) of the Head Start Act (42 U.S.C. 9835(g)) is amended by adding at the end the following:
+  > - **(5)** In the event that the amounts appropriated to carry out the program under this subchapter do not exceed the amount appropriated in the prior fiscal year, or exceed the amount appropriated in the prior fiscal year by an amount equal to less than the percentage change in the Consumer Price Index For All Urban Consumers, as published by the Bureau of Labor Statistics, Head Start grantees may negotiate with the Secretary a reduced funded enrollment level without a reduction in the grant amount if such grantee can demonstrate that such reduction is necessary to maintain the quality of services.
+  >   - **(A)** In accordance with this paragraph, the Secretary shall set up a process for grantees to negotiate the above-mentioned reduced funded enrollment level.
+  >   - **(B)** Under the conditions detailed in this paragraph, the Secretary shall be required to notify grantees of their right to negotiate a reduced funded enrollment level if such grantee can demonstrate that such reduction is necessary to maintain the quality of services.
+
+- **(e)** *Transportation safety*
   - **(1)** *Regulations* The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by Head Start agencies to transport children participating in Head Start programs.
   - **(2)** *Good cause waiver authority* The Secretary shall allow Head Start agencies to annually request a good cause exception to the requirements of regulations promulgated under paragraph (1) for one or more vehicles used by the agency or its designee in transporting children enrolled in a Head Start program or an Early Head Start program if—
     - **(A)** such requirements would create a safety hazard in the circumstances faced by such agency; or
-    - **(B)** such requirements pertain to child restraint systems (45 C.F.R. 1310.11, 1310.15(a)) or bus monitors (45 C.F.R. 1310.15(c));
+    - **(B)** such requirements pertain to child restraint systems (45 CFR 1310.11, 1310.15(a)) or bus monitors (45 CFR 1310.15(c));
     - **(C)** the agency demonstrates that compliance with such requirements will result in a significant disruption to the Head Start program or the Early Head Start program; and
     - **(D)** the waiver is in the best interest of the children involved.
-- **(e)** *Migrant and Seasonal Head Start Programs* Section 640(l) of the Head Start Act (42 U.S.C. 9835(l)) is amended—
+- **(f)** *Migrant and Seasonal Head Start Programs* Section 640(l) of the Head Start Act (42 U.S.C. 9835(l)) is amended—
   - **(1)** by amending paragraph (3) to read as follows:
     > - **(3)** In carrying out this subchapter, the Secretary shall continue the administrative arrangement at the national level for meeting the needs of Indian children and children of migrant and seasonal farmworkers and shall ensure that appropriate funding is provided to meet such needs, including training and technical assistance and the appointment of a national migrant and seasonal Head Start collaboration director and a national Indian Head Start collaboration director.
 
@@ -229,7 +247,7 @@ Section 639 of the Head Start Act (42 U.S.C. 9834) is amended to read as follows
     >   - **(C)** The Secretary shall publish a notification of the consultations in the Federal Register before conducting the consultations.
     >   - **(D)** A detailed report of each consultation shall be prepared and made available within 90 days of the annual consultation to all Indian tribes that receive assistance under this subchapter.
 
-- **(f)** *Enrollment of Homeless Children; Rule of Construction; Materials* Section 640 of the Head Start Act (42 U.S.C. 9835) is amended by adding at the end the following:
+- **(g)** *Enrollment of Homeless Children; Rule of Construction; Materials* Section 640 of the Head Start Act (42 U.S.C. 9835) is amended by adding at the end the following:
   > - **(m)** *Enrollment of Homeless Children* The Secretary shall issue rules to establish policies and procedures to remove barriers to the enrollment and participation of homeless children in Head Start programs. Such rules shall require Head Start agencies—
   >   - **(1)** to implement policies and procedures to ensure that homeless children are identified and prioritized for enrollment;
   >   - **(2)** to allow homeless families to apply to, enroll in and attend Head Start programs while required documents, such as proof of residency, immunization and other medical records, birth certificates and other documents, are obtained within a reasonable time frame; and
@@ -254,7 +272,7 @@ Section 641 of the Head Start Act (42 U.S.C. 9836) is amended to read as follows
 >     - **(E)** Program Information Report.
 >   - **(2)** *Expert panel* No later than six months after the enactment of the Improving Head Start Act of 2007, the Secretary shall convene an expert panel of 7 members to make recommendations to the Secretary on the development of a transparent, reliable, and valid system for evaluating grant renewal applications.
 >   - **(3)** *Composition of expert panel* The Secretary, in convening such panel, shall appoint the following:
->     - **(A)** 5 members, who are competent, by virtue of their training, expertise, and experience, in each of at least one of the following areas:
+>     - **(A)** Five members, who are competent, by virtue of their training, expertise, and experience, in each of at least one of the following areas:
 >       - **(i)** Early childhood program accreditation or quality assessment.
 >       - **(ii)** Research on early childhood development.
 >       - **(iii)** Governance and finance of non-profit organizations.
@@ -262,15 +280,15 @@ Section 641 of the Head Start Act (42 U.S.C. 9836) is amended to read as follows
 >       - **(v)** Delivery of services to children with disabilities.
 >     - **(B)** An employee from the Office of Head Start.
 >     - **(C)** An executive director of a Head Start agency.
->   - **(4)** *Expert panel report* Within 12 months of being convened by the Secretary, the expert panel shall issue a report to the Secretary that provides recommendations on a proposed system of application review that takes into account the criteria in paragraph (1) to evaluate whether a Head Start grantee is meeting mission to provide a high quality comprehensive early education program, including adequately meeting its governance and financial management requirements.
->   - **(5)** *Public comment; report to congress* No later than 6 months after receiving the report described in paragraph (4), the Secretary shall publish a proposed system of application review in the Federal Register, providing at least 90 days for public comment and shall provide a report to the Education and Labor Committee of the U.S. House of Representatives and the Health, Education, Labor, and Pensions Committee of the U.S. Senate that provides a detailed description of such proposed system, including clear rationale for any differences between the proposed system and the recommendations of the expert panel, if any such differences exist.
+>   - **(4)** *Expert panel report* Within 12 months of being convened by the Secretary, the expert panel shall issue a report to the Secretary that provides recommendations on a proposed system of application review that takes into account the criteria in paragraph (1) to evaluate whether a Head Start grantee is meeting its mission to provide a high quality comprehensive early education program, including adequately meeting its governance and financial management requirements.
+>   - **(5)** *Public comment; report to congress* No later than 6 months after receiving the report described in paragraph (4), the Secretary shall publish a proposed system of application review in the Federal Register, providing at least 90 days for public comment and shall provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate that provides a detailed description of such proposed system, including clear rationale for any differences between the proposed system and the recommendations of the expert panel, if any such differences exist.
 >   - **(6)** *Implementation of application review system* After the Secretary has reviewed all public comments and finalized the system of application review, the Secretary will use this system to determine which grantees are successfully delivering a high quality comprehensive early education program. Grantees who are determined under such system to be—
 >     - **(A)** successfully delivering a high quality comprehensive early education program shall be designated a Head Start agency for a period of 5 years;
 >     - **(B)** under-performing and may enter into an open competition as described in subsection (e); and
->     - **(C)** notwithstanding paragraph (B), if an Indian Head Start agency is determined to be underperforming, the Secretary shall engage in government-to-government consultation with the appropriate tribal government or governments for the purpose of establishing a performance enhancement plan for that agency. Such plan is to be developed and implemented within 6 months of the Secretary’s determination. Not more than 6 months after implementation of that plan, the Secretary shall re-evaluate the performance of the Indian Head Start agency. If the Indian Head Start agency remains underperforming, the Secretary shall conduct an open competition as described in subsection (e), subject to the following limitations:
+>     - **(C)** notwithstanding paragraph (B), if an Indian Head Start agency is determined to be underperforming, the Secretary shall engage in government-to-government consultation with the appropriate tribal government or governments for the purpose of establishing a performance enhancement plan for that agency. Such plan is to be developed and implemented within 6 months of the Secretary’s determination. Not more than 6 months after implementation of that plan, the Secretary shall reevaluate the performance of the Indian Head Start agency. If the Indian Head Start agency remains underperforming, the Secretary shall conduct an open competition as described in subsection (e), subject to the following limitations:
 >       - **(i)** Except as provided in paragraph (ii), a non-Indian Head Start agency may not receive a grant to carry out an Indian Head Start program.
 >       - **(ii)** In a community in which there is no Indian Head Start agency available for designation to carry out an Indian Head Start program, a non-Indian Head Start agency, on an interim basis, may receive a grant to carry out an Indian Head Start program, but only until such time as an Indian Head Start agency in such community becomes available.
-> - **(d)** *Transparency, reliability, and validity* The Secretary shall ensure the system of application evaluation is fair, consistent, and transparent and applied in a manner that designates, in a timely manner grantees as Head Start agencies for a period of 5 years if such grantees are providing a high quality comprehensive early education program. The Secretary shall periodically evaluate whether the criteria are being applied in a manner that is transparent, reliable, and valid.
+> - **(d)** *Transparency, reliability, and validity* The Secretary shall ensure the system of application evaluation is fair, consistent, and transparent and is applied in a manner that designates, in a timely manner grantees as Head Start agencies for a period of 5 years if such grantees are providing a high quality comprehensive early education program. The Secretary shall periodically evaluate whether the criteria are being applied in a manner that is transparent, reliable, and valid.
 > - **(e)** *Designation When No Entity Has Priority*
 >   - **(1)** *In general* If no entity in a community is determined to be successfully delivering a high quality comprehensive early education program, as specified in subsection (c), the Secretary shall, after conducting an open competition, designate for a 5-year period a Head Start agency from among qualified applicants in such community.
 >   - **(2)** *Considerations in designation* In selecting from among qualified applicants for designation as a Head Start agency, the Secretary shall consider the effectiveness of each such applicant to provide Head Start services, based on—
@@ -315,6 +333,7 @@ Section 641 of the Head Start Act (42 U.S.C. 9836) is amended to read as follows
 >     - **(Q)** the plan of such applicant to maintain a qualified staff, including a teaching staff qualified to implement research-based curricula aligned with the Head Start Child Outcomes Framework developed by the Secretary and to the early learning standards in State in which such program would operate;
 >     - **(R)** the plan of such applicant to enter into memoranda of understanding with local educational agencies within the service area, as described in section 642B(a); and
 >     - **(S)** other factors related to the requirements of this subchapter.
+>   - **(3)** *Continued eligibility* Faith-based and community-based organizations continue to be eligible, on the same basis as other organizations, to participate in any program under this subchapter for which they are otherwise eligible.
 > - **(f)** *Interim Provider* If no agency in the community receives priority designation under subsection (c), and there is no qualified applicant in the community, the Secretary shall designate a qualified agency to carry out the Head Start program in the community on an interim basis until a qualified applicant from the community is so designated.
 > - **(g)** *Parent and Community Participation* The Secretary shall require that the practice of significantly involving parents and area residents affected by the program in the selection of Head Start agencies be continued.
 > - **(h)** *Community* For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary) or a neighborhood or other area (irrespective of boundaries or political subdivisions) which provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
@@ -362,7 +381,7 @@ Section 641A of the Head Start Act (42 U.S.C. 9836a) is amended to read as follo
 >     - **(A)** classroom instructional practices;
 >     - **(B)** identification of special needs; and
 >     - **(C)** program evaluation.
->   - **(2)** *Characteristics of measures* The measures under this subsection shall
+>   - **(2)** *Characteristics of measures* The measures under this subsection shall—
 >     - **(A)** be developmentally, linguistically, and culturally appropriate for the population served;
 >     - **(B)** be reviewed not less than every 4 years, based on advances in the science of early childhood development;
 >     - **(C)** be consistent with relevant, nationally recognized professional and technical standards related to the assessment of young children;
@@ -401,10 +420,10 @@ Section 641A of the Head Start Act (42 U.S.C. 9836a) is amended to read as follo
 >     - **(F)** are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, and based on a transparent and reliable system of review;
 >     - **(G)** in the case of Early Head Start programs, are conducted by a review team that includes individuals who are knowledgeable about the development of infants and toddlers; and
 >     - **(H)** include as part of the review a protocol for fiscal management that shall be used to assess the compliance with program requirements for—
->       - **(i)** using federal funds appropriately;
->       - **(ii)** using federal funds specifically to purchase property and to compensate personnel;
+>       - **(i)** using Federal funds appropriately;
+>       - **(ii)** using Federal funds specifically to purchase property and to compensate personnel;
 >       - **(iii)** securing and using qualified fiscal officer support; and
->       - **(iv)** reporting financial information and implementing appropriate internal controls to safeguard federal funds.
+>       - **(iv)** reporting financial information and implementing appropriate internal controls to safeguard Federal funds.
 >   - **(3)** *Use of review findings* The findings of the review shall, at a minimum—
 >     - **(A)** be presented to an agency in a timely, transparent, and uniform manner that conveys information of program strengths and weaknesses and assists with program improvement; and
 >     - **(B)** be used by the Head Start agencies to inform the development and implementation of their plan for training and technical assistance.
@@ -444,7 +463,7 @@ Section 641A of the Head Start Act (42 U.S.C. 9836a) is amended to read as follo
 >   - **(2)** *Report and improvement plans*
 >     - **(A)** *Report* An agency conducting a self-assessment shall report the findings of the self-assessment to the relevant policy council, policy committee, governing body, and Secretary. Each self-assessment shall identify areas of strength and weakness.
 >     - **(B)** *Improvement plan* The agency shall develop and report to the Secretary an improvement plan approved by the governing body of the agency to strengthen any areas identified in the self-assessment as weaknesses or in need of improvement.
->   - **(3)** *Ongoing monitoring* Each Head Start agency, delegate Head Start agency, and entity that carries out an Early Head Start program a shall establish and implement procedures for the ongoing monitoring of their respective programs, to ensure that the operations of the programs work toward meeting program goals and objectives and Head Start performance standards.
+>   - **(3)** *Ongoing monitoring* Each Head Start agency, delegate Head Start agency, and entity that carries out an Early Head Start program shall establish and implement procedures for the ongoing monitoring of their respective programs, to ensure that the operations of the programs work toward meeting program goals and objectives and Head Start performance standards.
 > - **(h)** *Enrollment reporting requirement*
 >   - **(1)** Head Start agencies shall report on a regular basis to the Secretary—
 >     - **(A)** the actual enrollment in such program; and
@@ -578,18 +597,18 @@ Section 642 of the Head Start Act (42 U.S.C. 9837) is amended to read as follows
 >   - **(4)** use ongoing, research-based assessment methods that are developmentally appropriate, culturally and linguistically responsive, and tied to children’s daily activities in order to support the educational instruction of children in the program, including language skills, prereading knowledge and premathematics knowledge. Assessment instruments shall be those designed and validated for making decisions about teaching and learning and aligned with the programs curricula and section 641A(a)(1);
 >   - **(5)** use high-quality research-based developmental screening tools that have been demonstrated to be standardized, reliable, valid, and accurate for children from a range of racial, ethnic, linguistic, and cultural backgrounds, for the purpose of meeting the relevant performance standards;
 >   - **(6)** adopt, in consultation with experts in child development and with classroom teachers, an assessment to be used when hiring or evaluating any classroom teacher in a center-based Head Start program. Such assessment shall measure whether such teacher has mastered the functions described in section 648A(a)(1) and attained a level of literacy appropriate to implement Head Start curricula;
->   - **(7)** use the information provided from the assessment conducted under section 640A(C)(2)(H) to adopt a professional development plan that leads to improved teacher effectiveness;
+>   - **(7)** use the information provided from the assessment conducted under section 640A(c)(2)(H) to adopt a professional development plan that leads to improved teacher effectiveness;
 >   - **(8)** establish measurable objectives for the provision of health, educational, nutritional, and social services related to the program mission and to school readiness and provided under this subchapter; and
 >   - **(9)** develop procedures for identifying children as limited English proficient, and inform the parents of such children as to the instructional services used to help children make progress towards acquiring the knowledge and skills described in section 641A(a)(1)(B) and acquisition of the English language.
 > - **(f)** *Funded enrollment; waiting list* Each Head Start agency shall enroll 100 percent of its funded enrollment and maintain an active waiting list at all times with ongoing outreach to the community and activities to identify underserved populations.
 > - **(g)** *Technical assistance and training plan* In order to receive funds under this subchapter, a Head Start agency shall develop an annual technical assistance and training plan. Such plan shall be based on the agency’s self-assessment, the community-wide needs assessment, the needs of parents and children to be serviced by such agency, and the results of the reviews conducted under section 641A(c).
 > - **(h)** *Financial management* In order to receive funds under this subchapter, a Head Start agency shall document strong fiscal controls, including the employment of well-qualified fiscal staff with a history of successful management of a public or private organization.
 
-## § 9. Head start transition and alignment with k-12 education
+## § 9. Head start transition and alignment with k–12 education
 
 Section 642A of the Head Start Act (42 U.S.C. 9837a) is amended to read as follows:
 
-> ## § 642A. Head Start transition and alignment with k-12 education
+> ## § 642A. Head Start transition and alignment with k–12 education
 >
 > Each Head Start agency shall take steps to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program to promote continuity of services and effective transitions, including—
 >
@@ -598,7 +617,7 @@ Section 642A of the Head Start Act (42 U.S.C. 9837a) is amended to read as follo
 > - **(3)** establish on-going communication for developing continuity of developmentally appropriate curricula between Head Start and local educational agencies to ensure an effective transition and appropriate shared expectations for children’s learning and development as they make such transition to school;
 > - **(4)** organizing and participating in joint training, including transition-related training for school staff and Head Start staff;
 > - **(5)** conducting meetings involving parents, kindergarten or elementary school teachers, and Head Start program teachers to discuss the educational, developmental, and other needs of individual children;
-> - **(6)** helping parents of limited English Proficient children understand the method of instruction and other services provided by the school in which such child will enroll after participation in Head Start and as appropriate, information provided to parents of limited English proficient children under section 3302 of title III of the Elementary and Secondary Education Act of 1965 (20U.S.C. 7012);
+> - **(6)** helping parents of limited English Proficient children understand the method of instruction and other services provided by the school in which such child will enroll after participation in Head Start and as appropriate, information provided to parents of limited English proficient children under section 3302 of title III of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7012);
 > - **(7)** developing and implementing a family outreach and support program in cooperation with entities carrying out parental involvement efforts under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) and family outreach and support efforts under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11431–11435);
 > - **(8)** assisting families, administrators, and teachers in enhancing educational and developmental continuity and continuity in parental involvement activities between Head Start services and elementary school classes;
 > - **(9)** linking the services provided in such Head Start program with the education services, including services relating to language, literacy, and numeracy, provided by such local educational agency;
@@ -711,27 +730,27 @@ Section 645 of the Head Start Act (42 U.S.C. 9840) is amended—
     > - **(3)** The amount of a basic allowance provided under section 403 of title 37, United States Code, on behalf of an individual who is a member of the uniformed services for housing that is acquired or constructed under the authority of subchapter IV of chapter 169 of title 10, United States Code, or any other related provision of law, shall not be considered to be income for purposes of determining the eligibility of a child of the individual for programs assisted under this subchapter.
     > - **(4)**
     >   - **(A)** Upon written request and pursuant to the requirements of this paragraph, a Head Start agency may use funds under section 640(a) to serve infants and toddlers if the agency submits an application to the Secretary containing the following information, as specified in rules issued by the Secretary—
-    >     - **(i)** the amount of funds under section 640(a) that are proposed to be used in accordance with section 645A(b);
-    >     - **(ii)** a community-wide needs assessment demonstrating how the use of such funds would best meet the needs of the community;
-    >     - **(iii)** a description of how the needs of pregnant women, and of infants and toddlers, will be addressed in accordance with section 645A(b), and with regulations prescribed by the Secretary pursuant to section 641A in areas including the agency’s approach to child development and provision of health services, approach to family and community partnerships, and approach to program design and management;
-    >     - **(iv)** a description of how the needs of eligible Head Start children will be met in the community;
-    >     - **(v)** assurances that the agency will participate in technical assistance activities (including a planning period, start-up site visits, and national training activities) in the same manner as recipients of grants under section 645A; and
-    >     - **(vi)** evidence that the agency meets the same eligibility criteria as recipients of grants under section 645A.
-    >   - **(B)** An application that satisfies the requirements specified in subparagraph (A) shall be approved by the Secretary unless the Secretary finds that—
-    >     - **(i)** the agency lacks adequate capacity and capability to carry out an effective Early Head Start program; or
-    >     - **(ii)** the information provided under subparagraph (A) is inadequate.
-    >   - **(C)** Any Head Start agency approved under subparagraph (B) shall be considered to be an entity that receives assistance under section 645A, and such funds under (i) shall be subject to the same rules, regulations, and conditions as apply to recipients of grants under section 645A.
+    >   - **(i)** the amount of funds under section 640(a) that are proposed to be used in accordance with section 645A(b);
+    >   - **(ii)** a community-wide needs assessment demonstrating how the use of such funds would best meet the needs of the community;
+    >   - **(iii)** a description of how the needs of pregnant women, and of infants and toddlers, will be addressed in accordance with section 645A(b), and with regulations prescribed by the Secretary pursuant to section 641A in areas including the agency’s approach to child development and provision of health services, approach to family and community partnerships, and approach to program design and management;
+    >   - **(iv)** a description of how the needs of eligible Head Start children will be met in the community;
+    >   - **(v)** assurances that the agency will participate in technical assistance activities (including a planning period, start-up site visits, and national training activities) in the same manner as recipients of grants under section 645A; and
+    >   - **(vi)** evidence that the agency meets the same eligibility criteria as recipients of grants under section 645A.
+    > - **(B)** An application that satisfies the requirements specified in subparagraph (A) shall be approved by the Secretary unless the Secretary finds that—
+    >   - **(i)** the agency lacks adequate capacity and capability to carry out an effective Early Head Start program; or
+    >   - **(ii)** the information provided under subparagraph (A) is inadequate.
+    > - **(C)** Any Head Start agency approved under subparagraph (B) shall be considered to be an entity that receives assistance under section 645A, and such funds under (i) shall be subject to the same rules, regulations, and conditions as apply to recipients of grants under section 645A.
     > - **(5)**
     >   - **(A)** Upon written request and pursuant to the requirements of this paragraph, a Head Start agency may consider children from low-income families to be eligible for participation in programs assisted under this subchapter if their family income is at or above the poverty line but below 130 percent of the poverty line, if the agency submits an application to the Secretary containing the following information, as specified in rules issued by the Secretary—
-    >     - **(i)** a description of how the needs of eligible Head Start children, as described in paragraph (1)(A) are being adequately met in the agency’s service area;
-    >     - **(ii)** a description of outreach efforts to the community to reach full enrollment under the eligibility guidelines under paragraph (1), including using outreach efforts that are linguistically and culturally appropriate;
-    >     - **(iii)** assurance that the agency will prioritize serving children currently eligible under the guidelines under paragraph (1); and
-    >     - **(iv)** a description of why increasing the number of infants and toddlers being served, as described in paragraph (4), is not appropriate based upon the communitywide needs assessment or the agency’s capability.
-    >   - **(B)** In approving such applications, the Secretary shall take into account the—
-    >     - **(i)** cost of living for families living the area served by the Head Start agency;
-    >     - **(ii)** the efforts the Head Start agency has undertaken to be fully enrolled under the eligibility criteria in paragraph (1); and
-    >     - **(iii)** the policies and procedures the Head Start agency will implement to ensure that children currently eligible under the criteria described under paragraph (1) will be prioritized.
-    >   - **(C)** No more than 20 percent of children served by such Head Start agency may be from families above the poverty line.
+    >   - **(i)** a description of how the needs of eligible Head Start children, as described in paragraph (1)(A) are being adequately met in the agency’s service area;
+    >   - **(ii)** a description of outreach efforts to the community to reach full enrollment under the eligibility guidelines under paragraph (1), including using outreach efforts that are linguistically and culturally appropriate;
+    >   - **(iii)** assurance that the agency will prioritize serving children currently eligible under the guidelines under paragraph (1); and
+    >   - **(iv)** a description of why increasing the number of infants and toddlers being served, as described in paragraph (4), is not appropriate based upon the communitywide needs assessment or the agency’s capability.
+    > - **(B)** In approving such applications, the Secretary shall take into account the—
+    >   - **(i)** cost of living for families living in the area served by the Head Start agency;
+    >   - **(ii)** the efforts the Head Start agency has undertaken to be fully enrolled under the eligibility criteria in paragraph (1); and
+    >   - **(iii)** the policies and procedures the Head Start agency will implement to ensure that children currently eligible under the criteria described under paragraph (1) will be prioritized.
+    > - **(C)** No more than 20 percent of children served by such Head Start agency may be from families above the poverty line.
 
 - **(2)** in subsection (c) by striking “(age 3 to compulsory school attendance)”, and
 - **(3)** in subsection (d) by adding at the end the following:
@@ -743,7 +762,7 @@ Section 645A of the Head Start Act (42 U.S.C. 9840a) is amended to read as follo
 
 > ## § 645A. Early Head Start programs for families with children under 3 years of age
 >
-> - **(a)** *In General* The Secretary shall make grants, in accordance with this section for programs (to be known as “Early Head Start programs”) that provide family-centered services for low-income families with very young children designed to promote the development of the children, and to enable their parents to fulfill their roles as parents and to move toward self-sufficiency.
+> - **(a)** *In General* The Secretary shall make grants, in accordance with this section for programs (to be known as “Early Head Start programs”) that provide family-centered services for low-income families with very young children designed to promote the development of the children, and to enable their parents to fulfill their roles as parents and to move toward self-sufficiency. Faith-based and community-based organizations continue to be eligible, on the same basis as other organizations, to participate in any program under this section for which they are otherwise eligible.
 > - **(b)** *Scope and Design of Programs* In carrying out a program described in subsection (a), an entity receiving assistance under this section shall—
 >   - **(1)** provide, either directly or through referral, early, continuous, intensive, and comprehensive child development and family support services that will enhance the physical, social, emotional, and intellectual development of participating children;
 >   - **(2)** ensure that the level of services provided to families responds to their needs and circumstances;
@@ -767,16 +786,28 @@ Section 645A of the Head Start Act (42 U.S.C. 9840a) is amended to read as follo
 > - **(f)** *Distribution* In awarding grants to eligible applicants under this section, the Secretary shall—
 >   - **(1)** ensure an equitable national geographic distribution of the grants; and
 >   - **(2)** award grants to applicants proposing to serve communities in rural areas and to applicants proposing to serve communities in urban areas.
-> - **(g)** *Monitoring, Training, Technical Assistance, and Evaluation*
+> - **(g)** *Monitoring, training, technical assistance, and evaluation*
 >   - **(1)** *Requirement* To ensure the successful operation of programs assisted under this section, the Secretary shall use funds from the portion specified in section 640(a)(6) to monitor the operation of such programs, evaluate their effectiveness, and provide training and technical assistance tailored to the particular needs of such programs.
 >   - **(2)** *Training and technical assistance account*
->     - **(A)** *In general* Of the amount made available to carry out this section for any fiscal year, not less than 5 percent and not more than 10 percent shall be reserved to fund a training and technical assistance account.
->     - **(B)** *Activities* Funds in the account may be used by the Secretary for purposes including—
->       - **(i)** making grants to, and entering into contracts with, organizations with specialized expertise relating to infants, toddlers, and families and the capacity needed to provide direction and support to a national training and technical assistance system, in order to provide such direction and support;
->       - **(ii)** providing ongoing training and technical assistance for regional and program staff charged with monitoring and overseeing the administration of the program carried out under this section;
->       - **(iii)** providing ongoing training and technical assistance for existing recipients (as of the date of such training or assistance) of grants under subsection (a) and support and program planning and implementation assistance for new recipients of such grants;
->       - **(iv)** providing professional development and personnel enhancement activities, including the provision of funds to recipients of grants under subsection (a) for the recruitment and retention of qualified staff with an appropriate level of education and experience; and
->       - **(v)** providing professional development designed to increase program participation for underserved populations of eligible children.
+>     - **(A)** *In general* Of the amount made available to carry out this section for any fiscal year, not less than 5 percent, and not more than 10 percent, shall be reserved to fund a training and technical assistance account. In determining the amount so reserved, the Secretary shall consider the number of new programs serving pregnant women, infants, toddlers, and their families, recognizing their need for more intensive training and technical assistance services during program expansion.
+>     - **(B)** *Activities* Of the funds in the account described in subparagraph (A)—
+>       - **(i)** not less than 50 percent shall be available to local entities that carry out Early Head Start programs for training and technical assistance activities in order to make program improvements identified by such entities;
+>       - **(ii)** not less than 30 percent shall be available to the Secretary to support a State-based system of early childhood education training and technical assistance to local entities that carry out Early Head Start programs that shall meet the requirements of subparagraph (C), including the creation, management, and support of a national network of the State-based infant-toddler specialists specified in such subparagraph; and
+>       - **(iii)** the remainder of such amount shall be available to the Secretary to assist local entities that carry out Early Head Start programs in meeting and exceeding the standards described in section 641A(a)(1), including—
+>         - **(I)** making grants to, and entering into contracts with, organizations with specialized expertise relating to infants, toddlers, and families and the capacity needed to provide direction and support to a national training and technical assistance system, in order to provide such direction and support;
+>         - **(II)** providing ongoing training and technical assistance on Early Head Start program development and improvement for regional staff charged with monitoring and overseeing the administration of the program carried out under this section;
+>         - **(III)** developing training and technical assistance materials and resources to support program development and improvement and best practices in providing services to children and families served by Early Head Start programs;
+>         - **(IV)** creating special training and technical assistance initiatives targeted to serving high risk populations, such as children in the child welfare system and homeless children;
+>         - **(V)** providing ongoing training and technical assistance to Early Head Start grantees, and support and program planning and implementation assistance for new recipients of such grants, including the conversion of Head Start grants to Early Head Start grants; and
+>         - **(VI)** providing professional development designed to increase program participation for underserved populations of eligible children.
+>     - **(C)** *Contracts* For the purposes of delivering a State-based training and technical assistance system, as described in subparagraph (B)(ii), that will meet the needs of local grantees and provide high quality, sustained, and intensive training and technical assistance on programming for infants and toddlers to Early Head Start programs and in order to help such programs meet or exceed the program performance standards described in section 641A(a)(1), the Secretary shall—
+>       - **(i)** enter into contracts in each State with 1 or more entities that have a demonstrated expertise in supporting the delivery of high quality programs for pregnant women and children less that 3 years of age, except that bi-State or multi-State contracts may be entered into if the demographics of proximal States make such a system more appropriate;
+>       - **(ii)** ensure that contracts awarded under clause (I) are in an amount sufficient to provide for each state a minimum of one full-time specialist with expertise in the development of children under age three and programming for pregnant women and such children;
+>       - **(iii)** to the maximum extent practicable, ensure that the contracts awarded Under clause (I) and the services provided therein are integrated with and augment the contract or contracts awarded and services provided under section 648 (n); and
+>       - **(iv)** ensure that the entities described in clause (I) determine the types of services to be provided through consultation with—
+>         - **(I)** local entities that carry out Early Head Start programs;
+>         - **(II)** the State Head Start collaboration office; and
+>         - **(III)** the State Head Start Association.
 > - **(h)** *Center-Based Staff* The Secretary shall ensure that, not later than September 30, 2009, all teachers providing direct services to children and families participating in early Head Start programs located in early Head Start centers have a minimum of a child development associate credential, and have been trained (or have equivalent course work) in early childhood development.
 > - **(i)** *Staff Qualifications and Development*
 >   - **(1)** *Home visitor staff standards* In order to further enhance the quality of home visiting services provided to families of children participating in home-based, center-based, or combination program options under this subchapter, the Secretary shall establish standards for training, qualifications, and the conduct of home visits for home visitor staff in Early Head Start programs.
@@ -857,8 +888,15 @@ Section 648 of the Head Start Act (42 U.S.C. 9843) is amended to read as follows
 >   - **(12)** assist Head Start agencies and programs in increasing program participation of homeless children;
 >   - **(13)** assist Head Start agencies and Head Start programs in improving outreach to, and the quality of services available to, limited English proficient children and their families, particularly in communities that have experienced a large percentage increase in the population of limited English proficient individuals, as measured by the Bureau of the Census;
 >   - **(14)** assist Head Start agencies in developing appropriate methods and approaches for identifying and working with children and families experiencing toxic stress;
->   - **(15)** assist programs in improving outreach to serve additional children with disabilities, if such program’s enrollment opportunities or funded enrollment for children with disabilities is less than 10 percent; and
->   - **(16)** provide assistance to address and remove barriers related to recruitment and retention of Head Start teachers for rural communities, and remove barriers related to outreach efforts to eligible families in rural communities.
+>   - **(15)** assist programs in improving outreach to serve additional children with disabilities, if such program’s enrollment opportunities or funded enrollment for children with disabilities is less than 10 percent;
+>   - **(16)** provide assistance to address the unique needs of programs located in rural communities, including—
+>     - **(A)** removing barriers related to the recruitment and retention of Head Start teachers in rural communities;
+>     - **(B)** developing innovative and effective models of professional development for improving staff qualifications and skills for staff living in rural communities;
+>     - **(C)** removing barriers related to outreach efforts to eligible families in rural communities;
+>     - **(D)** removing barriers to parent involvement in Head Start programs in rural communities;
+>     - **(E)** removing barriers to providing home visiting services in rural communities; and
+>     - **(F)** removing barriers to obtaining health screenings for Head Start participants in rural communities; and
+>   - **(17)** assist Head Start agencies and programs to increase the capacity of classroom staff to meet the needs of eligible children in inclusive classrooms.
 > - **(d)** The Secretary may provide, either directly or through grants to public or private nonprofit entities, training for Head Start personnel in the use of the performing and visual arts and interactive programs using electronic media to enhance the learning experience of Head Start children. Special consideration shall be given to entities that have demonstrated effectiveness in educational programming for preschool children that includes components for parental involvement, care provider training, and developmentally appropriate related activities.
 > - **(e)** The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to limited English proficient children (including services to promote the acquisition of the English language), training for personnel providing services to children determined to be abused or neglected, training for personnel providing services to children referred by or receiving child welfare services, training for personnel in helping children cope with community violence, resource access projects for personnel working with disabled children, and training for appropriate personnel to recognize common health, including mental health, problems in children for appropriate referral.
 > - **(f)** The Secretary shall provide, either directly or through grants, or other arrangements, funds for training of Head Start personnel in addressing the unique needs of migrant and seasonal working families, families with 1 or more children with disabilities, families with a limited English proficiency, homeless families, and children and families experiencing toxic stress.
@@ -899,7 +937,7 @@ Section 648 of the Head Start Act (42 U.S.C. 9843) is amended to read as follows
 >   - **(1)** in order to increase access to Head Start services for eligible migrant and seasonal children, work in collaboration with migrant and seasonal Head Start providers, the Department of Agriculture (land grant universities), the Department of Labor, the Bureau of Migrant Health, and the Department of Education to—
 >     - **(A)** establish a system for collecting and reporting data on farm workers and their families in order to adequately account for the number of seasonal and migrant children that are eligible for Head Start and determine how many of these eligible children receive services;
 >     - **(B)** identify barriers that prevent eligible migrant and seasonal children from accessing Head Start services and develop a plan for eliminating barriers and increasing enrollment; and
->     - **(C)** develop a system through which migrant and seasonal Head Start programs can effectively track health records and educational documents as a child moves from state to state;
+>     - **(C)** develop a system through which migrant and seasonal Head Start programs can effectively track health records and educational documents as a child moves from State to State;
 >   - **(2)** not later than 6 months after the effective date of this subsection, publish in the Federal Register a notice on how the Secretary plans to carry out the activities identified in paragraph (1) and shall provide a period for public comment. To the extent practicable, the Secretary shall consider comments received before implementing any of the activities identified in paragraph (1);
 >   - **(3)** not later than 1 year after the effective date of this subsection, submit a report to the Committee on Education and Labor of the House of Representatives and the Health, Education, Labor and Pensions Committee of the Senate detailing how the Secretary plans to carry out the activities identified in (1);
 >   - **(4)** submit a report to Congress annually on the migrant and seasonal Head Start program including a report on the progress made in carrying out the activities identified in paragraph (1), the progress made in reaching out to and serving eligible migrant and seasonal children, and information on states where migrant and seasonal children are still underserved;
@@ -912,8 +950,9 @@ Section 648 of the Head Start Act (42 U.S.C. 9843) is amended to read as follows
 >     - **(A)** local Head Start agencies;
 >     - **(B)** the State Head Start collaboration office; and
 >     - **(C)** the State Head Start Association;
->   - **(3)** provide a report, to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. no later than 90 days after the end of the fiscal year, summarizing the funding for such contracts and the activities carried out thereunder; and
->   - **(4)** periodically evaluate the usefulness of the delivery of services in each State and their effectiveness in promoting program quality.
+>   - **(3)** provide a report, to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. No later than 90 days after the end of the fiscal year, summarizing the funding for such contracts and the activities carried out thereunder.
+>   - **(4)** periodically evaluate the usefulness of the delivery of services in each State and their effectiveness in promoting program quality; and
+>   - **(5)** ensure that in entering into such contracts as described in paragraph (1), such entities will address the needs of grantees in both urban and rural communities.
 > - **(o)** To support enhanced early language and preliteracy development of children in Head Start programs, and to provide the children with high-quality oral language skills, and environments that are rich in literature, in which to acquire language and preliteracy skills, each Head Start agency shall ensure that—
 >   - **(1)** all of the agency’s Head Start teachers receive ongoing training in language and emergent literacy (referred to in this subsection as “literacy training”), and including appropriate curricula and assessment to improve instruction and learning;
 >   - **(2)** such literacy training shall include training in methods to promote vocabulary development and phonological awareness (including phonemic awareness) in a developmentally, culturally, and linguistically appropriate manner and support children's development in their home language;
@@ -932,6 +971,9 @@ Section 648 of the Head Start Act (42 U.S.C. 9843) is amended to read as follows
 >     - **(B)** develop career ladder program curricula to increase the number of associate’s, bachelor’s, and graduate degrees earned by Head Start agency staff who have the linguistic skills and expertise to teach in programs serving a large number of limited English proficient children and parents of children served by such an agency; and
 >     - **(C)** other activities to upgrade the skills and qualifications of noncertified educational personnel to meet the professional standards in section 648A(a)(1), including certification and licensure as bilingual education teachers and other educational personnel who serve limited English proficient children.
 >   - **(3)** *Requirement* Individuals who receive assistance under paragraphs (1) and (2) shall subsequently teach in a Head Start center for a period of time equivalent to the period for which they received assistance or repay the amount of funds.
+> - **(s)** *Historically black colleges and universities head start partnerships* In order to promote quality services and instruction to children with diverse backgrounds, the Secretary shall work in collaboration with Historically Black Colleges and Universities to—
+>   - **(1)** implement education programs that include education to increase the number of associate, baccalaureate, and advanced degrees in early childhood education and related fields that are earned by Head Start agency staff members, and parents of children served by such an agency; and
+>   - **(2)** carry out other activities to upgrade the skills and qualifications of noncertified educational personnel to meet the professional standards in section 648A(a).
 
 ## § 18. Staff qualifications and development
 
@@ -951,14 +993,14 @@ Section 648A of the Head Start Act (42 U.S.C. 9843a) is amended—
     >       - **(ii)** a baccalaureate or advanced degree in a field related to early childhood education, with experience in teaching preschool children; or
     >       - **(iii)** except that teachers providing services in migrant and seasonal Head Start classrooms that serve children under age 3 shall be required to meet the teacher requirements described in section 645A(h).
     >     - **(B)** *Progress report*
-    >       - **(i)** On an annual basis, each Head Start agency shall provide to the Secretary a report indicating the number and percentage of classroom instructors with child development/ early childhood education associate credentials and associate, baccalaureate, or advanced degrees, and number of classroom instructors who successfully transferred associate credit and completed a baccalaureate degree disaggregated by race, ethnicity, and proficiency in a language other than English, with a description of those languages.
+    >       - **(i)** On an annual basis, each Head Start agency shall provide to the Secretary a report indicating the number and percentage of classroom instructors with child development/early childhood education associate credentials and associate, baccalaureate, or advanced degrees, and number of classroom instructors who successfully transferred associate credit and completed a baccalaureate degree disaggregated by race, ethnicity, and proficiency in a language other than English, with a description of those languages.
     >       - **(ii)** Not later than September 30, 2008 the Secretary shall compile and transmit reports received under (i) to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
     >     - **(C)** *Progress* Each Head Start agency shall provide to the Secretary a report indicating the number and percentage of teachers and teacher’s aides with child development associate credentials and associate, baccalaureate, or advanced degrees. The Secretary shall compile all program reports and make them available to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
     >     - **(D)** *Requirement for new head start teachers* In accordance with rules issued by the Secretary and made effective 2 years after the effective date of this subparagraph, all Head Start agencies shall require that all Head Start teachers hired after such rules take effect to provide Head Start services in center-based programs—
     >       - **(i)** have an associate, baccalaureate, or advanced degree in early childhood education or a related field; or
     >       - **(ii)** be currently enrolled in a program of study leading to an associate degree in early childhood education or a related field, and agree to complete degree requirements not later than 3 years after the date of hire.
     >     - **(E)** *Service requirements* The Secretary shall establish requirements to ensure that individuals who receive financial assistance under this subchapter in order to comply with the requirements under section 648A(a)(2) shall subsequently teach in a Head Start center for a period of time equivalent to the period for which they received assistance or repay the amount of the funds.
-    >     - **(F)** *Limitation* The Secretary shall require that any Federal funds provided directly or indirectly to comply with subparagraph (A) shall be used toward degrees awarded by an institution of higher education, as defined by sections 101 or 102 of the Higher Education Act (20 U.S.C. 1001, 1002).
+    >     - **(F)** *Limitation* The Secretary shall require that any Federal funds provided directly or indirectly to comply with subparagraph (A) shall be used toward degrees awarded by an institution of higher education, as defined by section 101 or 102 of the Higher Education Act (20 U.S.C. 1001, 1002).
 
   - **(B)** in paragraph (3)—
     - **(i)** in subparagraph (B) by striking “or” at the end,
@@ -975,6 +1017,42 @@ Section 648A of the Head Start Act (42 U.S.C. 9843a) is amended—
 
 - **(3)** is amended by adding at the end the following:
   > - **(f)** *Professional Development Plans* Each Head Start agency and program shall create, in consultation with an employee, a professional development plan for all full-time Head Start employees who provide direct services to children and shall ensure that such plans are regularly evaluated for their impact on teacher and staff effectiveness.
+  > - **(g)** *Staff recruitment and selection procedures* Before a Head Start agency employs an individual, such agency shall—
+  >   - **(1)** conduct an interview of such individual;
+  >   - **(2)** verify the personal and employment references provided by such individual; and
+  >   - **(3)** obtain—
+  >     - **(A)** a State, tribal, or Federal criminal record check covering all jurisdictions where the grantee provides Head Start services to children;
+  >     - **(B)** a State, tribal, or Federal criminal record check as required by the law of the jurisdiction where the grantee provides Head Start services; or
+  >     - **(C)** a criminal record check as otherwise required by Federal law.
+  > - **(h)** *Incentives for head start teachers and early head start teachers*
+  >   - **(1)** *Statement of purpose* It is the purpose of this subsection to encourage individuals to begin and continue teaching in Head Start programs and Early Head Start programs.
+  >   - **(2)** *Program authorized*
+  >     - **(A)** *In general* From the sums appropriated pursuant to paragraph (9), the Secretary of Education, in consultation with the Secretary of Health and Human Services, is authorized carry out a program to forgive, in accordance with this subsection, the student loan debt of any borrower who has one or more loans described under subparagraph (B) made on or after October 1, 1998, and who—
+  >       - **(i)** commits to working as a Head Start teacher or an Early Head Start teacher for at least 3 consecutive complete program years;
+  >       - **(ii)** has a bachelor’s degree in a field related to early childhood education; and
+  >       - **(iii)** is not in default on a loan for which the borrower seeks forgiveness.
+  >     - **(B)** *Method of loan forgiveness* To provide the loan forgiveness authorized in subclause (A), the Secretary of Education, in consultation with the Secretary of Health and Human Services, shall, subject to subsubclause (C), carry out a program—
+  >       - **(i)** through the holder of the loan, to assume the obligation to repay a qualified loan amount for a loan made under section 428 or 428H of the Higher Education Act of 1965 (20 U.S.C. 1078, 1078–8); and
+  >       - **(ii)** to cancel a qualified loan amount for a Federal Direct Stafford Loan or a Federal Direct Unsubsidized Stafford Loan made under part D of title IV of such Act (20 U.S.C. 1087a et seq.).
+  >     - **(C)** *Treatment of consolidation loans* A loan amount for a loan made under section 428C or section 455(g) of such Act (20 U.S.C. 1078–3, 1087e(g)) may be a qualified loan amount for the purposes of subclause (B) only to the extent that such loan amount was used to repay a loan made under section 428 or 428H, a Federal Direct Stafford Loan, or a Federal Direct Unsubsidized Stafford Loan for a borrower who meets the requirements of subclause (A), as determined in accordance with regulations prescribed by the Secretary of Education, in consultation with the Secretary of Health and Human Services.
+  >   - **(3)** *Qualified loan amount* After the beginning of the qualifying employment described in subparagraph (2)(A)(i) and upon approval of a borrower’s application under subparagraph (5), the Secretary of Education, in consultation with the Secretary of Health and Human Services, shall forgive under this subsection not more than $10,000 of the student loan obligation of a borrower that is outstanding at the beginning of such employment.
+  >   - **(4)** *Award basis* Loan forgiveness under this subsection shall be on a first-come, first-served basis and subject to the availability of appropriations.
+  >   - **(5)** *Application for forgiveness*
+  >     - **(A)** *In general* Each borrower desiring loan forgiveness under this subsection shall submit a complete and accurate application to the Secretary of Education at such time, in such manner, and containing such information as the Secretary of Education, in consultation with the Secretary of Health and Human Services, may require.
+  >     - **(B)** *Service agreement* Each such application shall contain an agreement by the borrower—
+  >       - **(i)** to complete the commitment described in subclause (2)(A)(i) within 6 years after receiving loan forgiveness under this subsection; or
+  >       - **(ii)** to repay the portion required by the regulations under subclause (6)(A) if the borrower does not complete such commitment.
+  >   - **(6)** *Repayment for failure to complete service*
+  >     - **(A)** *In general* In the event that any recipient of loan forgiveness under this subsection fails or refuses to complete a portion of the recipient’s service obligation under the agreement required by clause (5)(B), the same portion of the amounts of loans forgiven under this subsection for such recipient shall be subject to repayment in accordance with terms and conditions, and in the amounts, specified by the Secretary of Education, in consultation with the Secretary of Health and Human Services, in regulations under this subsection.
+  >     - **(B)** *Forgiveness if deceased or disabled* Such regulations shall provide that, subject to the availability of appropriations, an individual shall be excused from repayment of any amount required under subclause (A) if the individual dies or becomes permanently and totally disabled (as determined in accordance with such regulations).
+  >   - **(7)** *Regulations* The Secretary of Education, in consultation with the Secretary of Health and Human Services, is authorized to issue such regulations as may be necessary to carry out the provisions of this subsection.
+  >   - **(8)** *Construction* Nothing in this subsection shall be construed to authorize any refunding of any repayment of a loan.
+  >   - **(9)** *Authorization of appropriations* There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2008 and each of the 4 succeeding fiscal years.
+  >   - **(10)** *Definitions* In this subsection:
+  >     - **(A)** *Head Start teacher* The term Head Start teacher means an individual who—
+  >       - **(i)** is employed by a Head Start agency or an entity that carries out an Early Head Start program, to provide for the education and care of children who have not reached the age of compulsory school attendance who are enrolled in a Head Start program or an Early Head Start program receiving funds under the Head Start Act (42 U.S.C. 9831 et seq.); and
+  >       - **(ii)** who has, at a minimum, an associate’s degree in early childhood education or a related field.
+  >     - **(B)** *Program year* The term program year, where applied to service as a Head Start teacher or an Early Head Start teacher, means a program year as defined by the Secretary of Health and Human Services.
 
 ## § 19. Research, demonstrations, and evaluation
 
@@ -984,10 +1062,10 @@ Section 649 of the Head Start Act (42 U.S.C. 9844) is amended—
   > - **(B)** use the Head Start programs to develop, test, and disseminate new ideas and based on existing scientifically based research, for addressing the needs of low-income preschool children (including children with disabilities, homeless children, children who have been abused or neglected, and children in foster care) and their families and communities (including demonstrations of innovative non-center-based program models such as home-based and mobile programs), and otherwise to further the purposes of this subchapter.
 
 - **(2)** in subsection (d)—
-  - **(A)** in paragraph (7) by adding “and” at the end,
-  - **(B)** in paragraph (8) by striking the semicolon at the end and inserting a period,
-  - **(C)** by striking paragraphs (9) and (10), and
-  - **(D)** by striking the last sentence,
+  - **(A)** in paragraph (8) by adding “and” at the end,
+  - **(B)** by striking paragraphs (9) and (10) and insert the following:
+    > - **(9)** contribute to understanding the impact of Head Start services delivered in inclusive classrooms on both children with disabilities and children without disabilities, and develop practices for increasing the availability and quality of inclusive classrooms.
+
 - **(3)** in subsection (g)—
   - **(A)** in paragraph(1)(A)—
     - **(i)** by striking clause (i), and
@@ -997,7 +1075,7 @@ Section 649 of the Head Start Act (42 U.S.C. 9844) is amended—
 
 - **(4)** by amending subsection (h) to read as follows:
   > - **(h)** *Limited English Proficient Children*
-  >   - **(1)** *Study* Not later than 1 year after the date of enactment of the Improving Head Start Act of 2007, the Secretary shall conduct a study on the status of limited English proficient children and their families in participating Head Start programs and Early Head Start programs.
+  >   - **(1)** *Study* Not later than 1 year after the date of enactment of the Improving Head Start Act of 2007, the Secretary shall conduct a study on the status of limited English proficient children and their families participating Head Start programs and Early Head Start programs.
   >   - **(2)** *Report* The Secretary shall prepare and submit to Congress, not later than September 2008, a report containing the results of such study, including information on—
   >     - **(A)**
   >       - **(i)** the demographics of limited English proficient children less than 5 years of age and the geographical distribution of such children; and
@@ -1008,14 +1086,15 @@ Section 649 of the Head Start Act (42 U.S.C. 9844) is amended—
   >     - **(E)** the home languages of Head Start and Early Head Start teachers;
   >     - **(F)** the rate of progress made by limited English proficient children and their families in Head Start programs and in Early Head Start programs, including—
   >       - **(i)** the rate of progress made by limited English proficient children toward meeting the additional educational standards described in section 641A(a)(1)(B)(ii) while enrolled in Head Start programs;
-  >       - **(ii)** the correlation between such progress and the type and quality of instruction and educational programs provided to limited English proficient children; and
-  >       - **(iii)** the correlation between such progress and the health and family services provided by Head Start programs to limited English proficient children and their families; and
+  >       - **(ii)** a description of the type of assessment or assessments used to determine the rate of progress made by limited English proficient children;
+  >       - **(iii)** the correlation between such progress and the type and quality of instruction and educational programs provided to limited English proficient children; and
+  >       - **(iv)** the correlation between such progress and the health and family services provided by Head Start programs to limited English proficient children and their families; and
   >     - **(G)** the extent to which Head Start programs make use of funds under section 640(a)(3) to improve the quality of Head Start services provided to limited English proficient children and their families.
   > - **(i)** *Children, families, and programs affected by hurricanes katrina and rita*
   >   - **(1)** *Purpose* The purpose of this subsection is to evaluate the status of Head Start and Early Head Start programs affected by Hurricanes Katrina and Rita as well as the challenges those programs have faced in reestablishing themselves and reenrolling eligible children and families, with the ultimate goal of providing all Head Start and Early Head Start programs with recommendations for developing and implementing disaster plans.
   >   - **(2)** *Definition* The term “areas affected by Hurricanes Katrina and Rita” means any parish or county for which it was determined that assistance was warranted from the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) as a result of Hurricanes Katrina and Rita.
   >   - **(3)** *Study* The Secretary shall conduct a study on the status of children and families participating in Head Start and Early Head Start programs in areas affected by Hurricanes Katrina and Rita.
-  >   - **(4)** *Report* Not later than 1 year after the date of the enactment of the Improving Head Start Act of 2007, the Secretary shall prepare and submit to Congress a report containing the results of such study, including
+  >   - **(4)** *Report* Not later than 1 year after the date of the enactment of the Improving Head Start Act of 2007, the Secretary shall prepare and submit to Congress a report containing the results of such study, including—
   >     - **(A)** information on the population served, including—
   >       - **(i)** the number of children and families participating in Head Start and Early Head Start programs in areas affected by Hurricanes Katrina and Rita before and after Hurricanes Katrina and Rita;
   >       - **(ii)** the demographics of such children and families; and
@@ -1023,7 +1102,7 @@ Section 649 of the Head Start Act (42 U.S.C. 9844) is amended—
   >     - **(B)** information on staff and programs, including—
   >       - **(i)** the number and geographic distribution of staff serving Head Start and Early Head Start children and families from areas affected by Hurricanes Katrina and Rita;
   >       - **(ii)** the current status, including employment status and geographic location, of Head Start and Early Head Start staff serving in areas affected by Hurricanes Katrina and Rita prior to Hurricanes Katrina and Rita; and
-  >       - **(iii)** the response and recovery efforts of Head Start and Early Head Start staff serving in areas affected by Hurricanes Katrina and Rita
+  >       - **(iii)** the response and recovery efforts of Head Start and Early Head Start staff serving in areas affected by Hurricanes Katrina and Rita.
   >     - **(C)** information on facilities, including—
   >       - **(i)** the number of Head Start and Early Head Start facilities operating prior to Hurricanes Katrina and Rita in areas affected by Hurricanes Katrina and Rita;
   >       - **(ii)** the current status of each such facility; and
@@ -1058,7 +1137,7 @@ Section 653 of the Head Start Act (42 U.S.C. 9848) is amended to read as follows
 
 > ## § 653. Wages and compensation
 >
-> - **(a)** *Comparability of Wages* The Secretary shall take such action as may be necessary to assure that persons employed in carrying out programs financed under this subchapter shall not receive compensation at a rate which is (1) in excess of the average rate of compensation paid in the area where the program is carried out to a substantial number of the persons providing substantially comparable services, or in excess of the average rate of compensation paid to a substantial number of the persons providing substantially comparable services in the area of the person’s immediately preceding employment, whichever is higher; or (2) less than the minimum wage rate prescribed in section 6(a)(1) of the Fair Labor Standards Act of 1938. The Secretary shall encourage Head Start agencies to provide compensation according to salary scales that are based on training and experience.
+> - **(a)** *Comparability of Wages* The Secretary shall take such action as may be necessary to assure that persons employed in carrying out programs financed under this subchapter shall not receive compensation at a rate which is: (1) in excess of the average rate of compensation paid in the area where the program is carried out to a substantial number of the persons providing substantially comparable services, or in excess of the average rate of compensation paid to a substantial number of the persons providing substantially comparable services in the area of the person’s immediately preceding employment, whichever is higher; or (2) less than the minimum wage rate prescribed in section 6(a)(1) of the Fair Labor Standards Act of 1938. The Secretary shall encourage Head Start agencies to provide compensation according to salary scales that are based on training and experience.
 > - **(b)** *Federal Rate Limitation* Notwithstanding any other provision of law, no Federal funds shall be used to pay all or any part of the compensation of an individual employed by a Head Start agency in carrying out programs under this subchapter, either as direct or indirect costs of any proration thereof, at a rate in excess of the rate then payable for level II of the Executive Schedule under section 5313 of title 5, United States Code.
 
 ## § 22. Limitation on certain uses of funds
