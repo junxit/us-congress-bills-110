@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 350
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 350
@@ -27,3 +27,10 @@ Providing for consideration of the bill (H.R. 1868) to authorize appropriations 
 - 2007-05-01 — Placed on the House Calendar, Calendar No. 48.
 - 2007-05-01 — The House Committee on Rules reported an original measure, H. Rept. 110-118, by Ms. Sutton.
 - 2007-05-01 — The House Committee on Rules reported an original measure, H. Rept. 110-118, by Ms. Sutton.
+- 2007-05-02 — Considered as privileged matter. (consideration: CR H4302-4306)
+- 2007-05-02 — Considered as unfinished business. (consideration: CR H4314-4315)
+- 2007-05-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 350.
+- 2007-05-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 189 (Roll no. 275). (text: CR H4302)
+- 2007-05-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 189 (Roll no. 275).(text: CR H4302)
+- 2007-05-02 — The previous question was ordered without objection. (consideration: CR H4306)
