@@ -1,7 +1,7 @@
 ---
 measure: H.R. 982
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 3 executed, 16 stated and not applied.
+21 amendatory instructions. 3 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,7 +44,7 @@ to guess them.
 
 ### 22 U.S.C. § 4003
 
-> by striking “(b) Precepts” and inserting “(b)(1) Precepts”; and
+> by striking “(b) Precepts” and inserting “(b)(1) Precepts”;
 
 | | |
 |---|---|
@@ -73,6 +73,8 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2304` | replace | Section 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2304(b)), by striking the sixth sentence and inserting the following new sentence: “Such report shall also include, for each nondemocratic country or democratic transition … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4028` | amend | Section 708 of the Foreign Service Act of 1980 (22 U.S.C. 4028) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4003` | insert | Section 405(d) of the Foreign Service Act of 1980 (22 U.S.C. 3965(d)) is amended by inserting after the second sentence the following new sentence: “Meritorious or distinguished service in the promotion of democracy in foreign countries,… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4003` | replace | in the third sentence, by striking “The precepts” and inserting | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 4003` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4003` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4003` | add-at-end | Section 614 of the Foreign Service Act of 1980 (22 U.S.C. 4013) is amended by adding at the end the following new sentence: “Distinguished or meritorious service in the promotion of democracy in foreign countries, including contact with … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 3944` | add-at-end | Section 304(a)(1) of the Foreign Service Act of 1980 (22 U.S.C. 3944(a)(1)) is amended by adding at the end the following new sentence: “If the country in which the individual is to serve is a nondemocratic country or a democratic transi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
