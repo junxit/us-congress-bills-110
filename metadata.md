@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 150
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 150
@@ -36,3 +36,7 @@ A resolution expressing the sense of the Senate that public servants should be c
 - 2007-04-17 — Introduced in Senate
 - 2007-04-17 — Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S4617)
 - 2007-04-17 — Sponsor introductory remarks on measure. (CR S4617-4618)
+- 2007-05-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5523-5524)
+- 2007-05-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5523-5524)
+- 2007-05-02 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S5523-5524)
+- 2007-05-02 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S5523-5524)
