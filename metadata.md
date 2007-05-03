@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 364
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 364
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 1592) to provide Federal assistanc
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2007-05-03 — [House 110-1-296](votes/house-110-1-0296.md) — On Ordering the Previous Question — **Passed** (217–196)
+- 2007-05-03 — [House 110-1-297](votes/house-110-1-0297.md) — On Agreeing to the Resolution — **Passed** (213–199)
+
 ## Actions
 
 - 2007-05-02 — All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, modified by the amendment printed in the report of the Committee on Rules shall be considered as adopted.
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 1592) to provide Federal assistanc
 - 2007-05-02 — Placed on the House Calendar, Calendar No. 49.
 - 2007-05-02 — The House Committee on Rules reported an original measure, H. Rept. 110-120, by Mr. McGovern.
 - 2007-05-02 — The House Committee on Rules reported an original measure, H. Rept. 110-120, by Mr. McGovern.
+- 2007-05-03 — Considered as privileged matter. (consideration: CR H4421-4429)
+- 2007-05-03 — DEBATE - The House proceeded with one hour of debate on H. Res. 364.
+- 2007-05-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-03 — On agreeing to the resolution Agreed to by recorded vote: 213 - 199 (Roll no. 297). (text: CR H4421)
+- 2007-05-03 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 196 (Roll no. 296). (consideration: CR H4428-4429)
+- 2007-05-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 213 - 199 (Roll no. 297).(text: CR H4421)
