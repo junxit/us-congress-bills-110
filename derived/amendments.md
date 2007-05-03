@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1592
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,5 +33,3 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 13 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 13 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| `28 U.S.C. § 534` | insert | Subsection (b)(1) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note) is amended by inserting “gender and gender identity,” after “race,”. | the bill quotes the text inserted but describes where it goes |
-| `28 U.S.C. § 534` | insert | Subsection (b)(5) of the first section of the Hate Crime Statistics Act (28 U.S.C. 534 note) is amended by inserting “, including data about crimes committed by, and crimes directed against, juveniles” after “data acquired under this sec… | the bill quotes the text inserted but describes where it goes |

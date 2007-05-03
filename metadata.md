@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1592
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1592
@@ -194,6 +194,11 @@ Local Law Enforcement Hate Crimes Prevention Act of 2007
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2007-05-03 — [House 110-1-298](votes/house-110-1-0298.md) — On Motion to Recommit with Instructions — **Failed** (189–227)
+- 2007-05-03 — [House 110-1-299](votes/house-110-1-0299.md) — On Passage — **Passed** (237–180)
+
 ## Actions
 
 - 2007-03-20 — Introduced in House
@@ -209,3 +214,17 @@ Local Law Enforcement Hate Crimes Prevention Act of 2007
 - 2007-04-30 — Placed on the Union Calendar, Calendar No. 67.
 - 2007-04-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-113.
 - 2007-04-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-113.
+- 2007-05-02 — Rules Committee Resolution H. Res. 364 Reported to House. Rule provides for consideration of H.R. 1592 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, modified by the amendment printed in the report of the Committee on Rules shall be considered as adopted.
+- 2007-05-03 — Considered under the provisions of rule H. Res. 364. (consideration: CR H4429-4452; text of measure as reported in House: CR H4429-4431; text of measure as modified: CR H4431-4432)
+- 2007-05-03 — DEBATE - The House proceeded with 10 minutes of debate on the Smith (TX) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments to insert "status as a senior citizen who has attained the age of 65 years, status as a current or former member of the Armed Forces," after "orientation".
+- 2007-05-03 — DEBATE - The House proceeded with one hour of debate on H.R. 1592.
+- 2007-05-03 — House amendment offered
+- 2007-05-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-03 — Mr. Smith (TX) moved to recommit with instructions to Judiciary. (consideration: CR H4449-4451; text: CR H4449)
+- 2007-05-03 — On motion to recommit with instructions Failed by the Yeas and Nays: 189 - 227 (Roll no. 298).
+- 2007-05-03 — On passage Passed by the Yeas and Nays: 237 - 180 (Roll no. 299).
+- 2007-05-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 237 - 180 (Roll no. 299).
+- 2007-05-03 — Rule H. Res. 364 passed House.
+- 2007-05-03 — Rule provides for consideration of H.R. 1592 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, modified by the amendment printed in the report of the Committee on Rules shall be considered as adopted.
+- 2007-05-03 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H4451)
+- 2007-05-03 — The previous question was ordered pursuant to the rule. (consideration: CR H4449-4452)
