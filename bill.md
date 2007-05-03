@@ -15,7 +15,12 @@ This Act may be cited as the “Public Buildings Cost Reduction Act of 2007”.
 
 ## § 2. Cost-effective technology acceleration program
 
-- **(a)** *Establishment* The Administrator of General Services (referred to in this section as the Administrator) shall establish a program to accelerate the use of more cost-effective technologies and practices at GSA facilities.
+- **(a)** *Establishment*
+  - **(1)** *In general* The Administrator of General Services (referred to in this section as the Administrator) shall establish a program to accelerate the use of more cost-effective technologies and practices at GSA facilities.
+  - **(2)** *Requirements* The program established under this subsection shall—
+    - **(A)** ensure centralized responsibility for the coordination of cost reduction recommendations, practices, and activities of all relevant Federal agencies;
+    - **(B)** provide technical assistance and operational guidance to applicable tenants in order to achieve the goals identified in subsection (c)(2)(A); and
+    - **(C)** establish methods to track the success of departments and agencies with respect to the goals identified in subsection (c)(2)(A).
 - **(b)** *Accelerated use of cost-effective lighting technologies*
   - **(1)** *Review*
     - **(A)** *In general* As part of the program under this subsection, not later than 90 days after the date of enactment of this Act, the Administrator shall conduct a review of—
@@ -52,7 +57,9 @@ This Act may be cited as the “Public Buildings Cost Reduction Act of 2007”.
   - **(1)** *In general* The Administrator of the Environmental Protection Agency (referred to in this section as the Administrator) shall establish a demonstration program under which the Administrator shall provide competitive grants to assist local governments (such as municipalities and counties), with respect to local government buildings—
     - **(A)** to deploy cost-effective technologies and practices; and
     - **(B)** to achieve operational cost savings, through the application of cost-effective technologies and practices, as verified by the Administrator.
-  - **(2)** *Cost sharing* The Federal share of the cost of an activity carried out using a grant provided under this section shall be 40 percent.
+  - **(2)** *Cost sharing*
+    - **(A)** *In general* The Federal share of the cost of an activity carried out using a grant provided under this section shall be 40 percent.
+    - **(B)** *Waiver of non-Federal share* The Administrator may waive up to 100 percent of the local share of the cost of any grant under this section should the Administrator determine that the community is economically distressed, pursuant to objective economic criteria established by the Administrator in published guidelines.
   - **(3)** *Maximum amount* The amount of a grant provided under this subsection shall not exceed $1,000,000.
 - **(b)** *Guidelines*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Administrator shall issue guidelines to implement the grant program established under subsection (a).
