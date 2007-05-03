@@ -80,6 +80,9 @@ In this Act:
   - **(1)** *Policy* For programs that require as part of the selection process for awards the submission of preproposals and that also limit the number of preproposals that may be submitted by an institution, the Director shall allow the subsequent submission of a full proposal based on each preproposal that is determined to have merit following the Foundation’s merit review process.
   - **(2)** *Review and assessment of policies* The Board shall review and assess the effects on institutions of higher education of the policies of the Foundation regarding the imposition of limitations on the number of proposals that may be submitted by a single institution for programs supported by the Foundation. The Board shall determine whether current policies are well justified and appropriate for the types of programs that limit the number of proposal submissions. Not later that 1 year after the date of enactment of this Act, the Board shall summarize its findings and any recommendations regarding changes to the current policy on the restriction of proposal submissions in a report to the Committee on Science and Technology of the House of Representatives and to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate.
 - **(g)** *Research experiences for undergraduates* The Director shall increase funding for the Research Experiences for Undergraduates program in proportion to the increase in the total amount appropriated to the Foundation for research and related activities in any year for which appropriations are authorized by this Act.
+- **(h)** *Global Warming Education*
+  - **(1)** *Informal Education* As part of Informal Science Education activities, the Director shall support activities to create informal educational materials, exhibits, and multimedia presentations relevant to global warming, climate science, and greenhouse gas reduction strategies.
+  - **(2)** *K–12 Instructional Materials* As part of Discovery Research K–12 activities, the Director shall support the development of K–12 educational materials relevant to global warming, climate science, and greenhouse gas reduction strategies.
 
 ## § 4. Centers for research on learning and education improvement
 
@@ -166,7 +169,7 @@ Section 11(f) of the National Science Foundation Act of 1950 (42 U.S.C. 1870(f))
   - **(2)** *Specific requirements* The plan shall include a description of how the allocation of funding—
     - **(A)** will affect the average size and duration of education and human resources grants supported by the Foundation;
     - **(B)** will affect trends in research support for the effective instruction of mathematics, science, engineering, and technology;
-    - **(C)** will affect the K-20 pipeline for the study of mathematics, science, engineering, and technology; and
+    - **(C)** will affect the K–20 pipeline for the study of mathematics, science, engineering, and technology; and
     - **(D)** will encourage the interest of individuals identified in section 33 or 34 of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885a or 1885b) in mathematics, science, engineering, and technology, and help prepare such individuals to pursue postsecondary studies in these fields.
 
 ## § 16. Administrative amendments
@@ -198,3 +201,26 @@ Paragraphs (1) and (2) of section 4(j) of the National Science Foundation Act of
   - **(5)** factors that make such programs effective, and how to expand and improve upon existing programs;
   - **(6)** the role of minority-serving institutions in the diversification of America’s workforce in these fields and how that role can be supported and strengthened; and
   - **(7)** how the public and private sectors can better assist minority students in their efforts to join America’s workforce in these fields.
+
+## § 19. Sense of the Congress regarding the mathematics and science partnership programs of the department of education and the National Science Foundation
+
+It is the sense of the Congress that—
+
+- **(1)** although the mathematics and science education partnership program at the National Science Foundation and the mathematics and science partnership program at the Department of Education practically share the same name, the 2 programs are intended to be complementary, not duplicative;
+- **(2)** the National Science Foundation partnership programs are innovative, model reform initiatives that move promising ideas in education from research into practice to improve teacher quality, develop challenging curricula, and increase student achievement in mathematics and science, and Congress intends that the National Science Foundation peer-reviewed partnership programs found to be effective should be put into wider practice by dissemination through the Department of Education partnership programs; and
+- **(3)** the Director of the National Science Foundation and the Secretary of Education should have ongoing collaboration to ensure that the 2 components of this priority effort for mathematics and science education continue to work in concert for the benefit of States and local practitioners nationwide.
+
+## § 20. Hispanic-serving institutions undergraduate program
+
+- **(a)** *In general* The Director is authorized to establish a new program to award grants on a competitive, merit-reviewed basis to Hispanic-serving institutions to enhance the quality of undergraduate science, mathematics, engineering, and technology education at such institutions and to increase the retention and graduation rates of students pursuing associate's or baccalaureate degrees in science, mathematics, engineering, or technology.
+- **(b)** *Program Components* Grants awarded under this section shall support—
+  - **(1)** activities to improve courses and curriculum in science, mathematics, engineering, and technology;
+  - **(2)** faculty development;
+  - **(3)** stipends for undergraduate students participating in research; and
+  - **(4)** other activities consistent with subsection (a), as determined by the Director.
+- **(c)** *Instrumentation* Funding for instrumentation is an allowed use of grants awarded under this section.
+
+## § 21. Communications training for scientists
+
+- **(a)** *Grant supplements for communications training* The Director shall provide grant supplements, on a competitive, merit-reviewed basis, to institutions receiving awards under the Integrative Graduate Education and Research Traineeship program. The grant supplements shall be used to train graduate students in the communication of the substance and importance of their research to nonscientist audiences, including policymakers.
+- **(b)** *Report to congress* Not later than 3 years after the date of enactment of this Act, the Director shall transmit a report to the Committee on Science and Technology of the House of Representatives, and to the Committee on Commerce, Science, and Transportation and the Committee on Health, Education, Labor, and Pensions of the Senate, describing how the activities required under subsection (a) have been implemented. The report shall include data on the number of graduate students trained and the number and size of grant supplements awarded, and a description of the types of activities funded through the grant supplements.
