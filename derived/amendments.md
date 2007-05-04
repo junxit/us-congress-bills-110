@@ -1,7 +1,7 @@
 ---
 measure: S. 735
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | in subparagraph (A), by striking “5 years” and inserting “10 years”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “20 years” and inserting “25 years”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 876 of title 18, United States Code, is amended by adding at the end thereof the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 877 of title 18, United States Code, is amended by adding at the end thereof the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “5 years” and inserting “10 years”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “20 years” and inserting “25 years”; and | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
