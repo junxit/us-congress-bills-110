@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 124
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 124
@@ -36,3 +36,16 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2007-04-20 — Introduced in House
 - 2007-04-20 — Introduced in House
 - 2007-04-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-04-23 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-05-02 — Committee Consideration and Mark-up Session Held.
+- 2007-05-02 — Ordered to be Reported by Voice Vote.
+- 2007-05-02 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2007-05-07 — Considered under suspension of the rules. (consideration: CR H4494-4495)
+- 2007-05-07 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 124.
+- 2007-05-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-07 — Mr. Michaud moved to suspend the rules and agree to the resolution.
+- 2007-05-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4494)
+- 2007-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4494)
+- 2007-05-07 — Placed on the House Calendar, Calendar No. 51.
+- 2007-05-07 — Reported by the Committee on Transportation. H. Rept. 110-123.
+- 2007-05-07 — Reported by the Committee on Transportation. H. Rept. 110-123.
