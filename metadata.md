@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 325
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 325
@@ -16,7 +16,7 @@ Commending the Michigan State University Spartans for their victory in the 2007 
 
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 
-## Cosponsors (25)
+## Cosponsors (26)
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
@@ -43,6 +43,7 @@ Commending the Michigan State University Spartans for their victory in the 2007 
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Terry, Lee [R-NE-2] (T000459)
 
 ## Committees (1)
 
@@ -53,3 +54,9 @@ Commending the Michigan State University Spartans for their victory in the 2007 
 - 2007-04-19 — Introduced in House
 - 2007-04-19 — Introduced in House
 - 2007-04-19 — Referred to the House Committee on Education and Labor.
+- 2007-05-07 — Considered under suspension of the rules. (consideration: CR H4519-4520)
+- 2007-05-07 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 325.
+- 2007-05-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-07 — Mr. Altmire moved to suspend the rules and agree to the resolution, as amended.
+- 2007-05-07 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4519)
+- 2007-05-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4519)
