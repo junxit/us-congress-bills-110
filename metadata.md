@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1867
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1867
@@ -169,3 +169,4 @@ National Science Foundation Authorization Act of 2007
 - 2007-05-02 — The previous question was ordered pursuant to the rule. (consideration: CR H4410-4411)
 - 2007-05-02 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2007-05-03 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1867.
+- 2007-05-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 138.
