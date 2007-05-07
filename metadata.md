@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1429
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1429
@@ -186,3 +186,4 @@ Improving Head Start for School Readiness Act of 2007
 - 2007-05-02 — The Speaker designated the Honorable Adam B. Schiff to act as Chairman of the Committee.
 - 2007-05-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4377-4378)
 - 2007-05-02 — The previous question was ordered pursuant to the rule. (consideration: CR H4375-4379)
+- 2007-05-07 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 137.
