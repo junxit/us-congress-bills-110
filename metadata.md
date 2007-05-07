@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1592
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1592
@@ -190,9 +190,10 @@ Local Law Enforcement Hate Crimes Prevention Act of 2007
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -228,3 +229,4 @@ Local Law Enforcement Hate Crimes Prevention Act of 2007
 - 2007-05-03 — Rule provides for consideration of H.R. 1592 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. An amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, modified by the amendment printed in the report of the Committee on Rules shall be considered as adopted.
 - 2007-05-03 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H4451)
 - 2007-05-03 — The previous question was ordered pursuant to the rule. (consideration: CR H4449-4452)
+- 2007-05-07 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
