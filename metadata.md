@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1868
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1868
@@ -36,9 +36,10 @@ Technology Innovation and Manufacturing Stimulation Act of 2007
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 - Rep. Lampson, Nick [D-TX-22] (L000043)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -102,3 +103,4 @@ Technology Innovation and Manufacturing Stimulation Act of 2007
 - 2007-05-03 — The Speaker designated the Honorable Vic Snyder to act as Chairman of the Committee.
 - 2007-05-03 — The previous question was ordered pursuant to the rule. (consideration: CR H4462)
 - 2007-05-03 — The previous question was ordered without objection. (consideration: CR H4462)
+- 2007-05-07 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
