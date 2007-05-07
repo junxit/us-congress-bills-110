@@ -1,7 +1,7 @@
 ---
 measure: S. 496
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -50,4 +50,4 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 145 of title 40, United States Code, is amended by striking the item relating to section 14526 and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 14703 of title 40, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 14704 of title 40, United States Code, is amended by striking “2006” and inserting “2011”. | the bill names no machine-readable US Code section |
+| — | replace | Section 14704 of title 40, United States Code, is amended by striking “20062007” and inserting “2011”. | the bill names no machine-readable US Code section |
