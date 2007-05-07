@@ -1,7 +1,7 @@
 ---
 measure: S. 496
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 496
@@ -16,7 +16,7 @@ Appalachian Regional Development Act Amendments of 2008
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (14)
+## Cosponsors (18)
 
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 - Sen. Warner, John [R-VA] (W000154)
@@ -32,6 +32,10 @@ Appalachian Regional Development Act Amendments of 2008
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. McConnell, Mitch [R-KY] (M000355)
 
 ## Committees (1)
 
@@ -41,3 +45,7 @@ Appalachian Regional Development Act Amendments of 2008
 
 - 2007-02-06 — Introduced in Senate
 - 2007-02-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2007-03-29 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2007-05-07 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 110-63.
+- 2007-05-07 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 110-63.
+- 2007-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.

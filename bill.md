@@ -84,8 +84,8 @@ This Act may be cited as the “Appalachian Regional Development Act Amendments 
   > ## § 14508. Economic and energy development initiative
   >
   > - **(a)** *Projects To be assisted* The Appalachian Regional Commission may provide technical assistance, provide grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for use in carrying out projects and activities—
-  >   - **(1)** to promote energy efficiency in the Appalachian region to enhance the economic competitiveness of the Appalachian region;
-  >   - **(2)** to increase the use of renewable energy resources, particularly biomass, in the Appalachian region to produce alternative transportation fuels, electricity, and heat; and
+  >   - **(1)** to promote energy efficiency in the Appalachian region to enhance the economic competitiveness of the Appalachian region; and
+  >   - **(2)** to increase the use of renewable energy resources, particularly biomass, in the Appalachian region to produce alternative transportation fuels, electricity, and heat.; and
   >   - **(3)** to support the development of conventional energy resources, particularly advanced clean coal, in the Appalachian region to produce alternative transportation fuels, electricity, and heat.
   > - **(b)** *Limitation on Available Amounts* Of the cost of any project eligible to be funded by a grant under this section, not more than—
   >   - **(1)** 50 percent may be provided from amounts made available to carry out this section;
@@ -136,7 +136,7 @@ This Act may be cited as the “Appalachian Regional Development Act Amendments 
 
 ## § 6. Termination
 
-Section 14704 of title 40, United States Code, is amended by striking “2006” and inserting “2011”.
+Section 14704 of title 40, United States Code, is amended by striking “20062007” and inserting “2011”.
 
 ## § 7. Effective date
 
