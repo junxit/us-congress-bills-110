@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1737
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1737
@@ -25,3 +25,10 @@ City of Oxnard Water Recycling and Desalination Act of 2007
 - 2007-03-28 — Introduced in House
 - 2007-03-28 — Introduced in House
 - 2007-03-28 — Referred to the House Committee on Natural Resources.
+- 2007-04-06 — Referred to the Subcommittee on Water and Power.
+- 2007-05-07 — Considered under suspension of the rules. (consideration: CR H4505-4506)
+- 2007-05-07 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1737.
+- 2007-05-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-07 — Mrs. Napolitano moved to suspend the rules and pass the bill.
+- 2007-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4505)
+- 2007-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4505)
