@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 124
 congress: 110
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Con.Res. 124
