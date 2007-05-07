@@ -21,7 +21,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 3. Payments for Guam World War II claims
 
-- **(a)** *Payments for death, personal injury, forced labor, forced march, and internment* Subject to section 5, after receipt of certification pursuant to section 4(b)(8) and in accordance with the provisions of this Act, the Secretary of the Treasury shall make payments as follows:
+- **(a)** *Payments for death, personal injury, forced labor, forced march, and internment* Subject to section 6(a), after receipt of certification pursuant to section 4(b)(8) and in accordance with the provisions of this Act, the Secretary of the Treasury shall make payments as follows:
   - **(1)** *Residents injured* The Secretary shall pay compensable Guam victims who are not deceased before any payments are made to individuals described in paragraphs (2) and (3) as follows:
     - **(A)** If the victim has suffered an injury described in subsection (c)(2)(A), $15,000.
     - **(B)** If the victim is not described in subparagraph (A) but has suffered an injury described in subsection (c)(2)(B), $12,000.
@@ -60,12 +60,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(10)** *Release of related claims* Acceptance of payment under section 3 by an individual for a claim related to a compensable Guam decedent or a compensable Guam victim shall be in full satisfaction of all claims related to such decedent or victim, respectively, arising under the Guam Meritorious Claims Act of 1945 (Public Law 79–224), the implementing regulations issued by the United States Navy pursuant thereto, or this Act.
   - **(11)** *Penalty for false claims* The provisions of section 1001 of title 18 of the United States Code (relating to criminal penalties for false statements) apply to claims submitted under this subsection.
 
-## § 5. Authorization for Appropriations
+## § 5. Grants program to memorialize the occupation of Guam during world war II
 
-There are authorized to be appropriated $126,000,000, to remain available for obligation until September 30, 2012, to the Foreign Claims Settlement Commission to carry out this Act. Not more than 5 percent of funds made available under this subsection shall be used for administrative costs.
-
-## § 6. Grants program to memorialize the occupation of Guam during world war II
-
-- **(a)** *Establishment* Subject to subsection (c) and in accordance with this section, the Secretary of the Interior shall establish a grants program under which the Secretary shall award grants for research, educational, and media activities that memorialize the events surrounding the occupation of Guam during World War II, honor the loyalty of the people of Guam during such occupation, or both, for purposes of appropriately illuminating and interpreting the causes and circumstances of such occupation and other similar occupations during a war.
+- **(a)** *Establishment* Subject to section 6(b) and in accordance with this section, the Secretary of the Interior shall establish a grants program under which the Secretary shall award grants for research, educational, and media activities that memorialize the events surrounding the occupation of Guam during World War II, honor the loyalty of the people of Guam during such occupation, or both, for purposes of appropriately illuminating and interpreting the causes and circumstances of such occupation and other similar occupations during a war.
 - **(b)** *Eligibility* The Secretary of the Interior may not award to a person a grant under subsection (a) unless such person submits an application to the Secretary for such grant, in such time, manner, and form and containing such information as the Secretary specifies.
-- **(c)** *Authorization for appropriations* There are authorized to be appropriated $5,000,000, to remain available for obligation until September 30, 2012, to carry out the grant program under this section. In addition, the Secretary of the Interior may use unobligated funds made available to the Secretary that may be used for such purpose to carry out this section.
+
+## § 6. Authorization of Appropriations
+
+- **(a)** *Guam World War II claims payments and adjudication* For purposes of carrying out sections 3 and 4, there are authorized to be appropriated $126,000,000, to remain available for obligation until September 30, 2012, to the Foreign Claims Settlement Commission. Not more than 5 percent of funds made available under this subsection shall be used for administrative costs.
+- **(b)** *Guam World War II grants program* For purposes of carrying out section 5, there are authorized to be appropriated $5,000,000, to remain available for obligation until September 30, 2012.
