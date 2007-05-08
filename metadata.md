@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 123
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 123
@@ -36,3 +36,10 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2007-04-20 — Introduced in House
 - 2007-04-20 — Introduced in House
 - 2007-04-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-04-23 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-05-02 — Committee Consideration and Mark-up Session Held.
+- 2007-05-02 — Ordered to be Reported by Voice Vote.
+- 2007-05-02 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2007-05-08 — Placed on the House Calendar, Calendar No. 55.
+- 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-134.
+- 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-134.
