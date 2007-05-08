@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1140
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1140
@@ -21,9 +21,10 @@ South Orange County Recycled Water Enhancement Act
 - Rep. Campbell, John [R-CA-48] (C001064)
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ South Orange County Recycled Water Enhancement Act
 - 2007-05-07 — Placed on the Union Calendar, Calendar No. 74.
 - 2007-05-07 — Reported by the Committee on Natural Resources. H. Rept. 110-125.
 - 2007-05-07 — Reported by the Committee on Natural Resources. H. Rept. 110-125.
+- 2007-05-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
