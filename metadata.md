@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1595
@@ -100,3 +100,7 @@ Guam World War II Loyalty Recognition Act
 - 2007-05-07 — Placed on the Union Calendar, Calendar No. 78.
 - 2007-05-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-129.
 - 2007-05-07 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-129.
+- 2007-05-08 — Considered as unfinished business. (consideration: CR H4608-4609)
+- 2007-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 133 (Roll no. 309). (text: CR 5/7/2007 H4495-4496)
+- 2007-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 133 (Roll no. 309).(text: CR 5/7/2007 H4495-4496)
