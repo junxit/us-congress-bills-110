@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 377
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 377
@@ -20,6 +20,10 @@ Providing for consideration of the bill (H.R. 1294) to extend Federal recognitio
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2007-05-08 — [House 110-1-305](votes/house-110-1-0305.md) — On Agreeing to the Resolution — **Passed** (228–186)
+
 ## Actions
 
 - 2007-05-07 — All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill, modified by the amendments printed in the report of the Committee on Rules to accompany this resolution, shall be considered as adopted.
@@ -27,3 +31,9 @@ Providing for consideration of the bill (H.R. 1294) to extend Federal recognitio
 - 2007-05-07 — Placed on the House Calendar, Calendar No. 52.
 - 2007-05-07 — The House Committee on Rules reported an original measure, H. Rept. 110-130, by Mr. Hastings (FL).
 - 2007-05-07 — The House Committee on Rules reported an original measure, H. Rept. 110-130, by Mr. Hastings (FL).
+- 2007-05-08 — Considered as privileged matter. (consideration: CR H4562-4567)
+- 2007-05-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 377.
+- 2007-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 186 (Roll no. 305). (text: CR H4562)
+- 2007-05-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 186 (Roll no. 305).(text: CR H4562)
+- 2007-05-08 — The previous question was ordered without objection. (consideration: CR H4566-4567)
