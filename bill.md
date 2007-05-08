@@ -2,14 +2,11 @@
 legis-num: S. CON. RES. 21
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. CON. RES. 21
 
-> Setting forth the congressional budget for the United States Government for fiscal year 2008 and including the appropriate budgetary levels for fiscal years 2007 and 2009 through 2012.
+That the House insist upon its amendment to the resolution (S. Con. Res. 21) entitled “Concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2008 and including the appropriate budgetary levels for fiscal years 2007 and 2009 through 2012”, and ask a conference with the Senate on the disagreeing votes of the two Houses thereon.
 
-## § 1. Concurrent Resolution on the Budget for Fiscal Year 2008
-
-- **(a)** *Declaration* The Congress declares that this resolution is the concurrent resolution on the budget for fiscal year 2008 and that the appropriate budgetary levels for fiscal years 2007 and 2009 through 2012 are set forth.
-- **(b)** *Table of Contents* The table of contents for this concurrent resolution is as follows:
+That Mr. Spratt, Ms. DeLauro, Mr. Edwards, Mr. Ryan of Wisconsin, and Mr. Barrett of South Carolina, be the managers of the conference on the part of the House.

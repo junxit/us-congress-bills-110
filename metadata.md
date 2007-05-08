@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 21
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # S.Con.Res. 21
@@ -16,6 +16,267 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Sen. Conrad, Kent [D-ND] (C000705)
 
+## Cosponsors (258)
+
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Thomas, Craig [R-WY] (T000162)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+
 ## Committees (1)
 
 - Senate — Budget Committee
@@ -26,3 +287,612 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2007-03-16 — Committee on the Budget. Original measure reported to Senate by Senator Conrad under authority of the order of the Senate of 03/15/2007. Without written report.
 - 2007-03-16 — Introduced in Senate
 - 2007-03-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 82. (text of measure as introduced: CR S3276-3282)
+- 2007-03-20 — Amendment SA 466 proposed by Senator Sessions. (consideration: CR S3332-3336; text: CR S3332) To exclude the extension of tax relief provided in 2001 and 2003 from points of order provided in the resolution and other budget points of order.
+- 2007-03-20 — Amendment SA 477 proposed by Senator Cornyn. (consideration: CR S3336-3340) To provide for a budget point of order against legislation that increases income taxes on taxpayers, including hard-working middle-income families, entrepreneurs, and college students.
+- 2007-03-20 — Measure laid before Senate by unanimous consent. (consideration: CR S3308-3340)
+- 2007-03-20 — Senate amendment proposed (on the floor): Amendment SA 466 proposed by Senator Sessions.(consideration: CR S3332-3336; text: CR S3332)
+- 2007-03-20 — Senate amendment proposed (on the floor): Amendment SA 477 proposed by Senator Cornyn.(consideration: CR S3336-3340)
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-20 — Senate amendment submitted
+- 2007-03-21 — Amendment SA 464 proposed by Senator Grassley. (consideration: CR S3482-3483, S3488; text: CR S3482-3483) To limit farm payments to $250,000 per person per year and apply the savings to renewable energy/rural development, conservation, and nutrition.
+- 2007-03-21 — Amendment SA 466 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 85.
+- 2007-03-21 — Amendment SA 476 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 86.
+- 2007-03-21 — Amendment SA 476 proposed by Senator Ensign. (consideration: CR S3454-3458, S3505; text: CR S3454) To ensure that our troops serving in harms way remain Americas top budget priority by ensuring full funding for the Department of Defense within the regular appropriations process, reducing reliance on supplemental appropriations bills, and by improving the integrity of the Congressional budget process.
+- 2007-03-21 — Amendment SA 477 agreed to in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 84.
+- 2007-03-21 — Amendment SA 480 agreed to in Senate by Voice Vote.
+- 2007-03-21 — Amendment SA 480 proposed by Senator Collins. (consideration: CR S3471-3475; text: CR S3471) To provide for a deficit-neutral reserve fund for permanently extending and increasing the above-the-line deduction for teacher classroom supplies and expanding such deduction to include qualified professional development expenses.
+- 2007-03-21 — Amendment SA 483 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 87.
+- 2007-03-21 — Amendment SA 483 proposed by Senator Bunning. (consideration: CR S3458-3461, S3505-3506; text: CR S3458) To provide a point of order against any budget resolution that fails to achieve an on-budget balance within 5 years.
+- 2007-03-21 — Amendment SA 486 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 88.
+- 2007-03-21 — Amendment SA 486 proposed by Senator Bingaman. (consideration: CR S3461-3464, S3504-3505; text: CR S3461) To provide additional funding resources in FY2008 for investments in innovation and education in order to improve the competitiveness of the United States.
+- 2007-03-21 — Amendment SA 489 proposed by Senator DeMint. (consideration: CR S3464-3466; text: CR S3464) To establish a reserve fund for Social Security.
+- 2007-03-21 — Amendment SA 491 proposed by Senator Allard. (consideration: CR S3466-3468; text: CR S3466) To pay down the Federal debt and eliminate government waste by reducing spending on programs rated ineffective by the Program Assessment Rating Tool.
+- 2007-03-21 — Amendment SA 492 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 82.
+- 2007-03-21 — Amendment SA 492 proposed by Senator Baucus. (consideration: CR S3468-3471, S3503-3504; text: CR S3468-3469) To provide tax relief to middle class families and small businesses and to expand health insurance coverage for children.
+- 2007-03-21 — Amendment SA 502 proposed by Senator Grassley. (consideration: CR S3483-3487; text: CR S3483) To ensure the appropriate use of funds provided for the Smithsonian Institution, and for other purposes.
+- 2007-03-21 — Amendment SA 504 proposed by Senator Baucus. (consideration: CR S3487-3494; text: CR S3487) To affirm the Senate's commitment to the reauthorization of the State Children's Health Insurance Program.
+- 2007-03-21 — Amendment SA 507 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 83.
+- 2007-03-21 — Amendment SA 507 proposed by Senator Kyl. (consideration: CR S3494-3498, S3504; text: CR S3494) To protect families, family farms and small businesses by raising the death tax exemption to $5 million and reducing the maximum death tax rate to no more than 35%, to extend college tuition deduction, to extend the student loan interest deduction, to extend the teacher classroom deduction, to protect senior citizens from higher taxes on their retirement income, to maintain U.S. financial market competitiveness, and to promote economic growth by extending the lower tax rates on dividends and capital gains.
+- 2007-03-21 — Amendment SA 511 proposed by Senator Cornyn. (consideration: CR S3498-3500, S3500-3502; text: CR S3498-3499) To provide a deficit-neutral reserve fund for the reauthorization of the State Children's Health Insurance Program (SCHIP) that will cover kids first.
+- 2007-03-21 — Amendment SA 517 proposed by Senator Hutchison. (consideration: CR S3506-3512; text: CR S3506-3507) To provide for extension of the deduction for State and local sales taxes in a deficit-neutral manner.
+- 2007-03-21 — Considered by Senate. (consideration: CR S3453, S3500, S3504-3505; text as modified: CR S3500)
+- 2007-03-21 — Considered by Senate. (consideration: CR S3453, S3504)
+- 2007-03-21 — Considered by Senate. (consideration: CR S3453-3512)
+- 2007-03-21 — Roll call votes on amendments in Senate: Amendment SA 466 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 85.
+- 2007-03-21 — Roll call votes on amendments in Senate: Amendment SA 476 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 86.
+- 2007-03-21 — Roll call votes on amendments in Senate: Amendment SA 477 agreed to in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 84.
+- 2007-03-21 — Roll call votes on amendments in Senate: Amendment SA 483 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 87.
+- 2007-03-21 — Roll call votes on amendments in Senate: Amendment SA 486 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 88.
+- 2007-03-21 — Roll call votes on amendments in Senate: Amendment SA 492 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 82.
+- 2007-03-21 — Roll call votes on amendments in Senate: Amendment SA 507 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 83.
+- 2007-03-21 — Senate amendment agreed to: Amendment SA 477 agreed to in Senate by Yea-Nay Vote. 63 - 35. Record Vote Number: 84.
+- 2007-03-21 — Senate amendment agreed to: Amendment SA 480 agreed to in Senate by Voice Vote.
+- 2007-03-21 — Senate amendment agreed to: Amendment SA 483 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 87.
+- 2007-03-21 — Senate amendment agreed to: Amendment SA 486 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 88.
+- 2007-03-21 — Senate amendment agreed to: Amendment SA 492 agreed to in Senate by Yea-Nay Vote. 97 - 1. Record Vote Number: 82.
+- 2007-03-21 — Senate amendment not agreed to: Amendment SA 466 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 85.
+- 2007-03-21 — Senate amendment not agreed to: Amendment SA 476 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 86.
+- 2007-03-21 — Senate amendment not agreed to: Amendment SA 507 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 83.
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 464 proposed by Senator Grassley.(consideration: CR S3482-3483, S3488; text: CR S3482-3483)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 476 proposed by Senator Ensign.(consideration: CR S3454-3458, S3505; text: CR S3454)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 480 proposed by Senator Collins.(consideration: CR S3471-3475; text: CR S3471)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 483 proposed by Senator Bunning.(consideration: CR S3458-3461, S3505-3506; text: CR S3458)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 486 proposed by Senator Bingaman.(consideration: CR S3461-3464, S3504-3505; text: CR S3461)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 489 proposed by Senator DeMint.(consideration: CR S3464-3466; text: CR S3464)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 491 proposed by Senator Allard.(consideration: CR S3466-3468; text: CR S3466)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 492 proposed by Senator Baucus.(consideration: CR S3468-3471, S3503-3504; text: CR S3468-3469)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 502 proposed by Senator Grassley.(consideration: CR S3483-3487; text: CR S3483)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 504 proposed by Senator Baucus.(consideration: CR S3487-3494; text: CR S3487)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 507 proposed by Senator Kyl.(consideration: CR S3494-3498, S3504; text: CR S3494)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 511 proposed by Senator Cornyn.(consideration: CR S3498-3500, S3500-3502; text: CR S3498-3499)
+- 2007-03-21 — Senate amendment proposed (on the floor): Amendment SA 517 proposed by Senator Hutchison.(consideration: CR S3506-3512; text: CR S3506-3507)
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-21 — Senate amendment submitted
+- 2007-03-22 — Amendment SA 472 not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 93.
+- 2007-03-22 — Amendment SA 472 proposed by Senator Gregg for Senator Ensign. (consideration: CR S3551-3554, S3555, S3557, S3557-3560, S3584; text: CR S3551) To require wealthy Medicare beneficiaries to pay a greater share of their Medicare Part D premiums.
+- 2007-03-22 — Amendment SA 489 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 89.
+- 2007-03-22 — Amendment SA 491 not agreed to in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 90.
+- 2007-03-22 — Amendment SA 497 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 95.
+- 2007-03-22 — Amendment SA 497 proposed by Senator Enzi. (consideration: CR S3566-3569, S3585; text: CR S3566) To establish a 60-vote point of order for legislation that creates unfunded mandates on small business concerns.
+- 2007-03-22 — Amendment SA 498 not agreed to in Senate by Yea-Nay Vote. 29 - 67. Record Vote Number: 96.
+- 2007-03-22 — Amendment SA 498 proposed by Senator Thomas. (consideration: CR S3575-3576, S3585-3586; text: CR S3575) To strike the reserve funds.
+- 2007-03-22 — Amendment SA 502 agreed to in Senate by Voice Vote.
+- 2007-03-22 — Amendment SA 504 as modified agreed to in Senate by Voice Vote.
+- 2007-03-22 — Amendment SA 511 not agreed to in Senate by Yea-Nay Vote. 38 - 59. Record Vote Number: 91.
+- 2007-03-22 — Amendment SA 517 as modified agreed to in Senate by Voice Vote.
+- 2007-03-22 — Amendment SA 525 not agreed to in Senate by Yea-Nay Vote. 23 - 74. Record Vote Number: 92.
+- 2007-03-22 — Amendment SA 525 proposed by Senator Cornyn. (consideration: CR S3548-3551, S3557, S3563; text: CR S3548; text as modified: CR S3557) To provide reconciliation instructions of $33.8 billion to make provider payments more accurate, to improve Medicare Part B income relation provisions, expand those provisions to Medicare Part D and reduce the deficit.
+- 2007-03-22 — Amendment SA 526 agreed to in Senate by Voice Vote.
+- 2007-03-22 — Amendment SA 526 proposed by Senator Bayh. (consideration: CR S3582-3583; text: CR S3582) To make permanent the tuition tax deduction and is fully offset by closing a portion of the tax gap through enhanced information reporting requirements.
+- 2007-03-22 — Amendment SA 538 agreed to in Senate by Unanimous Consent.
+- 2007-03-22 — Amendment SA 538 proposed by Senator Carper. (consideration: CR S3570, S3576; text: CR S3570) To reduce the deficit by recovering improper payments.
+- 2007-03-22 — Amendment SA 542 agreed to in Senate by Unanimous Consent.
+- 2007-03-22 — Amendment SA 542 proposed by Senator Lincoln. (consideration: CR S3572-3574, S3576; text: CR S3572) To provide the Veterans Benefits Administration with additional resources and staff to more effectively meet their increasing workload and to address the unacceptably large claims backlog that continues to cause undue hardships for veterans and their families across the country.
+- 2007-03-22 — Amendment SA 545 not agreed to in Senate by Yea-Nay Vote. 38 - 58. Record Vote Number: 94.
+- 2007-03-22 — Amendment SA 545 proposed by Senator Sanders. (consideration: CR S3564-3566, S3583, S3584-3585; text: CR S3564) To restore the top marginal tax rate to pre-2001 levels on taxable income in excess of $1 million and use the increased revenue to increase funding for the Individuals with Disabilities Act.
+- 2007-03-22 — Amendment SA 577 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 98.
+- 2007-03-22 — Amendment SA 577 proposed by Senator Coleman. (consideration: CR S3569-3570, S3587-3588; text: CR S3569) To provide budget levels to extend through 2012 the production tax credit for electricity produced from renewable resources, the Clean Renewable Energy Bonds, and energy tax provisions for energy efficient buildings and power plants.
+- 2007-03-22 — Amendment SA 583 proposed by Senator Kyl. (consideration: CR S3577-3582; text: CR S3578) To reform the death tax by setting the exemption at $5 million per estate, indexed for inflation, and the top death tax rate at no more than 35% beginning in 2010; to avoid subjecting an estimated 119,200 families, family businesses, and family farms to the death tax each and every year; to promote continued economic growth and job creation; and to make the enhanced teacher deduction permanent.
+- 2007-03-22 — Amendment SA 598 agreed to in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 97.
+- 2007-03-22 — Amendment SA 598 proposed by Senator Conrad. (consideration: CR S3586-3587; text: CR S3586) To create a deficit-neutral reserve fund for extending certain energy tax incentives.
+- 2007-03-22 — Considered by Senate. (consideration: CR S3547-3603, S3648-3655)
+- 2007-03-22 — Considered by Senate. (consideration: CR S3548, S3560-3561)
+- 2007-03-22 — Considered by Senate. (consideration: CR S3548, S3561)
+- 2007-03-22 — Considered by Senate. (consideration: CR S3548, S3561-3562; text as modified: CR S3561-3562)
+- 2007-03-22 — Considered by Senate. (consideration: CR S3548, S3562-3563)
+- 2007-03-22 — Considered by Senate. (consideration: CR S3548, S3564)
+- 2007-03-22 — Considered by Senate. (consideration: CR S3548, S3574-3575)
+- 2007-03-22 — Considered by Senate. (consideration: CR S3548, S3583-3584; text as modified: CR S3584)
+- 2007-03-22 — Proposed amendment SA 464 withdrawn in Senate.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 472 not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 93.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 489 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 89.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 491 not agreed to in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 90.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 497 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 95.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 498 not agreed to in Senate by Yea-Nay Vote. 29 - 67. Record Vote Number: 96.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 511 not agreed to in Senate by Yea-Nay Vote. 38 - 59. Record Vote Number: 91.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 525 not agreed to in Senate by Yea-Nay Vote. 23 - 74. Record Vote Number: 92.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 545 not agreed to in Senate by Yea-Nay Vote. 38 - 58. Record Vote Number: 94.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 577 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 98.
+- 2007-03-22 — Roll call votes on amendments in Senate: Amendment SA 598 agreed to in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 97.
+- 2007-03-22 — Senate amendment agreed to: Amendment SA 502 agreed to in Senate by Voice Vote.
+- 2007-03-22 — Senate amendment agreed to: Amendment SA 504 as modified agreed to in Senate by Voice Vote.
+- 2007-03-22 — Senate amendment agreed to: Amendment SA 517 as modified agreed to in Senate by Voice Vote.
+- 2007-03-22 — Senate amendment agreed to: Amendment SA 526 agreed to in Senate by Voice Vote.
+- 2007-03-22 — Senate amendment agreed to: Amendment SA 538 agreed to in Senate by Unanimous Consent.
+- 2007-03-22 — Senate amendment agreed to: Amendment SA 542 agreed to in Senate by Unanimous Consent.
+- 2007-03-22 — Senate amendment agreed to: Amendment SA 598 agreed to in Senate by Yea-Nay Vote. 54 - 42. Record Vote Number: 97.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 472 not agreed to in Senate by Yea-Nay Vote. 44 - 52. Record Vote Number: 93.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 489 not agreed to in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 89.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 491 not agreed to in Senate by Yea-Nay Vote. 33 - 64. Record Vote Number: 90.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 497 not agreed to in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 95.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 498 not agreed to in Senate by Yea-Nay Vote. 29 - 67. Record Vote Number: 96.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 511 not agreed to in Senate by Yea-Nay Vote. 38 - 59. Record Vote Number: 91.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 525 not agreed to in Senate by Yea-Nay Vote. 23 - 74. Record Vote Number: 92.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 545 not agreed to in Senate by Yea-Nay Vote. 38 - 58. Record Vote Number: 94.
+- 2007-03-22 — Senate amendment not agreed to: Amendment SA 577 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 98.
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 472 proposed by Senator Gregg for Senator Ensign.(consideration: CR S3551-3554, S3555, S3557, S3557-3560, S3584; text: CR S3551)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 497 proposed by Senator Enzi.(consideration: CR S3566-3569, S3585; text: CR S3566)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 498 proposed by Senator Thomas.(consideration: CR S3575-3576, S3585-3586; text: CR S3575)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 525 proposed by Senator Cornyn.(consideration: CR S3548-3551, S3557, S3563; text: CR S3548; text as modified: CR S3557)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 526 proposed by Senator Bayh.(consideration: CR S3582-3583; text: CR S3582)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 538 proposed by Senator Carper.(consideration: CR S3570, S3576; text: CR S3570)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 542 proposed by Senator Lincoln.(consideration: CR S3572-3574, S3576; text: CR S3572)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 545 proposed by Senator Sanders.(consideration: CR S3564-3566, S3583, S3584-3585; text: CR S3564)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 577 proposed by Senator Coleman.(consideration: CR S3569-3570, S3587-3588; text: CR S3569)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 583 proposed by Senator Kyl.(consideration: CR S3577-3582; text: CR S3578)
+- 2007-03-22 — Senate amendment proposed (on the floor): Amendment SA 598 proposed by Senator Conrad.(consideration: CR S3586-3587; text: CR S3586)
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-22 — Senate amendment submitted
+- 2007-03-23 — Amendment SA 465 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 465 proposed by Senator Gregg for Senator Thune. (consideration: CR S3679; text: CR S3679) To provide for a budget point of order against legislation that increases income tax rates on small businesses, family farms, or family ranches.
+- 2007-03-23 — Amendment SA 470 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 470 proposed by Senator Conrad for Senator Voinovich. (consideration: CR S3698-3702; text as modified: CR S3700) To require disclosure of the interest costs of legislation.
+- 2007-03-23 — Amendment SA 471 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 108.
+- 2007-03-23 — Amendment SA 471 proposed by Senator Grassley. (consideration: CR S3679-3680; text: CR S3679) To amend the budget resolution for fiscal year 2008 in order to accommodate the full repeal of the Alternative Minimum Tax preventing 23 million families and individuals from being subject to the AMT in 2007, and millions of families and individuals in subsequent years.
+- 2007-03-23 — Amendment SA 473 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 100.
+- 2007-03-23 — Amendment SA 473 proposed by Senator Sessions. (consideration: CR S3666-3667; text: CR S3666-3667) To save families from the Alternative Minimum Tax (AMT) first by permitting a deduction for personal exemptions for purposes of computing the AMT.
+- 2007-03-23 — Amendment SA 478 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 107.
+- 2007-03-23 — Amendment SA 478 proposed by Senator Graham. (consideration: CR S3678; text: CR S3678) To extend the 35, 33, 28, and 25 percent income tax rate structure and protect nearly 28,000,000 families and individuals, including small business owners, from having their tax rates increase to 39.6, 36, 31, or 28 percent.
+- 2007-03-23 — Amendment SA 490 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 490 proposed by Senator Conrad for Senator Reid. (consideration: CR S3673-3677, S3678; text as modified: CR S 3673) To provide funding to eliminate the offset between military retirement pay and disability compensation for America's veterans.
+- 2007-03-23 — Amendment SA 499 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 499 proposed by Senator Conrad for Senator Burr. (consideration: CR S3673-3677; text: CR S 3673) To develop biodefense medical countermeasures by fully funding the Biomedical Advanced Research and Development Authority (BARDA) in a fiscally responsible manner.
+- 2007-03-23 — Amendment SA 506 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 506 proposed by Senator Conrad for Senator Specter. (consideration: CR S3698-3702; text: CR S3700) To increase funding for the National Institutes of Health, and Centers for Disease Control and Prevention, and the health professions.
+- 2007-03-23 — Amendment SA 508 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 103.
+- 2007-03-23 — Amendment SA 508 proposed by Senator Hatch. (consideration: CR S3670-3671; text: CR S3670) To establish a reserve fund for protecting coverage choices, additional benefits, and lower cost-sharing for Medicare beneficiaries.
+- 2007-03-23 — Amendment SA 510 as modified agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 105.
+- 2007-03-23 — Amendment SA 510 proposed by Senator Smith. (consideration: CR S3672-3673; text as modified: CR S3672) To provide for the consideration of an increase in the tobacco products user fee rate, but only to the extent that such rate increase does not result in an increase of more than 61 cents per pack of cigarettes, with all revenue generated by such increase dedicated to the reauthorization and expansion of the State Children's Health Insurance Program.
+- 2007-03-23 — Amendment SA 513 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 99.
+- 2007-03-23 — Amendment SA 513 proposed by Senator DeMint. (consideration: CR S3664-3665; text: CR S3664) To provide for true deficit reduction in appropriation bills.
+- 2007-03-23 — Amendment SA 515 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 106.
+- 2007-03-23 — Amendment SA 515 proposed by Senator Thomas. (consideration: CR S3677; text: CR S3677) To prevent the adding of extraneous earmarks to an emergency war supplemental.
+- 2007-03-23 — Amendment SA 518 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 518 proposed by Senator Conrad for Senator Smith. (consideration: CR S3687-3698; text: CR S3687) To fund the State Department, USAID, and other foreign affairs agencies and their programs at the level requested by the President.
+- 2007-03-23 — Amendment SA 519 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 519 proposed by Senator Conrad for Senator Lieberman. (consideration: CR S3673-3677; text: CR S 3673) To increase funding for vital first responder homeland security programs, including $400,000,000 to establish a dedicated interoperability grant program and $331,000,000 for Emergency Management Performance Grants.
+- 2007-03-23 — Amendment SA 521 proposed by Senator Allard. (consideration: CR S3671-3672; text: CR S3671-3672) To improve the economy, efficiency, and effectiveness of Federal programs and reduce the Federal debt by eliminating waste, fraud, and abuse.
+- 2007-03-23 — Amendment SA 521 ruled out of order by the chair.
+- 2007-03-23 — Amendment SA 522 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 522 proposed by Senator Coleman. (consideration: CR S385; text: CR S3685) To extend a provision allowing veterans to qualify for low interest mortgage programs.
+- 2007-03-23 — Amendment SA 524 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 524 proposed by Senator Conrad for Senator Obama. (consideration: CR S3698-3702; text: CR S3699) To provide $100 million for the Summer Term Education Program supporting summer learning opportunities for low-income students in the early grades to lessen summer learning losses that contribute to the achievement gaps separating low-income students from their middle-class peers.
+- 2007-03-23 — Amendment SA 528 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 528 proposed by Senator Conrad for Senator Biden. (consideration: CR S3673-3677; text: CR S 3673) To increase funding by $100 million for the Violence Against Women Act (VAWA) programs administered by the Department of Justice and Department of Health and Humans Services, with an offset of an unallocated reduction to non-defense discretionary spending and/or reduction to administrative expenses.
+- 2007-03-23 — Amendment SA 529 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 110.
+- 2007-03-23 — Amendment SA 529 proposed by Senator Biden. (consideration: CR S3682-3683; text: CR S3682) To increase funding for the COPS Program to $1.15 billion for FY 2008 to provide state and local law enforcement with critical resources necessary to prevent and respond to violent crime and acts of terrorism and is offset by an unallocated reduction to non-defense discretionary spending and/or reduction to administrative expenses.
+- 2007-03-23 — Amendment SA 530 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 530 proposed by Senator DeMint. (consideration: CR S3683; text: CR S3683) To save Social Security first, not discretionary spending.
+- 2007-03-23 — Amendment SA 534 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 534 proposed by Senator DeMint. (consideration: CR S3683; text: CR S3683) To prevent the adding of earmarks for spinach producers to an emergency war supplemental appropriations bill.
+- 2007-03-23 — Amendment SA 536 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 112.
+- 2007-03-23 — Amendment SA 536 proposed by Senator Chambliss. (consideration: CR S3684-3685; text: CR S3684) To provide a deficit-neutral reserve fund for the reauthorization of the State Children's Health Insurance Program (SCHIP) that eliminates enhanced Federal matching payments for coverage of nonpregnant adults and permits States to offer supplemental dental and mental health benefits for children enrolled in SCHIP.
+- 2007-03-23 — Amendment SA 537 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 537 proposed by Senator Conrad for Senator Webb. (consideration: CR S3698-3702; text: CR S3699) To include in the veterans' reserve fund a provision for GI educational benefits.
+- 2007-03-23 — Amendment SA 540 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 540 proposed by Senator Conrad for Senator Carper. (consideration: CR S3698-3702; text: CR S3699) To reduce the deficit through the use of recovery audits.
+- 2007-03-23 — Amendment SA 544 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 544 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S3698-3702; text: CR S3699) To provide for the use of the deficit-neutral reserve fund for tax relief for enhancing charitable giving from individual retirement accounts.
+- 2007-03-23 — Amendment SA 546 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 546 proposed by Senator Conrad for Senator Thune. (consideration: CR S3673-3677; text: CR S 3673) To provide for a total of $99,000,000 in COPS Hot Spots funding, as authorized in the Combat Meth Act.
+- 2007-03-23 — Amendment SA 548 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 548 proposed by Senator Conrad for Senator Grassley. (consideration: CR S3698-3702; text: CR S3700) To ensure that Medicare payments to physicians include incentives to improve the quality and efficiency of care furnished to Medicare beneficiaries.
+- 2007-03-23 — Amendment SA 551 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 551 proposed by Senator Conrad for Senator Murkowski. (consideration: CR S3698-3702; text as modified: CR S3700) To increase funding for geothermal, ocean (wave, current, tidal), and small hydroelectric energy assistance.
+- 2007-03-23 — Amendment SA 553 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 553 proposed by Senator Dole. (consideration: CR S3665; text: CR S3665) To extend financial relief for our reservists and national guard deployed in Afghanistan and Iraq by allowing them to make penalty-free withdrawals of their retirement funds through the year 2012.
+- 2007-03-23 — Amendment SA 572 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 572 proposed by Senator Conrad for Senator Coleman. (consideration: CR S3698-3702; text: CR S3700) To increase funds for the implementation of the forest management plans developed for the States of Minnesota, Michigan, and Wisconsin, with an offset.
+- 2007-03-23 — Amendment SA 574 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 574 proposed by Senator Feinstein. (consideration: CR S3666; text: CR S3666) To provide an additional $543,000,000 for the State Criminal Alien Assistance Program.
+- 2007-03-23 — Amendment SA 576 proposed by Senator DeMint. To prevent the adding of earmarks for farmland damaged by freezing temperatures to an emergency war supplemental appropriations bill.
+- 2007-03-23 — Amendment SA 578 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 109.
+- 2007-03-23 — Amendment SA 578 proposed by Senator DeMint. (consideration: CR S3681-3682; text: CR S3681) To repeal the death tax.
+- 2007-03-23 — Amendment SA 580 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 580 proposed by Senator Conrad for Senator Nelson FL. (consideration: CR S3698-3702; text: CR S3698) To make funds available to ensure that Survivor Benefit Plan annuities are not reduced by the amount of veterans' dependency and indemnity compensation received by military families.
+- 2007-03-23 — Amendment SA 581 agreed to in Senate by Voice Vote.
+- 2007-03-23 — Amendment SA 581 proposed by Senator Brownback. (consideration: CR S3663; text: CR S3663) To provide funds for a Commission on Budgetary Accountability and Review of Federal Agencies.
+- 2007-03-23 — Amendment SA 583 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 102.
+- 2007-03-23 — Amendment SA 587 proposed by Senator Bingaman. (consideration: CR S3680-3681; text: CR S3680) To prohibit the scoring of any amount realized from the sale or lease of land or interests in land that are part of the National Park System, the National Forest System, or the National Wildlife Refuge System.
+- 2007-03-23 — Amendment SA 589 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 589 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S3698-3702; text: CR S3700) To establish a reserve fund for the safe importation of FDA-approved prescription drugs.
+- 2007-03-23 — Amendment SA 594 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 111.
+- 2007-03-23 — Amendment SA 594 proposed by Senator Bunning. (consideration: CR S3683-3684; text as modified: CR S3683) To provide a deficit-neutral reserve fund for protecting State flexibility in Medicaid.
+- 2007-03-23 — Amendment SA 596 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 596 proposed by Senator Conrad for Senator Reed. (consideration: CR S3698-3702; text: CR S3699) To increase LIHEAP spending by $703 million in FY 2008 for a total LIHEAP level of $3.2 billion, divided between the regular and contingency grant funds at FY 2006 levels.
+- 2007-03-23 — Amendment SA 599 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 599 proposed by Senator Conrad for Senator Obama. (consideration: CR S3698-3702; text: CR S3698) To add $200 million for Function 270 (Energy) for the demonstration and monitoring of carbon capture and sequestration technology by the Department of Energy.
+- 2007-03-23 — Amendment SA 600 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 600 proposed by Senator Conrad for Senator Bingaman. (consideration: CR S3698-3702; text: CR S3699) To establish a deficit-neutral reserve fund to provide for a delay in the implementation of a proposed rule relating to the Federal-State financial partnerships under Medicaid and SCHIP.
+- 2007-03-23 — Amendment SA 601 agreed to in Senate by Voice Vote.
+- 2007-03-23 — Amendment SA 601 proposed by Senator Pryor. (consideration: CR S3663; text: CR S3663) To establish a reserve fund to provide additional training for physicians and attract more physicians in States that face a shortage of physicians in training.
+- 2007-03-23 — Amendment SA 602 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 602 proposed by Senator Conrad for Senator Kennedy. (consideration: CR S3673-3677; text: CR S3673) To increase funding for drug safety oversight at the Food and Drug Administration by $40,000,000 in fiscal year 2008.
+- 2007-03-23 — Amendment SA 606 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 113.
+- 2007-03-23 — Amendment SA 606 proposed by Senator Lott. (consideration: CR S3685-3686; text: CR S3685-3686) To repeal section 13203 of the Omnibus Budget Reconciliation Act of 1993 by restoring the Alternative Minimum Tax rates that had been in effect prior thereto.
+- 2007-03-23 — Amendment SA 611 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 611 proposed by Senator Conrad for Senator Pryor. (consideration: CR S3698-3702; text as modified: CR S3699) To increase the budgeting totals for the National Nanotechnology Initiative for environmental, health and safety research and development for fiscal years 2008 through 2012.
+- 2007-03-23 — Amendment SA 613 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 613 proposed by Senator Specter. (consideration: CR S3678-3679) To create a deficit-neutral reserve for asbestos reform legislation.
+- 2007-03-23 — Amendment SA 614 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 614 proposed by Senator Conrad for Senator Graham. (consideration: CR S3673-3677; text: CR S 3674) To increase the budgetary totals for the Department of Commerce to provide additional trade enforcement capability and to provide an offset.
+- 2007-03-23 — Amendment SA 615 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 615 proposed by Senator Conrad for Senator Kerry. (consideration: CR S3673-3677; text: CR S 3674) To include in the veterans' reserve fund services for low-vision and blinded veterans.
+- 2007-03-23 — Amendment SA 616 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 616 proposed by Senator Conrad for Senator Kerry. (consideration: CR S3673-3677; text: CR S 3673) To increase funding for small business programs at the Small Business Administration such as microloans, Women's Business Centers, and Small Business Development Centers.
+- 2007-03-23 — Amendment SA 617 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 617 proposed by Senator Conrad for Senator Casey. (consideration: CR S3698-3702; text: CR S3698-3699) To establish a deficit-neutral reserve fund for extending preschool opportunities to children.
+- 2007-03-23 — Amendment SA 619 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 619 proposed by Senator Conrad for Senator Chambliss. (consideration: CR S3673-3677; text: CR S 3673) To provide Edward Byrne Memorial Justice Assistance Grant Program funding as authorized in the Violence Against Women and Department of Justice Reauthorization act of 2005.
+- 2007-03-23 — Amendment SA 620 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 620 proposed by Senator Conrad for Senator Warner. To provide funding for NASA aeronautics at the fiscal year 2007 levels.
+- 2007-03-23 — Amendment SA 621 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 621 proposed by Senator Bunning. (consideration: CR S3665; text: CR S3665) To provide for a deficit-neutral reserve fund for a repeal of the 1993 increase in the income tax on Social Security Benefits.
+- 2007-03-23 — Amendment SA 622 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 622 proposed by Senator Gregg. (consideration: CR S3662; text: CR S3662) Point of order against using reconciliation to create new mandatory programs and 20% limitation on spending reconciliation.
+- 2007-03-23 — Amendment SA 623 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 623 proposed by Senator Conrad. (consideration: CR S3663-3664; text: CR S3663-3664) To clarify the treatment of certain provisions in conference reports.
+- 2007-03-23 — Amendment SA 626 not agreed to in Senate by Yea-Nay Vote. 25 - 74. Record Vote Number: 101.
+- 2007-03-23 — Amendment SA 626 proposed by Senator Nelson NE. (consideration: CR S3667-3668; text: CR S3667) To reform the estate tax to avoid subjecting thousands of families, family businesses, and family farms and ranches to the estate tax, and to promote continued economic growth and job creation.
+- 2007-03-23 — Amendment SA 627 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 627 proposed by Senator Conrad for Senator Pryor. (consideration: CR S3698-3702; text: CR S3699) To provide additional funding for the Consumer Product Safety Commission to enhance its mission of protecting the public from unreasonable risks of serious injury or death from consumer products.
+- 2007-03-23 — Amendment SA 629 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 629 proposed by Senator Conrad for Senator Snowe. (consideration: CR S3698-3702; text as modified: CR S3700) To provide the use of the deficit-neutral reserve fund for tax relief for reauthorizing the new markets tax credit for an additional 5 years.
+- 2007-03-23 — Amendment SA 632 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 632 proposed by Senator Conrad for Senator Levin. (consideration: CR S3698-3702; text: CR S3698) To provide for a deficit-neutral reserve fund for manufacturing initiatives.
+- 2007-03-23 — Amendment SA 633 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 633 proposed by Senator Conrad for Senator Dole. (consideration: CR S3698-3702; text: CR S3700) To provide the Secretary of Agriculture with the necessary funding to effectively address the critical water and waste water needs of rural communities in the United States.
+- 2007-03-23 — Amendment SA 635 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 635 proposed by Senator Conrad for Senator Enzi. (consideration: CR S3698-3702; text: CR S3700) To provide for a deficit-neutral reserve fund to improve health insurance.
+- 2007-03-23 — Amendment SA 636 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 636 proposed by Senator Conrad for Senator Grassley. (consideration: CR S3698-3702; text: CR S3700) To establish a reserve fund to improve payment accuracy for hospitals under the Medicare program.
+- 2007-03-23 — Amendment SA 638 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 638 proposed by Senator Conrad for Senator Gregg. (consideration: CR S3686-3687; text: CR S3686-3687) To create a point of order against increasing mandatory spending in appropriations bills.
+- 2007-03-23 — Amendment SA 639 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 639 proposed by Senator Conrad for Senator Baucus. (consideration: CR S3698-3702; text: CR S3699-3700) To establish a reserve fund to improve the health care system.
+- 2007-03-23 — Amendment SA 640 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Amendment SA 640 proposed by Senator Conrad for Senator Dole. (consideration: CR S3698-3702; text: CR S3700-3701) To provide the Secretary of Agriculture with the necessary funding to implement a pilot program authorized by the Richard B. Russell National School Lunch Act to study the elimination of the reduced-price category for school lunches.
+- 2007-03-23 — Considered by Senate. (consideration: CR S3659, S3668-3669)
+- 2007-03-23 — Considered by Senate. (consideration: CR S3659-3702)
+- 2007-03-23 — Motion to waive the Budget Act with respect to amendment SA 521 rejected in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 104.
+- 2007-03-23 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments by Yea-Nay Vote. 52 - 47. Record Vote Number: 114.
+- 2007-03-23 — Point of order raised in Senate with respect to amendment SA 521.
+- 2007-03-23 — Proposed amendment SA 576 withdrawn in Senate.
+- 2007-03-23 — Proposed amendment SA 587 withdrawn in Senate.
+- 2007-03-23 — Resolution agreed to in Senate with amendments by Yea-Nay Vote. 52 - 47. Record Vote Number: 114.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 471 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 108.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 473 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 100.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 478 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 107.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 508 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 103.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 510 as modified agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 105.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 513 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 99.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 515 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 106.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 529 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 110.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 536 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 112.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 578 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 109.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 583 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 102.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 594 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 111.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 606 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 113.
+- 2007-03-23 — Roll call votes on amendments in Senate: Amendment SA 626 not agreed to in Senate by Yea-Nay Vote. 25 - 74. Record Vote Number: 101.
+- 2007-03-23 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 521 rejected in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 104.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 465 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 470 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 490 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 499 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 506 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 510 as modified agreed to in Senate by Yea-Nay Vote. 59 - 40. Record Vote Number: 105.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 518 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 519 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 522 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 524 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 528 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 529 agreed to in Senate by Yea-Nay Vote. 65 - 33. Record Vote Number: 110.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 530 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 534 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 537 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 540 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 544 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 546 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 548 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 551 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 553 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 572 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 574 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 580 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 581 agreed to in Senate by Voice Vote.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 589 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 596 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 599 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 600 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 601 agreed to in Senate by Voice Vote.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 602 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 611 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 613 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 614 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 615 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 616 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 617 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 619 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 620 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 621 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 622 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 623 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 627 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 629 as modified agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 632 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 633 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 635 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 636 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 638 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 639 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment agreed to: Amendment SA 640 agreed to in Senate by Unanimous Consent.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 471 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 108.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 473 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 100.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 478 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 107.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 508 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 103.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 513 not agreed to in Senate by Yea-Nay Vote. 38 - 61. Record Vote Number: 99.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 515 not agreed to in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 106.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 536 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 112.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 578 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 109.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 583 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 102.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 594 not agreed to in Senate by Yea-Nay Vote. 44 - 55. Record Vote Number: 111.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 606 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 113.
+- 2007-03-23 — Senate amendment not agreed to: Amendment SA 626 not agreed to in Senate by Yea-Nay Vote. 25 - 74. Record Vote Number: 101.
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 465 proposed by Senator Gregg for Senator Thune.(consideration: CR S3679; text: CR S3679)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 470 proposed by Senator Conrad for Senator Voinovich.(consideration: CR S3698-3702; text as modified: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 471 proposed by Senator Grassley.(consideration: CR S3679-3680; text: CR S3679)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 473 proposed by Senator Sessions.(consideration: CR S3666-3667; text: CR S3666-3667)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 478 proposed by Senator Graham.(consideration: CR S3678; text: CR S3678)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 490 proposed by Senator Conrad for Senator Reid.(consideration: CR S3673-3677, S3678; text as modified: CR S 3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 499 proposed by Senator Conrad for Senator Burr.(consideration: CR S3673-3677; text: CR S 3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 506 proposed by Senator Conrad for Senator Specter.(consideration: CR S3698-3702; text: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 508 proposed by Senator Hatch.(consideration: CR S3670-3671; text: CR S3670)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 510 proposed by Senator Smith.(consideration: CR S3672-3673; text as modified: CR S3672)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 513 proposed by Senator DeMint.(consideration: CR S3664-3665; text: CR S3664)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 515 proposed by Senator Thomas.(consideration: CR S3677; text: CR S3677)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 518 proposed by Senator Conrad for Senator Smith.(consideration: CR S3687-3698; text: CR S3687)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 519 proposed by Senator Conrad for Senator Lieberman.(consideration: CR S3673-3677; text: CR S 3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 521 proposed by Senator Allard.(consideration: CR S3671-3672; text: CR S3671-3672)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 522 proposed by Senator Coleman.(consideration: CR S385; text: CR S3685)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 524 proposed by Senator Conrad for Senator Obama.(consideration: CR S3698-3702; text: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 528 proposed by Senator Conrad for Senator Biden.(consideration: CR S3673-3677; text: CR S 3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 529 proposed by Senator Biden.(consideration: CR S3682-3683; text: CR S3682)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 530 proposed by Senator DeMint.(consideration: CR S3683; text: CR S3683)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 534 proposed by Senator DeMint.(consideration: CR S3683; text: CR S3683)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 536 proposed by Senator Chambliss.(consideration: CR S3684-3685; text: CR S3684)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 537 proposed by Senator Conrad for Senator Webb.(consideration: CR S3698-3702; text: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 540 proposed by Senator Conrad for Senator Carper.(consideration: CR S3698-3702; text: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 544 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S3698-3702; text: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 546 proposed by Senator Conrad for Senator Thune.(consideration: CR S3673-3677; text: CR S 3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 548 proposed by Senator Conrad for Senator Grassley.(consideration: CR S3698-3702; text: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 551 proposed by Senator Conrad for Senator Murkowski.(consideration: CR S3698-3702; text as modified: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 553 proposed by Senator Dole.(consideration: CR S3665; text: CR S3665)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 572 proposed by Senator Conrad for Senator Coleman.(consideration: CR S3698-3702; text: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 574 proposed by Senator Feinstein.(consideration: CR S3666; text: CR S3666)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 576 proposed by Senator DeMint.
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 578 proposed by Senator DeMint.(consideration: CR S3681-3682; text: CR S3681)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 580 proposed by Senator Conrad for Senator Nelson FL.(consideration: CR S3698-3702; text: CR S3698)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 581 proposed by Senator Brownback.(consideration: CR S3663; text: CR S3663)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 587 proposed by Senator Bingaman.(consideration: CR S3680-3681; text: CR S3680)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 589 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S3698-3702; text: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 594 proposed by Senator Bunning.(consideration: CR S3683-3684; text as modified: CR S3683)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 596 proposed by Senator Conrad for Senator Reed.(consideration: CR S3698-3702; text: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 599 proposed by Senator Conrad for Senator Obama.(consideration: CR S3698-3702; text: CR S3698)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 600 proposed by Senator Conrad for Senator Bingaman.(consideration: CR S3698-3702; text: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 601 proposed by Senator Pryor.(consideration: CR S3663; text: CR S3663)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 602 proposed by Senator Conrad for Senator Kennedy.(consideration: CR S3673-3677; text: CR S3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 606 proposed by Senator Lott.(consideration: CR S3685-3686; text: CR S3685-3686)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 611 proposed by Senator Conrad for Senator Pryor.(consideration: CR S3698-3702; text as modified: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 613 proposed by Senator Specter.(consideration: CR S3678-3679)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 614 proposed by Senator Conrad for Senator Graham.(consideration: CR S3673-3677; text: CR S 3674)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 615 proposed by Senator Conrad for Senator Kerry.(consideration: CR S3673-3677; text: CR S 3674)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 616 proposed by Senator Conrad for Senator Kerry.(consideration: CR S3673-3677; text: CR S 3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 617 proposed by Senator Conrad for Senator Casey.(consideration: CR S3698-3702; text: CR S3698-3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 619 proposed by Senator Conrad for Senator Chambliss.(consideration: CR S3673-3677; text: CR S 3673)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 620 proposed by Senator Conrad for Senator Warner.
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 621 proposed by Senator Bunning.(consideration: CR S3665; text: CR S3665)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 622 proposed by Senator Gregg.(consideration: CR S3662; text: CR S3662)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 623 proposed by Senator Conrad.(consideration: CR S3663-3664; text: CR S3663-3664)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 626 proposed by Senator Nelson NE.(consideration: CR S3667-3668; text: CR S3667)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 627 proposed by Senator Conrad for Senator Pryor.(consideration: CR S3698-3702; text: CR S3699)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 629 proposed by Senator Conrad for Senator Snowe.(consideration: CR S3698-3702; text as modified: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 632 proposed by Senator Conrad for Senator Levin.(consideration: CR S3698-3702; text: CR S3698)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 633 proposed by Senator Conrad for Senator Dole.(consideration: CR S3698-3702; text: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 635 proposed by Senator Conrad for Senator Enzi.(consideration: CR S3698-3702; text: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 636 proposed by Senator Conrad for Senator Grassley.(consideration: CR S3698-3702; text: CR S3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 638 proposed by Senator Conrad for Senator Gregg.(consideration: CR S3686-3687; text: CR S3686-3687)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 639 proposed by Senator Conrad for Senator Baucus.(consideration: CR S3698-3702; text: CR S3699-3700)
+- 2007-03-23 — Senate amendment proposed (on the floor): Amendment SA 640 proposed by Senator Conrad for Senator Dole.(consideration: CR S3698-3702; text: CR S3700-3701)
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-23 — Senate amendment submitted
+- 2007-03-28 — Held at the desk.
+- 2007-03-28 — Message on Senate action sent to the House.
+- 2007-03-28 — Received in the House.
+- 2007-05-03 — Rules Committee Resolution H. Res. 370 Reported to House. Rule provides for consideration of S. Con. Res. 21. Upon the adoption of this resolution, it shall be in order to consider in the House, S. Con. Res. 21. All points of order against consideration of the concurrent resolution are waived. The concurrent resolution shall be considered as read. It shall be in order to strike out all after the resolving clause of S. Con. Res. 21 and insert in lieu thereof the provisions of H. Con. Res. 99 as adopted by the House. It shall then be in order for the House to insist on its amendment to S. Con. Res. 21 and to ask for a conference.
+- 2007-05-08 — Considered as unfinished business. (consideration: CR H4608, H4609)
+- 2007-05-08 — Considered under the provisions of rule H. Res. 370. (consideration: CR H4568-4592, H4608)
+- 2007-05-08 — DEBATE - The House proceeded with one hour of debate on the Ryan of Wisconsin motion to instruct conferees on S.Con.Res. 21. The instructions contained in the motion seek to require the managers on the part of the House to recede from the revenue levels set forth in the House amendment and insist on the policy statement in section 401.
+- 2007-05-08 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2007-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-08 — Mr. Ryan (WI) moved that the House instruct conferees. (consideration: CR H4584; text: CR H4584)
+- 2007-05-08 — Mr. Spratt moved that the House insist upon its amendment, and request a conference.
+- 2007-05-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 212 - 207 (Roll no. 307). (text: CR H4577-4583)
+- 2007-05-08 — On motion that the House insist upon its amendment, and request a conference Agreed to without objection. (consideration: CR H4584)
+- 2007-05-08 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 364 - 57 (Roll no. 308). (consideration: CR H4608)
+- 2007-05-08 — POSTPONED PROCEEDINGS - At the conclusion of the debate on the Ryan of Wisconsin motion to instruct conferees on S.Con.Res. 21, the Chair put the question on adoption of the motion and by voice vote, announced that the noes had prevailed. Mr. Ryan demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until later in the legislative day.
+- 2007-05-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 212 - 207 (Roll no. 307).(text: CR H4577-4583)
+- 2007-05-08 — Rule H. Res. 370 passed House.
+- 2007-05-08 — Rule provides for consideration of S. Con. Res. 21. Upon the adoption of this resolution, it shall be in order to consider in the House, S. Con. Res. 21. All points of order against consideration of the concurrent resolution are waived. The concurrent resolution shall be considered as read. It shall be in order to strike out all after the resolving clause of S. Con. Res. 21 and insert in lieu thereof the provisions of H. Con. Res. 99 as adopted by the House. It shall then be in order for the House to insist on its amendment to S. Con. Res. 21 and to ask for a conference.
+- 2007-05-08 — The House struck all after the enacting clause and inserted in lieu thereof the provisions of a similar measure H. Con. Res. 99. Agreed to without objection.
+- 2007-05-08 — The Speaker appointed conferees: Spratt, DeLauro, Edwards, Ryan (WI), and Barrett (SC).
+- 2007-05-08 — The previous question was ordered without objection. (consideration: CR H4592)
