@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1642
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1642
@@ -20,9 +20,10 @@ Homeless Veterans Housing at Sepulveda Ambulatory Care Center Promotion Act
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Homeless Veterans Housing at Sepulveda Ambulatory Care Center Promotion Act
 - 2007-05-07 — Mr. Filner moved to suspend the rules and pass the bill.
 - 2007-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4516)
 - 2007-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4516)
+- 2007-05-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
