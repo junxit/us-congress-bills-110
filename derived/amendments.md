@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2080
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking section 452 (sec. 1—204.52, D.C. Official Code); and | the bill names no machine-readable US Code section |
-| — | strike | by striking section 495 (sec. 1—204.95, D.C. Official Code). | the bill names no machine-readable US Code section |
+| — | strike | by striking section 452 (sec. 1–204.52, D.C. Official Code); and | the bill names no machine-readable US Code section |
+| — | strike | by striking section 495 (sec. 1–204.95, D.C. Official Code). | the bill names no machine-readable US Code section |
 | — | strike | The table of contents of such Act is amended by striking the item relating to section 452 and the item relating to section 495. | the bill names no machine-readable US Code section |
