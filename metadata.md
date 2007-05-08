@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 105
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 105
@@ -16,7 +16,7 @@ Supporting the goals and ideals of a National Suffragists Day to promote awarene
 
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
 
-## Cosponsors (104)
+## Cosponsors (114)
 
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 - Rep. Baca, Joe [D-CA-43] (B001234)
@@ -122,6 +122,16 @@ Supporting the goals and ideals of a National Suffragists Day to promote awarene
 - Rep. Moran, James P. [D-VA-8] (M000933)
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 - Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Fallin, Mary [R-OK-5] (F000453)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Wilson, Heather [R-NM-1] (W000789)
+- Rep. Pryce, Deborah [R-OH-15] (P000555)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 
 ## Committees (1)
 
@@ -132,3 +142,11 @@ Supporting the goals and ideals of a National Suffragists Day to promote awarene
 - 2007-03-29 — Introduced in House
 - 2007-03-29 — Introduced in House
 - 2007-03-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-05-01 — Committee Consideration and Mark-up Session Held.
+- 2007-05-01 — Ordered to be Reported by Voice Vote.
+- 2007-05-08 — Considered under suspension of the rules. (consideration: CR H4616-4618)
+- 2007-05-08 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 105.
+- 2007-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-08 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-05-08 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4616-4617)
+- 2007-05-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4616-4617)
