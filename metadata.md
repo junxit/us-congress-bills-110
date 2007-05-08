@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 124
 congress: 110
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 124
@@ -49,3 +49,5 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2007-05-07 — Placed on the House Calendar, Calendar No. 51.
 - 2007-05-07 — Reported by the Committee on Transportation. H. Rept. 110-123.
 - 2007-05-07 — Reported by the Committee on Transportation. H. Rept. 110-123.
+- 2007-05-08 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.
+- 2007-05-08 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.
