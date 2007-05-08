@@ -1,7 +1,7 @@
 ---
 measure: H.R. 487
 congress: 110
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

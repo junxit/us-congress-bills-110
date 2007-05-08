@@ -1,7 +1,7 @@
 ---
 measure: H.R. 487
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 487
@@ -16,9 +16,10 @@ Cheyenne River Sioux Tribe Equitable Compensation Amendments Act of 2007
 
 - Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Cheyenne River Sioux Tribe Equitable Compensation Amendments Act of 2007
 - 2007-05-07 — Placed on the Union Calendar, Calendar No. 77.
 - 2007-05-07 — Reported by the Committee on Natural Resources. H. Rept. 110-128.
 - 2007-05-07 — Reported by the Committee on Natural Resources. H. Rept. 110-128.
+- 2007-05-08 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
