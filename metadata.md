@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1080
 congress: 110
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1080
@@ -45,3 +45,4 @@ Grand Teton National Park Extension Act of 2007
 - 2007-05-07 — Placed on the Union Calendar, Calendar No. 76.
 - 2007-05-07 — Reported by the Committee on Natural Resources. H. Rept. 110-127.
 - 2007-05-07 — Reported by the Committee on Natural Resources. H. Rept. 110-127.
+- 2007-05-08 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 142.
