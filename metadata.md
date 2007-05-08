@@ -1,7 +1,7 @@
 ---
 measure: H.R. 407
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 407
@@ -20,9 +20,10 @@ Columbia-Pacific National Heritage Area Study Act
 
 - Rep. Wu, David [D-OR-1] (W000793)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Columbia-Pacific National Heritage Area Study Act
 - 2007-05-07 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
 - 2007-05-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 294 - 80 (Roll no. 302). (text: CR H4499)
 - 2007-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 294 - 80 (Roll no. 302).(text: CR H4499)
+- 2007-05-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
