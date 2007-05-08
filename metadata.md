@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 79
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 79
@@ -33,3 +33,10 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2007-03-05 — Introduced in House
 - 2007-03-05 — Introduced in House
 - 2007-03-05 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-03-06 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-05-02 — Committee Consideration and Mark-up Session Held.
+- 2007-05-02 — Ordered to be Reported by Voice Vote.
+- 2007-05-02 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2007-05-08 — Placed on the House Calendar, Calendar No. 54.
+- 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-133.
+- 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-133.
