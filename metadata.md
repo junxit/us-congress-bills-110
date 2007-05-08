@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 352
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 352
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Public Works Week.
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (20)
+## Cosponsors (23)
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
@@ -38,6 +38,9 @@ Supporting the goals and ideals of National Public Works Week.
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 - Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Filner, Bob [D-CA-51] (F000116)
 
 ## Committees (1)
 
@@ -48,3 +51,8 @@ Supporting the goals and ideals of National Public Works Week.
 - 2007-05-01 — Introduced in House
 - 2007-05-01 — Introduced in House
 - 2007-05-01 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-05-02 — Committee Consideration and Mark-up Session Held.
+- 2007-05-02 — Ordered to be Reported by Voice Vote.
+- 2007-05-08 — Placed on the House Calendar, Calendar No. 56.
+- 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-135.
+- 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-135.
