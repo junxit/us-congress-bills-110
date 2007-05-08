@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 377
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 377
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 1294) to extend Federal recognitio
 - 2007-05-07 — Placed on the House Calendar, Calendar No. 52.
 - 2007-05-07 — The House Committee on Rules reported an original measure, H. Rept. 110-130, by Mr. Hastings (FL).
 - 2007-05-07 — The House Committee on Rules reported an original measure, H. Rept. 110-130, by Mr. Hastings (FL).
+- 2007-05-08 — Considered as privileged matter. (consideration: CR H4562-4567)
+- 2007-05-08 — DEBATE - The House proceeded with one hour of debate on H. Res. 377.
+- 2007-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-08 — On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 186 (Roll no. 305). (text: CR H4562)
+- 2007-05-08 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 228 - 186 (Roll no. 305).(text: CR H4562)
+- 2007-05-08 — The previous question was ordered without objection. (consideration: CR H4566-4567)
