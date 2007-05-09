@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1595
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1595
@@ -82,9 +82,10 @@ Guam World War II Loyalty Recognition Act
 - Rep. Matsui, Doris O. [D-CA-5] (M001163)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -104,3 +105,4 @@ Guam World War II Loyalty Recognition Act
 - 2007-05-08 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 133 (Roll no. 309). (text: CR 5/7/2007 H4495-4496)
 - 2007-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 288 - 133 (Roll no. 309).(text: CR 5/7/2007 H4495-4496)
+- 2007-05-09 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
