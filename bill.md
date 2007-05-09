@@ -38,8 +38,7 @@ Section 1303 of the Housing and Community Development Act of 1992 (12 U.S.C. 450
   >       - **(II)** any breach of fiduciary duty; or
   >       - **(III)** any unsafe or unsound practice; and
   >     - **(ii)** such violation, breach, or practice caused, or is likely to cause, more than a minimal financial loss to, or a significant adverse effect on, the regulated entity; and
-
-  > - **(D)** any not-for-profit corporation that receives its principal funding, on an ongoing basis, from any regulated entity.
+  >   - **(D)** any not-for-profit corporation that receives its principal funding, on an ongoing basis, from any regulated entity.
 
 - **(8)** by redesignating paragraphs (8) through (13) as paragraphs (12) through (17), respectively; and
 - **(9)** by inserting after paragraph (7) the following new paragraph:
