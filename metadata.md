@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 117
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 117
@@ -96,9 +96,10 @@ Commemorating the 400th Anniversary of the settlement of Jamestown.
 - Rep. Fossella, Vito [R-NY-13] (F000440)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -113,3 +114,4 @@ Commemorating the 400th Anniversary of the settlement of Jamestown.
 - 2007-05-08 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
 - 2007-05-08 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4609-4610)
 - 2007-05-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4609-4610)
+- 2007-05-09 — Received in the Senate and referred to the Committee on the Judiciary.
