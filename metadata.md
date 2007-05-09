@@ -1,7 +1,7 @@
 ---
 measure: H.R. 401
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 401
@@ -35,3 +35,8 @@ National Capital Transportation Amendments Act of 2007
 - 2007-01-11 — Introduced in House
 - 2007-01-11 — Introduced in House
 - 2007-01-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-04-18 — Committee Consideration and Mark-up Session Held.
+- 2007-04-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-05-09 — Placed on the Union Calendar, Calendar No. 83.
+- 2007-05-09 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-141.
+- 2007-05-09 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-141.
