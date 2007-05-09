@@ -1,7 +1,7 @@
 ---
 measure: S. 1082
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1082
@@ -16,9 +16,128 @@ Food and Drug Administration Revitalization Act
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
+## Cosponsors (104)
+
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Vitter, David [R-LA] (V000127)
+
 ## Committees (1)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+
+## Recorded votes (9)
+
+- 2007-05-02 — [Senate 110-1-148](votes/senate-110-1-0148.md) — On the Amendment — **Amendment Rejected** (41–53)
+- 2007-05-02 — [Senate 110-1-149](votes/senate-110-1-0149.md) — On the Amendment — **Amendment Agreed to** (94–0)
+- 2007-05-03 — [Senate 110-1-150](votes/senate-110-1-0150.md) — On the Cloture Motion — **Cloture Motion Agreed to** (63–28)
+- 2007-05-07 — [Senate 110-1-151](votes/senate-110-1-0151.md) — On the Amendment — **Amendment Agreed to** (49–40)
+- 2007-05-07 — [Senate 110-1-152](votes/senate-110-1-0152.md) — On the Cloture Motion — **Cloture Motion Agreed to** (82–8)
+- 2007-05-09 — [Senate 110-1-154](votes/senate-110-1-0154.md) — On the Amendment — **Amendment Rejected** (46–47)
+- 2007-05-09 — [Senate 110-1-155](votes/senate-110-1-0155.md) — On the Amendment — **Amendment Agreed to** (64–30)
+- 2007-05-09 — [Senate 110-1-156](votes/senate-110-1-0156.md) — On the Amendment — **Amendment Rejected** (47–47)
+- 2007-05-09 — [Senate 110-1-157](votes/senate-110-1-0157.md) — On Passage of the Bill — **Bill Passed** (93–1)
 
 ## Actions
 
@@ -28,3 +147,241 @@ Food and Drug Administration Revitalization Act
 - 2007-04-24 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2007-04-24 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2007-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 120.
+- 2007-04-30 — Measure laid before Senate by unanimous consent. (consideration: CR S5270-5303; text of measure as reported in Senate: CR S5270-5294)
+- 2007-04-30 — Senate amendment submitted
+- 2007-05-01 — Amendment SA 1004 proposed by Senator Landrieu. (consideration: CR S5375-5376, S5380; text: CR S5375) To require the Food and Drug Administration to permit the sale of baby turtles as pets so long as the seller uses proven methods to effectively treat salmonella.
+- 2007-05-01 — Amendment SA 990 proposed by Senator Dorgan. (consideration: CR S5380-5385, S5387-5388) To provide for the importation of prescription drugs.
+- 2007-05-01 — Cloture motion on amendment SA 990 presented in Senate. (consideration: CR S5387-5388)
+- 2007-05-01 — Considered by Senate. (consideration: CR S5325-5329, S5332-5362, S5367, S5368-5371, S5372-5379, S5380-5385, S5387-5388)
+- 2007-05-01 — Senate amendment proposed (on the floor): Amendment SA 1004 proposed by Senator Landrieu.(consideration: CR S5375-5376, S5380; text: CR S5375)
+- 2007-05-01 — Senate amendment proposed (on the floor): Amendment SA 990 proposed by Senator Dorgan.(consideration: CR S5380-5385, S5387-5388)
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — Senate amendment submitted
+- 2007-05-01 — The committee reported substitute amendment was modified by Unanimous Consent. (text as modified: CR S5333-5361)
+- 2007-05-02 — Amendment SA 1010 proposed by Senator Cochran to Amendment SA 990. (consideration: CR S5444-5445, S5490; text: CR S5444) To protect the health and safety of the public.
+- 2007-05-02 — Amendment SA 1011 proposed by Senator Stabenow. (consideration: CR S5453-5455, S5474, S5490-5491; text: CR S5453-5454) To insert provisions related to citizens petitions.
+- 2007-05-02 — Amendment SA 1018 agreed to in Senate by Unanimous Consent.
+- 2007-05-02 — Amendment SA 1018 proposed by Senator DeMint. (consideration: CR S5469-5470, S5471-5472; text: CR S5469) To amend the notification provision with respect to drugs deemed to have risk evaluation and mitigation strategies.
+- 2007-05-02 — Amendment SA 1022 as modified agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 149. (text as modified: CR S5481)
+- 2007-05-02 — Amendment SA 1022 proposed by Senator Durbin. (consideration: CR S5478-5482) To ensure the safety of human and pet food.
+- 2007-05-02 — Amendment SA 1025 agreed to in Senate by Voice Vote.
+- 2007-05-02 — Amendment SA 1025 proposed by Senator Schumer. (consideration: CR S5485; text: CR S5485) To express the sense of the Senate with respect to follow-on biologics.
+- 2007-05-02 — Amendment SA 982 not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 148.
+- 2007-05-02 — Amendment SA 982 proposed by Senator Allard. (consideration: CR S5445-5452, S5455-5461; text: CR S5445) To strike provisions related to market exclusivity.
+- 2007-05-02 — Amendment SA 983 proposed by Senator Vitter. (consideration: CR S5482-5485; text: CR S5482-5483) To require counterfeit-resistant technologies for prescription drugs.
+- 2007-05-02 — Amendment SA 985 proposed by Senator Brown for Senator Brownback. (consideration: CR S5473-5474; text: CR S5473-5474) To establish a priority drug review process to encourage treatments of tropical diseases.
+- 2007-05-02 — Amendment SA 988 proposed by Senator Inhofe. (consideration: CR S5487-5488; text: CR S5487-5488) To protect children and their parents from being coerced into administering a controlled substance in order to attend school, and for other purposes.
+- 2007-05-02 — Amendment SA 993 proposed by Senator Gregg. (consideration: CR S5488-5490) To provide for the regulation of Internet pharmacies.
+- 2007-05-02 — Considered by Senate. (consideration: CR S5444)
+- 2007-05-02 — Considered by Senate. (consideration: CR S5444, S5452-5453, S5461-5469, S5470-5471, S5472-5473, S5474-5478)
+- 2007-05-02 — Considered by Senate. (consideration: CR S5444-5485, S5486-5492)
+- 2007-05-02 — Roll call votes on amendments in Senate: Amendment SA 1022 as modified agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 149.(text as modified: CR S5481)
+- 2007-05-02 — Roll call votes on amendments in Senate: Amendment SA 982 not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 148.
+- 2007-05-02 — Senate amendment agreed to: Amendment SA 1018 agreed to in Senate by Unanimous Consent.
+- 2007-05-02 — Senate amendment agreed to: Amendment SA 1022 as modified agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 149.(text as modified: CR S5481)
+- 2007-05-02 — Senate amendment agreed to: Amendment SA 1025 agreed to in Senate by Voice Vote.
+- 2007-05-02 — Senate amendment not agreed to: Amendment SA 982 not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 148.
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 1010 proposed by Senator Cochran to Amendment SA 990.(consideration: CR S5444-5445, S5490; text: CR S5444)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 1011 proposed by Senator Stabenow.(consideration: CR S5453-5455, S5474, S5490-5491; text: CR S5453-5454)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 1018 proposed by Senator DeMint.(consideration: CR S5469-5470, S5471-5472; text: CR S5469)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 1022 proposed by Senator Durbin.(consideration: CR S5478-5482)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 1025 proposed by Senator Schumer.(consideration: CR S5485; text: CR S5485)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 982 proposed by Senator Allard.(consideration: CR S5445-5452, S5455-5461; text: CR S5445)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 983 proposed by Senator Vitter.(consideration: CR S5482-5485; text: CR S5482-5483)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 985 proposed by Senator Brown for Senator Brownback.(consideration: CR S5473-5474; text: CR S5473-5474)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 988 proposed by Senator Inhofe.(consideration: CR S5487-5488; text: CR S5487-5488)
+- 2007-05-02 — Senate amendment proposed (on the floor): Amendment SA 993 proposed by Senator Gregg.(consideration: CR S5488-5490)
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-02 — Senate amendment submitted
+- 2007-05-03 — Cloture motion on the committee substitute amendment as modified presented in Senate. (consideration: CR S5556-5557)
+- 2007-05-03 — Cloture motion on the measure presented in Senate. (consideration: CR S5557)
+- 2007-05-03 — Cloture on amendment SA 990 invoked in Senate by Yea-Nay Vote. 63 - 28. Record Vote Number: 150. (consideration: CR S5531-5532)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526, S5532)
+- 2007-05-03 — Considered by Senate. (consideration: CR S5526-5558)
+- 2007-05-03 — Roll call votes on amendments in Senate: Cloture on amendment SA 990 invoked in Senate by Yea-Nay Vote. 63 - 28. Record Vote Number: 150.(consideration: CR S5531-5532)
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-03 — Senate amendment submitted
+- 2007-05-07 — Amendment SA 1010 agreed to in Senate by Yea-Nay Vote. 49 - 40. Record Vote Number: 151.
+- 2007-05-07 — Amendment SA 990 agreed to in Senate by Voice Vote.
+- 2007-05-07 — Cloture on the committee substitute amendment as modified invoked in Senate by Yea-Nay Vote. 82 - 8. Record Vote Number: 152. (consideration: CR S5641-5642; text: CR S5641)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634, S5637-5641)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634, S5641)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634, S5647-5650)
+- 2007-05-07 — Considered by Senate. (consideration: CR S5634-5651)
+- 2007-05-07 — Roll call votes on amendments in Senate: Amendment SA 1010 agreed to in Senate by Yea-Nay Vote. 49 - 40. Record Vote Number: 151.
+- 2007-05-07 — Senate amendment agreed to: Amendment SA 1010 agreed to in Senate by Yea-Nay Vote. 49 - 40. Record Vote Number: 151.
+- 2007-05-07 — Senate amendment agreed to: Amendment SA 990 agreed to in Senate by Voice Vote.
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-07 — Senate amendment submitted
+- 2007-05-08 — Amendment SA 1004 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5702)
+- 2007-05-08 — Amendment SA 1005 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5702)
+- 2007-05-08 — Amendment SA 1005 proposed by Senator Brown for Senator Levin. (consideration: CR S5699-5705) To require the Food and Drug Administration to determine whether certain substances create any health risks and mislead consumers.
+- 2007-05-08 — Amendment SA 1006 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5702)
+- 2007-05-08 — Amendment SA 1006 proposed by Senator Brown for Senator Murkowski. (consideration: CR S5699-5705) To modify provisions relating to required experience or certification for prescribing or dispensing certain drugs, and for other purposes.
+- 2007-05-08 — Amendment SA 1009 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5700-5701)
+- 2007-05-08 — Amendment SA 1009 proposed by Senator Brown for Senator Hatch. (consideration: CR S5699-5705) To insert provisions relating to antibiotic access and innovation and certain enantiomer drugs.
+- 2007-05-08 — Amendment SA 1011 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5699-5700)
+- 2007-05-08 — Amendment SA 1019 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Amendment SA 1019 proposed by Senator Brown for Senator Casey. (consideration: CR S5699-5705; text: CR S5702) To express the sense of the Senate concerning orphan disease treatment in children.
+- 2007-05-08 — Amendment SA 1026 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5701)
+- 2007-05-08 — Amendment SA 1026 proposed by Senator Brown for Senator Feingold. (consideration: CR S5699-5705) To require the Food and Drug Administration to publish certain annual reports.
+- 2007-05-08 — Amendment SA 1034 proposed by Senator Brown for Senator Durbin. (consideration: CR S5705-5706; text: CR S5705-5706) To reduce financial conflict of interest in FDA Advisory Panels.
+- 2007-05-08 — Amendment SA 1039 proposed by Senator Brown for Senator Grassley. (consideration: CR S5705-5706; text: CR S5705) To clarify the authority of the Office of Surveillance and Epidemiology with respect to postmarket drug safety pursuant to recommendations by the Institute of Medicine.
+- 2007-05-08 — Amendment SA 1041 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5702)
+- 2007-05-08 — Amendment SA 1041 proposed by Senator Brown for Senator Obama. (consideration: CR S5699-5705) To improve the safety and efficacy of genetic tests.
+- 2007-05-08 — Amendment SA 1047 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Amendment SA 1047 proposed by Senator Brown for Senator Roberts. (consideration: CR S5699-5705; text: CR S5704-5705) To modify provisions relating to direct-to-consumer advertisements.
+- 2007-05-08 — Amendment SA 1049 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5703-5704)
+- 2007-05-08 — Amendment SA 1049 proposed by Senator Brown for Senator Enzi. (consideration: CR S5699-5705) To modify provisions relating to user fees, and for other purposes.
+- 2007-05-08 — Amendment SA 1050 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Amendment SA 1050 proposed by Senator Brown for Senator Enzi. (consideration: CR S5699-5705; text: CR S5703) To provide for color certification reports.
+- 2007-05-08 — Amendment SA 1053 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Amendment SA 1053 proposed by Senator Brown for Senator Enzi. (consideration: CR S5699-5705; text: CR S5702-5703) to modify provisions related to pediatric testing and medical products.
+- 2007-05-08 — Amendment SA 1056 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Amendment SA 1056 proposed by Senator Brown for Senator Reed. (consideration: CR S5699-5705; text: CR S5705) To require the FDA to conduct consumer testing to determine the appropriateness of the labeling requirements for indoor tanning devices.
+- 2007-05-08 — Amendment SA 985 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5699)
+- 2007-05-08 — Amendment SA 987 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S5701-5702)
+- 2007-05-08 — Amendment SA 987 proposed by Senator Brown for Senator Inhofe. (consideration: CR S5699-5705) To amend the Head Start Act to require parental consent for nonemergency intrusive physical examinations.
+- 2007-05-08 — Amendment SA 998 proposed by Senator Brown for Senator Grassley. (consideration: CR S5705-5706; text: CR S5705) To provide for the application of stronger civil penalties for violations of approved risk evaluation and mitigation strategies.
+- 2007-05-08 — Considered by Senate. (consideration: CR S5682)
+- 2007-05-08 — Considered by Senate. (consideration: CR S5682)
+- 2007-05-08 — Considered by Senate. (consideration: CR S5682, S5699-5705)
+- 2007-05-08 — Considered by Senate. (consideration: CR S5682, S5699-5705)
+- 2007-05-08 — Considered by Senate. (consideration: CR S5682, S5699-5705)
+- 2007-05-08 — Considered by Senate. (consideration: CR S5682, S5707)
+- 2007-05-08 — Considered by Senate. (consideration: CR S5682-5686, S5689-5707)
+- 2007-05-08 — Proposed amendment SA 983 withdrawn in Senate.
+- 2007-05-08 — Proposed amendment SA 988 withdrawn in Senate.
+- 2007-05-08 — Proposed amendment SA 993 withdrawn in Senate.
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1004 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5702)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1005 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5702)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1006 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5702)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1009 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5700-5701)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1011 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5699-5700)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1019 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1026 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5701)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1041 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5702)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1047 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1049 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5703-5704)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1050 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1053 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 1056 agreed to in Senate by Unanimous Consent.
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 985 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5699)
+- 2007-05-08 — Senate amendment agreed to: Amendment SA 987 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S5701-5702)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1005 proposed by Senator Brown for Senator Levin.(consideration: CR S5699-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1006 proposed by Senator Brown for Senator Murkowski.(consideration: CR S5699-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1009 proposed by Senator Brown for Senator Hatch.(consideration: CR S5699-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1019 proposed by Senator Brown for Senator Casey.(consideration: CR S5699-5705; text: CR S5702)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1026 proposed by Senator Brown for Senator Feingold.(consideration: CR S5699-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1034 proposed by Senator Brown for Senator Durbin.(consideration: CR S5705-5706; text: CR S5705-5706)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1039 proposed by Senator Brown for Senator Grassley.(consideration: CR S5705-5706; text: CR S5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1041 proposed by Senator Brown for Senator Obama.(consideration: CR S5699-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1047 proposed by Senator Brown for Senator Roberts.(consideration: CR S5699-5705; text: CR S5704-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1049 proposed by Senator Brown for Senator Enzi.(consideration: CR S5699-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1050 proposed by Senator Brown for Senator Enzi.(consideration: CR S5699-5705; text: CR S5703)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1053 proposed by Senator Brown for Senator Enzi.(consideration: CR S5699-5705; text: CR S5702-5703)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 1056 proposed by Senator Brown for Senator Reed.(consideration: CR S5699-5705; text: CR S5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 987 proposed by Senator Brown for Senator Inhofe.(consideration: CR S5699-5705)
+- 2007-05-08 — Senate amendment proposed (on the floor): Amendment SA 998 proposed by Senator Brown for Senator Grassley.(consideration: CR S5705-5706; text: CR S5705)
+- 2007-05-08 — Senate amendment submitted
+- 2007-05-08 — Senate amendment submitted
+- 2007-05-08 — Senate amendment submitted
+- 2007-05-08 — Senate amendment submitted
+- 2007-05-09 — Amendment SA 1034 not agreed to in Senate by Yea-Nay Vote. 47 - 47. Record Vote Number: 156.
+- 2007-05-09 — Amendment SA 1039 not agreed to in Senate by Yea-Nay Vote. 46 - 47. Record Vote Number: 154.
+- 2007-05-09 — Amendment SA 998 agreed to in Senate by Yea-Nay Vote. 64 - 30. Record Vote Number: 155.
+- 2007-05-09 — Cloture motion on the bill withdrawn by unanimous consent in Senate.
+- 2007-05-09 — Considered by Senate. (consideration: CR S5759, S5765-5768, S5770-5771, S5772-5773)
+- 2007-05-09 — Considered by Senate. (consideration: CR S5759, S5768-5769, S5771-5772)
+- 2007-05-09 — Considered by Senate. (consideration: CR S5759, S5769-5770, S5772)
+- 2007-05-09 — Considered by Senate. (consideration: CR S5759-5824)
+- 2007-05-09 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 93 - 1. Record Vote Number: 157. (text: CR S5773-5822)
+- 2007-05-09 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 93 - 1. Record Vote Number: 157.(text: CR S5773-5822)
+- 2007-05-09 — Roll call votes on amendments in Senate: Amendment SA 1034 not agreed to in Senate by Yea-Nay Vote. 47 - 47. Record Vote Number: 156.
+- 2007-05-09 — Roll call votes on amendments in Senate: Amendment SA 1039 not agreed to in Senate by Yea-Nay Vote. 46 - 47. Record Vote Number: 154.
+- 2007-05-09 — Roll call votes on amendments in Senate: Amendment SA 998 agreed to in Senate by Yea-Nay Vote. 64 - 30. Record Vote Number: 155.
+- 2007-05-09 — Senate amendment agreed to: Amendment SA 998 agreed to in Senate by Yea-Nay Vote. 64 - 30. Record Vote Number: 155.
+- 2007-05-09 — Senate amendment not agreed to: Amendment SA 1034 not agreed to in Senate by Yea-Nay Vote. 47 - 47. Record Vote Number: 156.
+- 2007-05-09 — Senate amendment not agreed to: Amendment SA 1039 not agreed to in Senate by Yea-Nay Vote. 46 - 47. Record Vote Number: 154.
+- 2007-05-09 — The committee substitute as amended agreed to by Unanimous Consent.
