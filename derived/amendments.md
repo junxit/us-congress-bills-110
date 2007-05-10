@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2080
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
