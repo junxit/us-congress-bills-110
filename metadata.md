@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 387
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 387
@@ -16,6 +16,15 @@ Providing for consideration of the bill (H.R. 2237) to provide for the redeploym
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2007-05-10 — [House 110-1-326](votes/house-110-1-0326.md) — On Ordering the Previous Question — **Passed** (222–201)
+- 2007-05-10 — [House 110-1-327](votes/house-110-1-0327.md) — On Agreeing to the Resolution — **Passed** (219–199)
+
 ## Actions
 
 - 2007-05-09 — Introduced in House
@@ -23,3 +32,11 @@ Providing for consideration of the bill (H.R. 2237) to provide for the redeploym
 - 2007-05-09 — Rule provides for consideration of H.R. 2237, H.R. 2206 and H.R. 2207.
 - 2007-05-09 — The House Committee on Rules reported an original measure, H. Rept. 110-143, by Ms. Slaughter.
 - 2007-05-09 — The House Committee on Rules reported an original measure, H. Rept. 110-143, by Ms. Slaughter.
+- 2007-05-10 — Considered as privileged matter. (consideration: CR H4772-4779)
+- 2007-05-10 — Considered as unfinished business. (consideration: CR 5/11/2007 H4794-4795)
+- 2007-05-10 — DEBATE - The House proceeded with one hour of debate on H. Res. 387.
+- 2007-05-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-10 — On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 199 (Roll no. 327). (text: CR H4772)
+- 2007-05-10 — On ordering the previous question Agreed to by the Yeas and Nays: 222 - 201 (Roll no. 326). (consideration: CR H4779)
+- 2007-05-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res 387, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. Dreier demanded the yeas and nays and the Chair postponed further proceeding on ordering the previous question until later in the legislative day.
+- 2007-05-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 219 - 199 (Roll no. 327).(text: CR H4772)
