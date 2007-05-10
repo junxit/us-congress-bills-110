@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2080
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2080
@@ -40,3 +40,14 @@ To amend the District of Columbia Home Rule Act to conform the District charter 
 - 2007-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4618)
 - 2007-05-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-05-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.
+- 2007-05-22 — Cleared for White House.
+- 2007-05-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6492; text as passed Senate: CR S6492)
+- 2007-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6492; text as passed Senate: CR S6492)
+- 2007-05-23 — Message on Senate action sent to the House.
+- 2007-05-31 — Presented to President.
+- 2007-05-31 — Presented to President.
+- 2007-06-01 — Became Public Law No: 110-33.
+- 2007-06-01 — Became Public Law No: 110-33.
+- 2007-06-01 — Signed by President.
+- 2007-06-01 — Signed by President.
+- 2008-03-14 — Committee on Homeland Security and Governmental Affairs Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia. Hearings held.
