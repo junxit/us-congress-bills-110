@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2080
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2080
@@ -38,3 +38,5 @@ To amend the District of Columbia Home Rule Act to conform the District charter 
 - 2007-05-08 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-05-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4618)
 - 2007-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4618)
+- 2007-05-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-05-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 145.
