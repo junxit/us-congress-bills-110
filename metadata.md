@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 180
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 180
@@ -28,3 +28,7 @@ A resolution recognizing the 70th anniversary of the Idaho Potato Commission and
 
 - 2007-05-01 — Introduced in Senate
 - 2007-05-01 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5400)
+- 2007-05-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6001-6002)
+- 2007-05-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6001-6002)
+- 2007-05-10 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6001-6002)
+- 2007-05-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6001-6002)
