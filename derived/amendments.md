@@ -1,7 +1,7 @@
 ---
 measure: H.R. 890
 congress: 110
-version: Introduced in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1001` | add-at-end | Title I of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 1638` | add-at-end | Section 128 of the Truth in Lending Act (15 U.S.C. 1638) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title I of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 128 of the Truth in Lending Act (15 U.S.C. 1638) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 131 of the Higher Education Act of 1965 (20 U.S.C. 1015) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
