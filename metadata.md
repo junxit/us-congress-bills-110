@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1873
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1873
@@ -48,10 +48,11 @@ Small Business Fairness in Contracting Act
 - Rep. Jordan, Jim [R-OH-4] (J000289)
 - Rep. Bean, Melissa L. [D-IL-8] (B001253)
 
-## Committees (2)
+## Committees (3)
 
 - House — Small Business Committee
 - House — Oversight and Accountability Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (5)
 
@@ -165,3 +166,4 @@ Small Business Fairness in Contracting Act
 - 2007-05-10 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR 5/9/2007 H4723-4727)
 - 2007-05-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1873.
 - 2007-05-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-05-11 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.

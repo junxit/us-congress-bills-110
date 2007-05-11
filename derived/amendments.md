@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1873
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 18 executed, 13 stated and not applied.
+31 amendatory instructions. 13 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,51 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 15 U.S.C. § 644
-
-> by striking “(2) why delivery schedules” and inserting “(2) the names, addresses and size of the incumbent contract holders; (3) a description of the industries that might be interested in bidding on the contract requirements; (4) the number of small businesses listed in the industry categories that could be excluded from future bidding if the contract is combined or packaged; (5) why delivery schedules”;
-
-| | |
-|---|---|
-| Removed | `(2) why delivery schedules` |
-| Inserted | `(2) the names, addresses and size of the incumbent contract holders; (3) a description of the industries that might be interested in bidding on the contract requirements; (4) the number of small businesses listed in the industry categories that could be excluded from future bidding if the contract is combined or packaged; (5) why delivery schedules` |
-
-### 15 U.S.C. § 644
-
-> by striking “(3) why the proposed acquisition” and inserting “(6) why the proposed acquisition”;
-
-| | |
-|---|---|
-| Removed | `(3) why the proposed acquisition` |
-| Inserted | `(6) why the proposed acquisition` |
-
-### 15 U.S.C. § 644
-
-> by striking “(4) why construction” and inserting “(7) why construction”;
-
-| | |
-|---|---|
-| Removed | `(4) why construction` |
-| Inserted | `(7) why construction` |
-
-### 15 U.S.C. § 644
-
-> by striking “(5) why the agency” and inserting “(8) why the agency”;
-
-| | |
-|---|---|
-| Removed | `(5) why the agency` |
-| Inserted | `(8) why the agency` |
-
-### 15 U.S.C. § 644
-
-> by striking “justified.” and inserting “justified. The statement shall also set forth the proposed procurement strategy required by subsection (e) and, if applicable, the specifications required by subsection (e)(3). The statement shall be made available to the public, including through dissemination in the Federal contracting opportunities database, concurrently with the issuance of the solicitation.”; and
-
-| | |
-|---|---|
-| Removed | `justified.` |
-| Inserted | `justified. The statement shall also set forth the proposed procurement strategy required by subsection (e) and, if applicable, the specifications required by subsection (e)(3). The statement shall be made available to the public, including through dissemination in the Federal contracting opportunities database, concurrently with the issuance of the solicitation.` |
 
 ### 15 U.S.C. § 644
 
@@ -114,7 +69,7 @@ to guess them.
 | Removed | `subsection (a) of section 8` |
 | Inserted | `section 8, 31, or 36` |
 
-### 15 U.S.C. § 644
+### 15 U.S.C. § 632
 
 > by striking “and small business concerns owned and controlled by women” both places such term appears and inserting “small business concerns owned and controlled by women, and green small business concerns”; and
 
@@ -123,7 +78,7 @@ to guess them.
 | Removed | `and small business concerns owned and controlled by women` |
 | Inserted | `small business concerns owned and controlled by women, and green small business concerns` |
 
-### 15 U.S.C. § 644
+### 15 U.S.C. § 632
 
 > by striking “and by small business concerns owned and controlled by women” both places such term appears and inserting “by small business concerns owned and controlled by women, and by green small business concerns”; and
 
@@ -132,7 +87,7 @@ to guess them.
 | Removed | `and by small business concerns owned and controlled by women` |
 | Inserted | `by small business concerns owned and controlled by women, and by green small business concerns` |
 
-### 15 U.S.C. § 644
+### 15 U.S.C. § 632
 
 > by striking “and small business concerns owned and controlled by women” and inserting “small business concerns owned and controlled by women, and green small business concerns”.
 
@@ -195,16 +150,21 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 632` | amend | Section 3 of the Small Business Act (15 U.S.C. 632) is amended by amending subsection (o) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | insert | by inserting after “prime contracting opportunities.” the following: “If no notification of the procurement and accompanying statement is received, but the Administrator determines that there is cause to believe the contract combines req… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | insert | Section 15(a) of the Small Business Act (15 U.S.C. 644(a)) is amended by inserting before “Whenever the Administration and the contracting procurement agency fail to agree,” the following: “If a small business concern would be adversely … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `41 U.S.C. § 403` | amend | Section 3 of the Small Business Act (15 U.S.C. 632) is amended by amending subsection (o) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “(2) why delivery schedules” and inserting “(2) the names, addresses and size of the incumbent contract holders; (3) a description of the industries that might be interested in bidding on the contract requirements; (4) the nu… | the bill names no machine-readable US Code section |
+| — | replace | by striking “(3) why the proposed acquisition” and inserting “(6) why the proposed acquisition”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “(4) why construction” and inserting “(7) why construction”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “(5) why the agency” and inserting “(8) why the agency”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “justified.” and inserting “justified. The statement shall also set forth the proposed procurement strategy required by subsection (e) and, if applicable, the specifications required by subsection (e)(3). The statement shall … | the bill names no machine-readable US Code section |
+| — | insert | by inserting after “prime contracting opportunities.” the following: “If no notification of the procurement and accompanying statement is received, but the Administrator determines that there is cause to believe the contract combines req… | the bill names no machine-readable US Code section |
+| — | insert | Section 15(a) of the Small Business Act (15 U.S.C. 644(a)) is amended by inserting before “Whenever the Administration and the contracting procurement agency fail to agree,” the following: “If a small business concern would be adversely … | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 644` | replace | Section 15(a) of the Small Business Act (15 U.S.C. 644(a)) is amended by striking the sentence beginning “Whenever the Administration and the contracting procurement agency fail to agree,” and inserting the following: “Whenever the Admin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | add-at-end | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | add-at-end | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | add-at-end | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 15(g) of the Small Business Act (15 U.S.C. 644(g)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 637` | add-at-end | Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 637` | add-at-end | Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | add-at-end | Section 15(h) of the Small Business Act (15 U.S.C. 644(h)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 644` | insert | by inserting before “Notwithstanding the Government-wide goal” the following: “The Government-wide goal for participation by green small business concerns shall be established at not less than 5 percent of the total value of all prime co… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 15(h) of the Small Business Act (15 U.S.C. 644(h)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 632` | insert | by inserting before “Notwithstanding the Government-wide goal” the following: “The Government-wide goal for participation by green small business concerns shall be established at not less than 5 percent of the total value of all prime co… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | add-at-end | Section 3 of that Act (15 U.S.C. 632) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | add-at-end | Section 3(a) of the Small Business Act (15 U.S.C. 632(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
