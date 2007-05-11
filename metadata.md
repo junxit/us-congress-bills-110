@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1684
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1684
@@ -29,9 +29,10 @@ Department of Homeland Security Authorization Act for Fiscal Year 2008
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -195,3 +196,4 @@ Department of Homeland Security Authorization Act for Fiscal Year 2008
 - 2007-05-09 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H4715)
 - 2007-05-09 — The previous question was ordered pursuant to the rule. (consideration: CR H4710)
 - 2007-05-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments debated earlier and on which further proceedings had been postponed.
+- 2007-05-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
