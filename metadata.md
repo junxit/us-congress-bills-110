@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 223
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 223
@@ -16,7 +16,7 @@ Supporting the goals and ideals of a National Day of Remembrance for Murder Vict
 
 - Rep. Shadegg, John B. [R-AZ-3] (S000275)
 
-## Cosponsors (34)
+## Cosponsors (59)
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Poe, Ted [R-TX-2] (P000592)
@@ -52,6 +52,31 @@ Supporting the goals and ideals of a National Day of Remembrance for Murder Vict
 - Rep. Davis, David [R-TN-1] (D000606)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
 - Rep. Weldon, Dave [R-FL-15] (W000267)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
+- Rep. Royce, Edward R. [R-CA-40] (R000487)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
 
 ## Committees (1)
 
@@ -62,3 +87,11 @@ Supporting the goals and ideals of a National Day of Remembrance for Murder Vict
 - 2007-03-07 — Introduced in House
 - 2007-03-07 — Introduced in House
 - 2007-03-07 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-05-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-14 — Considered as unfinished business. (consideration: CR H4931-4932)
+- 2007-05-14 — Considered under suspension of the rules. (consideration: CR H4920-4922)
+- 2007-05-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 223.
+- 2007-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-14 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-05-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 369 - 0 (Roll no. 343). (text: CR H4920)
+- 2007-05-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 369 - 0 (Roll no. 343).(text: CR H4920)
