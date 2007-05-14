@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1124
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1124
@@ -25,6 +25,10 @@ To extend the District of Columbia College Access Act of 1999.
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2007-05-14 — [House 110-1-342](votes/house-110-1-0342.md) — On Motion to Suspend the Rules and Pass — **Passed** (268–100)
+
 ## Actions
 
 - 2007-02-16 — Introduced in House
@@ -39,3 +43,11 @@ To extend the District of Columbia College Access Act of 1999.
 - 2007-04-30 — Placed on the Union Calendar, Calendar No. 66.
 - 2007-04-30 — Reported by the Committee on Oversight and Government. H. Rept. 110-112.
 - 2007-04-30 — Reported by the Committee on Oversight and Government. H. Rept. 110-112.
+- 2007-05-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-14 — Considered as unfinished business. (consideration: CR H4930-4931)
+- 2007-05-14 — Considered under suspension of the rules. (consideration: CR H4918-4920)
+- 2007-05-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1124.
+- 2007-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2007-05-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 268 - 100 (Roll no. 342). (text: CR H4918)
+- 2007-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 268 - 100 (Roll no. 342).(text: CR H4918)
