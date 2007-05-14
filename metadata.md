@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1615
@@ -29,3 +29,11 @@ Securing Aircraft Cockpits Against Lasers Act of 2007
 - 2007-03-21 — Introduced in House
 - 2007-03-21 — Introduced in House
 - 2007-03-21 — Referred to the House Committee on the Judiciary.
+- 2007-03-30 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2007-05-01 — Subcommittee Hearings Held.
+- 2007-05-02 — Committee Consideration and Mark-up Session Held.
+- 2007-05-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-05-02 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2007-05-14 — Placed on the Union Calendar, Calendar No. 89.
+- 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-149.
+- 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-149.
