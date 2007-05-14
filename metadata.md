@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 192
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 192
@@ -16,9 +16,10 @@ A resolution recognizing National Nurses Week on May 6 through May 12, 2007.
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution recognizing National Nurses Week on May 6 through May 12, 2007.
 - 2007-05-10 — Introduced in Senate
 - 2007-05-10 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced in Senate: CR S5949)
 - 2007-05-10 — Sponsor introductory remarks on measure. (CR S5949-5950)
+- 2007-05-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6077)
+- 2007-05-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6077)
+- 2007-05-14 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S6077)
+- 2007-05-14 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S6077)
