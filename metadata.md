@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1335
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1335
@@ -24,9 +24,10 @@ To designate the facility of the United States Postal Service located at 508 Eas
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To designate the facility of the United States Postal Service located at 508 Eas
 - 2007-05-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4926)
 - 2007-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4926)
+- 2007-05-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
