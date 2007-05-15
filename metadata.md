@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 79
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 79
@@ -40,3 +40,9 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2007-05-08 — Placed on the House Calendar, Calendar No. 54.
 - 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-133.
 - 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-133.
+- 2007-05-15 — Considered under suspension of the rules. (consideration: CR H5009-5010)
+- 2007-05-15 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 79.
+- 2007-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-15 — Mr. Cummings moved to suspend the rules and agree to the resolution.
+- 2007-05-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5009)
+- 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5009)
