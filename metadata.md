@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1124
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1124
@@ -51,3 +51,4 @@ To extend the District of Columbia College Access Act of 1999.
 - 2007-05-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-05-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 268 - 100 (Roll no. 342). (text: CR H4918)
 - 2007-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 268 - 100 (Roll no. 342).(text: CR H4918)
+- 2007-05-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 147.
