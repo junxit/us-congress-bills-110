@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1124
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 3(i) of the District of Columbia College Access Act of 1999 (sec. 38–2702(i), DC Official Code) is amended by striking “each of the 7 succeeding fiscal years” and inserting “each of the 12 succeeding fiscal years”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5(f) of such Act (sec. 38–2704(f), DC Official Code) is amended by striking “each of the 7 succeeding fiscal years” and inserting “each of the 12 succeeding fiscal years”. | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (E), by striking “and” after the semicolon at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 5(c)(2) of the District of Columbia College Access Act of 1999 (113 Stat. 1328; Public Law 106–98) is amended by striking “through (F)” and inserting “through (G)”. | the bill names no machine-readable US Code section |
