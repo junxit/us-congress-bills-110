@@ -1,0 +1,26 @@
+---
+measure: S. 1396
+congress: 110
+version: Introduced in Senate
+---
+
+# S. 1396
+
+A bill to authorize a major medical facility project to modernize inpatient wards at the Department of Veterans Affairs Medical Center in Atlanta, Georgia.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Isakson, Johnny [R-GA] (I000055)
+
+## Committees (1)
+
+- Senate — Veterans' Affairs Committee
+
+## Actions
+
+- 2007-05-15 — Introduced in Senate
+- 2007-05-15 — Read twice and referred to the Committee on Veterans' Affairs.
