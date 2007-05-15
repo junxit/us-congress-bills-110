@@ -1,0 +1,141 @@
+---
+measure: H.Res. 406
+congress: 110
+version: Introduced in House
+---
+
+# H.Res. 406
+
+Celebrating the accomplishments of title IX of the Education Amendments of 1972, also known as the Patsy Takemoto Mink Equal Opportunity in Education Act, and recognizing the need to continue pursuing the goal of educational opportunities for women and girls.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+
+## Cosponsors (110)
+
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Mahoney, Tim [D-FL-16] (M001164)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Pelosi, Nancy [D-CA-8] (P000197)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+
+## Committees (1)
+
+- House — Education and the Workforce Committee
+
+## Actions
+
+- 2007-05-15 — Introduced in House
+- 2007-05-15 — Introduced in House
+- 2007-05-15 — Referred to the House Committee on Education and Labor.
+- 2007-05-15 — Sponsor introductory remarks on measure. (CR E1052)
