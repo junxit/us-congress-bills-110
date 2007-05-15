@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 352
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 352
@@ -56,3 +56,9 @@ Supporting the goals and ideals of National Public Works Week.
 - 2007-05-08 — Placed on the House Calendar, Calendar No. 56.
 - 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-135.
 - 2007-05-08 — Reported by the Committee on Transportation. H. Rept. 110-135.
+- 2007-05-15 — Considered under suspension of the rules. (consideration: CR H5005-5007)
+- 2007-05-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 352.
+- 2007-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-15 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.
+- 2007-05-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5005-5006)
+- 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5005-5006)
