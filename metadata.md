@@ -1,7 +1,7 @@
 ---
 measure: H.R. 916
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 916
@@ -89,6 +89,10 @@ John R. Justice Prosecutors and Defenders Incentive Act of 2007
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2007-05-15 — [House 110-1-347](votes/house-110-1-0347.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (341–73)
+
 ## Actions
 
 - 2007-02-08 — Introduced in House
@@ -103,3 +107,11 @@ John R. Justice Prosecutors and Defenders Incentive Act of 2007
 - 2007-05-14 — Placed on the Union Calendar, Calendar No. 88.
 - 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-148.
 - 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-148.
+- 2007-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-15 — Considered as unfinished business. (consideration: CR H5015-5016)
+- 2007-05-15 — Considered under suspension of the rules. (consideration: CR H4978-4982)
+- 2007-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 916.
+- 2007-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-15 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 73 (Roll no. 347). (text: CR H4978-4979)
+- 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 73 (Roll no. 347).(text: CR H4978-4979)
