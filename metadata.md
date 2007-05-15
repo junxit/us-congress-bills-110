@@ -1,7 +1,7 @@
 ---
 measure: H.R. 692
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 692
@@ -58,3 +58,11 @@ Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007
 - 2007-05-09 — Placed on the Union Calendar, Calendar No. 81.
 - 2007-05-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-139.
 - 2007-05-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-139.
+- 2007-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-15 — Considered as unfinished business. (consideration: CR H5014-5015)
+- 2007-05-15 — Considered under suspension of the rules. (consideration: CR H4976-4978)
+- 2007-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 692.
+- 2007-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-15 — Mr. Stupak moved to suspend the rules and pass the bill, as amended.
+- 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 408 - 4 (Roll No. 346). (text: CR H4976)
+- 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 408 - 4 (Roll No. 346).(text: CR H4976)
