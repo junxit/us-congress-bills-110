@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1700
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1700
@@ -139,3 +139,11 @@ COPS Improvements Act of 2007
 - 2007-05-14 — Placed on the Union Calendar, Calendar No. 90.
 - 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-150.
 - 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-150.
+- 2007-05-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-15 — Considered as unfinished business. (consideration: CR H5016)
+- 2007-05-15 — Considered under suspension of the rules. (consideration: CR H4985-4995)
+- 2007-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1700.
+- 2007-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-15 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 34 (Roll no. 348). (text: CR H4985-4986)
+- 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 34 (Roll no. 348).(text: CR H4985-4986)
