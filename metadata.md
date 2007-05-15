@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1036
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1036
@@ -31,3 +31,9 @@ To authorize the Administrator of General Services to convey a parcel of real pr
 - 2007-05-10 — Placed on the Union Calendar, Calendar No. 85.
 - 2007-05-10 — Reported by the Committee on Transportation. H. Rept. 110-145.
 - 2007-05-10 — Reported by the Committee on Transportation. H. Rept. 110-145.
+- 2007-05-15 — Considered under suspension of the rules. (consideration: CR H5003-5004)
+- 2007-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1036.
+- 2007-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-15 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
+- 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5003-5004)
+- 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5003-5004)
