@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1505
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1505
@@ -39,3 +39,10 @@ To designate the United States courthouse located at 131 East 4th Street in Dave
 - 2007-05-08 — Placed on the House Calendar, Calendar No. 53.
 - 2007-05-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-132.
 - 2007-05-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-132.
+- 2007-05-15 — Considered under suspension of the rules. (consideration: CR H5001-5003)
+- 2007-05-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1505.
+- 2007-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-15 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
+- 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5001)
+- 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5001)
+- 2007-05-15 — The title of the measure was amended. Agreed to without objection.
