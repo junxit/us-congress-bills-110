@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1260
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1260
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 6301 Hi
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Davis, Lincoln [D-TN-4] (D000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To designate the facility of the United States Postal Service located at 6301 Hi
 - 2007-05-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-05-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4922)
 - 2007-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4922)
+- 2007-05-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
