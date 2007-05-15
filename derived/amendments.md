@@ -1,7 +1,7 @@
 ---
 measure: S. 119
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,3 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 981(a)(1)(C) of title 18, United States Code, is amended by inserting “1039,” after “1032,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 982(a)(2)(B) of title 18, United States Code, is amended by striking “or 1030” and inserting “1030, or 1039”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting the following: “, section 1039 (relating to war profiteering and fraud relating to military action, relief, and reconstruction efforts)” after “liquidating ag… | the bill names no machine-readable US Code section |
+| — | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting after “liquidating agent of financial institution),” the following: “section 1039 (relating to war profiteering and fraud relating to military action, relief,… | the bill names no machine-readable US Code section |
+| — | insert | Section 1961(1) of title 18, United States Code, is amended by inserting after “in connection with access devices),” the following: “section 1039 (relating to war profiteering and fraud relating to military action, relief, and reconstruc… | the bill names no machine-readable US Code section |

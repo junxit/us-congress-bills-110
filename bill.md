@@ -23,7 +23,7 @@ This Act may be cited as the “War Profiteering Prevention Act of 2007”.
     >   - **(1)** *In general* Whoever, in any matter involving a contract or the provision of goods or services, directly or indirectly, in connection with a war, military action, or relief or reconstruction activities within the jurisdiction of the United States Government, knowingly and willfully—
     >     - **(A)**
     >       - **(i)** executes or attempts to execute a scheme or artifice to defraud the United States; or
-    >       - **(ii)** materially overvalues any good or service with the specific intent to defraud and excessively profit from the war, military action, or relief or reconstruction activities;
+    >       - **(ii)** materially overvalues any good or service with the specific intent to defraudand excessively profit from the war, military action, or relief or reconstruction activities;;
     >     - **(B)**
     >       - **(i)** falsifies, conceals, or covers up by any trick, scheme, or device a material fact;
     >       - **(ii)** makes any materially false, fictitious, or fraudulent statements or representations; or
@@ -41,3 +41,5 @@ This Act may be cited as the “War Profiteering Prevention Act of 2007”.
 - **(b)** *Civil forfeiture* Section 981(a)(1)(C) of title 18, United States Code, is amended by inserting “1039,” after “1032,”.
 - **(c)** *Criminal forfeiture* Section 982(a)(2)(B) of title 18, United States Code, is amended by striking “or 1030” and inserting “1030, or 1039”.
 - **(d)** *RICO* Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting the following: “, section 1039 (relating to war profiteering and fraud relating to military action, relief, and reconstruction efforts)” after “liquidating agent of financial institution),”.
+- **(d)** *Money laundering* Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting after “liquidating agent of financial institution),” the following: “section 1039 (relating to war profiteering and fraud relating to military action, relief, and reconstruction efforts),”.
+- **(e)** *RICO* Section 1961(1) of title 18, United States Code, is amended by inserting after “in connection with access devices),” the following: “section 1039 (relating to war profiteering and fraud relating to military action, relief, and reconstruction efforts),”.
