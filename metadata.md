@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 79
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 79
@@ -48,3 +48,4 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5009)
 - 2007-05-16 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6212)
 - 2007-05-16 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6212)
+- 2007-05-17 — Message on Senate action sent to the House.
