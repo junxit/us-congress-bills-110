@@ -1,7 +1,7 @@
 ---
 measure: H.R. 634
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 634
@@ -317,9 +317,10 @@ American Veterans Disabled for Life Commemorative Coin Act
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Blunt, Roy [R-MO-7] (B000575)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -334,3 +335,4 @@ American Veterans Disabled for Life Commemorative Coin Act
 - 2007-05-15 — Mr. Moore (KS) moved to suspend the rules and pass the bill, as amended.
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 345). (text: CR H4973-4974)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 345).(text: CR H4973-4974)
+- 2007-05-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
