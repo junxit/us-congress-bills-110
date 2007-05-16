@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 123
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 123
@@ -49,3 +49,5 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2007-05-15 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.
 - 2007-05-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5005)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5005)
+- 2007-05-16 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6212)
+- 2007-05-16 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6212)
