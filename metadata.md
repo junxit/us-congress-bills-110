@@ -1,7 +1,7 @@
 ---
 measure: H.R. 811
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 811
@@ -16,7 +16,7 @@ Voter Confidence and Increased Accessibility Act of 2007
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Cosponsors (168)
+## Cosponsors (216)
 
 - Rep. Davis, Tom [R-VA-11] (D000136)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
@@ -186,6 +186,54 @@ Voter Confidence and Increased Accessibility Act of 2007
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Udall, Tom [D-NM-3] (U000039)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
 
 ## Committees (1)
 
@@ -196,3 +244,12 @@ Voter Confidence and Increased Accessibility Act of 2007
 - 2007-02-05 — Introduced in House
 - 2007-02-05 — Introduced in House
 - 2007-02-05 — Referred to the House Committee on House Administration.
+- 2007-03-23 — Referred to the Subcommittee on Elections.
+- 2007-03-23 — Subcommittee Hearings Held.
+- 2007-03-29 — Committee Hearings Held.
+- 2007-05-02 — Subcommittee on Elections Discharged.
+- 2007-05-08 — Committee Consideration and Mark-up Session Held.
+- 2007-05-08 — Ordered to be Reported (Amended) by the Yeas and Nays: 6 - 3.
+- 2007-05-16 — Placed on the Union Calendar, Calendar No. 91.
+- 2007-05-16 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-154.
+- 2007-05-16 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-154.
