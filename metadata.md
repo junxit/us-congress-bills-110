@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1036
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1036
@@ -16,9 +16,10 @@ To authorize the Administrator of General Services to convey a parcel of real pr
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To authorize the Administrator of General Services to convey a parcel of real pr
 - 2007-05-15 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5003-5004)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5003-5004)
+- 2007-05-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
