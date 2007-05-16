@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1505
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1505
@@ -23,9 +23,10 @@ To designate the United States courthouse located at 131 East 4th Street in Dave
 - Rep. Latham, Tom [R-IA-4] (L000111)
 - Rep. King, Steve [R-IA-5] (K000362)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the United States courthouse located at 131 East 4th Street in Dave
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5001)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5001)
 - 2007-05-15 — The title of the measure was amended. Agreed to without objection.
+- 2007-05-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
