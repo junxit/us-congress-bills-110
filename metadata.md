@@ -1,7 +1,7 @@
 ---
 measure: H.R. 916
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 916
@@ -111,3 +111,4 @@ John R. Justice Prosecutors and Defenders Incentive Act of 2007
 - 2007-05-15 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 73 (Roll no. 347). (text: CR H4978-4979)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 73 (Roll no. 347).(text: CR H4978-4979)
+- 2007-05-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 149.
