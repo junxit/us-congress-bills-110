@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1773
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1773
@@ -71,9 +71,10 @@ Safe American Roads Act of 2007
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -99,3 +100,4 @@ Safe American Roads Act of 2007
 - 2007-05-15 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 349). (text: CR H4995-4996)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 349).(text: CR H4995-4996)
+- 2007-05-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
