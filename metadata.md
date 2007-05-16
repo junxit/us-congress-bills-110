@@ -1,7 +1,7 @@
 ---
 measure: H.R. 692
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 692
@@ -42,9 +42,10 @@ Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007
 - 2007-05-15 — Mr. Stupak moved to suspend the rules and pass the bill, as amended.
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 408 - 4 (Roll No. 346). (text: CR H4976)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 408 - 4 (Roll No. 346).(text: CR H4976)
+- 2007-05-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
