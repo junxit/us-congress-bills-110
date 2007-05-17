@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1675
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1675
@@ -49,3 +49,13 @@ Preservation Approval Process Improvement Act of 2007
 - 2007-05-17 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd without amendment. Without written report.
 - 2007-05-17 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd without amendment. Without written report.
 - 2007-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.
+- 2007-05-24 — Cleared for White House.
+- 2007-05-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6922)
+- 2007-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6922)
+- 2007-05-25 — Message on Senate action sent to the House.
+- 2007-06-06 — Presented to President.
+- 2007-06-06 — Presented to President.
+- 2007-06-15 — Became Public Law No: 110-35.
+- 2007-06-15 — Became Public Law No: 110-35.
+- 2007-06-15 — Signed by President.
+- 2007-06-15 — Signed by President.
