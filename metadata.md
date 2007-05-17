@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 43
 congress: 110
-version: Considered and Passed House
+version: Engrossed in House
 ---
 
 # H.J.Res. 43
