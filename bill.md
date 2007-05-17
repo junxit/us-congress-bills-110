@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas César Estrada Chávez was born on March 31, 1927, near Yuma, Arizona, where he spent his early years on his family’s farm,
+- Whereas César Estrada Chávez was born on March 31, 1927, near Yuma, Arizona, where he spent his early years on his family’s farm;
 - Whereas, at the age of 10, César Estrada Chávez joined the thousands of migrant farm workers laboring in fields and vineyards throughout the Southwest, when his family lost their farm due to a bank foreclosure;
 - Whereas César Estrada Chávez, after attending more than 30 elementary and middle schools and achieving an eighth-grade education, left to work full-time as a farm worker to help support his family;
 - Whereas, at the age of 17, César Estrada Chávez entered the United States Navy and served the Nation with distinction for 2 years;

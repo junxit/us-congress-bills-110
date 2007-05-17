@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 138
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 138
@@ -37,3 +37,7 @@ A resolution honoring the accomplishments and legacy of Cesar Estrada Chavez.
 
 - 2007-03-29 — Introduced in Senate
 - 2007-03-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4217)
+- 2007-05-17 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-05-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-05-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 155.
