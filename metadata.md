@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1585
@@ -23,6 +23,24 @@ National Defense Authorization Act for Fiscal Year 2008
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (15)
+
+- 2007-05-16 — [House 110-1-355](votes/house-110-1-0355.md) — On Motion that the Committee Rise — **Failed** (177–219)
+- 2007-05-16 — [House 110-1-357](votes/house-110-1-0357.md) — On Motion that the Committee Rise — **Failed** (184–222)
+- 2007-05-16 — [House 110-1-359](votes/house-110-1-0359.md) — On Motion that the Committee Rise — **Failed** (186–213)
+- 2007-05-16 — [House 110-1-361](votes/house-110-1-0361.md) — On Motion that the Committee Rise — **Failed** (178–217)
+- 2007-05-16 — [House 110-1-363](votes/house-110-1-0363.md) — On Motion that the Committee Rise — **Failed** (188–221)
+- 2007-05-16 — [House 110-1-364](votes/house-110-1-0364.md) — On Agreeing to the Amendment — **Failed** (202–216)
+- 2007-05-16 — [House 110-1-365](votes/house-110-1-0365.md) — On Agreeing to the Amendment — **Failed** (136–288)
+- 2007-05-16 — [House 110-1-366](votes/house-110-1-0366.md) — On Agreeing to the Amendment — **Failed** (119–303)
+- 2007-05-17 — [House 110-1-367](votes/house-110-1-0367.md) — On Agreeing to the Amendment — **Failed** (127–299)
+- 2007-05-17 — [House 110-1-368](votes/house-110-1-0368.md) — On Agreeing to the Amendment — **Failed** (199–226)
+- 2007-05-17 — [House 110-1-369](votes/house-110-1-0369.md) — On Agreeing to the Amendment — **Failed** (201–219)
+- 2007-05-17 — [House 110-1-370](votes/house-110-1-0370.md) — On Agreeing to the Amendment — **Agreed to** (220–208)
+- 2007-05-17 — [House 110-1-371](votes/house-110-1-0371.md) — On Agreeing to the Amendment — **Failed** (199–229)
+- 2007-05-17 — [House 110-1-372](votes/house-110-1-0372.md) — On Motion to Recommit with Instructions — **Passed** (394–30)
+- 2007-05-17 — [House 110-1-373](votes/house-110-1-0373.md) — On Passage — **Passed** (397–27)
 
 ## Actions
 
@@ -52,3 +70,219 @@ National Defense Authorization Act for Fiscal Year 2008
 - 2007-05-11 — Placed on the Union Calendar, Calendar No. 86.
 - 2007-05-11 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-146.
 - 2007-05-11 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-146.
+- 2007-05-14 — Supplemental report filed by the Committee on Armed Services, H. Rept. 110-146, Part II.
+- 2007-05-14 — Supplemental report filed by the Committee on Armed Services, H. Rept. 110-146, Part II.
+- 2007-05-15 — Rules Committee Resolution H. Res. 403 Reported to House. Rule provides for consideration of H.R. 1585 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Armed Services now printed in the bill is consider as original text for the purpose of amendment under the five-minute rule.
+- 2007-05-16 — Amendment (A001) offered by Ms. Schakowsky. (consideration: CR H5241-5243; text: CR H5241-5242)
+- 2007-05-16 — Amendment (A002) offered by Mr. Fossella. (consideration: CR H5243-5244; text: CR H5243)
+- 2007-05-16 — Amendment (A004) offered by Mr. Andrews. (consideration: CR H5249-5250, H5264; text: CR H5249)
+- 2007-05-16 — Amendment (A005) offered by Mr. DeFazio. (consideration: CR H5251-5252, H5265; text: CR H5251)
+- 2007-05-16 — Amendment (A006) offered by Ms. Woolsey. (consideration: CR H5252-5253, H5266; text: CR H5252)
+- 2007-05-16 — Amendment (A007) offered by Mr. Israel. (consideration: CR H5254-5255; text: CR H5254)
+- 2007-05-16 — Amendment (A009) offered by Mr. Stupak. (consideration: CR H5262-5263; text: CR H5262)
+- 2007-05-16 — Amendment (A010) offered by Mr. Carney. (consideration: CR H5263-5264; text: CR H5263)
+- 2007-05-16 — Amendment (A011) offered by Mr. Tierney. (consideration: CR H5267-5268; text: CR H5267)
+- 2007-05-16 — Amendment (A012) offered by Mr. Franks (AZ). (consideration: CR H5268-5271; text: CR H5268)
+- 2007-05-16 — Amendment (A013) offered by Mr. Sessions. (consideration: CR H5271-5272; text: CR H5271)
+- 2007-05-16 — Amendment (A014) offered by Mr. King (IA). (consideration: CR H5272-5274; text: CR H5272)
+- 2007-05-16 — Amendment (A015) offered by Mr. Moran (VA). (consideration: CR H5274-5275; text: CR H5274)
+- 2007-05-16 — Amendment (A016) offered by Mr. Holt. (consideration: CR H5275-5278; text: CR H5275-5276)
+- 2007-05-16 — Amendment (A018) offered by Mr. Andrews. (consideration: CR H5280-5281; text: CR H5280)
+- 2007-05-16 — Amendment (A019) offered by Mr. Skelton. (consideration: CR H5281-5282; text: CR H5281-5282)
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment agreed to Committee of the Whole
+- 2007-05-16 — Amendment failed in Committee of the Whole
+- 2007-05-16 — Amendment failed in Committee of the Whole
+- 2007-05-16 — Amendment failed in Committee of the Whole
+- 2007-05-16 — Amendments (A003) offered by Mr. Skelton. (consideration: CR H5244-5249; text: CR H5244-5246)
+- 2007-05-16 — Amendments (A008) offered by Mr. Skelton. (consideration: CR H5255-5260, H5261-5262; text: CR H5255-5257)
+- 2007-05-16 — Amendments (A017) offered by Mr. Skelton. (consideration: CR H5278-5280; text: CR H5278-5279)
+- 2007-05-16 — Andrews amendment (A018) modified by unanimous consent. (consideration: CR H5280)
+- 2007-05-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 1585 as unfinished business.
+- 2007-05-16 — Committee of the Whole House on the state of the Union rises leaving H.R. 1585 as unfinished business.
+- 2007-05-16 — Considered as unfinished business. (consideration: CR H5266-5282)
+- 2007-05-16 — Considered under the provisions of rule H. Res. 403. (consideration: CR H5127-5265; text of measure as reported: CR H5149-5240)
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Andrews amendment number 7.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Andrews amendment numbered 8.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Carney amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Fossella amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Israel amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Moran (VA) amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Schakowsky amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Skelton amendment numbered 1.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Stupak amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Tierney amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 10 minutes of debate on the Woolsey amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 20 minutes of debate on the Franks amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 20 minutes of debate on the King (IA) amendment.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton En Bloc amendments.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton En Bloc no. 2 amendments.
+- 2007-05-16 — DEBATE - Pursuant to the provisions of H. Res. 403, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton En Bloc no. 3 amendments.
+- 2007-05-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour and thirty minutes of general debate on H.R. 1585.
+- 2007-05-16 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 1585.
+- 2007-05-16 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 1585.
+- 2007-05-16 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 1585.
+- 2007-05-16 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 1585.
+- 2007-05-16 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 1585.
+- 2007-05-16 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 1585.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Andrews amendment (A018) as modified Agreed to by voice vote.(text as modified: CR H5280)
+- 2007-05-16 — House amendment agreed to: On agreeing to the Carney amendment (A010) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Fossella amendment (A002) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Israel amendment Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Schakowsky amendment (A001) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Sessions amendment (A013) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Skelton amendment (A019) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Skelton amendments (A003) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Skelton amendments (A008) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Skelton amendments (A017) Agreed to by voice vote.
+- 2007-05-16 — House amendment agreed to: On agreeing to the Stupak amendment (A009) as modified Agreed to by voice vote.(text as modified: CR H5262)
+- 2007-05-16 — House amendment not agreed to: On agreeing to the Andrews amendment (A004) Failed by recorded vote: 202 - 216 (Roll no. 364).
+- 2007-05-16 — House amendment not agreed to: On agreeing to the DeFazio amendment (A005) Failed by recorded vote: 136 - 288 (Roll no. 365).
+- 2007-05-16 — House amendment not agreed to: On agreeing to the Woolsey amendment (A006) Failed by recorded vote: 119 - 303 (Roll no. 366).
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered
+- 2007-05-16 — House amendment offered/reported by : Amendment (A001) offered by Ms. Schakowsky.(consideration: CR H5241-5243; text: CR H5241-5242)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A002) offered by Mr. Fossella.(consideration: CR H5243-5244; text: CR H5243)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A004) offered by Mr. Andrews.(consideration: CR H5249-5250, H5264; text: CR H5249)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A005) offered by Mr. DeFazio.(consideration: CR H5251-5252, H5265; text: CR H5251)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A006) offered by Ms. Woolsey.(consideration: CR H5252-5253, H5266; text: CR H5252)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A007) offered by Mr. Israel.(consideration: CR H5254-5255; text: CR H5254)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A009) offered by Mr. Stupak.(consideration: CR H5262-5263; text: CR H5262)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A010) offered by Mr. Carney.(consideration: CR H5263-5264; text: CR H5263)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A011) offered by Mr. Tierney.(consideration: CR H5267-5268; text: CR H5267)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A012) offered by Mr. Franks (AZ).(consideration: CR H5268-5271; text: CR H5268)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A013) offered by Mr. Sessions.(consideration: CR H5271-5272; text: CR H5271)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A014) offered by Mr. King (IA).(consideration: CR H5272-5274; text: CR H5272)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A015) offered by Mr. Moran (VA).(consideration: CR H5274-5275; text: CR H5274)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A016) offered by Mr. Holt.(consideration: CR H5275-5278; text: CR H5275-5276)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A018) offered by Mr. Andrews.(consideration: CR H5280-5281; text: CR H5280)
+- 2007-05-16 — House amendment offered/reported by : Amendment (A019) offered by Mr. Skelton.(consideration: CR H5281-5282; text: CR H5281-5282)
+- 2007-05-16 — House amendment offered/reported by : Amendments (A003) offered by Mr. Skelton.(consideration: CR H5244-5249; text: CR H5244-5246)
+- 2007-05-16 — House amendment offered/reported by : Amendments (A008) offered by Mr. Skelton.(consideration: CR H5255-5260, H5261-5262; text: CR H5255-5257)
+- 2007-05-16 — House amendment offered/reported by : Amendments (A017) offered by Mr. Skelton.(consideration: CR H5278-5280; text: CR H5278-5279)
+- 2007-05-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 403 and Rule XVIII.
+- 2007-05-16 — Mr. Buyer moved that the Committee rise.
+- 2007-05-16 — Mr. Buyer moved that the committee rise.
+- 2007-05-16 — Mr. Hoyer moved that the committee rise.
+- 2007-05-16 — Mr. Price (GA) moved that the committee rise.
+- 2007-05-16 — Mr. Skelton moved that the committtee rise.
+- 2007-05-16 — Mr. Westmoreland moved that the Committee rise.
+- 2007-05-16 — Mr. Westmoreland moved that the Committee rise.
+- 2007-05-16 — ORDER OF PROCEDURE - Mr. Hoyer asked unanimous consent that, during further consideration of H.R. 1585 pursuant to H. Res. 403, the Chair may reduce to two minutes the minimum time for electronic voting under clause 6 of rule 18 and clauses 8 and 9 of rule 20. Agreed to without objection.
+- 2007-05-16 — ORDER OF PROCEDURE - Pursuant to the authority granted in sections 3 and 4 of H. Res. 403, Mr. Skelton announced that the following amendments to H.R. 1585 made in order by that resolution would be considered in the following sequence: Amendments numbered 33, 29, 49, an en bloc package (consisting of amendments numbered 5, 9, 10, 17, 18, 26, 27, 36, 37, 47, 48 and 50), 8, 14, 21 and 38, all as printed in House Report 110-151.
+- 2007-05-16 — On agreeing to the Andrews amendment (A004) Failed by recorded vote: 202 - 216 (Roll no. 364).
+- 2007-05-16 — On agreeing to the Andrews amendment (A018) as modified Agreed to by voice vote. (text as modified: CR H5280)
+- 2007-05-16 — On agreeing to the Carney amendment (A010) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the DeFazio amendment (A005) Failed by recorded vote: 136 - 288 (Roll no. 365).
+- 2007-05-16 — On agreeing to the Fossella amendment (A002) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Israel amendment Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Schakowsky amendment (A001) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Sessions amendment (A013) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Skelton amendment (A019) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Skelton amendments (A003) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Skelton amendments (A008) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Skelton amendments (A017) Agreed to by voice vote.
+- 2007-05-16 — On agreeing to the Stupak amendment (A009) as modified Agreed to by voice vote. (text as modified: CR H5262)
+- 2007-05-16 — On agreeing to the Woolsey amendment (A006) Failed by recorded vote: 119 - 303 (Roll no. 366).
+- 2007-05-16 — On motion that the Committee rise Failed by recorded vote: 184 - 222 (Roll no. 357).
+- 2007-05-16 — On motion that the Committee rise Failed by recorded vote: 186 - 213, 1 Present (Roll no. 359).
+- 2007-05-16 — On motion that the Committee rise Failed by recorded vote: 188 - 221 (Roll no. 363).
+- 2007-05-16 — On motion that the committee rise Agreed to by voice vote.
+- 2007-05-16 — On motion that the committee rise Failed by recorded vote: 177 - 219 (Roll no. 355).
+- 2007-05-16 — On motion that the committee rise Failed by recorded vote: 178 - 217 (Roll no. 361).
+- 2007-05-16 — On motion that the committtee rise Agreed to by voice vote.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on Andrews amendment numbered 8, the Chair put the question on adoption of the amendment and by voice vote the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on DeFazio amendment, the Chair put the question on adoption of the amendment and by voice vote the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on Franks amendment, the Chair put the question on adoption of the amendment and by voice vote the noes had prevailed. Mr. Franks demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on Holt amendment, the Chair put the question on adoption of the amendment and by voice vote the ayes had prevailed. Mr. Thornberry demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on King(IA) amendment, the Chair put the question on adoption of the amendment and by voice vote the noes had prevailed. Mr. King(IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on Moran (VA) amendment, the Chair put the question on adoption of the amendment and by voice vote the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on Tierney amendment, the Chair put the question on adoption of the amendment and by voice vote the noes had prevailed. Mr. Tierney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on Woolsey amendment, the Chair put the question on adoption of the amendment and by voice vote the ayes had prevailed. Ms. Woolsey demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-16 — Roll call votes on amendments in House
+- 2007-05-16 — Roll call votes on amendments in House
+- 2007-05-16 — Roll call votes on amendments in House
+- 2007-05-16 — Rule H. Res. 403 passed House.
+- 2007-05-16 — Rule provides for consideration of H.R. 1585 with 1 hour and 30 minutes of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Armed Services now printed in the bill is consider as original text for the purpose of amendment under the five-minute rule.
+- 2007-05-16 — Stupak amendment (A009) modified by unanimous consent. The amendment is modified by striking the sections entitled "short title" and "findings". (consideration: CR H5262)
+- 2007-05-16 — The Chair announced that a quorum had been achieved and that the pending question was on the motion to rise, on which the noes had earlier prevailed by a voice vote.
+- 2007-05-16 — The Chair announced that a quorum had been achieved and that the pending question was on the motion to rise, on which the noes had earlier prevailed by a voice vote.
+- 2007-05-16 — The Chair announced that a quorum had been achieved and that the pending question was on the motion to rise, on which the noes had earlier prevailed by a voice vote.
+- 2007-05-16 — The Chair announced that a quorum had been achieved and that the pending question was on the motion to rise, on which the noes had earlier prevailed by a voice vote.
+- 2007-05-16 — The Chair announced that a quorum had been achieved and that the pending question was on the motion to rise, on which the noes had earlier prevailed by a voice vote.
+- 2007-05-16 — The Chair put the question on the motion to rise and by voice vote, announced that the noes had prevailed. Mr. Buyer demanded a recorded vote pending a point of no quorum. The Chair announced that a quorum was not present and initiated a Call in Committee.
+- 2007-05-16 — The Chair put the question on the motion to rise and by voice vote, announced that the noes had prevailed. Mr. Buyer demanded a recorded vote pending a point of no quorum. The Chair announced that a quorum was not present and initiated a Call in Committee.
+- 2007-05-16 — The Chair put the question on the motion to rise and by voice vote, announced that the noes had prevailed. Mr. Price (GA) demanded a recorded vote pending a point of no quorum. The Chair announced that a quorum was not present and initiated a Call in Committee.
+- 2007-05-16 — The Chair put the question on the motion to rise and by voice vote, announced that the noes had prevailed. Mr. Westmoreland demanded a recorded vote pending a point of no quorum. The Chair announced that a quorum was not present and initiated a Call in Committee.
+- 2007-05-16 — The Chair put the question on the motion to rise and by voice vote, announced that the noes had prevailed. Mr. Westmoreland demanded a recorded vote pending a point of no quorum. The Chair announced that a quorum was not present and initiated a Call in Committee.
+- 2007-05-16 — The Speaker designated the Honorable Mike Ross to act as Chairman of the Committee.
+- 2007-05-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-05-17 — Amendment agreed to Committee of the Whole
+- 2007-05-17 — Amendment agreed to by House: On agreeing to the Armed Services amendment (A020) Agreed to by voice vote.
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment reported by the House Committee on Armed Services. (consideration: CR H5353; text: CR H5353)
+- 2007-05-17 — Considered as unfinished business. (consideration: CR H5343-5354)
+- 2007-05-17 — DEBATE - The House proceeded with 10 minutes of debate on the Hunter motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to expand the United States ballistic missile defense system integration with Israel.
+- 2007-05-17 — House amendment agreed to: On agreeing to the Armed Services amendment (A020) Agreed to by voice vote.
+- 2007-05-17 — House amendment agreed to: On agreeing to the Moran (VA) amendment (A015) Agreed to by recorded vote: 220 - 208 (Roll no. 370).(consideration: CR H5346-5347; text: CR H5346)
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Franks (AZ) amendment (A012) Failed by recorded vote: 199 - 226 (Roll no. 368).(consideration: CR H5344-5345; text: CR H5344-5345)
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Holt amendment (A016) Failed by recorded vote: 199 - 229 (Roll no. 371).(consideration: CR H5347-5348; text: CR H5347)
+- 2007-05-17 — House amendment not agreed to: On agreeing to the King (IA) amendment (A014) Failed by recorded vote: 201 - 219 (Roll no. 369).(consideration: CR H5345-5346; text: CR H5345)
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Tierney amendment (A011) Failed by recorded vote: 127 - 299 (Roll no. 367).(consideration: CR H5344; text: CR H5344)
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered/reported by : Amendment reported by the House Committee on Armed Services.(consideration: CR H5353; text: CR H5353)
+- 2007-05-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-17 — Mr. Hunter moved to recommit with instructions to Armed Services. (consideration: CR H5351-5353; text: CR H5351)
+- 2007-05-17 — On agreeing to the Armed Services amendment (A020) Agreed to by voice vote.
+- 2007-05-17 — On agreeing to the Franks (AZ) amendment (A012) Failed by recorded vote: 199 - 226 (Roll no. 368). (consideration: CR H5344-5345; text: CR H5344-5345)
+- 2007-05-17 — On agreeing to the Holt amendment (A016) Failed by recorded vote: 199 - 229 (Roll no. 371). (consideration: CR H5347-5348; text: CR H5347)
+- 2007-05-17 — On agreeing to the King (IA) amendment (A014) Failed by recorded vote: 201 - 219 (Roll no. 369). (consideration: CR H5345-5346; text: CR H5345)
+- 2007-05-17 — On agreeing to the Moran (VA) amendment (A015) Agreed to by recorded vote: 220 - 208 (Roll no. 370). (consideration: CR H5346-5347; text: CR H5346)
+- 2007-05-17 — On agreeing to the Tierney amendment (A011) Failed by recorded vote: 127 - 299 (Roll no. 367). (consideration: CR H5344; text: CR H5344)
+- 2007-05-17 — On motion to recommit with instructions Agreed to by recorded vote: 394 - 30 (Roll no. 372).
+- 2007-05-17 — On passage Passed by recorded vote: 397 - 27 (Roll no. 373).
+- 2007-05-17 — Passed/agreed to in House: On passage Passed by recorded vote: 397 - 27 (Roll no. 373).
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-05-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2007-05-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1585.
+- 2007-05-17 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H5352)
+- 2007-05-17 — The previous question was ordered pursuant to the rule. (consideration: CR H5351)
+- 2007-05-17 — The title of the measure was amended. Agreed to without objection.
+- 2007-05-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
