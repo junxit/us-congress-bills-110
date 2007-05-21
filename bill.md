@@ -38,7 +38,7 @@ The Secretary may strike and sell duplicates in bronze of the gold medal struck 
 ## § 4. Status of medals
 
 - **(a)** *National Medals* The medals struck under this Act are national medals for purposes of chapter 51 of title 31, United States Code.
-- **(b)** *Numismatic Items* For purposes of section 5134 of title 31, UnitesUnited States Code, all medals struck under this Act shall be considered to be numismatic items.
+- **(b)** *Numismatic Items* For purposes of section 5134 of title 31, United States Code, all medals struck under this Act shall be considered to be numismatic items.
 
 ## § 5. Authority to use fund amounts; proceeds of sale
 

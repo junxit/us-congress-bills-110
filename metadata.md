@@ -1,7 +1,7 @@
 ---
 measure: S. 254
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 254
@@ -130,3 +130,5 @@ A bill to award posthumously a Congressional gold medal to Constantino Brumidi.
 - 2007-05-17 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with an amendment. Without written report.
 - 2007-05-17 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with an amendment. Without written report.
 - 2007-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 150.
+- 2007-05-21 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6414-6415)
+- 2007-05-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6414-6415)
