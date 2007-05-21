@@ -1,7 +1,7 @@
 ---
 measure: S. 1104
 congress: 110
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 1104
@@ -42,3 +42,9 @@ A bill to increase the number of Iraqi and Afghani translators and interpreters 
 - 2007-04-13 — Message on Senate action sent to the House.
 - 2007-04-16 — Received in the House.
 - 2007-04-16 — Referred to the House Committee on the Judiciary.
+- 2007-04-20 — Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.
+- 2007-05-17 — Committee Consideration and Mark-up Session Held.
+- 2007-05-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-05-21 — Placed on the Union Calendar, Calendar No. 94.
+- 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-158.
+- 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-158.
