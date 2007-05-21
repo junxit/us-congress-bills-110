@@ -1,7 +1,7 @@
 ---
 measure: S. 1079
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1079
@@ -35,3 +35,7 @@ Star-Spangled Banner and War of 1812 Bicentennial Commission Act
 
 - 2007-04-10 — Introduced in Senate
 - 2007-04-10 — Read twice and referred to the Committee on the Judiciary.
+- 2007-05-17 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2007-05-21 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2007-05-21 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2007-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.

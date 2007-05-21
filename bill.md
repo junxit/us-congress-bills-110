@@ -113,6 +113,7 @@ In this Act:
 - **(d)** *FACA application* The Federal Advisory Committee Act (5 U.S.C. App.)—
   - **(1)** shall not apply to the Commission; and
   - **(2)** shall apply to advisory committees established under subsection (a)(2).
+- **(d)** *FACA nonapplicability* Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 - **(e)** *No effect on authority* Nothing in this Act supersedes the authority of the States or the National Park Service concerning the commemoration.
 
 ## § 7. Personnel matters
@@ -145,7 +146,7 @@ In this Act:
 
 ## § 8. Authorization of appropriations
 
-- **(a)** *In general* There are authorized to be appropriated to carry out this Act such sums as are necessary for each of fiscal years 2008 through 2015.
+- **(a)** *In general* There are authorized to be appropriated to carry out this Act such sums as are necessarynot to exceed $500,000 for each of fiscal years 2008 through 2015.
 - **(b)** *Availability of funds* Amounts appropriated under this section for any fiscal year shall remain available until December 31, 2015.
 
 ## § 9. Termination of commission
