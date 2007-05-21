@@ -1,7 +1,7 @@
 ---
 measure: H.R. 698
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 698
@@ -179,3 +179,11 @@ Industrial Bank Holding Company Act of 2007
 - 2007-05-16 — Placed on the Union Calendar, Calendar No. 92.
 - 2007-05-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-155.
 - 2007-05-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-155.
+- 2007-05-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-21 — Considered as unfinished business. (consideration: CR H5513)
+- 2007-05-21 — Considered under suspension of the rules. (consideration: CR H5477-5483)
+- 2007-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 698.
+- 2007-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-21 — Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.
+- 2007-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 16, 1 Present (Roll no. 384). (text: CR H5477-5480)
+- 2007-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 16, 1 Present (Roll no. 384).(text: CR H5477-5480)

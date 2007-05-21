@@ -17,7 +17,7 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
 
 - **(a)** *Definitions*
   - **(1)** *Industrial bank* Section 3(a) of the Federal Deposit Insurance Act (12 U.S.C. 1813(a)) is amended by adding at the end the following new paragraph:
-    > - **(4)** *Industrial bank* The term industrial bank means any insured State bank that is an industrial bank, industrial loan company, or other institution that is excluded, pursuant to section 2(c)(2)(H) of the Bank Holding Company Act of 1956, from the definition of the term bank for purposes of such Act.
+    > - **(4)** *Industrial bank* The term industrial bank means any insured State bank that is an industrial bank, industrial loan company, or other institution that is excluded, pursuant to section 2(c)(2)(H) of the Bank Holding Company Act of 1956, from the definition of the term “bank” for purposes of such Act.
 
   - **(2)** *Industrial bank holding company* Section 3(w) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)) is amended by adding at the end the following new paragraphs:
     > - **(8)** *Industrial bank holding company* The term industrial bank holding company means any company that—
@@ -26,8 +26,8 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
     >     - **(i)** 1 or more of the following: a bank holding company, a savings and loan holding company, a company that is subject to the Bank Holding Company Act of 1956 pursuant to section 8(a) of the International Banking Act of 1978, or a holding company regulated by the Securities and Exchange Commission pursuant to section 240.15c3–1(a)(7) of title 17 of the Code of Federal Regulations (as in effect on January 29, 2007); or
     >     - **(ii)** controlled by a company described in clause (i).
     > - **(9)** *Capital terms relating to industrial bank holding companies*
-    >   - **(A)** *Adequately capitalized* With respect to an industrial bank holding company, the term adequately capitalized means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.
-    >   - **(B)** *Well capitalized* With respect to an industrial bank holding company, the term well capitalized means a level of capitalization which meets or exceeds the required capital levels for well capitalized industrial bank holding companies established by the Corporation.
+    >   - **(A)** *Adequately capitalized* With respect to an industrial bank holding company, the term “adequately capitalized” means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.
+    >   - **(B)** *Well capitalized* With respect to an industrial bank holding company, the term “well capitalized” means a level of capitalization which meets or exceeds the required capital levels for well capitalized industrial bank holding companies established by the Corporation.
 
   - **(3)** *Technical and conforming amendments to other definitions*
     - **(A)** *Appropriate federal banking agency* Section 3(q)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)(3)) is amended—
@@ -40,20 +40,20 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
   > ## § 51. Industrial bank holding company regulation
   >
   > - **(a)** *Acquisition of industrial bank shares or assets* Section 3 of the Bank Holding Company Act of 1956 (other than section 3(c)(3)(B) of that Act) shall apply to any company that is or would become an industrial bank holding company in the same manner as such section applies to a company that is or would become a bank holding company, except that for purposes of applying this subsection—
-  >   - **(1)** any reference to a bank holding company in such section 3 shall be deemed to be a reference to an industrial bank holding company;
-  >   - **(2)** any reference to a bank in such section shall be deemed to be a reference to an industrial bank;
-  >   - **(3)** any reference to the Board in such section shall be deemed to be a reference to the Corporation;
-  >   - **(4)** any reference to the Bank Holding Company Act Amendments of 1970 in such section shall be deemed to be a reference to the “Industrial Bank Holding Company Act of 2007”;
-  >   - **(5)** any reference to a home State in such section 3 shall be deemed to be a reference to—
+  >   - **(1)** any reference to a “bank holding company” in such section 3 shall be deemed to be a reference to an “industrial bank holding company”;
+  >   - **(2)** any reference to a “bank” in such section 3 shall be deemed to be a reference to an “industrial bank”;
+  >   - **(3)** any reference to the “Board” in such section 3 shall be deemed to be a reference to the Corporation;
+  >   - **(4)** any reference to the “Bank Holding Company Act Amendments of 1970” in such section 3 shall be deemed to be a reference to the “Industrial Bank Holding Company Act of 2007”;
+  >   - **(5)** any reference to a “home State” in such section 3 shall be deemed to be a reference to—
   >     - **(A)** with respect to an industrial bank holding company, the State in which the total deposits of all banking subsidiaries of such company were the largest on the later of—
   >       - **(i)** January 28, 2007; or
   >       - **(ii)** the date on which the company becomes an industrial bank holding company under this section; and
   >     - **(B)** with respect to an industrial bank, the home State of the bank as determined under section 44(g);
-  >   - **(6)** any reference to a host State in such section 3 shall be deemed to be a reference to—
+  >   - **(6)** any reference to a “host State” in such section 3 shall be deemed to be a reference to—
   >     - **(A)** with respect to an industrial bank holding company, a State, other than the home State of the company, in which the company controls, or seeks to control, an industrial bank subsidiary; and
   >     - **(B)** with respect to an industrial bank, the host State of the bank as determined under section 44(g);
-  >   - **(7)** any reference to an out-of-State bank holding company in such section 3 shall be deemed to be a reference to, with respect to any State, an industrial bank holding company whose home State is another State; and
-  >   - **(8)** any reference to an out-of-State bank in such section 3 shall be deemed to be a reference to, with respect to any State, an industrial bank whose home State is another State.
+  >   - **(7)** any reference to an “out-of-State bank holding company” in such section 3 shall be deemed to be a reference to, with respect to any State, an industrial bank holding company whose home State is another State; and
+  >   - **(8)** any reference to an “out-of-State bank” in such section 3 shall be deemed to be a reference to, with respect to any State, an industrial bank whose home State is another State.
   > - **(b)** *Application process* An application filed under subsection (a) to acquire control of an industrial bank shall be treated as an application for a deposit facility for purposes of this Act and any other Federal law.
   > - **(c)** *Registration*
   >   - **(1)** *In general* Each industrial bank holding company shall register with the Corporation on forms prescribed by the Corporation before the end of the 180-day period beginning on the later of—
@@ -106,7 +106,7 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
   >         - **(I)** immediately prior to such change in control neither the ultimate acquiring holding company nor the ultimate acquired holding company is a commercial firm;
   >         - **(II)** immediately after such change of control the resulting ultimate holding company is not a commercial firm; and
   >         - **(III)** the resulting ultimate holding company is subject to consolidated supervision by the Office of Thrift Supervision or a holding company regulated by the Securities and Exchange Commission pursuant to section 240.15c3–1(a)(7) of title 17 of the Code of Federal Regulations (as in effect on January 29, 2007).
-  >     - **(B)** *Corporate reorganizations permitted* The acquisition of direct or indirect control of the industrial bank referred to in subparagraph (A)(ii) shall not be treated as a change in control for purposes of such subparagraph if—
+  >     - **(B)** *Corporate reorganizations permitted* The acquisition of direct or indirect control of the industrial bank referred to in subparagraph (A)(ii) shall not be treated as a “change in control” for purposes of such subparagraph if—
   >       - **(i)** the company acquiring control is itself directly or indirectly controlled by a company that was an affiliate of such bank on the date referred to in such subparagraph, and remains an affiliate at all times after such date; and
   >       - **(ii)** the transaction through which the company acquired control of the industrial bank constituted solely a corporate reorganization of a company that controlled the industrial bank on the date referred to in such subparagraph.
   >   - **(4)** *Pre-2007 exclusions*
@@ -118,7 +118,7 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
   >     - **(B)** *Activity and branching limitations* An industrial bank subsidiary of a commercial firm described in clauses (i), (ii) and (iii) of subparagraph (A) is in compliance with the requirements of this subparagraph for purposes of subparagraph (A)(iv) so long as the industrial bank—
   >       - **(i)** engages only in activities in which the industrial bank was engaged on January 28, 2007; and
   >       - **(ii)** does not acquire, establish, or operate any branch, deposit production office, loan production office, automated teller machine, or remote service unit in any State other than the home State of the bank or any host State in which such bank operated branches on January 28, 2007.
-  >     - **(C)** *Corporate reorganizations permitted* The acquisition of direct or indirect control of a depository institution subsidiary referred to in subparagraph (A)(iii) shall not be treated as a change in control for purposes of such subparagraph if—
+  >     - **(C)** *Corporate reorganizations permitted* The acquisition of direct or indirect control of a depository institution subsidiary referred to in subparagraph (A)(iii) shall not be treated as a “change in control” for purposes of such subparagraph if—
   >       - **(i)** the company acquiring control is itself directly or indirectly controlled by a company that was an affiliate of such subsidiary on the date referred to in such subparagraph, and remains an affiliate at all times after such date; and
   >       - **(ii)** the transaction through which the company acquired control of the depository institution constituted solely a corporate reorganization of a company that controlled the depository institution on the date referred to in such subparagraph.
   > - **(g)** *Procedures and timing for termination of activities or divestiture*
@@ -135,7 +135,9 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
   >       - **(i)** order such holding company or any such nonbank subsidiary, after due notice and opportunity for hearing, and after considering the views of the appropriate Federal banking agency and, if applicable, appropriate State bank supervisor, to terminate such activities or to terminate (within 120 days or such longer period as the appropriate Federal supervisory agency may direct in unusual circumstances) the ownership or control by such holding company or nonbank subsidiary of any such depository institution subsidiary either by sale or by distribution of the shares of the depository institution subsidiary, in accordance with subparagraph (B), to the shareholders of the holding company of the industrial bank; or
   >       - **(ii)** order the holding company of the industrial bank, after due notice and opportunity for hearing, and after consultation with the appropriate State bank supervisor for the industrial bank, to terminate (within 120 days or such longer period as the appropriate Federal supervisory agency may direct) the ownership or control of any such industrial bank by such company.
   >     - **(B)** *Pro rata distribution* Any distribution to shareholders referred to in clause (i) shall be pro rata with respect to all of the shareholders of the distributing company, and such company shall not make any charge to any shareholder in connection with such distribution.
-  >   - **(4)** *Foreign bank ownership* After January 28, 2007, no foreign bank may acquire, directly or indirectly, control of an industrial bank unless the Board of Governors of the Federal Reserve System has determined, by order, in connection with the change in control or acquisition of the industrial bank and after consultation with the Corporation, that the foreign bank is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in the bank’s home country in accordance with the standard in section 3(c)(3)(B) of the Bank Holding Company Act of 1956.
+  >   - **(4)** *Foreign bank ownership*
+  >     - **(A)** *Industrial banks* After January 28, 2007, no foreign bank may acquire, directly or indirectly, control of an industrial bank unless the Board of Governors of the Federal Reserve System has determined by order, or in the case of a foreign bank that is a savings and loan holding company the Board of Governors of the Federal Reserve System and the Director of Office of Thrift Supervision have jointly determined by order, in connection with the change in control or acquisition of the industrial bank and after consultation with the Corporation, that the foreign bank is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in the bank’s home country in accordance with the standard in section 3(c)(3)(B) of the Bank Holding Company Act of 1956.
+  >     - **(B)** *Conforming amendment* Notwithstanding any other provision of law, after the date of enactment of the Industrial Bank Holding Company Act of 2007, the Director of the Office of Thrift Supervision shall not approve any acquisition of a savings association under section 10(e)(2) of the Home Owners’ Loan Act by a foreign bank that is subject to the Bank Holding Company Act of 1956 pursuant to section 8(a) of the International Banking Act of 1978 and that is not a bank holding company unless the Director of the Office of Thrift Supervision and the Board of Governors of the Federal Reserve System have jointly determined, by order, in connection with the acquisition of the savings association that the foreign bank is subject to comprehensive supervision or regulation on a consolidated basis by the appropriate authorities in the bank’s home country in accordance with the standard in section 3(c)(3)(B) of the Bank Holding Company Act of 1956.
   >   - **(5)** *Holding company responsibility*
   >     - **(A)** *Source of strength* Notwithstanding section 45, a holding company of an industrial bank—
   >       - **(i)** shall serve as a source of financial and managerial strength to the subsidiary banks of such holding company; and
@@ -145,12 +147,12 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
   >   - **(1)** *Agent for service of process* The Corporation may require any industrial bank holding company, or persons connected with such holding company if it is not a corporation, to execute and file a prescribed form of irrevocable appointment of agent for service of process.
   >   - **(2)** *Release from registration* The Corporation may at any time, upon the Corporation’s own motion or upon application, release a registered industrial bank holding company from any registration previously made by such company, if the Corporation determines that such company no longer controls any industrial bank.
   > - **(i)** *Definitions* For purposes of this section, the following definitions shall apply:
-  >   - **(1)** *Appropriate Federal supervisory agency* The term appropriate Federal supervisory agency means, with respect to a company that controls an industrial bank—
+  >   - **(1)** *Appropriate Federal supervisory agency* The term “appropriate Federal supervisory agency” means, with respect to a company that controls an industrial bank—
   >     - **(A)** the Corporation, in the case of a company that is an industrial bank holding company;
   >     - **(B)** the Board of Governors of the Federal Reserve System, in the case of a company that is a bank holding company or that is subject to the Bank Holding Company Act of 1956 pursuant to section 8(a) of the International Banking Act of 1978;
   >     - **(C)** the Office of Thrift Supervision, in the case of a company that is a savings and loan holding company; and
   >     - **(D)** the Securities and Exchange Commission, in the case of a company that is regulated by the Commission pursuant to section 240.15c3–1(a)(7) of title 17 of the Code of Federal Regulations (as in effect on January 29, 2007).
-  >   - **(2)** *Rule of construction* Under the definition of the term appropriate Federal supervisory agency in paragraph (1), more than 1 agency may be an appropriate Federal supervisory agency with respect to any given company that controls an industrial bank.
+  >   - **(2)** *Rule of construction* Under the definition of the term “appropriate Federal supervisory agency” in paragraph (1), more than 1 agency may be an appropriate Federal supervisory agency with respect to any given company that controls an industrial bank.
 
 - **(c)** *Enforcement*
   - **(1)** Section 8(b) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)) is amended by adding at the end the following new paragraph:
@@ -179,7 +181,7 @@ This Act may be cited as the “Industrial Bank Holding Company Act of 2007”.
     - **(B)** in subsection (d)—
       - **(i)** by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively; and
       - **(ii)** by inserting after paragraph (4) the following new paragraph:
-        > - **(5)** *Industrial bank holding company* The term industrial bank holding company has the same meaning as in section 3(w)(8) of the Federal Deposit Insurance Act.
+        > - **(5)** *Industrial bank holding company* The term “industrial bank holding company” has the same meaning as in section 3(w)(8) of the Federal Deposit Insurance Act.
 
   - **(4)** Section 304(g)(1) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(g)(1)) is amended by inserting “, industrial bank holding company,” after “bank holding company”.
 
