@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 43
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 43
@@ -16,9 +16,14 @@ Increasing the statutory limit on the public debt.
 
 - (none recorded)
 
+## Committees (1)
+
+- Senate — Finance Committee
+
 ## Actions
 
 - 2007-05-17 — Introduced in House
 - 2007-05-17 — Introduced in House
 - 2007-05-17 — Passed/agreed to in House: Pursuant to the provisions of S. Con. Res. 21, H.J. Res. 43 is considered passed House.
 - 2007-05-17 — Pursuant to the provisions of S. Con. Res. 21, H.J. Res. 43 is considered passed House.
+- 2007-05-21 — Received in the Senate and Read twice and referred to the Committee on Finance.
