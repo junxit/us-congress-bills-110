@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 402
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 402
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Hurricane Preparedness Week.
 
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
-## Cosponsors (37)
+## Cosponsors (43)
 
 - Rep. Mack, Connie [R-FL-14] (M001155)
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
@@ -55,6 +55,12 @@ Supporting the goals and ideals of National Hurricane Preparedness Week.
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
 
 ## Committees (1)
 
@@ -65,3 +71,9 @@ Supporting the goals and ideals of National Hurricane Preparedness Week.
 - 2007-05-15 — Introduced in House
 - 2007-05-15 — Introduced in House
 - 2007-05-15 — Referred to the House Committee on Science and Technology.
+- 2007-05-21 — Considered under suspension of the rules. (consideration: CR H5493-5496)
+- 2007-05-21 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 402.
+- 2007-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-21 — Mr. Melancon moved to suspend the rules and agree to the resolution.
+- 2007-05-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5493)
+- 2007-05-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5493)
