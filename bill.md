@@ -33,6 +33,6 @@ This Act may be cited as the “Lobbying Transparency Act of 2007”.
   >     - **(A)** the term contribution has the meaning given such term in the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.), except that such term does not include a contribution in an amount which is less than $200;
   >     - **(B)** the terms candidate, political committee, and political party committee have the meaning given such terms in the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et seq.);
   >     - **(C)** the term covered recipient means a Federal candidate, an individual holding Federal office, a leadership PAC, or a political party committee; and
-  >     - **(D)** the term leadership PAC, means with respect to an individual holding Federal office, an unauthorized political committee which is associated with an individual holding Federal office, except that such term shall not apply in the case of a political committee of a political party.
+  >     - **(D)** the term leadership PAC means, with respect to an individual holding Federal office, an unauthorized political committee which is associated with such individual, except that such term shall not apply in the case of a political committee of a political party.
 
 - **(b)** *Effective Date* The amendment made by subsection (a) shall apply with respect to the second quarterly period described in section 5(d)(1) of the Lobbying Disclosure Act of 1995 (as added by subsection (a)) which begins after the date of the enactment of this Act and each succeeding quarterly period.
