@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2077
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2077
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 20805 S
 
 - Rep. Schmidt, Jean [R-OH-2] (S001164)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
@@ -33,6 +33,7 @@ To designate the facility of the United States Postal Service located at 20805 S
 - Rep. Pryce, Deborah [R-OH-15] (P000555)
 - Rep. Ryan, Tim [D-OH-17] (R000577)
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Regula, Ralph [R-OH-16] (R000141)
 
 ## Committees (1)
 
@@ -43,3 +44,9 @@ To designate the facility of the United States Postal Service located at 20805 S
 - 2007-04-30 — Introduced in House
 - 2007-04-30 — Introduced in House
 - 2007-04-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-05-21 — Considered under suspension of the rules. (consideration: CR H5487-5488)
+- 2007-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2077.
+- 2007-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-21 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2007-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5488)
+- 2007-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5488)
