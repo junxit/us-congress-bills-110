@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 130
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 130
@@ -49,3 +49,5 @@ A resolution designating July 28, 2007, as "National Day of the American Cowboy"
 - 2007-05-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-05-17 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-05-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
+- 2007-05-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6415; text as passed Senate: CR S6415)
+- 2007-05-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6415; text as passed Senate: CR S6415)
