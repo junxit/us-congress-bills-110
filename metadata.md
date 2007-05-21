@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2317
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2317
@@ -16,7 +16,7 @@ Lobbying Transparency Act of 2007
 
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 
-## Cosponsors (6)
+## Cosponsors (8)
 
 - Rep. Meehan, Martin T. [D-MA-5] (M000627)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
@@ -24,6 +24,8 @@ Lobbying Transparency Act of 2007
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
 
 ## Committees (1)
 
@@ -34,3 +36,8 @@ Lobbying Transparency Act of 2007
 - 2007-05-15 — Introduced in House
 - 2007-05-15 — Introduced in House
 - 2007-05-15 — Referred to the House Committee on the Judiciary.
+- 2007-05-17 — Committee Consideration and Mark-up Session Held.
+- 2007-05-17 — Ordered to be Reported by Voice Vote.
+- 2007-05-21 — Placed on the Union Calendar, Calendar No. 98.
+- 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-162.
+- 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-162.
