@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1525
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1525
@@ -16,12 +16,13 @@ Internet Spyware (I-SPY) Prevention Act of 2007
 
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Goodlatte, Bob [R-VA-6] (G000289)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
 ## Committees (1)
 
@@ -32,3 +33,11 @@ Internet Spyware (I-SPY) Prevention Act of 2007
 - 2007-03-14 — Introduced in House
 - 2007-03-14 — Introduced in House
 - 2007-03-14 — Referred to the House Committee on the Judiciary.
+- 2007-03-30 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2007-05-01 — Subcommittee Hearings Held.
+- 2007-05-02 — Committee Consideration and Mark-up Session Held.
+- 2007-05-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-05-02 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2007-05-21 — Placed on the Union Calendar, Calendar No. 95.
+- 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-159.
+- 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-159.

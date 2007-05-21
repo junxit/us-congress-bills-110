@@ -15,7 +15,7 @@ This Act may be cited as the “Internet Spyware (I–SPY) Prevention Act of 200
 
 ## § 2. Penalties for certain unauthorized activities relating to computers
 
-- **(a)** *In General* Chapter 47 of title 18, is amended by inserting after section 1030 the following:
+- **(a)** *In General* Chapter 47 of title 18, United States Code, is amended by inserting after section 1030 the following:
   > ## § 1030A. Illicit indirect use of protected computers
   >
   > - **(a)** Whoever intentionally accesses a protected computer without authorization, or exceeds authorized access to a protected computer, by causing a computer program or code to be copied onto the protected computer, and intentionally uses that program or code in furtherance of another Federal criminal offense shall be fined under this title or imprisoned not more than 5 years, or both.
@@ -34,7 +34,7 @@ This Act may be cited as the “Internet Spyware (I–SPY) Prevention Act of 200
   >     - **(F)** a credit card or bank account number or any password or access code associated with a credit card or bank account.
   > - **(e)** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a political subdivision of a State, or of an intelligence agency of the United States.
 
-- **(b)** *Conforming Amendment* The table of sections at the beginning of chapter 47 of title 18, is amended by inserting after the item relating to section 1030 the following new item:
+- **(b)** *Clerical Amendment* The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by inserting after the item relating to section 1030 the following new item:
 
 ## § 3. Authorization of appropriations
 

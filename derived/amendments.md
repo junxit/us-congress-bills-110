@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1525
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Chapter 47 of title 18, is amended by inserting after section 1030 the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 47 of title 18, is amended by inserting after the item relating to section 1030 the following new item: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1030` | insert | Chapter 47 of title 18, United States Code, is amended by inserting after section 1030 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1030` | insert | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by inserting after the item relating to section 1030 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
