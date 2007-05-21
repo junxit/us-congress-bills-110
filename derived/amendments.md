@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-48 amendatory instructions. 32 executed, 16 stated and not applied.
+39 amendatory instructions. 21 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,113 +24,14 @@ to guess them.
 
 ## Executed
 
-### 18 U.S.C. § 207
+### 18 U.S.C. § 216
 
-> in the subsection heading, by striking “One-Year” and inserting “Two-Year”;
-
-| | |
-|---|---|
-| Removed | `One-Year` |
-| Inserted | `Two-Year` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (1), by striking “1 year” and inserting “2 years” each place it appears; and
+> Section 216 of title 18, United States Code, is amended by striking “or 209” each place it appears and inserting “, 209, or 220”.
 
 | | |
 |---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (2)(B), by striking “1-year period” and inserting “2-year period”; and
-
-| | |
-|---|---|
-| Removed | `1-year period` |
-| Inserted | `2-year period` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (1), by striking “1 year” and inserting “2 years”; and
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (2)(A), by striking “1 year” and inserting “2 years”.
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (1)(A), by striking “1 year” and inserting “2 years”;
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (2)(A), by striking “1 year” and inserting “2 years”;
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (3), by striking “1 year” and inserting “2 years”;
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (4), by striking “1 year” and inserting “2 years”;
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (5)(A), by striking “1 year” and inserting “2 years”; and
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
-
-### 18 U.S.C. § 207
-
-> in paragraph (6), by striking “1-year period” and inserting “2-year period” each place it appears; and
-
-| | |
-|---|---|
-| Removed | `1-year period` |
-| Inserted | `2-year period` |
-
-### 18 U.S.C. § 207
-
-> in subsection (f), by striking “1 year” and inserting “2 years”.
-
-| | |
-|---|---|
-| Removed | `1 year` |
-| Inserted | `2 years` |
+| Removed | `or 209` |
+| Inserted | `, 209, or 220` |
 
 ### 2 U.S.C. § 1604
 
@@ -322,8 +223,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | redesignate | The Rules of the House of Representatives are amended by redesignating rules XXVII and XXVIII as rules XXVIII and XXIX, respectively, and by inserting after rule XXVI the following new rule: | the bill names no machine-readable US Code section |
-| `18 U.S.C. § 227` | add-at-end | Chapter 11 of title 18, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 227` | add-at-end | Chapter 11 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 227` | add-at-end | The table of sections for chapter 11 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 219` | insert | Chapter 11 of title 18, United States Code, is amended by inserting after section 219 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 219` | insert | The table of sections for chapter 11 of title 18, United States Code, is amended by inserting after the item relating to section 219 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1604` | add-at-end | Section 5 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1604` | strike | in paragraph (3), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1604` | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
