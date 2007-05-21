@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2264
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | The Sherman Act (15 U.S.C. 1 et seq.) is amended by adding after section 7 the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (6), by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (7), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1` | amend | The Sherman Act (15 U.S.C. 1 et seq.) is amended by adding after section 7 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1605` | strike | in paragraph (6), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `28 U.S.C. § 1605` | replace | in paragraph (7), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `28 U.S.C. § 1605` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | amend | The Sherman Act (15 U.S.C. 1 et seq.) is amended by adding after section 7 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1605` | strike | in paragraph (6), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `28 U.S.C. § 1605` | replace | in paragraph (7), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `28 U.S.C. § 1605` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
