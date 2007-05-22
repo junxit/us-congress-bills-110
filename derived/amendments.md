@@ -1,7 +1,7 @@
 ---
 measure: S. 33
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `vocational and adult education` |
 | Inserted | `career, technical, and adult education` |
 
-### 20 U.S.C. § 3401
+### 20 U.S.C. § 3416
 
 > in subsection (b)(1)(C), by striking “Assistant Secretary for Vocational and Adult Education” and inserting “Assistant Secretary for Career, Technical, and Adult Education”; and
 
@@ -69,7 +69,7 @@ to guess them.
 | Removed | `Assistant Secretary for Vocational and Adult Education` |
 | Inserted | `Assistant Secretary for Career, Technical, and Adult Education` |
 
-### 20 U.S.C. § 3401
+### 20 U.S.C. § 3416
 
 > in subsection (h), by striking “Assistant Secretary for Vocational and Adult Education” each place the term appears and inserting “Assistant Secretary for Career, Technical, and Adult Education”; and
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `Assistant Secretary for Vocational and Adult Education` |
 | Inserted | `Assistant Secretary for Career, Technical, and Adult Education` |
 
-### 20 U.S.C. § 3401
+### 20 U.S.C. § 3416
 
 > Section 114(b)(1) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2324(b)(1)) is amended by striking “Office of Vocational and Adult Education” and inserting “Office of Career, Technical, and Adult Education”.
 
@@ -96,4 +96,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 3401` | replace | in the table of contents in section 1, by striking the item relating to section 206 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 3416` | replace | in the table of contents in section 1, by striking the item relating to section 206 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
