@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1427
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1427
@@ -28,6 +28,26 @@ Federal Housing Finance Reform Act of 2007
 
 - House — Financial Services Committee
 
+## Recorded votes (17)
+
+- 2007-05-17 — [House 110-1-378](votes/house-110-1-0378.md) — On Agreeing to the Amendment — **Failed** (148–269)
+- 2007-05-17 — [House 110-1-379](votes/house-110-1-0379.md) — On Agreeing to the Amendment — **Failed** (164–253)
+- 2007-05-17 — [House 110-1-380](votes/house-110-1-0380.md) — On Agreeing to the Amendment — **Failed** (176–240)
+- 2007-05-17 — [House 110-1-381](votes/house-110-1-0381.md) — On Agreeing to the Amendment — **Failed** (154–263)
+- 2007-05-17 — [House 110-1-382](votes/house-110-1-0382.md) — On Agreeing to the Amendment — **Failed** (173–245)
+- 2007-05-17 — [House 110-1-383](votes/house-110-1-0383.md) — On Agreeing to the Amendment — **Failed** (92–322)
+- 2007-05-22 — [House 110-1-386](votes/house-110-1-0386.md) — On Agreeing to the Amendment — **Failed** (174–246)
+- 2007-05-22 — [House 110-1-387](votes/house-110-1-0387.md) — On Agreeing to the Amendment — **Agreed to** (235–188)
+- 2007-05-22 — [House 110-1-388](votes/house-110-1-0388.md) — On Agreeing to the Amendment — **Failed** (183–240)
+- 2007-05-22 — [House 110-1-389](votes/house-110-1-0389.md) — On Agreeing to the Amendment — **Failed** (163–260)
+- 2007-05-22 — [House 110-1-390](votes/house-110-1-0390.md) — On Agreeing to the Amendment — **Failed** (180–243)
+- 2007-05-22 — [House 110-1-391](votes/house-110-1-0391.md) — On Agreeing to the Amendment — **Agreed to** (217–205)
+- 2007-05-22 — [House 110-1-392](votes/house-110-1-0392.md) — On Agreeing to the Amendment — **Failed** (155–263)
+- 2007-05-22 — [House 110-1-393](votes/house-110-1-0393.md) — On Agreeing to the Amendment — **Failed** (164–256)
+- 2007-05-22 — [House 110-1-394](votes/house-110-1-0394.md) — On Agreeing to the Amendment — **Agreed to** (383–36)
+- 2007-05-22 — [House 110-1-395](votes/house-110-1-0395.md) — On Motion to Recommit with Instructions — **Failed** (182–232)
+- 2007-05-22 — [House 110-1-396](votes/house-110-1-0396.md) — On Passage — **Passed** (313–104)
+
 ## Actions
 
 - 2007-03-09 — Introduced in House
@@ -39,3 +59,224 @@ Federal Housing Finance Reform Act of 2007
 - 2007-05-09 — Placed on the Union Calendar, Calendar No. 84.
 - 2007-05-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-142.
 - 2007-05-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-142.
+- 2007-05-15 — Rules Committee Resolution H. Res. 404 Reported to House. Rule provides for consideration of H.R. 1427 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by title. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution.
+- 2007-05-16 — Sponsor introductory remarks on measure. (CR E1071)
+- 2007-05-17 — Amendment (A001) offered by Mr. Bachus. (consideration: CR H5417-5421, H5443; text: CR H5417)
+- 2007-05-17 — Amendment (A002) offered by Mr. Kanjorski. (consideration: CR H5421-5422; text: CR H5421)
+- 2007-05-17 — Amendment (A003) offered by Mr. Hensarling. (consideration: CR H5422-5424, H5443-5444; text: CR H5422)
+- 2007-05-17 — Amendment (A004) offered by Mr. Hinojosa. (consideration: CR H5424; text: CR H5424)
+- 2007-05-17 — Amendment (A005) offered by Mr. Neugebauer. (consideration: CR H5424-5427; text: CR H5424)
+- 2007-05-17 — Amendment (A007) offered by Mr. McHenry. (consideration: CR H5429-5430, H5430-5431, H5444-5445; text: CR H5429)
+- 2007-05-17 — Amendment (A008) offered by Mr. Kanjorski. (consideration: CR H5431-5432, H5445; text: CR H5431-5432)
+- 2007-05-17 — Amendment (A009) offered by Mr. Roskam. (consideration: CR H5432-5436, H5445-5446; text: CR H5432)
+- 2007-05-17 — Amendment (A010) offered by Mr. Blumenauer. (consideration: CR H5436-5437; text: CR H5436-5437)
+- 2007-05-17 — Amendment (A011) offered by Mr. Garrett (NJ). (consideration: CR H5437-5442, H5446-5447; text: CR H5437-5438)
+- 2007-05-17 — Amendment (A012) offered by Mr. Green, Al. (consideration: CR H5442; text: CR H5442)
+- 2007-05-17 — Amendment (A013) offered by Mr. Feeney. (consideration: CR H5447-5448; text: CR H5447)
+- 2007-05-17 — Amendment (A014) offered by Mr. Price (GA). (consideration: CR H5448-5451; text: CR H5449)
+- 2007-05-17 — Amendment (A015) offered by Mr. Sessions. (consideration: CR H5451-5455; text: CR H5451-5452)
+- 2007-05-17 — Amendment (A016) offered by Mr. Brady (TX). (consideration: CR H5455-5458; text: CR H5455)
+- 2007-05-17 — Amendment (A017) offered by Mr. Doolittle. (consideration: CR H5458-5459; text: CR H5458)
+- 2007-05-17 — Amendment (A018) offered by Mr. Hensarling. (consideration: CR H5459-5460; text: CR H5459)
+- 2007-05-17 — Amendment (A019) offered by Mr. Miller, Gary. (consideration: CR H5460; text: CR H5460)
+- 2007-05-17 — Amendment (A020) offered by Mr. Price (GA). (consideration: CR H5460-5461; text: CR H5460)
+- 2007-05-17 — Amendment (A021) offered by Mr. Doolittle. (consideration: CR H5461-5462; text: CR H5461)
+- 2007-05-17 — Amendment (A022) offered by Mr. Garrett (NJ). (consideration: CR H5462-5463; text: CR H5462)
+- 2007-05-17 — Amendment (A023) offered by Mr. Hensarling. (consideration: CR H5463-5465; text: CR H5463)
+- 2007-05-17 — Amendment agreed to Committee of the Whole
+- 2007-05-17 — Amendment agreed to Committee of the Whole
+- 2007-05-17 — Amendment agreed to Committee of the Whole
+- 2007-05-17 — Amendment agreed to Committee of the Whole
+- 2007-05-17 — Amendment agreed to Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendment failed in Committee of the Whole
+- 2007-05-17 — Amendments (A006) offered by Mr. Frank (MA). (consideration: CR H5427-5429; text: CR H5427-5428)
+- 2007-05-17 — By unanimous consent, the Blumenauer amendment was withdrawn.
+- 2007-05-17 — By unanimous consent, the Green, Al amendment was withdrawn.
+- 2007-05-17 — By unanimous consent, the Hensarling amendment was withdrawn.
+- 2007-05-17 — By unanimous consent, the Miller, Gary amendment was withdrawn.
+- 2007-05-17 — COMMITTEE OF THE WHOLE - The Committee of the Whole resumed its sitting.
+- 2007-05-17 — COMMITTEE OF THE WHOLE - The Committee of the Whole rose informally to receive a message from the Senate.
+- 2007-05-17 — Considered under the provisions of rule H. Res. 404. (consideration: CR H5374-5430, H5430-5447, H5447-5467; text of measure as reported in House: CR H5383-5417)
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Al Green of Texas amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Bachus amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Blumenauer amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Brady (TX) amendment under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Doolittle amendment #25 pending reservation of a point of order.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Doolittle amendment under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Feeney amendment under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Frank of Massachussetts En Bloc Amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Garrett (NJ) amendment under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Garrett of New Jersey amendment No. 17 under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Gary Miller (CA) amendment.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Hensarling amendment #30 under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Hensarling amendment No. 29 under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Hensarling amendment under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Hinojosa amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Kanjorski amendment No. 22(1) under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Kanjorski amendment no. 15 under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the McHenry amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Neugebauer amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Price (GA) amendment #9 under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Price (GA) amendment #9 under the five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Roskam amendment under five-minute rule.
+- 2007-05-17 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Sessions amendment under the five-minute rule.
+- 2007-05-17 — Frank (MA) amendment (A006) modified by unanimous consent. Amendment no. 2 modified (consideration: CR H5428)
+- 2007-05-17 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1427.
+- 2007-05-17 — Garrett (NJ) amendment (A022) modified by unanimous consent. (consideration: CR H5463)
+- 2007-05-17 — House amendment agreed to: On agreeing to the Frank (MA) amendments (A006) as modified Agreed to by voice vote.(text as modified: CR H5428)
+- 2007-05-17 — House amendment agreed to: On agreeing to the Garrett (NJ) amendment (A022) as modified Agreed to by voice vote.(text as modified: CR H5463)
+- 2007-05-17 — House amendment agreed to: On agreeing to the Hinojosa amendment (A004) Agreed to by voice vote.
+- 2007-05-17 — House amendment agreed to: On agreeing to the Kanjorski amendment (A002) Agreed to by voice vote.
+- 2007-05-17 — House amendment agreed to: On agreeing to the Neugebauer amendment (A005) Agreed to by voice vote.
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Bachus amendment (A001) Failed by recorded vote: 148 - 269 (Roll no. 378).
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Garrett (NJ) amendment (A011) Failed by recorded vote: 92 - 322 (Roll no. 383).
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Hensarling amendment (A003) Failed by recorded vote: 164 - 253 (Roll no. 379).
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Kanjorski amendment (A008) Failed by recorded vote: 154 - 263 (Roll no. 381).
+- 2007-05-17 — House amendment not agreed to: On agreeing to the McHenry amendment (A007) Failed by recorded vote: 176 - 240 (Roll no. 380).
+- 2007-05-17 — House amendment not agreed to: On agreeing to the Roskam amendment (A009) Failed by recorded vote: 173 - 245 (Roll no. 382).
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered
+- 2007-05-17 — House amendment offered/reported by : Amendment (A001) offered by Mr. Bachus.(consideration: CR H5417-5421, H5443; text: CR H5417)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A002) offered by Mr. Kanjorski.(consideration: CR H5421-5422; text: CR H5421)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A003) offered by Mr. Hensarling.(consideration: CR H5422-5424, H5443-5444; text: CR H5422)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A004) offered by Mr. Hinojosa.(consideration: CR H5424; text: CR H5424)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A005) offered by Mr. Neugebauer.(consideration: CR H5424-5427; text: CR H5424)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A007) offered by Mr. McHenry.(consideration: CR H5429-5430, H5430-5431, H5444-5445; text: CR H5429)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A008) offered by Mr. Kanjorski.(consideration: CR H5431-5432, H5445; text: CR H5431-5432)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A009) offered by Mr. Roskam.(consideration: CR H5432-5436, H5445-5446; text: CR H5432)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A010) offered by Mr. Blumenauer.(consideration: CR H5436-5437; text: CR H5436-5437)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A011) offered by Mr. Garrett (NJ).(consideration: CR H5437-5442, H5446-5447; text: CR H5437-5438)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A012) offered by Mr. Green, Al.(consideration: CR H5442; text: CR H5442)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A013) offered by Mr. Feeney.(consideration: CR H5447-5448; text: CR H5447)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A014) offered by Mr. Price (GA).(consideration: CR H5448-5451; text: CR H5449)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A015) offered by Mr. Sessions.(consideration: CR H5451-5455; text: CR H5451-5452)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A016) offered by Mr. Brady (TX).(consideration: CR H5455-5458; text: CR H5455)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A017) offered by Mr. Doolittle.(consideration: CR H5458-5459; text: CR H5458)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A018) offered by Mr. Hensarling.(consideration: CR H5459-5460; text: CR H5459)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A019) offered by Mr. Miller, Gary.(consideration: CR H5460; text: CR H5460)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A020) offered by Mr. Price (GA).(consideration: CR H5460-5461; text: CR H5460)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A021) offered by Mr. Doolittle.(consideration: CR H5461-5462; text: CR H5461)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A022) offered by Mr. Garrett (NJ).(consideration: CR H5462-5463; text: CR H5462)
+- 2007-05-17 — House amendment offered/reported by : Amendment (A023) offered by Mr. Hensarling.(consideration: CR H5463-5465; text: CR H5463)
+- 2007-05-17 — House amendment offered/reported by : Amendments (A006) offered by Mr. Frank (MA).(consideration: CR H5427-5429; text: CR H5427-5428)
+- 2007-05-17 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 404 and Rule XVIII.
+- 2007-05-17 — Mr. Frank (MA) raised a point of order against the Doolittle amendment (A017). Mr. Frank stated that the provisions of the Doolittle amendment exceed the scope of the bill and as such, the amendment is not germane. The Chair sustained the point of order.
+- 2007-05-17 — ORDER OF PROCEDURE - Mr. Spratt asked unanimous consent that, during further consideration of H.R. 1427 pursuant to H. Res. 404, the Chair may reduce to two minutes the minimum time for electronic voting under clause 6 of rule 18 and clauses 8 and 9 of rule 20. Agreed to without objection.
+- 2007-05-17 — On agreeing to the Bachus amendment (A001) Failed by recorded vote: 148 - 269 (Roll no. 378).
+- 2007-05-17 — On agreeing to the Frank (MA) amendments (A006) as modified Agreed to by voice vote. (text as modified: CR H5428)
+- 2007-05-17 — On agreeing to the Garrett (NJ) amendment (A011) Failed by recorded vote: 92 - 322 (Roll no. 383).
+- 2007-05-17 — On agreeing to the Garrett (NJ) amendment (A022) as modified Agreed to by voice vote. (text as modified: CR H5463)
+- 2007-05-17 — On agreeing to the Hensarling amendment (A003) Failed by recorded vote: 164 - 253 (Roll no. 379).
+- 2007-05-17 — On agreeing to the Hinojosa amendment (A004) Agreed to by voice vote.
+- 2007-05-17 — On agreeing to the Kanjorski amendment (A002) Agreed to by voice vote.
+- 2007-05-17 — On agreeing to the Kanjorski amendment (A008) Failed by recorded vote: 154 - 263 (Roll no. 381).
+- 2007-05-17 — On agreeing to the McHenry amendment (A007) Failed by recorded vote: 176 - 240 (Roll no. 380).
+- 2007-05-17 — On agreeing to the Neugebauer amendment (A005) Agreed to by voice vote.
+- 2007-05-17 — On agreeing to the Roskam amendment (A009) Failed by recorded vote: 173 - 245 (Roll no. 382).
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bachus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Bachus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Brady (TX) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Brady (TX) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Doolittle amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Doolittle demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Feeney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Feeney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment no. 17, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garrett demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment no. 29, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kanjorski amendment no. 15, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Feeney demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McHenry amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McHenry demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment #9, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Roskam amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Roskam demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-05-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sessions amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sessions demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Roll call votes on amendments in House
+- 2007-05-17 — Rule H. Res. 404 passed House.
+- 2007-05-17 — Rule provides for consideration of H.R. 1427 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by title. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution.
+- 2007-05-17 — The Speaker designated the Honorable Mike Ross to act as Chairman of the Committee.
+- 2007-05-18 — Amendment (A024) offered by Mr. Neugebauer. (consideration: CR H5465-5467; text: CR H5465)
+- 2007-05-18 — Committee of the Whole House on the state of the Union rises leaving H.R. 1427 as unfinished business.
+- 2007-05-18 — DEBATE - Pursuant to the provisions of H. Res. 404, the Committee of the Whole proceeded with debate on the Neugebauer amendment under the five-minute rule.
+- 2007-05-18 — House amendment offered
+- 2007-05-18 — House amendment offered/reported by : Amendment (A024) offered by Mr. Neugebauer.(consideration: CR H5465-5467; text: CR H5465)
+- 2007-05-18 — Mr. Frank (MA) moved that the Committee rise.
+- 2007-05-18 — On motion that the Committee rise Agreed to by voice vote.
+- 2007-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hensarling amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hensarling demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neugebauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Neugebauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2007-05-22 — Amendment agreed to Committee of the Whole
+- 2007-05-22 — Amendment agreed to Committee of the Whole
+- 2007-05-22 — Amendment agreed to by House: On agreeing to the Neugebauer amendment (A005) Agreed to by recorded vote: 383 - 36 (Roll no. 394).(consideration: CR H5568-5569)
+- 2007-05-22 — Amendment failed in Committee of the Whole
+- 2007-05-22 — Amendment failed in Committee of the Whole
+- 2007-05-22 — Amendment failed in Committee of the Whole
+- 2007-05-22 — Amendment failed in Committee of the Whole
+- 2007-05-22 — Amendment failed in Committee of the Whole
+- 2007-05-22 — Amendment failed in Committee of the Whole
+- 2007-05-22 — Considered as unfinished business. (consideration: CR H5560-5572)
+- 2007-05-22 — DEBATE - The House proceeded with 10 minutes of debate on the Cantor motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments offsetting the costs of providing assistance to individuals and families to increase home ownership for all Americans and inserting provisions on the use of fund amounts.
+- 2007-05-22 — House amendment agreed to: On agreeing to the Doolittle amendment (A021) Agreed to by recorded vote: 217 - 205 (Roll no. 391).(consideration: CR H5565-5566)
+- 2007-05-22 — House amendment agreed to: On agreeing to the Neugebauer amendment (A005) Agreed to by recorded vote: 383 - 36 (Roll no. 394).(consideration: CR H5568-5569)
+- 2007-05-22 — House amendment agreed to: On agreeing to the Price (GA) amendment (A014) Agreed to by recorded vote: 235 - 188 (Roll no. 387).(consideration: CR H5562-5563)
+- 2007-05-22 — House amendment not agreed to: On agreeing to the Brady (TX) amendment (A016) Failed by recorded vote: 163 - 260 (Roll no. 389).(consideration: CR H5564-5565)
+- 2007-05-22 — House amendment not agreed to: On agreeing to the Feeney amendment (A013) Failed by recorded vote: 174 - 246 (Roll no. 386).(consideration: CR H5561-5562)
+- 2007-05-22 — House amendment not agreed to: On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 155 - 263 (Roll no. 392).(consideration: CR H5566-5567)
+- 2007-05-22 — House amendment not agreed to: On agreeing to the Neugebauer amendment (A024) Failed by recorded vote: 164 - 256 (Roll no. 393).(consideration: CR H5567-5568)
+- 2007-05-22 — House amendment not agreed to: On agreeing to the Price (GA) amendment (A020) Failed by recorded vote: 180 - 243 (Roll no. 390).(consideration: CR H5565)
+- 2007-05-22 — House amendment not agreed to: On agreeing to the Sessions amendment (A015) Failed by recorded vote: 183 - 240 (Roll no. 388).(consideration: CR H5563-5564)
+- 2007-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-22 — Mr. Cantor moved to recommit with instructions to Financial Services. (consideration: CR H5569-5571)
+- 2007-05-22 — Mr. Westmoreland demanded a separate vote on the Neugebauer amendment (A005).
+- 2007-05-22 — On agreeing to the Brady (TX) amendment (A016) Failed by recorded vote: 163 - 260 (Roll no. 389). (consideration: CR H5564-5565)
+- 2007-05-22 — On agreeing to the Doolittle amendment (A021) Agreed to by recorded vote: 217 - 205 (Roll no. 391). (consideration: CR H5565-5566)
+- 2007-05-22 — On agreeing to the Feeney amendment (A013) Failed by recorded vote: 174 - 246 (Roll no. 386). (consideration: CR H5561-5562)
+- 2007-05-22 — On agreeing to the Hensarling amendment (A023) Failed by recorded vote: 155 - 263 (Roll no. 392). (consideration: CR H5566-5567)
+- 2007-05-22 — On agreeing to the Neugebauer amendment (A005) Agreed to by recorded vote: 383 - 36 (Roll no. 394). (consideration: CR H5568-5569)
+- 2007-05-22 — On agreeing to the Neugebauer amendment (A024) Failed by recorded vote: 164 - 256 (Roll no. 393). (consideration: CR H5567-5568)
+- 2007-05-22 — On agreeing to the Price (GA) amendment (A014) Agreed to by recorded vote: 235 - 188 (Roll no. 387). (consideration: CR H5562-5563)
+- 2007-05-22 — On agreeing to the Price (GA) amendment (A020) Failed by recorded vote: 180 - 243 (Roll no. 390). (consideration: CR H5565)
+- 2007-05-22 — On agreeing to the Sessions amendment (A015) Failed by recorded vote: 183 - 240 (Roll no. 388). (consideration: CR H5563-5564)
+- 2007-05-22 — On motion to recommit with instructions Failed by recorded vote: 182 - 232 (Roll no. 395).
+- 2007-05-22 — On passage Passed by recorded vote: 313 - 104 (Roll no. 396).
+- 2007-05-22 — Passed/agreed to in House: On passage Passed by recorded vote: 313 - 104 (Roll no. 396).
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — Roll call votes on amendments in House
+- 2007-05-22 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1427.
+- 2007-05-22 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-05-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2007-05-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1427.
+- 2007-05-22 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H5571)
+- 2007-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5568)
+- 2007-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

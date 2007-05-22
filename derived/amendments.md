@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1427
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-355 amendatory instructions. 138 executed, 217 stated and not applied.
+361 amendatory instructions. 138 executed, 223 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1335,7 +1335,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 4541` | replace | by striking the designation and heading for the part and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4541` | strike | by striking sections 1321 and 1322. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4543` | insert | Part 2 of subtitle A of title XIII of the Housing and Community Development Act of 1992 is amended by inserting before section 1323 (12 U.S.C. 4543) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 4502` | strike | by striking paragraph (17) (relating to the definition of “new program”) ; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4502` | strike | by striking paragraph (17) (relating to the definition of “new program”); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4502` | redesignate | by redesignating paragraphs (18) through (23) as paragraphs (17) through (22), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1717` | strike | in the 4th sentence, by striking “the Resolution Trust Corporation,”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 4541` | replace | by striking the 7th and 8th sentences and inserting the following new sentences: “For 2007, such limitations shall not exceed $417,000 for a mortgage secured by a single-family residence, $533,850 for a mortgage secured by a 2-family res… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1346,6 +1346,11 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1717` | insert | Subpart A of part 2 of subtitle A of title XIII of the Housing and Community Development Act of 1992 (as amended by the preceding provisions of this Act) is amended by inserting after section 1321 (as added by section 132 of this Act) th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4544` | replace | The Housing and Community Development Act of 1992 is amended by striking section 1324 (12 U.S.C. 4544) and inserting the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4548` | insert | The Housing and Community Development Act of 1992 is amended by inserting after section 1328 (12 U.S.C. 4548) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4541` | add-at-end | Subpart A of part 2 of subtitle A of title XIII of the Housing and Community Development Act of 1992 (12 U.S.C. 4541 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1719` | add-at-end | Section 304 of the Federal National Mortgage Association Charter Act (12 U.S.C. 1719) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1454` | add-at-end | Section 305 of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1430` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1430` | insert | by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4561-4` | replace | The Housing and Community Development Act of 1992 is amended by striking sections 1331 through 1334 (12 U.S.C. 4561–4) and inserting the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4502` | redesignate | by redesignating paragraphs (19) through (22) as paragraphs (23) through (26), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1490` | insert | by inserting after paragraph (18) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1398,7 +1403,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 4585` | insert | by inserting “, or request that the Attorney General of the United States bring such an action” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 4585` | strike | by striking subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4585` | redesignate | by redesignating subsection (g) as subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 4588` | insert | by inserting “or request that the Attorney General of the United States bring such an action,” after “District of Columbia,” | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 4588` | insert | by inserting “or request that the Attorney General of the United States bring such an action,” after “District of Columbia,”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 4581` | amend | The heading for subpart C of part 2 of subtitle A of title XIII of the Housing and Community Development Act of 1992 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4543` | insert | in the section heading for section 1323 (12 U.S.C. 4543), by inserting “of enterprises” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 4547` | strike | by striking section 1327 (12 U.S.C. 4547); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1462,6 +1467,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1422` | redesignate | by redesignating paragraphs (12) and (13) as paragraphs (9) and (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1422` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1427` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1427` | insert | in the first sentence, by inserting after “less than one” the following: “or two, as determined by the board of directors of the appropriate Federal home loan bank,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1427` | insert | by inserting “(A) except as provided in clause (B) of this sentence,” before “if at any time”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1427` | insert | by inserting before the period at the end the following: “, and (B) clause (A) of this sentence shall not apply to the directorships of any Federal home loan bank resulting from the merger of any two or more such banks”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1427` | strike | by striking “elective” each place such term appears (except in subsections (c), (e), and (f)). | the bill quotes the text struck but describes what replaces it |
