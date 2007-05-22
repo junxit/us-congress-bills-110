@@ -1,7 +1,7 @@
 ---
 measure: S. 863
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 863
@@ -16,12 +16,13 @@ Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007
 - 2007-03-13 — Introduced in Senate
 - 2007-03-13 — Read twice and referred to the Committee on the Judiciary.
 - 2007-03-13 — Sponsor introductory remarks on measure. (CR S3072-3073)
+- 2007-03-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-69. Additional views filed.
+- 2007-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-69. Additional views filed.
+- 2007-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
