@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2078
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2078
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 14536 S
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
 - Rep. Regula, Ralph [R-OH-16] (R000141)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 14536 S
 - 2007-05-21 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5484)
 - 2007-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5484)
+- 2007-05-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
