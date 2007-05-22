@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1402
@@ -64,3 +64,7 @@ To designate the facility of the United States Postal Service located at 320 Sou
 - 2007-04-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 247). (text: CR H3731)
 - 2007-04-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 247).(text: CR H3731)
 - 2007-04-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-05-21 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-05-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-05-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.
