@@ -26,4 +26,4 @@ This Act may be cited as the “Securing Aircraft Cockpits Against Lasers Act of
   >   - **(3)** by an individual using a laser emergency signaling device to send an emergency distress signal.
   > - **(d)** The Attorney General, in consultation with the Secretary of Transportation, may provide by regulation, after public notice and comment, such additional exceptions to this section, as may be necessary and appropriate. The Attorney General shall provide written notification of any proposed regulations under this section to the Committees on the Judiciary of the House and Senate, the Committee on Transportation and Infrastructure in the House, and the Committee on Commerce, Science and Transportation in the Senate not less than 90 days before such regulations become final.
 
-- **(b)** *Amendment to Table of Sections* The table of sections at the beginning of chapter 2 of title 18, United States Code, is amended by adding at the end the following new item:
+- **(b)** *Clerical Amendment* The table of sections at the beginning of chapter 2 of title 18, United States Code, is amended by adding at the end the following new item:
