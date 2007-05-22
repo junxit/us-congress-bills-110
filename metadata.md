@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1615
@@ -37,3 +37,9 @@ Securing Aircraft Cockpits Against Lasers Act of 2007
 - 2007-05-14 — Placed on the Union Calendar, Calendar No. 89.
 - 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-149.
 - 2007-05-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-149.
+- 2007-05-22 — Considered under suspension of the rules. (consideration: CR H5551-5553)
+- 2007-05-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1615.
+- 2007-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-22 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2007-05-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5551)
+- 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5551)
