@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2264
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2264
@@ -35,6 +35,10 @@ NOPEC
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2007-05-22 — [House 110-1-398](votes/house-110-1-0398.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (345–72)
+
 ## Actions
 
 - 2007-05-10 — Introduced in House
@@ -46,3 +50,11 @@ NOPEC
 - 2007-05-21 — Placed on the Union Calendar, Calendar No. 96.
 - 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-160.
 - 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-160.
+- 2007-05-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-22 — Considered as unfinished business. (consideration: CR H5581-5582)
+- 2007-05-22 — Considered under suspension of the rules. (consideration: CR H5556-5560)
+- 2007-05-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2264.
+- 2007-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-22 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2007-05-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 72 (Roll no. 398). (text: CR H5556-5557)
+- 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 72 (Roll no. 398).(text: CR H5556-5557)
