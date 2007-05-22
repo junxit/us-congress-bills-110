@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1722
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1722
@@ -52,3 +52,13 @@ To designate the facility of the United States Postal Service located at 601 Ban
 - 2007-03-27 — Introduced in House
 - 2007-03-27 — Introduced in House
 - 2007-03-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-05-01 — Committee Consideration and Mark-up Session Held.
+- 2007-05-01 — Ordered to be Reported by Voice Vote.
+- 2007-05-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-21 — Considered under suspension of the rules. (consideration: CR H5483-5484)
+- 2007-05-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1722.
+- 2007-05-21 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2007-05-22 — Considered as unfinished business. (consideration: CR H5583-5584)
+- 2007-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 401). (text: CR 5/21/2007 H5484)
+- 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 401).(text: CR 5/21/2007 H5484)
