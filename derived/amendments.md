@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2399
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -42,11 +42,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1324` | amend | by amending the subsection heading to read as follows: “Smuggling of Unlawful and Terrorist Aliens.—” | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1324` | redesignate | by redesignating clause (iv) of paragraph (1)(B) as clause (vi); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1324` | amend | by amending the subsection heading to read as follows: “Smuggling of Unlawful and Terrorist Aliens.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1324` | redesignate | by redesignating clause (iv) of paragraph (1)(B) as clause (vii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1365` | replace | in paragraph (1), by striking “(1)(A)” and all that follows through clause (iii) of subparagraph (B) and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1324` | insert | by inserting “and if the offense involves kidnaping, an attempt to kidnap, the conduct required for aggravated sexual abuse (as defined in section 2241 without regard to where it takes place), or an attempt to commit such abuse, or an at… | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1324` | replace | by striking subparagraph (C) of paragraph (1) and all that follows through paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1324` | replace | by striking existing subparagraph (C) of paragraph (1) (without affecting the new subparagraph (C) added by the amendments made by this Act) and all that follows through paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2237` | amend | Subsection (b) of section 2237 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2237` | insert | by inserting “(1)” after “(c)”; | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2237` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
