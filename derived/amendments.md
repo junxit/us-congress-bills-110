@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2272
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-154 amendatory instructions. 37 executed, 117 stated and not applied.
+154 amendatory instructions. 26 executed, 128 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -195,42 +195,6 @@ to guess them.
 | Removed | `developing and offering mathematics or science enrichment programs for students, including after-school and summer programs;` |
 | Inserted | `developing educational programs and materials and conducting mathematics, science, and technology enrichment programs for students, including after-school programs and summer camps for students described in subsection (b)(2)(G);` |
 
-### 20 U.S.C. § 6301
-
-> by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; and
-
-| | |
-|---|---|
-| Removed | `under this paragraph` |
-| Inserted | `under subparagraph (A)(i)` |
-
-### 20 U.S.C. § 6301
-
-> in subparagraph (D)(i), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”;
-
-| | |
-|---|---|
-| Removed | `under this paragraph` |
-| Inserted | `under subparagraph (A)(i)` |
-
-### 20 U.S.C. § 6301
-
-> in subparagraph (D)(ii), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”;
-
-| | |
-|---|---|
-| Removed | `under this paragraph` |
-| Inserted | `under subparagraph (A)(i)` |
-
-### 20 U.S.C. § 6301
-
-> in subparagraph (E), by striking “under this paragraph” both places it appears and inserting “under subparagraph (A)(i)”;
-
-| | |
-|---|---|
-| Removed | `under this paragraph` |
-| Inserted | `under subparagraph (A)(i)` |
-
 ### 42 U.S.C. § 1862n-2
 
 > in subsection (b)(1) by striking “of such institutions” and inserting “thereof”.
@@ -269,15 +233,6 @@ to guess them.
 
 ### 15 U.S.C. § 278
 
-> by striking “on or before January 31 in each year” and inserting “within 30 days after the submission to Congress of the President’s annual budget request in each year”; and
-
-| | |
-|---|---|
-| Removed | `on or before January 31 in each year` |
-| Inserted | `within 30 days after the submission to Congress of the President’s annual budget request in each year` |
-
-### 15 U.S.C. § 278
-
 > Section 10(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278(d)) is amended by striking “quarterly” and inserting “twice each year”.
 
 | | |
@@ -294,7 +249,7 @@ to guess them.
 | Removed | `nor more than 60 new fellows` |
 | Inserted | `nor more than 120 new fellows` |
 
-### 15 U.S.C. § 264
+### 15 U.S.C. § 261
 
 > Section 3 of the Act of March 19, 1918, (commonly known as the “Calder Act”) (15 U.S.C. 264) is amended by striking “third zone” and inserting “fourth zone”.
 
@@ -302,60 +257,6 @@ to guess them.
 |---|---|
 | Removed | `third zone` |
 | Inserted | `fourth zone` |
-
-### 15 U.S.C. § 5511
-
-> in the title heading, by striking “AND THE NATIONAL RESEARCH AND EDUCATION NETWORK” and inserting “RESEARCH AND DEVELOPMENT”;
-
-| | |
-|---|---|
-| Removed | `AND THE NATIONAL RESEARCH AND EDUCATION NETWORK` |
-| Inserted | `RESEARCH AND DEVELOPMENT` |
-
-### 15 U.S.C. § 5511
-
-> by striking “paragraph (3)(A)” and inserting “paragraph (2)(D)”;
-
-| | |
-|---|---|
-| Removed | `paragraph (3)(A)` |
-| Inserted | `paragraph (2)(D)` |
-
-### 15 U.S.C. § 5511
-
-> in subparagraph (C), by striking “specific activities” and all that follows through “the Network” and inserting “each Program Component Area”;
-
-| | |
-|---|---|
-| Removed | `specific activities” and all that follows through “the Network` |
-| Inserted | `each Program Component Area` |
-
-### 15 U.S.C. § 5511
-
-> in subparagraph (D), by striking “applies;” and inserting “applies; and”;
-
-| | |
-|---|---|
-| Removed | `applies;` |
-| Inserted | `applies; and` |
-
-### 15 U.S.C. § 5511
-
-> in section 101(c)(1)(A), by striking “Program or” and inserting “Program Component Areas or”.
-
-| | |
-|---|---|
-| Removed | `Program or` |
-| Inserted | `Program Component Areas or` |
-
-### 15 U.S.C. § 5503
-
-> by striking “and applications” and inserting “applications”; and
-
-| | |
-|---|---|
-| Removed | `and applications` |
-| Inserted | `applications` |
 
 ## Stated, not applied
 
@@ -397,8 +298,8 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n-1` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1862n-1` | insert | in paragraph (5), by inserting “or section 10A” after “subsection (d)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | The National Science Foundation Authorization Act of 2002 is amended by inserting after section 10 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n-1` | insert | in the paragraph heading by inserting “Teacher” after “Noyce”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-1` | insert | by inserting “Teacher” after “Noyce”. | the bill quotes the text inserted but describes where it goes |
@@ -417,15 +318,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1862n` | insert | by inserting after paragraph (1) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862n` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6301` | replace | in subparagraph (A) by striking “competitive, merit-based” and all that follows through “in recent years.” and inserting | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 6301` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6301` | insert | by inserting “(i)” before “The types of”; | the bill quotes the text inserted but describes where it goes |
-| `20 U.S.C. § 6301` | redesignate | by redesignating clauses (i) through (vi) as subclauses (I) through (VI), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6301` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6301` | add-at-end | after subparagraph (D)(iii), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6301` | redesignate | by redesignating subparagraph (F) as subparagraph (J); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 6301` | insert | by inserting after subparagraph (E) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1862n` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (A) by striking “competitive, merit-based” and all that follows through “in recent years.” and inserting | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(i)” before “The types of”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clauses (i) through (vi) as subclauses (I) through (VI), respectively; | the bill names no machine-readable US Code section |
+| — | replace | by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D)(i), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D)(ii), by striking “under this paragraph” and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
+| — | add-at-end | after subparagraph (D)(iii), by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “under this paragraph” both places it appears and inserting “under subparagraph (A)(i)”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (F) as subparagraph (J); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (E) the following new subparagraphs: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1862n` | amend | Section 4(8) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “master teacher” and inserting “teacher leader”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “master teacher” and inserting “teacher leader”; and | the bill names no machine-readable US Code section |
@@ -439,12 +344,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1862n-2` | insert | in subsection (a)(1), by inserting “or eligible nonprofit organizations” after “institutions of higher education”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1862n-2` | insert | in subsection (b)(1) by inserting “or an eligible nonprofit organization” after “institution of higher education”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1870` | insert | Section 11(f) of the National Science Foundation Act of 1950 (42 U.S.C. 1870(f)) is amended by inserting at the end before the semicolon “, except that funds may be donated for specific prize competitions”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1862l` | insert | Section 201(a)(2)(D) of the National Science Foundation Authorization Act of 1998 (42 U.S.C. 1862l(a)(2)(D)) is amended by inserting “and for major upgrades of facilities in support of Antarctic research programs” after “facilities const… | the bill quotes the text inserted but describes where it goes |
+| — | insert | Section 201(a)(2)(D) of the National Science Foundation Authorization Act of 1998 (42 U.S.C. 1862l(a)(2)(D)) is amended by inserting “and for major upgrades of facilities in support of Antarctic research programs” after “facilities const… | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 4862n-5` | insert | by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1863` | amend | Subsection (g) of section 4 of the National Science Foundation Act of 1950 (42 U.S.C. 1863(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1881a` | amend | Section 6(c) of the National Science Foundation Authorization Act of 1975 (42 U.S.C. 1881a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278i` | add-at-end | Section 23 of the National Institute of Standards and Technology Act (15 U.S.C. 278i) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 278` | amend | by adding to the end the following: “Such report also shall comment on the programmatic planning document and updates thereto transmitted to the Congress by the Director under section 23(c) and (d).”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “on or before January 31 in each year” and inserting “within 30 days after the submission to Congress of the President’s annual budget request in each year”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding to the end the following: “Such report also shall comment on the programmatic planning document and updates thereto transmitted to the Congress by the Director under section 23(c) and (d).”. | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 278k` | add-at-end | Section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278k` | amend | Section 25(d) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278k` | add-at-end | Section 25 of the National Institute of Standards and Technology Act (15 U.S.C. 278k), as amended by subsection (a) of this section, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -453,7 +359,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 271` | redesignate | by redesignating the first section 32 (15 U.S.C. 271 note) as section 34 and moving it to the end of the Act; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 271` | insert | by inserting before the section moved by paragraph (1) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278g-1` | insert | by inserting “(a) In General.—” before “The Director is authorized”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 278g-1` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 278g-1` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 272` | insert | Section 2(b)(4) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)(4)) is amended by inserting “and grants and cooperative agreements,” after “arrangements,”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 278b` | add-at-end | Section 12 of the National Institute of Standards and Technology Act (15 U.S.C. 278b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 278d` | insert | by inserting “(a) In General.—” before “Within”; and | the bill quotes the text inserted but describes where it goes |
@@ -462,24 +368,30 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 205` | amend | Section 3570 of the Revised Statues of the United States (derived from section 2 of the Act of July 28, 1866, entitled “An Act to authorize the Use of the Metric System of Weights and Measures” (15 U.S.C. 205; 14 Stat. 339)) is amended t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | The Act of July 21, 1950, entitled “An Act To redefine the units and establish the standards of electrical and photometric measurements” (15 U.S.C. 223 and 224) is repealed. | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 260a` | replace | by striking the second sentence and the extra period after it and inserting “Except as provided in section 3(a) of the Uniform Time Act of 1966 (15 U.S.C. 260a), the standard time of the first zone shall be Coordinated Universal Time ret… | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 261` | add-at-end | by adding at the end the following: “In this section, the term Coordinated Universal Time means the time scale maintained through the General Conference of Weights and Measures and interpreted or modified for the United States by the Sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 3711a` | amend | Section 17(c)(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711a(c)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | replace | by striking subparagraphs (A) and (B) of paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | redesignate | by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | redesignate | by redesignating subparagraphs (A) and (C) as subparagraphs (D) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | redesignate | by inserting before subparagraph (D), as so redesignated by clause (ii) of this subparagraph, the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | redesignate | by inserting after subparagraph (D), as so redesignated by clause (ii) of this subparagraph, the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | amend | by amending subparagraph (A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | insert | in subparagraph (D), by inserting “and for each Program Component Area” after “participating in the Program”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5511` | redesignate | by striking subparagraph (E) and redesignating subparagraph (F) as subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5511` | redesignate | in subparagraph (E), as so redesignated by clause (vi) of this subparagraph, by inserting “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Pr… | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5511` | replace | by striking subsection (b) of section 101 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5503` | insert | in paragraph (2), by inserting “and multidisciplinary teams of researchers” after “high-performance computing resources”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5503` | strike | by striking “scientific workstations,”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 5503` | strike | by striking “(including vector supercomputers and large scale parallel systems)”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 5503` | insert | by inserting “, and the management of large data sets” after “systems software”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5503` | strike | in paragraph (4), by striking “packet switched”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 5503` | strike | by striking “and” at the end of paragraph (5); | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 5503` | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 5503` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 261` | amend | by adding at the end the following: “In this section, the term Coordinated Universal Time means the time scale maintained through the General Conference of Weights and Measures and interpreted or modified for the United States by the Sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 17(c)(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711a(c)(3)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in the title heading, by striking “AND THE NATIONAL RESEARCH AND EDUCATION NETWORK” and inserting “RESEARCH AND DEVELOPMENT”; | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraphs (A) and (B) of paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (2) and redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; | the bill names no machine-readable US Code section |
+| — | strike | by striking subparagraph (B); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (A) and (C) as subparagraphs (D) and (F), respectively; | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting before subparagraph (D), as so redesignated by clause (ii) of this subparagraph, the following new subparagraphs: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subparagraph (D), as so redesignated by clause (ii) of this subparagraph, the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (3)(A)” and inserting “paragraph (2)(D)”; | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (A) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking “specific activities” and all that follows through “the Network” and inserting “each Program Component Area”; | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (D), by inserting “and for each Program Component Area” after “participating in the Program”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “applies;” and inserting “applies; and”; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subparagraph (E) and redesignating subparagraph (F) as subparagraph (E); and | the bill names no machine-readable US Code section |
+| — | redesignate | in subparagraph (E), as so redesignated by clause (vi) of this subparagraph, by inserting “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Pr… | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (b) of section 101 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in section 101(c)(1)(A), by striking “Program or” and inserting “Program Component Areas or”. | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “and multidisciplinary teams of researchers” after “high-performance computing resources”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “scientific workstations,”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “(including vector supercomputers and large scale parallel systems)”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “and applications” and inserting “applications”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, and the management of large data sets” after “systems software”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4), by striking “packet switched”; | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of paragraph (5); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

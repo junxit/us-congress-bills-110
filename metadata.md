@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2272
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2272
@@ -55,3 +55,4 @@ America Creating Opportunities to Meaningfully Promote Excellence in Technology,
 - 2007-05-21 — Mr. Wu moved to suspend the rules and pass the bill.
 - 2007-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5496-5510)
 - 2007-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5496-5510)
+- 2007-05-22 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 159.
