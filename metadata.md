@@ -1,7 +1,7 @@
 ---
 measure: H.R. 698
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 698
@@ -164,9 +164,10 @@ Industrial Bank Holding Company Act of 2007
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -191,3 +192,4 @@ Industrial Bank Holding Company Act of 2007
 - 2007-05-21 — Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.
 - 2007-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 16, 1 Present (Roll no. 384). (text: CR H5477-5480)
 - 2007-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 16, 1 Present (Roll no. 384).(text: CR H5477-5480)
+- 2007-05-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

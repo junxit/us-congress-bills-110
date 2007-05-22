@@ -1,7 +1,7 @@
 ---
 measure: H.R. 698
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -82,10 +82,10 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1813` | add-at-end | Section 3(w) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1813` | insert | by inserting “, and any industrial bank holding company and any subsidiary of an industrial bank holding company (other than a bank)” after “insured branch”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1813` | insert | by inserting “, and any industrial bank holding company” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1811` | add-at-end | The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1813` | add-at-end | The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1818` | add-at-end | Section 8(b) of the Federal Deposit Insurance Act (12 U.S.C. 1818(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831o` | replace | by striking “bank holding company.—Prohibiting any bank” and inserting | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1831o` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1813` | replace | by striking “bank holding company.—Prohibiting any bank” and inserting | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1813` | amend | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1820` | insert | Section 10(e)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1820(e)(2)) is amended by inserting “or section 51” after “subsection (b)(4)”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 3401` | strike | in subparagraph (B), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 3401` | insert | in subparagraph (C), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
