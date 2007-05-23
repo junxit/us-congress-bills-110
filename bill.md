@@ -17,3 +17,4 @@ This Act may be cited as the “Veterans Outreach Improvement Act of 2007”.
 
 - **(a)** *In general* Chapter 5 of title 38, United States Code, is amended by adding at the end the following new subchapter:
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new items:
+- **(c)** *Deadline for implementation* The Secretary of Veterans Affairs shall implement the outreach activities required under subchapter IV of chapter 5 of title 38, United States Code, as added by subsection (a), by not later than 120 days after the date of the enactment of this Act.
