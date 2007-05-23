@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1525
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1525
@@ -24,9 +24,10 @@ Internet Spyware (I-SPY) Prevention Act of 2007
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Internet Spyware (I-SPY) Prevention Act of 2007
 - 2007-05-22 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
 - 2007-05-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5548)
 - 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5548)
+- 2007-05-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
