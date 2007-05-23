@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2264
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2264
@@ -54,3 +54,4 @@ NOPEC
 - 2007-05-22 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
 - 2007-05-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 72 (Roll no. 398). (text: CR H5556-5557)
 - 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 72 (Roll no. 398).(text: CR H5556-5557)
+- 2007-05-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.
