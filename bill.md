@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 2451
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2451
+
+> To provide for the redeployment of United States Armed Forces and defense contractors from Iraq.
+
+## § 1. Redeployment of United States Armed Forces and defense contractors from Iraq
+
+- **(a)** *Commencement of redeployment* Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall commence the redeployment of units and members of the Armed Forces deployed in Iraq as part of Operation Iraqi Freedom and contractors operating in Iraq and funded using amounts appropriated to the Department of Defense.
+- **(b)** *Completion of redeployment* The Secretary of Defense shall complete the redeployment of the Armed Forces and defense contractors from Iraq by June 30, 2008.
+- **(c)** *Authority To determine locations outside of Iraq for redeployment* Nothing in this section shall be construed to restrict the locations outside of Iraq to which units and members of the Armed Forces redeployed from Iraq may be transferred, including redeployment to an adjacent or nearby country at the invitation of the government of the country or redeployment to bolster military forces deployed in Afghanistan as part of Operation Enduring Freedom.
+- **(d)** *Authority To retain Armed Forces in Iraq for limited purposes* The Secretary of Defense may retain in Iraq members of the Armed Forces for the purpose of providing security for the United States Embassy and other United States diplomatic missions in Iraq; protecting American citizens, including members of the Armed Forces; serving in roles consistent with customary diplomatic positions; engaging in targeted special actions limited in duration and scope to killing or capturing members of al-Qaeda and other terrorist organizations with global reach; and training and equipping members of the Iraqi Security Forces. At the request of the Government of Iraq, the Secretary of Defense may retain in Iraq members of the Army Corps of Engineers and defense contractors engaged in reconstruction projects in Iraq, to the extent necessary to complete such projects.
+- **(e)** *Availability of funds for safe and orderly redeployment* Notwithstanding any other provision of law, funds appropriated or otherwise made available in any Act are immediately available for obligation and expenditure to plan and execute a safe and orderly redeployment of the Armed Forces and defense contractors from Iraq, as required by this section.
+- **(f)** *Transfer of united states military facilities in Iraq* The President of the United States shall transfer to the Government of Iraq all right, title, and interest held by the United States in any military facility in Iraq that was constructed, repaired, or improved using amounts appropriated to the Department of Defense and occupied by a unit of the Armed Forces.
+- **(g)** *Prohibition on use of funds To further deploy united states armed forces to Iraq* Beginning on the date of the completion of the redeployment of the Armed Forces from Iraq under subsection (b), funds appropriated or otherwise made available under any provision of law may not be obligated or expended to further deploy units or members of the Armed Forces to Iraq, including through participation in any multinational force in Iraq, except as provided under subsection (d) or unless such deployment of units or members of the Armed Forces is specifically authorized in advance by an Act of Congress.
+- **(h)** *Assistance to Iraqi security forces and multinational forces in Iraq* Nothing in this section shall be construed to prohibit or otherwise restrict the use of funds available to the Department of Defense for the purpose of providing financial assistance or equipment to the Iraqi Security Forces or multinational forces providing security or training in Iraq at the request of the Government of Iraq.
+- **(i)** *Continuation of diplomatic, social, and economic reconstruction activities in Iraq* Nothing in this section shall be construed to prohibit or otherwise restrict the use of funds available to any department or agency of the United States (other than the Department of Defense) to carry out diplomatic, social, and economic reconstruction activities in Iraq at the request of the Government of Iraq.
+- **(j)** *Asylum or other means of protection for Iraqi citizens* Nothing in this section shall be construed to prohibit or otherwise restrict the authority of the President to arrange asylum or other means of protection for Iraqi citizens who might be physically endangered by the redeployment of the Armed Forces from Iraq.
+- **(k)** *Definition* In this section, the term Armed Forces has the meaning given the term in section 101(a)(4) of title 10, United States Code.
