@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 128
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 128
@@ -33,3 +33,4 @@ Authorizing the printing of a commemorative document in memory of the late Presi
 - 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5547)
 - 2007-05-23 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6572)
 - 2007-05-23 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6572)
+- 2007-05-24 — Message on Senate action sent to the House.

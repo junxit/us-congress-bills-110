@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 128
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 128
@@ -14,7 +14,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(a)** *In General* A commemorative document in memory of the late President of the United States, Gerald Rudolph Ford, shall be printed as a House document, with illustrations and suitable binding, under the direction of the Joint Committee on Printing.
 - **(b)** *Contents* The document shall consist of the eulogies and encomiums for Gerald Rudolph Ford, as expressed in the Senate and the House of Representatives, together with the texts of each of the following:
   - **(1)** The funeral ceremony at Palm Desert, California.
-  - **(2)** The state funeral ceremony at the rotunda of the United States Capitol.
+  - **(2)** The state funeral ceremony at the Rotunda of the United States Capitol.
   - **(3)** The national funeral service held at the Washington National Cathedral in the District of Columbia.
   - **(4)** The interment ceremony at the Gerald Ford Presidential Museum, Grand Rapids, Michigan.
 
