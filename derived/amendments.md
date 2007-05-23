@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1615
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 2 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections at the beginning of chapter 2 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | amend | Chapter 2 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections at the beginning of chapter 2 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
