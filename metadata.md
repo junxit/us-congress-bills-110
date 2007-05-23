@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1252
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1252
@@ -16,7 +16,7 @@ Federal Price Gouging Prevention Act
 
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 
-## Cosponsors (78)
+## Cosponsors (125)
 
 - Rep. Boucher, Rick [D-VA-9] (B000657)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
@@ -96,11 +96,62 @@ Federal Price Gouging Prevention Act
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Obey, David R. [D-WI-7] (O000007)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 
 ## Committees (2)
 
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2007-05-23 — [House 110-1-404](votes/house-110-1-0404.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (284–141)
 
 ## Actions
 
@@ -109,3 +160,12 @@ Federal Price Gouging Prevention Act
 - 2007-02-28 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-28 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-28 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-03-01 — Referred to the Subcommittee on Commerce, Trade and Consumer Protection.
+- 2007-05-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-05-23 — Considered as unfinished business. (consideration: CR H5647)
+- 2007-05-23 — Considered under suspension of the rules. (consideration: CR H5628-5636)
+- 2007-05-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1252.
+- 2007-05-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-23 — Mr. Rush moved to suspend the rules and pass the bill, as amended.
+- 2007-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 284 - 141 (Roll no. 404). (text: CR H5628-5629)
+- 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 284 - 141 (Roll no. 404).(text: CR H5628-5629)
