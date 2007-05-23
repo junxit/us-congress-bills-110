@@ -1,7 +1,7 @@
 ---
 measure: S. 231
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 231
@@ -16,7 +16,7 @@ A bill to authorize the Edward Byrne Memorial Justice Assistance Grant Program a
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (16)
+## Cosponsors (52)
 
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
@@ -34,6 +34,42 @@ A bill to authorize the Edward Byrne Memorial Justice Assistance Grant Program a
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 - Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (1)
 
@@ -44,3 +80,7 @@ A bill to authorize the Edward Byrne Memorial Justice Assistance Grant Program a
 - 2007-01-09 — Introduced in Senate
 - 2007-01-09 — Read twice and referred to the Committee on the Judiciary.
 - 2007-01-09 — Sponsor introductory remarks on measure. (CR S299-300)
+- 2007-03-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-05-23 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-05-23 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.
