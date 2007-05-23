@@ -1,7 +1,7 @@
 ---
 measure: S. 1352
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1352
@@ -33,3 +33,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-05-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-05-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.
+- 2007-05-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6572-6573; text as passed Senate: CR S6573)
+- 2007-05-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6572-6573; text as passed Senate: CR S6573)
