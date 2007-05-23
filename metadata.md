@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2399
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2399
@@ -26,10 +26,11 @@ Alien Smuggling and Terrorism Prevention Act of 2007
 - Rep. Ellsworth, Brad [D-IN-8] (E000289)
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
 
-## Committees (2)
+## Committees (3)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Alien Smuggling and Terrorism Prevention Act of 2007
 - 2007-05-22 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
 - 2007-05-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 0, 6 Present (Roll no. 400). (text: CR H5576-5578)
 - 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 412 - 0, 6 Present (Roll no. 400).(text: CR H5576-5578)
+- 2007-05-23 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
