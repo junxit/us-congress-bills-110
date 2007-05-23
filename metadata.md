@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1722
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1722
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 601 Ban
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Weldon, Dave [R-FL-15] (W000267)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ To designate the facility of the United States Postal Service located at 601 Ban
 - 2007-05-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-05-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 401). (text: CR 5/21/2007 H5484)
 - 2007-05-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 401).(text: CR 5/21/2007 H5484)
+- 2007-05-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
