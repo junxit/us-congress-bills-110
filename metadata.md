@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 375
@@ -20,9 +20,10 @@ A bill to waive application of the Indian Self-Determination and Education Assis
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A bill to waive application of the Indian Self-Determination and Education Assis
 - 2007-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
 - 2007-05-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6492; text as passed Senate: CR S6492)
 - 2007-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6492; text as passed Senate: CR S6492)
+- 2007-05-23 — Message on Senate action sent to the House.
+- 2007-05-23 — Received in the House.
+- 2007-05-23 — Referred to the House Committee on Natural Resources.
