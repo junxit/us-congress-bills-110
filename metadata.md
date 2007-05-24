@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 158
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 158
@@ -26,3 +26,4 @@ Providing for an adjournment or recess of the two Houses.
 - 2007-05-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR 5/25/2007 H5758)
 - 2007-05-24 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6924; text: CR S6924)
 - 2007-05-24 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6924; text: CR S6924)
+- 2007-05-25 — Message on Senate action sent to the House.
