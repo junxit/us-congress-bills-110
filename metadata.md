@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1100
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1100
@@ -34,9 +34,10 @@ Carl Sandburg Home National Historic Site Boundary Revision Act of 2007
 - Rep. Bean, Melissa L. [D-IL-8] (B001253)
 - Rep. Ellsworth, Brad [D-IN-8] (E000289)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -99,3 +100,4 @@ Carl Sandburg Home National Historic Site Boundary Revision Act of 2007
 - 2007-05-23 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
 - 2007-05-23 — The previous question was ordered pursuant to the rule. (consideration: CR H5666)
 - 2007-05-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
