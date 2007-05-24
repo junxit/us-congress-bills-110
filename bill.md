@@ -1,0 +1,126 @@
+---
+legis-num: H.R. 2500
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2500
+
+> To require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration and the Jet Propulsion Laboratory.
+
+## § 1. Short title
+
+This Act may be cited as the “NASA and JPL 50th Anniversary Commemorative Coin Act”.
+
+## § 2. Findings
+
+The Congress finds as follows:
+
+- **(1)** The National Aeronautics and Space Administration began operation on October 1, 1958, with about 8,000 employees and an annual budget of $100,000,000.
+- **(2)** Over the next 50 years, the National Aeronautics and Space Administration and the Jet Propulsion Laboratory have been involved in many defining events which have shaped the course of human history and demonstrated to the world the character of the people of the United States.
+- **(3)** Among the many firsts by the National Aeronautics and Space Administration are the following:
+  - **(A)** On December 6, 1958, the United States launched Pioneer 3, the first United States satellite to ascend to an altitude of 63,580 miles.
+  - **(B)** On March 3, 1959, the United States sent Pioneer 4 to the Moon, successfully making the first United States lunar flyby.
+  - **(C)** On April 1, 1960, the United States launched TIROS 1, the first successful meteorological satellite, observing Earth’s weather.
+  - **(D)** On May 5, 1961, Freedom 7, carrying Astronaut Alan B. Shepard, Jr., was the first American space flight involving human beings.
+  - **(E)** On February 20, 1962, John Glenn became the first American to circle the Earth, making three orbits in his Friendship 7 Mercury spacecraft.
+  - **(F)** On December 14, 1962, Mariner 2 became the first spacecraft to commit a successful planetary flyby (Venus).
+  - **(G)** On April 6, 1965, the United States launched Intelsat I, the first commercial satellite (communications), into geostationary orbit.
+  - **(H)** On June 3–7, 1965, the second piloted Gemini mission, Gemini IV, stayed aloft for 4 days and astronaut Edward H. White II performed the first EVA or spacewalk by an American.
+  - **(I)** On June 2, 1966, Surveyor 1 became the first American spacecraft to soft-land on the Moon.
+  - **(J)** On November 13, 1971, the United States launched Mariner 9, the first mission to orbit another planet (Mars).
+  - **(K)** On April 12, 1981, the National Aeronautics and Space Administration launched the Space Shuttle Columbia on the first flight of the Space Transportation System (STS–1).
+  - **(L)** On June 18–24, 1983, the National Aeronautics and Space Administration launched Space Shuttle Challenger (STS–7) carrying 3 mission specialists, including Sally K. Ride, the first woman astronaut.
+  - **(M)** In another historic mission, 2 months later the National Aeronautics and Space Administration launched STS–8 carrying the first black American astronaut, Guion S. Bluford.
+  - **(N)** On July 22, 1999, the Space Shuttle Columbia’s 26th flight was led by Air Force Col. Eileen Collins, the first woman to command a Shuttle mission.
+- **(4)** On April 9, 1959, the National Aeronautics and Space Administration unveiled the Mercury astronaut corps, 7 men with “the right stuff”: John H. Glenn, Jr., Walter M. Schirra, Jr., Alan B. Shepard, Jr., M. Scott Carpenter, L. Gordon Cooper, Virgil I. “Gus” Grissom, and Donald K. “Deke” Slayton.
+- **(5)** On May 25, 1961, President John F. Kennedy, reflecting the highest aspirations of the American people, proclaimed: “I believe this Nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to Earth. No single space project in this period will be more impressive to mankind, or more important in the long-range exploration of space; and none will be so difficult or expensive to accomplish.”
+- **(6)** On September 19, 1961, the National Aeronautics and Space Administration announced that the National Aeronautics and Space Administration center dedicated to human space flight would be built in Houston, Texas.
+- **(7)** In 1973, the Manned Spacecraft Center in Houston, was renamed the Lyndon B. Johnson Space Center.
+- **(8)** On December 21, 1968, Apollo 8 took off atop a Saturn V booster from the Kennedy Space Center for a historic mission to orbit the Moon.
+- **(9)** As Apollo 8 traveled outward, the crew focused a portable television camera on Earth and for the first time humanity saw its home from afar, a tiny, lovely, and fragile “blue marble” hanging in the blackness of space.
+- **(10)** This transmission and viewing of Earth from a distance was an enormously significant accomplishment and united the Nation at a time when American society was in crisis over Vietnam, race relations, urban problems, and a host of other difficulties.
+- **(11)** On July 20, 1969, Apollo 11 astronauts Neil A. Armstrong and Edwin E. Aldrin made the first lunar landing mission while Michael Collins orbited overhead in the Apollo command module.
+- **(12)** Armstrong set foot on the surface, telling the millions of listeners that it was “one small step for man, one giant leap for mankind”; Aldrin soon followed and planted an American flag, but omitted claiming the land for the United States as had routinely been done during European exploration of the Americas.
+- **(13)** The 2 Moon walkers left behind an American flag and a plaque bearing the inscription: “Here Men From Planet Earth First Set Foot Upon the Moon. Jul. 1969 A.D. We came in Peace for All Mankind.”
+- **(14)** On July 4, 1997, the Mars Pathfinder landed on Mars and on January 29, 1998, an International Space Station agreement among 15 countries met in Washington, D.C., to sign agreements to establish the framework for cooperation among the partners on the design, development, operation, and utilization of the Space Station.
+- **(15)** The National Aeronautics and Space Administration’s stunning achievements over the last 50 years have been won for all mankind at great cost and sacrifice; in the quest to explore the universe, many National Aeronautics and Space Administration employees have lost their lives, including the crews of Apollo 6, the Space Shuttle Challenger, and the Space Shuttle Columbia.
+- **(16)** The United States should pay tribute to the National Aeronautics and Space Administration and the Jet Propulsion Laboratory by minting and issuing a commemorative silver dollar coin.
+- **(17)** The surcharge proceeds from the sale of a commemorative coin would generate valuable funding for the National Aeronautics and Space Administration Families Assistance Fund for the purposes of providing need-based financial assistance to the families of the National Aeronautics and Space Administration personnel who die as a result of injuries suffered in the performance of their official duties.
+
+## § 3. Coin specifications
+
+- **(a)** *Denominations* In commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration and the Jet Propulsion Laboratory, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
+  - **(1)** *$50 gold coins* Not more than 50,000 $50 gold coins which shall—
+    - **(A)** weigh 33.931 grams;
+    - **(B)** have a diameter of 32.7 millimeters; and
+    - **(C)** contain 1 troy ounce of fine gold.
+  - **(2)** *$1 silver coins* Not more than 300,000 $1 coins of each of the 9 designs specified in section 3(a)(3)(B), which shall—
+    - **(A)** weigh 26.73 grams;
+    - **(B)** have a diameter of 1.500 inches; and
+    - **(C)** contain 90 percent silver and 10 percent copper.
+- **(b)** *Legal tender* The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
+- **(c)** *Numismatic items* For purposes of section 5134 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
+- **(d)** *Mintage level limit* Notwithstanding the mintage level limit described under section 5112(m)(2)(A)(ii) of title 31, United States Code, the Secretary of the Treasury may mint and issue not more than 300,000 of each of the 9 $1 coins authorized to be minted under this Act.
+
+## § 4. Design of coins
+
+- **(a)** *Design requirements*
+  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the 50 years of exemplary and unparalleled achievements of the National Aeronautics and Space Administration and the Jet Propulsion Laboratory.
+  - **(2)** *Designation and inscriptions* On each coin minted under this Act there shall be—
+    - **(A)** a designation of the value of the coin;
+    - **(B)** an inscription of the year “2008”; and
+    - **(C)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”, and such other inscriptions as the Secretary may determine to be appropriate for the designs of the coins.
+  - **(3)** *Coin images*
+    - **(A)** *$50 coins*
+      - **(i)** *Obverse* The obverse of the $50 coins issued under this Act shall bear an image of the sun.
+      - **(ii)** *Reverse* The reverse of the $50 coins issued under this Act shall bear a design emblematic of the sacrifice of the United States astronauts who lost their lives in the line of duty over the course of the space program.
+      - **(iii)** *High relief* The design and inscriptions on the obverse and reverse of the $50 coins issued under this Act shall be in high relief.
+    - **(B)** *$1 coins*
+      - **(i)** *Obverse* The obverse of the $1 coins issued under this Act shall bear 9 different designs each of which shall consist of an image of 1 of the 9 planets of the solar system, including Earth.
+      - **(ii)** *Reverse* The reverse of the $1 coins issued under this Act shall bear different designs each of which shall be emblematic of discoveries and missions of the Jet Propulsion Laboratory to the planet depicted on the obverse of the coin, subject to the following requirements:
+        - **(I)** *Earth coin* The reverse of the $1 coins issued under this Act which bear an image of the Earth on the obverse shall bear images emblematic of, and honoring, the discoveries and missions of the National Aeronautics and Space Administration, the Mercury, Gemini and Space Shuttle missions and other manned Earth-orbiting missions, and the Apollo missions to the Moon.
+        - **(II)** *Jupiter coin* The reverse of the $1 coins issued under this Act which bear an image of the planet Jupiter on the obverse shall include a scientifically accurate depiction of the Galilean moon Europa and depict both a past and future mission to Europa.
+        - **(III)** *Saturn coin* The reverse of the $1 coins issued under this Act which bear an image of the planet Saturn on the obverse shall include a scientifically accurate depiction of the moon Titan and depict both a past and a future mission to Titan.
+        - **(IV)** *Pluto (and other dwarf planets) coin* The reverse of the $1 coins issued under this Act which bear an image of the planet Pluto on the obverse shall include a design that is emblematic of telescopic exploration of deep space by the National Aeronautics and Space Administration and the ongoing search for Earth-like planets orbiting other stars.
+  - **(4)** *Realistic and scientifically accurate depictions* The images for the designs of coins issued under this Act shall be selected on the basis of the realism and scientific accuracy of the images and on the extent to which the images are reminiscent of the dramatic and beautiful artwork on coins of the so-called “Golden Age of Coinage” in the United States, at the beginning of the Twentieth Century, with the participation of such noted sculptors and medallic artists as James Earle Fraser, Augustus Saint-Gaudens, Victor David Brenner, Adolph A. Weinman, Charles E. Barber, and George T. Morgan.
+- **(b)** *Selection* The design for the coins minted under this Act shall be—
+  - **(1)** selected by the Secretary after consultation with the Administrator of the National Aeronautics and Space Administration, the Director of the Jet Propulsion Laboratory, and the Commission of Fine Arts; and
+  - **(2)** reviewed by the Citizens Coin Advisory Committee.
+
+## § 5. Issuance of coins
+
+- **(a)** *Quality of coins* Coins minted under this Act shall be issued in proof quality only.
+- **(b)** *Mint facility* Only 1 facility of the United States Mint may be used to strike any particular combination of denomination and quality of the coins minted under this Act.
+- **(c)** *Commencement of issuance* The Secretary may issue coins minted under this Act beginning January 1, 2008.
+- **(d)** *Termination of minting authority* No coins may be minted under this Act after December 31, 2008.
+- **(e)** *Issuance of gold coins* Each gold coin minted under this Act may be issued only as part of a complete set with 1 of each of the 9 $1 coins minted under this Act.
+
+## § 6. Sale of coins
+
+- **(a)** *Sale price* The coins issued under this Act shall be sold by the Secretary at a price equal to the sum of—
+  - **(1)** the face value of the coins;
+  - **(2)** the surcharge provided in section 7(a) with respect to such coins; and
+  - **(3)** the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
+- **(b)** *Prepaid orders*
+  - **(1)** *In general* The Secretary shall accept prepaid orders for the coins minted under this Act before the issuance of such coins.
+  - **(2)** *Discount* Sale prices with respect to prepaid orders under paragraph (1) shall be at a reasonable discount.
+- **(c)** *Presentation* In addition to the issuance of coins under this Act in such other methods of presentation as the Secretary of the Treasury determines to be appropriate, the Secretary shall provide, as a sale option, a presentation case which displays the $50 gold coin in the center surrounded by the $1 silver coins in elliptical orbits. All such presentation cases shall bear a plaque with appropriate inscriptions that include the names and dates of the spacecraft missions on which United States astronauts lost their lives over the course of the space program and the names of such astronauts.
+
+## § 7. Surcharges
+
+- **(a)** *In general* All sales of coins minted under this Act shall include a surcharge as follows:
+  - **(1)** A surcharge of $50 per coin for the $50 coin.
+  - **(2)** A surcharge of $10 per coin for the $1 coin.
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly distributed as follows:
+  - **(1)** The first $4,000,000 available for distribution under this section, to the NASA Family Assistance Fund for the purposes of providing need-based financial assistance to the families of NASA personnel who die as a result of injuries suffered in the performance of their official duties.
+  - **(2)** Of amounts available for distribution after the payment under paragraph (1), 1/2 of the next $1,000,000 to each of the following:
+    - **(A)** The Dr. Ronald E. McNair Educational (D.R.E.M.E.) Science Literacy Foundation for the purposes of improving and strengthening the process of teaching and learning science, math, and technology at all educational levels, elementary thru college through the promotion of innovative educational programs.
+    - **(B)** The Dorothy Jemison Foundation for Excellence for the purposes of supporting the work of the Foundation in building critical thinking skills, experiential teaching methods, science literacy, and integrated approaches to learning and individual responsibility in achieving excellence.
+  - **(3)** The reminder of the amounts available for distribution after the payments under paragraphs (1) and (2), to the Save America’s Treasures at the National Trust for Historic Preservation to be used for the preservation and display, at all appropriate sites, of vehicles flown as part of the United States space program, particularly of surviving space shuttle vehicles and artifacts, and of associated equipment.
+- **(c)** *Audits* The NASA Family Assistance Fund, the Dr. Ronald E. McNair Educational Science Literacy Foundation, the Dorothy Jemison Foundation for Excellence, and the Save America’s Treasures at the National Trust for Historic Preservation shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+
+## § 8. Bronze duplicates
+
+The Secretary may strike and sell bronze duplicates of the $50 gold coins authorized under this Act, at a price the Secretary determines to be appropriate. Such duplicates shall not be considered to be United States coins and shall not be legal tender.
