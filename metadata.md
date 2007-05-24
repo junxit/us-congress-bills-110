@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 76
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 76
@@ -47,3 +47,7 @@ Honoring the 50th Anniversary of the International Geophysical Year (IGY) and it
 - 2007-04-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 218). (text: CR 4/16/2007 H3391)
 - 2007-04-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 218).(text: CR 4/16/2007 H3391)
 - 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2007-05-24 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.
