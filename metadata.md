@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 76
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 76
@@ -55,3 +55,6 @@ Honoring the 50th Anniversary of the International Geophysical Year (IGY) and it
 - 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.
+- 2007-06-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8156-8158; text as passed Senate: CR S8156-8157)
+- 2007-06-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8156-8158; text as passed Senate: CR S8156-8157)
+- 2007-06-21 — Message on Senate action sent to the House.
