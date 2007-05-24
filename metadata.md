@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1470
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1470
@@ -35,9 +35,10 @@ Chiropractic Care Available to All Veterans Act
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -63,3 +64,4 @@ Chiropractic Care Available to All Veterans Act
 - 2007-05-23 — Mr. Filner moved to suspend the rules and pass the bill.
 - 2007-05-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 412). (text: CR H5668)
 - 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 421 - 1 (Roll no. 412).(text: CR H5668)
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
