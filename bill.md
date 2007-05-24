@@ -2,10 +2,12 @@
 legis-num: H. RES. 437
 congress: 110th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 437
+
+> Providing for consideration of the bill (H.R. 2317) to amend the Lobbying Disclosure Act of 1995 to require registered lobbyists to file quarterly reports on contributions bundled for certain recipients, and for other purposes and providing for the consideration of the bill (H.R. 2316) to provide more rigorous requirements with respect to disclosure and enforcement of lobbying laws and regulations, and for other purposes.
 
 That at any time after the adoption of this resolution it shall be in order to consider in the House the bill (H.R. 2317) to amend the Lobbying Disclosure Act of 1995 to require registered lobbyists to file quarterly reports on contributions bundled for certain recipients, and for other purposes. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chairman and ranking minority member of the Committee on the Judiciary; and (2) one motion to recommit with or without instructions.
 
