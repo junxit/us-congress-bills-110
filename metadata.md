@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2429
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2429
@@ -47,3 +47,15 @@ To amend title XVIII of the Social Security Act to provide an exception to the 6
 - 2007-05-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0, 1 Present (Roll no. 405). (text: CR H5636)
 - 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0, 1 Present (Roll no. 405).(text: CR H5636)
 - 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2007-07-24 — Cleared for White House.
+- 2007-07-24 — Passed Senate without amendment by Unanimous Consent.
+- 2007-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-07-24 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S9852)
+- 2007-07-24 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S9852)
+- 2007-07-25 — Message on Senate action sent to the House.
+- 2007-07-27 — Presented to President.
+- 2007-07-27 — Presented to President.
+- 2007-08-03 — Became Public Law No: 110-54.
+- 2007-08-03 — Became Public Law No: 110-54.
+- 2007-08-03 — Signed by President.
+- 2007-08-03 — Signed by President.
