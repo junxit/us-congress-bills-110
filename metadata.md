@@ -1,7 +1,7 @@
 ---
 measure: H.R. 740
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 740
@@ -60,3 +60,7 @@ Preventing Harassment through Outbound Number Enforcement Act of 2007
 - 2007-03-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 178). (text: CR H2790)
 - 2007-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 178).(text: CR H2790)
 - 2007-03-22 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2007-04-25 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2007-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 173.

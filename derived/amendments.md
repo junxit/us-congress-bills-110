@@ -1,7 +1,7 @@
 ---
 measure: H.R. 740
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,6 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (Fraud and related activity in connection with electronic mail),” after “1032”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1040 (Caller ID spoofing),” before “section 1111”. | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1037 (relating to fraud and related activity in connection with electronic mail), section 1040 (relating to caller ID spoofing),” before “section 1111”. | the bill quotes the text inserted but describes where it goes |
