@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1427
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1427
@@ -24,9 +24,10 @@ Federal Housing Finance Reform Act of 2007
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 - Rep. Terry, Lee [R-NE-2] (T000459)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -260,3 +261,4 @@ Federal Housing Finance Reform Act of 2007
 - 2007-05-22 — The previous question on the motion to recommit with instructions was ordered pursuant to the rule. (consideration: CR H5571)
 - 2007-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR H5568)
 - 2007-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
