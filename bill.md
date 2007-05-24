@@ -2,12 +2,14 @@
 legis-num: H. RES. 438
 congress: 110th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 438
 
-That upon adoption of this resolution it shall be in order to take from the Speaker's table the bill (H.R. 2206) making emergency supplemental appropriations and additional supplemental appropriations for agricultural and other emergency assistance for the fiscal year ending September 30, 2007, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chairman of the Committee on Appropriations or his designee that the House concur in the Senate amendment with the House amendments printed in the report of the Committee on Rules accompanying this resolution. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chairman and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion or demand for division of the question except that the Chair shall divide the question of adoption of the motion between the two House amendments.
+> Providing for consideration of the Senate amendment to the bill (H.R. 2206) making emergency supplemental appropriations and additional supplemental appropriations for agricultural and other emergency assistance for the fiscal year ending September 30, 2007, and for other purposes.
+
+That upon adoption of this resolution it shall be in order to take from the Speaker’s table the bill (H.R. 2206) making emergency supplemental appropriations and additional supplemental appropriations for agricultural and other emergency assistance for the fiscal year ending September 30, 2007, and for other purposes, with the Senate amendment thereto, and to consider in the House, without intervention of any point of order, a motion offered by the chairman of the Committee on Appropriations or his designee that the House concur in the Senate amendment with the House amendments printed in the report of the Committee on Rules accompanying this resolution. The Senate amendment and the motion shall be considered as read. The motion shall be debatable for one hour equally divided and controlled by the chairman and ranking minority member of the Committee on Appropriations. The previous question shall be considered as ordered on the motion to its adoption without intervening motion or demand for division of the question except that the Chair shall divide the question of adoption of the motion between the two House amendments.
 
 ## § 2.
 
