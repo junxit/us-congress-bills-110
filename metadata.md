@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1660
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1660
@@ -27,10 +27,11 @@ To direct the Secretary of Veterans Affairs to establish a national cemetery for
 - Rep. Hare, Phil [D-IL-17] (H001040)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Ways and Means Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To direct the Secretary of Veterans Affairs to establish a national cemetery for
 - 2007-05-23 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2007-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5660)
 - 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5660)
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
