@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2429
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2429
@@ -20,10 +20,11 @@ To amend title XVIII of the Social Security Act to provide an exception to the 6
 
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ To amend title XVIII of the Social Security Act to provide an exception to the 6
 - 2007-05-23 — Mr. Pallone moved to suspend the rules and pass the bill.
 - 2007-05-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0, 1 Present (Roll no. 405). (text: CR H5636)
 - 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 0, 1 Present (Roll no. 405).(text: CR H5636)
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Finance.
