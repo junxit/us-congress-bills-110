@@ -1,7 +1,7 @@
 ---
 measure: S. 1352
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1352
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Obama, Barack [D-IL] (O000167)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.
 - 2007-05-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6572-6573; text as passed Senate: CR S6573)
 - 2007-05-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6572-6573; text as passed Senate: CR S6573)
+- 2007-05-24 — Message on Senate action sent to the House.
+- 2007-05-24 — Received in the House.
+- 2007-05-24 — Referred to the House Committee on Oversight and Government Reform.
