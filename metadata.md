@@ -1,7 +1,7 @@
 ---
 measure: H.R. 612
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 612
@@ -39,9 +39,10 @@ Returning Servicemember VA Healthcare Insurance Act of 2007
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ Returning Servicemember VA Healthcare Insurance Act of 2007
 - 2007-05-23 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2007-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 411). (text: CR H5662)
 - 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 411).(text: CR H5662)
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
