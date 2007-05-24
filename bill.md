@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas the Association of Southeast Asian Nations (referred to in this resolution as “ASEAN”), was established in 1967, with Indonesia, Malaysia, the Philippines, Singapore and Thailand as the initial members;
+- Whereas the Association of Southeast Asian Nations (referred to in this resolution as “ASEAN”), was established in 1967, with Indonesia, Malaysia, the Philippines, Singapore, and Thailand as the initial members;
 - Whereas the membership of ASEAN has expanded to 10 countries since its establishment in 1967, and now includes Brunei, Burma, Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand, and Vietnam;
 - Whereas the United States-ASEAN dialogue and relationship began in 1977;
 - Whereas the countries of ASEAN constitute the 3rd largest export market for the United States, have received approximately $90,000,000,000 in direct investment from the United States, and are developing an integrated free trade area;
