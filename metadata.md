@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2199
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2199
@@ -55,9 +55,10 @@ Traumatic Brain Injury Health Enhancement and Long-Term Support Act of 2007
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -84,3 +85,4 @@ Traumatic Brain Injury Health Enhancement and Long-Term Support Act of 2007
 - 2007-05-23 — Placed on the Union Calendar, Calendar No. 100.
 - 2007-05-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-166.
 - 2007-05-23 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-166.
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
