@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1252
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1252
@@ -144,10 +144,11 @@ Federal Price Gouging Prevention Act
 - Rep. Emanuel, Rahm [D-IL-5] (E000287)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -169,3 +170,4 @@ Federal Price Gouging Prevention Act
 - 2007-05-23 — Mr. Rush moved to suspend the rules and pass the bill, as amended.
 - 2007-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 284 - 141 (Roll no. 404). (text: CR H5628-5629)
 - 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 284 - 141 (Roll no. 404).(text: CR H5628-5629)
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
