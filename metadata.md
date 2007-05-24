@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2239
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2239
@@ -24,9 +24,10 @@ Early Access to Vocational Rehabilitation and Employment Benefits Act
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Early Access to Vocational Rehabilitation and Employment Benefits Act
 - 2007-05-23 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
 - 2007-05-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 414). (text: CR H5678)
 - 2007-05-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 414).(text: CR H5678)
+- 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
