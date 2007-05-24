@@ -1,7 +1,7 @@
 ---
 measure: S. 231
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 231
@@ -84,3 +84,5 @@ A bill to authorize the Edward Byrne Memorial Justice Assistance Grant Program a
 - 2007-05-23 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-05-23 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.
+- 2007-05-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6922-6923; text as passed Senate: CR S6923)
+- 2007-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6922-6923; text as passed Senate: CR S6923)
