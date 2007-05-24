@@ -1,7 +1,7 @@
 ---
 measure: H.R. 964
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 964
@@ -16,7 +16,7 @@ Spy Act
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Cosponsors (28)
+## Cosponsors (41)
 
 - Rep. Bono, Mary [R-CA-45] (B001228)
 - Rep. Dingell, John D. [D-MI-15] (D000355)
@@ -46,6 +46,19 @@ Spy Act
 - Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
 
 ## Committees (1)
 
@@ -56,3 +69,9 @@ Spy Act
 - 2007-02-08 — Introduced in House
 - 2007-02-08 — Introduced in House
 - 2007-02-08 — Referred to the House Committee on Energy and Commerce.
+- 2007-02-09 — Referred to the Subcommittee on Commerce, Trade and Consumer Protection.
+- 2007-05-10 — Committee Consideration and Mark-up Session Held.
+- 2007-05-10 — Ordered to be Reported (Amended).
+- 2007-05-24 — Placed on the Union Calendar, Calendar No. 101.
+- 2007-05-24 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-169.
+- 2007-05-24 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-169.

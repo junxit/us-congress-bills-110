@@ -23,7 +23,7 @@ This Act may be cited as the “Securely Protect Yourself Against Cyber Trespass
       - **(ii)** away from the site the user intended to view, to one or more other Web pages, such that the user is prevented from viewing the content at the intended Web page, unless such diverting is otherwise authorized;
     - **(C)** accessing, hijacking, or otherwise using the modem, or Internet connection or service, for the computer and thereby causing damage to the computer or causing the owner or authorized user or a third party defrauded by such conduct to incur charges or other costs for a service that is not authorized by such owner or authorized user;
     - **(D)** using the computer as part of an activity performed by a group of computers that causes damage to another computer; or
-    - **(E)** delivering advertisements that a user of the computer cannot close without undue effort or knowledge by the user or without turning off the computer or closing all sessions of the Internet browser for the computer.
+    - **(E)** delivering advertisements or a series of advertisements that a user of the computer cannot close or terminate without undue effort or knowledge by the user or without turning off the computer or closing all sessions of the Internet browser for the computer.
   - **(2)** Modifying settings related to use of the computer or to the computer’s access to or use of the Internet by altering—
     - **(A)** the Web page that appears when the owner or authorized user launches an Internet browser or similar program used to access and navigate the Internet;
     - **(B)** the default provider used to access or search the Internet, or other existing Internet connections settings;
@@ -48,9 +48,9 @@ This Act may be cited as the “Securely Protect Yourself Against Cyber Trespass
 
 ## § 3. Prohibition of collection of certain information without notice and consent
 
-- **(a)** *Opt-in Requirement* Except as provided in subsection (e), it is unlawful for any person—
+- **(a)** *Opt-In Requirement* Except as provided in subsection (e), it is unlawful for any person—
   - **(1)** to transmit to a protected computer, which is not owned by such person and for which such person is not an authorized user, any information collection program, unless—
-    - **(A)** such information collection program provides notice in accordance with subsection (c) before execution of any of the information collection functions of the program; and
+    - **(A)** such information collection program provides notice in accordance with subsection (c) before downloading or installing any of the information collection program; and
     - **(B)** such information collection program includes the functions required under subsection (d); or
   - **(2)** to execute any information collection program installed on such a protected computer unless—
     - **(A)** before execution of any of the information collection functions of the program, the owner or an authorized user of the protected computer has consented to such execution pursuant to notice in accordance with subsection (c); and
@@ -62,18 +62,20 @@ This Act may be cited as the “Securely Protect Yourself Against Cyber Trespass
       - **(ii)**
         - **(I)** sends such information to a person other than the owner or authorized user of the computer, or
         - **(II)** uses such information to deliver advertising to, or display advertising on, the computer.
-    - **(B)** *Collection of information regarding web pages visited to deliver advertising* The computer software—
-      - **(i)** collects information regarding the Web pages accessed using the computer; and
+    - **(B)** *Collection of information regarding internet activity to deliver advertising* The computer software—
+      - **(i)** collects information regarding the user’s Internet activity using the computer; and
       - **(ii)** uses such information to deliver advertising to, or display advertising on, the computer.
-  - **(2)** *Exception for software collecting information regarding web pages visited within a particular web site* Computer software that otherwise would be considered an information collection program by reason of paragraph (1)(B) shall not be considered such a program if—
-    - **(A)** the only information collected by the software regarding Web pages that are accessed using the computer is information regarding Web pages within a particular Web site;
+  - **(2)** *Exception for software collecting information regarding internet activity within a particular web site* Computer software that otherwise would be considered an information collection program by reason of paragraph (1)(B) shall not be considered such a program if—
+    - **(A)** the only information collected by the software regarding the user’s internet activity, and used to deliver advertising to, or display advertising on, the protected computer, is—
+      - **(i)** information regarding Web pages within a particular Web site; or
+      - **(ii)** in the case of any Internet-based search function, user-supplied search terms necessary to complete the search and return results to the user;
     - **(B)** such information collected is not sent to a person other than—
-      - **(i)** the provider of the Web site accessed; or
+      - **(i)** the provider of the Web site accessed or Internet-based search function; or
       - **(ii)** a party authorized to facilitate the display or functionality of Web pages within the Web site accessed; and
     - **(C)** the only advertising delivered to or displayed on the computer using such information is advertising on Web pages within that particular Web site.
 - **(c)** *Notice and Consent*
   - **(1)** *In general* Notice in accordance with this subsection with respect to an information collection program is clear and conspicuous notice in plain language, set forth as the Commission shall provide, that meets all of the following requirements:
-    - **(A)** The notice clearly distinguishes such notice from any other information visually presented contemporaneously on the computer.
+    - **(A)** The notice clearly distinguishes a statement required under subparagraph (B) from any other information visually presented contemporaneously on the computer.
     - **(B)** The notice contains one of the following statements, as applicable, or a substantially similar statement:
       - **(i)** With respect to an information collection program described in subsection (b)(1)(A): “This program will collect and transmit information about you. Do you accept?”.
       - **(ii)** With respect to an information collection program described in subsection (b)(1)(B): “This program will collect information about Web pages you access and will use that information to display advertising on your computer. Do you accept?”.
@@ -105,6 +107,14 @@ This Act may be cited as the “Securely Protect Yourself Against Cyber Trespass
 - **(e)** *Limitation on Liability* A telecommunications carrier, a provider of information service or interactive computer service, a cable operator, or a provider of transmission capability shall not be liable under this section to the extent that the carrier, operator, or provider—
   - **(1)** transmits, routes, hosts, stores, or provides connections for an information collection program through a system or network controlled or operated by or for the carrier, operator, or provider; or
   - **(2)** provides an information location tool, such as a directory, index, reference, pointer, or hypertext link, through which the owner or user of a protected computer locates an information collection program.
+- **(f)** *Study and additional exemption*
+  - **(1)** *Study and report* The Commission shall conduct a study to determine the applicability of the information collection prohibitions of this section to information that is input directly by users in a field provided on a website. The study shall examine—
+    - **(A)** the nature of such fields for user input;
+    - **(B)** the use of a user’s information once input and whether such information is sent to a person other than the provider of the Web site;
+    - **(C)** whether such information is used to deliver advertisements to the user’s computer; and
+    - **(D)** the extent of any notice provided to the user prior to such input.
+  - **(2)** *Report* The Commission shall transmit a report on such study to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than the expiration of the 6-month period that begins on the date on which final regulations are issued under section 9. The requirements of subchapter I of chapter 35 of title 44, United States Code, shall not apply to the report required under this subsection.
+  - **(3)** *Regulation* If the Commission finds that users have adequate notice regarding the uses of any information input directly by the user in a field provided on a website, such that an exemption from the requirements of this section, or a modification of the notice required by this section is appropriate for such information, and that such an exemption or modification is consistent with the public interest, the protection of consumers, and the purposes of this Act, the Commission may prescribe such an exemption or modification by regulation.
 
 ## § 4. Enforcement
 
@@ -118,7 +128,7 @@ This Act may be cited as the “Securely Protect Yourself Against Cyber Trespass
     - **(B)** any single action or conduct that violates more than one paragraph of section 2(a) shall be considered multiple violations, based on the number of such paragraphs violated.
 - **(c)** *Required Scienter* Civil penalties sought under this section for any action may not be granted by the Commission or any court unless the Commission or court, respectively, establishes that the action was committed with actual knowledge or knowledge fairly implied on the basis of objective circumstances that such act is unfair or deceptive or violates this Act.
 - **(d)** *Factors in Amount of Penalty* In determining the amount of any penalty pursuant to subsection (a) or (b), the court shall take into account the degree of culpability, any history of prior such conduct, ability to pay, effect on ability to continue to do business, and such other matters as justice may require.
-- **(e)** *Exclusiveness of Remedies* The remedies in this section (including remedies available to the Commission under the Federal Trade Commission Act) are the exclusive remedies for violations of this Act.
+- **(e)** *Exclusiveness of Remedies* The remedies in this section (and other remedies available to the Commission in an enforcement action against unfair and deceptive acts and practices) are the exclusive remedies for violations of this Act.
 - **(f)** *Effective Date* To the extent only that this section applies to violations of section 2(a), this section shall take effect upon the expiration of the 6-month period that begins on the date of the enactment of this Act.
 
 ## § 5. Limitations
@@ -127,12 +137,21 @@ This Act may be cited as the “Securely Protect Yourself Against Cyber Trespass
   - **(1)** any act taken by a law enforcement agent in the performance of official duties; or
   - **(2)** the transmission or execution of an information collection program in compliance with a law enforcement, investigatory, national security, or regulatory agency or department of the United States or any State in response to a request or demand made under authority granted to that agency or department, including a warrant issued under the Federal Rules of Criminal Procedure, an equivalent State warrant, a court order, or other lawful process.
 - **(b)** *Exception Relating to Security* Nothing in this Act shall apply to—
-  - **(1)** any monitoring of, or interaction with, a subscriber’s Internet or other network connection or service, or a protected computer, by a telecommunications carrier, cable operator, computer hardware or software provider, or provider of information service or interactive computer service, to the extent that such monitoring or interaction is for network or computer security purposes, diagnostics, technical support, or repair, or for the detection or prevention of fraudulent activities; or
+  - **(1)** any monitoring of, or interaction with, a protected computer—
+    - **(A)** in connection with the provision of a network access service or other service or product with respect to which the user of the protected computer is an actual or prospective customer, subscriber, registered user, or account holder;
+    - **(B)** by the provider of that service or product or with such provider’s authorization; and
+    - **(C)** that involves or enables the collection of information about the user’s activities only with respect to the user’s relationship with or use of such service or product,
   - **(2)** a discrete interaction with a protected computer by a provider of computer software solely to determine whether the user of the computer is authorized to use such software, that occurs upon—
     - **(A)** initialization of the software; or
     - **(B)** an affirmative request by the owner or authorized user for an update of, addition to, or technical service for, the software.
-- **(c)** *Good Samaritan Protection* No provider of computer software or of interactive computer service may be held liable under this Act on account of any action voluntarily taken, or service provided, in good faith to remove or disable a program used to violate section 2 or 3 that is installed on a computer of a customer of such provider, if such provider notifies the customer and obtains the consent of the customer before undertaking such action or providing such service.
+- **(c)** *Good Samaritan Protection*
+  - **(1)** *In general* No provider of computer software or of interactive computer service may be held liable under this Act on account of any action voluntarily taken, or service provided, in good faith to remove or disable a program used to violate section 2 or 3 that is installed on a computer of a customer of such provider, if such provider notifies the customer and obtains the consent of the customer before undertaking such action or providing such service.
+  - **(2)** *Construction* Nothing in this subsection shall be construed to limit the liability of a provider of computer software or of an interactive computer service for any anti-competitive act otherwise prohibited by law.
 - **(d)** *Limitation on Liability* A manufacturer or retailer of computer equipment shall not be liable under this Act to the extent that the manufacturer or retailer is providing third party branded computer software that is installed on the equipment the manufacturer or retailer is manufacturing or selling.
+- **(e)** *Services Provided by Cable Operators and Satellite Carriers* It shall not be a violation of section 3 for a satellite carrier (as such term is defined in section 338(k) of the Communications Act of 1934 (47 U.S.C. 338(k)) or cable operator (as such term is defined in section 631(a)(2) of such Act (47 U.S.C. 551(a)(2))) to—
+  - **(1)** utilize a navigation device (as such term is defined in the rules of the Federal Communications Commission);
+  - **(2)** interact with such a navigation device; or
+  - **(3)** transmit software to or execute software installed on such a navigation device to provide service or collect or disclose subscriber information,
 
 ## § 6. Effect on other laws
 
@@ -147,33 +166,27 @@ This Act may be cited as the “Securely Protect Yourself Against Cyber Trespass
   - **(3)** *Protection of certain state laws* This Act shall not be construed to preempt the applicability of—
     - **(A)** State trespass, contract, or tort law; or
     - **(B)** other State laws to the extent that those laws relate to acts of fraud.
+  - **(4)** *Effective date* The preemption provided for under this subsection shall take effect, with respect to specific provisions of this Act, on the effective date for such provisions.
 - **(b)** *Preservation of FTC Authority* Nothing in this Act may be construed in any way to limit or affect the Commission’s authority under any other provision of law, including the authority to issue advisory opinions (under part 1 of volume 16 of the Code of Federal Regulations), policy statements, or guidance regarding this Act.
 
-## § 7. Annual FTC report
+## § 7. FTC report on cookies
 
-For the 12-month period that begins upon the effective date under section 12(a) and for each 12-month period thereafter, the Commission shall submit a report to the Congress that—
-
-- **(1)** specifies the number and types of actions taken during such period to enforce section 2(a) and section 3, the disposition of each such action, any penalties levied in connection with such actions, and any penalties collected in connection with such actions; and
-- **(2)** describes the administrative structure and personnel and other resources committed by the Commission for enforcement of this Act during such period.
-
-## § 8. FTC report on cookies
-
-- **(a)** *In General* Not later than the expiration of the 6-month period that begins on the date of the enactment of this Act, the Commission shall submit a report to the Congress regarding the use of cookies, including tracking cookies, in the delivery or display of advertising to the owners and users of computers. The report shall examine and describe the methods by which cookies and the Web sites that place them on computers function separately and together, and shall compare the use of cookies with the use of information collection programs (as such term is defined in section 3) to determine the extent to which such uses are similar or different. The report may include such recommendations as the Commission considers necessary and appropriate, including treatment of cookies under this Act or other laws.
-- **(b)** *Definition* For purposes of this section, the term tracking cookie means a cookie or similar text or data file used alone or in conjunction with one or more Web sites to transmit or convey, to a party other than the intended recipient, personally identifiable information of a computer owner or user, information regarding Web pages accessed by the owner or user, or information regarding advertisements previously delivered to a computer, for the purpose of—
+- **(a)** *In General* Not later than the expiration of the 6-month period that begins on the date on which final regulations are issued under section 9, the Commission shall submit a report to the Congress regarding the use of cookies in the delivery or display of advertising to the owners and users of computers. The report shall examine the extent to which cookies are or may be used to transmit to a third party personally identifiable information of a computer owner or user, information regarding Web pages accessed by the owner or user, or information regarding advertisements previously delivered to a computer, for the purpose of—
   - **(1)** delivering or displaying advertising to the owner or user; or
   - **(2)** assisting the intended recipient to deliver or display advertising to the owner, user, or others.
-- **(c)** *Effective Date* This section shall take effect on the date of the enactment of this Act.
+- **(b)** *Effective Date* This section shall take effect on the date of the enactment of this Act.
+- **(c)** *Paperwork reduction requirements* The requirements of subchapter I of chapter 35 of title 44, United States Code, shall not apply to the report required under this section.
 
-## § 9. FTC report on information collection programs installed before effective date
+## § 8. FTC report on information collection programs installed before effective date
 
-Not later than the expiration of the 6-month period that begins on the date of the enactment of this Act, the Commission shall submit a report to the Congress on the extent to which there are installed on protected computers information collection programs that, but for installation prior to the effective date under section 12(a), would be subject to the requirements of section 3. The report shall include recommendations regarding the means of affording computer users affected by such information collection programs the protections of section 3, including recommendations regarding requiring a one-time notice and consent by the owner or authorized user of a computer to the continued collection of information by such a program so installed on the computer.
+Not later than the expiration of the 6-month period that begins on the date on which final regulations are issued under section 9, the Commission shall submit a report to the Congress on the extent to which there are installed on protected computers information collection programs that, but for installation prior to the effective date under section 11(a), would be subject to the requirements of section 3. The report shall include recommendations regarding the means of affording computer users affected by such information collection programs the protections of section 3, including recommendations regarding requiring a one-time notice and consent by the owner or authorized user of a computer to the continued collection of information by such a program so installed on the computer. The requirements of subchapter I of chapter 35 of title 44, United States Code, shall not apply to the report required under this section.
 
-## § 10. Regulations
+## § 9. Regulations
 
-- **(a)** *In General* The Commission shall issue the regulations required by this Act not later than the expiration of the 6-month period beginning on the date of the enactment of this Act. In exercising its authority to issue any regulation under this Act, the Commission shall determine that the regulation is consistent with the public interest and the purposes of this Act. Any regulations issued pursuant to this Act shall be issued in accordance with section 553 of title 5, United States Code.
+- **(a)** *In General* The Commission shall issue the regulations required by this Act not later than the expiration of the 9-month period beginning on the date of the enactment of this Act. In exercising its authority to issue any regulation under this Act, the Commission shall determine that the regulation is consistent with the public interest and the purposes of this Act. Any regulations issued pursuant to this Act shall be issued in accordance with section 553 of title 5, United States Code.
 - **(b)** *Effective Date* This section shall take effect on the date of the enactment of this Act.
 
-## § 11. Definitions
+## § 10. Definitions
 
 For purposes of this Act:
 
@@ -184,13 +197,14 @@ For purposes of this Act:
 - **(3)** *Computer; protected computer* The terms computer and protected computer have the meanings given such terms in section 1030(e) of title 18, United States Code.
 - **(4)** *Computer software*
   - **(A)** *In general* Except as provided in subparagraph (B), the term computer software means a set of statements or instructions that can be installed and executed on a computer for the purpose of bringing about a certain result.
-  - **(B)** *Exception* Such term does not include computer software that is placed on the computer system of a user by an Internet service provider, interactive computer service, or Internet Web site solely to enable the user subsequently to use such provider or service or to access such Web site.
-  - **(C)** *Rule of construction regarding cookies* This paragraph may not be construed to include, as computer software—
-    - **(i)** a cookie; or
-    - **(ii)** any other type of text or data file that solely may be read or transferred by a computer.
+  - **(B)** *Exceptions* Such term does not include—
+    - **(i)** computer software that is placed on the computer system of a user by an Internet service provider, interactive computer service, or Internet Web site solely to enable the user subsequently to use such provider or service or to access such Web site; or
+    - **(ii)** a text or data file known as a cookie, to the extent that the text or data file—
+      - **(I)** is used, written to, or placed on the computer of a user by an Internet service provider, interactive computer service, or Internet website, or any entity acting with the authorization of and on behalf of such Internet service provider, interactive computer service, or Internet website; and
+      - **(II)** can be read or recognized solely to return information to such Internet service provider, interactive computer service, or Internet website, or any entity acting with the authorization of and on behalf of such Internet service provider, interactive computer service, or Internet website.
 - **(5)** *Commission* The term Commission means the Federal Trade Commission.
 - **(6)** *Damage* The term damage has the meaning given such term in section 1030(e) of title 18, United States Code.
-- **(7)** *Deceptive acts or practices* The term deceptive acts or practices has the meaning applicable to such term for purposes of section 5 of the Federal Trade Commission Act (15 U.S.C. 45).
+- **(7)** *Unfair or deceptive acts or practices* The term unfair or deceptive acts or practices has the meaning applicable to such term for purposes of section 5 of the Federal Trade Commission Act (15 U.S.C. 45).
 - **(8)** *Disable* The term disable means, with respect to an information collection program, to permanently prevent such program from executing any of the functions described in section 3(b)(1) that such program is otherwise capable of executing (including by removing, deleting, or disabling the program), unless the owner or operator of a protected computer takes a subsequent affirmative action to enable the execution of such functions.
 - **(9)** *Information collection functions* The term information collection functions means, with respect to an information collection program, the functions of the program described in subsection (b)(1) of section 3.
 - **(10)** *Information service* The term information service has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
@@ -207,7 +221,7 @@ For purposes of this Act:
     - **(vii)** Any access code, password, or account number, other than an access code or password transmitted by an owner or authorized user of a protected computer to the intended recipient to register for, or log onto, a Web page or other Internet service or a network connection or service of a subscriber that is protected by an access code or password.
     - **(viii)** Date of birth, birth certificate number, or place of birth of an individual, except in the case of a date of birth transmitted or collected for the purpose of compliance with the law.
   - **(B)** *Rulemaking* The Commission may, by regulation, add to the types of information described in subparagraph (A) that shall be considered personally identifiable information for purposes of this Act, except that such additional types of information shall be considered personally identifiable information only to the extent that such information allows living individuals, particular computers, particular users of computers, or particular email addresses or other locations of computers to be identified from that information.
-- **(14)** *Suite of functionally related software* The term suite of “functionally related software” means a group of computer software programs distributed to an end user by a single provider, which programs are necessary to enable features or functionalities of an integrated service offered by the provider.
+- **(14)** *Suite of functionally related software* The term suite of functionally related software means a group of computer software programs distributed to an end user by a single provider, which programs enable features or functionalities of an integrated service offered by the provider.
 - **(15)** *Telecommunications carrier* The term telecommunications carrier has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
 - **(16)** *Transmit* The term transmit means, with respect to an information collection program, transmission by any means.
 - **(17)** *Web page* The term Web page means a location, with respect to the World Wide Web, that has a single Uniform Resource Locator or another single location with respect to the Internet, as the Federal Trade Commission may prescribe.
@@ -215,7 +229,7 @@ For purposes of this Act:
   - **(A)** A common domain name.
   - **(B)** Common ownership, management, or registration.
 
-## § 12. Applicability and sunset
+## § 11. Applicability and sunset
 
 - **(a)** *Effective Date* Except as specifically provided otherwise in this Act, this Act shall take effect upon the expiration of the 12-month period that begins on the date of the enactment of this Act.
 - **(b)** *Applicability* Section 3 shall not apply to an information collection program installed on a protected computer before the effective date under subsection (a) of this section.
