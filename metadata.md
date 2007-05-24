@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 32
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 32
@@ -28,3 +28,7 @@ A concurrent resolution honoring the 50th anniversary of Stan Hywet Hall & Garde
 
 - 2007-05-03 — Introduced in Senate
 - 2007-05-03 — Referred to the Committee on the Judiciary. (text of measure as introduced:  CR S5605)
+- 2007-05-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S6923-6924)
+- 2007-05-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S6923-6924)
+- 2007-05-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6923-6924)
+- 2007-05-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6923-6924)
