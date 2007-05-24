@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2317
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2317
@@ -41,3 +41,27 @@ Lobbying Transparency Act of 2007
 - 2007-05-21 — Placed on the Union Calendar, Calendar No. 98.
 - 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-162.
 - 2007-05-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-162.
+- 2007-05-24 — Amendment agreed to by House: On agreeing to the Judiciary amendment (A001) Agreed to without objection.
+- 2007-05-24 — Amendment agreed to by House: On agreeing to the Judiciary amendment (A002) Agreed to by voice vote.
+- 2007-05-24 — Amendment reported by the House Committee on Judiciary. (consideration: CR H5753; text: CR H5753)
+- 2007-05-24 — Amendment reported by the House Committee on Judiciary. (consideration: CR S5749; text as reported in House: CR S5749)
+- 2007-05-24 — Considered under the provisions of rule H. Res. 437. (consideration: CR H5749-5755, CR 5/25/2007 H5757-5758)
+- 2007-05-24 — DEBATE - The House proceeded with one hour of debate on H.R. 2317.
+- 2007-05-24 — Floor summary: DEBATE - The House proceede with 10 minutes of debate on the Smith(TX) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a multicandidate political committee described the Federal Election Campaign Act of 1971.
+- 2007-05-24 — House amendment agreed to: On agreeing to the Judiciary amendment (A001) Agreed to without objection.
+- 2007-05-24 — House amendment agreed to: On agreeing to the Judiciary amendment (A002) Agreed to by voice vote.
+- 2007-05-24 — House amendment offered
+- 2007-05-24 — House amendment offered
+- 2007-05-24 — House amendment offered/reported by : Amendment reported by the House Committee on Judiciary.(consideration: CR H5753; text: CR H5753)
+- 2007-05-24 — House amendment offered/reported by : Amendment reported by the House Committee on Judiciary.(consideration: CR S5749; text as reported in House: CR S5749)
+- 2007-05-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-05-24 — Mr. Smith (TX) moved to recommit with instructions to Judiciary. (consideration: CR H5753-5755; text: CR H5753)
+- 2007-05-24 — On agreeing to the Judiciary amendment (A001) Agreed to without objection.
+- 2007-05-24 — On agreeing to the Judiciary amendment (A002) Agreed to by voice vote.
+- 2007-05-24 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 228 - 192 (Roll no. 419).
+- 2007-05-24 — On passage Passed by the Yeas and Nays: 382 - 37 (Roll no. 420). (text: CR H5749-5750)
+- 2007-05-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 382 - 37 (Roll no. 420).(text: CR H5749-5750)
+- 2007-05-24 — Rule provides for consideration of H.R. 2317 and H.R. 2316.
+- 2007-05-24 — Rules Committee Resolution H. Res. 437 Reported to House. Rule provides for consideration of H.R. 2317 and H.R. 2316.
+- 2007-05-24 — The previous question on the motion was ordered without objection. (consideration: CR H5754)
+- 2007-05-24 — The previous question was ordered pursuant to the rule. (consideration: CR H5753)
