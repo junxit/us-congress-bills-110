@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 21 executed, 18 stated and not applied.
+48 amendatory instructions. 21 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -227,11 +227,16 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 227` | add-at-end | The table of sections for chapter 11 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 219` | insert | Chapter 11 of title 18, United States Code, is amended by inserting after section 219 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 219` | insert | The table of sections for chapter 11 of title 18, United States Code, is amended by inserting after the item relating to section 219 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 207` | add-at-end | Section 207(e) of title 18, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 220` | insert | Chapter 11 of title 18, United States Code, as amended by this Act, is further amended by inserting after section 220 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 220` | insert | The table of sections for chapter 11 of title 18, United States Code, is amended by inserting after the item relating to section 220 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1604` | add-at-end | Section 5 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1604` | strike | in paragraph (3), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `2 U.S.C. § 1604` | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1604` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1604` | add-at-end | Section 5 of the Act (2 U.S.C. 1604) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1604` | replace | Section 5(b)(2)(A) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604(b)(2)(A)) is amended by striking “bill numbers” and inserting the following: “bill numbers, requests for Congressional earmarks (as defined in clause 9(d) of rule X… | the bill quotes the text struck but describes what replaces it |
+| `2 U.S.C. § 1604` | add-at-end | Section 5 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1604` | add-at-end | Section 5 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604) is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1601` | add-at-end | The Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1602` | amend | Paragraph (2) of section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1605` | strike | in paragraph (7), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -240,3 +245,7 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 1605` | insert | Section 6(4) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1605) is amended by inserting before the semicolon at the end the following: “and, in the case of a report filed in electronic form pursuant to section 5(d), make such report … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1606` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Rule XXV of the Rules of the House of Representatives is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | strike | Clause 5(a)(3)(O) of rule XXV of the Rules of the House of Representatives is amended by striking “, by a State or local government,”. | the bill names no machine-readable US Code section |
+| — | insert | Clause 5(b)(1)(A) of rule XXV of the Rules of the House of Representatives is amended by inserting “a State or local government or” before “a private source”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter D of chapter 227 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of subchapter D of chapter 227 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
