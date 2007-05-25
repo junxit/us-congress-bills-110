@@ -1,7 +1,7 @@
 ---
 measure: S. 398
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 398
@@ -38,3 +38,12 @@ Indian Child Protection and Family Violence Prevention Act Amendments of 2007
 - 2007-04-10 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-45.
 - 2007-04-10 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-45.
 - 2007-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 110.
+- 2007-05-25 — Amendment SA 1256 agreed to in Senate by Unanimous Consent.
+- 2007-05-25 — Amendment SA 1256 proposed by Senator Reid for Senator Dorgan. (consideration: CR S6965; text: CR S6965) To modify the conforming amendments section.
+- 2007-05-25 — Measure laid before Senate by unanimous consent. (consideration: CR S6965-6967)
+- 2007-05-25 — Message on Senate action sent to the House.
+- 2007-05-25 — Passed Senate with an amendment by Unanimous Consent. (text: CR S6965-6967)
+- 2007-05-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S6965-6967)
+- 2007-05-25 — Senate amendment agreed to: Amendment SA 1256 agreed to in Senate by Unanimous Consent.
+- 2007-05-25 — Senate amendment proposed (on the floor): Amendment SA 1256 proposed by Senator Reid for Senator Dorgan.(consideration: CR S6965; text: CR S6965)
+- 2007-05-25 — Senate amendment submitted

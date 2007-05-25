@@ -229,7 +229,7 @@ The Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3201 e
 
 ## § 12. Conforming amendments
 
-- **(a)** *Offenses Committed Within Indian Country* Section 1153(a) of title 18, United States Code, is amended by inserting “felony child abuse, felony child neglect,” after “robbery,”.
+- **(a)** *Offenses committed within Indian country* Section 1153(a) of title 18, United States Code, is amended by striking “felony child abuse or neglect” and inserting “felony child abuse, felony child neglect”.
 - **(b)** *Reporting of Child Abuse* Section 1169 of title 18, United States Code, is amended—
   - **(1)** in subsection (a)(1)—
     - **(A)** in subparagraph (B), by inserting “or volunteering for” after “employed by”;
