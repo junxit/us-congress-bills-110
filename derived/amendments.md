@@ -1,7 +1,7 @@
 ---
 measure: S. 1537
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 2(c) of Public Law 102–392 (2 U.S.C. 121d(c)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `2 U.S.C. § 121d` | add-at-end | Section 2(c) of Public Law 102–392 (2 U.S.C. 121d(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
