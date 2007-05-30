@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2446
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-62 amendatory instructions. 10 executed, 52 stated and not applied.
+62 amendatory instructions. 16 executed, 46 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,6 +41,60 @@ to guess them.
 |---|---|
 | Removed | `heroin, and to` |
 | Inserted | `heroin, to` |
+
+### 22 U.S.C. § 2191
+
+> in the heading, by striking “Urgent” and inserting “Continuing”; and
+
+| | |
+|---|---|
+| Removed | `Urgent` |
+| Inserted | `Continuing` |
+
+### 22 U.S.C. § 2191
+
+> in the matter preceding subparagraph (A), by striking “urgent” and inserting “continuing”.
+
+| | |
+|---|---|
+| Removed | `urgent` |
+| Inserted | `continuing` |
+
+### 22 U.S.C. § 2191
+
+> by striking “To assist in” and inserting “To assist in the apprehension of individuals who organize, facilitate, and profit from the drug trade,”; and
+
+| | |
+|---|---|
+| Removed | `To assist in` |
+| Inserted | `To assist in the apprehension of individuals who organize, facilitate, and profit from the drug trade,` |
+
+### 22 U.S.C. § 2191
+
+> by striking “(B)” and inserting “(B)(i)”;
+
+| | |
+|---|---|
+| Removed | `(B)` |
+| Inserted | `(B)(i)` |
+
+### 22 U.S.C. § 2191
+
+> by striking “2003 through 2006” and inserting “2008 through 2010”;
+
+| | |
+|---|---|
+| Removed | `2003 through 2006` |
+| Inserted | `2008 through 2010` |
+
+### 22 U.S.C. § 2191
+
+> by striking “Committee on International Relations” and inserting “Committee on Foreign Affairs”; and
+
+| | |
+|---|---|
+| Removed | `Committee on International Relations` |
+| Inserted | `Committee on Foreign Affairs` |
 
 ### 22 U.S.C. § 7518
 
@@ -127,50 +181,44 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 7511` | replace | Section 101 of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7511) is amended by striking paragraphs (4), (5), and (6) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7512` | amend | by adding at the end before the semicolon the following: “, and to establish a pilot program to test the effectiveness of a crop substitution combined with an appropriate offset policy and to provide practical information on the measures… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7512` | insert | in paragraph (7), by inserting “, the energy sector” after “the agriculture sector”. | the bill quotes the text inserted but describes where it goes |
-| — | replace | in the heading, by striking “Urgent” and inserting “Continuing”; and | the bill names no machine-readable US Code section |
-| — | replace | in the matter preceding subparagraph (A), by striking “urgent” and inserting “continuing”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “To assist in” and inserting “To assist in the apprehension of individuals who organize, facilitate, and profit from the drug trade,”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, including the destruction of drug laboratories” after “heroin production”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (A) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking “(B)” and inserting “(B)(i)”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “2003 through 2006” and inserting “2008 through 2010”; | the bill names no machine-readable US Code section |
-| — | strike | by striking the last sentence; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | by striking subparagraph (B) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (K), (L), and (M) as subparagraphs (M), (N), and (O), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (J) the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | redesignate | in subparagraph (N) (as redesignated), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | in subparagraph (O) (as redesignated), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | in the heading, by inserting “, anti-corruption” after “the rule of law”; | the bill names no machine-readable US Code section |
-| — | strike | by striking clause (v); | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clauses (vi) through (viii) as clauses (v) through (vii), respectively; | the bill names no machine-readable US Code section |
-| — | redesignate | in clause (vi) (as redesignated), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | in clause (vii) (as redesignated), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (B) the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking clauses (i) through (xii) and inserting the following new clauses: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (a) of such section is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
-| — | add-at-end | Subsection (a) of such section, as amended by subsection (f)(1) of this section, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | strike | Subsection (b)(1) of such section is amended by striking “adopting a constitution and”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “Committee on International Relations” and inserting “Committee on Foreign Affairs”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new sentence: “The report required by this paragraph may be included in the report required by section 304 of this Act.”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2191` | insert | by inserting “, including the destruction of drug laboratories” after “heroin production”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2191` | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | strike | by striking the last sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | amend | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | replace | by striking subparagraph (B) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | redesignate | by redesignating subparagraphs (K), (L), and (M) as subparagraphs (M), (N), and (O), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | insert | by inserting after subparagraph (J) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | redesignate | in subparagraph (N) (as redesignated), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2191` | redesignate | in subparagraph (O) (as redesignated), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2191` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | insert | in the heading, by inserting “, anti-corruption” after “the rule of law”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2191` | strike | by striking clause (v); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | redesignate | by redesignating clauses (vi) through (viii) as clauses (v) through (vii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | redesignate | in clause (vi) (as redesignated), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2191` | redesignate | in clause (vii) (as redesignated), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | amend | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | insert | by inserting after subparagraph (B) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | replace | in subparagraph (A), by striking clauses (i) through (xii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | add-at-end | Subsection (a) of such section is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | add-at-end | Subsection (a) of such section, as amended by subsection (f)(1) of this section, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2191` | strike | Subsection (b)(1) of such section is amended by striking “adopting a constitution and”. | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2191` | amend | by adding at the end the following new sentence: “The report required by this paragraph may be included in the report required by section 304 of this Act.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7511` | redesignate | by redesignating sections 104 through 108 as sections 105 through 109, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151` | insert | by inserting after section 103 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating sections 105 through 109 (as redesignated) as sections 106 through 110, respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after section 104 the following new section: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 7511` | redesignate | by redesignating sections 105 through 109 (as redesignated) as sections 106 through 110, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7511` | insert | by inserting after section 104 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7511` | redesignate | Title I of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7511 et seq.), as amended by sections 104 and 105 of this Act, is further amended by inserting after section 105 (as redesignated) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | The table of contents in section 1(b) of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 note) is amended by striking the items relating to sections 104 through 108 and inserting the following new items: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (b) of section 202 of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7532) is amended by striking “$550,000,000” and inserting “300,000,000 in any fiscal year”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Such section is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 7536` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7536` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2794` | add-at-end | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2751` | add-at-end | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2347` | add-at-end | Chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7501` | replace | Title III of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7551 et seq.) is amended by striking section 304 and inserting the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7551` | replace | Title III of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7551 et seq.) is amended by striking section 304 and inserting the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7501` | replace | The table of contents in section 1(b) of the Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 note) is amended by striking the item relating to section 304 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7555` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7555` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
