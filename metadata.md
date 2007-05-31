@@ -1,7 +1,7 @@
 ---
 measure: S. 239
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 239
@@ -25,3 +25,7 @@ Notification of Risk to Personal Data Act of 2007
 - 2007-01-10 — Introduced in Senate
 - 2007-01-10 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S379-381)
 - 2007-01-10 — Sponsor introductory remarks on measure. (CR S378-379)
+- 2007-05-03 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-05-31 — Committee on the Judiciary. Reported by Senator Leahy under authority of the order of the Senate of 05/25/2007 with an amendment in the nature of a substitute. Without written report.
+- 2007-05-31 — Committee on the Judiciary. Reported by Senator Leahy under authority of the order of the Senate of 05/25/2007 with an amendment in the nature of a substitute. Without written report.
+- 2007-05-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 180.
