@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2317
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `2 U.S.C. § 431` | add-at-end | Section 5 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1604` | add-at-end | Section 5 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1604) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
