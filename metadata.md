@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2317
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2317
@@ -65,3 +65,5 @@ Lobbying Transparency Act of 2007
 - 2007-05-24 — Rules Committee Resolution H. Res. 437 Reported to House. Rule provides for consideration of H.R. 2317 and H.R. 2316.
 - 2007-05-24 — The previous question on the motion was ordered without objection. (consideration: CR H5754)
 - 2007-05-24 — The previous question was ordered pursuant to the rule. (consideration: CR H5753)
+- 2007-05-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-06-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 183.
