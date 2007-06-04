@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2316
@@ -116,3 +116,5 @@ Honest Leadership and Open Government Act of 2007
 - 2007-05-24 — The Speaker designated the Honorable Ellen O. Tauscher to act as Chairwoman of the Committee.
 - 2007-05-24 — The previous question on the motion was ordered without objection. (consideration: CR H5774)
 - 2007-05-24 — The previous question was ordered pursuant to the rule.
+- 2007-05-25 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-06-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 182.
