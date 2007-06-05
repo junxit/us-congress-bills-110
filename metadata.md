@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1716
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1716
@@ -16,12 +16,16 @@ Green Energy Education Act of 2007
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (4)
+## Cosponsors (8)
 
 - Rep. Hill, Baron P. [D-IN-9] (H001030)
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
 ## Committees (1)
 
@@ -32,3 +36,8 @@ Green Energy Education Act of 2007
 - 2007-03-27 — Introduced in House
 - 2007-03-27 — Introduced in House
 - 2007-03-27 — Referred to the House Committee on Science and Technology.
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-05-23 — Ordered to be Reported (Amended).
+- 2007-06-05 — Placed on the Union Calendar, Calendar No. 105.
+- 2007-06-05 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-173.
+- 2007-06-05 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-173.
