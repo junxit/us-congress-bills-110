@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 390
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 390
@@ -31,3 +31,10 @@ Recognizing the importance of the Ouachita National Forest on its 100th annivers
 - 2007-05-09 — Introduced in House
 - 2007-05-09 — Introduced in House
 - 2007-05-09 — Referred to the House Committee on Natural Resources.
+- 2007-05-11 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-06-05 — Considered under suspension of the rules. (consideration: CR H5939-5940)
+- 2007-06-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 390.
+- 2007-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-05 — Mrs. Christensen moved to suspend the rules and agree to the resolution.
+- 2007-06-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5939)
+- 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5939)
