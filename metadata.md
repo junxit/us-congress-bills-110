@@ -1,7 +1,7 @@
 ---
 measure: H.R. 632
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 632
@@ -16,7 +16,7 @@ H-Prize Act of 2007
 
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Cosponsors (25)
+## Cosponsors (37)
 
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
@@ -43,6 +43,18 @@ H-Prize Act of 2007
 - Rep. Davis, Lincoln [D-TN-4] (D000599)
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 - Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
 ## Committees (1)
 
@@ -53,3 +65,9 @@ H-Prize Act of 2007
 - 2007-01-23 — Introduced in House
 - 2007-01-23 — Introduced in House
 - 2007-01-23 — Referred to the House Committee on Science and Technology.
+- 2007-05-10 — Committee Consideration and Mark-up Session Held.
+- 2007-05-10 — Ordered to be Reported by Voice Vote.
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-06-05 — Placed on the Union Calendar, Calendar No. 103.
+- 2007-06-05 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-171.
+- 2007-06-05 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-171.
