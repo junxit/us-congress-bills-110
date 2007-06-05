@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1467
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1467
@@ -16,11 +16,15 @@ version: Introduced in House
 
 - Rep. Wu, David [D-OR-1] (W000793)
 
-## Cosponsors (3)
+## Cosponsors (7)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
 ## Committees (1)
 
@@ -31,3 +35,9 @@ version: Introduced in House
 - 2007-03-09 — Introduced in House
 - 2007-03-09 — Introduced in House
 - 2007-03-09 — Referred to the House Committee on Science and Technology.
+- 2007-03-14 — Referred to the Subcommittee on Research and Science Education.
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-05-23 — Ordered to be Reported.
+- 2007-06-05 — Placed on the Union Calendar, Calendar No. 104.
+- 2007-06-05 — Reported by the Committee on Science and Technology. H. Rept. 110-172.
+- 2007-06-05 — Reported by the Committee on Science and Technology. H. Rept. 110-172.
