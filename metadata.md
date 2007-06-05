@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1585
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1585
@@ -268,3 +268,5 @@ National Defense Authorization Act for Fiscal Year 2008
 - 2007-05-17 — The previous question was ordered pursuant to the rule. (consideration: CR H5351)
 - 2007-05-17 — The title of the measure was amended. Agreed to without objection.
 - 2007-05-17 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-06-04 — Received in the Senate.
+- 2007-06-05 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 189.
