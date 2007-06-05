@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 116
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 116
@@ -25,3 +25,12 @@ Expressing the sense of Congress that the National Museum of Wildlife Art, locat
 - 2007-04-18 — Introduced in House
 - 2007-04-18 — Introduced in House
 - 2007-04-18 — Referred to the House Committee on Natural Resources.
+- 2007-04-19 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-04-19 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-04-19 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-06-05 — Considered under suspension of the rules. (consideration: CR H5933-5934)
+- 2007-06-05 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 116.
+- 2007-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-05 — Mrs. Christensen moved to suspend the rules and agree to the resolution.
+- 2007-06-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5934)
+- 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5934)
