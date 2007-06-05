@@ -1,7 +1,7 @@
 ---
 measure: S. 231
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 231
@@ -86,3 +86,6 @@ A bill to authorize the Edward Byrne Memorial Justice Assistance Grant Program a
 - 2007-05-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.
 - 2007-05-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6922-6923; text as passed Senate: CR S6923)
 - 2007-05-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6922-6923; text as passed Senate: CR S6923)
+- 2007-05-25 — Message on Senate action sent to the House.
+- 2007-06-05 — Received in the House.
+- 2007-06-05 — Referred to the House Committee on the Judiciary.
