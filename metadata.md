@@ -1,7 +1,7 @@
 ---
 measure: S. 398
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 398
@@ -47,3 +47,7 @@ Indian Child Protection and Family Violence Prevention Act Amendments of 2007
 - 2007-05-25 — Senate amendment agreed to: Amendment SA 1256 agreed to in Senate by Unanimous Consent.
 - 2007-05-25 — Senate amendment proposed (on the floor): Amendment SA 1256 proposed by Senator Reid for Senator Dorgan.(consideration: CR S6965; text: CR S6965)
 - 2007-05-25 — Senate amendment submitted
+- 2007-06-05 — Received in the House.
+- 2007-06-05 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-06-05 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-06-05 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
