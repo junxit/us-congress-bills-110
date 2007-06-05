@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1175
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1175
@@ -33,3 +33,10 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Referred to the House Committee on Natural Resources.
+- 2007-02-26 — Referred to the Subcommittee on Water and Power.
+- 2007-06-05 — Considered under suspension of the rules. (consideration: CR H5942)
+- 2007-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1175.
+- 2007-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-05 — Mrs. Christensen moved to suspend the rules and pass the bill.
+- 2007-06-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942)
+- 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5942)
