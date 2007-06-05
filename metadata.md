@@ -1,7 +1,7 @@
 ---
 measure: H.R. 361
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 361
@@ -32,3 +32,10 @@ Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2007
 - 2007-01-10 — Introduced in House
 - 2007-01-10 — Introduced in House
 - 2007-01-10 — Referred to the House Committee on Natural Resources.
+- 2007-02-07 — Referred to the Subcommittee on Water and Power.
+- 2007-06-05 — Considered under suspension of the rules. (consideration: CR H5942-5944)
+- 2007-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 361.
+- 2007-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-05 — Mrs. Christensen moved to suspend the rules and pass the bill.
+- 2007-06-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942-5943)
+- 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5942-5943)
