@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1467
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1467
@@ -41,3 +41,9 @@ version: Reported in House
 - 2007-06-05 — Placed on the Union Calendar, Calendar No. 104.
 - 2007-06-05 — Reported by the Committee on Science and Technology. H. Rept. 110-172.
 - 2007-06-05 — Reported by the Committee on Science and Technology. H. Rept. 110-172.
+- 2007-06-06 — Considered under suspension of the rules. (consideration: CR H6024-6026)
+- 2007-06-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1467.
+- 2007-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-06 — Mr. Wu moved to suspend the rules and pass the bill.
+- 2007-06-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6024-6025)
+- 2007-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6024-6025)
