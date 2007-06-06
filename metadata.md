@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2559
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2559
@@ -31,3 +31,9 @@ First Higher Education Extension Act of 2007
 - 2007-06-05 — Introduced in House
 - 2007-06-05 — Introduced in House
 - 2007-06-05 — Referred to the House Committee on Education and Labor.
+- 2007-06-06 — Considered under suspension of the rules. (consideration: CR H6018-6019)
+- 2007-06-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2559.
+- 2007-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-06 — Mr. Hinojosa moved to suspend the rules and pass the bill.
+- 2007-06-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6018-6019)
+- 2007-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6018-6019)
