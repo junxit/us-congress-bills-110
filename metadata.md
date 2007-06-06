@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 391
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 391
@@ -37,3 +37,10 @@ Recognizing the employees of Dallas-Fort Worth International Airport, the North 
 - 2007-05-09 — Introduced in House
 - 2007-05-09 — Introduced in House
 - 2007-05-09 — Referred to the House Committee on Armed Services.
+- 2007-06-06 — Committee on Armed Services discharged.
+- 2007-06-06 — Committee on Armed Services discharged.
+- 2007-06-06 — Considered by unanimous consent. (consideration: CR H6078)
+- 2007-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-06 — Ms. Johnson, E. B. asked unanimous consent to discharge from committee and consider.
+- 2007-06-06 — On agreeing to the resolution Agreed to without objection. (text: CR H6078)
+- 2007-06-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6078)
