@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1051
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1051
@@ -16,7 +16,7 @@ National STEM Scholarship Database Act
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 
-## Cosponsors (27)
+## Cosponsors (33)
 
 - Rep. Regula, Ralph [R-OH-16] (R000141)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
@@ -45,6 +45,12 @@ National STEM Scholarship Database Act
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
 ## Committees (1)
 
@@ -55,3 +61,10 @@ National STEM Scholarship Database Act
 - 2007-02-14 — Introduced in House
 - 2007-02-14 — Introduced in House
 - 2007-02-14 — Referred to the House Committee on Education and Labor.
+- 2007-06-05 — Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
+- 2007-06-06 — Considered under suspension of the rules. (consideration: CR H6015-6018)
+- 2007-06-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1051.
+- 2007-06-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-06 — Mr. Holt moved to suspend the rules and pass the bill, as amended.
+- 2007-06-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6015-6016)
+- 2007-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6015-6016)
