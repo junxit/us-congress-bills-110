@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 152
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 152
@@ -33,9 +33,10 @@ Relating to the 40th anniversary of the reunification of the City of Jerusalem.
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. McNulty, Michael R. [D-NY-21] (M000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Relating to the 40th anniversary of the reunification of the City of Jerusalem.
 - 2007-06-05 — Mr. Lantos moved to suspend the rules and agree to the resolution, as amended.
 - 2007-06-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5948)
 - 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5948)
+- 2007-06-07 — Received in the Senate and referred to the Committee on Foreign Relations.
