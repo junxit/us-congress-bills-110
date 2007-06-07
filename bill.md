@@ -2,7 +2,7 @@
 legis-num: H.R. 1469
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1469
@@ -31,6 +31,7 @@ Congress makes the following findings:
 - **(12)** The Final Report of the National Commission on Terrorist Attacks Upon the United States (The 9/11 Commission Report) recommended that the United States increase support for “scholarship, exchange, and library programs”. The 9/11 Public Discourse Project, successor to the 9/11 Commission, noted in its November 14, 2005, status report that this recommendation was “unfulfilled,” and stated that “The U.S. should increase support for scholarship and exchange programs, our most powerful tool to shape attitudes over the course of a generation.”. In its December 5, 2005, Final Report on the 9/11 Commission Recommendations, the 9/11 Public Discourse Project gave the government a grade of “D” for its implementation of this recommendation.
 - **(13)** Investing in a national study abroad program would help turn a grade of “D” into an “A” by equipping United States students to communicate United States values and way of life through the unique dialogue that takes place among citizens from around the world when individuals study abroad.
 - **(14)** An enhanced national study abroad program could help further the goals of other United States Government initiatives to promote educational, social, and political reform and the status of women in developing and reforming societies around the world, such as the Middle East Partnership Initiative.
+- **(15)** To complement such worthwhile Federal programs and initiatives as the Benjamin A. Gilman International Scholarship Program, the National Security Education Program, and the National Security Language Initiative, a broad-based undergraduate study abroad program is needed that will make many more study abroad opportunities accessible to all undergraduate students, regardless of their field of study, ethnicity, socio-economic status, or gender.
 
 ## § 3. Purposes
 
@@ -54,8 +55,8 @@ In this Act:
 - **(5)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 - **(6)** *Nontraditional study abroad destination* The term nontraditional study abroad destination means a location that is determined by the Foundation to be a less common destination for United States students who study abroad.
 - **(7)** *Study abroad* The term study abroad means an educational program of study, work, research, internship, or combination thereof that is conducted outside the United States and that carries academic credit toward fulfilling the participating student’s degree requirements.
-- **(8)** *United States* The term “United States” means any of the several States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
-- **(9)** *United States student* The term “United States student” means a national of the United States who is enrolled at an institution of higher education located within the United States.
+- **(8)** *United States* The term United States means any of the several States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
+- **(9)** *United States student* The term United States student means a national of the United States who is enrolled at an institution of higher education located within the United States.
 
 ## § 5. Establishment and management of the Senator Paul Simon Study Abroad Foundation
 
@@ -105,10 +106,8 @@ In this Act:
       - **(i)** *In general* A member of the Board described in paragraph (3)(A) may not receive additional pay, allowances, or benefits by reason of the member’s service on the Board.
       - **(ii)** *Travel expenses* Each such member of the Board shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
     - **(B)** *Other members*
-      - **(i)** *In general* Except as provided in clause (ii), a member of the Board described in paragraph (3)(B)—
-        - **(I)** shall be paid compensation out of funds made available for the purposes of this Act at the daily equivalent of the highest rate payable under section 5332 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties as a member of the Board; and
-        - **(II)** while away from the member’s home or regular place of business on necessary travel in the actual performance of duties as a member of the Board, shall be paid per diem, travel, and transportation expenses in the same manner as is provided under subchapter I of chapter 57 of title 5, United States Code.
-      - **(ii)** *Limitation* A member of the Board may not be paid compensation under clause (i)(II) for more than 90 days in any calendar year.
+      - **(i)** *In general* Except as provided in clause (ii), a member of the Board described in paragraph (3)(B) while away from the member’s home or regular place of business on necessary travel in the actual performance of duties as a member of the Board, shall be paid per diem, travel, and transportation expenses in the same manner as is provided under subchapter I of chapter 57 of title 5, United States Code.
+      - **(ii)** *Limitation* A member of the Board may not be paid compensation under clause (i) for more than 90 days in any calendar year.
 
 ## § 6. Establishment and operation of program
 
@@ -117,7 +116,7 @@ In this Act:
   - **(2)** award grants to—
     - **(A)** United States students for study abroad;
     - **(B)** nongovernmental institutions that provide and promote study abroad opportunities for United States students, in consortium with institutions described in subparagraph (C); and
-    - **(C)** institutions of higher education, individually or in consortium,
+    - **(c)** institutions of higher education, individually or in consortium,
 - **(b)** *Objectives* The objectives of the program established under subsection (a) are that, within 10 years of the date of the enactment of this Act—
   - **(1)** not less than one million undergraduate United States students will study abroad annually for credit;
   - **(2)** the demographics of study-abroad participation will reflect the demographics of the United States undergraduate population, including students enrolled in community colleges, minority-serving institutions, and institutions serving large numbers of low-income and first-generation students; and
@@ -127,6 +126,9 @@ In this Act:
 - **(e)** *Balance of long-term and short-term study abroad programs* In administering the program established under subsection (a), the Foundation shall seek an appropriate balance between—
   - **(1)** longer-term study abroad programs, which maximize foreign-language learning and intercultural understanding; and
   - **(2)** shorter-term study abroad programs, which maximize the accessibility of study abroad to nontraditional students.
+- **(f)** *Quality and safety in study abroad* In administering the program established under subsection (a), the Foundation shall require that institutions receiving grants demonstrate that—
+  - **(1)** the study abroad programs for which students receive grant funds are for academic credit; and
+  - **(2)** the programs have established health and safety guidelines and procedures.
 
 ## § 7. Annual report
 
@@ -185,7 +187,9 @@ In this Act:
 
 ## § 10. Authorization of appropriations
 
-- **(a)** *Authorization of appropriations* There are authorized to be appropriated to carry out this Act $80,000,000 for fiscal year 2008 and each subsequent fiscal year.
+- **(a)** *Authorization of appropriations*
+  - **(1)** *In general* There are authorized to be appropriated to carry out this Act $80,000,000 for fiscal year 2008 and each subsequent fiscal year.
+  - **(2)** *Amounts in addition to other available amounts* Amounts authorized to be appropriated by paragraph (1) are in addition to amounts authorized to be appropriated or otherwise made available for educational exchange programs, including the J. William Fulbright Educational Exchange Program and the Benjamin A. Gilman International Scholarship Program, administered by the Bureau of Educational and Cultural Affairs of the Department of State.
 - **(b)** *Allocation of funds*
   - **(1)** *In general* The Foundation may allocate or transfer to any agency of the United States Government any of the funds available for carrying out this Act. Such funds shall be available for obligation and expenditure for the purposes for which the funds were authorized, in accordance with authority granted in this Act or under authority governing the activities of the United States Government agency to which such funds are allocated or transferred.
   - **(2)** *Notification* The Foundation shall notify the appropriate congressional committees not less than 15 days prior to an allocation or transfer of funds pursuant to paragraph (1).
