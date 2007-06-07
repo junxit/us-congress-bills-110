@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1716
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1716
@@ -27,9 +27,10 @@ Green Energy Education Act of 2007
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -53,3 +54,4 @@ Green Energy Education Act of 2007
 - 2007-06-06 — Mr. Lipinski moved to suspend the rules and pass the bill, as amended.
 - 2007-06-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 432). (text: CR H6026)
 - 2007-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 432).(text: CR H6026)
+- 2007-06-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
