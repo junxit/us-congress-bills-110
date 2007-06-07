@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1467
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1467
@@ -26,9 +26,10 @@ version: Engrossed in House
 - Rep. Latham, Tom [R-IA-4] (L000111)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ version: Engrossed in House
 - 2007-06-06 — Mr. Wu moved to suspend the rules and pass the bill.
 - 2007-06-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6024-6025)
 - 2007-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6024-6025)
+- 2007-06-07 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

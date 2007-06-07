@@ -2,7 +2,7 @@
 legis-num: H.R. 1467
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1467
@@ -27,9 +27,9 @@ The Congress finds that—
 
 In this Act:
 
-- **(1)** *Director* The term “Director” means the Director of the National Science Foundation.
-- **(2)** *Information* The term “information” means healthcare information.
-- **(3)** *Institution of higher education* The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+- **(1)** *Director* The term Director means the Director of the National Science Foundation.
+- **(2)** *Information* The term information means healthcare information.
+- **(3)** *Institution of higher education* The term institution of higher education has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 ## § 4. National Science Foundation research
 
