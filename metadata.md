@@ -1,7 +1,7 @@
 ---
 measure: S. 720
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 720
@@ -29,3 +29,7 @@ Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007
 - 2007-03-01 — Introduced in Senate
 - 2007-03-01 — Read twice and referred to the Committee on the Judiciary.
 - 2007-03-01 — Sponsor introductory remarks on measure. (CR S2490)
+- 2007-06-07 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 195.
