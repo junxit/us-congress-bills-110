@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2446
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2446
@@ -21,9 +21,10 @@ Afghanistan Freedom and Security Support Act of 2007
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (4)
 
@@ -153,3 +154,4 @@ Afghanistan Freedom and Security Support Act of 2007
 - 2007-06-06 — The previous question on the motion was ordered pursuant to the rule. (consideration: CR H6076)
 - 2007-06-06 — The previous question was ordered pursuant to the rule. (consideration: CR H6075)
 - 2007-06-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-06-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
