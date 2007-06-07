@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 116
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 116
@@ -16,9 +16,10 @@ Expressing the sense of Congress that the National Museum of Wildlife Art, locat
 
 - Rep. Cubin, Barbara [R-WY-At Large] (C000962)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ Expressing the sense of Congress that the National Museum of Wildlife Art, locat
 - 2007-06-05 — Mrs. Christensen moved to suspend the rules and agree to the resolution.
 - 2007-06-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5934)
 - 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5934)
+- 2007-06-07 — Received in the Senate and referred to the Committee on Energy and Natural Resources.
