@@ -2,7 +2,7 @@
 legis-num: H.R. 964
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 964
@@ -220,7 +220,7 @@ For purposes of this Act:
     - **(vii)** Any access code, password, or account number, other than an access code or password transmitted by an owner or authorized user of a protected computer to the intended recipient to register for, or log onto, a Web page or other Internet service or a network connection or service of a subscriber that is protected by an access code or password.
     - **(viii)** Date of birth, birth certificate number, or place of birth of an individual, except in the case of a date of birth transmitted or collected for the purpose of compliance with the law.
   - **(B)** *Rulemaking* The Commission may, by regulation, add to the types of information described in subparagraph (A) that shall be considered personally identifiable information for purposes of this Act, except that such additional types of information shall be considered personally identifiable information only to the extent that such information allows living individuals, particular computers, particular users of computers, or particular email addresses or other locations of computers to be identified from that information.
-- **(14)** *Suite of functionally related software* The term suite of “functionally related software” means a group of computer software programs distributed to an end user by a single provider, which programs enable features or functionalities of an integrated service offered by the provider.
+- **(14)** *Suite of functionally related software* The term suite of functionally related software means a group of computer software programs distributed to an end user by a single provider, which programs enable features or functionalities of an integrated service offered by the provider.
 - **(15)** *Telecommunications carrier* The term telecommunications carrier has the meaning given such term in section 3 of the Communications Act of 1934 (47 U.S.C. 153).
 - **(16)** *Transmit* The term transmit means, with respect to an information collection program, transmission by any means.
 - **(17)** *Web page* The term Web page means a location, with respect to the World Wide Web, that has a single Uniform Resource Locator or another single location with respect to the Internet, as the Federal Trade Commission may prescribe.
