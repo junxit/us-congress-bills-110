@@ -1,7 +1,7 @@
 ---
 measure: H.R. 692
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “or the death of a member of the Armed Forces from any State, territory, or possession who dies while serving on active duty” after “present or former official of the government of any State, territory, or possession of the … | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the period the following: “, and the same authority is provided to the Mayor of the District of Columbia with respect to present or former officials of the District of Columbia and members of the Armed Forces from the… | the bill names no machine-readable US Code section |
-| — | insert | Such subsection is further amended by inserting after the sixth sentence the following new sentence: “When the Governor of a State, territory, or possession, or the Mayor of the District of Columbia, issues a proclamation under the prece… | the bill names no machine-readable US Code section |
+| `4 U.S.C. § 7` | insert | by inserting “or the death of a member of the Armed Forces from any State, territory, or possession who dies while serving on active duty” after “present or former official of the government of any State, territory, or possession of the … | the bill quotes the text inserted but describes where it goes |
+| `4 U.S.C. § 7` | insert | by inserting before the period the following: “, and the same authority is provided to the Mayor of the District of Columbia with respect to present or former officials of the District of Columbia and members of the Armed Forces from the… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `4 U.S.C. § 7` | insert | Such subsection is further amended by inserting after the sixth sentence the following new sentence: “When the Governor of a State, territory, or possession, or the Mayor of the District of Columbia, issues a proclamation under the prece… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
