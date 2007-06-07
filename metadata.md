@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2559
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2559
@@ -22,9 +22,10 @@ First Higher Education Extension Act of 2007
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Keller, Ric [R-FL-8] (K000361)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ First Higher Education Extension Act of 2007
 - 2007-06-06 — Mr. Hinojosa moved to suspend the rules and pass the bill.
 - 2007-06-06 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6018-6019)
 - 2007-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6018-6019)
+- 2007-06-07 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
