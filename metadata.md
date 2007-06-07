@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 94
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 94
@@ -33,9 +33,10 @@ Encouraging the elimination of harmful fishing subsidies that contribute to over
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 - Rep. Bono, Mary [R-CA-45] (B001228)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Encouraging the elimination of harmful fishing subsidies that contribute to over
 - 2007-06-05 — Mrs. Christensen moved to suspend the rules and agree to the resolution, as amended.
 - 2007-06-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5934-5935)
 - 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5934-5935)
+- 2007-06-07 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
