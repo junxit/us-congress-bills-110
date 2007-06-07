@@ -1,7 +1,7 @@
 ---
 measure: H.R. 632
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 632
@@ -56,9 +56,10 @@ H-Prize Act of 2007
 - Rep. Tiahrt, Todd [R-KS-4] (T000260)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ H-Prize Act of 2007
 - 2007-06-06 — Mr. Lipinski moved to suspend the rules and pass the bill, as amended.
 - 2007-06-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 8 (Roll no. 433). (text: CR H6027-6029)
 - 2007-06-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 8 (Roll no. 433).(text: CR H6027-6029)
+- 2007-06-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
