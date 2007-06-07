@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1175
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1175
@@ -24,9 +24,10 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - Rep. Royce, Edward R. [R-CA-40] (R000487)
 - Rep. Campbell, John [R-CA-48] (C001064)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2007-06-05 — Mrs. Christensen moved to suspend the rules and pass the bill.
 - 2007-06-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5942)
 - 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5942)
+- 2007-06-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
