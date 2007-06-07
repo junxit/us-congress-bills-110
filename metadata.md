@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1469
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1469
@@ -64,9 +64,10 @@ Senator Paul Simon Study Abroad Foundation Act of 2007
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -79,3 +80,10 @@ Senator Paul Simon Study Abroad Foundation Act of 2007
 - 2007-05-09 — Placed on the Union Calendar, Calendar No. 80.
 - 2007-05-09 — Reported by the Committee on Foreign Affairs. H. Rept. 110-138.
 - 2007-05-09 — Reported by the Committee on Foreign Affairs. H. Rept. 110-138.
+- 2007-06-05 — Considered under suspension of the rules. (consideration: CR H5944-5948)
+- 2007-06-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1469.
+- 2007-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-05 — Mr. Lantos moved to suspend the rules and pass the bill, as amended.
+- 2007-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5944-5946)
+- 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5944-5946)
+- 2007-06-07 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
