@@ -1,7 +1,7 @@
 ---
 measure: H.R. 692
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 692
@@ -76,3 +76,13 @@ Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007
 - 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 191.
+- 2007-06-14 — Cleared for White House.
+- 2007-06-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7777)
+- 2007-06-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7777)
+- 2007-06-15 — Message on Senate action sent to the House.
+- 2007-06-20 — Presented to President.
+- 2007-06-20 — Presented to President.
+- 2007-06-29 — Became Public Law No: 110-41.
+- 2007-06-29 — Became Public Law No: 110-41.
+- 2007-06-29 — Signed by President.
+- 2007-06-29 — Signed by President.
