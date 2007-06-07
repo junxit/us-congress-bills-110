@@ -2,7 +2,7 @@
 legis-num: H.R. 1716
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1716
@@ -17,9 +17,9 @@ This Act may be cited as the “Green Energy Education Act of 2007”.
 
 For the purposes of this Act:
 
-- **(1)** *Director* The term “Director” means the Director of the National Science Foundation.
-- **(2)** *High performance building* The term “high performance building” has the meaning given that term in section 914(a) of the Energy Policy Act of 2005 (42 U.S.C. 16194(a)).
-- **(3)** *Secretary* The term “Secretary” means the Secretary of Energy.
+- **(1)** *Director* The term Director means the Director of the National Science Foundation.
+- **(2)** *High performance building* The term high performance building has the meaning given that term in section 914(a) of the Energy Policy Act of 2005 (42 U.S.C. 16194(a)).
+- **(3)** *Secretary* The term Secretary means the Secretary of Energy.
 
 ## § 3. Graduate training in energy research and development
 
