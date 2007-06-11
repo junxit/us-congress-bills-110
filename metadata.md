@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2356
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2356
@@ -16,6 +16,10 @@ To amend title 4, United States Code, to encourage the display of the flag of th
 
 - Rep. Scott, David [D-GA-13] (S001157)
 
+## Cosponsors (1)
+
+- Rep. Burton, Dan [R-IN-5] (B001149)
+
 ## Committees (1)
 
 - House — Judiciary Committee
@@ -25,3 +29,12 @@ To amend title 4, United States Code, to encourage the display of the flag of th
 - 2007-05-17 — Introduced in House
 - 2007-05-17 — Introduced in House
 - 2007-05-17 — Referred to the House Committee on the Judiciary.
+- 2007-06-04 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2007-06-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-06-11 — Considered as unfinished business. (consideration: CR H6204-6205)
+- 2007-06-11 — Considered under suspension of the rules. (consideration: CR H6189-6192)
+- 2007-06-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2356.
+- 2007-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-11 — Ms. Baldwin moved to suspend the rules and pass the bill.
+- 2007-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448). (text: CR H6189)
+- 2007-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448).(text: CR H6189)
