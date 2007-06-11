@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 171
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 171
@@ -57,3 +57,5 @@ A resolution memorializing fallen firefighters by lowering the United States fla
 - 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.
+- 2007-06-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7494-7495; text as passed Senate: CR S7494-7495)
+- 2007-06-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7494-7495; text as passed Senate: CR S7494-7495)
