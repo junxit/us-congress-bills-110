@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 110
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 110
@@ -42,3 +42,5 @@ A resolution expressing the sense of the Senate regarding the 30th Anniversary o
 - 2007-05-24 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2007-05-24 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2007-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 177.
+- 2007-06-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S7494; text as passed Senate: CR S7494)
+- 2007-06-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7494; text as passed Senate: CR S7494)
