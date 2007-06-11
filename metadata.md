@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 418
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 418
@@ -16,7 +16,7 @@ Recognizing and welcoming the delegation of Presidents, Prime Ministers, and For
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 
-## Cosponsors (25)
+## Cosponsors (28)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Burton, Dan [R-IN-5] (B001149)
@@ -43,6 +43,9 @@ Recognizing and welcoming the delegation of Presidents, Prime Ministers, and For
 - Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
 
 ## Committees (1)
 
@@ -53,3 +56,13 @@ Recognizing and welcoming the delegation of Presidents, Prime Ministers, and For
 - 2007-05-21 — Introduced in House
 - 2007-05-21 — Introduced in House
 - 2007-05-21 — Referred to the House Committee on Foreign Affairs.
+- 2007-05-23 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-06-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-06-11 — Considered as unfinished business. (consideration: CR H6205-6206)
+- 2007-06-11 — Considered under suspension of the rules. (consideration: CR H6194-6198)
+- 2007-06-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 418.
+- 2007-06-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-11 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution.
+- 2007-06-11 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 450). (text: CR H6195)
+- 2007-06-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 450).(text: CR H6195)
