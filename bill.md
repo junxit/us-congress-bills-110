@@ -7,13 +7,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1441
 
-> To prohibit the sale by the Department of Defense of parts for F–14 fighter aircraft.
+> To strengthen controls on the export of surplus parts for F–14 fighter aircraft.
 
-## § 1. Short title
-
-This Act may be cited as the “Stop Arming Iran Act”.
-
-## § 2. Prohibition on sale by Department of Defense of parts for F–14 fighter aircraft
+## § 1. Prohibition on sale by Department of Defense of parts for F–14 fighter aircraft
 
 - **(a)** *Findings* Congress makes the following findings:
   - **(1)** The Department of Defense is responsible for demilitarizing and auctioning off sensitive surplus United States military equipment.
