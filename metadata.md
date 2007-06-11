@@ -1,7 +1,7 @@
 ---
 measure: S. 457
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 457
@@ -16,7 +16,7 @@ A bill to extend the date on which the National Security Personnel System will f
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Sessions, Jeff [R-AL] (S001141)
@@ -27,6 +27,7 @@ A bill to extend the date on which the National Security Personnel System will f
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Lott, Trent [R-MS] (L000447)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Bayh, Evan [D-IN] (B001233)
 
 ## Committees (1)
 
@@ -36,3 +37,7 @@ A bill to extend the date on which the National Security Personnel System will f
 
 - 2007-01-31 — Introduced in Senate
 - 2007-01-31 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-02-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-06-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-79.
+- 2007-06-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-79.
+- 2007-06-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 196.
