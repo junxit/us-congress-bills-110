@@ -1,7 +1,7 @@
 ---
 measure: H.R. 65
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 65
@@ -237,9 +237,10 @@ Lumbee Recognition Act
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Barrow, John [D-GA-12] (B001252)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -272,3 +273,4 @@ Lumbee Recognition Act
 - 2007-06-07 — Rules amendment (A001) modified by unanimous consent.
 - 2007-06-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H6159)
 - 2007-06-07 — The previous question was ordered pursuant to the rule. (consideration: CR H6158)
+- 2007-06-12 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
