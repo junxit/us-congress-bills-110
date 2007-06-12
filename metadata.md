@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 251
@@ -68,3 +68,9 @@ Truth in Caller ID Act of 2007
 - 2007-06-11 — Placed on the Union Calendar, Calendar No. 112.
 - 2007-06-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-188.
 - 2007-06-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-188.
+- 2007-06-12 — Considered under suspension of the rules. (consideration: CR H6257-6260)
+- 2007-06-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 251.
+- 2007-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-12 — Mr. Markey moved to suspend the rules and pass the bill, as amended.
+- 2007-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6257)
+- 2007-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6257)
