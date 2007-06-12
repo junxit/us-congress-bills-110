@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 455
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 455
@@ -36,3 +36,9 @@ Supporting the goals and ideals of National Internet Safety Month.
 - 2007-06-05 — Introduced in House
 - 2007-06-05 — Referred to the House Committee on Energy and Commerce.
 - 2007-06-05 — Referred to the Subcommittee on Commerce, Trade and Consumer Protection.
+- 2007-06-12 — Considered under suspension of the rules. (consideration: CR H6254-6257)
+- 2007-06-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 455.
+- 2007-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-12 — Mr. Butterfield moved to suspend the rules and agree to the resolution, as amended.
+- 2007-06-12 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6254)
+- 2007-06-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6254)

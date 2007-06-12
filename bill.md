@@ -2,7 +2,7 @@
 legis-num: H. RES. 455
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 455
@@ -34,4 +34,4 @@ That the House of Representatives—
 - **(3)** commends and recognizes national and community organizations for—
   - **(A)** promoting awareness of the dangers of the Internet; and
   - **(B)** providing information and training that develops critical thinking and decision-making skills that are needed to use the Internet safely; and
-- **(4)** calls on Internet safety organizations, law enforcement, educators, community leaders, parents, and volunteers to increase their efforts to raise the level of awareness for the need for online safety in the United States.
+- **(4)** calls on parents, educators, Internet safety organizations, law enforcement, community leaders, and volunteers to increase their efforts to raise the level of awareness for the need for online safety in the United States.
