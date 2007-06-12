@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1441
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1441
@@ -57,10 +57,11 @@ A bill to strengthen controls on the export of surplus parts for F-14 fighter ai
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -78,3 +79,4 @@ A bill to strengthen controls on the export of surplus parts for F-14 fighter ai
 - 2007-06-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6202)
 - 2007-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6202)
 - 2007-06-11 — The title of the measure was amended. Agreed to without objection.
+- 2007-06-12 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
