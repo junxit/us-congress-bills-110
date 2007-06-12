@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2356
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2356
@@ -20,9 +20,10 @@ To amend title 4, United States Code, to encourage the display of the flag of th
 
 - Rep. Burton, Dan [R-IN-5] (B001149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ To amend title 4, United States Code, to encourage the display of the flag of th
 - 2007-06-11 — Ms. Baldwin moved to suspend the rules and pass the bill.
 - 2007-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448). (text: CR H6189)
 - 2007-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448).(text: CR H6189)
+- 2007-06-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
