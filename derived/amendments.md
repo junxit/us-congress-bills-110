@@ -1,7 +1,7 @@
 ---
 measure: H.R. 65
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -33,6 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | By striking “and” at the end of each clause. | the bill names no machine-readable US Code section |
 | — | replace | By striking “: Now, therefore,” at the end of the last clause and inserting a semicolon. | the bill names no machine-readable US Code section |
-| — | add-at-end | By adding at the end the following new clauses: | the bill names no machine-readable US Code section |
+| — | amend | By adding at the end the following new clauses: | the bill names no machine-readable US Code section |
 | `25 U.S.C. § 2701` | strike | By striking the last sentence of the first section. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 2701` | replace | By striking section 2 and inserting the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
