@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 473
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 473
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 2638) making appropriations for th
 - 2007-06-11 — Placed on the House Calendar, Calendar No. 74.
 - 2007-06-11 — The House Committee on Rules reported an original measure, H. Rept. 110-184, by Ms. Slaughter.
 - 2007-06-11 — The House Committee on Rules reported an original measure, H. Rept. 110-184, by Ms. Slaughter.
+- 2007-06-12 — Considered as privileged matter. (consideration: CR H6260-6267)
+- 2007-06-12 — DEBATE - The House proceeded with one hour of debate on H. Res. 473.
+- 2007-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-12 — On agreeing to the resolution Agreed to by voice vote. (text: CR H6260)
+- 2007-06-12 — On ordering the previous question Agreed to by the Yeas and Nays: 222 - 194 (Roll no. 451). (consideration: CR H6266)
+- 2007-06-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H6260)
