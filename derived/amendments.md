@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2637
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 216` | amend | Section 16(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 9a` | amend | Section 16(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

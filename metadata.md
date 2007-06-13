@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2637
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2637
@@ -25,9 +25,10 @@ Child Labor Protection Act of 2007
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Loebsack, David [D-IA-2] (L000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Child Labor Protection Act of 2007
 - 2007-06-12 — Mr. Hare moved to suspend the rules and pass the bill.
 - 2007-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6250)
 - 2007-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6250)
+- 2007-06-13 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
