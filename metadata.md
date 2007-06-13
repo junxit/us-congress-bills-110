@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 251
@@ -50,9 +50,10 @@ Truth in Caller ID Act of 2007
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Truth in Caller ID Act of 2007
 - 2007-06-12 — Mr. Markey moved to suspend the rules and pass the bill, as amended.
 - 2007-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6257)
 - 2007-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6257)
+- 2007-06-13 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 251
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `47 U.S.C. § 227` | redesignate | by redesignating subsections (e), (f), and (g) as subsections (f), (g), and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 227` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating subsections (e), (f), and (g) as subsections (f), (g), and (h), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (d) the following new subsection: | the bill names no machine-readable US Code section |
