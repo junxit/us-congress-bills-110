@@ -1,7 +1,7 @@
 ---
 measure: S. 1548
 congress: 110
-version: Placed on Calendar Senate
+version: Referral Instructions Senate
 derived: true
 ---
 
