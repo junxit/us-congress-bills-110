@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2358
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2358
@@ -24,9 +24,10 @@ Native American $1 Coin Act
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Native American $1 Coin Act
 - 2007-06-12 — Mr. Boren moved to suspend the rules and pass the bill.
 - 2007-06-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6246-6247)
 - 2007-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6246-6247)
+- 2007-06-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
