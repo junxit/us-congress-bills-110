@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 164
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 164
@@ -36,3 +36,4 @@ Authorizing the use of the rotunda of the Capitol for a ceremony to award the Co
 - 2007-06-12 — Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.
 - 2007-06-12 — On agreeing to the resolution Agreed to without objection. (text: CR H6245)
 - 2007-06-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6245)
+- 2007-06-13 — Received in the Senate.
