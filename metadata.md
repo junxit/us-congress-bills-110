@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 215
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 215
@@ -16,7 +16,7 @@ A resolution designating September 25, 2007, as "National First Responder Apprec
 
 - Sen. Allard, Wayne [R-CO] (A000109)
 
-## Cosponsors (9)
+## Cosponsors (14)
 
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
@@ -27,6 +27,11 @@ A resolution designating September 25, 2007, as "National First Responder Apprec
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Craig, Larry E. [R-ID] (C000858)
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -37,3 +42,7 @@ A resolution designating September 25, 2007, as "National First Responder Apprec
 - 2007-01-24 — Introduced in Senate
 - 2007-05-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6897-6898)
 - 2007-05-24 — Sponsor introductory remarks on measure. (CR S6898)
+- 2007-06-14 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-06-14 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-06-14 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 201.
