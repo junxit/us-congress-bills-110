@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 2713
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2713
+
+> To amend title II of the Social Security Act to authorize waivers by the Commissioner of Social Security of the 5-month waiting period for entitlement to benefits based on disability in cases in which the Commissioner determines that such waiting period would cause undue hardship to terminally ill beneficiaries, and to provide for a study by the Commissioner regarding possible improvements in disability claims processing.
+
+## § 1. Short title
+
+This Act may be cited as the “Joseph H. Seall Act of 2007”.
+
+## § 2. Waiver of 5-month waiting period for benefits based on disability in cases of terminally ill beneficiaries
+
+- **(a)** *Disability insurance benefits* Section 223(a) of the Social Security Act (42 U.S.C. 423(a)) is amended by adding at the end the following new paragraph:
+  > - **(3)** The Commissioner of Social Security may waive the application of the individual's waiting period under clause (i) in the first sentence of paragraph (1) if the Commissioner determines that such individual would otherwise be entitled to disability insurance benefits under this section, that such individual is terminally ill, and that the application of the waiting period would work an undue hardship on such individual (as determined on the basis of criteria established by the Commissioner). In the case of any such waiver granted by the Commissioner with respect to an individual, notwithstanding clauses (i) and (ii) in the first sentence of paragraph (1), the individual shall be entitled to disability insurance benefits for each month, beginning with the first month during all of which such individual is under a disability and in which such individual would become so entitled to such insurance benefits under such sentence but for such waiting period, and ending as provided in paragraph (1). For purposes of this paragraph, an individual is considered to be “terminally ill” if the individual has a medical prognosis that the individual's life expectancy is 6 months or less.
+
+- **(b)** *Widow's insurance benefits based on disability* Section 202(e)(5) of such Act (42 U.S.C. 402(e)(5)) is amended by adding at the end the following new subparagraph:
+  > - **(C)** The Commissioner of Social Security may waive the application of the individual's waiting period under paragraph (1)(F)(i) if the Commissioner determines that she would otherwise be entitled to widow's insurance benefits under this section, that she is terminally ill, and that such application of the waiting period would work an undue hardship on her (as determined on the basis of criteria established by the Commissioner). In the case of any such waiver granted by the Commissioner with respect to an individual, notwithstanding clauses (i) and (ii) of paragraph (1)(F), she shall be entitled to widow's insurance benefits for each month, beginning with the first month during all of which she is under a disability and in which she would become so entitled to such insurance benefits under paragraph (1) but for such waiting period, and ending as provided in paragraph (1). For purposes of this subparagraph, an individual is considered to be “terminally ill” if the individual has a medical prognosis that the individual's life expectancy is 6 months or less.
+
+- **(c)** *Widower's insurance benefits based on disability* Section 202(f)(6) of such Act (42 U.S.C. 402(f)(6)) is amended by adding at the end the following new subparagraph:
+  > - **(C)** The Commissioner of Social Security may waive the application of the individual's waiting period under paragraph (1)(F)(i) if the Commissioner determines that he would otherwise be entitled to widower's insurance benefits under this section, that he is terminally ill, and that such application would work an undue hardship on him (as determined on the basis of criteria established by the Commissioner). In the case of any such waiver granted by the Commissioner with respect to an individual, notwithstanding clauses (i) and (ii) of paragraph (1)(F), he shall be entitled to widower's insurance benefits for each month, beginning with the first month during all of which he is under a disability and in which he would become so entitled to such insurance benefits under paragraph (1) but for such waiting period, and ending as provided in paragraph (1). For purposes of this subparagraph, an individual is considered to be “terminally ill” if the individual has a medical prognosis that the individual's life expectancy is 6 months or less.
+
+- **(d)** *Commencement of period of disability* Section 216(i)(2)(A) of such Act (42 U.S.C. 416(i)(2)(A)) is amended—
+  - **(1)** by inserting “(i)” after “(2)(A)”;
+  - **(2)** by inserting “(I)” after “but only if”;
+  - **(3)** by inserting “(II)” after “duration or”; and
+  - **(4)** by adding at the end the following new clause:
+    > - **(ii)** The Commissioner of Social Security may waive the application of the five-month requirement under clause (i)(I) if the Commissioner determines that such individual would otherwise be entitled to a period of disability under this paragraph, that such individual is terminally ill, and that the application of such five-month requirement would work an undue hardship on such individual (as determined on the basis of criteria established by the Commissioner). For purposes of this clause, an individual is considered to be “terminally ill” if the individual has a medical prognosis that the individual's life expectancy is 6 months or less.
+
+- **(e)** *Effective dates* The amendments made by subsection (a) shall apply only with respect to benefits under section 223 of the Social Security Act, or under section 202 of such Act on the basis of the wages and self-employment income of an individual entitled to benefits under such section 223, for months beginning after 90 days after the date of the enactment of this Act. The amendments made by subsections (b) and (c) shall apply only with respect to benefits based on disability under subsection (e) or (f) of section 202 of the Social Security Act for months after 90 days after the date of the enactment of this Act. The amendments made by subsection (d) shall apply only with respect to applications for disability determinations filed under title II of the Social Security Act after 90 days after the date of the enactment of this Act.
+
+## § 3. Study regarding disability claims processing
+
+- **(a)** *In general* As soon as practicable after the date of the enactment of this Act, the Commissioner of Social Security shall undertake a study regarding the processing of claims for disability insurance benefits under section 223 of the Social Security Act, other benefits based on disability under section 202 of such Act, periods of disability under section 216(i) of such Act, and supplemental security income benefits based on disability under title XVI of such Act.
+- **(b)** *Matters To be studied* In carrying out the study required under subsection (a), the Commissioner shall—
+  - **(1)** analyze the methods and procedures currently employed in making determinations regarding claims described in subsection (a), including methods and procedures employed by State agencies and the Social Security Administration under section 221 of such Act, and
+  - **(2)** compare such methods and procedures to the methods and procedures currently employed by other Federal and State agencies and disability benefit providers in the private sector regarding claims for disability benefits under programs administered by such agencies and providers.
+- **(c)** *Report* Not later than 120 days after the date of the enactment of this Act, the Commissioner shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the Commissioner’s recommendations regarding possible improvements in the methods and procedures referred to in subsection (b)(1) (including methods and procedures that would expedite the disability determination process as a means of remedying the current backlog in the processing of claims described in subsection (a)) based on the comparisons made pursuant to subsection (b)(2), together with such recommendations for legislative changes as the Commissioner may consider necessary or appropriate to facilitate such improvements.
