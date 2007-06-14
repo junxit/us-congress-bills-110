@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2640
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2640
@@ -36,9 +36,10 @@ NICS Improvement Amendments Act of 2007
 - Rep. Ross, Mike [D-AR-4] (R000573)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ NICS Improvement Amendments Act of 2007
 - 2007-06-13 — Mr. Conyers moved to suspend the rules and pass the bill.
 - 2007-06-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6339-6342)
 - 2007-06-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6339-6342)
+- 2007-06-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
