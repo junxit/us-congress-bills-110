@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2284
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2284
@@ -16,7 +16,7 @@ To amend the Small Business Act to expand and improve the assistance provided by
 
 - Rep. Udall, Tom [D-NM-3] (U000039)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Renzi, Rick [R-AZ-1] (R000574)
@@ -28,6 +28,7 @@ To amend the Small Business Act to expand and improve the assistance provided by
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
 ## Committees (1)
 
@@ -38,3 +39,10 @@ To amend the Small Business Act to expand and improve the assistance provided by
 - 2007-05-10 — Introduced in House
 - 2007-05-10 — Introduced in House
 - 2007-05-10 — Referred to the House Committee on Small Business.
+- 2007-05-11 — Sponsor introductory remarks on measure. (CR E1023)
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-05-23 — Committee Hearings Held.
+- 2007-05-23 — Ordered to be Reported by Voice Vote.
+- 2007-06-15 — Placed on the Union Calendar, Calendar No. 113.
+- 2007-06-15 — Reported by the Committee on Small Business. H. Rept. 110-192.
+- 2007-06-15 — Reported by the Committee on Small Business. H. Rept. 110-192.
