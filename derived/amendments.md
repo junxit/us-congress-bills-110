@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2397
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -36,6 +36,6 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 7106` | insert | Section 406(d)(4) of the Women's Business Ownership Act of 1988 (15 U.S.C. 7106(d)(4)) is amended by inserting before the semicolon at the end the following: “, and on a biannual basis (notwithstanding paragraph (6)) submit to the Presid… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 656` | amend | Section 29(b) of the Small Business Act (15 U.S.C. 656(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 656` | strike | by striking subparagraphs (A) and (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 656` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 656` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 656` | add-at-end | Section 29(c) of the Small Business Act (15 U.S.C. 656(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 656` | insert | Section 29(g)(2)(B)(ii)(V) of the Small Business Act (15 U.S.C. 656(g)(2)(B)(ii)(V)) is amended by inserting before the semicolon at the end the following: “, and make available to the public the award made to each applicant so selected”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
