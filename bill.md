@@ -1,0 +1,70 @@
+---
+legis-num: H.R. 2740
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2740
+
+> To require accountability for contractors and contract personnel under Federal contracts, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “MEJA Expansion and Enforcement Act of 2007”.
+
+## § 2. Legal status of contract personnel
+
+- **(a)** *Clarification of the Military Extraterritorial Jurisdiction Act*
+  - **(1)** *Inclusion of contractors* Subsection (a) of section 3261 of title 18, United States Code, is amended—
+    - **(A)** by striking “or” at the end of paragraph (1);
+    - **(B)** by striking the comma at the end of paragraph (2) and inserting “; or”; and
+    - **(C)** by inserting after paragraph (2) the following:
+      > - **(3)** while employed under a contract (or subcontract at any tier) awarded by any department or agency of the United States, where the work under such contract is carried out in a region outside the United States in which the Armed Forces are conducting a contingency operation,
+
+  - **(2)** *Definition* Section 3267 of title 18, United States Code, is amended by adding at the end the following:
+    > - **(5)** The term contingency operation has the meaning given such term in section 101(a)(13) of title 10.
+
+- **(b)** *Department of Justice Inspector General Report*
+  - **(1)** *Report required* Not later than 30 days after the date of the enactment of this Act, the Inspector General of the Department of Justice shall submit to Congress a report in accordance with this subsection.
+  - **(2)** *Content of report* The report under paragraph (1) shall include—
+    - **(A)** a description of the status of Department of Justice investigations of abuses alleged to have been committed by contract personnel, which shall include—
+      - **(i)** the number of complaints received by the Department of Justice;
+      - **(ii)** the number of investigations into complaints opened by the Department of Justice;
+      - **(iii)** the number of criminal cases opened by the Department of Justice; and
+      - **(iv)** the number and result of criminal cases closed by the Department of Justice; and
+    - **(B)** findings and recommendations about the capacity and effectiveness of the Department of Justice in prosecuting misconduct by contract personnel.
+  - **(3)** *Format of report* The report under paragraph (1) shall be submitted in unclassified format, but may contain a classified annex as appropriate.
+
+## § 3. Federal Bureau of Investigation investigative unit for contingency operations
+
+- **(a)** *Establishment of Theater Investigative Unit* For each theater of operations established in connection with a contingency operation in which contract personnel are carrying out work under a covered contract, the Director of the Federal Bureau of Investigation shall establish a Theater Investigative Unit, which shall be responsible for investigating allegations of criminal misconduct under section 3261 of title 18, United States Code, by contract personnel.
+- **(b)** *Responsibilities of Theater Investigative Unit* The Theater Investigative Unit established for a theater of operations shall—
+  - **(1)** investigate reports that raise reasonable suspicion of criminal misconduct by contract personnel;
+  - **(2)** investigate reports of fatalities resulting from the use of force by contract personnel; and
+  - **(3)** upon conclusion of an investigation of alleged criminal misconduct, refer the case to the Attorney General of the United States for further action, as appropriate in the discretion of the Attorney General.
+- **(c)** *Responsibilities of Federal Bureau of Investigation*
+  - **(1)** *Resources* The Director of the Federal Bureau of Investigation shall ensure that each Theater Investigative Unit has adequate resources and personnel to carry out its responsibilities.
+  - **(2)** *Notification* The Director of the Federal Bureau of Investigation shall notify Congress whenever a Theater Investigative Unit is established or terminated in accordance with this section.
+- **(d)** *Responsibilities of other Federal agencies* An agency operating in a theater of operations in which a Theater Investigative Unit is established shall cooperate with and support the activities of the Theater Investigative Unit. Any investigation carried out by the Inspector General of an agency shall be coordinated with the activities of the Theater Investigative Unit as appropriate.
+
+## § 4. Definitions
+
+In this Act:
+
+- **(1)** *Covered contract* The term covered contract means an agreement—
+  - **(A)** that is—
+    - **(i)** a prime contract awarded by an agency;
+    - **(ii)** a subcontract at any tier under any prime contract awarded by an agency; or
+    - **(iii)** a task order issued under a task or delivery order contract entered into by an agency; and
+  - **(B)** according to which the work under such contract, subcontract, or task order is carried out in a region outside the United States in which the Armed Forces are conducting a contingency operation.
+- **(2)** *Agency* The term agency has the meaning given the term Executive agency in section 105 of title 5, United States Code.
+- **(3)** *Contingency operation* The term contingency operation has the meaning given the term section 101(13) of title 10, United States Code.
+- **(4)** *Contractor* The term contractor means an entity performing a covered contract.
+- **(5)** *Contract personnel* The term contract personnel means persons assigned by a contractor (including subcontractors at any tier) to perform work under a covered contract.
+
+## § 5. Effective date
+
+- **(a)** *Applicability* The provisions of this Act shall apply to all covered contracts and all covered contract personnel in which the work under the contract is carried out in a theater of operations in which the United States is conducting contingency operations on or after the date of the enactment of this Act.
+- **(b)** *Immediate effectiveness* The provisions of this Act shall enter into effect immediately upon the enactment of this Act.
+- **(c)** *Implementation* With respect to covered contracts and covered contract personnel discussed in subsection (a)(1), the Director of the Federal Bureau of Investigation, and the head of any other agency to which this Act applies, shall have 90 days after the date of the enactment of this Act to ensure compliance with the provisions of this Act.
