@@ -2,7 +2,7 @@
 legis-num: H. RES. 137
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 137
@@ -24,7 +24,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Birnbaum has testified before committees of the House of Representatives and the Senate and the Helsinki Commission;
 - Whereas Birnbaum advocated utilizing economic leverage at a Congressional hearing as early as May 1965;
 - Whereas Birnbaum worked closely in the early 1970s with Senator Henry Jackson, who introduced legislation linking United States trade benefits and capital flow to the Soviet Union with increased Soviet emigration;
-- Whereas Birnbaum was one of the most persistent of those individuals who fought for passage of the Jackson-Vanik amendment to allow Soviet Jews and other East European Jews to escape oppression and religious, cultural, and communal genocide in the Soviet bloc;
+- Whereas Birnbaum was one of the most persistent of those individuals who fought for passage of the Jackson-Vanik amendment to allow Soviet Jews and other East European Jews to escape oppression and religious, cultural, and communal extinction in the Soviet bloc;
 - Whereas Birnbaum conducted a number of campaigns with Presidents and Congress for the protection of Soviet Jewish underground self-education groups and organized a delegation of the Synagogue Council of America to meet with the Deputy Secretary of State in 1985;
 - Whereas Birnbaum received the Prophet in Our Time Award in 1974 on the tenth anniversary of the SSSJ;
 - Whereas Birnbaum received the Yeshiva University Community Service Award in 1988 and the Freedom Award in 2004 from the Manhattan Beach Jewish Center;
