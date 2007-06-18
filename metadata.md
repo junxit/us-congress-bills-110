@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 155
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 155
@@ -16,7 +16,7 @@ Recognizing the historical significance of Juneteenth Independence Day, and expr
 
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Cosponsors (56)
+## Cosponsors (57)
 
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
@@ -74,6 +74,7 @@ Recognizing the historical significance of Juneteenth Independence Day, and expr
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Ross, Mike [D-AR-4] (R000573)
 - Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Green, Gene [D-TX-29] (G000410)
 
 ## Committees (1)
 
@@ -84,3 +85,11 @@ Recognizing the historical significance of Juneteenth Independence Day, and expr
 - 2007-05-23 — Introduced in House
 - 2007-05-23 — Introduced in House
 - 2007-05-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-06-12 — Committee Consideration and Mark-up Session Held.
+- 2007-06-12 — Ordered to be Reported by Voice Vote.
+- 2007-06-18 — Considered under suspension of the rules. (consideration: CR H6592-6593)
+- 2007-06-18 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 155.
+- 2007-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-18 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-06-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6592)
+- 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6592)
