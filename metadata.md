@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2366
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2366
@@ -53,3 +53,9 @@ SBA Veterans' Programs Act of 2007
 - 2007-06-15 — Placed on the Union Calendar, Calendar No. 115.
 - 2007-06-15 — Reported by the Committee on Small Business. H. Rept. 110-194.
 - 2007-06-15 — Reported by the Committee on Small Business. H. Rept. 110-194.
+- 2007-06-18 — Considered under suspension of the rules. (consideration: CR H6620-6622, H6623-6624)
+- 2007-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2366.
+- 2007-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-18 — Ms. Velazquez moved to suspend the rules and pass the bill.
+- 2007-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6623)
+- 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6623)
