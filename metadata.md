@@ -1,7 +1,7 @@
 ---
 measure: S. 1606
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1606
@@ -58,3 +58,7 @@ Dignified Treatment of Wounded Warriors Act
 - 2007-06-13 — Introduced in Senate
 - 2007-06-13 — Read twice and referred to the Committee on Armed Services.
 - 2007-06-13 — Sponsor introductory remarks on measure. (CR S7643-7644)
+- 2007-06-14 — Committee on Armed Services. Ordered to be reported with amendments favorably.
+- 2007-06-18 — Committee on Armed Services. Reported by Senator Levin with an amendment in the nature of a substitute. Without written report.
+- 2007-06-18 — Committee on Armed Services. Reported by Senator Levin with an amendment in the nature of a substitute. Without written report.
+- 2007-06-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 203.
