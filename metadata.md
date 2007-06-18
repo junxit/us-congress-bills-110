@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 151
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 151
@@ -16,7 +16,7 @@ Noting the disturbing pattern of killings of numerous independent journalists in
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Cosponsors (31)
+## Cosponsors (32)
 
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
@@ -49,13 +49,29 @@ Noting the disturbing pattern of killings of numerous independent journalists in
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 - Rep. Herger, Wally [R-CA-2] (H000528)
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2007-06-18 — [House 110-1-500](votes/house-110-1-0500.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (388–1)
 
 ## Actions
 
 - 2007-05-22 — Introduced in House
 - 2007-05-22 — Introduced in House
 - 2007-05-22 — Referred to the House Committee on Foreign Affairs.
+- 2007-05-23 — Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-06-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-06-18 — Considered as unfinished business. (consideration: CR H6630)
+- 2007-06-18 — Considered under suspension of the rules. (consideration: CR H6610-6612)
+- 2007-06-18 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 151.
+- 2007-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-18 — Ms. Watson moved to suspend the rules and agree to the resolution, as amended.
+- 2007-06-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 1 (Roll no. 500). (text: CR H6610)
+- 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 1 (Roll no. 500).(text: CR H6610)
+- 2007-06-18 — The title of the measure was amended. Agreed to without objection.
