@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 148
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 148
@@ -16,7 +16,7 @@ Recognizing the significance of National Caribbean-American Heritage Month.
 
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 
-## Cosponsors (36)
+## Cosponsors (53)
 
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
 - Rep. Burton, Dan [R-IN-5] (B001149)
@@ -54,6 +54,23 @@ Recognizing the significance of National Caribbean-American Heritage Month.
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Baca, Joe [D-CA-43] (B001234)
 
 ## Committees (1)
 
@@ -64,3 +81,11 @@ Recognizing the significance of National Caribbean-American Heritage Month.
 - 2007-05-14 — Introduced in House
 - 2007-05-14 — Introduced in House
 - 2007-05-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-06-12 — Committee Consideration and Mark-up Session Held.
+- 2007-06-12 — Ordered to be Reported by Voice Vote.
+- 2007-06-18 — Considered under suspension of the rules. (consideration: CR H6593-6594)
+- 2007-06-18 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 148.
+- 2007-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-18 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-06-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6593)
+- 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6593)
