@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 406
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 406
@@ -16,7 +16,7 @@ Celebrating the accomplishments of title IX of the Education Amendments of 1972,
 
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
-## Cosponsors (110)
+## Cosponsors (129)
 
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Altmire, Jason [D-PA-4] (A000362)
@@ -128,6 +128,25 @@ Celebrating the accomplishments of title IX of the Education Amendments of 1972,
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
 
 ## Committees (1)
 
@@ -139,3 +158,9 @@ Celebrating the accomplishments of title IX of the Education Amendments of 1972,
 - 2007-05-15 — Introduced in House
 - 2007-05-15 — Referred to the House Committee on Education and Labor.
 - 2007-05-15 — Sponsor introductory remarks on measure. (CR E1052)
+- 2007-06-18 — Considered under suspension of the rules. (consideration: CR H6588-6591)
+- 2007-06-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 406.
+- 2007-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-18 — Ms. Hirono moved to suspend the rules and agree to the resolution.
+- 2007-06-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6588-6589)
+- 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6588-6589)
