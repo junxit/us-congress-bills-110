@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2397
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2397
@@ -21,9 +21,10 @@ SBA Women's Business Programs Act of 2007
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ SBA Women's Business Programs Act of 2007
 - 2007-06-18 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2007-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6627)
 - 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6627)
+- 2007-06-19 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
