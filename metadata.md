@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 148
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 148
@@ -72,9 +72,10 @@ Recognizing the significance of National Caribbean-American Heritage Month.
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Baca, Joe [D-CA-43] (B001234)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Recognizing the significance of National Caribbean-American Heritage Month.
 - 2007-06-18 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
 - 2007-06-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6593)
 - 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6593)
+- 2007-06-19 — Received in the Senate and referred to the Committee on the Judiciary.
