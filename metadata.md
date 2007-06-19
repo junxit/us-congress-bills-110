@@ -1,7 +1,7 @@
 ---
 measure: H.R. 923
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 923
@@ -16,7 +16,7 @@ Emmett Till Unsolved Civil Rights Crime Act of 2007
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Cosponsors (59)
+## Cosponsors (83)
 
 - Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
@@ -77,6 +77,30 @@ Emmett Till Unsolved Civil Rights Crime Act of 2007
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
 - Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Lampson, Nick [D-TX-22] (L000043)
+- Rep. Meehan, Martin T. [D-MA-5] (M000627)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
 
 ## Committees (1)
 
@@ -87,3 +111,13 @@ Emmett Till Unsolved Civil Rights Crime Act of 2007
 - 2007-02-08 — Introduced in House
 - 2007-02-08 — Introduced in House
 - 2007-02-08 — Referred to the House Committee on the Judiciary.
+- 2007-02-09 — Sponsor introductory remarks on measure. (CR 2/12/2007  E312-313)
+- 2007-03-01 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2007-06-08 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2007-06-12 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-06-12 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-06-13 — Committee Consideration and Mark-up Session Held.
+- 2007-06-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-06-19 — Placed on the Union Calendar, Calendar No. 120.
+- 2007-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-200.
+- 2007-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-200.
