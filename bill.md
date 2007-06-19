@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Emmett Till Unsolved Civil Rights Crime Act”.
+This Act may be cited as the “Emmett Till Unsolved Civil Rights Crime Act of 2007”.
 
 ## § 2. Sense of Congress
 
@@ -20,64 +20,58 @@ It is the sense of Congress that all authorities with jurisdiction, including th
 - **(1)** expeditiously investigate unsolved civil rights murders, due to the amount of time that has passed since the murders and the age of potential witnesses; and
 - **(2)** provide all the resources necessary to ensure timely and thorough investigations in the cases involved.
 
-## § 3. Definitions
+## § 3. Deputy Chief of the Criminal Section of the Civil Rights Division
 
-In this Act:
-
-- **(1)** *Chief investigator* The term “Chief Investigator” means the Chief Investigator of the Unit.
-- **(2)** *Criminal civil rights statutes* The term “criminal civil rights statutes” means—
-  - **(A)** section 241 of title 18, United States Code (relating to conspiracy against rights);
-  - **(B)** section 242 of title 18, United States Code (relating to deprivation of rights under color of law);
-  - **(C)** section 245 of title 18, United States Code (relating to federally protected activities);
-  - **(D)** sections 1581 and 1584 of title 18, United States Code (relating to involuntary servitude and peonage);
-  - **(E)** section 901 of the Fair Housing Act (42 U.S.C. 3631); and
-  - **(F)** any other Federal law that—
-    - **(i)** was in effect on or before December 31, 1969; and
-    - **(ii)** the Criminal Section of the Civil Rights Division of the Department of Justice enforced, prior to the date of enactment of this Act.
-- **(3)** *Office* The term “Office” means the Unsolved Civil Rights Crime Investigative Office established under section 5.
-- **(4)** *Deputy* The term “Deputy” means the Deputy for the Unsolved Civil Rights Era Crimes Unit.
-- **(5)** *Unit* The term “Unit” (except when used as part of the term “Criminal Section”) means the Unsolved Civil Rights Era Crimes Unit established under section 4.
-
-## § 4. Establishment of section in civil rights division
-
-- **(a)** *In general* There is established in the Criminal Section of the Civil Rights Division of the Department of Justice an Unsolved Civil Rights Era Crimes Unit. The Unit shall be headed by a Deputy for the Unsolved Civil Rights Era Crimes Unit.
+- **(a)** *In General* The Attorney General shall designate a Deputy Chief in the Criminal Section of the Civil Rights Division of the Department of Justice.
 - **(b)** *Responsibility*
-  - **(1)** *In general* Notwithstanding any other provision of Federal law, and except as provided in section 5, the Deputy shall be responsible for investigating and prosecuting violations of criminal civil rights statutes, in cases in which a complaint alleges that such a violation—
-    - **(A)** occurred not later than December 31, 1969; and
-    - **(B)** resulted in a death.
-  - **(2)** *Coordination*
-    - **(A)** *Investigative activities* In investigating a complaint under paragraph (1), the Deputy shall coordinate investigative activities with State and local law enforcement officials.
-    - **(B)** *Venue* After investigating a complaint under paragraph (1), or receiving a report of an investigation conducted under section 5, if the Deputy determines that an alleged practice that is a violation of a criminal civil rights statute occurred in a State, or political subdivision of a State, that has a State or local law prohibiting the practice alleged and establishing or authorizing a State or local law enforcement official to grant or seek relief from such practice or to institute criminal proceedings with respect to the practice on receiving notice of the practice, the Deputy shall consult with the official regarding the appropriate venue for the case involved.
-  - **(3)** *Referral* After investigating a complaint under paragraph (1), or receiving a report of an investigation conducted under section 5, the Deputy shall refer the complaint to the Criminal Section of the Civil Rights Division, if the Deputy determines that the subject of the complaint has violated a criminal civil rights statute in the case involved but the violation does not meet the requirements of subparagraph (A) or (B) of paragraph (1).
+  - **(1)** *In general* The Deputy Chief shall be responsible for coordinating the investigation and prosecution of violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
+  - **(2)** *Coordination* In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials.
 - **(c)** *Study and Report*
-  - **(1)** *Study* The Deputy shall annually conduct a study of the cases under the jurisdiction of the Deputy or under the jurisdiction of the Chief Investigator and, in conducting the study, shall determine the cases—
-    - **(A)** for which the Deputy has sufficient evidence to prosecute violations of criminal civil rights statutes; and
-    - **(B)** for which the Deputy has insufficient evidence to prosecute those violations.
-  - **(2)** *Report* Not later than September 30 of 2007 and of each subsequent year, the Deputy shall prepare and submit to Congress a report containing the results of the study conducted under paragraph (1), including a description of the cases described in paragraph (1)(B).
+  - **(1)** *Study* The Attorney General shall annually conduct a study of the cases under the jurisdiction of the Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
+    - **(A)** the number of open investigations within the Department for violations of criminal civil rights statutes that occurred not later than December 31, 1969;
+    - **(B)** the number of new cases opened pursuant to this Act since the previous year’s study;
+    - **(C)** the number of unsealed Federal cases charged within the study period, including the case names, the jurisdiction in which the charges were brought, and the date the charges were filed;
+    - **(D)** the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges being filed, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so;
+    - **(E)** the number of cases within the study period that were closed without Federal prosecution, the case names of unsealed Federal cases, the dates the cases were closed, and the relevant federal statutes;
+    - **(F)** the number of attorneys who worked, in whole or in part, on any case described in subsection (b)(1); and
+    - **(G)** the applications submitted for grants under section 5, the award of such grants, and the purposes for which the grant amount were expended.
+  - **(2)** *Report* Not later than 6 months after the date of enactment of this Act, and each year thereafter, the Attorney General shall prepare and submit to Congress a report containing the results of the study conducted under paragraph (1).
 
-## § 5. Establishment of office in Federal Bureau of Investigation
+## § 4. Supervisory Special Agent in the Civil Rights Unit of the Federal Bureau of Investigation
 
-- **(a)** *In general* There is established in the Civil Rights Unit of the Federal Bureau of Investigation of the Department of Justice an Unsolved Civil Rights Crime Investigative Office. The Office shall be headed by a Deputy Investigator.
+- **(a)** *In General* The Attorney General shall designate a Supervisory Special Agent in the Civil Rights Unit of the Federal Bureau of Investigation of the Department of Justice.
 - **(b)** *Responsibility*
-  - **(1)** *In general* In accordance with an agreement established between the Deputy Investigator and the Deputy, the Deputy Investigator shall be responsible for investigating violations of criminal civil rights statutes, in cases described in section 4(b).
-  - **(2)** *Coordination*
-    - **(A)** *Investigative activities* In investigating a complaint under paragraph (1), the Deputy Investigator shall coordinate the investigative activities with State and local law enforcement officials.
-    - **(B)** *Referral* After investigating a complaint under paragraph (1), the Deputy Investigator shall—
-      - **(i)** determine whether the subject of the complaint has violated a criminal rights statute in the case involved; and
-      - **(ii)** refer the complaint to the Deputy, together with a report containing the determination and the results of the investigation.
-    - **(C)** *Resources* The Federal Bureau of Investigation, in coordination with the Department of Justice, Civil Rights Division, shall have discretion to re-allocate investigative personnel to jurisdictions to carry out the goals of this section.
+  - **(1)** *In general* The Supervisory Special Agent shall be responsible for investigating violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death.
+  - **(2)** *Coordination* In investigating a complaint under paragraph (1), the Supervisory Special Agent may coordinate the investigative activities with State and local law enforcement officials.
+
+## § 5. Grants to State and local law enforcement
+
+- **(a)** *In general* The Attorney General may award grants to State or local law enforcement agencies for expenses associated with the investigation and prosecution by them of criminal offenses, involving civil rights, that occurred not later than December 31, 1969, and resulted in a death.
+- **(b)** *Authorization of appropriations* There are authorized to be appropriated $2,000,000 for each of the fiscal years 2008 through 2017 to carry out this section.
 
 ## § 6. Authorization of appropriations
 
-- **(a)** *In general* There are authorized to be appropriated to carry out this Act $10,000,000 for fiscal year 2008 and each subsequent fiscal year through 2017. These funds shall be allocated by the Attorney General to the Unsolved Civil Rights Era Crime Unit of the Department of Justice and the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
-- **(b)** *Additional Appropriations* Any funds appropriated under this section shall consist of additional appropriations for the activities described in this Act, rather than funds made available through reductions in the appropriations authorized for other enforcement activities of the Department of Justice.
-- **(c)** *Community Relations Service of the Department of Justice* In addition to any amounts authorized to be appropriated under title XI of the Civil Rights Act of 1964 (42 U.S.C. 2000h et seq.), there are authorized to be appropriated to the Community Relations Service of the Department of Justice $1,500,000 for fiscal year 2008 and each subsequent fiscal year, to enable the Service (in carrying out the functions described in title X of such Act (42 U.S.C. 2000g et seq.)) to provide technical assistance by bringing together law enforcement agencies and communities in the investigation of violations of criminal civil rights statutes, in cases described in section 4(b).
+- **(a)** *In general* There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for each of the fiscal years 2008 through 2017 for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1969, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act.
+- **(b)** *Community Relations Service of the Department of Justice* In addition to any amounts authorized to be appropriated under title XI of the Civil Rights Act of 1964 (42 U.S.C. 2000h et seq.), there are authorized to be appropriated to the Community Relations Service of the Department of Justice $1,500,000 for fiscal year 2008 and each subsequent fiscal year, to enable the Service (in carrying out the functions described in title X of such Act (42 U.S.C. 2000g et seq.)) to provide technical assistance by bringing together law enforcement agencies and communities in the investigation of violations of criminal civil rights statutes, in cases described in section 4(b).
 
-## § 7. Sunset
+## § 7. Definition of “criminal civil rights statutes”
 
-Sections 1 through 6 of this Act shall expire at the end of fiscal year 2017.
+In this Act, the term criminal civil rights statutes means—
 
-## § 8. Authority of Inspectors General
+- **(1)** section 241 of title 18, United States Code (relating to conspiracy against rights);
+- **(2)** section 242 of title 18, United States Code (relating to deprivation of rights under color of law);
+- **(3)** section 245 of title 18, United States Code (relating to federally protected activities);
+- **(4)** sections 1581 and 1584 of title 18, United States Code (relating to involuntary servitude and peonage);
+- **(5)** section 901 of the Fair Housing Act (42 U.S.C. 3631); and
+- **(6)** any other Federal law that—
+  - **(A)** was in effect on or before December 31, 1969; and
+  - **(B)** the Criminal Section of the Civil Rights Division of the Department of Justice enforced, before the date of enactment of this Act.
+
+## § 8. Sunset
+
+Sections 2 through 6 of this Act shall cease to have effect at the end of fiscal year 2017.
+
+## § 9. Authority of Inspectors General
 
 Title XXXVII of the Crime Control Act of 1990 (42 U.S.C. 5779 et seq.) is amended by adding at the end the following:
 

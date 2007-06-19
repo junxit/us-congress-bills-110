@@ -1,7 +1,7 @@
 ---
 measure: H.R. 923
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5779` | add-at-end | Title XXXVII of the Crime Control Act of 1990 (42 U.S.C. 5779 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5779` | amend | Title XXXVII of the Crime Control Act of 1990 (42 U.S.C. 5779 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
