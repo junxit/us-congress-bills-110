@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2127
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2127
@@ -23,9 +23,10 @@ To designate the facility of the United States Postal Service located at 408 Wes
 - Rep. Sullivan, John [R-OK-1] (S001155)
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate the facility of the United States Postal Service located at 408 Wes
 - 2007-06-18 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6596)
 - 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6596)
+- 2007-06-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
