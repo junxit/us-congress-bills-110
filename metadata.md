@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 151
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 151
@@ -51,9 +51,10 @@ Noting the disturbing pattern of killings of numerous independent journalists in
 - Rep. Gallegly, Elton [R-CA-24] (G000021)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ Noting the disturbing pattern of killings of numerous independent journalists in
 - 2007-06-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 1 (Roll no. 500). (text: CR H6610)
 - 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 1 (Roll no. 500).(text: CR H6610)
 - 2007-06-18 — The title of the measure was amended. Agreed to without objection.
+- 2007-06-19 — Received in the Senate and referred to the Committee on Foreign Relations.
