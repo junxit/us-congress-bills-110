@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 481
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 481
@@ -27,3 +27,8 @@ Providing for consideration of the bill (H.R. 2641) making appropriations for en
 - 2007-06-13 — Rule provides for consideration of H.R. 2641 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments.
 - 2007-06-13 — The House Committee on Rules reported an original measure, H. Rept. 110-190, by Ms. Matsui.
 - 2007-06-13 — The House Committee on Rules reported an original measure, H. Rept. 110-190, by Ms. Matsui.
+- 2007-06-19 — Considered as privileged matter. (consideration: CR H6666-6668)
+- 2007-06-19 — DEBATE - The House proceeded with one hour of debate on H. Res. 481.
+- 2007-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-19 — On agreeing to the resolution Agreed to by voice vote. (text: CR H6666)
+- 2007-06-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H6666)
