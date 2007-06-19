@@ -1,7 +1,7 @@
 ---
 measure: H.R. 885
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 885
@@ -31,9 +31,10 @@ International Nuclear Fuel for Peace and Nonproliferation Act of 2007
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ International Nuclear Fuel for Peace and Nonproliferation Act of 2007
 - 2007-06-18 — Placed on the Union Calendar, Calendar No. 117.
 - 2007-06-18 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-196.
 - 2007-06-18 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-196.
+- 2007-06-19 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
