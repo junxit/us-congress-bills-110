@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 155
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 155
@@ -93,3 +93,4 @@ Recognizing the historical significance of Juneteenth Independence Day, and expr
 - 2007-06-18 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
 - 2007-06-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6592)
 - 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6592)
+- 2007-06-19 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 210.
