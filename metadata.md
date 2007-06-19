@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 80
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 80
@@ -50,9 +50,10 @@ Calling on the Government of Uganda and the Lord's Resistance Army (LRA) to reco
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Calling on the Government of Uganda and the Lord's Resistance Army (LRA) to reco
 - 2007-06-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6607-6608)
 - 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6607-6608)
 - 2007-06-18 — The title of the measure was amended. Agreed to without objection.
+- 2007-06-19 — Received in the Senate and referred to the Committee on Foreign Relations.
