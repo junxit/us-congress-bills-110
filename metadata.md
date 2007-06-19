@@ -1,7 +1,7 @@
 ---
 measure: S. 1099
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1099
@@ -16,9 +16,10 @@ A bill to amend chapter 89 of title 5, United States Code, to make individuals e
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Voinovich, George V. [R-OH] (V000126)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A bill to amend chapter 89 of title 5, United States Code, to make individuals e
 - 2007-04-12 — Introduced in Senate
 - 2007-04-12 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced:  CR S4442)
 - 2007-04-12 — Sponsor introductory remarks on measure. (CR S4442)
+- 2007-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
