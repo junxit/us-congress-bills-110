@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 923
 
-> To establish an Unsolved Crimes Section in the Civil Rights Division of the Department of Justice, and an Unsolved Civil Rights Crime Investigative Office in the Civil Rights Unit of the Federal Bureau of Investigation, and for other purposes.
+> To provide for the investigation of certain unsolved civil rights crimes, and for other purposes.
 
 ## § 1. Short title
 
