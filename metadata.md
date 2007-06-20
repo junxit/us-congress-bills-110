@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1255
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1255
@@ -60,3 +60,7 @@ Presidential Records Act Amendments of 2007
 - 2007-03-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 93 (Roll no. 143). (text: CR H2497)
 - 2007-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 93 (Roll no. 143).(text: CR H2497)
 - 2007-03-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-06-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-06-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 213.
