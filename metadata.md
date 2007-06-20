@@ -1,7 +1,7 @@
 ---
 measure: H.R. 923
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 923
@@ -121,3 +121,12 @@ Emmett Till Unsolved Civil Rights Crime Act of 2007
 - 2007-06-19 — Placed on the Union Calendar, Calendar No. 120.
 - 2007-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-200.
 - 2007-06-19 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-200.
+- 2007-06-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-06-20 — Considered as unfinished business. (consideration: CR H6753-6754)
+- 2007-06-20 — Considered under suspension of the rules. (consideration: CR H6742-6749)
+- 2007-06-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 923.
+- 2007-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-20 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2007-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 512). (text: CR H6742-6743)
+- 2007-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 512).(text: CR H6742-6743)
+- 2007-06-20 — The title of the measure was amended. Agreed to without objection.
