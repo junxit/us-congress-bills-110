@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 105
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 105
@@ -36,3 +36,5 @@ A resolution designating September 2007 as "Campus Fire Safety Month".
 - 2007-06-14 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-06-14 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-06-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
+- 2007-06-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8156-8158; text as passed Senate: CR S8157-8158)
+- 2007-06-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8156-8158; text as passed Senate: CR S8157-8158)
