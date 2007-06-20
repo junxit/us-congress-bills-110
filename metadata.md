@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 173
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 173
@@ -28,3 +28,5 @@ A resolution designating August 11, 2007, as "National Marina Day".
 - 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-06-07 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-06-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.
+- 2007-06-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8156-8158; text as passed Senate: CR S8157)
+- 2007-06-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8156-8158; text as passed Senate: CR S8157)
