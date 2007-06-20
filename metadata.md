@@ -1,7 +1,7 @@
 ---
 measure: S. 886
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 886
@@ -16,9 +16,12 @@ Presidential Records Act Amendments of 2007
 
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -29,3 +32,7 @@ Presidential Records Act Amendments of 2007
 - 2007-03-14 — Introduced in Senate
 - 2007-03-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S3141)
 - 2007-03-14 — Sponsor introductory remarks on measure. (CR S3140-3141)
+- 2007-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-06-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-06-20 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-06-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 212.
