@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2284
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2284
@@ -46,3 +46,11 @@ To amend the Small Business Act to expand and improve the assistance provided by
 - 2007-06-15 — Placed on the Union Calendar, Calendar No. 113.
 - 2007-06-15 — Reported by the Committee on Small Business. H. Rept. 110-192.
 - 2007-06-15 — Reported by the Committee on Small Business. H. Rept. 110-192.
+- 2007-06-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-06-18 — Considered under suspension of the rules. (consideration: CR H6624-6627)
+- 2007-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2284.
+- 2007-06-18 — Ms. Velazquez moved to suspend the rules and pass the bill.
+- 2007-06-20 — Considered as unfinished business. (consideration: CR H6756)
+- 2007-06-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 73 (Roll no. 515). (text: CR 6/18/2007 H6625)
+- 2007-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 73 (Roll no. 515).(text: CR 6/18/2007 H6625)
