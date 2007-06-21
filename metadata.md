@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2284
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2284
@@ -30,9 +30,10 @@ To amend the Small Business Act to expand and improve the assistance provided by
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ To amend the Small Business Act to expand and improve the assistance provided by
 - 2007-06-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-06-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 73 (Roll no. 515). (text: CR 6/18/2007 H6625)
 - 2007-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 351 - 73 (Roll no. 515).(text: CR 6/18/2007 H6625)
+- 2007-06-21 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
