@@ -48,7 +48,7 @@ The second sentence of section 2(a) of the National Housing Act (12 U.S.C. 1703(
 - **(a)** *Dollar Amounts* Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
   - **(1)** in clause (ii) of subparagraph (A), by striking “$17,500” and inserting “$25,090”;
   - **(2)** in subparagraph (C) by striking “$48,600” and inserting “$69,678”;
-  - **(3)** in subparagraph (D) by striking “$64, 800” and inserting “$92,904”;
+  - **(3)** in subparagraph (D) by striking “$64,800” and inserting “$92,904”;
   - **(4)** in subparagraph (E) by striking “$16,200” and inserting “$23,226”; and
   - **(5)** by realigning subparagraphs (C), (D), and (E) 2 ems to the left so that the left margins of such subparagraphs are aligned with the margins of subparagraphs (A) and (B).
 - **(b)** *Annual Indexing* Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph:
@@ -57,19 +57,18 @@ The second sentence of section 2(a) of the National Housing Act (12 U.S.C. 1703(
 - **(c)** *Technical and Conforming Changes* Paragraph (1) of section 2(b) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended—
   - **(1)** by striking “No” and inserting “Except as provided in the last sentence of this paragraph, no”; and
   - **(2)** by adding after and below subparagraph (G) the following:
-    > -  The Secretary shall, by regulation, annually increase the dollar amount limitations in subparagraphs (A)(ii), (C), (D), and (E) (as such limitations may have been previously adjusted under this sentence) in accordance with the index established pursuant to paragraph (9).
 
 ## § 6. Insurance premiums
 
 Subsection (f) of section 2 of the National Housing Act (12 U.S.C. 1703(f)) is amended—
 
-- **(1)** by inserting “(1) Premium Charges.—” after “(f)”; and
+- **(1)** by inserting “(1) Premium charges.—” after “(f)”; and
 - **(2)** by adding at the end the following new paragraph:
-  > - **(2)** *Manufactured Home Loans* Notwithstanding paragraph (1), in the case of a loan, advance of credit, or purchase in connection with a manufactured home or a lot on which to place such a home (or both), the premium charge for the insurance granted under this section shall be paid by the borrower under the loan or advance of credit, as follows:
-  >   - **(A)** At the time of the making of the loan, advance of credit, or purchase, a single premium payment in an amount not to exceed 2.25 percent of the amount of the original insured principal obligation.
-  >   - **(B)** In addition to the premium under subparagraph (A), annual premium payments during the term of the loan, advance, or obligation purchased in an amount not exceeding 1.0 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).
-  >   - **(C)** Premium charges under this paragraph shall be established in amounts that are sufficient, but do not exceed the minimum amounts necessary, to maintain a negative credit subsidy for the program under this section for insurance of loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place such a home (or both), as determined based upon risk to the Federal Government under existing underwriting requirements.
-  >   - **(D)** The Secretary may increase the limitations on premium payments to percentages above those set forth in subparagraphs (A) and (B), but only if necessary, and not in excess of the minimum increase necessary, to maintain a negative credit subsidy as described in subparagraph (C).
+  > - **(2)** *Manufactured home loans* Notwithstanding paragraph (1), in the case of a loan, advance of credit, or purchase in connection with a manufactured home or a lot on which to place such a home (or both), the premium charge for the insurance granted under this section shall be paid by the borrower under the loan or advance of credit, as follows:
+  > - **(A)** At the time of the making of the loan, advance of credit, or purchase, a single premium payment in an amount not to exceed 2.25 percent of the amount of the original insured principal obligation.
+  > - **(B)** In addition to the premium under subparagraph (A), annual premium payments during the term of the loan, advance, or obligation purchased in an amount not exceeding 1.0 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments).
+  > - **(C)** Premium charges under this paragraph shall be established in amounts that are sufficient, but do not exceed the minimum amounts necessary, to maintain a negative credit subsidy for the program under this section for insurance of loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place such a home (or both), as determined based upon risk to the Federal Government under existing underwriting requirements.
+  > - **(D)** The Secretary may increase the limitations on premium payments to percentages above those set forth in subparagraphs (A) and (B), but only if necessary, and not in excess of the minimum increase necessary, to maintain a negative credit subsidy as described in subparagraph (C).
 
 ## § 7. Technical corrections
 
@@ -90,3 +89,13 @@ Subsection (f) of section 2 of the National Housing Act (12 U.S.C. 1703(f)) is a
   > - **(10)** *Financial soundness of manufactured housing program* The Secretary shall establish such underwriting criteria for loans and advances of credit in connection with a manufactured home or a lot on which to place a manufactured home (or both), including such loans and advances represented by obligations purchased by financial institutions, as may be necessary to ensure that the program under this title for insurance for financial institutions against losses from such loans, advances of credit, and purchases is financially sound.
 
 - **(b)** *Timing* Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall revise the existing underwriting criteria for the program referred to in paragraph (10) of section 2(b) of the National Housing Act (as added by subsection (a) of this section) in accordance with the requirements of such paragraph.
+
+## § 9. Requirement of social security account number for assistance
+
+Section 2 of the National Housing Act (12 U.S.C. 1703) is amended by adding at the end the following new subsection:
+
+> - **(j)** *Requirement of social security account number for financing* No insurance shall be granted under this section with respect to any obligation representing any loan, advance of credit, or purchase by a financial institution unless the borrower to which the loan or advance of credit was made, and each member of the family of the borrower who is 18 years of age or older or is the spouse of the borrower, has a valid social security number.
+
+## § 10. GAO study of mitigation of tornado risks to manufactured homes
+
+The Comptroller General of the United States shall assess how the Secretary of Housing and Urban Development utilizes the FHA manufactured housing loan insurance program under title I of the National Housing Act, the community development block grant program under title I of the Housing and Community Development Act of 1974, and other programs and resources available to the Secretary to mitigate the risks to manufactured housing residents and communities resulting from tornados. The Comptroller General shall submit to the Congress a report on the conclusions and recommendations of the assessment conducted pursuant to this section not later than the expiration of the 12-month period beginning on the date of the enactment of this Act.
