@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 21
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 21
@@ -122,9 +122,10 @@ Calling on the United Nations Security Council to charge Iranian leader Mahmoud 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Davis, Geoff [R-KY-4] (D000603)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -144,3 +145,4 @@ Calling on the United Nations Security Council to charge Iranian leader Mahmoud 
 - 2007-06-20 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 2, 11 Present (Roll no. 513). (text: CR 6/18/2007 H6600)
 - 2007-06-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 2, 11 Present (Roll no. 513).(text: CR 6/18/2007 H6600)
 - 2007-06-20 — The title of the measure was amended. Agreed to without objection.
+- 2007-06-21 — Received in the Senate and referred to the Committee on Foreign Relations.
