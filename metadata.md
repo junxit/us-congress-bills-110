@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 235
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 235
@@ -28,3 +28,7 @@ A resolution designating July 1, 2007, as "National Boating Day".
 
 - 2007-06-14 — Introduced in Senate
 - 2007-06-14 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7753)
+- 2007-06-21 — Committee on the Judiciary. Ordered to be reported favorably.
+- 2007-06-21 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-06-21 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-06-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 216.
