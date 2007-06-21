@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2366
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2366
@@ -59,3 +59,6 @@ SBA Veterans' Programs Act of 2007
 - 2007-06-18 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2007-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6623)
 - 2007-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6623)
+- 2007-06-19 — Received in the Senate.
+- 2007-06-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-06-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.
