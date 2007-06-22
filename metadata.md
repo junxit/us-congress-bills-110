@@ -1,7 +1,7 @@
 ---
 measure: S. 1099
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1099
@@ -34,3 +34,5 @@ A bill to amend chapter 89 of title 5, United States Code, to make individuals e
 - 2007-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-06-19 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
+- 2007-06-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8312; text as passed Senate: CR S8312)
+- 2007-06-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8312; text as passed Senate: CR S8312)
