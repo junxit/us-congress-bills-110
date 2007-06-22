@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2359
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2359
@@ -46,3 +46,5 @@ SBA Entrepreneurial Development Programs Act of 2007
 - 2007-06-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-06-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 18 (Roll no. 514). (text: CR 6/18/2007 H6615-6618)
 - 2007-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 18 (Roll no. 514).(text: CR 6/18/2007 H6615-6618)
+- 2007-06-21 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-06-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 218.
