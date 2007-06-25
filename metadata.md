@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2011
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2011
@@ -31,3 +31,17 @@ To designate the Federal building and United States courthouse located at 100 Ea
 - 2007-04-24 — Introduced in House
 - 2007-04-24 — Introduced in House
 - 2007-04-24 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-04-25 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-05-17 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-05-17 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-05-23 — Ordered to be Reported by Voice Vote.
+- 2007-06-25 — Considered under suspension of the rules. (consideration: CR H7015-7017)
+- 2007-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2011.
+- 2007-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-25 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7015-7016)
+- 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7015-7016)
+- 2007-06-25 — Placed on the House Calendar, Calendar No. 79.
+- 2007-06-25 — Reported by the Committee on Transportation. H. Rept. 110-209.
+- 2007-06-25 — Reported by the Committee on Transportation. H. Rept. 110-209.
