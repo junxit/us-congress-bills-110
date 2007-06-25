@@ -1,7 +1,7 @@
 ---
 measure: S. 1099
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1099
@@ -40,3 +40,17 @@ A bill to amend chapter 89 of title 5, United States Code, to make individuals e
 - 2007-06-25 — Message on Senate action sent to the House.
 - 2007-06-25 — Received in the House.
 - 2007-06-25 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-30 — Cleared for White House.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR H8830-8831)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.
+- 2007-07-30 — On passage Passed without objection. (text: CR H8831)
+- 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8831)
+- 2007-08-03 — Presented to President.
+- 2007-08-03 — Presented to President.
+- 2007-08-09 — Became Public Law No: 110-74.
+- 2007-08-09 — Became Public Law No: 110-74.
+- 2007-08-09 — Signed by President.
+- 2007-08-09 — Signed by President.

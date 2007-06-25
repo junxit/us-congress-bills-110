@@ -1,7 +1,7 @@
 ---
 measure: S. 1099
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in subparagraph (H), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (I), by inserting “and” after the semicolon; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting before the matter following subparagraph (I) the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 8901` | strike | in subparagraph (H), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 8901` | insert | in subparagraph (I), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 8901` | insert | by inserting before the matter following subparagraph (I) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
