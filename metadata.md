@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2286
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2286
@@ -50,3 +50,9 @@ Bail Bond Fairness Act of 2007
 - 2007-06-22 — Placed on the Union Calendar, Calendar No. 127.
 - 2007-06-22 — Reported by the Committee on Judiciary. H. Rept. 110-208.
 - 2007-06-22 — Reported by the Committee on Judiciary. H. Rept. 110-208.
+- 2007-06-25 — Considered under suspension of the rules. (consideration: CR H7033-7036)
+- 2007-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2286.
+- 2007-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-25 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7033-7034)
+- 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7033-7034)
