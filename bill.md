@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas May 6 to May 12, 2007, marks 26th anniversary of “National Pet Week”, sponsored by the American Veterinary Medical Association and the Auxiliary to the American Veterinary Medical Association;
+- Whereas this year marks the 26th anniversary of “National Pet Week”, sponsored by the American Veterinary Medical Association and the Auxiliary to the American Veterinary Medical Association;
 - Whereas animals and pets give companionship and pleasure in daily living, share the homes of nearly 69,000,000 individuals or families in the United States, and provide special benefits to elderly persons and children;
 - Whereas the people of the United States have a firm commitment to promote responsible care of animals and pets and guard against cruel and irresponsible treatment;
 - Whereas teaching kindness and respect for all living animals through education in schools and communities is essential to the basic values of a humane and civilized society;
@@ -20,5 +20,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That it is the sense of the Congress—
 
-- **(1)** that there should be established a National Pet Week; and
-- **(2)** the people of the United States should observe National Pet Week with appropriate ceremonies and activities.
+- **(1)** that there should be established an annual National Pet Week; and
+- **(2)** the goals and ideals expressed during National Pet Week should be guides for the people of the United States to observe in the care of pets.
