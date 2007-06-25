@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1065
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1065
@@ -16,7 +16,7 @@ Nonadmitted and Reinsurance Reform Act of 2007
 
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 
-## Cosponsors (44)
+## Cosponsors (56)
 
 - Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
 - Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
@@ -62,6 +62,18 @@ Nonadmitted and Reinsurance Reform Act of 2007
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
 - Rep. Renzi, Rick [R-AZ-1] (R000574)
 - Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
 ## Committees (2)
 
@@ -75,3 +87,11 @@ Nonadmitted and Reinsurance Reform Act of 2007
 - 2007-02-15 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-15 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-02-15 — Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-03-19 — Referred to the Subcommittee on Commercial and Administrative Law.
+- 2007-04-11 — Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.
+- 2007-06-25 — Considered under suspension of the rules. (consideration: CR H7030-7033)
+- 2007-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1065.
+- 2007-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-25 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
+- 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7030-7032)
+- 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7030-7032)
