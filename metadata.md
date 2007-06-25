@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 505
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 505
@@ -35,3 +35,10 @@ Recognizing the innumerable contributions of the recreational boating community 
 - 2007-06-20 — Introduced in House
 - 2007-06-20 — Introduced in House
 - 2007-06-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-06-21 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2007-06-25 — Considered under suspension of the rules. (consideration: CR H7014-7015)
+- 2007-06-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 505.
+- 2007-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-25 — Ms. Norton moved to suspend the rules and agree to the resolution.
+- 2007-06-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7014-7015)
+- 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7014-7015)
