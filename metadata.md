@@ -1,7 +1,7 @@
 ---
 measure: S. 1615
 congress: 110
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 1615
@@ -29,3 +29,6 @@ Nursing Home Fire Safety Act of 2007
 - 2007-06-13 — Introduced in Senate
 - 2007-06-13 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S7652)
 - 2007-06-13 — Sponsor introductory remarks on measure. (CR S7652)
+- 2007-06-25 — Referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2007-06-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2007-06-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
