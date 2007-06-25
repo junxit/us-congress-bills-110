@@ -1,7 +1,7 @@
 ---
 measure: H.R. 123
 congress: 110
-version: Introduced in House
+version: Reference Change House
 derived: true
 ---
 
