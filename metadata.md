@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1281
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1281
@@ -93,3 +93,9 @@ Deceptive Practices and Voter Intimidation Prevention Act of 2007
 - 2007-04-18 — Placed on the Union Calendar, Calendar No. 61.
 - 2007-04-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-101.
 - 2007-04-18 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-101.
+- 2007-06-25 — Considered under suspension of the rules. (consideration: CR H7043-7048)
+- 2007-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1281.
+- 2007-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-25 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2007-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7043-7044)
+- 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7043-7044)
