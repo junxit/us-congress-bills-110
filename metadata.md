@@ -1,7 +1,7 @@
 ---
 measure: S. 1099
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1099
@@ -21,9 +21,10 @@ A bill to amend chapter 89 of title 5, United States Code, to make individuals e
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -36,3 +37,6 @@ A bill to amend chapter 89 of title 5, United States Code, to make individuals e
 - 2007-06-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 209.
 - 2007-06-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8312; text as passed Senate: CR S8312)
 - 2007-06-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8312; text as passed Senate: CR S8312)
+- 2007-06-25 — Message on Senate action sent to the House.
+- 2007-06-25 — Received in the House.
+- 2007-06-25 — Referred to the House Committee on Oversight and Government Reform.
