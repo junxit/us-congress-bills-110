@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2546
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2546
@@ -40,3 +40,12 @@ To designate the Department of Veterans Affairs Medical Center in Asheville, Nor
 - 2007-05-24 — Introduced in House
 - 2007-05-24 — Introduced in House
 - 2007-05-24 — Referred to the House Committee on Veterans' Affairs.
+- 2007-05-29 — Referred to the Subcommittee on Health.
+- 2007-06-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-06-25 — Considered as unfinished business. (consideration: CR H7051)
+- 2007-06-25 — Considered under suspension of the rules. (consideration: CR H7037-7039)
+- 2007-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2546.
+- 2007-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-25 — Mr. Hare moved to suspend the rules and pass the bill.
+- 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550). (text: CR H7037)
+- 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550).(text: CR H7037)
