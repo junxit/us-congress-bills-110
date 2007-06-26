@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1065
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1065
@@ -75,10 +75,11 @@ Nonadmitted and Reinsurance Reform Act of 2007
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Judiciary Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -95,3 +96,4 @@ Nonadmitted and Reinsurance Reform Act of 2007
 - 2007-06-25 — Mr. Moore (KS) moved to suspend the rules and pass the bill.
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7030-7032)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7030-7032)
+- 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
