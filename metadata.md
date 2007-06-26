@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 658
@@ -43,3 +43,7 @@ Natural Resource Protection Cooperative Agreement Act
 - 2007-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 10 (Roll no. 158). (text: CR H2631-2632)
 - 2007-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 10 (Roll no. 158).(text: CR H2631-2632)
 - 2007-03-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-105.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-105.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
