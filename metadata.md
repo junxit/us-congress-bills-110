@@ -1,7 +1,7 @@
 ---
 measure: S. 126
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 126
@@ -29,3 +29,8 @@ Mesa Verde National Park Boundary Expansion Act of 2007
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S126)
+- 2007-03-20 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-73.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-93.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-93.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.

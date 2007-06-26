@@ -34,6 +34,7 @@ This Act may be cited as the “Mesa Verde National Park Boundary Expansion Act 
 In this Act:
 
 - **(1)** *Map* The term “map” means the map entitled “2006 Proposed Mesa Verde National Park Boundary Adjustment”.
+- **(1)** *Map* The term “map” means the map entitled “Mesa Verde National Park Proposed Boundary Adjustment”, numbered 307/80,180, and dated March 1, 2007.
 - **(2)** *Park* The term “Park” means the Mesa Verde National Park in the State of Colorado.
 - **(3)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 
