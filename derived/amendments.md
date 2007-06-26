@@ -1,7 +1,7 @@
 ---
 measure: S. 1538
 congress: 110
-version: Referral Instructions Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -94,7 +94,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (E), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
-| — | insert | Section 102A(i)(3) of the National Security Act of 1947 (50 U.S.C. 403–1(i)(3)) is amended by inserting before the period the following: “, any Deputy Director of National Intelligence, the Chief Information Officer of the Intelligence C… | the bill names no machine-readable US Code section |
+| — | insert | Section 102A(i)(3) of the National Security Act of 1947 (50 U.S.C. 403–1(i)(3)) is amended by inserting before the period the following: “, any Deputy Director of National Intelligence, or the Chief Information Officer of the Intelligenc… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1), as amended by section 404 of this Act, is further amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | replace | by striking “with” and inserting “of headquarters with headquarters of”; | the bill names no machine-readable US Code section |
