@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 366
@@ -42,3 +42,15 @@ To designate the Department of Veterans Affairs Outpatient Clinic in Tulsa, Okla
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7036)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7036)
 - 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Message on Senate action sent to the House.
+- 2007-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR 12/18/2007 S15940)
+- 2007-12-19 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR 12/18/2007 S15940)
+- 2007-12-20 — Presented to President.
+- 2007-12-20 — Presented to President.
+- 2007-12-26 — Became Public Law No: 110-156.
+- 2007-12-26 — Became Public Law No: 110-156.
+- 2007-12-26 — Signed by President.
+- 2007-12-26 — Signed by President.
