@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 142
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 142
@@ -72,9 +72,10 @@ Expressing the sense of the Congress that there should be established a National
 - Rep. Hare, Phil [D-IL-17] (H001040)
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Expressing the sense of the Congress that there should be established a National
 - 2007-06-25 — Ms. Norton moved to suspend the rules and agree to the resolution, as amended.
 - 2007-06-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7024)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7024)
+- 2007-06-26 — Received in the Senate and referred to the Committee on Agriculture, Nutrition, and Forestry.
