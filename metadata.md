@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 6
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 6
@@ -28,3 +28,8 @@ A concurrent resolution expressing the sense of Congress that the National Museu
 
 - 2007-01-31 — Introduced in Senate
 - 2007-01-31 — Referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S1464)
+- 2007-03-20 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-73.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment and with a preamble. With written report No. 110-100.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment and with a preamble. With written report No. 110-100.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.
