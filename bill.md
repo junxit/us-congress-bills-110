@@ -1,11 +1,13 @@
 ---
 legis-num: S. 890
-congress: 
-session: 
-chamber: 
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 890
+
+> To provide for certain administrative and support services for the Dwight D. Eisenhower Memorial Commission, and for other purposes.
 
 ## § 1. Dwight D. Eisenhower Memorial Commission
 
@@ -22,9 +24,10 @@ Section 8162 of the Department of Defense Appropriations Act, 2000 (Public Law 1
   >       - **(v)** take such actions as are necessary to carry out this section.
   >     - **(B)** *Specialized or professional services* Services under subparagraph (A)(iv) may be—
   >       - **(i)** obtained without regard to the provisions of title 5, United States Code, including section 3109 of that title; and
-  >       - **(ii)** may be paid without regard to the provisions of title 5, United States Code, including chapter 51 and subchapter III of chapter 53 of that title;
+  >       - **(ii)** may be paid without regard to the provisions of title 5, United States Code, including chapter 51 and subchapter III of chapter 53 of that title;.
   >   - **(2)** *Gifts of property* The Commission may accept gifts of real or personal property to be used in carrying out this section, including to be used in connection with the construction or other expenses of the memorial.
   >   - **(3)** *Federal cooperation* To ensure the overall success of the efforts of the Commission, the Commission may call upon any Federal department or agency to assist in and give support to the Commission. The head of each Federal department or agency shall furnish such information or assistance requested by the Commission, as appropriate, unless prohibited by law.
+  >   - **(3)** *Federal cooperation* At the request of the Commission, a Federal department or agency may provide any information or other assistance to the Commission that the head of the Federal department or agency determines to be appropriate.
   >   - **(4)** *Powers of members and agents*
   >     - **(A)** *In general* If authorized by the Commission, any member or agent of the Commission may take any action that the Commission is authorized to take under this section.
   >     - **(B)** *Architect* The Commission may appoint an architect as an agent of the Commission to—
@@ -41,6 +44,7 @@ Section 8162 of the Department of Defense Appropriations Act, 2000 (Public Law 1
   >     - **(A)** *In general* The staff of the Commission may be appointed and terminated without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title, relating to classification and General Schedule pay rates, except that an individual appointed under this paragraph may not receive pay in excess of the maximum rate of basic pay for GS–15 of the General Schedule.
   >     - **(B)** *Senior staff* Notwithstanding subparagraph (A), not more than 3 staff employees of the Commission (in addition to the Executive Director) may be paid at a rate not to exceed the maximum rate of basic pay for level IV of the Executive Schedule
   >   - **(3)** *Staff of Federal agencies* Upon request by the Chairperson of the Commission, the Vice-Chairperson, or the Executive Director, the head of any Federal department or agency may detail, on a nonreimbursable basis, any of the personnel of the department or agency to the Commission to assist the Commission to carry out its duties under this section.
+  >   - **(3)** *Staff of federal agencies* On request of the Commission, the head of any Federal department or agency may detail any of the personnel of the department or agency to the Commission to assist the Commission to carry out its duties under this section.
   >   - **(4)** *Federal support* The Commission shall obtain administrative and support services from the General Services Administration on a reimbursable basis. The Commission may use all contracts, schedules, and acquisition vehicles allowed to external clients through the General Services Administration.
   >   - **(5)** *Cooperative agreements* The Commission may enter into cooperative agreements with Federal agencies, State, local, tribal and international governments, and private interests and organizations which will further the goals and purposes of this section.
   >   - **(6)** *Temporary, intermittent, and part-time services*
@@ -49,8 +53,11 @@ Section 8162 of the Department of Defense Appropriations Act, 2000 (Public Law 1
   >   - **(7)** *Volunteer services*
   >     - **(A)** *In general* Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and utilize the services of volunteers serving without compensation.
   >     - **(B)** *Reimbursement* The Commission may reimburse such volunteers for local travel and office supplies, and for other travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code.
-  >     - **(C)** *Treatment* A person providing volunteer services to the Commission shall be considered an employee of the Federal government in the performance of those services for the purposes of —
+  >     - **(C)** *Treatment* A person providing volunteer services to the Commission shall be considered an employee of the Federal government in the performance of those services for the purposes of—
   >       - **(i)** chapter 81 of title 5, United States Code, relating to compensation for work-related injuries;
   >       - **(ii)** chapter 171 of title 28, United States Code, relating to tort claims; and
   >       - **(iii)** chapter 11 of title 18, United States Code, relating to conflicts of interest.
+  >     - **(C)** *Liability*
+  >       - **(i)** *In general* Subject to clause (ii), a volunteer described in subparagraph (A) shall be considered to be a volunteer for purposes of the Volunteer Protection Act of 1997 (42 U.S.C. 14501 et seq.).
+  >       - **(ii)** *Exception* Section 4(d) of the Volunteer Protection Act of 1997 (42 U.S.C. 14503(d)) shall not apply for purposes of a claim against a volunteer described in subparagraph (A).
   > - **(p)** *Authorization of appropriations* There are authorized to be appropriated such sums as necessary to carry out this section.
