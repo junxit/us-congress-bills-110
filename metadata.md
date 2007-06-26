@@ -1,7 +1,7 @@
 ---
 measure: H.R. 376
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 376
@@ -34,3 +34,8 @@ To authorize the Secretary of the Interior to conduct a special resource study t
 - 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2133-2134)
 - 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2133-2134)
 - 2007-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-104.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-102.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-102.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
