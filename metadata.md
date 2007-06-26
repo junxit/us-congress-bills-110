@@ -1,7 +1,7 @@
 ---
 measure: S. 553
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 553
@@ -28,3 +28,8 @@ Eightmile Wild and Scenic River Act
 
 - 2007-02-12 — Introduced in Senate
 - 2007-02-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-104.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-94.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-94.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 224.
