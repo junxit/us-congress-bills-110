@@ -2,7 +2,7 @@
 legis-num: H.R. 1281
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1281
@@ -20,8 +20,8 @@ This Act may be cited as the “Deceptive Practices and Voter Intimidation Preve
   >
   > - **(a)** Whoever, before or during a Federal election knowingly communicates election-related information about that election, knowing that information to be false, with the intent to prevent another person from exercising the right to vote in that election, or attempts to do so, shall be fined under this title or imprisoned not more than 5 years, or both.
   > - **(b)** As used in this section—
-  >   - **(1)** the term “Federal election” means any general, primary, run-off, or special election for the office of President, Vice President, presidential elector, Member of the Senate, Member of the House of Representatives, or Delegate or Commissioner from a territory or possession; and
-  >   - **(2)** the term “election related information” means information regarding—
+  >   - **(1)** the term Federal election means any general, primary, run-off, or special election for the office of President, Vice President, presidential elector, Member of the Senate, Member of the House of Representatives, or Delegate or Commissioner from a territory or possession; and
+  >   - **(2)** the term election related information means information regarding—
   >     - **(A)** the time, place, or manner of conducting the election;
   >     - **(B)** the qualifications for or restrictions on voter eligibility for the election, including—
   >       - **(i)** any criminal penalties associated with voting in the election; or
