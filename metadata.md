@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2139
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2139
@@ -48,9 +48,10 @@ FHA Manufactured Housing Loan Modernization Act of 2007
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. Etheridge, Bob [D-NC-2] (E000226)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ FHA Manufactured Housing Loan Modernization Act of 2007
 - 2007-06-25 — Mr. Donnelly moved to suspend the rules and pass the bill, as amended.
 - 2007-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7025-7026)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7025-7026)
+- 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

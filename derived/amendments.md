@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2139
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -41,10 +41,10 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “No” and inserting “Except as provided in the last sentence of this paragraph, no”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding after and below subparagraph (G) the following: | the bill names no machine-readable US Code section |
-| `12 U.S.C. § 1703` | insert | by inserting “(1) Premium charges.—” after “(f)”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1703` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1703` | strike | by striking “on and after July 1, 1939,” each place such term appears; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1703` | strike | by striking “made after the effective date of the Housing Act of 1954”. | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1703` | amend | Subsection (c) of section 2 of the National Housing Act (12 U.S.C. 1703(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting “(1) Premium charges.—” after “(f)”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | by striking “on and after July 1, 1939,” each place such term appears; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “made after the effective date of the Housing Act of 1954”. | the bill names no machine-readable US Code section |
+| — | amend | Subsection (c) of section 2 of the National Housing Act (12 U.S.C. 1703(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (b) of section 2 of the National Housing Act (12 U.S.C. 1703(b)), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2 of the National Housing Act (12 U.S.C. 1703) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
