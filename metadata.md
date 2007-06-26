@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2546
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2546
@@ -31,9 +31,10 @@ To designate the Department of Veterans Affairs Medical Center in Asheville, Nor
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the Department of Veterans Affairs Medical Center in Asheville, Nor
 - 2007-06-25 — Mr. Hare moved to suspend the rules and pass the bill.
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550). (text: CR H7037)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550).(text: CR H7037)
+- 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
