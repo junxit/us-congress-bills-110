@@ -1,7 +1,7 @@
 ---
 measure: S. 1612
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
