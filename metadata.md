@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2546
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2546
@@ -51,3 +51,15 @@ To designate the Department of Veterans Affairs Medical Center in Asheville, Nor
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550). (text: CR H7037)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 550).(text: CR H7037)
 - 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2007-11-01 — Cleared for White House.
+- 2007-11-01 — Passed Senate without amendment by Unanimous Consent.
+- 2007-11-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-11-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S13713)
+- 2007-11-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S13713)
+- 2007-11-02 — Message on Senate action sent to the House.
+- 2007-11-06 — Presented to President.
+- 2007-11-06 — Presented to President.
+- 2007-11-15 — Became Public Law No: 110-117.
+- 2007-11-15 — Became Public Law No: 110-117.
+- 2007-11-15 — Signed by President.
+- 2007-11-15 — Signed by President.
