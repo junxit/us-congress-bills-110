@@ -1,7 +1,7 @@
 ---
 measure: S. 797
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 797
@@ -16,11 +16,12 @@ Star-Spangled Banner National Historic Trail Act
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Warner, John [R-VA] (W000154)
 - Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ Star-Spangled Banner National Historic Trail Act
 - 2007-03-07 — Introduced in Senate
 - 2007-03-07 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S2805)
 - 2007-03-07 — Sponsor introductory remarks on measure. (CR S2804-2805)
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-98.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-98.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.
