@@ -1,7 +1,7 @@
 ---
 measure: H.R. 161
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 161
@@ -53,3 +53,8 @@ Minidoka National Historic Site Act
 - 2007-02-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 76). (text: CR H1218-1219)
 - 2007-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 76).(text: CR H1218-1219)
 - 2007-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-104.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-101.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-101.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 231.
