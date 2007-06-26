@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2011
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2011
@@ -22,9 +22,10 @@ To designate the Federal building and United States courthouse located at 100 Ea
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 - Rep. Boozman, John [R-AR-3] (B001236)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To designate the Federal building and United States courthouse located at 100 Ea
 - 2007-06-25 — Placed on the House Calendar, Calendar No. 79.
 - 2007-06-25 — Reported by the Committee on Transportation. H. Rept. 110-209.
 - 2007-06-25 — Reported by the Committee on Transportation. H. Rept. 110-209.
+- 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
