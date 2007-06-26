@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2602
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2602
@@ -33,9 +33,10 @@ To name the Department of Veterans Affairs medical facility in Iron Mountain, Mi
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To name the Department of Veterans Affairs medical facility in Iron Mountain, Mi
 - 2007-06-25 — Mr. Hare moved to suspend the rules and pass the bill.
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7039)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7039)
+- 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
