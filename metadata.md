@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2286
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2286
@@ -32,9 +32,10 @@ Bail Bond Fairness Act of 2007
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Bail Bond Fairness Act of 2007
 - 2007-06-25 — Mr. Conyers moved to suspend the rules and pass the bill.
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7033-7034)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7033-7034)
+- 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
