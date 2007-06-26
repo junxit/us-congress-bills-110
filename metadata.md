@@ -1,7 +1,7 @@
 ---
 measure: H.R. 366
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 366
@@ -23,9 +23,10 @@ To designate the Department of Veterans Affairs Outpatient Clinic in Tulsa, Okla
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 - Rep. Boren, Dan [D-OK-2] (B001254)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate the Department of Veterans Affairs Outpatient Clinic in Tulsa, Okla
 - 2007-06-25 — Mr. Hare moved to suspend the rules and pass the bill.
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7036)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7036)
+- 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
