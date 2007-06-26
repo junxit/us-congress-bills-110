@@ -1,7 +1,7 @@
 ---
 measure: H.R. 512
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 512
@@ -147,3 +147,8 @@ Commission to Study the Potential Creation of the National Museum of the America
 - 2007-02-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1222)
 - 2007-02-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1222)
 - 2007-02-07 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-03-20 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-104.
+- 2007-06-26 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-104.
+- 2007-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 234.
