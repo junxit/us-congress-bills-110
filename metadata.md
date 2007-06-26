@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2602
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2602
@@ -51,3 +51,15 @@ To name the Department of Veterans Affairs medical facility in Iron Mountain, Mi
 - 2007-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7039)
 - 2007-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7039)
 - 2007-06-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2007-11-07 — Cleared for White House.
+- 2007-11-07 — Message on Senate action sent to the House.
+- 2007-11-07 — Passed Senate without amendment by Unanimous Consent.
+- 2007-11-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-11-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S14095)
+- 2007-11-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S14095)
+- 2007-11-13 — Presented to President.
+- 2007-11-13 — Presented to President.
+- 2007-11-16 — Became Public Law No: 110-118.
+- 2007-11-16 — Became Public Law No: 110-118.
+- 2007-11-16 — Signed by President.
+- 2007-11-16 — Signed by President.
