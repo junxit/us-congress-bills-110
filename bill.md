@@ -13,6 +13,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Wildland Firefighter Safety Act of 2007”.
 
+## § 1. Short title
+
+This Act may be cited as the “Wildland Fire Safety and Transparency Act of 2007”.
+
 ## § 2. Wildland firefighter safety
 
 - **(a)** *Definitions* In this section:
