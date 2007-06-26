@@ -1,7 +1,7 @@
 ---
 measure: H.R. 923
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 923
@@ -134,3 +134,5 @@ Emmett Till Unsolved Civil Rights Crime Act of 2007
 - 2007-06-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 512). (text: CR H6742-6743)
 - 2007-06-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 422 - 2 (Roll no. 512).(text: CR H6742-6743)
 - 2007-06-20 — The title of the measure was amended. Agreed to without objection.
+- 2007-06-21 — Received in the Senate.
+- 2007-06-26 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.
