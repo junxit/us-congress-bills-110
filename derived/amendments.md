@@ -1,7 +1,7 @@
 ---
 measure: S. 966
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 3 executed, 1 stated and not applied.
+9 amendatory instructions. 3 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -61,3 +61,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `22 U.S.C. § 4064` | strike | in paragraph (1)(B), by striking “to facilitate” and all that follows through “Afghanistan,”; and | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 4064` | replace | in subparagraph (A), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 4064` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 4064` | add-at-end | by adding at the end the following new subparagraph— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4064` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4064` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
