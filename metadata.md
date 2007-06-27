@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 517
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 517
@@ -20,6 +20,12 @@ Providing for consideration of the bill (H.R. 2829) making appropriations for fi
 
 - House — Rules Committee
 
+## Recorded votes (3)
+
+- 2007-06-27 — [House 110-1-580](votes/house-110-1-0580.md) — On Ordering the Previous Question — **Passed** (244–181)
+- 2007-06-27 — [House 110-1-581](votes/house-110-1-0581.md) — On Agreeing to the Amendment — **Agreed to** (225–198)
+- 2007-06-27 — [House 110-1-582](votes/house-110-1-0582.md) — On Agreeing to the Resolution, As Amended — **Passed** (213–206)
+
 ## Actions
 
 - 2007-06-26 — All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
@@ -27,3 +33,17 @@ Providing for consideration of the bill (H.R. 2829) making appropriations for fi
 - 2007-06-26 — Placed on the House Calendar, Calendar No. 81.
 - 2007-06-26 — The House Committee on Rules reported an original measure, H. Rept. 110-213, by Mr. Welch (VT).
 - 2007-06-26 — The House Committee on Rules reported an original measure, H. Rept. 110-213, by Mr. Welch (VT).
+- 2007-06-27 — Amendment (A001) offered by Ms. Matsui.
+- 2007-06-27 — Amendment agreed to by House: On agreeing to the Matsui amendment (A001) Agreed to by recorded vote: 225 - 198 (Roll no. 581).
+- 2007-06-27 — Considered as privileged matter. (consideration: CR H7277-7284; text: CR H7277)
+- 2007-06-27 — DEBATE - The House proceeded with one hour of debate on H. Res. 517.
+- 2007-06-27 — House amendment agreed to: On agreeing to the Matsui amendment (A001) Agreed to by recorded vote: 225 - 198 (Roll no. 581).
+- 2007-06-27 — House amendment offered
+- 2007-06-27 — House amendment offered/reported by : Amendment (A001) offered by Ms. Matsui.
+- 2007-06-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-27 — On agreeing to the Matsui amendment (A001) Agreed to by recorded vote: 225 - 198 (Roll no. 581).
+- 2007-06-27 — On agreeing to the resolution Agreed to by recorded vote: 213 - 206 (Roll no. 582).
+- 2007-06-27 — On ordering the previous question on the amendment (A001) Agreed to by the Yeas and Nays: 244 - 181 (Roll no. 580).
+- 2007-06-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 213 - 206 (Roll no. 582).
+- 2007-06-27 — Roll call votes on amendments in House
+- 2007-06-27 — Roll call votes on amendments in House
