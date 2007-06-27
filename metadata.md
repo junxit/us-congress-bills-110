@@ -1,7 +1,7 @@
 ---
 measure: S. 1612
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1612
@@ -38,3 +38,4 @@ International Emergency Economic Powers Enhancement Act
 - 2007-06-26 — Senate amendment agreed to: Amendment SA 1947 agreed to in Senate by Unanimous Consent.
 - 2007-06-26 — Senate amendment proposed (on the floor): Amendment SA 1947 proposed by Senator Salazar for Senator Dodd.(consideration: CR S8520; text: CR S8520)
 - 2007-06-26 — Senate amendment submitted
+- 2007-06-27 — Senate requests return of papers with respect to S. 1612 by Unanimous Consent.
