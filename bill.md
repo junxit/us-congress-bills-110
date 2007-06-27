@@ -2,7 +2,7 @@
 legis-num: H. RES. 517
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 517
@@ -14,3 +14,7 @@ That at any time after the adoption of this resolution the Speaker may, pursuant
 ## § 2.
 
 During consideration in the House of H.R. 2829 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the bill to such time as may be designated by the Speaker.
+
+## § 3.
+
+It shall be in order, any rule of the House to the contrary notwithstanding, to consider concurrent resolutions providing for the adjournment of the House and Senate during the month of July.
