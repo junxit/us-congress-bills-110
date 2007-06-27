@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2776
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2776
@@ -49,3 +49,8 @@ Renewable Energy and Energy Conservation Tax Act of 2007
 - 2007-06-19 — Introduced in House
 - 2007-06-19 — Introduced in House
 - 2007-06-19 — Referred to the House Committee on Ways and Means.
+- 2007-06-20 — Committee Consideration and Mark-up Session Held.
+- 2007-06-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 16.
+- 2007-06-27 — Placed on the Union Calendar, Calendar No. 130.
+- 2007-06-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-214.
+- 2007-06-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-214.
