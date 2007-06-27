@@ -1,7 +1,7 @@
 ---
 measure: S. 1701
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+6 amendatory instructions. 3 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 1395w-21
+
+> in clause (i), by striking “2007 or 2008” and inserting “the period beginning on January 1, 2007, and ending on July 31, 2007,”; and
+
+| | |
+|---|---|
+| Removed | `2007 or 2008` |
+| Inserted | `the period beginning on January 1, 2007, and ending on July 31, 2007,` |
+
+### 42 U.S.C. § 1395w-21
+
+> in the heading, by striking “year” and inserting “the applicable period”; and
+
+| | |
+|---|---|
+| Removed | `year` |
+| Inserted | `the applicable period` |
+
+### 42 U.S.C. § 1395w-21
+
+> by striking “the year” and inserting “the period described in such clause”.
+
+| | |
+|---|---|
+| Removed | `the year` |
+| Inserted | `the period described in such clause` |
 
 ## Stated, not applied
 
@@ -33,7 +62,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “June 30” and inserting “September 30”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “third quarter” each place it appears and inserting “fourth quarter”. | the bill names no machine-readable US Code section |
-| — | replace | in clause (i), by striking “2007 or 2008” and inserting “the period beginning on January 1, 2007, and ending on July 31, 2007,”; and | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “year” and inserting “the applicable period”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the year” and inserting “the period described in such clause”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1858(e)(2)(A)(i) of the Social Security Act (42 U.S.C. 1395w–27a(e)(2)(A)(i)), as amended by 301 of division B of the Tax Relief and Health Care Act of 2006, is amended by striking “the Fund during the period” and all that follow… | the bill names no machine-readable US Code section |
