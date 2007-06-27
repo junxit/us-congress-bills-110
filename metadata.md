@@ -1,0 +1,48 @@
+---
+measure: H.R. 2874
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 2874
+
+Veterans' Health Care Improvement Act of 2007
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+
+## Cosponsors (17)
+
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Mahoney, Tim [D-FL-16] (M001164)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+
+## Committees (1)
+
+- House — Veterans' Affairs Committee
+
+## Actions
+
+- 2007-06-27 — Introduced in House
+- 2007-06-27 — Introduced in House
+- 2007-06-27 — Referred to the House Committee on Veterans' Affairs.
+- 2007-06-27 — Referred to the Subcommittee on Health.
