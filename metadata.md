@@ -1,7 +1,7 @@
 ---
 measure: S. 1704
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1704
@@ -28,3 +28,15 @@ First Higher Education Extension Act of 2007
 - 2007-06-27 — Message on Senate action sent to the House.
 - 2007-06-27 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S8573; text as passed Senate: CR S8573)
 - 2007-06-27 — Received in the House.
+- 2007-06-28 — Cleared for White House.
+- 2007-06-28 — Considered by unanimous consent. (consideration: CR H7347)
+- 2007-06-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-28 — Mr. Bishop (NY) asked unanimous consent to take from the Speaker's table and consider.
+- 2007-06-28 — On passage Passed without objection. (text: CR H7347)
+- 2007-06-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7347)
+- 2007-07-02 — Presented to President.
+- 2007-07-02 — Presented to President.
+- 2007-07-03 — Became Public Law No: 110-44.
+- 2007-07-03 — Became Public Law No: 110-44.
+- 2007-07-03 — Signed by President.
+- 2007-07-03 — Signed by President.
