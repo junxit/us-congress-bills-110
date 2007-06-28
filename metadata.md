@@ -1,7 +1,7 @@
 ---
 measure: H.R. 886
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 886
@@ -47,3 +47,7 @@ Wild Sky Wilderness Act of 2007
 - 2007-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-89.
 - 2007-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-89.
 - 2007-04-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-121.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-121.
+- 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 255.
