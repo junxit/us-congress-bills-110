@@ -1,7 +1,7 @@
 ---
 measure: S. 1037
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1037
@@ -28,3 +28,8 @@ Tumalo Water Conservation Project Act of 2007
 
 - 2007-03-29 — Introduced in Senate
 - 2007-03-29 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-04-25 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-86.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-114.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-114.
+- 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.
