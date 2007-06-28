@@ -16,6 +16,9 @@ This Act may be cited as the “District of Columbia House Voting Rights Act of 
 ## § 2. Treatment of District of Columbia as Congressional district
 
 - **(a)** *In general* Notwithstanding any other provision of law, the District of Columbia shall be considered a Congressional district for purposes of representation in the House of Representatives.
+- **(a)** *Congressional district and no Senate representation*
+  - **(1)** *In general* Notwithstanding any other provision of law, the District of Columbia shall be considered a Congressional district for purposes of representation in the House of Representatives.
+  - **(2)** *No representation provided in Senate* The District of Columbia shall not be considered a State for purposes of representation in the United States Senate.
 - **(b)** *Conforming Amendments Relating to Apportionment of Members of House of Representatives*
   - **(1)** *Inclusion of single District of Columbia member in reapportionment of members among States* Section 22 of the Act entitled “An Act to provide for the fifteenth and subsequent decennial censuses and to provide for apportionment of Representatives in Congress”, approved June 28, 1929 (2 U.S.C. 2a), is amended by adding at the end the following new subsection:
     > - **(d)** This section shall apply with respect to the District of Columbia in the same manner as this section applies to a State, except that the District of Columbia may not receive more than one Member under any reapportionment of Members.
@@ -105,3 +108,12 @@ The general election for the additional Representative to which the State of Uta
 ## § 6. Nonseverability of provisions
 
 If any provision of this Act or any amendment made by this Act is declared or held invalid or unenforceable, the remaining provisions of this Act or any amendment made by this Act shall be treated and deemed invalid and shall have no force or effect of law.
+
+## § 7. Judicial review
+
+If any action is brought to challenge the constitutionality of any provision of this Act or any amendment made by this Act, the following rules shall apply:
+
+- **(1)** The action shall be filed in the United States District Court for the District of Columbia and shall be heard by a 3-judge court convened pursuant to section 2284 of title 28, United States Code.
+- **(2)** A copy of the complaint shall be delivered promptly to the Clerk of the House of Representatives and the Secretary of the Senate.
+- **(3)** A final decision in the action shall be reviewable only by appeal directly to the Supreme Court of the United States. Such appeal shall be taken by the filing of a notice of appeal within 10 days, and the filing of a jurisdictional statement within 30 days, of the entry of the final decision.
+- **(4)** It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of the action and appeal.
