@@ -1,7 +1,7 @@
 ---
 measure: H.R. 902
 congress: 110
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 902
@@ -21,9 +21,10 @@ More Water, More Energy, and Less Waste Act of 2007
 - Rep. Edwards, Chet [D-TX-17] (E000063)
 - Rep. Pearce, Stevan [R-NM-2] (P000588)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,9 @@ More Water, More Energy, and Less Waste Act of 2007
 - 2007-03-19 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2628-2629)
 - 2007-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2628-2629)
+- 2007-03-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-04-25 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-86.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-122.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-122.
+- 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
