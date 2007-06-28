@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1830
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1830
@@ -42,3 +42,7 @@ To extend the authorities of the Andean Trade Preference Act until February 29, 
 - 2007-06-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 59 (Roll no. 583).
 - 2007-06-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 365 - 59 (Roll no. 583).
 - 2007-06-27 — The title of the measure was amended. Agreed to without objection.
+- 2007-06-28 — Cleared for White House.
+- 2007-06-28 — Message on Senate action sent to the House.
+- 2007-06-28 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S8724)
+- 2007-06-28 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S8724)
