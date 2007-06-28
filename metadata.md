@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2420
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2420
@@ -53,3 +53,8 @@ International Climate Cooperation Re-engagement Act of 2007
 - 2007-05-22 — Introduced in House
 - 2007-05-22 — Introduced in House
 - 2007-05-22 — Referred to the House Committee on Foreign Affairs.
+- 2007-05-23 — Committee Consideration and Mark-up Session Held.
+- 2007-05-23 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 16.
+- 2007-06-28 — Placed on the Union Calendar, Calendar No. 131.
+- 2007-06-28 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-215.
+- 2007-06-28 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-215.
