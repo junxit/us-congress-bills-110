@@ -1,7 +1,7 @@
 ---
 measure: S. 175
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 175
@@ -24,3 +24,8 @@ A bill to provide for a feasibility study of alternatives to augment the water s
 
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-04-25 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-86.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-111.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-111.
+- 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.
