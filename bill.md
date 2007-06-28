@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “New Mexico Aquifer Assessment Act of 2007”.
 
-## § 2. New mexico water resources study
+## § 2. New Mexico water resources study
 
 - **(a)** *In General* The Secretary of the Interior, acting through the Director of the United States Geological Survey (referred to in this Act as the “Secretary”), in coordination with the State of New Mexico (referred to in this Act as the “State”) and any other entities that the Secretary determines to be appropriate (including other Federal agencies and institutions of higher education), shall, in accordance with this Act and any other applicable law, conduct a study of water resources in the State, including—
   - **(1)** a survey of groundwater resources, including an analysis of—
