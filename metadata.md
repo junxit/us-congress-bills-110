@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 7
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 7
@@ -158,3 +158,7 @@ Calling on the League of Arab States and each Member State individually to ackno
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 425 - 1 (Roll no. 259).(text: CR H4057-4058)
 - 2007-04-25 — The title of the measure was amended. Agreed to without objection.
 - 2007-04-26 — Received in the Senate and referred to the Committee on Foreign Relations.
+- 2007-06-27 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2007-06-28 — Committee on Foreign Relations. Reported by Senator Biden with an amendment and with an amended preamble. Without written report.
+- 2007-06-28 — Committee on Foreign Relations. Reported by Senator Biden with an amendment and with an amended preamble. Without written report.
+- 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 244.
