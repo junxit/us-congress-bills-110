@@ -1,7 +1,7 @@
 ---
 measure: H.R. 839
 congress: 110
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 839
@@ -16,9 +16,10 @@ Arthur V. Watkins Dam Enlargement Act
 
 - Rep. Bishop, Rob [R-UT-1] (B001250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,8 @@ Arthur V. Watkins Dam Enlargement Act
 - 2007-03-19 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-03-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 159). (text: CR H2634)
 - 2007-03-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 394 - 1 (Roll no. 159).(text: CR H2634)
+- 2007-03-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-120.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-120.
+- 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 254.
