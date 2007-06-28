@@ -1,7 +1,7 @@
 ---
 measure: S. 1110
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1110
@@ -29,3 +29,7 @@ Juab County Surface and Ground Water Study and Development Act of 2007
 - 2007-04-16 — Introduced in Senate
 - 2007-04-16 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S4480)
 - 2007-04-16 — Sponsor introductory remarks on measure. (CR S4480)
+- 2007-05-23 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-115.
+- 2007-06-28 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-115.
+- 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 248.
