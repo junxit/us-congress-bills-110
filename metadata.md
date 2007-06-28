@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 179
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 179
