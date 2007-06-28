@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 172
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 172
@@ -144,3 +144,4 @@ Honoring the life of each of the 9 fallen City of Charleston firefighters who lo
 - 2007-06-27 — Mr. Clyburn asked unanimous consent to discharge from committee and consider.
 - 2007-06-27 — On agreeing to the resolution Agreed to without objection.
 - 2007-06-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2007-06-28 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.
