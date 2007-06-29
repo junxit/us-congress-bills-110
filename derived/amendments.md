@@ -1,7 +1,7 @@
 ---
 measure: S. 1548
 congress: 110
-version: Referral Instructions Senate
+version: Reported to Senate
 derived: true
 ---
 
