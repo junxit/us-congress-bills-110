@@ -1,7 +1,7 @@
 ---
 measure: S. 1547
 congress: 110
-version: Referral Instructions Senate
+version: Reported to Senate
 ---
 
 # S. 1547
@@ -16,10 +16,11 @@ National Defense Authorization Act for Fiscal Year 2008
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (2)
+## Committees (3)
 
 - Senate — Armed Services Committee
 - Senate — Intelligence (Select) Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,8 @@ National Defense Authorization Act for Fiscal Year 2008
 - 2007-06-05 — Introduced in Senate
 - 2007-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.
 - 2007-06-13 — Referred to the Select Committee on Intelligence pursuant to section 3(b) of S.Res. 400, 94th Congress, as amended by S.Res. 445, 108th Congress for a period not to exceed 10 days of session.
+- 2007-06-20 — Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 110-271.
+- 2007-06-26 — Select Committee on Intelligence. Ordered to be reported with amendments favorably.
+- 2007-06-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.
+- 2007-06-29 — Select Committee on Intelligence. Reported by Senator Rockefeller with amendments. With written report No. 110-125. Additional views filed.
+- 2007-06-29 — Select Committee on Intelligence. Reported by Senator Rockefeller with amendments. With written report No. 110-125. Additional views filed.
