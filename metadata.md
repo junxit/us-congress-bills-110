@@ -1,7 +1,7 @@
 ---
 measure: S. 966
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 966
@@ -34,3 +34,6 @@ Passport Backlog Reduction Act of 2007
 - 2007-06-27 — Committee on Foreign Relations. Reported by Senator Biden with an amendment in the nature of a substitute. With written report No. 110-109.
 - 2007-06-27 — Committee on Foreign Relations. Reported by Senator Biden with an amendment in the nature of a substitute. With written report No. 110-109.
 - 2007-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 239.
+- 2007-06-29 — Message on Senate action sent to the House.
+- 2007-06-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8755-8756; text of measure as report in Senate: CR S8756; text as passed Senate: CR S8756)
+- 2007-06-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8755-8756; text of measure as report in Senate: CR S8756; text as passed Senate: CR S8756)
