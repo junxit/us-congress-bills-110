@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2082
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 2082
@@ -16,10 +16,11 @@ Intelligence Authorization Act for Fiscal Year 2008
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Committees (2)
+## Committees (3)
 
 - House — Intelligence (Permanent Select) Committee
 - Senate — Intelligence (Select) Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -118,3 +119,59 @@ Intelligence Authorization Act for Fiscal Year 2008
 - 2007-05-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR 5/11/2007 H4907)
 - 2007-05-11 — The previous question was ordered pursuant to the rule.
 - 2007-05-14 — Received in the Senate and Read twice and referred to the Select Committee on Intelligence.
+- 2007-10-03 — Measure laid before Senate by unanimous consent. (consideration: CR S12475)
+- 2007-10-03 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-10-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-10-03 — See also S. 1538.
+- 2007-10-03 — Senate Select Committee on Intelligence discharged by Unanimous Consent. (consideration: CR S12475)
+- 2007-10-03 — Senate Select Committee on Intelligence discharged by Unanimous Consent.(consideration: CR S12475)
+- 2007-10-03 — Senate appointed conferees. Rockefeller; Feinstein; Wyden; Bayh; Mikulski; Feingold; Nelson FL; Whitehouse; Bond; Warner; Hagel; Chambliss; Hatch; Snowe; Burr. As additional conferees: Levin, Kyl. (consideration: CR S12691)
+- 2007-10-03 — Senate insisted on its amendment, requested a conference. (consideration: CR S12475)
+- 2007-10-03 — Senate struck all after the Enacting Clause and substituted the language of S.1538 amended.
+- 2007-10-04 — Message on Senate action sent to the House.
+- 2007-12-04 — DEBATE - The House proceeded with one hour of debate on the Hoekstra motion to instruct conferees on H.R. 2082. The instructions contained in the motion seek to require the managers on the part of the House to eliminate any House or Senate provisions providing for earmarks as defined in clause 9(d) of rule XXI of the Rules of the House of Representatives; and insist on provisions authorizing the maximum level of funding permissible for human intelligence collection activities.
+- 2007-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-04 — Mr. Hoekstra moved that the House instruct conferees. (text: CR H14126)
+- 2007-12-04 — Mr. Reyes moved that the House disagree to the Senate amendment, and agree to a conference.
+- 2007-12-04 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H14126-14128)
+- 2007-12-04 — On motion that the House instruct conferees Agreed to by recorded vote: 249 - 160 (Roll no. 1125). (consideration: CR H14130-14131)
+- 2007-12-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hoekstra motion to instruct conferees on H.R. 2082, the Chair put the question on the motion and by voice vote, announced that the noes had prevailed. Mr. Hoekstra objected to the voice vote based upon the absence of a quorum and the Chair postponed further proceedings on the motion to instruct until later in the legislative day.
+- 2007-12-04 — The Speaker appointed conferees - from the Committee on Armed Services for consideration of defense tactical intelligence and related activities: Skelton, Spratt, and Hunter.
+- 2007-12-04 — The Speaker appointed conferees - from the Permanent Select Committee on Intelligence for consideration of the House bill and the Senate amendment, and modifications committed to conference: Reyes, Hastings (FL), Boswell, Cramer, Eshoo, Holt, Ruppersberger, Tierney, Thompson (CA), Schakowsky, Langevin, Murphy, Patrick, Hoekstra, Everett, Gallegly, Wilson (NM), Thornberry, McHugh, Tiahrt, Rogers (MI), and Issa. (consideration: CR H14132)
+- 2007-12-04 — The previous question was ordered without objection. (consideration: CR H14126-14128)
+- 2007-12-05 — Conferees agreed to file conference report. (consideration: CR H14462-14490)
+- 2007-12-05 — Conference committee actions: Conferees agreed to file conference report.(consideration: CR H14462-14490)
+- 2007-12-06 — Conference report H. Rept. 110-478 filed. (text of conference report:  CR H14462-14490)
+- 2007-12-06 — Conference report filed: Conference report H. Rept. 110-478 filed.(text of conference report:  CR H14462-14490)
+- 2007-12-11 — Rules Committee Resolution H. Res. 859 Reported to House. Rule provides for consideration of the conference report to H.R. 2082.
+- 2007-12-13 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2007-12-13 — Conference report agreed to in House: On agreeing to the conference report Agreed to by recorded vote: 222 - 199 (Roll no. 1160).
+- 2007-12-13 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 2082.
+- 2007-12-13 — Motions to reconsider laid on the table Agreed to without objection.
+- 2007-12-13 — Mr. Hoekstra moved to recommit with instructions to the conference committee. (consideration: CR H15436-15437; text: CR H15436)
+- 2007-12-13 — Mr. Reyes brought up conference report H. Rept. 110-478 for consideration under the provisions of H. Res. 859. (consideration: CR H15426-15438)
+- 2007-12-13 — On agreeing to the conference report Agreed to by recorded vote: 222 - 199 (Roll no. 1160).
+- 2007-12-13 — On motion to recommit with instructions to conference committee Failed by the Yeas and Nays: 205 - 215 (Roll no. 1159).
+- 2007-12-13 — Rule H. Res. 859 passed House.
+- 2007-12-13 — The previous question was ordered without objection. (consideration: CR H15436)
+- 2008-02-11 — Cloture motion on conference report to accompany H.R. 2082 presented in Senate. (consideration: CR S844-845; text: CR 844-845)
+- 2008-02-11 — Conference report considered in Senate. (consideration: CR S844-845)
+- 2008-02-13 — Cleared for White House.
+- 2008-02-13 — Cloture on the conference report to accompany H.R.2082 invoked in Senate by Yea-Nay Vote. 92 - 4. Record Vote Number: 21. (consideration: CR S937)
+- 2008-02-13 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 51 - 45. Record Vote Number: 22.
+- 2008-02-13 — Conference report considered in Senate. (consideration: CR S937-957)
+- 2008-02-13 — Senate agreed to conference report by Yea-Nay Vote. 51 - 45. Record Vote Number: 22.
+- 2008-02-21 — Message on Senate action sent to the House.
+- 2008-02-29 — Presented to President.
+- 2008-02-29 — Presented to President.
+- 2008-03-08 — Vetoed by President.
+- 2008-03-08 — Vetoed by President.
+- 2008-03-10 — Mr. Loebsack moved to postpone consideration of the veto message until March 11.
+- 2008-03-10 — On motion to postpone consideration of the veto message until March 11. Agreed to without objection.
+- 2008-03-10 — The Chair laid before the House the veto message from the President.
+- 2008-03-11 — DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 2082, the objections of the President to the contrary, notwithstanding.
+- 2008-03-11 — Failed of passage in House over veto: On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 225 - 188 (Roll no. 117).(consideration: CR H1503-1514)
+- 2008-03-11 — Motion to refer the bill and accompanying veto message to the Committee on Intelligence (Permanent).
+- 2008-03-11 — On motion to refer the bill and the accompanying veto message to the Permanent Select Committee on Intelligence. Agreed to without objection.
+- 2008-03-11 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 225 - 188 (Roll no. 117). (consideration: CR H1503-1514)
+- 2008-03-11 — The Chair announced the unfinished business to be the consideration of the veto.
