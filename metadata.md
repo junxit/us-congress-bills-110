@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2082
 congress: 110
-version: Referred in Senate
+version: Engrossed in House
 ---
 
 # H.R. 2082
