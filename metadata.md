@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 835
@@ -61,3 +61,7 @@ Hawaiian Homeownership Opportunity Act of 2007
 - 2007-03-28 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 272 - 150, 1 Present (Roll no. 205).(text: CR 3/27/2007 H3164-3165)
 - 2007-03-28 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
 - 2007-03-28 — The previous question was ordered pursuant to the rule. (consideration: CR H3191)
+- 2007-05-10 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2007-07-09 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-126.
+- 2007-07-09 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-126.
+- 2007-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
