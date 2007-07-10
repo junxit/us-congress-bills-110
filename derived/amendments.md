@@ -1,7 +1,7 @@
 ---
 measure: H.R. 660
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 10 executed, 34 stated and not applied.
+50 amendatory instructions. 9 executed, 41 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 28 U.S.C. § 566
 
-> Section 566(a) of title 28, United States Code, is amended by striking “and the Court of International Trade” and inserting “, the Court of International Trade, and any other court, as provided by law”.
+> Section 566(a) of title 28, United States Code, is amended by striking “and the Court of International Trade” and inserting “, the Court of International Trade, and the United States Tax Court, as provided by law”.
 
 | | |
 |---|---|
 | Removed | `and the Court of International Trade` |
-| Inserted | `, the Court of International Trade, and any other court, as provided by law` |
+| Inserted | `, the Court of International Trade, and the United States Tax Court, as provided by law` |
 
 ### 18 U.S.C. § 1512
 
@@ -69,41 +69,32 @@ to guess them.
 | Removed | `one year` |
 | Inserted | `3 years` |
 
-### 18 U.S.C. § 1513
-
-> in subsection (a)(2)(B), by striking “20 years” and inserting “30 years”;
-
-| | |
-|---|---|
-| Removed | `20 years` |
-| Inserted | `30 years` |
-
-### 18 U.S.C. § 1513
-
-> in the matter following paragraph (2), by striking “ten years” and inserting “20 years”; and
-
-| | |
-|---|---|
-| Removed | `ten years` |
-| Inserted | `20 years` |
-
 ### 18 U.S.C. § 1112
 
-> by striking “ten years” and inserting “20 years”; and
+> by striking “United States,” and inserting “United States—”;
 
 | | |
 |---|---|
-| Removed | `ten years` |
-| Inserted | `20 years` |
+| Removed | `United States,` |
+| Inserted | `United States—` |
 
-### 18 U.S.C. § 1112
+### 42 U.S.C. § 3762a
 
-> by striking “six years” and inserting “10 years”.
+> by striking “80” and inserting “70”;
 
 | | |
 |---|---|
-| Removed | `six years` |
-| Inserted | `10 years` |
+| Removed | `80` |
+| Inserted | `70` |
+
+### 42 U.S.C. § 3762a
+
+> by striking “and 10” and inserting “10”; and
+
+| | |
+|---|---|
+| Removed | `and 10` |
+| Inserted | `10` |
 
 ### 28 U.S.C. § 631
 
@@ -124,36 +115,43 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `28 U.S.C. § 566` | add-at-end | Section 566 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 331` | add-at-end | Section 331 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | in subparagraph (A), by inserting “or a family member of that individual” after “that individual”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B)(i), by inserting “or a family member of that individual” after “the report”. | the bill names no machine-readable US Code section |
-| — | replace | Section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App) is amended by striking “2005” each place that term appears and inserting “2009”. | the bill names no machine-readable US Code section |
-| — | strike | in clause (ii), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in clause (iii), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 7456` | replace | Section 7456(c) of the Internal Revenue Code of 1986 (relating to incidental powers of the Tax Court) is amended in the matter following paragraph (3), by striking the period at the end, and inserting “and may otherwise provide for the s… | the bill quotes the text inserted but describes where it goes |
+| `28 U.S.C. § 566` | add-at-end | Section 331 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Section 105(b)(3) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by striking subparagraph (E). | the bill names no machine-readable US Code section |
+| — | replace | Section 566(a) of title 28, United States Code, is amended by striking “and the Court of International Trade” and inserting “, the Court of International Trade, and any other court, as provided by law”. | the bill names no machine-readable US Code section |
+| — | replace | Section 7456(c) of the Internal Revenue Code of 1986 (relating to incidental powers of the Tax Court) is amended in the matter following paragraph (3), by striking the period at the end, and inserting “and may otherwise provide for the s… | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 7456` | replace | Section 7456(c) of the Internal Revenue Code of 1986 (relating to incidental powers of the Tax Court) is amended in the matter following paragraph (3), by striking the period at the end, and inserting “and may otherwise provide, when req… | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Chapter 73 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The chapter analysis for chapter 73 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 7 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 7 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 930` | insert | Section 930(e)(1) of title 18, United States Code, is amended by inserting “or other dangerous weapon” after “firearm”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1513` | add-at-end | Section 1513 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1513` | insert | by inserting a comma after “probation”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1513` | strike | by striking the comma which immediately follows another comma; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1513` | insert | by inserting a comma after “probation”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1513` | strike | by striking the comma which immediately follows another comma; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1513` | redesignate | by redesignating the second subsection (e) as subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting a comma after “probation”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the comma which immediately follows another comma; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2)(B), by striking “20 years” and inserting “30 years”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting a comma after “probation”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking the comma which immediately follows another comma; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter following paragraph (2), by striking “ten years” and inserting “20 years”; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating the second subsection (e) as subsection (f). | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1112` | replace | by striking “Whoever is guilty of voluntary manslaughter,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1112` | replace | by striking “Whoever is guilty of involuntary manslaughter,” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1112` | replace | at the end of paragraph (2) (as designated by paragraph (3)), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1112` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 115 of title 18, United States Code, is amended in subsection (b) by striking “(1)” and all that follows through the end of paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 13862` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13862` | replace | in paragraph (4), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 13862` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13862` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 13862` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13867` | amend | Section 31707 of the Violent Crime Control and Law Enforcement Act of 1994 (42 U.S.C. 13867) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3762a` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3762a` | replace | in paragraph (3), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3762a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3762a` | insert | in subsection (b), by inserting after the period the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3762a` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3762a` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3762a` | insert | by inserting before the period the following: “, and 10 percent for section 515(a)(4)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796ll` | insert | in subsection (a), by inserting “and State and local court officers” after “tribal law enforcement officers”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3796ll` | insert | in subsection (b), by inserting “State or local court,” after “government,”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3796ll` | insert | in subsection (b)(1), by inserting “State or local court,” after “government,”. | the bill quotes the text inserted but describes where it goes |
 | `28 U.S.C. § 995` | add-at-end | Section 995 of title 28, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 604` | insert | Section 604(a)(5) of title 28, United States Code, is amended by inserting after “hold office during good behavior,” the following: “bankruptcy judges appointed under section 152 of this title, magistrate judges appointed under section 6… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 296` | insert | Section 296 of title 28, United States Code, is amended by inserting at the end of the second undesignated paragraph the following new sentence: “However, a judge who has retired from regular active service under section 371(b) of this t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 405 of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended by striking “2006” and inserting “2011”. | the bill names no machine-readable US Code section |
+| `48 U.S.C. § 1424b` | insert | Section 604(a)(5) of title 28, United States Code, is amended by inserting after “hold office during good behavior,” the following: “magistrate judges appointed under section 631 of this title, and territorial district court judges appoi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 296 of title 28, United States Code, is amended by inserting at the end of the second undesignated paragraph the following new sentence: “However, a judge who has retired from regular active service under section 371(b) of this t… | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 3624` | replace | Section 3624(e) of title 18, United States Code, is amended by striking the last sentence and inserting the following: “Upon the release of a prisoner by the Bureau of Prisons to supervised release, the Bureau of Prisons shall notify suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 566` | strike | by striking “and” after “fiscal year 2002,”; and | the bill quotes the text struck but describes what replaces it |
+| `28 U.S.C. § 566` | insert | by inserting “, and $10,000,000 for each of the fiscal years 2008 through 2012” before the period. | the bill quotes the text inserted but describes where it goes |
