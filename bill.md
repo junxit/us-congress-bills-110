@@ -13,9 +13,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “César Estrada Chávez Study Act”.
 
-## § 2. Resource study
+## § 2. Special resource study
 
-- **(a)** *In General* Not later than 3 years after the date on which funds are made available to carry out this Act, the Secretary of the Interior (referred to in this Act as the “Secretary”) shall complete a resource study of sites in the State of Arizona, the State of California, and other States that are significant to the life of César E. Chávez and the farm labor movement in the western United States to determine—
+- **(a)** *In General* Not later than 3 years after the date on which funds are made available to carry out this Act, the Secretary of the Interior (referred to in this Act as the “Secretary”) shall complete a special resource study of sites in the State of Arizona, the State of California, and other States that are significant to the life of César E. Chávez and the farm labor movement in the western United States to determine—
   - **(1)** appropriate methods for preserving and interpreting the sites; and
   - **(2)** whether any of the sites meets the criteria for listing on the National Register of Historic Places or designation as a national historic landmark under—
     - **(A)** the Act of August 21, 1935 (16 U.S.C. 461 et seq.); or
