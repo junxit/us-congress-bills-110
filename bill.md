@@ -21,4 +21,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(D)** a reallocation of water storage; and
     - **(E)** the importation of surplus water from sources outside the basin of Thunderbird Lake.
 - **(b)** *Study* Beginning no later than 1 year after the date of enactment of this Act, the Commissioner of the Bureau of Reclamation shall conduct a feasibility study of alternatives to augment the water supplies of the Central Oklahoma Master Conservatory District and cities served by the District, including recommendations of the Commissioner, if any.
-- **(c)** *Authorization of appropriations* There is authorized to be appropriated to the Commissioner of the Bureau of Reclamation $300,000 to conduct the study under subsection (b).
+- **(c)** *Authorization of appropriations* There is authorized to be appropriated to the Commissioner of the Bureau of Reclamation $900,000 to conduct the study under subsection (b).
