@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2121
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2121
@@ -29,3 +29,10 @@ To modify a land grant patent issued by the Secretary of the Interior.
 - 2007-05-02 — Introduced in House
 - 2007-05-02 — Introduced in House
 - 2007-05-02 — Referred to the House Committee on Natural Resources.
+- 2007-05-18 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-07-10 — Considered under suspension of the rules. (consideration: CR H7440)
+- 2007-07-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2121.
+- 2007-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-10 — Mr. Sarbanes moved to suspend the rules and pass the bill.
+- 2007-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7440)
+- 2007-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7440)
