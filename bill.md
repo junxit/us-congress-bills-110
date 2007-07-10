@@ -37,7 +37,7 @@ Congress finds that—
 In this Act:
 
 - **(1)** *Commission* The term Commission means the Niagara Falls National Heritage Area Commission established by section 5(a).
-- **(2)** *Governor* The term Governor means the Governor of the State.
+- **(2)** *Governor* The term Governor means the Governor of the State of New York.
 - **(3)** *Heritage area* The term Heritage Area means the Niagara Falls National Heritage Area established by section 4(a).
 - **(4)** *Local coordinating entity* The term local coordinating entity means the local coordinating entity for the Heritage Area designated by section 4(d)(1).
 - **(5)** *Management plan* The term management plan means the management plan for the Heritage Area developed under section 6.
@@ -48,7 +48,7 @@ In this Act:
 ## § 4. Niagara falls national heritage area
 
 - **(a)** *Establishment* There is established in the State the Niagara Falls National Heritage Area.
-- **(b)** *Boundaries* The National Heritage Area shall consist of—
+- **(b)** *Boundaries* The Heritage Area shall consist of—
   - **(1)** the area from the western boundary of the town of Wheatfield, New York, extending to the mouth of the Niagara River on Lake Ontario, as depicted on the map, including—
     - **(A)** the city of Niagara Falls, New York;
     - **(B)** the villages of Youngstown and Lewiston, New York; and
@@ -59,7 +59,7 @@ In this Act:
   - **(1)** *Designation* The local coordinating entity for the Heritage Area shall be—
     - **(A)** for the 5-year period beginning on the date of enactment of this Act, the Commission; and
     - **(B)** on expiration of the 5-year period described in subparagraph (A), a private nonprofit or governmental organization designated by the Commission.
-  - **(2)** *Authorities* For purposes of implementing the management plan, the local coordinating entity designated under paragraph (1)(B) may use funds made available under this Act to—
+  - **(2)** *Authorities* For purposes of implementing the management plan, the local coordinating entity designated under paragraph (1)(B) may use funds made available under this Act, subject to the prior approval of the Secretary, to—
     - **(A)** make grants to, and enter into cooperative agreements with, the State (including a political subdivision of the State), nonprofit organizations, or any person;
     - **(B)** hire and compensate staff; and
     - **(C)** enter into contracts for goods and services.
@@ -70,17 +70,17 @@ In this Act:
 - **(a)** *Establishment* There is established within the Department of the Interior the Niagara Falls National Heritage Area Commission.
 - **(b)** *Membership* The Commission shall be composed of 17 members, of whom—
   - **(1)** 1 member shall be the Director of the National Park Service (or a designee);
-  - **(2)** 5 members shall be appointed by the Secretary, on the recommendation of the Governor, from among individuals with knowledge and experience of—
+  - **(2)** 5 members shall be appointed by the Secretary, after consideration of the recommendation of the Governor, from among individuals with knowledge and experience of—
     - **(A)** the New York State Office of Parks, Recreation and Historic Preservation, the Niagara River Greenway Commission, the New York Power Authority, the USA Niagara Development Corporation, and the Niagara Tourism and Convention Corporation; or
     - **(B)** any successors of the agencies described in subparagraph (A);
-  - **(3)** 1 member shall be appointed by the Secretary, on the recommendation of the mayor of Niagara Falls, New York;
-  - **(4)** 1 member shall be appointed by the Secretary, on the recommendation of the mayor of the village of Youngstown, New York;
-  - **(5)** 1 member shall be appointed by the Secretary, on the recommendation of the mayor of the village of Lewiston, New York;
-  - **(6)** 1 member shall be appointed by the Secretary, on the recommendation of the Tuscarora Nation;
-  - **(7)** 1 member shall be appointed by the Secretary, on the recommendation of the Seneca Nation of Indians; and
+  - **(3)** 1 member shall be appointed by the Secretary, after consideration of the recommendation of the mayor of Niagara Falls, New York;
+  - **(4)** 1 member shall be appointed by the Secretary, after consideration of the recommendation of the mayor of the village of Youngstown, New York;
+  - **(5)** 1 member shall be appointed by the Secretary, after consideration of the recommendation of the mayor of the village of Lewiston, New York;
+  - **(6)** 1 member shall be appointed by the Secretary, after consideration of the recommendation of the Tuscarora Nation;
+  - **(7)** 1 member shall be appointed by the Secretary, after consideration of the recommendation of the Seneca Nation of Indians; and
   - **(8)** 6 members shall be individuals that have an interest in, support for, and expertise appropriate to tourism, regional planning, history and historic preservation, cultural or natural resource management, conservation, recreation, and education, or museum services, of whom—
-    - **(A)** 4 members shall be appointed by the Secretary, on the recommendation of the 2 members of the Senate from the State; and
-    - **(B)** 2 members shall be appointed by the Secretary, on the recommendation of the member of the House of Representatives whose district encompasses the Heritage Area.
+    - **(A)** 4 members shall be appointed by the Secretary, after consideration of the recommendation of the 2 members of the Senate from the State; and
+    - **(B)** 2 members shall be appointed by the Secretary, after consideration of the recommendation of the member of the House of Representatives whose district encompasses the Heritage Area.
 - **(c)** *Terms; vacancies*
   - **(1)** *Term* A member of the Commission shall be appointed for a term not to exceed 5 years.
   - **(2)** *Vacancies*
@@ -133,9 +133,8 @@ In this Act:
       - **(ii)** the expenses and income of the local coordinating entity;
       - **(iii)** the amounts and sources of matching funds;
       - **(iv)** the amounts leveraged with Federal funds and the sources of the leveraging; and
-      - **(v)** any grants made to any other entities during the fiscal year;
-    - **(B)** make available to the Secretary for audit any records containing information relating to the expenditure of Federal funds and any matching funds; and
-    - **(C)** require, with respect to all agreements authorizing the expenditure of Federal funds by other organizations, that the organization receiving the funds make available to the Secretary for audit all records and other information concerning the expenditure of the funds;
+      - **(v)** any grants made to any other entities during the fiscal year; and
+    - **(B)** make available to the Secretary for audit any records containing information relating to the expenditure of Federal funds and any matching funds;
   - **(7)** encourage, by appropriate means and consistent with the purposes of the Heritage Area, the economic viability of the Heritage Area; and
   - **(8)** assist in the transition of the management of the Heritage Area from the Commission to the local coordinating entity designated under section 4(d)(1)(B).
 - **(i)** *Compensation of members*
@@ -199,9 +198,20 @@ In this Act:
 - **(b)** *Detail of department of the interior employees*
   - **(1)** *In general* On request of the Commission, the Secretary may detail to the Commission for each fiscal year in which the Commission is in existence, on a nonreimbursable basis, 2 employees of the Department of the Interior to enable the Commission to carry out the duties of the Commission.
   - **(2)** *Civil service status* The detail of an employee under paragraph (1) shall be without interruption or loss of civil service status or privilege.
-- **(c)** *Report* Not later than the date that is 3 years before the date on which the authority of the Secretary terminates under section 11, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that includes—
-  - **(1)** an evaluation of the accomplishments and sustainability of the Heritage Area; and
-  - **(2)** any recommendations of the Secretary with respect to the future management of the Heritage Area.
+- **(c)** *Evaluation*
+  - **(1)** *In general* Not later than 3 years before the date on which authority for Federal funding terminates for the Heritage Area, the Secretary shall conduct an evaluation of the accomplishments of the Heritage Area and prepare a report with recommendations for the National Park Service’s future role, if any, with respect to the Heritage Area.
+  - **(2)** *Evaluation components* An evaluation prepared under paragraph (1) shall—
+    - **(A)** assess the progress of the local coordinating entity with respect to—
+      - **(i)** accomplishing the purposes of the authorizing legislation for the Heritage Area; and
+      - **(ii)** achieving the goals and objectives of the approved management plan for the Heritage Area;
+    - **(B)** analyze the Federal, State, local, and private investments in the Heritage Area to determine the leverage and impact of the investments; and
+    - **(C)** review the management structure, partnership relationships, and funding of the Heritage Area for purposes of identifying the critical components for sustainability of the Heritage Area.
+  - **(3)** *Recommendations* Based upon the evaluation under paragraph (1), the Secretary shall prepare a report with recommendations for the National Park Service’s future role, if any, with respect to the Heritage Area. If the report recommends that Federal funding for the Heritage Area be reauthorized, the report shall include an analysis of—
+    - **(A)** ways in which Federal funding for the Heritage Area may be reduced or eliminated; and
+    - **(B)** the appropriate time period necessary to achieve the recommended reduction or elimination.
+  - **(4)** *Submission to congress* On completion of a report under this subsection, the Secretary shall submit the report to—
+    - **(A)** the Committee on Energy and Natural Resources of the Senate; and
+    - **(B)** the Committee on Natural Resources of the House of Representatives.
 
 ## § 8. Relationship to other federal agencies
 
@@ -214,18 +224,16 @@ In this Act:
   - **(2)** limits the discretion of a Federal land manager to implement an approved land use plan within the boundaries of the Heritage Area; or
   - **(3)** modifies, alters, or amends any authorized use of Federal land under the jurisdiction of a Federal agency.
 
-## § 9. Protections for property owners
+## § 9. Private property and regulatory protections
 
 Nothing in this Act—
 
-- **(1)** abridges the rights of any owner of public or private property, including the right to refrain from participating in any plan, project, program, or activity conducted within the Heritage Area;
-- **(2)** requires any property owner to permit public access (including access by Federal, tribal, State, or local government agencies) to the property;
-- **(3)** modifies any provision of Federal, tribal, State, or local law with regard to public access to, or use of, private land;
-- **(4)** alters any land use regulation, approved land use plan, or other regulatory authority of any Federal, tribal, State, or local agency;
-- **(5)** provides any land use or other regulatory authority to any local coordinating entity;
-- **(6)** authorizes the reservation or appropriation of water or water rights;
-- **(7)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the Heritage Area; or
-- **(8)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any persons injured on the private property.
+- **(1)** abridges the rights of any property owner (whether public or private), including the right to refrain from participating in any plan, project, program, or activity conducted within the Heritage Area;
+- **(2)** requires any property owner to permit public access (including access by Federal, State, or local agencies) to the property of the property owner, or to modify public access or use of property of the property owner under any other Federal, State, or local law;
+- **(3)** alters any duly adopted land use regulation, approved land use plan, or other regulatory authority of any Federal, State, or local agency, or conveys any land use or other regulatory authority to any local coordinating entity;
+- **(4)** authorizes or implies the reservation or appropriation of water or water rights;
+- **(5)** diminishes the authority of the State to manage fish and wildlife, including the regulation of fishing and hunting within the Heritage Area; or
+- **(6)** creates any liability, or affects any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
 ## § 10. Authorization of appropriations
 
