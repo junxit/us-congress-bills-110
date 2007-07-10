@@ -1,7 +1,7 @@
 ---
 measure: S. 1642
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1642
@@ -16,7 +16,7 @@ Higher Education Amendments of 2007
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Bingaman, Jeff [D-NM] (B000468)
@@ -27,6 +27,7 @@ Higher Education Amendments of 2007
 - Sen. Obama, Barack [D-IL] (O000167)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
 ## Committees (1)
 
@@ -36,3 +37,7 @@ Higher Education Amendments of 2007
 
 - 2007-06-18 — Introduced in Senate
 - 2007-06-18 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2007-06-20 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with amendments favorably.
+- 2007-07-10 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-07-10 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
