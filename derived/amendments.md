@@ -1,7 +1,7 @@
 ---
 measure: S. 966
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 4064` | replace | in subparagraph (A), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 4064` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 4064` | add-at-end | by adding at the end the following new subparagraph— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4064` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4064` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (A), by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph— | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
