@@ -1,7 +1,7 @@
 ---
 measure: S. 966
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 966
@@ -22,9 +22,10 @@ Passport Backlog Reduction Act of 2007
 - Sen. Hagel, Chuck [R-NE] (H001028)
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ Passport Backlog Reduction Act of 2007
 - 2007-06-29 — Message on Senate action sent to the House.
 - 2007-06-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8755-8756; text of measure as report in Senate: CR S8756; text as passed Senate: CR S8756)
 - 2007-06-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8755-8756; text of measure as report in Senate: CR S8756; text as passed Senate: CR S8756)
+- 2007-07-10 — Received in the House.
+- 2007-07-10 — Referred to the House Committee on Foreign Affairs.
