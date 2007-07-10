@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1979
 
-> To require any Federal or State court to recognize any notarization made by a notary public licensed by a State other than the State where the court is located when such notarization.
+> To require any Federal or State court to recognize any notarization made by a notary public licensed by a State other than the State where the court is located when such notarization occurs in or affects interstate commerce.
 
 ## § 1. Short title
 
