@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2381
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2381
@@ -27,9 +27,10 @@ Upper Mississippi River Basin Protection Act
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Berry, Marion [D-AR-1] (B000420)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Upper Mississippi River Basin Protection Act
 - 2007-07-10 — Mr. Sarbanes moved to suspend the rules and pass the bill.
 - 2007-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7447-7448)
 - 2007-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7447-7448)
+- 2007-07-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
