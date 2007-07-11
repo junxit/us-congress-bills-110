@@ -2,7 +2,7 @@
 legis-num: H. RES. 500
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 500
@@ -32,6 +32,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That it is the sense of the House of Representatives that—
 
-- **(1)** the United States should make clear to the governments of major natural gas exporting countries that it regards efforts to establish a cartel or other mechanism to manipulate the supply of natural gas to the world market for the purpose of setting an arbitrary and nonmarket price, or as an instrument of political pressure, to be an unfriendly act prejudicial to the security of the United States and of the world as a whole;
+- **(1)** the United States should make clear to the governments of major natural gas exporting countries that it regards efforts to establish a cartel or other mechanism to manipulate the supply of natural gas to the world market for the purpose of setting an arbitrary and nonmarket price, or as an instrument of political pressure, to be prejudicial to the security of the United States and of the world as a whole;
 - **(2)** the United States should develop a joint strategy with its allies and all countries that are importers of natural gas, as well as with cooperative exporting countries, to prevent the establishment of a cartel or other mechanism of this type, including by diversifying sources and alternative means of access by exporters and importers to international markets, such as by pipeline; and
 - **(3)** in order to mitigate potential economic and other threats to our security, the United States should work with our allies to reduce our dependence on natural gas and to increase and promote the utilization of clean energy sources.
