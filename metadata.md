@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 240
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 240
@@ -28,3 +28,7 @@ A resolution designating October 21 through October 27, 2007, as "National Save 
 
 - 2007-06-20 — Introduced in Senate
 - 2007-06-20 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8088)
+- 2007-07-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S9057)
+- 2007-07-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S9057)
+- 2007-07-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9057)
+- 2007-07-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9057)
