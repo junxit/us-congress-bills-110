@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2669
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-96 amendatory instructions. 22 executed, 74 stated and not applied.
+97 amendatory instructions. 23 executed, 74 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -195,6 +195,15 @@ to guess them.
 | Removed | `clauses (ii), (iii), and (iv)` |
 | Inserted | `clauses (ii), (iii), (iv), and (vi)` |
 
+### 20 U.S.C. § 1087h
+
+> Section 458(b) (20 U.S.C. 1087h(b)) is amended by striking “0.10 percent” and inserting “0.06 percent”.
+
+| | |
+|---|---|
+| Removed | `0.10 percent` |
+| Inserted | `0.06 percent` |
+
 ### 20 U.S.C. § 1085
 
 > by striking “100 percent of the poverty line for a family of 2” and inserting “150 percent of the poverty line applicable to the borrower's family size”; and
@@ -278,10 +287,12 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087-1` | strike | in section 438(b)(5) (20 U.S.C. 1087–1(b)(5)), by striking the matter following subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078` | amend | Subparagraph (G) of section 428(b)(1) (20 U.S.C. 1078(b)(1)(G)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078` | amend | Clause (ii) of section 428(c)(6)(A) (20 U.S.C. 1078(c)(6)(A)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087h` | replace | by striking “Account” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1087h` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087-1` | amend | Paragraph (2) of section 438(d) (20 U.S.C. 1087–1(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1078` | add-at-end | Section 428(k) (20 U.S.C. 1078(k)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1072b` | strike | by striking “and” at the end of paragraph (5); | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1072b` | redesignate | by redesignating paragraph (6) as paragraph (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1072b` | insert | by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078` | add-at-end | Section 428 (20 U.S.C. 1078) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1078` | insert | Section 428(f)(1)(A)(ii) (20 U.S.C. 1078(f)(1)(A)(ii)) is amended by inserting before the period at the end the following: “, except that the total amount of such payments to each guaranty agency in any fiscal year shall equal at least $… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078-11` | amend | Section 428K (20 U.S.C. 1078–11) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | add-at-end | Section 455(e) (20 U.S.C. 1087e(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1088` | add-at-end | Part G of title IV (20 U.S.C. 1088 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -296,9 +307,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087e` | add-at-end | Section 455(e) (20 U.S.C. 1087e(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1091b` | insert | Part G of title IV is amended by inserting after section 484B (20 U.S.C. 1091b) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087aa` | add-at-end | Section 461(b) (20 U.S.C. 1087aa(b)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1015` | insert | Title I is amended by inserting after section 131 (20 U.S.C. 1015) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015` | amend | Section 131 of the Higher Education Act of 1965 (20 U.S.C. 1015) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1070a-1` | insert | Subpart 1 of part A of title IV is amended by inserting after section 401A (20 U.S.C. 1070a–1) the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1001` | add-at-end | The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) is amended by adding at the end the following title: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1070a` | add-at-end | Part A of title IV (20 U.S.C. 1070a et seq.) is amended by adding at the end the following new subpart: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1021` | add-at-end | Title II (20 U.S.C. 1021 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

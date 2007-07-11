@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2669
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2669
@@ -54,6 +54,12 @@ College Cost Reduction and Access Act
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (3)
+
+- 2007-07-11 — [House 110-1-611](votes/house-110-1-0611.md) — On Agreeing to the Amendment — **Failed** (189–231)
+- 2007-07-11 — [House 110-1-612](votes/house-110-1-0612.md) — On Motion to Recommit with Instructions — **Failed** (199–223)
+- 2007-07-11 — [House 110-1-613](votes/house-110-1-0613.md) — On Passage — **Passed** (273–149)
+
 ## Actions
 
 - 2007-06-12 — Introduced in House
@@ -64,3 +70,31 @@ College Cost Reduction and Access Act
 - 2007-06-25 — Placed on the Union Calendar, Calendar No. 128.
 - 2007-06-25 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-210.
 - 2007-06-25 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-210.
+- 2007-07-10 — Rules Committee Resolution H. Res. 531 Reported to House. Rule provides for consideration of H.R. 2669 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.
+- 2007-07-11 — Amendment (A002) in the nature of a substitute offered by Mr. McKeon. (consideration: CR H7545-7555; text: CR H7545-7548)
+- 2007-07-11 — Amendment agreed to by House: On agreeing to the Rules amendment (A001) as modified Agreed to without objection.
+- 2007-07-11 — Amendment failed by House: On agreeing to the McKeon amendment (A002) Failed by the Yeas and Nays: 189 - 231 (Roll no. 611).
+- 2007-07-11 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H7517-7530)
+- 2007-07-11 — Considered under the provisions of rule H. Res. 531. (consideration: CR H7506-7558; text of measure as reported in House: CR H7506-7517)
+- 2007-07-11 — DEBATE - Pursuant to the provisions of H.Res. 531, the House proceeded with 60 minutes of debate on the McKeon amendment in the nature of a substitute.
+- 2007-07-11 — DEBATE - The House proceeded with one hour of debate on H.R. 2669.
+- 2007-07-11 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Roskam motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House promptly with an amendment providing that a borrower who is a full-time elected public official who receives compensation for such elected position, or who is a registered lobbyist at either the Federal or State level who receives compensation for lobbying activities, shall be ineligible for any of the loan forgiveness programs included in the bill.
+- 2007-07-11 — House amendment agreed to: On agreeing to the Rules amendment (A001) as modified Agreed to without objection.
+- 2007-07-11 — House amendment not agreed to: On agreeing to the McKeon amendment (A002) Failed by the Yeas and Nays: 189 - 231 (Roll no. 611).
+- 2007-07-11 — House amendment offered
+- 2007-07-11 — House amendment offered
+- 2007-07-11 — House amendment offered/reported by : Amendment (A002) in the nature of a substitute offered by Mr. McKeon.(consideration: CR H7545-7555; text: CR H7545-7548)
+- 2007-07-11 — House amendment offered/reported by : Amendment in the nature of a substitute reported by the House Committee on Rules.(consideration: CR H7517-7530)
+- 2007-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-11 — Mr. Roskam moved to recommit with instructions to Education and Labor. (consideration: CR H7555-7558)
+- 2007-07-11 — On agreeing to the McKeon amendment (A002) Failed by the Yeas and Nays: 189 - 231 (Roll no. 611).
+- 2007-07-11 — On agreeing to the Rules amendment (A001) as modified Agreed to without objection.
+- 2007-07-11 — On motion to recommit with instructions Failed by recorded vote: 199 - 223 (Roll no. 612).
+- 2007-07-11 — On passage Passed by recorded vote: 273 - 149 (Roll no. 613).
+- 2007-07-11 — Passed/agreed to in House: On passage Passed by recorded vote: 273 - 149 (Roll no. 613).
+- 2007-07-11 — Roll call votes on amendments in House
+- 2007-07-11 — Rule H. Res. 531 passed House.
+- 2007-07-11 — Rule provides for consideration of H.R. 2669 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill, modified by the amendment printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.
+- 2007-07-11 — Rules amendment (A001) modified by unanimous consent. Modification made in order pursuant to the provisions of H. Res. 531, printed in Part A of House Report 110-224 and considered as adopted. (text as modified: CR H7517-7530)
+- 2007-07-11 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2669.
+- 2007-07-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7555)
