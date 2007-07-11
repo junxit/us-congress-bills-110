@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1725
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1725
@@ -22,9 +22,10 @@ Rancho California Water District Recycled Water Reclamation Facility Act of 2008
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Rancho California Water District Recycled Water Reclamation Facility Act of 2008
 - 2007-07-10 — Placed on the Union Calendar, Calendar No. 138.
 - 2007-07-10 — Reported by the Committee on Natural Resources. H. Rept. 110-222.
 - 2007-07-10 — Reported by the Committee on Natural Resources. H. Rept. 110-222.
+- 2007-07-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
