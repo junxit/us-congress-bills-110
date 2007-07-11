@@ -1,7 +1,7 @@
 ---
 measure: H.R. 735
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 735
@@ -16,6 +16,10 @@ To designate the Federal building under construction at 799 First Avenue in New 
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
+## Cosponsors (1)
+
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +29,10 @@ To designate the Federal building under construction at 799 First Avenue in New 
 - 2007-01-30 — Introduced in House
 - 2007-01-30 — Introduced in House
 - 2007-01-30 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-01-31 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-03-01 — Committee Consideration and Mark-up Session Held.
+- 2007-03-01 — Ordered to be Reported by Voice Vote.
+- 2007-03-01 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2007-07-11 — Placed on the House Calendar, Calendar No. 86.
+- 2007-07-11 — Reported by the Committee on Transportation. H. Rept. 110-230.
+- 2007-07-11 — Reported by the Committee on Transportation. H. Rept. 110-230.
