@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1904
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1904
@@ -36,3 +36,4 @@ New Mexico Water Planning Assistance Act
 - 2007-07-10 — Mr. Sarbanes moved to suspend the rules and pass the bill.
 - 2007-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7445)
 - 2007-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7445)
+- 2007-07-11 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 267.
