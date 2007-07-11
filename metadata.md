@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2121
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2121
@@ -20,9 +20,10 @@ To modify a land grant patent issued by the Secretary of the Interior.
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ To modify a land grant patent issued by the Secretary of the Interior.
 - 2007-07-10 — Mr. Sarbanes moved to suspend the rules and pass the bill.
 - 2007-07-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7440)
 - 2007-07-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7440)
+- 2007-07-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
