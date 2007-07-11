@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. RES. 226
 
-> Recognizing the month of November as “National Homeless Youth Awareness Month”.
+> Recognizing the month of November 2007 as “National Homeless Youth Awareness Month”.
 
 ## Preamble
 
@@ -24,4 +24,4 @@ That the Senate—
 
 - **(1)** supports the values and efforts of businesses, organizations, and volunteers dedicated to meeting the needs of homeless children and teens;
 - **(2)** applauds the initiatives of businesses, organizations, and volunteers that employ time and resources to build awareness of the homeless youth problem, its causes, and potential solutions, and work to prevent homelessness among children and teens; and
-- **(3)** should recognize the month of November as “National Homeless Youth Awareness Month” and encourages these businesses, organizations, and volunteers to continue to intensify their efforts during the month of November.
+- **(3)** should recognize the month of November as “National Homeless Youth Awareness Month” and encourages these businesses, organizations, and volunteers to continue to intensify their efforts during the month of November 2007.
