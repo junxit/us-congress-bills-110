@@ -2,7 +2,7 @@
 legis-num: H. RES. 426
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 426
@@ -24,11 +24,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Constitutional Court of Colombia has handed down multiple decisions recognizing the insufficient nature of the government’s efforts to meet the basic needs of internally displaced persons and upheld the importance of implementing law 387 in light of the United Nations Guiding Principles on Internal Displacement;
 - Whereas the Constitutional Court of Colombia, in consultation with the Government of Colombia, civil society, and the United Nations, has developed an extensive set of measurements to ensure government compliance with Law 387;
 - Whereas the Government of Colombia, the international community, and civil society are engaged in the London-Cartagena Process to develop coordinated responses to domestic problems, including humanitarian assistance and internal displacement;
-- Whereas the Government of the United States provides valuable, but limited, humanitarian assistance to Colombia, and has programs targeted specifically for internally displaced people; and
+- Whereas the Government of the United States provides valuable, but limited, humanitarian assistance through Plan Colombia, and has programs targeted specifically for internally displaced people; and
 - Whereas the United Nations High Commissioner for Refugees, Antonio Guterres, on a visit to Colombia in March 2007, urged greater attention to the issue, stating that it should be a “national priority” and asked for “greater coherence” in programs to address the needs of the internally displaced: Now, therefore, be it
 
 That it is the sense of the House of Representatives that—
 
-- **(1)** the United Nations High Commissioner for Refugees, the Colombian Catholic Church, and the Coalition for Human Rights and Internal Displacement should be commended for their initiative to declare the Year of the Rights of the Internally Displaced People in Colombia;
+- **(1)** the United Nations High Commissioner for Refugees, the Colombian Catholic Church, and the Consultancy for Human Rights and Internal Displacement should be commended for their initiative to declare the Year of the Rights of the Internally Displaced People in Colombia;
 - **(2)** the Government of Colombia and the international donor community should be encouraged to prioritize discussion of humanitarian assistance and internal displacement with the international donor community, especially within the context of the London-Cartagena Process; and
 - **(3)** the Government of the United States should increase the resources it makes available to provide emergency humanitarian assistance and protection through international and civilian government agencies, and assist Colombia’s internally displaced people in rebuilding their lives in a dignified, safe, and sustainable manner.
