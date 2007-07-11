@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 359
@@ -88,9 +88,10 @@ Cesar Estrada Chavez Study Act
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -113,3 +114,4 @@ Cesar Estrada Chavez Study Act
 - 2007-07-10 — Placed on the Union Calendar, Calendar No. 139.
 - 2007-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-223.
 - 2007-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-223.
+- 2007-07-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
