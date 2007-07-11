@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 210
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 210
@@ -33,3 +33,10 @@ Commending the Appalachian State University football team for winning the 2006 N
 - 2007-03-05 — Introduced in House
 - 2007-03-05 — Introduced in House
 - 2007-03-05 — Referred to the House Committee on Education and Labor.
+- 2007-06-05 — Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
+- 2007-07-11 — Considered under suspension of the rules. (consideration: CR H7625-7627)
+- 2007-07-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 210.
+- 2007-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-11 — Mr. Yarmuth moved to suspend the rules and agree to the resolution, as amended.
+- 2007-07-11 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7625)
+- 2007-07-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7625)

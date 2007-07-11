@@ -2,7 +2,7 @@
 legis-num: H. RES. 210
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 210
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Mountaineers’ offense was led by Southern Conference Freshman of the Year Armanti Edwards, who rushed for over 1,000 yards and passed for over 2,000 yards, and accounted for 30 touchdowns in his first season;
 - Whereas the success of the Mountaineers’ offense is attributed to Kevin Richardson, who rushed for over 1,000 yards, William Mayfield, who had over 1,000 yards receiving, and the impenetrable offensive line, who made it possible for those amazing statistics to occur;
 - Whereas the Mountaineers’ intimidating defense was led by Marques Murell, Jeremy Wiggins, Monte Smith, and Corey Lynch;
-- Whereas the Mountaineers were undefeated in conference games and are the champions of the Southern Conference for the second year in a row;
+- Whereas the Mountaineers were undefeated in conference games through the 2006 season and are the champions of the Southern Conference for the second year in a row;
 - Whereas Appalachian State University affirmed its position as a dominant football program by securing its second consecutive national championship;
 - Whereas in 2005, Appalachian State University became the first team from North Carolina to win an NCAA football championship with a 21–16 victory over Northern Iowa;
 - Whereas the members of the 2006 Appalachian State University football team are excellent representatives of a fine university that is a leader in higher education, producing many fine student-athletes and other leaders;
