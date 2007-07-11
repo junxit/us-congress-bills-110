@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1144
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 2(a) of the Community Disaster Loan Act of 2005 (Public Law 109–88) is amended by striking “Provided further, That notwithstanding section 417(c)(1) of the Stafford Act, such loans may not be canceled:”. | the bill names no machine-readable US Code section |
+| — | strike | Section 2(a) of the Community Disaster Loan Act of 2005 (Public Law 109–88) is amended by striking “Provided further, That notwithstanding section 417(c)(1) of the Stafford Act, such loans may not be canceled:”. | the bill names no machine-readable US Code section |
+| — | strike | Chapter 4 of title II of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006 (Public Law 109–234) is amended under the heading “FEDERAL EMERGENCY MANAGEMENT AGENCY–disaster as… | the bill names no machine-readable US Code section |
