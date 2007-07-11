@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2900
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2900
@@ -16,7 +16,7 @@ Food and Drug Administration Amendments Act of 2007
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 
-## Cosponsors (32)
+## Cosponsors (34)
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -50,10 +50,16 @@ Food and Drug Administration Amendments Act of 2007
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2007-07-11 — [House 110-1-617](votes/house-110-1-0617.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (403–16)
 
 ## Actions
 
@@ -61,3 +67,14 @@ Food and Drug Administration Amendments Act of 2007
 - 2007-06-28 — Introduced in House
 - 2007-06-28 — Mr. Pallone asked unanimous consent that the Committee on Energy and Commerce have until midnight on July 9 to file a report on H.R. 2900. Agreed to without objection.
 - 2007-06-28 — Referred to the House Committee on Energy and Commerce.
+- 2007-07-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-11 — Considered as unfinished business. (consideration: CR H7629)
+- 2007-07-11 — Considered under suspension of the rules. (consideration: CR H7568-7606)
+- 2007-07-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2900.
+- 2007-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-11 — Mr. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2007-07-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 16 (Roll no. 617). (text: CR H7568-7600)
+- 2007-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 16 (Roll no. 617).(text: CR H7568-7600)
+- 2007-07-11 — Placed on the Union Calendar, Calendar No. 140.
+- 2007-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 110-225.
+- 2007-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 110-225.
