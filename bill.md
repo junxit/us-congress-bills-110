@@ -2,7 +2,7 @@
 legis-num: H. RES. 287
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 287
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas Italian navigator Amerigo Vespucci was born in 1454 and traveled across the Atlantic Ocean 4 times between 1497 and 1504;
 - Whereas during his second voyage to the Western Hemisphere in 1499, Amerigo Vespucci realized that the land Christopher Columbus discovered in 1492 was not India but a new continent;
-- Whereas cartographer Martin Waldseemüller, a member of the research group Gymnasium Vosagense in Saint-Dié, France, first used the word “America” in his world map, which first appeared in public on April 25, 1507, and described the newly discovered Western Hemisphere as separated by the Pacific and Atlantic oceans;
+- Whereas cartographer Martin Waldseemüller, a member of the research group Gymnasium Vosagense in Saint-Dié, France, first used the word “America” in his world map, which first appeared in public on April 25, 1507, and described the newly discovered Western Hemisphere as separated by the Atlantic Ocean and an ocean known now as the Pacific Ocean, in its first depiction;
 - Whereas Waldseemüller chose to honor Amerigo Vespucci by naming the new continent with Vespucci’s name even while Vespucci was alive;
 - Whereas Waldseemüller described this decision in his “Cosmographiae Introductio”, the book that accompanied the map, by writing, “I see no reason why anyone should justly object to calling this part … America, after Amerigo [Vespucci], its discoverer, a man of great ability.”; and
 - Whereas April 25, 2007, will be the 500th anniversary of this first public use of the word “America”, which now serves as the root of the names of 2 continents: Now, therefore, be it
