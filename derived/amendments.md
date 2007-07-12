@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1851
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-58 amendatory instructions. 6 executed, 52 stated and not applied.
+64 amendatory instructions. 9 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,33 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 1437a
+
+> by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (2)` |
+| Inserted | `paragraphs (2) and (3)` |
+
+### 42 U.S.C. § 1437a
+
+> by striking “paragraph (3)” and inserting “paragraph (4)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (3)` |
+| Inserted | `paragraph (4)` |
+
+### 42 U.S.C. § 1437a
+
+> in paragraph (2)(A)(i), by striking “paragraph (3)” and inserting “paragraph (4)”;
+
+| | |
+|---|---|
+| Removed | `paragraph (3)` |
+| Inserted | `paragraph (4)` |
 
 ### 42 U.S.C. § 1437f
 
@@ -35,12 +62,12 @@ to guess them.
 
 ### 42 U.S.C. § 1437f
 
-> by striking “the provisions of” and inserting “paragraphs (6) and (7) of section 3(a) and to”; and
+> by striking “the provisions of” and inserting “paragraphs (7) and (8) of section 3(a) and to”; and
 
 | | |
 |---|---|
 | Removed | `the provisions of` |
-| Inserted | `paragraphs (6) and (7) of section 3(a) and to` |
+| Inserted | `paragraphs (7) and (8) of section 3(a) and to` |
 
 ### 42 U.S.C. § 1437f
 
@@ -89,9 +116,12 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `26 U.S.C. § 42` | replace | by striking subparagraph (A) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | replace | by striking subparagraph (D) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437a` | insert | in paragraph (1) by inserting “Low-income occupancy requirement and rental payments.—” after “(1)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1437a` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | redesignate | by redesignating subparagraph (E) as subparagraph (G); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | insert | by inserting after subparagraph (D) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437a` | insert | in paragraph (1) by inserting “Low-income occupancy requirement and rental payments.—” after “(1)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437a` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437a` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437a` | amend | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437a` | strike | by striking subsections (d) and (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437a` | redesignate | by redesignating subsection (f) as subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 530` | replace | by striking paragraph (4) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -100,7 +130,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1437f` | strike | in subparagraph (B), by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | strike | Paragraph (3) of section 8(c) of the United States Housing Act of 1937 (42 U.S.C. 1437f(c)(3)) is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437n` | insert | Section 16 of the United States Housing Act of 1937 (42 U.S.C. 1437n) is amended by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | replace | in section 3(a)(1) (42 U.S.C. 1437a(a)(1)), by striking the first sentence and inserting the following: “Dwelling units assisted under this Act may be rented, and assistance under this Act may be provided, whether initially or at time of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437a` | replace | in section 3(a)(1) (42 U.S.C. 1437a(a)(1)), by striking the first sentence and inserting the following: “Dwelling units assisted under this Act may be rented, and assistance under this Act may be provided, whether initially or at time of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | replace | in section 8(o)(4) (42 U.S.C. 1437f(o)(4)), by striking the matter preceding subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 9902` | insert | by inserting after “do not exceed” the following: “the higher of (A) the poverty line (as such term is defined in section 673 of the Omnibus Budget Reconciliation Act of 1981 (42 U.S.C. 9902), including any revision required by such sect… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437n` | insert | by inserting before the period at the end the following: “; and except that clause (A) of this sentence shall not apply in the case of families residing in Puerto Rico or any other territory or possession of the United States”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -123,19 +153,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 11302` | replace | by striking subparagraph (B) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | replace | by striking subparagraph (D) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | insert | by inserting after the period at the end of the first sentence the following: “Such contract may, at the election of the public housing agency and the owner of the structure, specify that such contract shall be extended for renewal terms… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437f` | add-at-end | by adding at the end the following: “A public housing agency may agree to enter into such a contract at the time it enters into the initial agreement for a housing assistance payment contract or at any time thereafter that is before the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | amend | by adding at the end the following: “A public housing agency may agree to enter into such a contract at the time it enters into the initial agreement for a housing assistance payment contract or at any time thereafter that is before the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | insert | in subparagraph (H), by inserting before the period at the end of the first sentence the following: “, except that in the case of a contract unit that has been allocated low-income housing tax credits and for which the rent limitation pu… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | insert | in subparagraph (I)(i), by inserting before the semicolon the following: “, except that the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | replace | by striking the fifth and sixth sentences and inserting the following: “A public housing agency may establish and utilize procedures for maintaining site-based waiting lists under which applicants may apply directly at, or otherwise desi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | insert | by inserting after the third sentence the following new sentence: “Any family who resides in a dwelling unit proposed to be assisted under this paragraph, or in a unit to be replaced by a proposed unit to be assisted under this paragraph… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3545` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3545` | amend | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | replace | Section 8(o)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(1)) is amended by striking subparagraph (E) and inserting the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437c-1` | insert | Section 5A(d)(4) of the United States Housing Act of 1937 (42 U.S.C. 1437c–1(d)(4)) is amended by inserting before the period at the end the following: “, including the report with respect to the agency furnished by the Secretary pursuan… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | insert | Subparagraph (D) of section 8(o)(1) is amended by inserting before the period at the end the following: “, except that a public housing agency may establish a payment standard of not more than 120 percent of the fair market rent where ne… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | insert | by inserting “(A)” after the paragraph designation; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1437f` | strike | by striking the seventh, eighth, and ninth sentences; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5302` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5302` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | insert | Subparagraph (B) of section 8(o)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(1)(B)) is amended by inserting before the period at the end the following: “, except that no public housing agency shall be required as a re… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Subparagraph (B) of section 8(o)(6) of the United States Housing Act of 1937 (1437f(o)(6)(B)) is amended by inserting after the period at the end of the second sentence the following: “A public housing agency’s elective screening shall b… | the bill names no machine-readable US Code section |
-| — | insert | Subparagraph (B) of section 8(t)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)(1)(B)) is amended by inserting after “eligibility event for the project,” the following: “regardless of unit and family size standards norma… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1437f` | insert | Treatment of unit and family size.—Subparagraph (B) of section 8(t)(1) of the United States Housing Act of 1937 (42 U.S.C. 1437f(t)(1)(B)) is amended by inserting after “eligibility event for the project,” the following: “regardless of u… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437` | amend | Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
