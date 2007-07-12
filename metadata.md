@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 534
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 534
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 1851) to reform the housing choice
 - 2007-07-11 — Placed on the House Calendar, Calendar No. 84.
 - 2007-07-11 — The House Committee on Rules reported an original measure, H. Rept. 110-227, by Ms. Castor.
 - 2007-07-11 — The House Committee on Rules reported an original measure, H. Rept. 110-227, by Ms. Castor.
+- 2007-07-12 — Considered as privileged matter. (consideration: CR H7719-7726)
+- 2007-07-12 — DEBATE - The House proceeded with one hour of debate on H. Res. 534.
+- 2007-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-12 — On agreeing to the resolution Agreed to by voice vote. (text: CR H7719-7720)
+- 2007-07-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H7719-7720)
+- 2007-07-12 — The previous question was ordered without objection. (consideration: CR H7726)
