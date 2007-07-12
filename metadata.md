@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 533
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 533
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 2956) to require the Secretary of 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2007-07-12 — [House 110-1-620](votes/house-110-1-0620.md) — On Ordering the Previous Question — **Passed** (225–197)
+- 2007-07-12 — [House 110-1-621](votes/house-110-1-0621.md) — On Agreeing to the Resolution — **Passed** (221–196)
+
 ## Actions
 
 - 2007-07-11 — All points of order against the bill and against its consideration are waived except thos arising under clause 9 or 10 or rule XXI.
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 2956) to require the Secretary of 
 - 2007-07-11 — Placed on the House Calendar, Calendar No. 83.
 - 2007-07-11 — The House Committee on Rules reported an original measure, H. Rept. 110-226, by Ms. Slaughter.
 - 2007-07-11 — The House Committee on Rules reported an original measure, H. Rept. 110-226, by Ms. Slaughter.
+- 2007-07-12 — Considered as privileged matter. (consideration: CR H7663-7674)
+- 2007-07-12 — DEBATE - The House proceeded with one hour of debate on H. Res. 533.
+- 2007-07-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-12 — On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 196 (Roll no. 621). (text: CR H7663)
+- 2007-07-12 — On ordering the previous question Agreed to by recorded vote: 225 - 197 (Roll no. 620). (consideration: CR H7673)
+- 2007-07-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 196 (Roll no. 621).(text: CR H7663)
