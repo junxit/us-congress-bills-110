@@ -1,7 +1,7 @@
 ---
 measure: H.R. 957
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `50 U.S.C. § 1701` | insert | by inserting after “trust,” the following: “financial institution, insurer, underwriter, guarantor, any other business organization, including any foreign subsidiaries of the foregoing,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | insert | by inserting before the semicolon at the end the following: “, such as an export credit agency”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | insert | in paragraph (14), by inserting after “petroleum” the second place it appears the following: “, petroleum by-products, liquified natural gas,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | by inserting after “trust,” the following: “financial institution, insurer, underwriter, guarantor, any other business organization, including any foreign subsidiaries of the foregoing,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | by inserting before the semicolon at the end the following: “, such as an export credit agency”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | in paragraph (14), by inserting after “petroleum” the second place it appears the following: “, petroleum by-products, liquified natural gas,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
