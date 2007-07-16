@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 487
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 487
@@ -16,7 +16,7 @@ Recognizing the contribution of modeling and simulation technology to the securi
 
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Drake, Thelma D. [R-VA-2] (D000605)
 - Rep. Feeney, Tom [R-FL-24] (F000447)
@@ -26,6 +26,8 @@ Recognizing the contribution of modeling and simulation technology to the securi
 - Rep. Davis, Tom [R-VA-11] (D000136)
 - Rep. Wilson, Heather [R-NM-1] (W000789)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
 ## Committees (1)
 
@@ -36,3 +38,11 @@ Recognizing the contribution of modeling and simulation technology to the securi
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Referred to the House Committee on Science and Technology.
+- 2007-06-22 — Committee Consideration and Mark-up Session Held.
+- 2007-06-22 — Ordered to be Reported by Voice Vote.
+- 2007-07-16 — Considered under suspension of the rules. (consideration: CR H7807-7811)
+- 2007-07-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 487.
+- 2007-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-16 — Mr. Gordon moved to suspend the rules and agree to the resolution.
+- 2007-07-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7807-7808)
+- 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7807-7808)
