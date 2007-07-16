@@ -43,5 +43,7 @@ This Act may be cited as the “FDIC Enforcement Enhancement Act”.
   >   - **(C)** *Civil money penalties* Violations of section 18(a)(4) shall be subject to civil money penalties as set forth in subsection (i) in an amount not to exceed $1,000,000 for each day during which the violation occurs or continues.
 
 - **(c)** *Technical and Conforming Amendments*
-  - **(1)** Section 18(a)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1828(a)) is amended by striking “of this subsection” and inserting “of paragraphs (1) and (2)”.
+  - **(1)** Section 18(a)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1828(a)) is amended—
+    - **(A)** by striking “this subsection” the first place such term appears and inserting “paragraph (1)”; and
+    - **(B)** by striking “this subsection” the second place such term appears and inserting “paragraph (2)”.
   - **(2)** The heading for subsection (a) of section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828(a)) is amended by striking “Insurance Logo.—” and inserting “Representations of Deposit Insurance.—”.
