@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2956
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2956
@@ -62,10 +62,11 @@ Responsible Redeployment from Iraq Act
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Armed Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -90,3 +91,4 @@ Responsible Redeployment from Iraq Act
 - 2007-07-12 — Rule H. Res. 533 passed House.
 - 2007-07-12 — Rule provides for consideration of H.R. 2956 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against the bill and against its consideration are waived except those arising under clause 9 or 10 or rule XXI.
 - 2007-07-12 — The previous question was ordered without objection. (consideration: CR H7719)
+- 2007-07-16 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
