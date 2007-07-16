@@ -130,3 +130,21 @@ This Act may be cited as the “Appalachian Regional Development Act Amendments 
 ## § 6. Termination
 
 Section 14704 of title 40, United States Code, is amended by striking “2006” and inserting “2011”.
+
+## § 7. Additions to appalachian region
+
+- **(a)** *Kentucky* Section 14102(a)(1)(C) of title 40, United States Code, is amended—
+  - **(1)** by inserting “Metcalfe,” after “Menifee,”;
+  - **(2)** by inserting “Nicholas,” after “Morgan,”; and
+  - **(3)** by inserting “Robertson,” after “Pulaski,”.
+- **(b)** *Ohio* Section 14102(a)(1)(H) of such title is amended—
+  - **(1)** by inserting “Ashtabula,” after “Adams,”;
+  - **(2)** by inserting “Fayette,” after “Coshocton,”;
+  - **(3)** by inserting “Mahoning,” after “Lawrence,”; and
+  - **(4)** by inserting “Trumbull,” after “Scioto,”.
+- **(c)** *Tennessee* Section 14102(a)(1)(K) of such title is amended—
+  - **(1)** by inserting “Giles,” after “Franklin,”; and
+  - **(2)** by inserting “Lawrence, Lewis, Lincoln,” after “Knox,”.
+- **(d)** *Virginia* Section 14102(a)(1)(L) of such title is amended—
+  - **(1)** by inserting “Henry,” after “Grayson,”; and
+  - **(2)** by inserting “Patrick,” after “Montgomery,”.

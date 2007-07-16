@@ -1,7 +1,7 @@
 ---
 measure: H.R. 799
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 3 executed, 21 stated and not applied.
+35 amendatory instructions. 3 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -63,13 +63,13 @@ complete account of the bill's effect, which it is not.
 | `40 U.S.C. § 14321` | replace | by striking paragraph (1)(A)(i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 14321` | replace | by striking paragraph (2)(A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 14502` | replace | by striking subsection (d)(2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 14502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 14502` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 14321` | replace | by striking subsection (d)(1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 14321` | replace | by striking subsection (e)(1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 14504` | replace | Section 14504 of title 40, United States Code, is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 14505` | replace | Section 14505 of title 40, United States Code, is amended by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 14506` | replace | Section 14506 of title 40, United States Code, is amended by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 14507` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 14507` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter I of chapter 145 of subtitle IV of title 40, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for chapter 145 of title 40, United States Code, is amended by inserting after the item relating to section 14507 the following: | the bill names no machine-readable US Code section |
 | — | insert | in the section heading by inserting “, at-risk,” after “Distressed”; and | the bill names no machine-readable US Code section |
@@ -81,3 +81,14 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 14703(b) of such title is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 14703(c) of such title is amended by striking “subsection (a)” and by inserting “subsections (a) and (b)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 14703 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Metcalfe,” after “Menifee,”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Nicholas,” after “Morgan,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Robertson,” after “Pulaski,”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Ashtabula,” after “Adams,”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Fayette,” after “Coshocton,”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Mahoning,” after “Lawrence,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Trumbull,” after “Scioto,”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Giles,” after “Franklin,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Lawrence, Lewis, Lincoln,” after “Knox,”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Henry,” after “Grayson,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “Patrick,” after “Montgomery,”. | the bill names no machine-readable US Code section |
