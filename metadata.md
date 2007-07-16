@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2608
@@ -34,9 +34,10 @@ SSI Extension for Elderly and Disabled Refugees Act
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ SSI Extension for Elderly and Disabled Refugees Act
 - 2007-07-11 — Mr. McDermott moved to suspend the rules and pass the bill.
 - 2007-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7559-7560)
 - 2007-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7559-7560)
+- 2007-07-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
