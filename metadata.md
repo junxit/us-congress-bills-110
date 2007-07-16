@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1980
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1980
@@ -45,3 +45,11 @@ Housing Assistance Council Authorization Act of 2007
 - 2007-06-21 — Placed on the Union Calendar, Calendar No. 123.
 - 2007-06-21 — Reported by the Committee on Financial Services. H. Rept. 110-204.
 - 2007-06-21 — Reported by the Committee on Financial Services. H. Rept. 110-204.
+- 2007-07-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-16 — Considered as unfinished business. (consideration: CR H7819)
+- 2007-07-16 — Considered under suspension of the rules. (consideration: CR H7789-7793)
+- 2007-07-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1980.
+- 2007-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-16 — Mr. Hinojosa moved to suspend the rules and pass the bill.
+- 2007-07-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 630). (text: CR H7789)
+- 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 630).(text: CR H7789)
