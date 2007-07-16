@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2669
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2669
@@ -98,3 +98,4 @@ College Cost Reduction and Access Act
 - 2007-07-11 — Rules amendment (A001) modified by unanimous consent. Modification made in order pursuant to the provisions of H. Res. 531, printed in Part A of House Report 110-224 and considered as adopted. (text as modified: CR H7517-7530)
 - 2007-07-11 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2669.
 - 2007-07-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7555)
+- 2007-07-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.

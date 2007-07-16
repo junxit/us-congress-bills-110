@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2669
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -255,7 +255,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087pp` | amend | Clause (iv) of section 476(b)(1)(A) (20 U.S.C. 1087pp(b)(1)(A)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087rr` | replace | by striking “Revised tables.—For each” and inserting | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087rr` | replace | by striking “For the 2007–2008” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1087rr` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087rr` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087rr` | replace | in paragraph (2), by striking “shall be developed” and all that follows through the period at the end and inserting | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087ss` | strike | in subclause (II), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1087ss` | redesignate | by redesignating subclause (III) as subclause (IV); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -280,7 +280,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1087vv` | insert | Section 480(j)(2) (20 U.S.C. 1087vv(j)(2)) is amended by inserting “, or a distribution that is not includable in gross income under section 529 of such Code, under another prepaid tuition plan offered by a State, or under a Coverdell ed… | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1077a` | add-at-end | Section 427A(l) (20 U.S.C. 1077a(l)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087e` | add-at-end | Section 455(b)(7) (20 U.S.C. 1087e(b)(7)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087-1` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1087-1` | amend | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1071` | strike | Part B of title IV (20 U.S.C. 1071 et seq.) is amended by striking section 428I (20 U.S.C. 1078–9). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078` | strike | by striking subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1078` | redesignate | by redesignating subparagraphs (E) through (H) as subparagraphs (D) through (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
