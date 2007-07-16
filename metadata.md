@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1982
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1982
@@ -29,6 +29,10 @@ Rural Housing and Economic Development Improvement Act of 2007
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2007-07-16 — [House 110-1-631](votes/house-110-1-0631.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (350–49)
+
 ## Actions
 
 - 2007-04-20 — Introduced in House
@@ -41,3 +45,11 @@ Rural Housing and Economic Development Improvement Act of 2007
 - 2007-06-21 — Placed on the Union Calendar, Calendar No. 124.
 - 2007-06-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-205.
 - 2007-06-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-205.
+- 2007-07-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-16 — Considered as unfinished business. (consideration: CR H7819-7820)
+- 2007-07-16 — Considered under suspension of the rules. (consideration: CR H7793-7795)
+- 2007-07-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1982.
+- 2007-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-16 — Mr. Hinojosa moved to suspend the rules and pass the bill, as amended.
+- 2007-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 631). (text: CR H7793)
+- 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 631).(text: CR H7793)
