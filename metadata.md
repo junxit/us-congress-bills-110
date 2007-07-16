@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2669
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2669
@@ -16,7 +16,7 @@ College Cost Reduction and Access Act
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (31)
+## Cosponsors (72)
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
@@ -49,6 +49,47 @@ College Cost Reduction and Access Act
 - Rep. Price, David E. [D-NC-4] (P000523)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. DeMint, Jim [R-SC] (D000595)
 
 ## Committees (1)
 
@@ -93,3 +134,212 @@ College Cost Reduction and Access Act
 - 2007-07-11 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2669.
 - 2007-07-11 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7555)
 - 2007-07-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.
+- 2007-07-18 — Amendment SA 2327 proposed by Senator Kennedy. (consideration: CR S9441-9454) In the nature of a substitute.
+- 2007-07-18 — Amendment SA 2329 proposed by Senator Murkowski to Amendment SA 2327. (consideration: CR S9454-9460; text: CR S9454) To increase the amount appropriated for the college access partnership grant program.
+- 2007-07-18 — Amendment SA 2330 proposed by Senator Kennedy to Amendment SA 2327. (consideration: CR S9460-9463; text: CR S9461) To amend the amounts appropriated for Promise Grants for fiscal years 2014 through 2017.
+- 2007-07-18 — Measure laid before Senate by motion. (consideration: CR S9437-9463)
+- 2007-07-18 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay. 49 - 48. Record Vote Number: 253. (consideration: CR S9437)
+- 2007-07-18 — Senate amendment proposed (on the floor): Amendment SA 2327 proposed by Senator Kennedy.(consideration: CR S9441-9454)
+- 2007-07-18 — Senate amendment proposed (on the floor): Amendment SA 2329 proposed by Senator Murkowski to Amendment SA 2327.(consideration: CR S9454-9460; text: CR S9454)
+- 2007-07-18 — Senate amendment proposed (on the floor): Amendment SA 2330 proposed by Senator Kennedy to Amendment SA 2327.(consideration: CR S9460-9463; text: CR S9461)
+- 2007-07-18 — Senate amendment submitted
+- 2007-07-18 — Senate amendment submitted
+- 2007-07-18 — Senate amendment submitted
+- 2007-07-18 — Senate amendment submitted
+- 2007-07-19 — Amendment SA 2329 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 254.
+- 2007-07-19 — Amendment SA 2330 agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 255.
+- 2007-07-19 — Amendment SA 2333 not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number: 257.
+- 2007-07-19 — Amendment SA 2333 proposed by Senator Sessions to Amendment SA 2327. (consideration: CR S9556-9561, S9576-9577; text: CR S9556) To strike the provisions relating to loan forgiveness for public service employees.
+- 2007-07-19 — Amendment SA 2334 proposed by Senator Coleman to Amendment SA 2327. (consideration: CR S9577; text: CR S9577) To prevent the Federal Communications Commission from repromulgating the fairness doctrine.
+- 2007-07-19 — Amendment SA 2334 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2337 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 256.
+- 2007-07-19 — Amendment SA 2337 proposed by Senator Nelson NE to Amendment SA 2327. (consideration: CR S9541-9544, S9545-9546) To amend the special allowance payments.
+- 2007-07-19 — Amendment SA 2339 proposed by Senator Cornyn to Amendment SA 2327. (consideration: CR S9588; text: CR S9588) To provide interim relief for shortages in employment-based visas for aliens with extraordinary ability and advanced degrees and for nurses.
+- 2007-07-19 — Amendment SA 2339 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2340 proposed by Senator Collins to Amendment SA 2327. (consideration: CR S9580-9581; text: CR S9580-9581) To provide limited immunity for reports of suspicious behavior and response.
+- 2007-07-19 — Amendment SA 2340 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2341 proposed by Senator Sununu to Amendment SA 2327. (consideration: CR S9586, S9587; text: CR S9586) To permanently extend certain education-related tax incentives.
+- 2007-07-19 — Amendment SA 2341 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2342 proposed by Senator Sessions to Amendment SA 2327. (consideration: CR S9556-9561; text: CR S9556) To amend the Internal Revenue Code of 1986 to allow personal exemptions under the individual alternative minimum tax, and for other purposes.
+- 2007-07-19 — Amendment SA 2350 proposed by Senator Dole to Amendment SA 2327. (consideration: CR S9590-9591; text: CR S9590) To amend the Help America Vote Act of 2002 to require individuals voting in person to present photo identification.
+- 2007-07-19 — Amendment SA 2350 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2351 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 259.
+- 2007-07-19 — Amendment SA 2351 proposed by Senator McConnell to Amendment SA 2327. (consideration: CR S9577-9579; text: CR S9577-9578) To express the sense of the Senate on the detainees of Guantanamo Bay, Cuba.
+- 2007-07-19 — Amendment SA 2352 proposed by Senator DeMint to Amendment SA 2327. (consideration: CR S9579-9580; text: CR S9579) To amend the National Labor Relations Act to ensure the right of employees to a secret-ballot election conducted by the National Labor Relations Board.
+- 2007-07-19 — Amendment SA 2352 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2353 proposed by Senator Kyl to Amendment SA 2327. (consideration: CR S9591; text: CR S9591) To amend the Internal Revenue Code of 1986 to repeal the individual alternative minimum tax.
+- 2007-07-19 — Amendment SA 2355 proposed by Senator Ensign to Amendment SA 2327. (consideration: CR S9583-9585; text: CR S9583-9584) To reduce document fraud, prevent identity theft, and preserve the integrity of the Social Security system, by ensuring that individuals are not able to receive Social Security benefits as a result of unlawful activity.
+- 2007-07-19 — Amendment SA 2355 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2356 proposed by Senator Salazar to Amendment SA 2327. (consideration: CR S9581-9582; text: CR S9581-9582) Relative to I. Lewis "Scooter" Libby.
+- 2007-07-19 — Amendment SA 2357 proposed by Senator McConnell to Amendment SA 2327. (consideration: CR S9582-9583; text: CR S9582) Relative to former President William Jefferson Clinton.
+- 2007-07-19 — Amendment SA 2358 proposed by Senator Stabenow to Amendment SA 2355. (consideration: CR S9584-9585; text: CR S9584) Relative to illegal aliens qualifying for Social Security benefits.
+- 2007-07-19 — Amendment SA 2358 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2359 agreed to in Senate by Voice Vote.
+- 2007-07-19 — Amendment SA 2359 proposed by Senator Coleman to Amendment SA 2327. (consideration: CR S9585-9586; text: CR S9586) To protect innocent children.
+- 2007-07-19 — Amendment SA 2360 agreed to in Senate by Voice Vote.
+- 2007-07-19 — Amendment SA 2360 proposed by Senator Graham to Amendment SA 2327. (consideration: CR S9585; text: CR S9585) To discourage drug use among college students.
+- 2007-07-19 — Amendment SA 2361 proposed by Senator Schumer to Amendment SA 2341. (consideration: CR S9586-9587; text: CR S9586) A sense of the Senate relative to tax policy.
+- 2007-07-19 — Amendment SA 2361 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2362 proposed by Senator DeMint to Amendment SA 2327. (consideration: CR S9588-9590; text: CR S9588) To repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the expansion of the adoption credit and adoption assistance programs.
+- 2007-07-19 — Amendment SA 2362 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2363 proposed by Senator Landrieu to Amendment SA 2362. (consideration: CR S9589-9590; text: CR S9589) A sense of the Senate relative to the adoption tax credit
+- 2007-07-19 — Amendment SA 2363 ruled out of order by the chair.
+- 2007-07-19 — Amendment SA 2364 proposed by Senator Kerry to Amendment SA 2353. (consideration: CR S9591-9592; text: CR S9591) A sense of the Senate relative to the Alternative Minimum Tax.
+- 2007-07-19 — Considered by Senate. (consideration: CR S9534)
+- 2007-07-19 — Considered by Senate. (consideration: CR S9534, S9544-9545)
+- 2007-07-19 — Considered by Senate. (consideration: CR S9534, S9545)
+- 2007-07-19 — Considered by Senate. (consideration: CR S9534-9574, S9574-9597)
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2334 rejected in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 258.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2339 rejected in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 266.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2340 rejected in Senate by Yea-Nay Vote. 57 - 39. Record Vote Number: 261.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2341 rejected in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 265.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2350 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 269.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2352 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 260.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2355 rejected in Senate by Yea-Nay Vote. 57 - 40. Record Vote Number: 263.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2358 rejected in Senate by Yea-Nay Vote. 53 - 44. Record Vote Number: 262.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2361 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 264.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2362 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 268.
+- 2007-07-19 — Motion to waive the Budget Act with respect to amendment SA 2363 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 267.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2334.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2339.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2340.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2341.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2350.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2352.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2355.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2358.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2361.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2362.
+- 2007-07-19 — Point of order raised in Senate with respect to amendment SA 2363.
+- 2007-07-19 — Proposed amendment SA 2342 withdrawn in Senate.
+- 2007-07-19 — Proposed amendment SA 2356 withdrawn in Senate.
+- 2007-07-19 — Proposed amendment SA 2357 withdrawn in Senate.
+- 2007-07-19 — Roll call votes on amendments in Senate: Amendment SA 2329 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 254.
+- 2007-07-19 — Roll call votes on amendments in Senate: Amendment SA 2330 agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 255.
+- 2007-07-19 — Roll call votes on amendments in Senate: Amendment SA 2333 not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number: 257.
+- 2007-07-19 — Roll call votes on amendments in Senate: Amendment SA 2337 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 256.
+- 2007-07-19 — Roll call votes on amendments in Senate: Amendment SA 2351 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 259.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2334 rejected in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 258.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2339 rejected in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 266.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2340 rejected in Senate by Yea-Nay Vote. 57 - 39. Record Vote Number: 261.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2341 rejected in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 265.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2350 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 269.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2352 rejected in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 260.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2355 rejected in Senate by Yea-Nay Vote. 57 - 40. Record Vote Number: 263.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2358 rejected in Senate by Yea-Nay Vote. 53 - 44. Record Vote Number: 262.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2361 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 264.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2362 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 268.
+- 2007-07-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2363 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 267.
+- 2007-07-19 — Senate amendment agreed to: Amendment SA 2329 agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 254.
+- 2007-07-19 — Senate amendment agreed to: Amendment SA 2330 agreed to in Senate by Yea-Nay Vote. 52 - 45. Record Vote Number: 255.
+- 2007-07-19 — Senate amendment agreed to: Amendment SA 2351 agreed to in Senate by Yea-Nay Vote. 94 - 3. Record Vote Number: 259.
+- 2007-07-19 — Senate amendment agreed to: Amendment SA 2359 agreed to in Senate by Voice Vote.
+- 2007-07-19 — Senate amendment agreed to: Amendment SA 2360 agreed to in Senate by Voice Vote.
+- 2007-07-19 — Senate amendment not agreed to: Amendment SA 2333 not agreed to in Senate by Yea-Nay Vote. 42 - 55. Record Vote Number: 257.
+- 2007-07-19 — Senate amendment not agreed to: Amendment SA 2337 not agreed to in Senate by Yea-Nay Vote. 35 - 62. Record Vote Number: 256.
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2333 proposed by Senator Sessions to Amendment SA 2327.(consideration: CR S9556-9561, S9576-9577; text: CR S9556)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2334 proposed by Senator Coleman to Amendment SA 2327.(consideration: CR S9577; text: CR S9577)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2337 proposed by Senator Nelson NE to Amendment SA 2327.(consideration: CR S9541-9544, S9545-9546)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2339 proposed by Senator Cornyn to Amendment SA 2327.(consideration: CR S9588; text: CR S9588)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2340 proposed by Senator Collins to Amendment SA 2327.(consideration: CR S9580-9581; text: CR S9580-9581)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2341 proposed by Senator Sununu to Amendment SA 2327.(consideration: CR S9586, S9587; text: CR S9586)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2342 proposed by Senator Sessions to Amendment SA 2327.(consideration: CR S9556-9561; text: CR S9556)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2350 proposed by Senator Dole to Amendment SA 2327.(consideration: CR S9590-9591; text: CR S9590)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2351 proposed by Senator McConnell to Amendment SA 2327.(consideration: CR S9577-9579; text: CR S9577-9578)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2352 proposed by Senator DeMint to Amendment SA 2327.(consideration: CR S9579-9580; text: CR S9579)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2353 proposed by Senator Kyl to Amendment SA 2327.(consideration: CR S9591; text: CR S9591)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2355 proposed by Senator Ensign to Amendment SA 2327.(consideration: CR S9583-9585; text: CR S9583-9584)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2356 proposed by Senator Salazar to Amendment SA 2327.(consideration: CR S9581-9582; text: CR S9581-9582)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2357 proposed by Senator McConnell to Amendment SA 2327.(consideration: CR S9582-9583; text: CR S9582)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2358 proposed by Senator Stabenow to Amendment SA 2355.(consideration: CR S9584-9585; text: CR S9584)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2359 proposed by Senator Coleman to Amendment SA 2327.(consideration: CR S9585-9586; text: CR S9586)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2360 proposed by Senator Graham to Amendment SA 2327.(consideration: CR S9585; text: CR S9585)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2361 proposed by Senator Schumer to Amendment SA 2341.(consideration: CR S9586-9587; text: CR S9586)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2362 proposed by Senator DeMint to Amendment SA 2327.(consideration: CR S9588-9590; text: CR S9588)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2363 proposed by Senator Landrieu to Amendment SA 2362.(consideration: CR S9589-9590; text: CR S9589)
+- 2007-07-19 — Senate amendment proposed (on the floor): Amendment SA 2364 proposed by Senator Kerry to Amendment SA 2353.(consideration: CR S9591-9592; text: CR S9591)
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-19 — Senate amendment submitted
+- 2007-07-20 — Amendment SA 2327 agreed to in Senate by Voice Vote.
+- 2007-07-20 — Amendment SA 2338 agreed to in Senate by Voice Vote.
+- 2007-07-20 — Amendment SA 2338 proposed by Senator Enzi for Senator Coleman to Amendment SA 2327. (consideration: CR 7/19/2007 S9592; text: CR S9592) To make a technical correction to the definition of independent student in the Higher Education Act of 1965.
+- 2007-07-20 — Amendment SA 2353 ruled out of order by the chair.
+- 2007-07-20 — Amendment SA 2364 ruled out of order by the chair.
+- 2007-07-20 — Message on Senate action sent to the House.
+- 2007-07-20 — Motion to waive the Budget Act with respect to amendment SA 2353 rejected in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 271.
+- 2007-07-20 — Motion to waive the Budget Act with respect to amendment SA 2364 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 270.
+- 2007-07-20 — Passed Senate with an amendment by Yea-Nay Vote. 78 - 18. Record Vote Number: 272. (text: CR S9661-9668)
+- 2007-07-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 78 - 18. Record Vote Number: 272.(text: CR S9661-9668)
+- 2007-07-20 — Point of order raised in Senate with respect to amendment SA 2353.
+- 2007-07-20 — Point of order raised in Senate with respect to amendment SA 2364.
+- 2007-07-20 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2353 rejected in Senate by Yea-Nay Vote. 47 - 49. Record Vote Number: 271.
+- 2007-07-20 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2364 rejected in Senate by Yea-Nay Vote. 48 - 48. Record Vote Number: 270.
+- 2007-07-20 — Senate amendment agreed to: Amendment SA 2327 agreed to in Senate by Voice Vote.
+- 2007-07-20 — Senate amendment agreed to: Amendment SA 2338 agreed to in Senate by Voice Vote.
+- 2007-07-20 — Senate amendment proposed (on the floor): Amendment SA 2338 proposed by Senator Enzi for Senator Coleman to Amendment SA 2327.(consideration: CR 7/19/2007 S9592; text: CR S9592)
+- 2007-07-20 — Senate insists on its amendment, asks for a conference, appoints conferees Kennedy; Dodd; Harkin; Mikulski; Bingaman; Murray; Reed; Clinton; Obama; Sanders; Brown; Enzi; Gregg; Alexander; Burr; Isakson; Murkowski; Hatch; Roberts; Allard; Coburn. (consideration: CR 7/19/2007 S9597)
+- 2007-09-04 — DEBATE - The House proceeded with one hour of debate on the Hoekstra motion to instruct conferees on H.R. 2669. The instructions contained in the motion seek to require the managers on the part of the House to agree to the provisions contained in section 801 of the Senate amendment, relating to the sense of the Senate on the detainees at Guantanamo Bay, Cuba.
+- 2007-09-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-04 — Mr. Hoekstra moved that the House instruct conferees. (consideration: CR H10038-10042, H10045-10046; text: CR H10038)
+- 2007-09-04 — Mr. Miller, George asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference.
+- 2007-09-04 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H10038-10042, H10045-10046)
+- 2007-09-04 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 305 - 83 (Roll no. 849).
+- 2007-09-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hoekstra motion to instruct conferees, the Chair put the question on adoption of the motion and by voice vote announced that the ayes had prevailed. Mr. Hoekstra demanded the Yeas and Nays and the Chair postponed further proceedings on the question of adoption of the motion until later in the legislative day.
+- 2007-09-04 — The Speaker appointed conferees: Miller, George, Andrews, Scott (VA), Hinojosa, Tierney, Wu, Davis (CA), Davis (IL), Bishop (NY), Hirono, Altmire, Yarmuth, Courtney, McKeon, Keller, McMorris Rodgers, Foxx, Kuhl (NY), Walberg, Souder, Ehlers, Biggert, and Price (GA).
+- 2007-09-04 — The previous question was ordered without objection. (consideration: CR H10042)
+- 2007-09-05 — Conferees agreed to file conference report.
+- 2007-09-05 — Conference committee actions: Conferees agreed to file conference report.
+- 2007-09-06 — Conference report H. Rept. 110-317 filed. (text of conference report: CR H10168-10181)
+- 2007-09-06 — Conference report considered in Senate. (consideration: CR S11206, S11236-11237)
+- 2007-09-06 — Conference report filed: Conference report H. Rept. 110-317 filed.(text of conference report: CR H10168-10181)
+- 2007-09-06 — Rules Committee Resolution H. Res. 637 Reported to House. Rule provides for consideration of the conference report to H.R. 2669. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.
+- 2007-09-07 — Cleared for White House.
+- 2007-09-07 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 292 - 97 (Roll no. 864).(consideration: CR S11241-11263)
+- 2007-09-07 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 79 - 12. Record Vote Number: 326.
+- 2007-09-07 — Conference report considered in Senate.
+- 2007-09-07 — DEBATE - The House proceeded with one hour of debate on the Conference Report to accompany H.R. 2669.
+- 2007-09-07 — Message on Senate action sent to the House.
+- 2007-09-07 — Motions to reconsider laid on the table Agreed to without objection.
+- 2007-09-07 — Mr. Miller, George brought up conference report H. Rept. 110-317 for consideration under the provisions of H. Res. 637. (consideration: CR H10259-10270)
+- 2007-09-07 — On agreeing to the conference report Agreed to by the Yeas and Nays: 292 - 97 (Roll no. 864). (consideration: CR S11241-11263)
+- 2007-09-07 — POSTPONED PROCEEDINGS - At the conclusion of the debate on the Conference Report to accompany H.R. 2669, the Chair put the question on adoption of the Conference Report and by voice vote, announced that the the ayes had prevailed. Mr. George Miller (CA) demanded the yeas and nays, and the Chair postponed further proceedings on the question of adoption on the Conference Report until later in the legislative day.
+- 2007-09-07 — Rule H. Res. 637 passed House.
+- 2007-09-07 — Senate agreed to conference report by Yea-Nay Vote. 79 - 12. Record Vote Number: 326.
+- 2007-09-07 — The House proceeded to consider the conference report H.Rept. 110-317 as unfinished business. (consideration: CR H10307-10308)
+- 2007-09-07 — The previous question was ordered pursuant to the rule. (consideration: CR H10270)
+- 2007-09-19 — Presented to President.
+- 2007-09-19 — Presented to President.
+- 2007-09-27 — Became Public Law No: 110-84.
+- 2007-09-27 — Became Public Law No: 110-84.
+- 2007-09-27 — Signed by President.
+- 2007-09-27 — Signed by President.
