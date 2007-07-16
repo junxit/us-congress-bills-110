@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1851
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1851
@@ -25,9 +25,10 @@ Section 8 Voucher Reform Act of 2007
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (5)
 
@@ -121,3 +122,4 @@ Section 8 Voucher Reform Act of 2007
 - 2007-07-12 — The previous question on the motion to recommit with instructions was ordered without objection.
 - 2007-07-12 — The previous question was ordered pursuant to the rule. (consideration: CR H7759)
 - 2007-07-12 — Waters amendment (A001) modified by unanimous consent. (text as modified: CR H7747)
+- 2007-07-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
