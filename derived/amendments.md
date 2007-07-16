@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2547
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 3 executed, 2 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,12 @@ to guess them.
 
 ### 12 U.S.C. § 1828
 
-> by striking “this subsection” the first place such term appears and inserting “paragraph (1)”; and
+> Section 18(a)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1828(a)) is amended by striking “of this subsection” and inserting “of paragraphs (1) and (2)”.
 
 | | |
 |---|---|
-| Removed | `this subsection` |
-| Inserted | `paragraph (1)` |
-
-### 12 U.S.C. § 1828
-
-> by striking “this subsection” the second place such term appears and inserting “paragraph (2)”.
-
-| | |
-|---|---|
-| Removed | `this subsection` |
-| Inserted | `paragraph (2)` |
+| Removed | `of this subsection` |
+| Inserted | `of paragraphs (1) and (2)` |
 
 ### 12 U.S.C. § 1828
 
@@ -60,5 +51,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1818` | add-at-end | Section 18(a) of the Federal Deposit Insurance Act (12 U.S.C. 1828(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1818` | amend | Section 8(c) of the Federal Deposit Insurance Act (12 U.S.C. 1818(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1828` | add-at-end | Section 18(a) of the Federal Deposit Insurance Act (12 U.S.C. 1828(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1818` | add-at-end | Section 8(c) of the Federal Deposit Insurance Act (12 U.S.C. 1818(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
