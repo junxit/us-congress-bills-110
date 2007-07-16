@@ -1,7 +1,7 @@
 ---
 measure: S. 392
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 392
@@ -16,6 +16,13 @@ A bill to ensure payment of United States assessments for United Nations peaceke
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
+## Cosponsors (4)
+
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -25,3 +32,7 @@ A bill to ensure payment of United States assessments for United Nations peaceke
 - 2007-01-25 — Introduced in Senate
 - 2007-01-25 — Read twice and referred to the Committee on Foreign Relations.
 - 2007-01-25 — Sponsor introductory remarks on measure. (CR S1192)
+- 2007-06-27 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2007-07-16 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-130.
+- 2007-07-16 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-130.
+- 2007-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.
