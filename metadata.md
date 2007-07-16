@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2900
 congress: 110
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2900
@@ -78,3 +78,4 @@ Food and Drug Administration Amendments Act of 2007
 - 2007-07-11 — Placed on the Union Calendar, Calendar No. 140.
 - 2007-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 110-225.
 - 2007-07-11 — Reported by the Committee on Energy and Commerce. H. Rept. 110-225.
+- 2007-07-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 270.
