@@ -21,4 +21,4 @@ That Congress—
 
 - **(1)** supports the goals and ideals of “National Purple Heart Recognition Day”;
 - **(2)** encourages all people in the United States to learn about the history of the Purple Heart and to honor its recipients; and
-- **(3)** requests that the President issue a proclamation calling on the people of the United States to conduct appropriate ceremonies, activities, and programs to demonstrate support for members of the Armed Forces who have been awarded the Purple Heart.
+- **(3)** calls upon the people of the United States to conduct appropriate ceremonies, activities, and programs to demonstrate support for members of the Armed Forces who have been awarded the Purple Heart.
