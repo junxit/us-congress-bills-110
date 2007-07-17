@@ -1,7 +1,7 @@
 ---
 measure: S. 966
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 966
@@ -40,3 +40,10 @@ Passport Backlog Reduction Act of 2007
 - 2007-06-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S8755-8756; text of measure as report in Senate: CR S8756; text as passed Senate: CR S8756)
 - 2007-07-10 — Received in the House.
 - 2007-07-10 — Referred to the House Committee on Foreign Affairs.
+- 2007-07-16 — Considered under suspension of the rules. (consideration: CR H7805-7807)
+- 2007-07-16 — DEBATE - The House proceeded with forty minutes of debate on S. 966.
+- 2007-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-16 — Ms. Watson moved to suspend the rules and pass the bill, as amended.
+- 2007-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7805)
+- 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7805)
+- 2007-07-17 — Message on House action received in Senate and at desk: House amendment to Senate bill.
