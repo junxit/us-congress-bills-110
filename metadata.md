@@ -1,7 +1,7 @@
 ---
 measure: H.R. 799
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 799
@@ -71,3 +71,4 @@ Appalachian Regional Development Act Amendments of 2007
 - 2007-07-16 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
 - 2007-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 332 - 70 (Roll no. 632). (text: CR H7814-7815)
 - 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 332 - 70 (Roll no. 632).(text: CR H7814-7815)
+- 2007-07-17 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 273.

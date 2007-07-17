@@ -1,7 +1,7 @@
 ---
 measure: H.R. 799
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 3 executed, 32 stated and not applied.
+35 amendatory instructions. 2 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,15 +41,6 @@ to guess them.
 |---|---|
 | Removed | `paragraph (2)` |
 | Inserted | `paragraphs (2) and (3)` |
-
-### 40 U.S.C. § 14704
-
-> Section 14704 of title 40, United States Code, is amended by striking “2006” and inserting “2011”.
-
-| | |
-|---|---|
-| Removed | `2006` |
-| Inserted | `2011` |
 
 ## Stated, not applied
 
@@ -81,6 +72,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 14703(b) of such title is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 14703(c) of such title is amended by striking “subsection (a)” and by inserting “subsections (a) and (b)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 14703 of such title is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 14704 of title 40, United States Code, is amended by striking “2006” and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Metcalfe,” after “Menifee,”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Nicholas,” after “Morgan,”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “Robertson,” after “Pulaski,”. | the bill names no machine-readable US Code section |
