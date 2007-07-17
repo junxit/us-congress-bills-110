@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 87
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 87
@@ -74,9 +74,10 @@ Supporting the goals and ideals of a world day of remembrance for road crash vic
 - Rep. Meehan, Martin T. [D-MA-5] (M000627)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -91,3 +92,4 @@ Supporting the goals and ideals of a world day of remembrance for road crash vic
 - 2007-07-16 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
 - 2007-07-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7796)
 - 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7796)
+- 2007-07-17 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
