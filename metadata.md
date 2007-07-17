@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1982
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1982
@@ -25,9 +25,10 @@ Rural Housing and Economic Development Improvement Act of 2007
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Rural Housing and Economic Development Improvement Act of 2007
 - 2007-07-16 — Mr. Hinojosa moved to suspend the rules and pass the bill, as amended.
 - 2007-07-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 631). (text: CR H7793)
 - 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 49 (Roll no. 631).(text: CR H7793)
+- 2007-07-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
