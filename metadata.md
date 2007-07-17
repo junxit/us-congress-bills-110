@@ -1,7 +1,7 @@
 ---
 measure: H.R. 980
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 980
@@ -303,6 +303,10 @@ Public Safety Employer-Employee Cooperation Act of 2007
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2007-07-17 — [House 110-1-633](votes/house-110-1-0633.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (314–97)
+
 ## Actions
 
 - 2007-02-12 — Introduced in House
@@ -316,3 +320,11 @@ Public Safety Employer-Employee Cooperation Act of 2007
 - 2007-07-13 — Placed on the Union Calendar, Calendar No. 143.
 - 2007-07-13 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-232.
 - 2007-07-13 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-232.
+- 2007-07-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-17 — Considered as unfinished business. (consideration: CR H7871-7872)
+- 2007-07-17 — Considered under suspension of the rules. (consideration: CR H7859-7866)
+- 2007-07-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 980.
+- 2007-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-17 — Mr. Kildee moved to suspend the rules and pass the bill, as amended.
+- 2007-07-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 314 - 97 (Roll no. 633). (text: CR H7859-7861)
+- 2007-07-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 314 - 97 (Roll no. 633).(text: CR H7859-7861)
