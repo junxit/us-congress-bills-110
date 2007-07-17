@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2547
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2547
@@ -21,9 +21,10 @@ FDIC Enforcement Enhancement Act
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Gillmor, Paul E. [R-OH-5] (G000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ FDIC Enforcement Enhancement Act
 - 2007-07-16 — Placed on the Union Calendar, Calendar No. 145.
 - 2007-07-16 — Reported by the Committee on Financial Services. H. Rept. 110-234.
 - 2007-07-16 — Reported by the Committee on Financial Services. H. Rept. 110-234.
+- 2007-07-17 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
