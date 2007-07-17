@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2570
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2570
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 301 Boa
 - Rep. Salazar, John T. [D-CO-3] (S001158)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To designate the facility of the United States Postal Service located at 301 Boa
 - 2007-07-16 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7797)
 - 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7797)
+- 2007-07-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
