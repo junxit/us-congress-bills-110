@@ -1,0 +1,202 @@
+---
+legis-num: H.R. 3056
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3056
+
+> To amend the Internal Revenue Code of 1986 to repeal the authority of the Internal Revenue Service to use private debt collection companies, to delay implementation of withholding taxes on government contractors, to revise the tax rules on expatriation, and for other purposes.
+
+## § 1. Short title; amendment of 1986 Code; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Tax Collection Responsibility Act of 2007”.
+- **(b)** *Amendment of 1986 Code* Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+- **(c)** *Table of Contents* The table of contents of this Act is as follows:
+
+## § 2. Repeal of authority to enter into private debt collection contracts
+
+- **(a)** *In general* Subchapter A of chapter 64 is amended by striking section 6306.
+- **(b)** *Conforming amendments*
+  - **(1)** Subchapter B of chapter 76 is amended by striking section 7433A.
+  - **(2)** Section 7811 is amended by striking subsection (g).
+  - **(3)** Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e).
+  - **(4)** The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306.
+  - **(5)** The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A.
+- **(c)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act.
+
+## § 3. Delay of application of withholding requirement on certain governmental payments for goods and services
+
+- **(a)** *In general* Subsection (b) of section 511 of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “December 31, 2010” and inserting “December 31, 2011”.
+- **(b)** *Report to Congress* Not later than 6 months after the date of the enactment of this Act, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report with respect to the withholding requirements of section 3402(t) of the Internal Revenue Code of 1986, including a detailed analysis of—
+  - **(1)** the problems, if any, which are anticipated in administering and complying with such requirements,
+  - **(2)** the burdens, if any, that such requirements will place on governments and businesses (taking into account such mechanisms as may be necessary to administer such requirements), and
+  - **(3)** the application of such requirements to small expenditures for services and goods by governments.
+
+## § 4. Clarification of entitlement of Virgin Islands residents to protections of limitations on assessment and collection of tax
+
+- **(a)** *In general* Subsection (c) of section 932 (relating to treatment of Virgin Islands residents) is amended by adding at the end the following new paragraph:
+  > - **(5)** *Treatment of income tax return filed with Virgin Islands* An income tax return filed with the Virgin Islands by an individual claiming to be described in paragraph (1) for the taxable year shall be treated for purposes of subtitle F in the same manner as if such return were an income tax return filed with the United States for such taxable year. The preceding sentence shall not apply where such return is false or fraudulent with the intent to avoid tax or otherwise is a willful attempt in any manner to defeat or evade tax.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after 1986.
+
+## § 5. Revision of tax rules on expatriation
+
+- **(a)** *In general* Subpart A of part II of subchapter N of chapter 1 is amended by inserting after section 877 the following new section:
+  > ## § 877A. Tax responsibilities of expatriation
+  >
+  > - **(a)** *General rules* For purposes of this subtitle—
+  >   - **(1)** *Mark to market* All property of a covered expatriate shall be treated as sold on the day before the expatriation date for its fair market value.
+  >   - **(2)** *Recognition of gain or loss* In the case of any sale under paragraph (1)—
+  >     - **(A)** notwithstanding any other provision of this title, any gain arising from such sale shall be taken into account for the taxable year of the sale, and
+  >     - **(B)** any loss arising from such sale shall be taken into account for the taxable year of the sale to the extent otherwise provided by this title, except that section 1091 shall not apply to any such loss.
+  >   - **(3)** *Exclusion for certain gain*
+  >     - **(A)** *In general* The amount which would (but for this paragraph) be includible in the gross income of any individual by reason of paragraph (1) shall be reduced (but not below zero) by $600,000.
+  >     - **(B)** *Adjustment for inflation*
+  >       - **(i)** *In general* In the case of any taxable year beginning in a calendar year after 2008, the dollar amount in subparagraph (A) shall be increased by an amount equal to—
+  >         - **(I)** such dollar amount, multiplied by
+  >         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
+  >       - **(ii)** *Rounding* If any amount as adjusted under clause (i) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
+  > - **(b)** *Election to defer tax*
+  >   - **(1)** *In general* If the taxpayer elects the application of this subsection with respect to any property treated as sold by reason of subsection (a), the time for payment of the additional tax attributable to such property shall be extended until the due date of the return for the taxable year in which such property is disposed of (or, in the case of property disposed of in a transaction in which gain is not recognized in whole or in part, until such other date as the Secretary may prescribe).
+  >   - **(2)** *Determination of tax with respect to property* For purposes of paragraph (1), the additional tax attributable to any property is an amount which bears the same ratio to the additional tax imposed by this chapter for the taxable year solely by reason of subsection (a) as the gain taken into account under subsection (a) with respect to such property bears to the total gain taken into account under subsection (a) with respect to all property to which subsection (a) applies.
+  >   - **(3)** *Termination of extension* The due date for payment of tax may not be extended under this subsection later than the due date for the return of tax imposed by this chapter for the taxable year which includes the date of death of the expatriate (or, if earlier, the time that the security provided with respect to the property fails to meet the requirements of paragraph (4), unless the taxpayer corrects such failure within the time specified by the Secretary).
+  >   - **(4)** *Security*
+  >     - **(A)** *In general* No election may be made under paragraph (1) with respect to any property unless adequate security is provided with respect to such property.
+  >     - **(B)** *Adequate security* For purposes of subparagraph (A), security with respect to any property shall be treated as adequate security if—
+  >       - **(i)** it is a bond which is furnished to, and accepted by, the Secretary, which is conditioned on the payment of tax (and interest thereon), and which meets the requirements of section 6325, or
+  >       - **(ii)** it is another form of security for such payment (including letters of credit) that meets such requirements as the Secretary may prescribe.
+  >   - **(5)** *Waiver of certain rights* No election may be made under paragraph (1) unless the taxpayer makes an irrevocable waiver of any right under any treaty of the United States which would preclude assessment or collection of any tax imposed by reason of this section.
+  >   - **(6)** *Elections* An election under paragraph (1) shall only apply to property described in the election and, once made, is irrevocable.
+  >   - **(7)** *Interest* For purposes of section 6601, the last date for the payment of tax shall be determined without regard to the election under this subsection.
+  > - **(c)** *Exception for certain property* Subsection (a) shall not apply to—
+  >   - **(1)** any deferred compensation item (as defined in subsection (d)(4)),
+  >   - **(2)** any specified tax deferred account (as defined in subsection (e)(2)), and
+  >   - **(3)** any interest in a nongrantor trust (as defined in subsection (f)(3)).
+  > - **(d)** *Treatment of deferred compensation items*
+  >   - **(1)** *Withholding on eligible deferred compensation items*
+  >     - **(A)** *In general* In the case of any eligible deferred compensation item, the payor shall deduct and withhold from any taxable payment to a covered expatriate with respect to such item a tax equal to 30 percent thereof.
+  >     - **(B)** *Taxable payment* For purposes of subparagraph (A), the term taxable payment means with respect to a covered expatriate any payment to the extent it would be includible in the gross income of the covered expatriate if such expatriate were subject to the tax imposed by this chapter. A deferred compensation item referred to in paragraph (4)(D) shall be taken into account as a payment under the preceding sentence when such item would be so includible.
+  >   - **(2)** *Other deferred compensation items* In the case of any deferred compensation item which is not an eligible deferred compensation item—
+  >     - **(A)** an amount equal to the present value of the expatriate’s accrued benefit shall be treated as having been received by such individual on the day before the expatriation date as a distribution under the plan,
+  >     - **(B)** no early distribution tax shall apply by reason of such treatment, and
+  >     - **(C)** appropriate adjustments shall be made to subsequent distributions from the plan to reflect such treatment.
+  >   - **(3)** *Eligible deferred compensation items* For purposes of this subsection, the term eligible deferred compensation item means any deferred compensation item with respect to which—
+  >     - **(A)** the payor of such item is—
+  >       - **(i)** a United States person, or
+  >       - **(ii)** a person who is not a United States person but who elects to be treated as a United States person for purposes of paragraph (1) and meets such requirements as the Secretary may provide to ensure that the payor will meet the requirements of paragraph (1), and
+  >     - **(B)** the covered expatriate—
+  >       - **(i)** notifies the payor of his status as a covered expatriate, and
+  >       - **(ii)** makes an irrevocable waiver of any right to claim any reduction under any treaty with the United States in withholding on such item.
+  >   - **(4)** *Deferred compensation item* For purposes of this subsection, the term deferred compensation item means—
+  >     - **(A)** any interest in a plan or arrangement described in section 219(g)(5),
+  >     - **(B)** any interest in a foreign pension plan or similar retirement arrangement or program,
+  >     - **(C)** any item of deferred compensation, and
+  >     - **(D)** any property, or right to property, which the individual is entitled to receive in connection with the performance of services to the extent not previously taken into account under section 83.
+  >   - **(5)** *Exception* Paragraphs (1) and (2) shall not apply to any deferred compensation item which is attributable to services performed outside the United States while the covered expatriate was not a citizen or resident of the United States.
+  >   - **(6)** *Special rules* For purposes of this subsection—
+  >     - **(A)** *Application of withholding rules* Rules similar to the rules of subchapter B of chapter 3 shall apply.
+  >     - **(B)** *Coordination with other withholding requirements* Any item subject to withholding under paragraph (1) shall not be subject to withholding under section 1441 or chapter 24.
+  > - **(e)** *Treatment of specified tax deferred accounts*
+  >   - **(1)** *Account treated as distributed* In the case of any interest in a specified tax deferred account held by a covered expatriate on the day before the expatriation date—
+  >     - **(A)** the covered expatriate shall be treated as receiving a distribution of his entire interest in such account on such date,
+  >     - **(B)** no early distribution tax shall apply by reason of such treatment, and
+  >     - **(C)** appropriate adjustments shall be made to subsequent distributions from the account to reflect such treatment.
+  >   - **(2)** *Specified tax deferred account* For purposes of paragraph (1), the term specified tax deferred account means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
+  > - **(f)** *Special rules for nongrantor trusts*
+  >   - **(1)** *In general* In the case of a distribution (directly or indirectly) of any property from a nongrantor trust to a covered expatriate—
+  >     - **(A)** the trustee shall deduct and withhold from such distribution an amount equal to 30 percent of the taxable portion of the distribution, and
+  >     - **(B)** if the fair market value of such property exceeds its adjusted basis in the hands of the trust, gain shall be recognized to the trust as if such property were sold to the expatriate at its fair market value.
+  >   - **(2)** *Taxable portion* For purposes of this subsection, the term taxable portion means, with respect to any distribution, that portion of the distribution which would be includible in the gross income of the covered expatriate if such expatriate were subject to the tax imposed by this chapter.
+  >   - **(3)** *Nongrantor trust* For purposes of this subsection, the term nongrantor trust means the portion of any trust that the individual is not considered the owner of under subpart E of part I of subchapter J. The determination under the preceding sentence shall be made immediately before the expatriation date.
+  >   - **(4)** *Special rules relating to withholding* For purposes of this subsection—
+  >     - **(A)** rules similar to the rules of subsection (d)(6) shall apply, and
+  >     - **(B)** the covered expatriate shall be treated as having waived any right to claim any reduction under any treaty with the United States in withholding on any distribution to which paragraph (1)(A) applies.
+  > - **(g)** *Definitions and special rules relating to expatriation* For purposes of this section—
+  >   - **(1)** *Covered expatriate*
+  >     - **(A)** *In general* The term covered expatriate means an expatriate who meets the requirements of subparagraph (A), (B), or (C) of section 877(a)(2).
+  >     - **(B)** *Exceptions* An individual shall not be treated as meeting the requirements of subparagraph (A) or (B) of section 877(a)(2) if—
+  >       - **(i)** the individual—
+  >         - **(I)** became at birth a citizen of the United States and a citizen of another country and, as of the expatriation date, continues to be a citizen of, and is taxed as a resident of, such other country, and
+  >         - **(II)** has been a resident of the United States (as defined in section 7701(b)(1)(A)(ii)) for not more than 10 taxable years during the 15-taxable year period ending with the taxable year during which the expatriation date occurs, or
+  >       - **(ii)**
+  >         - **(I)** the individual’s relinquishment of United States citizenship occurs before such individual attains age 18½, and
+  >         - **(II)** the individual has been a resident of the United States (as so defined) for not more than 10 taxable years before the date of relinquishment.
+  >   - **(2)** *Expatriate* The term expatriate means—
+  >     - **(A)** any United States citizen who relinquishes his citizenship, and
+  >     - **(B)** any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)).
+  >   - **(3)** *Expatriation date* The term expatriation date means—
+  >     - **(A)** the date an individual relinquishes United States citizenship, or
+  >     - **(B)** in the case of a long-term resident of the United States, the date on which the individual ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)).
+  >   - **(4)** *Relinquishment of citizenship* A citizen shall be treated as relinquishing his United States citizenship on the earliest of—
+  >     - **(A)** the date the individual renounces his United States nationality before a diplomatic or consular officer of the United States pursuant to paragraph (5) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(5)),
+  >     - **(B)** the date the individual furnishes to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
+  >     - **(C)** the date the United States Department of State issues to the individual a certificate of loss of nationality, or
+  >     - **(D)** the date a court of the United States cancels a naturalized citizen’s certificate of naturalization.
+  >   - **(5)** *Long-term resident* The term long-term resident has the meaning given to such term by section 877(e)(2).
+  >   - **(6)** *Early distribution tax* The term early distribution tax means any increase in tax imposed under section 72(t), 220(e)(4), 223(f)(4), 409A(a)(1)(B), 529(c)(6), or 530(d)(4).
+  > - **(h)** *Other rules*
+  >   - **(1)** *Termination of deferrals, etc* In the case of any covered expatriate, notwithstanding any other provision of this title—
+  >     - **(A)** any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect to property disposed of by the taxpayer shall terminate on the day before the expatriation date, and
+  >     - **(B)** any extension of time for payment of tax shall cease to apply on the day before the expatriation date and the unpaid portion of such tax shall be due and payable at the time and in the manner prescribed by the Secretary.
+  >   - **(2)** *Step-up in basis* Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section 7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
+  >   - **(3)** *Coordination with section 684* If the expatriation of any individual would result in the recognition of gain under section 684, this section shall be applied after the application of section 684.
+  > - **(i)** *Regulations* The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+- **(b)** *Tax on gifts and bequests received by United States citizens and residents from expatriates*
+  - **(1)** *In general* Subtitle B (relating to estate and gift taxes) is amended by inserting after chapter 14 the following new chapter:
+  - **(2)** *Clerical amendment* The table of chapters for subtitle B is amended by inserting after the item relating to chapter 13 the following new item:
+- **(c)** *Definition of termination of United States citizenship*
+  - **(1)** *In general* Section 7701(a) is amended by adding at the end the following new paragraph:
+    > - **(50)** *Termination of United States citizenship*
+    >   - **(A)** *In general* An individual shall not cease to be treated as a United States citizen before the date on which the individual’s citizenship is treated as relinquished under section 877A(g)(4).
+    >   - **(B)** *Dual citizens* Under regulations prescribed by the Secretary, subparagraph (A) shall not apply to an individual who became at birth a citizen of the United States and a citizen of another country.
+
+  - **(2)** *Conforming amendments*
+    - **(A)** Paragraph (1) of section 877(e) is amended to read as follows:
+      > - **(1)** *In general* Any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)) shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement.
+
+    - **(B)** Paragraph (6) of section 7701(b) is amended by adding at the end the following flush sentence:
+    - **(C)** Section 7701 is amended by striking subsection (n) and by redesignating subsections (o) and (p) as subsections (n) and (o), respectively.
+- **(d)** *Information returns* Section 6039G is amended—
+  - **(1)** by inserting “or 877A” after “section 877(b)” in subsection (a), and
+  - **(2)** by inserting “or 877A” after “section 877(a)” in subsection (d).
+- **(e)** *Clerical amendment* The table of sections for subpart A of part II of subchapter N of chapter 1 is amended by inserting after the item relating to section 877 the following new item:
+- **(f)** *Effective date*
+  - **(1)** *In general* Except as provided in this subsection, the amendments made by this section shall apply to expatriates (as defined in section 877A(g) of the Internal Revenue Code of 1986, as added by this section) whose expatriation date (as so defined) is on or after the date of the enactment of this Act.
+  - **(2)** *Gifts and bequests* Chapter 15 of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to covered gifts and bequests (as defined in section 2801 of such Code, as so added) received on or after the date of the enactment of this Act, regardless of when the transferor expatriated.
+
+## § 6. Repeal of suspension of certain penalties and interest
+
+- **(a)** *In general* Section 6404 is amended by striking subsection (g) and by redesignating subsection (h) as subsection (g).
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to notices provided by the Secretary of the Treasury, or his delegate, after the date which is 6 months after the date of the enactment of the Small Business and Work Opportunity Tax Act of 2007.
+
+## § 7. Increase in information return penalties
+
+- **(a)** *Failure to file correct information returns*
+  - **(1)** *In general* Subsections (a)(1), (b)(1)(A), and (b)(2)(A) of section 6721 are each amended by striking “$50” and inserting “$100”.
+  - **(2)** *Aggregate annual limitation* Subsections (a)(1), (d)(1)(A), and (e)(3)(A) of section 6721 are each amended by striking “$250,000” and inserting “$600,000”.
+- **(b)** *Reduction where correction within 30 days*
+  - **(1)** *In general* Subparagraph (A) of section 6721(b)(1) is amended by striking “$15” and inserting “$25”.
+  - **(2)** *Aggregate annual limitation* Subsections (b)(1)(B) and (d)(1)(B) of section 6721 are each amended by striking “$75,000” and inserting “$200,000”.
+- **(c)** *Reduction where correction on or before August 1*
+  - **(1)** *In general* Subparagraph (A) of section 6721(b)(2) is amended by striking “$30” and inserting “$60”.
+  - **(2)** *Aggregate annual limitation* Subsections (b)(2)(B) and (d)(1)(C) of section 6721 are each amended by striking “$150,000” and inserting “$400,000”.
+- **(d)** *Aggregate annual limitations for persons with gross receipts of not more than $5,000,000* Paragraph (1) of section 6721(d) is amended—
+  - **(1)** by striking “$100,000” in subparagraph (A) and inserting “$250,000”,
+  - **(2)** by striking “$25,000” in subparagraph (B) and inserting “$75,000”, and
+  - **(3)** by striking “$50,000” in subparagraph (C) and inserting “$150,000”.
+- **(e)** *Penalty in case of intentional disregard* Paragraph (2) of section 6721(e) is amended by striking “$100” and inserting “$250”.
+- **(f)** *Failure to Furnish Correct Payee Statements*
+  - **(1)** *In general* Subsection (a) of section 6722 is amended by striking “$50” and inserting “$100”.
+  - **(2)** *Aggregate annual limitation* Subsections (a) and (c)(2)(A) of section 6722 are each amended by striking “$100,000” and inserting “$600,000”.
+  - **(3)** *Penalty in case of intentional disregard* Paragraph (1) of section 6722(c) is amended by striking “$100” and inserting “$250”.
+- **(g)** *Failure To Comply With Other Information Reporting Requirements* Section 6723 is amended—
+  - **(1)** by striking “$50” and inserting “$100”, and
+  - **(2)** by striking “$100,000” and inserting “$600,000”.
+- **(h)** *Effective Date* The amendments made by this section shall apply with respect to information returns required to be filed on or after January 1, 2008.
+
+## § 8. Time for payment of corporate estimated taxes
+
+Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “114.50 percent” and inserting “114.75 percent”.
