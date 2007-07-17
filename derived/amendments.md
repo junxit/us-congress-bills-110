@@ -1,7 +1,7 @@
 ---
 measure: S. 966
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 22 U.S.C. § 4064
+
+> by striking “The authority” and inserting “(A) The authority”; and
+
+| | |
+|---|---|
+| Removed | `The authority` |
+| Inserted | `(A) The authority` |
 
 ## Stated, not applied
 
@@ -31,8 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subparagraph (A), by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subparagraph— | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (3) as paragraph (4); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (2) the following new paragraph: | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1185` | replace | in subparagraph (A), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1185` | replace | in subparagraph (B), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1185` | add-at-end | by adding at the end the following new subparagraph— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4064` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

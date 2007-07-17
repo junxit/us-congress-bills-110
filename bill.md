@@ -2,12 +2,14 @@
 legis-num: S. 966
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # S. 966
 
-> To enable the Department of State to respond to a critical shortage of passport processing personnel, and for other purposes.
+That the bill from the Senate (S. 966) entitled “An Act to enable the Department of State to respond to a critical shortage of passport processing personnel, and for other purposes”, do pass with the following
+
+*Strike out all after the enacting clause and insert:*
 
 ## § 1. Short title
 
@@ -23,8 +25,10 @@ Section 824(g) of the Foreign Service Act of 1980 (22 U.S.C. 4064(g)) is amended
   - **(C)** by adding at the end the following new subparagraph—
     > - **(C)**
     >   - **(i)** to provide assistance to consular posts with a substantial backlog of visa applications; or
-    >   - **(ii)** to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note).
+    >   - **(ii)** to provide assistance to meet the demand resulting from the passport and travel document requirements set forth in section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note), including assistance related to the investigation of fraud in connection with an application for a passport.
 
-- **(2)** by redesignating paragraph (3) as paragraph (4); and
-- **(3)** by inserting after paragraph (2) the following new paragraph:
-  > - **(3)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to paragraph (1)(C) shall terminate on September 30, 2010.
+- **(2)** in paragraph (2)—
+  - **(A)** by striking “The authority” and inserting “(A) The authority”; and
+  - **(B)** by adding at the end the following new subparagraphs:
+    > - **(B)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(i) of paragraph (1) shall terminate on September 30, 2008.
+    > - **(C)** The authority of the Secretary to waive the application of subsections (a) through (d) for an annuitant pursuant to subparagraph (C)(ii) of paragraph (1) shall terminate on September 30, 2009.
