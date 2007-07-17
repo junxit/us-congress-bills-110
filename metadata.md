@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 27
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 27
@@ -28,9 +28,10 @@ A concurrent resolution supporting the goals and ideals of "National Purple Hear
 - Sen. Isakson, Johnny [R-GA] (I000055)
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -46,3 +47,6 @@ A concurrent resolution supporting the goals and ideals of "National Purple Hear
 - 2007-07-16 — Senate amendment agreed to: Amendment SA 2269 agreed to in Senate by Unanimous Consent.
 - 2007-07-16 — Senate amendment proposed (on the floor): Amendment SA 2269 proposed by Senator Reed for Senator Clinton.(consideration: CR S9291; text: CR S9291)
 - 2007-07-16 — Senate amendment submitted
+- 2007-07-17 — Message on Senate action sent to the House.
+- 2007-07-17 — Received in the House.
+- 2007-07-17 — Referred to the House Committee on Armed Services.
