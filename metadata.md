@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2293
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2293
@@ -23,9 +23,10 @@ To require the Secretary of State to submit to Congress a report on efforts to b
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To require the Secretary of State to submit to Congress a report on efforts to b
 - 2007-07-16 — Mr. Ackerman moved to suspend the rules and pass the bill.
 - 2007-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7798)
 - 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7798)
+- 2007-07-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
