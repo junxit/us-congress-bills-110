@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2693
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2693
@@ -16,7 +16,7 @@ Popcorn Workers Lung Disease Prevention Act
 
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Cosponsors (13)
+## Cosponsors (17)
 
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. Hare, Phil [D-IL-17] (H001040)
@@ -31,6 +31,10 @@ Popcorn Workers Lung Disease Prevention Act
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
 
 ## Committees (1)
 
@@ -42,3 +46,8 @@ Popcorn Workers Lung Disease Prevention Act
 - 2007-06-13 — Introduced in House
 - 2007-06-13 — Referred to the House Committee on Education and Labor.
 - 2007-06-13 — Sponsor introductory remarks on measure. (CR E1279)
+- 2007-06-20 — Committee Consideration and Mark-up Session Held.
+- 2007-06-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-07-18 — Placed on the Union Calendar, Calendar No. 149.
+- 2007-07-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-239.
+- 2007-07-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-239.

@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Occupational Safety and Health Administration to issue a standard regulating worker exposure to diacetyl.
 
-## § 1. Findings
+## § 1. Short title
+
+This Act may be cited as the “Popcorn Workers Lung Disease Prevention Act”.
+
+## § 2. Findings
 
 Congress finds the following:
 
@@ -22,7 +26,7 @@ Congress finds the following:
 - **(7)** Despite NIOSH’s findings of the hazards of diacetyl and recommendations that exposures be controlled, and a formal petition by labor organizations and leading scientists for issuance of an emergency temporary standard, the Occupational Safety and Health Administration (OSHA) has not acted to promulgate an occupational safety and health standard to protect workers from harmful exposure to diacetyl.
 - **(8)** An OSHA standard is urgently needed to protect workers exposed to diacetyl from bronchiolitis obliterans and other debilitating conditions.
 
-## § 2. Issuance of standard on diacetyl
+## § 3. Issuance of standard on diacetyl
 
 - **(a)** *Interim standard*
   - **(1)** *Rulemaking* Notwithstanding any other provision of law, not later than 90 days after the date of enactment of this Act, the Secretary of Labor shall promulgate an interim final standard regulating worker exposure to diacetyl. The interim final standard shall apply—
@@ -37,3 +41,8 @@ Congress finds the following:
     - **(F)** Requirements to provide written safety and health information and training to employees, including hazard communication information, labeling, and training.
   - **(3)** *Effective date of interim standard* The interim final standard shall take effect upon issuance. The interim final standard shall have the legal effect of an occupational safety and health standard, and shall apply until a final standard becomes effective under section 6 of the Occupational Safety and Health Act (29 U.S.C. 655).
 - **(b)** *Final standard* Not later than 2 years after the date of enactment of this Act, the Secretary of Labor shall, pursuant to section 6 of the Occupational Safety and Health Act (29 U.S.C. 655), promulgate a final standard regulating worker exposure to diacetyl. The final standard shall contain, at a minimum, the worker protection provisions in the interim final standard, a short term exposure limit, and a permissible exposure limit that does not exceed the lowest feasible level, and shall apply at a minimum to all facilities where diacetyl is processed or used.
+
+## § 4. Study and recommended exposure limits on other flavorings
+
+- **(a)** *Study* The National Institute of Occupational Safety and Health shall conduct a study on food flavorings used in the production of microwave popcorn. The study shall prioritize the chemicals that are most closely chemically associated with diacetyl to determine possible exposure hazards. NIOSH shall transmit a report of the findings of the study to the Occupational Safety and Health Administration.
+- **(b)** *Recommended exposure limits* Upon completion of the study conducted pursuant to subsection (a), NIOSH shall establish recommended exposure limits for flavorings determined by such study to pose exposure hazards to workers involved in the production of microwave popcorn.
