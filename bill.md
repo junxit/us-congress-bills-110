@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Ledbetter Fair Pay Act of 2007”.
+This Act may be cited as the “Lilly Ledbetter Fair Pay Act of 2007”.
 
 ## § 2. Findings
 
@@ -20,6 +20,7 @@ Congress finds the following:
 - **(1)** The Supreme Court in Ledbetter v. Goodyear Tire & Rubber Co., No. 05–1074 (May 29, 2007), significantly impairs statutory protections against discrimination in compensation that Congress established and that have been bedrock principles of American law for decades. The Ledbetter decision undermines those statutory protections by unduly restricting the time period in which victims of discrimination can challenge and recover for discriminatory compensation decisions or other practices, contrary to the intent of Congress.
 - **(2)** The limitation imposed by the Court on the filing of discriminatory compensation claims ignores the reality of wage discrimination and is at odds with the robust application of the civil rights laws that Congress intended.
 - **(3)** With regard to any charges of discrimination under any law, nothing in this Act is intended to preclude or limit an aggrieved person’s right to introduce evidence of unlawful employment practices that have occurred outside the time for filing a charge of discrimination.
+- **(4)** This Act is not intended to change current law treatment of when pension distributions are considered paid.
 
 ## § 3. Discrimination in compensation because of race, color, religion, sex, or national origin
 
@@ -27,38 +28,34 @@ Section 706(e) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(e)) is amend
 
 > - **(3)**
 >   - **(A)** For purposes of this section, an unlawful employment practice occurs, with respect to discrimination in compensation in violation of this title, when a discriminatory compensation decision or other practice is adopted, when an individual becomes subject to a discriminatory compensation decision or other practice, or when an individual is affected by application of a discriminatory compensation decision or other practice, including each time wages, benefits, or other compensation is paid, resulting in whole or in part from such a decision or other practice.
->   - **(B)** In any action under this title with respect to discrimination in compensation, the Commission, the Attorney General, or an aggrieved person, may for purposes of filing requirements, challenge similar or related instances of unlawful employment practices with respect to discrimination in compensation occurring after an aggrieved person filed a charge without filing another charge with the Commission.
->   - **(C)** In addition to any relief authorized by 1977a of the Revised Statutes (42 U.S.C. 1981a), liability may accrue and an aggrieved person may obtain relief as provided in section (g)(1), including recovery of back pay for up to two years preceding the filing of the charge, where the unlawful employment practices that have occurred during the charge filing period are similar or related to unlawful employment practices with regard to discrimination in compensation that occurred outside the time for filing a charge.
+>   - **(B)** In addition to any relief authorized by section 1977a of the Revised Statutes (42 U.S.C. 1981a), liability may accrue and an aggrieved person may obtain relief as provided in subsection (g)(1), including recovery of back pay for up to two years preceding the filing of the charge, where the unlawful employment practices that have occurred during the charge filing period are similar or related to unlawful employment practices with regard to discrimination in compensation that occurred outside the time for filing a charge.
 
 ## § 4. Discrimination in compensation because of age
 
-Section 7(d) of the Age Discrimination Act of 1967 (29 U.S.C. 626(d)) is amended—
+Section 7(d) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 626(d)) is amended—
 
-- **(1)** in the first sentence—
-  - **(A)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; and
-  - **(B)** by striking “(d)” and inserting “(d)(1)”;
-- **(2)** in the third sentence, by striking “Upon” and inserting the following:
+- **(1)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively;
+- **(2)** by striking “(d)” and inserting “(d)(1)”;
+- **(3)** in the third sentence, by striking “Upon” and inserting the following:
   > - **(2)** Upon
 
-- **(3)** by adding at the end the following:
-  > - **(3)**
-  >   - **(A)** For purposes of this section, an unlawful practice occurs, with respect to discrimination in compensation in violation of this Act, when a discriminatory compensation decision or other practice is adopted, when a person becomes subject to a discriminatory compensation decision or other practice, or when a person is affected by application of a discriminatory compensation decision or other practice, including each time wages, benefits, or other compensation is paid, resulting in whole or in part from such a decision or other practice.
-  >   - **(B)** In any action under this Act with respect to discrimination in compensation, the Secretary or an aggrieved person, may for purposes of filing requirements, challenge similar or related instances of unlawful employment practices with respect to discrimination in compensation occurring after an aggrieved person filed a charge without filing another charge with the Secretary.
+- **(4)** by adding at the end the following:
+  > - **(3)** For purposes of this section, an unlawful practice occurs, with respect to discrimination in compensation in violation of this Act, when a discriminatory compensation decision or other practice is adopted, when a person becomes subject to a discriminatory compensation decision or other practice, or when a person is affected by application of a discriminatory compensation decision or other practice, including each time wages, benefits, or other compensation is paid, resulting in whole or in part from such a decision or other practice.
 
 ## § 5. Application to other laws
 
-- **(a)** *Americans with Disabilities Act of 1990* The amendment made by section 3 shall apply to claims of discrimination in compensation brought under title I and section 503 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq., 12203), pursuant to section 107(a) of such Act (42 U.S.C. 12117(a)), which adopts the powers, remedies, and procedures set forth in section 706 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5).
+- **(a)** *Americans With Disabilities Act of 1990* The amendment made by section 3 shall apply to claims of discrimination in compensation brought under title I and section 503 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq., 12203), pursuant to section 107(a) of such Act (42 U.S.C. 12117(a)), which adopts the powers, remedies, and procedures set forth in section 706 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5).
 - **(b)** *Rehabilitation Act of 1973* The amendments made by section 3 shall apply to claims of discrimination in compensation brought under sections 501 and 504 of the Rehabilitation Act of 1973 (29 U.S.C. 791, 794), pursuant to—
   - **(1)** sections 501(g) and 504(d) of such Act (29 U.S.C. 791(g), 794(d)), respectively, which adopt the standards applied under title I of the Americans with Disabilities Act of 1990 for determining whether a violation has occurred in a complaint alleging employment discrimination; and
   - **(2)** paragraphs (1) and (2) of section 505(a) of such Act (29 U.S.C. 794a(a)) (as amended by subsection (c)).
-- **(c)** *Conforming amendments*
-  - **(1)** *Rehabilitation Act of 1973* Section 505(a) of the Rehabilitation Act of 1973 (29 U.S.C. 794a(a)) is amended—
+- **(c)** *Conforming Amendments*
+  - **(1)** *Rehabilitation act of 1973* Section 505(a) of the Rehabilitation Act of 1973 (29 U.S.C. 794a(a)) is amended—
     - **(A)** in paragraph (1), by inserting after “(42 U.S.C. 2000e–5 (f) through (k))” the following: “(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)”; and
     - **(B)** in paragraph (2), by inserting after “1964” the following: “(42 U.S.C. 2000d et seq.) (and in subsections (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)”.
-  - **(2)** *Civil Rights Act of 1964* Section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16) is amended by adding at the end the following
+  - **(2)** *Civil rights act of 1964* Section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16) is amended by adding at the end the following:
     > - **(f)** Section 706(e)(3) shall apply to complaints of discrimination in compensation under this section.
 
-  - **(3)** *Age Discrimination Act of 1967* Section 15(f) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(f)) is amended by striking “of section” and inserting “of sections 7(d)(3) and”.
+  - **(3)** *Age discrimination act of 1967* Section 15(f) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 633a(f)) is amended by striking “of section” and inserting “of sections 7(d)(3) and”.
 
 ## § 6. Effective date
 

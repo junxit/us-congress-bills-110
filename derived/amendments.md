@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2831
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -52,9 +52,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 2000e-5` | add-at-end | Section 706(e) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–5(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 626` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 626` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 626` | replace | in the third sentence, by striking “Upon” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 626` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 633a` | insert | in paragraph (1), by inserting after “(42 U.S.C. 2000e–5 (f) through (k))” the following: “(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 633a` | insert | in paragraph (2), by inserting after “1964” the following: “(42 U.S.C. 2000d et seq.) (and in subsections (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 633a` | add-at-end | Section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16) is amended by adding at the end the following | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000e-5` | insert | in paragraph (1), by inserting after “(42 U.S.C. 2000e–5 (f) through (k))” the following: “(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000d` | insert | in paragraph (2), by inserting after “1964” the following: “(42 U.S.C. 2000d et seq.) (and in subsections (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000e-16` | add-at-end | Section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
