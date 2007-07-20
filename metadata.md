@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 248
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 248
@@ -24,3 +24,7 @@ A resolution honoring the life and achievements of Dame Lois Browne Evans, Bermu
 
 - 2007-06-21 — Introduced in Senate
 - 2007-06-21 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8242)
+- 2007-07-19 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-07-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-07-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-07-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.
