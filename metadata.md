@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 236
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 236
@@ -16,7 +16,7 @@ A resolution supporting the goals and ideals of the National Anthem Project, whi
 
 - Sen. Bayh, Evan [D-IN] (B001233)
 
-## Cosponsors (14)
+## Cosponsors (19)
 
 - Sen. Craig, Larry E. [R-ID] (C000858)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
@@ -32,6 +32,11 @@ A resolution supporting the goals and ideals of the National Anthem Project, whi
 - Sen. Coleman, Norm [R-MN] (C001057)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Isakson, Johnny [R-GA] (I000055)
 
 ## Committees (1)
 
@@ -41,3 +46,7 @@ A resolution supporting the goals and ideals of the National Anthem Project, whi
 
 - 2007-06-14 — Introduced in Senate
 - 2007-06-14 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7753-7754)
+- 2007-07-19 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-07-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-07-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-07-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 276.
