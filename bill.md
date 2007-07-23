@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes.
 
-## § 1. Short title; table of contents
+## § 1. Short title and table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Farm Bill Extension Act of 2007”.
-- **(b)** *Table of contents* The table of contents of this Act is as follows:
+- **(a)** *Short title* This Act may be cited as the “Farm, Nutrition, and Bioenergy Act of 2007”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
