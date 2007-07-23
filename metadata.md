@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2798
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2798
@@ -39,3 +39,9 @@ Overseas Private Investment Corporation Reauthorization Act of 2008
 - 2007-07-19 — Placed on the Union Calendar, Calendar No. 151.
 - 2007-07-19 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-241.
 - 2007-07-19 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-241.
+- 2007-07-23 — Considered under suspension of the rules. (consideration: CR H8204-8210)
+- 2007-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2798.
+- 2007-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-23 — Mr. Sherman moved to suspend the rules and pass the bill, as amended.
+- 2007-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text as passed in House: CR H8204-8208)
+- 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text as passed in House: CR H8204-8208)
