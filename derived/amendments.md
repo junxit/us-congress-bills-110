@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2844
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-91 amendatory instructions. 46 executed, 45 stated and not applied.
+92 amendatory instructions. 39 executed, 53 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -96,33 +96,6 @@ to guess them.
 | Removed | `1 or more recipient countries` |
 | Inserted | `in 1 or more recipient countries` |
 
-### 7 U.S.C. § 1724
-
-> in paragraph (1), by striking “2002 through 2007” and inserting “2008 through 2012”;
-
-| | |
-|---|---|
-| Removed | `2002 through 2007` |
-| Inserted | `2008 through 2012` |
-
-### 7 U.S.C. § 1724
-
-> in paragraph (2), by striking “2002 through 2007” and inserting “2008 through 2012”; and
-
-| | |
-|---|---|
-| Removed | `2002 through 2007` |
-| Inserted | `2008 through 2012` |
-
-### 7 U.S.C. § 1724
-
-> in paragraph (3), by striking “International Relations” and inserting “Foreign Affairs”.
-
-| | |
-|---|---|
-| Removed | `International Relations` |
-| Inserted | `Foreign Affairs` |
-
 ### 7 U.S.C. § 1725
 
 > Such section is further amended in subsection (h) (as redesignated by subsection (b)(1)) by striking “2007” and inserting “2012”.
@@ -140,15 +113,6 @@ to guess them.
 |---|---|
 | Removed | `2007` |
 | Inserted | `2012` |
-
-### 7 U.S.C. § 1736a
-
-> by striking “Funds” and inserting “(A) In general.—Funds”;
-
-| | |
-|---|---|
-| Removed | `Funds` |
-| Inserted | `(A) In general.—Funds` |
 
 ### 7 U.S.C. § 1736a
 
@@ -212,24 +176,6 @@ to guess them.
 |---|---|
 | Removed | `2007` |
 | Inserted | `2012` |
-
-### 7 U.S.C. § 1737
-
-> Subsection (d) of section 501 of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1737) is amended by striking “2002 through 2007” and inserting “2008 through 2012”.
-
-| | |
-|---|---|
-| Removed | `2002 through 2007` |
-| Inserted | `2008 through 2012` |
-
-### 7 U.S.C. § 1737
-
-> Subsection (e)(1) of such section is amended by striking “2002 through 2007” and inserting “2008 through 2012”.
-
-| | |
-|---|---|
-| Removed | `2002 through 2007` |
-| Inserted | `2008 through 2012` |
 
 ### 7 U.S.C. § 1736f-1
 
@@ -323,7 +269,7 @@ to guess them.
 
 ### 7 U.S.C. § 5622
 
-> Section 202 of such Act (7 U.S.C. 5622) is amended in subsection (i) (as redesignated by subsection (a)(1)(C)) by striking “2007” and inserting “2012”.
+> Section 202 of such Act (7 U.S.C. 5622) is amended in paragraph (1) of subsection (i) (as redesignated by subsection (a)(1)(C)) by striking “2007” and inserting “2012”.
 
 | | |
 |---|---|
@@ -365,15 +311,6 @@ to guess them.
 |---|---|
 | Removed | `2001` |
 | Inserted | `2007` |
-
-### 7 U.S.C. § 5622
-
-> Subsections (a) and (d)(1)(A)(i) of section 1542 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note; Public Law 101–624) is amended by striking “2007” each place it appears and inserting “2012”.
-
-| | |
-|---|---|
-| Removed | `2007` |
-| Inserted | `2012` |
 
 ### 7 U.S.C. § 1736o
 
@@ -453,26 +390,33 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1691` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1721` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1721` | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 1721` | insert | at the end by inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1721` | replace | by striking “Such program” and insert the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 1721` | insert | by inserting at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1721` | replace | by striking “Such program” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1722` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1722` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1722` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (1), by striking “2002 through 2007” and inserting “2008 through 2012”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “2002 through 2007” and inserting “2008 through 2012”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “International Relations” and inserting “Foreign Affairs”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1725` | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1725` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1725` | redesignate | by redesignating subsections (f) and (g) (as redesignated by subsection (a)(1)) as subsections (g) and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1725` | insert | by inserting after subsection (e) (as added by subsection (a)(2)) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1726a` | strike | Subsection (a)(3) of section 207 of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1726a) is amended by striking “and the conditions that must be met for the approval of such proposal”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1726a` | strike | Subsection (c) of such section is amended by striking paragraph (3). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1726a` | amend | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1726a` | add-at-end | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1726a` | add-at-end | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1736a` | strike | by striking “, except that for each such fiscal year not more than $2,000,000 of such funds may be used to store agricultural commodities for pre-positioning in foreign countries”; and | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 1736a` | replace | by striking “Funds” and inserting: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 1736a` | strike | by striking “, except that for each such fiscal year not more than $2,000,000 of such funds may be used to store agricultural commodities for prepositioning in foreign countries”; and | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1736a` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736a` | add-at-end | in subparagraph (B), by adding at the end before the semicolon the following: “, and the amount of funds, tonnage levels, and types of activities for non-emergency food assistance programs under title II of this Act”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736a` | add-at-end | in subparagraph (C), by adding at the end before the semicolon the following: “, and a general description of the projects and activities implemented”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1736a` | amend | by amending subparagraph (D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736f` | amend | Subsection (a) of section 412 of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1736f) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151` | replace | by striking the first sentence and inserting the following: “The Administrator shall, to the maximum extent practicable, coordinate and integrate assistance to a foreign country provided under title III with other United States developme… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736g` | insert | The heading for such section is amended by inserting “and integration” after “coordination”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | Subsection (d) of section 501 of the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1737) is amended by striking “2002 through 2007” and inserting “2008 through 2012”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (e)(1) of such section is amended by striking “2002 through 2007” and inserting “2008 through 2012”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 1736f-1` | insert | Subsection (a) of section 302 of the Bill Emerson Humanitarian Trust Act (7 U.S.C. 1736f–1) is amended by inserting after “metric tons” the following: “, an amount of funds equivalent to 4,000,000 metric tons of commodities, or any combi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736o-1` | replace | by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1736o-1` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -485,10 +429,11 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 5623` | insert | Subsection (a) of section 203 of the Agricultural Trade Act of 1978 (7 U.S.C. 5623) is amended by inserting after “agricultural commodities” the following: “(including commodities that are organically produced (as defined in section 2103… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5651` | replace | Subsection (e) of section 301 of the Agricultural Trade Act of 1978 (7 U.S.C. 5651) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5651` | add-at-end | Title III of the Agricultural Trade Act of 1978 (7 U.S.C. 5651 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 5622` | redesignate | in the first sentence, by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 5622` | replace | by striking “A portion” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 5622` | replace | in the second sentence, by striking “The Commodity Credit Corporation” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 5622` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1736o` | insert | Subsection (j)(3) of such Act is amended by inserting “and the Committee on Foreign Affairs” after “Committee on Agriculture”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | Subsections (a) and (d)(1)(A)(i) of section 1542 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5622 note; Public Law 101–624) is amended by striking “2007” each place it appears and inserting “2012”. | the bill names no machine-readable US Code section |
+| — | redesignate | in the first sentence, by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | replace | by striking “A portion” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Commodity Credit Corporation” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 1736o` | insert | Subsection (j)(3) of such Act is amended by inserting “and the Committee on Foreign Affairs” after “Committee on Agriculture” the first place such term appears. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 5680` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 5680` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
