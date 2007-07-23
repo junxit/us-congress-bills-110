@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 535
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 535
@@ -16,7 +16,7 @@ Commending David Ray Ritcheson, a survivor of one of the most horrific hate crim
 
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Cosponsors (27)
+## Cosponsors (34)
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
@@ -45,6 +45,13 @@ Commending David Ray Ritcheson, a survivor of one of the most horrific hate crim
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
 ## Committees (1)
 
@@ -56,3 +63,12 @@ Commending David Ray Ritcheson, a survivor of one of the most horrific hate crim
 - 2007-07-11 — Introduced in House
 - 2007-07-11 — Referred to the House Committee on the Judiciary.
 - 2007-07-11 — Sponsor introductory remarks on measure. (CR H7631-7632)
+- 2007-07-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-23 — Considered as unfinished business. (consideration: CR H8220-8226, H8253)
+- 2007-07-23 — Considered under suspension of the rules.
+- 2007-07-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 535.
+- 2007-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-23 — Ms. Jackson-Lee moved to suspend the rules and agree to the resolution.
+- 2007-07-23 — ORDER OF PROCEDURE - Mr. Welch asked unanimous consent that the proceedings by which the yeas and nays were ordered on the motion to suspend the rules and agree to H.Res. 535 be vacated to the end that the Chair put the question de novo. Agreed to without objection.
+- 2007-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text as passed in House: CR H8220-8221)
+- 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text as passed in House: CR H8220-8221)
