@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 519
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 519
@@ -16,7 +16,7 @@ Honoring the life and accomplishments of renowned artist Tom Lea on the 100th an
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Cosponsors (71)
+## Cosponsors (79)
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
@@ -89,6 +89,14 @@ Honoring the life and accomplishments of renowned artist Tom Lea on the 100th an
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Everett, Terry [R-AL-2] (E000268)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
 
 ## Committees (1)
 
@@ -99,3 +107,13 @@ Honoring the life and accomplishments of renowned artist Tom Lea on the 100th an
 - 2007-06-26 — Introduced in House
 - 2007-06-26 — Introduced in House
 - 2007-06-26 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-07-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-23 — Considered as unfinished business. (consideration: CR H8255)
+- 2007-07-23 — Considered under suspension of the rules. (consideration: CR H8241-8243)
+- 2007-07-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 519.
+- 2007-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-23 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 689). (text as passed in House: CR H8241)
+- 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 689).(text as passed in House: CR H8241)
