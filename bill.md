@@ -21,6 +21,6 @@ This Act may be cited as the “Multinational Species Conservation Funds Reautho
 
 ## § 3. Reauthorization and amendment of Rhinoceros and Tiger Conservation Act of 1994
 
-- **(a)** *Notice of approval of project proposal* Section 5(c) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304(c)) is amended in the third sentence by striking “, to the Administrator, and to each country within which the project is to be conducted” and inserting “and to the Administrator”.
+- **(a)** *Notice of approval of project proposal* Section 5(c) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304(c)) is amended in the third sentence by striking “, to the Administrator, and to each country within which the project is to be conducted” and inserting “and to the Administrator” .
 - **(b)** *Administrative expenses* Section 10(b) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5306(b)) is amended by striking “$80,000” and inserting “$100,000”.
 - **(c)** *Authorization of appropriations* Section 10(a) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5306(a)) is amended by striking “2001, 2002, 2003, 2004, 2005, 2006, and 2007” and inserting “2007 through 2012”.
