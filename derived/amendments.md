@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,7 +44,7 @@ to guess them.
 
 ### 16 U.S.C. § 5304
 
-> Section 5(c) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304(c)) is amended in the third sentence by striking “, to the Administrator, and to each country within which the project is to be conducted” and inserting “and to the Administrator”.
+> Section 5(c) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304(c)) is amended in the third sentence by striking “, to the Administrator, and to each country within which the project is to be conducted” and inserting “and to the Administrator” .
 
 | | |
 |---|---|
