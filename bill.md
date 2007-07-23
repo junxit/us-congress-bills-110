@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title and table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Food Security and Agricultural Development Act of 2007”.
-- **(b)** *Table of contents* The table of contents for this title is as follows:
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings and purposes
 
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(4)** The United Nations reports that progress is being made toward reaching the Millennium Development Goal of reducing the proportion of hungry people in the world by half by 2015. In 1990, the proportion of people in the developing countries living with insufficient food was estimated to be 20 percent. By 2003, that percentage declined to 17 percent. However, from 1996 to 2006, the absolute number of hungry people increased from 790,000,000 to 850,000,000.
   - **(5)** The number of hungry people in the most seriously affected regions of the world, namely South Asia and sub-Saharan Africa, is increasing. In sub-Saharan Africa, in 1990, there were an estimated 169,000,000 chronically-hungry people; in 2003, the number of chronically-hungry people increased to 206,000,000.
   - **(6)** The major United States Government response to reducing hunger in developing countries is to provide United States agricultural commodities as food assistance. In fiscal year 2006, the United States provided 3,000,000 metric tons of food valued at more than $2,000,000,000 to meet emergency food needs and to support development projects in developing countries.
-  - **(7)** In 2006, the United States provided food assistance to 65 countries, more than half of which were in sub-Saharan Africa. Approximately $1,200,000,000 or 60 percent of such assistance was provided as emergency food assistance. The United States Agency for International Development estimates that 50,000,000 to 70,000,000 people benefit from United States food assistance programs annually.
+  - **(7)** In 2006, the United States provided food assistance to 65 countries, more than half of which were in sub-Saharan Africa. Approximately $1,200,000,000, or 60 percent of such assistance, was provided as emergency food assistance. The United States Agency for International Development estimates that 50,000,000 to 70,000,000 people benefit from United States food assistance programs annually.
   - **(8)**
     - **(A)** Food assistance contributed by the United States Government has totaled more than $73,000,000,000 since 1946. Over the last decade, the United States has been the single largest donor of international food assistance, with a large proportion of the assistance provided through the United Nations World Food Program and most of that assistance is for emergencies.
     - **(B)** The United States contributed more than 52,000,000 tons of food assistance between 1996 and 2005, more than half of the nearly 100,000,000 tons of food assistance delivered worldwide in this period. In 2006, the United States contributed $1,125,000,000 or about 40 percent of total donor contributions to the World Food Program in that year.
@@ -45,4 +45,4 @@ In this Act:
 - **(2)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Foreign Affairs and the Committee on Agriculture of the House of Representatives; and
   - **(B)** the Committee on Agriculture, Nutrition, and Forestry of the Senate.
-- **(3)** *Secretary* The term Secretary means the Secretary of Agriculture
+- **(3)** *Secretary* The term Secretary means the Secretary of Agriculture.
