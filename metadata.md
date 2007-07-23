@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 561
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 561
@@ -57,3 +57,9 @@ Recognizing the 20th anniversary of the McKinney-Vento Homeless Assistance Act a
 - 2007-07-19 — Introduced in House
 - 2007-07-19 — Introduced in House
 - 2007-07-19 — Referred to the House Committee on Financial Services.
+- 2007-07-23 — Considered under suspension of the rules. (consideration: CR H8217-8220)
+- 2007-07-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 561.
+- 2007-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-23 — Mr. Frank (MA) moved to suspend the rules and agree to the resolution.
+- 2007-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text as passed in House: CR H8217)
+- 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text as passed in House: CR H8217)
