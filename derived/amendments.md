@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1526
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `43 U.S.C. § 390h` | add-at-end | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 390h` | insert | The table of items in section 2 of Public Law 102–575 is amended by inserting after the item relating to section 16xx the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections for Public Law 102–575 is amended by inserting after the last item relating to title XVI the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

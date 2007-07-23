@@ -28,7 +28,7 @@ This Act may be cited as the “Bay Area Regional Water Recycling Program Author
   > - **(a)** *Authorization* The Secretary, in cooperation with the City of Pittsburg, California, and the Delta Diablo Sanitation District, is authorized to participate in the design, planning, and construction of recycled water system facilities.
   > - **(b)** *Cost Share* The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
   > - **(c)** *Limitation* The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
-  > - **(d)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $1,400,000.
+  > - **(d)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $1,750,000.
   >
   > ## § 16xx. Antioch Recycled Water Project
   >
@@ -65,8 +65,8 @@ This Act may be cited as the “Bay Area Regional Water Recycling Program Author
   > - **(c)** *Limitation* The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
   > - **(d)** *Authorization of Appropriations* There is authorized to be appropriated to carry out this section $8,250,000.
 
-- **(b)** *Conforming Amendments* The table of items in section 2 of Public Law 102–575 is amended by inserting after the item relating to section 16xx the following:
+- **(b)** *Conforming Amendments* The table of sections for Public Law 102–575 is amended by inserting after the last item relating to title XVI the following:
 
 ## § 3. San jose area water reclamation and reuse project
 
-The Secretary of the Interior shall request amounts necessary to fully fund, by September 30, 2010, the San Jose Area Water Reclamation and Reuse Project authorized by section 1607 of Public Law 102–575.
+It is the intent of Congress that a comprehensive water recycling program for the San Francisco Bay Area include the San Jose Area water reclamation and reuse program authorized by section 1607 of the Reclamation Projects Authorization and Adjustment Act of 1992 (43 U.S.C. 390h–5).
