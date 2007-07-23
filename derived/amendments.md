@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2798
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 22 U.S.C. § 2195
 
-> Section 235(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2195(a)(2)) is amended by striking “September 30, 2007” and inserting “September 30, 2011” .
+> Section 235(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2195(a)(2)) is amended by striking “September 30, 2007” and inserting “September 30, 2011”.
 
 | | |
 |---|---|
@@ -102,7 +102,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2193` | add-at-end | Section 233(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2193(b)) is amended by adding at the end the following: “The selection of the small business, organized labor, and cooperative directors should be made, respectively, in con… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2198` | strike | in subsection (f), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2198` | replace | in subsection (g), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 2467` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2467` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2199` | add-at-end | in subsection (h), by adding at the end the following: “In addition, the Corporation should consult with relevant stakeholders in developing such criteria.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2199` | insert | in subsection (i), in the first sentence, by inserting “, including international worker rights,” after “fundamental freedoms”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2191a` | amend | Section 231A(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2191a(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -113,16 +113,16 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2197` | amend | Section 237 of the Foreign Assistance Act of 1961 (22 U.S.C. 2197) is further amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2197` | add-at-end | Section 237 of the Foreign Assistance Act of 1961 (22 U.S.C. 2197) is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2197` | replace | by striking “Whoever” and inserting: | the bill quotes the text struck but describes what replaces it |
-| `22 U.S.C. § 2197` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2197` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2199` | add-at-end | Section 239 of the Foreign Assistance Act of 1961 (22 U.S.C. 2199) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2199` | amend | Section 239 of the Foreign Assistance Act of 1961 (22 U.S.C. 2199) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2199` | add-at-end | Section 239 of the Foreign Assistance Act of 1961 (22 U.S.C. 2199) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2199` | add-at-end | Section 239 of the Foreign Assistance Act of 1961 (22 U.S.C. 2199) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2199` | add-at-end | Section 239 of the Foreign Assistance Act of 1961 (22 U.S.C. 2199) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2200` | add-at-end | Section 240 of the Foreign Assistance Act of 1961 (22 U.S.C. 2200) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2199` | strike | by striking subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2199` | redesignate | by redesignating subsection (h) as subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2199` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2199` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2199` | insert | Section 237(j) of the Foreign Assistance Act of 1961 (22 U.S.C. 2197(j)) is amended by inserting “insurance, reinsurance, and” after “Each”. | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2194` | strike | by striking subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2194` | redesignate | by redesignating subsection (h) as subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2194` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2194` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2194` | insert | Section 237(j) of the Foreign Assistance Act of 1961 (22 U.S.C. 2197(j)) is amended by inserting “insurance, reinsurance, and” after “Each”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2199` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2199` | redesignate | by redesignating the subsections (c) through (p) as subsections (b) through (o), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
