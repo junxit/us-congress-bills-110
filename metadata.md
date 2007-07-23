@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 521
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 521
@@ -16,7 +16,7 @@ Celebrating the 75th Anniversary of the 1932 Winter Olympic Games in Lake Placid
 
 - Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
 
-## Cosponsors (28)
+## Cosponsors (30)
 
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
@@ -46,6 +46,8 @@ Celebrating the 75th Anniversary of the 1932 Winter Olympic Games in Lake Placid
 - Rep. Miller, Brad [D-NC-13] (M001154)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
 ## Committees (1)
 
@@ -56,3 +58,9 @@ Celebrating the 75th Anniversary of the 1932 Winter Olympic Games in Lake Placid
 - 2007-06-27 — Introduced in House
 - 2007-06-27 — Introduced in House
 - 2007-06-27 — Referred to the House Committee on Foreign Affairs.
+- 2007-07-23 — Considered under suspension of the rules. (consideration: CR H8213-8214)
+- 2007-07-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 521.
+- 2007-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-23 — Mr. Sherman moved to suspend the rules and agree to the resolution.
+- 2007-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text as passed in House: CR H8213)
+- 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text as passed in House: CR H8213)
