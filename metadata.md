@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 553
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 553
@@ -16,7 +16,7 @@ Mourning the passing of former First Lady, Lady Bird Johnson, and celebrating he
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Cosponsors (53)
+## Cosponsors (61)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
@@ -71,13 +71,35 @@ Mourning the passing of former First Lady, Lady Bird Johnson, and celebrating he
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Farr, Sam [D-CA-17] (F000030)
 - Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2007-07-23 — [House 110-1-688](votes/house-110-1-0688.md) — On Motion to Suspend the Rules and Agree — **Passed** (381–0)
 
 ## Actions
 
 - 2007-07-17 — Introduced in House
 - 2007-07-17 — Introduced in House
 - 2007-07-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-07-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-23 — Considered as unfinished business. (consideration: CR H8254-8255)
+- 2007-07-23 — Considered under suspension of the rules. (consideration: CR H8237-8241)
+- 2007-07-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 553.
+- 2007-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-23 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 688). (text as passed in House: CR H8237)
+- 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 381 - 0 (Roll no. 688).(text as passed in House: CR H8237)
