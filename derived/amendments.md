@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2630
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,4 +43,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `2 U.S.C. § 439a` | add-at-end | Section 313 of the Federal Election Campaign Act of 1971 (2 U.S.C. 439a) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 437g` | add-at-end | Section 309 of the Federal Election Campaign Act of 1971 (2 U.S.C. 437g) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 437g` | amend | Section 309 of the Federal Election Campaign Act of 1971 (2 U.S.C. 437g) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 437g` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 437g` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
