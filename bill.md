@@ -2,7 +2,7 @@
 legis-num: H.R. 2798
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2798
@@ -56,7 +56,7 @@ Section 231(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2191(f)) is amen
   - **(1)** in subsection (f), by striking “and” after the semicolon;
   - **(2)** in subsection (g), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(h)** the term “international worker rights” means—
+    > - **(h)** the term international worker rights means—
     >   - **(1)** internationally recognized worker rights, as defined in section 507(4) of the Trade Act of 1974 (19 U.S.C. 2467(4)); and
     >   - **(2)** the elimination of discrimination with respect to employment and occupation.
 
@@ -99,8 +99,8 @@ Title IV of chapter 2 of part I of the Foreign Assistance Act of 1961 (22 U.S.C.
 >     - **(B)** the host country where the project is to be carried out has committed to the Extractive Industries Transparency Initiative principles and criteria, or substantially similar principles and criteria.
 >   - **(3)** *Preference for certain projects* With respect to all projects that significantly involve an extractive industry, the Corporation, to the degree possible and consistent with its development objectives, shall give preference to a project in which both the eligible investor has agreed to implement the Extractive Industries Transparency Initiative principles and criteria, or substantially similar principles and criteria, and the host country where the project is to be carried out has committed to the Extractive Industries Transparency Initiative principles and criteria, or substantially similar principles and criteria.
 >   - **(4)** *Definitions* In this subsection:
->     - **(A)** *Extractive industry* The term “extractive industry” refers to an enterprise engaged in the exploration, development, or extraction of oil and gas reserves, metal ores, gemstones, industrial minerals, or coal.
->     - **(B)** *Extractive Industries Transparency Initiative principles and criteria* The term “Extractive Industries Transparency Initiative principles and criteria” means the principles and criteria of the Extractive Industries Transparency Initiative, as set forth in Annex A to the Anti-Corruption Policies and Strategies Handbook of the Corporation, as published in September 2006.
+>     - **(A)** *Extractive industry* The term extractive industry refers to an enterprise engaged in the exploration, development, or extraction of oil and gas reserves, metal ores, gemstones, industrial minerals, or coal.
+>     - **(B)** *Extractive Industries Transparency Initiative principles and criteria* The term Extractive Industries Transparency Initiative principles and criteria means the principles and criteria of the Extractive Industries Transparency Initiative, as set forth in Annex A to the Anti-Corruption Policies and Strategies Handbook of the Corporation, as published in September 2006.
 >   - **(5)** *Reporting requirement* The Corporation shall include in its annual report required under section 240A a description of its activities to carry out this subsection.
 > - **(c)** *Definitions* In this section:
 >   - **(1)** *Clean and efficient energy technology* The term clean and efficient energy technology means an energy supply or end-use technology—
@@ -142,13 +142,13 @@ Section 237 of the of the Foreign Assistance Act of 1961 (22 U.S.C. 2197) is fur
   >       - **(ii)** For purposes of this subparagraph, the sale of goods, other than food or medicine, on any terms other than a cash basis shall be considered to be an extension of credit.
   >     - **(B)** An applicant for insurance, reinsurance, financing, or other support for a project has an investment commitment valued at $20,000,000 or more for the energy sector in a country that is a state sponsor of terrorism.
   >   - **(2)** *Definitions* In this subsection:
-  >     - **(A)** *Cash basis* The term “cash basis” refers to a sale in which the purchaser of goods or services is required to make payment in full within 45 days after receiving the goods or services.
-  >     - **(B)** *Energy sector* The term “energy sector” refers to activities to develop or transport petroleum or natural gas resources.
-  >     - **(C)** *Investment commitment* The term “investment commitment” means any of the following activities if such activity is undertaken pursuant to a commitment, or pursuant to the exercise of rights under a commitment, that was entered into with the government of a state sponsor of terrorism or a nongovernmental entity in a country that is a state sponsor of terrorism:
+  >     - **(A)** *Cash basis* The term cash basis refers to a sale in which the purchaser of goods or services is required to make payment in full within 45 days after receiving the goods or services.
+  >     - **(B)** *Energy sector* The term energy sector refers to activities to develop or transport petroleum or natural gas resources.
+  >     - **(C)** *Investment commitment* The term investment commitment means any of the following activities if such activity is undertaken pursuant to a commitment, or pursuant to the exercise of rights under a commitment, that was entered into with the government of a state sponsor of terrorism or a nongovernmental entity in a country that is a state sponsor of terrorism:
   >       - **(i)** The entry into a contract that includes responsibility for the development of petroleum resources located in a country that is a state sponsor of terrorism, or the entry into a contract providing for the general supervision and guarantee of another person's performance of such a contract.
   >       - **(ii)** The purchase of a share of ownership, including an equity interest, in that development.
   >       - **(iii)** The entry into a contract providing for the participation in royalties, earnings, or profits in that development, without regard to the form of the participation.
-  >     - **(D)** *State sponsor of terrorism* The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979, section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law, to be a government that has repeatedly provided support for acts of international terrorism.
+  >     - **(D)** *State sponsor of terrorism* The term state sponsor of terrorism means a country the government of which the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979, section 620A of the Foreign Assistance Act of 1961, section 40 of the Arms Export Control Act, or any other provision of law, to be a government that has repeatedly provided support for acts of international terrorism.
   >   - **(3)** *Certification*
   >     - **(A)** *By applicants* A person or entity applying for insurance, reinsurance, a guaranty, financing, or other assistance under this title may not receive such support unless its chief executive officer certifies to the Corporation, under penalty of perjury, that the person or entity and its majority-owned subsidiaries are not engaged in any activity described in subparagraph (A) or (B) of paragraph (1).
   >     - **(B)** *By ultimate parent entities* In the case of an applicant that is a majority-owned entity of another entity, in addition to the certification under subparagraph (A), the chief executive officer of the ultimate parent entity of the applicant must certify, under penalty of perjury, that it and its majority-owned subsidiaries are not engaged in any activity described in subparagraph (A) or (B) of paragraph (1).
@@ -172,8 +172,8 @@ Section 237 of the of the Foreign Assistance Act of 1961 (22 U.S.C. 2197) is fur
     - **(B)** the country does not possess nuclear weapons or a significant program to develop nuclear weapons; and
     - **(C)** the country is not committing genocide or conducting a program of ethnic cleansing against a civilian population that approaches genocide.
   - **(2)** *Definitions* In this subsection:
-    - **(A)** *Appropriate congressional committees* The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
-    - **(B)** *State sponsor of terrorism* The term “state sponsor of terrorism” has the meaning given that term in section 237(r)(2)(D) of the Foreign Assistance Act of 1961, as added by subsection (a) of this section.
+    - **(A)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+    - **(B)** *State sponsor of terrorism* The term state sponsor of terrorism has the meaning given that term in section 237(r)(2)(D) of the Foreign Assistance Act of 1961, as added by subsection (a) of this section.
 
 ## § 11. Increased transparency
 
@@ -185,7 +185,7 @@ Section 237 of the of the Foreign Assistance Act of 1961 (22 U.S.C. 2197) is fur
   >     - **(A)** makes available for public comment a summary of the project and relevant information about the project; and
   >     - **(B)** makes the summary and information described in paragraph (1) available to locally affected groups in the area of impact of the proposed project, and to host country nongovernmental organizations.
   >   - **(2)** *Published response* To the extent practicable, the Corporation shall publish responses to the comments received under paragraph (1) with respect to a Category A project and submit the responses to the Board not later than 7 days before a vote is to be taken on any action proposed by the Corporation on the project.
-  >   - **(3)** *Definitions* In this subsection, the term “Category A project” means any project or other activity for which the Corporation proposes to provide insurance, reinsurance, financing, or other support under this title and which is likely to have significant adverse environmental impacts.
+  >   - **(3)** *Definitions* In this subsection, the term Category A project means any project or other activity for which the Corporation proposes to provide insurance, reinsurance, financing, or other support under this title and which is likely to have significant adverse environmental impacts.
 
 - **(b)** *Office of Accountability* Section 237 of the Foreign Assistance Act of 1961 (22 U.S.C. 2197) is further amended by adding at the end the following new subsection:
   > - **(v)** *Office of Accountability* The Corporation shall maintain an Office of Accountability to provide problem-solving services for projects supported by the Corporation and to review the Corporation’s compliance with its environmental, social, worker rights, human rights, and transparency policies and procedures, to the maximum extent practicable. The Office of Accountability shall operate in a manner that is fair, objective and transparent.
