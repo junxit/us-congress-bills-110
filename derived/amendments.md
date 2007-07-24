@@ -1,7 +1,7 @@
 ---
 measure: S. 1856
 congress: 110
-version: Introduced in Senate
+version: Referred in House
 derived: true
 ---
 
