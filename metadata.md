@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1388
 congress: 110
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1388
@@ -53,3 +53,4 @@ Star-Spangled Banner National Historic Trail Act
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 159.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-250.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-250.
+- 2007-07-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.
