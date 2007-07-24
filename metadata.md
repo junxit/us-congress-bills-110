@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2798
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2798
@@ -22,9 +22,10 @@ Overseas Private Investment Corporation Reauthorization Act of 2008
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Overseas Private Investment Corporation Reauthorization Act of 2008
 - 2007-07-23 — Mr. Sherman moved to suspend the rules and pass the bill, as amended.
 - 2007-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text as passed in House: CR H8204-8208)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text as passed in House: CR H8204-8208)
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
