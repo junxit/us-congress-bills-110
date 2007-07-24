@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1285
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1285
@@ -20,9 +20,10 @@ Snoqualmie Pass Land Conveyance Act
 
 - Rep. Reichert, David G. [R-WA-8] (R000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Snoqualmie Pass Land Conveyance Act
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 158.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-249.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-249.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
