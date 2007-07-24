@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2400
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2400
@@ -24,10 +24,11 @@ Ocean and Coastal Mapping Integration Act
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Ocean and Coastal Mapping Integration Act
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 162.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-253, Part I.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-253, Part I.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
