@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 110
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 16 U.S.C. § 4245
+### 16 U.S.C. § 4211
 
 > Section 2306(b) of the African Elephant Conservation Act (16 U.S.C. 4245(b)) is amended by striking “$80,000” and inserting “$100,000”.
 
@@ -44,14 +44,14 @@ to guess them.
 
 ### 16 U.S.C. § 5304
 
-> Section 5(c) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304(c)) is amended in the third sentence by striking “, to the Administrator, and to each country within which the project is to be conducted” and inserting “and to the Administrator” .
+> Section 5(c) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5304(c)) is amended in the third sentence by striking “, to the Administrator, and to each country within which the project is to be conducted” and inserting “and to the Administrator”.
 
 | | |
 |---|---|
 | Removed | `, to the Administrator, and to each country within which the project is to be conducted` |
 | Inserted | `and to the Administrator` |
 
-### 16 U.S.C. § 5306
+### 16 U.S.C. § 5304
 
 > Section 10(b) of the Rhinoceros and Tiger Conservation Act of 1994 (16 U.S.C. 5306(b)) is amended by striking “$80,000” and inserting “$100,000”.
 
