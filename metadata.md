@@ -1,7 +1,7 @@
 ---
 measure: H.R. 761
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 761
@@ -21,9 +21,10 @@ To authorize the Secretary of Interior to convey to The Missouri River Basin Lew
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To authorize the Secretary of Interior to convey to The Missouri River Basin Lew
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 156.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-247.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-247.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
