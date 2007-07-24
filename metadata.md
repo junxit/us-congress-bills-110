@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 44
@@ -70,3 +70,9 @@ Joint resolution approving the renewal of import restrictions contained in the B
 - 2007-07-24 — Passed Senate without amendment by Yea-Nay Vote. 93 - 1. Record Vote Number: 276.
 - 2007-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 93 - 1. Record Vote Number: 276.
 - 2007-07-24 — Received in the Senate, read twice.
+- 2007-07-27 — Presented to President.
+- 2007-07-27 — Presented to President.
+- 2007-08-01 — Became Public Law No: 110-52.
+- 2007-08-01 — Became Public Law No: 110-52.
+- 2007-08-01 — Signed by President.
+- 2007-08-01 — Signed by President.
