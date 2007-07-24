@@ -1,7 +1,7 @@
 ---
 measure: H.R. 404
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 404
@@ -24,9 +24,10 @@ Federal Customer Service Enhancement Act of 2008
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Federal Customer Service Enhancement Act of 2008
 - 2007-07-23 — Mr. Towns moved to suspend the rules and pass the bill, as amended.
 - 2007-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 687). (text as passed in House: CR H8234-8235)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 687).(text as passed in House: CR H8234-8235)
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
