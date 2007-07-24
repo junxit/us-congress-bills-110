@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1526
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1526
@@ -26,9 +26,10 @@ Bay Area Regional Water Recycling Program Authorization Act of 2007
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Bay Area Regional Water Recycling Program Authorization Act of 2007
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 161.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-252.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-252.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
