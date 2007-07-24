@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 175
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 175
@@ -39,3 +39,6 @@ Expressing the sense of Congress that courts with fiduciary responsibility for a
 - 2007-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text as passed in House: CR H8226)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text as passed in House: CR H8226)
 - 2007-07-24 — Received in the Senate.
+- 2007-07-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S10335-10336; text as passed Senate: CR S10336)
+- 2007-07-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S10335-10336; text as passed Senate: CR S10336)
+- 2007-07-31 — Message on Senate action sent to the House.
