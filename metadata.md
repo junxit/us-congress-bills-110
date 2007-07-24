@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 190
 congress: 110
-version: Agreed to House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 190
