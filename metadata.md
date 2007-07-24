@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 16
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 16
@@ -16,7 +16,7 @@ A joint resolution approving the renewal of import restrictions contained in the
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 
-## Cosponsors (58)
+## Cosponsors (60)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -76,6 +76,8 @@ A joint resolution approving the renewal of import restrictions contained in the
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Tester, Jon [D-MT] (T000464)
 
 ## Committees (1)
 
@@ -86,3 +88,7 @@ A joint resolution approving the renewal of import restrictions contained in the
 - 2007-06-14 — Introduced in Senate
 - 2007-06-14 — Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S7752)
 - 2007-06-14 — Sponsor introductory remarks on measure. (CR S7751-7752)
+- 2007-07-23 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2007-07-24 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2007-07-24 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2007-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.
