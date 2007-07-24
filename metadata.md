@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 175
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 175
@@ -38,3 +38,4 @@ Expressing the sense of Congress that courts with fiduciary responsibility for a
 - 2007-07-23 — Ms. Jackson-Lee moved to suspend the rules and agree to the resolution.
 - 2007-07-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text as passed in House: CR H8226)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text as passed in House: CR H8226)
+- 2007-07-24 — Received in the Senate.
