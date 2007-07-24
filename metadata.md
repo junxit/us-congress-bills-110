@@ -1,7 +1,7 @@
 ---
 measure: H.R. 716
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 716
@@ -16,9 +16,10 @@ Santa Rosa Urban Water Reuse Plan Act
 
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Santa Rosa Urban Water Reuse Plan Act
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 155.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-246.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-246.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
