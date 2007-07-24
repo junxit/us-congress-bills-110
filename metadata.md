@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2630
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2630
@@ -37,9 +37,10 @@ Campaign Expenditure Transparency Act
 - Rep. Udall, Mark [D-CO-2] (U000038)
 - Rep. Kind, Ron [D-WI-3] (K000188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ Campaign Expenditure Transparency Act
 - 2007-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text as passed in House: CR H8230)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text as passed in House: CR H8230)
 - 2007-07-23 — The title of the measure was amended. Agreed to without objection.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
