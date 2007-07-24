@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1503
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1503
@@ -16,9 +16,10 @@ Avra/Black Wash Reclamation and Riparian Restoration Project
 
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Avra/Black Wash Reclamation and Riparian Restoration Project
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 160.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-251.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-251.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
