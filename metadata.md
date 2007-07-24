@@ -1,7 +1,7 @@
 ---
 measure: S. 1856
 congress: 110
-version: Introduced in Senate
+version: Referred in House
 ---
 
 # S. 1856
@@ -21,3 +21,7 @@ A bill to amend title 18, United States Code, to make technical corrections to t
 - 2007-07-23 — Introduced in Senate
 - 2007-07-23 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S9792; text as passed Senate: CR S9792)
 - 2007-07-23 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S9792; text as passed Senate: CR S9792)
+- 2007-07-24 — Message on Senate action sent to the House.
+- 2007-07-24 — Received in the House.
+- 2007-07-24 — Referred to the House Committee on the Judiciary.
+- 2007-07-24 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
