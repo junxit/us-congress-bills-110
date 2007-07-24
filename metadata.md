@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 44
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 44
@@ -52,6 +52,10 @@ Joint resolution approving the renewal of import restrictions contained in the B
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2007-07-24 — [Senate 110-1-276](votes/senate-110-1-0276.md) — On the Joint Resolution — **Joint Resolution Passed** (93–1)
+
 ## Actions
 
 - 2007-05-24 — Introduced in House
@@ -64,3 +68,9 @@ Joint resolution approving the renewal of import restrictions contained in the B
 - 2007-07-23 — Mr. Levin moved to suspend the rules and pass the resolution, as amended.
 - 2007-07-23 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text as passed in House: CR H8215)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text as passed in House: CR H8215)
+- 2007-07-24 — Cleared for White House.
+- 2007-07-24 — Measure laid before Senate by unanimous consent. (consideration: CR S9819-9822)
+- 2007-07-24 — Message on Senate action sent to the House.
+- 2007-07-24 — Passed Senate without amendment by Yea-Nay Vote. 93 - 1. Record Vote Number: 276.
+- 2007-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 93 - 1. Record Vote Number: 276.
+- 2007-07-24 — Received in the Senate, read twice.
