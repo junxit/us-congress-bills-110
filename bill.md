@@ -20,4 +20,4 @@ Except as otherwise expressly provided, whenever in this Act an amendment or rep
 
 ## § 3. General effective date
 
-Except as otherwise provided in this Act or the amendments made by this Act, the amendments made by this Act shall take effect on July 1, 2007.
+Except as otherwise provided in this Act or the amendments made by this Act, the amendments made by this Act shall take effect on the date of enactment of this Act.
