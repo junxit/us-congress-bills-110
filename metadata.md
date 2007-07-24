@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 139
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 139
@@ -52,9 +52,10 @@ Expressing the sense of the Congress that the United States should address the o
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Expressing the sense of the Congress that the United States should address the o
 - 2007-07-23 — Mr. Sherman moved to suspend the rules and agree to the resolution, as amended.
 - 2007-07-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text as passed in House: CR H8211-8212)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text as passed in House: CR H8211-8212)
+- 2007-07-24 — Received in the Senate and referred to the Committee on Foreign Relations.
