@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1239
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1239
@@ -86,9 +86,10 @@ National Underground Railroad Network to Freedom Amendments Act of 2007
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Miller, Brad [D-NC-13] (M001154)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -111,3 +112,4 @@ National Underground Railroad Network to Freedom Amendments Act of 2007
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-248.
 - 2007-07-23 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-248.
 - 2007-07-23 — The title of the measure was amended. Agreed to without objection.
+- 2007-07-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
