@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 42
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 42
@@ -20,8 +20,16 @@ A concurrent resolution recognizing the need to pursue research into the causes,
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
 ## Actions
 
 - 2007-07-24 — Introduced in Senate
 - 2007-07-24 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S9853-9854; text as passed Senate: CR S9853-9854; text of measure as introduced: S9839)
 - 2007-07-24 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S9853-9854; text as passed Senate: CR S9853-9854; text of measure as introduced: S9839)
+- 2007-07-25 — Message on Senate action sent to the House.
+- 2007-07-25 — Received in the House.
+- 2007-07-25 — Referred to the House Committee on Energy and Commerce.
+- 2007-07-25 — Referred to the Subcommittee on Health.
