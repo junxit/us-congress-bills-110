@@ -1,7 +1,7 @@
 ---
 measure: S. 1716
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1716
@@ -44,3 +44,19 @@ A bill to amend the U.S. Troop Readiness, Veterans' Care, Katrina Recovery and I
 - 2007-07-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S10045)
 - 2007-07-25 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S10045)
 - 2007-07-25 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S10045)
+- 2007-07-26 — Held at the desk.
+- 2007-07-26 — Message on Senate action sent to the House.
+- 2007-07-26 — Received in the House.
+- 2007-07-30 — Cleared for White House.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8913-8914)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on S. 1716.
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Ms. Herseth Sandlin moved to suspend the rules and pass the bill.
+- 2007-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2007 H8913)
+- 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2007 H8913)
+- 2007-08-03 — Presented to President.
+- 2007-08-03 — Presented to President.
+- 2007-08-13 — Became Public Law No: 110-80.
+- 2007-08-13 — Became Public Law No: 110-80.
+- 2007-08-13 — Signed by President.
+- 2007-08-13 — Signed by President.
