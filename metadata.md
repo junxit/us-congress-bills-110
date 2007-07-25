@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 110
-version: Reported to Senate
+version: Referral Instructions Senate
 ---
 
 # H.R. 835
@@ -22,10 +22,11 @@ Hawaiian Homeownership Opportunity Act of 2007
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - Senate — Indian Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -70,3 +71,4 @@ Hawaiian Homeownership Opportunity Act of 2007
 - 2007-07-09 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-126.
 - 2007-07-09 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-126.
 - 2007-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
+- 2007-07-25 — Referred to the Committee on Banking, Housing, and Urban Affairs pursuant to the order of May 27, 1988, for a period not to exceed 60 days.

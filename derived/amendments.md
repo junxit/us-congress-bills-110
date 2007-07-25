@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 110
-version: Reported to Senate
+version: Referral Instructions Senate
 derived: true
 ---
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `or housing entity` |
 | Inserted | `, housing entity, or the Department of Hawaiian Home Lands` |
 
-### 25 U.S.C. § 4193
+### 25 U.S.C. § 4191
 
 > In the first sentence of section 603 (25 U.S.C. 4193), by striking “or housing entity” and inserting “, housing entity, or the Department of Hawaiian Home Lands”.
 
@@ -69,7 +69,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 4243` | replace | Section 824 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4243), as added by section 513 of Public Law 106–569 (114 Stat. 2969), is amended by striking “fiscal years” and all that follows and ins… | the bill quotes the text struck but describes what replaces it |
+| — | replace | Section 824 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4243), as added by section 513 of Public Law 106–569 (114 Stat. 2969), is amended by striking “fiscal years” and all that follows and ins… | the bill names no machine-readable US Code section |
 | `12 U.S.C. § 1715z-13b` | replace | In subsection (j)(7), by striking “fiscal years” and all that follows and inserting the following: “fiscal years 2008, 2009, 2010, 2011 and 2012.”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1715z-13b` | strike | In subsection (b), by striking “or as a result of a lack of access to private financial markets”. | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1715z-13b` | replace | In subsection (c), by striking paragraph (2) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
