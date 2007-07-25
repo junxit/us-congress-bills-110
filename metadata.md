@@ -1,7 +1,7 @@
 ---
 measure: S. 1698
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1698
@@ -24,3 +24,7 @@ Human Rights Council Funding Reform Act of 2007
 
 - 2007-06-26 — Introduced in Senate
 - 2007-06-26 — Read twice and referred to the Committee on Foreign Relations.
+- 2007-06-27 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2007-07-25 — Committee on Foreign Relations. Reported by Senator Biden with an amendment. With written report No. 110-137.
+- 2007-07-25 — Committee on Foreign Relations. Reported by Senator Biden with an amendment. With written report No. 110-137.
+- 2007-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.

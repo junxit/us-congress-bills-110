@@ -38,3 +38,10 @@ The Senate makes the following findings:
 ## § 3. Prohibition on Funding for the United Nations Human Rights Council
 
 Notwithstanding any other provision of law, no funds appropriated or otherwise made available by any Act for contributions for international organizations may be made available to support the United Nations Human Rights Council.
+
+## § 3. Temporary prohibition on Funding for the United Nations Human Rights Council
+
+- **(a)** *In General* No funds appropriated or otherwise made available by any Act for fiscal years 2008 or 2009 for contributions to international organizations may be made available to support the United Nations Human Rights Council.
+- **(b)** *Exceptions* The prohibition under subsection (a) shall not apply for a fiscal year if, during that fiscal year—
+  - **(1)** the President determines and certifies to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that the provision of funds to support the United Nations Human Rights Council is in the national interest of the United States; or
+  - **(2)** the United States is a member of the Human Rights Council.
