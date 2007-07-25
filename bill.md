@@ -35,5 +35,5 @@ It is the policy of the United States not to establish any military installation
 
 No funds made available by any Act of Congress shall be obligated or expended for a purpose as follows:
 
-- **(1)** to establish any military installation or base for the purpose of providing for the permanent stationing of United States Armed Forces in Iraq; and
-- **(2)** to exercise United States economic control of the oil resources of Iraq.
+- **(1)** To establish any military installation or base for the purpose of providing for the permanent stationing of United States Armed Forces in Iraq.
+- **(2)** To exercise United States economic control of the oil resources of Iraq.
