@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 190
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 190
@@ -37,3 +37,5 @@ Authorizing printing of the brochure entitled "How Our Laws Are Made", the docum
 - 2007-07-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text as passed in House: CR H8301)
 - 2007-07-24 — RESERVATION OF OBJECTION - Mr. Ehlers reserved the right to object to consider H. Con. Res. 190. Subsequently, the reservation was removed.
 - 2007-07-24 — Referred to the House Committee on House Administration.
+- 2007-07-25 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S10045-10046)
+- 2007-07-25 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S10045-10046)
