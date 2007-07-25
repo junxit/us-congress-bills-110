@@ -2,7 +2,7 @@
 legis-num: H. RES. 562
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 562
@@ -17,4 +17,4 @@ During consideration in the House of H.R. 3093 pursuant to this resolution, notw
 
 ## § 3.
 
-The chairman of the Committee on Appropriations is authorized, on behalf of the Committee, to file a supplemental report to accompany H.R. 3093.
+The Chairman of the Committee on Appropriations is authorized, on behalf of the Committee, to file a supplemental report to accompany H.R. 3093.
