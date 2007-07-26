@@ -1,0 +1,182 @@
+---
+measure: H.R. 3195
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 3195
+
+ADA Amendments Act of 2008
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
+
+## Cosponsors (144)
+
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Davis, Tom [R-VA-11] (D000136)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Ferguson, Mike [R-NJ-7] (F000443)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Hall, John J. [D-NY-19] (H001039)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Knollenberg, Joe [R-MI-9] (K000288)
+- Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Lewis, Jerry [R-CA-41] (L000274)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Udall, Tom [D-NM-3] (U000039)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Weldon, Dave [R-FL-15] (W000267)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+
+## Committees (4)
+
+- House — Energy and Commerce Committee
+- House — Transportation and Infrastructure Committee
+- House — Judiciary Committee
+- House — Education and the Workforce Committee
+
+## Actions
+
+- 2007-07-26 — Introduced in House
+- 2007-07-26 — Introduced in House
+- 2007-07-26 — Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-07-26 — Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-07-26 — Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-07-26 — Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-07-26 — Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-07-26 — Referred to the Subcommittee on Health.
