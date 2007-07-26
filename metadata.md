@@ -1,7 +1,7 @@
 ---
 measure: S. 1877
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1877
@@ -21,3 +21,6 @@ A bill to amend title 4, United States Code, to prescribe that members of the Ar
 - 2007-07-25 — Introduced in Senate
 - 2007-07-25 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10045; text as passed Senate: CR S10045)
 - 2007-07-25 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10045; text as passed Senate: CR S10045)
+- 2007-07-26 — Message on Senate action sent to the House.
+- 2007-07-26 — Received in the House.
+- 2007-07-26 — Referred to the House Committee on the Judiciary.
