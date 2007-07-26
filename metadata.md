@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2929
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2929
@@ -96,10 +96,11 @@ To limit the use of funds to establish any military installation or base for the
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. English, Phil [R-PA-3] (E000187)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -120,3 +121,4 @@ To limit the use of funds to establish any military installation or base for the
 - 2007-07-25 — Mr. Ackerman moved to suspend the rules and pass the bill.
 - 2007-07-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 24 (Roll no. 717). (text: CR H8405)
 - 2007-07-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 24 (Roll no. 717).(text: CR H8405)
+- 2007-07-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
