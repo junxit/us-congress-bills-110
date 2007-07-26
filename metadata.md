@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 187
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 187
@@ -51,9 +51,10 @@ Expressing the sense of Congress regarding the dumping of industrial waste into 
 - Rep. Saxton, Jim [R-NJ-3] (S000097)
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ Expressing the sense of Congress regarding the dumping of industrial waste into 
 - 2007-07-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-07-25 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 26, 2 Present (Roll no. 719). (text: CR 7/24/2007 H8301)
 - 2007-07-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 26, 2 Present (Roll no. 719).(text: CR 7/24/2007 H8301)
+- 2007-07-26 — Received in the Senate and referred to the Committee on Environment and Public Works.
