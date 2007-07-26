@@ -2,10 +2,12 @@
 legis-num: H. RES. 574
 congress: 110th CONGRESS
 session: 1st Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 574
+
+> Providing for consideration of the bill (H.R. 2419) to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes.
 
 That at any time after the adoption of this resolution the Speaker may, pursuant to clause 2(b) of rule XVIII, declare the House resolved into the Committee of the Whole House on the state of the Union for consideration of the bill (H.R. 2419) to provide for the continuation of agricultural programs through fiscal year 2012, and for other purposes. The first reading of the bill shall be dispensed with. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. General debate shall be confined to the bill and the amendments considered as adopted by this resolution and shall not exceed one hour equally divided and controlled by the chairman and ranking minority member of the Committee on Agriculture. After general debate the bill shall be considered for amendment under the five-minute rule.
 
