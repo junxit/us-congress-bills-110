@@ -1,7 +1,7 @@
 ---
 measure: S. 1877
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,13 +22,13 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Executed
+## Stated, not applied
 
-### 4 U.S.C. § 9
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
 
-> Section 9 of title 4, United States Code, is amended by striking “all persons present” and all that follows through the end and inserting “those present in uniform should render the military salute. Members of the Armed Forces and veterans who are present but not in uniform may render the military salute. All other persons present should face the flag and stand at attention with their right hand over the heart, or if applicable, remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Citizens of other countries should stand at attention. All such conduct toward the flag in a moving column should be rendered at the moment the flag passes.”.
-
-| | |
-|---|---|
-| Removed | `all persons present` |
-| Inserted | `those present in uniform should render the military salute. Members of the Armed Forces and veterans who are present but not in uniform may render the military salute. All other persons present should face the flag and stand at attention with their right hand over the heart, or if applicable, remove their headdress with their right hand and hold it at the left shoulder, the hand being over the heart. Citizens of other countries should stand at attention. All such conduct toward the flag in a moving column should be rendered at the moment the flag passes.` |
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | Section 9 of title 4, United States Code, is amended by striking “all persons present” and all that follows through the end and inserting “those present in uniform should render the military salute. Members of the Armed Forces and vetera… | the bill names no machine-readable US Code section |
