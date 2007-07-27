@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2874
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2874
@@ -16,7 +16,7 @@ Veterans' Health Care Improvement Act of 2007
 
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
 
-## Cosponsors (17)
+## Cosponsors (23)
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Hall, John J. [D-NY-19] (H001039)
@@ -35,6 +35,12 @@ Veterans' Health Care Improvement Act of 2007
 - Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
 
 ## Committees (1)
 
@@ -46,3 +52,11 @@ Veterans' Health Care Improvement Act of 2007
 - 2007-06-27 — Introduced in House
 - 2007-06-27 — Referred to the House Committee on Veterans' Affairs.
 - 2007-06-27 — Referred to the Subcommittee on Health.
+- 2007-06-28 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-07-11 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-07-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-07-17 — Committee Consideration and Mark-up Session Held.
+- 2007-07-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-07-27 — Placed on the Union Calendar, Calendar No. 170.
+- 2007-07-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-268.
+- 2007-07-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-268.
