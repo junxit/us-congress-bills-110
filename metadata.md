@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2419
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2419
@@ -55,3 +55,170 @@ Food, Conservation, and Energy Act of 2008
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 164.
 - 2007-07-23 — Reported (Amended) by the Committee on Agriculture. H. Rept. 110-256, Part I.
 - 2007-07-23 — Reported (Amended) by the Committee on Agriculture. H. Rept. 110-256, Part I.
+- 2007-07-26 — Amendment (A001) offered by Mr. Kind. (consideration: CR 7/27/2007 H8701-8716; text: CR 7/27/2007 H8701-8716)
+- 2007-07-26 — Amendment (A003) offered by Mr. Frank (MA). (consideration: CR 7/27/2007 H8727-8730; text CR 7/27/2007 H8727)
+- 2007-07-26 — Amendment agreed to Committee of the Whole
+- 2007-07-26 — Amendment agreed to Committee of the Whole
+- 2007-07-26 — Amendment failed in Committee of the Whole
+- 2007-07-26 — Amendments (A002) offered by Mr. Peterson (MN). (consideration: CR 7/27/2007 H8723-8727, H8730; text: CR 7/27/2007 H8723-8727; text as modified: CR 7/31/2007 H9037-9049)
+- 2007-07-26 — Considered under the provisions of rule H. Res. 574. (consideration: CR H8687-8699, CR 7/27/2007 H8601-8730)
+- 2007-07-26 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.
+- 2007-07-26 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 20 minutes of debate on the Peterson(MN) En Bloc amendments.
+- 2007-07-26 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 40 minutes of debate on the Kind amendment.
+- 2007-07-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2419.
+- 2007-07-26 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A003) Agreed to by voice vote.
+- 2007-07-26 — House amendment agreed to: On agreeing to the Peterson (MN) amendments (A002) Agreed to by voice vote.
+- 2007-07-26 — House amendment not agreed to: On agreeing to the Kind amendment (A001) Failed by recorded vote: 117 - 309 (Roll no. 747).
+- 2007-07-26 — House amendment offered
+- 2007-07-26 — House amendment offered
+- 2007-07-26 — House amendment offered
+- 2007-07-26 — House amendment offered/reported by : Amendment (A001) offered by Mr. Kind.(consideration: CR 7/27/2007 H8701-8716; text: CR 7/27/2007 H8701-8716)
+- 2007-07-26 — House amendment offered/reported by : Amendment (A003) offered by Mr. Frank (MA).(consideration: CR 7/27/2007 H8727-8730; text CR 7/27/2007 H8727)
+- 2007-07-26 — House amendment offered/reported by : Amendments (A002) offered by Mr. Peterson (MN).(consideration: CR 7/27/2007 H8723-8727, H8730; text: CR 7/27/2007 H8723-8727; text as modified: CR 7/31/2007 H9037-9049)
+- 2007-07-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 574 and Rule XVIII.
+- 2007-07-26 — MODIFICATION OF EN BLOC - Pursuant to the order of the House on July 27, 2007, Part B amendment numbered 9 was removed from en bloc consideration and subsequently offered as a free standing amendment on July 27, 2007.
+- 2007-07-26 — Mr. Peterson (MN) moved that the committee rise.
+- 2007-07-26 — On agreeing to the Frank (MA) amendment (A003) Agreed to by voice vote.
+- 2007-07-26 — On agreeing to the Kind amendment (A001) Failed by recorded vote: 117 - 309 (Roll no. 747).
+- 2007-07-26 — On agreeing to the Peterson (MN) amendments (A002) Agreed to by voice vote.
+- 2007-07-26 — On motion that the committee rise Agreed to by voice vote.
+- 2007-07-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kind amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mrs. Kind demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-26 — Roll call votes on amendments in House
+- 2007-07-26 — Rule H. Res. 574 passed House.
+- 2007-07-26 — Rule provides for consideration of H.R. 2419 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The amendment in the nature of a substitute recommended by the Committee on Agriculture now printed in the bill, modified by the amendments printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted in the House and in the Committee of the Whole.
+- 2007-07-26 — Rules Committee Resolution H. Res. 574 Reported to House. Rule provides for consideration of H.R. 2419 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. The amendment in the nature of a substitute recommended by the Committee on Agriculture now printed in the bill, modified by the amendments printed in part A of the report of the Committee on Rules accompanying this resolution, shall be considered as adopted in the House and in the Committee of the Whole.
+- 2007-07-26 — The Speaker designated the Honorable Ellen O. Tauscher to act as Chairwoman of the Committee.
+- 2007-07-27 — Amendment (A004) offered by Mr. Goodlatte. (consideration: CR H8747-8749; text: CR H8747-8748)
+- 2007-07-27 — Amendment (A005) offered by Mr. Cardoza. (consideration: CR H8749-51; text: CR H8749)
+- 2007-07-27 — Amendment (A006) offered by Mr. Boustany. (consideration: CR H8751; text: CR H8751)
+- 2007-07-27 — Amendment (A007) offered by Ms. Jackson-Lee (TX). (consideration: CR H8751-8753, H8774-8775; text: CR H8752)
+- 2007-07-27 — Amendment (A008) offered by Mr. Rangel. (consideration: CR H8753-8755, H8775-8776; text: CR H8753-8754)
+- 2007-07-27 — Amendment (A009) offered by Mr. Boehner. (consideration: CR H8755-8757, H8776; text: CR H8755-8756)
+- 2007-07-27 — Amendment (A010) offered by Mr. Manzullo. (consideration: CR H8757-8759; text: CR H8757)
+- 2007-07-27 — Amendment (A011) offered by Mr. Welch (VT). (consideration: CR H8759; text: CR H9859)
+- 2007-07-27 — Amendment (A012) offered by Mr. Blumenauer. (consideration: CR H8759-8760; text: CR H8759)
+- 2007-07-27 — Amendment (A013) offered by Mr. Arcuri. (consideration: CR H8760-8761; text: CR H8760)
+- 2007-07-27 — Amendment (A014) offered by Mr. Davis (IL). (consideration: CR H8761-8763, H8776-8777; text: CR H8761)
+- 2007-07-27 — Amendment (A016) offered by Mr. Udall (CO). (consideration: CR H8769-8770, H8777-8778; text: CR H8769)
+- 2007-07-27 — Amendment (A017) offered by Mr. Putnam. (consideration: CR H8770-8771, H8778; text: CR H8770)
+- 2007-07-27 — Amendment (A018) offered by Mr. Cooper. (consideration: CR H8771-8774, H8778-8779; text: CR H8771-8772; text as modified: CR H8772-8773)
+- 2007-07-27 — Amendment agreed to Committee of the Whole
+- 2007-07-27 — Amendment agreed to Committee of the Whole
+- 2007-07-27 — Amendment agreed to Committee of the Whole
+- 2007-07-27 — Amendment failed in Committee of the Whole
+- 2007-07-27 — Amendment failed in Committee of the Whole
+- 2007-07-27 — Amendment failed in Committee of the Whole
+- 2007-07-27 — Amendment failed in Committee of the Whole
+- 2007-07-27 — Amendment failed in Committee of the Whole
+- 2007-07-27 — Amendment failed in Committee of the Whole
+- 2007-07-27 — Amendment failed in Committee of the Whole
+- 2007-07-27 — Amendments (A015) offered by Mr. Peterson (MN). (consideration: CR H8763-8768; text: CR H8763)
+- 2007-07-27 — By unanimous consent, the Arcuri amendment was withdrawn.
+- 2007-07-27 — By unanimous consent, the Blumenauer amendment was withdrawn.
+- 2007-07-27 — By unanimous consent, the Cardoza amendment was withdrawn.
+- 2007-07-27 — By unanimous consent, the Goodlatte amendment was withdrawn.
+- 2007-07-27 — By unanimous consent, the Welch (VT) amendment was withdrawn.
+- 2007-07-27 — Considered as unfinished business. (consideration: CR H8747-8757)
+- 2007-07-27 — Considered as unfinished business. (consideration: CR H8757-8768)
+- 2007-07-27 — Considered as unfinished business. (consideration: CR H8769)
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H. Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Cooper amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H. Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Putnam amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H. Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Udall (CO) amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Arcuri amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Boehner amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Boustany amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Cardoza amendment, pending reservation of a point of order.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Davis (IL) amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Goodlatte amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson-Lee (TX) amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Manzullo amendment, as modified.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Rangel amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 10 minutes of debate on the Welch (VT) amendment.
+- 2007-07-27 — DEBATE - Pursuant to the provisions of H.Res. 574, the Committee of the Whole proceeded with 20 minutes of debate on the Peterson (MN) en bloc amendments.
+- 2007-07-27 — DEBATE - The House proceeded with 10 minutes of debate on the Goodlatte motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House promptly with the following amendments striking the two titles designated as XII in the amendments contained in part A of House Report 110-261 and adopt such amendments as may be necessary to comply with the Committee on Agriculture allocation under H.Con.Res. 99 of the 110th Congress.
+- 2007-07-27 — House amendment agreed to: On agreeing to the Boustany amendment (A006) Agreed to by voice vote.
+- 2007-07-27 — House amendment agreed to: On agreeing to the Jackson-Lee (TX) amendment (A007) Agreed to by recorded vote: 422 - 3 (Roll no. 748).
+- 2007-07-27 — House amendment agreed to: On agreeing to the Peterson (MN) amendments (A015) as modified Agreed to by voice vote.(text as modified: CR H8763)
+- 2007-07-27 — House amendment not agreed to: On agreeing to the Boehner amendment (A009) Failed by recorded vote: 153 - 271 (Roll no. 750).
+- 2007-07-27 — House amendment not agreed to: On agreeing to the Cooper amendment (A018) Failed by recorded vote: 175 - 250, 1 Present (Roll no. 754).
+- 2007-07-27 — House amendment not agreed to: On agreeing to the Davis (IL) amendment (A014) Failed by recorded vote: 144 - 282 (Roll no. 751).
+- 2007-07-27 — House amendment not agreed to: On agreeing to the Manzullo amendment (A010) as modified Failed by voice vote.(text as modified: CR H8757)
+- 2007-07-27 — House amendment not agreed to: On agreeing to the Putnam amendment Failed by recorded vote: 175 - 252 (Roll no. 753).
+- 2007-07-27 — House amendment not agreed to: On agreeing to the Rangel amendment (A008) Failed by recorded vote: 182 - 245 (Roll no. 749).
+- 2007-07-27 — House amendment not agreed to: On agreeing to the Udall (CO) amendment (A016) Failed by recorded vote: 175 - 251 (Roll no. 752).
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered
+- 2007-07-27 — House amendment offered/reported by : Amendment (A004) offered by Mr. Goodlatte.(consideration: CR H8747-8749; text: CR H8747-8748)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A005) offered by Mr. Cardoza.(consideration: CR H8749-51; text: CR H8749)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A006) offered by Mr. Boustany.(consideration: CR H8751; text: CR H8751)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A007) offered by Ms. Jackson-Lee (TX).(consideration: CR H8751-8753, H8774-8775; text: CR H8752)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A008) offered by Mr. Rangel.(consideration: CR H8753-8755, H8775-8776; text: CR H8753-8754)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A009) offered by Mr. Boehner.(consideration: CR H8755-8757, H8776; text: CR H8755-8756)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A010) offered by Mr. Manzullo.(consideration: CR H8757-8759; text: CR H8757)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A011) offered by Mr. Welch (VT).(consideration: CR H8759; text: CR H9859)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A012) offered by Mr. Blumenauer.(consideration: CR H8759-8760; text: CR H8759)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A013) offered by Mr. Arcuri.(consideration: CR H8760-8761; text: CR H8760)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A014) offered by Mr. Davis (IL).(consideration: CR H8761-8763, H8776-8777; text: CR H8761)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A016) offered by Mr. Udall (CO).(consideration: CR H8769-8770, H8777-8778; text: CR H8769)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A017) offered by Mr. Putnam.(consideration: CR H8770-8771, H8778; text: CR H8770)
+- 2007-07-27 — House amendment offered/reported by : Amendment (A018) offered by Mr. Cooper.(consideration: CR H8771-8774, H8778-8779; text: CR H8771-8772; text as modified: CR H8772-8773)
+- 2007-07-27 — House amendment offered/reported by : Amendments (A015) offered by Mr. Peterson (MN).(consideration: CR H8763-8768; text: CR H8763)
+- 2007-07-27 — Manzullo amendment (A010) modified by unanimous consent. Modification consist of replacement text.
+- 2007-07-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-27 — Mr. Goodlatte moved to recommit with instructions to Agriculture. (consideration: CR H8786)
+- 2007-07-27 — Mr. Peterson (MN) moved that the Committee rise.
+- 2007-07-27 — Mr. Peterson (MN) moved that the Committee rise.
+- 2007-07-27 — ORDER OF PROCEDURE - Mr. Peterson (MN) asked unanimous consent that during further consideration of H.R. 2419 pursuant to H. Res. 547, the Chair may reduce to two minutes the minimum time for electronic voting under clause 6 of rule 18 and clauses 8 and 9 of rule 20. Agreed to without objection.
+- 2007-07-27 — On agreeing to the Boehner amendment (A009) Failed by recorded vote: 153 - 271 (Roll no. 750).
+- 2007-07-27 — On agreeing to the Boustany amendment (A006) Agreed to by voice vote.
+- 2007-07-27 — On agreeing to the Cooper amendment (A018) Failed by recorded vote: 175 - 250, 1 Present (Roll no. 754).
+- 2007-07-27 — On agreeing to the Davis (IL) amendment (A014) Failed by recorded vote: 144 - 282 (Roll no. 751).
+- 2007-07-27 — On agreeing to the Jackson-Lee (TX) amendment (A007) Agreed to by recorded vote: 422 - 3 (Roll no. 748).
+- 2007-07-27 — On agreeing to the Manzullo amendment (A010) as modified Failed by voice vote. (text as modified: CR H8757)
+- 2007-07-27 — On agreeing to the Peterson (MN) amendments (A015) as modified Agreed to by voice vote. (text as modified: CR H8763)
+- 2007-07-27 — On agreeing to the Putnam amendment Failed by recorded vote: 175 - 252 (Roll no. 753).
+- 2007-07-27 — On agreeing to the Rangel amendment (A008) Failed by recorded vote: 182 - 245 (Roll no. 749).
+- 2007-07-27 — On agreeing to the Udall (CO) amendment (A016) Failed by recorded vote: 175 - 251 (Roll no. 752).
+- 2007-07-27 — On motion that the Committee rise Agreed to by voice vote.
+- 2007-07-27 — On motion that the Committee rise Agreed to by voice vote.
+- 2007-07-27 — On motion to recommit with instructions Failed by recorded vote: 198 - 223 (Roll no. 755).
+- 2007-07-27 — On passage Passed by recorded vote: 231 - 191 (Roll no. 756).
+- 2007-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boehner amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Boehner demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cooper amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cooper demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davis (IL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Davis (IL) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson-Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Peterson (MN) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Putnam amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Putnam demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rangel amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Ros-Lehtinen demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-27 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Udall (CO) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Udall (CO) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-07-27 — Passed/agreed to in House: On passage Passed by recorded vote: 231 - 191 (Roll no. 756).
+- 2007-07-27 — Peterson (MN) amendment (A015) modified by unanimous consent. Modification consist of text offered to Part B amendment numbered 20.
+- 2007-07-27 — Roll call votes on amendments in House
+- 2007-07-27 — Roll call votes on amendments in House
+- 2007-07-27 — Roll call votes on amendments in House
+- 2007-07-27 — Roll call votes on amendments in House
+- 2007-07-27 — Roll call votes on amendments in House
+- 2007-07-27 — Roll call votes on amendments in House
+- 2007-07-27 — Roll call votes on amendments in House
+- 2007-07-27 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2419.
+- 2007-07-27 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR 7/30/2007 H8960-9036; text: CR H8960-9036)
+- 2007-07-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2007-07-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2007-07-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2007-07-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2419.
+- 2007-07-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8787-8788)
+- 2007-07-27 — The previous question was ordered pursuant to the rule. (consideration: CR H8785)
+- 2007-07-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
