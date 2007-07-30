@@ -7,18 +7,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2750
 
-> To require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration and the Jet Propulsion Laboratory.
+> To require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration.
 
 ## § 1. Short title
 
-This Act may be cited as the “NASA and JPL 50th Anniversary Commemorative Coin Act”.
+This Act may be cited as the “NASA 50th Anniversary Commemorative Coin Act”.
 
 ## § 2. Findings
 
 The Congress finds as follows:
 
 - **(1)** The National Aeronautics and Space Administration began operation on October 1, 1958, with about 8,000 employees and an annual budget of $100,000,000.
-- **(2)** Over the next 50 years, the National Aeronautics and Space Administration and the Jet Propulsion Laboratory have been involved in many defining events which have shaped the course of human history and demonstrated to the world the character of the people of the United States.
+- **(2)** Over the next 50 years, the National Aeronautics and Space Administration has been involved in many defining events which have shaped the course of human history and demonstrated to the world the character of the people of the United States.
 - **(3)** Among the many firsts by the National Aeronautics and Space Administration are the following:
   - **(A)** On December 6, 1958, the United States launched Pioneer 3, the first United States satellite to ascend to an altitude of 63,580 miles.
   - **(B)** On March 3, 1959, the United States sent Pioneer 4 to the Moon, successfully making the first United States lunar flyby.
@@ -26,32 +26,44 @@ The Congress finds as follows:
   - **(D)** On May 5, 1961, Freedom 7, carrying Astronaut Alan B. Shepard, Jr., was the first American space flight involving human beings.
   - **(E)** On February 20, 1962, John Glenn became the first American to circle the Earth, making three orbits in his Friendship 7 Mercury spacecraft.
   - **(F)** On December 14, 1962, Mariner 2 became the first spacecraft to commit a successful planetary flyby (Venus).
-  - **(G)** On April 6, 1965, the United States launched Intelsat I, the first commercial satellite (communications), into geostationary orbit.
+  - **(G)** On April 6, 1965, the United States launched Intelsat I (also known as Early Bird 1), the first commercial satellite (communications), into geostationary orbit.
   - **(H)** On June 3–7, 1965, the second piloted Gemini mission, Gemini IV, stayed aloft for 4 days and astronaut Edward H. White II performed the first EVA or spacewalk by an American.
   - **(I)** On June 2, 1966, Surveyor 1 became the first American spacecraft to soft-land on the Moon.
-  - **(J)** On November 13, 1971, the United States launched Mariner 9, the first mission to orbit another planet (Mars).
+  - **(J)** On May 31, 1971, the United States launched Mariner 9, the first mission to orbit another planet (Mars) beginning November 13, 1971.
   - **(K)** On April 12, 1981, the National Aeronautics and Space Administration launched the Space Shuttle Columbia on the first flight of the Space Transportation System (STS–1).
-  - **(L)** On June 18–24, 1983, the National Aeronautics and Space Administration launched Space Shuttle Challenger (STS–7) carrying 3 mission specialists, including Sally K. Ride, the first woman astronaut.
+  - **(L)** On June 18, 1983, the National Aeronautics and Space Administration launched Space Shuttle Challenger (STS–7) carrying 3 mission specialists, including Sally K. Ride, the first woman astronaut.
   - **(M)** In another historic mission, 2 months later the National Aeronautics and Space Administration launched STS–8 carrying the first black American astronaut, Guion S. Bluford.
-  - **(N)** On July 22, 1999, the Space Shuttle Columbia’s 26th flight was led by Air Force Col. Eileen Collins, the first woman to command a Shuttle mission.
+  - **(N)** On July 23, 1999, the Space Shuttle Columbia’s 26th flight was led by Air Force Col. Eileen Collins, the first woman to command a Shuttle mission.
 - **(4)** On April 9, 1959, the National Aeronautics and Space Administration unveiled the Mercury astronaut corps, 7 men with “the right stuff”: John H. Glenn, Jr., Walter M. Schirra, Jr., Alan B. Shepard, Jr., M. Scott Carpenter, L. Gordon Cooper, Virgil I. “Gus” Grissom, and Donald K. “Deke” Slayton.
-- **(5)** On May 25, 1961, President John F. Kennedy, reflecting the highest aspirations of the American people, proclaimed: “I believe this Nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to Earth. No single space project in this period will be more impressive to mankind, or more important in the long-range exploration of space; and none will be so difficult or expensive to accomplish.”
+- **(5)** On May 25, 1961, President John F. Kennedy, reflecting the highest aspirations of the American people, proclaimed: “I believe this Nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to Earth. No single space project in this period will be more impressive to mankind, or more important in the long-range exploration of space; and none will be so difficult or expensive to accomplish.”.
 - **(6)** On September 19, 1961, the National Aeronautics and Space Administration announced that the National Aeronautics and Space Administration center dedicated to human space flight would be built in Houston, Texas.
-- **(7)** In 1973, the Manned Spacecraft Center in Houston was renamed the Lyndon B. Johnson Space Center.
+- **(7)** On February 17, 1973, the Manned Spacecraft Center in Houston was renamed the Lyndon B. Johnson Space Center.
 - **(8)** On December 21, 1968, Apollo 8 took off atop a Saturn V booster from the Kennedy Space Center for a historic mission to orbit the Moon.
 - **(9)** As Apollo 8 traveled outward, the crew focused a portable television camera on Earth and for the first time humanity saw its home from afar, a tiny, lovely, and fragile “blue marble” hanging in the blackness of space.
 - **(10)** This transmission and viewing of Earth from a distance was an enormously significant accomplishment and united the Nation at a time when American society was in crisis over Vietnam, race relations, urban problems, and a host of other difficulties.
 - **(11)** On July 20, 1969, Apollo 11 astronauts Neil A. Armstrong and Edwin E. Aldrin made the first lunar landing mission while Michael Collins orbited overhead in the Apollo command module.
-- **(12)** Armstrong set foot on the surface, telling the millions of listeners that it was “one small step for man, one giant leap for mankind”; Aldrin soon followed and planted an American flag, but omitted claiming the land for the United States as had routinely been done during European exploration of the Americas.
-- **(13)** The 2 Moon walkers left behind an American flag and a plaque bearing the inscription: “Here Men From Planet Earth First Set Foot Upon the Moon. Jul. 1969 A.D. We Came in Peace for All Mankind.”
-- **(14)** On July 4, 1997, the Mars Pathfinder landed on Mars and on January 29, 1998, an International Space Station agreement among 15 countries met in Washington, DC, to sign agreements to establish the framework for cooperation among the partners on the design, development, operation, and utilization of the Space Station.
-- **(15)** The National Aeronautics and Space Administration’s stunning achievements over the last 50 years have been won for all mankind at great cost and sacrifice; in the quest to explore the universe, many National Aeronautics and Space Administration employees have lost their lives, including the crews of Apollo 6, the Space Shuttle Challenger, and the Space Shuttle Columbia.
-- **(16)** The United States should pay tribute to the National Aeronautics and Space Administration and the Jet Propulsion Laboratory by minting and issuing a commemorative silver dollar coin.
-- **(17)** The surcharge proceeds from the sale of a commemorative coin would generate valuable funding for the National Aeronautics and Space Administration Families Assistance Fund for the purposes of providing need-based financial assistance to the families of the National Aeronautics and Space Administration personnel who die as a result of injuries suffered in the performance of their official duties.
+- **(12)** Armstrong set foot on the surface, telling the millions of listeners that it was “one small step for a man, one giant leap for mankind”; Aldrin soon followed and planted an American flag, but omitted claiming the land for the United States as had routinely been done during European exploration of the Americas.
+- **(13)** The 2 Moon walkers left behind an American flag and a plaque bearing the inscription: “Here Men From The Planet Earth First Set Foot Upon the Moon. Jul. 1969 A.D. We Came in Peace for All Mankind.”.
+- **(14)** On April 24, 1990, the Hubble Space Telescope was launched into space aboard the STS-31 mission of the Space Shuttle Discovery and since then the Hubble has revolutionized astronomy while expanding our knowledge of the universe and inspiring millions of scientists, students, and members of the public with its unprecedented deep and clear images of space.
+- **(15)** On July 4, 1997, the Mars Pathfinder landed on Mars and on January 29, 1998, an International Space Station agreement among 15 countries met in Washington, DC, to sign agreements to establish the framework for cooperation among the partners on the design, development, operation, and utilization of the Space Station.
+- **(16)** The National Aeronautics and Space Administration’s stunning achievements over the last 50 years have been won for all mankind at great cost and sacrifice; in the quest to explore the universe, many National Aeronautics and Space Administration employees have lost their lives, including the crews of Apollo 1, the Space Shuttle Challenger, and the Space Shuttle Columbia.
+- **(17)** The success of the United States space exploration program in the 20th Century augurs well for its continued leadership in the 21st Century; this leadership is attributable to the remarkable and indispensable partnership between the National Aeronautics and Space Administration and its 10 space and research centers as follows:
+  - **(A)** From small spacecraft to supercomputers, science missions and payloads to thermal protection systems, information technology to aerospace, the Ames Research Center in California's Silicon Valley provides products, technologies, and services that enable NASA missions and expand human knowledge.
+  - **(B)** The Dryden Flight Research Center, the leading center for innovative flight research.
+  - **(C)** The Glenn Research Center, which develops power, propulsion, and communication technologies for space flight systems and aeronautics research.
+  - **(D)** The Goddard Space Flight Center, which specializes in research to expand knowledge on the Earth and its environment, the solar system, and the universe through observations from space.
+  - **(E)** The Jet Propulsion Laboratory, the leading center for robotic exploration of the Solar System.
+  - **(F)** The Johnson Space Center, which manages the development, testing, production, and delivery of all United States human spacecraft and all human spacecraft-related functions.
+  - **(G)** The Kennedy Space Center, the gateway to the Universe and world leader in preparing and launching missions around the Earth and beyond.
+  - **(H)** The Langley Research Center, which continues to forge new frontiers in aviation and space research for aerospace, atmospheric sciences, and technology commercialization to improve the way the world lives.
+  - **(I)** The Marshall Space Flight Center, a world leader in developing space transportation and propulsion systems, engineers the future to accelerate exploration and scientific discovery.
+  - **(J)** The Stennis Space Center, which is responsible for rocket propulsion testing and for partnering with industry to develop and implement remote sensing technology.
+- **(18)** The United States should pay tribute to the National Aeronautics and Space Administration, and to its successful partnerships with the space and research centers, by minting and issuing a commemorative silver dollar coin.
+- **(19)** The surcharge proceeds from the sale of a commemorative coin would generate valuable funding for the National Aeronautics and Space Administration Families Assistance Fund for the purposes of providing need-based financial assistance to the families of the National Aeronautics and Space Administration personnel who die as a result of injuries suffered in the performance of their official duties.
 
 ## § 3. Coin specifications
 
-- **(a)** *Denominations* In commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration and the Jet Propulsion Laboratory, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
+- **(a)** *Denominations* In commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration, the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall mint and issue the following coins:
   - **(1)** *$50 gold coins* Not more than 50,000 $50 gold coins which shall—
     - **(A)** weigh 33.931 grams;
     - **(B)** have a diameter of 32.7 millimeters; and
@@ -67,7 +79,7 @@ The Congress finds as follows:
 ## § 4. Design of coins
 
 - **(a)** *Design requirements*
-  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the 50 years of exemplary and unparalleled achievements of the National Aeronautics and Space Administration and the Jet Propulsion Laboratory.
+  - **(1)** *In general* The design of the coins minted under this Act shall be emblematic of the 50 years of exemplary and unparalleled achievements of the National Aeronautics and Space Administration.
   - **(2)** *Designation and inscriptions* On each coin minted under this Act there shall be—
     - **(A)** a designation of the value of the coin;
     - **(B)** an inscription of the year “2008”; and
@@ -79,23 +91,22 @@ The Congress finds as follows:
       - **(iii)** *High relief* The design and inscriptions on the obverse and reverse of the $50 coins issued under this Act shall be in high relief.
     - **(B)** *$1 coins*
       - **(i)** *Obverse* The obverse of the $1 coins issued under this Act shall bear 9 different designs each of which shall consist of an image of 1 of the 9 planets of the solar system, including Earth.
-      - **(ii)** *Reverse* The reverse of the $1 coins issued under this Act shall bear different designs each of which shall be emblematic of discoveries and missions of the Jet Propulsion Laboratory to the planet depicted on the obverse of the coin, subject to the following requirements:
+      - **(ii)** *Reverse* The reverse of the $1 coins issued under this Act shall bear different designs each of which shall be emblematic of the contributions of the research and space centers, subject to the following requirements:
         - **(I)** *Earth coin* The reverse of the $1 coins issued under this Act which bear an image of the Earth on the obverse shall bear images emblematic of, and honoring, the discoveries and missions of the National Aeronautics and Space Administration, the Mercury, Gemini and Space Shuttle missions and other manned Earth-orbiting missions, and the Apollo missions to the Moon.
         - **(II)** *Jupiter coin* The reverse of the $1 coins issued under this Act which bear an image of the planet Jupiter on the obverse shall include a scientifically accurate depiction of the Galilean moon Europa and depict both a past and future mission to Europa.
         - **(III)** *Saturn coin* The reverse of the $1 coins issued under this Act which bear an image of the planet Saturn on the obverse shall include a scientifically accurate depiction of the moon Titan and depict both a past and a future mission to Titan.
         - **(IV)** *Pluto (and other dwarf planets) coin* The reverse of the $1 coins issued under this Act which bear an image of the planet Pluto on the obverse shall include a design that is emblematic of telescopic exploration of deep space by the National Aeronautics and Space Administration and the ongoing search for Earth-like planets orbiting other stars.
   - **(4)** *Realistic and scientifically accurate depictions* The images for the designs of coins issued under this Act shall be selected on the basis of the realism and scientific accuracy of the images and on the extent to which the images are reminiscent of the dramatic and beautiful artwork on coins of the so-called “Golden Age of Coinage” in the United States, at the beginning of the Twentieth Century, with the participation of such noted sculptors and medallic artists as James Earle Fraser, Augustus Saint-Gaudens, Victor David Brenner, Adolph A. Weinman, Charles E. Barber, and George T. Morgan.
 - **(b)** *Selection* The design for the coins minted under this Act shall be—
-  - **(1)** selected by the Secretary after consultation with the Administrator of the National Aeronautics and Space Administration, the Director of the Jet Propulsion Laboratory, and the Commission of Fine Arts; and
+  - **(1)** selected by the Secretary after consultation with the Administrator of the National Aeronautics and Space Administration and the Commission of Fine Arts; and
   - **(2)** reviewed by the Citizens Coin Advisory Committee.
 
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in proof quality only.
 - **(b)** *Mint facility* Only 1 facility of the United States Mint may be used to strike any particular combination of denomination and quality of the coins minted under this Act.
-- **(c)** *Commencement of issuance* The Secretary may issue coins minted under this Act beginning January 1, 2008.
-- **(d)** *Termination of minting authority* No coins may be minted under this Act after December 31, 2008.
-- **(e)** *Issuance of gold coins* Each gold coin minted under this Act may be issued only as part of a complete set with 1 of each of the 9 $1 coins minted under this Act.
+- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2008.
+- **(d)** *Issuance of gold coins* Each gold coin minted under this Act may be issued only as part of a complete set with 1 of each of the 9 $1 coins minted under this Act.
 
 ## § 6. Sale of coins
 
@@ -115,11 +126,12 @@ The Congress finds as follows:
   - **(2)** A surcharge of $10 per coin for the $1 coin.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly distributed as follows:
   - **(1)** The first $4,000,000 available for distribution under this section, to the NASA Family Assistance Fund for the purposes of providing need-based financial assistance to the families of NASA personnel who die as a result of injuries suffered in the performance of their official duties.
-  - **(2)** Of amounts available for distribution after the payment under paragraph (1), 1/2 of the next $1,000,000 to each of the following:
+  - **(2)** Of amounts available for distribution after the payment under paragraph (1), ½ of the next $1,000,000 to each of the following:
     - **(A)** The Dr. Ronald E. McNair Educational (D.R.E.M.E.) Science Literacy Foundation for the purposes of improving and strengthening the process of teaching and learning science, math, and technology at all educational levels, elementary through college through the promotion of innovative educational programs.
     - **(B)** The Dorothy Jemison Foundation for Excellence for the purposes of supporting the work of the Foundation in building critical thinking skills, experiential teaching methods, science literacy, and integrated approaches to learning and individual responsibility in achieving excellence.
   - **(3)** The remainder of the amounts available for distribution after the payments under paragraphs (1) and (2), to the Secretary of the Smithsonian Institution for the preservation, maintenance, and display of space artifacts at the National Air and Space Museum (including the Steven F. Udvar-Hazy Center).
 - **(c)** *Audits* The NASA Family Assistance Fund, the Dr. Ronald E. McNair Educational Science Literacy Foundation, the Dorothy Jemison Foundation for Excellence, and the Secretary of the Smithsonian Institution shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
 
 ## § 8. Bronze duplicates
 
