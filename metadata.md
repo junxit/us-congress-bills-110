@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1696
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1696
@@ -25,3 +25,14 @@ To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Te
 - 2007-03-26 — Introduced in House
 - 2007-03-26 — Introduced in House
 - 2007-03-26 — Referred to the House Committee on Natural Resources.
+- 2007-07-11 — Committee Hearings Held.
+- 2007-07-18 — Committee Consideration and Mark-up Session Held.
+- 2007-07-18 — Ordered to be Reported by Unanimous Consent.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR H8826)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mrs. Christensen asked unanimous consent discharge from the Committee of the Whole House on the State of the Union.
+- 2007-07-30 — On passage Passed without objection. (text: CR H8826)
+- 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8826)
+- 2007-07-30 — Placed on the Union Calendar, Calendar No. 174.
+- 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-272.
+- 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-272.
