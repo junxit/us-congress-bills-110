@@ -16,7 +16,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas it is United States policy to support and strengthen democracy around the world;
 - Whereas, during the late 1980s and early 1990s, Taiwan made a remarkable transition to a full-fledged democracy with a vibrant economy and a vigorous multi-party political system that respects human rights and the rule of law;
 - Whereas in spite of its praise for democracy in Taiwan, the United States Government continues to adhere to guidelines from the 1970s that bar the President, Vice President, Premier, Foreign Minister, and Defense Minister of Taiwan from coming to Washington, DC;
-- Whereas the United States Government has barred these high-level officials from visiting Washington, DC, while allowing the unelected leaders of the People’s Republic of China to routinely visit Washington, DC, and welcoming them to the White House;
 - Whereas these restrictions deprive the President, Congress, and the American public of the opportunity to engage in a direct dialogue regarding developments in the Asia-Pacific region and key elements of the relationship between the United States and Taiwan;
 - Whereas whenever high-level visitors from Taiwan, including the President, seek to come to the United States, their request results in a period of complex, lengthy and humiliating negotiations;
 - Whereas lifting these restrictions will help bring a United States friend and ally out of its isolation, which will be beneficial to peace and stability in the Asia-Pacific region;
