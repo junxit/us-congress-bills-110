@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2011
 congress: 110
-version: Reference Change Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2011
@@ -51,3 +51,15 @@ To designate the Federal building and United States courthouse located at 100 Ea
 - 2007-07-30 — Referred to the Committee on Environment and Public Works.
 - 2007-07-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S10338)
 - 2007-07-30 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S10338)
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S16055)
+- 2007-12-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S16055)
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2007-12-20 — Presented to President.
+- 2007-12-20 — Presented to President.
+- 2007-12-26 — Became Public Law No: 110-159.
+- 2007-12-26 — Became Public Law No: 110-159.
+- 2007-12-26 — Signed by President.
+- 2007-12-26 — Signed by President.
