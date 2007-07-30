@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2688
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2688
@@ -59,3 +59,19 @@ To designate the facility of the United States Postal Service located at 103 Sou
 - 2007-06-12 — Introduced in House
 - 2007-06-12 — Introduced in House
 - 2007-06-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-07-30 — Amendment (A001) offered by Mr. Davis (IL). (consideration: CR 7/31/2007 H8839; text: CR H8839)
+- 2007-07-30 — Amendment agreed to by House: On agreeing to the Davis (IL) amendment (A001) Agreed to without objection.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR 7/31/2007 H8839; text of measure as introduced: CR H8839)
+- 2007-07-30 — House amendment agreed to: On agreeing to the Davis (IL) amendment (A001) Agreed to without objection.
+- 2007-07-30 — House amendment offered
+- 2007-07-30 — House amendment offered/reported by : Amendment (A001) offered by Mr. Davis (IL).(consideration: CR 7/31/2007 H8839; text: CR H8839)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.
+- 2007-07-30 — On agreeing to the Davis (IL) amendment (A001) Agreed to without objection.
+- 2007-07-30 — On passage Passed without objection.
+- 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.
+- 2007-07-30 — The title of the measure was amended. Agreed to without objection.
