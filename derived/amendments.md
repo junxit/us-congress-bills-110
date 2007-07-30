@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1696
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
