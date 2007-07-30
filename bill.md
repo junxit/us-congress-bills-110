@@ -23,4 +23,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** the audited financial statement of the organization for the preceding fiscal year;
     - **(C)** a plan for the programs and activities to be supported by the funding as the Secretary may require; and
     - **(D)** an evaluation of the programs and activities supported by the funding as the Secretary may require.
-- **(c)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $6,000,000 for fiscal year 2008, $6,000,000 for fiscal year 2009, $6,000,000 for fiscal year 2010, $3,000,000 for fiscal year 2011, and $3,000,000 for fiscal year 2012.
+- **(c)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $3,000,000 for each of the fiscal years 2008 through 2012.
