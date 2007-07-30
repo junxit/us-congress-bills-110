@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 375
@@ -50,3 +50,9 @@ A bill to waive application of the Indian Self-Determination and Education Assis
 - 2007-07-30 — Placed on the Union Calendar, Calendar No. 178.
 - 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-276.
 - 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-276.
+- 2007-08-03 — Presented to President.
+- 2007-08-03 — Presented to President.
+- 2007-08-13 — Became Public Law No: 110-78.
+- 2007-08-13 — Became Public Law No: 110-78.
+- 2007-08-13 — Signed by President.
+- 2007-08-13 — Signed by President.

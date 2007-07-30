@@ -1,8 +1,8 @@
 ---
 legis-num: S. 375
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 375
@@ -28,8 +28,8 @@ With respect to the parcel of real property in Marion County, Oregon, deeded by 
 
 ## § 2. Waiver of application of Indian Self-Determination and Education Assistance Act
 
-- **(a)** *Nonapplication of Law* Notwithstanding any other provision of law, the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) shall not apply to the transfer of the parcel of real property in Marion County, Oregon, deeded by the United States to the Confederated Tribes of Siletz Indians of Oregon and the Confederated Tribes of the Grand Ronde Community of Oregon by quitclaim deed dated June 18, 2002, and recorded in the public records of Marion County on June 19, 2002.
-- **(b)** *New Deed* The Secretary of the Interior shall issue a new deed to the Tribes to the parcel described in subsection (a) that shall not include—
+- **(a)** *Nonapplication of law* Notwithstanding any other provision of law, the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) shall not apply to the transfer of the parcel of real property in Marion County, Oregon, deeded by the United States to the Confederated Tribes of Siletz Indians of Oregon and the Confederated Tribes of the Grand Ronde Community of Oregon by quitclaim deed dated June 18, 2002, and recorded in the public records of Marion County on June 19, 2002.
+- **(b)** *New deed* The Secretary of the Interior shall issue a new deed to the Tribes to the parcel described in subsection (a) that shall not include—
   - **(1)** any restriction on the right to alienate the parcel; or
   - **(2)** any reference to any provision of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
-- **(c)** *Prohibition on Gaming* Class II gaming and class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not be conducted on the parcel described in subsection (a).
+- **(c)** *Prohibition on gaming* Class II gaming and class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) shall not be conducted on the parcel described in subsection (a).
