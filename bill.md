@@ -26,6 +26,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas approximately half of financial managers are women and the percentage of women financial managers was 52.7 in 2003;
 - Whereas in a 2001 survey of 2,200 senior and pipeline level women and men representing approximately 60 securities firms, 65 percent of women reported that women have to work harder than men to get the same rewards, and 51 percent of women report that women are paid less than men for doing similar work; and
 - Whereas a minority of women (32 percent) and men (43 percent) believe that promotion decisions are made fairly in their firm: Now, therefore, be it
+- Whereas the financial services industry is vitally important to the United States economy;
+- Whereas in 2005, employment in the financial services industry was about 7 percent of total employment in the United States, with over 10,000,000 employees;
+- Whereas since 1995, the average hourly earnings of non-supervisory workers in financial activities was above the private industry and increased from approximately $13 in 1997 to $18.80 in 2006;
+- Whereas minorities and women face various challenges in obtaining and maintaining positions, especially upper-level positions, within the financial services industry;
+- Whereas minorities and women often cite the lack of mentors and leadership training as barriers to their advancement;
+- Whereas in 2005, about 14.9 percent of the board seats at the Fortune 100 companies were held by minorities, and women comprised about 16.9 percent of Fortune 100 company board seats in 2005;
+- Whereas in the financial services industry, the percentage of black employees has slowly decreased from about 10.5 percent to 9.8 percent between 2000 to 2005;
+- Whereas in 2005, blacks were approximately 9.8 percent of those employed in the financial services industry and about 7.4 percent of financial managers;
+- Whereas from 2000 to 2005, Hispanics have been an increasing percentage of the United States workforce and the financial services industry;
+- Whereas in 2005, Hispanics comprised about 9.7 percent of those employed in the financial services industry, just 6 percent of financial managers, and less than 2 percent of the directors of Fortune 1,000 companies;
+- Whereas in 2004, Asians represented about 5.5 percent of the employees in the financial services industry and about 6.3 percent of all financial managers;
+- Whereas in 2004, the financial services industry ranked third in the percentage of women employed in the workforce behind healthcare and education;
+- Whereas approximately half of financial managers are women and the percentage of women financial managers was approximately 51.7 in 2005;
+- Whereas in a 2001 survey of 2,200 senior and pipeline level women and men representing approximately 60 securities firms, 65 percent of women reported that women have to work harder than men to get the same rewards, and 51 percent of women report that women are paid less than men for doing similar work;
+- Whereas a minority of women (32 percent) and men (43 percent) believe that promotion decisions are made fairly in their firm;
+- Whereas the House-approved Financial Services Regulatory Relief Act of 2005 directed each Federal banking agency to submit biennial reports to Congress on the status of the employment by the agency of women and minorities;
+- Whereas the Government Accountability Office found in its report “Financial Services Industry: Overall Trends in Management-Level Diversity and Diversity Initiatives, 1993–2003”, issued in June 2006, that overall diversity at the management level in the financial services industry did not change substantially from 1993 to 2004; and
+- Whereas, although the Government Accountability Office acknowledged that financial services firms have initiated programs to increase workforce diversity, the Office found that these initiatives face challenges: Now, therefore, be it
 
 ## § 1. Short title
 

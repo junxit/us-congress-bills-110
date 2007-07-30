@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 140
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 140
@@ -16,7 +16,7 @@ Financial Services Diversity Initiative
 
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 
-## Cosponsors (63)
+## Cosponsors (64)
 
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
@@ -81,6 +81,7 @@ Financial Services Diversity Initiative
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
 ## Committees (2)
 
@@ -94,3 +95,11 @@ Financial Services Diversity Initiative
 - 2007-05-03 — Referred to the Committee on Financial Services, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-05-03 — Referred to the Committee on Financial Services, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-05-03 — Referred to the Committee on Financial Services, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-06-26 — Committee Consideration and Mark-up Session Held.
+- 2007-06-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-07-17 — Referred to the Subcommittee on Health, Employment, Labor, and Pensions.
+- 2007-07-30 — Committee on Education and Labor discharged.
+- 2007-07-30 — Committee on Education and Labor discharged.
+- 2007-07-30 — Placed on the Union Calendar, Calendar No. 180.
+- 2007-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-278, Part I.
+- 2007-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-278, Part I.
