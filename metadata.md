@@ -1,7 +1,7 @@
 ---
 measure: H.R. 735
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 735
@@ -36,3 +36,9 @@ To designate the Federal building under construction at 799 First Avenue in New 
 - 2007-07-11 — Placed on the House Calendar, Calendar No. 86.
 - 2007-07-11 — Reported by the Committee on Transportation. H. Rept. 110-230.
 - 2007-07-11 — Reported by the Committee on Transportation. H. Rept. 110-230.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8935-8937)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 735.
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Cummings moved to suspend the rules and pass the bill.
+- 2007-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2007 H8936)
+- 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2007 H8936)
