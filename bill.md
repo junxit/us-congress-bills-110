@@ -16,9 +16,10 @@ This Act may be cited as the “Integrated Deepwater Program Reform Act”.
 ## § 2. Implementation of Coast Guard Integrated Deepwater Acquisition Program
 
 - **(a)** *Use of private sector entity as a lead systems integrator*
-  - **(1)** *In general* Except as otherwise provided in this subsection, the Secretary may not use a private sector entity as a lead systems integrator for procurements under, or in support of, the Deepwater Program beginning 24 months after the date of enactment of this Act.
+  - **(1)** *In general* Except as otherwise provided in this subsection, the Secretary may not use a private sector entity as a lead systems integrator for procurements under, or in support of, the Deepwater Program beginning on the earlier of October 1, 2011, or the date on which the Secretary certifies in writing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that the Coast Guard has available and can retain sufficient contracting personnel and expertise within the Coast Guard, through an arrangement with other Federal agencies, or through contracts or other arrangements with private sector entities, to perform the functions and responsibilities of the lead system integrator in an efficient and cost-effective manner.
   - **(2)** *Completion of existing delivery orders and task orders* The Secretary may use a private sector entity as a lead systems integrator to complete any delivery order or task order under the Deepwater Program that was issued to the lead systems integrator on or before the date of enactment of this Act.
   - **(3)** *Assistance of other Federal agencies* In any case in which the Secretary is the systems integrator under the Deepwater Program, the Secretary may obtain any type of assistance the Secretary considers appropriate, with any systems integration functions, from any Federal agency with experience in systems integration involving maritime vessels and aircraft.
+  - **(4)** *Assistance of private sector entities* In any case in which the Secretary is the systems integrator under the Deepwater Program, the Secretary may, subject to the availability of appropriations, obtain by grant, contract, or cooperative agreement any type of assistance the Secretary considers appropriate, with any systems integration functions, from any private sector entity with experience in systems integration involving maritime vessels and aircraft.
 - **(b)** *Competition*
   - **(1)** *In general* Except as otherwise provided in this subsection, the Secretary shall use full and open competition for each class of asset acquisitions under the Deepwater Program for which an outside contractor is used, if the asset is procured directly by the Coast Guard or by the Integrated Coast Guard System acting under a contract with the Coast Guard.
   - **(2)** *Exception* The Secretary may use a procurement method that is less than full and open competition to procure an asset under the Deepwater Program, if—
@@ -56,7 +57,6 @@ This Act may be cited as the “Integrated Deepwater Program Reform Act”.
   > - **(a)** *Establishment of agency Chief Acquisition Officer* The Commandant shall appoint or designate a career reserved employee as Chief Acquisition Officer for the Coast Guard, who shall—
   >   - **(1)** have acquisition management as that official’s primary duty; and
   >   - **(2)** report directly to the Commandant to advise and assist the Commandant to ensure that the mission of the Coast Guard is achieved through the management of the Coast Guard’s acquisition activities.
-  >
   > - **(b)** *Authority and functions of the Chief Acquisition Officer* The functions of the Chief Acquisition Officer shall include—
   >   - **(1)** monitoring the performance of acquisition activities and acquisition programs of the Coast Guard, evaluating the performance of those programs on the basis of applicable performance measurements, and advising the Commandant regarding the appropriate business strategy to achieve the mission of the Coast Guard;
   >   - **(2)** increasing the use of full and open competition in the acquisition of property and services by the Coast Guard by establishing policies, procedures, and practices that ensure that the Coast Guard receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Government’s requirements (including performance and delivery schedules) at the lowest cost or best value considering the nature of the property or service procured;
@@ -70,6 +70,9 @@ This Act may be cited as the “Integrated Deepwater Program Reform Act”.
   >     - **(C)** reporting to the Commandant on the progress made in improving acquisition management capability.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following:
+- **(c)** *Special rate supplements*
+  - **(1)** *Requirement to establish* Not later than 1 year after the date of enactment of this Act and in accordance with part 9701.333 of title 5, Code of Federal Regulations, the Commandant of the Coast Guard shall establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this section.
+  - **(2)** *Subject to appropriations* The requirement under paragraph (1) is subject to the availability of appropriations.
 
 ## § 4. Testing and certification
 
@@ -123,6 +126,12 @@ This Act may be cited as the “Integrated Deepwater Program Reform Act”.
     - **(B)** a formal organizational chart and identification of when managerial positions are to be filled.
   - **(10)** Ninety days prior to the issuance of a Request for Proposals for construction of an Offshore Patrol Cutter, a report detailing the service life, fatigue life, maximum range, maximum speed, and number of days underway under general Atlantic and North Pacific Sea conditions the cutter shall be built to achieve.
   - **(11)** The Secretary shall report annually on the percentage of the total amount of funds expended on procurements under the Deepwater Program that has been paid to each of small businesses and minority-owned businesses.
+  - **(12)** Within 120 days after the date of enactment of this Act, a report on any Coast Guard mission performance gap due to the removal of Deepwater Program assets from service. The report shall include the following:
+    - **(A)** A description of the mission performance gap detailing the geographic regions and Coast Guard capabilities affected.
+    - **(B)** An analysis of factors affecting the mission performance gap that are unrelated to the Deepwater Program, including deployment of Coast Guard assets overseas and continuous vessel shortages.
+    - **(C)** A description of measures being taken in the near term to fill the mission performance gap, including what those measures are and when they will be implemented.
+    - **(D)** A description of measures being taken in the long term to fill the mission performance gap, including what those measures are and when they will be implemented.
+    - **(E)** A description of the potential alternatives to fill the mission performance gap, including any acquisition or lease considered and the reasons they were not pursued.
 - **(b)** *Report required on acceptance of delivery of incomplete asset*
   - **(1)** *In general* If the Secretary accepts delivery of an asset after the date of enactment of this Act for which a contractually required certification cannot be achieved within 30 days after the date of delivery or with any system that is not fully functional for the mission for which it was intended, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the United States Senate within 30 days after accepting delivery of the asset a report explaining why acceptance of the asset in such a condition is in the best interests of the United States Government.
   - **(2)** *Contents* The report shall—
@@ -130,7 +139,18 @@ This Act may be cited as the “Integrated Deepwater Program Reform Act”.
     - **(B)** identify milestones for the completion of required certifications and to make all systems fully functional; and
     - **(C)** identify when the milestones will be completed, who will complete them, and the cost to complete them.
 
-## § 7. Definitions
+## § 7. Use of the Naval Sea Systems Command, the Naval Air Systems Command, and the Space and Naval Warfare Systems Command to assist the Coast Guard in exercising technical authority for the Deepwater Program and other Coast Guard acquisition programs
+
+- **(a)** *Findings* Congress finds that the Coast Guard’s use of the technical, contractual, and program management oversight expertise of the Department of the Navy in ship and aircraft production complements and augments the Coast Guard’s organic expertise as it procures assets for the Deepwater Program.
+- **(b)** *Inter-service technical assistance* The Secretary may enter into a memorandum of understanding or a memorandum of agreement with the Secretary of the Navy to provide for the use of the Navy Systems Commands to assist the Coast Guard with the oversight of Coast Guard major acquisition programs. Such memorandum of understanding or memorandum of agreement shall, at a minimum provide for—
+  - **(1)** the exchange of technical assistance and support that the Coast Guard Chief Engineer and the Coast Guard Chief Information Officer, as Coast Guard Technical Authorities, may identify;
+  - **(2)** the use, as appropriate, of Navy technical expertise; and
+  - **(3)** the temporary assignment or exchange of personnel between the Coast Guard and the Navy Systems Commands to facilitate the development of organic capabilities in the Coast Guard.
+- **(c)** *Technical authorities* The Coast Guard Chief Engineer, Chief Information Officer, and Chief Acquisition Officer shall adopt, to the extent practicable, procedures that are similar to those used by the Navy Senior Acquisition Official to ensure the Coast Guard Technical Authorities, or designated Technical Warrant Holders, approve all technical requirements.
+- **(d)** *Coordination* The Secretary, acting through the Commandant of the Coast Guard, may coordinate with the Secretary of the Navy, acting through the Chief of Naval Operations, to develop processes by which the assistance will be requested from the Navy Systems Commands and provided to the Coast Guard.
+- **(e)** *Report* Not later than 120 days after the date of enactment of this Act and every twelve months thereafter, the Commandant of the Coast Guard shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the activities undertaken pursuant to such memorandum of understanding or memorandum of agreement.
+
+## § 8. Definitions
 
 In this Act:
 
