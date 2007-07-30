@@ -1,7 +1,7 @@
 ---
 measure: H.R. 31
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 31
@@ -39,3 +39,8 @@ Elsinore Valley Municipal Water District Wastewater and Recycled Water Facilitie
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 152.
 - 2007-07-23 — Reported by the Committee on Natural Resources. H. Rept. 110-243.
 - 2007-07-23 — Reported by the Committee on Natural Resources. H. Rept. 110-243.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR H8829-8830)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mrs. Christensen asked unanimous consent to discharge the Committee of the Whole House on the State of the Union.
+- 2007-07-30 — On passage Passed without objection. (text: CR H8830)
+- 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8830)
