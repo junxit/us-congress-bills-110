@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2107
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2107
@@ -26,3 +26,11 @@ To create the Office of Chief Financial Officer of the Government of the Virgin 
 - 2007-05-02 — Introduced in House
 - 2007-05-02 — Referred to the House Committee on Natural Resources.
 - 2007-05-02 — Sponsor introductory remarks on measure. (CR E926-927)
+- 2007-05-11 — Referred to the Subcommittee on Insular Affairs.
+- 2007-07-30 — Committee on Natural Resources discharged.
+- 2007-07-30 — Committee on Natural Resources discharged.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR H8824-8825)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mrs. Christensen asked unanimous consent to discharge from committee and consider.
+- 2007-07-30 — On passage Passed without objection. (text: CR H8824-8825)
+- 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8824-8825)
