@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 488
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 488
@@ -16,7 +16,7 @@ Congratulating the Detroit Tigers for winning the 2006 American League Pennant a
 
 - Rep. Rogers, Mike J. [R-MI-8] (R000572)
 
-## Cosponsors (41)
+## Cosponsors (50)
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
@@ -59,6 +59,15 @@ Congratulating the Detroit Tigers for winning the 2006 American League Pennant a
 - Rep. Ferguson, Mike [R-NJ-7] (F000443)
 - Rep. Boozman, John [R-AR-3] (B001236)
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
 ## Committees (1)
 
@@ -69,3 +78,12 @@ Congratulating the Detroit Tigers for winning the 2006 American League Pennant a
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR 7/31/2007 H8840-8841)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.
+- 2007-07-30 — On agreeing to the resolution Agreed to without objection. (text: CR 7/31/2007 H8840-8841)
+- 2007-07-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR 7/31/2007 H8840-8841)
