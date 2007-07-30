@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 551
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 551
@@ -79,3 +79,12 @@ Acknowledging the progress made and yet to be made to rebuild the Gulf Coast reg
 - 2007-07-16 — Introduced in House
 - 2007-07-16 — Introduced in House
 - 2007-07-16 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR 7/31/2007 H8839-8840)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.
+- 2007-07-30 — On agreeing to the resolution Agreed to without objection. (text: CR 7/31/2007 H8839-8840)
+- 2007-07-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR 7/31/2007 H8839-8840)
