@@ -1,7 +1,7 @@
 ---
 measure: S. 375
 congress: 110
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 375
@@ -38,3 +38,15 @@ A bill to waive application of the Indian Self-Determination and Education Assis
 - 2007-05-23 — Message on Senate action sent to the House.
 - 2007-05-23 — Received in the House.
 - 2007-05-23 — Referred to the House Committee on Natural Resources.
+- 2007-07-11 — Committee Hearings Held.
+- 2007-07-18 — Committee Consideration and Mark-up Session Held.
+- 2007-07-18 — Ordered to be Reported.
+- 2007-07-30 — Cleared for White House.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR H8829)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mrs. Christensen asked unanimous consent to discharge from committee and consider.
+- 2007-07-30 — On passage Passed without objection. (text: CR H8829)
+- 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8829)
+- 2007-07-30 — Placed on the Union Calendar, Calendar No. 178.
+- 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-276.
+- 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-276.
