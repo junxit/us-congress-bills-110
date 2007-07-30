@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2722
@@ -16,9 +16,10 @@ Integrated Deepwater Program Reform Act
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 
 ## Committees (1)
 
@@ -29,3 +30,15 @@ Integrated Deepwater Program Reform Act
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-06-15 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2007-06-26 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-06-26 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-06-28 — Committee Consideration and Mark-up Session Held.
+- 2007-06-28 — Ordered to be Reported by Voice Vote.
+- 2007-07-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8930-8935)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2722.
+- 2007-07-30 — Mr. Cummings moved to suspend the rules and pass the bill, as amended.
+- 2007-07-30 — Placed on the Union Calendar, Calendar No. 172.
+- 2007-07-30 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-270.
+- 2007-07-30 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-270.
