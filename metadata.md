@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2309
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2309
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 3916 Mi
 
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Rep. Price, Tom [R-GA-6] (P000591)
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
@@ -37,6 +37,7 @@ To designate the facility of the United States Postal Service located at 3916 Mi
 - Rep. Pence, Mike [R-IN-6] (P000587)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
 
 ## Committees (1)
 
@@ -47,3 +48,12 @@ To designate the facility of the United States Postal Service located at 3916 Mi
 - 2007-05-14 — Introduced in House
 - 2007-05-14 — Introduced in House
 - 2007-05-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-06-12 — Committee Consideration and Mark-up Session Held.
+- 2007-06-12 — Ordered to be Reported by Voice Vote.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Committee on Oversight and Government discharged.
+- 2007-07-30 — Considered by unanimous consent. (consideration: CR 7/31/2007 H8841)
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.
+- 2007-07-30 — On passage Passed without objection. (text: CR 7/31/2007 H8841)
+- 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR 7/31/2007 H8841)
