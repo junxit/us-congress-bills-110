@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2874
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -69,8 +69,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 521` | insert | Subchapter II of chapter 5 of title 38, United States Code, is amended by inserting after section 521 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 521` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 521 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Subchapter II of chapter 5 of title 38, United States Code, is amended by inserting after section 521 the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 521 the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter I of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1708 the following new item: | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 1710` | insert | in subparagraph (B), by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
@@ -78,8 +78,8 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 1710` | strike | by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1710(f)(2)(B) is amended by striking “2007” and inserting “2009”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1729(a)(2)(E) is amended by striking “2007” and inserting “2009”. | the bill names no machine-readable US Code section |
-| `38 U.S.C. § 1712B` | insert | Subchapter II of chapter 17 of title 38, United States Code, is amended by inserting after section 1712B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1712B` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1712B the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Subchapter II of chapter 17 of title 38, United States Code, is amended by inserting after section 1712B the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1712B the following new item: | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 2023` | strike | by striking “Demonstration” in the subsection heading; | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 2023` | strike | by striking “demonstration”; and | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 2023` | strike | Subsection (c)(1) of such section is amended by striking “demonstration”. | the bill quotes the text struck but describes what replaces it |
