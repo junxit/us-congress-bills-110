@@ -2,7 +2,7 @@
 legis-num: H. RES. 568
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 568
@@ -23,6 +23,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the members of the 1st Battalion, 133rd Infantry were scheduled to return home in April 2007, but had their tours of duty extended until July 2007;
 - Whereas the members of the 1st Battalion, 133rd Infantry left behind civilian jobs, friends, and families in order to serve the United States;
 - Whereas 1st Battalion, 133rd Infantry members Sergeant 1st Class Scott E. Nisely and Sergeant Kampha B. Sourivong gave the ultimate sacrifice for their country when they were tragically killed during combat operations near Al Asad, Iraq, on September 30, 2006; and
-- Whereas the United States will be forever indebted to the soldiers and families of the 1st Battalion, 133rd Infantry for their sacrifices and their contributions to the United States mission in Iraq: Now, therefore be it
+- Whereas the United States will be forever indebted to the soldiers and families of the 1st Battalion, 133rd Infantry for their sacrifices and their contributions to the United States mission in Iraq: Now, therefore, be it
 
 That the House of Representatives honors and expresses gratitude for the service and sacrifices of the members and families of the 1st Battalion of the 133rd Infantry of the Iowa National Guard upon their return home from their deployment in Iraq.

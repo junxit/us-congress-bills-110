@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 568
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 568
@@ -98,3 +98,9 @@ Honoring and expressing gratitude to the 1st Battalion of the 133rd Infantry ("I
 - 2007-07-25 — Introduced in House
 - 2007-07-25 — Introduced in House
 - 2007-07-25 — Referred to the House Committee on Armed Services.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8928-8930)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 568.
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Ms. Bordallo moved to suspend the rules and agree to the resolution.
+- 2007-07-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 7/31/2007 H8928)
+- 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 7/31/2007 H8928)
