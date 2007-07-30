@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 23
@@ -285,3 +285,10 @@ Belated Thank You to the Merchant Mariners of World War II Act of 2007
 - 2007-07-27 — Placed on the Union Calendar, Calendar No. 171.
 - 2007-07-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-269, Part I.
 - 2007-07-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-269, Part I.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8884-8887)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 23.
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2007-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2007 H8884)
+- 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2007 H8884)
+- 2007-07-30 — The title of the measure was amended. Agreed to without objection.
