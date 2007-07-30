@@ -11,6 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Prohibition on collection of copayments for all hospice care furnished by Department of Veterans Affairs
 
-Section 1710B(c)(2) of title 38, United States Code is amended by striking subparagraph (B) and inserting after subparagraph (A) the following new subparagraph (B):
+Title 38, United States Code, is amended—
 
-> - **(B)** to a veteran being furnished inpatient or outpatient hospice care by the Department; or
+- **(1)** in section 1710(f)(1), by inserting “(except if such care constitutes hospice care)” after “nursing home care”;
+- **(2)** in section 1710(g)(1), by inserting “(except if such services constitute hospice care)” after “medical services”; and
+- **(3)** in section 1710B(c)(2), by striking subparagraph (B) and inserting after subparagraph (A) the following new subparagraph (B):
+  > - **(B)** to a veteran being furnished inpatient or outpatient hospice care by the Department; or

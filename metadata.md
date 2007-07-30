@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2623
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2623
@@ -37,3 +37,9 @@ To amend title 38, United States Code, to prohibit the collection of copayments 
 - 2007-07-27 — Placed on the Union Calendar, Calendar No. 169.
 - 2007-07-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-267.
 - 2007-07-27 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-267.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8897-8898)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2623.
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2007-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2007 H8897-8898)
+- 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2007 H8897-8898)

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2623
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1710B(c)(2) of title 38, United States Code is amended by striking subparagraph (B) and inserting after subparagraph (A) the following new subparagraph (B): | the bill names no machine-readable US Code section |
 | — | insert | in section 1710(f)(1), by inserting “(except if such care constitutes hospice care)” after “nursing home care”; | the bill names no machine-readable US Code section |
-| — | insert | in section 1710(g)(1), by inserting ““(except if such services constitute hospice care)” after “medical services”; and | the bill names no machine-readable US Code section |
+| — | insert | in section 1710(g)(1), by inserting “(except if such services constitute hospice care)” after “medical services”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 1710B(c)(2), by striking subparagraph (B) and inserting after subparagraph (A) the following new subparagraph (B): | the bill names no machine-readable US Code section |
