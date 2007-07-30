@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3067
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1437c-1` | add-at-end | Section 5A(b) of the United States Housing Act of 1937 (42 U.S.C. 1437c–1(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437c-1` | insert | in subsection (e), by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437c-1` | add-at-end | in subsection (f) (as so designated by the amendment made by paragraph (1) of this subsection), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437c-1` | amend | Subsection (g) of section 5A of the United States Housing Act of 1937 (42 U.S.C. 1437c–1(g)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

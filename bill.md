@@ -20,10 +20,12 @@ This Act may be cited as the “Small Public Housing Authority Act”.
   >   - **(A)** *In general* Notwithstanding paragraph (1) or any other provision of this Act—
   >     - **(i)** the requirement under paragraph (1) shall not apply to any qualified small public housing agency; and
   >     - **(ii)** except as provided in subsection (e)(4)(B), any reference in this section or any other provision of law to a “public housing agency” shall not be considered to refer to any qualified small public housing agency, to the extent such reference applies to the requirement to submit an annual public housing agency plan under this subsection.
-  >   - **(B)** *Civil rights certification* Notwithstanding that qualified small public housing agencies are exempt pursuant to subparagraph (A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified small public housing agency shall, on an annual basis, make the certification described in paragraph (15) of subsection (d) of this section, except that for purposes of such small public housing agencies, such paragraph shall be applied by substituting “the public housing program of the agency” for “the public housing agency plan”.
+  >   - **(B)** *Civil rights certification* Notwithstanding that qualified small public housing agencies are exempt pursuant to subparagraph (A) from the requirement under this section to prepare and submit an annual public housing plan, each qualified small public housing agency shall, on an annual basis, make the certification described in paragraph (16) of subsection (d) of this section, except that for purposes of such small public housing agencies, such paragraph shall be applied by substituting “the public housing program of the agency” for “the public housing agency plan”.
   >   - **(C)** *Definition* For purposes of this section, the term qualified small public housing agency means a public housing agency that meets all of the following requirements:
   >     - **(i)** The sum of (I) the number of public housing dwelling units administered by the agency, and (II) the number of vouchers under section 8(o) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) administered by the agency, is 250 or fewer.
-  >     - **(ii)** The agency is not designated pursuant to section 6(j)(2) as a troubled public housing agency.
+  >     - **(ii)** The agency—
+  >       - **(I)** is not designated pursuant to section 6(j)(2) as a troubled public housing agency; and
+  >       - **(II)** has not, within the preceding 12 months, been assigned a failing or below passing score under the section 8 management assessment program of the Secretary.
 
 - **(b)** *Resident participation* Section 5A of the United States Housing Act of 1937 (42 U.S.C. 1437c–1) is amended—
   - **(1)** in subsection (e), by inserting after paragraph (3) the following:
@@ -38,3 +40,6 @@ This Act may be cited as the “Small Public Housing Authority Act”.
     >   - **(B)** *Availability of information and notice* Not later than 45 days before the date of such a hearing, the qualified small public housing agency shall—
     >     - **(i)** make all information relevant to the hearing and any determinations of the agency regarding the goals, objectives, and policies of the agency to be considered at the hearing available for inspection by the public at the principal office of the public housing agency during normal business hours; and
     >     - **(ii)** publish a notice informing the public that (I) the information is available as required under clause (i), and (II) a public hearing under subparagraph (A) will be conducted.
+
+- **(c)** *Amendments and modifications to plans* Subsection (g) of section 5A of the United States Housing Act of 1937 (42 U.S.C. 1437c–1(g)) is amended by adding at the end the following new paragraph:
+  > - **(3)** *Qualified small public housing agencies* Except to the extent that this subsection applies to annual public housing agency plans, nothing in this section may be construed to exempt a qualified small public housing agency from the requirements under this subsection.
