@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3206
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3206
@@ -35,3 +35,6 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2007-07-30 — Mr. Grijalva moved to suspend the rules and pass the bill.
 - 2007-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2007 H8899-8900)
 - 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2007 H8899-8900)
+- 2007-07-31 — Cleared for White House.
+- 2007-07-31 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10524-10525)
+- 2007-07-31 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10524-10525)
