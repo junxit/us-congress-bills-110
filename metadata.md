@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3006
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3006
@@ -38,3 +38,4 @@ To improve the use of a grant of a parcel of land to the State of Idaho for use 
 - 2007-07-30 — Ms. Herseth Sandlin moved to suspend the rules and pass the bill.
 - 2007-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2007 H8912)
 - 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2007 H8912)
+- 2007-07-31 — Received in the Senate, read twice.
