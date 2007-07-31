@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3206
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3206
@@ -38,3 +38,10 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2007-07-31 — Cleared for White House.
 - 2007-07-31 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10524-10525)
 - 2007-07-31 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10524-10525)
+- 2007-08-01 — Message on Senate action sent to the House.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Presented to President.
+- 2007-08-08 — Became Public Law No: 110-57.
+- 2007-08-08 — Became Public Law No: 110-57.
+- 2007-08-08 — Signed by President.
+- 2007-08-08 — Signed by President.
