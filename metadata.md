@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2347
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2347
@@ -69,6 +69,10 @@ Iran Sanctions Enabling Act of 2007
 - House — Education and the Workforce Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2007-07-31 — [House 110-1-765](votes/house-110-1-0765.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (408–6)
+
 ## Actions
 
 - 2007-05-16 — Introduced in House
@@ -90,3 +94,8 @@ Iran Sanctions Enabling Act of 2007
 - 2007-07-30 — Placed on the Union Calendar, Calendar No. 179.
 - 2007-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-277, Part I.
 - 2007-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-277, Part I.
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9211-9212)
+- 2007-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 6 (Roll no. 765). (text: CR H8855-8856)
+- 2007-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 6 (Roll no. 765).(text: CR H8855-8856)
+- 2007-07-31 — The title of the measure was amended. Agreed to without objection.
