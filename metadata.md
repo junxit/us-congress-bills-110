@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2309
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2309
@@ -58,3 +58,13 @@ To designate the facility of the United States Postal Service located at 3916 Mi
 - 2007-07-30 — On passage Passed without objection. (text: CR 7/31/2007 H8841)
 - 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR 7/31/2007 H8841)
 - 2007-07-31 — Received in the Senate, read twice.
+- 2007-08-03 — Cleared for White House.
+- 2007-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10978-10979)
+- 2007-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10978-10979)
+- 2007-08-04 — Message on Senate action sent to the House.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Presented to President.
+- 2007-08-09 — Became Public Law No: 110-70.
+- 2007-08-09 — Became Public Law No: 110-70.
+- 2007-08-09 — Signed by President.
+- 2007-08-09 — Signed by President.
