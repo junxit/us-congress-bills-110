@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2952
 congress: 110
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 2952
@@ -47,3 +47,4 @@ To authorize the Saginaw Chippewa Tribe of Indians of the State of Michigan to c
 - 2007-07-30 — Placed on the Union Calendar, Calendar No. 177.
 - 2007-07-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-275.
 - 2007-07-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-275.
+- 2007-07-31 — Received in the Senate, read twice.
