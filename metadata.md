@@ -1,7 +1,7 @@
 ---
 measure: H.R. 957
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 957
@@ -16,7 +16,7 @@ To amend the Iran Sanctions Act of 1996 to expand and clarify the entities again
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (57)
+## Cosponsors (59)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Pence, Mike [R-IN-6] (P000587)
@@ -75,6 +75,8 @@ To amend the Iran Sanctions Act of 1996 to expand and clarify the entities again
 - Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
 - Rep. Saxton, Jim [R-NJ-3] (S000097)
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
 ## Committees (4)
 
@@ -108,3 +110,11 @@ To amend the Iran Sanctions Act of 1996 to expand and clarify the entities again
 - 2007-07-13 — Committee on Ways and Means discharged.
 - 2007-07-13 — Committee on Ways and Means discharged.
 - 2007-07-13 — Placed on the Union Calendar, Calendar No. 144.
+- 2007-07-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8866-8868)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 957.
+- 2007-07-30 — Mr. Faleomavaega moved to suspend the rules and pass the bill, as amended.
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9229)
+- 2007-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 11 (Roll no. 772). (text: CR H8866)
+- 2007-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 11 (Roll no. 772).(text: CR H8866)
