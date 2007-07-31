@@ -1,7 +1,7 @@
 ---
 measure: H.R. 176
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 176
@@ -16,7 +16,7 @@ Shirley A. Chisholm United States-Caribbean Educational Exchange Act of 2008
 
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 
-## Cosponsors (57)
+## Cosponsors (58)
 
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
@@ -75,6 +75,7 @@ Shirley A. Chisholm United States-Caribbean Educational Exchange Act of 2008
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Scott, David [D-GA-13] (S001157)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
 ## Committees (1)
 
@@ -90,3 +91,12 @@ Shirley A. Chisholm United States-Caribbean Educational Exchange Act of 2008
 - 2007-07-23 — Placed on the Union Calendar, Calendar No. 163.
 - 2007-07-23 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-254.
 - 2007-07-23 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-254.
+- 2007-07-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8861-8866)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 176.
+- 2007-07-30 — Mr. Faleomavaega moved to suspend the rules and pass the bill, as amended.
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9228-9229)
+- 2007-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 55 (Roll no. 771). (text: CR H8861-8863)
+- 2007-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 55 (Roll no. 771).(text: CR H8861-8863)
+- 2007-07-31 — The title of the measure was amended. Agreed to without objection.

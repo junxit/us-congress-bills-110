@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 176
 
-> To authorize assistance to the countries of the Caribbean to fund educational development and exchange programs.
+> To authorize the establishment of educational exchange and development programs for member countries of the Caribbean Community (CARICOM).
 
 ## § 1. Short title and table of contents
 
