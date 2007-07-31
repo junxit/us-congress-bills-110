@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3159
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3159
@@ -16,7 +16,7 @@ Ensuring Military Readiness Through Stability and Predictability Deployment Poli
 
 - Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
 
-## Cosponsors (19)
+## Cosponsors (22)
 
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
@@ -37,6 +37,9 @@ Ensuring Military Readiness Through Stability and Predictability Deployment Poli
 - Rep. Smith, Adam [D-WA-9] (S000510)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 
 ## Committees (1)
 
@@ -47,3 +50,8 @@ Ensuring Military Readiness Through Stability and Predictability Deployment Poli
 - 2007-07-24 — Introduced in House
 - 2007-07-24 — Introduced in House
 - 2007-07-24 — Referred to the House Committee on Armed Services.
+- 2007-07-27 — Committee Consideration and Mark-up Session Held.
+- 2007-07-27 — Ordered to be Reported by the Yeas and Nays: 32 - 25.
+- 2007-07-31 — Placed on the Union Calendar, Calendar No. 183.
+- 2007-07-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-282.
+- 2007-07-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-282.
