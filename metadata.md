@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 236
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 236
@@ -50,3 +50,5 @@ A resolution supporting the goals and ideals of the National Anthem Project, whi
 - 2007-07-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-07-20 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-07-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 276.
+- 2007-07-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S10527; text as passed Senate: CR S10527)
+- 2007-07-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S10527; text as passed Senate: CR S10527)
