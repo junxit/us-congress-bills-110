@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 255
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 255
@@ -24,3 +24,7 @@ A resolution recognizing and supporting the long distance runs that will take pl
 
 - 2007-06-26 — Introduced in Senate
 - 2007-06-26 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8418)
+- 2007-07-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S10527-10528)
+- 2007-07-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S10527-10528)
+- 2007-07-31 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S10527-10528)
+- 2007-07-31 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S10527-10528)
