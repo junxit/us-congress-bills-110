@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3056
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,17 +31,17 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the bill names no machine-readable US Code section |
-| — | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the bill names no machine-readable US Code section |
-| — | strike | Section 7811 is amended by striking subsection (g). | the bill names no machine-readable US Code section |
-| — | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the bill names no machine-readable US Code section |
-| — | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the bill names no machine-readable US Code section |
-| — | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 6306` | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6306` | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6306` | strike | Section 7811 is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6306` | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6306` | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6306` | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Subsection (b) of section 511 of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “December 31, 2010” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (c) of section 932 (relating to treatment of Virgin Islands residents) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `8 U.S.C. § 1481` | insert | Subpart A of part II of subchapter N of chapter 1 is amended by inserting after section 877 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1481` | insert | Subtitle B (relating to estate and gift taxes) is amended by inserting after chapter 14 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1481` | insert | The table of chapters for subtitle B is amended by inserting after the item relating to chapter 13 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1481` | insert | The table of chapters for subtitle B is amended by inserting after the item relating to chapter 14 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1481` | add-at-end | Section 7701(a) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1481` | amend | Paragraph (1) of section 877(e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1481` | add-at-end | Paragraph (6) of section 7701(b) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
