@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2863
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2863
@@ -43,3 +43,13 @@ To authorize the Coquille Indian Tribe of the State of Oregon to convey land and
 - 2007-07-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-274.
 - 2007-07-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-274.
 - 2007-07-31 — Received in the Senate, read twice.
+- 2007-08-02 — Cleared for White House.
+- 2007-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10844)
+- 2007-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10844)
+- 2007-08-03 — Message on Senate action sent to the House.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Presented to President.
+- 2007-08-13 — Became Public Law No: 110-75.
+- 2007-08-13 — Became Public Law No: 110-75.
+- 2007-08-13 — Signed by President.
+- 2007-08-13 — Signed by President.
