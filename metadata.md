@@ -1,7 +1,7 @@
 ---
 measure: H.R. 986
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 986
@@ -27,6 +27,12 @@ Eightmile Wild and Scenic River Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (3)
+
+- 2007-07-11 — [House 110-1-615](votes/house-110-1-0615.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (239–173)
+- 2007-07-31 — [House 110-1-766](votes/house-110-1-0766.md) — On Motion to Recommit with Instructions — **Failed** (200–225)
+- 2007-07-31 — [House 110-1-767](votes/house-110-1-0767.md) — On Passage — **Passed** (253–172)
+
 ## Actions
 
 - 2007-02-12 — Introduced in House
@@ -45,3 +51,24 @@ Eightmile Wild and Scenic River Act
 - 2007-07-10 — Placed on the Union Calendar, Calendar No. 136.
 - 2007-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-220.
 - 2007-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-220.
+- 2007-07-11 — Considered as unfinished business. (consideration: CR H7627-7628)
+- 2007-07-11 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 239 - 173 (Roll no. 615).(text: CR 7/10/2007 CR H7440-7441)
+- 2007-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-11 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 239 - 173 (Roll no. 615). (text: CR 7/10/2007 CR H7440-7441)
+- 2007-07-27 — Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 986 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-07-30 — Considered under the provisions of rule H. Res. 580. (consideration: CR 7/31/2007 H8950-8957; text of measure as introduced: CR H8950-8951)
+- 2007-07-30 — DEBATE - The House proceeded with one hour of debate on H.R. 986.
+- 2007-07-30 — House amendment offered
+- 2007-07-30 — Rule H. Res. 580 passed House.
+- 2007-07-30 — Rule provides for consideration of H.R. 986 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9223-9225)
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9225-9226)
+- 2007-07-31 — DEBATE - The House proceeded with 10 minutes of debate on the Pearce motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House forthwith with an amendment to prohibit federal funds to be used to condemn land to carry out the purposes of this Act or the amendment mabe by subsection (b).".
+- 2007-07-31 — DEBATE - The House resumed debate on H.R. 986.
+- 2007-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-31 — Mr. Pearce moved to recommit with instructions to Natural Resources. (consideration: CR H9223-9225; text: CR H9223)
+- 2007-07-31 — On motion to recommit with instructions Failed by the Yeas and Nays: 200 - 225 (Roll no. 766). (consideration: CR H9229)
+- 2007-07-31 — On passage Passed by the Yeas and Nays: 253 - 172 (Roll No. 767). (text: CR H8951-8952)
+- 2007-07-31 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 253 - 172 (Roll No. 767).(text: CR H8951-8952)
+- 2007-07-31 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9225)
+- 2007-07-31 — The previous question was ordered pursuant to the rule. (consideration: CR H9223)
