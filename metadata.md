@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 7
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 7
@@ -29,3 +29,7 @@ A joint resolution providing for the reappointment of Roger W. Sant as a citizen
 
 - 2007-03-08 — Introduced in Senate
 - 2007-03-08 — Read twice and referred to the Committee on Rules and Administration.
+- 2007-07-31 — Passed Senate without amendment by Unanimous Consent. (text: CR S10525)
+- 2007-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S10525)
+- 2007-07-31 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S10525)
+- 2007-07-31 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S10525)
