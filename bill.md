@@ -1,0 +1,63 @@
+---
+legis-num: H.R. 3254
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3254
+
+> To limit cost growth associated with major defense base closures and realignments implemented as part of the 2005 round of defense base closure and realignment.
+
+## § 1. Short title
+
+This Act may be cited as the “BRAC Cost Overruns Protection Act of 2007” or the “BRAC COP Act of 2007”.
+
+## § 2. Limitation on cost growth associated with 2005 round of defense base closure and realignment
+
+The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) is amended by adding at the end the following new section:
+
+> ## § 2915. Limitation on cost growth applicable to major closures and realignments under 2005 round
+>
+> - **(a)** *Semiannual report on implementation costs*
+>   - **(1)** *In general* Not later than October 7, 2007, and every 180 days thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the costs of implementing the recommendations of the Commission contained in the report transmitted to Congress on September 15, 2005, under section 2903(e) that relate to closures and realignments that have not been fully implemented.
+>   - **(2)** *Estimates required* Each report submitted under paragraph (1) shall include, for each individual recommended major base closure or realignment—
+>     - **(A)** the baseline estimate of one-time implementation costs; and
+>     - **(B)** the current estimate of one-time implementation costs, including any increase attributable to actual or anticipated costs due to inflation.
+> - **(b)** *Special procedures required To address certain cost increases*
+>   - **(1)** *Notification requirement* In the event that the Secretary of Defense determines, based on a report prepared under subsection (a), that the current estimate of one-time implementation costs for an individual major base closure or realignment is at least 25 percent greater than the baseline estimate of one-time implementation costs for such closure or realignment (in this section referred to as a “substantially over budget major base closure or realignment”), the Secretary shall promptly provide notification of such determination, including the amount of the expected increase and the date the determination was made, to the chairman and ranking member of each of the congressional defense committees.
+>   - **(2)** *Business plan to control costs* The Secretary of Defense shall develop a business plan to reduce the costs of any individual substantially over budget major base closure or realignment to a level less than 25 percent greater than the baseline estimate for such closure or realignment.
+> - **(c)** *Implementation of substantially over budget major base closures and realignments*
+>   - **(1)** *Recommendations* Not later than 45 days after an individual base closure or realignment is identified in a report required under subsection (a) as a substantially over budget major base closure or realignment, the Secretary of Defense shall submit to the President a recommendation regarding whether to continue implementation of such closure or realignment.
+>   - **(2)** *Justification required* In the event the Secretary recommends that an individual substantially over budget major base closure or realignment should continue to be implemented despite the excessive cost overruns, the Secretary shall include the justification for continuing such closure or realignment.
+>   - **(3)** *Report to Congress* Not later than 30 days after receiving a recommendation regarding whether to continue implementation of an individual substantially over budget major base closure or realignment under paragraph (1), the President shall submit to Congress a report including the recommendation of the President regarding the implementation of such closure or realignment.
+>   - **(4)** *Congressional disapproval*
+>     - **(A)** *In general* The Secretary of Defense may not continue or discontinue the implementation of an individual substantially over budget major base closure or realignment recommended by the President under paragraph (3) if a joint resolution is enacted, in accordance with the provisions of subsection (d), disapproving such recommendation of the President before the earlier of—
+>       - **(i)** the end of the 45-day period beginning on the date on which the President submits to Congress a report under paragraph (3) that includes a recommendation regarding the implementation of an individual substantially over budget major base closure or realignment; or
+>       - **(ii)** the adjournment of Congress sine die for the session during which such report is submitted.
+>     - **(B)** *Computation of period* For purposes of subparagraph (A) of this paragraph and paragraphs (1) and (2) of subsection (d), the days on which either House of Congress is not in session because of an adjournment of more than three days to a day certain shall be excluded in the computation of a period.
+> - **(d)** *Congressional consideration of recommendation regarding implementation of substantially over budget major base closures or realignment*
+>   - **(1)** *Terms of the resolution* For purposes of subsection (c)(4), the term joint resolution means only a joint resolution which is introduced within the 10-day period beginning on the date on which the President submits to Congress a report under subsection (c)(3) that includes a recommendation regarding the implementation of a substantially over budget major base closure or realignment, and—
+>     - **(A)** which does not have a preamble;
+>     - **(B)** the matter after the resolving clause of which is as follows: “That Congress disapproves the recommendation of the President on ______ with respect to ______”, the blank spaces being filled in with the appropriate date and the name of a military installation or other information that identifies the individual closure or realignment, respectively; and
+>     - **(C)** the title of which is as follows: “Joint resolution disapproving the recommendation of the President regarding implementation of a substantially over budget major base closure or realignment.”.
+>   - **(2)** *Referral* A resolution described in paragraph (1) that is introduced in the House of Representatives shall be referred to the Committee on Armed Services of the House of Representatives. A resolution described in paragraph (1) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
+>   - **(3)** *Discharge* If the committee to which a resolution described in paragraph (1) is referred has not reported such resolution (or an identical resolution) by the end of the 20-day period beginning on the date on which the President submits to Congress a report under subsection (c)(3) that includes a recommendation regarding the implementation of a substantially over budget major base closure or realignment, such committee shall be, at the end of such period, discharged from further consideration of such resolution, and such resolution shall be placed on the appropriate calendar of the House involved.
+>   - **(4)** *Consideration*
+>     - **(A)** *In general* On or after the third day after the date on which the committee to which such a resolution is referred has reported, or has been discharged (under paragraph (3)) from further consideration of, such a resolution, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. A Member may make the motion only on the day after the calendar day on which the Member announces to the House concerned the Member's intention to make the motion, except that, in the case of the House of Representatives, the motion may be made without such prior announcement if the motion is made by direction of the committee to which the resolution was referred. All points of order against the resolution (and against consideration of the resolution) are waived. The motion is highly privileged in the House of Representatives and is privileged in the Senate and is not debatable. The motion is not subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the respective House shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the resolution shall remain the unfinished business of the respective House until disposed of.
+>     - **(B)** *Debate* Debate on the resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 2 hours, which shall be divided equally between those favoring and those opposing the resolution. An amendment to the resolution is not in order. A motion further to limit debate is in order and not debatable. A motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the resolution is not in order. A motion to reconsider the vote by which the resolution is agreed to or disagreed to is not in order.
+>     - **(C)** *Vote on final passage* Immediately following the conclusion of the debate on a resolution described in paragraph (1) and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the appropriate House, the vote on final passage of the resolution shall occur.
+>     - **(D)** *Appeals* Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution described in paragraph (1) shall be decided without debate.
+>   - **(5)** *Consideration by other House*
+>     - **(A)** *Procedures* If, before the passage by one House of a resolution of that House described in paragraph (1), that House receives from the other House a resolution described in paragraph (1), then the following procedures shall apply:
+>       - **(i)** The resolution of the other House shall not be referred to a committee and may not be considered in the House receiving it except in the case of final passage as provided in clause (ii)(II).
+>       - **(ii)** With respect to a resolution described in paragraph (1) of the House receiving the resolution—
+>         - **(I)** the procedure in that House shall be the same as if no resolution had been received from the other House; but
+>         - **(II)** the vote on final passage shall be on the resolution of the other House.
+>     - **(B)** *Disposition* Upon disposition of the resolution received from the other House, it shall no longer be in order to consider the resolution that originated in the receiving House.
+>   - **(6)** *Rules of the Senate and House* This section is enacted by Congress—
+>     - **(A)** as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a resolution described in paragraph (1), and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+>     - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+> - **(e)** *Definitions* In this Act:
+>   - **(1)** *Major base closure or realignment* The term major base closure and realignment means any base closure or realignment that requires $150,000,000 or more in military construction costs and an overall, one-time implementation cost of $300,000,000 or more.
+>   - **(2)** *Baseline estimate of one-time implementation costs* The term baseline estimate of one-time implementation costs means the applicable cost set forth in the Cost of Base Realignment Actions (COBRA) report used and released by the Secretary of Defense at the time the Secretary published in the Federal Register and transmitted to the congressional defense committees and the Commission the initial list of recommendations for closure or realignment of military installations under section 2914(a).
