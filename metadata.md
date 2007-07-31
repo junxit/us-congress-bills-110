@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 27
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S.Con.Res. 27
@@ -50,3 +50,10 @@ A concurrent resolution supporting the goals and ideals of "National Purple Hear
 - 2007-07-17 — Message on Senate action sent to the House.
 - 2007-07-17 — Received in the House.
 - 2007-07-17 — Referred to the House Committee on Armed Services.
+- 2007-07-30 — Considered under suspension of the rules. (consideration: CR 7/31/2007 H8925-8927)
+- 2007-07-30 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 27.
+- 2007-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-30 — Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.
+- 2007-07-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 7/31/2007 H8925-8926)
+- 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 7/31/2007 H8925-8926)
+- 2007-07-31 — Message on House action received in Senate and at desk: House amendment to Senate bill.
