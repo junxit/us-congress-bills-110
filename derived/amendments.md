@@ -1,7 +1,7 @@
 ---
 measure: S. 1607
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+16 amendatory instructions. 0 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,10 @@ complete account of the bill's effect, which it is not.
 | — | repeal | The Exchange Rates and International Economic Policy Coordination Act of 1988 (22 U.S.C. 5301–5306) is repealed. | the bill names no machine-readable US Code section |
 | — | strike | Subsection (h) of section 954 of the Internal Revenue Code of 1986 (relating to special rule for income derived in the active conduct of banking, financing, or similar businesses) is amended by striking paragraph (9). | the bill names no machine-readable US Code section |
 | — | redesignate | Subsection (e) of section 953 of such Code (relating to exempt insurance income) is amended by striking paragraph (10) and by redesignating paragraph (11) as paragraph (10). | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of subparagraph (A); | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end of subparagraph (B) and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 771 of the Tariff Act of 1930 (19 U.S.C. 1677) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end of clause (v); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating clause (vi) as clause (vii) and inserting after clause (v) the following: | the bill names no machine-readable US Code section |
+| — | repeal | The Exchange Rates and International Economic Policy Coordination Act of 1988 (22 U.S.C. 5301 et seq.) is repealed. | the bill names no machine-readable US Code section |
