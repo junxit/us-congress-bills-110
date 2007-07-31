@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2831
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2831
@@ -126,3 +126,17 @@ Lilly Ledbetter Fair Pay Act of 2007
 - 2007-07-18 — Placed on the Union Calendar, Calendar No. 147.
 - 2007-07-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-237.
 - 2007-07-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-237.
+- 2007-07-27 — Rules Committee Resolution H. Res. 579 Reported to House. Rule provides for consideration of H.R. 2831 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as adopted.
+- 2007-07-30 — Considered under the provisions of rule H. Res. 579. (consideration: CR 7/31/2007 H8940-8950; text of measure as introduced: CR 7/31/2007 H8940-8950)
+- 2007-07-30 — DEBATE - The House proceeded with one hour of debate on H.R. 2831.
+- 2007-07-30 — House amendment offered
+- 2007-07-30 — Rule H. Res. 579 passed House.
+- 2007-07-30 — Rule provides for consideration of H.R. 2831 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as adopted.
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9219-9222)
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9226-9227)
+- 2007-07-31 — DEBATE - The House resumed debate on H.R. 2831.
+- 2007-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-31 — On passage Passed by the Yeas and Nays: 225 - 199 (Roll No. 768).
+- 2007-07-31 — POSTPONED PROCEEDINGS - The Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Andrews demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
+- 2007-07-31 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 199 (Roll No. 768).
+- 2007-07-31 — The previous question was ordered pursuant to the rule. (consideration: CR H9222)
