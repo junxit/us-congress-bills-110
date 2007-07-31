@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3056
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3056
@@ -37,3 +37,8 @@ Tax Collection Responsibility Act of 2007
 - 2007-07-17 — Introduced in House
 - 2007-07-17 — Introduced in House
 - 2007-07-17 — Referred to the House Committee on Ways and Means.
+- 2007-07-18 — Committee Consideration and Mark-up Session Held.
+- 2007-07-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 18.
+- 2007-07-31 — Placed on the Union Calendar, Calendar No. 182.
+- 2007-07-31 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-281.
+- 2007-07-31 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-281.

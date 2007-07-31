@@ -24,7 +24,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e).
   - **(4)** The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306.
   - **(5)** The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A.
-- **(c)** *Effective date* The amendments made by this section shall take effect on the date of the enactment of this Act.
+- **(c)** *Effective date*
+  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall take effect on the date of the enactment of this Act.
+  - **(2)** *Exception for existing contracts, etc* The amendments made by this section shall not apply to any contract which was entered into before July 18, 2007, and is not renewed or extended on or after such date.
+  - **(3)** *Unauthorized contracts and extensions treated as void* Any qualified tax collection contract (as defined in section 6306 of the Internal Revenue Code of 1986, as in effect before its repeal) which is entered into on or after July 18, 2007, and any extension or renewal on or after such date of any qualified tax collection contract (as so defined) shall be void.
 
 ## § 3. Delay of application of withholding requirement on certain governmental payments for goods and services
 
@@ -58,7 +61,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >         - **(I)** such dollar amount, multiplied by
   >         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
   >       - **(ii)** *Rounding* If any amount as adjusted under clause (i) is not a multiple of $1,000, such amount shall be rounded to the nearest multiple of $1,000.
-  > - **(b)** *Election to defer tax*
+  > - **(b)** *Election To defer tax*
   >   - **(1)** *In general* If the taxpayer elects the application of this subsection with respect to any property treated as sold by reason of subsection (a), the time for payment of the additional tax attributable to such property shall be extended until the due date of the return for the taxable year in which such property is disposed of (or, in the case of property disposed of in a transaction in which gain is not recognized in whole or in part, until such other date as the Secretary may prescribe).
   >   - **(2)** *Determination of tax with respect to property* For purposes of paragraph (1), the additional tax attributable to any property is an amount which bears the same ratio to the additional tax imposed by this chapter for the taxable year solely by reason of subsection (a) as the gain taken into account under subsection (a) with respect to such property bears to the total gain taken into account under subsection (a) with respect to all property to which subsection (a) applies.
   >   - **(3)** *Termination of extension* The due date for payment of tax may not be extended under this subsection later than the due date for the return of tax imposed by this chapter for the taxable year which includes the date of death of the expatriate (or, if earlier, the time that the security provided with respect to the property fails to meet the requirements of paragraph (4), unless the taxpayer corrects such failure within the time specified by the Secretary).
@@ -77,9 +80,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(d)** *Treatment of deferred compensation items*
   >   - **(1)** *Withholding on eligible deferred compensation items*
   >     - **(A)** *In general* In the case of any eligible deferred compensation item, the payor shall deduct and withhold from any taxable payment to a covered expatriate with respect to such item a tax equal to 30 percent thereof.
-  >     - **(B)** *Taxable payment* For purposes of subparagraph (A), the term taxable payment means with respect to a covered expatriate any payment to the extent it would be includible in the gross income of the covered expatriate if such expatriate were subject to the tax imposed by this chapter. A deferred compensation item referred to in paragraph (4)(D) shall be taken into account as a payment under the preceding sentence when such item would be so includible.
+  >     - **(B)** *Taxable payment* For purposes of subparagraph (A), the term taxable payment means with respect to a covered expatriate any payment to the extent it would be includible in the gross income of the covered expatriate if such expatriate continued to be subject to tax as a citizen or resident of the United States. A deferred compensation item shall be taken into account as a payment under the preceding sentence when such item would be so includible.
   >   - **(2)** *Other deferred compensation items* In the case of any deferred compensation item which is not an eligible deferred compensation item—
-  >     - **(A)** an amount equal to the present value of the expatriate’s accrued benefit shall be treated as having been received by such individual on the day before the expatriation date as a distribution under the plan,
+  >     - **(A)**
+  >       - **(i)** with respect to any deferred compensation item to which clause (ii) does not apply, an amount equal to the present value of the covered expatriate’s accrued benefit shall be treated as having been received by such individual on the day before the expatriation date as a distribution under the plan, and
+  >       - **(ii)** with respect to any deferred compensation item referred to in paragraph (4)(D), the rights of the covered expatriate to such item shall be treated as becoming transferable and not subject to a substantial risk of forfeiture on the day before the expatriation date,
   >     - **(B)** no early distribution tax shall apply by reason of such treatment, and
   >     - **(C)** appropriate adjustments shall be made to subsequent distributions from the plan to reflect such treatment.
   >   - **(3)** *Eligible deferred compensation items* For purposes of this subsection, the term eligible deferred compensation item means any deferred compensation item with respect to which—
@@ -93,14 +98,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >     - **(A)** any interest in a plan or arrangement described in section 219(g)(5),
   >     - **(B)** any interest in a foreign pension plan or similar retirement arrangement or program,
   >     - **(C)** any item of deferred compensation, and
-  >     - **(D)** any property, or right to property, which the individual is entitled to receive in connection with the performance of services to the extent not previously taken into account under section 83.
+  >     - **(D)** any property, or right to property, which the individual is entitled to receive in connection with the performance of services to the extent not previously taken into account under section 83 or in accordance with section 83.
   >   - **(5)** *Exception* Paragraphs (1) and (2) shall not apply to any deferred compensation item which is attributable to services performed outside the United States while the covered expatriate was not a citizen or resident of the United States.
-  >   - **(6)** *Special rules* For purposes of this subsection—
-  >     - **(A)** *Application of withholding rules* Rules similar to the rules of subchapter B of chapter 3 shall apply.
-  >     - **(B)** *Coordination with other withholding requirements* Any item subject to withholding under paragraph (1) shall not be subject to withholding under section 1441 or chapter 24.
+  >   - **(6)** *Special rules*
+  >     - **(A)** *Application of withholding rules* Rules similar to the rules of subchapter B of chapter 3 shall apply for purposes of this subsection.
+  >     - **(B)** *Application of tax* Any item subject to the withholding tax imposed under paragraph (1) shall be subject to tax under section 871.
+  >     - **(C)** *Coordination with other withholding requirements* Any item subject to withholding under paragraph (1) shall not be subject to withholding under section 1441 or chapter 24.
   > - **(e)** *Treatment of specified tax deferred accounts*
   >   - **(1)** *Account treated as distributed* In the case of any interest in a specified tax deferred account held by a covered expatriate on the day before the expatriation date—
-  >     - **(A)** the covered expatriate shall be treated as receiving a distribution of his entire interest in such account on such date,
+  >     - **(A)** the covered expatriate shall be treated as receiving a distribution of his entire interest in such account on the day before the expatriation date,
   >     - **(B)** no early distribution tax shall apply by reason of such treatment, and
   >     - **(C)** appropriate adjustments shall be made to subsequent distributions from the account to reflect such treatment.
   >   - **(2)** *Specified tax deferred account* For purposes of paragraph (1), the term specified tax deferred account means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
@@ -108,7 +114,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(1)** *In general* In the case of a distribution (directly or indirectly) of any property from a nongrantor trust to a covered expatriate—
   >     - **(A)** the trustee shall deduct and withhold from such distribution an amount equal to 30 percent of the taxable portion of the distribution, and
   >     - **(B)** if the fair market value of such property exceeds its adjusted basis in the hands of the trust, gain shall be recognized to the trust as if such property were sold to the expatriate at its fair market value.
-  >   - **(2)** *Taxable portion* For purposes of this subsection, the term taxable portion means, with respect to any distribution, that portion of the distribution which would be includible in the gross income of the covered expatriate if such expatriate were subject to the tax imposed by this chapter.
+  >   - **(2)** *Taxable portion* For purposes of this subsection, the term taxable portion means, with respect to any distribution, that portion of the distribution which would be includible in the gross income of the covered expatriate if such expatriate continued to be subject to tax as a citizen or resident of the United States.
   >   - **(3)** *Nongrantor trust* For purposes of this subsection, the term nongrantor trust means the portion of any trust that the individual is not considered the owner of under subpart E of part I of subchapter J. The determination under the preceding sentence shall be made immediately before the expatriation date.
   >   - **(4)** *Special rules relating to withholding* For purposes of this subsection—
   >     - **(A)** rules similar to the rules of subsection (d)(6) shall apply, and
@@ -123,6 +129,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(ii)**
   >         - **(I)** the individual’s relinquishment of United States citizenship occurs before such individual attains age 18½, and
   >         - **(II)** the individual has been a resident of the United States (as so defined) for not more than 10 taxable years before the date of relinquishment.
+  >     - **(C)** *Covered expatriates also subject to tax as citizens or residents* In the case of any covered expatriate who is subject to tax as a citizen or resident of the United States for any period beginning after the expatriation date, such individual shall not be treated as a covered expatriate during such period for purposes of subsections (d)(1) and (f) and section 2801.
   >   - **(2)** *Expatriate* The term expatriate means—
   >     - **(A)** any United States citizen who relinquishes his citizenship, and
   >     - **(B)** any long-term resident of the United States who ceases to be a lawful permanent resident of the United States (within the meaning of section 7701(b)(6)).
@@ -146,7 +153,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(b)** *Tax on gifts and bequests received by United States citizens and residents from expatriates*
   - **(1)** *In general* Subtitle B (relating to estate and gift taxes) is amended by inserting after chapter 14 the following new chapter:
-  - **(2)** *Clerical amendment* The table of chapters for subtitle B is amended by inserting after the item relating to chapter 13 the following new item:
+  - **(2)** *Clerical amendment* The table of chapters for subtitle B is amended by inserting after the item relating to chapter 14 the following new item:
 - **(c)** *Definition of termination of United States citizenship*
   - **(1)** *In general* Section 7701(a) is amended by adding at the end the following new paragraph:
     > - **(50)** *Termination of United States citizenship*
@@ -174,7 +181,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 7. Increase in information return penalties
 
-- **(a)** *Failure to file correct information returns*
+- **(a)** *Failure To file correct information returns*
   - **(1)** *In general* Subsections (a)(1), (b)(1)(A), and (b)(2)(A) of section 6721 are each amended by striking “$50” and inserting “$100”.
   - **(2)** *Aggregate annual limitation* Subsections (a)(1), (d)(1)(A), and (e)(3)(A) of section 6721 are each amended by striking “$250,000” and inserting “$600,000”.
 - **(b)** *Reduction where correction within 30 days*
@@ -188,7 +195,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** by striking “$25,000” in subparagraph (B) and inserting “$75,000”, and
   - **(3)** by striking “$50,000” in subparagraph (C) and inserting “$150,000”.
 - **(e)** *Penalty in case of intentional disregard* Paragraph (2) of section 6721(e) is amended by striking “$100” and inserting “$250”.
-- **(f)** *Failure to Furnish Correct Payee Statements*
+- **(f)** *Failure To Furnish Correct Payee Statements*
   - **(1)** *In general* Subsection (a) of section 6722 is amended by striking “$50” and inserting “$100”.
   - **(2)** *Aggregate annual limitation* Subsections (a) and (c)(2)(A) of section 6722 are each amended by striking “$100,000” and inserting “$600,000”.
   - **(3)** *Penalty in case of intentional disregard* Paragraph (1) of section 6722(c) is amended by striking “$100” and inserting “$250”.
