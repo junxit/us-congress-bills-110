@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3006
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “(a)” after “Sec. 10.”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 303` | insert | by inserting “(a)” after “Sec. 10.”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 303` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

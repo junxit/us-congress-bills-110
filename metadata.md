@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3006
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3006
@@ -39,3 +39,13 @@ To improve the use of a grant of a parcel of land to the State of Idaho for use 
 - 2007-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/31/2007 H8912)
 - 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/31/2007 H8912)
 - 2007-07-31 — Received in the Senate, read twice.
+- 2007-08-03 — Cleared for White House.
+- 2007-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10978)
+- 2007-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10978)
+- 2007-08-04 — Message on Senate action sent to the House.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Presented to President.
+- 2007-08-13 — Became Public Law No: 110-77.
+- 2007-08-13 — Became Public Law No: 110-77.
+- 2007-08-13 — Signed by President.
+- 2007-08-13 — Signed by President.
