@@ -57,6 +57,7 @@ This Act may be cited as the “Integrated Deepwater Program Reform Act”.
   > - **(a)** *Establishment of agency Chief Acquisition Officer* The Commandant shall appoint or designate a career reserved employee as Chief Acquisition Officer for the Coast Guard, who shall—
   >   - **(1)** have acquisition management as that official’s primary duty; and
   >   - **(2)** report directly to the Commandant to advise and assist the Commandant to ensure that the mission of the Coast Guard is achieved through the management of the Coast Guard’s acquisition activities.
+  >
   > - **(b)** *Authority and functions of the Chief Acquisition Officer* The functions of the Chief Acquisition Officer shall include—
   >   - **(1)** monitoring the performance of acquisition activities and acquisition programs of the Coast Guard, evaluating the performance of those programs on the basis of applicable performance measurements, and advising the Commandant regarding the appropriate business strategy to achieve the mission of the Coast Guard;
   >   - **(2)** increasing the use of full and open competition in the acquisition of property and services by the Coast Guard by establishing policies, procedures, and practices that ensure that the Coast Guard receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Government’s requirements (including performance and delivery schedules) at the lowest cost or best value considering the nature of the property or service procured;
