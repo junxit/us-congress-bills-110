@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2722
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2722
@@ -42,3 +42,7 @@ Integrated Deepwater Program Reform Act
 - 2007-07-30 — Placed on the Union Calendar, Calendar No. 172.
 - 2007-07-30 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-270.
 - 2007-07-30 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-270.
+- 2007-07-31 — Considered as unfinished business. (consideration: CR H9229-9230)
+- 2007-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 426 - 0 (Roll No. 773). (text: CR H8930-8932)
+- 2007-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 426 - 0 (Roll No. 773).(text: CR H8930-8932)
