@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 7
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 7
@@ -37,3 +37,16 @@ A joint resolution providing for the reappointment of Roger W. Sant as a citizen
 - 2007-08-01 — Message on Senate action sent to the House.
 - 2007-08-01 — Received in the House.
 - 2007-08-01 — Referred to the House Committee on House Administration.
+- 2007-11-05 — Cleared for White House.
+- 2007-11-05 — Considered under suspension of the rules. (consideration: CR H12477-12478)
+- 2007-11-05 — DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 7.
+- 2007-11-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-05 — Mr. Brady (PA) moved to suspend the rules and pass the resolution.
+- 2007-11-05 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H12477)
+- 2007-11-05 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H12477)
+- 2007-11-07 — Presented to President.
+- 2007-11-07 — Presented to President.
+- 2007-11-16 — Became Public Law No: 110-119.
+- 2007-11-16 — Became Public Law No: 110-119.
+- 2007-11-16 — Signed by President.
+- 2007-11-16 — Signed by President.
