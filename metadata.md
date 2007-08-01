@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2688
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2688
@@ -77,3 +77,13 @@ To designate the facility of the United States Postal Service located at 103 Sou
 - 2007-07-30 — The title of the measure was amended. Agreed to without objection.
 - 2007-07-31 — Received in the Senate.
 - 2007-08-01 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 315.
+- 2007-08-03 — Cleared for White House.
+- 2007-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10978-10979)
+- 2007-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10978-10979)
+- 2007-08-04 — Message on Senate action sent to the House.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Presented to President.
+- 2007-08-09 — Became Public Law No: 110-73.
+- 2007-08-09 — Became Public Law No: 110-73.
+- 2007-08-09 — Signed by President.
+- 2007-08-09 — Signed by President.
