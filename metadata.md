@@ -1,7 +1,7 @@
 ---
 measure: S. 845
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 845
@@ -16,11 +16,13 @@ Safety of Seniors Act of 2007
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
 ## Committees (1)
 
@@ -34,3 +36,14 @@ Safety of Seniors Act of 2007
 - 2007-03-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2007-03-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2007-03-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.
+- 2007-06-28 — By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-110.
+- 2007-06-28 — By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-110.
+- 2007-08-01 — Amendment SA 2622 agreed to in Senate by Unanimous Consent.
+- 2007-08-01 — Amendment SA 2622 proposed by Senator Casey for Senator Enzi. (consideration: CR S10677-10678; text: CR S10677-10678) In the nature of a substitute.
+- 2007-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S10676-10678; text of measure as reported in Senate: CR S10676-10677)
+- 2007-08-01 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-08-01 — Senate amendment agreed to: Amendment SA 2622 agreed to in Senate by Unanimous Consent.
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2622 proposed by Senator Casey for Senator Enzi.(consideration: CR S10677-10678; text: CR S10677-10678)
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — The committee substitute as amended agreed to by Unanimous Consent.
