@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1425
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1425
@@ -71,3 +71,8 @@ To designate the facility of the United States Postal Service located at 4551 Ea
 - 2007-05-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 385). (text: CR H5486)
 - 2007-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 385).(text: CR H5486)
 - 2007-05-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-06-06 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
