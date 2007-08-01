@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3248
@@ -26,9 +26,21 @@ SAFETEA-LU Technical Corrections Act of 2007
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2007-08-01 — [House 110-1-789](votes/house-110-1-0789.md) — On Motion to Suspend the Rules and Pass — **Passed** (422–1)
+
 ## Actions
 
 - 2007-07-31 — Introduced in House
 - 2007-07-31 — Introduced in House
 - 2007-07-31 — Referred to the House Committee on Transportation and Infrastructure.
 - 2007-07-31 — Referred to the Subcommittee on Highways and Transit.
+- 2007-08-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-08-01 — Considered as unfinished business. (consideration: CR 8/2/2007 H9532-9533)
+- 2007-08-01 — Considered under suspension of the rules. (consideration: CR 8/2/2007 H9507-9522)
+- 2007-08-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3248.
+- 2007-08-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-08-01 — Mr. Oberstar moved to suspend the rules and pass the bill.
+- 2007-08-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 789). (text: CR 8/2/2007 H9507-9519)
+- 2007-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 789).(text: CR 8/2/2007 H9507-9519)

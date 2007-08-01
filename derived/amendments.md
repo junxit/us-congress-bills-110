@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -1214,7 +1214,7 @@ to guess them.
 
 ### 49 U.S.C. § 5309
 
-> Section 3043(c)(105) of such Act (119 Stat. 1645) is amended by striking “LOSSAN Del Mar-San Diego—Rail Corridor Improvements” and inserting “LOSSAN Rail Corridor Improvements” .
+> Section 3043(c)(105) of such Act (119 Stat. 1645) is amended by striking “LOSSAN Del Mar-San Diego—Rail Corridor Improvements” and inserting “LOSSAN Rail Corridor Improvements”.
 
 | | |
 |---|---|
@@ -1277,7 +1277,7 @@ to guess them.
 
 ### 49 U.S.C. § 5309
 
-> by striking “$67,500” and inserting “$0”;
+> by striking “$67,500” and inserting “$0”; and
 
 | | |
 |---|---|
@@ -1748,7 +1748,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 511` | replace | in item number 2663 by striking the project description and inserting “Rosemead Boulevard safety enhancement and beautification, Temple City”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 2743 by striking the project description and inserting “Improve safety of culvert replacement on 250th Rd. between 460th St. and Cty Hwy 20 in Grandview Township, Edgar County”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | strike | by striking item number 2800; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 511` | insert | in item number 3047 by inserting “and roadway improvements” after “safety project” ; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 511` | insert | in item number 3047 by inserting “and roadway improvements” after “safety project”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 3078 by striking the project description and inserting “U.S. 2/Sultan Basin Road improvements in Sultan”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 3174 by striking the project description and inserting “Improving Outer Harbor access through planning, design, construction, and relocations of Southtowns Connector–NY Route 5, Fuhrmann Boulevard, and a bridge connecting … | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 3254 by striking the project description and inserting “Reconstruct PA Route 274/34 Corridor, Perry County”; | the bill quotes the text inserted but describes where it goes |
@@ -1772,7 +1772,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 511` | strike | in item number 1544 by striking “connector”; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 511` | replace | in item number 2573 by striking the project description and inserting “Rehabilitation of Sugar Hill Road in North Salem, NY”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 2637 by striking the project description and inserting “Construction, road and safety improvements in Geauga County, OH”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 511` | replace | in item number 2342 by striking the project description and inserting “Streetscaping, bicycle trails, and related improvements to the I–90/SR–615 interchange and adjacent area and Heisley Road in Mentor, including acquisition of necessar… | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 511` | replace | in item number 2342 by striking the project description and inserting “Streetscaping, bicycle trails, and related improvements to the I-90/SR-615 interchange and adjacent area and Heisley Road in Mentor, including acquisition of necessar… | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 161 by striking the project description and inserting “Construct False Pass causeway and road to the terminus of the south arm breakwater project”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 2002 by striking the project description and inserting “Dowling Road extension/reconstruction west from Minnesota Drive to Old Seward Highway, Anchorage”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 511` | replace | in item number 2023 by striking the project description and inserting “Biking and pedestrian trail construction, Kentland”; | the bill quotes the text inserted but describes where it goes |
