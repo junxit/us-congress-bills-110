@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 7
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 7
@@ -21,9 +21,10 @@ A joint resolution providing for the reappointment of Roger W. Sant as a citizen
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Committee on House Administration
 
 ## Actions
 
@@ -33,3 +34,6 @@ A joint resolution providing for the reappointment of Roger W. Sant as a citizen
 - 2007-07-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S10525)
 - 2007-07-31 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S10525)
 - 2007-07-31 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S10525)
+- 2007-08-01 — Message on Senate action sent to the House.
+- 2007-08-01 — Received in the House.
+- 2007-08-01 — Referred to the House Committee on House Administration.
