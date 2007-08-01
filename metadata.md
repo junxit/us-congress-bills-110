@@ -1,0 +1,34 @@
+---
+measure: H.R. 3272
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 3272
+
+United States-China Diplomatic Expansion Act of 2007
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+
+## Cosponsors (4)
+
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2007-08-01 — Introduced in House
+- 2007-08-01 — Introduced in House
+- 2007-08-01 — Referred to the House Committee on Foreign Affairs.
