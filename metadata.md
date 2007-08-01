@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2077
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2077
@@ -57,3 +57,13 @@ To designate the facility of the United States Postal Service located at 20805 S
 - 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 309.
+- 2007-08-03 — Cleared for White House.
+- 2007-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10978-10979)
+- 2007-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10978-10979)
+- 2007-08-04 — Message on Senate action sent to the House.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Presented to President.
+- 2007-08-09 — Became Public Law No: 110-66.
+- 2007-08-09 — Became Public Law No: 110-66.
+- 2007-08-09 — Signed by President.
+- 2007-08-09 — Signed by President.
