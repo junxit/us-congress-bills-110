@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1384
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1384
@@ -89,3 +89,5 @@ To designate the facility of the United States Postal Service located at 118 Min
 - 2007-07-30 — On passage Passed without objection.
 - 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.
 - 2007-07-30 — The title of the measure was amended. Agreed to without objection.
+- 2007-07-31 — Received in the Senate.
+- 2007-08-01 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.
