@@ -1,7 +1,7 @@
 ---
 measure: S. 1896
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1896
@@ -29,3 +29,7 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-07-30 — Introduced in Senate
 - 2007-07-30 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2007-07-30 — Sponsor introductory remarks on measure. (CR S10316)
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 301.
