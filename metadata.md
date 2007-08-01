@@ -1,7 +1,7 @@
 ---
 measure: S. 1
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1
@@ -16,7 +16,7 @@ Honest Leadership and Open Government Act of 2007
 
 - Sen. Reid, Harry [D-NV] (R000146)
 
-## Cosponsors (15)
+## Cosponsors (143)
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -33,9 +33,671 @@ Honest Leadership and Open Government Act of 2007
 - Sen. Webb, Jim [D-VA] (W000803)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Thomas, Craig [R-WY] (T000162)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Thomas, Craig [R-WY] (T000162)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+
+## Recorded votes (18)
+
+- 2007-01-10 — [Senate 110-1-2](votes/senate-110-1-0002.md) — On the Amendment — **Amendment Agreed to** (93–2)
+- 2007-01-10 — [Senate 110-1-3](votes/senate-110-1-0003.md) — On the Motion to Table — **Motion to Table Agreed to** (56–40)
+- 2007-01-10 — [Senate 110-1-4](votes/senate-110-1-0004.md) — On the Motion to Table — **Motion to Table Agreed to** (54–41)
+- 2007-01-11 — [Senate 110-1-5](votes/senate-110-1-0005.md) — On the Motion to Table — **Motion to Table Failed** (46–51)
+- 2007-01-11 — [Senate 110-1-6](votes/senate-110-1-0006.md) — On the Motion — **Motion Rejected** (25–72)
+- 2007-01-12 — [Senate 110-1-8](votes/senate-110-1-0008.md) — On the Amendment — **Amendment Agreed to** (87–0)
+- 2007-01-12 — [Senate 110-1-9](votes/senate-110-1-0009.md) — On the Amendment — **Amendment Agreed to** (81–6)
+- 2007-01-16 — [Senate 110-1-10](votes/senate-110-1-0010.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2007-01-16 — [Senate 110-1-11](votes/senate-110-1-0011.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2007-01-16 — [Senate 110-1-12](votes/senate-110-1-0012.md) — On the Cloture Motion — **Cloture Motion Agreed to** (95–2)
+- 2007-01-17 — [Senate 110-1-13](votes/senate-110-1-0013.md) — On the Amendment — **Amendment Agreed to** (89–5)
+- 2007-01-17 — [Senate 110-1-14](votes/senate-110-1-0014.md) — On the Amendment — **Amendment Agreed to** (51–46)
+- 2007-01-17 — [Senate 110-1-15](votes/senate-110-1-0015.md) — On the Amendment — **Amendment Agreed to** (88–9)
+- 2007-01-17 — [Senate 110-1-16](votes/senate-110-1-0016.md) — On the Cloture Motion — **Cloture Motion Rejected** (51–46)
+- 2007-01-18 — [Senate 110-1-17](votes/senate-110-1-0017.md) — On the Amendment — **Amendment Agreed to** (55–43)
+- 2007-01-18 — [Senate 110-1-18](votes/senate-110-1-0018.md) — On the Amendment — **Amendment Rejected** (27–71)
+- 2007-01-18 — [Senate 110-1-19](votes/senate-110-1-0019.md) — On Passage of the Bill — **Bill Passed** (96–2)
+- 2007-07-31 — [House 110-1-763](votes/house-110-1-0763.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (411–8)
 
 ## Actions
 
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Introduced in the Senate. Read the first time. Ordered read the second time and Placed on Senate Legislative Calendar under General Orders. Calendar No. 1. (text of measure as introduced: CR S42-48)
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S9-11)
+- 2007-01-08 — Sponsor introductory remarks on measure. (CR S219-220)
+- 2007-01-09 — Amendment SA 3 proposed by Senator Reid. (consideration: CR S260-261) In the nature of a substitute.
+- 2007-01-09 — Amendment SA 4 proposed by Senator Reid to Amendment SA 3. (consideration: CR S261-264) To strengthen the gift and travel bans.
+- 2007-01-09 — Amendment SA 5 proposed by Senator Vitter to Amendment SA 3. (consideration: CR S264-265; text: CR S264) To modify the application of the Federal Election Campaign Act of 1971 to Indian tribes.
+- 2007-01-09 — Amendment SA 6 proposed by Senator Vitter to Amendment SA 3. (consideration: CR S265; text: CR S265) to prohibit authorized committees and leadership PACs from employing the spouse or immediate family members of any candidate or Federal office holder connected to the committee.
+- 2007-01-09 — Amendment SA 7 proposed by Senator Vitter to Amendment SA 3. (consideration: CR S265-268; text: CR S266) To amend the Ethics in Government Act of 1978 to establish criminal penalties for knowingly and willfully falsifying or failing to file or report certain information required to be reported under that Act, and for other purposes.
+- 2007-01-09 — Measure laid before Senate by unanimous consent. (consideration: CR S250-257, S258-274)
+- 2007-01-09 — Senate amendment proposed (on the floor): Amendment SA 3 proposed by Senator Reid.(consideration: CR S260-261)
+- 2007-01-09 — Senate amendment proposed (on the floor): Amendment SA 4 proposed by Senator Reid to Amendment SA 3.(consideration: CR S261-264)
+- 2007-01-09 — Senate amendment proposed (on the floor): Amendment SA 5 proposed by Senator Vitter to Amendment SA 3.(consideration: CR S264-265; text: CR S264)
+- 2007-01-09 — Senate amendment proposed (on the floor): Amendment SA 6 proposed by Senator Vitter to Amendment SA 3.(consideration: CR S265; text: CR S265)
+- 2007-01-09 — Senate amendment proposed (on the floor): Amendment SA 7 proposed by Senator Vitter to Amendment SA 3.(consideration: CR S265-268; text: CR S266)
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-09 — Senate amendment submitted
+- 2007-01-10 — Amendment SA 10 proposed by Senator Vitter to Amendment SA 3. (consideration: CR S323; text: CR S323) To increase the penalty for failure to comply with lobbying disclosure requirements.
+- 2007-01-10 — Amendment SA 11 proposed by Senator DeMint to Amendment SA 3. (consideration: CR S320-322; text: CR S320-321) To strengthen earmark reform.
+- 2007-01-10 — Amendment SA 12 proposed by Senator DeMint to Amendment SA 3. (consideration: CR S320-322; text: CR S321) To clarify that earmarks added to a conference report that are not considered by the Senate or the House of Representatives are out of scope.
+- 2007-01-10 — Amendment SA 13 proposed by Senator DeMint to Amendment SA 3. (consideration: CR S320-322; text: CR S321) To prevent government shutdowns.
+- 2007-01-10 — Amendment SA 14 proposed by Senator DeMint to Amendment SA 3. (consideration: CR S320-322; text: CR S321-322) To protect individuals from having their money involuntarily collected and used for lobbying by a labor organization.
+- 2007-01-10 — Amendment SA 15 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S345)
+- 2007-01-10 — Amendment SA 15 proposed by Senator Salazar to Amendment SA 3. (consideration: CR S331-332, S345; text: CR S331) To require Senate committees and subcommittees to make available by the Internet a video recording, audio recording, or transcript of any meeting not later than 14 business days after the meeting occurs.
+- 2007-01-10 — Amendment SA 16 proposed by Senator Stevens to Amendment SA 4. (consideration: CR S334-336, S344; text: CR S334) To permit certain travel within State.
+- 2007-01-10 — Amendment SA 17 proposed by Senator Gregg to Amendment SA 3. (consideration: CR S336-341, S344-345) To establish a legislative line item veto.
+- 2007-01-10 — Amendment SA 2 proposed by Senator Leahy to Amendment SA 3. (consideration: CR S332-334; text: CR S332) To give investigators and prosecutors the tools they need to combat public corruption.
+- 2007-01-10 — Amendment SA 7 agreed to in Senate by Yea-Nay Vote. 93 - 2. Record Vote Number: 2.
+- 2007-01-10 — Amendment SA 9 proposed by Senator Vitter to Amendment SA 3. (consideration: CR S322-323, S433; text: CR S322-323) To prohibit Members from having official contact with any spouse of a Member who is a registered lobbyist.
+- 2007-01-10 — Considered by Senate. (consideration: CR S319)
+- 2007-01-10 — Considered by Senate. (consideration: CR S319)
+- 2007-01-10 — Considered by Senate. (consideration: CR S319, S324-325, S331-332; text: CR S331)
+- 2007-01-10 — Considered by Senate. (consideration: CR S319, S341-342, S344)
+- 2007-01-10 — Considered by Senate. (consideration: CR S319, S342-344)
+- 2007-01-10 — Considered by Senate. (consideration: CR S319-345)
+- 2007-01-10 — Motion to table amendment SA 5 agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 3.
+- 2007-01-10 — Motion to table amendment SA 6 agreed to in Senate by Yea-Nay. 54 - 41. Record Vote Number: 4.
+- 2007-01-10 — Proposed amendment SA 16 withdrawn in Senate.
+- 2007-01-10 — Roll call votes on amendments in Senate: Amendment SA 7 agreed to in Senate by Yea-Nay Vote. 93 - 2. Record Vote Number: 2.
+- 2007-01-10 — Roll call votes on amendments in Senate: Motion to table amendment SA 5 agreed to in Senate by Yea-Nay Vote. 56 - 40. Record Vote Number: 3.
+- 2007-01-10 — Roll call votes on amendments in Senate: Motion to table amendment SA 6 agreed to in Senate by Yea-Nay. 54 - 41. Record Vote Number: 4.
+- 2007-01-10 — Senate amendment agreed to: Amendment SA 15 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S345)
+- 2007-01-10 — Senate amendment agreed to: Amendment SA 7 agreed to in Senate by Yea-Nay Vote. 93 - 2. Record Vote Number: 2.
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 10 proposed by Senator Vitter to Amendment SA 3.(consideration: CR S323; text: CR S323)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 11 proposed by Senator DeMint to Amendment SA 3.(consideration: CR S320-322; text: CR S320-321)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 12 proposed by Senator DeMint to Amendment SA 3.(consideration: CR S320-322; text: CR S321)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 13 proposed by Senator DeMint to Amendment SA 3.(consideration: CR S320-322; text: CR S321)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 14 proposed by Senator DeMint to Amendment SA 3.(consideration: CR S320-322; text: CR S321-322)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 15 proposed by Senator Salazar to Amendment SA 3.(consideration: CR S331-332, S345; text: CR S331)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 16 proposed by Senator Stevens to Amendment SA 4.(consideration: CR S334-336, S344; text: CR S334)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 17 proposed by Senator Gregg to Amendment SA 3.(consideration: CR S336-341, S344-345)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 2 proposed by Senator Leahy to Amendment SA 3.(consideration: CR S332-334; text: CR S332)
+- 2007-01-10 — Senate amendment proposed (on the floor): Amendment SA 9 proposed by Senator Vitter to Amendment SA 3.(consideration: CR S322-323, S433; text: CR S322-323)
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-10 — Senate amendment submitted
+- 2007-01-11 — Amendment SA 13 ruled out of order by the chair.
+- 2007-01-11 — Amendment SA 19 proposed by Senator Bennett for Senator McCain to Amendment SA 4. (consideration: CR S430-432; text: CR S430) To include a reporting requirement.
+- 2007-01-11 — Amendment SA 20 proposed by Senator Bennett to Amendment SA 3. (consideration: CR S438; text: CR S438) To strike a provision relating to paid efforts to stimulate grassroots lobbying.
+- 2007-01-11 — Amendment SA 24 proposed by Senator Ensign to Amendment SA 3. (consideration: CR S417-418; text: CR S418) To provide for better transparency and enhanced Congressional oversight of spending by clarifying the treatment of matter not committed to the conferees by either House.
+- 2007-01-11 — Amendment SA 25 proposed by Senator Ensign to Amendment SA 3. (consideration: CR S417-418, S432-433; text: CR S418; text as modified: CR S432) To ensure full funding of the Department of Defense within the regular appropriations process, to limit the reliance of the Department of Defense on supplemental appropriations bills, and to improve the integrity of the Congressional budget process.
+- 2007-01-11 — Amendment SA 26 proposed by Senator Cornyn to Amendment SA 3. (consideration: CR S418-425; text: CR S418) To require full separate disclosure of any earmarks in any bill, joint resolution, report, conference report or statement of managers.
+- 2007-01-11 — Amendment SA 27 proposed by Senator Cornyn to Amendment SA 3. (consideration: CR S418-425; text: CR S418) To require 3 calendar days notice in the Senate before proceeding to any matter.
+- 2007-01-11 — Amendment SA 28 proposed by Senator Bennett for Senator McCain to Amendment SA 3. (consideration: CR S430-432; text: CR S430-431) To provide congressional transparency.
+- 2007-01-11 — Amendment SA 29 proposed by Senator Bennett for Senator McCain to Amendment SA 3. (consideration: CR S430-432; text: CR S431-432) To provide congressional transparency.
+- 2007-01-11 — Amendment SA 30 proposed by Senator Lieberman to Amendment SA 3. (consideration: CR S433-435) To establish a Senate Office of Public Integrity.
+- 2007-01-11 — Amendment SA 37 proposed by Senator Thune to Amendment SA 3. (consideration: CR S438-439; text: CR S438) To require any recipient of a Federal award to disclose all lobbying and political advocacy.
+- 2007-01-11 — Amendment SA 38 as modified agreed to in Senate by Voice Vote. (text as modified: CR S440)
+- 2007-01-11 — Amendment SA 38 proposed by Senator Feinstein to Amendment SA 3. (consideration: CR S437-438, S440; text: CR S437) To permit attendance of meetings with bona fide constituents.
+- 2007-01-11 — Amendment SA 40 proposed by Senator Stevens to Amendment SA 4. (consideration: CR S439-440; text: CR S439) To permit a limited flight exception for necessary State travel.
+- 2007-01-11 — Amendment SA 42 proposed by Senator Feinstein to Amendment SA 3. (consideration: CR S441; text: CR S441) To prohibit an earmark from being included in the classified portion of a report accompanying a measure unless the measure includes a general program description, funding level, and the name of the sponsor of that earmark.
+- 2007-01-11 — Considered by Senate. (consideration: CR S415)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415, S416-417)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415, S433; text as modified: CR S433)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415-416, S425-430, S435-437)
+- 2007-01-11 — Considered by Senate. (consideration: CR S415-441)
+- 2007-01-11 — Motion to table amendment SA 11 rejected in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 5.
+- 2007-01-11 — Motion to waive the Budget Act with respect to amendment SA 13 rejected in Senate by Yea-Nay Vote. 25 - 72. Record Vote Number: 6.
+- 2007-01-11 — Point of order raised in Senate with respect to amendment SA 13.
+- 2007-01-11 — Roll call votes on amendments in Senate: Motion to table amendment SA 11 rejected in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 5.
+- 2007-01-11 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 13 rejected in Senate by Yea-Nay Vote. 25 - 72. Record Vote Number: 6.
+- 2007-01-11 — Senate amendment agreed to: Amendment SA 38 as modified agreed to in Senate by Voice Vote.(text as modified: CR S440)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 19 proposed by Senator Bennett for Senator McCain to Amendment SA 4.(consideration: CR S430-432; text: CR S430)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 20 proposed by Senator Bennett to Amendment SA 3.(consideration: CR S438; text: CR S438)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 24 proposed by Senator Ensign to Amendment SA 3.(consideration: CR S417-418; text: CR S418)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 25 proposed by Senator Ensign to Amendment SA 3.(consideration: CR S417-418, S432-433; text: CR S418; text as modified: CR S432)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 26 proposed by Senator Cornyn to Amendment SA 3.(consideration: CR S418-425; text: CR S418)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 27 proposed by Senator Cornyn to Amendment SA 3.(consideration: CR S418-425; text: CR S418)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 28 proposed by Senator Bennett for Senator McCain to Amendment SA 3.(consideration: CR S430-432; text: CR S430-431)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 29 proposed by Senator Bennett for Senator McCain to Amendment SA 3.(consideration: CR S430-432; text: CR S431-432)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 30 proposed by Senator Lieberman to Amendment SA 3.(consideration: CR S433-435)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 37 proposed by Senator Thune to Amendment SA 3.(consideration: CR S438-439; text: CR S438)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 38 proposed by Senator Feinstein to Amendment SA 3.(consideration: CR S437-438, S440; text: CR S437)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 40 proposed by Senator Stevens to Amendment SA 4.(consideration: CR S439-440; text: CR S439)
+- 2007-01-11 — Senate amendment proposed (on the floor): Amendment SA 42 proposed by Senator Feinstein to Amendment SA 3.(consideration: CR S441; text: CR S441)
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-11 — Senate amendment submitted
+- 2007-01-12 — Amendment SA 1 as modified agreed to in Senate by Yea-Nay Vote. 87 - 0. Record Vote Number: 8. (text of amendment as modified: CR S486)
+- 2007-01-12 — Amendment SA 1 proposed by Senator Kerry to Amendment SA 3. (consideration: CR S486-487, S489) To amend title 5, United States Code, to deny Federal retirement benefits to individuals convicted of certain offenses, and for other purposes.
+- 2007-01-12 — Amendment SA 10 as modified agreed to in Senate by Yea-Nay Vote. 81 - 6. Record Vote Number: 9.
+- 2007-01-12 — Amendment SA 19 was incorporated into the modification of Amendment SA 4.
+- 2007-01-12 — Amendment SA 31 proposed by Senator Feingold to Amendment SA 3. (consideration: CR S487-489; text: CR S487) To prohibit former Members of Congress from engaging in lobbying activities in addition to lobbying contacts during their cooling off period.
+- 2007-01-12 — Amendment SA 32 proposed by Senator Feingold to Amendment SA 3. (consideration: CR S487-489; text: CR S487) To increase the cooling off period for senior staff to 2 years and to prohibit former Members of Congress from engaging in lobbying activities in addition to lobbying contacts during their cooling off period.
+- 2007-01-12 — Amendment SA 33 proposed by Senator Feingold to Amendment SA 3. (consideration: CR S487-489; text: CR S487) To prohibit former Members who are lobbyists from using gym and parking privileges made available to Members and former Members.
+- 2007-01-12 — Amendment SA 34 proposed by Senator Feingold to Amendment SA 3. (consideration: CR S487-489; text: CR S487) To require Senate campaigns to file their FEC reports electronically.
+- 2007-01-12 — Amendment SA 36 proposed by Senator Durbin to Amendment SA 3. (consideration: CR S494-496; text: CR S494) To require that amendments and motions to recommit with instructions be copied and provided by the clerk to the desks of the Majority Leader and the Minority Leader before being debated.
+- 2007-01-12 — Amendment SA 4 was modified by incorporating therein the language of Amendment SA 19. (text as modified: CR S490-491)
+- 2007-01-12 — Amendment SA 43 proposed by Senator Reid for Senator Lieberman to Amendment SA 3. (consideration: CR S503; text: CR S503) To require disclosure of earmark lobbying by lobbyists.
+- 2007-01-12 — Amendment SA 44 proposed by Senator Durbin to Amendment SA 11. (consideration: CR S492-494, S503-504; text: CR S492-493; text of as modified: CR S504) To strengthen earmark reform.
+- 2007-01-12 — Amendment SA 45 proposed by Senator Cornyn to Amendment SA 3. (consideration: CR S496; text: CR S496) To require 72 hour public availability of legislative matters before consideration.
+- 2007-01-12 — Amendment SA 46 proposed by Senator Cornyn to Amendment SA 2. (consideration: CR S496; text: CR S496) To deter public corruption.
+- 2007-01-12 — Amendment SA 47 proposed by Senator Nelson NE to Amendment SA 3. (consideration: CR S500-501; text: CR S500) To help encourage fiscal responsibility in the earmarking process.
+- 2007-01-12 — Amendment SA 48 proposed by Senator Bond for Senator Coburn to Amendment SA 3. (consideration: CR S499-500; text: CR S499) To require all recipients of Federal earmarks, grants, subgrants, and contracts to disclose amounts spent on lobbying and a description of all lobbying activities.
+- 2007-01-12 — Amendment SA 49 proposed by Senator Bond for Senator Coburn to Amendment SA 3. (consideration: CR S499-500; text: CR S499) To require all congressional earmark requests to be submitted to the appropriate Senate committee on a standardized form.
+- 2007-01-12 — Amendment SA 50 proposed by Senator Bond for Senator Coburn to Amendment SA 3. (consideration: CR S499-500; text: CR S499-500) To provide disclosure of lobbyist gifts and travel instead of banning them as proposed.
+- 2007-01-12 — Amendment SA 51 proposed by Senator Bond for Senator Coburn to Amendment SA 3. (consideration: CR S499-500; text: CR S500) To prohibit members from requesting earmarks that may financially benefit that Member or immediate family member of that Member, and for other purposes.
+- 2007-01-12 — Amendment SA 54 proposed by Senator Reid for Senator Feingold to Amendment SA 3. (consideration: CR S503; text: CR S503) To prohibit lobbyists and entities that retain or employ lobbyists from throwing lavish parties honoring Members at party conventions.
+- 2007-01-12 — Amendment SA 56 proposed by Senator Reid for Senator Casey to Amendment SA 3. (consideration: CR S503; text: CR S503) To eliminate the K Street Project by prohibiting the wrongful influencing of a private entity's employment decisions of practices in exchange for political access or favors.
+- 2007-01-12 — Cloture motion on the amendment SA 3 presented in Senate. (consideration: CR S503; text: CR S503)
+- 2007-01-12 — Cloture motion on the amendment SA 4 presented in Senate. (consideration: CR S502-503; text: CR S502-503)
+- 2007-01-12 — Cloture motion on the bill presented in Senate. (consideration: CR S503; text: CR S503)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485, S486, S489)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485, S486-487)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485, S486-487)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485, S491-492; text as further modified: CR S492)
+- 2007-01-12 — Considered by Senate. (consideration: CR S485-501, S502-504)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486)
+- 2007-01-12 — Considered by Senate. (consideration: CR S486, S496-497)
+- 2007-01-12 — Considered by Senate. (consideration: CR S495, S490-491)
+- 2007-01-12 — Proposed amendment SA 40 withdrawn in Senate.
+- 2007-01-12 — Roll call votes on amendments in Senate: Amendment SA 1 as modified agreed to in Senate by Yea-Nay Vote. 87 - 0. Record Vote Number: 8.(text of amendment as modified: CR S486)
+- 2007-01-12 — Roll call votes on amendments in Senate: Amendment SA 10 as modified agreed to in Senate by Yea-Nay Vote. 81 - 6. Record Vote Number: 9.
+- 2007-01-12 — Senate amendment agreed to: Amendment SA 1 as modified agreed to in Senate by Yea-Nay Vote. 87 - 0. Record Vote Number: 8.(text of amendment as modified: CR S486)
+- 2007-01-12 — Senate amendment agreed to: Amendment SA 10 as modified agreed to in Senate by Yea-Nay Vote. 81 - 6. Record Vote Number: 9.
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 1 proposed by Senator Kerry to Amendment SA 3.(consideration: CR S486-487, S489)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 31 proposed by Senator Feingold to Amendment SA 3.(consideration: CR S487-489; text: CR S487)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 32 proposed by Senator Feingold to Amendment SA 3.(consideration: CR S487-489; text: CR S487)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 33 proposed by Senator Feingold to Amendment SA 3.(consideration: CR S487-489; text: CR S487)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 34 proposed by Senator Feingold to Amendment SA 3.(consideration: CR S487-489; text: CR S487)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 36 proposed by Senator Durbin to Amendment SA 3.(consideration: CR S494-496; text: CR S494)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 43 proposed by Senator Reid for Senator Lieberman to Amendment SA 3.(consideration: CR S503; text: CR S503)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 44 proposed by Senator Durbin to Amendment SA 11.(consideration: CR S492-494, S503-504; text: CR S492-493; text of as modified: CR S504)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 45 proposed by Senator Cornyn to Amendment SA 3.(consideration: CR S496; text: CR S496)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 46 proposed by Senator Cornyn to Amendment SA 2.(consideration: CR S496; text: CR S496)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 47 proposed by Senator Nelson NE to Amendment SA 3.(consideration: CR S500-501; text: CR S500)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 48 proposed by Senator Bond for Senator Coburn to Amendment SA 3.(consideration: CR S499-500; text: CR S499)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 49 proposed by Senator Bond for Senator Coburn to Amendment SA 3.(consideration: CR S499-500; text: CR S499)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 50 proposed by Senator Bond for Senator Coburn to Amendment SA 3.(consideration: CR S499-500; text: CR S499-500)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 51 proposed by Senator Bond for Senator Coburn to Amendment SA 3.(consideration: CR S499-500; text: CR S500)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 54 proposed by Senator Reid for Senator Feingold to Amendment SA 3.(consideration: CR S503; text: CR S503)
+- 2007-01-12 — Senate amendment proposed (on the floor): Amendment SA 56 proposed by Senator Reid for Senator Casey to Amendment SA 3.(consideration: CR S503; text: CR S503)
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-12 — Senate amendment submitted
+- 2007-01-16 — Amendment SA 11 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 11.
+- 2007-01-16 — Amendment SA 39 proposed by Senator Bennett for Senator Coleman to Amendment SA 3. (consideration: CR S554-556; text: CR S554) To require that a publicly available website be established in Congress to allow the public access to records of reported Congressional official travel.
+- 2007-01-16 — Amendment SA 41 proposed by Senator Obama to Amendment SA 3. (consideration: CR S565-566; text: CR S565-566) To require lobbyists to disclose the candidates, leadership PACs, or political parties for whom they collect or arrange contributions, and the aggregate amount of the contributions collected or arranged.
+- 2007-01-16 — Amendment SA 44 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 10.
+- 2007-01-16 — Amendment SA 57 proposed by Senator Sanders to Amendment SA 3. (consideration: CR S552-554; text: CR S552-553) To require a report by the Commission to Strengthen Confidence in Congress regarding political contributions before and after the enactment of certain laws.
+- 2007-01-16 — Amendment SA 59 proposed by Senator Bennett for Senator Coburn to Amendment SA 3. (consideration: CR S554-556; text: CR S554) To provide disclosure of lobbyist gifts and travel instead of banning them as proposed.
+- 2007-01-16 — Amendment SA 63 proposed by Senator Feingold to Amendment SA 3. (consideration: CR S556-557; text: CR S557) To increase the cooling off period for senior staff to 2 years and to prohibit former Members of Congress from engaging in lobbying activities in addition to lobbying contacts during their cooling off period.
+- 2007-01-16 — Amendment SA 64 proposed by Senator Feingold to Amendment SA 3. (consideration: CR S556-557; text: CR S557) To prohibit lobbyists and entities that retain or employ lobbyists from throwing lavish parties honoring Members at party conventions.
+- 2007-01-16 — Amendment SA 65 proposed by Senator Feingold to Amendment SA 4. (consideration: CR S558; text: CR S558) To prohibit lobbyists and entities that retain or employ lobbyists from throwing lavish parties honoring Members at party conventions.
+- 2007-01-16 — Amendment SA 70 agreed to in Senate by Unanimous Consent.
+- 2007-01-16 — Amendment SA 70 proposed by Senator Feinstein to Amendment SA 3. (consideration: CR S556; text: CR S556) To prohibit an earmark from being included in the classified portion of a report accompanying a measure unless the measure includes a general program description, funding level, and the name of the sponsor of that earmark.
+- 2007-01-16 — Amendment SA 71 proposed by Senator Nelson NE to Amendment SA 3. (consideration: CR S566-567, S569; text: CR S566-567) To extend the laws and rules passed in this bill to the executive and judicial branches of government.
+- 2007-01-16 — Amendment SA 76 proposed by Senator Feingold to Amendment SA 3. (consideration: CR S556-557; text: CR S557) To clarify certain aspects of the lobbyist contribution reporting provision.
+- 2007-01-16 — Amendment SA 78 proposed by Senator Bennett for Senator Lott to Amendment SA 4. (consideration: CR S559; text: CR S559) To only allow official and officially related travel to be paid for by appropriated funds.
+- 2007-01-16 — Amendment SA 79 proposed by Senator Bennett for Senator Lott to Amendment SA 4. (consideration: CR S559; text: CR S559) To only allow official and officially related travel to be paid for by appropriated funds.
+- 2007-01-16 — Amendment SA 81 proposed by Senator Bennett to Amendment SA 4. (consideration: CR S559; text: CR S559; text as modified: CR S559) To permit travel hosted by preapproved 501(c)(3) organizations.
+- 2007-01-16 — Cloture on Amendment SA 4 invoked in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 12.
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550, S568)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550, S569)
+- 2007-01-16 — Considered by Senate. (consideration: CR S550-571)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551, S558)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551, S558)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551, S559-560)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551, S560-562)
+- 2007-01-16 — Considered by Senate. (consideration: CR S551, S567-568)
+- 2007-01-16 — Proposed amendment SA 32 withdrawn in Senate.
+- 2007-01-16 — Proposed amendment SA 54 withdrawn in Senate.
+- 2007-01-16 — Roll call votes on amendments in Senate: Amendment SA 11 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 11.
+- 2007-01-16 — Roll call votes on amendments in Senate: Amendment SA 44 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 10.
+- 2007-01-16 — Roll call votes on amendments in Senate: Cloture on Amendment SA 4 invoked in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 12.
+- 2007-01-16 — Senate amendment agreed to: Amendment SA 11 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 11.
+- 2007-01-16 — Senate amendment agreed to: Amendment SA 44 as modified agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 10.
+- 2007-01-16 — Senate amendment agreed to: Amendment SA 70 agreed to in Senate by Unanimous Consent.
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 39 proposed by Senator Bennett for Senator Coleman to Amendment SA 3.(consideration: CR S554-556; text: CR S554)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 41 proposed by Senator Obama to Amendment SA 3.(consideration: CR S565-566; text: CR S565-566)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 57 proposed by Senator Sanders to Amendment SA 3.(consideration: CR S552-554; text: CR S552-553)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 59 proposed by Senator Bennett for Senator Coburn to Amendment SA 3.(consideration: CR S554-556; text: CR S554)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 63 proposed by Senator Feingold to Amendment SA 3.(consideration: CR S556-557; text: CR S557)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 64 proposed by Senator Feingold to Amendment SA 3.(consideration: CR S556-557; text: CR S557)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 65 proposed by Senator Feingold to Amendment SA 4.(consideration: CR S558; text: CR S558)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 70 proposed by Senator Feinstein to Amendment SA 3.(consideration: CR S556; text: CR S556)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 71 proposed by Senator Nelson NE to Amendment SA 3.(consideration: CR S566-567, S569; text: CR S566-567)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 76 proposed by Senator Feingold to Amendment SA 3.(consideration: CR S556-557; text: CR S557)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 78 proposed by Senator Bennett for Senator Lott to Amendment SA 4.(consideration: CR S559; text: CR S559)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 79 proposed by Senator Bennett for Senator Lott to Amendment SA 4.(consideration: CR S559; text: CR S559)
+- 2007-01-16 — Senate amendment proposed (on the floor): Amendment SA 81 proposed by Senator Bennett to Amendment SA 4.(consideration: CR S559; text: CR S559; text as modified: CR S559)
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-17 — Amendment SA 4 as modified agreed to in Senate by Yea-Nay Vote. 88 - 9. Record Vote Number: 15.
+- 2007-01-17 — Amendment SA 65 agreed to in Senate by Yea-Nay Vote. 89 - 5. Record Vote Number: 13.
+- 2007-01-17 — Amendment SA 81 as modified agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 14.
+- 2007-01-17 — Cloture on Amendment SA 3 not invoked in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 16. (consideration: CR S666-667; text: CR S666)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636, S638-640)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636, S647-652)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636, S665-666)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636-637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S636-641, S647-667)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637, S640-641)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637, S663-664)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637, S663-664)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637, S664-665, S665)
+- 2007-01-17 — Considered by Senate. (consideration: CR S637, S665)
+- 2007-01-17 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked (Roll Call Vote Number 16) made in Senate.
+- 2007-01-17 — Proposed amendment SA 78 withdrawn in Senate.
+- 2007-01-17 — Proposed amendment SA 79 withdrawn in Senate.
+- 2007-01-17 — Roll call votes on amendments in Senate: Amendment SA 4 as modified agreed to in Senate by Yea-Nay Vote. 88 - 9. Record Vote Number: 15.
+- 2007-01-17 — Roll call votes on amendments in Senate: Amendment SA 65 agreed to in Senate by Yea-Nay Vote. 89 - 5. Record Vote Number: 13.
+- 2007-01-17 — Roll call votes on amendments in Senate: Amendment SA 81 as modified agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 14.
+- 2007-01-17 — Roll call votes on amendments in Senate: Cloture on Amendment SA 3 not invoked in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 16.(consideration: CR S666-667; text: CR S666)
+- 2007-01-17 — Senate amendment agreed to: Amendment SA 4 as modified agreed to in Senate by Yea-Nay Vote. 88 - 9. Record Vote Number: 15.
+- 2007-01-17 — Senate amendment agreed to: Amendment SA 65 agreed to in Senate by Yea-Nay Vote. 89 - 5. Record Vote Number: 13.
+- 2007-01-17 — Senate amendment agreed to: Amendment SA 81 as modified agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 14.
+- 2007-01-18 — Amendment SA 20 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 17.
+- 2007-01-18 — Amendment SA 3 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 30 not agreed to in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 18.
+- 2007-01-18 — Amendment SA 31 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 33 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 39 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S742)
+- 2007-01-18 — Amendment SA 41 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 51 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 57 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 77 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 77 proposed by Senator Feinstein for Senator Durbin to Amendment SA 3. (consideration: CR S742-743; text as modified: CR S743) To require that amendments and instructions accompanying a motion to recommit be copied and provided by the Senator offering them to the desks of the Majority Leader and the Minority Leader before being debated.
+- 2007-01-18 — Amendment SA 9 as modified agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 98 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 98 proposed by Senator Feinstein for Senator Ensign to Amendment SA 3. (consideration: CR S741, S742-743; text as modified: CR S742) To provide for better transparency and enhanced Congressional oversight of spending by clarifying the treatment of matter not committed to conferees by either House.
+- 2007-01-18 — Amendment SA 99 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Amendment SA 99 proposed by Senator Feinstein to Amendment SA 3. (consideration: CR S743; text: CR S743) Of a technical nature.
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737, S739-741, S743)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737, S742-743)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737, S743-744)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737-738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S737-746)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738, S741-742)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738, S742-743)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738, S742-743)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738, S742-743)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738, S742-743)
+- 2007-01-18 — Considered by Senate. (consideration: CR S738, S742-743)
+- 2007-01-18 — Passed Senate with an amendment by Yea-Nay Vote. 96 - 2. Record Vote Number: 19. (text: CR 1/23/2007 S991-1000)
+- 2007-01-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 96 - 2. Record Vote Number: 19.(text: CR 1/23/2007 S991-1000)
+- 2007-01-18 — Proposed amendment SA 12 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 14 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 17 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 2 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 24 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 25 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 26 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 27 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 28 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 29 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 34 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 36 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 37 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 42 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 43 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 45 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 46 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 47 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 48 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 49 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 50 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 56 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 59 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 63 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 64 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 71 withdrawn in Senate.
+- 2007-01-18 — Proposed amendment SA 76 withdrawn in Senate.
+- 2007-01-18 — Roll call votes on amendments in Senate: Amendment SA 20 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 17.
+- 2007-01-18 — Roll call votes on amendments in Senate: Amendment SA 30 not agreed to in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 18.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 20 agreed to in Senate by Yea-Nay Vote. 55 - 43. Record Vote Number: 17.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 3 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 31 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 33 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 39 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S742)
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 41 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 51 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 57 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 77 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 9 as modified agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 98 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment agreed to: Amendment SA 99 agreed to in Senate by Unanimous Consent.
+- 2007-01-18 — Senate amendment not agreed to: Amendment SA 30 not agreed to in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 18.
+- 2007-01-18 — Senate amendment proposed (on the floor): Amendment SA 77 proposed by Senator Feinstein for Senator Durbin to Amendment SA 3.(consideration: CR S742-743; text as modified: CR S743)
+- 2007-01-18 — Senate amendment proposed (on the floor): Amendment SA 98 proposed by Senator Feinstein for Senator Ensign to Amendment SA 3.(consideration: CR S741, S742-743; text as modified: CR S742)
+- 2007-01-18 — Senate amendment proposed (on the floor): Amendment SA 99 proposed by Senator Feinstein to Amendment SA 3.(consideration: CR S743; text: CR S743)
+- 2007-01-18 — Senate amendment submitted
+- 2007-01-18 — Senate amendment submitted
+- 2007-01-22 — Amendment SA 51, previously agreed to, was modified by Unanimous Consent. (text as modified: CR S783-784)
+- 2007-01-22 — Senate ordered measure printed as passed.
+- 2007-01-24 — Held at the desk.
+- 2007-01-24 — Message on Senate action sent to the House.
+- 2007-01-24 — Received in the House.
+- 2007-07-31 — Amendment SA 2589 proposed by Senator Reid to the House amendment. (consideration: CR S10400-10401; text: CR S10400) To change the enactment date.
+- 2007-07-31 — Amendment SA 2590 proposed by Senator Reid to Amendment SA 2589. (consideration: CR S10401; text: CR S10401) Of a perfecting nature.
+- 2007-07-31 — Cloture motion on the motion to concur in House amendment presented in Senate. (consideration: CR S10400; text: CR S10400)
+- 2007-07-31 — Considered under suspension of the rules. (consideration: CR H9192-9210)
+- 2007-07-31 — DEBATE - The House proceeded with forty minutes of debate on S. 1.
+- 2007-07-31 — Message on House action received in Senate and at desk: House amendment to Senate bill. (consideration: CR S10389-10401; text: CR S10389-10400)
+- 2007-07-31 — Motion to concur in House amendment made in Senate. (consideration: CR S10400)
+- 2007-07-31 — Motion to concur in House amendment with an amendment made in Senate. (consideration: CR S10400)
+- 2007-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-31 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2007-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 8 (Roll no. 763). (text: CR H9192-9203)
+- 2007-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 8 (Roll no. 763).(text: CR H9192-9203)
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2589 proposed by Senator Reid to the House amendment.(consideration: CR S10400-10401; text: CR S10400)
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2590 proposed by Senator Reid to Amendment SA 2589.(consideration: CR S10401; text: CR S10401)
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
