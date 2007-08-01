@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 8
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 8
@@ -37,3 +37,16 @@ A joint resolution providing for the reappointment of Patricia Q. Stonesifer as 
 - 2007-08-01 — Message on Senate action sent to the House.
 - 2007-08-01 — Received in the House.
 - 2007-08-01 — Referred to the House Committee on House Administration.
+- 2007-12-05 — Cleared for White House.
+- 2007-12-05 — Considered under suspension of the rules. (consideration: CR H14211-14212)
+- 2007-12-05 — DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 8.
+- 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-05 — Mr. Brady (PA) moved to suspend the rules and pass the resolution.
+- 2007-12-05 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H14211)
+- 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H14211)
+- 2007-12-11 — Presented to President.
+- 2007-12-11 — Presented to President.
+- 2007-12-21 — Became Public Law No: 110-155.
+- 2007-12-21 — Became Public Law No: 110-155.
+- 2007-12-21 — Signed by President.
+- 2007-12-21 — Signed by President.
