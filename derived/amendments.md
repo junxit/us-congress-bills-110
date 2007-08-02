@@ -1,7 +1,7 @@
 ---
 measure: H.R. 465
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 16 U.S.C. § 4266
+### 16 U.S.C. § 4264
 
 > Section 5(c)(2)(C) of the Asian Elephant Conservation Act of 1997 (16 U.S.C. 4264(c)(2)(C)) is amended by striking “, the Administrator, and each of those countries” and inserting “and the Administrator”.
 
