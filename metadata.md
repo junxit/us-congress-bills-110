@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 87
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 87
@@ -16,11 +16,12 @@ A resolution expressing the sense of the Senate that the President should declar
 
 - Sen. Hagel, Chuck [R-NE] (H001028)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ A resolution expressing the sense of the Senate that the President should declar
 
 - 2007-02-27 — Introduced in Senate
 - 2007-02-27 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2283-2284)
+- 2007-08-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S10842)
+- 2007-08-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S10842)
+- 2007-08-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S10842)
+- 2007-08-02 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S10842)
