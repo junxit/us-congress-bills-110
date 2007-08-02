@@ -1,7 +1,7 @@
 ---
 measure: S. 845
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 845
@@ -24,9 +24,10 @@ Safety of Seniors Act of 2007
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -47,3 +48,7 @@ Safety of Seniors Act of 2007
 - 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2622 proposed by Senator Casey for Senator Enzi.(consideration: CR S10677-10678; text: CR S10677-10678)
 - 2007-08-01 — Senate amendment submitted
 - 2007-08-01 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2007-08-02 — Message on Senate action sent to the House.
+- 2007-08-02 — Received in the House.
+- 2007-08-02 — Referred to the House Committee on Energy and Commerce.
+- 2007-08-02 — Referred to the Subcommittee on Health.
