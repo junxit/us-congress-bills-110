@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2831
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2831
@@ -144,3 +144,5 @@ Lilly Ledbetter Fair Pay Act of 2007
 - 2007-07-31 — POSTPONED PROCEEDINGS - The Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Andrews demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until a time to be announced.
 - 2007-07-31 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 199 (Roll No. 768).
 - 2007-07-31 — The previous question was ordered pursuant to the rule. (consideration: CR H9222)
+- 2007-08-01 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-08-02 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 325.
