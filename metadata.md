@@ -1,7 +1,7 @@
 ---
 measure: S. 775
 congress: 110
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 775
