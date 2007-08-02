@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 602
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 602
@@ -16,6 +16,10 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2007-08-01 — Introduced in House
@@ -23,3 +27,10 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 - 2007-08-01 — Rule provides for consideration of the conference report to H.R. 2272 with 1 hour of general debate.
 - 2007-08-01 — The House Committee on Rules reported an original measure, H. Rept. 110-293, by Ms. Sutton.
 - 2007-08-01 — The House Committee on Rules reported an original measure, H. Rept. 110-293, by Ms. Sutton.
+- 2007-08-02 — Considered as privileged matter. (consideration: CR H9557-9563)
+- 2007-08-02 — DEBATE - The House proceeded further with debate on H. Res. 602.
+- 2007-08-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 602.
+- 2007-08-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-08-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 194 (Roll no. 792). (text: CR H9557)
+- 2007-08-02 — On ordering the previous question Agreed to by the Yeas and Nays: 225 - 198 (Roll no. 791). (consideration: CR H9562-9563)
+- 2007-08-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 194 (Roll no. 792).(text: CR H9557)
