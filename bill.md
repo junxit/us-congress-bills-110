@@ -49,14 +49,14 @@ Section 3(g)(1) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.
 ## § 4. Maintenance fees
 
 - **(a)** *Total amount of fees* Section 4(i)(5)(C) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5)(C)) is amended by striking “amount of” and all that follows through the end of clause (v) and inserting “amount of $22,000,000 for each of fiscal years 2008 through 2012”.
-- **(b)** *Amounts for registrants* Section 4(i)(5) of the Federal Insecticide Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5)) is amended—
+- **(b)** *Amounts for registrants* Section 4(i)(5) of the Federal Insecticide Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5) is amended—
   - **(1)** in subparagraph (D)—
     - **(A)** in clause (i), by striking by striking “shall be” and all that follows through the end of subclause (IV) and inserting “shall be $71,000 for each of fiscal years 2008 through 2012; and”; and
     - **(B)** in clause (ii), by striking “shall be” and all that follows through the end of subclause (IV) and inserting “shall be $123,000 for each of fiscal years 2008 through 2012.”; and
   - **(2)** in subparagraph (E)(i)—
     - **(A)** in subclause (I), by striking “shall be” and all that follows through the end of item (dd) and inserting “shall be $50,000 for each of fiscal years 2008 through 2012; and”; and
     - **(B)** in subclause (II), by striking “shall be” and all that follows through the end of item (dd) and inserting “shall be $86,000 for each of fiscal years 2008 through 2012.”.
-- **(c)** *Extension of authority for collecting maintenance fees* Section 4(i)(5)(H) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5)(H)) is amended by striking “2008” and inserting “2012.”
+- **(c)** *Extension of authority for collecting maintenance fees* Section 4(i)(5)(H) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5)(H) is amended by striking “2008” and inserting “2012.”
 - **(d)** *Other fees*
   - **(1)** *In general* Section 4(i)(6) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(6)) is amended by striking “2010” and inserting “2014”.
   - **(2)** *Prohibition on tolerance fees* Section 408(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 346a(m)) is amended by adding at the end the following:
@@ -140,7 +140,7 @@ Section 3(g)(1) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.
   - **(2)** in paragraph (2)—
     - **(A)** in subparagraph (A)—
       - **(i)** by redesignating clauses (ii) through and (iv) as clauses (v) through (vii), respectively;
-      - **(ii)** by inserting after clause (i) the following
+      - **(ii)** by inserting after clause (i) the following:
         > - **(ii)** the number of label amendments that have been reviewed using electronic means;
         > - **(iii)** the amount of money from the Reregistration and Expedited Processing Fund used to carry out inert ingredient review and review of similar applications under section 4(k)(3);
         > - **(iv)** the number of applications completed for identical or substantially similar applications under section 3(c)(3)(B), including the number of such applications completed within 90 days pursuant to that section;
