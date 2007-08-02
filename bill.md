@@ -1,0 +1,49 @@
+---
+legis-num: H.R. 3328
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3328
+
+> To authorize the Secretary of the Interior, acting through the Commissioner of Reclamation, to conduct a feasibility study of water augmentation alternatives in the Sierra Vista Subwatershed.
+
+## § 1. Short title
+
+This Act may be cited as the “Sierra Vista Subwatershed Feasibility Study Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Appraisal report* The term appraisal report means the appraisal report concerning the augmentation alternatives for the Sierra Vista Subwatershed in the State of Arizona, dated June 2007 and prepared by the Bureau of Reclamation.
+- **(2)** *Principles and guidelines* The term principles and guidelines means the report entitled “Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies” issued on March 10, 1983, by the Water Resources Council established under title I of the Water Resources Planning Act (42 U.S.C. 1962a et seq.).
+- **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+
+## § 3. Sierra Vista Subwatershed Feasibility Study
+
+- **(a)** *Study*
+  - **(1)** *In general* In accordance with the reclamation laws and the principles and guidelines, the Secretary, acting through the Commissioner of Reclamation, may complete a feasibility study of alternatives to augment the water supplies within the Sierra Vista Subwatershed in the State of Arizona that are identified as appropriate for further study in the appraisal report.
+  - **(2)** *Inclusions* In evaluating the feasibility of alternatives under paragraph (1), the Secretary shall—
+    - **(A)** include—
+      - **(i)** any required environmental reviews;
+      - **(ii)** the construction costs and projected operations, maintenance, and replacement costs for each alternative; and
+      - **(iii)** the economic feasibility of each alternative;
+    - **(B)** take into consideration the ability of Federal, tribal, State, and local government sources and private sources to fund capital construction costs and annual operation, maintenance, energy, and replacement costs;
+    - **(C)** establish the basis for—
+      - **(i)** any cost-sharing allocations; and
+      - **(ii)** anticipated repayment, if any, of Federal contributions; and
+    - **(D)** perform a cost-benefit analysis.
+- **(b)** *Cost sharing requirement*
+  - **(1)** *In general* The Federal share of the total costs of the study under subsection (a) shall not exceed 45 percent.
+  - **(2)** *Form of non-Federal share* The non-Federal share required under paragraph (1) may be in the form of any in-kind service that the Secretary determines would contribute substantially toward the conduct and completion of the study under subsection (a).
+- **(c)** *Statement of Congressional intent relating to completion of study* It is the intent of Congress that the Secretary complete the study under subsection (a) by a date that is not later than 30 months after the date of enactment of this Act.
+- **(d)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $1,260,000.
+
+## § 4. Water rights
+
+Nothing in this Act affects—
+
+- **(1)** any valid or vested water right in existence on the date of enactment of this Act; or
+- **(2)** any application for water rights pending before the date of enactment of this Act.
