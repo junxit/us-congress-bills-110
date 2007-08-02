@@ -1,7 +1,7 @@
 ---
 measure: H.R. 50
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 50
@@ -53,3 +53,15 @@ Multinational Species Conservation Funds Reauthorization Act of 2007
 - 2007-08-02 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2007-08-02 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2007-08-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.
+- 2007-10-29 — By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-211.
+- 2007-10-29 — By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-211.
+- 2007-11-16 — Cleared for White House.
+- 2007-11-16 — Message on Senate action sent to the House.
+- 2007-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14655-14656)
+- 2007-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14655-14656)
+- 2007-11-26 — Presented to President.
+- 2007-11-26 — Presented to President.
+- 2007-12-06 — Became Public Law No: 110-132.
+- 2007-12-06 — Became Public Law No: 110-132.
+- 2007-12-06 — Signed by President.
+- 2007-12-06 — Signed by President.
