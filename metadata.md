@@ -1,7 +1,7 @@
 ---
 measure: H.R. 673
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 673
@@ -43,3 +43,5 @@ Cocopah Lands Act
 - 2007-07-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-271.
 - 2007-07-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-271.
 - 2007-07-30 — The title of the measure was amended. Agreed to without objection.
+- 2007-07-31 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on Indian Affairs.

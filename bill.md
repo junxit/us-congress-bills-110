@@ -2,12 +2,12 @@
 legis-num: H.R. 673
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 673
 
-> To direct the Secretary of the Interior to take lands in Yuma County, Arizona, into trust as part of the reservation of the Cocopah Indian Tribe, and for other purposes.
+> To direct the Secretary of the Interior to take lands in Yuma County, Arizona, into trust as part of the reservation of the Cocopah Tribe of Arizona, and for other purposes.
 
 ## § 1. Short title
 
@@ -39,11 +39,11 @@ For the purpose of this Act, the following definitions apply:
 - **(b)** *Land described* The land referred to in subsection (a) is described as follows:
   - **(1)** *Parcel 1 (Sibley Purchase 1986)* Lot 4 and the SW1/4 of the NW1/4, of Sec. 1, T. 10 S., R. 25 W., of the Gila and Salt River Base and Meridian, Yuma County, Arizona, except that portion of the SW1/4 of the NW1/4, of said Sec. 1, T. 10 S., R. 25 W., lying southeasterly of the north right-of-way line of the Bureau of Reclamation levee.
   - **(2)** *Parcel 2 (Sibley Purchase 1986)* Lot 1 and the SE1/4 of the NE1/4, of Sec. 2, T. 10 S., R. 25 W., of the Gila and Salt River Base and Meridian, Yuma County, Arizona.
-  - **(3)** *Parcel 3 (McDaniel Purchase 1993)* That part of the E1/2 of the SE1/4, lying south of the East Main Bureau of Reclamation Canal right of way in Sec. 30, T. 9 S., R. 23 W., of the Gila and Salt River Base and Meridian, Yuma County, Arizona.
+  - **(3)** *Parcel 3 (McDaniel Purchase 1993)* That part of the E½ of the SE1/4, lying south of the East Main Bureau of Reclamation Canal right of way in Sec. 30, T. 9 S., R. 23 W., of the Gila and Salt River Base and Meridian, Yuma County, Arizona.
   - **(4)** *Parcel 4 (Holland Purchase 1997)* That portion of the NW1/4 of the NE1/4, of Sec. 31, T. 16 S., R 22 E., of the San Bernardino Base and Meridian, Yuma County, Arizona, lying north of the levee and Salinity Canal; except the north 220 feet.
   - **(5)** *Parcel 5 (Holland Purchase 1997)* An easement over the easterly 15 feet of the north 220 feet of that portion of the NW1/4 of the NE1/4, of Sec. 31, T. 16 S., R. 22 E., of the San Bernardino Base and Meridian, Yuma County, Arizona, lying north of the levee and Salinity Canal for irrigation purposes.
-  - **(6)** *Parcel 6 (Powers Purchase 1997)* Lots 21, 24, and 25, Sec. 29, and Lots 16 and 17 and the N1/2 of the SW1/4 of the SE1/4, of Sec. 30, T. 16 S., R. 22 E., of the San Bernardino Meridian, Yuma County, Arizona, according to the dependent resurvey of the Bureau of Land Management, accepted December 9, 1960.
-  - **(7)** *Parcel 7 (Speed Way Purchase 2005)* That portion of the W1/2 of the SE1/4 of Sec. 30, T. 9 S., R. 23 W., of the Gila and Salt River Base and Meridian, Yuma County, Arizona, lying south and east of the East Main Canal; except the south 33 feet thereof; except one-third interest in and to all mineral rights, as reserved in the deed recorded in Docket 1461, page 600, records of Yuma County, Arizona.
+  - **(6)** *Parcel 6 (Powers Purchase 1997)* Lots 21, 24, and 25, Sec. 29, and Lots 16 and 17 and the N½ of the SW1/4 of the SE1/4, of Sec. 30, T. 16 S., R. 22 E., of the San Bernardino Meridian, Yuma County, Arizona, according to the dependent resurvey of the Bureau of Land Management, accepted December 9, 1960.
+  - **(7)** *Parcel 7 (Speed Way Purchase 2005)* That portion of the W½ of the SE1/4 of Sec. 30, T. 9 S., R. 23 W., of the Gila and Salt River Base and Meridian, Yuma County, Arizona, lying south and east of the East Main Canal; except the south 33 feet thereof; except one-third interest in and to all mineral rights, as reserved in the deed recorded in Docket 1461, page 600, records of Yuma County, Arizona.
 - **(c)** *Lands To be made part of the reservation* Land taken into trust pursuant to subsection (a) shall be considered to be part of the Tribe’s initial reservation.
 - **(d)** *Service area* For the purposes of the delivery of Federal services to enrolled members of the Tribe, the Tribe’s service area shall be Yuma County, Arizona.
 - **(e)** *Gaming prohibited* Land taken into trust for the benefit of the Tribe under this Act shall not be used for gaming under the Indian Gaming Regulatory Act.
