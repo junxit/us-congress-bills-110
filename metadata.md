@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1361
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1361
@@ -90,3 +90,5 @@ Relief for Entrepreneurs: Coordination of Objectives and Values for Effective Re
 - 2007-04-18 — The Speaker designated the Honorable Artur Davis to act as Chairman of the Committee.
 - 2007-04-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H3526)
 - 2007-04-18 — The previous question was ordered pursuant to the rule. (consideration: CR H3525)
+- 2007-04-19 — Received in the Senate.
+- 2007-08-03 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
