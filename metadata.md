@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3311
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3311
