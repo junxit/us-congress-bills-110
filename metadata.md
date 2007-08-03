@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2786
@@ -34,3 +34,8 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2007-06-20 — Introduced in House
 - 2007-06-20 — Introduced in House
 - 2007-06-20 — Referred to the House Committee on Financial Services.
+- 2007-06-26 — Committee Consideration and Mark-up Session Held.
+- 2007-06-26 — Ordered to be Reported by Voice Vote.
+- 2007-08-03 — Placed on the Union Calendar, Calendar No. 185.
+- 2007-08-03 — Reported by the Committee on Financial Services. H. Rept. 110-295.
+- 2007-08-03 — Reported by the Committee on Financial Services. H. Rept. 110-295.
