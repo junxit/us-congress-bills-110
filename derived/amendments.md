@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3239
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -55,10 +55,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 16062` | insert | by inserting “and hybrid component manufacturers” after “grants to automobile manufacturers”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16062` | insert | by inserting “, plug-in electric hybrid,” after “production of efficient hybrid”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 16062` | insert | by inserting “and suppliers” after “automobile manufacturers”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16062` | amend | by adding at the end the following: “Priority shall be given to the refurbishment or retooling of manufacturing facilities that have recently ceased operation or will cease operation in the near future.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16062` | add-at-end | by adding at the end the following: “Priority shall be given to the refurbishment or retooling of manufacturing facilities that have recently ceased operation or will cease operation in the near future.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16062` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13211` | redesignate | by redesignating paragraphs (11), (12), (13), and (14) as paragraphs (12), (14), (15), and (16), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13211` | insert | by inserting after paragraph (10) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13211` | redesignate | by inserting after paragraph (12) (as so redesignated by paragraph (2) of this section) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 13258` | amend | by adding at the end of subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16152` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13258` | add-at-end | by adding at the end of subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16152` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
