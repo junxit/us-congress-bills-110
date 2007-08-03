@@ -1,7 +1,7 @@
 ---
 measure: H.R. 176
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 176
@@ -100,3 +100,5 @@ Shirley A. Chisholm United States-Caribbean Educational Exchange Act of 2008
 - 2007-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 55 (Roll no. 771). (text: CR H8861-8863)
 - 2007-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 55 (Roll no. 771).(text: CR H8861-8863)
 - 2007-07-31 — The title of the measure was amended. Agreed to without objection.
+- 2007-08-01 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on Foreign Relations.
