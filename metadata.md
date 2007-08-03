@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 136
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 136
@@ -82,3 +82,5 @@ Expressing the sense of Congress regarding high level visits to the United State
 - 2007-07-30 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution, as amended.
 - 2007-07-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 7/31/2007 H8868)
 - 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 7/31/2007 H8868)
+- 2007-07-31 — Received in the Senate.
+- 2007-08-03 — Referred to the Committee on Foreign Relations.
