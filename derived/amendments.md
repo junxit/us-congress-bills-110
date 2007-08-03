@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2773
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 2 executed, 7 stated and not applied.
+14 amendatory instructions. 3 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,15 @@ to guess them.
 | Removed | `$274,000,000` |
 | Inserted | `$398,000,000` |
 
+### 42 U.S.C. § 16317
+
+> in subsection (a)(1), by striking “and computational biology” and inserting “computational biology, and environmental science”; and
+
+| | |
+|---|---|
+| Removed | `and computational biology` |
+| Inserted | `computational biology, and environmental science` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -51,10 +60,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 16232` | add-at-end | Section 932 of the Energy Policy Act of 2005 (42 U.S.C. 16232) is amendment by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16317` | insert | Section 977(a)(1) of the Energy Policy Act of 2005 (42 U.S.C. 16317(a)(1)) is amended by inserting before the period at the end the following: “, including the establishment of at least 11 bioresearch centers of varying sizes, as appropr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16232` | add-at-end | Section 932 of Energy Policy Act of 2005 (42 U.S.C. 16232), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16232` | add-at-end | Section 932 of the Energy Policy Act of 2005 (42 U.S.C. 16232) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16317` | insert | Section 977(a)(1) of the Energy Policy Act of 2005 (42 U.S.C. 16317(a)(1)) is amended by inserting before the period at the end the following: “, including the establishment of at least 5 bioresearch centers of varying sizes, as appropri… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16232` | add-at-end | Section 932 of Energy Policy Act of 2005 (42 U.S.C. 16232), is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16231` | strike | at the end of paragraph (2) by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16231` | replace | at the end of paragraph (3) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16231` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16231` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16231` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16317` | insert | in paragraph (1), by inserting “in sustainable production systems that reduce greenhouse gas emissions” after “hydrogen”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 16317` | strike | at the end of paragraph (3), by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16317` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16317` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
