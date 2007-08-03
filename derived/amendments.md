@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1361
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-32 amendatory instructions. 2 executed, 30 stated and not applied.
+32 amendatory instructions. 1 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,15 +33,6 @@ to guess them.
 | Removed | `$1,500,000` |
 | Inserted | `$3,000,000` |
 
-### 15 U.S.C. § 636
-
-> by striking “90 days” and inserting “1 year”; and
-
-| | |
-|---|---|
-| Removed | `90 days` |
-| Inserted | `1 year` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -57,9 +48,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | The Small Business Act is amended by inserting after section 39 (as added by section 103) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Small Business Act is amended by inserting after section 40 (as added by section 104) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Small Business Act is amended by inserting after section 41 (as added by section 105) the following: | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 636` | replace | in subparagraph (D) by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 636` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | insert | Section 7 of the Small Business Act (15 U.S.C. 636) is amended by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (D) by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 7 of the Small Business Act (15 U.S.C. 636) is amended by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Small Business Act is amended by inserting after section 42 (as added by section 106) the following: | the bill names no machine-readable US Code section |
 | — | insert | The Small Business Act is amended by inserting after section 43 (as added by section 202) the following: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 636` | insert | Section 7 of the Small Business Act (15 U.S.C. 636) is amended by inserting after subsection (e) (as added by section 201(b)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -75,9 +66,10 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 636` | insert | in subparagraph (D) by inserting after “small business concerns” the following: “, private nonprofit organizations,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | Such section is further amended in subsection (c)(5)(C) by inserting after “business” the following: “, organization,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | Section 7(b)(3)(E) of the Small Business Act (15 U.S.C. 636(b)(3)(E)) is amended by inserting after “constitutes” the following: “, or will due to changed economic circumstances constitute,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | add-at-end | by adding at the end the following: “The Administrator may, when appropriate (as determined by the Administrator), waive the ending date specified in the preceding sentence and provide a later ending date.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | strike | in subparagraph (A) by striking “and”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 632` | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 632` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “90 days” and inserting “1 year”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: “The Administrator may, when appropriate (as determined by the Administrator), waive the ending date specified in the preceding sentence and provide a later ending date.”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (A) by striking “and”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The Small Business Act is amended by inserting after section 46 (as added by section 209) the following: | the bill names no machine-readable US Code section |
