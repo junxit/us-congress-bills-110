@@ -1,7 +1,7 @@
 ---
 measure: S. 775
 congress: 110
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 775
@@ -16,7 +16,7 @@ National Infrastructure Improvement Act of 2007
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (7)
+## Cosponsors (8)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
@@ -25,6 +25,7 @@ National Infrastructure Improvement Act of 2007
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 
 ## Committees (1)
 
@@ -48,3 +49,6 @@ National Infrastructure Improvement Act of 2007
 - 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2648 proposed by Senator Pryor for Senator Boxer.(consideration: CR S10846)
 - 2007-08-02 — Senate amendment submitted
 - 2007-08-02 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2007-08-03 — Message on Senate action sent to the House.
+- 2007-08-03 — Received in the House.
+- 2007-08-03 — Referred to the House Committee on Transportation and Infrastructure.
