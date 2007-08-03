@@ -1,7 +1,7 @@
 ---
 measure: S. 1983
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1983
@@ -20,6 +20,10 @@ Pesticide Registration Improvement Renewal Act
 
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 
+## Committees (1)
+
+- House — Agriculture Committee
+
 ## Actions
 
 - 2007-08-02 — Introduced in Senate
@@ -28,3 +32,16 @@ Pesticide Registration Improvement Renewal Act
 - 2007-08-03 — Message on Senate action sent to the House.
 - 2007-08-03 — Received in the House.
 - 2007-08-03 — Referred to the House Committee on Agriculture.
+- 2007-09-24 — Cleared for White House.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10721-10724)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 1983.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Cardoza moved to suspend the rules and pass the bill.
+- 2007-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10722-10723)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10722-10723)
+- 2007-09-27 — Presented to President.
+- 2007-09-27 — Presented to President.
+- 2007-10-09 — Became Public Law No: 110-94.
+- 2007-10-09 — Became Public Law No: 110-94.
+- 2007-10-09 — Signed by President.
+- 2007-10-09 — Signed by President.
