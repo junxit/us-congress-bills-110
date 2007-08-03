@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3237
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3237
@@ -32,3 +32,8 @@ Smart Grid Facilitation Act of 2007
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-08-03 — Committee on Science and Technology discharged.
+- 2007-08-03 — Committee on Science and Technology discharged.
+- 2007-08-03 — Placed on the Union Calendar, Calendar No. 192.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-305, Part I.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-305, Part I.
