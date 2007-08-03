@@ -1,7 +1,7 @@
 ---
 measure: H.R. 986
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 986
@@ -66,3 +66,5 @@ Eightmile Wild and Scenic River Act
 - 2007-07-31 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 253 - 172 (Roll No. 767).(text: CR H8951-8952)
 - 2007-07-31 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H9225)
 - 2007-07-31 — The previous question was ordered pursuant to the rule. (consideration: CR H9223)
+- 2007-08-01 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on Energy and Natural Resources.
