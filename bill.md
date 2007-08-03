@@ -1,8 +1,8 @@
 ---
 legis-num: S. 1983
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 1983
@@ -49,7 +49,7 @@ Section 3(g)(1) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.
 ## § 4. Maintenance fees
 
 - **(a)** *Total amount of fees* Section 4(i)(5)(C) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5)(C)) is amended by striking “amount of” and all that follows through the end of clause (v) and inserting “amount of $22,000,000 for each of fiscal years 2008 through 2012”.
-- **(b)** *Amounts for registrants* Section 4(i)(5) of the Federal Insecticide Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5) is amended—
+- **(b)** *Amounts for registrants* Section 4(i)(5) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a–1(i)(5) is amended—
   - **(1)** in subparagraph (D)—
     - **(A)** in clause (i), by striking by striking “shall be” and all that follows through the end of subclause (IV) and inserting “shall be $71,000 for each of fiscal years 2008 through 2012; and”; and
     - **(B)** in clause (ii), by striking “shall be” and all that follows through the end of subclause (IV) and inserting “shall be $123,000 for each of fiscal years 2008 through 2012.”; and
