@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1933
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 42 U.S.C. § 16293
 
-> by striking “capture technologies on combustion-based systems” and inserting “capture and storage technologies related to energy systems”;
+> by striking “capture technologies on combustion-based systems” and inserting “capture and storage technologies related to electric power generating systems”;
 
 | | |
 |---|---|
 | Removed | `capture technologies on combustion-based systems` |
-| Inserted | `capture and storage technologies related to energy systems` |
+| Inserted | `capture and storage technologies related to electric power generating systems` |
 
 ## Stated, not applied
 
@@ -62,6 +62,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 16293` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16293` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 16293` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16293` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16293` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16293` | amend | The item relating to section 963 in the table of contents for the Energy Policy Act of 2005 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
