@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3248
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3248
@@ -44,3 +44,5 @@ SAFETEA-LU Technical Corrections Act of 2007
 - 2007-08-01 — Mr. Oberstar moved to suspend the rules and pass the bill.
 - 2007-08-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 789). (text: CR 8/2/2007 H9507-9519)
 - 2007-08-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 422 - 1 (Roll no. 789).(text: CR 8/2/2007 H9507-9519)
+- 2007-08-02 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on Environment and Public Works.
