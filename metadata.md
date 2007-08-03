@@ -1,7 +1,7 @@
 ---
 measure: H.R. 660
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 660
@@ -57,3 +57,5 @@ Court Security Improvement Act of 2007
 - 2007-07-10 — Placed on the Union Calendar, Calendar No. 134.
 - 2007-07-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-218, Part I.
 - 2007-07-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-218, Part I.
+- 2007-07-11 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on the Judiciary.
