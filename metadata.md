@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1696
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1696
@@ -36,3 +36,5 @@ To amend the Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Te
 - 2007-07-30 — Placed on the Union Calendar, Calendar No. 174.
 - 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-272.
 - 2007-07-30 — Reported by the Committee on Natural Resources. H. Rept. 110-272.
+- 2007-07-31 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on Indian Affairs.
