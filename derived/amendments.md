@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1700
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -87,7 +87,7 @@ to guess them.
 | Removed | `that would, in the absence of Federal funds received under this part, be made available from State or local sources` |
 | Inserted | `that the Attorney General determines would, in the absence of Federal funds received under this part, be made available for the purpose of the grant under this part from State or local sources` |
 
-### 42 U.S.C. § 3796dd-5
+### 42 U.S.C. § 3796dd
 
 > in the section heading, by striking “Revocation or suspension of funding” and inserting “Enforcement actions”; and
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `Revocation or suspension of funding` |
 | Inserted | `Enforcement actions` |
 
-### 42 U.S.C. § 3796dd-5
+### 42 U.S.C. § 3796dd
 
 > by striking “revoke or suspend” and all that follows and inserting “take any enforcement action available to the Department of Justice.”.
 
@@ -105,7 +105,7 @@ to guess them.
 | Removed | `revoke or suspend` |
 | Inserted | `take any enforcement action available to the Department of Justice.` |
 
-### 42 U.S.C. § 3793
+### 42 U.S.C. § 3796dd
 
 > in subparagraph (A), by striking “1,047,119,000 for each of fiscal years 2006 through 2009” and inserting “1,150,000,000 for each of fiscal years 2008 through 2013”; and
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `1,047,119,000 for each of fiscal years 2006 through 2009` |
 | Inserted | `1,150,000,000 for each of fiscal years 2008 through 2013` |
 
-### 42 U.S.C. § 3793
+### 42 U.S.C. § 3796dd
 
 > in the first sentence, by striking “3 percent may be used for technical assistance under section 1701(d)” and inserting “5 percent may be used for technical assistance under section 1701(f)”; and
 
@@ -160,16 +160,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3796dd` | strike | in paragraph (1), by striking “to States, units of local government, Indian tribal governments, and to other public and private entities,”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3796dd` | insert | in the first sentence of paragraph (3), by inserting “(including regional community policing institutes)” after “training centers or facilities”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3796dd` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3796dd` | add-at-end | by adding at the end the following new sentence: “The preceding sentences shall not apply with respect to any program, project, or activity provided by a grant made pursuant to subsection (b)(4).”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3796dd` | amend | by adding at the end the following new sentence: “The preceding sentences shall not apply with respect to any program, project, or activity provided by a grant made pursuant to subsection (b)(4).”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796dd` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796dd-1` | insert | in the matter preceding paragraph (1), by inserting “, unless waived by the Attorney General” after “under this part shall”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3796dd-1` | strike | by striking subsection (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796dd-2` | amend | Section 1703 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–2) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3796dd-3` | add-at-end | by adding at the end the following new sentence: “The preceding sentence shall not apply with respect to funds made available under this part by a grant made pursuant to subsection (a) for the purposes described in subsection (b)(4).”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3796dd-3` | amend | by adding at the end the following new sentence: “The preceding sentence shall not apply with respect to funds made available under this part by a grant made pursuant to subsection (a) for the purposes described in subsection (b)(4).”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796dd-3` | strike | by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3796dd-4` | add-at-end | Section 1705 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–4) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3796dd` | add-at-end | Section 1705 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–4) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796dd-8` | insert | Section 1709(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd–8(1)) is amended by inserting “who is a sworn law enforcement officer” after “permanent basis”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 3793` | replace | by striking the second sentence and inserting the following: “Of the funds available for grants under part Q, not less than $600,000,000 shall be used for grants for the purposes specified in section 1701(b), not more than $200,000,000 s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3796dd` | replace | by striking the second sentence and inserting the following: “Of the funds available for grants under part Q, not less than $600,000,000 shall be used for grants for the purposes specified in section 1701(b), not more than $200,000,000 s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796dd` | strike | in the matter following paragraph (4), by striking “for a period of 6 years”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3712h` | strike | by striking paragraph (1); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3712h` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

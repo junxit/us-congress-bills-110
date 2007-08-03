@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1700
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1700
@@ -151,3 +151,5 @@ COPS Improvements Act of 2007
 - 2007-05-15 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 34 (Roll no. 348). (text: CR H4985-4986)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 34 (Roll no. 348).(text: CR H4985-4986)
+- 2007-05-16 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on the Judiciary.
