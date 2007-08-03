@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3238
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3238
@@ -36,3 +36,15 @@ To promote the development of renewable fuels infrastructure, and for other purp
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science and Technology, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science and Technology, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science and Technology, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-08-01 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2007-08-01 — Referred to the Subcommittee on Highways and Transit.
+- 2007-08-01 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2007-08-03 — Committee on Oversight and Government discharged.
+- 2007-08-03 — Committee on Oversight and Government discharged.
+- 2007-08-03 — Committee on Science and Technology discharged.
+- 2007-08-03 — Committee on Science and Technology discharged.
+- 2007-08-03 — Committee on Transportation discharged.
+- 2007-08-03 — Committee on Transportation discharged.
+- 2007-08-03 — Placed on the Union Calendar, Calendar No. 193.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-306, Part I.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-306, Part I.
