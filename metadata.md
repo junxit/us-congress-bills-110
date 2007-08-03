@@ -1,7 +1,7 @@
 ---
 measure: S. 1927
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1927
@@ -21,9 +21,14 @@ Protect America Act of 2007
 - Sen. Bond, Christopher S. [R-MO] (B000611)
 - Sen. Bond, Christopher S. [R-MO] (B000611)
 
-## Recorded votes (1)
+## Committees (1)
+
+- Senate — Judiciary Committee
+
+## Recorded votes (2)
 
 - 2007-08-03 — [Senate 110-1-309](votes/senate-110-1-0309.md) — On Passage of the Bill — **Bill Passed** (60–28)
+- 2007-08-04 — [House 110-1-836](votes/house-110-1-0836.md) — On Passage — **Passed** (227–183)
 
 ## Actions
 
@@ -39,3 +44,20 @@ Protect America Act of 2007
 - 2007-08-03 — Senate amendment agreed to: Amendment SA 2649 agreed to in Senate by Unanimous Consent.
 - 2007-08-03 — Senate amendment proposed (on the floor): Amendment SA 2649 proposed by Senator McConnell.(consideration: CR S10861; text: CR S10861)
 - 2007-08-03 — Senate amendment submitted
+- 2007-08-04 — Cleared for White House.
+- 2007-08-04 — Consideration initiated pursuant to a previous order. (consideration: CR H9952-9966)
+- 2007-08-04 — Considered pursuant to a previous order.
+- 2007-08-04 — DEBATE - Pursuant to a previous special order, the House proceeded with one hour of debate on S. 1927.
+- 2007-08-04 — Held at the desk.
+- 2007-08-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-08-04 — On passage Passed by the Yeas and Nays: 227 - 183 (Roll no. 836). (text: CR H9953-9954)
+- 2007-08-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 227 - 183 (Roll no. 836).(text: CR H9953-9954)
+- 2007-08-04 — Received in the House.
+- 2007-08-04 — The previous question was ordered pursuant to a previous  order of the House. (consideration: CR H9965)
+- 2007-08-05 — Became Public Law No: 110-55.
+- 2007-08-05 — Became Public Law No: 110-55.
+- 2007-08-05 — Presented to President.
+- 2007-08-05 — Presented to President.
+- 2007-08-05 — Signed by President.
+- 2007-08-05 — Signed by President.
+- 2007-09-25 — Committee on the Judiciary. Hearings held.
