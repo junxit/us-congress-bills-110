@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 143
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 143
@@ -96,3 +96,5 @@ Concurrent resolution honoring National Historic Landmarks.
 - 2007-07-30 — On agreeing to the resolution Agreed to without objection.
 - 2007-07-30 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2007-07-30 — The title of the measure was amended. Agreed to without objection.
+- 2007-07-31 — Received in the Senate.
+- 2007-08-03 — Referred to the Committee on Energy and Natural Resources.
