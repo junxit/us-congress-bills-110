@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3311
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3311
@@ -59,3 +59,14 @@ To authorize additional funds for emergency repairs and reconstruction of the In
 - 2007-08-03 — Senate amendment agreed to: Amendment SA 2654 agreed to in Senate by Unanimous Consent.
 - 2007-08-03 — Senate amendment proposed (on the floor): Amendment SA 2654 proposed by Senator Coleman for Senator Bond.(consideration: CR S10873; text: CR S10873)
 - 2007-08-03 — Senate amendment submitted
+- 2007-08-04 — Cleared for White House.
+- 2007-08-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-08-04 — On motion that the House agree to the Senate amendment Agreed to without objection. (consideration: CR H9952; text as House agree to Senate amendment: CR H9952)
+- 2007-08-04 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(consideration: CR H9952; text as House agree to Senate amendment: CR H9952)
+- 2007-08-04 — Under the special order previously agreed to, the Chair announced that the Senate amendment to H.R. 3311 was before the House.
+- 2007-08-06 — Became Public Law No: 110-56.
+- 2007-08-06 — Became Public Law No: 110-56.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Presented to President.
+- 2007-08-06 — Signed by President.
+- 2007-08-06 — Signed by President.

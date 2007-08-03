@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 3311
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 3311
@@ -28,5 +28,5 @@ Section 1112 of the Safe, Accountable, Flexible, Efficient Transportation Equity
   > - **(b)** *Minnesota*
   >   - **(1)** *In general* Notwithstanding any provision of chapter 1 of title 23, United States Code, the Secretary may—
   >     - **(A)** use funds authorized to carry out the emergency relief program under section 125 of such title for the repair and reconstruction of the Interstate I–35W bridge in Minneapolis, Minnesota, that collapsed on August 1, 2007; and
-  >     - **(B)** use not to exceed $5,000,000 of the funds authorized to carry out the emergency relief program under section 125 of such title to reimburse the Minnesota State department of transportation for actual and necessary costs of maintenance and operation, less the amount of fares earned, for additional public transportation services and traveler information services which are provided by the Metropolitan Council (of Minnesota) as a temporary substitute for highway traffic service following the collapse of the Interstate I–35W bridge in Minneapolis, Minnesota, on August 1, 2007, until highway traffic service is restored on such bridge.
+  >     - **(B)** use not to exceed $5,000,000 of the funds made available for fiscal year 2007 for Federal Transit Administration Discretionary Programs, Bus and Bus Facilities (without any local matching funds requirement) for operating expenses of the Minnesota State department of transportation for actual and necessary costs of maintenance and operation, less the amount of fares earned, which are provided by the Metropolitan Council (of Minnesota) as a temporary substitute for highway traffic service following the collapse of the Interstate I–35W bridge in Minneapolis, Minnesota, on August 1, 2007, until highway traffic service is restored on such bridge.
   >   - **(2)** *Federal share* The Federal share of the cost of activities reimbursed under this subsection shall be 100 percent.
