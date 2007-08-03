@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3241
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3241
@@ -32,3 +32,8 @@ To clarify the amount of loans to be guaranteed under title XVII of the Energy P
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-08-03 — Committee on Science and Technology discharged.
+- 2007-08-03 — Committee on Science and Technology discharged.
+- 2007-08-03 — Placed on the Union Calendar, Calendar No. 196.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-309, Part I.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-309, Part I.
