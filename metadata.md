@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2765
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2765
@@ -55,3 +55,5 @@ To designate the facility of the United States Postal Service located at 44 Nort
 - 2007-07-30 — Mr. Davis (IL) asked unanimous consent to discharge from committee and consider.
 - 2007-07-30 — On passage Passed without objection. (text: CR 7/31/2007 CR H8838)
 - 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR 7/31/2007 CR H8838)
+- 2007-07-31 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
