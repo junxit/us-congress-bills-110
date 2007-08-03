@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1315
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1315
@@ -39,3 +39,5 @@ Veterans' Benefits Improvement Act of 2007
 - 2007-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2007 H8887-8888)
 - 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2007 H8887-8888)
 - 2007-07-30 — The title of the measure was amended. Agreed to without objection.
+- 2007-07-31 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on Veterans' Affairs.
