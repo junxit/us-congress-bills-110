@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2347
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 80a-13` | add-at-end | Section 13 of the Investment Company Act of 1940 (15 U.S.C. 80a–13) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 13 of the Investment Company Act of 1940 (15 U.S.C. 80a–13) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | `29 U.S.C. § 1132` | add-at-end | Section 502 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
