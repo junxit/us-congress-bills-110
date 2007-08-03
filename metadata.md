@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3311
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3311
@@ -16,7 +16,7 @@ To authorize additional funds for emergency repairs and reconstruction of the In
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
@@ -25,6 +25,8 @@ To authorize additional funds for emergency repairs and reconstruction of the In
 - Rep. Kline, John [R-MN-2] (K000363)
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (1)
 
@@ -37,3 +39,19 @@ To authorize additional funds for emergency repairs and reconstruction of the In
 - 2007-08-02 — Introduced in House
 - 2007-08-02 — Ordered to be Reported by Voice Vote.
 - 2007-08-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-08-03 — Amendment SA 2654 agreed to in Senate by Unanimous Consent.
+- 2007-08-03 — Amendment SA 2654 proposed by Senator Coleman for Senator Bond. (consideration: CR S10873; text: CR S10873) To improve expanded eligibility for transit and travel information services.
+- 2007-08-03 — Considered under suspension of the rules. (consideration: CR H9675-9681)
+- 2007-08-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3311.
+- 2007-08-03 — Measure laid before Senate by unanimous consent. (consideration: CR S10873-10874)
+- 2007-08-03 — Message on Senate action sent to the House.
+- 2007-08-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-08-03 — Mr. Oberstar moved to suspend the rules and pass the bill, as amended.
+- 2007-08-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 819). (text: CR H9675-9676)
+- 2007-08-03 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-08-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 819).(text: CR H9675-9676)
+- 2007-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-08-03 — Received in the Senate, read twice.
+- 2007-08-03 — Senate amendment agreed to: Amendment SA 2654 agreed to in Senate by Unanimous Consent.
+- 2007-08-03 — Senate amendment proposed (on the floor): Amendment SA 2654 proposed by Senator Coleman for Senator Bond.(consideration: CR S10873; text: CR S10873)
+- 2007-08-03 — Senate amendment submitted
