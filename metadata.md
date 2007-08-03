@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3236
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3236
@@ -34,3 +34,11 @@ Energy Efficiency Improvement Act of 2007
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-08-01 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-08-03 — Committee on Oversight and Government discharged.
+- 2007-08-03 — Committee on Oversight and Government discharged.
+- 2007-08-03 — Committee on Transportation discharged.
+- 2007-08-03 — Committee on Transportation discharged.
+- 2007-08-03 — Placed on the Union Calendar, Calendar No. 191.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-304, Part I.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-304, Part I.
