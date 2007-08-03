@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3095
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3095
@@ -35,3 +35,5 @@ To amend the Adam Walsh Child Protection and Safety Act of 2006 to modify a dead
 - 2007-07-23 — Ms. Jackson-Lee moved to suspend the rules and pass the bill.
 - 2007-07-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text as passed in House: CR H8228)
 - 2007-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text as passed in House: CR H8228)
+- 2007-07-24 — Received in the Senate.
+- 2007-08-03 — Read twice and referred to the Committee on the Judiciary.
