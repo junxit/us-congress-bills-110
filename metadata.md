@@ -1,7 +1,7 @@
 ---
 measure: S. 496
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 496
@@ -49,3 +49,5 @@ Appalachian Regional Development Act Amendments of 2008
 - 2007-05-07 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 110-63.
 - 2007-05-07 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 110-63.
 - 2007-05-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
+- 2007-08-03 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S10983-10986; text as passed Senate: CR S10983-10986)
+- 2007-08-03 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S10983-10986; text as passed Senate: CR S10983-10986)
