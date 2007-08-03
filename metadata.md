@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3240
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3240
@@ -29,3 +29,6 @@ To enhance availability of critical energy information.
 - 2007-07-31 — Introduced in House
 - 2007-07-31 — Introduced in House
 - 2007-07-31 — Referred to the House Committee on Energy and Commerce.
+- 2007-08-03 — Placed on the Union Calendar, Calendar No. 195.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-308.
+- 2007-08-03 — Reported by the Committee on Energy and Commerce. H. Rept. 110-308.
