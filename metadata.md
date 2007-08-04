@@ -1,7 +1,7 @@
 ---
 measure: H.R. 189
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 189
@@ -16,7 +16,7 @@ Paterson Great Falls National Historical Park Act of 2008
 
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
-## Cosponsors (12)
+## Cosponsors (14)
 
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
@@ -30,6 +30,8 @@ Paterson Great Falls National Historical Park Act of 2008
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
 ## Committees (1)
 
@@ -40,3 +42,12 @@ Paterson Great Falls National Historical Park Act of 2008
 - 2007-01-04 — Introduced in House
 - 2007-01-04 — Introduced in House
 - 2007-01-04 — Referred to the House Committee on Natural Resources.
+- 2007-01-05 — Sponsor introductory remarks on measure. (CR E11)
+- 2007-02-07 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-03-29 — Subcommittee Hearings Held.
+- 2007-06-28 — Committee Consideration and Mark-up Session Held.
+- 2007-06-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-06-28 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2007-08-04 — Placed on the Union Calendar, Calendar No. 197.
+- 2007-08-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-310.
+- 2007-08-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-310.
