@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3221
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3221
@@ -69,3 +69,193 @@ Housing and Economic Recovery Act of 2008
 - 2007-07-30 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, Foreign Affairs, Small Business, Science and Technology, Agriculture, Oversight and Government Reform, Natural Resources, Transportation and Infrastructure, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-30 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, Foreign Affairs, Small Business, Science and Technology, Agriculture, Oversight and Government Reform, Natural Resources, Transportation and Infrastructure, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-30 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, Foreign Affairs, Small Business, Science and Technology, Agriculture, Oversight and Government Reform, Natural Resources, Transportation and Infrastructure, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-08-03 — Rules Committee Resolution H. Res. 615 Reported to House. Rule provides for consideration of H.R. 3221 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in part A of the report of the Committee on Rules accompanying this resolution shall be considered as adopted in the House and the Committee of the Whole.
+- 2007-08-04 — Amendment (A001) offered by Mr. Blumenauer. (consideration: CR H9839-9840; text: CR H9839)
+- 2007-08-04 — Amendment (A002) offered by Mr. Shays. (consideration: CR H9840-9841; text: CR H9840)
+- 2007-08-04 — Amendment (A003) offered by Ms. Hooley. (consideration: CR H9841-9842; text: CR H9841)
+- 2007-08-04 — Amendment (A004) offered by Mr. Pitts. (consideration: CR H9842; text: CR H9842)
+- 2007-08-04 — Amendment (A005) offered by Mr. Terry. (consideration: CR H9843-9844; text: CR H9843)
+- 2007-08-04 — Amendment (A006) offered by Mr. Udall (NM). (consideration: CR H9844-9852, H9872-9873; text: CR H9844-9847)
+- 2007-08-04 — Amendment (A007) offered by Mr. Van Hollen. (consideration: CR H9852-9853; text: CR H9852)
+- 2007-08-04 — Amendment (A008) offered by Ms. Schwartz. (consideration: CR H9853-9854; text: CR H9853-9854)
+- 2007-08-04 — Amendment (A009) offered by Mr. Arcuri. (consideration: CR H9854-9856, H9873; text: CR H9854)
+- 2007-08-04 — Amendment (A010) offered by Mr. Hodes. (consideration: CR H9856-9857; text: CR H9856)
+- 2007-08-04 — Amendment (A011) offered by Mr. Barton (TX). (consideration: CR H9857; text: CR H9857)
+- 2007-08-04 — Amendment (A012) offered by Mr. Murphy (CT). (consideration: CR H9857-9858; text: CR H9857)
+- 2007-08-04 — Amendment (A013) offered by Mr. Sali. (consideration: CR H9858, H9873-9874; text: CR H9858)
+- 2007-08-04 — Amendment (A014) offered by Mr. Welch (VT). (consideration: CR H9858-9861; text: CR H9858-9859)
+- 2007-08-04 — Amendment (A015) offered by Mr. Castle. (consideration: CR H9861-9862; text: CR H9861)
+- 2007-08-04 — Amendment (A016) offered by Mr. Wu. (consideration: CR H9862-9863; text: CR H9862)
+- 2007-08-04 — Amendment (A017) offered by Ms. Giffords. (consideration: CR H9863-9866; text: CR H9863-9865)
+- 2007-08-04 — Amendment (A018) offered by Mrs. Tauscher. (consideration: CR H9866; text: CR H9866)
+- 2007-08-04 — Amendment (A019) offered by Mr. Holt. (consideration: CR H9866-9867; text: CR H9866-9867)
+- 2007-08-04 — Amendment (A020) offered by Mr. Hastings (FL). (consideration: CR H9867-9868; text: CR H9867)
+- 2007-08-04 — Amendment (A021) offered by Ms. Solis. (consideration: CR H9868-9869; text: CR H9868)
+- 2007-08-04 — Amendment (A022) offered by Mr. Cleaver. (consideration: CR H9870-9871, H9874-9875; text: CR H9870)
+- 2007-08-04 — Amendment (A023) offered by Mr. Sarbanes. (consideration: CR H9871-9872; text: CR H9871-9872)
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment agreed to Committee of the Whole
+- 2007-08-04 — Amendment failed in Committee of the Whole
+- 2007-08-04 — By unanimous consent, the Murphy (CT) amendment was withdrawn.
+- 2007-08-04 — Committee of the Whole House on the state of the Union rises leaving H.R. 3221 as unfinished business.
+- 2007-08-04 — Considered under the provisions of rule H. Res. 615. (consideration: CR H9722-9842, H9843-9861, H9861-9869, H9870-9914; text of measure as introduced: CR H9750-9839)
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Castle amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Cleaver amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Giffords amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Sarbanes amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Solis amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Tauscher amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H. Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Wu amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Arcuri amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Barton amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Hodes amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Hooley amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (CT) amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Pitts amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Sail amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Schwartz amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Shays amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Terry amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Udall (NM) amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Van Hollen amendment.
+- 2007-08-04 — DEBATE - Pursuant to the provisions of H.Res. 615, the Committee of the Whole proceeded with 10 minutes of debate on the Welch (VT) amendment.
+- 2007-08-04 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Barton (TX) motion to recommit with instructions. The instructions contained in the motion seek to strike all after the enacting clause and insert a complete new text.
+- 2007-08-04 — GENERAL DEBATE - The Committee of the Whole proceeded with 2 hours and 15 minutes of general debate on H.R. 3221.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Barton (TX) amendment (A011) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Blumenauer amendment (A001) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Castle amendment (A015) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Cleaver amendment (A022) Agreed to by recorded vote: 218 - 196 (Roll no. 830).
+- 2007-08-04 — House amendment agreed to: On agreeing to the Giffords amendment (A017) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Hastings (FL) amendment (A020) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Hodes amendment (A010) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Holt amendment (A019) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Hooley amendment (A003) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Pitts amendment (A004) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Sali amendment (A013) Agreed to by recorded vote: 402 - 9 (Roll no. 829).
+- 2007-08-04 — House amendment agreed to: On agreeing to the Sarbanes amendment (A023) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Schwartz amendment (A008) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Shays amendment (A002) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Solis amendment (A021) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Tauscher amendment (A018) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Terry amendment (A005) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Udall (NM) amendment (A006) Agreed to by recorded vote: 220 - 190 (Roll no. 827).
+- 2007-08-04 — House amendment agreed to: On agreeing to the Van Hollen amendment (A007) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Welch (VT) amendment (A014) Agreed to by voice vote.
+- 2007-08-04 — House amendment agreed to: On agreeing to the Wu amendment (A016) Agreed to by voice vote.
+- 2007-08-04 — House amendment not agreed to: On agreeing to the Arcuri amendment (A009) Failed by recorded vote: 169 - 245 (Roll no. 828).
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered
+- 2007-08-04 — House amendment offered/reported by : Amendment (A001) offered by Mr. Blumenauer.(consideration: CR H9839-9840; text: CR H9839)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A002) offered by Mr. Shays.(consideration: CR H9840-9841; text: CR H9840)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A003) offered by Ms. Hooley.(consideration: CR H9841-9842; text: CR H9841)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A004) offered by Mr. Pitts.(consideration: CR H9842; text: CR H9842)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A005) offered by Mr. Terry.(consideration: CR H9843-9844; text: CR H9843)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A006) offered by Mr. Udall (NM).(consideration: CR H9844-9852, H9872-9873; text: CR H9844-9847)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A007) offered by Mr. Van Hollen.(consideration: CR H9852-9853; text: CR H9852)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A008) offered by Ms. Schwartz.(consideration: CR H9853-9854; text: CR H9853-9854)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A009) offered by Mr. Arcuri.(consideration: CR H9854-9856, H9873; text: CR H9854)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A010) offered by Mr. Hodes.(consideration: CR H9856-9857; text: CR H9856)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A011) offered by Mr. Barton (TX).(consideration: CR H9857; text: CR H9857)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A012) offered by Mr. Murphy (CT).(consideration: CR H9857-9858; text: CR H9857)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A013) offered by Mr. Sali.(consideration: CR H9858, H9873-9874; text: CR H9858)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A014) offered by Mr. Welch (VT).(consideration: CR H9858-9861; text: CR H9858-9859)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A015) offered by Mr. Castle.(consideration: CR H9861-9862; text: CR H9861)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A016) offered by Mr. Wu.(consideration: CR H9862-9863; text: CR H9862)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A017) offered by Ms. Giffords.(consideration: CR H9863-9866; text: CR H9863-9865)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A018) offered by Mrs. Tauscher.(consideration: CR H9866; text: CR H9866)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A019) offered by Mr. Holt.(consideration: CR H9866-9867; text: CR H9866-9867)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A020) offered by Mr. Hastings (FL).(consideration: CR H9867-9868; text: CR H9867)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A021) offered by Ms. Solis.(consideration: CR H9868-9869; text: CR H9868)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A022) offered by Mr. Cleaver.(consideration: CR H9870-9871, H9874-9875; text: CR H9870)
+- 2007-08-04 — House amendment offered/reported by : Amendment (A023) offered by Mr. Sarbanes.(consideration: CR H9871-9872; text: CR H9871-9872)
+- 2007-08-04 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 615 and Rule XVIII.
+- 2007-08-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-08-04 — Mr. Barton (TX) moved to recommit with instructions to the Committees of jurisdiction. (consideration: CR H9875-9913; text: CR H9875-9913)
+- 2007-08-04 — Ms. Solis moved that the Committee rise.
+- 2007-08-04 — ORDER OF PROCEDURE - Ms. Solis asked unanimous consent that, during further consideration of H.R. 3221 pursuant to H. Res. 615, the Chair may reduce to two minutes the minimum time for electronic voting under clause 6 of rule 18 and clauses 8 and 9 of rule 20. Agreed to without objection.
+- 2007-08-04 — On agreeing to the Arcuri amendment (A009) Failed by recorded vote: 169 - 245 (Roll no. 828).
+- 2007-08-04 — On agreeing to the Barton (TX) amendment (A011) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Blumenauer amendment (A001) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Castle amendment (A015) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Cleaver amendment (A022) Agreed to by recorded vote: 218 - 196 (Roll no. 830).
+- 2007-08-04 — On agreeing to the Giffords amendment (A017) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Hastings (FL) amendment (A020) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Hodes amendment (A010) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Holt amendment (A019) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Hooley amendment (A003) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Pitts amendment (A004) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Sali amendment (A013) Agreed to by recorded vote: 402 - 9 (Roll no. 829).
+- 2007-08-04 — On agreeing to the Sarbanes amendment (A023) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Schwartz amendment (A008) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Shays amendment (A002) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Solis amendment (A021) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Tauscher amendment (A018) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Terry amendment (A005) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Udall (NM) amendment (A006) Agreed to by recorded vote: 220 - 190 (Roll no. 827).
+- 2007-08-04 — On agreeing to the Van Hollen amendment (A007) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Welch (VT) amendment (A014) Agreed to by voice vote.
+- 2007-08-04 — On agreeing to the Wu amendment (A016) Agreed to by voice vote.
+- 2007-08-04 — On motion that the Committee rise Agreed to by voice vote.
+- 2007-08-04 — On motion to recommit with instructions Failed by recorded vote: 169 - 244 (Roll no. 831). (consideration: CR H9913)
+- 2007-08-04 — On passage Passed by recorded vote: 241 - 172 (Roll no. 832).
+- 2007-08-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cleaver amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Cleaver demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-08-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Sali amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Sali demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-08-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Udall (NM) amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Barton demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-08-04 — POSTPONES PROCEEDINGS - At the conclusion of debate on the Arcuri amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Barton demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-08-04 — Passed/agreed to in House: On passage Passed by recorded vote: 241 - 172 (Roll no. 832).
+- 2007-08-04 — Roll call votes on amendments in House
+- 2007-08-04 — Roll call votes on amendments in House
+- 2007-08-04 — Roll call votes on amendments in House
+- 2007-08-04 — Roll call votes on amendments in House
+- 2007-08-04 — Rule H. Res. 615 passed House.
+- 2007-08-04 — Rule provides for consideration of H.R. 3221 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment printed in part A of the report of the Committee on Rules accompanying this resolution shall be considered as adopted in the House and the Committee of the Whole.
+- 2007-08-04 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3221.
+- 2007-08-04 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-08-04 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2007-08-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3221.
+- 2007-08-04 — The Speaker designated the Honorable David R. Obey to act as Chairman of the Committee.
+- 2007-08-04 — The previous question was ordered pursuant to the rule. (consideration: CR H9875)
+- 2007-08-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
