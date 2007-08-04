@@ -1,7 +1,7 @@
 ---
 measure: S. 1896
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1896
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Gregg, Judd [R-NH] (G000445)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 301.
 - 2007-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10978-10979; text as passed Senate: CR S10979)
 - 2007-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10978-10979; text as passed Senate: CR S10979)
+- 2007-08-04 — Message on Senate action sent to the House.
+- 2007-08-04 — Received in the House.
+- 2007-08-04 — Referred to the House Committee on Oversight and Government Reform.
