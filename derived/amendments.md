@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3020
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 4 executed, 4 stated and not applied.
+11 amendatory instructions. 4 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -73,3 +73,6 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 636` | strike | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended, in each of paragraphs (1)(B)(i) and (11)(B), by striking “short-term,”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 636` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | Section 7(m)(1)(A)(i) of the Small Business Act (15 U.S.C. 636(m)(1)(A)(i)) is amended by inserting “disabled,” before “and minority entrepreneurs”. | the bill quotes the text inserted but describes where it goes |
+| — | redesignate | by redesignating section 37 as 99; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 36 the following: | the bill names no machine-readable US Code section |
+| — | repeal | Subtitle C (15 U.S.C. 6901 et seq.) of title I of the Riegle Community Development and Regulatory Improvement Act of 1994 is repealed. | the bill names no machine-readable US Code section |
