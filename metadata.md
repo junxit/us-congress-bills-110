@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3162
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3162
@@ -75,3 +75,4 @@ Children's Health and Medicare Protection Act of 2007
 - 2007-08-01 — Rules Committee Resolution H. Res. 594 Reported to House. Rule provides for consideration of H.R. 3162 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2007-08-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR 8/2/2007 H9501)
 - 2007-08-01 — The previous question was ordered pursuant to the rule. (consideration: CR 8/2/2007 H9499)
+- 2007-09-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 338.
