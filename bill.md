@@ -18,7 +18,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Postal Accountability and Enhancement Act (Public Law 109–435) expressly reaffirmed the right of postal customers to have access to a class of mail sealed against inspection;
 - Whereas the United States Postal Service affirmed January 4, 2007, that the enactment of the Postal Accountability and Enhancement Act (Public Law 109–435) does not grant Federal law enforcement officials any new authority to open domestic mail;
 - Whereas the signing statement on the Postal Accountability and Enhancement Act (Public Law 109–435) issued by President Bush on December 20, 2006, raises questions about the President’s commitment to abide by these basic privacy protections; and
-- Whereas the Senate rejects any interpretation of the President’s signing statement on the Postal Accountability and Enhancement Act (Public Law 109–435) that in any way diminishes the privacy protections accorded sealed domestic mail under the Constitution and Federal laws and regulations:
-- Now, therefore, be it
+- Whereas the Senate rejects any interpretation of the President’s signing statement on the Postal Accountability and Enhancement Act (Public Law 109–435) that in any way diminishes the privacy protections accorded sealed domestic mail under the Constitution and Federal laws and regulations: Now, therefore, be it
 
 That the Senate reaffirms the constitutional and statutory protections accorded sealed domestic mail.
