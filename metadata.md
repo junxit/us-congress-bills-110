@@ -1,7 +1,7 @@
 ---
 measure: S. 163
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 163
@@ -24,9 +24,10 @@ Small Business Disaster Response and Loan Improvements Act of 2007
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Isakson, Johnny [R-GA] (I000055)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Small Business and Entrepreneurship Committee
+- House — Small Business Committee
 
 ## Actions
 
@@ -56,3 +57,6 @@ Small Business Disaster Response and Loan Improvements Act of 2007
 - 2007-08-03 — Senate amendment submitted
 - 2007-08-03 — Senate amendment submitted
 - 2007-08-03 — Senate amendment submitted
+- 2007-08-06 — Message on Senate action sent to the House.
+- 2007-09-04 — Received in the House.
+- 2007-09-04 — Referred to the House Committee on Small Business.
