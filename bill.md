@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H. CON. RES. 196
 
-> Authorizing the use of the rotunda and grounds of the Capitol for a ceremony to award the Congressional Gold Medal to Tenzin Gyatso, the Fourteenth Dalai Lama.
+> Authorizing the use of the Rotunda and grounds of the Capitol for a ceremony to award the Congressional Gold Medal to Tenzin Gyatso, the Fourteenth Dalai Lama.
 
 ## § 1. Use of Rotunda For Gold Medal Ceremony for Dalai Lama
 
-- **(a)** *Use of Rotunda* The rotunda of the Capitol is authorized to be used on October 17, 2007, for a ceremony to award the Congressional Gold Medal to Tenzin Gyatso, the Fourteenth Dalai Lama, in accordance with Public Law 109–287.
+- **(a)** *Use of Rotunda* The Rotunda of the Capitol is authorized to be used on October 17, 2007, for a ceremony to award the Congressional Gold Medal to Tenzin Gyatso, the Fourteenth Dalai Lama, in accordance with Public Law 109–287.
 - **(b)** *Preparations* Physical preparations for the ceremony referred to in subsection (a) shall be carried out in accordance with such conditions as the Architect of the Capitol may prescribe.
 
 ## § 2. Use of Capitol Grounds in Connection With Ceremony
