@@ -23,12 +23,12 @@ In this Act—
 
 ## § 3. Green Chemistry Research and Development Program
 
-- **(a)** *In general* The President shall establish a Green Chemistry Research and Development Program to promote and coordinate Federal green chemistry research, development, demonstration, education, and technology transfer activities.
+- **(a)** *In general* The President shall establish a Green Chemistry Research and Development Program to promote and coordinate Federal green chemistry research, development, education, and technology transfer activities.
 - **(b)** *Program activities* The activities of the Program shall be designed to—
-  - **(1)** provide sustained support for green chemistry research, development, demonstration, education, and technology transfer through—
+  - **(1)** provide sustained support for green chemistry research, development, education, and technology transfer through—
     - **(A)** merit-reviewed competitive grants to individual investigators and teams of investigators, including, to the extent practicable, young investigators, for research and development;
     - **(B)** grants to fund collaborative research and development partnerships among universities, industry, and nonprofit organizations;
-    - **(C)** green chemistry research, development, demonstration, and technology transfer conducted at Federal laboratories; and
+    - **(C)** green chemistry research, development, and technology transfer conducted at Federal laboratories; and
     - **(D)** to the extent practicable, encouragement of consideration of green chemistry in—
       - **(i)** the conduct of Federal chemical science and engineering research and development; and
       - **(ii)** the solicitation and evaluation of all proposals for chemical science and engineering research and development;
@@ -58,7 +58,7 @@ Section 25(a) of the National Institute of Standards and Technology Act (15 U.S.
 - **(1)** by striking “and” at the end of paragraph (4);
 - **(2)** by striking the period at the end of paragraph (5) and inserting “; and”; and
 - **(3)** by adding at the end the following:
-  > - **(6)** the enabling of supply chain manufacturers to continuously improve products and processes, increase energy efficiency, identify cost-saving opportunities, and optimize resources and technologies with the aim of reducing or eliminating the use or generation of hazardous substances.
+  > - **(6)** the enabling of supply chain manufacturers to continuously improve products and processes, increase energy efficiency, increase recycling, identify cost-saving opportunities, and optimize resources and technologies with the aim of reducing or eliminating the use or generation of hazardous substances.
 
 ## § 5. Undergraduate education in chemistry and chemical engineering
 
@@ -66,7 +66,7 @@ Section 25(a) of the National Institute of Standards and Technology Act (15 U.S.
   - **(1)** As part of the Program activities under section 3(b)(4), the Director of the National Science Foundation shall carry out a program to award grants to institutions of higher education to support efforts by such institutions to revise their undergraduate curriculum in chemistry and chemical engineering to incorporate green chemistry concepts and strategies.
   - **(2)** Grants shall be awarded under this section on a competitive, merit-reviewed basis and shall require cost sharing in cash from non-Federal sources, to match the Federal funding.
 - **(b)** *Selection process*
-  - **(1)** An institution of higher education seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. The application shall include at a minimum—
+  - **(1)** An institution of higher education seeking funding under this section shall submit an application to the Director at such time, in such manner, and containing such information as the Director may require. Minority Serving Institutions shall receive due consideration for such funding. The application shall include at a minimum—
     - **(A)** a description of the content and schedule for adoption of the proposed curricular revisions to the courses of study offered by the applicant in chemistry and chemical engineering; and
     - **(B)** a description of the source and amount of cost sharing to be provided.
   - **(2)** In evaluating the applications submitted under paragraph (1), the Director shall consider, at a minimum—
