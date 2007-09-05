@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 575
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 575
@@ -16,7 +16,7 @@ Commending the people and the Government of the Hashemite Kingdom of Jordan for 
 
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Cosponsors (75)
+## Cosponsors (89)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -93,6 +93,20 @@ Commending the people and the Government of the Hashemite Kingdom of Jordan for 
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
 ## Committees (1)
 
@@ -103,3 +117,11 @@ Commending the people and the Government of the Hashemite Kingdom of Jordan for 
 - 2007-07-26 — Introduced in House
 - 2007-07-26 — Introduced in House
 - 2007-07-26 — Referred to the House Committee on Foreign Affairs.
+- 2007-07-31 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2007-07-31 — Committee Consideration and Mark-up Session Held.
+- 2007-09-05 — Considered under suspension of the rules. (consideration: CR H10093-10095)
+- 2007-09-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 575.
+- 2007-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-05 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution, as amended.
+- 2007-09-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10093-10094)
+- 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10093-10094)
