@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 23
@@ -263,10 +263,11 @@ Belated Thank You to the Merchant Mariners of World War II Act of 2007
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -292,3 +293,4 @@ Belated Thank You to the Merchant Mariners of World War II Act of 2007
 - 2007-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/31/2007 H8884)
 - 2007-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/31/2007 H8884)
 - 2007-07-30 — The title of the measure was amended. Agreed to without objection.
+- 2007-09-05 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
