@@ -2,7 +2,7 @@
 legis-num: H. RES. 631
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 631
@@ -22,9 +22,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Nation is greatly indebted to coal miners for the difficult and dangerous work they perform to provide the fuel needed to operate the Nation’s industries and to provide energy to homes and businesses; and
 - Whereas many residents of Emery County and Carbon County, Utah, and the surrounding areas, came together to support the miners’ families and the community has been steadfast in its efforts to help the families of the missing and deceased: Now, therefore, be it
 
-That the House—
+That the House of Representatives—
 
 - **(1)** recognizes Kerry Allred, Don Erickson, Juan Carlos Payan, Brandon Phillips, Manuel Sanchez, Jose Luis Hernandez, Gary Jensen, Brandon Kimber, and Dale “Bird” Black for their sacrifice in the Crandall Canyon, Utah coal mine;
 - **(2)** extends the deepest condolences of the Nation to the families of these men;
-- **(3)** recognizes the many volunteers who participated in the rescue efforts and provided support for the miners’ families during the rescue ooperations; and
+- **(3)** recognizes the many volunteers who participated in the rescue efforts and provided support for the miners’ families during the rescue operations; and
 - **(4)** honors the long national heritage of coal mining families and supports the tradition for the future.
