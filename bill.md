@@ -1,8 +1,8 @@
 ---
 legis-num: H. CON. RES. 196
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 196
@@ -16,7 +16,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 2. Use of Capitol Grounds in Connection With Ceremony
 
-- **(a)** *In General* The International Campaign for Tibet (in this resolution referred to as the “sponsor”) shall be permitted to sponsor a public event on the Capitol Grounds (in this resolution referred to as the “event”) on October 17, 2007, in connection with the ceremony to be held in the rotunda of the Capitol under section 1.
+- **(a)** *In General* The International Campaign for Tibet (in this resolution referred to as the “sponsor”) shall be permitted to sponsor a public event on the Capitol Grounds (in this resolution referred to as the “event”) on October 17, 2007, in connection with the ceremony to be held in the Rotunda of the Capitol under section 1.
 - **(b)** *Terms and Conditions*
   - **(1)** *In general* Under conditions to be prescribed by the Architect of the Capitol and the Capitol Police Board, the event shall be—
     - **(A)** free of admission charge and open to the public; and
