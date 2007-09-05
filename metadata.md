@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 554
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 554
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Passport Month.
 
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 
-## Cosponsors (55)
+## Cosponsors (62)
 
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
@@ -73,6 +73,13 @@ Supporting the goals and ideals of National Passport Month.
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Porter, Jon C. [R-NV-3] (P000589)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
 
 ## Committees (1)
 
@@ -83,3 +90,11 @@ Supporting the goals and ideals of National Passport Month.
 - 2007-07-17 — Introduced in House
 - 2007-07-17 — Introduced in House
 - 2007-07-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-08-02 — Committee Consideration and Mark-up Session Held.
+- 2007-08-02 — Ordered to be Reported by Unanimous Consent.
+- 2007-09-05 — Considered under suspension of the rules. (consideration: CR H10097-10098)
+- 2007-09-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 554.
+- 2007-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-05 — Mr. Welch (VT) moved to suspend the rules and agree to the resolution.
+- 2007-09-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10097)
+- 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10097)
