@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 196
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 196
@@ -43,3 +43,5 @@ Authorizing the use of the rotunda and grounds of the Capitol for a ceremony to 
 - 2007-09-04 — Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.
 - 2007-09-04 — On agreeing to the resolution Agreed to without objection. (text: CR H10038)
 - 2007-09-04 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10038)
+- 2007-09-05 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S11125)
+- 2007-09-05 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S11125)
