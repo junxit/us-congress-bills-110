@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2992
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2992
@@ -25,9 +25,10 @@ SBA Trade Programs Act of 2007
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ SBA Trade Programs Act of 2007
 - 2007-09-04 — Placed on the Union Calendar, Calendar No. 198.
 - 2007-09-04 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-312.
 - 2007-09-04 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-312.
+- 2007-09-05 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
