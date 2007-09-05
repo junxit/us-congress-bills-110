@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2850
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2850
@@ -29,9 +29,10 @@ Green Chemistry Research and Development Act of 2007
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Green Chemistry Research and Development Act of 2007
 - 2007-09-04 — Mr. Baird moved to suspend the rules and pass the bill, as amended.
 - 2007-09-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10023-10024)
 - 2007-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10023-10024)
+- 2007-09-05 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
