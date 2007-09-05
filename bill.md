@@ -2,7 +2,7 @@
 legis-num: H. RES. 629
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 629
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas hundreds of thousands of mature olive trees, vineyards and thousands of animals perished in the flames;
 - Whereas damage to the Greek economy is estimated at between $1,600,000,000 and $5,400,000,000;
 - Whereas the United States and Greece have stood side by side in confronting world challenges throughout the 20th century, and will stand together in confronting this new challenge; and
-- Whereas the United States, through its government, its people and its Greek-American community, has already extended significant support to the people of Greece during this difficult time: Now, therefore, be it
+- Whereas the United States, through its government, its people and its Greek–American community, has already extended significant support to the people of Greece during this difficult time: Now, therefore, be it
 
 That the House of Representatives—
 

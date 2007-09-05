@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 629
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 629
@@ -16,7 +16,7 @@ Extending the condolences and sympathy of the House of Representatives to the Go
 
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -32,6 +32,9 @@ Extending the condolences and sympathy of the House of Representatives to the Go
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
 
 ## Committees (1)
 
@@ -42,3 +45,11 @@ Extending the condolences and sympathy of the House of Representatives to the Go
 - 2007-09-04 — Introduced in House
 - 2007-09-04 — Introduced in House
 - 2007-09-04 — Referred to the House Committee on Foreign Affairs.
+- 2007-09-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-09-05 — Considered as unfinished business. (consideration: CR H10112-10113)
+- 2007-09-05 — Considered under suspension of the rules. (consideration: CR H10082-10084)
+- 2007-09-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 629.
+- 2007-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-05 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution.
+- 2007-09-05 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 851). (text: CR H10082)
+- 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 851).(text: CR H10082)
