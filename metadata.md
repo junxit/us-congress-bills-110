@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 606
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 606
@@ -35,3 +35,10 @@ Honoring the city of Minneapolis, first responders, and the citizens of the Stat
 - 2007-08-02 — Introduced in House
 - 2007-08-02 — Introduced in House
 - 2007-08-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-08-03 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-09-05 — Considered under suspension of the rules. (consideration: CR H10107-10111)
+- 2007-09-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 606.
+- 2007-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-05 — Mr. Walz (MN) moved to suspend the rules and agree to the resolution.
+- 2007-09-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10107)
+- 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10107)
