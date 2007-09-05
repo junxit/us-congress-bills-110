@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 165
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 165
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Teen Driver Safety Week.
 
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
-## Cosponsors (55)
+## Cosponsors (56)
 
 - Rep. Altmire, Jason [D-PA-4] (A000362)
 - Rep. Barrett, J. Gresham [R-SC-3] (B001239)
@@ -73,6 +73,7 @@ Supporting the goals and ideals of National Teen Driver Safety Week.
 - Rep. Sullivan, John [R-OK-1] (S001155)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Wilson, Heather [R-NM-1] (W000789)
+- Rep. Weller, Jerry [R-IL-11] (W000273)
 
 ## Committees (1)
 
@@ -84,3 +85,11 @@ Supporting the goals and ideals of National Teen Driver Safety Week.
 - 2007-06-06 — Introduced in House
 - 2007-06-06 — Referred to the House Committee on Oversight and Government Reform.
 - 2007-06-06 — Sponsor introductory remarks on measure. (CR E1213)
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-09-05 — Considered under suspension of the rules. (consideration: CR H10100-10102)
+- 2007-09-05 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 165.
+- 2007-09-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-05 — Mr. Welch (VT) moved to suspend the rules and agree to the resolution.
+- 2007-09-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10100-10101)
+- 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10100-10101)
