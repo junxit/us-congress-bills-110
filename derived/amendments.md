@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3020
 congress: 110
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 4 executed, 7 stated and not applied.
+11 amendatory instructions. 2 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 15 U.S.C. § 636
-
-> in subparagraph (A) by striking “paragraph (10)” and inserting “paragraph (11)”; and
-
-| | |
-|---|---|
-| Removed | `paragraph (10)` |
-| Inserted | `paragraph (11)` |
-
-### 15 U.S.C. § 636
-
-> Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended by striking “$7,500” and inserting “$10,000” in each of the following places: paragraph (3)(F)(iii), paragraph (6)(C)(i), and paragraph (6)(C)(ii).
-
-| | |
-|---|---|
-| Removed | `$7,500` |
-| Inserted | `$10,000` |
 
 ### 15 U.S.C. § 636
 
@@ -69,9 +51,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 636` | amend | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 636` | strike | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended, in each of paragraphs (1)(B)(i) and (11)(B), by striking “short-term,”. | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 636` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (A) by striking “paragraph (10)” and inserting “paragraph (11)”; and | the bill names no machine-readable US Code section |
+| — | amend | by amending subparagraph (B) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 7(m) of the Small Business Act (15 U.S.C. 636(m)) is amended by striking “$7,500” and inserting “$10,000” in each of the following places: paragraph (3)(F)(iii), paragraph (6)(C)(i), and paragraph (6)(C)(ii). | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 636` | insert | Section 7(m)(1)(A)(i) of the Small Business Act (15 U.S.C. 636(m)(1)(A)(i)) is amended by inserting “disabled,” before “and minority entrepreneurs”. | the bill quotes the text inserted but describes where it goes |
 | — | redesignate | by redesignating section 37 as 99; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 36 the following: | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3020
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3020
@@ -24,9 +24,10 @@ Microloan Amendments and Modernization Act
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Microloan Amendments and Modernization Act
 - 2007-09-04 — Placed on the Union Calendar, Calendar No. 199.
 - 2007-09-04 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-313.
 - 2007-09-04 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-313.
+- 2007-09-05 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
