@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 288
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 288
@@ -16,7 +16,7 @@ A resolution designating September 2007 as "National Prostate Cancer Awareness M
 
 - Sen. Sessions, Jeff [R-AL] (S001141)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Inhofe, James M. [R-OK] (I000024)
@@ -29,6 +29,7 @@ A resolution designating September 2007 as "National Prostate Cancer Awareness M
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Dole, Elizabeth [R-NC] (D000601)
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cochran, Thad [R-MS] (C000567)
 
 ## Committees (1)
 
@@ -38,3 +39,7 @@ A resolution designating September 2007 as "National Prostate Cancer Awareness M
 
 - 2007-08-01 — Introduced in Senate
 - 2007-08-01 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S10627)
+- 2007-09-06 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-09-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-09-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
