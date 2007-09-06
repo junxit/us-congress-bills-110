@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2761
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2761
@@ -16,7 +16,7 @@ Terrorism Risk Insurance Program Reauthorization Act of 2007
 
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
 
-## Cosponsors (23)
+## Cosponsors (31)
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
@@ -41,6 +41,14 @@ Terrorism Risk Insurance Program Reauthorization Act of 2007
 - Rep. Frank, Barney [D-MA-4] (F000339)
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
 ## Committees (1)
 
@@ -52,3 +60,10 @@ Terrorism Risk Insurance Program Reauthorization Act of 2007
 - 2007-06-18 — Introduced in House
 - 2007-06-18 — Referred to the House Committee on Financial Services.
 - 2007-06-18 — Referred to the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises.
+- 2007-07-24 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 26 - 17 .
+- 2007-07-24 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-08-01 — Committee Consideration and Mark-up Session Held.
+- 2007-08-01 — Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 20.
+- 2007-09-06 — Placed on the Union Calendar, Calendar No. 201.
+- 2007-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-318.
+- 2007-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-318.
