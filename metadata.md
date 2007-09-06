@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2786
@@ -29,6 +29,13 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 
 - House — Financial Services Committee
 
+## Recorded votes (4)
+
+- 2007-09-06 — [House 110-1-856](votes/house-110-1-0856.md) — On Agreeing to the Amendment — **Failed** (112–298)
+- 2007-09-06 — [House 110-1-857](votes/house-110-1-0857.md) — On Agreeing to the Amendment — **Agreed to** (263–146)
+- 2007-09-06 — [House 110-1-858](votes/house-110-1-0858.md) — On Agreeing to the Amendment — **Failed** (184–228)
+- 2007-09-06 — [House 110-1-859](votes/house-110-1-0859.md) — On Passage — **Passed** (333–75)
+
 ## Actions
 
 - 2007-06-20 — Introduced in House
@@ -39,3 +46,65 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2007-08-03 — Placed on the Union Calendar, Calendar No. 185.
 - 2007-08-03 — Reported by the Committee on Financial Services. H. Rept. 110-295.
 - 2007-08-03 — Reported by the Committee on Financial Services. H. Rept. 110-295.
+- 2007-09-05 — Rules Committee Resolution H. Res. 633 Reported to House. Rule provides for consideration of H.R. 2786 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments.
+- 2007-09-06 — Amendment (A001) offered by Mr. Watt. (consideration: CR H10183-10184; text: CR H10183)
+- 2007-09-06 — Amendment (A002) offered by Mr. Boren to the Watt amendment (A001). (consideration: CR H10184-10185; text: CR H10184)
+- 2007-09-06 — Amendment (A003) offered by Mr. Pearce. (consideration: CR H10185-10187; text: CR H10186)
+- 2007-09-06 — Amendment (A004) offered by Mr. Westmoreland. (consideration: CR H10187-10190, H10193-10194; text: CR H10187)
+- 2007-09-06 — Amendment (A005) offered by Mr. King (IA). (consideration: CR H10190-10191, H10194-10195; text: CR H10190)
+- 2007-09-06 — Amendment (A006) offered by Mr. Price (GA). (consideration: CR H10191-10193, H10195; text: CR H10191)
+- 2007-09-06 — Amendment agreed to Committee of the Whole
+- 2007-09-06 — Amendment agreed to Committee of the Whole
+- 2007-09-06 — Amendment agreed to Committee of the Whole
+- 2007-09-06 — Amendment agreed to Committee of the Whole
+- 2007-09-06 — Amendment failed in Committee of the Whole
+- 2007-09-06 — Amendment failed in Committee of the Whole
+- 2007-09-06 — Considered under the provisions of rule H. Res. 633. (consideration: CR H10182-10196)
+- 2007-09-06 — DEBATE - The Committe of the Whole proceeded with debate on the Boren amendment to the Watt amendment under the five-minute rule.
+- 2007-09-06 — DEBATE - The Committee of the Whole proceeded with debate on the King (IA) amendment under the five-minute rule.
+- 2007-09-06 — DEBATE - The Committee of the Whole proceeded with debate on the Pearce amendment under the five-minute rule.
+- 2007-09-06 — DEBATE - The Committee of the Whole proceeded with debate on the Price (GA) amendment under the five-minute rule.
+- 2007-09-06 — DEBATE - The Committee of the Whole proceeded with debate on the Watt amendment under the five-minute rule.
+- 2007-09-06 — DEBATE - The Committee of the Whole proceeded with debate on the Westmoreland amendment under the five-minute rule.
+- 2007-09-06 — House amendment agreed to: On agreeing to the Boren amendment (A002) Agreed to by voice vote.
+- 2007-09-06 — House amendment agreed to: On agreeing to the King (IA) amendment (A005) Agreed to by recorded vote: 263 - 146 (Roll no. 857).
+- 2007-09-06 — House amendment agreed to: On agreeing to the Pearce amendment (A003) Agreed to by voice vote.
+- 2007-09-06 — House amendment agreed to: On agreeing to the Watt amendment (A001) as amended Agreed to by voice vote.
+- 2007-09-06 — House amendment not agreed to: On agreeing to the Price (GA) amendment (A006) Failed by recorded vote: 184 - 228 (Roll no. 858).
+- 2007-09-06 — House amendment not agreed to: On agreeing to the Westmoreland amendment (A004) Failed by recorded vote: 112 - 298 (Roll no. 856).
+- 2007-09-06 — House amendment offered
+- 2007-09-06 — House amendment offered
+- 2007-09-06 — House amendment offered
+- 2007-09-06 — House amendment offered
+- 2007-09-06 — House amendment offered
+- 2007-09-06 — House amendment offered
+- 2007-09-06 — House amendment offered/reported by : Amendment (A001) offered by Mr. Watt.(consideration: CR H10183-10184; text: CR H10183)
+- 2007-09-06 — House amendment offered/reported by : Amendment (A002) offered by Mr. Boren to the Watt amendment (A001).(consideration: CR H10184-10185; text: CR H10184)
+- 2007-09-06 — House amendment offered/reported by : Amendment (A003) offered by Mr. Pearce.(consideration: CR H10185-10187; text: CR H10186)
+- 2007-09-06 — House amendment offered/reported by : Amendment (A004) offered by Mr. Westmoreland.(consideration: CR H10187-10190, H10193-10194; text: CR H10187)
+- 2007-09-06 — House amendment offered/reported by : Amendment (A005) offered by Mr. King (IA).(consideration: CR H10190-10191, H10194-10195; text: CR H10190)
+- 2007-09-06 — House amendment offered/reported by : Amendment (A006) offered by Mr. Price (GA).(consideration: CR H10191-10193, H10195; text: CR H10191)
+- 2007-09-06 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 633 and Rule XVIII.
+- 2007-09-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-06 — On agreeing to the Boren amendment (A002) Agreed to by voice vote.
+- 2007-09-06 — On agreeing to the King (IA) amendment (A005) Agreed to by recorded vote: 263 - 146 (Roll no. 857).
+- 2007-09-06 — On agreeing to the Pearce amendment (A003) Agreed to by voice vote.
+- 2007-09-06 — On agreeing to the Price (GA) amendment (A006) Failed by recorded vote: 184 - 228 (Roll no. 858).
+- 2007-09-06 — On agreeing to the Watt amendment (A001) as amended Agreed to by voice vote.
+- 2007-09-06 — On agreeing to the Westmoreland amendment (A004) Failed by recorded vote: 112 - 298 (Roll no. 856).
+- 2007-09-06 — On passage Passed by the Yeas and Nays: 333 - 75 (Roll no. 859).
+- 2007-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the King (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. King (IA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Price (GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-09-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Westmoreland amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Westmoreland demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-09-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 333 - 75 (Roll no. 859).
+- 2007-09-06 — Roll call votes on amendments in House
+- 2007-09-06 — Roll call votes on amendments in House
+- 2007-09-06 — Roll call votes on amendments in House
+- 2007-09-06 — Rule H. Res. 633 passed House.
+- 2007-09-06 — Rule provides for consideration of H.R. 2786 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is open to amendments.
+- 2007-09-06 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2786.
+- 2007-09-06 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-09-06 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2786.
+- 2007-09-06 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
+- 2007-09-06 — The previous question was ordered pursuant to the rule. (consideration: CR H10195)
+- 2007-09-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.

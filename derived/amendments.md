@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,11 +35,11 @@ to guess them.
 
 ### 25 U.S.C. § 4131
 
-> in the paragraph heading, by striking “Non-indian families” and inserting “Essential families”;
+> in the paragraph heading, by striking “Non-Indian families” and inserting “Essential families”;
 
 | | |
 |---|---|
-| Removed | `Non-indian families` |
+| Removed | `Non-Indian families` |
 | Inserted | `Essential families` |
 
 ### 25 U.S.C. § 4131
