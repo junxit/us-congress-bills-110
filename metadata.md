@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 282
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 282
@@ -29,3 +29,7 @@ A resolution supporting the goals and ideals of a National Polycystic Kidney Dis
 - 2007-07-26 — Introduced in Senate
 - 2007-07-26 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S10191-10192)
 - 2007-07-26 — Sponsor introductory remarks on measure. (CR S10192)
+- 2007-09-06 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-09-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-09-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
