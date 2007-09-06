@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3062
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3062
@@ -26,9 +26,10 @@ Pacific Island Economic and Educational Development Act of 2007
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Pacific Island Economic and Educational Development Act of 2007
 - 2007-09-05 — Mr. Faleomavaega moved to suspend the rules and pass the bill, as amended.
 - 2007-09-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10084)
 - 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10084)
+- 2007-09-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
