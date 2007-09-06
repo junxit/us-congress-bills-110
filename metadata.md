@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 165
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 165
@@ -75,9 +75,10 @@ Supporting the goals and ideals of National Teen Driver Safety Week.
 - Rep. Wilson, Heather [R-NM-1] (W000789)
 - Rep. Weller, Jerry [R-IL-11] (W000273)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -93,3 +94,4 @@ Supporting the goals and ideals of National Teen Driver Safety Week.
 - 2007-09-05 — Mr. Welch (VT) moved to suspend the rules and agree to the resolution.
 - 2007-09-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10100-10101)
 - 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10100-10101)
+- 2007-09-06 — Received in the Senate and referred to the Committee on Commerce, Science, and Transportation.
