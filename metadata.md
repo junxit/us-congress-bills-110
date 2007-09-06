@@ -1,7 +1,7 @@
 ---
 measure: H.R. 954
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 954
@@ -69,3 +69,15 @@ To designate the facility of the United States Postal Service located at 365 Wes
 - 2007-09-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10095)
 - 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10095)
 - 2007-09-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-09-11 — Cleared for White House.
+- 2007-09-11 — Passed Senate without amendment by Unanimous Consent.
+- 2007-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-09-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S11459-11460)
+- 2007-09-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S11459-11460)
+- 2007-09-12 — Message on Senate action sent to the House.
+- 2007-09-19 — Presented to President.
+- 2007-09-19 — Presented to President.
+- 2007-09-28 — Became Public Law No: 110-87.
+- 2007-09-28 — Became Public Law No: 110-87.
+- 2007-09-28 — Signed by President.
+- 2007-09-28 — Signed by President.
