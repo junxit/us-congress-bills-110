@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 181
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 181
@@ -55,9 +55,10 @@ Recognizing and commending all volunteers and other persons who provide support 
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Recognizing and commending all volunteers and other persons who provide support 
 - 2007-09-05 — Mr. Ortiz moved to suspend the rules and agree to the resolution.
 - 2007-09-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10114-10115)
 - 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10114-10115)
+- 2007-09-06 — Received in the Senate and referred to the Committee on Armed Services.
