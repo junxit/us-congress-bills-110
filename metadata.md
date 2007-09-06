@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3052
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3052
@@ -35,9 +35,10 @@ To designate the facility of the United States Postal Service located at 954 Whe
 - Rep. Hobson, David L. [R-OH-7] (H000666)
 - Rep. Pryce, Deborah [R-OH-15] (P000555)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the facility of the United States Postal Service located at 954 Whe
 - 2007-09-05 — Mr. Welch (VT) moved to suspend the rules and pass the bill.
 - 2007-09-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10102)
 - 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10102)
+- 2007-09-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
