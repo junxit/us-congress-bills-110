@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3218
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 3218
@@ -57,3 +57,4 @@ To designate a portion of Interstate Route 395 located in Baltimore, Maryland, a
 - 2007-09-05 — Mr. Cummings moved to suspend the rules and pass the bill.
 - 2007-09-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10105)
 - 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10105)
+- 2007-09-06 — Received in the Senate, read twice.
