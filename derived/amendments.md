@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3246
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -51,7 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 450b` | redesignate | by redesignating subtitle V as subtitle VI; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | insert | by inserting after subtitle IV the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450b` | replace | The table of subtitles for chapter 40, United States Code, is amended by striking the item relating to subtitle V and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5314` | redesignate | by redesignating subtitle V as subtitle VI; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5314` | insert | by inserting after subtitle IV the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5314` | replace | The table of subtitles for chapter 40, United States Code, is amended by striking the item relating to subtitle V and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 15301` | repeal | Subtitles F and G of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa–2009bb–13) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

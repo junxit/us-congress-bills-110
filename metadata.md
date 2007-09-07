@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3246
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3246
@@ -16,7 +16,7 @@ Regional Economic and Infrastructure Development Act of 2007
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
@@ -35,6 +35,7 @@ Regional Economic and Infrastructure Development Act of 2007
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
 
 ## Committees (2)
 
@@ -48,3 +49,11 @@ Regional Economic and Infrastructure Development Act of 2007
 - 2007-07-31 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-31 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-08-01 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-08-02 — Committee Consideration and Mark-up Session Held.
+- 2007-08-02 — Ordered to be Reported by Voice Vote.
+- 2007-09-07 — Committee on Financial Services discharged.
+- 2007-09-07 — Committee on Financial Services discharged.
+- 2007-09-07 — Placed on the Union Calendar, Calendar No. 202.
+- 2007-09-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-321, Part I.
+- 2007-09-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-321, Part I.
