@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 253
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 253
@@ -33,3 +33,5 @@ A resolution expressing the sense of the Senate that the establishment of a Muse
 - 2007-06-28 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2007-06-28 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2007-06-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 243.
+- 2007-09-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S11279-11280; text as passed Senate: CR S11280)
+- 2007-09-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S11279-11280; text as passed Senate: CR S11280)
