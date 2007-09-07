@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 134
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 134
@@ -36,3 +36,5 @@ A resolution designating September 2007 as "Adopt a School Library Month".
 - 2007-09-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-09-06 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-09-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 342.
+- 2007-09-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S11278-11279; text as passed Senate: CR S11278)
+- 2007-09-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S11278-11279; text as passed Senate: CR S11278)
