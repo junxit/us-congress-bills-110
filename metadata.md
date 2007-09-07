@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 637
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 637
@@ -27,3 +27,11 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 - 2007-09-06 — Placed on the House Calendar, Calendar No. 109.
 - 2007-09-06 — The House Committee on Rules reported an original measure, H. Rept. 110-320, by Ms. Sutton.
 - 2007-09-06 — The House Committee on Rules reported an original measure, H. Rept. 110-320, by Ms. Sutton.
+- 2007-09-07 — Considered as privileged matter. (consideration: CR H10255-10258)
+- 2007-09-07 — Considered as unfinished business. (consideration: CR H10259)
+- 2007-09-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 637.
+- 2007-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-07 — On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 185 (Roll no. 861). (text: CR H10255)
+- 2007-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 637, the Chair put the question of agreeing to the resolution and by voice vote, announced that the ayes had prevailed. Mr. Lincoln Diaz-Balart demanded the yeas and nays and the Chair postponed further proceedings on the question of agreeing to the resolution until later in the legislative day.
+- 2007-09-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 185 (Roll no. 861).(text: CR H10255)
+- 2007-09-07 — The previous question was ordered without objection. (consideration: CR H10258)
