@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1908
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-124 amendatory instructions. 38 executed, 86 stated and not applied.
+98 amendatory instructions. 33 executed, 65 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -98,51 +98,6 @@ to guess them.
 
 ### 28 U.S.C. § 1295
 
-> by striking “an interference” and inserting “a derivation proceeding”;
-
-| | |
-|---|---|
-| Removed | `an interference` |
-| Inserted | `a derivation proceeding` |
-
-### 28 U.S.C. § 1295
-
-> by striking “the interference” each place it appears and inserting “the derivation proceeding”;
-
-| | |
-|---|---|
-| Removed | `the interference` |
-| Inserted | `the derivation proceeding` |
-
-### 28 U.S.C. § 1295
-
-> by striking “(d) Parties” and inserting “(d) Arbitration.—Parties”;
-
-| | |
-|---|---|
-| Removed | `(d) Parties` |
-| Inserted | `(d) Arbitration.—Parties` |
-
-### 28 U.S.C. § 1295
-
-> by striking “a patent interference” and inserting “a derivation proceeding”; and
-
-| | |
-|---|---|
-| Removed | `a patent interference` |
-| Inserted | `a derivation proceeding` |
-
-### 28 U.S.C. § 1295
-
-> by striking “the interference” and inserting “the derivation proceeding”.
-
-| | |
-|---|---|
-| Removed | `the interference` |
-| Inserted | `the derivation proceeding` |
-
-### 28 U.S.C. § 1295
-
 > Sections 41(a)(6), 134, 141, 145, 146, 154, 305, and 314 are each amended by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”.
 
 | | |
@@ -197,7 +152,7 @@ to guess them.
 
 ### 28 U.S.C. § 1295
 
-> in the second paragraph, by striking “Such suit” and inserting “(b) Procedure.—A suit under subsection (a)”
+> in the second paragraph, by striking “Such suit” and inserting “(b) Procedure.—A suit under subsection (a)”.
 
 | | |
 |---|---|
@@ -385,12 +340,7 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 1295` | strike | Section 363 is amended by striking “except as otherwise provided in section 102(e) of this title”. | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 1295` | strike | Section 119(a) is amended by striking “; but no patent shall be granted” and all that follows through “one year prior to such filing”. | the bill quotes the text struck but describes what replaces it |
 | `28 U.S.C. § 1295` | repeal | Section 291, and the item relating to that section in the table of sections for chapter 29, are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1295` | amend | Section 135(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1295` | replace | by striking “(b)(1) A claim” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 1295` | replace | by striking “(2) A claim” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 1295` | replace | by striking “(c) Any agreement” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 1295` | replace | in the second paragraph, by striking “The Director” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 1295` | amend | by amending the third paragraph to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1295` | amend | Section 135 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1295` | amend | The section heading for section 134 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1295` | amend | The section heading for section 135 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1295` | amend | The section heading for section 146 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -403,24 +353,10 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 1001` | strike | in the heading for paragraph (3), by striking “and oath”; and | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 1001` | strike | by striking “and oath” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 1001` | amend | The item relating to section 115 in the table of sections for chapter 11 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1001` | amend | Section 118 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in the first paragraph, by striking “Upon” and inserting “(a) In general.—Upon”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) (as designated by paragraph (1) of this subsection) the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) (as designated by paragraph (1) of this subsection) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the third undesignated paragraph, by striking “The court” and inserting “(d) Expert Testimony.—The court”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “of a method”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “review period;” and inserting “review period; and”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2)(B), by striking the semicolon at the end and inserting a period; and | the bill names no machine-readable US Code section |
-| — | strike | by striking paragraphs (3) and (4); | the bill names no machine-readable US Code section |
-| — | strike | by striking “for a method”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “at least 1 year before the effective filing date of such patent, and” and all that follows through the period and inserting “and commercially used, or made substantial preparations for commercial use of, the subject matter b… | the bill names no machine-readable US Code section |
-| — | replace | by striking “The sale or other disposition of a useful end product produced by a patented method” and inserting “The sale or other disposition of subject matter that qualifies for the defense set forth in this section”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “a defense under this section with respect to that useful end result” and inserting “such defense”; | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (A); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (7), by striking “of the patent” and inserting “of the claimed invention”; and | the bill names no machine-readable US Code section |
-| — | amend | by amending the heading to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The item relating to section 273 in the table of sections for chapter 28 is amended to read as follows: | the bill names no machine-readable US Code section |
 | `28 U.S.C. § 1338` | amend | Section 301 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1338` | amend | Section 303(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1338` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -431,9 +367,7 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 1338` | repeal | Section 4607 of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 100 (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 6 is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | by striking subparagraph (B); and | the bill names no machine-readable US Code section |
-| — | replace | by striking “(A) An application” and inserting “An application”; and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating clauses (i) through (iv) as subparagraphs (A) through (D), respectively. | the bill names no machine-readable US Code section |
+| — | replace | Section 122(b)(2)(B)(i) is amended by striking “published as provided in paragraph (1).” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 122 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 7701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1400` | replace | Section 1400 of title 28, United States Code, is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

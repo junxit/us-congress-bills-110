@@ -27,7 +27,6 @@ Whenever in this Act a section or other provision is amended or repealed, that a
   >   - **(1)** the filing date of the patent or the application for patent containing the claim to the invention; or
   >   - **(2)** if the patent or application for patent is entitled to a right of priority of any other application under section 119, 365(a), or 365(b) or to the benefit of an earlier filing date in the United States under section 120, 121, or 365(c), the filing date of the earliest such application in which the claimed invention is disclosed in the manner provided by section 112(a).
   > - **(i)** The term claimed invention means the subject matter defined by a claim in a patent or an application for a patent.
-  > - **(j)** The term joint invention means an invention resulting from the collaboration of inventive endeavors of two or more persons working toward the same end and producing an invention by their collective efforts.
 
 - **(b)** *Conditions for patentability*
   - **(1)** *In general* Section 102 is amended to read as follows:
@@ -78,52 +77,27 @@ Whenever in this Act a section or other provision is amended or repealed, that a
       - **(ii)** by striking “the statutory” and inserting “that 1-year”; and
     - **(B)** in paragraph (3), by striking “any statutory bar date that may occur under this title due to publication, on sale, or public use” and inserting “the expiration of the 1-year period referred to in section 102(a)”.
 - **(h)** *Repeal of interfering patent remedies* Section 291, and the item relating to that section in the table of sections for chapter 29, are repealed.
-- **(i)** *Action for claim to patent on derived invention*
-  - **(1)** *In general* Section 135(a) is amended to read as follows:
-    > - **(a)** *Dispute over right to patent*
-    >   - **(1)** *Institution of derivation proceeding*
-    >     - **(A)** *Request for proceeding* An applicant may request initiation of a derivation proceeding to determine the right of the applicant to a patent by filing a request that sets forth with particularity the basis for finding that another applicant derived the claimed invention from the applicant requesting the proceeding and, without authorization, filed an application claiming such invention. Any such request—
-    >       - **(i)** may only be made within 12 months after the earlier of—
-    >         - **(I)** the date on which a patent is issued containing a claim that is the same or substantially the same as the claimed invention; or
-    >         - **(II)** the date of first publication of an application containing a claim that is the same or is substantially the same as the claimed invention; and
-    >       - **(ii)** must be made under oath, and must be supported by substantial evidence.
-    >     - **(B)** *Determination of director* Whenever the Director determines that patents or applications for patent naming different individuals as the inventor interfere with one another because of a dispute over the right to patent under section 101 on the basis of a request under subparagraph (A), the Director shall institute a derivation proceeding for the purpose of determining which applicant is entitled to a patent.
-    >   - **(2)** *Determination by Patent Trial and Appeal Board* In any proceeding under this subsection, the Patent Trial and Appeal Board—
-    >     - **(A)** shall determine the question of the right to patent;
-    >     - **(B)** in appropriate circumstances, may correct the naming of the inventor in any application or patent at issue; and
-    >     - **(C)** shall issue a final decision on the right to patent.
-    >   - **(3)** *Derivation proceeding* The Patent Trial and Appeal Board may defer action on a request to initiate a derivation proceeding for up to three months after the date on which the Director issues a patent to the applicant that filed the earlier application.
-    >   - **(4)** *Effect of final decision* The final decision of the Patent Trial and Appeal Board in a derivation proceeding, if adverse to the claim of an applicant, shall constitute the final refusal by the Patent and Trademark Office on the claims involved. The Director may issue a patent to an applicant who is determined by the Patent Trial and Appeal Board to have the right to a patent. The final decision of the Board, if adverse to a patentee, shall, if no appeal or other review of the decision has been or can be taken or had, constitute cancellation of the claims involved in the patent, and notice of such cancellation shall be endorsed on copies of the patent distributed after such cancellation by the Patent and Trademark Office.
+- **(i)** *Action for claim to patent on derived invention* Section 135 is amended to read as follows:
+  > ## § 135. Derivation proceedings
+  >
+  > - **(a)** *Dispute over right to patent*
+  >   - **(1)** *Institution of derivation proceeding*
+  >     - **(A)** *Request for proceeding* An applicant may request initiation of a derivation proceeding to determine the right of the applicant to a patent by filing a request that sets forth with particularity the basis for finding that another applicant derived the claimed invention from the applicant requesting the proceeding and, without authorization, filed an application claiming such invention.
+  >     - **(B)** *Requirements for request* Any request under subparagraph (A)—
+  >       - **(i)** may only be made within 12 months after the earlier of—
+  >         - **(I)** the date on which a patent is issued containing a claim that is the same or substantially the same as the claimed invention; or
+  >         - **(II)** the date of first publication of an application containing a claim that is the same or is substantially the same as the claimed invention; and
+  >       - **(ii)** must be made under oath, and must be supported by substantial evidence.
+  >     - **(C)** *Determination of director* Whenever the Director determines that patents or applications for patent naming different individuals as the inventor interfere with one another because of a dispute over the right to patent on the basis of a request under subparagraph (A), the Director shall institute a derivation proceeding for the purpose of determining which applicant is entitled to a patent.
+  >   - **(2)** *Determination by Patent Trial and Appeal Board* In any proceeding under this subsection, the Patent Trial and Appeal Board—
+  >     - **(A)** shall determine the question of the right to patent;
+  >     - **(B)** in appropriate circumstances, may correct the naming of the inventor in any application or patent at issue; and
+  >     - **(C)** shall issue a final decision on the right to patent.
+  >   - **(3)** *Derivation proceeding* The Patent Trial and Appeal Board may defer action on a request to initiate a derivation proceeding for up to three months after the date on which the Director issues a patent to the applicant that filed the earlier application.
+  >   - **(4)** *Effect of final decision* The final decision of the Patent Trial and Appeal Board in a derivation proceeding, if adverse to the claim of an applicant, shall constitute the final refusal by the Patent and Trademark Office on the claims involved. The Director may issue a patent to an applicant who is determined by the Patent Trial and Appeal Board to have the right to a patent. The final decision of the Board, if adverse to a patentee, shall, if no appeal or other review of the decision has been or can be taken or had, constitute cancellation of the claims involved in the patent, and notice of such cancellation shall be endorsed on copies of the patent distributed after such cancellation by the Patent and Trademark Office.
+  > - **(b)** *Settlement* Parties to a derivation proceeding may terminate the proceeding by filing a written statement reflecting the agreement of the parties as to the correct inventors of the claimed invention in dispute. Unless the Patent Trial and Appeal Board finds the agreement to be inconsistent with the evidence of record, it shall take action consistent with the agreement. Any written settlement or understanding of the parties shall be filed with the Director. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents or applications, and shall be made available only to Government agencies on written request, or to any person on a showing of good cause.
+  > - **(c)** *Arbitration* Parties to a derivation proceeding, within such time as may be specified by the Director by regulation, may determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9 to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining patentability of the invention involved in the derivation proceeding.
 
-  - **(2)** *Conforming amendments*
-    - **(A)** Section 135 is further amended—
-      - **(i)** in subsection (b)—
-        - **(I)** by striking “(b)(1) A claim” and inserting the following:
-          > - **(b)** *Same claims*
-          >   - **(1)** *Issued patents* A claim
-
-        - **(II)** by striking “(2) A claim” and inserting the following:
-          > - **(2)** *Published applications* A claim
-
-        - **(III)** moving the remaining text of paragraphs (1) and (2) 2 ems to the right;
-      - **(ii)** in subsection (c)—
-        - **(I)** by striking “(c) Any agreement” and inserting the following:
-          > - **(c)** *Agreements To terminate proceedings*
-          >   - **(1)** *In general* Any agreement
-
-        - **(II)** by striking “an interference” and inserting “a derivation proceeding”;
-        - **(III)** by striking “the interference” each place it appears and inserting “the derivation proceeding”;
-        - **(IV)** in the second paragraph, by striking “The Director” and inserting the following:
-          > - **(2)** *Notice* The Director
-
-        - **(V)** by amending the third paragraph to read as follows:
-          > - **(3)** *Judicial review* Any discretionary action of the Director under this subsection shall be reviewable under chapter 7 of title 5.
-
-        - **(VI)** by moving the remaining text of paragraphs (1) and (2) of subsection (c) 2 ems to the right; and
-      - **(iii)** in subsection (d)—
-        - **(I)** by striking “(d) Parties” and inserting “(d) Arbitration.—Parties”;
-        - **(II)** by striking “a patent interference” and inserting “a derivation proceeding”; and
-        - **(III)** by striking “the interference” and inserting “the derivation proceeding”.
 - **(j)** *Elimination of references to interferences*
   - **(1)** Sections 41(a)(6), 134, 141, 145, 146, 154, 305, and 314 are each amended by striking “Board of Patent Appeals and Interferences” each place it appears and inserting “Patent Trial and Appeal Board”.
   - **(2)** Section 141 is amended—
@@ -134,7 +108,7 @@ Whenever in this Act a section or other provision is amended or repealed, that a
       - **(i)** by striking “Any party” and inserting “(a) In general.—Any party”;
       - **(ii)** by striking “an interference” and inserting “a derivation proceeding”; and
       - **(iii)** by striking “interference” each additional place it appears and inserting “derivation proceeding”; and
-    - **(B)** in the second paragraph, by striking “Such suit” and inserting “(b) Procedure.—A suit under subsection (a)”
+    - **(B)** in the second paragraph, by striking “Such suit” and inserting “(b) Procedure.—A suit under subsection (a)”.
   - **(4)** The section heading for section 134 is amended to read as follows:
     > ## § 134. Appeal to the Patent Trial and Appeal Board
 
@@ -149,16 +123,17 @@ Whenever in this Act a section or other provision is amended or repealed, that a
   - **(9)** The items relating to sections 134 and 135 in the table of sections for chapter 12 are amended to read as follows:
   - **(10)** The item relating to section 146 in the table of sections for chapter 13 is amended to read as follows:
   - **(11)** *Certain appeals* Subsection 1295(a)(4)(A) of title 28, United States Code, is amended to read as follows:
-    > - **(A)** the Patent Trial and Appeal Board of the United States Patent and Trademark Office with respect to patent applications, derivation proceedings, and post-grant review proceedings, at the instance of an applicant for a patent or any party to a patent interference (commenced before the effective date provided in section 3(k) of the Patent Reform Act of 2007), derivation proceeding, or post-grant review proceeding, and any such appeal shall waive any right of such applicant or party to proceed under section 145 or 146 of title 35;
+    > - **(A)** the Patent Trial and Appeal Board of the United States Patent and Trademark Office with respect to patent applications, derivation proceedings, and post-grant review proceedings, at the instance of an applicant for a patent or any party to a patent interference (commenced with respect to an application for patent filed before the effective date provided in section 3(k) of the Patent Reform Act of 2007), derivation proceeding, or post-grant review proceeding, and any such appeal shall waive any right of such applicant or party to proceed under section 145 or 146 of title 35;
 
 - **(k)** *Effective date*
   - **(1)** *In general* The amendments made by this section—
-    - **(A)** shall take effect 90 days after the date on which the President transmits to the Congress a finding that major patenting authorities have adopted a grace period having substantially the same effect as that contained under the amendments made by this section; and
+    - **(A)** shall take effect 90 days after the date on which the President issues an Executive order containing the President’s finding that major patenting authorities have adopted a grace period having substantially the same effect as that contained under the amendments made by this section; and
     - **(B)** shall apply to all applications for patent that are filed on or after the effective date under subparagraph (A).
   - **(2)** *Definitions* In this subsection:
     - **(A)** *Major patenting authorities* The term major patenting authorities means at least the patenting authorities in Europe and Japan.
     - **(B)** *Grace period* The term grace period means the 1-year period ending on the effective filing date of a claimed invention, during which disclosures of the subject matter by the inventor or a joint inventor, or by others who obtained the subject matter disclosed directly or indirectly from the inventor or a joint inventor, do not qualify as prior art to the claimed invention.
     - **(C)** *Effective filing date* The term effective filing date of a claimed invention means, with respect to a patenting authority in another country, a date equivalent to the effective filing date of a claimed invention as defined in section 100(h) of title 35, United States Code, as added by subsection (a) of this section.
+  - **(3)** *Retention of interference procedures with respect to applications filed before effective date* In the case of any application for patent that is filed before the effective date under paragraph (1)(A), the provisions of law repealed or amended by subsections (h), (i), and (j) shall apply to such application as such provisions of law were in effect on the day before such effective date.
 - **(l)** *Review every 7 years* Not later than the end of the 7-year period beginning on the effective date under subsection (k), and the end of every 7-year period thereafter, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this subsection referred to as the “Director”) shall—
   - **(1)** conduct a study on the effectiveness and efficiency of the amendments made by this section; and
   - **(2)** submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the results of the study, including any recommendations the Director has on amendments to the law and other recommendations of the Director with respect to the first-to-file system implemented under the amendments made by this section.
@@ -186,7 +161,7 @@ Whenever in this Act a section or other provision is amended or repealed, that a
     >     - **(A)** identify the individual with respect to whom the statement applies;
     >     - **(B)** set forth the circumstances representing the permitted basis for the filing of the substitute statement in lieu of the oath or declaration under subsection (a); and
     >     - **(C)** contain any additional information, including any showing, required by the Director.
-    > - **(e)** *Making required statements in assignment of record* An individual who is under an obligation of assignment of an application for patent may include the required statements under subsections (b) and (c) in the assignment executed by the individual, in lieu of filing such statements separately.
+    > - **(e)** *Making required statements in assignment of record* An individual who has assigned rights in an application for patent may include the required statements under subsections (b) and (c) in the assignment executed by the individual, in lieu of filing such statements separately.
     > - **(f)** *Time for filing* A notice of allowance under section 151 may be provided to an applicant for patent only if the applicant for patent has filed each required oath or declaration under subsection (a) or has filed a substitute statement under subsection (d) or recorded an assignment meeting the requirements of subsection (e).
     > - **(g)** *Earlier-filed application containing required statements or substitute statement* The requirements under this section shall not apply to an individual with respect to an application for patent in which the individual is named as the inventor or a joint inventor and that claims the benefit of an earlier filing date under section 120 or 365(c), if—
     >   - **(1)** an oath or declaration meeting the requirements of subsection (a) was executed by the individual and was filed in connection with the earlier-filed application;
@@ -204,12 +179,7 @@ Whenever in this Act a section or other provision is amended or repealed, that a
     - **(B)** in the heading for paragraph (3), by striking “and oath”; and
     - **(C)** by striking “and oath” each place it appears.
   - **(4)** *Conforming amendment* The item relating to section 115 in the table of sections for chapter 11 is amended to read as follows:
-- **(b)** *Filing by other than inventor* Section 118 is amended to read as follows:
-  > ## § 118. Filing by other than inventor
-  >
-  > A person to whom the inventor has assigned or is under an obligation to assign the invention may make an application for patent. A person who otherwise shows sufficient proprietary interest in the matter may make an application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is appropriate to preserve the rights of the parties. If the Director grants a patent on an application filed under this section by a person other than the inventor, the patent shall be granted to the real party in interest and upon such notice to the inventor as the Director considers to be sufficient.
-
-- **(c)** *Specification* Section 112 is amended—
+- **(b)** *Specification* Section 112 is amended—
   - **(1)** in the first paragraph——
     - **(A)** by striking “The specification” and inserting “(a) In general.—The specification”; and
     - **(B)** by striking “of carrying out his invention” and inserting “or joint inventor of carrying out the invention”; and
@@ -220,7 +190,7 @@ Whenever in this Act a section or other provision is amended or repealed, that a
   - **(4)** in the fourth paragraph, by striking “Subject to the following paragraph,” and inserting “(d) Reference in dependent forms.—Subject to subsection (e),”;
   - **(5)** in the fifth paragraph, by striking “A claim” and inserting “(e) Reference in multiple dependent form.—A claim”; and
   - **(6)** in the last paragraph, by striking “An element” and inserting “(f) Element in claim for a combination.—An element”.
-- **(d)** *Effective date* The amendments made by this section—
+- **(c)** *Effective date* The amendments made by this section—
   - **(1)** shall take effect at the end of the 1-year period beginning on the date of the enactment of this Act; and
   - **(2)** shall apply to any application for patent, or application for reissue patent, that is filed on or after the effective date under paragraph (1).
 
@@ -231,11 +201,11 @@ Whenever in this Act a section or other provision is amended or repealed, that a
   - **(2)** by designating the second undesignated paragraph as subsection (c);
   - **(3)** by inserting after subsection (a) (as designated by paragraph (1) of this subsection) the following:
     > - **(b)** *Reasonable royalty*
-    >   - **(1)** *In general* An award pursuant to subsection (a) that is based upon a reasonable royalty shall be determined in accordance with this subsection. Based on the facts of the case, the court shall determine whether paragraph (2), (3), or (5) will be used by the court or the jury in calculating a reasonable royalty. The court shall identify the factors that are relevant to the determination of a reasonable royalty under the applicable paragraph, and the court or jury, as the case may be, shall consider only those factors in making the determination.
-    >   - **(2)** *Relationship of damages to contributions over prior art* The court shall conduct an analysis to ensure that a reasonable royalty under subsection (a) is applied only to that economic value properly attributable to the patent's specific contribution over the prior art. The court shall exclude from the analysis the economic value properly attributable to the prior art, and other features or improvements, whether or not themselves patented, that contribute economic value to the infringing product or process.
-    >   - **(3)** *Entire market value* Unless the claimant shows that the patent's specific contribution over the prior art is the predominant basis for market demand for an infringing product or process, damages may not be based upon the entire market value of the products or processes involved that satisfy that demand.
-    >   - **(4)** *Combination inventions* For purposes of paragraphs (2) and (3), in the case of a combination invention the elements of which are present individually in the prior art, the patentee may show that the contribution over the prior art may include the value of the additional function resulting from the combination, as well as the enhanced value, if any, of some or all of the prior art elements resulting from the combination.
-    >   - **(5)** *Other factors* In determining a reasonable royalty, the court may also consider, or direct the jury to consider, the terms of any nonexclusive marketplace licensing of the invention, where appropriate, as well as any other relevant factors under applicable law.
+    >   - **(1)** *In general* An award pursuant to subsection (a) that is based upon a reasonable royalty shall be determined in accordance with this subsection. Based on the facts of the case, the court shall determine whether paragraph (2), (3), or (4) will be used by the court or the jury in calculating a reasonable royalty. The court shall identify the factors that are relevant to the determination of a reasonable royalty under the applicable paragraph, and the court or jury, as the case may be, shall consider only those factors in making the determination.
+    >   - **(2)** *Relationship of damages to contributions over prior art* Upon a showing to the satisfaction of the court that a reasonable royalty should be based on a portion of the value of the infringing product or process, the court shall conduct an analysis to ensure that a reasonable royalty under subsection (a) is applied only to that economic value properly attributable to the patent's specific contribution over the prior art. The court shall exclude from the analysis the economic value properly attributable to the prior art, and other features or improvements, whether or not themselves patented, that contribute economic value to the infringing product or process.
+    >   - **(3)** *Entire market value* Upon a showing to the satisfaction of the court that the patent's specific contribution over the prior art is the predominant basis for market demand for an infringing product or process, damages may be based upon the entire market value of the products or processes involved that satisfy that demand.
+    >   - **(4)** *Other factors* If neither paragraph (2) or (3) is appropriate for determining a reasonable royalty, the court may consider, or direct the jury to consider, the terms of any nonexclusive marketplace licensing of the invention, where appropriate, as well as any other relevant factors under applicable law.
+    >   - **(5)** *Combination inventions* For purposes of paragraphs (2) and (3), in the case of a combination invention the elements of which are present individually in the prior art, the patentee may show that the contribution over the prior art may include the value of the additional function resulting from the combination, as well as the enhanced value, if any, of some or all of the prior art elements resulting from the combination.
 
   - **(4)** by amending subsection (c) (as designated by paragraph (1) of this subsection) to read as follows:
     > - **(c)** *Willful infringement*
@@ -253,33 +223,17 @@ Whenever in this Act a section or other provision is amended or repealed, that a
     >       - **(ii)** evidence that the infringer sought to modify its conduct to avoid infringement once it had discovered the patent; or
     >       - **(iii)** other evidence a court may find sufficient to establish such good faith belief.
     >     - **(C)** The decision of the infringer not to present evidence of advice of counsel is not relevant to a determination of willful infringement under paragraph (2).
-    >   - **(4)** *Limitation on pleading* Before the date on which a court determines that the patent in suit is not invalid, is enforceable, and has been infringed by the infringer, a patentee may not plead and a court may not determine that an infringer has willfully infringed a patent. The court’s determination of an infringer’s willfulness shall be made without a jury.
+    >   - **(4)** *Limitation on pleading* Before the date on which a court determines that the patent in suit is not invalid, is enforceable, and has been infringed by the infringer, a patentee may not plead and a court may not determine that an infringer has willfully infringed a patent.
 
   - **(5)** in the third undesignated paragraph, by striking “The court” and inserting “(d) Expert Testimony.—The court”.
-- **(b)** *Defense to Infringement Based on Earlier Inventor* Section 273 is amended—
-  - **(1)** in subsection (a)—
-    - **(A)** in paragraph (1)—
-      - **(i)** by striking “of a method”; and
-      - **(ii)** by striking “review period;” and inserting “review period; and”;
-    - **(B)** in paragraph (2)(B), by striking the semicolon at the end and inserting a period; and
-    - **(C)** by striking paragraphs (3) and (4);
-  - **(2)** in subsection (b)—
-    - **(A)** in paragraph (1)—
-      - **(i)** by striking “for a method”; and
-      - **(ii)** by striking “at least 1 year before the effective filing date of such patent, and” and all that follows through the period and inserting “and commercially used, or made substantial preparations for commercial use of, the subject matter before the effective filing date of the claimed invention.”;
-    - **(B)** in paragraph (2)—
-      - **(i)** by striking “The sale or other disposition of a useful end product produced by a patented method” and inserting “The sale or other disposition of subject matter that qualifies for the defense set forth in this section”; and
-      - **(ii)** by striking “a defense under this section with respect to that useful end result” and inserting “such defense”;
-    - **(C)** in paragraph (3)—
-      - **(i)** by striking subparagraph (A); and
-      - **(ii)** by redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively; and
-    - **(D)** in paragraph (7), by striking “of the patent” and inserting “of the claimed invention”; and
-  - **(3)** by amending the heading to read as follows:
-    > ## § 273. Special defenses to and exemptions from infringement
-
-- **(c)** *Table of Sections* The item relating to section 273 in the table of sections for chapter 28 is amended to read as follows:
-- **(d)** *Effective date* The amendments made by this section shall apply to any civil action commenced on or after the date of the enactment of this Act.
-- **(e)** *Review every 7 years* Not later than the end of the 7-year period beginning on the date of the enactment of this Act, and the end of every 7-year period thereafter, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this subsection referred to as the “Director”) shall—
+- **(b)** *Report to congressional committees* Not later than June 30, 2009, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this subsection referred to as the “Director”) shall report to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate the findings and recommendations of the Director on the operation of prior user rights in selected countries in the industrialized world. The report shall include the following:
+  - **(1)** A comparison between the patent laws of the United States and the laws of other industrialized countries, including the European Union, Japan, Canada, and Australia.
+  - **(2)** An analysis of the effect of prior user rights on innovation rates in the selected countries.
+  - **(3)** An analysis of the correlation, if any, between prior user rights and start-up enterprises and the ability to attract venture capital to start new companies.
+  - **(4)** An analysis of the effect of prior user rights, if any, on small businesses, universities, and individual inventors.
+  - **(5)** An analysis of any legal or constitutional issues that arise from placing elements of trade secret law, in the form of prior user rights, in patent law.
+- **(c)** *Effective date* The amendments made by this section shall apply to any civil action commenced on or after the date of the enactment of this Act.
+- **(d)** *Review every 7 years* Not later than the end of the 7-year period beginning on the date of the enactment of this Act, and the end of every 7-year period thereafter, the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this subsection referred to as the “Director”) shall—
   - **(1)** conduct a study on the effectiveness and efficiency of the amendments made by this section; and
   - **(2)** submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the results of the study, including any recommendations the Director has on amendments to the law and other recommendations of the Director with respect to the right of the inventor to obtain damages for patent infringement.
 
@@ -299,7 +253,7 @@ Whenever in this Act a section or other provision is amended or repealed, that a
     > - **(d)** *Identity withheld* Upon the written request of the person citing prior art or written statements under subsection (a), the person’s identity shall be excluded from the patent file and kept confidential.
 
 - **(b)** *Reexamination* Section 303(a) is amended to read as follows:
-  > - **(a)** Within three months after the owner of a patent files a request for reexamination under section 302, the Director shall determine whether a substantial new question of patentability affecting any claim of the patent concerned is raised by the request, with or without consideration of other patents or printed publications. On the Director’s own initiative, and at any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications discovered by the Director, is cited under section 301, or is cited by any person other than the owner of the patent under section 302 or section 311. The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.
+  > - **(a)** Within three months after the owner of a patent files a request for reexamination under section 302, the Director shall determine whether a substantial new question of patentability affecting any claim of the patent concerned is raised by the request, with or without consideration of other patents or printed publications. On the Director’s own initiative, and at any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications discovered by the Director, is cited under section 301, or is cited by any person other than the owner of the patent under section 302 or section 311. The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously considered by the Office.
 
 - **(c)** *Conduct of inter partes proceedings* Section 314 is amended—
   - **(1)** in the first sentence of subsection (a), by striking “conducted according to the procedures established for initial examination under the provisions of sections 132 and 133” and inserting “heard by an administrative patent judge in accordance with procedures which the Director shall establish”;
@@ -320,10 +274,8 @@ Whenever in this Act a section or other provision is amended or repealed, that a
 - **(i)** *Effective dates*
   - **(1)** *In general* The amendments and repeal made by this section shall take effect at the end of the 1-year period beginning on the date of the enactment of this Act.
   - **(2)** *Applicability to ex parte and inter partes proceedings* Notwithstanding any other provision of law, sections 301 and 311 through 318 of title 35, United States Code, as amended by this section, shall apply to any patent that issues before, on, or after the effective date under paragraph (1) from an original application filed on any date.
-  - **(3)** *Applicability to post-grant proceedings* The amendments made by subsection (f) shall apply to patents issued on or after the effective date under paragraph (1).
-- **(j)** *Regulations*
-  - **(1)** *Regulations* The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this subsection referred to as the “Director”) shall, not later than the date that is 1 year after the date of the enactment of this Act, issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (f) of this section.
-  - **(2)** *Pending interferences* The Director shall determine the procedures under which interferences under title 35, United States Code, that are commenced before the effective date under subsection (i)(1) are to proceed, including whether any such interference is to be dismissed without prejudice to the filing of a cancellation petition for a post-grant opposition proceeding under chapter 32 of title 35, United States Code, or is to proceed as if this Act had not been enacted. The Director shall include such procedures in regulations issued under paragraph (1).
+  - **(3)** *Applicability to post-grant proceedings* The amendments made by subsections (f) and (g) shall apply to patents issued on or after the effective date under paragraph (1).
+- **(j)** *Regulations* The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this subsection referred to as the “Director”) shall, not later than the date that is 1 year after the date of the enactment of this Act, issue regulations to carry out chapter 32 of title 35, United States Code, as added by subsection (f) of this section.
 
 ## § 7. Definitions; patent trial and appeal board
 
@@ -333,7 +285,7 @@ Whenever in this Act a section or other provision is amended or repealed, that a
 - **(a)** *Patent Trial and Appeal board* Section 6 is amended to read as follows:
   > ## § 6. Patent Trial and Appeal Board
   >
-  > - **(a)** *Establishment and composition* There shall be in the Office a Patent Trial and Appeal Board. The Director, the Deputy Director, the Commissioner for Patents, the Commissioner for Trademarks, and the administrative patent judges shall constitute the Patent Trial and Appeal Board. The administrative patent judges shall be persons of competent legal knowledge and scientific ability who are appointed by the Director. Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Board of Patent Appeals and Interferences is deemed to refer to the Patent Trial and Appeal Board.
+  > - **(a)** *Establishment and composition* There shall be in the Office a Patent Trial and Appeal Board. The administrative patent judges shall constitute the Patent Trial and Appeal Board. The administrative patent judges shall be persons of competent legal knowledge and scientific ability who are appointed by the Secretary of Commerce. Any reference in any Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Board of Patent Appeals and Interferences is deemed to refer to the Patent Trial and Appeal Board.
   > - **(b)** *Duties* The Patent Trial and Appeal Board shall—
   >   - **(1)** on written appeal of an applicant, review adverse decisions of examiners upon application for patents;
   >   - **(2)** on written appeal of a patent owner, review adverse decisions of examiners upon patents in reexamination proceedings under chapter 30;
@@ -352,11 +304,11 @@ The Under Secretary of Commerce for Intellectual Property and Director of the Pa
 
 ## § 9. Submissions by third parties and other quality enhancements
 
-- **(a)** *Publication* Section 122(b)(2) is amended—
-  - **(1)** by striking subparagraph (B); and
-  - **(2)** in subparagraph (A)—
-    - **(A)** by striking “(A) An application” and inserting “An application”; and
-    - **(B)** by redesignating clauses (i) through (iv) as subparagraphs (A) through (D), respectively.
+- **(a)** *Publication* Section 122(b)(2)(B)(i) is amended by striking “published as provided in paragraph (1).” and inserting the following:
+  > published until the later of—
+  > - **(I)** three months after a second action is taken pursuant to section 132 on the application, of which notice has been given or mailed to the applicant; or
+  > - **(II)** the date specified in paragraph (1).
+
 - **(b)** *Preissuance submissions by third parties* Section 122 is amended by adding at the end the following:
   > - **(e)** *Preissuance submissions by third parties*
   >   - **(1)** *In general* Any person may submit for consideration and inclusion in the record of a patent application, any patent, published patent application, or other publication of potential relevance to the examination of the application, if such submission is made in writing before the earlier of—
@@ -366,8 +318,9 @@ The Under Secretary of Commerce for Intellectual Property and Director of the Pa
   >       - **(ii)** the date of the first rejection under section 132 of any claim by the examiner during the examination of the application for patent,
   >   - **(2)** *Other requirements* Any submission under paragraph (1) shall—
   >     - **(A)** set forth a concise description of the asserted relevance of each submitted document;
-  >     - **(B)** be accompanied by such fee as the Director may prescribe; and
-  >     - **(C)** include a statement by the submitter affirming that the submission was made in compliance with this section.
+  >     - **(B)** be accompanied by such fee as the Director may prescribe;
+  >     - **(C)** include a statement by the submitter affirming that the submission was made in compliance with this section; and
+  >     - **(D)** identify the real party-in-interest making the submission.
 
 - **(c)** *Effective date* The amendments made by this section—
   - **(1)** shall take effect at the end of the 1-year period beginning on the date of the enactment of this Act; and
@@ -396,15 +349,23 @@ The Under Secretary of Commerce for Intellectual Property and Director of the Pa
 ## § 11. Venue and jurisdiction
 
 - **(a)** *Venue for patent cases* Section 1400 of title 28, United States Code, is amended by striking subsection (b) and inserting the following:
-  > - **(b)** Notwithstanding section 1391 of this title, in any civil action arising under any Act of Congress relating to patents, a party shall not manufacture venue by assignment, incorporation, or otherwise to invoke the venue of a specific district court.
-  > - **(c)** Notwithstanding section 1391 of this title, any civil action for patent infringement or any action for declaratory judgment may be brought only in a judicial district—
-  >   - **(1)** where the defendant has its principal place of business or in the location or place in which the defendant is incorporated, or, for foreign corporations with a United States subsidiary, where the defendant’s primary United States subsidiary has its principal place of business or in the location or place in which the defendants primary United States subsidiary is incorporated;
-  >   - **(2)** where the defendant has committed a substantial portion of the acts of infringement and has a regular and established physical facility that the defendant controls and that constitutes a substantial portion of the operations of the defendant;
-  >   - **(3)** where the primary plaintiff resides, if the primary plaintiff in the action is an institution of higher education as defined under section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)); or
-  >   - **(4)** where the plaintiff resides, if the plaintiff or a subsidiary of the plaintiff has an established physical facility in such district dedicated to research, development, or manufacturing that is operated by full-time employees of the plaintiff or such subsidiary, or if the sole plaintiff in the action is an individual inventor who is a natural person and who qualifies at the time such action is filed as a micro entity under section 124 of title 35.
-  > - **(d)** If the plaintiff brings a civil action for patent infringement in a judicial district under subsection (c), the district court may transfer that action to any other district or division where—
-  >   - **(1)** the defendant has substantial evidence or witnesses; and
-  >   - **(2)** venue would be appropriate under section 1391 of this title, if such transfer would be appropriate under section 1404 of this title.
+  > - **(b)** In any civil action arising under any Act of Congress relating to patents, a party shall not manufacture venue by assignment, incorporation, joinder, or otherwise primarily to invoke the venue of a specific district court.
+  > - **(c)** Notwithstanding section 1391 of this title, except as provided in paragraph (3) of this subsection, any civil action for patent infringement or any action for declaratory judgment relating to a patent may be brought only in a judicial district—
+  >   - **(1)** where the defendant has its principal place of business or is incorporated, or, for foreign corporations with a United States subsidiary, where the defendant’s primary United States subsidiary has its principal place of business or is incorporated;
+  >   - **(2)** where the defendant has committed a substantial portion of the acts of infringement and has a regular and established physical facility that the defendant controls and that constitutes a substantial portion of the defendant’s operations;
+  >   - **(3)** for cases involving only foreign defendants with no United States subsidiary, according to section 1391(d) of this title;
+  >   - **(4)** where the plaintiff resides, if the plaintiff is—
+  >     - **(A)** an institution of higher education as defined under section 101(a) of the Higher Education Act of 1965 (20 U.S.C. section 1001(a)); or
+  >     - **(B)** a nonprofit organization that—
+  >       - **(i)** is described in section 501(c)(3) of the Internal Revenue Code of 1986;
+  >       - **(ii)** is exempt from taxation under section 501(a) of such Code; and
+  >       - **(iii)** serves primarily as the patent and licensing organization for an institution of higher education as defined under section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a));
+  >   - **(5)** where the plaintiff or a subsidiary has a place of business that is engaged in substantial—
+  >     - **(A)** research and development,
+  >     - **(B)** manufacturing activities, or
+  >     - **(C)** management of research and development or manufacturing activities,
+  >   - **(6)** where the plaintiff resides if the plaintiff is named as inventor or co-inventor on the patent and has not assigned, granted, conveyed, or licensed, and is under no obligation to assign, grant, convey, or license, any rights in the patent or in enforcement of the patent, including the results of any such enforcement; or
+  >   - **(7)** where any of the defendants has substantial evidence and witnesses if there is no other district in which the action may be brought under this section.
 
 - **(b)** *Interlocutory appeals* Subsection (c) of section 1292 of title 28, United States Code, is amended—
   - **(1)** by striking “and” at the end of paragraph (1);
@@ -412,7 +373,13 @@ The Under Secretary of Commerce for Intellectual Property and Director of the Pa
   - **(3)** by adding at the end the following:
     > - **(3)** of an appeal from an interlocutory order or decree determining construction of claims in a civil action for patent infringement under section 271 of title 35.
 
-- **(c)** *Effective date* The amendments made by this section shall apply to any action commenced on or after the date of the enactment of this Act.
+- **(c)** *Effective date*
+  - **(1)** *In general* The amendments made by this section—
+    - **(A)** shall take effect on the date of the enactment of this Act; and
+    - **(B)** shall apply to any civil action commenced on or after such date of enactment.
+  - **(2)** *Pending cases* Any case commenced in a United States district court on or after September 7, 2007, in which venue is improper under section 1400 of title 28, United States Code, as amended by this section, shall be transferred pursuant to section 1404 of such title, unless—
+    - **(A)** one or more substantive rulings on the merits, or other substantial litigation, has occurred; and
+    - **(B)** the court finds that transfer would not serve the interests of justice.
 
 ## § 12. Additional information; inequitable conduct as defense to infringement
 
@@ -420,7 +387,7 @@ The Under Secretary of Commerce for Intellectual Property and Director of the Pa
   - **(1)** *In general* Chapter 11 is amended by adding at the end the following new section:
     > ## § 123. Additional information
     >
-    > - **(a)** *In general* The Director shall, by regulation, require that applicants submit a search report and other information and analysis relevant to patentability. An application shall be regarded as abandoned if the applicant fails to submit the required search report, information, and analysis in the manner and within the time period prescribed by the Director.
+    > - **(a)** *In general* The Director may, by regulation, require that applicants submit a search report and other information and analysis relevant to patentability. If the Director requires a search report to be submitted by applicants, and an applicant does not itself perform the search, the search must be performed by one or more individuals who are United States citizens or by a commercial entity that is organized under the laws of the United States or any State and employs United States citizens to perform such searches. An application shall be regarded as abandoned if the applicant fails to submit a search report, information, or an analysis in the manner and within the time period prescribed by the Director. Any search report required by the Director may not substitute in any way for a search by an examiner of the prior art during examination.
     > - **(b)** *Exception for micro entities* Applications from micro-entities shall not be subject to the requirements of regulations issued under subsection (a).
     >
     > ## § 124. Micro entities
@@ -448,16 +415,19 @@ The Under Secretary of Commerce for Intellectual Property and Director of the Pa
     - **(C)** by striking “Invalidity” and inserting “(e) Extension of patent term.—Invalidity”; and
   - **(4)** by inserting after subsection (b), as designated by paragraph (2) of this subsection, the following:
     > - **(c)** *Inequitable conduct*
-    >   - **(1)** *Defense* A patent may be held to be unenforceable, or other remedy imposed under paragraph (3), for inequitable conduct only if it is established, by clear and convincing evidence, that—
-    >     - **(A)** the patentee, its agents, or another person with a duty of disclosure to the Office, with the intent to mislead or deceive the patent examiner, misrepresented or failed to disclose material information concerning a matter or proceeding before the Office; and
-    >     - **(B)** in the absence of such deception, the Office, acting reasonably, would, on the record before it, have made a prima facie finding of unpatentability.
-    >   - **(2)** *Intent* In order to prove intent to mislead or deceive under paragraph (1), specific facts beyond materiality of the information submitted or not disclosed must be proven that support an inference of intent to mislead or deceive the Patent and Trademark Office. Facts support an inference of intent if they show circumstances that indicate conscious or deliberate behavior on the part of the patentee, its agents, or another person with a duty of disclosure to the Office, to not disclose material information or to submit materially false information.
-    >   - **(3)** *Remedy* Upon a finding of inequitable conduct, the court shall balance the equities to determine which of the following remedies to impose:
-    >     - **(A)** Denying equitable relief to the patent holder and limiting the remedy for infringement to damages.
+    >   - **(1)** *Defense* One or more claims of a patent may be held to be unenforceable, or other remedy imposed under paragraph (4), for inequitable conduct only if it is established, by clear and convincing evidence, that a person with a duty of disclosure to the Office, with the intent to mislead or deceive the patent examiner, misrepresented or failed to disclose material information to the examiner during examination of the patent.
+    >   - **(2)** *Materiality*
+    >     - **(A)** *In general* Information is material under this section if—
+    >       - **(i)** a reasonable examiner would have made a prima facie finding of unpatentability, or maintained a finding of unpatentability, of one or more of the patent claims based on the information, and the information is not cumulative to information already of record or previously considered by the Office; or
+    >       - **(ii)** information that is otherwise material refutes or is inconsistent with a position the applicant takes in opposing a rejection of the claim or in asserting an argument of patentability.
+    >     - **(B)** *Prima facie finding* A prima facie finding of unpatentability under this section is shown if a reasonable examiner, based on a preponderance of the evidence, would conclude that the claim is unpatentable based on the information misrepresented or not disclosed, when that information is considered alone or in conjunction with other information or record. In determining whether there is a prima facie finding of unpatentability, each term in the claim shall be given its broadest reasonable construction consistent with the specification, and rebuttal evidence shall not be considered.
+    >   - **(3)** *Intent* To prove a person with a duty of disclosure to the Office intended to mislead or deceive the examiner under paragraph (1), specific facts beyond materiality of the information misrepresented or not disclosed must be proven that establish the intent of the person to mislead or deceive the examiner by the actions of the person. Facts support an intent to mislead or deceive if they show circumstances that indicate conscious or deliberate behavior on the part of the person to not disclose material information or to submit false material information in order to mislead or deceive the examiner. Circumstantial evidence may be used to prove that a person had the intent to mislead or deceive the examiner under paragraph (1).
+    >   - **(4)** *Remedy* Upon a finding of inequitable conduct, the court shall balance the equities to determine which of the following remedies to impose:
+    >     - **(A)** Denying equitable relief to the patent holder and limiting the remedy for infringement to reasonable royalties.
     >     - **(B)** Holding the claims-in-suit, or the claims in which inequitable conduct occurred, unenforceable.
     >     - **(C)** Holding the patent unenforceable.
     >     - **(D)** Holding the claims of a related patent unenforceable.
-    >   - **(4)** *Attorney misconduct* Upon a finding of inequitable conduct, if there is evidence that the conduct can be attributable to a person or persons authorized to practice before the Office, the court shall refer the matter to the Office for appropriate disciplinary action under section 32, and shall order the parties to preserve and make available to the Office any materials that may be relevant to the determination under section 32.
+    >   - **(5)** *Attorney misconduct* Upon a finding of inequitable conduct, if there is evidence that the conduct is attributable to a person or persons authorized to practice before the Office, the court shall refer the matter to the Office for appropriate disciplinary action under section 32, and shall order the parties to preserve and make available to the Office any materials that may be relevant to the determination under section 32.
 
 - **(c)** *Effective date*
   - **(1)** *Subsection (a)* The amendments made by subsection (a)—
@@ -479,6 +449,17 @@ Section 282(b) (as designated by section 12(b) of this Act) is amended by striki
   > - **(6)** The powers granted under paragraph (2) of subsection (b) include the authority to promulgate regulations to ensure the quality and timeliness of applications and their examination, including specifying circumstances under which an application for patent may claim the benefit under sections 120, 121 and 365(c) of the filing date of a prior filed application for patent.
 
 - **(b)** *Clarification* The amendment made by subsection (a) clarifies the scope of power granted to the United States Patent and Trademark Office by paragraph (2) of section 2(b) of title 35, United States Code, as in effect since the enactment of Public Law 106–113.
+- **(c)** *Effective date of regulations*
+  - **(1)** *Review by congress* A regulation promulgated by the United States Patent and Trademark Office under section 2(b)(2) of title 35, United States Code, with respect to any matter described in section 2(c)(6) of such title, as added by subsection (a) of this section, may not take effect before the end of a period of 60 days beginning on the date on which the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office submits to each House of Congress a copy of the regulation, together with a report containing the reasons for its adoption. The regulation and report so submitted shall be referred to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate.
+  - **(2)** *Joint Resolution of disapproval* If a joint resolution of disapproval with respect to the regulation is enacted into law, the regulation shall not become effective or continue in effect.
+  - **(3)** *Joint resolution defined* For purposes of this subsection, the term a “joint resolution of disapproval” means a joint resolution, the matter after the resolving clause of which is as follows: “That Congress disapproves the regulation submitted by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office on ___ relating to ___, and such regulation shall have no force or effect.”, with the first space being filled with the appropriate date, and the second space being filled with a description of the regulation at issue.
+  - **(4)** *Referral* A joint resolution of disapproval shall be referred in the House of Representatives to the Committee on the Judiciary and in the Senate to the Committee on the Judiciary.
+  - **(5)** *Floor consideration* A vote on final passage of a joint resolution of disapproval shall be taken in each House on or before the close of the 15th day after the bill or resolution is reported by the committee of that House to which it was referred or after such committee has been discharged from further consideration of the joint resolution of disapproval.
+  - **(6)** *No inferences* If the Congress does not enact a joint resolution of disapproval, no court or agency may infer therefrom any intent of the Congress with regard to such regulation or action.
+  - **(7)** *Calculation of days* The 60-day period referred to in paragraph (1) and the 15-day period referred to in paragraph (5) shall be computed by excluding—
+    - **(A)** the days on which either House of Congress is not in session because of an adjournment of the Congress sine die; and
+    - **(B)** any Saturday and Sunday, not excluded under subparagraph (A), when either House is not in session.
+  - **(8)** *Rulemaking authority* This subsection is enacted by the Congress as an exercise of the rulemaking power of the Senate and House of Representatives respectively, and as such it is deemed a part of the rules of each House, respectively.
 
 ## § 15. Technical amendments
 
@@ -505,7 +486,7 @@ Section 282(b) (as designated by section 12(b) of this Act) is amended by striki
 
 ## § 16. Study of special masters in patent cases
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of the Administrative Office of the United States Courts shall conduct a study of, and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on, the use of special masters in patent litigation who are appointed in accordance with Rule 53 of the Federal Rules of Civil Procedure.
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Director of the Administrative Office of the United States Courts shall conduct a study of, and submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report on, the use of special masters in patent litigation who are appointed in accordance with Rule 53 of the Federal Rules of Civil Procedure.
 - **(b)** *Objective* In conducting the study under subsection (a), the Director shall consider whether the use of special masters has been beneficial in patent litigation and what, if any, program should be undertaken to facilitate the use by the judiciary of special masters in patent litigation.
 - **(c)** *Factors To consider* In conducting the study under subsection (a), the Director, in consultation with the Federal Judicial Center, shall consider—
   - **(1)** the basis upon which courts appoint special masters under Rule 53(b) of the Federal Rules of Civil Procedure;
@@ -517,6 +498,29 @@ Section 282(b) (as designated by section 12(b) of this Act) is amended by striki
   - **(7)** whether the use of special masters has an impact on the reversal rate of district court decisions at the Court of Appeals for the Federal Circuit; and
   - **(8)** any other factors that the Director believes would assist in gauging the effectiveness of special masters in patent litigation.
 
-## § 17. Rule of construction
+## § 17. Study on workplace conditions
+
+The Comptroller General shall, not later than 2 years after the date of the enactment of this Act—
+
+- **(1)** conduct a study of workplace conditions for the examiner corps of the United States Patent and Trademark Office, including the effect, if any, of this Act and the amendments made by this Act on—
+  - **(A)** recruitment, retention, and promotion of employees; and
+  - **(B)** workload, quality assurance, and employee grievances; and
+- **(2)** submit to the Committees on the Judiciary of the House of Representatives and the Senate a report on the results of the study, including any suggestions for improving workplace conditions, together with any other recommendations that the Comptroller General has with respect to patent reexamination proceedings.
+
+## § 18. Rule of construction
 
 The enactment of section 102(b)(3) of title 35, United States Code, under section (3)(b) of this Act is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the “CREATE Act”), the amendments of which are stricken by section 3(c) of this Act. The United States Patent and Trademark Office shall administer section 102(b)(3) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the Patent and Trademark Office.
+
+## § 19. Study on patent damages
+
+- **(a)** *In general* The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this section referred to as the “Director”) shall conduct a study of patent damage awards in cases where such awards have been based on a reasonable royalty under section 284 of title 35, United States Code. The study should, at a minimum, consider cases from 1990 to the present.
+- **(b)** *Conduct* In conducting the study under subsection (a), the Director shall investigate, at a minimum, the following:
+  - **(1)** Whether the mean or median dollar amount of reasonable-royalty-based patent damages awarded by courts or juries, as the case may be, has significantly increased on a per case basis during the period covered by the study, taking into consideration adjustments for inflation and other relevant economic factors.
+  - **(2)** Whether there has been a pattern of excessive and inequitable reasonable-royalty-based damages during the period covered by the study and, if so, any contributing factors, including, for example, evidence that Federal courts have routinely and inappropriately broadened the scope of the “entire market value rule”, or that juries have routinely misapplied the entire market value rule to the facts at issue.
+  - **(3)** To the extent that a pattern of excessive and inequitable damage awards exists, measures that could guard against such inappropriate awards without unduly prejudicing the rights and remedies of patent holders or significantly increasing litigation costs, including legislative reforms or improved model jury instructions.
+  - **(4)** To the extent that a pattern of excessive and inequitable damage awards exists, whether legislative proposals that would mandate, or create a presumption in favor of, apportionment of reasonable-royalty-based patent damages would effectively guard against such inappropriate awards without unduly prejudicing the rights and remedies of patent holders or significantly increasing litigation costs.
+- **(c)** *Report* Not later than 1 year after the date of the enactment of this Act, the Director shall submit to the Congress a report on the study conducted under this section.
+
+## § 20. Severability
+
+If any provision of this Act or of any amendment or repeals made by this Act, or the application of such a provision to any person or circumstance, is held to be invalid or unenforceable, the remainder of this Act and the amendments and repeals made by this Act, and the application of this Act and such amendments and repeals to any other person or circumstance, shall not be affected by such holding.

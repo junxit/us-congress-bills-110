@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1908
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1908
@@ -46,6 +46,11 @@ Patent Reform Act of 2007
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2007-09-07 — [House 110-1-862](votes/house-110-1-0862.md) — On Agreeing to the Amendment — **Agreed to** (263–136)
+- 2007-09-07 — [House 110-1-863](votes/house-110-1-0863.md) — On Passage — **Passed** (220–175)
+
 ## Actions
 
 - 2007-04-18 — Introduced in House
@@ -61,3 +66,58 @@ Patent Reform Act of 2007
 - 2007-09-04 — Placed on the Union Calendar, Calendar No. 200.
 - 2007-09-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-314.
 - 2007-09-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-314.
+- 2007-09-06 — Rules Committee Resolution H. Res. 636 Reported to House. Rule provides for consideration of H.R. 1908 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order againist consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on the Judiciary, now printed in the bill shall be considered as an original bill.
+- 2007-09-07 — Amendment (A001) offered by Mr. Conyers. (consideration: CR H10292-10297, H10306; text: CR H10292-10294)
+- 2007-09-07 — Amendment (A002) offered by Mr. Issa. (consideration: CR H10297-10298, H10306; text: CR H10297)
+- 2007-09-07 — Amendment (A003) offered by Mr. Issa. (consideration: CR H10298-10300, H1306; text: CR H10298)
+- 2007-09-07 — Amendment (A004) offered by Ms. Jackson-Lee (TX). (consideration: CR H10300-10303, H10306; text: CR H10300)
+- 2007-09-07 — Amendment (A005) offered by Mr. Pence. (consideration: CR H10303-10306; text: CR H10303)
+- 2007-09-07 — Amendment agreed to Committee of the Whole
+- 2007-09-07 — Amendment agreed to Committee of the Whole
+- 2007-09-07 — Amendment agreed to Committee of the Whole
+- 2007-09-07 — Amendment agreed to Committee of the Whole
+- 2007-09-07 — Amendment agreed to Committee of the Whole
+- 2007-09-07 — Considered under the provisions of rule H. Res. 636. (consideration: CR H10270-10307; text of measure as reported in House: CR H10285-10292)
+- 2007-09-07 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment.
+- 2007-09-07 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment.
+- 2007-09-07 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson-Lee amendment.
+- 2007-09-07 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 10 minutes of debate on the Pence amendment.
+- 2007-09-07 — DEBATE - Pursuant to the provisions of H. Res. 636, the Committee of the Whole proceeded with 20 minutes of debate on the Conyers amendment.
+- 2007-09-07 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1908.
+- 2007-09-07 — House amendment agreed to: On agreeing to the Conyers amendment (A001) Agreed to by recorded vote: 263 - 136 (Roll no. 862).
+- 2007-09-07 — House amendment agreed to: On agreeing to the Issa amendment (A002) Agreed to by voice vote.
+- 2007-09-07 — House amendment agreed to: On agreeing to the Issa amendment (A003) Agreed to by voice vote.
+- 2007-09-07 — House amendment agreed to: On agreeing to the Jackson-Lee (TX) amendment (A004) Agreed to by voice vote.
+- 2007-09-07 — House amendment agreed to: On agreeing to the Pence amendment (A005) Agreed to by voice vote.
+- 2007-09-07 — House amendment offered
+- 2007-09-07 — House amendment offered
+- 2007-09-07 — House amendment offered
+- 2007-09-07 — House amendment offered
+- 2007-09-07 — House amendment offered
+- 2007-09-07 — House amendment offered/reported by : Amendment (A001) offered by Mr. Conyers.(consideration: CR H10292-10297, H10306; text: CR H10292-10294)
+- 2007-09-07 — House amendment offered/reported by : Amendment (A002) offered by Mr. Issa.(consideration: CR H10297-10298, H10306; text: CR H10297)
+- 2007-09-07 — House amendment offered/reported by : Amendment (A003) offered by Mr. Issa.(consideration: CR H10298-10300, H1306; text: CR H10298)
+- 2007-09-07 — House amendment offered/reported by : Amendment (A004) offered by Ms. Jackson-Lee (TX).(consideration: CR H10300-10303, H10306; text: CR H10300)
+- 2007-09-07 — House amendment offered/reported by : Amendment (A005) offered by Mr. Pence.(consideration: CR H10303-10306; text: CR H10303)
+- 2007-09-07 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 636 and Rule XVIII.
+- 2007-09-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-07 — ORDER OF PROCEDURE - Mr. Rohrabacher asked unanimous consent that his requests for recorded votes on amendments numbered 2, 3 and 4 be withdrawn to the end that the amendments be considered as disposed of according to the voice votes taken in each instance. Agreed to without objection.
+- 2007-09-07 — On agreeing to the Conyers amendment (A001) Agreed to by recorded vote: 263 - 136 (Roll no. 862).
+- 2007-09-07 — On agreeing to the Issa amendment (A002) Agreed to by voice vote.
+- 2007-09-07 — On agreeing to the Issa amendment (A003) Agreed to by voice vote.
+- 2007-09-07 — On agreeing to the Jackson-Lee (TX) amendment (A004) Agreed to by voice vote.
+- 2007-09-07 — On agreeing to the Pence amendment (A005) Agreed to by voice vote.
+- 2007-09-07 — On passage Passed by recorded vote: 220 - 175 (Roll no. 863).
+- 2007-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Conyers amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Berman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Issa amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Issa amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-09-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson-Lee (TX) amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-09-07 — Passed/agreed to in House: On passage Passed by recorded vote: 220 - 175 (Roll no. 863).
+- 2007-09-07 — Roll call votes on amendments in House
+- 2007-09-07 — Rule H. Res. 636 passed House.
+- 2007-09-07 — Rule provides for consideration of H.R. 1908 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order againist consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The resolution provides that the amendment in the nature of a substitute recommended by the Committee on the Judiciary, now printed in the bill shall be considered as an original bill.
+- 2007-09-07 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1908.
+- 2007-09-07 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-09-07 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1908.
+- 2007-09-07 — The Speaker designated the Honorable Hilda L. Solis to act as Chairwoman of the Committee.
+- 2007-09-07 — The previous question was ordered pursuant to the rule. (consideration: CR H10307)
