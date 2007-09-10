@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2786
@@ -25,9 +25,10 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -101,3 +102,4 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2007-09-06 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
 - 2007-09-06 — The previous question was ordered pursuant to the rule. (consideration: CR H10195)
 - 2007-09-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-09-10 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
