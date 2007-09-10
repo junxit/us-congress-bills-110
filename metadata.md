@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2825
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2825
@@ -46,3 +46,11 @@ To designate the facility of the United States Postal Service located at 326 Sou
 - 2007-06-21 — Introduced in House
 - 2007-06-21 — Introduced in House
 - 2007-06-21 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-09-10 — Considered under suspension of the rules. (consideration: CR H10332-10333)
+- 2007-09-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2825.
+- 2007-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-10 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2007-09-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10332)
+- 2007-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10332)
