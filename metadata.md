@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2587
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2587
@@ -27,9 +27,10 @@ A Bill to designate the facility of the United States Postal Service located at 
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ A Bill to designate the facility of the United States Postal Service located at 
 - 2007-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10327)
 - 2007-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10327)
 - 2007-09-10 — The title of the measure was amended. Agreed to without objection.
+- 2007-09-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
