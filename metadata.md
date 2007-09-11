@@ -1,7 +1,7 @@
 ---
 measure: S. 1687
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1687
@@ -31,3 +31,7 @@ Global Pathogen Surveillance Act of 2007
 - 2007-06-25 — Introduced in Senate
 - 2007-06-25 — Read twice and referred to the Committee on Foreign Relations.
 - 2007-06-25 — Sponsor introductory remarks on measure. (CR S8359-8361)
+- 2007-06-27 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2007-09-11 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-152.
+- 2007-09-11 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-152.
+- 2007-09-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.
