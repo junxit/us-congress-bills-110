@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1908
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-98 amendatory instructions. 33 executed, 65 stated and not applied.
+98 amendatory instructions. 19 executed, 79 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -168,88 +168,7 @@ to guess them.
 | Removed | `interferences` |
 | Inserted | `derivation proceedings` |
 
-### 18 U.S.C. § 1001
-
-> in paragraph (2)(C), by striking “by the applicant” and inserting “or declaration”;
-
-| | |
-|---|---|
-| Removed | `by the applicant` |
-| Inserted | `or declaration` |
-
-### 18 U.S.C. § 1001
-
-> by striking “The specification” and inserting “(a) In general.—The specification”; and
-
-| | |
-|---|---|
-| Removed | `The specification` |
-| Inserted | `(a) In general.—The specification` |
-
-### 18 U.S.C. § 1001
-
-> by striking “of carrying out his invention” and inserting “or joint inventor of carrying out the invention”; and
-
-| | |
-|---|---|
-| Removed | `of carrying out his invention` |
-| Inserted | `or joint inventor of carrying out the invention` |
-
-### 18 U.S.C. § 1001
-
-> by striking “The specification” and inserting “(b) Conclusion.—The specification”; and
-
-| | |
-|---|---|
-| Removed | `The specification` |
-| Inserted | `(b) Conclusion.—The specification` |
-
-### 18 U.S.C. § 1001
-
-> by striking “applicant regards as his invention” and inserting “inventor or a joint inventor regards as the invention”;
-
-| | |
-|---|---|
-| Removed | `applicant regards as his invention` |
-| Inserted | `inventor or a joint inventor regards as the invention` |
-
-### 18 U.S.C. § 1001
-
-> in the third paragraph, by striking “A claim” and inserting “(c) Form.—A claim”;
-
-| | |
-|---|---|
-| Removed | `A claim` |
-| Inserted | `(c) Form.—A claim` |
-
-### 18 U.S.C. § 1001
-
-> in the fourth paragraph, by striking “Subject to the following paragraph,” and inserting “(d) Reference in dependent forms.—Subject to subsection (e),”;
-
-| | |
-|---|---|
-| Removed | `Subject to the following paragraph,` |
-| Inserted | `(d) Reference in dependent forms.—Subject to subsection (e),` |
-
-### 18 U.S.C. § 1001
-
-> in the fifth paragraph, by striking “A claim” and inserting “(e) Reference in multiple dependent form.—A claim”; and
-
-| | |
-|---|---|
-| Removed | `A claim` |
-| Inserted | `(e) Reference in multiple dependent form.—A claim` |
-
-### 18 U.S.C. § 1001
-
-> in the last paragraph, by striking “An element” and inserting “(f) Element in claim for a combination.—An element”.
-
-| | |
-|---|---|
-| Removed | `An element` |
-| Inserted | `(f) Element in claim for a combination.—An element` |
-
-### 28 U.S.C. § 1338
+### 19 U.S.C. § 1337
 
 > in the first sentence of subsection (a), by striking “conducted according to the procedures established for initial examination under the provisions of sections 132 and 133” and inserting “heard by an administrative patent judge in accordance with procedures which the Director shall establish”;
 
@@ -258,7 +177,7 @@ to guess them.
 | Removed | `conducted according to the procedures established for initial examination under the provisions of sections 132 and 133` |
 | Inserted | `heard by an administrative patent judge in accordance with procedures which the Director shall establish` |
 
-### 28 U.S.C. § 1338
+### 19 U.S.C. § 1337
 
 > in the subsection heading, by striking “Final decision” and inserting “District court decision”; and
 
@@ -267,7 +186,7 @@ to guess them.
 | Removed | `Final decision` |
 | Inserted | `District court decision` |
 
-### 28 U.S.C. § 1338
+### 19 U.S.C. § 1337
 
 > by striking “Once a final decision has been entered” and inserting “Once the judgment of the district court has been entered”.
 
@@ -275,51 +194,6 @@ to guess them.
 |---|---|
 | Removed | `Once a final decision has been entered` |
 | Inserted | `Once the judgment of the district court has been entered` |
-
-### 26 U.S.C. § 7701
-
-> by striking “Whoever” and inserting “(a) Patentable inventions.—Whoever”; and
-
-| | |
-|---|---|
-| Removed | `Whoever` |
-| Inserted | `(a) Patentable inventions.—Whoever` |
-
-### 26 U.S.C. § 61
-
-> in the first undesignated paragraph, by striking “A patent” and inserting “(a) In general.—A patent”;
-
-| | |
-|---|---|
-| Removed | `A patent` |
-| Inserted | `(a) In general.—A patent` |
-
-### 26 U.S.C. § 61
-
-> by striking “The following” and inserting “(b) Defenses.—The following”; and
-
-| | |
-|---|---|
-| Removed | `The following` |
-| Inserted | `(b) Defenses.—The following` |
-
-### 26 U.S.C. § 61
-
-> by striking “In actions” and inserting “(d) Notice of actions; pleading.—In actions”;
-
-| | |
-|---|---|
-| Removed | `In actions` |
-| Inserted | `(d) Notice of actions; pleading.—In actions` |
-
-### 26 U.S.C. § 61
-
-> by striking “Invalidity” and inserting “(e) Extension of patent term.—Invalidity”; and
-
-| | |
-|---|---|
-| Removed | `Invalidity` |
-| Inserted | `(e) Extension of patent term.—Invalidity` |
 
 ## Stated, not applied
 
@@ -348,39 +222,53 @@ complete account of the bill's effect, which it is not.
 | `28 U.S.C. § 1295` | amend | The items relating to sections 134 and 135 in the table of sections for chapter 12 are amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1295` | amend | The item relating to section 146 in the table of sections for chapter 13 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 1295` | amend | Subsection 1295(a)(4)(A) of title 28, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1001` | amend | Section 115 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1001` | strike | Section 121 is amended by striking “If a divisional application” and all that follows through “inventor.”. | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 1001` | strike | in the heading for paragraph (3), by striking “and oath”; and | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 1001` | strike | by striking “and oath” each place it appears. | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 1001` | amend | The item relating to section 115 in the table of sections for chapter 11 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 115 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | Section 121 is amended by striking “If a divisional application” and all that follows through “inventor.”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(C), by striking “by the applicant” and inserting “or declaration”; | the bill names no machine-readable US Code section |
+| — | strike | in the heading for paragraph (3), by striking “and oath”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and oath” each place it appears. | the bill names no machine-readable US Code section |
+| — | amend | The item relating to section 115 in the table of sections for chapter 11 is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The specification” and inserting “(a) In general.—The specification”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “of carrying out his invention” and inserting “or joint inventor of carrying out the invention”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “The specification” and inserting “(b) Conclusion.—The specification”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “applicant regards as his invention” and inserting “inventor or a joint inventor regards as the invention”; | the bill names no machine-readable US Code section |
+| — | replace | in the third paragraph, by striking “A claim” and inserting “(c) Form.—A claim”; | the bill names no machine-readable US Code section |
+| — | replace | in the fourth paragraph, by striking “Subject to the following paragraph,” and inserting “(d) Reference in dependent forms.—Subject to subsection (e),”; | the bill names no machine-readable US Code section |
+| — | replace | in the fifth paragraph, by striking “A claim” and inserting “(e) Reference in multiple dependent form.—A claim”; and | the bill names no machine-readable US Code section |
+| — | replace | in the last paragraph, by striking “An element” and inserting “(f) Element in claim for a combination.—An element”. | the bill names no machine-readable US Code section |
 | — | replace | in the first paragraph, by striking “Upon” and inserting “(a) In general.—Upon”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) (as designated by paragraph (1) of this subsection) the following: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (c) (as designated by paragraph (1) of this subsection) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the third undesignated paragraph, by striking “The court” and inserting “(d) Expert Testimony.—The court”. | the bill names no machine-readable US Code section |
-| `28 U.S.C. § 1338` | amend | Section 301 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1338` | amend | Section 303(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1338` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1338` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1338` | strike | Section 315(c) is amended by striking “or could have raised”. | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 1338` | add-at-end | Part III is amended by adding at the end the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1338` | add-at-end | The table of chapters for part III is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1338` | repeal | Section 4607 of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1337` | amend | Section 301 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1337` | amend | Section 303(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1337` | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1337` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1337` | strike | Section 315(c) is amended by striking “or could have raised”. | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 1337` | add-at-end | Part III is amended by adding at the end the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1337` | amend | The table of chapters for part III is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1337` | repeal | Section 4607 of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 100 (as amended by this Act) is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 6 is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 122(b)(2)(B)(i) is amended by striking “published as provided in paragraph (1).” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 122 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 7701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “Whoever” and inserting “(a) Patentable inventions.—Whoever”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `28 U.S.C. § 1400` | replace | Section 1400 of title 28, United States Code, is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 1292` | strike | by striking “and” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 1292` | replace | by striking the period at the end of paragraph (2) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `35 U.S.C. § 271` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 61` | add-at-end | Chapter 11 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 61` | add-at-end | The table of sections for chapter 11 is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 61` | replace | by striking the comma at the end of each of paragraphs (1), (2), and (3) and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 61` | insert | by inserting after the second sentence the following: “In an action involving any allegation of inequitable conduct under subsection (c), the party asserting this defense or claim shall comply with the pleading requirements set forth in … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 61` | insert | by inserting after subsection (b), as designated by paragraph (2) of this subsection, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1400` | strike | by striking “and” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
+| `28 U.S.C. § 1400` | replace | by striking the period at the end of paragraph (2) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `28 U.S.C. § 1400` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 11 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 11 is amended by adding at the end the following new items: | the bill names no machine-readable US Code section |
+| — | replace | in the first undesignated paragraph, by striking “A patent” and inserting “(a) In general.—A patent”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “The following” and inserting “(b) Defenses.—The following”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the comma at the end of each of paragraphs (1), (2), and (3) and inserting a period; | the bill names no machine-readable US Code section |
+| — | replace | by striking “In actions” and inserting “(d) Notice of actions; pleading.—In actions”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after the second sentence the following: “In an action involving any allegation of inequitable conduct under subsection (c), the party asserting this defense or claim shall comply with the pleading requirements set forth in … | the bill names no machine-readable US Code section |
+| — | replace | by striking “Invalidity” and inserting “(e) Extension of patent term.—Invalidity”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (b), as designated by paragraph (2) of this subsection, the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 282(b) (as designated by section 12(b) of this Act) is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
-| `35 U.S.C. § 2` | add-at-end | Section 2(c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 2(c) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the first paragraph, by striking “When” and inserting “(a) Joint Inventions.—When”; | the bill names no machine-readable US Code section |
 | — | replace | in the second paragraph, by striking “If a joint inventor” and inserting “(b) Omitted Inventor.—If a joint inventor”; and | the bill names no machine-readable US Code section |
 | — | replace | in the third paragraph, by striking “Whenever” and inserting “(c) Correction of Errors in Application.—Whenever”. | the bill names no machine-readable US Code section |
