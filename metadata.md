@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2654
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2654
@@ -21,9 +21,10 @@ To designate the facility of the United States Postal Service located at 202 Sou
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ To designate the facility of the United States Postal Service located at 202 Sou
 - 2007-09-10 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-09-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10329)
 - 2007-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10329)
+- 2007-09-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
