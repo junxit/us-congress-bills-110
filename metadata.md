@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2728
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2728
@@ -16,7 +16,7 @@ To designate the station of the United States Border Patrol located at 25762 Mad
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Rep. Bono, Mary [R-CA-45] (B001228)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
@@ -28,6 +28,8 @@ To designate the station of the United States Border Patrol located at 25762 Mad
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Doolittle, John T. [R-CA-4] (D000429)
 
 ## Committees (1)
 
@@ -38,3 +40,11 @@ To designate the station of the United States Border Patrol located at 25762 Mad
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Introduced in House
 - 2007-06-14 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-06-15 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-08-01 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-08-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-08-02 — Committee Consideration and Mark-up Session Held.
+- 2007-08-02 — Ordered to be Reported by Voice Vote.
+- 2007-09-14 — Placed on the House Calendar, Calendar No. 114.
+- 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-327.
+- 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-327.
