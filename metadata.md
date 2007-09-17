@@ -1,7 +1,7 @@
 ---
 measure: S. 471
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 471
@@ -28,3 +28,7 @@ A bill to authorize the Secretary of the Interior to convey to The Missouri Rive
 
 - 2007-02-01 — Introduced in Senate
 - 2007-02-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-156.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-156.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 354.
