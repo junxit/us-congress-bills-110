@@ -1,7 +1,7 @@
 ---
 measure: H.R. 995
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 995
@@ -75,3 +75,13 @@ To amend Public Law 106-348 to extend the authorization for establishing a memor
 - 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-165.
 - 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-165.
 - 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 363.
+- 2007-10-24 — Cleared for White House.
+- 2007-10-24 — Message on Senate action sent to the House.
+- 2007-10-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S13389)
+- 2007-10-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S13389)
+- 2007-10-24 — Presented to President.
+- 2007-10-24 — Presented to President.
+- 2007-10-25 — Became Public Law No: 110-106.
+- 2007-10-25 — Became Public Law No: 110-106.
+- 2007-10-25 — Signed by President.
+- 2007-10-25 — Signed by President.
