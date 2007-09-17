@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 583
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 583
@@ -16,7 +16,7 @@ Recognizing the remarkable example of Sir Nicholas Winton who organized the resc
 
 - Rep. Klein, Ron [D-FL-22] (K000366)
 
-## Cosponsors (42)
+## Cosponsors (49)
 
 - Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
 - Rep. Lantos, Tom [D-CA-12] (L000090)
@@ -60,6 +60,13 @@ Recognizing the remarkable example of Sir Nicholas Winton who organized the resc
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
 ## Committees (1)
 
@@ -70,3 +77,11 @@ Recognizing the remarkable example of Sir Nicholas Winton who organized the resc
 - 2007-07-27 — Introduced in House
 - 2007-07-27 — Introduced in House
 - 2007-07-27 — Referred to the House Committee on Foreign Affairs.
+- 2007-07-31 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2007-07-31 — Committee Consideration and Mark-up Session Held.
+- 2007-09-17 — Considered under suspension of the rules. (consideration: CR H10397-10400)
+- 2007-09-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 583.
+- 2007-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-17 — Mr. Faleomavaega moved to suspend the rules and agree to the resolution.
+- 2007-09-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10397-10398)
+- 2007-09-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10397-10398)
