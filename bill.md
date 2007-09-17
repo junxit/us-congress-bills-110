@@ -75,7 +75,7 @@ In this Act:
 - **(2)** *Heritage area* The term Heritage Area means the South Park National Heritage Area established by section 5(a).
 - **(3)** *Management entity* The term management entity means the management entity for the Heritage Area designated by section 5(d)(1).
 - **(4)** *Management plan* The term management plan means the management plan for the Heritage Area required by section 7.
-- **(5)** *Map* The term “map” means the map entitled “South Park National Heritage Area Map (Proposed)”, dated January 30, 2006.
+- **(5)** *Map* The term map means the map entitled “South Park National Heritage Area Map (Proposed)”, dated January 30, 2006.
 - **(6)** *Partner* The term partner means a Federal, State, or local governmental entity, organization, private industry, educational institution, or individual involved in the conservation, preservation, interpretation, development or promotion of heritage sites or resources of the Heritage Area.
 - **(7)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(8)** *State* The term State means the State of Colorado.
