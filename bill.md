@@ -17,9 +17,9 @@ This Act may be cited as the “Chattahoochee Trace National Heritage Corridor S
 
 In this Act:
 
-- **(1)** *Corridor* The term “Corridor” means the Chattahoochee Trace National Heritage Corridor.
-- **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-- **(3)** *Study area* The term “study area” means the study area described in section 3(b).
+- **(1)** *Corridor* The term Corridor means the Chattahoochee Trace National Heritage Corridor.
+- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *Study area* The term study area means the study area described in section 3(b).
 
 ## § 3. Study
 
@@ -34,6 +34,11 @@ In this Act:
   - **(3)** Other areas in the State of Alabama or Georgia that—
     - **(A)** have heritage aspects that are similar to the aspects of the areas described in paragraph (1) or (2); and
     - **(B)** are adjacent to, or in the vicinity of, the areas.
+- **(b)** *Study area* The study area includes—
+  - **(1)** the portion of the Apalachicola-Chattahoochee-Flint River Basin and surrounding areas, as generally depicted on the map entitled “Chattahoochee Trace National Heritage Corridor, Alabama/Georgia”, numbered T05/80000, and dated July 2007; and
+  - **(2)** any other areas in the State of Alabama or Georgia that—
+    - **(A)** have heritage aspects that are similar to the areas depicted on the map described in paragraph (1); and
+    - **(B)** are adjacent to, or in the vicinity of, those areas.
 - **(c)** *Requirements* The study shall include analysis, documentation, and determinations on whether the study area—
   - **(1)** has an assemblage of natural, historic, and cultural resources that—
     - **(A)** represent distinctive aspects of the heritage of the United States;
@@ -57,7 +62,7 @@ In this Act:
 
 ## § 4. Report
 
-Not later than the 3rd fiscal year after the date on which funds are first made available to carry out this Act, the Secretary shall submit to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
+Not later than the 3rd fiscal year after the date on which funds are first made available to carry out this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes—
 
 - **(1)** the findings of the study; and
 - **(2)** any conclusions and recommendations of the Secretary.
