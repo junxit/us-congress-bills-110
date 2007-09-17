@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1126
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 15 U.S.C. § 5103
+### 15 U.S.C. § 5108
 
 > in subparagraph (H), by striking “coatings for sheet steels” and inserting “sheet and bar steels”; and
 
@@ -43,6 +43,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 5108` | amend | Section 9 of the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 (15 U.S.C. 5108) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5103` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5106` | strike | by striking section 7 (15 U.S.C. 5106); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 5107` | insert | in section 8 (15 U.S.C. 5107), by inserting “, beginning with fiscal year 2008,” after “close of each fiscal year”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 5108` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5108` | strike | by striking section 7 (15 U.S.C. 5106); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 5108` | insert | in section 8 (15 U.S.C. 5107), by inserting “, beginning with fiscal year 2008,” after “close of each fiscal year”. | the bill quotes the text inserted but describes where it goes |
