@@ -1,7 +1,7 @@
 ---
 measure: H.R. 247
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 247
@@ -42,3 +42,8 @@ To designate a Forest Service trail at Waldo Lake in the Willamette National For
 - 2007-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2132)
 - 2007-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2132)
 - 2007-03-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-104.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-163.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-163.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 361.
