@@ -1,7 +1,7 @@
 ---
 measure: S. 2006
 congress: 110
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
