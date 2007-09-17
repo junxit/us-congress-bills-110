@@ -52,11 +52,11 @@ Section 917 of the Energy Policy Act of 2005 (42 U.S.C. 16197) is amended to rea
 >   - **(4)** *Limitation* No grantee may receive more than 11 years of support under this section without reapplying for support and competing against all other applicants seeking a grant at that time.
 > - **(g)** *Prohibition* None of the funds awarded under this section may be used for the construction of facilities.
 > - **(h)** *Definitions* For purposes of this section:
->   - **(1)** *Advanced energy methods and technologies* The term “advanced energy methods and technologies” means all methods and technologies that promote energy efficiency and conservation, including distributed generation technologies, and life-cycle analysis of energy use.
->   - **(2)** *Center* The term “Center” means an Advanced Energy Technology Transfer Center established pursuant to this section.
->   - **(3)** *Distributed generation* The term “distributed generation” means an electric power generation technology, including photovoltaic, small wind, and micro-combined heat and power, that serves electric consumers at or near the site of production.
->   - **(4)** *Cooperative extension* The term “Cooperative Extension” means the extension services established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914.
->   - **(5)** *Land-grant colleges and universities* The term “land-grant colleges and universities” means—
+>   - **(1)** *Advanced energy methods and technologies* The term advanced energy methods and technologies means all methods and technologies that promote energy efficiency and conservation, including distributed generation technologies, and life-cycle analysis of energy use.
+>   - **(2)** *Center* The term Center means an Advanced Energy Technology Transfer Center established pursuant to this section.
+>   - **(3)** *Distributed generation* The term distributed generation means an electric power generation technology, including photovoltaic, small wind, and micro-combined heat and power, that serves electric consumers at or near the site of production.
+>   - **(4)** *Cooperative extension* The term Cooperative Extension means the extension services established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914.
+>   - **(5)** *Land-grant colleges and universities* The term land-grant colleges and universities means—
 >     - **(A)** 1862 Institutions (as defined in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7601));
 >     - **(B)** 1890 Institutions (as defined in section 2 of that Act); and
 >     - **(C)** 1994 Institutions (as defined in section 2 of that Act).
