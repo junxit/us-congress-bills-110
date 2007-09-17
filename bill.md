@@ -1,11 +1,13 @@
 ---
 legis-num: S. 800
-congress: 
-session: 
-chamber: 
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 800
+
+> To establish the Niagara Falls National Heritage Area in the State of New York, and for other purposes.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 800
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 800
@@ -16,6 +16,10 @@ Niagara Falls National Heritage Area Act
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
+## Cosponsors (1)
+
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +28,8 @@ Niagara Falls National Heritage Area Act
 
 - 2007-03-07 — Introduced in Senate
 - 2007-03-07 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-15 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-104.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-174.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-174.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 372.
