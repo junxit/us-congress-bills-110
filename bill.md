@@ -2,7 +2,7 @@
 legis-num: H. RES. 518
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 518
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas Malaysia is a modern, multi-religious, and multi-racial democracy in Southeast Asia that is important to the United States' strategic interests;
-- Whereas Malaysia is one of the United States’ key allies in the global war on terror, and it condemns all terrorism, regardless of its cause or objectives;
+- Whereas Malaysia is a multi-religious and multi-racial democracy in Southeast Asia that is important to the United States' strategic interests;
+- Whereas Malaysia is one of the United States’ key allies in efforts to combat international terrorism, and it condemns all terrorism, regardless of its cause or objectives;
 - Whereas the Prime Minister of Malaysia, Datuk Seri Abdullah Ahmad Badawi, has condemned those seeking to incite race and religious hatred, including anti-Semitism;
 - Whereas Malaysia has taken a leading regional role in counter-terrorism and counter-narcotics in Southeast Asia, through intelligence sharing, close cooperation in law enforcement, participation in joint exercises and training, and other cooperative efforts with its neighboring countries and the United States;
-- Whereas Malaysia is the United States’ 10th largest trading partner, and the two countries have signed a Trade and Investment Framework Agreement and are currently engaged in talks for a free trade agreement;
+- Whereas Malaysia is the United States’ 10th largest trading partner, and the two countries have signed a Trade and Investment Framework Agreement;
 - Whereas Malaysia has consistently been a favored destination of American investment due to its competitive advantages, including good infrastructure, a highly-trained, educated, and multilingual workforce, and a business-friendly government;
 - Whereas the Malaysian Constitution guarantees gender equality, and the many accomplishments of Malaysian women evidence Malaysia’s commitment to the advancement of women’s social, economic, and legal status;
 - Whereas Malaysia was ruled by the United Kingdom until 1957;
