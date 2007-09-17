@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2881
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2881
@@ -16,7 +16,7 @@ FAA Reauthorization Act of 2007
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (33)
+## Cosponsors (38)
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
@@ -51,6 +51,11 @@ FAA Reauthorization Act of 2007
 - Rep. Hall, John J. [D-NY-19] (H001039)
 - Rep. Kagen, Steve [D-WI-8] (K000365)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Green, Al [D-TX-9] (G000553)
 
 ## Committees (1)
 
@@ -61,3 +66,9 @@ FAA Reauthorization Act of 2007
 - 2007-06-27 — Introduced in House
 - 2007-06-27 — Introduced in House
 - 2007-06-27 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-06-28 — Committee Consideration and Mark-up Session Held.
+- 2007-06-28 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-06-28 — Sponsor introductory remarks on measure. (CR E1437-1438)
+- 2007-09-17 — Placed on the Union Calendar, Calendar No. 206.
+- 2007-09-17 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-331.
+- 2007-09-17 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-331.
