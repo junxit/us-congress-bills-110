@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1100
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1100
@@ -101,3 +101,8 @@ Carl Sandburg Home National Historic Site Boundary Revision Act of 2007
 - 2007-05-23 — The previous question was ordered pursuant to the rule. (consideration: CR H5666)
 - 2007-05-23 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2007-05-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-07-12 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-158.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-180.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-180.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.

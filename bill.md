@@ -17,9 +17,9 @@ This Act may be cited as the “Carl Sandburg Home National Historic Site Bounda
 
 For the purposes of this Act:
 
-- **(1)** *Map* The term “map” means the map entitled “Sandburg Center Alternative” numbered 445/80,017 and dated April 2007.
-- **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-- **(3)** *Historic site* The term “Historic Site” means Carl Sandburg Home National Historic Site.
+- **(1)** *Map* The term map means the map entitled “Sandburg Center Alternative” numbered 445/80,017 and dated April 2007.
+- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *Historic site* The term Historic Site means Carl Sandburg Home National Historic Site.
 
 ## § 3. Carl sandburg home national historic site boundary adjustment
 
