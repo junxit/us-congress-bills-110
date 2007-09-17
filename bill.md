@@ -68,7 +68,7 @@ Section 48102(a) of title 49, United States Code, is amended—
   >   - **(EE)** $15,000,000 for Safe Flight 21, Alaska Capstone;
   >   - **(FF)** $20,000,000 for NextGen demonstration;
   >   - **(GG)** $8,907,000 for airports technology research—capacity;
-  >   - **(HH)** $9,805,000 for airports technology research—safety; and
+  >   - **(HH)** $9,805,000 for airports technology research—safety;
   > - **(14)** for fiscal year 2009, $481,554,000, including—
   >   - **(A)** $8,457,000 for fire research and safety;
   >   - **(B)** $4,050,000 for propulsion and fuel systems;
@@ -102,7 +102,7 @@ Section 48102(a) of title 49, United States Code, is amended—
   >   - **(DD)** $12,000,000 for NextGen demonstration;
   >   - **(EE)** $102,000,000 for NextGen system development;
   >   - **(FF)** $8,907,000 for airports technology research—capacity;
-  >   - **(GG)** $9,805,000 for airports technology research—safety; and
+  >   - **(GG)** $9,805,000 for airports technology research—safety;
   > - **(15)** for fiscal year 2010, $486,502,000, including—
   >   - **(A)** $8,546,000 for fire research and safety;
   >   - **(B)** $4,075,000 for propulsion and fuel systems;
@@ -170,20 +170,20 @@ Section 48102(a) of title 49, United States Code, is amended—
   >   - **(DD)** $12,000,000 for NextGen demonstration;
   >   - **(EE)** $105,000,000 for NextGen system development;
   >   - **(FF)** $8,907,000 for airports technology research—capacity;
-  >   - **(GG)** $9,805,000 for airports technology research—safety; and
+  >   - **(GG)** $9,805,000 for airports technology research—safety.
 
 ## § 4. Next generation air transportation system joint planning and development office
 
 - **(a)** *Status of director and responsibilities of office* Section 709 of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 40101 note) is amended—
   - **(1)** in subsection (a)—
     - **(A)** in paragraph (1), by adding at the end the following: “The head of the Office shall be the Director. The Director shall report to the Administrator of the Federal Aviation Administration and shall serve as Associate Administrator for the Next Generation Air Transportation System, and shall be a voting member and co-chair of the Joint Resources Council.”;
-    - **(B)** by amending paragraph (2)(C) to read:
+    - **(B)** by amending paragraph (2)(C) to read as follows:
       > - **(C)** creating a transition plan for the implementation of that system that includes date-specific milestones for the implementation of new capabilities into the national airspace system;
 
     - **(C)** in paragraph (2)(G), by striking “; and” and inserting a semicolon;
     - **(D)** in paragraph (2)(H), by striking the period at the end and inserting “; and”;
     - **(E)** by adding at the end of paragraph (2) the following:
-      > - **(I)** establishing specific quantitative goals for the safety, capacity, efficiency, performance, and environmental impacts of each phase of Next Generation Air Transportation System implementation activities and measuring actual operational experience against those goals;
+      > - **(I)** establishing specific quantitative goals for the safety, capacity, efficiency, performance, and environmental impacts of each phase of Next Generation Air Transportation System implementation activities and measuring actual operational experience against those goals, taking into account noise pollution reduction concerns of affected communities to the greatest extent practicable in establishing the environmental goals;
       > - **(J)** working to ensure global interoperability of the Next Generation Air Transportation System;
       > - **(K)** integrating aviation weather information and space weather information into the Next Generation Air Transportation System as soon as possible;
       > - **(L)** overseeing, with the Administrator, the selection of products or outcomes of research and development activities that would be moved to the next stage of a demonstration project through the Joint Resources Council;
@@ -191,7 +191,7 @@ Section 48102(a) of title 49, United States Code, is amended—
       > - **(N)** pursuing the integration of unmanned aircraft systems into the national airspace system through research and demonstration programs under the auspices of a public and private partnership.
 
   - **(2)** in subsection (e), by striking “2010” and inserting “2011”.
-- **(b)** *Accountability* Such section is further amended—
+- **(b)** *Accountability* Section 709(a) is further amended—
   - **(1)** in paragraph (3), by inserting “(A)” after the paragraph designation; and
   - **(2)** by adding at the end of paragraph (3) the following:
     > - **(B)** The Administrator, the Secretary of Defense, the Administrator of NASA, the Secretary of Commerce, the Secretary of Homeland Security, and the head of any other Department or Federal agency from which the Secretary of Transportation requests assistance under paragraph (A) shall designate a senior official in the department or agency to be responsible for—
@@ -205,7 +205,8 @@ Section 48102(a) of title 49, United States Code, is amended—
 - **(c)** *Integrated plan* Section 709(b) of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 40101 note) is amended—
   - **(1)** by striking the first sentence and inserting “The integrated plan shall be designed to ensure that the Next Generation Air Transportation System meets anticipated future air transportation safety, security, mobility, efficiency, and capacity needs and accomplishes the goals under subsection (c).”;
   - **(2)** in paragraph (3)(C), by striking “; and” and inserting a semicolon;
-  - **(3)** by adding at the end the following:
+  - **(3)** in paragraph (4) by striking the period and inserting a semicolon; and
+  - **(4)** by adding at the end the following:
     > - **(5)** Date-specific timetables for the partial and complete implementation of planned Next Generation Air Transportation System capabilities, including but not limited to Automated Dependent Surveillance-Broadcast, Unmanned Aircraft Systems operations, Next Generation Enabled Weather system, Next Generation Data Communications, NAS Voice Switch, System Wide Information Management system, and space weather information, and including any necessary certification activities, and including an evaluation of the costs and benefits of accelerating any of the implementation and certification timetables;
     > - **(6)** Identification of planned demonstration projects and date-specific timetables for the conduct of the demonstration projects and subsequent certification activities and an evaluation of the costs and benefits of accelerating any of the demonstration projects and certification activities;
     > - **(7)** Date-specific timetables for meeting the environmental requirements identified in subsection (I); and
@@ -219,19 +220,19 @@ Section 48102(a) of title 49, United States Code, is amended—
   >   - **(4)** the relevant programs and activities for the previous fiscal year and the proposed programs and activities under the President’s budget request, of each participating Federal agency and department; and
   >   - **(5)** the levels of funding for each participating Federal agency and department devoted to the programs and activities in paragraph (4) for the previous fiscal year and under the President’s budget request.
 
-- **(e)** *Senior policy committee* Section 710 of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 40101 note) is amended in the last sentence by inserting “, and shall meet at least four times each year” before the period.
+- **(e)** *Senior policy committee* Section 710(a) of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 40101 note) is amended in the last sentence by inserting “, and shall meet at least four times each year” before the period.
 - **(f)** *Budget preparation*
   - **(1)** Each Federal agency and department participating in the office shall, as part of its annual request for appropriations to the Office of Management and Budget, submit a report to the Office of Management and Budget which—
     - **(A)** identifies each element of its work program which contributes directly to Next Generation Air Transportation System initiative; and
     - **(B)** states the portion of its request for appropriations that is allocated to each such element.
   - **(2)** The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under the amendment made by subsection (d), and shall include, in the President’s annual budget estimate, a statement of the portion of each appropriate agency’s or department’s annual budget estimate relating to its activities undertaken pursuant to the Next Generation Air Transportation System initiative.
 - **(g)** *Contingency planning* The Director shall, as part of the design of the Next Generation Air Transportation System, develop contingency plans for dealing with the degradation of the Next Generation Air Transportation System in the event of a natural disaster, major equipment failure, or act of terrorism.
-- **(h)** *Environmental research* The Director shall establish environmental requirements for noise, emissions, and energy consumption to be satisfied in the Next Generation Air Transportation System through a combination of technologies and operational procedures. The Director shall assign primary responsibility for the research, development, and demonstration of the applicable technologies in a relevant environment to NASA and primary responsibility for demonstration of optimized operational procedures to the FAA.
+- **(h)** *Environmental research* The Director shall establish environmental objectives for noise, emissions, and energy consumption to be satisfied in the Next Generation Air Transportation System through a combination of technologies and operational procedures. The Director shall assign primary responsibility for the research, development, and demonstration of the applicable technologies in a relevant environment to NASA and primary responsibility for demonstration of optimized operational procedures to the FAA.
 - **(i)** *Government accountability office assessment and report*
   - **(1)** *Scope* The Comptroller General shall assess compliance with the requirements of section 709 of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 40101 note) to determine—
     - **(A)** the effectiveness of the Next Generation Air Transportation System Joint Planning and Development Office in meeting the deadlines and milestones of the integrated plan under that section; and
     - **(B)** the adequacy and effectiveness of the memoranda of understanding executed by Federal departments and agencies under that section.
-  - **(2)** *Report* Not later than 270 days after the date of enactment of this Act, and annually thereafter until the Next Generation Air Transportation System is fully operational, the Comptroller General shall transmit a report to the Committee on Science and Technology and the Committee on Transportation and Infrsatructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate containing the Comptroller General’s findings, conclusions and recommendations related to the assessment in paragraph (1).
+  - **(2)** *Report* Not later than 270 days after the date of enactment of this Act, and annually thereafter until the Next Generation Air Transportation System is fully operational, the Comptroller General shall transmit a report to the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate containing the Comptroller General’s findings, conclusions and recommendations related to the assessment in paragraph (1).
 - **(j)** *Unmanned Aircraft Systems*
   - **(1)** *Research initiative*
     - **(A)** *Improved manned and unmanned aircraft* Section 44504 of title 49, United States Code, is amended—
@@ -239,14 +240,14 @@ Section 48102(a) of title 49, United States Code, is amended—
       - **(ii)** in subsection (b)(6), by striking “and” after the semicolon;
       - **(iii)** in subsection (b)(7) by striking the period and inserting “; and”; and
       - **(iv)** by adding at the end of subsection (b) the following:
-        > - **(8)** in conjunction with other Federal agencies as appropriate, to develop technologies and methods to assess the risk of and prevent defects, failures, and malfunctions of products, parts, and processes, for use in all classes of unmanned aerial systems that could result in a catastrophic failure.
+        > - **(8)** in conjunction with other Federal agencies as appropriate, to develop technologies and methods to assess the risk of and prevent defects, failures, and malfunctions of products, parts, and processes, for use in all classes of unmanned aircraft systems that could result in a catastrophic failure of the unmanned aircraft that would endanger other aircraft in the national airspace system.
 
     - **(B)** *Systems, procedures, facilities, and devices* Section 44505(b) of such title is amended—
       - **(i)** in paragraph (4), by striking “and” after the semicolon;
       - **(ii)** in paragraph (5)(C), by striking the period and inserting a semicolon; and
       - **(iii)** by adding at the end of subsection (b) the following:
         > - **(6)** to develop a better understanding of the relationship between human factors and unmanned aircraft systems safety; and
-        > - **(7)** to develop dynamic simulation models for integrating all classes of unmanned aircraft systems into the national airspace system.
+        > - **(7)** to develop dynamic simulation models for integrating all classes of unmanned aircraft systems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
 
   - **(2)** *Roadmap* Not later than 90 days after the date of enactment of this Act, the Administrator shall develop and transmit an unmanned aircraft systems research, development, demonstration and implementation “roadmap” to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
   - **(3)** *Independent assessment*
@@ -263,27 +264,27 @@ Section 48102(a) of title 49, United States Code, is amended—
       - **(x)** unmanned aircraft systems operator qualifications, medical standards, and training requirements;
       - **(xi)** unmanned aircraft systems maintenance requirements and training requirements;
       - **(xii)** any other unmanned aircraft systems-related issue the Administrator believes should be addressed; and
-      - **(xiii)** recommendations for integrating unmanned aircraft systems into the national airspace system in a timely manner.
+      - **(xiii)** recommendations for integrating unmanned aircraft systems into the national airspace system in a timely manner without any degradation of existing levels of safety for all national airspace system users.
     - **(B)** *Report* Not later than 12 months after initiating the study, the National Academy shall submit its report to the Administrator, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Science and Technology containing its finding and recommendations.
   - **(4)** *Pilot projects for transitioning research and development results*
-    - **(A)** *In general* The Administrator shall establish pilot projects in sparsely populated, low-density Class G air traffic airspace to conduct experiments and collect data in order to accelerate the safe integration of unmanned aircraft systems into the national airspace system.
+    - **(A)** *In general* The Administrator shall establish pilot projects in sparsely populated, low-density Class G air traffic airspace to conduct experiments and collect data in order to accelerate the safe integration of unmanned aircraft systems into the national airspace system without any degradation of existing levels of safety for all national airspace system users.
     - **(B)** *Use of public-private partnership* In conducting the pilot projects, the Administrator shall encourage the formation of a public-private partnership.
     - **(C)** *Report* Not later than 90 days after completing the pilot projects, the Administrator shall transmit a report to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, setting forth the Administrator’s findings and conclusions concerning the projects.
-    - **(D)** *Authorization of Appropriations* In addition to amounts authorized to be appropriated by the amendments made by this Act, there is authorized to be appropriated to the Administrator for fiscal years 2008 and 2009 such sums as may be necessary to carry out the pilot projects under this paragraph.
+    - **(D)** *Authorization of Appropriations* There is authorized to be appropriated to the Administrator for fiscal years 2008 and 2009 such sums as may be necessary to carry out the pilot projects under this paragraph.
 
 ## § 5. Interagency research initiative on the impact of aviation on the climate
 
-- **(a)** *In general* The Administrator, in coordination with NASA and the United States Climate Change Science Program, shall establish a research initiative to assess the impact of aviation on the climate and to evaluate approaches to mitigate that impact.
+- **(a)** *In general* The Administrator, in coordination with NASA and the United States Climate Change Science Program, shall establish a research initiative to assess the impact of aviation on the climate and, if warranted, to evaluate approaches to mitigate that impact.
 - **(b)** *Research plan* Not later than 1 year after the date of enactment of this Act, the participating Federal entities shall jointly develop a plan for the research program that contains the objectives, proposed tasks, milestones, and 5-year budgetary profile.
 - **(c)** *Review* The Administrator shall have the National Research Council conduct an independent review of the interagency research program plan and provide the results of that review to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 18 months after the date of enactment of this Act.
-- **(d)** *Authorization of appropriations* In addition to amounts authorized to be appropriated by the amendments made by this Act, there is authorized to be appropriated $2,000,000 for fiscal year 2008, and $5,000,000 in each of the fiscal years 2009 through 2011, for the interagency research program established under this section.
+- **(d)** *Authorization of appropriations* There is authorized to be appropriated $2,000,000 for fiscal year 2008, and $5,000,000 in each of the fiscal years 2009 through 2011, for the interagency research program established under this section.
 
 ## § 6. Research program on runways
 
 - **(a)** *Establishment of research program* The Administrator shall establish a program of research grants to universities and non-profit research foundations for research and technology demonstrations related to—
   - **(1)** improved runway surfaces; and
   - **(2)** engineered material restraining systems for runways at both general aviation airports and airports with commercial air carrier operations.
-- **(b)** *Authorization of Appropriations* In addition to amounts authorized to be appropriated by the amendments made by this Act, there is authorized to be appropriated $5,000,000 for each of the fiscal years 2008 through 2011 to carry out this section.
+- **(b)** *Authorization of Appropriations* There is authorized to be appropriated $5,000,000 for each of the fiscal years 2008 through 2011 to carry out this section.
 
 ## § 7. Research on design for certification
 
@@ -306,7 +307,7 @@ Section 48102(a) of title 49, United States Code, is amended—
 
 Section 44511(f) of title 49, United States Code, is amended—
 
-- **(1)** in paragraph (1), by striking “establish a 4-year pilot” in paragraph (1) and inserting “maintain an”; and
+- **(1)** in paragraph (1), by striking “establish a 4-year pilot” and inserting “maintain an”; and
 - **(2)** in paragraph (4)—
   - **(A)** by striking “expiration of the program” and inserting “expiration of the pilot program”; and
   - **(B)** by striking “program, including recommendations as to the need for establishing a permanent airport cooperative research program” and inserting “program”.
@@ -318,7 +319,7 @@ Section 44511(f) of title 49, United States Code, is amended—
   - **(2)** research projects that combine undergraduate research with other research supported by the FAA;
   - **(3)** research on future training requirements related to projected changes in regulatory requirements for aircraft maintenance and power plant licensees; and
   - **(4)** research on the impact of new technologies and procedures, particularly those related to aircraft flight deck and air traffic management functions, and on training requirements for pilots and air traffic controllers.
-- **(b)** *Authorization of appropriations* In addition to amounts authorized to be appropriated by the amendments made by this Act, there is authorized to be appropriated $5,000,000 for each of the fiscal years 2008 through 2011, for research grants under this section.
+- **(b)** *Authorization of appropriations* There is authorized to be appropriated $5,000,000 for each of the fiscal years 2008 through 2011, for research grants under this section.
 
 ## § 11. Budget formulation
 
@@ -330,7 +331,7 @@ Section 48102 of title 49, United States Code, is amended by inserting after sub
 
 ## § 12. Research Program on Space Weather and Aviation
 
-- **(a)** *Establishment* From amounts made available under section 48102(a) of title 49, United States Code, the Administrator of the Federal Aviation Administration shall, in coordination with the National Science Foundation, National Aeronautics and Space Administration, National Oceanic and Atmospheric Administration, and other relevant agencies, initiate a research program to—
+- **(a)** *Establishment* The Administrator of the Federal Aviation Administration shall, in coordination with the National Science Foundation, National Aeronautics and Space Administration, National Oceanic and Atmospheric Administration, and other relevant agencies, initiate a research program to—
   - **(1)** conduct or supervise research projects on impacts of space weather to aviation, including communication, navigation, avionic systems, and on airline passengers and personnel; and
   - **(2)** facilitate the transfer of technology from space weather research programs to Federal agencies with operational responsibilities and to the private sector.
 - **(b)** *Use of grants or cooperative agreements* The Administrator may use grants or cooperative agreements in carrying out this section.
@@ -341,7 +342,7 @@ Section 48102 of title 49, United States Code, is amended by inserting after sub
 - **(a)** *Continuation of program* The Administrator, in coordination with the NASA Administrator, shall continue research and development activities into technologies for modification of existing general aviation piston engines to enable their safe operation using unleaded aviation fuel.
 - **(b)** *Roadmap* Not later than 120 days of the enactment of this Act, the Administrator shall develop a research and development roadmap for the program continued in subsection (a), containing the specific research and development objectives and anticipated timetable for achieving the objectives.
 - **(c)** *Report* Not later than 130 days of the enactment of this Act, the Administrator shall provide the roadmap specified in subsection (b) to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
-- **(d)** *Authorization of Appropriations* In addition to amounts authorized to be appropriated by the amendments made by this Act, there is authorized to be appropriated $750,000 for each of the fiscal years 2008 through 2010, to carry out this section.
+- **(d)** *Authorization of Appropriations* There is authorized to be appropriated $750,000 for each of the fiscal years 2008 through 2010, to carry out this section.
 
 ## § 14. Research reviews and assessments
 
@@ -359,3 +360,30 @@ Section 48102 of title 49, United States Code, is amended by inserting after sub
     - **(C)** provide recommendations on how NASA, NOAA, and the NSF can most effectively carry out research and monitoring activities related to space weather and aviation; and
     - **(D)** provide recommendations on how to integrate space weather information into the Next Generation Air Transportation System.
   - **(2)** *Report* A report containing the results of the study shall be provided to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 1 year after the date of enactment of this Act.
+
+## § 15. Review of FAA’s aviation safety-related research programs
+
+- **(a)** *Review* The Administrator shall enter into an arrangement with the National Research Council for an independent review of the FAA’s aviation safety-related research programs. The review shall assess whether—
+  - **(1)** the programs have well-defined, prioritized, and appropriate research objectives;
+  - **(2)** the programs are properly coordinated with the safety research programs of NASA and other relevant Federal agencies;
+  - **(3)** the programs have allocated appropriate resources to each of the research objectives; and
+  - **(4)** there exist suitable mechanisms for transitioning the research results from the programs into the FAA’s operational technologies and procedures and certification activities in a timely manner.
+- **(b)** *Aviation safety-related research programs To be assessed* The FAA aviation safety-related research programs to be assessed under the review shall include, at a minimum, the following:
+  - **(1)** Air traffic control/technical operations human factors.
+  - **(2)** Runway incursion reduction.
+  - **(3)** Flightdeck/maintenance system integration human factors.
+  - **(4)** Airports technology research—safety.
+  - **(5)** Airport cooperative research program—safety.
+  - **(6)** Weather program.
+  - **(7)** Atmospheric hazards/digital system safety.
+  - **(8)** Fire research and safety.
+  - **(9)** Propulsion and fuel systems.
+  - **(10)** Advanced materials/structural safety.
+  - **(11)** Aging aircraft.
+  - **(12)** Aircraft catastrophic failure prevention research.
+  - **(13)** Aeromedical research.
+  - **(14)** Aviation safety risk analysis.
+  - **(15)** Unmanned aircraft systems research.
+  - **(16)** Safe Flight 21—Alaska Capstone.
+- **(c)** *Report* Not later than 14 months after the date of enactment of this Act, the Administrator shall submit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the review.
+- **(d)** *Authorization of appropriations* In addition to amounts authorized to be appropriated by the amendments made by this Act, there is authorized to be appropriated $700,000 for fiscal year 2008 to carry out this section.
