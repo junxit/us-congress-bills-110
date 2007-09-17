@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1126
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1126
@@ -50,3 +50,8 @@ To reauthorize the Steel and Aluminum Energy Conservation and Technology Competi
 - 2007-03-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2411)
 - 2007-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2411)
 - 2007-03-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-05-22 — Committee on Energy and Natural Resources Senate Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 110-112.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-181.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-181.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
