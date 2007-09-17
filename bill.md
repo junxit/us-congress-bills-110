@@ -62,13 +62,14 @@ This Act may be cited as the “Sangre de Cristo National Heritage Area Act ”.
 
 ## § 3. Definitions
 
--  In this Act:
-  - **(1)** *Heritage area* The term “Heritage Area” means the Sangre de Cristo National Heritage Area, established in section 4(a).
-  - **(2)** *Management entity* The term “Management Entity” means the management entity for the Heritage Area designated by section 4(d).
-  - **(3)** *Management plan* The term “Management Plan” means the management plan for the Heritage Area required section 6.
-  - **(4)** *Map* The term “map” means the map entitled “Proposed Sangre De Cristo National Heritage Area” and dated November 2005.
-  - **(5)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-  - **(6)** *State* The term “State” means the State of Colorado.
+In this Act:
+
+- **(1)** *Heritage area* The term Heritage Area means the Sangre de Cristo National Heritage Area, established in section 4(a).
+- **(2)** *Management entity* The term Management Entity means the management entity for the Heritage Area designated by section 4(d).
+- **(3)** *Management plan* The term Management Plan means the management plan for the Heritage Area required section 6.
+- **(4)** *Map* The term map means the map entitled “Proposed Sangre De Cristo National Heritage Area” and dated November 2005.
+- **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(6)** *State* The term State means the State of Colorado.
 
 ## § 4. Sangre de cristo national heritage area
 
@@ -153,11 +154,12 @@ This Act may be cited as the “Sangre de Cristo National Heritage Area Act ”.
 
 ## § 7. Duties of other federal agencies
 
--  Any Federal agency conducting or supporting an activity that directly affects the Heritage Area shall—
-  - **(1)** consult with the Secretary and the management entity regarding the activity;
-  - **(2)** cooperate with the Secretary and the management entity in carrying out the duties of the Federal agency under this Act;
-  - **(3)** to the maximum extent practicable, coordinate the activity with carrying out those duties; and
-  - **(4)** to the maximum extent practicable, conduct the activity in a manner that the management entity determines will not have an adverse effect on the Heritage Area.
+Any Federal agency conducting or supporting an activity that directly affects the Heritage Area shall—
+
+- **(1)** consult with the Secretary and the management entity regarding the activity;
+- **(2)** cooperate with the Secretary and the management entity in carrying out the duties of the Federal agency under this Act;
+- **(3)** to the maximum extent practicable, coordinate the activity with carrying out those duties; and
+- **(4)** to the maximum extent practicable, conduct the activity in a manner that the management entity determines will not have an adverse effect on the Heritage Area.
 
 ## § 8. Private property protection
 
@@ -184,7 +186,7 @@ This Act may be cited as the “Sangre de Cristo National Heritage Area Act ”.
 
 ## § 10. Authorization of appropriations
 
--  There is authorized to be appropriated to carry out this Act $10,000,000, of which not more than $1,000,000 may be made available for any fiscal year.
+There is authorized to be appropriated to carry out this Act $10,000,000, of which not more than $1,000,000 may be made available for any fiscal year.
 
 ## § 11. Termination of authority
 
