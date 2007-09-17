@@ -1,7 +1,7 @@
 ---
 measure: S. 1089
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,3 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a), by striking “applications and other documents relating to the public lands” and inserting “the duties of the Federal Coordinator,”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), in the first sentence, by striking “applications and other documents relating to such lands” and inserting “the duties of the Federal Coordinator”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “sale, lease, use, or other disposition of public lands” and inserting “duties of the Federal Coordinator”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 106 of the Alaska Natural Gas Pipeline Act (15 U.S.C. 720d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 107(a) of the Alaska Natural Gas Pipeline Act (15 U.S.C. 720e(a)) is amended by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
