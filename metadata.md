@@ -1,7 +1,7 @@
 ---
 measure: S. 1182
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1182
@@ -31,3 +31,8 @@ Quinebaug and Shetucket Rivers Valley National Heritage Corridor Amendments Act 
 - 2007-04-20 — Introduced in Senate
 - 2007-04-20 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-04-20 — Sponsor introductory remarks on measure. (CR S4815)
+- 2007-07-12 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-159.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-159.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 357.
