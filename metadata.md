@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 116
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 116
@@ -36,3 +36,8 @@ Expressing the sense of Congress that the National Museum of Wildlife Art, locat
 - 2007-06-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5934)
 - 2007-06-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5934)
 - 2007-06-07 — Received in the Senate and referred to the Committee on Energy and Natural Resources.
+- 2007-07-17 — Star Print ordered on the concurrent resolution.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment and with a preamble. With written report No. 110-166.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment and with a preamble. With written report No. 110-166.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 364.
