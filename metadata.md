@@ -1,7 +1,7 @@
 ---
 measure: H.R. 407
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 407
@@ -44,3 +44,7 @@ Columbia-Pacific National Heritage Area Study Act
 - 2007-05-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 294 - 80 (Roll no. 302). (text: CR H4499)
 - 2007-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 294 - 80 (Roll no. 302).(text: CR H4499)
 - 2007-05-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-164.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-164.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 362.
