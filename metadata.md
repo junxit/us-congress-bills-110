@@ -1,7 +1,7 @@
 ---
 measure: S. 955
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 955
@@ -28,3 +28,8 @@ Abraham Lincoln National Heritage Area Act
 
 - 2007-03-21 — Introduced in Senate
 - 2007-03-21 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S3529-3531)
+- 2007-07-12 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-158.
+- 2007-07-25 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-177.
+- 2007-09-17 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-177.
+- 2007-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.

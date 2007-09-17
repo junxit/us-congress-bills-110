@@ -71,12 +71,12 @@ Congress finds that—
 
 In this Act:
 
-- **(1)** *Coalition* The term “Coalition” means the Looking for Lincoln Heritage Coalition, an entity recognized by the Secretary, in consultation with the chief executive officer of the State, that has agreed to perform the duties of the management entity under this Act.
+- **(1)** *Coalition* The term Coalition means the Looking for Lincoln Heritage Coalition, an entity recognized by the Secretary, in consultation with the chief executive officer of the State, that has agreed to perform the duties of the management entity under this Act.
 - **(2)** *Heritage area* The term Heritage Area means the Abraham Lincoln National Heritage Area established by section 4(a).
 - **(3)** *Management entity* The term management entity means the management entity for the Heritage Area designated by section 5(a).
 - **(4)** *Management plan* The term management plan means the plan developed by the management entity under section 6(a).
 - **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
-- **(6)** *State* The term “State” means the State of Illinois.
+- **(6)** *State* The term State means the State of Illinois.
 - **(7)** *Unit of local government* The term unit of local government means the government of the State, a political subdivision of the State, or an Indian tribe.
 
 ## § 4. Establishment of Abraham Lincoln National Heritage Area
