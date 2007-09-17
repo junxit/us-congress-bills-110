@@ -1,7 +1,7 @@
 ---
 measure: S. 647
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | redesignate | by redesignating paragraph (167) (relating to the Musconetcong River, New Jersey) as paragraph (169); | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 13(a)(4) of the “Columbia River Gorge National Scenic Area Act” (16 U.S.C. 544k(a)(4)) is amended by striking “for a period not to exceed twenty years from the date of enactment of this Act,”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (167) (relating to the Musconetcong River, New Jersey) as paragraph (169); | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 13(a)(4) of the “Columbia River Gorge National Scenic Area Act” (16 U.S.C. 544k(a)(4)) is amended by striking “for a period not to exceed twenty years from the date of enactment of this Act,”. | the bill names no machine-readable US Code section |
