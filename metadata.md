@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 207
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 207
@@ -16,7 +16,7 @@ Recognizing the 60th anniversary of the United States Air Force as an independen
 
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 
-## Cosponsors (48)
+## Cosponsors (56)
 
 - Rep. Wilson, Heather [R-NM-1] (W000789)
 - Rep. Davis, Jo Ann [R-VA-1] (D000597)
@@ -66,6 +66,14 @@ Recognizing the 60th anniversary of the United States Air Force as an independen
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
 
 ## Committees (1)
 
@@ -76,3 +84,8 @@ Recognizing the 60th anniversary of the United States Air Force as an independen
 - 2007-09-07 — Introduced in House
 - 2007-09-07 — Introduced in House
 - 2007-09-07 — Referred to the House Committee on Armed Services.
+- 2007-09-18 — Considered under suspension of the rules. (consideration: CR H10488-10494)
+- 2007-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-18 — Mr. Spratt moved to suspend the rules and agree to the resolution.
+- 2007-09-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10488-10489)
+- 2007-09-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10488-10489)
