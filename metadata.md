@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3528
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3528
@@ -32,3 +32,13 @@ To provide authority to the Peace Corps to provide separation pay for host count
 - 2007-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10384)
 - 2007-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10384)
 - 2007-09-18 — Received in the Senate, read twice.
+- 2007-09-19 — Cleared for White House.
+- 2007-09-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11773-11774)
+- 2007-09-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11773-11774)
+- 2007-09-20 — Message on Senate action sent to the House.
+- 2007-09-24 — Presented to President.
+- 2007-09-24 — Presented to President.
+- 2007-09-27 — Became Public Law No: 110-86.
+- 2007-09-27 — Became Public Law No: 110-86.
+- 2007-09-27 — Signed by President.
+- 2007-09-27 — Signed by President.
