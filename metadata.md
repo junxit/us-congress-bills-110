@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1657
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1657
@@ -24,9 +24,10 @@ To establish a Science and Technology Scholarship Program to award scholarships 
 - Rep. Wu, David [D-OR-1] (W000793)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To establish a Science and Technology Scholarship Program to award scholarships 
 - 2007-09-17 — Mr. Hill moved to suspend the rules and pass the bill.
 - 2007-09-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 360 - 16 (Roll no. 868). (text: CR H10373-10374)
 - 2007-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 360 - 16 (Roll no. 868).(text: CR H10373-10374)
+- 2007-09-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
