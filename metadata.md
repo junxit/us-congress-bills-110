@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 326
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 326
@@ -16,7 +16,7 @@ Commemorating the 25th anniversary of the Vietnam Veterans Memorial.
 
 - Rep. Hooley, Darlene [D-OR-5] (H000762)
 
-## Cosponsors (75)
+## Cosponsors (108)
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
@@ -93,6 +93,39 @@ Commemorating the 25th anniversary of the Vietnam Veterans Memorial.
 - Rep. Boehner, John A. [R-OH-8] (B000589)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Lampson, Nick [D-TX-22] (L000043)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Udall, Tom [D-NM-3] (U000039)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Hayes, Robin [R-NC-8] (H001029)
+- Rep. Hunter, Duncan [R-CA-52] (H000981)
+- Rep. Davis, Jo Ann [R-VA-1] (D000597)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
 ## Committees (2)
 
@@ -106,3 +139,11 @@ Commemorating the 25th anniversary of the Vietnam Veterans Memorial.
 - 2007-04-20 — Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-04-20 — Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-04-20 — Referred to the Committee on Armed Services, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-04-23 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-06-20 — Referred to the Subcommittee on Readiness.
+- 2007-09-18 — Considered under suspension of the rules. (consideration: CR H10482-10484)
+- 2007-09-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 326.
+- 2007-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-18 — Ms. Shea-Porter moved to suspend the rules and agree to the resolution, as amended.
+- 2007-09-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10482)
+- 2007-09-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10482)
