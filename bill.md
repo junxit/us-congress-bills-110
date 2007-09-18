@@ -2,7 +2,7 @@
 legis-num: H. RES. 443
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 443
@@ -17,8 +17,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Borinqueneers demonstrated their military prowess in Korea and earned the respect and admiration of their fellow soldiers and military authorities, most notably General Douglas MacArthur;
 - Whereas the Borinqueneers were sent to battle on the front lines in Korea and participated in nine major campaigns during the Korean War;
 - Whereas the Borinqueneers made valuable contributions to the war effort, including by suffering a tremendous number of casualties that was disproportionate to the population of Puerto Rico;
-- Whereas the 65th Infantry Borinqueneers earned well-deserved praise, including a Presidential Unit Citation, a Meritorious Unit Commendation, and two Republic of Korea Unit Citations; and
-- Whereas the 65th Infantry has ceased to exist as an all-Puerto Rico unit, but thousands of Puerto Ricans have continued to volunteer freely and serve in the Armed Forces and have served ably during wartime: Now, therefore, be it
+- Whereas the 65th Infantry Borinqueneers earned well-deserved praise, including two United States Presidential Unit Citations, a Meritorious Unit Commendation, and two Republic of Korea Unit Citations;
+- Whereas the 65th Infantry Regiment 1st Battalion continues its fine tradition as an active unit in the Puerto Rico Army National Guard; and
+- Whereas Puerto Ricans have continued to volunteer freely and serve in the Armed Forces and have served ably during wartime: Now, therefore, be it
 
 That the House of Representatives—
 
