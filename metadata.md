@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 650
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 650
@@ -20,6 +20,11 @@ Providing for consideration of the bill (H.R. 1852) to modernize and update the 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2007-09-18 — [House 110-1-871](votes/house-110-1-0871.md) — On Ordering the Previous Question — **Passed** (226–191)
+- 2007-09-18 — [House 110-1-872](votes/house-110-1-0872.md) — On Agreeing to the Resolution — **Passed** (227–190)
+
 ## Actions
 
 - 2007-09-17 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of the bill (H.R. 1852) to modernize and update the 
 - 2007-09-17 — Rule provides for consideration of H.R. 1852 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2007-09-17 — The House Committee on Rules reported an original measure, H. Rept. 110-330, by Ms. Matsui.
 - 2007-09-17 — The House Committee on Rules reported an original measure, H. Rept. 110-330, by Ms. Matsui.
+- 2007-09-18 — Considered as privileged matter. (consideration: CR H10440-10445, H10445-10447)
+- 2007-09-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 650.
+- 2007-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-18 — On agreeing to the resolution Agreed to by recorded vote: 227 - 190 (Roll no. 872). (text: CR H10440)
+- 2007-09-18 — On ordering the previous question Agreed to by the Yeas and Nays: 226 - 191 (Roll no. 871). (consideration: CR H10445-10446)
+- 2007-09-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 227 - 190 (Roll no. 872).(text: CR H10440)
