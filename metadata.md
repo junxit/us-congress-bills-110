@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 207
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 207
@@ -75,9 +75,10 @@ Recognizing the 60th anniversary of the United States Air Force as an independen
 - Rep. McCarthy, Kevin [R-CA-22] (M001165)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -89,3 +90,4 @@ Recognizing the 60th anniversary of the United States Air Force as an independen
 - 2007-09-18 — Mr. Spratt moved to suspend the rules and agree to the resolution.
 - 2007-09-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10488-10489)
 - 2007-09-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10488-10489)
+- 2007-09-19 — Received in the Senate and referred to the Committee on Armed Services.
