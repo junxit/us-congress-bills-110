@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1852
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1852
@@ -32,9 +32,10 @@ Expanding American Homeownership Act of 2007
 - Rep. Etheridge, Bob [D-NC-2] (E000226)
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -125,3 +126,4 @@ Expanding American Homeownership Act of 2007
 - 2007-09-18 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H10479)
 - 2007-09-18 — The previous question was ordered pursuant to the rule. (consideration: CR H10478)
 - 2007-09-18 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which were debated earlier and on which further proceedings were postponed.
+- 2007-09-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
