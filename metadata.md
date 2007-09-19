@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3580
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3580
@@ -41,3 +41,13 @@ Food and Drug Administration Amendments Act of 2007
 - 2007-09-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 7 (Roll no. 885).(text: CR H10551-10594)
 - 2007-09-19 — Received in the Senate, read twice.
 - 2007-09-19 — Referred to the House Committee on Energy and Commerce.
+- 2007-09-20 — Cleared for White House.
+- 2007-09-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S11831-11841)
+- 2007-09-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S11831-11841)
+- 2007-09-21 — Message on Senate action sent to the House.
+- 2007-09-26 — Presented to President.
+- 2007-09-26 — Presented to President.
+- 2007-09-27 — Became Public Law No: 110-85.
+- 2007-09-27 — Became Public Law No: 110-85.
+- 2007-09-27 — Signed by President.
+- 2007-09-27 — Signed by President.
