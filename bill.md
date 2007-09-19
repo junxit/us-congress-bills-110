@@ -2,7 +2,7 @@
 legis-num: H.R. 1852
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1852
@@ -61,7 +61,7 @@ Section 203(b) of the National Housing Act (12 U.S.C. 1709(b)) is amended—
   - **(A)** by striking the paragraph designation and all that follows through “Provided further, That for” and inserting the following:
     > - **(9)** Except in the case of a mortgage described in subsection (c)(3), be executed by a mortgagor who shall have paid on account of the property, in cash or its equivalent, at least 3 percent of the Secretary’s estimate of the cost of acquisition (excluding the mortgage insurance premium paid at the time the mortgage is insured). For
 
-  - **(B)** by inserting after the period at the end the following: “For purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts gifted by a family member (as such term is defined in section 201), the mortgagor’s employer or labor union, or a qualified homeownership assistance entity, but only if there is no obligation on the part of the mortgagor to repay the gift: For purposes of the preceding sentence, the term “qualified homeownership assistance entity” means any governmental agency or charity that has a program to provide homeownership assistance to low- and moderate-income families or first-time home buyers, or any private nonprofit organization that has such a program and evidences sufficient fiscal soundness to protect the fiscal integrity of the Mutual Mortgage Insurance Fund by maintaining a minimum net worth of $4,000,000 of acceptable assets.”.
+  - **(B)** by inserting after the period at the end the following: “For purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts gifted by a family member (as such term is defined in section 201), the mortgagor’s employer or labor union, or a qualified homeownership assistance entity, but only if there is no obligation on the part of the mortgagor to repay the gift: For purposes of the preceding sentence, the term qualified homeownership assistance entity means any governmental agency or charity that has a program to provide homeownership assistance to low- and moderate-income families or first-time home buyers, or any private nonprofit organization that has such a program and evidences sufficient fiscal soundness to protect the fiscal integrity of the Mutual Mortgage Insurance Fund by maintaining a minimum net worth of $4,000,000 of acceptable assets.”.
 
 ## § 6. Mortgage insurance premiums for zero- and lower-downpayment borrowers
 
@@ -308,7 +308,7 @@ The National Housing Act is amended—
     > - **(k)** *Limitation on origination fees* The Secretary shall establish limits on the origination fee that may be charged to a mortgagor under a mortgage insured under this section, which limitations shall—
     >   - **(1)** equal to 1.5 percent of the maximum claim amount of the mortgage, except that the Secretary may adjust the limitation under this paragraph on the basis of an analysis of:
     >     - **(A)** costs to mortgagors; and
-    >     - **(B)** the impact on the reverse mortgage market;
+    >       - **(B)** the impact on the reverse mortgage market;
     >   - **(2)** be subject to a minimum allowable amount;
     >   - **(3)** provide that the origination fee may be fully financed with the mortgage;
     >   - **(4)** include any fees paid to correspondent mortgagees approved by the Secretary or to mortgage brokers; and
