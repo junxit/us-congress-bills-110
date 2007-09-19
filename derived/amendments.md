@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2095
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-74 amendatory instructions. 10 executed, 64 stated and not applied.
+82 amendatory instructions. 14 executed, 68 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -69,32 +69,59 @@ to guess them.
 | Removed | `chapter.` |
 | Inserted | `part.` |
 
-### 28 U.S.C. § 2461
+### 49 U.S.C. § 21301
 
-> by striking “$10,000” and inserting “$100,000, or the amount in which the stated minimum or maximum penalty, respectively, is adjusted if required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note)”; and
-
-| | |
-|---|---|
-| Removed | `$10,000` |
-| Inserted | `$100,000, or the amount in which the stated minimum or maximum penalty, respectively, is adjusted if required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note)` |
-
-### 28 U.S.C. § 2461
-
-> by striking “$10,000” and inserting “$100,000, or the amount to which the stated minimum or maximum penalty, respectively, is adjusted if required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note)”; and
+> by striking “$10,000” and inserting “$25,000”; and
 
 | | |
 |---|---|
 | Removed | `$10,000` |
-| Inserted | `$100,000, or the amount to which the stated minimum or maximum penalty, respectively, is adjusted if required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note)` |
+| Inserted | `$25,000` |
 
-### 28 U.S.C. § 2461
+### 49 U.S.C. § 21301
 
-> by striking “$10,000” and inserting “$100,000, or the amount to which the stated minimum or maximum penalty, respectively, is adjusted if required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note)”; and
+> by striking “$20,000” and inserting “$100,000”.
+
+| | |
+|---|---|
+| Removed | `$20,000` |
+| Inserted | `$100,000` |
+
+### 49 U.S.C. § 21302
+
+> by striking “$10,000” and inserting “$25,000”; and
 
 | | |
 |---|---|
 | Removed | `$10,000` |
-| Inserted | `$100,000, or the amount to which the stated minimum or maximum penalty, respectively, is adjusted if required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note)` |
+| Inserted | `$25,000` |
+
+### 49 U.S.C. § 21302
+
+> by striking “$20,000” and inserting “$100,000”.
+
+| | |
+|---|---|
+| Removed | `$20,000` |
+| Inserted | `$100,000` |
+
+### 49 U.S.C. § 21303
+
+> by striking “$10,000” and inserting “$25,000”; and
+
+| | |
+|---|---|
+| Removed | `$10,000` |
+| Inserted | `$25,000` |
+
+### 49 U.S.C. § 21303
+
+> by striking “$20,000” and inserting “$100,000”.
+
+| | |
+|---|---|
+| Removed | `$20,000` |
+| Inserted | `$100,000` |
 
 ### 49 U.S.C. § 21311
 
@@ -114,6 +141,15 @@ to guess them.
 | Removed | `death or personal injury` |
 | Inserted | `death, personal injury, or significant harm to the environment` |
 
+### 49 U.S.C. § 28101
+
+> Section 28101 of title 49, United States Code, is amended by striking “the rail carrier” each place it appears and inserting “any rail carrier”.
+
+| | |
+|---|---|
+| Removed | `the rail carrier` |
+| Inserted | `any rail carrier` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -132,12 +168,13 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 21104` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 21104` | strike | in subsection (b)(3) by striking “, except that up to one hour of that time spent returning from the final trouble call of a period of continuous or broken service is time off duty”; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 21104` | insert | by inserting “for not more than 3 days during a period of 7 consecutive days” after “24 consecutive hours”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 21104` | add-at-end | by adding at the end the following: “A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, maintenance, or inspection of signal systems.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 21104` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 21104` | add-at-end | by adding at the end the following: “A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of sign… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 21104` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 21103` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 21103` | amend | by amending subsection (b)(4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 21103` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 21106` | amend | Section 21106(2) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 21106` | insert | by inserting “(a) In general.—” before “A railroad carrier”; and | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 21106` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 211 of title 49, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 211 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 211 of title 49, United States Code, as amended by this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
@@ -162,10 +199,9 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 21301` | insert | by inserting “section 20157 of this title or” after “violating” in the second sentence. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 21301` | insert | Section 21301(a)(2) of title 49, United States Code, is amended by inserting “The Secretary shall impose a civil penalty for a violation of section 20157 of this title.” after the first sentence. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 20134` | add-at-end | Section 20134(a) of title 49, United States Code, is amended by adding at the end the following: “The Secretary may purchase promotional items of nominal value and distribute them to the public without charge as part of an educational or… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 201 of title 49, United States Code, as amended by this Act, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 201 of title 49, United States Code, as amended by this Act, is further amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 20112` | insert | by inserting “this part or” in paragraph (1) after “enforce,”; | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 21301` | strike | by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 21302` | strike | by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 21303` | strike | by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | add-at-end | Subchapter I of chapter 201 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | add-at-end | The table of sections of subchapter I of chapter 201 of title 49, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter II of chapter 213 of title 49, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
@@ -183,7 +219,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | The table of sections of subchapter II of chapter 201 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter II of chapter 201 of title 49, United States Code, as amended by this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections of subchapter II of chapter 201 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 201 of title 49, United States Code, as amended by this Act, is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections of subchapter II of chapter 201 of title 49, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 20106` | insert | by inserting “(a) In General.—” before “Laws, regulations”; and | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 20106` | insert | by inserting at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter III of chapter 11 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections for such chapter is amended by inserting after the item relating to section 1137 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections for such chapter is amended by inserting after the item relating to section 1138 the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part C of subtitle V of title 49, United States Code, is amended by adding at the end the following new chapter: | the bill names no machine-readable US Code section |
 | — | amend | The table of chapters for subtitle V of title 49, United States Code, is amended by adding after the item relating to chapter 249 the following new item: | the bill names no machine-readable US Code section |
