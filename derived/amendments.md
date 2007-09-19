@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3539
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 26 U.S.C. § 4081
 
-> Clause (ii) of section 4081(a)(2)(A) of such Code is amended by striking “19.3 cents” in subparagraph (A)(ii) and inserting “24.1 cents”.
+> Clause (ii) of section 4081(a)(2)(A) of such Code is amended by striking “19.3 cents” and inserting “24.1 cents”.
 
 | | |
 |---|---|
