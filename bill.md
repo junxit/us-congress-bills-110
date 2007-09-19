@@ -19,7 +19,7 @@ This Act may be cited as the “Airport and Airway Trust Fund Financing Act of 2
   - **(1)** *Aviation-grade kerosene* Subparagraph (A) of section 4081(a)(2) of the Internal Revenue Code of 1986 (relating to rates of tax) is amended by striking “and” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, and”, and by adding at the end the following new clause:
     > - **(iv)** in the case of aviation-grade kerosene, 35.9 cents per gallon.
 
-  - **(2)** *Aviation gasoline* Clause (ii) of section 4081(a)(2)(A) of such Code is amended by striking “19.3 cents” in subparagraph (A)(ii) and inserting “24.1 cents”.
+  - **(2)** *Aviation gasoline* Clause (ii) of section 4081(a)(2)(A) of such Code is amended by striking “19.3 cents” and inserting “24.1 cents”.
   - **(3)** *Fuel removed directly into fuel tank of airplane used in noncommercial aviation* Subparagraph (C) of section 4081(a)(2) of such Code is amended to read as follows:
     > - **(C)** *Taxes imposed on fuel used in commercial aviation* In the case of aviation-grade kerosene which is removed from any refinery or terminal directly into the fuel tank of an aircraft for use in commercial aviation by a person registered for such use under section 4101, the rate of tax under subparagraph (A)(iv) shall be 4.3 cents per gallon.
 
@@ -96,17 +96,17 @@ This Act may be cited as the “Airport and Airway Trust Fund Financing Act of 2
     >   - **(B)** Any amounts credited to the Airport and Airway Trust Fund under section 9602(b) with respect to amounts described in this paragraph.
 
 - **(g)** *Effective date*
-  - **(1)** *Modifications* Except as provided in paragraph (2), the amendments made by this section shall apply to fuels removed, entered, or sold after September 30, 2007.
+  - **(1)** *Modifications* Except as provided in paragraph (2), the amendments made by this section shall apply to fuels removed, entered, or sold after December 31, 2007.
   - **(2)** *Extensions* The amendments made by subsections (b) and (f)(1) shall take effect on the date of the enactment of this Act.
 - **(h)** *Floor stocks tax*
-  - **(1)** *Imposition of tax* In the case of aviation fuel which is held on October 1, 2007, by any person, there is hereby imposed a floor stocks tax on aviation fuel equal to—
+  - **(1)** *Imposition of tax* In the case of aviation fuel which is held on January 1, 2008, by any person, there is hereby imposed a floor stocks tax on aviation fuel equal to—
     - **(A)** the tax which would have been imposed before such date on such fuel had the amendments made by this section been in effect at all times before such date, reduced by
     - **(B)** the sum of—
       - **(i)** the tax imposed before such date on such fuel under section 4081 of the Internal Revenue Code of 1986, as in effect on such date, and
       - **(ii)** in the case of kerosene held exclusively for such person’s own use, the amount which such person would (but for this clause) reasonably expect (as of such date) to be paid as a refund under section 6427(l) of such Code with respect to such kerosene.
   - **(2)** *Liability for tax and method of payment*
-    - **(A)** *Liability for tax* A person holding aviation fuel on October 1, 2007, shall be liable for such tax.
-    - **(B)** *Time and method of payment* The tax imposed by paragraph (1) shall be paid on January 31, 2008, and in such manner as the Secretary of the Treasury shall prescribe.
+    - **(A)** *Liability for tax* A person holding aviation fuel on January 1, 2008, shall be liable for such tax.
+    - **(B)** *Time and method of payment* The tax imposed by paragraph (1) shall be paid on April 30, 2008, and in such manner as the Secretary of the Treasury shall prescribe.
   - **(3)** *Transfer of floor stock tax revenues to trust funds* For purposes of determining the amount transferred to the Airport and Airway Trust Fund, the tax imposed by this subsection shall be treated as imposed by the provision of section 4081 of the Internal Revenue Code of 1986 which applies with respect to the aviation fuel involved.
   - **(4)** *Definitions* For purposes of this subsection—
     - **(A)** *Aviation fuel* The term aviation fuel means aviation-grade kerosene and aviation gasoline, as such terms are used within the meaning of section 4081 of the Internal Revenue Code of 1986.
@@ -114,7 +114,7 @@ This Act may be cited as the “Airport and Airway Trust Fund Financing Act of 2
     - **(C)** *Secretary* The term Secretary means the Secretary of the Treasury or the Secretary’s delegate.
   - **(5)** *Exception for exempt uses* The tax imposed by paragraph (1) shall not apply to any aviation fuel held by any person exclusively for any use to the extent a credit or refund of the tax is allowable under the Internal Revenue Code of 1986 for such use.
   - **(6)** *Exception for certain amounts of fuel*
-    - **(A)** *In general* No tax shall be imposed by paragraph (1) on any aviation fuel held on October 1, 2007, by any person if the aggregate amount of such aviation fuel held by such person on such date does not exceed 2,000 gallons. The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this subparagraph.
+    - **(A)** *In general* No tax shall be imposed by paragraph (1) on any aviation fuel held on January 1, 2008, by any person if the aggregate amount of such aviation fuel held by such person on such date does not exceed 2,000 gallons. The preceding sentence shall apply only if such person submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this subparagraph.
     - **(B)** *Exempt fuel* For purposes of subparagraph (A), there shall not be taken into account any aviation fuel held by any person which is exempt from the tax imposed by paragraph (1) by reason of paragraph (6).
     - **(C)** *Controlled groups* For purposes of this subsection—
       - **(i)** *Corporations*
