@@ -43,107 +43,113 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >
     > ## § 102. Definitions
     >
-    > -  In this title, the following definitions shall apply:
-    >   - **(1)** *Act of terrorism*
-    >     - **(A)** *Certification* The term act of terrorism means any act that is certified by the Secretary, in concurrence with the Secretary of State, the Secretary of Homeland Security, and the Attorney General of the United States—
-    >       - **(i)** to be an act of terrorism;
-    >       - **(ii)** to be a violent act or an act that is dangerous to—
-    >         - **(I)** human life;
-    >         - **(II)** property; or
-    >         - **(III)** infrastructure;
-    >       - **(iii)** to have resulted in damage within the United States, or outside of the United States in the case of—
-    >         - **(I)** an air carrier or vessel described in paragraph (9)(B); or
-    >         - **(II)** the premises of a United States mission; and
-    >       - **(iv)** to have been committed by an individual or individuals as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
-    >     - **(B)** *Limitation* No act shall be certified by the Secretary as an act of terrorism if—
-    >       - **(i)** the act is committed as part of the course of a war declared by the Congress, except that this clause shall not apply with respect to any coverage for workers' compensation; or
-    >       - **(ii)** property and casualty insurance and group life insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000.
-    >     - **(C)** *Certification of act of NBCR terrorism* Upon certification of an act of terrorism, the Secretary, in concurrence with the Secretary of State, the Secretary of Homeland Security, and the Attorney General of the United States, shall determine whether the act of terrorism meets the definition of NBCR terrorism in this section. If such determination is that the act does meet such definition, the Secretary shall further certify such act of terrorism as an act of NBCR terrorism.
-    >     - **(D)** *Determinations final* Any certification of, or determination not to certify, an act as an act of terrorism or as an act of NBCR terrorism under this paragraph shall be final, and shall not be subject to judicial review.
-    >     - **(E)** *Nondelegation* The Secretary may not delegate or designate to any other officer, employee, or person, any determination under this paragraph of whether, during the effective period of the Program, an act of terrorism, including an act of NBCR terrorism, has occurred.
-    >   - **(2)** *Affiliate* The term affiliate means, with respect to an insurer, any entity that controls, is controlled by, or is under common control with the insurer.
-    >   - **(3)** *Amount at risk* The term “amount at risk” means face amount less statutory policy reserves for group life insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraph (A) of paragraph (9).
-    >   - **(4)** *Control* An entity has “control” over another entity, if—
-    >     - **(A)** the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other entity;
-    >     - **(B)** the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
-    >     - **(C)** the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity; except that for purposes of any proceeding under this subparagraph, there shall be a presumption that any entity which directly or indirectly owns, controls, or has power to vote less than 5 percent of any class of voting securities of another entity does not have control over that entity.
-    >   - **(5)** *Covered lines* The term “covered lines” means property and casualty insurance and group life insurance, as defined in this section.
-    >   - **(6)** *Direct earned premium* The term direct earned premium means a direct earned premium for property and casualty insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraph (A) of paragraph (9).
-    >   - **(7)** *Excess insured loss* The term “excess insured loss” means, with respect to a Program Year, any portion of the amount of insured losses during such Program Year that exceeds the cap on annual liability under section 103(e)(2)(A).
-    >   - **(8)** *Group life insurance* The term “group life insurance” means an insurance contract that provides life insurance coverage, including term life insurance coverage, universal life insurance coverage, variable universal life insurance coverage, and accidental death coverage, or a combination thereof, for a number of individuals under a single contract, on the basis of a group selection of risks, but does not include “Corporate Owned Life Insurance” or “Business Owned Life Insurance,” each as defined under the Internal Revenue Code of 1986, or any similar product, or group life reinsurance or retrocessional reinsurance.
-    >   - **(9)** *Insured loss*
-    >     - **(A)** *In general* Except as provided in subparagraph (B), the term insured loss means any loss resulting from an act of terrorism (including an act of war, in the case of workers' compensation) that is covered by primary or excess property and casualty insurance, or group life insurance to the extent of the amount at risk, issued by an insurer, if such loss—
-    >       - **(i)** occurs within the United States; or
-    >       - **(ii)** occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
-    >     - **(B)** *Limitation for group life insurance* Such term shall not include any losses of an insurer resulting from coverage of any single certificate holder under any group life insurance coverages of the insurer to the extent such losses are not compensated under the Program by reason of section 103(e)(1)(D).
-    >   - **(10)** *Insurer* The term insurer means any entity, including any affiliate thereof—
-    >     - **(A)** that is—
-    >       - **(i)** licensed or admitted to engage in the business of providing primary or excess insurance, or group life insurance, in any State;
-    >       - **(ii)** not licensed or admitted as described in clause (i), if it is an eligible surplus line carrier listed on the Quarterly Listing of Alien Insurers of the NAIC, or any successor thereto;
-    >       - **(iii)** approved for the purpose of offering property and casualty insurance by a Federal agency in connection with maritime, energy, or aviation activity;
-    >       - **(iv)** a State residual market insurance entity or State workers' compensation fund; or
-    >       - **(v)** any other entity described in section 103(f), to the extent provided in the rules of the Secretary issued under section 103(f);
-    >     - **(B)** that receives direct earned premiums for any type of commercial property and casualty insurance coverage, or, in the case of group life insurance, that receives direct premiums, other than in the case of entities described in sections 103(d) and 103(f); and
-    >     - **(C)** that meets any other criteria that the Secretary may reasonably prescribe.
-    >   - **(11)** *Insurer deductible* The term insurer deductible means—
-    >     - **(A)** for the Transition Period, the value of an insurer's direct earned premiums over the calendar year immediately preceding the date of enactment of this Act, multiplied by 1 percent;
-    >     - **(B)** for Program Year 1, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 1, multiplied by 7 percent;
-    >     - **(C)** for Program Year 2, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 2, multiplied by 10 percent;
-    >     - **(D)** for Program Year 3, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 3, multiplied by 15 percent;
-    >     - **(E)** for Program Year 4, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 4, multiplied by 17.5 percent;
-    >     - **(F)** for Program Year 5, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 5, multiplied by 20 percent;
-    >     - **(G)** for each additional Program Year—
-    >       - **(i)** with respect to property and casualty insurance, the value of an insurer’s direct earned premiums over the calendar year immediately preceding such Program Year, multiplied by 20 percent; and
-    >       - **(ii)** with respect to group life insurance, the value of an insurer’s amount at risk over the calendar year immediately preceding such Program Year, multiplied by 0.0351 percent;
-    >     - **(H)** notwithstanding subparagraphs (A) through (G), for the Transition Period or any Program Year, if an insurer has not had a full year of operations during the calendar year immediately preceding such Period or Program Year, such portion of the direct earned premiums with respect to property and casualty insurance, and such portion of the amounts at risk with respect to group life insurance, of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums and amounts at risk;
-    >     - **(I)** notwithstanding subparagraphs (A) through (H) and (J), in the case of any act of NBCR terrorism, for any additional Program Year—
-    >       - **(i)** with respect to property and casualty insurance, the value of an insurer’s direct earned premiums over the calendar year immediately preceding such Program Year, multiplied by a percentage, which—
-    >         - **(I)** for the second additional Program Year, shall be 3.5 percent; and
-    >         - **(II)** for each succeeding Program Year thereafter, shall be 50 basis points greater than the percentage applicable to the preceding additional Program Year; and
-    >       - **(ii)** with respect to group life insurance, the value of an insurer’s amount at risk over the calendar year immediately preceding such Program Year, multiplied by a percentage, which—
-    >         - **(I)** for the first additional Program Year, shall be 0.00614 percent; and
-    >         - **(II)** for each succeeding Program Year thereafter, shall be 0.088 basis point greater than the percentage applicable to the preceding additional Program Year; and
-    >     - **(J)** notwithstanding subparagraph (G)(i), if aggregate industry insured losses resulting from a certified act of terrorism exceed $1,000,000,000, for any insurer that sustains insured losses resulting from such act of terrorism, the value of such insurer’s direct earned premiums over the calendar year immediately preceding the Program Year, multiplied by a percentage, which—
-    >       - **(i)** for the first additional Program Year shall be 5 percent;
-    >       - **(ii)** for each additional Program Year thereafter, shall be 50 basis points greater than the percentage applicable to the preceding additional Program Year, except that if an act of terrorism occurs during any additional Program Year that results in aggregate industry insured losses exceeding $1,000,000,000, the percentage for the succeeding additional Program Year shall be 5 percent and the increase under this clause shall apply to additional Program Years thereafter;
-    >   - **(12)** *NAIC* The term NAIC means the National Association of Insurance Commissioners.
-    >   - **(13)** *NBCR terrorism* The term “NBCR terrorism” means an act of terrorism that involves nuclear, biological, chemical, or radiological reactions, releases, or contaminations, to the extent any insured losses result from any such reactions, releases, or contaminations.
-    >   - **(14)** *Person* The term person means any individual, business or nonprofit entity (including those organized in the form of a partnership, limited liability company, corporation, or association), trust or estate, or a State or political subdivision of a State or other governmental unit.
-    >   - **(15)** *Program* The term Program means the Terrorism Insurance Program established by this title.
-    >   - **(16)** *Program years*
-    >     - **(A)** *Transition period* The term Transition Period means the period beginning on the date of enactment of this Act and ending on December 31, 2002.
-    >     - **(B)** *Program year 1* The term Program Year 1 means the period beginning on January 1, 2003 and ending on December 31, 2003.
-    >     - **(C)** *Program year 2* The term Program Year 2 means the period beginning on January 1, 2004 and ending on December 31, 2004.
-    >     - **(D)** *Program year 3* The term Program Year 3 means the period beginning on January 1, 2005 and ending on December 31, 2005.
-    >     - **(E)** *Program year 4* The term Program Year 4 means the period beginning on January 1, 2006 and ending on December 31, 2006.
-    >     - **(F)** *Program year 5* The term Program Year 5 means the period beginning on January 1, 2007 and ending on December 31, 2007.
-    >     - **(G)** *Additional program year* The term “additional Program Year” means any additional one-year period after Program Year 5 during which the Program is in effect, which period shall begin on January 1 and end on December 31 of the same calendar year.
-    >   - **(17)** *Property and casualty insurance* The term property and casualty insurance—
-    >     - **(A)** means commercial lines of property and casualty insurance, including excess insurance, workers' compensation insurance, and directors and officers liability insurance; and
-    >     - **(B)** does not include—
-    >       - **(i)** Federal crop insurance issued or reinsured under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), or any other type of crop or livestock insurance that is privately issued or reinsured;
-    >       - **(ii)** private mortgage insurance (as that term is defined in section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901)) or title insurance;
-    >       - **(iii)** financial guaranty insurance issued by monoline financial guaranty insurance corporations;
-    >       - **(iv)** insurance for medical malpractice;
-    >       - **(v)** health or life insurance, including group life insurance;
-    >       - **(vi)** flood insurance provided under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.);
-    >       - **(vii)** reinsurance or retrocessional reinsurance;
-    >       - **(viii)** commercial automobile insurance;
-    >       - **(ix)** burglary and theft insurance;
-    >       - **(x)** surety insurance; or
-    >       - **(xi)** professional liability insurance.
-    >   - **(18)** *Secretary* The term Secretary means the Secretary of the Treasury.
-    >   - **(19)** *State* The term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, each of the United States Virgin Islands, and any territory or possession of the United States.
-    >   - **(20)** *United states* The term United States means the several States, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 (18 U.S.C. 2280, 2281).
-    >   - **(21)** *Rule of construction for dates* With respect to any reference to a date in this title, such day shall be construed—
-    >     - **(A)** to begin at 12:01 a.m. on that date; and
-    >     - **(B)** to end at midnight on that date.
+    > In this title, the following definitions shall apply:
+    >
+    > - **(1)** *Act of terrorism*
+    >   - **(A)** *Certification* The term act of terrorism means any act that is certified by the Secretary, in concurrence with the Secretary of State, the Secretary of Homeland Security, and the Attorney General of the United States—
+    >     - **(i)** to be an act of terrorism;
+    >     - **(ii)** to be a violent act or an act that is dangerous to—
+    >       - **(I)** human life;
+    >       - **(II)** property; or
+    >       - **(III)** infrastructure;
+    >     - **(iii)** to have resulted in damage within the United States, or outside of the United States in the case of—
+    >       - **(I)** an air carrier or vessel described in paragraph (9)(B); or
+    >       - **(II)** the premises of a United States mission; and
+    >     - **(iv)** to have been committed by an individual or individuals as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
+    >   - **(B)** *Limitation* No act shall be certified by the Secretary as an act of terrorism if—
+    >     - **(i)** the act is committed as part of the course of a war declared by the Congress, except that this clause shall not apply with respect to any coverage for workers' compensation; or
+    >     - **(ii)** property and casualty insurance and group life insurance losses resulting from the act, in the aggregate, do not exceed $5,000,000.
+    >   - **(C)** *Certification of act of NBCR terrorism* Where a certified act of terrorism is carried out by means of a nuclear, biological, chemical, or radiological weapon or similar instrumentality, the Secretary shall further certify such act of terrorism as an act of NBCR terrorism. If a certified act of terrorism involves any other weapon or instrumentality, the Secretary, in concurrence with the Secretary of State, the Secretary of Homeland Security, and the Attorney General of the United States, shall determine whether the act of terrorism meets the definition of NBCR terrorism in this section. If such determination is that the act does meet such definition, the Secretary shall further certify that such act as an act of NBCR terrorism. Nothing in this subparagraph shall prohibit the Secretary from determining that a single act of terrorism resulted in both NBCR and non-NBCR insured losses.
+    >   - **(D)** *Determinations final* Any certification of, or determination not to certify, an act as an act of terrorism or as an act of NBCR terrorism under this paragraph shall be final, and shall not be subject to judicial review.
+    >   - **(E)** *Nondelegation* The Secretary may not delegate or designate to any other officer, employee, or person, any determination under this paragraph of whether, during the effective period of the Program, an act of terrorism, including an act of NBCR terrorism, has occurred.
+    >   - **(F)** *Compensation subject to further congressional action* Notwithstanding any certification of an act under this paragraph as an act of terrorism or an act of NBCR terrorism, Federal compensation under the Program shall be subject to the provisions of section 103(h).
+    >   - **(G)** *Submission of certification under this paragraph* Upon any certification under subparagraph (A), the Secretary shall submit such certification to the Congress.
+    > - **(2)** *Affiliate* The term affiliate means, with respect to an insurer, any entity that controls, is controlled by, or is under common control with the insurer.
+    > - **(3)** *Amount at risk* The term “amount at risk” means face amount less statutory policy reserves for group life insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraph (A) of paragraph (9).
+    > - **(4)** *Control* An entity has “control” over another entity, if—
+    >   - **(A)** the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has power to vote 25 percent or more of any class of voting securities of the other entity;
+    >   - **(B)** the entity controls in any manner the election of a majority of the directors or trustees of the other entity; or
+    >   - **(C)** the Secretary determines, after notice and opportunity for hearing, that the entity directly or indirectly exercises a controlling influence over the management or policies of the other entity; except that for purposes of any proceeding under this subparagraph, there shall be a presumption that any entity which directly or indirectly owns, controls, or has power to vote less than 5 percent of any class of voting securities of another entity does not have control over that entity.
+    > - **(5)** *Covered lines* The term “covered lines” means property and casualty insurance and group life insurance, as defined in this section.
+    > - **(6)** *Direct earned premium* The term direct earned premium means a direct earned premium for property and casualty insurance issued by any insurer for insurance against losses occurring at the locations described in subparagraph (A) of paragraph (9).
+    > - **(7)** *Excess insured loss* The term “excess insured loss” means, with respect to a Program Year, any portion of the amount of insured losses during such Program Year that exceeds the cap on annual liability under section 103(e)(2)(A).
+    > - **(8)** *Group life insurance* The term “group life insurance” means an insurance contract that provides life insurance coverage, including term life insurance coverage, universal life insurance coverage, variable universal life insurance coverage, and accidental death coverage, or a combination thereof, for a number of individuals under a single contract, on the basis of a group selection of risks, but does not include “Corporate Owned Life Insurance” or “Business Owned Life Insurance,” each as defined under the Internal Revenue Code of 1986, or any similar product, or group life reinsurance or retrocessional reinsurance.
+    > - **(9)** *Insured loss*
+    >   - **(A)** *In general* Except as provided in subparagraph (B), the term insured loss means any loss resulting from an act of terrorism (including an act of war, in the case of workers' compensation) that is covered by primary or excess property and casualty insurance, or group life insurance to the extent of the amount at risk, issued by an insurer, if such loss—
+    >     - **(i)** occurs within the United States; or
+    >     - **(ii)** occurs to an air carrier (as defined in section 40102 of title 49, United States Code), to a United States flag vessel (or a vessel based principally in the United States, on which United States income tax is paid and whose insurance coverage is subject to regulation in the United States), regardless of where the loss occurs, or at the premises of any United States mission.
+    >   - **(B)** *Limitation for group life insurance* Such term shall not include any losses of an insurer resulting from coverage of any single certificate holder under any group life insurance coverages of the insurer to the extent such losses are not compensated under the Program by reason of section 103(e)(1)(D).
+    > - **(10)** *Insurer* The term insurer means any entity, including any affiliate thereof—
+    >   - **(A)** that is—
+    >     - **(i)** licensed or admitted to engage in the business of providing primary or excess insurance, or group life insurance, in any State;
+    >     - **(ii)** not licensed or admitted as described in clause (i), if it is an eligible surplus line carrier listed on the Quarterly Listing of Alien Insurers of the NAIC, or any successor thereto;
+    >     - **(iii)** approved for the purpose of offering property and casualty insurance by a Federal agency in connection with maritime, energy, or aviation activity;
+    >     - **(iv)** a State residual market insurance entity or State workers' compensation fund; or
+    >     - **(v)** any other entity described in section 103(f), to the extent provided in the rules of the Secretary issued under section 103(f);
+    >   - **(B)** that receives direct earned premiums for any type of commercial property and casualty insurance coverage, or, in the case of group life insurance, that receives direct premiums, other than in the case of entities described in sections 103(d) and 103(f); and
+    >   - **(C)** that meets any other criteria that the Secretary may reasonably prescribe.
+    > - **(11)** *Insurer deductible* The term insurer deductible means—
+    >   - **(A)** for the Transition Period, the value of an insurer's direct earned premiums over the calendar year immediately preceding the date of enactment of this Act, multiplied by 1 percent;
+    >   - **(B)** for Program Year 1, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 1, multiplied by 7 percent;
+    >   - **(C)** for Program Year 2, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 2, multiplied by 10 percent;
+    >   - **(D)** for Program Year 3, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 3, multiplied by 15 percent;
+    >   - **(E)** for Program Year 4, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 4, multiplied by 17.5 percent;
+    >   - **(F)** for Program Year 5, the value of an insurer's direct earned premiums over the calendar year immediately preceding Program Year 5, multiplied by 20 percent;
+    >   - **(G)** for each additional Program Year—
+    >     - **(i)** with respect to property and casualty insurance, the value of an insurer’s direct earned premiums over the calendar year immediately preceding such Program Year, multiplied by 20 percent; and
+    >     - **(ii)** with respect to group life insurance, the value of an insurer’s amount at risk over the calendar year immediately preceding such Program Year, multiplied by 0.0351 percent;
+    >   - **(H)** notwithstanding subparagraphs (A) through (G), for the Transition Period or any Program Year, if an insurer has not had a full year of operations during the calendar year immediately preceding such Period or Program Year, such portion of the direct earned premiums with respect to property and casualty insurance, and such portion of the amounts at risk with respect to group life insurance, of the insurer as the Secretary determines appropriate, subject to appropriate methodologies established by the Secretary for measuring such direct earned premiums and amounts at risk;
+    >   - **(I)** notwithstanding subparagraphs (A) through (H) and (J), in the case of any act of NBCR terrorism, for any additional Program Year—
+    >     - **(i)** with respect to property and casualty insurance, the value of an insurer’s direct earned premiums over the calendar year immediately preceding such Program Year, multiplied by a percentage, which—
+    >       - **(I)** for the second additional Program Year, shall be 3.5 percent; and
+    >       - **(II)** for each succeeding Program Year thereafter, shall be 50 basis points greater than the percentage applicable to the preceding additional Program Year; and
+    >     - **(ii)** with respect to group life insurance, the value of an insurer’s amount at risk over the calendar year immediately preceding such Program Year, multiplied by a percentage, which—
+    >       - **(I)** for the first additional Program Year, shall be 0.00614 percent; and
+    >       - **(II)** for each succeeding Program Year thereafter, shall be 0.088 basis point greater than the percentage applicable to the preceding additional Program Year;
+    >   - **(J)** notwithstanding subparagraph (G)(i), if aggregate industry insured losses resulting from a certified act of terrorism exceed $1,000,000,000, for any insurer that sustains insured losses resulting from such act of terrorism, the value of such insurer’s direct earned premiums over the calendar year immediately preceding the Program Year, multiplied by a percentage, which—
+    >     - **(i)** for the first additional Program Year shall be 5 percent; and
+    >     - **(ii)** for each additional Program Year thereafter, shall be 50 basis points greater than the percentage applicable to the preceding additional Program Year, except that if an act of terrorism occurs during any additional Program Year that results in aggregate industry insured losses exceeding $1,000,000,000, the percentage for the succeeding additional Program Year shall be 5 percent and the increase under this clause shall apply to additional Program Years thereafter;
+    >   - **(K)** for the fifth additional Program Year and any Additional Program year thereafter, notwithstanding subparagraph (I)(i), if aggregate industry insured losses resulting from a certified act of NBCR terrorism exceed $1,000,000,000, for any insurer that sustains insured losses resulting from such act of NBCR terrorism, the value of such insurer’s direct earned premiums over the calendar year immediately preceding the Program Year, multiplied by a percentage, which—
+    >     - **(i)** for the fifth additional Program Year shall be 5 percent; and
+    >     - **(ii)** for each additional Program Year thereafter, shall be 50 basis points greater than the percentage applicable to the preceding additional Program Year, except that if an act of NBCR terrorism occurs during the fifth additional Program Year or any additional Program Year thereafter that results in aggregate industry insured losses exceeding $1,000,000,000, the percentage for the succeeding additional Program Year shall be 5 percent and the increase under this clause shall apply to additional Program Years thereafter;
+    > - **(12)** *NAIC* The term NAIC means the National Association of Insurance Commissioners.
+    > - **(13)** *NBCR terrorism* The term “NBCR terrorism” means an act of terrorism that involves or triggers nuclear, biological, chemical, or radiological reactions, releases, or contaminations, but only if any aggregate industry insured losses that result from such reactions, releases, or contaminations exceed the amount set forth in paragraph (1)(B)(ii).
+    > - **(14)** *Person* The term person means any individual, business or nonprofit entity (including those organized in the form of a partnership, limited liability company, corporation, or association), trust or estate, or a State or political subdivision of a State or other governmental unit.
+    > - **(15)** *Program* The term Program means the Terrorism Insurance Program established by this title.
+    > - **(16)** *Program years*
+    >   - **(A)** *Transition period* The term Transition Period means the period beginning on the date of enactment of this Act and ending on December 31, 2002.
+    >   - **(B)** *Program year 1* The term Program Year 1 means the period beginning on January 1, 2003 and ending on December 31, 2003.
+    >   - **(C)** *Program year 2* The term Program Year 2 means the period beginning on January 1, 2004 and ending on December 31, 2004.
+    >   - **(D)** *Program year 3* The term Program Year 3 means the period beginning on January 1, 2005 and ending on December 31, 2005.
+    >   - **(E)** *Program year 4* The term Program Year 4 means the period beginning on January 1, 2006 and ending on December 31, 2006.
+    >   - **(F)** *Program year 5* The term Program Year 5 means the period beginning on January 1, 2007 and ending on December 31, 2007.
+    >   - **(G)** *Additional program year* The term “additional Program Year” means any additional one-year period after Program Year 5 during which the Program is in effect, which period shall begin on January 1 and end on December 31 of the same calendar year.
+    > - **(17)** *Property and casualty insurance* The term property and casualty insurance—
+    >   - **(A)** means commercial lines of property and casualty insurance, including excess insurance, workers' compensation insurance, and directors and officers liability insurance; and
+    >   - **(B)** does not include—
+    >     - **(i)** Federal crop insurance issued or reinsured under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), or any other type of crop or livestock insurance that is privately issued or reinsured;
+    >     - **(ii)** private mortgage insurance (as that term is defined in section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901)) or title insurance;
+    >     - **(iii)** financial guaranty insurance issued by monoline financial guaranty insurance corporations;
+    >     - **(iv)** insurance for medical malpractice;
+    >     - **(v)** health or life insurance, including group life insurance;
+    >     - **(vi)** flood insurance provided under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.);
+    >     - **(vii)** reinsurance or retrocessional reinsurance;
+    >     - **(viii)** commercial automobile insurance;
+    >     - **(ix)** burglary and theft insurance;
+    >     - **(x)** surety insurance; or
+    >     - **(xi)** professional liability insurance.
+    > - **(18)** *Secretary* The term Secretary means the Secretary of the Treasury.
+    > - **(19)** *State* The term State means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, each of the United States Virgin Islands, and any territory or possession of the United States.
+    > - **(20)** *United states* The term United States means the several States, and includes the territorial sea and the continental shelf of the United States, as those terms are defined in the Violent Crime Control and Law Enforcement Act of 1994 (18 U.S.C. 2280, 2281).
+    > - **(21)** *Rule of construction for dates* With respect to any reference to a date in this title, such day shall be construed—
+    >   - **(A)** to begin at 12:01 a.m. on that date; and
+    >   - **(B)** to end at midnight on that date.
     >
     > ## § 103. Terrorism Insurance Program
     >
     > - **(a)** *Establishment of Program*
     >   - **(1)** *In general* There is established in the Department of the Treasury the Terrorism Insurance Program.
-    >   - **(2)** *Authority of the secretary* Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
+    >   - **(2)** *Authority of the secretary* Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and, subject only to subsection (h)(1), shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
     >   - **(3)** *Mandatory participation* Each entity that meets the definition of an insurer under this title shall participate in the Program.
     >   - **(4)** *NBCR exemption for certain insurers* Notwithstanding the requirements of paragraph (3):
     >     - **(A)** *Eligibility* Upon request, the Secretary may provide an exemption from the requirements of subparagraph (B) of subsection (c)(1) in the Program to an entity that otherwise meets the definition of an insurer under this title if—
@@ -159,13 +165,14 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >       - **(i)** *In general* Any exemption granted to an insurer by the Secretary under this paragraph shall have a duration of not longer than 2 years.
     >       - **(ii)** *Extension* Notwithstanding clause (i), the Secretary may, upon application by an insurer granted an exemption under this paragraph, extend such exemption for additional periods of not longer than 2 years.
     > - **(b)** *Conditions for Federal Payments* No payment may be made by the Secretary under this section with respect to an insured loss that is covered by an insurer, unless—
-    >   - **(1)** the person that suffers the insured loss, or a person acting on behalf of that person, files a claim with the insurer;
-    >   - **(2)** the insurer provides clear and conspicuous disclosure to the policyholder of the premium charged for insured losses covered by the Program (including the additional premium, if any, charged for the coverage for insured losses resulting from acts of NBCR terrorism as made available pursuant to subsection (c)(1)(B)) and the Federal share of compensation for insured losses under the Program—
+    >   - **(1)** there is enacted a joint resolution for payment of Federal compensation with respect to the act of terrorism that resulted in the insured loss;
+    >   - **(2)** the person that suffers the insured loss, or a person acting on behalf of that person, files a claim with the insurer;
+    >   - **(3)** the insurer provides clear and conspicuous disclosure to the policyholder of the premium charged for insured losses covered by the Program (including the additional premium, if any, charged for the coverage for insured losses resulting from acts of NBCR terrorism as made available pursuant to subsection (c)(1)(B)) and the Federal share of compensation for insured losses under the Program—
     >     - **(A)** in the case of any policy that is issued before the date of enactment of this Act, not later than 90 days after that date of enactment;
     >     - **(B)** in the case of any policy that is issued within 90 days of the date of enactment of this Act, at the time of offer, purchase, and renewal of the policy; and
     >     - **(C)** in the case of any policy that is issued more than 90 days after the date of enactment of this Act, on a separate line item in the policy, at the time of offer, purchase, and renewal of the policy;
-    >   - **(3)** the insurer processes the claim for the insured loss in accordance with appropriate business practices, and any reasonable procedures that the Secretary may prescribe; and
-    >   - **(4)** the insurer submits to the Secretary, in accordance with such reasonable procedures as the Secretary may establish—
+    >   - **(4)** the insurer processes the claim for the insured loss in accordance with appropriate business practices, and any reasonable procedures that the Secretary may prescribe; and
+    >   - **(5)** the insurer submits to the Secretary, in accordance with such reasonable procedures as the Secretary may establish—
     >     - **(A)** a claim for payment of the Federal share of compensation for insured losses under the Program;
     >     - **(B)** written certification—
     >       - **(i)** of the underlying claim; and
@@ -186,8 +193,8 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >       - **(iii)**
     >         - **(I)** that the insurer has specifically designated in the terms of the life insurance policy at the inception of the policy or at renewal, as applicable; and
     >         - **(II)** with respect to which the insurer has made a good-faith determination that—
-    >           - **(aa)** a serious unlawful situation exists which is ongoing; and
-    >           - **(bb)** the credibility of information by which the insurer can verify the death of the insured person is compromised; and
+    >           - **(aa)** a serious fraudulent situation exists which is ongoing; and
+    >           - **(bb)** the credibility of information by which the insurer can verify the death of the insured person is substantially compromised; and
     >     - **(B)** in the case of any limitation of coverage, such limitation is specifically stated in the terms of the life insurance policy at the inception of the policy or at renewal, as applicable.
     > - **(d)** *State Residual Market Insurance Entities*
     >   - **(1)** *In general* The Secretary shall issue regulations, as soon as practicable after the date of enactment of this Act, that apply the provisions of this title to State residual market insurance entities and State workers' compensation funds.
@@ -197,13 +204,13 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >   - **(3)** *Treatment of participation in certain entities* Any insurer that participates in sharing profits and losses of a State residual market insurance entity shall include in its calculations of premiums any premiums distributed to the insurer by the State residual market insurance entity.
     > - **(e)** *Insured Loss Shared Compensation*
     >   - **(1)** *Federal share*
-    >     - **(A)** *Conventional terrorism* Except as provided in subparagraph (B), the Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer during any additional Program Year shall be equal to the sum of—
+    >     - **(A)** *Conventional terrorism* Except as provided in subparagraph (B), the Federal share of compensation under the Program to be paid by the Secretary, subject to subsection (h)(1), for insured losses of an insurer during any additional Program Year shall be equal to the sum of—
     >       - **(i)** 85 percent of that portion of the amount of such insured losses that—
-    >         - **(I)** exceeds the applicable insurer deductible required to be paid during such Program Year; and
+    >         - **(I)** exceed the applicable insurer deductible required to be paid during such Program Year; and
     >         - **(II)** based upon pro rata determinations pursuant to paragraph (2)(B), does not result in aggregate industry insured losses during such Program Year exceeding $100,000,000,000; and
     >       - **(ii)** 100 percent of the insured losses of the insurer that, based upon pro rata determinations pursuant to paragraph (2)(B), result in aggregate industry insured losses during such Program Year exceeding $100,000,000,000, up to the limit under paragraph (2)(A).
     >     - **(B)** *NBCR terrorism*
-    >       - **(i)** *Amount of compensation* The Federal share of compensation under the Program to be paid by the Secretary for insured losses of an insurer resulting from NBCR terrorism during any additional Program Year shall be equal to the sum of—
+    >       - **(i)** *Amount of compensation* The Federal share of compensation under the Program to be paid by the Secretary, subject to subsection (h)(1), for insured losses of an insurer resulting from NBCR terrorism during any additional Program Year shall be equal to the sum of—
     >         - **(I)** the amount of qualified NBCR losses (as such term is defined in clause (ii)) of the insurer, multiplied by a percentage based on the aggregate industry qualified NBCR losses for the Program Year, which percentage shall be—
     >           - **(aa)** 85 percent of such aggregate industry qualified NBCR losses of less than $10,000,000,000;
     >           - **(bb)** 87.5 percent of such aggregate industry qualified NBCR losses between $10,000,000,000 and $20,000,000,000;
@@ -211,11 +218,11 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >           - **(dd)** 92.5 percent of such aggregate industry qualified NBCR losses of between $40,000,000,000 and $60,000,000,000; and
     >           - **(ee)** 95 percent of such aggregate industry qualified NBCR losses of more than $60,000,000,000;
     >         - **(II)** 100 percent of the insured losses of the insurer resulting from NBCR terrorism that, based upon pro rata determinations pursuant to paragraph (2)(B), result in aggregate industry insured losses during such Program Year exceeding $100,000,000,000, up to the limit under paragraph (2)(A).
-    >       - **(ii)** *Qualified NBCR losses* For purposes of this subparagraph, the term “qualified NBCR losses” means, with respect to insured losses of an insurer resulting from NBCR terrorism during an additional Program Year, that portion of the amount of such insured losses that—
-    >         - **(I)** exceeds the applicable insurer deductible required to be paid during such Program Year; and
+    >       - **(ii)** *Qualified NBCR losses* For purposes of this subparagraph, the term “qualified NBCR losses” means, with respect to insured losses of an insurer resulting from NBCR terrorism during an additional Program Year, that portion of the amount of such insured losses that result from any such reactions, releases, or contaminations and that—
+    >         - **(I)** exceed the applicable insurer deductible required to be paid during such Program Year; and
     >         - **(II)** based upon pro rata determinations pursuant to paragraph (2)(B), does not result in aggregate industry insured losses during such Program Year exceeding $100,000,000,000.
-    >     - **(C)** *Program trigger* In the case of a certified act of terrorism occurring after March 31, 2006, no compensation shall be paid by the Secretary under subsection (a), unless the aggregate industry insured losses resulting from such certified act of terrorism exceed $50,000,000, except that if a certified act of terrorism occurs for which resulting aggregate industry insured losses exceed $1,000,000,000, the applicable amount for any subsequent certified act of terrorism shall be the amount specified in section 102(1)(B)(ii).
-    >     - **(D)** *Limitation on compensation for group life insurance* Notwithstanding any other provision of this Act, the Federal share of compensation under the Program paid by the Secretary for insured losses of an insurer resulting from coverage of any single certificate holder under any group life insurance coverages of the insurer may not during any additional Program Year exceed $1,000,000.
+    >     - **(C)** *Program trigger* In the case of a certified act of terrorism occurring after March 31, 2006, no compensation shall be paid, pursuant to subsection (h)(1), by the Secretary under subsection (a), unless the aggregate industry insured losses resulting from such certified act of terrorism exceed $50,000,000, except that if a certified act of terrorism occurs for which resulting aggregate industry insured losses exceed $1,000,000,000, the applicable amount for any subsequent certified act of terrorism shall be the amount specified in section 102(1)(B)(ii).
+    >     - **(D)** *Limitation on compensation for group life insurance* Notwithstanding any other provision of this Act, the Federal share of compensation under the Program paid, pursuant to subsection (h)(1), by the Secretary for insured losses of an insurer resulting from coverage of any single certificate holder under any group life insurance coverages of the insurer may not during any additional Program Year exceed $1,000,000.
     >     - **(E)** *Prohibition on duplicative compensation* The Federal share of compensation for insured losses under the Program shall be reduced by the amount of compensation provided by the Federal Government to any person under any other Federal program for those insured losses.
     >   - **(2)** *Cap on annual liability*
     >     - **(A)** *In general* Notwithstanding paragraph (1) or any other provision of Federal or State law, including any State workers’ compensation or other compulsory insurance law, if the aggregate amount of the Federal share of compensation to be paid to all insurers pursuant to paragraph (1) exceeds $100,000,000,000, during any additional Program Year (until such time as the Congress may act otherwise with respect to such losses)—
@@ -224,8 +231,12 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >     - **(B)** *Insurer share* For purposes of subparagraph (A), the Secretary shall determine the pro rata share of insured losses to be paid by each insurer that incurs insured losses under the Program.
     >     - **(C)** *Claims allocations* The Secretary shall, by regulation, provide for insurers to allocate claims payments for insured losses under applicable insurance policies in any case described in subparagraph (A). Such regulations shall include provisions for payment, for the purpose of addressing emergency needs of applicable individuals affected by an act of terrorism, of a portion of claims for insured losses promptly upon filing of such claims.
     >   - **(3)** *Limitation on insurer financial responsibility*
-    >     - **(A)** *Limitation* Notwithstanding any other provision of Federal or State law, including any State workers’ compensation or other compulsory insurance law, an insurer’s financial responsibility for insured losses from acts of terrorism shall be limited to its applicable insurer deductible and its applicable share of insured losses that exceed its applicable insurer deductible, subject to the requirements of paragraph (2).
-    >     - **(B)** *Federal reimbursement* Notwithstanding any other provision of Federal or State law, the Secretary shall—
+    >     - **(A)** *Limitation* Notwithstanding any other provision of Federal or State law, including any State workers' compensation or other compulsory insurance law, an insurer's financial responsibility for insured losses from acts of terrorism shall be limited as follows:
+    >       - **(i)** *Federal compensation not provided* In any case of an act of terrorism with respect to which there has not been enacted a joint resolution for payment of Federal compensation described in subsection (h)(2), an insurer’s financial responsibility for insured losses from such act of terrorism shall be limited to its applicable insurer deductible.
+    >       - **(ii)** *Federal compensation provided* In any case of an act of terrorism with respect to which there has been enacted a joint resolution for payment of Federal compensation described in subsection (h)(2), an insurer’s financial responsibility for insured losses from such act of terrorism shall be limited to—
+    >         - **(I)** its applicable insurer deductible; and
+    >         - **(II)** its applicable share of insured losses that exceed its applicable insurer deductible, subject to the requirements of paragraph (2).
+    >     - **(B)** *Federal reimbursement* In the case of any act of terrorism with respect to which there has been enacted a joint resolution for payment of Federal compensation described in subsection (h)(2) and notwithstanding any other provision of Federal or State law, the Secretary shall—
     >       - **(i)** reimburse insurers for any payment of excess insured losses made prior to publication of any notification pursuant to paragraph (4)(A);
     >       - **(ii)** reimburse insurers for any payment of excess insured losses occurring on or after the date of any notification pursuant to paragraph (4)(A), but only to the extent that—
     >         - **(I)** such payment is ordered by a court pursuant to subparagraph (C) of this paragraph or is directed by State law, notwithstanding this paragraph, or by Federal law;
@@ -238,6 +249,10 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >         - **(II)** the insurer has paid its applicable insurer deductible and its pro rata share of insured losses determined pursuant to paragraph (2)(B).
     >       - **(ii)** *Removal of State court actions* If the Secretary certifies that conditions set forth in subclauses (I) and (II) of clause (i) have been met, all pending State court actions that relate to or arise out of an insurer’s financial responsibility for insured losses from acts of terrorism under this paragraph shall be removed to a district court of the United States in accordance with subparagraph (D).
     >     - **(D)** *Venue* For each certification made by the Secretary pursuant to subparagraph (C)(i), not later than 90 days after the Secretary’s determination the Judicial Panel on Multidistrict Litigation shall designate one district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim relating to or arising out of an insurer’s financial responsibility for insured losses from acts of terrorism under this paragraph.
+    >     - **(E)** *Federal court jurisdiction and venue in cases of no Federal compensation* In the case of any act of terrorism with respect to which there has not been enacted a joint resolution for payment of Federal compensation described in subsection (h)(2)—
+    >       - **(i)** all claims relating to or arising out of an insurer's financial responsibility for insured losses from such act of terrorism shall be within the original and exclusive jurisdiction of the district courts of the United States, in accordance with the procedures established in clause (iii);
+    >       - **(ii)** all pending State court actions that relate to or arise out of an insurer's financial responsibility for insured losses from such act of terrorism shall be removed to a district court of the United States in accordance with clause (iii); and
+    >       - **(iii)** not later than 90 days after the Secretary's certification of such act of terrorism, the Judicial Panel on Multidistrict Litigation shall designate one district court or, if necessary, multiple district courts of the United States that shall have original and exclusive jurisdiction over all actions for any claim relating to or arising out of an insurer's financial responsibility for insured losses from such act of terrorism.
     >   - **(4)** *Notices regarding losses and annual liability cap*
     >     - **(A)** *Approaching cap* If the Secretary determines estimated or actual aggregate Federal compensation to be paid pursuant to paragraph (1) equals or exceeds $80,000,000,000 during any Program Year, the Secretary shall promptly provide notification in accordance with subparagraph (D)—
     >       - **(i)** of such estimated or actual aggregate Federal compensation to be paid;
@@ -255,7 +270,7 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     >       - **(i)** to the Congress, in writing; and
     >       - **(ii)** to insurers, by causing such notice to be published in the Federal Register.
     >     - **(E)** *Determinations* The Secretary shall make determinations regarding estimated and actual aggregate Federal compensation to be paid promptly after any act of terrorism as may be necessary to comply with this paragraph.
-    >     - **(F)** *Mandatory disclosure for insurance contracts* All policies for property and casualty insurance and group life insurance shall be deemed to contain a provision to the effect that no insurer that has met its applicable insurer deductible and its applicable share of insured losses that exceed its applicable insurer deductible but are not compensated pursuant to paragraph (1), shall be obligated to pay for any portion of excess insured loss. Notwithstanding the preceding sentence, insurers shall include a disclosure in their policies detailing the maximum level of Government assistance and the applicable insurer share.
+    >     - **(F)** *Mandatory disclosure for insurance contracts* All policies for property and casualty insurance and group life insurance shall be deemed to contain a provision to the effect that, in the case of any act of terrorism with respect to which there has been enacted a joint resolution for payment of Federal compensation described in subsection (h)(2), no insurer that has met its applicable insurer deductible and its applicable share of insured losses that exceed its applicable insurer deductible but are not compensated pursuant to paragraph (1), shall be obligated to pay for any portion of excess insured loss. Notwithstanding the preceding sentence, insurers shall include a disclosure in their policies detailing the maximum level of Government assistance and the applicable insurer share. All policies for property and casualty insurance and group life insurance shall be deemed to contain, and insurers shall be permitted to include in their policies, a provision to the effect that, in the case of insured losses resulting from any act of terrorism with respect to which there has not been enacted a joint resolution for payment of Federal compensation described in subsection (h)(2), no insurer shall be obligated to pay for any portion of any such insured losses that exceeds its applicable insurer deductible.
     >   - **(5)** *Final netting* The Secretary shall have sole discretion to determine the time at which claims relating to any insured loss or act of terrorism shall become final.
     >   - **(6)** *Determinations final* Any determination of the Secretary under this subsection shall be final, unless expressly provided, and shall not be subject to judicial review.
     >   - **(7)** *Insurance marketplace aggregate retention amount* For purposes of paragraph (8), the insurance marketplace aggregate retention amount shall be—
@@ -321,6 +336,28 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
     > - **(g)** *Reinsurance to Cover Exposure*
     >   - **(1)** *Obtaining coverage* This title may not be construed to limit or prevent insurers from obtaining reinsurance coverage for insurer deductibles or insured losses retained by insurers pursuant to this section, nor shall the obtaining of such coverage affect the calculation of such deductibles or retentions.
     >   - **(2)** *Limitation on financial assistance* The amount of financial assistance provided pursuant to this section shall not be reduced by reinsurance paid or payable to an insurer from other sources, except that recoveries from such other sources, taken together with financial assistance for the Transition Period or a Program Year provided pursuant to this section, may not exceed the aggregate amount of the insurer's insured losses for such period. If such recoveries and financial assistance for the Transition Period or a Program Year exceed such aggregate amount of insured losses for that period and there is no agreement between the insurer and any reinsurer to the contrary, an amount in excess of such aggregate insured losses shall be returned to the Secretary.
+    > - **(h)** *Privileged procedure for joint resolution for payment of Federal compensation*
+    >   - **(1)** *In general* The Secretary shall pay the Federal share of compensation under the Program for insured losses resulting from an act of terrorism only if there is enacted a joint resolution for payment of Federal compensation with respect to such act of terrorism.
+    >   - **(2)** *Joint resolution* For purposes of this subsection, the term “joint resolution for payment of Federal compensation” means a joint resolution that—
+    >     - **(A)** does not have a preamble;
+    >     - **(B)** the matter after the resolving clause of which is as follows: “That the Congress approves of the certification by the Secretary of the Treasury under section 102(1)(A) of the Terrorism Risk Insurance Act of 2002.”; and
+    >     - **(C)** the title of which is as follows: “To permit Federal compensation under the Terrorism Risk Insurance Act of 2002”.
+    >   - **(3)** *Introduction and referral* Upon receipt of a submission under section 102(1)(G), the joint resolution described in this subsection shall be introduced by the majority leader of each House or his designee (by request). In the case in which a House is not in session, such joint resolution shall be so introduced upon convening the first day of session after the date of receipt of the certification. Upon introduction, the joint resolution shall be referred to the appropriate calendar in each House.
+    >   - **(4)** *Consideration in the house of representatives*
+    >     - **(A)** *Proceeding to consideration* Upon referral to the appropriate calendar, it shall be in order to move to proceed to consider the joint resolution in the House. Such a motion shall be in order only at a time designated by the Speaker in the legislative schedule within two legislative days. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+    >     - **(B)** *Consideration* The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except one hour of debate equally divided and controlled by a proponent and an opponent and one motion to limit debate on the joint resolution. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+    >   - **(5)** *Consideration in the senate*
+    >     - **(A)** *Proceeding* Upon introduction, the joint resolution shall be placed on the Calendar of Business, General Orders. A motion to proceed to the consideration of the joint resolution shall be in order at any time. The motion is privileged and not debatable. A motion to proceed to consideration of the joint resolution may be made even though a previous motion to the same effect has been disagreed to. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to.
+    >     - **(B)** *Debate* Debate on the joint resolution, and all debatable motions and appeals in connection therewith, shall be limited to not more than ten hours. The time shall be equally divided between and controlled by, the majority leader and the minority leader or their designees.
+    >     - **(C)** *Debatable motions and appeals* Debate on any debatable motion or appeal in relation to the joint resolution shall be limited to not more than one hour from the time allotted for debate, equally divided and controlled by the majority leader and the minority leader or their designees.
+    >     - **(D)** *Motion to limit debate* A motion to further limit debate is not debatable.
+    >     - **(E)** *Motion to recommit* Any motion to commit or recommit the joint resolution shall not be in order.
+    >     - **(F)** *Final passage* The Chair shall put the question on final passage of the joint resolution no later than 72 hours from the time the measure is introduced.
+    >   - **(6)** *Amendments prohibited* No amendment to, or motion to strike a provision from, a joint resolution considered under this subsection shall be in order in either the Senate or the House of Representatives.
+    >   - **(7)** *Consideration by the other House* In the case of a joint resolution described in this subsection, if before passage by one House of a joint resolution of that House, that House receives such joint resolution from the other House, then—
+    >     - **(A)** the procedure in that House shall be the same as if no joint resolution had been received from the other House; but
+    >     - **(B)** the vote on final passage shall be on the joint resolution of the other House.
+    >   - **(8)** *House and Senate rulemaking* This subsection is enacted by the Congress as an exercise of the rulemaking power of the House of Representatives and Senate, respectively, and as such is deemed a part of the rules of each House, respectively, and such procedures supersede other rules only to the extent that they are inconsistent with such rules; and with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner, and to the same extent as any other rule of that House.
 
   - **(2)** in section 104(a)—
     - **(A)** in paragraph (1), by striking “and” at the end;
@@ -330,9 +367,9 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
 
   - **(3)** in section 104, by adding at the end the following new subsection:
     > - **(h)** *Annual adjustment*
-    >   - **(1)** *In general* Notwithstanding any other provision of this title, the Secretary shall adjust, for the second additional Program Year and for each additional Program Year thereafter, based upon the percentage change in an appropriate index during the 12-month period preceding such Program Year, each of the following amounts (as such amount may have been previously adjusted):
+    >   - **(1)** *In general* Notwithstanding any other provision of this title, the Secretary shall adjust, for the second additional Program Year and for each additional Program Year thereafter, based upon the percentage change in the Consumer Price Index for All Urban Consumers (CPI-U), as published by the Bureau of Labor Statistics of the Department of Labor, during the 12-month period preceding such program year, each of the dollar amounts set forth in this title (as such amount may have been previously adjusted), including the following amounts:
     >     - **(A)** The dollar amount in section 102(1)(B)(ii) (relating to act of terrorism).
-    >     - **(B)** The dollar amount in section 102(11)(J) (relating to aggregate industry insured losses in a previously impacted area).
+    >     - **(B)** The dollar amounts in subparagraphs (J) and (K) of section 102(11) (relating to an insurer deductible threshold based on the amount of aggregate industry insured losses).
     >     - **(C)** The dollar amounts in subparagraphs (A) and (B) of section 103(e)(1) (relating to limitation on Federal share).
     >     - **(D)** The dollar amounts in section 103(e)(1)(C) (relating to Program trigger).
     >     - **(E)** The dollar amount in section 103(e)(1)(D) (relating to limitation on group life insurance compensation).
@@ -356,7 +393,8 @@ Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.
 
   - **(6)** in section 108(c)(1), by striking “paragraph (4), (5), (6), (7), or (8)” and inserting “paragraph (5), (6), (7), (8), or (9)”.
 - **(b)** *Regulations on claims allocations* The Secretary of the Treasury shall issue the regulations referred to in subparagraph (C) of section 103(e)(2) of the Terrorism Risk Insurance Act of 2002, as amended by subsection (a)(1) of this section, and to carry out subparagraph (B) of such section 103(e)(2), not later than the expiration of the 120-day period beginning upon the date of the enactment of this Act.
-- **(c)** *Regulations on NBCR exemptions* The Secretary of the Treasury shall issue the regulations to carry out paragraph (4) of section 103(a) of the Terrorism Risk Insurance Act of 2002, as amended by subsection (a)(1) of this section, not later than the expiration of the 180-day period beginning upon the date of the enactment of this Act.
+- **(c)** *Regulations on certification of an act of NBCR Terrorism* The Secretary of the Treasury shall issue the regulations to carry out subparagraph (C) of section 102(1) of the Terrorism Risk Insurance Act of 2002, as amended by subsection (a)(1) of this section, not later than the expiration of the 180-day period beginning upon the date of the enactment of this Act.
+- **(d)** *Regulations on NBCR exemptions* The Secretary of the Treasury shall issue the regulations to carry out paragraph (4) of section 103(a) of the Terrorism Risk Insurance Act of 2002, as amended by subsection (a)(1) of this section, not later than the expiration of the 180-day period beginning upon the date of the enactment of this Act.
 
 ## § 4. Terrorism Buy-Down Fund
 
@@ -367,7 +405,7 @@ The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
   >
   > - **(a)** *Establishment* The Secretary shall establish a Terrorism Buy-Down Fund (in this section referred to as the “Fund”) that shall make available additional terrorism coverage for the insured losses of insurers, which shall be available for purchase by insurers on a voluntary basis.
   > - **(b)** *Purchase of deductible, co-share, and trigger buy-down coverage*
-  >   - **(1)** *In general* An insurer may purchase deductible, co-share, and pre-trigger buy-down coverage (in this section referred to as ‘buy-down coverage’) through the Fund by making an election, in advance, to treat some or all of the premiums it has disclosed pursuant to section 103(b)(2) as fee charges for the Program imposed by the Secretary and remitting such amounts to the Fund.
+  >   - **(1)** *In general* An insurer may purchase deductible, co-share, and pre-trigger buy-down coverage (in this section referred to as ‘buy-down coverage’) through the Fund by making an election, in advance, to treat some or all of the premiums it has disclosed pursuant to section 106(b)(3) as fee charges for the Program imposed by the Secretary and remitting such amounts to the Fund.
   >   - **(2)** *Limits* An insurer may not purchase buy-down coverage in an amount greater than the lesser of—
   >     - **(A)** the highest amount specified in section 103(e)(1)(C); and
   >     - **(B)** the insurer’s one-in-one-hundred-year risk exposure to acts of terrorism.

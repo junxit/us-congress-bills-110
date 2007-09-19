@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2761
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2761
@@ -54,6 +54,13 @@ Terrorism Risk Insurance Program Reauthorization Act of 2007
 
 - House — Financial Services Committee
 
+## Recorded votes (4)
+
+- 2007-09-19 — [House 110-1-881](votes/house-110-1-0881.md) — On Agreeing to the Amendment — **Agreed to** (426–1)
+- 2007-09-19 — [House 110-1-882](votes/house-110-1-0882.md) — On Agreeing to the Amendment — **Failed** (194–230)
+- 2007-09-19 — [House 110-1-883](votes/house-110-1-0883.md) — On Motion to Recommit with Instructions — **Failed** (196–228)
+- 2007-09-19 — [House 110-1-884](votes/house-110-1-0884.md) — On Passage — **Passed** (312–110)
+
 ## Actions
 
 - 2007-06-18 — Introduced in House
@@ -67,3 +74,40 @@ Terrorism Risk Insurance Program Reauthorization Act of 2007
 - 2007-09-06 — Placed on the Union Calendar, Calendar No. 201.
 - 2007-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-318.
 - 2007-09-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-318.
+- 2007-09-18 — Rules Committee Resolution H. Res. 660 Reported to House. Rule provides for consideration of H.R. 2761 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill except clauses 9 and 10 of Rules XXI. The rule provides that the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill, modified by the amendment printed in Part A of this report, shall be considered as adopted.
+- 2007-09-19 — Amendment (A001) offered by Mr. Frank (MA). (consideration: CR H10544-10545, H10547-10548; text: CR H10544)
+- 2007-09-19 — Amendment (A002) offered by Mr. Pearce. (consideration: CR H10545-10547, H10548-10549; text: CR H10545)
+- 2007-09-19 — Amendment agreed to Committee of the Whole
+- 2007-09-19 — Amendment failed in Committee of the Whole
+- 2007-09-19 — Considered under the provisions of rule H. Res. 660. (consideration: CR H10526-10551; text of measure as reported in House: CR H10533-10541)
+- 2007-09-19 — DEBATE - Pursuant to the provisions of H. Res. 660, the Committee of the Whole proceeded with 10 minutes of debate on the Frank amendment.
+- 2007-09-19 — DEBATE - Pursuant to the provisions of H. Res. 660, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment.
+- 2007-09-19 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Dreier motion to recommit with instructions.
+- 2007-09-19 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2761.
+- 2007-09-19 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A001) Agreed to by recorded vote: 426 - 1 (Roll no. 881).
+- 2007-09-19 — House amendment not agreed to: On agreeing to the Pearce amendment (A002) Failed by recorded vote: 194 - 230 (Roll no. 882).
+- 2007-09-19 — House amendment offered
+- 2007-09-19 — House amendment offered
+- 2007-09-19 — House amendment offered/reported by : Amendment (A001) offered by Mr. Frank (MA).(consideration: CR H10544-10545, H10547-10548; text: CR H10544)
+- 2007-09-19 — House amendment offered/reported by : Amendment (A002) offered by Mr. Pearce.(consideration: CR H10545-10547, H10548-10549; text: CR H10545)
+- 2007-09-19 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 660 and Rule XVIII.
+- 2007-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-19 — Mr. Dreier moved to recommit with instructions to Financial Services. (consideration: CR H10549-10551; text: CR H10549)
+- 2007-09-19 — On agreeing to the Frank (MA) amendment (A001) Agreed to by recorded vote: 426 - 1 (Roll no. 881).
+- 2007-09-19 — On agreeing to the Pearce amendment (A002) Failed by recorded vote: 194 - 230 (Roll no. 882).
+- 2007-09-19 — On motion to recommit with instructions Failed by the Yeas and Nays: 196 - 228 (Roll no. 883).
+- 2007-09-19 — On passage Passed by the Yeas and Nays: 312 - 110 (Roll no. 884).
+- 2007-09-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Frank amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Pearce demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Frank amendment until later in the legislative day.
+- 2007-09-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pearce demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the Pearce amendment until later in the legislative day.
+- 2007-09-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 312 - 110 (Roll no. 884).
+- 2007-09-19 — Roll call votes on amendments in House
+- 2007-09-19 — Roll call votes on amendments in House
+- 2007-09-19 — Rule H. Res. 660 passed House.
+- 2007-09-19 — Rule provides for consideration of H.R. 2761 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill except clauses 9 and 10 of Rules XXI. The rule provides that the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill, modified by the amendment printed in Part A of this report, shall be considered as adopted.
+- 2007-09-19 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2761.
+- 2007-09-19 — The House adopted the amendment as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-09-19 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2761.
+- 2007-09-19 — The Speaker designated the Honorable Steve Israel to act as Chairman of the Committee.
+- 2007-09-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H10550)
+- 2007-09-19 — The previous question was ordered pursuant to the rule. (consideration: CR H10549)
+- 2007-09-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
