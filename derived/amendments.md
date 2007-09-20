@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2761
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 2 executed, 14 stated and not applied.
+16 amendatory instructions. 1 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,16 +24,7 @@ to guess them.
 
 ## Executed
 
-### 15 U.S.C. § 6701
-
-> Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “December 31, 2007” and inserting “December 31, 2022”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2007` |
-| Inserted | `December 31, 2022` |
-
-### 49 U.S.C. § 40102
+### 18 U.S.C. § 2280
 
 > in section 108(c)(1), by striking “paragraph (4), (5), (6), (7), or (8)” and inserting “paragraph (5), (6), (7), (8), or (9)”.
 
@@ -51,17 +42,18 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `49 U.S.C. § 40102` | replace | by striking sections 101, 102, and 103 and inserting the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 553` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `5 U.S.C. § 553` | replace | in paragraph (2), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `5 U.S.C. § 553` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 40102` | add-at-end | in section 104, by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 40102` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 40102` | redesignate | by redesignating subparagraph (C) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 40102` | insert | by inserting after subparagraph (B) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 40102` | add-at-end | in section 106, by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “December 31, 2007” and inserting “December 31, 2022”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 2280` | replace | by striking sections 101, 102, and 103 and inserting the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2280` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 2280` | replace | in paragraph (2), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2280` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2280` | add-at-end | in section 104, by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2280` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 2280` | redesignate | by redesignating subparagraph (C) as subparagraph (F); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2280` | insert | by inserting after subparagraph (B) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2280` | add-at-end | in section 106, by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | by inserting after section 106 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | in the table of contents in section 1(b), by inserting after the item relating to section 106 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | replace | Section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6701` | add-at-end | by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | amend | by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | in the table of contents in section 1(b), by inserting after the item relating to section 108 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2761
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2761
@@ -50,9 +50,10 @@ Terrorism Risk Insurance Program Reauthorization Act of 2007
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -111,3 +112,4 @@ Terrorism Risk Insurance Program Reauthorization Act of 2007
 - 2007-09-19 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H10550)
 - 2007-09-19 — The previous question was ordered pursuant to the rule. (consideration: CR H10549)
 - 2007-09-19 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-09-20 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
