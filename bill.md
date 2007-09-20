@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “FAA Reauthorization Act of 2007”.
-- **(b)** *Table of contents*
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Amendments to title 49, United States Code
 
