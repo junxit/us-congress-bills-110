@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2881
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2881
@@ -61,6 +61,11 @@ FAA Reauthorization Act of 2007
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (2)
+
+- 2007-09-20 — [House 110-1-889](votes/house-110-1-0889.md) — On Agreeing to the Amendment — **Agreed to** (418–0)
+- 2007-09-20 — [House 110-1-890](votes/house-110-1-0890.md) — On Passage — **Passed** (267–151)
+
 ## Actions
 
 - 2007-06-27 — Introduced in House
@@ -72,3 +77,75 @@ FAA Reauthorization Act of 2007
 - 2007-09-17 — Placed on the Union Calendar, Calendar No. 206.
 - 2007-09-17 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-331.
 - 2007-09-17 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-331.
+- 2007-09-19 — Rules Committee Resolution H. Res. 664 Reported to House. Rule provides for consideration of H.R. 2881 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order againist consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. In lieu of the amendment in the nature of substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, the amendment in the nature of a substitute printed in part A of the report of the Committee on Rules accompanying this resolution, modified by the amendment printed in part B of such report, shall be considered as adopted in the House and in the Commmittee of the Whole.
+- 2007-09-20 — Amendment (A001) offered by Mr. Oberstar. (consideration: CR H10673-10679; text: CR H10673-10679)
+- 2007-09-20 — Amendment (A002) offered by Mr. LaTourette. (consideration: CR H10680-10681; text: CR H10680)
+- 2007-09-20 — Amendment (A003) offered by Mr. Poe. (consideration: CR H10681; text: CR H10681)
+- 2007-09-20 — Amendment (A004) offered by Mr. Shays. (consideration: CR H10681-10682; text: CR H10681)
+- 2007-09-20 — Amendment (A005) offered by Mr. Hastings (FL). (consideration: CR H10682; text: CR H10682)
+- 2007-09-20 — Amendment (A006) offered by Mr. Costello. (consideration: CR H10682-10684; text: CR H10683)
+- 2007-09-20 — Amendment (A007) offered by Mr. Klein (FL). (consideration: CR H10684-10685; text: CR H10684)
+- 2007-09-20 — Amendment (A008) offered by Mr. Neugebauer. (consideration: CR H10685-10687; text: CR H10685)
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Amendment agreed to Committee of the Whole
+- 2007-09-20 — Considered under the provisions of rule H. Res. 664. (consideration: CR H10636-10687; text of measure as reported in House: CR H10650-10673)
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the Costello amendment.
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment.
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the Klein (FL) amendment.
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the LaTourette amendment.
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the Neugebauer amendment.
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the Oberstar amendment.
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the Poe amendment.
+- 2007-09-20 — DEBATE - Pursuant to the provisions of H. Res. 664, the Committee of the Whole proceeded with 10 minutes of debate on the Shays amendment.
+- 2007-09-20 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2881.
+- 2007-09-20 — House amendment agreed to: On agreeing to the Costello amendment (A006) Agreed to by voice vote.
+- 2007-09-20 — House amendment agreed to: On agreeing to the Hastings (FL) amendment (A005) Agreed to by voice vote.
+- 2007-09-20 — House amendment agreed to: On agreeing to the Klein (FL) amendment (A007) Agreed to by voice vote.
+- 2007-09-20 — House amendment agreed to: On agreeing to the LaTourette amendment (A002) Agreed to by voice vote.
+- 2007-09-20 — House amendment agreed to: On agreeing to the Neugebauer amendment (A008) Agreed to by recorded vote: 418 - 0 (Roll no. 889).
+- 2007-09-20 — House amendment agreed to: On agreeing to the Oberstar amendment (A001) as modified Agreed to by voice vote.(text as modified: CR H10680)
+- 2007-09-20 — House amendment agreed to: On agreeing to the Poe amendment (A003) Agreed to by voice vote.
+- 2007-09-20 — House amendment agreed to: On agreeing to the Shays amendment (A004) Agreed to by voice vote.
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered
+- 2007-09-20 — House amendment offered/reported by : Amendment (A001) offered by Mr. Oberstar.(consideration: CR H10673-10679; text: CR H10673-10679)
+- 2007-09-20 — House amendment offered/reported by : Amendment (A002) offered by Mr. LaTourette.(consideration: CR H10680-10681; text: CR H10680)
+- 2007-09-20 — House amendment offered/reported by : Amendment (A003) offered by Mr. Poe.(consideration: CR H10681; text: CR H10681)
+- 2007-09-20 — House amendment offered/reported by : Amendment (A004) offered by Mr. Shays.(consideration: CR H10681-10682; text: CR H10681)
+- 2007-09-20 — House amendment offered/reported by : Amendment (A005) offered by Mr. Hastings (FL).(consideration: CR H10682; text: CR H10682)
+- 2007-09-20 — House amendment offered/reported by : Amendment (A006) offered by Mr. Costello.(consideration: CR H10682-10684; text: CR H10683)
+- 2007-09-20 — House amendment offered/reported by : Amendment (A007) offered by Mr. Klein (FL).(consideration: CR H10684-10685; text: CR H10684)
+- 2007-09-20 — House amendment offered/reported by : Amendment (A008) offered by Mr. Neugebauer.(consideration: CR H10685-10687; text: CR H10685)
+- 2007-09-20 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 664 and Rule XVIII.
+- 2007-09-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-20 — Oberstar amendment (A001) modified by unanimous consent. (consideration: CR H10680)
+- 2007-09-20 — On agreeing to the Costello amendment (A006) Agreed to by voice vote.
+- 2007-09-20 — On agreeing to the Hastings (FL) amendment (A005) Agreed to by voice vote.
+- 2007-09-20 — On agreeing to the Klein (FL) amendment (A007) Agreed to by voice vote.
+- 2007-09-20 — On agreeing to the LaTourette amendment (A002) Agreed to by voice vote.
+- 2007-09-20 — On agreeing to the Neugebauer amendment (A008) Agreed to by recorded vote: 418 - 0 (Roll no. 889).
+- 2007-09-20 — On agreeing to the Oberstar amendment (A001) as modified Agreed to by voice vote. (text as modified: CR H10680)
+- 2007-09-20 — On agreeing to the Poe amendment (A003) Agreed to by voice vote.
+- 2007-09-20 — On agreeing to the Shays amendment (A004) Agreed to by voice vote.
+- 2007-09-20 — On passage Passed by recorded vote: 267 - 151 (Roll no. 890).
+- 2007-09-20 — Passed/agreed to in House: On passage Passed by recorded vote: 267 - 151 (Roll no. 890).
+- 2007-09-20 — Roll call votes on amendments in House
+- 2007-09-20 — Rule H. Res. 664 passed House.
+- 2007-09-20 — Rule provides for consideration of H.R. 2881 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order againist consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. In lieu of the amendment in the nature of substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, the amendment in the nature of a substitute printed in part A of the report of the Committee on Rules accompanying this resolution, modified by the amendment printed in part B of such report, shall be considered as adopted in the House and in the Commmittee of the Whole.
+- 2007-09-20 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2881.
+- 2007-09-20 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-09-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2881.
+- 2007-09-20 — The Speaker designated the Honorable Diana DeGette to act as Chairwoman of the Committee.
+- 2007-09-20 — The previous question was ordered pursuant to the rule. (consideration: CR H10687)
