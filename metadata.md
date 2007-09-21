@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 320
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 320
@@ -29,3 +29,7 @@ A resolution recognizing the achievements of the people of Ukraine in pursuit of
 
 - 2007-09-18 — Introduced in Senate
 - 2007-09-18 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S11667)
+- 2007-09-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S11954)
+- 2007-09-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S11954)
+- 2007-09-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S11954)
+- 2007-09-21 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S11954)
