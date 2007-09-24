@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2881
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-304 amendatory instructions. 40 executed, 264 stated and not applied.
+304 amendatory instructions. 8 executed, 296 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,114 +60,6 @@ to guess them.
 | Removed | `provided in subsection (b) or subsection (c) of this section` |
 | Inserted | `otherwise specifically provided in this section` |
 
-### 38 U.S.C. § 101
-
-> by striking “each airport to—” and inserting “the airport system to—”;
-
-| | |
-|---|---|
-| Removed | `each airport to—` |
-| Inserted | `the airport system to—` |
-
-### 38 U.S.C. § 101
-
-> in paragraph (1) by striking “system in the particular area;” and inserting “system, including connection to the surface transportation network; and”;
-
-| | |
-|---|---|
-| Removed | `system in the particular area;` |
-| Inserted | `system, including connection to the surface transportation network; and` |
-
-### 38 U.S.C. § 101
-
-> in subparagraph (B) by striking “separated from” and inserting “discharged or released from active duty in”; and
-
-| | |
-|---|---|
-| Removed | `separated from` |
-| Inserted | `discharged or released from active duty in` |
-
-### 38 U.S.C. § 101
-
-> in paragraph (2) by striking “veterans and” and inserting “veterans, Afghanistan-Iraq war veterans, and”.
-
-| | |
-|---|---|
-| Removed | `veterans and` |
-| Inserted | `veterans, Afghanistan-Iraq war veterans, and` |
-
-### 38 U.S.C. § 101
-
-> in paragraphs (3) and (4)(A) of subsection (b) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d)” and inserting “subsection (a)”; and
-
-| | |
-|---|---|
-| Removed | `section 47110(d)` |
-| Inserted | `subsection (a)` |
-
-### 38 U.S.C. § 101
-
-> in paragraph (5) of subsection (b) (as redesignated by paragraph (1) of this subsection) by striking “subsection (b)(1) and (2)” and inserting “subsections (c)(1) and (c)(2)”;
-
-| | |
-|---|---|
-| Removed | `subsection (b)(1) and (2)` |
-| Inserted | `subsections (c)(1) and (c)(2)` |
-
-### 38 U.S.C. § 101
-
-> in paragraphs (2)(A), (3), and (4) of subsection (c) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d) of this title” and inserting “subsection (a)”;
-
-| | |
-|---|---|
-| Removed | `section 47110(d) of this title` |
-| Inserted | `subsection (a)` |
-
-### 38 U.S.C. § 101
-
-> in paragraph (2)(B) of subsection (c) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d)” and inserting “subsection (a)”;
-
-| | |
-|---|---|
-| Removed | `section 47110(d)` |
-| Inserted | `subsection (a)` |
-
-### 38 U.S.C. § 101
-
-> in subsection (c)(5) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d)” and inserting “subsection (a)”; and
-
-| | |
-|---|---|
-| Removed | `section 47110(d)` |
-| Inserted | `subsection (a)` |
-
-### 38 U.S.C. § 101
-
-> by striking “April 1” and inserting “June 1”; and
-
-| | |
-|---|---|
-| Removed | `April 1` |
-| Inserted | `June 1` |
-
-### 38 U.S.C. § 101
-
-> Sections 40117(a)(3)(B) and 47108(e)(3) are each amended by striking “section 47110(d)” each place it appears and inserting “section 47119(a)”.
-
-| | |
-|---|---|
-| Removed | `section 47110(d)` |
-| Inserted | `section 47119(a)` |
-
-### 38 U.S.C. § 101
-
-> Section 47175(2) is amended by striking “Airport Capacity Benchmark Report 2001” and inserting “2001 and 2004 Airport Capacity Benchmark Reports or table 1 of the Federal Aviation Administration’s most recent airport capacity benchmark report”.
-
-| | |
-|---|---|
-| Removed | `Airport Capacity Benchmark Report 2001` |
-| Inserted | `2001 and 2004 Airport Capacity Benchmark Reports or table 1 of the Federal Aviation Administration’s most recent airport capacity benchmark report` |
-
 ### 49 U.S.C. § 40101
 
 > by striking “(4)” and inserting “(4)(A)”; and
@@ -195,24 +87,6 @@ to guess them.
 | Removed | `2010` |
 | Inserted | `2011` |
 
-### 42 U.S.C. § 4321
-
-> in the first sentence by striking “prescribe regulations” and inserting “issue guidance”; and
-
-| | |
-|---|---|
-| Removed | `prescribe regulations` |
-| Inserted | `issue guidance` |
-
-### 42 U.S.C. § 4321
-
-> in the second sentence by striking “regulations” and inserting “guidance”.
-
-| | |
-|---|---|
-| Removed | `regulations` |
-| Inserted | `guidance` |
-
 ### 45 U.S.C. § 181
 
 > by striking “All” and inserting “(a) In General.—All”;
@@ -221,168 +95,6 @@ to guess them.
 |---|---|
 | Removed | `All` |
 | Inserted | `(a) In General.—All` |
-
-### 26 U.S.C. § 4081
-
-> Subparagraph (A) of section 4081(a)(2) of the Internal Revenue Code of 1986 (relating to rates of tax) is amended by striking “and” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, and”, and by adding at the end the following new clause:
-
-| | |
-|---|---|
-| Removed | `and` |
-| Inserted | `, and` |
-
-### 26 U.S.C. § 4081
-
-> Clause (ii) of section 4081(a)(2)(A) of such Code is amended by striking “19.3 cents” and inserting “24.1 cents”.
-
-| | |
-|---|---|
-| Removed | `19.3 cents` |
-| Inserted | `24.1 cents` |
-
-### 26 U.S.C. § 4081
-
-> The following provisions of such Code are each amended by striking “kerosene” and inserting “aviation-grade kerosene”:
-
-| | |
-|---|---|
-| Removed | `kerosene` |
-| Inserted | `aviation-grade kerosene` |
-
-### 26 U.S.C. § 4081
-
-> by striking “paragraph (2)(C)(i)” in clause (i) and inserting “paragraph (2)(C)”, and
-
-| | |
-|---|---|
-| Removed | `paragraph (2)(C)(i)` |
-| Inserted | `paragraph (2)(C)` |
-
-### 26 U.S.C. § 4081
-
-> by striking “paragraph (2)(C)(ii)” in clause (ii) and inserting “paragraph (2)(A)(iv)”.
-
-| | |
-|---|---|
-| Removed | `paragraph (2)(C)(ii)` |
-| Inserted | `paragraph (2)(A)(iv)` |
-
-### 26 U.S.C. § 4081
-
-> Section 4081(a)(4) of such Code is amended in the heading by striking “kerosene” and inserting “aviation-grade kerosene”.
-
-| | |
-|---|---|
-| Removed | `kerosene` |
-| Inserted | `aviation-grade kerosene` |
-
-### 26 U.S.C. § 4081
-
-> Paragraph (2) of section 4081(d) of such Code is amended by striking “gallon—” and all that follows and inserting “gallon after September 30, 2011”.
-
-| | |
-|---|---|
-| Removed | `gallon—` |
-| Inserted | `gallon after September 30, 2011` |
-
-### 26 U.S.C. § 4081
-
-> Clause (ii) of section 4261(j)(1)(A) of such Code is amended by striking “September 30, 2007” and inserting “September 30, 2011”.
-
-| | |
-|---|---|
-| Removed | `September 30, 2007` |
-| Inserted | `September 30, 2011` |
-
-### 26 U.S.C. § 4081
-
-> Clause (ii) of section 4271(d)(1)(A) of such Code is amended by striking “September 30, 2007” and inserting “September 30, 2011”.
-
-| | |
-|---|---|
-| Removed | `September 30, 2007` |
-| Inserted | `September 30, 2011` |
-
-### 26 U.S.C. § 4081
-
-> by striking “kerosene” and inserting “aviation-grade kerosene”,
-
-| | |
-|---|---|
-| Removed | `kerosene` |
-| Inserted | `aviation-grade kerosene` |
-
-### 26 U.S.C. § 4081
-
-> by striking “section 4081(a)(2)(A)(iii)” and inserting “section 4081(a)(2)(A)(iv) ”, and
-
-| | |
-|---|---|
-| Removed | `section 4081(a)(2)(A)(iii)` |
-| Inserted | `section 4081(a)(2)(A)(iv)` |
-
-### 26 U.S.C. § 4081
-
-> by striking “Kerosene” in the heading and inserting “Aviation-Grade Kerosene”.
-
-| | |
-|---|---|
-| Removed | `Kerosene` |
-| Inserted | `Aviation-Grade Kerosene` |
-
-### 26 U.S.C. § 4081
-
-> Clause (ii) of section 6427(l)(4)(A) of such Code is amended by striking “specified in section 4041(c) or 4081(a)(2)(A)(iii), as the case may be,” and inserting “so imposed”.
-
-| | |
-|---|---|
-| Removed | `specified in section 4041(c) or 4081(a)(2)(A)(iii), as the case may be,` |
-| Inserted | `so imposed` |
-
-### 26 U.S.C. § 4081
-
-> by striking “(4)(C)” the first two places it occurs and inserting “(4)(B)”, and
-
-| | |
-|---|---|
-| Removed | `(4)(C)` |
-| Inserted | `(4)(B)` |
-
-### 26 U.S.C. § 4081
-
-> by striking “, (l)(4)(C)(ii), and” and inserting “and”.
-
-| | |
-|---|---|
-| Removed | `, (l)(4)(C)(ii), and` |
-| Inserted | `and` |
-
-### 26 U.S.C. § 4081
-
-> Section 4082(d)(2)(B) of such Code is amended by striking “6427(l)(5)(B)” and inserting “6427(l)(6)(B)”.
-
-| | |
-|---|---|
-| Removed | `6427(l)(5)(B)` |
-| Inserted | `6427(l)(6)(B)` |
-
-### 26 U.S.C. § 4081
-
-> in the matter preceding subparagraph (A) by striking “October 1, 2007” and inserting “October 1, 2011”, and
-
-| | |
-|---|---|
-| Removed | `October 1, 2007` |
-| Inserted | `October 1, 2011` |
-
-### 26 U.S.C. § 4081
-
-> Paragraph (2) of section 9502(f) of such Code is amended by striking “October 1, 2007” and inserting “October 1, 2011”.
-
-| | |
-|---|---|
-| Removed | `October 1, 2007` |
-| Inserted | `October 1, 2011` |
 
 ## Stated, not applied
 
@@ -427,10 +139,10 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 40117 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 45301(b) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 45301 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `31 U.S.C. § 3302` | add-at-end | Chapter 453 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 3302` | amend | The analysis for chapter 453 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 3302` | replace | by striking “A fee” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `31 U.S.C. § 3302` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 453 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for chapter 453 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “A fee” and inserting the following: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B)(iv) by striking “20” and inserting “9”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 47102(5) is amended by inserting before the period at the end the following: “and developing an environmental management system”. | the bill names no machine-readable US Code section |
@@ -450,7 +162,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking “, including fuel farms and hangars,”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (8) as paragraph (9); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (7) the following: | the bill names no machine-readable US Code section |
-| `15 U.S.C. § 1632` | amend | Section 47112(c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 47112(c) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Except as provided in paragraph (3), the Secretary” and inserting “The Secretary”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “18.5 percent” and inserting “10 percent”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
@@ -482,36 +194,48 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 186(d) of the Vision 100—Century of Aviation Reauthorization Act (117 Stat. 2518) is amended by striking “October 1, 2007” and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |
 | — | insert | in the subsection heading by inserting “and Puerto Rico” after “Alaska”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `38 U.S.C. § 101` | replace | in paragraph (2) by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 101` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 101` | replace | in paragraph (1) by striking the semicolon and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 101` | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 101` | redesignate | in paragraph (2) (as so redesignated) by striking “, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations,”; and | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 101` | strike | in subsection (d) by striking “status of the”. | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 101` | redesignate | by redesignating subsections (a), (b), (c) and (d) as subsections (b), (c), (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 101` | redesignate | by inserting before subsection (b) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 101` | replace | by striking paragraphs (1), (2), (3), and (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 101` | strike | in subsection (a) by striking “47102(3)(F),”; and | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 101` | strike | by striking “47102(3)(F),”; and | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 101` | strike | by striking “47103(3)(F),”. | the bill quotes the text struck but describes what replaces it |
-| `38 U.S.C. § 101` | insert | Section 46301(d)(2) is amended by inserting “46319,” after “46318,”. | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 101` | strike | Section 47151(e) is amended by striking “(other than real property” and all that follows through “(10 U.S.C. 2687 note))”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “each airport to—” and inserting “the airport system to—”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking “system in the particular area;” and inserting “system, including connection to the surface transportation network; and”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (3); | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1) by striking the semicolon and inserting “; and”; | the bill names no machine-readable US Code section |
+| — | redesignate | by striking paragraph (2) and redesignating paragraph (3) as paragraph (2); and | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (2) (as so redesignated) by striking “, Short Takeoff and Landing/Very Short Takeoff and Landing aircraft operations,”; and | the bill names no machine-readable US Code section |
+| — | strike | in subsection (d) by striking “status of the”. | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B) by striking “separated from” and inserting “discharged or released from active duty in”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking “veterans and” and inserting “veterans, Afghanistan-Iraq war veterans, and”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (a), (b), (c) and (d) as subsections (b), (c), (d) and (e), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting before subsection (b) (as so redesignated) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraphs (3) and (4)(A) of subsection (b) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d)” and inserting “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5) of subsection (b) (as redesignated by paragraph (1) of this subsection) by striking “subsection (b)(1) and (2)” and inserting “subsections (c)(1) and (c)(2)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraphs (2)(A), (3), and (4) of subsection (c) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d) of this title” and inserting “subsection (a)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2)(B) of subsection (c) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d)” and inserting “subsection (a)”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(5) (as redesignated by paragraph (1) of this subsection) by striking “section 47110(d)” and inserting “subsection (a)”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “April 1” and inserting “June 1”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraphs (1), (2), (3), and (4) and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a) by striking “47102(3)(F),”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “47102(3)(F),”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “47103(3)(F),”. | the bill names no machine-readable US Code section |
+| — | insert | Section 46301(d)(2) is amended by inserting “46319,” after “46318,”. | the bill names no machine-readable US Code section |
+| — | replace | Sections 40117(a)(3)(B) and 47108(e)(3) are each amended by striking “section 47110(d)” each place it appears and inserting “section 47119(a)”. | the bill names no machine-readable US Code section |
+| — | strike | Section 47151(e) is amended by striking “(other than real property” and all that follows through “(10 U.S.C. 2687 note))”. | the bill names no machine-readable US Code section |
+| — | replace | Section 47175(2) is amended by striking “Airport Capacity Benchmark Report 2001” and inserting “2001 and 2004 Airport Capacity Benchmark Reports or table 1 of the Federal Aviation Administration’s most recent airport capacity benchmark r… | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 40101` | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | replace | in subparagraph (G) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 40101` | replace | in subparagraph (H) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 40101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | add-at-end | Section 709(a) of such Act (117 Stat. 2582) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | add-at-end | Section 709(a) of such Act (117 Stat. 2582) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | strike | by striking “beyond those currently included in the Federal Aviation Administration’s operational evolution plan”; | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 40101` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 40101` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 40101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | amend | Section 709(d) of such Act (117 Stat. 2584) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40101` | insert | Section 710(a) of Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 40101 note; 117 Stat. 2584) is amended by inserting before the period at the end the following “and shall meet at least twice each year”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 1105` | add-at-end | Section 710 of such Act (117 Stat. 2584) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 40101` | add-at-end | Section 710 of such Act (117 Stat. 2584) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 106(m) is amended in the last sentence by inserting “with or” before “without reimbursement”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (D) as subparagraph (E); | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraphs (B) and (C) and inserting the following: | the bill names no machine-readable US Code section |
@@ -525,8 +249,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “public and private” before “foreign aviation authorities”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end of the first sentence and inserting “or efficiency. The Administrator may participate in, and submit offers in response to, competitions to provide such services and may contract with foreign aviation au… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3) by striking “credited” and all that follows through the period at the end and inserting “credited as an offsetting collection to the account from which the expenses were incurred in providing such services and shall rema… | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 447 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | The analysis for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `14 U.S.C. § 121` | add-at-end | Chapter 447 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 121` | amend | The analysis for such chapter is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 44703(d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1153(c) is amended by striking “section 44709 or” and inserting “section 44703(d), 44709, or”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44704(a) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -584,10 +308,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (c)(3)(A) by striking “if the Administrator determines” and all that follows through the period at the end and inserting | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d), (e), and (f) as subsections (e), (f), and (g), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (c) the following: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 4321` | insert | Section 47128(b)(4) is amended by inserting before the semicolon the following: “, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regu… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 4321` | add-at-end | Section 47128 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in the first sentence by striking “prescribe regulations” and inserting “issue guidance”; and | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence by striking “regulations” and inserting “guidance”. | the bill names no machine-readable US Code section |
+| — | insert | Section 47128(b)(4) is amended by inserting before the semicolon the following: “, including the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), State and local environmental policy acts, Executive orders, agency regu… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 47128 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 47173(a) is amended by striking “services of consultants in order to” and all that follows through the period at the end and inserting | the bill names no machine-readable US Code section |
-| `31 U.S.C. § 3302` | amend | Section 47504 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 47504 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Subchapter I of chapter 475 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The analysis for such subchapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter II of chapter 475 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -598,7 +324,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after the item relating to section 47533 the following: | the bill names no machine-readable US Code section |
 | `49 U.S.C. § 40122` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 40122` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 40122` | add-at-end | Section 40122(g)(3) of title 49, United States Code, is amended by adding at the end the following: “Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such emp… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 40122(g)(3) of title 49, United States Code, is amended by adding at the end the following: “Notwithstanding any other provision of law, retroactive to April 1, 1996, the Board shall have the same remedial authority over such emp… | the bill names no machine-readable US Code section |
 | — | replace | by striking “August 31, 2006” and inserting “September 30, 2011”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “December 31, 2006” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 44302(f) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -608,8 +334,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 44310 is amended by striking “March 30, 2008” and inserting “December 31, 2017”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 40102(a)(15) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 40119(b) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `28 U.S.C. § 534` | add-at-end | Chapter 401 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `28 U.S.C. § 534` | amend | The analysis for chapter 401 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 401 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for chapter 401 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the section heading by striking “air carrier” and inserting “carrier”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “(as defined in section 40102 of this title)” and inserting “(as such terms are defined in section 40102)”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading for subsection (d) by striking “Air Carrier” and inserting “Air Carrier and Foreign Air Carrier”; | the bill names no machine-readable US Code section |
@@ -619,12 +345,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “air carrier’s” each place it appears and inserting “air carrier’s or foreign air carrier’s”. | the bill names no machine-readable US Code section |
 | — | replace | The analysis for chapter 471 is amended by striking the item relating to section 47129 and inserting the following: | the bill names no machine-readable US Code section |
 | `45 U.S.C. § 181` | insert | by inserting “and every express carrier” after “common carrier by air”; and | the bill quotes the text inserted but describes where it goes |
-| `29 U.S.C. § 151` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `45 U.S.C. § 181` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 151` | strike | Section 1 of such Act (45 U.S.C. 151) is amended in the first paragraph by striking “, any express company that would have been subject to subtitle IV of title 49, United States Code, as of December 31, 1995,,”. | the bill quotes the text struck but describes what replaces it |
-| `28 U.S.C. § 1346` | add-at-end | Section 1113 is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 47117` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 47117` | replace | by striking the period at the end of subparagraph (E) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 47117` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 1113 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9502` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 9502` | replace | by striking the period at the end of subparagraph (E) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 9502` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | in subsection (a)(1)(A) by inserting “chapter 451,” before “section 47107(b)”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “or chapter 449” and inserting “chapter 449”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “44909)” the following: “, or chapter 451”; and | the bill names no machine-readable US Code section |
@@ -640,20 +366,38 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (4) by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5)(C) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 4081` | amend | Subparagraph (C) of section 4081(a)(2) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | insert | Clause (iii) of section 4081(a)(2)(A) of such Code is amended by inserting “other than aviation-grade kerosene” after “kerosene”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 4081` | insert | Section 4081(d)(2) of such Code is amended by inserting “, (a)(2)(A)(iv),” after “subsections (a)(2)(A)(ii)”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 4081` | insert | Paragraph (2) of section 4041(c) of such Code is amended by inserting “at the rate specified in subsection (a)(2)(A)(iv) thereof” after “section 4081”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 4081` | amend | Paragraph (3) of section 4041(c) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | redesignate | by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | redesignate | by amending subparagraph (B), as redesignated by subparagraph (A), to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | redesignate | Subsection (l) of section 6427 of such Code is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | insert | in subparagraph (A) by inserting “or the FAA Reauthorization Act of 2007” before the semicolon at the end. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 4081` | amend | Subparagraph (C) of section 9502(b)(1) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | strike | in paragraph (2) by striking “(other than subsection (l)(4) thereof)”, and | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 4081` | strike | in paragraph (3) by striking “(other than payments made by reason of paragraph (4) of section 6427(l))”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 4081` | replace | Section 9503(b)(4) of such Code is amended by striking “or” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting a comma, and by inserting after subparagraph (D) the following: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 4081` | strike | Section 9503(c) of such Code is amended by striking the last paragraph (relating to transfers from the Trust Fund for certain aviation fuel taxes). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | strike | Section 9502(a) of such Code is amended by striking “, section 9503(c)(7),”. | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 4081` | add-at-end | Section 9502(d) of such Code is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 4081` | add-at-end | Section 9502(d) of such Code, as amended by this title, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Subparagraph (A) of section 4081(a)(2) of the Internal Revenue Code of 1986 (relating to rates of tax) is amended by striking “and” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, and”, and b… | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 4081(a)(2)(A) of such Code is amended by striking “19.3 cents” and inserting “24.1 cents”. | the bill names no machine-readable US Code section |
+| — | amend | Subparagraph (C) of section 4081(a)(2) of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Clause (iii) of section 4081(a)(2)(A) of such Code is amended by inserting “other than aviation-grade kerosene” after “kerosene”. | the bill names no machine-readable US Code section |
+| — | replace | The following provisions of such Code are each amended by striking “kerosene” and inserting “aviation-grade kerosene”: | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (2)(C)(i)” in clause (i) and inserting “paragraph (2)(C)”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraph (2)(C)(ii)” in clause (ii) and inserting “paragraph (2)(A)(iv)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4081(a)(4) of such Code is amended in the heading by striking “kerosene” and inserting “aviation-grade kerosene”. | the bill names no machine-readable US Code section |
+| — | insert | Section 4081(d)(2) of such Code is amended by inserting “, (a)(2)(A)(iv),” after “subsections (a)(2)(A)(ii)”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (2) of section 4081(d) of such Code is amended by striking “gallon—” and all that follows and inserting “gallon after September 30, 2011”. | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 4261(j)(1)(A) of such Code is amended by striking “September 30, 2007” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 4271(d)(1)(A) of such Code is amended by striking “September 30, 2007” and inserting “September 30, 2011”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “kerosene” and inserting “aviation-grade kerosene”, | the bill names no machine-readable US Code section |
+| — | replace | by striking “section 4081(a)(2)(A)(iii)” and inserting “section 4081(a)(2)(A)(iv) ”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Kerosene” in the heading and inserting “Aviation-Grade Kerosene”. | the bill names no machine-readable US Code section |
+| — | insert | Paragraph (2) of section 4041(c) of such Code is amended by inserting “at the rate specified in subsection (a)(2)(A)(iv) thereof” after “section 4081”. | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (3) of section 4041(c) of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 6427(l)(4)(A) of such Code is amended by striking “specified in section 4041(c) or 4081(a)(2)(A)(iii), as the case may be,” and inserting “so imposed”. | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B), and | the bill names no machine-readable US Code section |
+| — | redesignate | by amending subparagraph (B), as redesignated by subparagraph (A), to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | Subsection (l) of section 6427 of such Code is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “(4)(C)” the first two places it occurs and inserting “(4)(B)”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “, (l)(4)(C)(ii), and” and inserting “and”. | the bill names no machine-readable US Code section |
+| — | replace | Section 4082(d)(2)(B) of such Code is amended by striking “6427(l)(5)(B)” and inserting “6427(l)(6)(B)”. | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A) by striking “October 1, 2007” and inserting “October 1, 2011”, and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A) by inserting “or the FAA Reauthorization Act of 2007” before the semicolon at the end. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (2) of section 9502(f) of such Code is amended by striking “October 1, 2007” and inserting “October 1, 2011”. | the bill names no machine-readable US Code section |
+| — | amend | Subparagraph (C) of section 9502(b)(1) of such Code is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2) by striking “(other than subsection (l)(4) thereof)”, and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (3) by striking “(other than payments made by reason of paragraph (4) of section 6427(l))”. | the bill names no machine-readable US Code section |
+| — | replace | Section 9503(b)(4) of such Code is amended by striking “or” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting a comma, and by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 9503(c) of such Code is amended by striking the last paragraph (relating to transfers from the Trust Fund for certain aviation fuel taxes). | the bill names no machine-readable US Code section |
+| — | strike | Section 9502(a) of such Code is amended by striking “, section 9503(c)(7),”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 9502(d) of such Code is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 9502(d) of such Code, as amended by this title, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

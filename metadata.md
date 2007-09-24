@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2881
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2881
@@ -149,3 +149,4 @@ FAA Reauthorization Act of 2007
 - 2007-09-20 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2881.
 - 2007-09-20 — The Speaker designated the Honorable Diana DeGette to act as Chairwoman of the Committee.
 - 2007-09-20 — The previous question was ordered pursuant to the rule. (consideration: CR H10687)
+- 2007-09-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.
