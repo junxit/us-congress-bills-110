@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 186
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 186
@@ -33,3 +33,10 @@ Honoring the 75th anniversary of Brookgreen Gardens in Murrells Inlet, South Car
 - 2007-07-18 — Introduced in House
 - 2007-07-18 — Introduced in House
 - 2007-07-18 — Referred to the House Committee on Natural Resources.
+- 2007-07-19 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10702)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 186.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Rahall moved to suspend the rules and agree to the resolution.
+- 2007-09-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10702)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10702)
