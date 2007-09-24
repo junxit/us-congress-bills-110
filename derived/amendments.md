@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 43
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | That subsection (b) of section 3101 of title 31, United States Code, is amended by striking out the dollar limita-tion contained in such subsection and inserting in lieu thereof $9,815,000,000,000. | the bill names no machine-readable US Code section |
+| — | replace | That subsection (b) of section 3101 of title 31, United States Code, is amended by striking out the dollar limitation contained in such subsection and inserting in lieu thereof $9,815,000,000,000. | the bill names no machine-readable US Code section |
