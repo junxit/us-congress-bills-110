@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3375
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3375
@@ -35,3 +35,9 @@ To extend the trade adjustment assistance program under the Trade Act of 1974 fo
 - 2007-08-03 — Introduced in House
 - 2007-08-03 — Introduced in House
 - 2007-08-03 — Referred to the House Committee on Ways and Means.
+- 2007-09-18 — Committee Consideration and Mark-up Session Held.
+- 2007-09-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-09-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-09-24 — Placed on the Union Calendar, Calendar No. 214.
+- 2007-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-345.
+- 2007-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-345.
