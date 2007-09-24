@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3046
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3046
@@ -16,7 +16,7 @@ Social Security Number Privacy and Identity Theft Prevention Act of 2007
 
 - Rep. McNulty, Michael R. [D-NY-21] (M000590)
 
-## Cosponsors (24)
+## Cosponsors (53)
 
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -42,6 +42,35 @@ Social Security Number Privacy and Identity Theft Prevention Act of 2007
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Sullivan, John [R-OK-1] (S001155)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Obey, David R. [D-WI-7] (O000007)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
 ## Committees (1)
 
@@ -53,3 +82,8 @@ Social Security Number Privacy and Identity Theft Prevention Act of 2007
 - 2007-07-16 — Introduced in House
 - 2007-07-16 — Referred to the House Committee on Ways and Means.
 - 2007-07-16 — Sponsor introductory remarks on measure. (CR E1527-1528)
+- 2007-07-18 — Committee Consideration and Mark-up Session Held.
+- 2007-07-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 41 - 0.
+- 2007-09-24 — Placed on the Union Calendar, Calendar No. 210.
+- 2007-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-339.
+- 2007-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-339.
