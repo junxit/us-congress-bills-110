@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1520
@@ -16,7 +16,7 @@ Hudson-Fulton-Champlain Quadricentennial Commemoration Act of 2007
 
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
-## Cosponsors (29)
+## Cosponsors (31)
 
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
@@ -47,6 +47,8 @@ Hudson-Fulton-Champlain Quadricentennial Commemoration Act of 2007
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Walsh, James T. [R-NY-25] (W000099)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
 
 ## Committees (1)
 
@@ -57,3 +59,13 @@ Hudson-Fulton-Champlain Quadricentennial Commemoration Act of 2007
 - 2007-03-14 — Introduced in House
 - 2007-03-14 — Introduced in House
 - 2007-03-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-03-27 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-07-19 — Subcommittee on Federal Workforce, Post Office, and the District of Columbia Discharged.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10709-10713)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1520.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2007-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10709-10712)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10709-10712)
