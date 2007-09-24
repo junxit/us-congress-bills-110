@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1400
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -52,11 +52,11 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `50 U.S.C. § 1701` | amend | Section 4(b) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | add-at-end | Section 5 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 5 of the Iran Sanctions Act of 1996 is amended by adding the following new subsection at the end: | the bill names no machine-readable US Code section |
-| `50 U.S.C. § 1701` | insert | by inserting after “trust,” the following: “financial institution, insurer, underwriter, guarantor, any other business organization, including any foreign subsidiaries of the foregoing,”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | insert | by inserting before the semicolon the following: “, such as an export credit agency”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | insert | Section 14(14) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by inserting after “petroleum” the second place it appears, the following: “, petroleum by-products, liquefied natural gas, the sale of oil or liquefied na… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | in subsection (d)(1), by striking “except those with respect to which the President has exercised the waiver authority under subsection (c)”; | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 1701` | amend | Section 14(13)(B) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | insert | Section 14(14) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by inserting after “petroleum” the second place it appears the following: “, petroleum refining capacity, liquefied natural gas, the sale of oil tankers or… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in subsection (d)(1), by striking “except those with respect to which the President has exercised the waiver authority of subsection (c)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d), (e), and (f) as subsections (c), (d), and (e), respectively. | the bill names no machine-readable US Code section |
 | — | strike | Section 9 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by striking subsection (c). | the bill names no machine-readable US Code section |
