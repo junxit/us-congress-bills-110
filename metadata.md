@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3540
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3540
@@ -36,3 +36,9 @@ Federal Aviation Administration Extension Act of 2007
 - 2007-09-20 — Placed on the Union Calendar, Calendar No. 209.
 - 2007-09-20 — Reported by the Committee on Ways and Means. H. Rept. 110-337, Part I.
 - 2007-09-20 — Reported by the Committee on Ways and Means. H. Rept. 110-337, Part I.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10718-10720)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3540.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
+- 2007-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10718)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10718)
