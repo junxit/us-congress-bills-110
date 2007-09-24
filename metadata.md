@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 634
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 634
@@ -16,7 +16,7 @@ Encouraging participation in hunting and fishing, and supporting the goals and i
 
 - Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
 
-## Cosponsors (44)
+## Cosponsors (55)
 
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 - Rep. Fallin, Mary [R-OK-5] (F000453)
@@ -62,6 +62,17 @@ Encouraging participation in hunting and fishing, and supporting the goals and i
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Rep. Lampson, Nick [D-TX-22] (L000043)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Lewis, Ron [R-KY-2] (L000293)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
 
 ## Committees (1)
 
@@ -72,3 +83,10 @@ Encouraging participation in hunting and fishing, and supporting the goals and i
 - 2007-09-05 — Introduced in House
 - 2007-09-05 — Introduced in House
 - 2007-09-05 — Referred to the House Committee on Natural Resources.
+- 2007-09-07 — Referred to the Subcommittee on Fisheries, Wildlife, and Oceans.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10701-10702)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 634.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Rahall moved to suspend the rules and agree to the resolution, as amended.
+- 2007-09-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10701)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10701)
