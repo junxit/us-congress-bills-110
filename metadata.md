@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 668
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 668
@@ -16,7 +16,7 @@ Recognizing the 50th anniversary of the September 25, 1957, desegregation of Lit
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (29)
+## Cosponsors (36)
 
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 - Rep. Berry, Marion [D-AR-1] (B000420)
@@ -47,6 +47,13 @@ Recognizing the 50th anniversary of the September 25, 1957, desegregation of Lit
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
 
 ## Committees (1)
 
@@ -58,3 +65,11 @@ Recognizing the 50th anniversary of the September 25, 1957, desegregation of Lit
 - 2007-09-20 — Introduced in House
 - 2007-09-20 — Referred to the House Committee on the Judiciary.
 - 2007-09-20 — Sponsor introductory remarks on measure. (CR E1944)
+- 2007-09-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-09-24 — Considered as unfinished business. (consideration: CR H10734-10735)
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10724-10727)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 668.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Conyers moved to suspend the rules and agree to the resolution.
+- 2007-09-24 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 892). (text: CR H10724-10725)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 892).(text: CR H10724-10725)
