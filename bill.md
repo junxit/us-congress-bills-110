@@ -12,21 +12,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas the financial services industry is vitally important to the United States economy;
-- Whereas in 2003, employment in the financial services industry was 7 percent of total employment in the United States, with over 9,000,000 employees;
-- Whereas since 1995, the average hourly earnings of non-supervisory workers in financial activities was above the private industry and increased from approximately $12 in 1995 to $17.53 in 2004;
-- Whereas minorities and women face various challenges in obtaining and maintaining positions, especially upper level positions, within the financial services industry;
-- Whereas minorities and women often cite the lack of mentors and leadership training as barriers to their advancement;
-- Whereas in 2003, only 6 percent of the board seats at the Fortune 1,000 companies were held by minorities and women comprised only 13.4 percent of Fortune 500 board seats in 2003;
-- Whereas in financial services, the percentage of black employees has slowly decreased from 10.5 percent to 9.8 percent between 2000 to 2003;
-- Whereas in 2003, blacks were only 9.8 percent of those employed in the financial services industry and just 6.9 percent of financial managers;
-- Whereas from 2000 to 2003, Hispanics have been an increasing percentage of the United States workforce and the financial services industry;
-- Whereas in 2003, Hispanics comprised only 9 percent of those employed in the financial services industry, just 6.1 percent of financial managers, and less than 2 percent of the directors of Fortune 1,000 companies;
-- Whereas in 2004, Asians represented only 4.1 percent of the employees in the financial services industry and just 3.4 percent of all financial managers;
-- Whereas from 2000 to 2003, a greater percentage of women worked in the financial services industry than any other United States industry;
-- Whereas approximately half of financial managers are women and the percentage of women financial managers was 52.7 in 2003;
-- Whereas in a 2001 survey of 2,200 senior and pipeline level women and men representing approximately 60 securities firms, 65 percent of women reported that women have to work harder than men to get the same rewards, and 51 percent of women report that women are paid less than men for doing similar work; and
-- Whereas a minority of women (32 percent) and men (43 percent) believe that promotion decisions are made fairly in their firm: Now, therefore, be it
-- Whereas the financial services industry is vitally important to the United States economy;
 - Whereas in 2005, employment in the financial services industry was about 7 percent of total employment in the United States, with over 10,000,000 employees;
 - Whereas since 1995, the average hourly earnings of non-supervisory workers in financial activities was above the private industry and increased from approximately $13 in 1997 to $18.80 in 2006;
 - Whereas minorities and women face various challenges in obtaining and maintaining positions, especially upper-level positions, within the financial services industry;

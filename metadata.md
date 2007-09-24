@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 140
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 140
@@ -103,3 +103,9 @@ Financial Services Diversity Initiative
 - 2007-07-30 — Placed on the Union Calendar, Calendar No. 180.
 - 2007-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-278, Part I.
 - 2007-07-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-278, Part I.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10730-10732)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 140.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Meeks (NY) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-09-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10730-10731)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10730-10731)
