@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1389
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1389
@@ -16,7 +16,7 @@ Star-Spangled Banner and War of 1812 Bicentennial Commission Act
 
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 
-## Cosponsors (15)
+## Cosponsors (20)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
@@ -33,6 +33,11 @@ Star-Spangled Banner and War of 1812 Bicentennial Commission Act
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Davis, Tom [R-VA-11] (D000136)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
 ## Committees (1)
 
@@ -44,3 +49,11 @@ Star-Spangled Banner and War of 1812 Bicentennial Commission Act
 - 2007-03-07 — Introduced in House
 - 2007-03-07 — Referred to the House Committee on Oversight and Government Reform.
 - 2007-03-07 — Sponsor introductory remarks on measure. (CR H2268)
+- 2007-07-19 — Committee Consideration and Mark-up Session Held.
+- 2007-07-19 — Ordered to be Reported by Unanimous Consent.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10713-10716)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1389.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.
+- 2007-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10713-10715)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10713-10715)

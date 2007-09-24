@@ -18,7 +18,7 @@ This Act may be cited as the “Star-Spangled Banner and War of 1812 Bicentennia
 - **(a)** *Findings* Congress finds that—
   - **(1)** the War of 1812 served as a crucial test for the United States Constitution and the newly established democratic Government;
   - **(2)** vast regions of the new multi-party democracy, including the Chesapeake Bay, the Gulf of Mexico and the Niagara Frontier, were affected by the War of 1812 including the States of Alabama, Connecticut, Delaware, Florida, Georgia, Iowa, Illinois, Indiana, Kentucky, Louisiana, Massachusetts, Maryland, Maine, Michigan, Missouri, Mississippi, New Jersey, North Carolina, New Hampshire, New York, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Tennessee, Virginia, Vermont, Wisconsin, West Virginia, and the District of Columbia;
-  - **(3)** the British occupation of American territory along the Great Lakes and in other regions, the burning of Washington, D.C., the American victories at Fort McHenry, New Orleans, and Plattsburgh, among other battles, had far reaching effects on American society;
+  - **(3)** the British occupation of American territory along the Great Lakes and in other regions, the burning of Washington, DC, the American victories at Fort McHenry, New Orleans, and Plattsburgh, among other battles, had far reaching effects on American society;
   - **(4)** at the Battle of Baltimore, Francis Scott Key wrote the poem that celebrated the flag and later was titled “the Star-Spangled Banner”;
   - **(5)** the poem led to the establishment of the flag as an American icon and became the words of the national anthem of the United States in 1932; and
   - **(6)** it is in the national interest to provide for appropriate commemorative activities to maximize public understanding of the meaning of the War of 1812 in the history of the United States.
@@ -39,26 +39,25 @@ In this Act:
 - **(3)** *Qualified citizen* The term qualified citizen means a citizen of the United States with an interest in, support for, and expertise appropriate to the commemoration.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(5)** *States* The term States—
-  - **(A)** means the States of Alabama, Kentucky, Indiana, Louisiana, Maryland, Virginia, New York, Maine, Michigan, and Ohio; and
+  - **(A)** means the States of Alabama, Kentucky, Indiana, Louisiana, Maryland, Vermont, Virginia, New York, Maine, Michigan, and Ohio; and
   - **(B)** includes agencies and entities of each State.
 
 ## § 4. Star-Spangled Banner and War of 1812 Commemoration Commission
 
-- **(a)** *In General* There is established a commission to be known as the “Star-Spangled Banner and War of 1812 Bicentennial Commission”.
+- **(a)** *In General* The Secretary shall establish a commission to be known as the “Star-Spangled Banner and War of 1812 Bicentennial Commission”.
 - **(b)** *Membership*
-  - **(1)** *In general* The Commission shall be composed of 21 members, of whom—
-    - **(A)** 3 members shall be qualified citizens appointed by the Secretary after consideration of nominations submitted by the Governors of Maryland, Louisiana, and Virginia;
-    - **(B)** 7 members shall be qualified citizens appointed by the Secretary after consideration of nominations submitted by the Governors of Alabama, Kentucky, Indiana, New York, Maine, Michigan and Ohio;
-    - **(C)** 3 members shall be qualified citizens appointed by the Secretary after consideration of nominations submitted by the Mayors of the District of Columbia, the City of Baltimore, and the City of New Orleans;
-    - **(D)** 2 members shall be employees of the National Park Service, of whom—
+  - **(1)** *In general* The Commission shall be composed of 22 members, of whom—
+    - **(A)** 11 members shall be qualified citizens appointed by the Secretary after consideration of nominations submitted by the Governors of Alabama, Kentucky, Indiana, Louisiana, Maine, Maryland, Michigan, New York, Ohio, Vermont, and Virginia;
+    - **(B)** 3 members shall be qualified citizens appointed by the Secretary after consideration of nominations submitted by the Mayors of the District of Columbia, the City of Baltimore, and the City of New Orleans;
+    - **(C)** 2 members shall be employees of the National Park Service, of whom—
       - **(i)** 1 shall be the Director of the National Park Service (or a designee); and
       - **(ii)** 1 shall be an employee of the National Park Service having experience relevant to the commemoration;
-    - **(E)** 4 members shall be qualified citizens appointed by the Secretary with consideration of recommendations—
+    - **(D)** 4 members shall be qualified citizens appointed by the Secretary with consideration of recommendations—
       - **(i)** 1 of which are submitted by the majority leader of the Senate;
       - **(ii)** 1 of which are submitted by the minority leader of the Senate;
       - **(iii)** 1 of which are submitted by the majority leader of the House of Representatives;
       - **(iv)** 1 of which are submitted by the minority leader of the House of Representatives; and
-    - **(F)** 2 members shall be appointed by the Secretary from among individuals with expertise in the history of the War of 1812.
+    - **(E)** 2 members shall be appointed by the Secretary from among individuals with expertise in the history of the War of 1812.
   - **(2)** *Date of appointments* The appointment of a member of the Commission shall be made not later than 120 days after the date of enactment of this Act.
 - **(c)** *Term; Vacancies*
   - **(1)** *Term* A member shall be appointed for the life of the Commission.
@@ -111,9 +110,7 @@ In this Act:
 - **(c)** *Information From Federal Agencies*
   - **(1)** *In general* The Commission may secure directly from a Federal agency such information as the Commission considers necessary to carry out this Act.
   - **(2)** *Provision of information* On request of the Chairperson of the Commission, the head of the agency shall provide the information to the Commission in accordance with applicable laws.
-- **(d)** *FACA application* The Federal Advisory Committee Act (5 U.S.C. App.)—
-  - **(1)** shall not apply to the Commission; and
-  - **(2)** shall apply to advisory committees established under subsection (a)(2).
+- **(d)** *FACA nonapplicability* Section 14(b) of the Federal Advisory Committees Act (5 U.S.C. App.) shall not apply to the Commission.
 - **(e)** *No effect on authority* Nothing in this Act supersedes the authority of the States or the National Park Service concerning the commemoration.
 
 ## § 7. Personnel matters
@@ -146,7 +143,7 @@ In this Act:
 
 ## § 8. Authorization of appropriations
 
-- **(a)** *In general* There are authorized to be appropriated to carry out this Act such sums as are necessary for each of fiscal years 2008 through 2015.
+- **(a)** *In general* There are authorized to be appropriated to carry out this Act not to exceed $500,000 for each of fiscal years 2008 through 2015.
 - **(b)** *Availability of funds* Amounts appropriated under this section for any fiscal year shall remain available until December 31, 2015.
 
 ## § 9. Termination of commission
@@ -154,3 +151,4 @@ In this Act:
 - **(a)** *In general* The Commission shall terminate on December 31, 2015.
 - **(b)** *Transfer of materials* Not later than the date of termination, the Commission shall transfer any documents, materials, books, manuscripts, miscellaneous printed matter, memorabilia, relics, exhibits, and any materials donated to the Commission that relate to the War of 1812, to Fort McHenry National Monument and Historic Shrine.
 - **(c)** *Disposition of funds* Any funds held by the Commission on the date of termination shall be deposited in the general fund of the Treasury.
+- **(d)** *Annual Audit* The Inspector General of the Department of the Interior shall perform an annual audit of the Commission, shall make the results of the audit available to the public, and shall transmit such results to the Committee on Oversight and Government Reform in the House of Representatives and the Committee on Judiciary in the Senate.
