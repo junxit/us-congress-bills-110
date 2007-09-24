@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 658
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 658
@@ -16,9 +16,11 @@ Supporting the goals and ideals of Federal Credit Union Month and recognizing th
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
 
 ## Committees (1)
 
@@ -29,3 +31,9 @@ Supporting the goals and ideals of Federal Credit Union Month and recognizing th
 - 2007-09-18 — Introduced in House
 - 2007-09-18 — Introduced in House
 - 2007-09-18 — Referred to the House Committee on Financial Services.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10732-10733)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 658.
+- 2007-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-24 — Mr. Kanjorski moved to suspend the rules and agree to the resolution.
+- 2007-09-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10732-10733)
+- 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10732-10733)
