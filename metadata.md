@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 186
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 186
@@ -24,9 +24,10 @@ Honoring the 75th anniversary of Brookgreen Gardens in Murrells Inlet, South Car
 - Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Honoring the 75th anniversary of Brookgreen Gardens in Murrells Inlet, South Car
 - 2007-09-24 — Mr. Rahall moved to suspend the rules and agree to the resolution.
 - 2007-09-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10702)
 - 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10702)
+- 2007-09-25 — Received in the Senate and referred to the Committee on Energy and Natural Resources.
