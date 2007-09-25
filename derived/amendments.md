@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1400
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 2 executed, 10 stated and not applied.
+14 amendatory instructions. 2 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -55,9 +55,11 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 1701` | add-at-end | Section 5 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Section 5 of the Iran Sanctions Act of 1996 is amended by adding the following new subsection at the end: | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 1701` | amend | Section 14(13)(B) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | insert | Section 14(14) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by inserting after “petroleum” the second place it appears the following: “, petroleum refining capacity, liquefied natural gas, the sale of oil tankers or… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | insert | in paragraph (4), by inserting “tanker or” after “transportation by”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 1701` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | insert | in the second sentence, by inserting “, other than a sale described in subparagraph (D)” after “goods, service, or technology”. | the bill quotes the text inserted but describes where it goes |
 | — | strike | in subsection (d)(1), by striking “except those with respect to which the President has exercised the waiver authority of subsection (c)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (c); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (d), (e), and (f) as subsections (c), (d), and (e), respectively. | the bill names no machine-readable US Code section |
 | — | strike | Section 9 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by striking subsection (c). | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 167` | add-at-end | Subsection (h) of section 167 of the Internal Revenue Code of 1986 (relating to amortization of geological and geophysical expenditures) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1701` | insert | Section 6(6) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by inserting “the authorities under” after “in accordance with”. | the bill quotes the text inserted but describes where it goes |

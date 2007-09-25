@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1400
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1400
@@ -352,6 +352,10 @@ Iran Counter-Proliferation Act of 2007
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2007-09-25 — [House 110-1-895](votes/house-110-1-0895.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (397–16)
+
 ## Actions
 
 - 2007-03-08 — Introduced in House
@@ -388,3 +392,9 @@ Iran Counter-Proliferation Act of 2007
 - 2007-09-24 — Committee on Ways and Means discharged.
 - 2007-09-24 — Committee on Ways and Means discharged.
 - 2007-09-24 — Placed on the Union Calendar, Calendar No. 215.
+- 2007-09-25 — Considered under suspension of the rules. (consideration: CR H10764-10774)
+- 2007-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1400.
+- 2007-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-25 — Mr. Lantos moved to suspend the rules and pass the bill, as amended.
+- 2007-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 16 (Roll no. 895). (text: CR H10764-10767)
+- 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 16 (Roll no. 895).(text: CR H10764-10767)
