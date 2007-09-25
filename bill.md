@@ -2,7 +2,7 @@
 legis-num: H. RES. 663
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 663
@@ -18,6 +18,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas membership in the Veterans of Foreign Wars continued to grow and reached nearly 200,000 in 1936 when the organization received its Congressional Charter;
 - Whereas the 2.3 million members of the Veterans of Foreign Wars and Ladies Auxiliary remain committed to the organization’s mission of “ensuring rights, remembering sacrifices, promoting patriotism, performing community services, and advocating for a strong national defense”;
 - Whereas the organization continues this honorable mission by effectively advocating for our Nation’s veterans, to include helping establish the present-day Department of Veterans Affairs, creating the Montgomery G.I. Bill, developing the national cemetery system, and assisting combat wounded veterans receive compensation for their injuries; and
-- Whereas the members of the Veterans of Foreign Wars celebrate the organization’s establishment and achievements on September 29th while carrying on the vital mission of their predecessors: Now, therefore, be it:
+- Whereas the members of the Veterans of Foreign Wars celebrate the organization’s establishment and achievements on September 29th while carrying on the vital mission of their predecessors: Now, therefore, be it
 
 That the House of Representatives supports the goals and ideals of Veterans of Foreign Wars Day.

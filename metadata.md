@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 663
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 663
@@ -80,8 +80,22 @@ Supporting the goals and ideals of Veterans of Foreign Wars Day.
 
 - House — Oversight and Accountability Committee
 
+## Recorded votes (1)
+
+- 2007-09-25 — [House 110-1-898](votes/house-110-1-0898.md) — On Motion to Suspend the Rules and Agree — **Passed** (410–0)
+
 ## Actions
 
 - 2007-09-19 — Introduced in House
 - 2007-09-19 — Introduced in House
 - 2007-09-19 — Referred to the House Committee on Oversight and Government.
+- 2007-09-20 — Committee Consideration and Mark-up Session Held.
+- 2007-09-20 — Ordered to be Reported by Unanimous Consent.
+- 2007-09-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-09-24 — Considered under suspension of the rules. (consideration: CR H10707-10709)
+- 2007-09-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 663.
+- 2007-09-24 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-09-25 — Considered as unfinished business. (consideration: CR H10775-10776)
+- 2007-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-25 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 898). (text: CR 9/24/2007 H10707-10708)
+- 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 898).(text: CR 9/24/2007 H10707-10708)
