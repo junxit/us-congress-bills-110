@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3375
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3375
@@ -41,3 +41,13 @@ To extend the trade adjustment assistance program under the Trade Act of 1974 fo
 - 2007-09-24 — Placed on the Union Calendar, Calendar No. 214.
 - 2007-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-345.
 - 2007-09-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-345.
+- 2007-09-25 — Cleared for White House.
+- 2007-09-25 — Considered under suspension of the rules. (consideration: CR H10798-10801)
+- 2007-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3375.
+- 2007-09-25 — Message on Senate action sent to the House.
+- 2007-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-25 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
+- 2007-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10798)
+- 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10798)
+- 2007-09-25 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S12076)
+- 2007-09-25 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S12076)
