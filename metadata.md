@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 557
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 557
@@ -16,7 +16,7 @@ Strongly condemning the United Nations Human Rights Council for ignoring severe 
 
 - Rep. Campbell, John [R-CA-48] (C001064)
 
-## Cosponsors (63)
+## Cosponsors (84)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
@@ -81,13 +81,48 @@ Strongly condemning the United Nations Human Rights Council for ignoring severe 
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Heller, Dean [R-NV-2] (H001041)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. King, Steve [R-IA-5] (K000362)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2007-09-25 — [House 110-1-901](votes/house-110-1-0901.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (416–2)
 
 ## Actions
 
 - 2007-07-19 — Introduced in House
 - 2007-07-19 — Introduced in House
 - 2007-07-19 — Referred to the House Committee on Foreign Affairs.
+- 2007-07-31 — Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.
+- 2007-07-31 — Committee Consideration and Mark-up Session Held.
+- 2007-09-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-09-25 — Considered as unfinished business. (consideration: CR H10802-10803)
+- 2007-09-25 — Considered under suspension of the rules. (consideration: CR H10782-10785)
+- 2007-09-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 557.
+- 2007-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-25 — Mr. Smith (WA) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-09-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 901). (text: CR H10782-10783)
+- 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 901).(text: CR H10782-10783)
