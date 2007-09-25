@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 140
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 140
@@ -83,10 +83,11 @@ Financial Services Diversity Initiative
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -109,3 +110,4 @@ Financial Services Diversity Initiative
 - 2007-09-24 — Mr. Meeks (NY) moved to suspend the rules and agree to the resolution, as amended.
 - 2007-09-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H10730-10731)
 - 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H10730-10731)
+- 2007-09-25 — Received in the Senate and referred to the Committee on Banking, Housing, and Urban Affairs.
