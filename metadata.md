@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1664
@@ -29,9 +29,10 @@ To authorize grants for contributions toward the establishment of the Woodrow Wi
 - Rep. Davis, Tom [R-VA-11] (D000136)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To authorize grants for contributions toward the establishment of the Woodrow Wi
 - 2007-09-24 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10717)
 - 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10717)
+- 2007-09-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
