@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1199
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1199
@@ -35,10 +35,11 @@ Drug Endangered Children Act of 2007
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -71,3 +72,4 @@ Drug Endangered Children Act of 2007
 - 2007-09-24 — Placed on the Union Calendar, Calendar No. 212.
 - 2007-09-24 — Reported by the Committee on Judiciary. H. Rept. 110-341, Part I.
 - 2007-09-24 — Reported by the Committee on Judiciary. H. Rept. 110-341, Part I.
+- 2007-09-25 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
