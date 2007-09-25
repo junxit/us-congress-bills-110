@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1943
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 18 U.S.C. § 4014
 
-> by striking “if such individual is determined to be at risk for infection with such virus in accordance with the guidelines issued by the Bureau of Prisons relating to infectious disease management” and inserting “unless the individual declines. The Attorney General shall also cause such individual to be so tested before release unless the individual declines.”.
+> by striking “if such individual is determined to be at risk for infection with such virus in accordance with the guidelines issued by the Bureau of Prisons relating to infectious disease management” and inserting “unless the individual declines. The Attorney General shall also cause such individual to be so tested before release unless the individual declines”.
 
 | | |
 |---|---|
 | Removed | `if such individual is determined to be at risk for infection with such virus in accordance with the guidelines issued by the Bureau of Prisons relating to infectious disease management` |
-| Inserted | `unless the individual declines. The Attorney General shall also cause such individual to be so tested before release unless the individual declines.` |
+| Inserted | `unless the individual declines. The Attorney General shall also cause such individual to be so tested before release unless the individual declines` |
 
 ## Stated, not applied
 

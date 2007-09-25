@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1943
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1943
@@ -81,3 +81,9 @@ Stop AIDS in Prison Act of 2007
 - 2007-09-24 — Placed on the Union Calendar, Calendar No. 213.
 - 2007-09-24 — Reported by the Committee on Judiciary. H. Rept. 110-342.
 - 2007-09-24 — Reported by the Committee on Judiciary. H. Rept. 110-342.
+- 2007-09-25 — Considered under suspension of the rules. (consideration: CR H10793-10796)
+- 2007-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1943.
+- 2007-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-25 — Ms. Waters moved to suspend the rules and pass the bill, as amended.
+- 2007-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10793-10795)
+- 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10793-10795)
