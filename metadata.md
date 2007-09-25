@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3375
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3375
@@ -51,3 +51,9 @@ To extend the trade adjustment assistance program under the Trade Act of 1974 fo
 - 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10798)
 - 2007-09-25 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S12076)
 - 2007-09-25 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S12076)
+- 2007-09-26 — Presented to President.
+- 2007-09-26 — Presented to President.
+- 2007-09-28 — Became Public Law No: 110-89.
+- 2007-09-28 — Became Public Law No: 110-89.
+- 2007-09-28 — Signed by President.
+- 2007-09-28 — Signed by President.
