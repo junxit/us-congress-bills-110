@@ -2,7 +2,7 @@
 legis-num: H. RES. 95
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 95
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas in 2006, thirty-one states issued proclamations recognizing September as Campus Fire Safety Month;
-- Whereas since January 2000, at least ninety-nine people, including students, parents, and children have died in student housing fires;
+- Whereas since January 2000, at least 113 people, including students, parents, and children have died in student housing fires;
 - Whereas over three-fourths of these deaths have occurred in off-campus occupancies;
 - Whereas a majority of the students across the Nation live in off-campus occupancies;
 - Whereas a number of fatal fires have occurred in buildings where the fire safety systems have been compromised or disabled by the occupants;
