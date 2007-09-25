@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3625
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3625
@@ -36,3 +36,15 @@ To make permanent the waiver authority of the Secretary of Education with respec
 - 2007-09-25 — Mr. Sestak moved to suspend the rules and pass the bill.
 - 2007-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10789)
 - 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10789)
+- 2007-09-26 — Received in the Senate, read twice.
+- 2007-09-27 — Cleared for White House.
+- 2007-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S12316)
+- 2007-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S12316)
+- 2007-09-28 — Message on Senate action sent to the House.
+- 2007-09-29 — Presented to President.
+- 2007-09-29 — Presented to President.
+- 2007-09-30 — Became Public Law No: 110-93.
+- 2007-09-30 — Became Public Law No: 110-93.
+- 2007-09-30 — Signed by President.
+- 2007-09-30 — Signed by President.
+- 2007-10-17 — Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
