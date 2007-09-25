@@ -1,0 +1,36 @@
+---
+legis-num: S. 2089
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2089
+
+> To amend title XVIII of the Social Security Act to reduce the coverage gap in prescription drug coverage under part D of such title based on savings to the Medicare program resulting from the negotiation of prescription drug prices.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicare Prescription Drug Gap Reduction Act of 2007”.
+
+## § 2. Reducing coverage gap
+
+Section 1860D–2(b) of the Social Security Act (42 U.S.C. 1395w–102(b)) is amended—
+
+- **(1)** in paragraph (3)(A), by striking “paragraph (4)” and inserting “paragraph (4), subject to the increase described in paragraph (7)”; and
+- **(2)** by adding at the end the following new paragraph:
+  > - **(7)** *Increase of initial coverage limit based on medicare savings due to negotiation of drug prices* For each year (beginning with 2009), the Secretary shall increase the initial coverage limit for the year specified in paragraph (3) so that the aggregate amount of increased expenditures from the Medicare Prescription Drug Account as a result of such increase under this paragraph in the year (as estimated by the Office of the Actuary of the Centers for Medicare & Medicaid Services) is equal to the aggregate amount of reduced expenditures from such Account that the Office of the Actuary estimates will result in the year as a result of the application of the amendment made by section 3(a) of the Medicare Prescription Drug Gap Reduction Act of 2007.
+
+## § 3. Negotiating fair prices for medicare prescription drugs
+
+- **(a)** *In General* Section 1860D–11 of the Social Security Act (42 U.S.C. 1395w–111) is amended by striking subsection (i) (relating to noninterference) and inserting the following:
+  > - **(i)** *Authority To Negotiate Prices With Manufacturers*
+  >   - **(1)** *In general* Subject to paragraph (4), in order to ensure that beneficiaries enrolled under prescription drug plans and MA–PD plans pay the lowest possible price, the Secretary shall have authority similar to that of other Federal entities that purchase prescription drugs in bulk to negotiate contracts with manufacturers of covered part D drugs, consistent with the requirements and in furtherance of the goals of providing quality care and containing costs under this part.
+  >   - **(2)** *Mandatory responsibilities* The Secretary shall be required to—
+  >     - **(A)** negotiate contracts with manufacturers of covered part D drugs for each fallback prescription drug plan under subsection (g); and
+  >     - **(B)** participate in negotiation of contracts of any covered part D drug upon request of an approved prescription drug plan or MA–PD plan.
+  >   - **(3)** *Rule of construction* Nothing in paragraph (2) shall be construed to limit the authority of the Secretary under paragraph (1) to the mandatory responsibilities under paragraph (2).
+  >   - **(4)** *No particular formulary or price structure* In order to promote competition under this part and in carrying out this part, the Secretary may not require a particular formulary or institute a price structure for the reimbursement of covered part D drugs.
+  >   - **(5)** *Use of savings* The savings to the Medicare Prescription Drug Account through the use of the authority provided under this subsection (including the mandatory responsibilities under paragraph (2)) shall be used to increase the initial coverage limit for the year in accordance with section 1860D–2(b)(7).
+
+- **(b)** *Effective Date* The amendment made by subsection (a) shall take effect on the date of enactment of this Act.
