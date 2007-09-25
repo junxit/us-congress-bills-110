@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 193
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 193
@@ -110,9 +110,10 @@ Recognizing all hunters across the United States for their continued commitment 
 - Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -133,3 +134,4 @@ Recognizing all hunters across the United States for their continued commitment 
 - 2007-09-24 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
 - 2007-09-24 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 891). (text: CR H10702-10703)
 - 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 891).(text: CR H10702-10703)
+- 2007-09-25 — Received in the Senate and referred to the Committee on the Judiciary.
