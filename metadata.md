@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1520
@@ -69,3 +69,4 @@ Hudson-Fulton-Champlain Quadricentennial Commemoration Act of 2007
 - 2007-09-24 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10709-10712)
 - 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10709-10712)
+- 2007-09-25 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 385.
