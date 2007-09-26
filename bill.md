@@ -2,7 +2,7 @@
 legis-num: H. RES. 677
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 677
@@ -13,7 +13,7 @@ That upon the adoption of this resolution it shall be in order to consider in th
 
 ## § 2.
 
-During consideration of House Joint Resolution 52 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the joint resolution to such time as may be designated by the Speaker.
+During consideration of House Joint Resolution 52 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further con- sideration of the joint resolution to such time as may be designated by the Speaker.
 
 ## § 3.
 
