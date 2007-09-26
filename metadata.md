@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2654
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2654
@@ -40,3 +40,7 @@ To designate the facility of the United States Postal Service located at 202 Sou
 - 2007-09-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10329)
 - 2007-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10329)
 - 2007-09-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 391.
