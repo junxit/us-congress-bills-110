@@ -1,7 +1,7 @@
 ---
 measure: H.R. 976
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 976
@@ -16,7 +16,7 @@ Children's Health Insurance Program Reauthorization Act of 2007
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (246)
+## Cosponsors (247)
 
 - Rep. McCrery, Jim [R-LA-4] (M000388)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
@@ -136,6 +136,7 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Obama, Barack [D-IL] (O000167)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
@@ -612,3 +613,29 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - 2007-09-26 — Senate amendment submitted
 - 2007-09-26 — Senate amendment submitted
 - 2007-09-26 — Senate amendment submitted
+- 2007-09-27 — Cleared for White House.
+- 2007-09-27 — Cloture on the motion to concur in House amendments to Senate amendments to the bill H.R. 976 invoked in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 352. (consideration: CR S12206-12207; text: CR S12206)
+- 2007-09-27 — Considered by Senate. (consideration: CR S12206)
+- 2007-09-27 — Considered by Senate. (consideration: CR S12206)
+- 2007-09-27 — Message on Senate action sent to the House.
+- 2007-09-27 — Motion to concur in House amendments to Senate amendments to the bill H.R. 976 considered in Senate. (consideration: CR S12206-12207, S12207-12228, S12229-12235, S12236-12247, S12247-12248, S12254-12255)
+- 2007-09-27 — Motion to concur in the House amendment to the Senate amendment to the bill H.R. 976 with an amendment (SA 3071) withdrawn in Senate. (consideration: CR S12255)
+- 2007-09-27 — Proposed amendment SA 3071 withdrawn in Senate. (consideration: CR S12255)
+- 2007-09-27 — Resolving differences -- Senate actions: Senate agreed to House amendments to Senate amendments (text and title) by Yea-Nay Vote. 67 - 29. Record Vote Number: 353.
+- 2007-09-27 — SA 3072 fell when SA 3071 withdrawn. (consideration: CR S12255)
+- 2007-09-27 — Senate agreed to House amendments to Senate amendments (text and title) by Yea-Nay Vote. 67 - 29. Record Vote Number: 353.
+- 2007-10-02 — Presented to President.
+- 2007-10-02 — Presented to President.
+- 2007-10-03 — DEBATE - The House proceeded with one hour of debate on the Hoyer motion to postpone consideration of the veto message to accompany H.R. 976.
+- 2007-10-03 — Mr. Hoyer moved to postpone consideration of the veto message until Oct. 18. (consideration: CR H11203-11214)
+- 2007-10-03 — On motion to postpone consideration of the veto message Agreed to by recorded vote: 222 - 197 (Roll no. 938). (consideration: CR H11213-11214)
+- 2007-10-03 — The Chair laid before the House the veto message from the President.
+- 2007-10-03 — The previous question on the motion to postpone consideration of the veto message was ordered without objection. (consideration: CR H11213)
+- 2007-10-03 — Vetoed by President. (text of veto message: CR H11203)
+- 2007-10-03 — Vetoed by President.(text of veto message: CR H11203)
+- 2007-10-18 — DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 976, the objections of the President to the contrary, notwithstanding.
+- 2007-10-18 — Failed of passage in House over veto: On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 273 - 156 (Roll no. 982).(consideration: CR H11735-11754)
+- 2007-10-18 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 273 - 156 (Roll no. 982). (consideration: CR H11735-11754)
+- 2007-10-18 — The Chair announced that the message and the accompanying bill would be referred to the Committees on Energy and Commerce and Ways and Means and that the Clerk would be directed to notify the Senate of the actions of the House.
+- 2007-10-18 — The Chair laid before the House the veto message from the President.
+- 2007-10-18 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used in debate. The Chair ruled that the words did not breach the rules of decorum and were in order. The House resumed debate on H.R. 976.
