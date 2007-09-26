@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2693
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2693
@@ -51,3 +51,31 @@ Popcorn Workers Lung Disease Prevention Act
 - 2007-07-18 — Placed on the Union Calendar, Calendar No. 149.
 - 2007-07-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-239.
 - 2007-07-18 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-239.
+- 2007-09-25 — Rules Committee Resolution H. Res. 678 Reported to House. Rule provides for consideration of H.R. 2693 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2007-09-26 — Amendment (A001) offered by Mr. George Miller. (consideration: CR H10928-10929; text: CR H10928)
+- 2007-09-26 — Amendment (A002) offered by Mr. Wilson (SC). (consideration: CR H10929-10931; text: CR H10929)
+- 2007-09-26 — Amendment agreed to Committee of the Whole
+- 2007-09-26 — Amendment failed in Committee of the Whole
+- 2007-09-26 — Considered under the provisions of rule H. Res. 678. (consideration: CR H10920-10932)
+- 2007-09-26 — DEBATE - Pursuant to the provisions of H.Res. 678, the Committee of the Whole proceeded with 10 minutes of debate on the George Miller (CA) amendment.
+- 2007-09-26 — DEBATE - Pursuant to the provisions of H.Res. 678, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (SC) amendment.
+- 2007-09-26 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2693.
+- 2007-09-26 — House amendment agreed to: On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.
+- 2007-09-26 — House amendment not agreed to: On agreeing to the Wilson (SC) amendment (A002) Failed by recorded vote: 189 - 233 (Roll no. 912).
+- 2007-09-26 — House amendment offered
+- 2007-09-26 — House amendment offered
+- 2007-09-26 — House amendment offered/reported by : Amendment (A001) offered by Mr. George Miller.(consideration: CR H10928-10929; text: CR H10928)
+- 2007-09-26 — House amendment offered/reported by : Amendment (A002) offered by Mr. Wilson (SC).(consideration: CR H10929-10931; text: CR H10929)
+- 2007-09-26 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 678 and Rule XVIII.
+- 2007-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-26 — On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.
+- 2007-09-26 — On agreeing to the Wilson (SC) amendment (A002) Failed by recorded vote: 189 - 233 (Roll no. 912).
+- 2007-09-26 — On passage Passed by the Yeas and Nays: 260 - 154, 2 Present (Roll no. 913).
+- 2007-09-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 260 - 154, 2 Present (Roll no. 913).
+- 2007-09-26 — Roll call votes on amendments in House
+- 2007-09-26 — Rule H. Res. 678 passed House.
+- 2007-09-26 — Rule provides for consideration of H.R. 2693 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2007-09-26 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H10928)
+- 2007-09-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2693.
+- 2007-09-26 — The Speaker designated the Honorable Dennis A. Cardoza to act as Chairman of the Committee.
+- 2007-09-26 — The previous question was ordered pursuant to the rule. (consideration: CR H10931)
