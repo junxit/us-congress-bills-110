@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2765
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2765
@@ -63,3 +63,13 @@ To designate the facility of the United States Postal Service located at 44 Nort
 - 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 392.
+- 2007-10-03 — Cleared for White House.
+- 2007-10-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S12692-12693)
+- 2007-10-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S12692-12693)
+- 2007-10-04 — Message on Senate action sent to the House.
+- 2007-10-15 — Presented to President.
+- 2007-10-15 — Presented to President.
+- 2007-10-24 — Became Public Law No: 110-101.
+- 2007-10-24 — Became Public Law No: 110-101.
+- 2007-10-24 — Signed by President.
+- 2007-10-24 — Signed by President.
