@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 210
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 210
@@ -92,9 +92,10 @@ Supporting the goals and ideals of Sickle Cell Disease Awareness Month.
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -115,3 +116,4 @@ Supporting the goals and ideals of Sickle Cell Disease Awareness Month.
 - 2007-09-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-09-25 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 897). (text: CR 9/24/2007 H10706-10707)
 - 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 897).(text: CR 9/24/2007 H10706-10707)
+- 2007-09-26 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
