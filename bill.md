@@ -21,7 +21,7 @@ Such amounts as may be necessary, at a rate for operations as provided in the ap
 
 ## § 102.
 
-- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for (1) the new production of items not funded for production in fiscal year 2007 or prior years; (2) the increase in production rates above those sustained with fiscal year 2007 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2007.
+- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for: (1) the new production of items not funded for production in fiscal year 2007 or prior years; (2) the increase in production rates above those sustained with fiscal year 2007 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2007.
 - **(b)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used to initiate multi-year procurements utilizing advance procurement funding for economic order quantity procurement unless specifically appropriated later.
 - **(c)** Notwithstanding this section, the Secretary of Defense may, following notification of the congressional defense committees, initiate projects or activities required to be undertaken for force protection purposes using funds available from the Iraq Freedom Fund.
 
@@ -42,8 +42,8 @@ Appropriations made and authority granted pursuant to this joint resolution shal
 Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2008, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
 
 - **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
-- **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2008 without any provision for such project or activity; or
-- **(3)** November 16, 2007.
+  - **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2008 without any provision for such project or activity; or
+    - **(3)** November 16, 2007.
 
 ## § 107.
 
@@ -185,9 +185,9 @@ Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 20
   >   - **(3)** *Funds redistributed in the order in which States realize funding shortfalls* The Secretary shall redistribute the amounts available for redistribution under paragraph (1) to fiscal year 2008 shortfall States described in paragraph (2) in the order in which such States realize monthly funding shortfalls under this title for fiscal year 2008. The Secretary shall only make redistributions under this subsection to the extent that there are unexpended fiscal year 2005 allotments under subsection (b) available for such redistributions.
   >   - **(4)** *Proration rule* If the amounts available for redistribution under paragraph (1) are less than the total amounts of the estimated shortfalls determined for the month under that paragraph, the amount computed under such paragraph for each fiscal year 2008 shortfall State for the month shall be reduced proportionally.
   >   - **(5)** *Retrospective adjustment* The Secretary may adjust the estimates and determinations made to carry out this subsection as necessary on the basis of the amounts reported by States not later than November 30, 2007, on CMS Form 64 or CMS Form 21, as the case may be, and as approved by the Secretary.
-  >   - **(6)** *1-year availability; no further redistribution* Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2008 shall only remain available for expenditure by the State through September 30, 2008, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
+  >   - **(6)** *1–Year availability; no further redistribution* Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2008 shall only remain available for expenditure by the State through September 30, 2008, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
 
-- **(d)** *Extending authority for qualifying States To use certain funds for Medicaid expenditures* Section 2105(g)(1)(A) of such Act (42 U.S.C. 1397ee) is amended by striking “or 2007” and inserting “2007, or 2008”.
+- **(d)** *Extending authority for qualifying States to use certain funds for Medicaid expenditures* Section 2105(g)(1)(A) of such Act (42 U.S.C. 1397ee) is amended by striking “or 2007” and inserting “2007, or 2008”.
 - **(e)** *Applicability* The amendments made by subsection (c) and (d) shall be in effect through the date specified in section 106(3) of this joint resolution or, if earlier, the date of the enactment of an Act that provides funding for fiscal year 2008 and for one or more subsequent fiscal years for the Children’s Health Insurance Program under title XXI of the Social Security Act.
 
 ## § 137.
@@ -220,7 +220,7 @@ Notwithstanding section 101, amounts are provided for “Department of State—A
 
 ## § 144.
 
-The provisions of title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.) shall continue in effect, notwithstanding section 209 of such Act, through the earlier of (1) the date specified in section 106(3) of this joint resolution; or (2) the date of enactment of an authorization Act relating to the McKinney-Vento Homeless Assistance Act.
+The provisions of title II of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11311 et seq.) shall continue in effect, notwithstanding section 209 of such Act, through the earlier of: (1) the date specified in section 106(3) of this joint resolution; or (2) the date of enactment of an authorization Act relating to the McKinney-Vento Homeless Assistance Act.
 
 ## § 145.
 
@@ -236,7 +236,7 @@ Section 24(o) of the United States Housing Act of 1937 (42 U.S.C. 1437v(o)) shal
 
 ## § 148.
 
-- **(a)** Section 48103(4) of title 49, United States Code, shall be applied (1) by substituting the amount specified in such section with an amount that equals $3,675,000,000 multiplied by the ratio of the number of days covered by this joint resolution to 366; and (2) by substituting the fiscal year specified in such section with the period beginning October 1, 2007, through the date specified in section 106(3) of this joint resolution.
+- **(a)** Section 48103(4) of title 49, United States Code, shall be applied: (1) by substituting the amount specified in such section with an amount that equals $3,675,000,000 multiplied by the ratio of the number of days covered by this joint resolution to 366; and (2) by substituting the fiscal year specified in such section with the period beginning October 1, 2007, through the date specified in section 106(3) of this joint resolution.
 - **(b)** Section 47104(c) of title 49, United States Code, shall be applied by substituting “2008” for “2007”.
 - **(c)** Nothing in this section shall affect the availability of any balances of contract authority provided under section 48103 of title 49, United States Code, for fiscal year 2007 and any prior fiscal year.
 
@@ -244,3 +244,18 @@ Section 24(o) of the United States Housing Act of 1937 (42 U.S.C. 1437v(o)) shal
 
 - **(a)** Sections 4081(d)(2)(B), 4261(j)(1)(A)(ii), 4271(d)(1)(A)(ii), 9502(d)(1), and 9502(f)(2) of the Internal Revenue Code of 1986 shall each be applied by substituting the date specified in section 106(3) of this joint resolution for “September 30, 2007” or “October 1, 2007”, as the case may be.
 - **(b)** Subparagraph (A) of section 9502(d)(1) of the Internal Revenue Code of 1986 is amended by inserting “or any joint resolution making continuing appropriations for the fiscal year 2008” before the semicolon at the end.
+
+## § 150.
+
+- **(a)** Congress makes the following findings:
+  - **(1)** General David H. Petraeus was confirmed by a unanimous vote of 81–0 in the Senate on January 26, 2007, to be the Commander of the Multi-National Forces—Iraq.
+  - **(2)** General David H. Petraeus assumed command of the Multi-National Forces—Iraq on February 10, 2007.
+  - **(3)** General David H. Petraeus previously served in Operation Iraqi Freedom as the Commander of the Multi-National Security Transition Command—Iraq, as the Commander of the NATO Training Mission—Iraq, and as Commander of the 101st Airborne Division (Air Assault) during the first year of combat operations in Iraq.
+  - **(4)** General David H. Petraeus has received numerous awards and distinctions during his career, including the Defense Distinguished Service Medal, two awards of the Distinguished Service Medal, two awards of the Defense Superior Service Medal, four awards of the Legion of Merit, the Bronze Star Medal for valor, the State Department Superior Honor Award, the NATO Meritorious Service Medal, and the Gold Award of the Iraqi Order of the Date Palm.
+  - **(5)** The leadership of the majority party in both the House of Representatives and the Senate implored the American people and Members of Congress early in January 2007 to listen to the generals on the ground.
+- **(b)** It is the sense of the Congress that the House of Representatives—
+  - **(1)** recognizes the service of General David H. Petraeus, as well as all other members of the Armed Forces serving in good standing, in the defense of the United States and the personal sacrifices made by General Petraeus and his family, and other members of the Armed Forces and their families, to serve with distinction and honor;
+  - **(2)** commits to judge the merits of the sworn testimony of General David H. Petraeus without prejudice or personal bias, including refraining from unwarranted personal attacks;
+  - **(3)** condemns in the strongest possible terms the personal attacks made by the advocacy group MoveOn.org impugning the integrity and professionalism of General David H. Petraeus;
+  - **(4)** honors all members of the Armed Forces and civilian personnel serving in harm’s way, as well as their families; and
+  - **(5)** pledges to debate any supplemental funding request or any policy decisions regarding the war in Iraq with the solemn respect and the commitment to intellectual integrity that the sacrifices of these members of the Armed Forces and civilian personnel deserve.
