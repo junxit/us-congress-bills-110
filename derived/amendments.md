@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 110
-version: Referral Instructions Senate
+version: Reported to Senate
 derived: true
 ---
 

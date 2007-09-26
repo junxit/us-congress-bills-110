@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 110
-version: Referral Instructions Senate
+version: Reported to Senate
 ---
 
 # H.R. 835
@@ -72,3 +72,7 @@ Hawaiian Homeownership Opportunity Act of 2007
 - 2007-07-09 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-126.
 - 2007-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 262.
 - 2007-07-25 — Referred to the Committee on Banking, Housing, and Urban Affairs pursuant to the order of May 27, 1988, for a period not to exceed 60 days.
+- 2007-09-19 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported without amendment favorably.
+- 2007-09-26 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd without amendment. Without written report.
+- 2007-09-26 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd without amendment. Without written report.
+- 2007-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 388.
