@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2765
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2765
@@ -37,9 +37,10 @@ To designate the facility of the United States Postal Service located at 44 Nort
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 - Rep. Murphy, Patrick J. [D-PA-8] (M001168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -57,3 +58,8 @@ To designate the facility of the United States Postal Service located at 44 Nort
 - 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR 7/31/2007 CR H8838)
 - 2007-07-31 — Received in the Senate.
 - 2007-08-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-08-22 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 392.
