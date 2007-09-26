@@ -2,7 +2,7 @@
 legis-num: H.J. RES. 52
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.J. RES. 52
@@ -21,7 +21,8 @@ Such amounts as may be necessary, at a rate for operations as provided in the ap
 
 ## § 102.
 
-- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for: (1) the new production of items not funded for production in fiscal year 2007 or prior years; (2) the increase in production rates above those sustained with fiscal year 2007 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2007.
+(a) No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for: (1) the new production of items not funded for production in fiscal year 2007 or prior years; (2) the increase in production rates above those sustained with fiscal year 2007 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2007.
+
 - **(b)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used to initiate multi-year procurements utilizing advance procurement funding for economic order quantity procurement unless specifically appropriated later.
 - **(c)** Notwithstanding this section, the Secretary of Defense may, following notification of the congressional defense committees, initiate projects or activities required to be undertaken for force protection purposes using funds available from the Iraq Freedom Fund.
 
@@ -39,11 +40,7 @@ Appropriations made and authority granted pursuant to this joint resolution shal
 
 ## § 106.
 
-Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2008, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
-
-- **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
-  - **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2008 without any provision for such project or activity; or
-    - **(3)** November 16, 2007.
+Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2008, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs: (1) the enactment into law of an appropriation for any project or activity provided for in this joint resolution; (2) the enactment into law of the applicable appropriations Act for fiscal year 2008 without any provision for such project or activity; or (3) November 16, 2007.
 
 ## § 107.
 
