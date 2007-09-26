@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1400
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1400
@@ -344,13 +344,14 @@ Iran Counter-Proliferation Act of 2007
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Committees (5)
+## Committees (6)
 
 - House — Judiciary Committee
 - House — Oversight and Accountability Committee
 - House — Financial Services Committee
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -398,3 +399,4 @@ Iran Counter-Proliferation Act of 2007
 - 2007-09-25 — Mr. Lantos moved to suspend the rules and pass the bill, as amended.
 - 2007-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 16 (Roll no. 895). (text: CR H10764-10767)
 - 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 16 (Roll no. 895).(text: CR H10764-10767)
+- 2007-09-26 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.

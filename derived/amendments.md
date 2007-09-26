@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1400
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -52,7 +52,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `50 U.S.C. § 1701` | amend | Section 4(b) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1701` | add-at-end | Section 5 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 5 of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 5 of the Iran Sanctions Act of 1996 is amended by adding the following new subsection at the end: | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 1701` | amend | Section 14(13)(B) of the Iran Sanctions Act of 1996 (50 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 1701` | insert | in paragraph (4), by inserting “tanker or” after “transportation by”; and | the bill quotes the text inserted but describes where it goes |
