@@ -1,7 +1,7 @@
 ---
 measure: H.R. 976
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 976
@@ -16,7 +16,7 @@ Children's Health Insurance Program Reauthorization Act of 2007
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (72)
+## Cosponsors (246)
 
 - Rep. McCrery, Jim [R-LA-4] (M000388)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
@@ -90,14 +90,210 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - Rep. Boyda, Nancy E. [D-KS-2] (B001258)
 - Rep. Herger, Wally [R-CA-2] (H000528)
 - Rep. Hall, John J. [D-NY-19] (H001039)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (23)
 
 - 2007-02-16 — [House 110-1-102](votes/house-110-1-0102.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (360–45)
+- 2007-07-30 — [Senate 110-1-285](votes/senate-110-1-0285.md) — On the Cloture Motion — **Cloture Motion Agreed to** (80–0)
+- 2007-07-31 — [Senate 110-1-286](votes/senate-110-1-0286.md) — On the Amendment — **Amendment Rejected** (37–59)
+- 2007-08-01 — [Senate 110-1-287](votes/senate-110-1-0287.md) — On the Amendment — **Amendment Rejected** (26–58)
+- 2007-08-01 — [Senate 110-1-288](votes/senate-110-1-0288.md) — On the Amendment — **Amendment Rejected** (42–53)
+- 2007-08-01 — [Senate 110-1-289](votes/senate-110-1-0289.md) — On the Amendment — **Amendment Rejected** (32–64)
+- 2007-08-01 — [Senate 110-1-290](votes/senate-110-1-0290.md) — On the Motion to Table — **Motion to Table Agreed to** (53–43)
+- 2007-08-01 — [Senate 110-1-291](votes/senate-110-1-0291.md) — On the Amendment — **Amendment Rejected** (35–61)
+- 2007-08-01 — [Senate 110-1-292](votes/senate-110-1-0292.md) — On the Amendment — **Amendment Rejected** (36–60)
+- 2007-08-02 — [Senate 110-1-295](votes/senate-110-1-0295.md) — On the Motion — **Motion Rejected** (47–52)
+- 2007-08-02 — [Senate 110-1-296](votes/senate-110-1-0296.md) — On the Motion — **Motion Rejected** (39–60)
+- 2007-08-02 — [Senate 110-1-297](votes/senate-110-1-0297.md) — On the Amendment — **Amendment Rejected** (43–55)
+- 2007-08-02 — [Senate 110-1-298](votes/senate-110-1-0298.md) — On the Amendment — **Amendment Rejected** (42–57)
+- 2007-08-02 — [Senate 110-1-299](votes/senate-110-1-0299.md) — On the Amendment — **Amendment Rejected** (37–62)
+- 2007-08-02 — [Senate 110-1-300](votes/senate-110-1-0300.md) — On the Amendment — **Amendment Rejected** (37–62)
+- 2007-08-02 — [Senate 110-1-301](votes/senate-110-1-0301.md) — On the Amendment — **Amendment Rejected** (35–64)
+- 2007-08-02 — [Senate 110-1-302](votes/senate-110-1-0302.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2007-08-02 — [Senate 110-1-303](votes/senate-110-1-0303.md) — On the Amendment — **Amendment Rejected** (21–78)
+- 2007-08-02 — [Senate 110-1-304](votes/senate-110-1-0304.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2007-08-02 — [Senate 110-1-305](votes/senate-110-1-0305.md) — On the Amendment — **Amendment Rejected** (37–62)
+- 2007-08-02 — [Senate 110-1-306](votes/senate-110-1-0306.md) — On the Motion — **Motion Agreed to** (67–32)
+- 2007-08-02 — [Senate 110-1-307](votes/senate-110-1-0307.md) — On Passage of the Bill — **Bill Passed** (68–31)
+- 2007-09-25 — [House 110-1-906](votes/house-110-1-0906.md) — Agree to Senate Amendments with Amendments — **Passed** (265–159)
 
 ## Actions
 
@@ -118,3 +314,327 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - 2007-02-16 — Received in the Senate.
 - 2007-02-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-02-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
+- 2007-07-26 — Cloture motion on the motion to proceed to the measure presented in Senate.
+- 2007-07-26 — Motion to proceed to consideration of measure made in Senate.
+- 2007-07-26 — Motion to proceed to consideration of measure withdrawn in Senate.
+- 2007-07-30 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 80 - 0. Record Vote Number: 285. (consideration: CR S10226-10227; text: CR S10226)
+- 2007-07-30 — Motion to proceed to measure considered in Senate. (consideration: CR S10212-10230, S10303-10304)
+- 2007-07-31 — Amendment SA 2530 proposed by Senator Baucus. (consideration: CR S10346-10353, S10353-10357) In the nature of a substitute.
+- 2007-07-31 — Amendment SA 2534 proposed by Senator Dorgan to Amendment SA 2530. (consideration: CR S10374-10382) To revise and extend the Indian Health Care Improvement Act.
+- 2007-07-31 — Amendment SA 2536 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 286.
+- 2007-07-31 — Amendment SA 2536 proposed by Senator Allard to Amendment SA 2530. (consideration: CR S10363-10374; text: CR S10363-10364) To standardize the determination of income for purposes of eligibility for SCHIP.
+- 2007-07-31 — Amendment SA 2538 proposed by Senator Grassley for Senator Ensign to Amendment SA 2530. (consideration: CR S10357-10358; text: CR S10357-10358) To amend the Internal Revenue Code of 1986 to create a Disease Prevention and Treatment Research Trust Fund.
+- 2007-07-31 — Amendment SA 2547 proposed by Senator Bunning to Amendment SA 2530. (consideration: CR S10358-10363; text: CR S10358) To eliminate the exception for certain States to cover children under SCHIP whose income exceeds 300 percent of the Federal poverty level.
+- 2007-07-31 — Amendment SA 2587 proposed by Senator Gregg to Amendment SA 2530. (consideration: CR S10382-10389; text: CR S10383) To limit the matching rate for coverage other than for low-income children or pregnant women covered through a waiver and to prohibit any new waivers for coverage of adults other than pregnant women.
+- 2007-07-31 — Measure laid before Senate by motion. (consideration: CR S10346)
+- 2007-07-31 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S10346-10353, S10353-10389, S10401-10408)
+- 2007-07-31 — Roll call votes on amendments in Senate: Amendment SA 2536 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 286.
+- 2007-07-31 — Senate amendment not agreed to: Amendment SA 2536 not agreed to in Senate by Yea-Nay Vote. 37 - 59. Record Vote Number: 286.
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2530 proposed by Senator Baucus.(consideration: CR S10346-10353, S10353-10357)
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2534 proposed by Senator Dorgan to Amendment SA 2530.(consideration: CR S10374-10382)
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2536 proposed by Senator Allard to Amendment SA 2530.(consideration: CR S10363-10374; text: CR S10363-10364)
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2538 proposed by Senator Grassley for Senator Ensign to Amendment SA 2530.(consideration: CR S10357-10358; text: CR S10357-10358)
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2547 proposed by Senator Bunning to Amendment SA 2530.(consideration: CR S10358-10363; text: CR S10358)
+- 2007-07-31 — Senate amendment proposed (on the floor): Amendment SA 2587 proposed by Senator Gregg to Amendment SA 2530.(consideration: CR S10382-10389; text: CR S10383)
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-07-31 — Senate amendment submitted
+- 2007-08-01 — Amendment SA 2537 proposed by Senator Grassley for Senator Kyl to Amendment SA 2530. (consideration: CR S10584, S10589-10592; text: CR S10584) To minimize the erosion of private health coverage.
+- 2007-08-01 — Amendment SA 2538 not agreed to in Senate by Yea-Nay Vote. 26 - 58. Record Vote Number: 287.
+- 2007-08-01 — Amendment SA 2540 proposed by Senator Grassley for Senator Ensign to Amendment SA 2530. (consideration: CR S10580-10581; text: CR S10580) To prohibit a State from using SCHIP funds to provide coverage for nonpregnant adults until the State first demonstrates that it has adequately covered targeted low-income children who reside in the State.
+- 2007-08-01 — Amendment SA 2541 proposed by Senator Grassley for Senator Ensign to Amendment SA 2530. (consideration: CR S10580-10581; text: CR S10580-10581) To prohibit a State from providing child health assistance or health benefits coverage to individuals whose family income exceeds 200 percent of the Federal Poverty Level unless the State demonstrates that it has enrolled 95 percent of the targeted low-income children who reside in the State.
+- 2007-08-01 — Amendment SA 2554 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 289.
+- 2007-08-01 — Amendment SA 2554 proposed by Senator Dole to Amendment SA 2530. (consideration: CR S10556-10557, S10581; text: CR S10556) To amend the Congressional Budget Act of 1974 to provide for a 60-vote point of order against legislation that includes a Federal excise tax rate increase which disproportionately affects taxpayers with earned income of less than 200 percent of the Federal poverty level.
+- 2007-08-01 — Amendment SA 2557 proposed by Senator Baucus for Senator Specter to Amendment SA 2530. (consideration: CR S10586-10587, S10587-10588; text: CR S10586-10587) To amend the Internal Revenue Code of 1986 to reset the rate of tax under the alternative minimum  tax at 24 percent.
+- 2007-08-01 — Amendment SA 2558 proposed by Senator Grassley for Senator Graham to Amendment SA 2530. (consideration: CR S10584; text: CR S10584) To sunset the increase in the tax on tobacco products on September 30, 2012.
+- 2007-08-01 — Amendment SA 2562 proposed by Senator Grassley for Senator Kyl to Amendment SA 2530. (consideration: CR S10584; text: CR S10584) To amend the Internal Revenue Code of 1986 to extend and modify the 15-year straight-line cost recovery for qualified leasehold improvements and qualified restaurant improvements and to provide a 15-year straight-line cost recovery for certain improvements to retail space.
+- 2007-08-01 — Amendment SA 2579 proposed by Senator Thune to Amendment SA 2530. (consideration: CR S10575-10577; text: CR S10575) To exclude individuals with alternative minimum tax liability from eligibility for SCHIP coverage.
+- 2007-08-01 — Amendment SA 2587 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 288.
+- 2007-08-01 — Amendment SA 2593 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 291.
+- 2007-08-01 — Amendment SA 2593 proposed by Senator Lott to Amendment SA 2530. (consideration: CR S10542-10544, S10575, S10578, S10582-10583; text as modified: CR S10575) Of a perfecting nature.
+- 2007-08-01 — Amendment SA 2599 proposed by Senator McConnell to Amendment SA 2530. (consideration: CR S10544-10546, S10547-10551; text: CR S10544) To express the sense of the Senate that Judge Leslie Southwick should receive a vote by the full Senate.
+- 2007-08-01 — Amendment SA 2602 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 292.
+- 2007-08-01 — Amendment SA 2602 proposed by Senator Kerry to Amendment SA 2530. (consideration: CR S10558-10575, S10578-10580, S10583-10584; text as modified: CR S10573-10574) To provide sufficient funding and incentives to increase the enrollment of uninsured children.
+- 2007-08-01 — Amendment SA 2618 proposed by Senator Webb to Amendment SA 2530. (consideration: CR S10588-10589; text: CR S10588) To eliminate the deferral of taxation on certain income of United States shareholders attributable to controlled foreign corporations.
+- 2007-08-01 — Cloture motion on amendment SA 2530 presented in Senate. (consideration: CR S10589; text: CR S10589)
+- 2007-08-01 — Cloture motion on the bill presented in Senate. (consideration: CR S10589; text: CR S10589)
+- 2007-08-01 — Considered by Senate. (consideration: CR S10537)
+- 2007-08-01 — Considered by Senate. (consideration: CR S10537)
+- 2007-08-01 — Considered by Senate. (consideration: CR S10537, S10537-10540)
+- 2007-08-01 — Considered by Senate. (consideration: CR S10537, S10541-10542)
+- 2007-08-01 — Considered by Senate. (consideration: CR S10537, S10577-10578, S10581-10582)
+- 2007-08-01 — Considered by Senate. (consideration: CR S10537-10546, S10547-10581, S10581-10584, S10586-10587, S10587-10592)
+- 2007-08-01 — Motion to table amendment SA 2547 agreed to in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 290.
+- 2007-08-01 — Roll call votes on amendments in Senate: Amendment SA 2538 not agreed to in Senate by Yea-Nay Vote. 26 - 58. Record Vote Number: 287.
+- 2007-08-01 — Roll call votes on amendments in Senate: Amendment SA 2554 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 289.
+- 2007-08-01 — Roll call votes on amendments in Senate: Amendment SA 2587 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 288.
+- 2007-08-01 — Roll call votes on amendments in Senate: Amendment SA 2593 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 291.
+- 2007-08-01 — Roll call votes on amendments in Senate: Amendment SA 2602 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 292.
+- 2007-08-01 — Roll call votes on amendments in Senate: Motion to table amendment SA 2547 agreed to in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 290.
+- 2007-08-01 — Senate amendment not agreed to: Amendment SA 2538 not agreed to in Senate by Yea-Nay Vote. 26 - 58. Record Vote Number: 287.
+- 2007-08-01 — Senate amendment not agreed to: Amendment SA 2554 not agreed to in Senate by Yea-Nay Vote. 32 - 64. Record Vote Number: 289.
+- 2007-08-01 — Senate amendment not agreed to: Amendment SA 2587 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 288.
+- 2007-08-01 — Senate amendment not agreed to: Amendment SA 2593 not agreed to in Senate by Yea-Nay Vote. 35 - 61. Record Vote Number: 291.
+- 2007-08-01 — Senate amendment not agreed to: Amendment SA 2602 not agreed to in Senate by Yea-Nay Vote. 36 - 60. Record Vote Number: 292.
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2537 proposed by Senator Grassley for Senator Kyl to Amendment SA 2530.(consideration: CR S10584, S10589-10592; text: CR S10584)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2540 proposed by Senator Grassley for Senator Ensign to Amendment SA 2530.(consideration: CR S10580-10581; text: CR S10580)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2541 proposed by Senator Grassley for Senator Ensign to Amendment SA 2530.(consideration: CR S10580-10581; text: CR S10580-10581)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2554 proposed by Senator Dole to Amendment SA 2530.(consideration: CR S10556-10557, S10581; text: CR S10556)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2557 proposed by Senator Baucus for Senator Specter to Amendment SA 2530.(consideration: CR S10586-10587, S10587-10588; text: CR S10586-10587)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2558 proposed by Senator Grassley for Senator Graham to Amendment SA 2530.(consideration: CR S10584; text: CR S10584)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2562 proposed by Senator Grassley for Senator Kyl to Amendment SA 2530.(consideration: CR S10584; text: CR S10584)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2579 proposed by Senator Thune to Amendment SA 2530.(consideration: CR S10575-10577; text: CR S10575)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2593 proposed by Senator Lott to Amendment SA 2530.(consideration: CR S10542-10544, S10575, S10578, S10582-10583; text as modified: CR S10575)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2599 proposed by Senator McConnell to Amendment SA 2530.(consideration: CR S10544-10546, S10547-10551; text: CR S10544)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2602 proposed by Senator Kerry to Amendment SA 2530.(consideration: CR S10558-10575, S10578-10580, S10583-10584; text as modified: CR S10573-10574)
+- 2007-08-01 — Senate amendment proposed (on the floor): Amendment SA 2618 proposed by Senator Webb to Amendment SA 2530.(consideration: CR S10588-10589; text: CR S10588)
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-01 — Senate amendment submitted
+- 2007-08-02 — Amendment SA 2529 agreed to in Senate by Voice Vote.
+- 2007-08-02 — Amendment SA 2529 proposed by Senator Kerry to Amendment SA 2530. (consideration: CR S10750-10751; text: CR S10750-10751) To establish a multiagency nationwide campaign to educate small business concerns about health insurance options available to children.
+- 2007-08-02 — Amendment SA 2530 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Amendment SA 2535 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 302.
+- 2007-08-02 — Amendment SA 2535 proposed by Senator Allard to Amendment SA 2530. (consideration: CR S10726-10728, S10748, S10754; text as modified: CR S10726) To codify the unborn child rule.
+- 2007-08-02 — Amendment SA 2537 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 299.
+- 2007-08-02 — Amendment SA 2540 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 297.
+- 2007-08-02 — Amendment SA 2557 ruled out of order by the chair.
+- 2007-08-02 — Amendment SA 2558 ruled out of order by the chair.
+- 2007-08-02 — Amendment SA 2562 ruled out of order by the chair.
+- 2007-08-02 — Amendment SA 2567 as modified agreed to in Senate by Voice Vote. (text as modified: CR S10751)
+- 2007-08-02 — Amendment SA 2567 proposed by Senator Cardin to Amendment SA 2530. (consideration: CR S10751) To improve the provisions relating to dental health.
+- 2007-08-02 — Amendment SA 2570 as modified agreed to in Senate by Voice Vote. (text as modified: CR S10746)
+- 2007-08-02 — Amendment SA 2570 proposed by Senator Wyden to Amendment SA 2530. (consideration: CR S10746) To fund voluntary incentive programs with the aim of reducing the incidence of type 2 diabetes.
+- 2007-08-02 — Amendment SA 2571 proposed by Senator Sanders to Amendment SA 2530. (consideration: CR S10720-10723; text: CR S10720) To establish an incentive program for State health access innovations.
+- 2007-08-02 — Amendment SA 2577 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 305.
+- 2007-08-02 — Amendment SA 2577 proposed by Senator DeMint to Amendment SA 2530. (consideration: CR S10740-10741, S10752) To amend the Public Health Service Act to provide for cooperative governing of individual health insurance coverage offered in interstate commerce.
+- 2007-08-02 — Amendment SA 2579 not agreed to in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 298.
+- 2007-08-02 — Amendment SA 2588 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Amendment SA 2588 proposed by Senator Obama to Amendment SA 2530. (consideration: CR S10739-10740; text: CR S10739) To provide certain employment protections for family members who are caring for members of the Armed Forces recovering from illnesses and injuries incurred on active duty.
+- 2007-08-02 — Amendment SA 2596 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 301.
+- 2007-08-02 — Amendment SA 2596 proposed by Senator Vitter to Amendment SA 2530. (consideration: CR S10724-10726, S10747-10748; text as modified: CR S10724-10725) To require individuals who are eligible for SCHIP and employer-sponsored coverage to use the employer-sponsored coverage instead of SCHIP.
+- 2007-08-02 — Amendment SA 2600 proposed by Senator Sanders to Amendment SA 2530. To amend title XXI of the Social Security Act to limit the use of funds for States that receive the enhanced portion of the CHIP matching rate for Medicaid coverage of certain children.
+- 2007-08-02 — Amendment SA 2619 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Amendment SA 2619 proposed by Senator Baucus for Senator Nelson FL to Amendment SA 2530. (consideration: CR S10741-10742; text: CR S10741) To reduce the cap on the tax on large cigars to $3.00.
+- 2007-08-02 — Amendment SA 2620 not agreed to in Senate by Yea-Nay Vote. 21 - 78. Record Vote Number: 303.
+- 2007-08-02 — Amendment SA 2620 proposed by Senator Hutchison to Amendment SA 2530. To increase access to health insurance for low-income children based on actual need, as adjusted for cost-of-living.
+- 2007-08-02 — Amendment SA 2621 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Amendment SA 2621 proposed by Senator Lincoln to Amendment SA 2530. (consideration: CR S10739, S10743-10746, S10754-10761; text: CR S10739) To express the sense of the Senate that Congress should enact legislation that improves access to affordable and meaningful health insurance coverage, especially for Americans in the small group and individual health insurance markets.
+- 2007-08-02 — Amendment SA 2627 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 300.
+- 2007-08-02 — Amendment SA 2627 proposed by Senator Specter for Senator Coburn to Amendment SA 2530. (consideration: CR S10720, S10746-10747) To ensure that children and pregnant women whose family income exceeds 200 percent of the poverty line and who have access to employer-sponsored coverage receive premium assistance.
+- 2007-08-02 — Amendment SA 2631 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Amendment SA 2631 proposed by Senator Dodd to Amendment SA 2530. (consideration: CR S10728-10731) To expand family and medical leave in support of servicemembers with combat-related injuries.
+- 2007-08-02 — Amendment SA 2645 agreed to in Senate by Voice Vote.
+- 2007-08-02 — Amendment SA 2645 proposed by Senator Baucus to Amendment SA 2530. (consideration: CR S10752-10753; text: CR S10752-10753) Of a perfecting nature.
+- 2007-08-02 — Amendment SA 2646 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Amendment SA 2646 proposed by Senator Baucus. (consideration: CR S10761; text: CR S10761) To amend the title.
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719, S10724)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719, S10724, S10746; text as modified: CR S10724)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719, S10731)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719, S10733-10735, S10737)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719, S10737-10738)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719, S10738-10739)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719, S10749-10750)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719-10720, S10736, S10754)
+- 2007-08-02 — Considered by Senate. (consideration: CR S10719-10723, S10724-10761)
+- 2007-08-02 — Motion to waive the Budget Act with respect to amendment SA 2530 agreed to in Senate by Yea-Nay Vote. 67 - 32. Record Vote Number: 306.
+- 2007-08-02 — Motion to waive the Budget Act with respect to amendment SA 2557 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 295.
+- 2007-08-02 — Motion to waive the Budget Act with respect to amendment SA 2558 rejected in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 296.
+- 2007-08-02 — Motion to waive the Budget Act with respect to amendment SA 2562 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 304.
+- 2007-08-02 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 68 - 31. Record Vote Number: 307. (text: CR 8/3/2007 S10953-10977)
+- 2007-08-02 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 68 - 31. Record Vote Number: 307.(text: CR 8/3/2007 S10953-10977)
+- 2007-08-02 — Point of order raised in Senate with respect to amendment SA 2530.
+- 2007-08-02 — Point of order raised in Senate with respect to amendment SA 2557.
+- 2007-08-02 — Point of order raised in Senate with respect to amendment SA 2558.
+- 2007-08-02 — Point of order raised in Senate with respect to amendment SA 2562.
+- 2007-08-02 — Proposed amendment SA 2534 withdrawn in Senate.
+- 2007-08-02 — Proposed amendment SA 2541 withdrawn in Senate.
+- 2007-08-02 — Proposed amendment SA 2571 withdrawn in Senate.
+- 2007-08-02 — Proposed amendment SA 2599 withdrawn in Senate.
+- 2007-08-02 — Proposed amendment SA 2600 withdrawn in Senate.
+- 2007-08-02 — Proposed amendment SA 2618 withdrawn in Senate.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2535 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 302.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2537 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 299.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2540 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 297.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2577 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 305.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2579 not agreed to in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 298.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2596 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 301.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2620 not agreed to in Senate by Yea-Nay Vote. 21 - 78. Record Vote Number: 303.
+- 2007-08-02 — Roll call votes on amendments in Senate: Amendment SA 2627 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 300.
+- 2007-08-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2530 agreed to in Senate by Yea-Nay Vote. 67 - 32. Record Vote Number: 306.
+- 2007-08-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2557 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 295.
+- 2007-08-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2558 rejected in Senate by Yea-Nay Vote. 39 - 60. Record Vote Number: 296.
+- 2007-08-02 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 2562 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 304.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2529 agreed to in Senate by Voice Vote.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2530 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2567 as modified agreed to in Senate by Voice Vote.(text as modified: CR S10751)
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2570 as modified agreed to in Senate by Voice Vote.(text as modified: CR S10746)
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2588 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2619 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2621 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2631 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2645 agreed to in Senate by Voice Vote.
+- 2007-08-02 — Senate amendment agreed to: Amendment SA 2646 agreed to in Senate by Unanimous Consent.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2535 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 302.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2537 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 299.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2540 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 297.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2577 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 305.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2579 not agreed to in Senate by Yea-Nay Vote. 42 - 57. Record Vote Number: 298.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2596 not agreed to in Senate by Yea-Nay Vote. 35 - 64. Record Vote Number: 301.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2620 not agreed to in Senate by Yea-Nay Vote. 21 - 78. Record Vote Number: 303.
+- 2007-08-02 — Senate amendment not agreed to: Amendment SA 2627 not agreed to in Senate by Yea-Nay Vote. 37 - 62. Record Vote Number: 300.
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2529 proposed by Senator Kerry to Amendment SA 2530.(consideration: CR S10750-10751; text: CR S10750-10751)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2535 proposed by Senator Allard to Amendment SA 2530.(consideration: CR S10726-10728, S10748, S10754; text as modified: CR S10726)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2567 proposed by Senator Cardin to Amendment SA 2530.(consideration: CR S10751)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2570 proposed by Senator Wyden to Amendment SA 2530.(consideration: CR S10746)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2571 proposed by Senator Sanders to Amendment SA 2530.(consideration: CR S10720-10723; text: CR S10720)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2577 proposed by Senator DeMint to Amendment SA 2530.(consideration: CR S10740-10741, S10752)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2588 proposed by Senator Obama to Amendment SA 2530.(consideration: CR S10739-10740; text: CR S10739)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2596 proposed by Senator Vitter to Amendment SA 2530.(consideration: CR S10724-10726, S10747-10748; text as modified: CR S10724-10725)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2600 proposed by Senator Sanders to Amendment SA 2530.
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2619 proposed by Senator Baucus for Senator Nelson FL to Amendment SA 2530.(consideration: CR S10741-10742; text: CR S10741)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2620 proposed by Senator Hutchison to Amendment SA 2530.
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2621 proposed by Senator Lincoln to Amendment SA 2530.(consideration: CR S10739, S10743-10746, S10754-10761; text: CR S10739)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2627 proposed by Senator Specter for Senator Coburn to Amendment SA 2530.(consideration: CR S10720, S10746-10747)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2631 proposed by Senator Dodd to Amendment SA 2530.(consideration: CR S10728-10731)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2645 proposed by Senator Baucus to Amendment SA 2530.(consideration: CR S10752-10753; text: CR S10752-10753)
+- 2007-08-02 — Senate amendment proposed (on the floor): Amendment SA 2646 proposed by Senator Baucus.(consideration: CR S10761; text: CR S10761)
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-02 — Senate amendment submitted
+- 2007-08-03 — Message on Senate action sent to the House.
+- 2007-09-24 — Rules Committee Resolution H. Res. 675 Reported to House. Rule provides for consideration of H.R. 976 with 1 hour of general debate. Measure will be considered read. Bill is closed to amendments. Providing for the consideration of the Senate amendments to H.R. 976.
+- 2007-09-25 — DEBATE - Pursuant to the provisions of H.Res. 675, the House proceeded with one hour of debate on the Dingell motion to agree to the Senate amendments to H.R. 976 with amendments.
+- 2007-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-25 — Mr. Dingell moved that the House agree with amendments to the Senate amendments. (consideration: CR H10816-10885)
+- 2007-09-25 — On motion that the House agree with amendments to the Senate Agreed to by the Yeas and Nays: 265 - 159, 1 Present (Roll no. 906). (text as House agreed to Senate amendments: CR H10840-10870)
+- 2007-09-25 — Resolving differences -- House actions: On motion that the House agree with amendments to the Senate Agreed to by the Yeas and Nays: 265 - 159, 1 Present (Roll no. 906).(text as House agreed to Senate amendments: CR H10840-10870)
+- 2007-09-25 — Rule H. Res. 675 passed House.
+- 2007-09-25 — The previous question was ordered pursuant to the rule. (consideration: CR H10885)
+- 2007-09-26 — Amendment SA 3071 proposed by Senator Reid to the House amendment to the Senate amendment to the bill (H.R. 976). (consideration: CR S12123; text: CR S12123) To change the enactment date.
+- 2007-09-26 — Amendment SA 3072 proposed by Senator Reid to Amendment SA 3071. (consideration: CR S12123; text: CR S12123) Of a perfecting nature.
+- 2007-09-26 — Cloture motion on the motion to concur in House amendments to Senate amendments to the bill H.R. 976 presented in Senate. (consideration: CR S12122; text: CR S12122)
+- 2007-09-26 — Message on House action received in Senate and at desk: House amendments to Senate amendments.
+- 2007-09-26 — Motion to concur in House amendments to Senate amendments to the bill H.R. 976 made in Senate. (consideration: CR S12122-12123)
+- 2007-09-26 — Motion to concur in the House amendment to the Senate amendment to the bill H.R. 976 with an amendment (SA 3071) made in Senate. (consideration: CR S12123)
+- 2007-09-26 — Senate amendment proposed (on the floor): Amendment SA 3071 proposed by Senator Reid to the House amendment to the Senate amendment to the bill (H.R. 976).(consideration: CR S12123; text: CR S12123)
+- 2007-09-26 — Senate amendment proposed (on the floor): Amendment SA 3072 proposed by Senator Reid to Amendment SA 3071.(consideration: CR S12123; text: CR S12123)
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
+- 2007-09-26 — Senate amendment submitted
