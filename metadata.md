@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 52
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 52
@@ -16,9 +16,14 @@ Making continuing appropriations for the fiscal year 2008, and for other purpose
 
 - Rep. Obey, David R. [D-WI-7] (O000007)
 
-## Cosponsors (1)
+## Cosponsors (6)
 
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 
 ## Committees (2)
 
@@ -55,3 +60,14 @@ Making continuing appropriations for the fiscal year 2008, and for other purpose
 - 2007-09-26 — Senate amendment submitted
 - 2007-09-26 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H10918-10919)
 - 2007-09-26 — The previous question was ordered pursuant to the rule. (consideration: CR H10918)
+- 2007-09-27 — Cleared for White House.
+- 2007-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S12255-12258)
+- 2007-09-27 — Passed Senate without amendment by Yea-Nay Vote. 94 - 1. Record Vote Number: 355.
+- 2007-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 94 - 1. Record Vote Number: 355.
+- 2007-09-28 — Message on Senate action sent to the House.
+- 2007-09-28 — Presented to President.
+- 2007-09-28 — Presented to President.
+- 2007-09-29 — Became Public Law No: 110-92.
+- 2007-09-29 — Became Public Law No: 110-92.
+- 2007-09-29 — Signed by President.
+- 2007-09-29 — Signed by President.
