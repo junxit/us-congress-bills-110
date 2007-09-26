@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1302
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1302
@@ -103,9 +103,10 @@ Global Poverty Act of 2007
 - Rep. Farr, Sam [D-CA-17] (F000030)
 - Rep. Doyle, Michael F. [D-PA-14] (D000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -120,3 +121,4 @@ Global Poverty Act of 2007
 - 2007-09-25 — Mr. Smith (WA) moved to suspend the rules and pass the bill, as amended.
 - 2007-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10778-10779)
 - 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10778-10779)
+- 2007-09-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
