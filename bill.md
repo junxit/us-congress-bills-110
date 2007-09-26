@@ -1,8 +1,8 @@
 ---
 legis-num: H.J. RES. 52
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.J. RES. 52
@@ -21,8 +21,7 @@ Such amounts as may be necessary, at a rate for operations as provided in the ap
 
 ## § 102.
 
-(a) No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for: (1) the new production of items not funded for production in fiscal year 2007 or prior years; (2) the increase in production rates above those sustained with fiscal year 2007 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2007.
-
+- **(a)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used for: (1) the new production of items not funded for production in fiscal year 2007 or prior years; (2) the increase in production rates above those sustained with fiscal year 2007 funds; or (3) the initiation, resumption, or continuation of any project, activity, operation, or organization (defined as any project, subproject, activity, budget activity, program element, and subprogram within a program element, and for any investment items defined as a P–1 line item in a budget activity within an appropriation account and an R–1 line item that includes a program element and subprogram element within an appropriation account) for which appropriations, funds, or other authority were not available during fiscal year 2007.
 - **(b)** No appropriation or funds made available or authority granted pursuant to section 101 for the Department of Defense shall be used to initiate multi-year procurements utilizing advance procurement funding for economic order quantity procurement unless specifically appropriated later.
 - **(c)** Notwithstanding this section, the Secretary of Defense may, following notification of the congressional defense committees, initiate projects or activities required to be undertaken for force protection purposes using funds available from the Iraq Freedom Fund.
 
@@ -40,7 +39,11 @@ Appropriations made and authority granted pursuant to this joint resolution shal
 
 ## § 106.
 
-Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2008, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs: (1) the enactment into law of an appropriation for any project or activity provided for in this joint resolution; (2) the enactment into law of the applicable appropriations Act for fiscal year 2008 without any provision for such project or activity; or (3) November 16, 2007.
+Unless otherwise provided for in this joint resolution or in the applicable appropriations Act for fiscal year 2008, appropriations and funds made available and authority granted pursuant to this joint resolution shall be available until whichever of the following first occurs:
+
+- **(1)** the enactment into law of an appropriation for any project or activity provided for in this joint resolution;
+- **(2)** the enactment into law of the applicable appropriations Act for fiscal year 2008 without any provision for such project or activity; or
+- **(3)** November 16, 2007.
 
 ## § 107.
 
@@ -177,7 +180,7 @@ Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 20
   > - **(i)** *Redistribution of unused fiscal year 2005 allotments to States with estimated funding shortfalls for fiscal year 2008*
   >   - **(1)** *In general* Notwithstanding subsection (f) and subject to paragraphs (3) and (4), with respect to months beginning during fiscal year 2008, the Secretary shall provide for a redistribution under such subsection from the allotments for fiscal year 2005 under subsection (b) that are not expended by the end of fiscal year 2007, to a fiscal year 2008 shortfall State described in paragraph (2), such amount as the Secretary determines will eliminate the estimated shortfall described in such paragraph for such State for the month.
   >   - **(2)** *Fiscal year 2008 shortfall State described* A fiscal year 2008 shortfall State described in this paragraph is a State with a State child health plan approved under this title for which the Secretary estimates, on a monthly basis using the most recent data available to the Secretary as of such month, that the projected expenditures under such plan for such State for fiscal year 2008 will exceed the sum of—
-  >     - **(A)** the amount of the State's allotments for each of fiscal years 2006 and 2007 that was not expended by the end of fiscal year 2007; and
+  >     - **(A)** the amount of the State’s allotments for each of fiscal years 2006 and 2007 that was not expended by the end of fiscal year 2007; and
   >     - **(B)** the amount of the State's allotment for fiscal year 2008.
   >   - **(3)** *Funds redistributed in the order in which States realize funding shortfalls* The Secretary shall redistribute the amounts available for redistribution under paragraph (1) to fiscal year 2008 shortfall States described in paragraph (2) in the order in which such States realize monthly funding shortfalls under this title for fiscal year 2008. The Secretary shall only make redistributions under this subsection to the extent that there are unexpended fiscal year 2005 allotments under subsection (b) available for such redistributions.
   >   - **(4)** *Proration rule* If the amounts available for redistribution under paragraph (1) are less than the total amounts of the estimated shortfalls determined for the month under that paragraph, the amount computed under such paragraph for each fiscal year 2008 shortfall State for the month shall be reduced proportionally.
@@ -185,7 +188,7 @@ Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 20
   >   - **(6)** *1–Year availability; no further redistribution* Notwithstanding subsections (e) and (f), amounts redistributed to a State pursuant to this subsection for fiscal year 2008 shall only remain available for expenditure by the State through September 30, 2008, and any amounts of such redistributions that remain unexpended as of such date, shall not be subject to redistribution under subsection (f).
 
 - **(d)** *Extending authority for qualifying States to use certain funds for Medicaid expenditures* Section 2105(g)(1)(A) of such Act (42 U.S.C. 1397ee) is amended by striking “or 2007” and inserting “2007, or 2008”.
-- **(e)** *Applicability* The amendments made by subsection (c) and (d) shall be in effect through the date specified in section 106(3) of this joint resolution or, if earlier, the date of the enactment of an Act that provides funding for fiscal year 2008 and for one or more subsequent fiscal years for the Children’s Health Insurance Program under title XXI of the Social Security Act.
+- **(e)** *Applicability* The amendments made by subsections (c) and (d) shall be in effect through the date specified in section 106(3) of this joint resolution or, if earlier, the date of the enactment of an Act that provides funding for fiscal year 2008 and for one or more subsequent fiscal years for the Children’s Health Insurance Program under title XXI of the Social Security Act.
 
 ## § 137.
 
