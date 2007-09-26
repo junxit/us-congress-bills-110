@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3106
 congress: 110
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 3106
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 805 Mai
 - Rep. Ellsworth, Brad [D-IN-8] (E000289)
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,8 @@ To designate the facility of the United States Postal Service located at 805 Mai
 - 2007-09-05 — Mr. Welch (VT) moved to suspend the rules and pass the bill.
 - 2007-09-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10104)
 - 2007-09-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10104)
+- 2007-09-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-09-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-09-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 396.
