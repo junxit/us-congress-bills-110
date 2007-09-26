@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3668
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 1 executed, 13 stated and not applied.
+14 amendatory instructions. 3 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 1396a
+
+> Section 1902(a)(10)(E)(iv) of the Social Security Act (42 U.S.C. 1396a(a)(10)(E)(iv)) is amended by striking “September 2007” and inserting “December 2007”.
+
+| | |
+|---|---|
+| Removed | `September 2007` |
+| Inserted | `December 2007` |
+
+### 42 U.S.C. § 1396u-3
+
+> in paragraph (3), in the matter preceding subparagraph (A), by striking “or (F)” and inserting “(F), or (H)”.
+
+| | |
+|---|---|
+| Removed | `or (F)` |
+| Inserted | `(F), or (H)` |
 
 ### 42 U.S.C. § 1395w-4
 
@@ -46,11 +64,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “for fiscal year 2006” and inserting “for fiscal year 2007”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “the fourth quarter of fiscal year 2007” and inserting “the first quarter of fiscal year 2008”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the fourth quarter of fiscal year 2006” and inserting “the first quarter of fiscal year 2007”. | the bill names no machine-readable US Code section |
-| — | replace | Section 1902(a)(10)(E)(iv) of the Social Security Act (42 U.S.C. 1396a(a)(10)(E)(iv)) is amended by striking “September 2007” and inserting “December 2007”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of subparagraph (F); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of subparagraph (G) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), in the matter preceding subparagraph (A), by striking “or (F)” and inserting “(F), or (H)”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1396u-3` | strike | by striking “and” at the end of subparagraph (F); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396u-3` | replace | by striking the period at the end of subparagraph (G) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1396u-3` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Effective as if included in the enactment of section 7002(b) of the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 (Public Law 110–28, 121 Sta. 187), paragraph (2) of such section… | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1395w-4` | add-at-end | in subparagraph (A), by adding at the end the following: “In addition, there shall be available to the Fund for expenditures during 2009 an amount equal to $325,000,000 and for expenditures during or after 2013 an amount equal to $60,000… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | strike | in the heading, by striking “furnished during 2008”; | the bill quotes the text struck but describes what replaces it |

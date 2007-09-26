@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3668
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3668
@@ -39,3 +39,13 @@ TMA, Abstinence Education, and QI Programs Extension Act of 2007
 - 2007-09-26 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-09-26 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-09-26 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-09-27 — Cleared for White House.
+- 2007-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S12316)
+- 2007-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S12316)
+- 2007-09-28 — Message on Senate action sent to the House.
+- 2007-09-28 — Presented to President.
+- 2007-09-28 — Presented to President.
+- 2007-09-29 — Became Public Law No: 110-90.
+- 2007-09-29 — Became Public Law No: 110-90.
+- 2007-09-29 — Signed by President.
+- 2007-09-29 — Signed by President.
