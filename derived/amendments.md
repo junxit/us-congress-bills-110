@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 52
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -43,4 +43,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1397dd` | add-at-end | Section 2104 of the Social Security Act (42 U.S.C. 1397dd) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9502` | insert | Subparagraph (A) of section 9502(d)(1) of the Internal Revenue Code of 1986 is amended by inserting “or any joint resolution making continuing appropriations for the fiscal year 2008” before the semicolon at the end. | the bill quotes the text inserted but describes where it goes |
+| — | insert | Subparagraph (A) of section 9502(d)(1) of the Internal Revenue Code of 1986 is amended by inserting “or any joint resolution making continuing appropriations for the fiscal year 2008” before the semicolon at the end. | the bill names no machine-readable US Code section |
