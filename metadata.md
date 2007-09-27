@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 217
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 217
@@ -20,10 +20,11 @@ To correct technical errors in the enrollment of the bill H.R. 3580.
 
 - Rep. Barton, Joe [R-TX-6] (B000213)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Committee on House Administration
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To correct technical errors in the enrollment of the bill H.R. 3580.
 - 2007-09-25 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10798)
 - 2007-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10798)
 - 2007-09-25 — Received in the Senate.
+- 2007-09-27 — Referred to the Committee on Health, Education, Labor, and Pensions.
