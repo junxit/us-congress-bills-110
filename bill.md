@@ -9,9 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Inspector General Act of 1978 to enhance the independence of the Inspectors General, to create a Council of the Inspectors General on Integrity and Efficiency, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Improving Government Accountability Act”.
+- **(a)** *Short title* This Act may be cited as the “Improving Government Accountability Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Enhancing independence of Inspectors General
 
@@ -24,14 +25,7 @@ This Act may be cited as the “Improving Government Accountability Act”.
     > - **(4)** Malfeasance.
     > - **(5)** Conviction of a felony or conduct involving moral turpitude.
 
-  - **(2)** in section 8G(e) by adding at the end the following:
-    > An Inspector General may be removed from office prior to the expiration of his or her term only on any of the following grounds:
-    > - **(1)** Permanent incapacity.
-    > - **(2)** Inefficiency.
-    > - **(3)** Neglect of duty.
-    > - **(4)** Malfeasance.
-    > - **(5)** Conviction of a felony or conduct involving moral turpitude.
-
+  - **(2)** in section 8G(e) by striking “an Inspector General” and all that follows through the period at the end and inserting the following: “the head of a designated Federal entity intends to remove an Inspector General from office or transfer an Inspector General to another position or location within such designated Federal entity, the head of such entity shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress at least 30 days before such removal or transfer.”.
 - **(b)** *Establishment of terms of Office* The Inspector General Act of 1978 (5 U.S.C. App.) is amended—
   - **(1)** in section 3 by adding at the end the following:
     > - **(e)**
@@ -41,7 +35,7 @@ This Act may be cited as the “Improving Government Accountability Act”.
   - **(2)** in section 8G(c) by inserting “(1)” after “(c)”, and by adding at the end the following:
     > - **(2)** The term of office of each Inspector General shall be seven years. An individual may serve for more than one term in such office. Any individual appointed to fill a vacancy in such position, occurring before the expiration of the term for which his or her predecessor was appointed, shall be appointed for a full 7-year term.
 
-- **(c)** *Application* The amendments made by this section shall apply to any Inspector General appointed before, on, or after the date of the enactment of this Act. The term of office of an Inspector General serving on such date of enactment is deemed to begin on such date of enactment.
+- **(c)** *Application* The amendments made by this section shall apply to any Inspector General appointed on or after the date of the enactment of this Act.
 
 ## § 3. Direct submission of budget requests to Congress
 
@@ -137,11 +131,13 @@ Section 6 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by add
   >       - **(ii)** conducting investigations;
   >       - **(iii)** reporting the results of an investigation; and
   >       - **(iv)** providing the person who is the subject of an investigation with an opportunity to respond to any Integrity Committee report.
-  >     - **(C)** *Reports* The Chairperson of the Integrity Committee shall report to the Executive Chairperson of the Council the results of any investigation that substantiates any allegation certified under paragraph (5)(B).
+  >     - **(C)** *Report* With respect to any investigation that substantiates any allegation referred to the Chairperson of the Integrity Committee under paragraph (5)(B), the Chairperson of the Integrity Committee shall—
+  >       - **(i)** submit to the Executive Chairperson of the Council a report on the results of such investigation, within 180 days (to the maximum extent practicable) after the completion of the investigation; and
+  >       - **(ii)** submit to Congress a copy of such report within 30 days after the submission of such report to the Executive Chairperson under clause (i).
   >   - **(8)** *No right or benefit* This subsection is not intended to create any right or benefit, substantive or procedural, enforceable at law by a person against the United States, its agencies, its officers, or any person.
   > - **(e)** *Application* The provisions of this section apply only to the Inspectors General (and their offices) listed in subsection (b)(1)(A) and (B).
 
-- **(b)** *Existing Executive Orders* Executive Order 12805, dated May 14, 1992, Executive Order 12805, dated March 21, 1996, and Executive Order 12993, dated March 26, 1996, shall have no force or effect.
+- **(b)** *Existing Executive Orders* Executive Order 12805, dated May 11, 1992, and Executive Order 12993, dated March 21, 1996, shall have no force or effect.
 - **(c)** *Conforming amendments*
   - **(1)** *Inspector General Act of 1978* The Inspector General Act of 1978 (5 U.S.C. App.) is amended—
     - **(A)** in sections 2(1), 4(b)(2), and 8G(a)(1)(A) by striking “section 11(2)” each place it appears and inserting “section 12(2)”; and
@@ -149,7 +145,51 @@ Section 6 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by add
   - **(2)** *Title 31, U.S.C* Section 1105(a) of title 31, United States Code, is amended by striking the first paragraph (33) and inserting the following:
     > - **(33)** a separate appropriation account for appropriations for the Inspectors General Council, and, included in that account, a separate statement of the aggregate amount of appropriations requested for each academy maintained by the Inspectors General Council.
 
-## § 5. Miscellaneous enhancements
+## § 5. Pay and bonuses of Inspectors General
+
+- **(a)** *Prohibition of cash bonus or awards* Section 3 of the Inspector General Act of 1978 (5 U.S.C. App.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+  > - **(f)** An Inspector General (as defined under section 8G(a)(6) or 11(3)) may not receive any cash award or cash bonus, including any cash award under chapter 45 of title 5, United States Code.
+
+- **(b)** *Inspectors General at level III of Executive Schedule*
+  - **(1)** *In general* Section 3 of the Inspector General Act of 1978 (5 U.S.C. App.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+    > - **(g)** The annual rate of basic pay for an Inspector General (as defined under section 11(3)) shall be the rate payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, plus 3 percent.
+
+  - **(2)** *Conforming amendment* Section 5315 of title 5, United States Code, is amended by striking the item relating to each of the following positions:
+    - **(A)** Inspector General, Department of Education.
+    - **(B)** Inspector General, Department of Energy.
+    - **(C)** Inspector General, Department of Health and Human Services.
+    - **(D)** Inspector General, Department of Agriculture.
+    - **(E)** Inspector General, Department of Housing and Urban Development.
+    - **(F)** Inspector General, Department of Labor.
+    - **(G)** Inspector General, Department of Transportation.
+    - **(H)** Inspector General, Department of Veterans Affairs.
+    - **(I)** Inspector General, Department of Homeland Security.
+    - **(J)** Inspector General, Department of Defense.
+    - **(K)** Inspector General, Department of State.
+    - **(L)** Inspector General, Department of Commerce.
+    - **(M)** Inspector General, Department of the Interior.
+    - **(N)** Inspector General, Department of Justice.
+    - **(O)** Inspector General, Department of the Treasury.
+    - **(P)** Inspector General, Agency for International Development.
+    - **(Q)** Inspector General, Environmental Protection Agency.
+    - **(R)** Inspector General, Export-Import Bank.
+    - **(S)** Inspector General, Federal Emergency Management Agency.
+    - **(T)** Inspector General, General Services Administration.
+    - **(U)** Inspector General, National Aeronautics and Space Administration.
+    - **(V)** Inspector General, Nuclear Regulatory Commission.
+    - **(W)** Inspector General, Office of Personnel Management.
+    - **(X)** Inspector General, Railroad Retirement Board.
+    - **(Y)** Inspector General, Small Business Administration.
+    - **(Z)** Inspector General, Tennessee Valley Authority.
+    - **(AA)** Inspector General, Federal Deposit Insurance Corporation.
+    - **(BB)** Inspector General, Resolution Trust Corporation.
+    - **(CC)** Inspector General, Central Intelligence Agency.
+    - **(DD)** Inspector General, Social Security Administration.
+    - **(EE)** Inspector General, United States Postal Service.
+  - **(3)** *Savings provision* Nothing in this subsection shall have the effect of reducing the rate of pay of any individual serving as an Inspector General on the effective date of this subsection.
+- **(c)** *Inspectors General of designated Federal entities* Notwithstanding any other provision of law, the Inspector General of each designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978) shall, for pay and all other purposes, be classified at a grade, level, or rank designation, as the case may be, comparable to those of a majority of the senior staff members of such designated Federal entity (such as, but not limited to, a General Counsel, Deputy Director, or Chief of Staff) that report directly to the head of such designated Federal entity. The head of a designated Federal entity shall set the annual rate of basic pay for an Inspector General (as defined under such section 8G) 3 percent above the annual rate of basic pay for senior staff members classified at a comparable grade, level, or rank designation (or, if those senior staff members receive different rates, the annual rate of basic pay for a majority of those senior staff members, as determined by the head of the designated Federal entity concerned).
+
+## § 6. Miscellaneous enhancements
 
 - **(a)** *Offices as discrete agencies* Section 6(d) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended to read as follows:
   > - **(d)**
@@ -163,26 +203,43 @@ Section 6 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by add
   >       - **(iii)** All provisions relating to the Senior Executive Service (as determined by the Office of Personnel Management), subject to paragraph (2).
   >   - **(2)** For purposes of applying section 4507(b) of title 5, United States Code, paragraph (1)(A)(ii) shall be applied by substituting “the Council of the Inspectors General on Integrity and Efficiency (established by section 11 of the Inspector General Act) shall” for “the Inspector General who is the head of an office referred to in clause (i) shall, with respect to such office,”.
 
-- **(b)** *Inspectors General of designated Federal entities* Notwithstanding any other provision of law, the Inspector General of each designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978) shall, for pay and all other purposes, be classified at a grade, level, or rank designation, as the case may be, comparable to those of a majority of the senior staff members of such designated Federal entity (such as, but not limited to, a General Counsel, Deputy Director, or Chief of Staff) that report directly to the head of such designated Federal entity.
-- **(c)** *Subpoena power* Section 6(a)(4) of the Inspector General Act of 1978 (5 U.S.C. App.), is amended—
+- **(b)** *Subpoena power* Section 6(a)(4) of the Inspector General Act of 1978 (5 U.S.C. App.), is amended—
   - **(1)** by inserting “in any medium (including electronically stored information, as well as any tangible thing)” after “other data”; and
   - **(2)** by striking “subpena” and inserting “subpoena”.
-- **(d)** *Law enforcement authority for designated federal entities* Section 6(e) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
+- **(c)** *Law enforcement authority for designated federal entities* Section 6(e) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
   - **(1)** in paragraph (1) by striking “appointed under section 3”; and
   - **(2)** by adding at the end the following:
     > - **(9)** In this subsection the term “Inspector General” means an Inspector General appointed under section 3 or an Inspector General appointed under section 8G.
 
-## § 6. Program Fraud Civil Remedies Act
+- **(d)** *Authority of Treasury Inspector General for Tax Administration To protect Internal Revenue Service employees* Section 8D(k)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “and the providing of physical security”.
+- **(e)** *Amendment relating to authority of Comptroller General to administer oaths* Section 711 of title 31, United States Code, is amended in paragraph (4) by striking “when auditing and settling accounts” and inserting “upon the specific approval only of the Comptroller General or the Deputy Comptroller General”.
+- **(f)** *Amendments relating to Comptroller General reports*
+  - **(1)** Section 719(b)(1) of title 31, United States Code, is amended—
+    - **(A)** by striking “and” at the end of subparagraph (B);
+    - **(B)** by striking the period and inserting “; and” at the end of subparagraph (C); and
+    - **(C)** by adding at the end the following new subparagraph:
+      > - **(D)** for Federal agencies subject to sections 901 to 903 of this title and other agencies designated by the Comptroller General, an assessment of their overall degree of cooperation in making personnel available for interview, providing written answers to questions, submitting to an oath authorized by the Comptroller General under section 711 of this title, granting access to records, providing timely comments to draft reports, adopting recommendations in reports, and responding to such other matters as the Comptroller General considers appropriate.
+
+  - **(2)** Section 719(c) of such title is amended—
+    - **(A)** by striking “and” at the end of paragraph (2);
+    - **(B)** by striking the period and inserting “; and” at the end of paragraph (3); and
+    - **(C)** by adding at the end the following new paragraph:
+      > - **(4)** as soon as practicable when an agency or other entity does not, within a reasonable period of time after a request by the Comptroller General, make personnel available for interview, provide written answers to questions, or submit to an oath authorized by the Comptroller General under section 711 of this title.
+
+## § 7. Program Fraud Civil Remedies Act
 
 Section 3801(a)(1) of title 31, United States Code, is amended by striking “and” after the semicolon at the end of subparagraph (C), by adding “and” after the semicolon at the end of subparagraph (D), and by adding at the end the following:
 
 > - **(E)** a designated Federal entity (as such term is defined under section 8G(a)(2) of the Inspector General Act of 1978).
 
-## § 7. Application of semiannual reporting requirements with respect to inspection reports and evaluation reports
+## § 8. Application of semiannual reporting requirements with respect to inspection reports and evaluation reports
 
 Section 5 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
 
-- **(1)** in each of subsections (a)(6), (a)(8), (a)(9), (b)(2), and (b)(3)—
+- **(1)** in subsection (a)(6)—
+  - **(A)** by inserting “, inspection report, and evaluation report” after “audit report”; and
+  - **(B)** by striking “audit” the second place it appears;
+- **(2)** in each of subsections (a)(8), (a)(9), (b)(2), and (b)(3)—
   - **(A)** by inserting “, inspection reports, and evaluation reports” after “audit reports” the first place it appears; and
   - **(B)** by striking “audit” the second place it appears; and
-- **(2)** in subsection (a)(10) by inserting “, inspection reports, and evaluation reports” after “audit reports”.
+- **(3)** in subsection (a)(10) by inserting “, inspection report, and evaluation report” after “audit report”.
