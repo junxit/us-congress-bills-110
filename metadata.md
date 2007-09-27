@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 210
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 210
@@ -16,10 +16,12 @@ A resolution honoring the accomplishments of Stephen Joel Trachtenberg as presid
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Conrad, Kent [D-ND] (C000705)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ A resolution honoring the accomplishments of Stephen Joel Trachtenberg as presid
 - 2007-05-17 — Introduced in Senate
 - 2007-05-17 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6312)
 - 2007-05-17 — Sponsor introductory remarks on measure. (CR S6312-6313)
+- 2007-09-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR H12314)
+- 2007-09-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR H12314)
+- 2007-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S12314-12315)
+- 2007-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S12314-12315)
