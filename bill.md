@@ -17,14 +17,14 @@ This Act may be cited as the “War Profiteering Prevention Act of 2007”.
 
 - **(a)** *Prohibition*
   - **(1)** *In general* Chapter 47 of title 18, United States Code, is amended by adding at the end the following:
-    > ## § 1039. War profiteering and fraud relating to military action, relief, and reconstruction efforts
+    > ## § 1040. War profiteering and fraud
     >
     > - **(a)** *Prohibition*
-    >   - **(1)** *In general* Whoever, in any matter involving a contract or the provision of goods or services, directly or indirectly, in connection with a war, military action, or relief or reconstruction activities within the jurisdiction of the United States Government, knowingly and willfully—
+    >   - **(1)** *In general* Whoever, in any matter involving a contract or the provision of goods or services to the United States or a provisional authority, in connection with a mission of the United States Government overseas, knowingly—
     >     - **(A)**
-    >       - **(i)** executes or attempts to execute a scheme or artifice to defraud the United States; or
-    >       - **(ii)** materially overvalues any good or service with the specific intent to defraud and excessively profit from the war, military action, or relief or reconstruction activities;
-    >     - **(B)**
+    >       - **(i)** executes or attempts to execute a scheme or artifice to defraud the United States or that authority; or
+    >       - **(ii)** materially overvalues any good or service with the intent to defraud the United States or that authority;
+    >     - **(B)** in connection with the contract or the provision of those goods or services—
     >       - **(i)** falsifies, conceals, or covers up by any trick, scheme, or device a material fact;
     >       - **(ii)** makes any materially false, fictitious, or fraudulent statements or representations; or
     >       - **(iii)** makes or uses any materially false writing or document knowing the same to contain any materially false, fictitious or fraudulent statement or entry;
@@ -38,6 +38,6 @@ This Act may be cited as the “War Profiteering Prevention Act of 2007”.
     >   - **(3)** in any district where any party to the contract or provider of goods or services is located.
 
   - **(2)** *Table of sections* The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following:
-- **(b)** *Civil forfeiture* Section 981(a)(1)(C) of title 18, United States Code, is amended by inserting “1039,” after “1032,”.
-- **(c)** *Criminal forfeiture* Section 982(a)(2)(B) of title 18, United States Code, is amended by striking “or 1030” and inserting “1030, or 1039”.
-- **(d)** *RICO* Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting the following: “, section 1039 (relating to war profiteering and fraud relating to military action, relief, and reconstruction efforts)” after “liquidating agent of financial institution),”.
+- **(b)** *Criminal forfeiture* Section 982(a)(2)(B) of title 18, United States Code, is amended by striking “or 1030” and inserting “1030, or 1040”.
+- **(c)** *Money laundering* Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 1040 (relating to war profiteering and fraud),” after “liquidating agent of financial institution),”.
+- **(d)** *RICO* Section 1961(1) of title 18, United States Code, is amended by inserting “section 1040 (relating to war profiteering and fraud),” after “in connection with access devices),”.
