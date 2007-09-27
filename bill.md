@@ -92,7 +92,7 @@ Section 102(f) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(f))
   - **(2)** by inserting after subsection (b) the following new subsection:
     > - **(c)** *Multiperil coverage for damage from flood or windstorm*
     >   - **(1)** *In general* Subject to paragraph (8), the national flood insurance program established pursuant to subsection (a) shall enable the purchase of optional insurance against loss resulting from physical damage to or loss of real property or personal property related thereto located in the United States arising from any flood or windstorm, subject to the limitations in this subsection and section 1306(b).
-    >   - **(2)** *Community participation requirement* Multiperil coverage pursuant to this subsection may not be provided in any area (or subdivision thereof) unless an appropriate public body shall have adopted adequate land use and control measures (with effective enforcement provisions) which the Director finds are consistent with the comprehensive criteria for land management and use relating to windstorms establish pursuant to section 1361(d)(2).
+    >   - **(2)** *Community participation requirement* Multiperil coverage pursuant to this subsection may not be provided in any area (or subdivision thereof) unless an appropriate public body shall have adopted adequate mitigation measures (with effective enforcement provisions) which the Director finds are consistent with the criteria for construction described in the International Code Council building codes relating to wind mitigation.
     >   - **(3)** *Prohibition against duplicative coverage* Multiperil coverage pursuant to this subsection may not be provided with respect to any structure (or the personal property related thereto) for any period during which such structure is covered, at any time, by flood insurance coverage made available under this title.
     >   - **(4)** *Nature of coverage* Multiperil coverage pursuant to this subsection shall—
     >     - **(A)** cover losses only from physical damage resulting from flooding or windstorm; and
@@ -106,16 +106,16 @@ Section 102(f) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(f))
     >     - **(E)** appropriate loss deductibles; and
     >     - **(F)** any other terms and conditions relating to insurance coverage or exclusion that may be necessary to carry out this subsection.
     >   - **(7)** *Limitations on amount of coverage* The regulations issued pursuant to paragraph (6) shall provide that the aggregate liability under multiperil coverage made available under this subsection shall not exceed the lesser of the replacement cost for covered losses or the following amounts, as applicable:
-    >     - **(A)** *Residential structures* In the case of residential properties—
+    >     - **(A)** *Residential structures* In the case of residential properties, which shall include structures containing multiple dwelling units that are made available for occupancy by rental (notwithstanding any treatment or classification of such properties for purposes of section 1306(b))—
     >       - **(i)** for any single-family dwelling, $500,000;
-    >       - **(ii)** for any structure containing more than one dwelling unit, $500,000 for each separate dwelling unit in the structure; and
+    >       - **(ii)** for any structure containing more than one dwelling unit, $500,000 for each separate dwelling unit in the structure, which limit, in the case of such a structure containing multiple dwelling units that are made available for occupancy by rental, shall be applied so as to enable any insured or applicant for insurance to receive coverage for the structure up to a total amount that is equal to the product of the total number of such rental dwelling units in such property and the maximum coverage limit per dwelling unit specified in this clause; and
     >       - **(iii)** $150,000 per dwelling unit for—
     >         - **(I)** any contents related to such unit; and
     >         - **(II)** any necessary increases in living expenses incurred by the insured when losses from flooding or windstorm make the residence unfit to live in.
     >     - **(B)** *Nonresidential properties* In the case of nonresidential properties (including church properties)—
     >       - **(i)** $1,000,000 for any single structure; and
     >       - **(ii)** $750,000 for—
-    >         - **(I)** any contents related to such structure;
+    >         - **(I)** any contents related to such structure; and
     >         - **(II)** in the case of any nonresidential property that is a business property, any losses resulting from any partial or total interruption of the insured’s business caused by damage to, or loss of, such property from flooding or windstorm, except that for purposes of such coverage, losses shall be determined based on the profits the covered business would have earned, based on previous financial records, had the flood or windstorm not occurred.
     >   - **(8)** *Requirement to cease offering coverage if borrowing to pay claims* If at any time the Director utilizes the borrowing authority under section 1309(a) for the purpose of obtaining amounts to pay claims under multiperil coverage made available under this subsection, the Director may not, during the period beginning upon the initial such use of such borrowing authority and ending upon repayment to the Secretary of the Treasury of the full amount of all outstanding notes and obligations issued by the Director for such purpose, together with all interest owed on such notes and obligations, enter into any new policy, or renew any existing policy, for coverage made available under this subsection.
     >   - **(9)** *Effective Date* This subsection shall take effect on, and shall apply beginning on, June 30, 2008.
@@ -132,8 +132,8 @@ Section 102(f) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(f))
 
 - **(d)** *Criteria for land management and use* Section 1361 of the National Flood Insurance Act of 1968 (42 U.S.C. 4102) is amended by adding at the end the following new subsection:
   > - **(d)** *Windstorms*
-  >   - **(1)** *Studies and investigations* The Director shall carry out studies and investigations under this section to determine appropriate measures in windstorm-prone areas as to land management and use, windstorm zoning, and windstorm damage prevention, and may enter into contracts, agreements, and other appropriate arrangements to carry out such activities. Such studies and investigations shall include laws, regulations, and ordinance relating to the orderly development and use of areas subject to damage from windstorm risks, and zoning building codes, building permits, and subdivision and other building restrictions for such areas.
-  >   - **(2)** *Criteria* On the basis of the studies and investigations pursuant to paragraph (1) and such other information as may be appropriate, the Direct shall establish comprehensive criteria designed to encourage, where necessary, the adoption of adequate State and local measures which, to the maximum extent feasible, will assist in reducing damage caused by windstorms.
+  >   - **(1)** *Studies and investigations* The Director shall carry out studies and investigations under this section to determine appropriate measures in wind events as to wind hazard prevention, and may enter into contracts, agreements, and other appropriate arrangements to carry out such activities. Such studies and investigations shall include laws, regulations, and ordinance relating to the orderly development and use of areas subject to damage from windstorm risks, and zoning building codes, building permits, and subdivision and other building restrictions for such areas.
+  >   - **(2)** *Criteria* On the basis of the studies and investigations pursuant to paragraph (1) and such other information as may be appropriate, the Direct shall establish comprehensive criteria designed to encourage, where necessary, the adoption of adequate State and local measures which, to the maximum extent feasible, will assist in reducing damage caused by windstorms, discourage density and intensity or range of use increases in locations subject to windstorm damage, and enforce restrictions on the alteration of wetlands coastal dunes and vegetation and other natural features that are known to prevent or reduce such damage.
   >   - **(3)** *Coordination with State and local governments* The Director shall work closely with and provide any necessary technical assistance to State, interstate, and local governmental agencies, to encourage the application of criteria established under paragraph (2) and the adoption and enforcement of measures referred to in such paragraph.
 
 - **(e)** *Definitions* Section 1370 of the National Flood Insurance Act of 1968 (42 U.S.C. 4121) is amended—
@@ -148,7 +148,9 @@ Subsection (b) of section 1306 of the National Flood Insurance Act of 1968 (42 U
 
 - **(1)** in paragraph (2), by striking “$250,000” and inserting “$335,000”;
 - **(2)** in paragraph (3), by striking “$100,000” and inserting “$135,000”; and
-- **(3)** in paragraph (4), by striking “$500,000” each place such term appears and inserting “$670,000”.
+- **(3)** in paragraph (4)—
+  - **(A)** by striking “$500,000” each place such term appears and inserting “$670,000”; and
+  - **(B)** by inserting before “; and” the following: “; except that, in the case of any nonresidential property that is a structure containing more than one dwelling unit that is made available for occupancy by rental (notwithstanding the provisions applicable to the determination of the risk premium rate for such property), additional flood insurance in excess of such limits shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount that is equal to the product of the total number of such rental dwelling units in such property and the maximum coverage limit per dwelling unit specified in paragraph (2); except that in the case of any such multi-unit, nonresidential rental property that is a pre-FIRM structure (as such term is defined in section 578(b) of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4014 note)), the risk premium rate for the first $500,000 of coverage shall be determined in accordance with section 1307(a)(2) and the risk premium rate for any coverage in excess of such amount shall be determined in accordance with section 1307(a)(1)”.
 
 ## § 9. Coverage for additional living expenses, basement improvements, business interruption, and replacement cost of contents
 
@@ -186,10 +188,9 @@ The National Flood Insurance Act of 1968 is amended by inserting after section 1
 
 Section 1308(e) of the National Flood Insurance Act of 1968 (42 U.S.C. 4015(e)) is amended by striking “10 percent” and inserting “15 percent”.
 
-## § 12. Increase in borrowing authority
+## § 12. Report regarding borrowing authority
 
-- **(a)** *Borrowing Authority* The first sentence of subsection (a) of section 1309 of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)), as amended by the National Flood Insurance Program Further Enhanced Borrowing Authority Act of 2005 (Public Law 109–106; 119 Stat. 2288), is amended by striking “$20,775,000,000” and inserting “$21,500,000,000”.
-- **(b)** *FEMA Report* Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Director of the Federal Emergency Management Agency shall submit a report to the Congress setting forth a plan for repaying within 10 years all amounts, including any amounts previously borrowed but not yet repaid, pursuant to increase in borrowing authority authorized under the amendments made by subsection (a).
+Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Director of the Federal Emergency Management Agency shall submit a report to the Congress setting forth a plan for repaying within 10 years all amounts that, as of the expiration of such period, have been borrowed under the authority of section 1309(a) of the National Flood Insurance Act of 1968 (42 U.S.C. 4016(a)) and not yet repaid as of such date.
 
 ## § 13. FEMA participation in State disaster claims mediation programs
 
@@ -210,14 +211,14 @@ Chapter I of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.) i
 > - **(g)** *Cost Limitation* Nothing in this section shall be construed to require the Director or representatives of the Director to pay additional mediation fees relating to flood claims associated with a State-sponsored mediation program in which representatives of the Director participate.
 > - **(h)** *Exception* In the case of the occurrence of a natural catastrophe that results in flood damage claims under the national flood insurance program and does not result in any loss covered by a personal lines residential property insurance policy—
 >   - **(1)** this section shall not apply; and
->   - **(2)** the provisions of the Standard Flood Insurance Policy under the national flood insurance program and the appeals process established pursuant to section 205 of the Bunning-Bereueter-Blumenauer Flood Insurance Reform Act of 2004 (Public Law 108–264; 118 Stat. 726) and regulations issued pursuant to such section shall apply exclusively.
-> - **(i)** *Representatives of Director* For purposes of this section, the term representatives of the Director means representatives of the national flood insurance program who participate in the appeals process established pursuant to section 205 of the Bunning-Bereueter-Blumenauer Flood Insurance Reform Act of 2004 (Public Law 108–264; 118 Stat. 726) and regulations issued pursuant to such section.
+>   - **(2)** the provisions of the Standard Flood Insurance Policy under the national flood insurance program and the appeals process established pursuant to section 205 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 (Public Law 108–264; 118 Stat. 726) and regulations issued pursuant to such section shall apply exclusively.
+> - **(i)** *Representatives of Director* For purposes of this section, the term representatives of the Director means representatives of the national flood insurance program who participate in the appeals process established pursuant to section 205 of the Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004 (Public Law 108–264; 118 Stat. 726) and regulations issued pursuant to such section.
 
 ## § 14. FEMA annual report on insurance program
 
 Section 1320 of the National Flood Insurance Act of 1968 (42 U.S.C. 4027) is amended—
 
-- **(1)** in the section heading, by striking “Report to the President” and inserting “annual report to congress”;
+- **(1)** and inserting in the section heading, by striking “annual report to congress”;
 - **(2)** in subsection (a)—
   - **(A)** by striking “biennially”;
   - **(B)** by striking “the President for submission to”; and
@@ -305,8 +306,9 @@ Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974
   >   - **(2)** *Inclusions*
   >     - **(A)** *Covered areas* Each map updated under this subsection shall include a depiction of—
   >       - **(i)** the 500-year floodplain;
-  >       - **(ii)** areas that could be inundated as a result of the failure of a levee, as determined by the Director; and
-  >       - **(iii)** areas that could be inundated as a result of the failure of a dam, as identified under the National Dam Safety Program Act (33 U.S.C. 467 et seq.).
+  >       - **(ii)** areas that could be inundated as a result of the failure of a levee, as determined by the Director;
+  >       - **(iii)** areas that could be inundated as a result of the failure of a dam, as identified under the National Dam Safety Program Act (33 U.S.C. 467 et seq.); and
+  >       - **(iv)** the 100-year floodplain, including any area that would be in the 100-year floodplain if not protected by a levee, dam, or other man-made structure.
   >     - **(B)** *Other inclusions* In updating maps under this subsection, the Director may include—
   >       - **(i)** any relevant information on coastal inundation from—
   >         - **(I)** an applicable inundation map of the Corps of Engineers; and
@@ -318,25 +320,36 @@ Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974
   >         - **(III)** mud flow areas;
   >         - **(IV)** ice jam areas; and
   >         - **(V)** areas on coasts and inland that are subject to the failure of structural protective works, such as levees, dams, and floodwalls.
+  >     - **(C)** *Effects of global warming* In updating and maintaining maps under this section, the Director shall—
+  >       - **(i)** take into consideration and account for the impacts of global climate change on flood, storm, and drought risks in the United States;
+  >       - **(ii)** take into consideration and account for the potential future impact of global climate change-related weather events, such as increased hurricane activity, intensity, storm surge, sea level rise, and associated flooding; and
+  >       - **(iii)** use the best available climate science in assessing flood and storm risks to determine flood risks and develop such maps.
   >   - **(3)** *Standards* In updating and maintaining maps under this subsection, the Director shall establish standards to—
   >     - **(A)** ensure that maps are adequate for—
   >       - **(i)** flood risk determinations; and
   >       - **(ii)** use by State and local governments in managing development to reduce the risk of flooding;
   >     - **(B)** facilitate the Director, in conjunction with State and local governments, to identify and use consistent methods of data collection and analysis in developing maps for communities with similar flood risks, as determined by the Director; and
   >     - **(C)** ensure that emerging weather forecasting technology is used, where practicable, in flood map evaluations and the identification of potential risk areas.
-  >   - **(4)** *Hurricanes katrina and rita mapping priority* In updating and maintaining maps under this subsection, the Director shall—
+  >   - **(4)** *Mapping elements* Each map updated under this section shall meet the following requirements:
+  >     - **(A)** *Ground elevation data* The maps shall assess the accuracy of current ground elevation data used for hydrologic and hydraulic modeling of flooding sources and mapping of the flood hazard and wherever necessary acquire new ground elevation data utilizing the most up-to-date geospatial technologies in accordance with the existing guidelines and specifications of the Federal Emergency Management Agency.
+  >     - **(B)** *Data on a watershed basis* The maps shall develop national flood insurance program flood data on a watershed basis—
+  >       - **(i)** to provide the most technically effective and efficient studies and hydrologic and hydraulic modeling; and
+  >       - **(ii)** to eliminate, to the maximum extent possible, discrepancies in base flood elevations between adjacent political subdivisions.
+  >     - **(C)** *Other data* The maps shall include any other relevant information as may be recommended by the Technical Mapping Advisory Council reestablished by section 22(b) of the Flood Insurance Reform and Modernization Act of 2007.
+  >   - **(5)** *Hurricanes katrina and rita mapping priority* In updating and maintaining maps under this subsection, the Director shall—
   >     - **(A)** give priority to the updating and maintenance of maps of coastal areas affected by Hurricane Katrina or Hurricane Rita to provide guidance with respect to hurricane recovery efforts; and
   >     - **(B)** use the process of updating and maintaining maps under subparagraph (A) as a model for updating and maintaining other maps.
-  >   - **(5)** *Preventing delay of 100-year maps* In carrying out this section and this subsection, the Director shall take such actions as may be necessary to ensure that updating and publication of national flood insurance program rate maps to include a depiction of the 500-year floodplain does not in any manner delay the completion or publication of the program rate maps for the 100-year floodplain.
-  >   - **(6)** *Education program* The Director shall, after each update to a flood insurance program rate map, in consultation with the chief executive officer of each community affected by the update, conduct a program to educate each such community about the update to the flood insurance program rate map and the effects of the update.
-  >   - **(7)** *Annual report* Not later than June 30 of each year, the Director shall submit a report to the Congress describing, for the preceding 12-month period, the activities of the Director under the program under this section and the reviews and updates of flood insurance program rate maps conducted under the program. Each such annual report shall contain the most recent report of the Technical Mapping Advisory Council pursuant to section 576(c)(3) of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4101 note).
-  >   - **(8)** *Authorization of appropriations* There is authorized to be appropriated to the Director to carry out this subsection $400,000,000 for each of fiscal years 2008 through 2013.
+  >   - **(6)** *Preventing delay of 100-year maps* In carrying out this section and this subsection, the Director shall take such actions as may be necessary to ensure that updating and publication of national flood insurance program rate maps to include a depiction of the 500-year floodplain does not in any manner delay the completion or publication of the program rate maps for the 100-year floodplain.
+  >   - **(7)** *Education program* The Director shall, after each update to a flood insurance program rate map, in consultation with the chief executive officer of each community affected by the update, conduct a program to educate each such community about the update to the flood insurance program rate map and the effects of the update.
+  >   - **(8)** *Annual report* Not later than June 30 of each year, the Director shall submit a report to the Congress describing, for the preceding 12-month period, the activities of the Director under the program under this section and the reviews and updates of flood insurance program rate maps conducted under the program. Each such annual report shall contain the most recent report of the Technical Mapping Advisory Council pursuant to section 576(c)(3) of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4101 note).
+  >   - **(9)** *Use of maps for rates* The Director shall not adjust the chargeable premium rate for flood insurance under this title based on an updated national flood insurance program rate map or require the purchase of flood insurance for a property not subject to such a requirement of purchase prior to the updating of such national flood insurance program rate map until an updated national flood insurance program rate map is completed for the entire district of the Corps of Engineers affected by the map, as determined by the district engineer for such district.
+  >   - **(10)** *Authorization of appropriations* There is authorized to be appropriated to the Director to carry out this subsection $400,000,000 for each of fiscal years 2008 through 2013.
 
 - **(b)** *Reestablishment of Technical Mapping Advisory Council for ongoing mapping program*
   - **(1)** *Reestablishment* There is reestablished the Technical Mapping Advisory Council, in accordance with this subsection and section 576 of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4101 note).
   - **(2)** *Membership* Paragraph (1) of section 576(b) of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4101 note) is amended—
-    - **(A)** in the matter preceding subparagraph (A), by striking “10” and inserting “14”;
-    - **(B)** by redesignating subparagraphs (E), (F), (G), (H), (I), and (J) as subparagraphs (F), (G), (H), (K), (N), and (O), respectively;
+    - **(A)** in the matter preceding subparagraph (A), by striking “10” and inserting “15”;
+    - **(B)** by redesignating subparagraphs (E), (F), (G), (H), (I), and (J) as subparagraphs (F), (G), (H), (K), (O), and (P), respectively;
     - **(C)** by inserting after subparagraph (D) the following new subparagraph:
       > - **(E)** a representative of the Corps of Engineers of the United States Army;
 
@@ -347,6 +360,7 @@ Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974
     - **(E)** by inserting after subparagraph (K) (as so redesignated by subparagraph (B) of this paragraph) the following new subparagraphs:
       > - **(L)** a representative of flood insurance servicing companies;
       > - **(M)** a real estate professional;
+      > - **(N)** a member of a professional mapping association or organization;
 
   - **(3)** *Terms of members and appointment* Section 576(b) of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 4101 note) is amended by adding at the end the following new paragraph:
     > - **(3)** *Terms of members*
@@ -373,6 +387,24 @@ Subsection (c) of section 5 of the Real Estate Settlement Procedures Act of 1974
   >   - **(2)** *Effectiveness* Such interim elevation requirements for such an area shall take effect immediately upon issuance and may remain in effect until the Director establishes new flood elevations for such area in accordance with section 1363 or the Director provides otherwise.
 
 - **(d)** *Updating upon request of community* Paragraph (2) of section 1360(f) of the National Flood Insurance Act of 1968 (42 U.S.C. 4101(f)(2)) is amended by inserting before the period at the end the following: “, except that such a revision or update shall be made at no cost to the unit of government making the request if the request is being made to reflect repairs and upgrades to dams, levees, or other flood control projects under the jurisdiction and responsibility of the Federal Government”.
+- **(e)** *5-year discount of flood insurance rates for formerly protected areas* Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended—
+  - **(1)** in subsection (c), by inserting “and subsection (g)” before the first comma; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(g)** *5-year discount of flood insurance rates for formerly protected areas* Notwithstanding any other provision of law relating to chargeable risk premium rates for flood insurance coverage under this title, in the case of any area that previously was not designated as an area having special flood hazards because the area was protected by a flood protection system and that, pursuant to remapping under section 1360(k), becomes designated as such an area as a result of the decertification of such flood protection system, during the 5-year period that begins upon the initial such designation of the area, the chargeable premium rate for flood insurance under this title with respect to any property that is located within such area shall be equal to 50 percent of the chargeable risk premium rate otherwise applicable under this title to the property.
+
+- **(f)** *Phase-in of flood insurance premiums for low-cost properties* Section 1308 of the National Flood Insurance Act of 1968 (42 U.S.C. 4015), as amended by the preceding provisions of this Act, is further amended—
+  - **(1)** in subsection (c), by inserting “and subsection (h)” before the first comma; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(h)** *5-year phase-in of premiums for newly covered low-cost properties*
+    >   - **(1)** *In general* In the case of any area not previously designated as an area having special flood hazards that becomes designated as such an area as a result of remapping pursuant to section 1360(k), during the 5-year period that begins upon the initial such designation of the area, the chargeable premium rate for flood insurance under this title with respect to any low-cost property that is located within such area shall be—
+    >     - **(A)** for the first year of such 5-year period, 20 percent of the chargeable risk premium rate otherwise applicable under this title to the property;
+    >     - **(B)** for the second year of such 5-year period, 40 percent of the chargeable risk premium rate otherwise applicable under this title to the property;
+    >     - **(C)** for the third year of such 5-year period, 60 percent of the chargeable risk premium rate otherwise applicable under this title to the property;
+    >     - **(D)** for the fourth year of such 5-year period, 80 percent of the chargeable risk premium rate otherwise applicable under this title to the property; and
+    >     - **(E)** for the fifth year of such 5-year period, 100 percent of the chargeable risk premium rate otherwise applicable under this title to the property.
+    >   - **(2)** *Low-cost property* For purposes of this subsection, the term `low-cost property' means a single-family dwelling, or a dwelling unit in a residential structure containing more than one dwelling unit, that—
+    >     - **(A)** is the principal residence of the owner or renter occupying the dwelling or unit; and
+    >     - **(B)** has a value, at the time of the initial designation of the area having special flood hazards, that does not exceed 75 percent of median home value for the State in which the property is located.
 
 ## § 23. Notification and appeal of map changes; notification of establishment of flood elevations
 
@@ -382,8 +414,12 @@ Section 1363 of the National Flood Insurance Act of 1968 (42 U.S.C. 4104) is ame
 >
 > - **(a)** In establishing projected flood elevations for land use purposes with respect to any community pursuant to section 1361, the Director shall first propose such determinations—
 >   - **(1)** by providing the chief executive officer of each community affected by the proposed elevations, by certified mail, with a return receipt requested, notice of the elevations, including a copy of the maps for the elevations for such community and a statement explaining the process under this section to appeal for changes in such elevations;
->   - **(2)** by causing notice of such elevations to be published in the Federal Register, which notice shall include information sufficient to identify the elevation determinations and the communities affected, information explaining how to obtain copies of the elevations, and a statement explaining the process under this section to appeal for changes in the elevations; and
->   - **(3)** by publishing in a prominent local newspaper the elevations, a description of the appeals process for flood determinations, and the mailing address and telephone number of a person the owner may contact for more information or to initiate an appeal.
+>   - **(2)** by causing notice of such elevations to be published in the Federal Register, which notice shall include information sufficient to identify the elevation determinations and the communities affected, information explaining how to obtain copies of the elevations, and a statement explaining the process under this section to appeal for changes in the elevations;
+>   - **(3)** by publishing in a prominent local newspaper the elevations, a description of the appeals process for flood determinations, and the mailing address and telephone number of a person the owner may contact for more information or to initiate an appeal; and
+>   - **(4)** by providing written notification, by first class mail, to each owner of real property affected by the proposed elevations of—
+>     - **(A)** the status of such property, both prior to and after the effective date of the proposed determination, with respect to flood zone and flood insurance requirements under this Act and the Flood Disaster Protection Act of 1973;
+>     - **(B)** the process under this section to appeal a flood elevation determination; and
+>     - **(C)** the mailing address and phone number of a person the owner may contact for more information or to initiate an appeal.
 
 ## § 24. Clarification of replacement cost provisions, forms, and policy language
 
@@ -434,3 +470,90 @@ Not later than the expiration of the 6-month period beginning on the date of the
     - **(C)** the effects that the increased premium rates would have on land values and property taxes; and
     - **(D)** any other effects that the increased premium rates would have on the economy, homeowners, and renters of non-primary residences.
 - **(b)** *Report* The Director shall submit a report to the Congress describing and explaining the findings of the study conducted under this section. The report shall be submitted not later than 12 months after the date of the enactment of this Act.
+
+## § 30. Prohibition on enforcement of penalty assessed on condominium associations
+
+Notwithstanding any other provision of law, the Director of the Federal Emergency Management Agency shall not apply or enforce any penalty relating to the national flood insurance program assessed, during 2005 or thereafter, on condominium associations that are underinsured under such program.
+
+## § 31. Report of administrative expenses of write-your-own insurers; independent audits
+
+Section 1348 of the National Flood Insurance Act of 1968 (42 U.S.C. 4084) is amended by adding at the end the following new subsections:
+
+> - **(c)** Any insurance company or other private organization executing any contract, agreement, or other appropriate arrangement with the Director under this part shall—
+>   - **(1)** annually submit to the Director a record of all administrative and operating costs of the program undertaken; and
+>   - **(2)** biennially submit to the Director an independent audit of the program undertaken that is conducted by a certified public accountant to ensure that payments made are proper and in accordance with this Act.
+> - **(d)** The Director shall review the records and audits submitted under paragraphs (1) and (2) of subsection (c) to determine if such payments are reasonable and if the system by which the Director makes payments to an insurance company or other private organization under this part should be revised.
+
+## § 32. Plan to verify maintenance of flood insurance on Mississippi and Louisiana properties receiving emergency supplemental funds
+
+The Director of the Federal Emergency Management Agency shall develop and implement a plan to verify that persons receiving funds under the Homeowner Grant Assistance Program of the State of Mississippi or the Road Home Program of the State of Louisiana from amounts allocated to the State of Mississippi or the State of Louisiana, respectively, from the Community development fund under the Emergency Supplemental Appropriations Act to Address Hurricanes in the Gulf of Mexico and Pandemic Influenza, 2006 (Public Law 109–148) are maintaining flood insurance on the property for which such persons receive such funds as required by each such Program.
+
+## § 33. GAO study of factors affecting enrollment in multiperil insurance program
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study to identify and analyze factors affecting enrollment in the multiperil insurance program. Such study shall include a study of the effects of the multiperil insurance program on enrollment and pricing of State residual property and casualty markets or plans and State catastrophe plans.
+- **(b)** *Report* Not later than 270 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report containing the conclusions of the study conducted under subsection (a).
+
+## § 34. National flood insurance advocate; reports
+
+Chapter II of the National Flood Insurance Act of 1968 is amended by inserting after section 1330 (42 U.S.C. 4041) the following new section:
+
+> ## § 1330A. National Flood Insurance Advocate
+>
+> - **(a)** *Establishment of position*
+>   - **(1)** *In general* There shall be in the Federal Emergency Management Agency a National Flood Insurance Advocate. The National Flood Insurance Advocate shall report directly to the Director and shall, to the extent amounts are provided pursuant to subsection (c), be compensated at the same rate as the highest rate of basic pay established for the Senior Executive Service under section 5382 of title 5, United States Code, or, if the Director so determines, at a rate fixed under section 9503 of such title.
+>   - **(2)** *Appointment* The National Flood Insurance Advocate shall be appointed by the Director and the flood insurance advisory committee established pursuant to section 1318 (42 U.S.C. 4025) and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
+>   - **(3)** *Qualifications* An individual appointed under paragraph (2) shall have—
+>     - **(A)** a background in customer service as well as insurance; and
+>     - **(B)** experience in representing individual insureds.
+>   - **(4)** *Restriction on employment* An individual may be appointed as the National Flood Insurance Advocate only if such individual was not an officer or employee of the Federal Emergency Management Agency with duties relating to the national flood insurance program during the 2-year period ending with such appointment and such individual agrees not to accept any employment with the Federal Emergency Management Agency for at least 5 years after ceasing to be the National Flood Insurance Advocate. Service as an employee of the National Flood Insurance Advocate shall not be taken into account in applying this paragraph.
+>   - **(5)** *Staff* To the extent amounts are provided pursuant to subsection (c), the National Flood Insurance Advocate may employ such personnel as may be necessary to carry out the duties of the Advocate.
+> - **(b)** *Duties* The duties of the National Flood Insurance Advocate shall be to conduct studies with respect to, and submit, the following reports:
+>   - **(1)** *Report on problems of insureds under national flood insurance program* Not later than the expiration of the 12-month period beginning on the date of the enactment of the Flood Insurance Reform and Modernization Act of 2007, the National Flood Insurance Advocate shall submit a report to the Congress regarding the national flood insurance program, which shall—
+>     - **(A)** identify areas in which insureds under such program have problems in dealings with the Federal Emergency Management Agency relating to such program, and shall contain a summary of at least 20 of the most serious problems encountered by such insureds, including a description of the nature of such problems;
+>     - **(B)** identify areas of the law relating to the flood insurance that impose significant compliance burdens on such insureds or the Federal Emergency Management Agency, including specific recommendations for remedying such problems;
+>     - **(C)** identify the 10 most litigated issues for each category of such insureds, including recommendations for mitigating such disputes;
+>     - **(D)** identify the initiatives of the Agency to improve services for insureds under the national flood insurance program and actions taken by the Agency with respect to such program;
+>     - **(E)** contain recommendations for such administrative and legislative action as may be appropriate to mitigate or resolve problems encountered by such insureds; and
+>     - **(F)** include such other information as the National Flood Insurance Advocate considers appropriate.
+>   - **(2)** *Report on establishment of an office of the flood insurance advocate* Not later than the expiration of the 6-month period beginning on the date of the initial appointment of a National Flood Insurance Advocate under this section, the Advocate shall submit a report to the Congress regarding the feasibility and effectiveness of establishing an Office of the Flood Insurance Advocate, headed by the National Flood Insurance Advocate, to assist insureds under the national flood insurance program in resolving problems with the Federal Emergency Management Agency relating to such program. Such report shall examine and analyze, and include recommendations regarding—
+>     - **(A)** an appropriate structure in which to establish such an Office, and appropriate levels of personnel for such Office;
+>     - **(B)** other appropriate functions for such an Office, which may include—
+>       - **(i)** identifying areas in which such insureds have problems in dealing with the Agency relating to such program;
+>       - **(ii)** proposing changes in the administrative practices of the Agency to resolve or mitigate problems encountered by such insureds; and
+>       - **(iii)** identifying potential legislative changes which may be appropriate to resolve or mitigate such problems;
+>     - **(C)** appropriate procedures for formal response by the Director to recommendations submitted to the Director by the National Flood Insurance Advocate;
+>     - **(D)** the feasibility and effectiveness of authorizing the National Flood Insurance Advocate to issue flood insurance assistance orders in cases in which the Advocate determines that a qualified insured is suffering or about to suffer a significant hardship as a result of the manner in which the flood insurance laws are being administered or meets such other requirements may be appropriate, including examining and analyzing—
+>       - **(i)** appropriate limitations on the scope and effect of such orders;
+>       - **(ii)** an appropriate standard for determining such a significant hardship;
+>       - **(iii)** appropriate terms of flood insurance assistance orders; and
+>       - **(iv)** appropriate procedures for modifying or rescinding such orders;
+>     - **(E)** the feasibility and effectiveness of establishing offices of flood insurance advocates who report to the National Flood Insurance Advocate, including examining and analyzing—
+>       - **(i)** the appropriate coverage and geographic allocation of such offices;
+>       - **(ii)** appropriate procedures and criteria for referral of inquiries by insureds under such program to such offices;
+>       - **(iii)** allowing such advocates to consult with appropriate supervisory personnel of the Agency regarding the daily operation of the offices; and
+>       - **(iv)** providing authority for such advocates not disclose to the Director contact with, or information provided by, such an insured;
+>     - **(F)** appropriate methods for developing career paths for flood insurance advocates referred to in subparagraph (E) who may choose to make a career in the Office of the Flood Insurance Advocate; and
+>     - **(G)** such other issues regarding the establishment of an Office of the Flood Insurance Advocate as the National Flood Insurance Advocate considers appropriate.
+>   - **(3)** *Direct submission of reports* Each report required under paragraph (2) shall be provided directly to the Congress by the National Flood Insurance Advocate without any prior review or comment from the Director, the Secretary of Homeland Security, or any other officer or employee of the Federal Emergency Management Agency or the Department of Homeland Security, or the Office of Management and Budget.
+> - **(c)** *Authorization of appropriations* There are authorized to be appropriated for fiscal year 2008 and each fiscal year thereafter such sums as may be necessary to carry out this section.
+
+## § 35. Requirements relating to windstorm and flood
+
+Section 1345 of the National Flood Insurance Act of 1968 (42 U.S.C. 4081) is amended by adding at the end the following new subsection:
+
+> - **(d)** *Requirements for Write-Your-Own insurers relating to windstorm and flood* The Director may not utilize the facilities or services of any insurance company or other insurer to offer flood insurance coverage under this title unless such company or insurer enters into a written agreement with the Director that provides as follows:
+>   - **(1)** *Prohibition on exclusion of wind damage coverage* The agreement shall prohibit the company or insurer from including, in any policy provided by the company or insurer for homeowners’ insurance coverage or coverage for damage from windstorms, any provision that excludes coverage for wind or other damage solely because flooding also contributed to damage to the insured property.
+>   - **(2)** *Fiduciary responsibility* The agreement shall provide that the company or insurer—
+>     - **(A)** has a fiduciary duty with respect to the Federal taxpayers;
+>     - **(B)** in selling and servicing policies for flood insurance coverage under this title and adjusting claims under such coverage, will act in the best interests the national flood insurance program rather than in the interests of the company or insurer; and
+>     - **(C)** will provide written guidance to each insurance agent and claims adjuster for the company or insurer setting forth the terms of the agreement pursuant to subparagraphs (A) and (B).
+
+## § 36. Notations on flood insurance rate maps for areas protected against 100-year and 500-year floods by certified flood control structure
+
+The National Flood Insurance Act of 1968 is amended by inserting after section 1361A (42 U.S.C. 4102a) the following new section:
+
+> ## § 1362. Notations on flood insurance rate maps for areas protected against 100-year and 500-year floods by certified flood control structure
+>
+> - **(a)** *100-year floodplain* The Director may publish, through the publication of a national flood insurance program rate map, a note to designate areas protected against at least the 100-year flood by a certified flood control structure which shall read as follows: “NOTE: This area is shown as being protected from at least the 1-percent-annual-chance flood hazard by levee, dike, or other structure. Overtopping or failure of any flood control structure is possible. Property owners are encouraged to evaluate their flood risk, based on full and accurate information, and to consider flood insurance coverage as appropriate.”.
+> - **(b)** *500-year floodplain* The Director may publish, through the issuance of a national flood insurance program rate map, a note to designate areas protected against at least the 500-year flood by a certified flood control structure which shall read as follows: “NOTE: This area is shown as being protected from at least the 0.2-percent-annual-chance flood hazard by levee, dike, or other structure. Overtopping or failure of any flood control structure is possible. Property owners are encouraged to evaluate their flood risk, based on full and accurate information, and to consider flood insurance coverage as appropriate.”.
+> - **(c)** *Effect of notes* The publication of a note under subsection (a) or (b) shall not be considered a requirement of participation in the national flood insurance program.
