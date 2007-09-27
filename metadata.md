@@ -1,7 +1,7 @@
 ---
 measure: S. 2085
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2085
@@ -16,7 +16,7 @@ Patient and Pharmacy Protection Act of 2007
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
 
-## Cosponsors (6)
+## Cosponsors (7)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -24,10 +24,12 @@ Patient and Pharmacy Protection Act of 2007
 - Sen. Coleman, Norm [R-MN] (C001057)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Finance Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -37,3 +39,6 @@ Patient and Pharmacy Protection Act of 2007
 - 2007-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text as passed Senate: CR S12076)
 - 2007-09-25 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S12076)
 - 2007-09-25 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S12076)
+- 2007-09-27 — Message on Senate action sent to the House.
+- 2007-09-27 — Received in the House.
+- 2007-09-27 — Referred to the House Committee on Energy and Commerce.
