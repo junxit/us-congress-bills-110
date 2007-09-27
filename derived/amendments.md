@@ -1,7 +1,7 @@
 ---
 measure: S. 2085
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Effective as if included in the enactment of section 7002(b) of the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 (Public Law 110–28, 121 Sta. 187), paragraph (2) of such section… | the bill names no machine-readable US Code section |
+| — | replace | Effective as if included in the enactment of section 7002(b) of the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 (Public Law 110–28, 121 Stat. 187), paragraph (2) of such sectio… | the bill names no machine-readable US Code section |
