@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3567
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 8 executed, 27 stated and not applied.
+37 amendatory instructions. 8 executed, 29 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -109,19 +109,21 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 683` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 683` | add-at-end | Section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)), as amended by section 101, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 683` | replace | Section 303 of the Small Business Investment Act of 1958 (15 U.S.C. 683) is amended by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 683` | add-at-end | Section 303 of the Small Business Investment Act of 1958 (15 U.S.C. 683), as amended by this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 686` | amend | Section 306(a) of the Small Business Investment Act of 1958 (15 U.S.C. 686(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 689c` | add-at-end | Section 354 of the Small Business Investment Act of 1958 (15 U.S.C. 689c) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 689c` | replace | by striking “Each” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 689c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 689c` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 689` | strike | by striking paragraphs (2) and (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 45D` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 689` | redesignate | by redesignating paragraphs (4) through (8) as (3) through (7), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 689` | add-at-end | Section 358(a) of the Small Business Investment Act of 1958 (15 U.S.C. 689(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 689c` | amend | in subclause (I) by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 689c` | strike | in subclause (II) by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 689c` | strike | by striking subclause (III). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 689` | insert | Section 351(5) of the Small Business Investment Act of 1958 (15 U.S.C. 689(5)) is amended by inserting before the period at the end the following: “, including assistance on how to implement energy efficiency and sustainable practices th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | in subclause (I) by adding “and” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in subclause (II) by striking “and” at the end; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subclause (III). | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 689g` | replace | by striking “shall be equal to” and all that follows through the period at the end and by inserting “shall be equal to the lesser of—”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `15 U.S.C. § 689g` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 689g` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 689q` | insert | by inserting before the period at the end the following: “, of which not less than one-quarter shall be used to guarantee debentures of companies engaged primarily in development of and investment in small manufacturers”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 689q` | insert | by inserting before the period at the end the following: “, of which not less than one-quarter shall be used to make grants to companies engaged primarily in development of and investment in small manufacturers”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 681` | add-at-end | Title III of the Small Business Investment Act of 1958 (15 U.S.C. 681 et seq.) is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -129,6 +131,6 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 694b` | strike | in subsection (a), by striking paragraphs (3), (4), and (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 694b` | strike | by striking paragraph (1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 694b` | redesignate | by redesignating paragraphs (2) through (4) as (1) through (3), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694b` | amend | Section 411 of the Small Business Investment Act of 1958 (15 U.S.C. 694b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 694b` | add-at-end | Section 411 of the Small Business Investment Act of 1958 (15 U.S.C. 694b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 694b` | add-at-end | Section 411 of the Small Business Investment Act of 1958 (15 U.S.C. 694b) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | add-at-end | Section 3(a) of the Small Business Act (15 U.S.C. 632(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-51` | add-at-end | Section 3(a) of the Small Business Act (15 U.S.C. 632(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
