@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3567
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3567
@@ -22,9 +22,10 @@ Small Business Investment Expansion Act of 2007
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ Small Business Investment Expansion Act of 2007
 - 2007-09-27 — The Speaker designated the Honorable Ron Kind to act as Chairman of the Committee.
 - 2007-09-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11007)
 - 2007-09-27 — The previous question was ordered pursuant to the rule. (consideration: CR H11006)
+- 2007-09-28 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
