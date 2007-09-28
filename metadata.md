@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2693
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2693
@@ -84,3 +84,5 @@ Popcorn Workers Lung Disease Prevention Act
 - 2007-09-26 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2693.
 - 2007-09-26 — The Speaker designated the Honorable Dennis A. Cardoza to act as Chairman of the Committee.
 - 2007-09-26 — The previous question was ordered pursuant to the rule. (consideration: CR H10931)
+- 2007-09-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-09-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 400.
