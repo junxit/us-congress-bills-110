@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3648
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 26 U.S.C. § 108
 
-> Subparagraph (A) of section 108(a)(2) of such Code is amended by striking “and (D)” and inserting “, (D), and (E)”.
+> Subparagraph (A) of section 108(a)(2) of such Code is amended by striking “and (D)” and inserting “(D), and (E)”.
 
 | | |
 |---|---|
 | Removed | `and (D)` |
-| Inserted | `, (D), and (E)` |
+| Inserted | `(D), and (E)` |
 
 ## Stated, not applied
 
@@ -48,4 +48,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subparagraph (E) of section 163(h)(3) of the Internal Revenue Code of 1986 (relating to mortgage insurance premiums treated as interest) is amended by striking clauses (iii) and (iv) and inserting the following new clause: | the bill names no machine-readable US Code section |
 | — | amend | Subparagraph (D) of section 216(b)(1) of the Internal Revenue Code of 1986 (defining cooperative housing corporation) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (b) of section 121 of the Internal Revenue Code of 1986 (relating to limitations) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “114.75 percent” and inserting “116.50 percent”. | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking the percentage contained therein and inserting “116.75 percent”. | the bill names no machine-readable US Code section |
