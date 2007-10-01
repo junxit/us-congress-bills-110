@@ -7,14 +7,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H. CON. RES. 185
 
-> Commending the 1st Brigade Combat Team/34th Infantry Division of the Minnesota National Guard upon its completion of the longest continuous deployment of any United States military unit during Operation Iraqi Freedom.
+> Commending the 1st Brigade Combat Team/34th Infantry Division of the Minnesota National Guard upon its completion of the longest continuous deployment of any United States ground combat military unit in Operation Iraqi Freedom.
 
 ## Preamble
 
-- Whereas the 1st Brigade Combat Team/34th Infantry Division of the Minnesota National Guard, known as the Red Bull Division, is headquartered in Bloomington, Minnesota, and is made up of some 3,700 hard-working and courageous Minnesotans and some 1,300 more soldiers from other Midwestern States;
+- Whereas the 1st Brigade Combat Team/34th Infantry Division of the Minnesota National Guard, known as the Red Bull Division, is headquartered in Bloomington, Minnesota, and deployed approximately 2,700 hard-working and courageous Minnesotans and approximately 1,300 more soldiers from other Midwestern States;
 - Whereas the 1st Brigade Combat Team has a long history of service to the United States, beginning with the Civil War;
 - Whereas the 1st Brigade Combat Team was most recently mobilized in September 2005 and departed for Iraq in March 2006;
-- Whereas the 1st Brigade Combat Team recently completed the longest continuous deployment of any United States military unit during Operation Iraqi Freedom;
+- Whereas the 1st Brigade Combat Team recently completed the longest continuous deployment of any United States ground combat military unit during Operation Iraqi Freedom;
 - Whereas, during its deployment, the 1st Brigade Combat Team completed 5,200 combat logistics patrols, secured 2.4 million convoy miles, and discovered 462 improvised explosive devices (IEDs) prior to detonation;
 - Whereas the 1st Brigade Combat Team processed over 1.5 million vehicles and 400,000 Iraqis into entry control points without any insurgent penetrations;
 - Whereas the 1st Brigade Combat Team captured over 400 suspected insurgents;
@@ -30,6 +30,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That Congress—
 
-- **(1)** commends the 1st Brigade Combat Team/34th Infantry Division of the Minnesota National Guard upon its completion of the longest continuous deployment of any United States military unit during Operation Iraqi Freedom;
+- **(1)** commends the 1st Brigade Combat Team/34th Infantry Division of the Minnesota National Guard upon its completion of the longest continuous deployment of any United States ground combat military unit during Operation Iraqi Freedom;
 - **(2)** recognizes the achievements of the members of the 1st Brigade Combat Team and their exemplary service to the United States; and
-- **(3)** directs the Clerk of the House to transmit a copy of this resolution to the Adjutant General of the Minnesota National Guard for appropriate display.
+- **(3)** directs the Clerk of the House of Representatives to transmit a copy of this resolution to the Adjutant General of the Minnesota National Guard for appropriate display.
