@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3648
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3648
@@ -16,7 +16,7 @@ Mortgage Forgiveness Debt Relief Act of 2007
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (20)
+## Cosponsors (25)
 
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
@@ -38,6 +38,11 @@ Mortgage Forgiveness Debt Relief Act of 2007
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
 - Rep. Neal, Richard E. [D-MA-2] (N000015)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
 ## Committees (1)
 
@@ -48,3 +53,8 @@ Mortgage Forgiveness Debt Relief Act of 2007
 - 2007-09-25 — Introduced in House
 - 2007-09-25 — Introduced in House
 - 2007-09-25 — Referred to the House Committee on Ways and Means.
+- 2007-09-26 — Committee Consideration and Mark-up Session Held.
+- 2007-09-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-10-01 — Placed on the Union Calendar, Calendar No. 220.
+- 2007-10-01 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-356.
+- 2007-10-01 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-356.
