@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3382
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3382
@@ -40,3 +40,11 @@ To designate the facility of the United States Postal Service located at 200 Nor
 - 2007-08-03 — Introduced in House
 - 2007-08-03 — Introduced in House
 - 2007-08-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-09-20 — Committee Consideration and Mark-up Session Held.
+- 2007-09-20 — Ordered to be Reported by Unanimous Consent.
+- 2007-10-01 — Considered under suspension of the rules. (consideration: CR H11042-11043)
+- 2007-10-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3382.
+- 2007-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-01 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11042)
+- 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11042)
