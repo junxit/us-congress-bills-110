@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 691
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 691
@@ -16,7 +16,7 @@ Commending the Wings Over Houston Airshow for its great contribution to the appr
 
 - Rep. Lampson, Nick [D-TX-22] (L000043)
 
-## Cosponsors (36)
+## Cosponsors (38)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Poe, Ted [R-TX-2] (P000592)
@@ -54,6 +54,8 @@ Commending the Wings Over Houston Airshow for its great contribution to the appr
 - Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
 
 ## Committees (1)
 
@@ -64,3 +66,9 @@ Commending the Wings Over Houston Airshow for its great contribution to the appr
 - 2007-09-27 — Introduced in House
 - 2007-09-27 — Introduced in House
 - 2007-09-27 — Referred to the House Committee on Armed Services.
+- 2007-10-01 — Considered under suspension of the rules. (consideration: CR H11032-11034)
+- 2007-10-01 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 691.
+- 2007-10-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-01 — Ms. Castor moved to suspend the rules and agree to the resolution.
+- 2007-10-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11032)
+- 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11032)

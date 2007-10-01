@@ -2,7 +2,7 @@
 legis-num: H. RES. 691
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 691
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas tens of thousands of people from southeast Texas and all over the United States attend the event each year and experience the unique opportunity to see the United States Air Force, Navy, Marines, and Coast Guard perform and to meet service members of the past and present;
 - Whereas the Wings Over Houston Airshow has helped to increase awareness and appreciation for the United States Armed Forces and its active duty members and veterans;
 - Whereas the Wings Over Houston Airshow serves to promote an understanding and appreciation of military history through the reenactment of battles and the acquisition, restoration, and display of vintage aircraft;
-- Whereas throughout its history, Wings Over Houston Airshow has benefited local and national charities, including the Wings Over Houston Airshow Scholarship Program, the Texas Southern University Aviation Career Academy, the Exchange Club of Sugar Land, and the Commemorative Air Force aircraft restoration and flying historical programs;
+- Whereas throughout its history, Wings Over Houston Airshow has benefitted local and national charities, including the Wings Over Houston Airshow Scholarship Program, the Texas Southern University Aviation Career Academy, the Exchange Club of Sugar Land, and the Commemorative Air Force aircraft restoration and flying historical programs;
 - Whereas the Wings Over Houston Airshow and its partners, including the Lone Star Flight Museum, the Houston Airport System, the Clear Lake Area Chamber of Commerce, the Bay Area Houston Convention and Visitors Bureau, the Greater Houston Convention and Visitors Bureau, Destination League City, and the cities of Houston, Kemah, Nassau Bay, Seabrook, and Webster, have contributed to the economy and growth of southeast Texas; and
 - Whereas the Wings Over Houston Scholarship Program has promoted the importance of math and science education by helping southeast Texas students pursue college educations in the fields of aviation and aerospace: Now, therefore, be it
 
