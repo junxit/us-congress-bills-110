@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3571
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3571
@@ -25,3 +25,9 @@ To amend the Congressional Accountability Act of 1995 to permit individuals who 
 - 2007-09-18 — Introduced in House
 - 2007-09-18 — Introduced in House
 - 2007-09-18 — Referred to the House Committee on House Administration.
+- 2007-10-02 — Considered under suspension of the rules. (consideration: CR H11107-11108)
+- 2007-10-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3571.
+- 2007-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-02 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
+- 2007-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11107)
+- 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11107)
