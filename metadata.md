@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3233
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3233
@@ -23,9 +23,10 @@ To designate the facility of the United States Postal Service located at Highway
 - Rep. Wicker, Roger F. [R-MS-1] (W000437)
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To designate the facility of the United States Postal Service located at Highway
 - 2007-10-01 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11043-11044)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11043-11044)
+- 2007-10-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
