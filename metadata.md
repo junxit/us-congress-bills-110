@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3087
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3087
@@ -35,6 +35,10 @@ A bill to require the Secretary of Defense to submit to Congress reports on the 
 
 - House — Armed Services Committee
 
+## Recorded votes (1)
+
+- 2007-10-02 — [House 110-1-927](votes/house-110-1-0927.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (377–46)
+
 ## Actions
 
 - 2007-07-18 — Introduced in House
@@ -45,3 +49,10 @@ A bill to require the Secretary of Defense to submit to Congress reports on the 
 - 2007-07-31 — Placed on the Union Calendar, Calendar No. 184.
 - 2007-07-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-283.
 - 2007-07-31 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-283.
+- 2007-10-02 — Considered under suspension of the rules. (consideration: CR H11116-11118, H11118-11125)
+- 2007-10-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3087.
+- 2007-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-02 — Mr. Skelton moved to suspend the rules and pass the bill, as amended.
+- 2007-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 46 (Roll no. 927). (text: CR H11116)
+- 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 46 (Roll no. 927).(text: CR H11116)
+- 2007-10-02 — The title of the measure was amended. Agreed to without objection.
