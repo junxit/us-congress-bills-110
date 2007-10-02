@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1680
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1680
@@ -16,7 +16,7 @@ Secure Handling of Ammonium Nitrate Act of 2007
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Cosponsors (7)
+## Cosponsors (9)
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Langevin, James R. [D-RI-2] (L000559)
@@ -25,6 +25,8 @@ Secure Handling of Ammonium Nitrate Act of 2007
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Green, Al [D-TX-9] (G000553)
 
 ## Committees (1)
 
@@ -35,3 +37,12 @@ Secure Handling of Ammonium Nitrate Act of 2007
 - 2007-03-26 — Introduced in House
 - 2007-03-26 — Introduced in House
 - 2007-03-26 — Referred to the House Committee on Homeland Security.
+- 2007-03-28 — Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.
+- 2007-03-29 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-03-29 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-04-17 — Committee Consideration and Mark-up Session Held.
+- 2007-04-26 — Committee Consideration and Mark-up Session Held.
+- 2007-04-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-10-02 — Placed on the Union Calendar, Calendar No. 221.
+- 2007-10-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-357.
+- 2007-10-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-357.
