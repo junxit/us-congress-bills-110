@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3325
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3325
@@ -23,9 +23,10 @@ To designate the facility of the United States Postal Service located at 235 Mou
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Murphy, Christopher [D-CT-5] (M001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 235 Mou
 - 2007-10-01 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 926). (text: CR H11041)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 926).(text: CR H11041)
+- 2007-10-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
