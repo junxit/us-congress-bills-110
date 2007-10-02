@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 13
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 13
@@ -16,7 +16,7 @@ A joint resolution granting the consent of Congress to the International Emergen
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
@@ -26,6 +26,9 @@ A joint resolution granting the consent of Congress to the International Emergen
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Sununu, John E. [R-NH] (S001078)
 
 ## Committees (1)
 
@@ -40,3 +43,5 @@ A joint resolution granting the consent of Congress to the International Emergen
 - 2007-09-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-09-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.
+- 2007-10-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S12449-12450; text as passed Senate: CR S12449-12450)
+- 2007-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S12449-12450; text as passed Senate: CR S12449-12450)
