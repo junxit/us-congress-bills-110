@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3087
 
-> To require the President, in coordination with the Secretary of State, the Secretary of Defense, the Joint Chiefs of Staff, and other senior military leaders, to develop and transmit to Congress a comprehensive strategy for the redeployment of United States Armed Forces in Iraq.
+> To require the Secretary of Defense to submit to Congress reports on the status of planning for the redeployment of the Armed Forces from Iraq and to require the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and appropriate senior officials of the Department of Defense to meet with Congress to brief Congress on the matters contained in the reports.
 
 ## § 1. Findings
 
@@ -18,15 +18,33 @@ Congress finds the following:
 - **(3)** The current Government of Iraq does not pose a threat to the United States or its interests.
 - **(4)** After more than four years of valiant efforts by members of the Armed Forces and United States civilians, the Government of Iraq must now be responsible for Iraq’s future course.
 
-## § 2. Comprehensive strategy for the redeployment of the Armed Forces in Iraq
+## § 2. Sense of Congress
 
-- **(a)** *Strategy required* Not later than 60 days after the date of the enactment of this Act , the President, in coordination with the Secretary of State, the Secretary of Defense, the Joint Chiefs of Staff, and other senior military leaders, shall develop and transmit to Congress a comprehensive strategy for the redeployment of the Armed Forces in Iraq.
-- **(b)** *Matters To be included* The strategy required by subsection (a) shall include planning to achieve the following:
-  - **(1)** The transition of United States combat forces from policing civil strife or sectarian violence in Iraq.
-  - **(2)** United States military operations to deny international terrorists a safe haven, conduct counterterrorism operations against al Qaeda in Iraq and other global terrorist organizations, protect the Armed Forces and facilities of the Armed Forces, and support and equip Iraqi forces to take full responsibility for their own security.
-  - **(3)** A projection of the number of members of the Armed Forces required for the missions described in paragraphs (1) and (2).
-  - **(4)** The safe redeployment of the Armed Forces and the orderly removal of material, equipment, and logistical requirements not needed for the missions described in paragraphs (1) and (2).
+It is the sense of Congress that—
 
-## § 3. Armed Forces defined
+- **(1)** nothing in this Act shall be construed as a recommendation by Congress that any particular contingency plan be exercised;
+- **(2)** it is necessary and prudent for the Department of Defense to undertake robust and comprehensive contingency planning;
+- **(3)** contingency planning for a redeployment of the Armed Forces from Iraq should address—
+  - **(A)** ensuring appropriate protection for the Armed Forces in Iraq;
+  - **(B)** providing appropriate protection in Iraq for United States civilians, contractors, third party nationals, and Iraqi nationals who have assisted the United States mission in Iraq;
+  - **(C)** maintaining and enhancing the ability of the United States Government to eliminate and disrupt Al Qaeda and affiliated terrorist organizations; and
+  - **(D)** preserving military equipment necessary to defend the national security interests of the United States; and
+- **(4)** contingency planning for a redeployment of the Armed Forces from Iraq should—
+  - **(A)** describe a range of possible scenarios for such redeployment;
+  - **(B)** outline multiple possible timetables for such redeployment; and
+  - **(C)** describe the possible missions, and the associated projected number of members, of the Armed Forces which would remain in Iraq, including to—
+    - **(i)** conduct United States military operations to protect vital United States national security interests;
+    - **(ii)** conduct counterterrorism operations against Al Qaeda in Iraq and affiliated terrorist organizations;
+    - **(iii)** protect the Armed Forces, United States diplomatic and military facilities, and United States civilians; and
+    - **(iv)** support and equip Iraqi forces to take full responsibility for their own security.
 
-In this Act, the term Armed Forces has the meaning given the term in section 101 of title 10, United States Code.
+## § 3. Reports and congressional briefings on the status of planning for the redeployment of the Armed Forces from Iraq
+
+- **(a)** *Reports required* Not later than 60 days after the date of the enactment of this Act, and every 90 days thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the status of planning for the redeployment of the Armed Forces from Iraq. The initial report and each subsequent report required by this subsection shall be submitted in unclassified form, to the maximum extent possible, but may contain a classified annex, if necessary.
+- **(b)** *Congressional briefings required* Not later than 14 days after the submission of the initial report under subsection (a), the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall meet with the congressional defense committees to brief such committees on the matters contained in the report. Not later than 14 days after the submission of each subsequent report under subsection (a), appropriate senior officials of the Department of Defense shall meet with the congressional defense committees to brief such committees on the matters contained in the report.
+- **(c)** *Termination of reporting and briefing requirements* The requirement to submit reports under subsection (a) and the requirement to provide congressional briefings under subsection (b) shall terminate on the date on which the Secretary of Defense submits to the congressional defense committees a certification in writing that the Armed Forces are no longer primarily engaged in a combat mission in Iraq.
+- **(d)** *Congressional defense committees defined* In this section, the term “congressional defense committees” has the meaning given the term in section 101 of title 10, United States Code.
+
+## § 4. Armed Forces defined
+
+In this Act, the term “Armed Forces” has the meaning given the term in section 101 of title 10, United States Code.
