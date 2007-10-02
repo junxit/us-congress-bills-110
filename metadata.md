@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2779
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2779
@@ -63,9 +63,10 @@ To recognize the Navy UDT-SEAL Museum in Fort Pierce, Florida, as the official n
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Ross, Mike [D-AR-4] (R000573)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ To recognize the Navy UDT-SEAL Museum in Fort Pierce, Florida, as the official n
 - 2007-10-01 — Ms. Castor moved to suspend the rules and pass the bill.
 - 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11036)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11036)
+- 2007-10-02 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
