@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 657
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 657
@@ -52,3 +52,10 @@ Expressing heartfelt sympathy for the victims of the devastating thunderstorms t
 - 2007-09-17 — Introduced in House
 - 2007-09-17 — Introduced in House
 - 2007-09-17 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-09-18 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-10-02 — Considered under suspension of the rules. (consideration: CR H11081-11085)
+- 2007-10-02 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 657.
+- 2007-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-02 — Mr. Walz (MN) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-10-02 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H11082)
+- 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H11082)

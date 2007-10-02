@@ -2,7 +2,7 @@
 legis-num: H. RES. 657
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 657
@@ -15,7 +15,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas these storms tragically took the lives of 14 people;
 - Whereas these storms injured countless other people, damaged or destroyed thousands of homes, and devastated businesses and institutions;
 - Whereas on August 21, 2007, the Governor of Minnesota declared Fillmore, Houston, Steele, Olmsted, Wabasha, and Winona Counties, Minnesota, to be in a state of disaster as a result of these storms, and subsequently Dodge County, Minnesota, received a Federal major disaster declaration as well;
-- Whereas on August 20 and 21, 2007, the Governor of Wisconsin declared Crawford, La Crosse, Richland, Sauk, and Vernon Counties, Wisconsin, to be in a state of disaster as a result of these storms;
+- Whereas on August 19, 2007, and in the days following, the Governor of Wisconsin declared Crawford, La Crosse, Richland, Sauk, Vernon, Columbia, Dane, Grant, Green, Iowa, Jefferson, Kenosha, Racine, and Rock Counties, Wisconsin, to be in a state of disaster as a result of these storms;
 - Whereas on August 22, 2007, and in the days following, the Governor of Iowa declared Appanoose, Boone, Calhoun, Cherokee, Davis, Humboldt, Mahaska, Palo Alto, Pocahontas, Van Buren, Wapello, Wayne, and Webster Counties, Iowa, to be in a state of disaster as a result of these storms;
 - Whereas on August 22, 2007, the Governor of Ohio declared Allen, Crawford, Hancock, Hardin, Putnam, Richland, Seneca, Van Wert, and Wyandot Counties, Ohio, to be in a state of disaster as a result of these storms;
 - Whereas on August 24, 2007, and in the days following, the Governor of Illinois declared Cook, DeKalb, DuPage, Grundy, Lake, LaSalle, Kane, Knox, McHenry, Warren, and Will Counties, Illinois, to be in a state of disaster as a result of these storms;
