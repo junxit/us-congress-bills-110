@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2779
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2779
@@ -81,3 +81,15 @@ To recognize the Navy UDT-SEAL Museum in Fort Pierce, Florida, as the official n
 - 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11036)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11036)
 - 2007-10-02 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2007-10-31 — Cleared for White House.
+- 2007-10-31 — Passed Senate without amendment by Unanimous Consent.
+- 2007-10-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-10-31 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S13646)
+- 2007-10-31 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S13646)
+- 2007-11-01 — Message on Senate action sent to the House.
+- 2007-11-01 — Presented to President.
+- 2007-11-01 — Presented to President.
+- 2007-11-13 — Became Public Law No: 110-115.
+- 2007-11-13 — Became Public Law No: 110-115.
+- 2007-11-13 — Signed by President.
+- 2007-11-13 — Signed by President.
