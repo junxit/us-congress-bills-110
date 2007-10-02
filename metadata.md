@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3002
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3002
@@ -33,3 +33,8 @@ Native American Economic Development and Infrastructure for Housing Act of 2007
 - 2007-07-11 — Introduced in House
 - 2007-07-11 — Referred to the House Committee on Financial Services.
 - 2007-07-11 — Sponsor introductory remarks on measure. (CR E1494-1495)
+- 2007-07-26 — Committee Consideration and Mark-up Session Held.
+- 2007-07-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-10-02 — Placed on the Union Calendar, Calendar No. 223.
+- 2007-10-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-363.
+- 2007-10-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-363.
