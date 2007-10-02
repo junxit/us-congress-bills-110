@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 185
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 185
@@ -57,9 +57,10 @@ Concurrent resolution commending the 1st Brigade Combat Team/34th Infantry Divis
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -76,3 +77,4 @@ Concurrent resolution commending the 1st Brigade Combat Team/34th Infantry Divis
 - 2007-10-01 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 0 (Roll no. 924). (text: CR H11037-11038)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 0 (Roll no. 924).(text: CR H11037-11038)
 - 2007-10-01 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-02 — Received in the Senate and referred to the Committee on Armed Services.
