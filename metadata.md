@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3233
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3233
@@ -42,3 +42,15 @@ To designate the facility of the United States Postal Service located at Highway
 - 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11043-11044)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11043-11044)
 - 2007-10-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-10-19 — Cleared for White House.
+- 2007-10-19 — Passed Senate without amendment by Unanimous Consent.
+- 2007-10-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-10-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S13167)
+- 2007-10-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S13167)
+- 2007-10-22 — Message on Senate action sent to the House.
+- 2007-10-24 — Presented to President.
+- 2007-10-24 — Presented to President.
+- 2007-10-26 — Became Public Law No: 110-107.
+- 2007-10-26 — Became Public Law No: 110-107.
+- 2007-10-26 — Signed by President.
+- 2007-10-26 — Signed by President.
