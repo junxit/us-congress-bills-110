@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2276
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2276
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 203 Nor
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ To designate the facility of the United States Postal Service located at 203 Nor
 - 2007-10-01 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 925). (text: CR H11040)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 379 - 0 (Roll no. 925).(text: CR H11040)
+- 2007-10-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
