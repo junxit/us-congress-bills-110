@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 13
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.J.Res. 13
@@ -45,3 +45,19 @@ A joint resolution granting the consent of Congress to the International Emergen
 - 2007-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.
 - 2007-10-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S12449-12450; text as passed Senate: CR S12449-12450)
 - 2007-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S12449-12450; text as passed Senate: CR S12449-12450)
+- 2007-10-03 — Held at the desk.
+- 2007-10-03 — Message on Senate action sent to the House.
+- 2007-10-03 — Received in the House.
+- 2007-12-17 — Cleared for White House.
+- 2007-12-17 — Considered under suspension of the rules. (consideration: CR H15501-15504)
+- 2007-12-17 — DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 13.
+- 2007-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-17 — Mr. Crowley moved to suspend the rules and pass the resolution.
+- 2007-12-17 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H15501-15503)
+- 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H15501-15503)
+- 2007-12-19 — Presented to President.
+- 2007-12-19 — Presented to President.
+- 2007-12-26 — Became Public Law No: 110-171.
+- 2007-12-26 — Became Public Law No: 110-171.
+- 2007-12-26 — Signed by President.
+- 2007-12-26 — Signed by President.
