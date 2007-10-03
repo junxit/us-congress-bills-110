@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3382
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3382
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 200 Nor
 - Rep. Hayes, Robin [R-NC-8] (H001029)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ To designate the facility of the United States Postal Service located at 200 Nor
 - 2007-10-01 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2007-10-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11042)
 - 2007-10-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11042)
+- 2007-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
