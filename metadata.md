@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3087
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3087
@@ -31,9 +31,10 @@ A bill to require the Secretary of Defense to submit to Congress reports on the 
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ A bill to require the Secretary of Defense to submit to Congress reports on the 
 - 2007-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 46 (Roll no. 927). (text: CR H11116)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 377 - 46 (Roll no. 927).(text: CR H11116)
 - 2007-10-02 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-03 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
