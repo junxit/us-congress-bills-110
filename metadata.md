@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2003
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2003
@@ -104,9 +104,10 @@ Ethiopia Democracy and Accountability Act of 2007
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -125,3 +126,4 @@ Ethiopia Democracy and Accountability Act of 2007
 - 2007-10-02 — Mr. Payne moved to suspend the rules and pass the bill, as amended.
 - 2007-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11099-11100)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11099-11100)
+- 2007-10-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
