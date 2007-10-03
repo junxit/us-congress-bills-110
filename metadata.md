@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 45
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 45
@@ -33,3 +33,5 @@ A concurrent resolution commending the Ed Block Courage Award Foundation for its
 - 2007-09-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-09-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
+- 2007-10-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S12691-12692; text as passed Senate: CR S12691-12692)
+- 2007-10-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S12691-12692; text as passed Senate: CR S12691-12692)
