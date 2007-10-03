@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3571
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
