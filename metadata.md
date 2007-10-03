@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 200
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 200
@@ -60,9 +60,10 @@ A concurrent resolution expressing the sense of Congress regarding the immediate
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Hare, Phil [D-IL-17] (H001040)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -84,3 +85,4 @@ A concurrent resolution expressing the sense of Congress regarding the immediate
 - 2007-10-02 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 931). (text: CR H11109-11110)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 2 (Roll no. 931).(text: CR H11109-11110)
 - 2007-10-02 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-03 — Received in the Senate and referred to the Committee on Foreign Relations.
