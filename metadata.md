@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3068
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3068
@@ -16,9 +16,10 @@ Federal Protective Service Guard Contracting Reform Act of 2008
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Federal Protective Service Guard Contracting Reform Act of 2008
 - 2007-10-02 — Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.
 - 2007-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11108)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11108)
+- 2007-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
