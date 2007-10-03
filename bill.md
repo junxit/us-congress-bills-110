@@ -2,7 +2,7 @@
 legis-num: H.R. 3087
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3087
@@ -43,8 +43,8 @@ It is the sense of Congress that—
 - **(a)** *Reports required* Not later than 60 days after the date of the enactment of this Act, and every 90 days thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the status of planning for the redeployment of the Armed Forces from Iraq. The initial report and each subsequent report required by this subsection shall be submitted in unclassified form, to the maximum extent possible, but may contain a classified annex, if necessary.
 - **(b)** *Congressional briefings required* Not later than 14 days after the submission of the initial report under subsection (a), the Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall meet with the congressional defense committees to brief such committees on the matters contained in the report. Not later than 14 days after the submission of each subsequent report under subsection (a), appropriate senior officials of the Department of Defense shall meet with the congressional defense committees to brief such committees on the matters contained in the report.
 - **(c)** *Termination of reporting and briefing requirements* The requirement to submit reports under subsection (a) and the requirement to provide congressional briefings under subsection (b) shall terminate on the date on which the Secretary of Defense submits to the congressional defense committees a certification in writing that the Armed Forces are no longer primarily engaged in a combat mission in Iraq.
-- **(d)** *Congressional defense committees defined* In this section, the term “congressional defense committees” has the meaning given the term in section 101 of title 10, United States Code.
+- **(d)** *Congressional defense committees defined* In this section, the term congressional defense committees has the meaning given the term in section 101 of title 10, United States Code.
 
 ## § 4. Armed Forces defined
 
-In this Act, the term “Armed Forces” has the meaning given the term in section 101 of title 10, United States Code.
+In this Act, the term Armed Forces has the meaning given the term in section 101 of title 10, United States Code.
