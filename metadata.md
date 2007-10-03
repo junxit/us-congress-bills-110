@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3571
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3571
@@ -16,9 +16,10 @@ To amend the Congressional Accountability Act of 1995 to permit individuals who 
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To amend the Congressional Accountability Act of 1995 to permit individuals who 
 - 2007-10-02 — Mr. Brady (PA) moved to suspend the rules and pass the bill.
 - 2007-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11107)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11107)
+- 2007-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
