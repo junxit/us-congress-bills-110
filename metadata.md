@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3571
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3571
@@ -33,3 +33,17 @@ To amend the Congressional Accountability Act of 1995 to permit individuals who 
 - 2007-10-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11107)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11107)
 - 2007-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-12-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-12-18 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S16055)
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S16055)
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2007-12-20 — Presented to President.
+- 2007-12-20 — Presented to President.
+- 2007-12-26 — Became Public Law No: 110-164.
+- 2007-12-26 — Became Public Law No: 110-164.
+- 2007-12-26 — Signed by President.
+- 2007-12-26 — Signed by President.
