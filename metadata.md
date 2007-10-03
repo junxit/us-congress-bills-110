@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 203
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 203
@@ -53,9 +53,10 @@ Condemning the persecution of labor rights advocates in Iran.
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -76,3 +77,4 @@ Condemning the persecution of labor rights advocates in Iran.
 - 2007-10-02 — Mr. Sherman moved to suspend the rules and agree to the resolution, as amended.
 - 2007-10-02 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1, 1 Present (Roll no. 929). (text: CR H11092)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 418 - 1, 1 Present (Roll no. 929).(text: CR H11092)
+- 2007-10-03 — Received in the Senate and referred to the Committee on Foreign Relations.
