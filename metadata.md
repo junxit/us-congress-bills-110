@@ -1,7 +1,7 @@
 ---
 measure: H.R. 928
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 928
@@ -26,9 +26,10 @@ Inspector General Reform Act of 2008
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -104,3 +105,4 @@ Inspector General Reform Act of 2008
 - 2007-10-03 — The previous question was ordered on the amendment (A006) without objection. (consideration: CR H11201-11202)
 - 2007-10-03 — The previous question was ordered pursuant to the rule. (consideration: CR H11200)
 - 2007-10-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
+- 2007-10-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
