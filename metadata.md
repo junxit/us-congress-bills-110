@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3246
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3246
@@ -37,10 +37,11 @@ Regional Economic and Infrastructure Development Act of 2007
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -57,3 +58,26 @@ Regional Economic and Infrastructure Development Act of 2007
 - 2007-09-07 — Placed on the Union Calendar, Calendar No. 202.
 - 2007-09-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-321, Part I.
 - 2007-09-07 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-321, Part I.
+- 2007-09-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-09-17 — Considered as unfinished business. (consideration: CR H10406-10407)
+- 2007-09-17 — Considered under suspension of the rules. (consideration: CR H10375-10384)
+- 2007-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3246.
+- 2007-09-17 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 225 - 152 (Roll no. 867).(text: CR H10375-10380)
+- 2007-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-09-17 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2007-09-17 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 225 - 152 (Roll no. 867). (text: CR H10375-10380)
+- 2007-10-02 — Rules Committee Resolution H. Res. 704 Reported to House. Rule provides for consideration of H.R. 3246 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.
+- 2007-10-04 — Considered under the provisions of rule H. Res. 704. (consideration: CR H11270-11287; text of measure as introduced: CR H11270-11275)
+- 2007-10-04 — DEBATE - The House proceeded with one hour of debate on H.R. 3246.
+- 2007-10-04 — DEBATE - The House proceeded with ten minutes of debate on the Jordan motion to recommit with instructions. The instructions contained in the motion seek to require that the bill be reported back to the House with an amendment adding a new section providing for a limitation on the use of funds.
+- 2007-10-04 — House amendment offered
+- 2007-10-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-04 — Mr. Jordan moved to recommit with instructions to Transportation. (consideration: CR H11284-11285; text: CR H11284)
+- 2007-10-04 — On motion to recommit with instructions Failed by the Yeas and Nays: 201 - 218 (Roll no. 945). (consideration: CR H11286)
+- 2007-10-04 — On passage Passed by the Yeas and Nays: 264 - 154 (Roll no. 946). (text: CR H11275-11280)
+- 2007-10-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 264 - 154 (Roll no. 946).(text: CR H11275-11280)
+- 2007-10-04 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2007-10-04 — Rule H. Res. 704 passed House.
+- 2007-10-04 — Rule provides for consideration of H.R. 3246 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.
+- 2007-10-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11286)
+- 2007-10-04 — The previous question was ordered pursuant to the rule. (consideration: CR H11284)
