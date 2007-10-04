@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3432
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3432
@@ -136,3 +136,26 @@ Commission on the Abolition of the Transatlantic Slave Trade Act
 - 2007-10-02 — The title of the measure was amended. Agreed to without objection.
 - 2007-10-03 — Received in the Senate.
 - 2007-10-04 — Read twice and referred to the Committee on the Judiciary.
+- 2007-12-19 — Amendment SA 3892 agreed to in Senate by Unanimous Consent.
+- 2007-12-19 — Amendment SA 3892 proposed by Senator Reid for Senator Lautenberg. (consideration: CR S16055) To strike the authorization of appropriations.
+- 2007-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S16055-16056)
+- 2007-12-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-12-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2007-12-19 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2007-12-19 — Senate amendment agreed to: Amendment SA 3892 agreed to in Senate by Unanimous Consent.
+- 2007-12-19 — Senate amendment proposed (on the floor): Amendment SA 3892 proposed by Senator Reid for Senator Lautenberg.(consideration: CR S16055)
+- 2007-12-19 — Senate amendment submitted
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2008-01-22 — Cleared for White House.
+- 2008-01-22 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 3432.
+- 2008-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-22 — Mr. Payne moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H370-372)
+- 2008-01-22 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H370)
+- 2008-01-22 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H370)
+- 2008-01-24 — Presented to President.
+- 2008-01-24 — Presented to President.
+- 2008-02-05 — Became Public Law No: 110-183.
+- 2008-02-05 — Became Public Law No: 110-183.
+- 2008-02-05 — Signed by President.
+- 2008-02-05 — Signed by President.

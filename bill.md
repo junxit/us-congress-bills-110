@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 3432
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 3432
@@ -16,9 +16,9 @@ This Act may be cited as the “Commission on the Abolition of the Transatlantic
 ## § 2. Findings and Purpose
 
 - **(a)** *Findings* Congress finds the following:
-  - **(1)** On March 2, 1807, President Thomas Jefferson signed into law a bill approved by the Congress “An Act to prohibit the importation of slaves into any port or place within the jurisdiction of the United States” (hereinafter in this Act referred to as the “1808 Transatlantic Slave Trade Act”) and made it unlawful ‘‘to import or bring into the United States or territories thereof from any foreign kingdom, place or country, any negro, mulatto, or person of colour, with intent to hold, sell, or dispose of such. . .as a slave, or to be held to service or labour’’.
+  - **(1)** On March 2, 1807, President Thomas Jefferson signed into law a bill approved by the Congress “An Act to prohibit the importation of slaves into any port or place within the jurisdiction of the United States” (hereinafter in this Act referred to as the “1808 Transatlantic Slave Trade Act”) and made it unlawful ‘‘to import or bring into the United States or territories thereof from any foreign kingdom, place or country, any negro, mulatto, or person of colour, with intent to hold, sell, or dispose of such * * * as a slave, or to be held to service or labour’’.
   - **(2)** Article I, Section 9 of the United States Constitution clearly spelled out that the international slave trade could not be banned before 1808, and it is only on January 1, 1808, that the 1808 Transatlantic Slave Trade Act went into effect.
-  - **(3)** An Act entitled “An Act to continue in force “An act to protect the commerce of the United States, and punish the crime of piracy,” and also to make further provisions for punishing the crime of piracy”, enacted May 15, 1820, made it unlawful for any citizen of the United States to engage “in the slave trade, or…, being of the crew or ship’s company of any foreign ship…, seize any negro or mulatto…with the intent to make…a slave…or forcibly bring …on board any such ship....”.
+  - **(3)** An Act entitled “An Act to continue in force “An act to protect the commerce of the United States, and punish the crime of piracy,” and also to make further provisions for punishing the crime of piracy”, enacted May 15, 1820, made it unlawful for any citizen of the United States to engage “in the slave trade, or * * *, being of the crew or ship’s company of any foreign ship * * *, seize any negro or mulatto * * * with the intent to make * * * a slave * * * or forcibly bring * * * on board any such ship * * *.”.
   - **(4)** The transatlantic slave trade entailed the kidnapping, purchase, and commercial export of Africans, mostly from West and Central Africa, to the European colonies and new nations in the Americas, including the United States, where they were enslaved in forced labor between the 15th and mid-19th centuries.
   - **(5)** The term “Middle Passage” refers to the horrific part of the transatlantic slave trade when millions of Africans were chained together and stowed by the hundreds in overcrowded ships where they were forced into small spaces for months without relief as they were transported across the Atlantic Ocean to the Americas.
   - **(6)** During the Middle Passage, enslaved Africans resisted their enslavement through non-violent and violent means, including hunger strikes, suicide, and shipboard revolts, the most historically-recognized events taking place on board the Don Carlos in 1732 and on board the Amistad in 1839.
@@ -41,11 +41,11 @@ There is established a commission to be known as the “Commission on the Abolit
 
 - **(a)** *Membership*
   - **(1)** *In general*
-    - **(A)** The Commission shall be composed of 9 members, of whom—
-      - **(i)** 3 shall be appointed by the Speaker of the House of Representatives;
-      - **(ii)** 2 shall be appointed by the majority leader of the Senate;
-      - **(iii)** 2 shall be appointed by the minority leader of the House of Representatives; and
-      - **(iv)** 2 shall be appointed by the minority leader of the Senate.
+    - **(A)** The Commission shall be composed of nine members, of whom—
+      - **(i)** three shall be appointed by the Speaker of the House of Representatives;
+      - **(ii)** two shall be appointed by the Majority Leader of the Senate;
+      - **(iii)** two shall be appointed by the Minority Leader of the House of Representatives; and
+      - **(iv)** two shall be appointed by the Minority Leader of the Senate.
     - **(B)** Each appointing authority described in subparagraph (A) shall appoint the initial members of the Commission not later than 30 days after the date of the enactment of this Act.
   - **(2)** *Qualifications* Members of the Commission shall be individuals with demonstrated expertise or experience in the study and program facilitation on the transatlantic slave trade and the institution of slavery as it relates to the United States and the Americas.
   - **(3)** *Term; Vacancies*
@@ -60,11 +60,11 @@ There is established a commission to be known as the “Commission on the Abolit
     - **(B)** *Initial meeting* Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its initial meeting.
     - **(C)** *Notice of meetings* All Commission members shall be given reasonable advance notice of all Commission meetings.
     - **(D)** *Appointment of Chairperson and executive director* Not later than 60 days after the date on which all members of the Commission have been appointed, the Commission shall—
-      - **(i)** designate 1 of the members as Chairperson; and
+      - **(i)** designate one of the members as Chairperson; and
       - **(ii)** select an executive director as described under subsection (d)(2).
   - **(5)** *Voting*
     - **(A)** *In general* The Commission shall act only on an affirmative vote of a majority of the members of the Commission.
-    - **(B)** *Quorum* A majority of the members of the Commission, which includes at least 1 member appointed pursuant to clause (iii) or (iv) of paragraph (1)(A), shall constitute a quorum for conducting business but fewer members may meet or hold hearings.
+    - **(B)** *Quorum* A majority of the members of the Commission, which includes at least one member appointed pursuant to clause (iii) or (iv) of paragraph (1)(A), shall constitute a quorum for conducting business but fewer members may meet or hold hearings.
 - **(b)** *Duties*
   - **(1)** *In general* The Commission shall—
     - **(A)** plan, develop, and execute programs and activities appropriate to commemorate the bicentennial anniversary of the abolition of the transatlantic slave trade;
@@ -104,7 +104,3 @@ There is established a commission to be known as the “Commission on the Abolit
 - **(b)** *Final Report* Upon termination, the Commission shall submit to the Congress a report containing—
   - **(1)** a detailed statement of the activities of the Commission; and
   - **(2)** a final accounting of the funds received and expended by the Commission.
-
-## § 6. Authorization of appropriations
-
-There are authorized to be appropriated such sums as may be necessary to carry out this Act.
