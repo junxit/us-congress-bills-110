@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 326
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 326
@@ -29,3 +29,7 @@ A resolution supporting the goals and ideals of a National Day of Remembrance fo
 
 - 2007-09-24 — Introduced in Senate
 - 2007-09-24 — Referred to the Committee on the Judiciary. (text of measure as introduced:  CR S12004)
+- 2007-10-04 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-10-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 405.
