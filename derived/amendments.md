@@ -1,7 +1,7 @@
 ---
 measure: S. 453
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+17 amendatory instructions. 0 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -39,5 +39,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subsection (g) of section 2004 of the Revised Statutes (42 U.S.C. 1971(g)) is amended by striking “subsection (c)” and inserting “subsection (c)(1)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “Whoever” and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “by any means, including by means of written, electronic, or telephonic communications,” after “any other person”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “one year” and inserting “5 years”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “No person” and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Whoever” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “at any election held solely or in part for the purpose of electing such a candidate” and inserting “at any general, primary, run-off, or special election held solely or in part for the purpose of electing such a candidate”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “by any means, including by means of written, electronic, or telephonic communications,” after “any other person”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “one year” and inserting “5 years”. | the bill names no machine-readable US Code section |
