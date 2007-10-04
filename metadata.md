@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 193
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 193
@@ -135,3 +135,6 @@ Recognizing all hunters across the United States for their continued commitment 
 - 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-10-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
+- 2007-10-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S12943)
+- 2007-10-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S12943)
+- 2007-10-17 — Message on Senate action sent to the House.
