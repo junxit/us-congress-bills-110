@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 193
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.Con.Res. 193
@@ -131,3 +131,7 @@ Recognizing all hunters across the United States for their continued commitment 
 - 2007-09-24 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 891). (text: CR H10702-10703)
 - 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 891).(text: CR H10702-10703)
 - 2007-09-25 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2007-10-04 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-10-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 406.
