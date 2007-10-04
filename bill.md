@@ -32,8 +32,15 @@ This Act may be cited as the “MEJA Expansion and Enforcement Act of 2007”.
       - **(i)** the number of complaints received by the Department of Justice;
       - **(ii)** the number of investigations into complaints opened by the Department of Justice;
       - **(iii)** the number of criminal cases opened by the Department of Justice; and
-      - **(iv)** the number and result of criminal cases closed by the Department of Justice; and
-    - **(B)** findings and recommendations about the number of criminal cases prosecuted by the Department of Justice involving violations of section 3261 of title 18, United States Code.
+      - **(iv)** the number and result of criminal cases closed by the Department of Justice;
+    - **(B)** findings and recommendations about the number of criminal cases prosecuted by the Department of Justice involving violations of section 3261 of title 18, United States Code; and
+    - **(C)** with respect to covered contracts where the work under such contracts is carried out in Iraq or Afghanistan—
+      - **(i)** a list of each charge brought against contractors or contract personnel performing work under such a covered contract, including—
+        - **(I)** a description of the offense with which a contractor or contract personnel were charged; and
+        - **(II)** the disposition of such charge; and
+      - **(ii)** a description of any legal actions taken by the United States Government against contractors or contract personnel as a result of—
+        - **(I)** a criminal charge brought against such contractors or contract personnel; or
+        - **(II)** a complaint received regarding the activities of such contractors or contract personnel.
   - **(3)** *Format of report* The report under paragraph (1) shall be submitted in unclassified format, but may contain a classified annex as appropriate.
 
 ## § 3. Federal Bureau of Investigation investigative unit for contingency operations
@@ -41,12 +48,18 @@ This Act may be cited as the “MEJA Expansion and Enforcement Act of 2007”.
 - **(a)** *Establishment of Theater Investigative Unit* The Director of the Federal Bureau of Investigation shall ensure that there are adequate personnel through the creation of Theater Investigative Units to investigate allegations of criminal violations of section 3261 of title 18, United States Code, by contract personnel.
 - **(b)** *Responsibilities of Theater Investigative Unit* The Theater Investigative Unit established for a theater of operations shall—
   - **(1)** investigate reports that raise reasonable suspicion of criminal misconduct by contract personnel;
-  - **(2)** investigate reports of fatalities resulting from the use of force by contract personnel; and
+  - **(2)** investigate reports of fatalities resulting from the potentially unlawful use of force by contract personnel; and
   - **(3)** upon conclusion of an investigation of alleged criminal misconduct, refer the case to the Attorney General of the United States for further action, as appropriate in the discretion of the Attorney General.
 - **(c)** *Responsibilities of Federal Bureau of Investigation*
   - **(1)** *Resources* The Director of the Federal Bureau of Investigation shall ensure that each Theater Investigative Unit has adequate resources and personnel to carry out its responsibilities.
   - **(2)** *Notification* The Director of the Federal Bureau of Investigation shall notify Congress whenever a Theater Investigative Unit is established or terminated in accordance with this section.
-- **(d)** *Responsibilities of other Federal agencies* An agency operating in an area, or in close proximity to an area (as designated by the Department of Defense), where the Armed Forces is conducting a contingency operation shall cooperate with and support the activities of the Theater Investigative Unit. Any investigation carried out by the Inspector General of an agency shall be coordinated with the activities of the Theater Investigative Unit as appropriate.
+  - **(3)** *Security* The Director of the Federal Bureau of Investigation shall request security assistance from the Secretary of Defense in any case in which a Theater Investigative Unit does not have the resources or is otherwise unable to provide adequate security to ensure the safety of such Unit. The Director may not request or provide for security for a Theater Investigate Unit from any individual or entity other than the Federal Bureau of Investigation or the Secretary of Defense.
+- **(d)** *Assistance on request of Attorney General* In consultation with the Director of the Federal Bureau of Investigation, the Attorney General may request assistance from the Secretary of State, the Secretary of Defense, the Secretary of Homeland Security, or the head of any other Executive agency, notwithstanding any statute, rule, or regulation to the contrary, including the assignment of additional personnel and resources to a Theater Investigative Unit.
+- **(e)** *Annual report* Not later than one year after the date on which the Director of the Federal Bureau of Investigation ensures compliance with the provisions of this Act pursuant to section 5(c), and annually thereafter, the Director of the Federal Bureau of Investigation shall submit to Congress a report containing—
+  - **(1)** the number of reports received by Theater Investigative Units relating to suspected criminal misconduct by contractors or contract personnel;
+  - **(2)** the number of reports received by Theater Investigative Units relating to fatalities resulting from the use of force by contractors or contract personnel;
+  - **(3)** the number of cases referred by Theater Investigative Units to the Attorney General for further investigation or other action; and
+  - **(4)** any recommended changes to Federal law that the Director considers necessary to perform the duties of the Director under this Act.
 
 ## § 4. Definitions
 
@@ -68,3 +81,7 @@ In this Act:
 - **(a)** *Applicability* The provisions of this Act shall apply to all covered contracts and all covered contract personnel in which the work under the contract is carried out in an area, or in close proximity to an area (as designated by the Department of Defense), where the Armed Forces is conducting a contingency operation on or after the date of the enactment of this Act.
 - **(b)** *Immediate effectiveness* The provisions of this Act shall enter into effect immediately upon the enactment of this Act.
 - **(c)** *Implementation* With respect to covered contracts and covered contract personnel discussed in subsection (a)(1), the Director of the Federal Bureau of Investigation, and the head of any other agency to which this Act applies, shall have 90 days after the date of the enactment of this Act to ensure compliance with the provisions of this Act.
+
+## § 6. Rule of construction
+
+Nothing in this Act shall be construed to affect intelligence activities that are otherwise permissible prior to the enactment of this Act.
