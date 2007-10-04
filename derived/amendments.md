@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3246
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
