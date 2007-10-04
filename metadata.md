@@ -1,7 +1,7 @@
 ---
 measure: S. 1640
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1640
@@ -31,3 +31,9 @@ Vessel Hull Design Protection Amendments of 2007
 - 2007-06-18 — Introduced in Senate
 - 2007-06-18 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S7815)
 - 2007-06-18 — Sponsor introductory remarks on measure. (CR S7815)
+- 2007-10-04 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-10-04 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2007-10-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S12826; text as passed Senate: CR S12826)
+- 2007-10-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S12826; text as passed Senate: CR S12826)
+- 2007-10-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 404.
