@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 45
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 45
@@ -21,9 +21,10 @@ A concurrent resolution commending the Ed Block Courage Award Foundation for its
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A concurrent resolution commending the Ed Block Courage Award Foundation for its
 - 2007-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.
 - 2007-10-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S12691-12692; text as passed Senate: CR S12691-12692)
 - 2007-10-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S12691-12692; text as passed Senate: CR S12691-12692)
+- 2007-10-04 — Message on Senate action sent to the House.
+- 2007-10-04 — Received in the House.
+- 2007-10-04 — Referred to the House Committee on Oversight and Government Reform.
