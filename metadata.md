@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1154
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1154
@@ -347,3 +347,5 @@ To award a Congressional Gold Medal to Michael Ellis DeBakey, M.D.
 - 2007-09-17 — Mr. Green, Al moved to suspend the rules and pass the bill.
 - 2007-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10401)
 - 2007-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10401)
+- 2007-09-18 — Received in the Senate.
+- 2007-10-04 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.
