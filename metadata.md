@@ -1,7 +1,7 @@
 ---
 measure: S. 1640
 congress: 110
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 1640
