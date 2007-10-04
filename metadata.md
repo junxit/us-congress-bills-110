@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 45
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 45
@@ -39,3 +39,11 @@ A concurrent resolution commending the Ed Block Courage Award Foundation for its
 - 2007-10-04 — Message on Senate action sent to the House.
 - 2007-10-04 — Received in the House.
 - 2007-10-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-11-08 — Committee Consideration and Mark-up Session Held.
+- 2007-11-08 — Ordered to be Reported by Voice Vote.
+- 2007-11-13 — Considered under suspension of the rules. (consideration: CR H13813-13814)
+- 2007-11-13 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 45.
+- 2007-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-13 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-11-13 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H13813)
+- 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H13813)
