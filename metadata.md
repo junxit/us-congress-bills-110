@@ -1,7 +1,7 @@
 ---
 measure: S. 2106
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2106
@@ -43,3 +43,16 @@ Procedural Fairness for September 11 Victims Act of 2007
 - 2007-10-04 — Message on Senate action sent to the House.
 - 2007-10-04 — Received in the House.
 - 2007-10-04 — Referred to the House Committee on the Judiciary.
+- 2007-10-30 — Cleared for White House.
+- 2007-10-30 — Considered under suspension of the rules. (consideration: CR H12191-12193)
+- 2007-10-30 — DEBATE - The House proceeded with forty minutes of debate on S. 2106.
+- 2007-10-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-30 — Mr. Nadler moved to suspend the rules and pass the bill.
+- 2007-10-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12191)
+- 2007-10-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12191)
+- 2007-10-30 — Presented to President.
+- 2007-10-30 — Presented to President.
+- 2007-11-08 — Became Public Law No: 110-113.
+- 2007-11-08 — Became Public Law No: 110-113.
+- 2007-11-08 — Signed by President.
+- 2007-11-08 — Signed by President.
