@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2828
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2828
@@ -111,3 +111,5 @@ Foreign Service Victims of Terrorism Act of 2007
 - 2007-10-02 — Mr. Payne moved to suspend the rules and pass the bill, as amended.
 - 2007-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 12 (Roll no. 930). (text: CR H11096)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 12 (Roll no. 930).(text: CR H11096)
+- 2007-10-03 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-10-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.
