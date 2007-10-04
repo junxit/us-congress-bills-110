@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3648
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3648
@@ -44,9 +44,15 @@ Mortgage Forgiveness Debt Relief Act of 2007
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
+
+## Recorded votes (2)
+
+- 2007-10-04 — [House 110-1-947](votes/house-110-1-0947.md) — On Motion to Recommit with Instructions — **Failed** (201–212)
+- 2007-10-04 — [House 110-1-948](votes/house-110-1-0948.md) — On Passage — **Passed** (386–27)
 
 ## Actions
 
@@ -58,3 +64,18 @@ Mortgage Forgiveness Debt Relief Act of 2007
 - 2007-10-01 — Placed on the Union Calendar, Calendar No. 220.
 - 2007-10-01 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-356.
 - 2007-10-01 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-356.
+- 2007-10-02 — Rules Committee Resolution H. Res. 703 Reported to House. Rule provides for consideration of H.R. 3648 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.
+- 2007-10-04 — Considered under the provisions of rule H. Res. 703. (consideration: CR H11287-11298; text of measure as introduced: CR H11287-11288)
+- 2007-10-04 — DEBATE - The House proceeded with one hour of debate on H.R. 3648.
+- 2007-10-04 — DEBATE - The House proceeded with ten minutes of debate on the Cantor motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment striking sections 5 and 6 from the bill.
+- 2007-10-04 — House amendment offered
+- 2007-10-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-04 — Mr. Cantor moved to recommit with instructions to Ways and Means. (consideration: CR H11296-11297; text: CR H11296)
+- 2007-10-04 — On motion to recommit with instructions Failed by the Yeas and Nays: 201 - 212, 1 Present (Roll no. 947). (consideration: CR H11297)
+- 2007-10-04 — On passage Passed by recorded vote: 386 - 27 (Roll No. 948). (text: CR H11288-11289)
+- 2007-10-04 — Passed/agreed to in House: On passage Passed by recorded vote: 386 - 27 (Roll No. 948).(text: CR H11288-11289)
+- 2007-10-04 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2007-10-04 — Rule H. Res. 703 passed House.
+- 2007-10-04 — Rule provides for consideration of H.R. 3648 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted.
+- 2007-10-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11296)
+- 2007-10-04 — The previous question was ordered pursuant to the rule. (consideration: CR H11296)
