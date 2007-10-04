@@ -1,7 +1,7 @@
 ---
 measure: H.R. 694
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 694
@@ -54,10 +54,11 @@ Minority Serving Institution Digital and Wireless Technology Opportunity Act of 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Committees (2)
+## Committees (3)
 
 - House — Education and the Workforce Committee
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -80,3 +81,5 @@ Minority Serving Institution Digital and Wireless Technology Opportunity Act of 
 - 2007-09-04 — Mr. Baird moved to suspend the rules and pass the bill, as amended.
 - 2007-09-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 331 - 59 (Roll no. 847). (text: CR H10021-10022)
 - 2007-09-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 331 - 59 (Roll no. 847).(text: CR H10021-10022)
+- 2007-09-05 — Received in the Senate.
+- 2007-10-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
