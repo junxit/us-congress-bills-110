@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3540
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3540
@@ -16,10 +16,11 @@ Federal Aviation Administration Extension Act of 2007
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -42,3 +43,5 @@ Federal Aviation Administration Extension Act of 2007
 - 2007-09-24 — Mr. Levin moved to suspend the rules and pass the bill, as amended.
 - 2007-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10718)
 - 2007-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10718)
+- 2007-09-25 — Received in the Senate.
+- 2007-10-04 — Read twice and referred to the Committee on Finance.
