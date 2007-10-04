@@ -1,7 +1,7 @@
 ---
 measure: S. 2106
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2106
@@ -26,9 +26,10 @@ Procedural Fairness for September 11 Victims Act of 2007
 - Sen. Martinez, Mel [R-FL] (M001162)
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Procedural Fairness for September 11 Victims Act of 2007
 - 2007-10-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S12692)
 - 2007-10-03 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S12692)
 - 2007-10-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S12692)
+- 2007-10-04 — Message on Senate action sent to the House.
+- 2007-10-04 — Received in the House.
+- 2007-10-04 — Referred to the House Committee on the Judiciary.
