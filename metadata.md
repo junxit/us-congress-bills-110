@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3527
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3527
@@ -16,9 +16,10 @@ To extend for two months the authorities of the Overseas Private Investment Corp
 
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -33,3 +34,5 @@ To extend for two months the authorities of the Overseas Private Investment Corp
 - 2007-09-17 — Mr. Faleomavaega moved to suspend the rules and pass the bill.
 - 2007-09-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 347 - 30 (Roll no. 869). (text: CR H10384)
 - 2007-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 347 - 30 (Roll no. 869).(text: CR H10384)
+- 2007-09-18 — Received in the Senate.
+- 2007-10-04 — Read twice and referred to the Committee on Foreign Relations.
