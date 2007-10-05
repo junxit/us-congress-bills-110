@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2740
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2740
@@ -100,3 +100,4 @@ MEJA Expansion and Enforcement Act of 2007
 - 2007-10-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2740.
 - 2007-10-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11266)
 - 2007-10-04 — The previous question was ordered pursuant to the rule. (consideration: CR H11261)
+- 2007-10-05 — Read the second time. Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.
