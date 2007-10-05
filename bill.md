@@ -89,7 +89,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(h)** *Motorized travel* Motorized travel shall not be permitted within the scenic areas, except that the Secretary of Agriculture may authorize motorized travel within the scenic areas—
   - **(1)** as necessary for administrative use in furtherance of the purposes of this section;
   - **(2)** in support of wildlife management projects in existence as of the date of the enactment of this Act; and
-  - **(3)** on Forest Development Road 9410 and 84b during deer and bear hunting seasons.
+  - **(3)** on Forest Development Roads 9410 and 84b during deer and bear hunting seasons and on that portion of Forest Development Road 6261 designated on the map referred to in subsection (a)(2) as “open seasonally” during deer and bear hunting seasons.
 - **(i)** *Fire* Wildfires in the scenic area shall be suppressed in a manner consistent with the purposes of this section, using such means as the Secretary of Agriculture considers appropriate.
 - **(j)** *Insects and disease* Insect and disease outbreaks may be controlled in the scenic areas to maintain scenic quality, prevent tree mortality, reduce hazards to visitors, or protect private lands.
 - **(k)** *Water* The Secretary of Agriculture shall administer the scenic areas so as to maintain and enhance water quality.
