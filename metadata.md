@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 687
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 687
@@ -131,3 +131,12 @@ Resolution recognizing Reverend Theodore M. Hesburgh, C.S.C., for his contributi
 - 2007-09-27 — Introduced in House
 - 2007-09-27 — Introduced in House
 - 2007-09-27 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-10-04 — Committee Consideration and Mark-up Session Held.
+- 2007-10-04 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2007-10-09 — Considered under suspension of the rules. (consideration: CR H11331-11333)
+- 2007-10-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 687.
+- 2007-10-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-09 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-10-09 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H11331)
+- 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H11331)
+- 2007-10-09 — The title of the measure was amended. Agreed to without objection.

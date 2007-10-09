@@ -2,12 +2,12 @@
 legis-num: H. RES. 687
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 687
 
-> Celebrating the 90th birthday of Reverend Theodore M. Hesburgh, C.S.C., president emeritus of the University of Notre Dame, and honoring his contributions to higher education, the Catholic Church, and the advancement of the humanitarian mission.
+> Resolution recognizing Reverend Theodore M. Hesburgh, C.S.C., for his contributions to the civil rights movement in the United States, his tireless work to reduce the threat of nuclear conflict, and his efforts to secure the peaceful resolution of international conflicts.
 
 ## Preamble
 
@@ -28,7 +28,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas, on May 25, 2007, Father Hesburgh celebrated his 90th birthday; and
 - Whereas Father Hesburgh has led a life of distinguished public service and deep faith: Now, therefore, be it
 
-That the House of Representatives—
-
-- **(1)** celebrates the 90th birthday of Reverend Theodore M. Hesburgh, C.S.C.; and
-- **(2)** honors Reverend Theodore M. Hesburgh, C.S.C., for a lifetime of selfless dedication to the Catholic Church, the United States, and the University of Notre Dame.
+That recognizes Reverend Theodore M. Hesburgh, C.S.C., for his contributions to the United States civil rights movement, his tireless work to prevent nuclear conflict around the world, and his efforts to secure the peaceful resolution of international conflicts.
