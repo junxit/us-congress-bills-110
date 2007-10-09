@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 697
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 697
@@ -16,7 +16,7 @@ Commending Green Bay Packers quarterback Brett Favre for establishing a National
 
 - Rep. Kagen, Steve [D-WI-8] (K000365)
 
-## Cosponsors (65)
+## Cosponsors (68)
 
 - Rep. Taylor, Gene [D-MS-4] (T000074)
 - Rep. Stupak, Bart [D-MI-1] (S001045)
@@ -83,6 +83,9 @@ Commending Green Bay Packers quarterback Brett Favre for establishing a National
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 - Rep. Pickering, Charles W. "Chip" [R-MS-3] (P000323)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
 ## Committees (1)
 
@@ -93,3 +96,11 @@ Commending Green Bay Packers quarterback Brett Favre for establishing a National
 - 2007-10-01 — Introduced in House
 - 2007-10-01 — Introduced in House
 - 2007-10-01 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-10-04 — Committee Consideration and Mark-up Session Held.
+- 2007-10-04 — Ordered to be Reported by Unanimous Consent.
+- 2007-10-09 — Considered under suspension of the rules. (consideration: CR H11333-11335)
+- 2007-10-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 697.
+- 2007-10-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-09 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-10-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11333)
+- 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11333)
