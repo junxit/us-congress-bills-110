@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Pool and Spa Safety Act”.
+- **(a)** *Short title* This Act may be cited as the “Virginia Graeme Baker Pool and Spa Safety Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings
@@ -19,15 +19,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 The Congress finds that—
 
 - **(1)** of injury-related deaths, drowning is the second leading cause of death in children aged 1 to 14 in the United States;
-- **(2)** many children die due to pool and spa drowning and entrapment, such as Virginia Graeme Baker, who at age 7 drowned by entrapment in a residential spa, and Preston de Ibern, who at age 5 nearly drowned and was left permanently brain damaged, finally succumbing to his catastrophic healthcare issues when he was 12 years old;
-- **(3)** in 2003, 782 children ages 14 and under died as a result of unintentional drowning;
+- **(2)** there are approximately 260 drowning deaths of children younger than age 5 each year in swimming pools, and an estimated 2,725 children are treated annually in hospital emergency rooms for pool submersion injuries, mostly in residential pools;
+- **(3)** many children die due to pool and spa drowning and entrapment, such as Virginia Graeme Baker, who at age 7 drowned by entrapment in a residential spa, and Preston de Ibern, who at age 5 nearly drowned and was left permanently brain damaged, finally succumbing to his catastrophic healthcare issues when he was 12 years old;
 - **(4)** adult supervision at all aquatic venues is a critical safety factor in preventing children from drowning; and
 - **(5)** research studies show that the installation and proper use of barriers or fencing, as well as additional layers of protection, could substantially reduce the number of childhood residential swimming pool drownings and near drownings.
 
 ## § 3. Federal swimming pool and spa drain cover standard
 
 - **(a)** *Consumer product safety rule* The provisions of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
-- **(b)** *Drain cover standard* Effective 1 year after the date of enactment of this Act, each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating the same.
+- **(b)** *Drain cover standard* Effective 1 year after the date of enactment of this Act, each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard.
+- **(c)** *Revision of Rule* If, after the enactment of this Act, ANSI proposes to revise the entrapment protection requirements of ASME/ANSI A112.19.8, ANSI shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ANSI that the Commission has determined that such revision does not carry out the purposes of subsection (b).
+- **(d)** *Implementing Regulations* Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section, and sections 7 and 9 of the Consumer Product Safety Act shall not apply to such issuance.
 
 ## § 4. State swimming pool safety grant program
 
@@ -46,14 +48,14 @@ The Congress finds that—
     - **(A)** to educate pool construction and installation companies and pool service companies about the standards;
     - **(B)** to educate pool owners, pool operators, and other members of the public about the standards under the swimming pool and spa safety law and about the prevention of drowning or entrapment of children using swimming pools and spas; and
     - **(C)** to defray administrative costs associated with such training and education programs.
-- **(e)** *Authorization of appropriations* There are authorized to be appropriated to the Commission for each of fiscal years 2008 through 2012 $10,000,000 to carry out this section, such sums to remain available until expended.
+- **(e)** *Authorization of appropriations* There are authorized to be appropriated to the Commission for each of fiscal years 2009 through 2013 $5,000,000 to carry out this section, such sums to remain available until expended.
 
 ## § 5. Minimum State law requirements
 
 - **(a)** *In General*
   - **(1)** *Safety standards* A State meets the minimum State law requirements of this section if—
     - **(A)** the State requires by statute—
-      - **(i)** the enclosure of all residential pools and spas by barriers to entry that will effectively prevent small children from gaining unsupervised and unfettered access to the pool or spa;
+      - **(i)** the enclosure of all outdoor residential pools and spas by barriers to entry that will effectively prevent small children from gaining unsupervised and unfettered access to the pool or spa;
       - **(ii)** that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
       - **(iii)** that pools and spas built more than 1 year after the date of enactment of such statute have—
         - **(I)** more than 1 drain per circulation pump;
@@ -74,7 +76,7 @@ The Congress finds that—
   - **(3)** *Doors* Any door with direct access to the swimming pool that is equipped with an audible alert device or alarm which sounds when the door is opened.
   - **(4)** *Pool alarm* A device designed to provide rapid detection of an entry into the water of a swimming pool or spa.
 - **(d)** *Entrapment, Entanglement, and Evisceration Prevention Standards to be Required*
-  - **(1)** *In general* In establishing additional minimum State law requirements for swimming pools and spas under subsection (a)(1), the Commission shall require, at a minimum, 1 or more of the following (except for pools constructed without a main drain):
+  - **(1)** *In general* In establishing additional minimum State law requirements for swimming pools and spas under subsection (a)(1), the Commission shall require, at a minimum, 1 or more of the following (except for pools constructed without a single main drain):
     - **(A)** *Safety vacuum release system* A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387.
     - **(B)** *Suction-limiting vent system* A suction-limiting vent system with a tamper-resistant atmospheric opening.
     - **(C)** *Gravity drainage system* A gravity drainage system that utilizes a collector tank.
@@ -84,10 +86,11 @@ The Congress finds that—
 
 ## § 6. Education program
 
-- **(a)** *In general* The Commission shall establish and carry out an education program to inform the public of methods to prevent drowning and entrapment in swimming pools and spas. In carrying out the program, the Commission shall develop—
+- **(a)** *In general* The Commission shall establish and carry out an education program to inform the public of methods to prevent drowning and entrapment in swimming pools, spas, and ornamental pools. In carrying out the program, the Commission shall develop—
   - **(1)** educational materials designed for pool manufacturers, pool service companies, and pool supply retail outlets;
-  - **(2)** educational materials designed for pool owners and operators; and
-  - **(3)** a national media campaign to promote awareness of pool and spa safety.
+  - **(2)** educational materials designed for pool owners and operators;
+  - **(3)** educational materials designed for ornamental pool owners and operators, including municipalities; and
+  - **(4)** a national media campaign to promote awareness of pool and spa safety.
 - **(b)** *Authorization of appropriations* There are authorized to be appropriated to the Commission for each of fiscal years 2008 through 2012 $5,000,000 to carry out the education program authorized by subsection (a).
 
 ## § 7. Definitions
@@ -96,12 +99,13 @@ In this Act:
 
 - **(1)** *ASME/ANSI standard* The term “ASME/ANSI standard” means a safety standard accredited by the American National Standards Institute and published by the American Society of Mechanical Engineers.
 - **(2)** *ASTM standard* The term “ASTM standard” means a safety standard issued by ASTM International, formerly known as the American Society for Testing and Materials.
-- **(3)** *Barrier* The term “barrier” means a fence, dwelling wall, or nondwelling wall, or any combination thereof, which completely surrounds the swimming pool and obstructs access to the swimming pool, especially access from the residence or from the yard outside the barrier. A wall of a dwelling may service as part of the barrier if it does not contain any door or window that opens to provide access to the swimming pool.
+- **(3)** *Barrier* The term “barrier”, with respect to a swimming pool, means a fence, dwelling wall, or nondwelling wall, or any combination thereof, which completely surrounds the swimming pool and obstructs access to the swimming pool, especially access from the residence or from the yard outside the barrier. In the case where a wall of a dwelling that contains a door or window serves as part of the barrier, all doors and windows providing direct access from the home to the pool must be equipped with an exit alarm that has a minimum sound pressure rating of 85 dB A at 10 feet. Alarms should meet the requirements of UL 2017 General-Purpose Signaling Devices and Systems, section 77. All doors providing direct access from the home to the pool must be equipped with a self-closing, self-latching device with a release mechanism placed no lower than 54 inches above the floor. The term “barrier” means, with respect to a portable hot tub, a lockable cover.
 - **(4)** *Commission* The term “Commission” means the Consumer Product Safety Commission.
 - **(5)** *Main drain* The term “main drain” means a submerged suction outlet typically located at the bottom of a pool or spa to conduct water to a re-circulating pump.
-- **(6)** *Safety vacuum release system* The term “safety vacuum release system” means a vacuum release system capable of providing vacuum release at a suction outlet caused by a high vacuum occurrence due to a suction outlet flow blockage.
-- **(7)** *Unblockable drain* The term “unblockable drain” means a drain of any size and shape that a human body cannot sufficiently block to create a suction entrapment hazard.
-- **(8)** *Swimming pool; spa* The term “swimming pool” or “spa” means any outdoor or indoor structure intended for swimming or recreational bathing, including in-ground and above-ground structures, and includes hot tubs, spas, portable spas, and non-portable wading pools.
+- **(6)** *Ornamental pool* The term “ornamental pool” means a man-made structure designed to contain water such as a decorative fountain or reflecting pool in the ground, partially in the ground, or in a building, intended primarily for aesthetic value and not intended for swimming or wading.
+- **(7)** *Safety vacuum release system* The term “safety vacuum release system” means a vacuum release system capable of providing vacuum release at a suction outlet caused by a high vacuum occurrence due to a suction outlet flow blockage.
+- **(8)** *Unblockable drain* The term “unblockable drain” means a drain of any size and shape that a human body cannot sufficiently block to create a suction entrapment hazard.
+- **(9)** *Swimming pool; spa* The term “swimming pool” or “spa” means any outdoor or indoor structure intended for swimming or recreational bathing, including in-ground and above-ground structures, and includes hot tubs, spas, portable spas, and non-portable wading pools.
 
 ## § 8. CPSC report
 
