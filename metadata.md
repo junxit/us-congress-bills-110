@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3518
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3518
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1430 So
 
 - Rep. Miller, Jeff [R-FL-1] (M001144)
 
-## Cosponsors (22)
+## Cosponsors (24)
 
 - Rep. Buchanan, Vern [R-FL-13] (B001260)
 - Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
@@ -40,6 +40,8 @@ To designate the facility of the United States Postal Service located at 1430 So
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Mahoney, Tim [D-FL-16] (M001164)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
 ## Committees (1)
 
@@ -50,3 +52,12 @@ To designate the facility of the United States Postal Service located at 1430 So
 - 2007-09-10 — Introduced in House
 - 2007-09-10 — Introduced in House
 - 2007-09-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-09-20 — Committee Consideration and Mark-up Session Held.
+- 2007-09-20 — Ordered to be Reported by Unanimous Consent.
+- 2007-10-09 — Considered under suspension of the rules. (consideration: CR H11327)
+- 2007-10-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3518.
+- 2007-10-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-09 — Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.
+- 2007-10-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11327)
+- 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11327)
+- 2007-10-09 — The title of the measure was amended. Agreed to without objection.
