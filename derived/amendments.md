@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 7 executed, 5 stated and not applied.
+13 amendatory instructions. 8 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 15 U.S.C. § 2069
+
+> Section 20(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2069(a)(1)) is amended by striking “$1,250,000” each place it appears and inserting “$20,000,000”.
+
+| | |
+|---|---|
+| Removed | `$1,250,000` |
+| Inserted | `$20,000,000` |
 
 ### 15 U.S.C. § 2069
 
