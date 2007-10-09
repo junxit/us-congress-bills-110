@@ -7,12 +7,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2185
 
-> To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to developing countries that take action to protect forests and coral reefs and associated coastal marine ecosystems, to reauthorize such Act through fiscal year 2010, and for other purposes.
+> To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to developing countries that take action to protect tropical forests and coral reefs and associated coastal marine ecosystems, to reauthorize such Act through fiscal year 2010, and for other purposes.
 
 ## § 1. Findings and purposes
 
 - **(a)** *Findings* Subsection (a) of section 802 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431) is amended—
-  - **(1)** in paragraphs (1), (6), and (7), by striking “tropical forests” each place it appears and inserting “forests and coral reefs and associated coastal marine ecosystems”;
+  - **(1)** in paragraphs (1), (6), and (7), by striking “tropical forests” each place it appears and inserting “tropical forests and coral reefs and associated coastal marine ecosystems”;
   - **(2)** by redesignating paragraphs (3) through (7) as paragraphs (4) through (8), respectively;
   - **(3)** by inserting after paragraph (2) the following:
     > - **(3)** Coral reefs and associated coastal marine ecosystems provide a wide range of benefits to mankind by—
@@ -24,9 +24,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(A)** by inserting “and coral reef and associated coastal marine ecosystems” after “forest resources”; and
     - **(B)** by inserting “and coral reef and associated coastal marine ecosystem exploitation” after “tropical deforestation”.
 - **(b)** *Purposes* Subsection (b) of such section is amended—
-  - **(1)** in paragraphs (1), (3), and (4), by striking “tropical forests” each place it appears and inserting “forests and coral reefs and associated coastal marine ecosystems”; and
+  - **(1)** in paragraphs (1), (3), and (4), by striking “tropical forests” each place it appears and inserting “tropical forests and coral reefs and associated coastal marine ecosystems”; and
   - **(2)** in paragraph (2)—
-    - **(A)** by striking “tropical forests” the first and third place it appears and inserting “forests and coral reefs and associated coastal marine ecosystems”;
+    - **(A)** by striking “tropical forests” the first and third place it appears and inserting “tropical forests and coral reefs and associated coastal marine ecosystems”;
     - **(B)** by striking “tropical forests” the second place it appears and inserting “areas”; and
     - **(C)** by inserting at the end before the semicolon the following: “and unsustainable coral reef and associated coastal marine ecosystem exploitation”.
 
@@ -37,11 +37,11 @@ Section 803 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431a) is
 - **(1)** in paragraph (2)(A), by striking “Committee on International Relations” and inserting “Committee on Foreign Affairs”;
 - **(2)** by striking paragraphs (4), (7), (8), and (9);
 - **(3)** in paragraph (5)—
-  - **(A)** in the heading, by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”;
-  - **(B)** in the matter preceding subparagraph (A), by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”; and
+  - **(A)** in the heading, by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”;
+  - **(B)** in the matter preceding subparagraph (A), by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”; and
   - **(C)** in subparagraph (B)—
-    - **(i)** by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”; and
-    - **(ii)** by striking “tropical forests” and inserting “forests or coral reefs or associated coastal marine ecosystems”;
+    - **(i)** by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”; and
+    - **(ii)** by striking “tropical forests” and inserting “tropical forests or coral reefs or associated coastal marine ecosystems”;
 - **(4)** by redesignating paragraphs (5) and (6) as paragraphs (9) and (10), respectively; and
 - **(5)** by inserting after paragraph (3) the following:
   > - **(4)** *Conservation agreement* The term Conservation Agreement or Agreement means a Conservation Agreement provided for in section 809.
@@ -58,7 +58,7 @@ Section 804 of the Tropical Forest Conservation Act of 1988 (22 U.S.C. 2431b) is
 
 ## § 4. Eligibility for benefits
 
-Section 805(a) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431c(a)) is amended by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”.
+Section 805(a) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431c(a)) is amended by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”.
 
 ## § 5. Reduction of debt owed to the United States as a result of concessional loans under the Foreign Assistance Act of 1961
 
@@ -87,10 +87,10 @@ Section 808(a)(5) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 243
   - **(1)** in clause (i), by inserting at the end before the semicolon the following: “to serve in an official capacity”; and
   - **(2)** in clause (iii)(III), by inserting “or marine” after “forestry”.
 - **(c)** *Eligible activities* Subsection (d) of such section is amended—
-  - **(1)** in the matter preceding paragraph (1), by striking “the tropical forests” and inserting “forests or coral reefs or associated coastal marine ecosystems”;
+  - **(1)** in the matter preceding paragraph (1), by striking “the tropical forests” and inserting “tropical forests or coral reefs or associated coastal marine ecosystems”;
   - **(2)** in paragraph (2), by inserting “and water” after “land”;
   - **(3)** in paragraph (5), by striking “tropical forest”; and
-  - **(4)** in paragraph (6), by striking “living in or near a tropical forest in a manner consistent with protecting such tropical forest” and inserting “dependent on a forest or coral reef or associated coastal marine ecosystem in a manner consistent with protecting and conserving such resources”.
+  - **(4)** in paragraph (6), by striking “living in or near a tropical forest in a manner consistent with protecting such tropical forest” and inserting “dependent on a tropical forest or coral reef or associated coastal marine ecosystem in a manner consistent with protecting and conserving such resources”.
 - **(d)** *Grant recipients* Subsection (e)(1)(A) of such section is amended by inserting “marine,” after “forestry,”.
 - **(e)** *Review of larger grants* Subsection (f) of such section is amended to read as follows:
   > - **(f)** *Review of larger grants* Any grant of more than $250,000 from a Fund shall be approved by the Government of the United States and the government of the beneficiary country.
@@ -121,12 +121,12 @@ Section 813 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431k) is
 
 ## § 12. Technical and conforming amendments
 
-- **(a)** *Part heading* The heading of part V of the Foreign Assistance Act of 1961 is amended by striking “tropical forests” and inserting “forests or coral reefs or associated coastal marine ecosystems”.
+- **(a)** *Part heading* The heading of part V of the Foreign Assistance Act of 1961 is amended by striking “tropical forests” and inserting “tropical forests or coral reefs or associated coastal marine ecosystems”.
 - **(b)** *Short title*
-  - **(1)** *Amendment* Section 801 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2151 note) is amended by striking “Tropical Forest Conservation Act of 1998” and inserting “Forest and Coral Conservation Act of 2007”.
-  - **(2)** *References* Any reference in a law, regulation, document, or other record of the United States to the Tropical Forest Conservation Act of 1998 shall be deemed to be a reference to the Forest and Coral Conservation Act of 2007.
-  - **(3)** *Availability of unobligated or unexpended funds* Amounts appropriated to carry out the Tropical Forest Conservation Act of 1998 (as in effect on the day before the date of the enactment of this Act) that are unobligated or unexpended as of the date of the enactment of this Act may be used to carry out the Forest and Coral Conservation Act of 2007.
+  - **(1)** *Amendment* Section 801 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2151 note) is amended by striking “Tropical Forest Conservation Act of 1998” and inserting “Tropical Forest and Coral Conservation Act of 2007”.
+  - **(2)** *References* Any reference in a law, regulation, document, or other record of the United States to the Tropical Forest Conservation Act of 1998 shall be deemed to be a reference to the Tropical Forest and Coral Conservation Act of 2007.
+  - **(3)** *Availability of unobligated or unexpended funds* Amounts appropriated to carry out the Tropical Forest Conservation Act of 1998 (as in effect on the day before the date of the enactment of this Act) that are unobligated or unexpended as of the date of the enactment of this Act may be used to carry out the Tropical Forest and Coral Conservation Act of 2007.
 - **(c)** *Redesignation* Part V of the Foreign Assistance Act of 1961 (22 U.S.C. 2431 et seq.) is amended by redesignating sections 812 and 813 as sections 811 and 812, respectively.
 - **(d)** *Other amendments* Section 703(a)(5) of the Foreign Assistance Act of 1961 (22 U.S.C. 2430b(a)(5)) is amended—
   - **(1)** in the matter preceding subparagraph (A), by striking “or, as appropriate in exceptional circumstances,” and inserting “or”; and
-  - **(2)** in subparagraph (A), by striking “or in exceptional circumstances, a Fund monitored program or its equivalent,” and inserting “or a Fund monitored program, or is implementing sound macroeconomic policies,”.
+  - **(2)** in subparagraph (A), by striking “or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or in exceptional circumstances, a Fund monitored program or its equivalent,” and inserting “an arrangement under the structural adjustment facility or enhanced structural adjustment facility, a Fund monitored program, or is implementing sound macroeconomic policies,”.

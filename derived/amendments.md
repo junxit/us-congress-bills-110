@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2185
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-49 amendatory instructions. 29 executed, 20 stated and not applied.
+49 amendatory instructions. 27 executed, 22 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,30 @@ to guess them.
 
 ### 22 U.S.C. § 2431
 
-> in paragraphs (1), (6), and (7), by striking “tropical forests” each place it appears and inserting “forests and coral reefs and associated coastal marine ecosystems”;
+> in paragraphs (1), (6), and (7), by striking “tropical forests” each place it appears and inserting “tropical forests and coral reefs and associated coastal marine ecosystems”;
 
 | | |
 |---|---|
 | Removed | `tropical forests` |
-| Inserted | `forests and coral reefs and associated coastal marine ecosystems` |
+| Inserted | `tropical forests and coral reefs and associated coastal marine ecosystems` |
 
 ### 22 U.S.C. § 2431
 
-> in paragraphs (1), (3), and (4), by striking “tropical forests” each place it appears and inserting “forests and coral reefs and associated coastal marine ecosystems”; and
+> in paragraphs (1), (3), and (4), by striking “tropical forests” each place it appears and inserting “tropical forests and coral reefs and associated coastal marine ecosystems”; and
 
 | | |
 |---|---|
 | Removed | `tropical forests` |
-| Inserted | `forests and coral reefs and associated coastal marine ecosystems` |
+| Inserted | `tropical forests and coral reefs and associated coastal marine ecosystems` |
 
 ### 22 U.S.C. § 2431
 
-> by striking “tropical forests” the first and third place it appears and inserting “forests and coral reefs and associated coastal marine ecosystems”;
+> by striking “tropical forests” the first and third place it appears and inserting “tropical forests and coral reefs and associated coastal marine ecosystems”;
 
 | | |
 |---|---|
 | Removed | `tropical forests` |
-| Inserted | `forests and coral reefs and associated coastal marine ecosystems` |
+| Inserted | `tropical forests and coral reefs and associated coastal marine ecosystems` |
 
 ### 22 U.S.C. § 2431
 
@@ -71,39 +71,39 @@ to guess them.
 
 ### 22 U.S.C. § 2431a
 
-> in the heading, by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”;
+> in the heading, by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”;
 
 | | |
 |---|---|
 | Removed | `tropical forest` |
-| Inserted | `forest or coral reef or associated coastal marine ecosystem` |
+| Inserted | `tropical forest or coral reef or associated coastal marine ecosystem` |
 
 ### 22 U.S.C. § 2431a
 
-> in the matter preceding subparagraph (A), by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”; and
+> in the matter preceding subparagraph (A), by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”; and
 
 | | |
 |---|---|
 | Removed | `tropical forest` |
-| Inserted | `forest or coral reef or associated coastal marine ecosystem` |
+| Inserted | `tropical forest or coral reef or associated coastal marine ecosystem` |
 
 ### 22 U.S.C. § 2431a
 
-> by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”; and
+> by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”; and
 
 | | |
 |---|---|
 | Removed | `tropical forest` |
-| Inserted | `forest or coral reef or associated coastal marine ecosystem` |
+| Inserted | `tropical forest or coral reef or associated coastal marine ecosystem` |
 
 ### 22 U.S.C. § 2431a
 
-> by striking “tropical forests” and inserting “forests or coral reefs or associated coastal marine ecosystems”;
+> by striking “tropical forests” and inserting “tropical forests or coral reefs or associated coastal marine ecosystems”;
 
 | | |
 |---|---|
 | Removed | `tropical forests` |
-| Inserted | `forests or coral reefs or associated coastal marine ecosystems` |
+| Inserted | `tropical forests or coral reefs or associated coastal marine ecosystems` |
 
 ### 22 U.S.C. § 2431b
 
@@ -116,30 +116,12 @@ to guess them.
 
 ### 22 U.S.C. § 2431c
 
-> Section 805(a) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431c(a)) is amended by striking “tropical forest” and inserting “forest or coral reef or associated coastal marine ecosystem”.
+> Section 805(a) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431c(a)) is amended by striking “tropical forest” and inserting “tropical forest or coral reef or associated coastal marine ecosystem”.
 
 | | |
 |---|---|
 | Removed | `tropical forest` |
-| Inserted | `forest or coral reef or associated coastal marine ecosystem` |
-
-### 22 U.S.C. § 2431d
-
-> Subsection (c)(2) of section 806 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431d) is amended by striking “Tropical Forest Fund” and inserting “Conservation Fund”.
-
-| | |
-|---|---|
-| Removed | `Tropical Forest Fund` |
-| Inserted | `Conservation Fund` |
-
-### 22 U.S.C. § 2431d
-
-> Subsection (d)(6) of such section is amended by striking “fiscal year 2007” and inserting “each of the fiscal years 2007 through 2010”.
-
-| | |
-|---|---|
-| Removed | `fiscal year 2007` |
-| Inserted | `each of the fiscal years 2007 through 2010` |
+| Inserted | `tropical forest or coral reef or associated coastal marine ecosystem` |
 
 ### 22 U.S.C. § 2431e
 
@@ -170,21 +152,21 @@ to guess them.
 
 ### 22 U.S.C. § 2431g
 
-> in the matter preceding paragraph (1), by striking “the tropical forests” and inserting “forests or coral reefs or associated coastal marine ecosystems”;
+> in the matter preceding paragraph (1), by striking “the tropical forests” and inserting “tropical forests or coral reefs or associated coastal marine ecosystems”;
 
 | | |
 |---|---|
 | Removed | `the tropical forests` |
-| Inserted | `forests or coral reefs or associated coastal marine ecosystems` |
+| Inserted | `tropical forests or coral reefs or associated coastal marine ecosystems` |
 
 ### 22 U.S.C. § 2431g
 
-> in paragraph (6), by striking “living in or near a tropical forest in a manner consistent with protecting such tropical forest” and inserting “dependent on a forest or coral reef or associated coastal marine ecosystem in a manner consistent with protecting and conserving such resources”.
+> in paragraph (6), by striking “living in or near a tropical forest in a manner consistent with protecting such tropical forest” and inserting “dependent on a tropical forest or coral reef or associated coastal marine ecosystem in a manner consistent with protecting and conserving such resources”.
 
 | | |
 |---|---|
 | Removed | `living in or near a tropical forest in a manner consistent with protecting such tropical forest` |
-| Inserted | `dependent on a forest or coral reef or associated coastal marine ecosystem in a manner consistent with protecting and conserving such resources` |
+| Inserted | `dependent on a tropical forest or coral reef or associated coastal marine ecosystem in a manner consistent with protecting and conserving such resources` |
 
 ### 22 U.S.C. § 2431g
 
@@ -251,21 +233,21 @@ to guess them.
 
 ### 22 U.S.C. § 2151
 
-> The heading of part V of the Foreign Assistance Act of 1961 is amended by striking “tropical forests” and inserting “forests or coral reefs or associated coastal marine ecosystems”.
+> The heading of part V of the Foreign Assistance Act of 1961 is amended by striking “tropical forests” and inserting “tropical forests or coral reefs or associated coastal marine ecosystems”.
 
 | | |
 |---|---|
 | Removed | `tropical forests` |
-| Inserted | `forests or coral reefs or associated coastal marine ecosystems` |
+| Inserted | `tropical forests or coral reefs or associated coastal marine ecosystems` |
 
 ### 22 U.S.C. § 2151
 
-> Section 801 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2151 note) is amended by striking “Tropical Forest Conservation Act of 1998” and inserting “Forest and Coral Conservation Act of 2007”.
+> Section 801 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2151 note) is amended by striking “Tropical Forest Conservation Act of 1998” and inserting “Tropical Forest and Coral Conservation Act of 2007”.
 
 | | |
 |---|---|
 | Removed | `Tropical Forest Conservation Act of 1998` |
-| Inserted | `Forest and Coral Conservation Act of 2007` |
+| Inserted | `Tropical Forest and Coral Conservation Act of 2007` |
 
 ### 22 U.S.C. § 2430b
 
@@ -278,12 +260,12 @@ to guess them.
 
 ### 22 U.S.C. § 2430b
 
-> in subparagraph (A), by striking “or in exceptional circumstances, a Fund monitored program or its equivalent,” and inserting “or a Fund monitored program, or is implementing sound macroeconomic policies,”.
+> in subparagraph (A), by striking “or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or in exceptional circumstances, a Fund monitored program or its equivalent,” and inserting “an arrangement under the structural adjustment facility or enhanced structural adjustment facility, a Fund monitored program, or is implementing sound macroeconomic policies,”.
 
 | | |
 |---|---|
-| Removed | `or in exceptional circumstances, a Fund monitored program or its equivalent,` |
-| Inserted | `or a Fund monitored program, or is implementing sound macroeconomic policies,` |
+| Removed | `or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or in exceptional circumstances, a Fund monitored program or its equivalent,` |
+| Inserted | `an arrangement under the structural adjustment facility or enhanced structural adjustment facility, a Fund monitored program, or is implementing sound macroeconomic policies,` |
 
 ## Stated, not applied
 
@@ -302,8 +284,10 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2431a` | strike | by striking paragraphs (4), (7), (8), and (9); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431a` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (9) and (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431a` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2431d` | amend | Subsection (e) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2431f` | add-at-end | Section 808(a)(5) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431f(a)(5)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Subsection (c)(2) of section 806 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431d) is amended by striking “Tropical Forest Fund” and inserting “Conservation Fund”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (d)(6) of such section is amended by striking “fiscal year 2007” and inserting “each of the fiscal years 2007 through 2010”. | the bill names no machine-readable US Code section |
+| — | amend | Subsection (e) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2431f` | amend | Section 808(a)(5) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431f(a)(5)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431g` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431g` | insert | in clause (i), by inserting at the end before the semicolon the following: “to serve in an official capacity”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431g` | insert | in clause (iii)(III), by inserting “or marine” after “forestry”. | the bill quotes the text inserted but describes where it goes |
