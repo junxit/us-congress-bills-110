@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1678
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1678
@@ -79,3 +79,7 @@ Torture Victims Relief Reauthorization Act of 2007
 - 2007-04-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 260). (text: CR H4065)
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 7 (Roll no. 260).(text: CR H4065)
 - 2007-04-26 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2007-09-11 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2007-10-09 — Committee on Foreign Relations. Reported by Senator Biden under authority of the order of the Senate of 10/04/2007 without amendment. With written report No. 110-194.
+- 2007-10-09 — Committee on Foreign Relations. Reported by Senator Biden under authority of the order of the Senate of 10/04/2007 without amendment. With written report No. 110-194.
+- 2007-10-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 416.
