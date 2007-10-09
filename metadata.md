@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2185
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2185
@@ -16,7 +16,7 @@ To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to 
 
 - Rep. Kirk, Mark Steven [R-IL-10] (K000360)
 
-## Cosponsors (18)
+## Cosponsors (31)
 
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
@@ -36,6 +36,19 @@ To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. Weller, Jerry [R-IL-11] (W000273)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Udall, Tom [D-NM-3] (U000039)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Baird, Brian [D-WA-3] (B001229)
 
 ## Committees (1)
 
@@ -47,3 +60,12 @@ To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to 
 - 2007-05-07 — Introduced in House
 - 2007-05-07 — Referred to the House Committee on Foreign Affairs.
 - 2007-05-07 — Sponsor introductory remarks on measure. (CR E975)
+- 2007-07-31 — Committee Agreed to Seek Consideration Under Suspension of the Rules, (Amended) by Unanimous Consent.
+- 2007-07-31 — Committee Consideration and Mark-up Session Held.
+- 2007-10-09 — Considered under suspension of the rules. (consideration: CR H11347-11350)
+- 2007-10-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2185.
+- 2007-10-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-09 — Ms. Watson moved to suspend the rules and pass the bill, as amended.
+- 2007-10-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11347-11348)
+- 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11347-11348)
+- 2007-10-09 — The title of the measure was amended. Agreed to without objection.
