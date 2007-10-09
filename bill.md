@@ -1,11 +1,13 @@
 ---
 legis-num: S. 805
-congress: 
-session: 
-chamber: 
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 805
+
+> To amend the Foreign Assistance Act of 1961 to assist countries in sub-Saharan Africa in the effort to achieve internationally recognized goals in the treatment and prevention of HIV/AIDS and other major diseases and the reduction of maternal and child mortality by improving human health care capacity and improving retention of medical health professionals in sub-Saharan Africa, and for other purposes.
 
 ## § 1. Short title
 
@@ -34,20 +36,20 @@ Congress makes the following findings:
 - **(13)** Addressing this problem, commonly referred to as “brain drain”, will require increased investments in the health sector by sub-Saharan African governments and by international partners seeking to promote economic development and improve health care and mortality outcomes in the region.
 - **(14)** Virtually every country in the world, including the United States, is experiencing a shortage of health workers. The Joint Learning Initiative on Human Resources for Health and Development estimates that the global shortage exceeds 4,000,000 workers. Shortages in sub-Saharan Africa, however, are far more acute than in any other region of the world. The World Health Report, 2006, states that “[t]he exodus of skilled professionals in the midst of so much unmet health need places Africa at the epicentre of the global health workforce crisis.”.
 - **(15)** Ambassador Randall Tobias, now the Director of United States Foreign Assistance and Administrator of the United States Agency for International Development, has stated that there are more Ethiopian trained doctors practicing in Chicago than in Ethiopia.
-- **(16)** According to the United Nations Development Programme, Human Development Report 2003, approximately 3 out of 4 countries in sub-Saharan Africa have fewer than 20 physicians per 100,000 people, the minimum ratio recommended by the World Health Organization, and 13 countries have 5 or fewer physicians per 100,000 people.
-- **(17)** Nurses play particularly important roles in sub-Saharan African health care systems, but approximately ¼ of sub-Saharan African countries have fewer than 50 nurses per 100,000 people or less than ½ the staffing levels recommended by the World Health Organization.
-- **(18)** Paraprofessionals and community health workers can be trained more quickly than nurses or doctors and are critically needed in sub-Saharan Africa to meet immediate health care needs.
-- **(19)** Imbalances in the distribution of countries' health workforces represents a global problem, but the impact is particularly acute in sub-Saharan Africa.
-- **(20)** In Malawi, for example, more than 95 percent of clinical officers are in urban health facilities, and about 25 percent of nurses and 50 percent of physicians are in the 4 central hospitals of Malawi. Yet the population of Malawi is estimated to be 87 percent rural.
-- **(21)** In parts of sub-Saharan Africa, such as Kenya, thousands of qualified health professionals are employed outside the health care field or are unemployed despite job openings in the health sector in rural areas because poor working and living conditions, including poor educational opportunities for children, transportation, and salaries, make such openings unattractive to candidates.
-- **(22)** The 2002 National Security Strategy of the United States stated, “The scale of the public health crisis in poor countries is enormous. In countries afflicted by epidemics and pandemics like HIV/AIDS, malaria, and tuberculosis, growth and development will be threatened until these scourges can be contained. Resources from the developed world are necessary but will be effective only with honest governance, which supports prevention programs and provides effective local infrastructure.”.
-- **(23)** Public health deficiencies in sub-Saharan Africa and other parts of the developing world reduce global capacities to detect and respond to potential crises, such as an avian flu pandemic.
-- **(24)** On September 28, 2005, Secretary of State Condoleezza Rice declared that “HIV/AIDS is not only a human tragedy of enormous magnitude; it is also a threat to the stability of entire countries and to the entire regions of the world.”.
-- **(25)** Foreign assistance by the United States that expands local capacities, provides commodities or training, or builds on and enhances community-based and national programs and leadership can increase the impact, efficiency, and sustainability of funded efforts by the United States.
-- **(26)** African health care professionals immigrate to the United States for the same set of reasons that have led millions of people to come to this country, including the desire for freedom, for economic opportunity, and for a better life for themselves and their children, and the rights and motivations of these individuals must be respected.
-- **(27)** Helping countries in sub-Saharan Africa increase salaries and benefits of health care professionals, improve working conditions, including the adoption of universal precautions against workplace infection, improve management of health care systems and institutions, increase the capacity of health training institutions, and expand education opportunities will alleviate some of the pressures driving the migration of health care personnel from sub-Saharan Africa.
-- **(28)** While the scope of the problem of dire shortfalls of personnel and inadequacies of infrastructure in the sub-Saharan African health systems is immense, effective and targeted interventions to improve working conditions, management, and productivity would yield significant dividends in improved health care.
-- **(29)** Failure to address the shortage of health care professionals and paraprofessionals, and the factors pushing individuals to leave sub-Saharan Africa will undermine the objectives of United States development policy and will subvert opportunities to achieve internationally recognized goals for the treatment and prevention of HIV/AIDS and other diseases, in the reduction of child and maternal mortality, and for economic growth and development in sub-Saharan Africa.
+- **(16)** (15) According to the United Nations Development Programme, Human Development Report 2003, approximately 3 out of 4 countries in sub-Saharan Africa have fewer than 20 physicians per 100,000 people, the minimum ratio recommended by the World Health Organization, and 13 countries have 5 or fewer physicians per 100,000 people.
+- **(17)** (16) Nurses play particularly important roles in sub-Saharan African health care systems, but approximately ¼ of sub-Saharan African countries have fewer than 50 nurses per 100,000 people or less than ½ the staffing levels recommended by the World Health Organization.
+- **(18)** (17) Paraprofessionals and community health workers can be trained more quickly than nurses or doctors and are critically needed in sub-Saharan Africa to meet immediate health care needs.
+- **(19)** (18) Imbalances in the distribution of countries' health workforces represents a global problem, but the impact is particularly acute in sub-Saharan Africa.
+- **(20)** (19) In Malawi, for example, more than 95 percent of clinical officers are in urban health facilities, and about 25 percent of nurses and 50 percent of physicians are in the 4 central hospitals of Malawi. Yet the population of Malawi is estimated to be 87 percent rural.
+- **(21)** (20) In parts of sub-Saharan Africa, such as Kenya, thousands of qualified health professionals are employed outside the health care field or are unemployed despite job openings in the health sector in rural areas because poor working and living conditions, including poor educational opportunities for children, transportation, and salaries, make such openings unattractive to candidates.
+- **(22)** (21) The 2002 National Security Strategy of the United States stated, “The scale of the public health crisis in poor countries is enormous. In countries afflicted by epidemics and pandemics like HIV/AIDS, malaria, and tuberculosis, growth and development will be threatened until these scourges can be contained. Resources from the developed world are necessary but will be effective only with honest governance, which supports prevention programs and provides effective local infrastructure.”.
+- **(23)** (22) Public health deficiencies in sub-Saharan Africa and other parts of the developing world reduce global capacities to detect and respond to potential crises, such as an avian flu pandemic.
+- **(24)** (23) On September 28, 2005, Secretary of State Condoleezza Rice declared that “HIV/AIDS is not only a human tragedy of enormous magnitude; it is also a threat to the stability of entire countries and to the entire regions of the world.”.
+- **(25)** (24) Foreign assistance by the United States that expands local capacities, provides commodities or training, or builds on and enhances community-based and national programs and leadership can increase the impact, efficiency, and sustainability of funded efforts by the United States.
+- **(26)** (25) African health care professionals immigrate to the United States for the same set of reasons that have led millions of people to come to this country, including the desire for freedom, for economic opportunity, and for a better life for themselves and their children, and the rights and motivations of these individuals must be respected.
+- **(27)** (26) Helping countries in sub-Saharan Africa increase salaries and benefits of health care professionals, improve working conditions, including the adoption of universal precautions against workplace infection, improve management of health care systems and institutions, increase the capacity of health training institutions, and expand education opportunities will alleviate some of the pressures driving the migration of health care personnel from sub-Saharan Africa.
+- **(28)** (27) While the scope of the problem of dire shortfalls of personnel and inadequacies of infrastructure in the sub-Saharan African health systems is immense, effective and targeted interventions to improve working conditions, management, and productivity would yield significant dividends in improved health care.
+- **(29)** (28) Failure to address the shortage of health care professionals and paraprofessionals, and the factors pushing individuals to leave sub-Saharan Africa will undermine the objectives of United States development policy and will subvert opportunities to achieve internationally recognized goals for the treatment and prevention of HIV/AIDS and other diseases, in the reduction of child and maternal mortality, and for economic growth and development in sub-Saharan Africa.
 
 ## § 4. Sense of Congress
 
@@ -81,7 +83,7 @@ Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq
   >
   > - **(a)** *Assistance*
   >   - **(1)** *Authority* The President is authorized to provide assistance, including providing assistance through international or nongovernmental organizations, for programs in sub-Saharan Africa to improve human health care capacity.
-  >   - **(2)** *Types of assistance* Such programs should include assistance—
+  >   - **(2)** *Types of assistance* Such programs shouldmay include assistance—
   >     - **(A)** to provide financial and technical assistance to sub-Saharan African countries in developing and implementing new or strengthened comprehensive national health workforce plans;
   >     - **(B)** to build and improve national and local capacities and sustainable health systems management in sub-Saharan African countries, including financial, strategic, and technical assistance for—
   >       - **(i)** fiscal and health personnel management;
@@ -135,12 +137,26 @@ Chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq
   >       - **(xii)** The European Union.
   >       - **(xiii)** The African Union.
   >     - **(B)** *Assessment and compilation* The President should make the assessments and compilations required by subsection (a)(3)(B)(v), in coordination with the entities listed in subparagraph (A).
+  >   - **(5)** *Coordination* To ensure coordination with national strategies and objectives and other international efforts, the President should develop the strategy described in paragraph (1) by coordinating with the following:
+  >     - **(A)** Other donors.
+  >     - **(B)** Implementers.
+  >     - **(C)** International agencies.
+  >     - **(D)** Nongovernmental organizations working to increase human health capacity in sub-Saharan Africa.
+  >     - **(E)** The World Bank.
+  >     - **(F)** The International Monetary Fund.
+  >     - **(G)** The Global Fund to Fight AIDS, Tuberculosis, and Malaria.
+  >     - **(H)** The World Health Organization.
+  >     - **(I)** The International Labour Organization.
+  >     - **(J)** The United Nations Development Programme.
+  >     - **(K)** The United Nations Programme on HIV/AIDS.
+  >     - **(L)** The European Union.
+  >     - **(M)** The African Union.
   > - **(c)** *Report*
   >   - **(1)** *In general* Not later than 1 year after the date on which the President submits the strategy required in subsection (b), the President shall submit to the appropriate congressional committees a report on the implementation of this section.
   >   - **(2)** *Assessment of mechanisms for knowledge sharing* The report described in paragraph (1) shall be accompanied by a document assessing best practices and other mechanisms for knowledge sharing about human resources for health and capacity building efforts to be shared with governments of developing countries and others seeking to promote improvements in human resources for health and capacity building.
-  >   - **(3)** *Follow-up report* Not later than 3 years after the date on which the President submits the strategy required in subsection (b), the president shall submit to the appropriate congressional committees a further report on the implementation of this section.
+  >   - **(3)** *Follow-up report* Not later than 3 years after the date on which the President submits the strategy required in subsection (b), the presidentPresident shall submit to the appropriate congressional committees a further report on the implementation of this section.
   > - **(d)** *Definitions* In this section:
-  >   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+  >   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International RelationsForeign Affairs and the Committee on Appropriations of the House of Representatives.
   >   - **(2)** *Brain drain* The term brain drain means the emigration of a significant proportion of a country’s professionals working in the health field to wealthier countries, with a resulting loss of personnel and often a loss in investment in education and training for the countries experiencing the emigration.
   >   - **(3)** *health professional* The term health professional means a person whose occupation or training helps to identify, prevent, or treat illness or disability.
   >   - **(4)** *HIV/AIDS* The term HIV/AIDS has the meaning given such term in section 104A(g) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–2(g)).
