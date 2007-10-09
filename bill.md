@@ -2,7 +2,7 @@
 legis-num: H. RES. 651
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 651
@@ -32,7 +32,6 @@ That the House of Representatives—
 - **(1)** recognizes that the United States and Brazil have arrived at the point of a strategic confluence of interests and urges President George W. Bush to continue to deepen the bilateral relationship between the two countries;
 - **(2)** recognizes Brazil’s role as a leader in the Western Hemisphere and commends its leadership of the United Nations Stabilization Mission (MINUSTAH) in Haiti;
 - **(3)** commends Brazil for successfully diversifying its energy resources and reducing its dependence on oil;
-- **(4)** recognizes that the United States has arrived at the point of a strategic confluence of interests with Brazil and welcomes continued development in the bilateral relationship between the two countries;
-- **(5)** strongly supports the March 9, 2007, United States-Brazil Memorandum of Understanding (MOU) on biofuels as a major step forward in bilateral relations, hemispheric integration, and energy diversification;
-- **(6)** commends joint efforts by the United States and Brazil for their commitment to use expertise to provide technical assistance for biofuels industries in third countries, currently including the Dominican Republic, El Salvador, Haiti, and St. Kitts and Nevis; and
-- **(7)** encourages United States and Brazilian officials to quickly identify additional countries in the Western Hemisphere to receive technical assistance related to biofuels.
+- **(4)** strongly supports the March 9, 2007, United States-Brazil Memorandum of Understanding (MOU) on biofuels as a major step forward in bilateral relations, hemispheric integration, and energy diversification;
+- **(5)** commends joint efforts by the United States and Brazil for their commitment to use expertise to provide technical assistance for biofuels industries in third countries, currently including the Dominican Republic, El Salvador, Haiti, and St. Kitts and Nevis; and
+- **(6)** encourages United States and Brazilian officials to quickly identify additional countries in the Western Hemisphere to receive technical assistance related to biofuels.
