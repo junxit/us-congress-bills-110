@@ -1,0 +1,116 @@
+---
+legis-num: H.R. 3796
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3796
+
+> To amend the Worker Adjustment and Retraining Notification Act to minimize the adverse effects of employment dislocation, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Early Warning and Health Care for Workers Affected by Globalization Act”.
+
+## § 2. Amendments to the WARN Act
+
+- **(a)** *Definitions*
+  - **(1)** *Employer, plant closing, and mass layoff* Paragraphs (1) through (3) of section 2(a) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2101(a)(1)–(3)) are amended to read as follows:
+    > - **(1)** the term employer means any business enterprise that employs 100 or more employees;
+    > - **(2)** the term plant closing means—
+    >   - **(A)** the permanent or temporary shutdown of a single site of employment, or of one or more facilities or operating units within a single site of employment, which results in an employment loss at such site, during any 30-day period, for 25 or more employees; or
+    >   - **(B)** the permanent or temporary shutdown of multiple sites of employment, or of one or more facilities or operating units within such sites, which results in an employment loss, during any 30-day period, for 100 or more employees.
+    > - **(3)** the term mass layoff means—
+    >   - **(A)** a reduction in force at a single site of employment which results in an employment loss at such site, during any 30-day period, for 25 or more employees; or
+    >   - **(B)** a reduction in force at multiple sites of employment which results in an employment loss, during any 30-day period, for 100 or more employees.
+
+  - **(2)** *Secretary of labor*
+    - **(A)** *Definition* Paragraph (8) of such section is amended to read as follows:
+      > - **(8)** the term Secretary means the Secretary of Labor or a representative of the Secretary of Labor.
+
+    - **(B)** *Regulations* Section 8(a) of such Act (29 U.S.C. 2107(a)) is amended by striking “of Labor”.
+  - **(3)** *Conforming amendments*
+    - **(A)** *Notice* Section 3(d) of such Act (29 U.S.C. 2102(d)) is amended by striking out “, each of which is less than the minimum number of employees specified in section 2(a)(2) or (3) but which in the aggregate exceed that minimum number,” and inserting “which in the aggregate exceed the minimum number of employees specified in section 2(a)(2) or (3)”.
+    - **(B)** *Definitions* Section 2(b)(1) of such Act (29 U.S.C. 2101(b)(1)) is amended by striking “(other than a part-time employee)”.
+- **(b)** *Notice*
+  - **(1)** *Notice period*
+    - **(A)** *In general* Section 3 of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2102) is amended by striking “60-day period” and inserting “90-day period” each place it appears.
+    - **(B)** *Conforming amendment* Section 5(a)(1) of such Act (29 U.S.C. 2104(a)(1)) is amended in the matter following subparagraph (B), by striking “60 days” and inserting “90 days”.
+  - **(2)** *Recipients* Section 3(a) of such Act (29 U.S.C. 2102(a)) is amended—
+    - **(A)** in paragraph (1), by striking “or, if there is no such representative at that time, to each affected employee; and” and inserting “and to each affected employee;”; and
+    - **(B)** by redesignating paragraph (2) as paragraph (3) and inserting after paragraph (1) the following:
+      > - **(2)** to the Secretary; and
+
+  - **(3)** *Information regarding benefits and services available to workers and DOL notice to Congress* Section 3 of such Act (29 U.S.C. 2102) is further amended by adding at the end the following:
+    > - **(e)** *Information regarding benefits and services available to employees* Concurrent with or immediately after providing the notice required under subsection (a)(1), an employer shall provide affected employees with information regarding the benefits and services available to such employees, as described in the guide compiled by the Secretary under section 12.
+    > - **(f)** *DOL Notice to Congress* As soon as practicable and not later than 15 days after receiving notification under subsection (a)(2), the Secretary of Labor shall notify the appropriate Senators and Members of the House of Representatives who represent the area or areas where the plant closing or mass layoff is to occur.
+
+- **(c)** *Enforcement*
+  - **(1)** *Amount* Section 5(a)(1) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2104(a)(1)) is amended—
+    - **(A)** in subparagraph (A)(ii), by striking “and” at the end thereof;
+    - **(B)** by redesignating subparagraph (B) as subparagraph (D);
+    - **(C)** by inserting after subparagraph (A) the following new subparagraphs:
+      > - **(B)** interest on the amount described in subparagraph (A) calculated at the prevailing rate;
+      > - **(C)** an additional amount as liquidated damages equal to the sum of the amount described in subparagraph (A) and the interest described in subparagraph (B); and
+
+    - **(D)** in the matter following subparagraph (B), by striking “for the period of the violation, up to a maximum of 60 days” and inserting “for the number of workdays that an affected employee would have worked during the period of the violation, up to a maximum of 90 days”.
+  - **(2)** *Exemption* Section 5(a)(4) of such Act (29 U.S.C. 2104(a)(4)) is amended by striking “reduce the amount of the liability or penalty provided for in this section” and inserting “reduce the amount of the liability under subparagraph (C) of paragraph (1) and reduce the amount of the penalty provided for in paragraph (3)”.
+  - **(3)** *Administrative complaint* Section 5(a)(5) of such Act (29 U.S.C. 2104(a)(5)) is amended—
+    - **(A)** by striking “may sue,” and inserting “may,”;
+    - **(B)** by inserting after “both,” the following: “(A) file a complaint with the Secretary alleging a violation of section 3, or (B) bring suit”; and
+    - **(C)** by adding at the end thereof the following new sentence: “A person seeking to enforce such liability may use one or both of the enforcement mechanisms described in subparagraphs (A) and (B).”.
+  - **(4)** *Action by the Secretary* Section 5 of such Act (29 U.S.C. 2104) is amended—
+    - **(A)** by redesignating subsection (b) as subsection (d); and
+    - **(B)** by inserting after subsection (a) the following new subsections:
+      > - **(b)** *Action by the secretary*
+      >   - **(1)** *Administrative action* The Secretary shall receive, investigate, and attempt to resolve complaints of violations of section 3 by an employer in the same manner that the Secretary receives, investigates, and attempts to resolve complaints of violations of sections 6 and 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 and 207).
+      >   - **(2)** *Subpoena powers* For the purposes of any investigation provided for in this section, the Secretary shall have the subpoena authority provided for under section 9 of the Fair Labor Standards Act of 1938 (29 U.S.C. 209).
+      >   - **(3)** *Civil action* The Secretary may bring an action in any court of competent jurisdiction to recover on behalf of an employee the backpay, interest, benefits, and liquidated damages described in subsection (a).
+      >   - **(4)** *Sums recovered* Any sums recovered by the Secretary on behalf of an employee under subparagraphs (A), (B), and (D) of section 5(a)(1) shall be held in a special deposit account and shall be paid, on order of the Secretary, directly to each employee affected. Any such sums not paid to an employee because of inability to do so within a period of 3 years, and any sums recovered by the Secretary under subparagraph (C) of section 5(a)(1), shall be credited as an offsetting collection to the appropriations account of the Secretary of Labor for expenses for the administration of this Act and shall remain available to the Secretary until expended.
+      >   - **(5)** *Action to compel relief by secretary* The district courts of the United States shall have jurisdiction, for cause shown, over an action brought by the Secretary to restrain the withholding of payment of back pay, interest, benefits, or other compensation, plus interest, found by the court to be due to employees under this Act.
+      > - **(c)** *Limitations*
+      >   - **(1)** *Limitations period* An action may be brought under this section not later than 2 years after the date of the last event constituting the alleged violation for which the action is brought.
+      >   - **(2)** *Commencement* In determining when an action is commenced under this section for the purposes of paragraph (1), it shall be considered to be commenced on the date on which the complaint is filed.
+      >   - **(3)** *Limitation on private action while action of Secretary is pending* If the Secretary has instituted an enforcement action or proceeding under subsection (b), an individual employee may not bring an action under subsection (a) during the pendency of the proceeding against any person with respect to whom the Secretary has instituted the proceeding.
+
+- **(d)** *Posting of notices; penalties* Section 11 of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2101 note) is amended to read as follows:
+  > ## § 11. Posting of notices; penalties
+  >
+  > - **(a)** *Posting of notices* Each employer shall post and keep posted in conspicuous places upon its premises where notices to employees are customarily posted a notice to be prepared or approved by the Secretary setting forth excerpts from, or summaries of, the pertinent provisions of this chapter and information pertinent to the filing of a complaint.
+  > - **(b)** *Penalties* A willful violation of this section shall be punishable by a fine of not more than $500 for each separate offense.
+
+- **(e)** *Information regarding benefits and services available to employees* Such Act is further amended by adding at the end the following:
+  > ## § 12. Information regarding benefits and services available to workers
+  >
+  > The Secretary of Labor shall maintain a guide of benefits and services which may be available to affected employees, including unemployment compensation, trade adjustment assistance, COBRA benefits, and services available under the Workforce Investment Act of 1998. Such guide shall be available on the Internet website of the Department of Labor and shall include a description of the benefits and services, the eligibility requirements, and the means of obtaining such benefits and services. Upon receiving notice from an employer under section 3(a)(2), the Secretary shall immediately transmit such guide to such employer.
+
+## § 3. Extension of COBRA benefits for certain individuals certified as TAA eligible
+
+- **(a)** *Amendments to the Employee Retirement Income Security Act of 1974*
+  - **(1)** *Special rule for qualified TAA eligible employees*
+    - **(A)** *In general* Section 602(2)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1162(2)(A)) is amended—
+      - **(i)** by moving clause (v) to after clause (iv) and before the flush left sentence beginning with “In the case of a qualified beneficiary”; and
+      - **(ii)** by inserting after clause (v) the following new clause:
+        > - **(vi)** *Special rule for qualified TAA eligible employees* In the case of a qualifying event described in section 603(2), clauses (i) and (ii) shall not apply to a qualified TAA eligible employee (as defined in section 607(6)).
+
+    - **(B)** *Qualified TAA eligible employee defined* Section 607 of such Act (29 U.S.C. 1167) is amended by adding at the end the following new paragraph:
+      > - **(6)** *Qualified TAA eligible employee* The term qualified TAA eligible employee means a covered employee, with respect to a qualifying event, if—
+      >   - **(A)** the qualifying event is attributable to the conditions specified in section 222 of the Trade Act of 1974 (19 U.S.C. 2272) based on which the Secretary of Labor has certified a group of workers as eligible to apply for adjustment assistance under subchapter A of chapter 2 of title II of such Act;
+      >   - **(B)** such certification applies to the covered employee; and
+      >   - **(C)** as of the date of such qualifying event the covered employee has attained age 55 or has completed 10 or more years of service with the employer.
+
+  - **(2)** *Conforming amendments* Section 602(2)(A) of such Act (29 U.S.C. 1162(2)(A)) is further amended—
+    - **(A)** in clause (i), by striking “In the case of” and inserting “Subject to clause (vi), in the case of”; and
+    - **(B)** in clause (ii), by striking “If a qualifying event” and inserting “Subject to clause (vi), if a qualifying event”.
+- **(b)** *Effective date*
+  - **(1)** *General rule* The amendments made by this section shall apply for plan years beginning on or after January 1, 2008.
+  - **(2)** *Special rule for collective bargaining agreements* In the case of a group health plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act, the amendments made by this section shall not apply to plan years beginning before the earlier of—
+    - **(A)** the later of—
+      - **(i)** the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
+      - **(ii)** July 1, 2008, or
+    - **(B)** the date which is 3 years after the date of the enactment of this Act.
+
+## § 4. Effective date
+
+Except as otherwise provided in this Act, the provisions of this Act, and the amendments made by this Act, shall take effect on the date of the enactment of this Act.
