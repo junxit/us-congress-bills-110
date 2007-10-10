@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2895
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2895
@@ -126,6 +126,13 @@ National Affordable Housing Trust Fund Act of 2007
 
 - House — Financial Services Committee
 
+## Recorded votes (4)
+
+- 2007-10-10 — [House 110-1-955](votes/house-110-1-0955.md) — On Agreeing to the Amendment — **Agreed to** (418–2)
+- 2007-10-10 — [House 110-1-956](votes/house-110-1-0956.md) — On Agreeing to the Amendment — **Failed** (163–257)
+- 2007-10-10 — [House 110-1-957](votes/house-110-1-0957.md) — On Motion to Recommit with Instructions — **Failed** (199–218)
+- 2007-10-10 — [House 110-1-958](votes/house-110-1-0958.md) — On Passage — **Passed** (264–148)
+
 ## Actions
 
 - 2007-06-28 — Introduced in House
@@ -138,3 +145,81 @@ National Affordable Housing Trust Fund Act of 2007
 - 2007-10-02 — Placed on the Union Calendar, Calendar No. 222.
 - 2007-10-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-362.
 - 2007-10-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-362.
+- 2007-10-09 — Rules Committee Resolution H. Res. 720 Reported to House. Rule provides for consideration of H.R. 2895 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Service now printed in the bill.
+- 2007-10-10 — Amendment (A001) offered by Mr. Frank (MA). (consideration: CR H11430-11431, H11441-11442; text: CR H11430-11431)
+- 2007-10-10 — Amendment (A002) offered by Mr. Frank (MA). (consideration: CR H11431-11432; text: CR H11431)
+- 2007-10-10 — Amendment (A003) offered by Mr. Hastings (FL). (consideration: CR H11432; CR H11432)
+- 2007-10-10 — Amendment (A004) offered by Mr. Frank (MA). (consideration: CR H11432-11433; text: CR H11432)
+- 2007-10-10 — Amendment (A005) offered by Mr. Frank (MA). (consideration: CR H11433; text: CR H11433)
+- 2007-10-10 — Amendment (A006) offered by Mr. Frank (MA). (consideration: CR H11433-11434; text: CR H11433)
+- 2007-10-10 — Amendment (A007) offered by Mr. Frank (MA). (consideration: CR H11434; text: CR H11434)
+- 2007-10-10 — Amendment (A008) offered by Mr. Neugebauer. (consideration: CR H11434-11441, H11442-11443; text: CR H11434-11439)
+- 2007-10-10 — Amendment agreed to Committee of the Whole
+- 2007-10-10 — Amendment agreed to Committee of the Whole
+- 2007-10-10 — Amendment agreed to Committee of the Whole
+- 2007-10-10 — Amendment agreed to Committee of the Whole
+- 2007-10-10 — Amendment agreed to Committee of the Whole
+- 2007-10-10 — Amendment agreed to Committee of the Whole
+- 2007-10-10 — Amendment agreed to Committee of the Whole
+- 2007-10-10 — Amendment failed in Committee of the Whole
+- 2007-10-10 — Considered under the provisions of rule H. Res. 720. (consideration: CR H11415-11446)
+- 2007-10-10 — DEBATE - Pursuant to the provisions of H. Res. 720, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.
+- 2007-10-10 — DEBATE - Pursuant to the provisions of H. Res. 720, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.
+- 2007-10-10 — DEBATE - Pursuant to the provisions of H. Res. 720, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.
+- 2007-10-10 — DEBATE - Pursuant to the provisions of H. Res. 720, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.
+- 2007-10-10 — DEBATE - Pursuant to the provisions of H. Res. 720, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.
+- 2007-10-10 — DEBATE - Pursuant to the provisions of H. Res. 720, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment.
+- 2007-10-10 — DEBATE - Pursuant to the provisions of H. Res. 720, the Committee of the Whole proceeded with 20 minutes of debate on the Neugebauer amendment.
+- 2007-10-10 — DEBATE - The House proceeded with 10 minutes of debate on the Musgrave motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with language inserting work requirements for residents.
+- 2007-10-10 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2895.
+- 2007-10-10 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A001) Agreed to by recorded vote: 418 - 2 (Roll no. 955).
+- 2007-10-10 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A002) Agreed to by voice vote.
+- 2007-10-10 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A004) Agreed to by voice vote.
+- 2007-10-10 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A005) Agreed to by voice vote.
+- 2007-10-10 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A006) Agreed to by voice vote.
+- 2007-10-10 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A007) Agreed to by voice vote.
+- 2007-10-10 — House amendment agreed to: On agreeing to the Hastings (FL) amendment (A003) Agreed to by voice vote.
+- 2007-10-10 — House amendment not agreed to: On agreeing to the Neugebauer amendment (A008) Failed by recorded vote: 163 - 257 (Roll no. 956).
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered
+- 2007-10-10 — House amendment offered/reported by : Amendment (A001) offered by Mr. Frank (MA).(consideration: CR H11430-11431, H11441-11442; text: CR H11430-11431)
+- 2007-10-10 — House amendment offered/reported by : Amendment (A002) offered by Mr. Frank (MA).(consideration: CR H11431-11432; text: CR H11431)
+- 2007-10-10 — House amendment offered/reported by : Amendment (A003) offered by Mr. Hastings (FL).(consideration: CR H11432; CR H11432)
+- 2007-10-10 — House amendment offered/reported by : Amendment (A004) offered by Mr. Frank (MA).(consideration: CR H11432-11433; text: CR H11432)
+- 2007-10-10 — House amendment offered/reported by : Amendment (A005) offered by Mr. Frank (MA).(consideration: CR H11433; text: CR H11433)
+- 2007-10-10 — House amendment offered/reported by : Amendment (A006) offered by Mr. Frank (MA).(consideration: CR H11433-11434; text: CR H11433)
+- 2007-10-10 — House amendment offered/reported by : Amendment (A007) offered by Mr. Frank (MA).(consideration: CR H11434; text: CR H11434)
+- 2007-10-10 — House amendment offered/reported by : Amendment (A008) offered by Mr. Neugebauer.(consideration: CR H11434-11441, H11442-11443; text: CR H11434-11439)
+- 2007-10-10 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 720 and Rule XVIII.
+- 2007-10-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-10 — Mrs. Musgrave moved to recommit with instructions to Financial Services. (consideration: CR H11443-11445)
+- 2007-10-10 — On agreeing to the Frank (MA) amendment (A001) Agreed to by recorded vote: 418 - 2 (Roll no. 955).
+- 2007-10-10 — On agreeing to the Frank (MA) amendment (A002) Agreed to by voice vote.
+- 2007-10-10 — On agreeing to the Frank (MA) amendment (A004) Agreed to by voice vote.
+- 2007-10-10 — On agreeing to the Frank (MA) amendment (A005) Agreed to by voice vote.
+- 2007-10-10 — On agreeing to the Frank (MA) amendment (A006) Agreed to by voice vote.
+- 2007-10-10 — On agreeing to the Frank (MA) amendment (A007) Agreed to by voice vote.
+- 2007-10-10 — On agreeing to the Hastings (FL) amendment (A003) Agreed to by voice vote.
+- 2007-10-10 — On agreeing to the Neugebauer amendment (A008) Failed by recorded vote: 163 - 257 (Roll no. 956).
+- 2007-10-10 — On motion to recommit with instructions Failed by recorded vote: 199 - 218 (Roll no. 957).
+- 2007-10-10 — On passage Passed by the Yeas and Nays: 264 - 148 (Roll no. 958).
+- 2007-10-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Frank(MA) amendment No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Frank(MA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-10-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Neugebauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Neugebauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-10-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 264 - 148 (Roll no. 958).
+- 2007-10-10 — Roll call votes on amendments in House
+- 2007-10-10 — Roll call votes on amendments in House
+- 2007-10-10 — Rule H. Res. 720 passed House.
+- 2007-10-10 — Rule provides for consideration of H.R. 2895 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Service now printed in the bill.
+- 2007-10-10 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2895.
+- 2007-10-10 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H11425-11430)
+- 2007-10-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2895.
+- 2007-10-10 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
+- 2007-10-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11444)
+- 2007-10-10 — The previous question was ordered pursuant to the rule. (consideration: CR H11443)
+- 2007-10-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
