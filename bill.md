@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 3815
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3815
+
+> To amend the Homeland Security Act of 2002 to require the Secretary of Homeland Security to make full and efficient use of open source information to develop and disseminate open source homeland security information products, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Homeland Security Open Source Information Enhancement Act of 2007”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The Internet has profoundly expanded the amount, significance, and accessibility of all types of information, but the Department of Homeland Security has not sufficiently expanded its use of such information to produce analytical products.
+- **(2)** Open source products can be shared with Federal, State, local, and tribal law enforcement, the American public, the private sector, and foreign allies because of their unclassified nature.
+- **(3)** In a report to the President released on March 31, 2005, the Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction found that “the need for exploiting open source material is greater now than ever before”, but that the Federal Government’s “open source programs have not expanded commensurate with either the increase in available information or with the growing importance of open source data to today's problems”.
+- **(4)** The Department of Homeland Security is responsible for providing open source products to consumers consistent with existing Federal open source information guidelines.
+
+## § 3. Full and efficient use of open source information
+
+- **(a)** *In general* Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by adding at the end the following:
+  > ## § 203. Full and efficient use of open source information
+  >
+  > - **(a)** *Responsibilities of Secretary* The Secretary shall ensure that Department components responsible for information sharing and infrastructure protection under section 201(d) make full and efficient use of open source homeland security information to develop and disseminate open source products.
+  > - **(b)** *Critical infrastructure analysis* The Secretary shall—
+  >   - **(1)** ensure that the Department makes full and efficient use of open source information to analyze United States critical infrastructure nodes from the perspective of terrorists and other activities with a nexus to terrorism using publicly available information; and
+  >   - **(2)** shall share the unclassified results of such analysis with appropriate Federal, State, local, tribal, and private-sector officials.
+  > - **(c)** *Protection of privacy*
+  >   - **(1)** *Compliance with other laws* The Secretary shall ensure that the manner in which open source information is gathered and disseminated by the Department complies with the Constitution, section 552a of title 5, United States Code (popularly known as the Privacy Act of 1974), provisions of law enacted by the E–Government Act of 2002 (Public Law 107–347), and all other relevant Federal laws.
+  >   - **(2)** *Description in annual report by Chief Privacy Officer* The Chief Privacy Officer of the Department shall include in its annual report to Congress a description of the types of personally identifiable information collected by Department intelligence components.
+  > - **(d)** *Inspector General report* The Inspector General of the Department shall audit the use and dissemination of open source information by the Department to evaluate the effectiveness of the Department’s activities and to ensure that it is consistent with existing Federal open source information guidelines.
+  > - **(e)** *Open source information defined* In this section the term open source information means information that is publicly available and that can be used and disseminated in a timely manner to an appropriate audience for the purpose of addressing a specific homeland security requirement.
+
+- **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to such subtitle the following:
+
+## § 4. Open source information defined
+
+In this Act the term open source information has the meaning that term has in section 203 of Homeland Security Act of 2002, as amended by this Act.
