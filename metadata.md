@@ -1,0 +1,37 @@
+---
+measure: H.R. 3815
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 3815
+
+Homeland Security Open Source Information Enhancement Act of 2008
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+
+## Cosponsors (7)
+
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. Renzi, Rick [R-AZ-1] (R000574)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+
+## Committees (1)
+
+- House — Homeland Security Committee
+
+## Actions
+
+- 2007-10-10 — Introduced in House
+- 2007-10-10 — Introduced in House
+- 2007-10-10 — Referred to the House Committee on Homeland Security.
