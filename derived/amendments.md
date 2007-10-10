@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3056
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,12 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6306` | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Section 7811 is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the bill names no machine-readable US Code section |
+| — | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the bill names no machine-readable US Code section |
+| — | strike | Section 7811 is amended by striking subsection (g). | the bill names no machine-readable US Code section |
+| — | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the bill names no machine-readable US Code section |
+| — | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the bill names no machine-readable US Code section |
+| — | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (b) of section 511 of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “December 31, 2010” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (c) of section 932 (relating to treatment of Virgin Islands residents) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `8 U.S.C. § 1481` | insert | Subpart A of part II of subchapter N of chapter 1 is amended by inserting after section 877 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -65,4 +65,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Paragraph (1) of section 6722(c) is amended by striking “$100” and inserting “$250”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “$50” and inserting “$100”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$100,000” and inserting “$600,000”. | the bill names no machine-readable US Code section |
-| — | replace | Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “114.50 percent” and inserting “114.75 percent”. | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “115 percent” and inserting “115.25 percent”. | the bill names no machine-readable US Code section |

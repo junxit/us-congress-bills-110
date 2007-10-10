@@ -206,4 +206,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 8. Time for payment of corporate estimated taxes
 
-Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “114.50 percent” and inserting “114.75 percent”.
+Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “115 percent” and inserting “115.25 percent”.
