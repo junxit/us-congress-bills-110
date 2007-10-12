@@ -42,12 +42,12 @@ Section 105B of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 180
 >     - **(A)** the procedures that will be used by the Director of National Intelligence and the Attorney General during the duration of the order to determine that there is a reasonable belief that the targets of the acquisition are persons that are located outside the United States and not United States persons;
 >     - **(B)** the nature of the information sought, including the identity of any foreign power against whom the acquisition will be directed;
 >     - **(C)** minimization procedures that meet the definition of minimization procedures under section 101(h) to be used with respect to such acquisition; and
->     - **(D)** the guidelines that will be used to ensure that an application is filed under section 104, if otherwise required by this Act, when the Federal Government seeks to conduct electronic surveillance of a person reasonably believed to be located in the United States.
+>     - **(D)** the guidelines that will be used to ensure that an application is filed under section 104, if otherwise required by this Act, when a significant purpose of an acquisition is to acquire the communications of a specific person reasonably believed to be located in the United States.
 > - **(c)** *Specific place not required* An application under subsection (a) is not required to identify the specific facilities, places, premises, or property at which the acquisition of foreign intelligence information will be directed.
 > - **(d)** *Review of application* Not later than 15 days after a judge receives an application under subsection (a), the judge shall review such application and shall approve the application if the judge finds that—
 >   - **(1)** the proposed procedures referred to in subsection (b)(2)(A) are reasonably designed to determine whether the targets of the acquisition are located outside the United States and not United States persons;
 >   - **(2)** the proposed minimization procedures referred to in subsection (b)(2)(C) meet the definition of minimization procedures under section 101(h); and
->   - **(3)** the guidelines referred to in subsection (b)(2)(D) are reasonably designed to ensure that an application is filed under section 104, if otherwise required by this Act, when the Federal Government seeks to conduct electronic surveillance of a person reasonably believed to be located in the United States.
+>   - **(3)** the guidelines referred to in subsection (b)(2)(D) are reasonably designed to ensure that an application is filed under section 104, if otherwise required by this Act, when a significant purpose of an acquisition is to acquire the communications of a specific person reasonably believed to be located in the United States.
 > - **(e)** *Order*
 >   - **(1)** *In general* A judge approving an application under subsection (d) shall issue an order—
 >     - **(A)** authorizing the acquisition of the contents of the communications as requested, or as modified by the judge;
@@ -63,7 +63,7 @@ Section 105B of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 180
 >   - **(2)** *Failure to comply* If a person fails to comply with an order issued under paragraph (1), the Attorney General may invoke the aid of the court established under section 103(a) to compel compliance with the order. Failure to obey an order of the court may be punished by the court as contempt of court. Any process under this section may be served in any judicial district in which the person may be found.
 >   - **(3)** *Liability of order* Notwithstanding any other law, no cause of action shall lie in any court against any person for providing any information, facilities, or assistance in accordance with an order issued under this subsection.
 >   - **(4)** *Retention of order* The Director of National Intelligence and the court established under subsection 103(a) shall retain an order issued under this section for a period of not less than 10 years from the date on which such order is issued.
->   - **(5)** *Assessment of compliance with minimization procedures* At or before the end of the period of time for which an acquisition is approved by an order or an extension under this section, the judge may assess compliance with the minimization procedures referred to in paragraph (1)(E)(ii) and the guidelines referred to in paragraph (1)(E)(iii) by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
+>   - **(5)** *Assessment of compliance with court order* At or before the end of the period of time for which an acquisition is approved by an order or an extension under this section, the judge shall assess compliance with the procedures and guidelines referred to in paragraph (1)(E) and review the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
 ## § 4. Emergency authorization of acquisitions of communications of non-United States persons located outside the United States
 
@@ -81,7 +81,7 @@ Section 105C of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 180
 >     - **(E)** the acquisition involves obtaining the foreign intelligence information from, or with the assistance of, a communications service provider or custodian, or an officer, employee, or agent of such service provider or custodian, who has authorized access to the communications to be acquired, either as they are transmitted or while they are stored, or equipment that is being or may be used to transmit or store such communications;
 >     - **(F)** a significant purpose of the acquisition is to obtain foreign intelligence information (as defined in paragraph (1) or (2)(A) of section 101(e));
 >     - **(G)** minimization procedures to be used with respect to such acquisition activity meet the definition of minimization procedures under section 101(h); and
->     - **(H)** there are guidelines that will be used to ensure that an application is filed under section 104, if otherwise required by this Act, when the Federal Government seeks to conduct electronic surveillance of a person reasonably believed to be located in the United States; and
+>     - **(H)** there are guidelines that will be used to ensure that an application is filed under section 104, if otherwise required by this Act, when a significant purpose of an acquisition is to acquire the communications of a specific person reasonably believed to be located in the United States; and
 >   - **(2)** the Director of National Intelligence and the Attorney General, or their designees, inform a judge having jurisdiction to approve an acquisition under section 105B at the time of the authorization under this section that the decision has been made to acquire foreign intelligence information.
 > - **(c)** *Information, facilities, and technical assistance* Pursuant to an authorization of an acquisition under this section, the Attorney General may direct a communications service provider, custodian, or an officer, employee, or agent of such service provider or custodian, who has the lawful authority to access the information, facilities, or technical assistance necessary to accomplish such acquisition to—
 >   - **(1)** furnish the Attorney General forthwith with such information, facilities, or technical assistance in a manner that will protect the secrecy of the acquisition and produce a minimum of interference with the services that provider, custodian, officer, employee, or agent is providing the target of the acquisition; and
@@ -94,7 +94,9 @@ The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is am
 > ## § 105D. Oversight of acquisitions of communications of non-United States persons located outside of the United States
 >
 > - **(a)** *Application; procedures; orders* Not later than 7 days after an application is submitted under section 105B(a) or an order is issued under section 105B(e), the Director of National Intelligence and the Attorney General shall submit to the appropriate committees of Congress—
->   - **(1)** in the case of an application, a copy of the application, including the certification made under section 105B(b)(1); and
+>   - **(1)** in the case of an application—
+>     - **(A)** a copy of the application, including the certification made under section 105B(b)(1); and
+>     - **(B)** a description of the primary purpose of the acquisition for which the application is submitted; and
 >   - **(2)** in the case of an order, a copy of the order, including the procedures and guidelines referred to in section 105B(e)(1)(E).
 > - **(b)** *Quarterly audits*
 >   - **(1)** *Audit* Not later than 120 days after the date of the enactment of this section, and every 120 days thereafter until the expiration of all orders issued under section 105B, the Inspector General of the Department of Justice shall complete an audit on the implementation of and compliance with the procedures and guidelines referred to in section 105B(e)(1)(E) and shall submit to the appropriate committees of Congress, the Attorney General, the Director of National Intelligence, and the court established under section 103(a) the results of such audit, including, for each order authorizing the acquisition of foreign intelligence under section 105B—
@@ -131,7 +133,7 @@ Section 103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803
 ## § 8. Record-keeping system on acquisition of communications of United States persons
 
 - **(a)** *Record-keeping system* The Director of National Intelligence and the Attorney General shall jointly develop and maintain a record-keeping system that will keep track of—
-  - **(1)** the instances where the identity of a United States person whose communications were acquired was disclosed by an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) that collected the communications to other departments or agencies of the United States; and
+  - **(1)** the instances where the identity of a United States person whose communications were acquired was disclosed by an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) that collected the communications to other departments or agencies of the United States; and
   - **(2)** the departments and agencies of the Federal Government and persons to whom such identity information was disclosed.
 - **(b)** *Report* The Director of National Intelligence and the Attorney General shall annually submit to the Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives and the Select Committee on Intelligence and the Committee on the Judiciary of the Senate a report on the record-keeping system created under subsection (a), including the number of instances referred to in paragraph (1).
 
@@ -156,7 +158,7 @@ There are authorized to be appropriated the Department of Justice, for the activ
 - **(b)** *Section 103(e) of FISA* Section 103(e) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(e)) is amended—
   - **(1)** in paragraph (1), by striking “105B(h) or”; and
   - **(2)** in paragraph (2), by striking “105B(h) or”.
-- **(c)** *Repeal of certain provisions of the Protect America Act* Sections 4 and 6 of the Protect America Act (Public Law 110–55) are hereby repealed.
+- **(c)** *Repeal of certain provisions of the Protect America Act of 2007* Sections 4 and 6 of the Protect America Act 2007 (Public Law 110–55) are hereby repealed.
 
 ## § 12. Sunset; transition procedures
 
