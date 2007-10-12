@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3678
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3678
@@ -35,3 +35,8 @@ Internet Tax Freedom Act Amendments Act of 2007
 - 2007-09-27 — Introduced in House
 - 2007-09-27 — Referred to the House Committee on the Judiciary.
 - 2007-09-27 — Sponsor introductory remarks on measure. (CR E2001)
+- 2007-10-10 — Committee Consideration and Mark-up Session Held.
+- 2007-10-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 38 - 0.
+- 2007-10-12 — Placed on the Union Calendar, Calendar No. 230.
+- 2007-10-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-372.
+- 2007-10-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-372.
