@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3773
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3773
@@ -39,3 +39,10 @@ FISA Amendments Act of 2008
 - 2007-10-09 — Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-10-09 — Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-10-09 — Sponsor introductory remarks on measure. (CR E2088)
+- 2007-10-10 — Committee Consideration and Mark-up Session Held.
+- 2007-10-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 14.
+- 2007-10-12 — Placed on the Union Calendar, Calendar No. 231.
+- 2007-10-12 — Reported (Amended) by the Committee on Intelligence (Permanent). H. Rept. 110-373, Part II.
+- 2007-10-12 — Reported (Amended) by the Committee on Intelligence (Permanent). H. Rept. 110-373, Part II.
+- 2007-10-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-373, Part I.
+- 2007-10-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-373, Part I.
