@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1567
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -60,12 +60,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2151b-3` | amend | Section 104B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–3(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151b-3` | amend | Subsection (b) of section 104B of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–3) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151b-3` | replace | in the first sentence, by striking “In furnishing” and all that follows through “, including funding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2151b-3` | replace | by striking “In order to” and all that follows through “not less than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2151b-3` | replace | by striking “including” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2151b-3` | redesignate | by redesignating subsection (f) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151b-3` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151b-3` | add-at-end | in paragraph (1), by adding at the end before the period the following: “, including low cost and effective diagnosis, treatment, and monitoring of tuberculosis, as well as a reliable drug supply, and a management strategy for public hea… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151b-3` | add-at-end | in paragraph (1), by adding at the end before the period the following: “, including low cost and effective diagnosis and evaluation of treatment regimes, vaccines, and monitoring of tuberculosis, as well as a reliable drug supply, and a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2151b-3` | amend | by adding after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2151b-2` | add-at-end | Section 104A(e)(2)(C)(iii) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–2(e)(2)(C)(iii)) is amended by adding at the end before the semicolon the following: “, including the percentage of such United States foreign assistance p… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151b-2` | amend | Clause (iii) of section 104A(e)(2)(C) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b–2(e)(2)(C)) is amended by adding at the end before the semicolon the following: “, including the percentage of such United States foreign assist… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
