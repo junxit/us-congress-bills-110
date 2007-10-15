@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2185
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2185
@@ -50,9 +50,10 @@ To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to 
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Baird, Brian [D-WA-3] (B001229)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ To amend the Tropical Forest Conservation Act of 1998 to provide debt relief to 
 - 2007-10-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11347-11348)
 - 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11347-11348)
 - 2007-10-09 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
