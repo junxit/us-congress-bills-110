@@ -1,7 +1,7 @@
 ---
 measure: H.R. 814
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 814
@@ -59,9 +59,10 @@ Children's Gasoline Burn Prevention Act
 - Rep. Harman, Jane [D-CA-36] (H000213)
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -83,3 +84,4 @@ Children's Gasoline Burn Prevention Act
 - 2007-10-09 — Placed on the Union Calendar, Calendar No. 228.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-367.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-367.
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
