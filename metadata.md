@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2553
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2553
@@ -20,9 +20,10 @@ Public Diplomacy Resource Centers Act of 2008
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Public Diplomacy Resource Centers Act of 2008
 - 2007-10-09 — Ms. Watson moved to suspend the rules and pass the bill, as amended.
 - 2007-10-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11346)
 - 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11346)
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
