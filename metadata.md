@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2474
@@ -16,9 +16,10 @@ Product Safety Civil Penalties Improvement Act
 
 - Rep. Rush, Bobby L. [D-IL-1] (R000515)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Product Safety Civil Penalties Improvement Act
 - 2007-10-09 — Placed on the Union Calendar, Calendar No. 225.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-364.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-364.
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.

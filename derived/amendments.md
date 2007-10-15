@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 110
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 8 executed, 5 stated and not applied.
+12 amendatory instructions. 7 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,15 +26,6 @@ to guess them.
 
 ### 15 U.S.C. § 2069
 
-> Section 20(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2069(a)(1)) is amended by striking “$1,250,000” each place it appears and inserting “$20,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,250,000` |
-| Inserted | `$20,000,000` |
-
-### 15 U.S.C. § 2069
-
 > Section 20(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2069(a)(1)) is amended by striking “$1,250,000” both places it appears and inserting “$10,000,000”.
 
 | | |
@@ -42,7 +33,7 @@ to guess them.
 | Removed | `$1,250,000` |
 | Inserted | `$10,000,000` |
 
-### 15 U.S.C. § 1264
+### 15 U.S.C. § 2069
 
 > Section 5(c)(1) of the Federal Hazardous Substances Act (15 U.S.C. 1264(c)(1)) is amended by striking “$1,250,000” both places it appears and inserting “$10,000,000”.
 
@@ -69,7 +60,7 @@ to guess them.
 | Removed | `products distributed, and` |
 | Inserted | `products distributed,` |
 
-### 15 U.S.C. § 1264
+### 15 U.S.C. § 2069
 
 > by striking “substance distributed, and” and inserting “substance distributed,”; and
 
@@ -107,6 +98,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 2069` | insert | by inserting “the nature, circumstances, extent, and gravity of the violation, including” after “shall consider”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2069` | insert | by inserting “, and such other factors as appropriate” before the period. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1264` | insert | by inserting “the nature, circumstances, extent ,and gravity of the violation, including” after “shall consider”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 1264` | insert | by inserting “, and such other factors as appropriate” before the period. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 2069` | insert | by inserting “the nature, circumstances, extent ,and gravity of the violation, including” after “shall consider”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 2069` | insert | by inserting “, and such other factors as appropriate” before the period. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 2069` | insert | by inserting “, and such other factors as appropriate” before the period. | the bill quotes the text inserted but describes where it goes |
