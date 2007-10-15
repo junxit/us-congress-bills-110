@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3530
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3530
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 1400 Hi
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ To designate the facility of the United States Postal Service located at 1400 Hi
 - 2007-10-09 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-10-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11327)
 - 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11327)
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
