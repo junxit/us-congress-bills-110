@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2895
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 12701
+### 12 U.S.C. § 1709
 
 > Section 201 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12701 note) is amended by striking “This title” and inserting “Subtitles A through F of this title”.
 
@@ -42,4 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 12721` | add-at-end | Title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1709` | add-at-end | Title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

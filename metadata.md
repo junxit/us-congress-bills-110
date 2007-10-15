@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2895
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2895
@@ -122,9 +122,10 @@ National Affordable Housing Trust Fund Act of 2007
 - Rep. Kagen, Steve [D-WI-8] (K000365)
 - Rep. DeGette, Diana [D-CO-1] (D000197)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (4)
 
@@ -223,3 +224,4 @@ National Affordable Housing Trust Fund Act of 2007
 - 2007-10-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11444)
 - 2007-10-10 — The previous question was ordered pursuant to the rule. (consideration: CR H11443)
 - 2007-10-10 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
