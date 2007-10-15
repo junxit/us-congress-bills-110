@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 25
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 25
@@ -120,3 +120,9 @@ Expressing the sense of Congress that it is the goal of the United States that, 
 - 2007-09-24 — Placed on the House Calendar, Calendar No. 120.
 - 2007-09-24 — Reported by the Committee on Agriculture. H. Rept. 110-344, Part I.
 - 2007-09-24 — Reported by the Committee on Agriculture. H. Rept. 110-344, Part I.
+- 2007-10-15 — Considered under suspension of the rules. (consideration: CR H11504-11507)
+- 2007-10-15 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 25.
+- 2007-10-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-15 — Mr. Peterson (MN) moved to suspend the rules and agree to the resolution.
+- 2007-10-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11504)
+- 2007-10-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11504)
