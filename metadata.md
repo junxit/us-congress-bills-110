@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3518
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3518
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 1430 So
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To designate the facility of the United States Postal Service located at 1430 So
 - 2007-10-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11327)
 - 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11327)
 - 2007-10-09 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
