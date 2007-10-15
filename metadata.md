@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1699
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1699
@@ -30,9 +30,10 @@ Danny Keysar Child Product Safety Notification Act
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Danny Keysar Child Product Safety Notification Act
 - 2007-10-09 — Placed on the Union Calendar, Calendar No. 227.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-366.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-366.
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
