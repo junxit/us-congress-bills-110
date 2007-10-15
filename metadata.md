@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3056
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3056
@@ -28,9 +28,10 @@ Tax Collection Responsibility Act of 2007
 - Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Tax Collection Responsibility Act of 2007
 - 2007-10-10 — Rule provides for consideration of H.R. 3056 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 or rule XXI. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill, modified by the amendment printed in the report of the Committee on Rules accompanying this resolution, shall be considered as adopted
 - 2007-10-10 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11463)
 - 2007-10-10 — The previous question was ordered pursuant to the rule. (consideration: CR H11462)
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Finance.
