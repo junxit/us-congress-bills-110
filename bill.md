@@ -18,7 +18,7 @@ This Act may be cited as the “Dextromethorphan Distribution Act of 2007”.
 The Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321 et seq.) is amended—
 
 - **(1)** in section 501, by inserting at the end the following:
-  > - **(j)** If it is unfinished dextromethophan and is possessed, received, or distributed in violation of section 506D.
+  > - **(j)** If it is unfinished dextromethorphan and is possessed, received, or distributed in violation of section 506D.
 
 - **(2)** by inserting after section 506C the following:
   > ## § 506D. Restrictions on distribution of bulk dextromethorphan
