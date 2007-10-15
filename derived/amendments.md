@@ -1,7 +1,7 @@
 ---
 measure: S. 680
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-54 amendatory instructions. 0 executed, 54 stated and not applied.
+87 amendatory instructions. 0 executed, 87 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -85,3 +85,36 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | amend | in subparagraph (D), by adding “and” after the semicolon ; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 6 of the Office of Federal Procurement Policy Act (41 U.S.C. 405) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Office of Federal Procurement Policy Act (41 U.S.C. 403 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Office of Federal Procurement Policy Act (41 U.S.C. 403 et seq.), as amended by subsection (b), is further amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | strike | Section 37(h)(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 433(h)(3)) is amended by striking subparagraph (H). | the bill names no machine-readable US Code section |
+| — | replace | Section 1413(b) of the Services Acquisition Reform Act of 2003 (title XIV of Public Law 108–136) is amended by striking “September 30, 2007” and inserting “September 30, 2010”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 16(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 414) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 303J(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 2304c(c) of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 303J(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 2304c(d) of title 10, United States Code is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(iii), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(iii), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | amend | Section 303(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(d)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2304(d) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 303H(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h(d)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2304a(d) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (h) and (i) as subsections (i) and (j), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (g) the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (g) and (h) as subsections (h) and (i), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (f) the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsections (g); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | The Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 137 of title 10, United States Code, is amended by inserting after at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | amend | Section 3901(d)(3)(A) of title 31, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 19 of the Office of Federal Procurement Policy Act (41 U.S.C. 417(d)) is amended to read as follows: | the bill names no machine-readable US Code section |
