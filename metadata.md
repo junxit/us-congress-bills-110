@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3297
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3297
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 950 Wes
 
 - Rep. Murphy, Patrick J. [D-PA-8] (M001168)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. Altmire, Jason [D-PA-4] (A000362)
@@ -35,6 +35,7 @@ To designate the facility of the United States Postal Service located at 950 Wes
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Shuster, Bill [R-PA-9] (S001154)
 - Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Peterson, John E. [R-PA-5] (P000263)
 
 ## Committees (1)
 
@@ -45,3 +46,11 @@ To designate the facility of the United States Postal Service located at 950 Wes
 - 2007-08-01 — Introduced in House
 - 2007-08-01 — Introduced in House
 - 2007-08-01 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-09-20 — Committee Consideration and Mark-up Session Held.
+- 2007-09-20 — Ordered to be Reported by Unanimous Consent.
+- 2007-10-15 — Considered under suspension of the rules. (consideration: CR H11508-11509)
+- 2007-10-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3297.
+- 2007-10-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-15 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2007-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11508)
+- 2007-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11508)
