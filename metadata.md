@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1721
 congress: 110
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1721
@@ -75,3 +75,4 @@ Virginia Graeme Baker Pool and Spa Safety Act
 - 2007-10-09 — Placed on the Union Calendar, Calendar No. 226.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-365.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-365.
+- 2007-10-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.
