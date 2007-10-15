@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3308
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3308
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 216 Eas
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
 - Rep. Carson, Julia [D-IN-7] (C000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 216 Eas
 - 2007-10-09 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-10-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11335)
 - 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11335)
+- 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
