@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2185
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -231,7 +231,7 @@ to guess them.
 | Removed | `fiscal year` |
 | Inserted | `calendar year` |
 
-### 22 U.S.C. § 2151
+### 22 U.S.C. § 2431
 
 > The heading of part V of the Foreign Assistance Act of 1961 is amended by striking “tropical forests” and inserting “tropical forests or coral reefs or associated coastal marine ecosystems”.
 
@@ -240,7 +240,7 @@ to guess them.
 | Removed | `tropical forests` |
 | Inserted | `tropical forests or coral reefs or associated coastal marine ecosystems` |
 
-### 22 U.S.C. § 2151
+### 22 U.S.C. § 2431
 
 > Section 801 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2151 note) is amended by striking “Tropical Forest Conservation Act of 1998” and inserting “Tropical Forest and Coral Conservation Act of 2007”.
 
@@ -249,7 +249,7 @@ to guess them.
 | Removed | `Tropical Forest Conservation Act of 1998` |
 | Inserted | `Tropical Forest and Coral Conservation Act of 2007` |
 
-### 22 U.S.C. § 2430b
+### 22 U.S.C. § 2431
 
 > in the matter preceding subparagraph (A), by striking “or, as appropriate in exceptional circumstances,” and inserting “or”; and
 
@@ -258,7 +258,7 @@ to guess them.
 | Removed | `or, as appropriate in exceptional circumstances,` |
 | Inserted | `or` |
 
-### 22 U.S.C. § 2430b
+### 22 U.S.C. § 2431
 
 > in subparagraph (A), by striking “or an arrangement under the structural adjustment facility or enhanced structural adjustment facility, or in exceptional circumstances, a Fund monitored program or its equivalent,” and inserting “an arrangement under the structural adjustment facility or enhanced structural adjustment facility, a Fund monitored program, or is implementing sound macroeconomic policies,”.
 
@@ -287,7 +287,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subsection (c)(2) of section 806 of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431d) is amended by striking “Tropical Forest Fund” and inserting “Conservation Fund”. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (d)(6) of such section is amended by striking “fiscal year 2007” and inserting “each of the fiscal years 2007 through 2010”. | the bill names no machine-readable US Code section |
 | — | amend | Subsection (e) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 2431f` | amend | Section 808(a)(5) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431f(a)(5)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2431f` | add-at-end | Section 808(a)(5) of the Tropical Forest Conservation Act of 1998 (22 U.S.C. 2431f(a)(5)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431g` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431g` | insert | in clause (i), by inserting at the end before the semicolon the following: “to serve in an official capacity”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2431g` | insert | in clause (iii)(III), by inserting “or marine” after “forestry”. | the bill quotes the text inserted but describes where it goes |
