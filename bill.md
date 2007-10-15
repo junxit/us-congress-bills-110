@@ -28,26 +28,26 @@ Congress makes the following findings:
 - **(9)** Several ALS disease registries and databases exist in the United States and throughout the world, including the SOD1 database, the National Institute of Neurological Disorders and Stroke repository, and the Department of Veterans Affairs ALS Registry.
 - **(10)** A single national system to collect and store information on the prevalence and incidence of ALS in the United States does not exist.
 - **(11)** In each of fiscal years 2006 and 2007, Congress directed $887,000 to the Centers for Disease Control and Prevention to begin a nationwide ALS registry.
-- **(12)** The Centers for Disease Control and Prevention and the Agency for Toxic Substances and Disease Registry has established three pilot projects, beginning in fiscal year 2006, to evaluate the science to guide the creation of a national ALS registry.
+- **(12)** The Centers for Disease Control and Prevention and the Agency for Toxic Substances and Disease Registry have established three pilot projects, beginning in fiscal year 2006, to evaluate the science to guide the creation of a national ALS registry.
 - **(13)** The establishment of a national registry will help—
   - **(A)** to identify the incidence and prevalence of ALS in the United States;
   - **(B)** to collect data important to the study of ALS;
   - **(C)** to promote a better understanding of ALS;
   - **(D)** to collect information that is important for research into the genetic and environmental factors that cause ALS;
   - **(E)** to strengthen the ability of a clearinghouse—
-    - **(i)** to collect and disseminate research findings on environmental, genetic and other causes of ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS;
-    - **(ii)** make available information to patients about research studies for which they may be eligible; and
-    - **(iii)** maintain information about clinical specialists and clinical trials on therapies; and
+    - **(i)** to collect and disseminate research findings on environmental, genetic, and other causes of ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS;
+    - **(ii)** to make available information to patients about research studies for which they may be eligible; and
+    - **(iii)** to maintain information about clinical specialists and clinical trials on therapies; and
   - **(F)** to enhance efforts to find treatments and a cure for ALS.
 
 ## § 3. Amendment to the Public Health Service Act
 
 Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following:
 
-> ## § 399O. Amyotrophic lateral sclerosis registry
+> ## § 399R. Amyotrophic lateral sclerosis registry
 >
 > - **(a)** *Establishment*
->   - **(1)** *In general* Not later than 1 year after the receipt of the report described in subsection (b)(2)(A), the Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with a national voluntary health organization with experience serving the population of individuals with amyotrophic lateral sclerosis (referred to in this section as “ALS”), shall—
+>   - **(1)** *In general* Not later than 1 year after the receipt of the report described in subsection (b)(3), the Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with a national voluntary health organization with experience serving the population of individuals with amyotrophic lateral sclerosis (referred to in this section as “ALS”), shall—
 >     - **(A)** develop a system to collect data on ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS, including information with respect to the incidence and prevalence of the disease in the United States; and
 >     - **(B)** establish a national registry for the collection and storage of such data to include a population-based registry of cases in the United States of ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS.
 >   - **(2)** *Purpose* It is the purpose of the registry established under paragraph (1)(B) to gather available data concerning—
@@ -77,7 +77,7 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >     - **(C)** the manner in which such data is to be collected;
 >     - **(D)** the use and availability of such data including guidelines for such use; and
 >     - **(E)** the collection of information about diseases and disorders that primarily affect motor neurons that are considered essential to furthering the study and cure of ALS.
->   - **(3)** *Report* Not later than 1 years after the date on which the Advisory Committee is established, the Advisory Committee shall submit a report concerning the review conducted under paragraph (2) that contains the recommendations of the Advisory Committee with respect to the results of such review.
+>   - **(3)** *Report* Not later than 1 year after the date on which the Advisory Committee is established, the Advisory Committee shall submit a report concerning the review conducted under paragraph (2) that contains the recommendations of the Advisory Committee with respect to the results of such review.
 > - **(c)** *Grants* Notwithstanding the recommendations of the Advisory Committee under subsection (b), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants to, and enter into contracts and cooperative agreements with, public or private nonprofit entities for the collection, analysis, and reporting of data on ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS.
 > - **(d)** *Coordination With State, Local, and Federal Registries*
 >   - **(1)** *In general* In establishing the National ALS Registry under subsection (a), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
@@ -85,11 +85,11 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >       - **(i)** the 3 ALS registry pilot projects initiated in fiscal year 2006 by the Centers for Disease Control and Prevention and the Agency for Toxic Substances and Disease Registry at the South Carolina Office of Research & Statistics; the Mayo Clinic in Rochester, Minnesota; and Emory University in Atlanta, Georgia;
 >       - **(ii)** the Department of Veterans Affairs ALS Registry;
 >       - **(iii)** the DNA and Cell Line Repository of the National Institute of Neurological Disorders and Stroke Human Genetics Resource Center;
->       - **(iv)** Agency for Toxic Substances and Disease Registry studies, including studies conducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
+>       - **(iv)** the Agency for Toxic Substances and Disease Registry studies, including studies conducted in Illinois, Missouri, El Paso and San Antonio, Texas, and Massachusetts;
 >       - **(v)** State-based ALS registries, including the Massachusetts ALS Registry;
 >       - **(vi)** the National Vital Statistics System; and
 >       - **(vii)** any other existing or relevant databases that collect or maintain information on those motor neuron diseases recommended by the Advisory Committee established in subsection (b); and
 >     - **(B)** provide for research access to ALS data as recommended by the Advisory Committee established in subsection (b) to the extent permitted by applicable statutes and regulations and in a manner that protects personal privacy consistent with applicable privacy statutes and regulations.
 >   - **(2)** *Coordination with nih and department of veterans affairs* Notwithstanding the recommendations of the Advisory Committee established in subsection (b), and consistent with applicable privacy statutes and regulations, the Secretary shall ensure that epidemiological and other types of information obtained under subsection (a) is made available to the National Institutes of Health and the Department of Veterans Affairs.
 > - **(e)** *Definition* For the purposes of this section, the term national voluntary health association means a national non-profit organization with chapters or other affiliated organizations in States throughout the United States.
-> - **(f)** *Authorization of Appropriations* There are authorized to be appropriated to carry out this section, $25,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.
+> - **(f)** *Authorization of Appropriations* There are authorized to be appropriated to carry out this section, $25,000,000 for fiscal year 2008, and $16,000,000 for each of the fiscal years 2009 through 2012.
