@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3678
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3678
@@ -40,3 +40,11 @@ Internet Tax Freedom Act Amendments Act of 2007
 - 2007-10-12 — Placed on the Union Calendar, Calendar No. 230.
 - 2007-10-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-372.
 - 2007-10-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-372.
+- 2007-10-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-10-16 — Considered as unfinished business. (consideration: CR H11575-11576)
+- 2007-10-16 — Considered under suspension of the rules. (consideration: CR H11567-11573)
+- 2007-10-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3678.
+- 2007-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-16 — Mr. Watt moved to suspend the rules and pass the bill, as amended.
+- 2007-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2 (Roll no. 968). (text: CR H11567-11568)
+- 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2 (Roll no. 968).(text: CR H11567-11568)
