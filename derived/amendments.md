@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3678
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 2 executed, 10 stated and not applied.
+12 amendatory instructions. 4 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 47 U.S.C. § 151
+
+> in section 1101(a) by striking “2007” and inserting “2011”, and
+
+| | |
+|---|---|
+| Removed | `2007` |
+| Inserted | `2011` |
+
+### 47 U.S.C. § 151
+
+> in section 1104(a)(2)(A) by striking “2007” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2007` |
+| Inserted | `2011` |
 
 ### 47 U.S.C. § 151
 
@@ -51,8 +69,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in section 1101(a) by striking “2007” and inserting “2011”, and | the bill names no machine-readable US Code section |
-| — | replace | in section 1104(a)(2)(A) by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
 | `47 U.S.C. § 151` | add-at-end | Section 1104 of the Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 151` | strike | in paragraph (1) by striking “services”, | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 151` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
