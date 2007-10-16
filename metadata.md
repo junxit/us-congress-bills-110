@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3572
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3572
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 4320 Bl
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 4320 Bl
 - 2007-10-15 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11509)
 - 2007-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11509)
+- 2007-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
