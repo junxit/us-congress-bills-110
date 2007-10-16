@@ -1,7 +1,7 @@
 ---
 measure: S. 1662
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1662
@@ -29,3 +29,7 @@ Small Business Venture Capital Act of 2007
 - 2007-06-19 — Introduced in Senate
 - 2007-06-19 — Read twice and referred to the Committee on Small Business and Entrepreneurship. (text of measure as introduced: CR S7904)
 - 2007-06-19 — Sponsor introductory remarks on measure. (CR S7903-7904)
+- 2007-06-26 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-10-16 — Committee on Small Business and Entrepreneurship. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 110-199.
+- 2007-10-16 — Committee on Small Business and Entrepreneurship. Reported by Senator Kerry with an amendment in the nature of a substitute. With written report No. 110-199.
+- 2007-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.
