@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2089
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2089
@@ -25,9 +25,10 @@ To designate the facility of the United States Postal Service located at 701 Loy
 - Rep. McCrery, Jim [R-LA-4] (M000388)
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To designate the facility of the United States Postal Service located at 701 Loy
 - 2007-10-15 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-10-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 962). (text: CR H11507)
 - 2007-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 962).(text: CR H11507)
+- 2007-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
