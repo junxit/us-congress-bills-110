@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 25
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 25
@@ -91,11 +91,12 @@ Expressing the sense of Congress that it is the goal of the United States that, 
 - Rep. Hare, Phil [D-IL-17] (H001040)
 - Rep. Shimkus, John [R-IL-19] (S000364)
 
-## Committees (3)
+## Committees (4)
 
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -126,3 +127,4 @@ Expressing the sense of Congress that it is the goal of the United States that, 
 - 2007-10-15 — Mr. Peterson (MN) moved to suspend the rules and agree to the resolution.
 - 2007-10-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11504)
 - 2007-10-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11504)
+- 2007-10-16 — Received in the Senate and referred to the Committee on Agriculture, Nutrition, and Forestry.
