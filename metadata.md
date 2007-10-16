@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 133
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 133
@@ -46,9 +46,10 @@ Supporting the goals and ideals of a Long-Term Care Awareness Week.
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -62,3 +63,4 @@ Supporting the goals and ideals of a Long-Term Care Awareness Week.
 - 2007-10-15 — Ms. Baldwin moved to suspend the rules and agree to the resolution.
 - 2007-10-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11519)
 - 2007-10-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11519)
+- 2007-10-16 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
