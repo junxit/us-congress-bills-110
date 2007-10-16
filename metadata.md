@@ -1,7 +1,7 @@
 ---
 measure: H.R. 507
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 507
@@ -171,9 +171,10 @@ Vision Care for Kids Act of 2007
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -194,3 +195,4 @@ Vision Care for Kids Act of 2007
 - 2007-10-15 — Placed on the Union Calendar, Calendar No. 233.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-376.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-376.
+- 2007-10-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
