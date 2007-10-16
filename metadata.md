@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1727
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1727
@@ -87,9 +87,10 @@ Christopher and Dana Reeve Paralysis Act
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Pryce, Deborah [R-OH-15] (P000555)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -109,3 +110,4 @@ Christopher and Dana Reeve Paralysis Act
 - 2007-10-15 — Placed on the Union Calendar, Calendar No. 235.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-378.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-378.
+- 2007-10-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
