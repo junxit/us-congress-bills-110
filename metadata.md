@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 736
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 736
@@ -37,3 +37,9 @@ Honoring the 60th anniversary of the aeronautics research accomplishments embodi
 - 2007-10-12 — Introduced in House
 - 2007-10-12 — Introduced in House
 - 2007-10-12 — Referred to the House Committee on Science and Technology.
+- 2007-10-16 — Considered under suspension of the rules. (consideration: CR H11614-11616)
+- 2007-10-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 736.
+- 2007-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-16 — Mr. Lampson moved to suspend the rules and agree to the resolution.
+- 2007-10-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H116114)
+- 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H116114)
