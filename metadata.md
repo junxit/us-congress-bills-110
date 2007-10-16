@@ -1,7 +1,7 @@
 ---
 measure: H.R. 970
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 970
@@ -41,9 +41,10 @@ Dextromethorphan Distribution Act of 2007
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Dextromethorphan Distribution Act of 2007
 - 2007-10-15 — Placed on the Union Calendar, Calendar No. 234.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-377.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-377.
+- 2007-10-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
