@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3572
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3572
@@ -51,3 +51,18 @@ To designate the facility of the United States Postal Service located at 4320 Bl
 - 2007-10-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11509)
 - 2007-10-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11509)
 - 2007-10-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-10-19 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.
+- 2007-11-16 — Cleared for White House.
+- 2007-11-16 — Message on Senate action sent to the House.
+- 2007-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14656-14657)
+- 2007-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14656-14657)
+- 2007-11-26 — Presented to President.
+- 2007-11-26 — Presented to President.
+- 2007-11-30 — Became Public Law No: 110-131.
+- 2007-11-30 — Became Public Law No: 110-131.
+- 2007-11-30 — Signed by President.
+- 2007-11-30 — Signed by President.
