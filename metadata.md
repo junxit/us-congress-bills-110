@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 716
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 716
@@ -38,3 +38,9 @@ Expressing the sense of Congress with respect to raising awareness and enhancing
 - 2007-10-09 — Introduced in House
 - 2007-10-09 — Referred to the House Committee on Science and Technology.
 - 2007-10-09 — Sponsor introductory remarks on measure. (CR E2088)
+- 2007-10-16 — Considered under suspension of the rules. (consideration: CR H11609-11612)
+- 2007-10-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 716.
+- 2007-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-16 — Mr. Lampson moved to suspend the rules and agree to the resolution.
+- 2007-10-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11609)
+- 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11609)
