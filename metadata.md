@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2102
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2102
@@ -94,6 +94,11 @@ Free Flow of Information Act of 2007
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2007-10-16 — [House 110-1-972](votes/house-110-1-0972.md) — On Motion to Recommit with Instructions — **Passed** (388–33)
+- 2007-10-16 — [House 110-1-973](votes/house-110-1-0973.md) — On Passage — **Passed** (398–21)
+
 ## Actions
 
 - 2007-05-02 — Introduced in House
@@ -105,3 +110,30 @@ Free Flow of Information Act of 2007
 - 2007-10-10 — Placed on the Union Calendar, Calendar No. 229.
 - 2007-10-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-370.
 - 2007-10-10 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-370.
+- 2007-10-15 — Rules Committee Resolution H. Res. 742 Reported to House. Rule provides for consideration of H.R. 2102 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill shall be considered as adopted.
+- 2007-10-16 — Amendment (A003) offered by Mr. Boucher. (consideration: CR H11599-11601; text: CR H11599-11600)
+- 2007-10-16 — Amendment (A004) offered by Mr. Conyers. (consideration: CR H11602-11603; text: CR H11602)
+- 2007-10-16 — Amendment agreed to by House: On agreeing to the Boucher amendment (A003) Agreed to by voice vote.
+- 2007-10-16 — Amendment agreed to by House: On agreeing to the Conyers amendment (A004) Agreed to by voice vote.
+- 2007-10-16 — Considered under the provisions of rule H. Res. 742. (consideration: CR H11587-11603; text of measure as introduced: CR H11587-11588; text of measure as reported in House: CR H11588-11589)
+- 2007-10-16 — DEBATE - Pursuant to the provisions of H.Res. 742, the House proceeded with 10 minutes of debate on the Boucher amendment.
+- 2007-10-16 — DEBATE - The House proceeded with 10 minutes of debate on the Smith (TX) motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment regarding authority to consider national security interest.
+- 2007-10-16 — DEBATE - The House proceeded with one hour of debate on H.R. 2102.
+- 2007-10-16 — House amendment agreed to: On agreeing to the Boucher amendment (A003) Agreed to by voice vote.
+- 2007-10-16 — House amendment agreed to: On agreeing to the Conyers amendment (A004) Agreed to by voice vote.
+- 2007-10-16 — House amendment offered
+- 2007-10-16 — House amendment offered
+- 2007-10-16 — House amendment offered
+- 2007-10-16 — House amendment offered/reported by : Amendment (A003) offered by Mr. Boucher.(consideration: CR H11599-11601; text: CR H11599-11600)
+- 2007-10-16 — House amendment offered/reported by : Amendment (A004) offered by Mr. Conyers.(consideration: CR H11602-11603; text: CR H11602)
+- 2007-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-16 — Mr. Smith (TX) moved to recommit with instructions to Judiciary.
+- 2007-10-16 — On agreeing to the Boucher amendment (A003) Agreed to by voice vote.
+- 2007-10-16 — On agreeing to the Conyers amendment (A004) Agreed to by voice vote.
+- 2007-10-16 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 388 - 33 (Roll no. 972). (text: CR H11601)
+- 2007-10-16 — On passage Passed by recorded vote: 398 - 21 (Roll no. 973).
+- 2007-10-16 — Passed/agreed to in House: On passage Passed by recorded vote: 398 - 21 (Roll no. 973).
+- 2007-10-16 — Rule H. Res. 742 passed House.
+- 2007-10-16 — Rule provides for consideration of H.R. 2102 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill shall be considered as adopted.
+- 2007-10-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11601-11602; text: CR H11601)
+- 2007-10-16 — The previous question was ordered pursuant to the rule. (consideration: CR H11601)
