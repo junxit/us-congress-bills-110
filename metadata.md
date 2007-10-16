@@ -1,7 +1,7 @@
 ---
 measure: H.R. 20
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 20
@@ -149,9 +149,10 @@ Melanie Blocker-Stokes Postpartum Depression Research and Care Act
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -175,3 +176,4 @@ Melanie Blocker-Stokes Postpartum Depression Research and Care Act
 - 2007-10-15 — Placed on the Union Calendar, Calendar No. 232.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-375.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-375.
+- 2007-10-16 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
