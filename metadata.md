@@ -1,7 +1,7 @@
 ---
 measure: S. 1200
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1200
@@ -16,7 +16,7 @@ Indian Health Care Improvement Act Amendments of 2008
 
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 
-## Cosponsors (13)
+## Cosponsors (20)
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Reid, Harry [D-NV] (R000146)
@@ -31,6 +31,13 @@ Indian Health Care Improvement Act Amendments of 2008
 - Sen. Thomas, Craig [R-WY] (T000162)
 - Sen. Obama, Barack [D-IL] (O000167)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
 
 ## Committees (1)
 
@@ -41,3 +48,7 @@ Indian Health Care Improvement Act Amendments of 2008
 - 2007-04-24 — Introduced in Senate
 - 2007-04-24 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S4927-4969)
 - 2007-04-24 — Sponsor introductory remarks on measure. (CR S4926)
+- 2007-05-10 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2007-10-16 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-197.
+- 2007-10-16 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-197.
+- 2007-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 421.
