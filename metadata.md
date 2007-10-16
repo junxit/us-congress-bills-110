@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2295
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2295
@@ -299,6 +299,10 @@ ALS Registry Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2007-10-16 — [House 110-1-970](votes/house-110-1-0970.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (411–3)
+
 ## Actions
 
 - 2007-05-14 — Introduced in House
@@ -317,3 +321,7 @@ ALS Registry Act
 - 2007-10-15 — Placed on the Union Calendar, Calendar No. 236.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-379.
 - 2007-10-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-379.
+- 2007-10-16 — Considered as unfinished business. (consideration: CR H11586)
+- 2007-10-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 970). (text: CR 10/15/2007 H11513-11514)
+- 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 970).(text: CR 10/15/2007 H11513-11514)
