@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2095
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2095
@@ -132,3 +132,49 @@ Railroad Safety Enhancement Act of 2008
 - 2007-09-19 — Placed on the Union Calendar, Calendar No. 208.
 - 2007-09-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-336.
 - 2007-09-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-336.
+- 2007-10-10 — Rules Committee Resolution H. Res. 724 Reported to House. Rule provides for consideration of H.R. 2095 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against the consideration of the bill except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill.
+- 2007-10-17 — Amendment (A001) offered by Mr. Oberstar. (consideration: CR H11687-11689; text: CR H11687-11688)
+- 2007-10-17 — Amendment (A002) offered by Mrs. Napolitano. (consideration: CR H11689-11690; text: CR H11689)
+- 2007-10-17 — Amendment (A003) offered by Mr. Pallone. (consideration: CR H11690-11692; text: CR H11690)
+- 2007-10-17 — Amendment (A004) offered by Mr. Rohrabacher. (consideration: CR H11692-11694; text: CR H11692)
+- 2007-10-17 — Amendment agreed to Committee of the Whole
+- 2007-10-17 — Amendment agreed to Committee of the Whole
+- 2007-10-17 — Amendment agreed to Committee of the Whole
+- 2007-10-17 — Amendment agreed to Committee of the Whole
+- 2007-10-17 — Considered under the provisions of rule H. Res. 724. (consideration: CR H11671-11696; text of measure as reported in House: CR H11677-11687)
+- 2007-10-17 — DEBATE - Pursuant to the provisions of H.Res. 724, the Committee of the Whole proceeded with 10 minutes of debate on the Napolitano amendment.
+- 2007-10-17 — DEBATE - Pursuant to the provisions of H.Res. 724, the Committee of the Whole proceeded with 10 minutes of debate on the Oberstar amendment.
+- 2007-10-17 — DEBATE - Pursuant to the provisions of H.Res. 724, the Committee of the Whole proceeded with 10 minutes of debate on the Pallone amendment.
+- 2007-10-17 — DEBATE - Pursuant to the provisions of H.Res. 724, the Committee of the Whole proceeded with 10 minutes of debate on the Rohrabacher amendment.
+- 2007-10-17 — DEBATE - The House proceeded with 10 minutes of debate on the Sali motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments that strike "Federal Railroad Safety Administration" each place it appears and insert "Federal Railroad Administration"; and insert a new section regarding funding limitation.
+- 2007-10-17 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2095.
+- 2007-10-17 — House amendment agreed to: On agreeing to the Napolitano amendment (A002) Agreed to by voice vote.
+- 2007-10-17 — House amendment agreed to: On agreeing to the Oberstar amendment (A001) Agreed to by voice vote.
+- 2007-10-17 — House amendment agreed to: On agreeing to the Pallone amendment (A003) Agreed to by voice vote.
+- 2007-10-17 — House amendment agreed to: On agreeing to the Rohrabacher amendment (A004) Agreed to by voice vote.
+- 2007-10-17 — House amendment offered
+- 2007-10-17 — House amendment offered
+- 2007-10-17 — House amendment offered
+- 2007-10-17 — House amendment offered
+- 2007-10-17 — House amendment offered/reported by : Amendment (A001) offered by Mr. Oberstar.(consideration: CR H11687-11689; text: CR H11687-11688)
+- 2007-10-17 — House amendment offered/reported by : Amendment (A002) offered by Mrs. Napolitano.(consideration: CR H11689-11690; text: CR H11689)
+- 2007-10-17 — House amendment offered/reported by : Amendment (A003) offered by Mr. Pallone.(consideration: CR H11690-11692; text: CR H11690)
+- 2007-10-17 — House amendment offered/reported by : Amendment (A004) offered by Mr. Rohrabacher.(consideration: CR H11692-11694; text: CR H11692)
+- 2007-10-17 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 724 and Rule XVIII.
+- 2007-10-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-17 — Mr. Sali moved to recommit with instructions to Transportation. (consideration: CR H11694-11695; text: CR H11694)
+- 2007-10-17 — On agreeing to the Napolitano amendment (A002) Agreed to by voice vote.
+- 2007-10-17 — On agreeing to the Oberstar amendment (A001) Agreed to by voice vote.
+- 2007-10-17 — On agreeing to the Pallone amendment (A003) Agreed to by voice vote.
+- 2007-10-17 — On agreeing to the Rohrabacher amendment (A004) Agreed to by voice vote.
+- 2007-10-17 — On motion to recommit with instructions Failed by the Yeas and Nays: 198 - 222 (Roll no. 979).
+- 2007-10-17 — On passage Passed by the Yeas and Nays: 377 - 38 (Roll no. 980).
+- 2007-10-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 377 - 38 (Roll no. 980).
+- 2007-10-17 — Rule H. Res. 724 passed House.
+- 2007-10-17 — Rule provides for consideration of H.R. 2095 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against the consideration of the bill except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Transportation and Infrastructure now printed in the bill.
+- 2007-10-17 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2095.
+- 2007-10-17 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-10-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2095.
+- 2007-10-17 — The Speaker designated the Honorable Earl Pomeroy to act as Chairman of the Committee.
+- 2007-10-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11695)
+- 2007-10-17 — The previous question was ordered pursuant to the rule. (consideration: CR H11694)
