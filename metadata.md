@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 549
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 549
@@ -58,3 +58,11 @@ Recognizing the importance of America's Waterway Watch program, and for other pu
 - 2007-09-14 — Placed on the House Calendar, Calendar No. 111.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-324.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-324.
+- 2007-10-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-10-16 — Considered under suspension of the rules. (consideration: CR H11607-11609)
+- 2007-10-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 549.
+- 2007-10-16 — Mr. Cummings moved to suspend the rules and agree to the resolution.
+- 2007-10-17 — Considered as unfinished business. (consideration: CR H11655-11656)
+- 2007-10-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 976). (text: CR 10/16/2007 H11607)
+- 2007-10-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 420 - 0 (Roll no. 976).(text: CR 10/16/2007 H11607)
