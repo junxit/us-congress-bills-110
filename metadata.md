@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 182
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 182
@@ -91,3 +91,4 @@ Recognizing the need to pursue research into the causes, a treatment, and an eve
 - 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 971).(text: CR 10/15/2007 H11522)
 - 2007-10-17 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S13023)
 - 2007-10-17 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S13023)
+- 2007-10-18 — Message on Senate action sent to the House.
