@@ -1,7 +1,7 @@
 ---
 measure: H.R. 400
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 400
@@ -57,3 +57,5 @@ War Profiteering Prevention Act of 2007
 - 2007-10-09 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
 - 2007-10-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 3 (Roll no. 950). (text: CR H11357)
 - 2007-10-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 375 - 3 (Roll no. 950).(text: CR H11357)
+- 2007-10-15 — Received in the Senate.
+- 2007-10-17 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.
