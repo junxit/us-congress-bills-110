@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3247
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3247
@@ -34,3 +34,11 @@ Hurricanes Katrina and Rita Recovery Facilitation Act of 2007
 - 2007-07-31 — Introduced in House
 - 2007-07-31 — Introduced in House
 - 2007-07-31 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-08-01 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-08-01 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-08-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-08-02 — Committee Consideration and Mark-up Session Held.
+- 2007-08-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-10-18 — Placed on the Union Calendar, Calendar No. 241.
+- 2007-10-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-387.
+- 2007-10-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-387.
