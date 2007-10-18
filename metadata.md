@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 222
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 222
@@ -47,3 +47,5 @@ Commending NASA Langley Research Center in Virginia on the celebration of its 90
 - 2007-10-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-10-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 978). (text: CR 10/16/2007 H11616)
 - 2007-10-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 978).(text: CR 10/16/2007 H11616)
+- 2007-10-18 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S13133)
+- 2007-10-18 — Received in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S13133)
