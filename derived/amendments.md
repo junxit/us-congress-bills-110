@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3678
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -69,11 +69,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `47 U.S.C. § 151` | add-at-end | Section 1104 of the Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | strike | in paragraph (1) by striking “services”, | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 151` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 1104 of the Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `47 U.S.C. § 153` | strike | in paragraph (1) by striking “services”, | the bill quotes the text struck but describes what replaces it |
+| `47 U.S.C. § 153` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 153` | amend | by amending paragraph (9) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | add-at-end | in paragraph (10) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 153` | add-at-end | in paragraph (10) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 151` | strike | in the heading by striking “services”, | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 151` | insert | by inserting before the period at the end the following: “or to otherwise enable users to access content, information or other services offered over the Internet”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 151` | strike | The Internet Tax Freedom Act (47 U.S.C. 151 note) is amended by striking section 1108. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

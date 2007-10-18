@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3678
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3678
@@ -52,3 +52,5 @@ Internet Tax Freedom Act Amendments Act of 2007
 - 2007-10-16 — Mr. Watt moved to suspend the rules and pass the bill, as amended.
 - 2007-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2 (Roll no. 968). (text: CR H11567-11568)
 - 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2 (Roll no. 968).(text: CR H11567-11568)
+- 2007-10-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-10-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 429.
