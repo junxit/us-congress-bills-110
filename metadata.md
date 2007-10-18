@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3564
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3564
@@ -16,9 +16,11 @@ Regulatory Improvement Act of 2007
 
 - Rep. Cannon, Chris [R-UT-3] (C000116)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
 ## Committees (1)
 
@@ -29,3 +31,11 @@ Regulatory Improvement Act of 2007
 - 2007-09-18 — Introduced in House
 - 2007-09-18 — Introduced in House
 - 2007-09-18 — Referred to the House Committee on the Judiciary.
+- 2007-09-19 — Forwarded by Subcommittee to Full Committee .
+- 2007-09-19 — Referred to the Subcommittee on Commercial and Administrative Law.
+- 2007-09-19 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-10-10 — Committee Consideration and Mark-up Session Held.
+- 2007-10-10 — Ordered to be Reported by Voice Vote.
+- 2007-10-18 — Placed on the Union Calendar, Calendar No. 244.
+- 2007-10-18 — Reported by the Committee on Judiciary. H. Rept. 110-390.
+- 2007-10-18 — Reported by the Committee on Judiciary. H. Rept. 110-390.
