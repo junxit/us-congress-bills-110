@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1483
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1483
@@ -16,7 +16,7 @@ Celebrating America's Heritage Act
 
 - Rep. Regula, Ralph [R-OH-16] (R000141)
 
-## Cosponsors (17)
+## Cosponsors (22)
 
 - Rep. Tierney, John F. [D-MA-6] (T000266)
 - Rep. McNulty, Michael R. [D-NY-21] (M000590)
@@ -35,6 +35,11 @@ Celebrating America's Heritage Act
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Barrett, J. Gresham [R-SC-3] (B001239)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
 ## Committees (1)
 
@@ -45,3 +50,11 @@ Celebrating America's Heritage Act
 - 2007-03-12 — Introduced in House
 - 2007-03-12 — Introduced in House
 - 2007-03-12 — Referred to the House Committee on Natural Resources.
+- 2007-03-15 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-05-15 — Subcommittee Hearings Held.
+- 2007-09-26 — Committee Consideration and Mark-up Session Held.
+- 2007-09-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 12.
+- 2007-09-26 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2007-10-18 — Placed on the Union Calendar, Calendar No. 242.
+- 2007-10-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-388.
+- 2007-10-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-388.
