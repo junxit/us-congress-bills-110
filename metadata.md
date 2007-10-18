@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2095
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2095
@@ -113,9 +113,10 @@ Railroad Safety Enhancement Act of 2008
 - Rep. Boren, Dan [D-OK-2] (B001254)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -178,3 +179,4 @@ Railroad Safety Enhancement Act of 2008
 - 2007-10-17 — The Speaker designated the Honorable Earl Pomeroy to act as Chairman of the Committee.
 - 2007-10-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11695)
 - 2007-10-17 — The previous question was ordered pursuant to the rule. (consideration: CR H11694)
+- 2007-10-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
