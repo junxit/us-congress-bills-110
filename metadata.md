@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 225
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 225
@@ -30,9 +30,10 @@ Honoring the 50th anniversary of the dawn of the Space Age, and the ensuing 50 y
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,5 @@ Honoring the 50th anniversary of the dawn of the Space Age, and the ensuing 50 y
 - 2007-10-16 — Mr. Lampson moved to suspend the rules and agree to the resolution.
 - 2007-10-16 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11612)
 - 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11612)
+- 2007-10-17 — Received in the Senate.
+- 2007-10-18 — Referred to the Committee on Commerce, Science, and Transportation.
