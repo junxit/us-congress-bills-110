@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 258
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 258
@@ -32,3 +32,5 @@ A resolution recognizing the historical and educational significance of the Atla
 - 2007-09-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-09-27 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-09-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 399.
+- 2007-10-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S13134; text as passed Senate: CR S13134)
+- 2007-10-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S13134; text as passed Senate: CR S13134)
