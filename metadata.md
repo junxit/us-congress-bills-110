@@ -1,7 +1,7 @@
 ---
 measure: S. 2131
 congress: 110
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 2131
@@ -28,3 +28,6 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2007-10-03 — Introduced in Senate
 - 2007-10-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-10-19 — Ordered placed on Senate Legislative Calendar under General Orders. Calendar No. 433.
+- 2007-10-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2007-10-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
