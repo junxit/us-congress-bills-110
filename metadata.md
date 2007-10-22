@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3564
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3564
@@ -39,3 +39,9 @@ Regulatory Improvement Act of 2007
 - 2007-10-18 — Placed on the Union Calendar, Calendar No. 244.
 - 2007-10-18 — Reported by the Committee on Judiciary. H. Rept. 110-390.
 - 2007-10-18 — Reported by the Committee on Judiciary. H. Rept. 110-390.
+- 2007-10-22 — Considered under suspension of the rules. (consideration: CR H11809-11811)
+- 2007-10-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3564.
+- 2007-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-22 — Ms. Sanchez, Linda T. moved to suspend the rules and pass the bill.
+- 2007-10-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11810)
+- 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11810)
