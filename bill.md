@@ -36,9 +36,9 @@ The purposes of this Act are—
   - **(4)** *Employer* The term employer means—
     - **(A)** a person engaged in an industry affecting commerce (as defined in section (701)(h) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(h)) who has 15 or more employees (as defined in subparagraphs (A)(i) and (B) of paragraph (3)) for each working day in each of 20 or more calendar weeks in the current or preceding calendar year, and any agent of such a person, but does not include a bona fide private membership club (other than a labor organization) that is exempt from taxation under section 501(c) of the Internal Revenue Code of 1986;
     - **(B)** an employing authority to which section 302(a)(1) of the Government Employee Rights Act of 1991 applies;
-    - **(C)** an employing office, as defined in section 101 of the Congressional Accountability Act of 1995 or section 411(c) of title 3, United States Code, or; and
+    - **(C)** an employing office, as defined in section 101 of the Congressional Accountability Act of 1995 or section 411(c) of title 3, United States Code; or
     - **(D)** an entity to which section 717(a) of the Civil Rights Act of 1964 applies.
-  - **(5)** *Employment agency* The term employment agency has the meaning given the term in section 701(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(c))
+  - **(5)** *Employment agency* The term employment agency has the meaning given the term in section 701(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(c)).
   - **(6)** *Labor organization* The term labor organization has the meaning given the term in section 701(d) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(d)).
   - **(7)** *Person* The term person has the meaning given the term in section 701(a) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(a)).
   - **(8)** *Religious organization* The term religious organization means—
@@ -107,7 +107,7 @@ The Commission shall not collect statistics on actual or perceived sexual orient
   - **(4)** the Attorney General shall have the same powers as the Attorney General has to administer and enforce—
     - **(A)** title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.); or
     - **(B)** sections 302 and 304 of the Government Employee Rights Act of 1991 (42 U.S.C. 2000e–16b and 2000e–16c);
-  - **(5)** the President, the Commission, and the Merit Systems Protection Board shall have the same powers as the President, the Commission, and the Board, respectively, have to administer and enforce chapter 5 of title 3, United States Code, in the case of a claim alleged by such individual for a violation of section 411 of such title;
+  - **(5)** the President, the Commission, and the Merit Systems Protection Board shall have the same powers as the President, the Commission, and the Board, respectively, have to administer and enforce chapter 5 of title 3, United States Code, in the case of a claim alleged by such individual for a violation of section 411 of such title; and
   - **(6)** a court of the United States shall have the same jurisdiction and powers as the court has to enforce—
     - **(A)** title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.) in the case of a claim alleged by such individual for a violation of such title;
     - **(B)** sections 302 and 304 of the Government Employee Rights Act of 1991 (42 U.S.C. 2000e–16b and 2000e–16c) in the case of a claim alleged by such individual for a violation of section 302(a)(1) of such Act (42 U.S.C. 2000e–16b(a)(1));
