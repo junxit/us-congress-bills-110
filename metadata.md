@@ -1,7 +1,7 @@
 ---
 measure: S. 2035
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2035
@@ -16,10 +16,13 @@ Free Flow of Information Act of 2007
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 
 ## Committees (1)
 
@@ -30,3 +33,8 @@ Free Flow of Information Act of 2007
 - 2007-09-10 — Introduced in Senate
 - 2007-09-10 — Read twice and referred to the Committee on the Judiciary.
 - 2007-09-10 — Sponsor introductory remarks on measure. (CR S11329-11330)
+- 2007-09-27 — Committee on the Judiciary. Committee consideration and Mark Up Session held.
+- 2007-10-04 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2007-10-22 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2007-10-22 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2007-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.
