@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 721
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 721
@@ -16,7 +16,7 @@ Recognizing the 60th anniversary of the Mendez v. Westminster decision which end
 
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
@@ -32,6 +32,7 @@ Recognizing the 60th anniversary of the Mendez v. Westminster decision which end
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
 
 ## Committees (1)
 
@@ -42,3 +43,9 @@ Recognizing the 60th anniversary of the Mendez v. Westminster decision which end
 - 2007-10-09 — Introduced in House
 - 2007-10-09 — Introduced in House
 - 2007-10-09 — Referred to the House Committee on the Judiciary.
+- 2007-10-22 — Considered under suspension of the rules. (consideration: CR H11811-11814)
+- 2007-10-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 721.
+- 2007-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-22 — Ms. Sanchez, Linda T. moved to suspend the rules and agree to the resolution.
+- 2007-10-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11812)
+- 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11812)
