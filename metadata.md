@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3775
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3775
@@ -26,3 +26,16 @@ Industrial Energy Efficiency Research and Development Act of 2007
 - 2007-10-09 — Introduced in House
 - 2007-10-09 — Referred to the House Committee on Science and Technology.
 - 2007-10-09 — Referred to the Subcommittee on Energy and Environment.
+- 2007-10-10 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-10-10 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-10-16 — Committee Consideration and Mark-up Session Held.
+- 2007-10-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-10-22 — Considered under suspension of the rules. (consideration: CR H11820-11822)
+- 2007-10-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3775.
+- 2007-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-22 — Mr. Lampson moved to suspend the rules and pass the bill, as amended.
+- 2007-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11821)
+- 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11821)
+- 2007-10-22 — Placed on the Union Calendar, Calendar No. 255.
+- 2007-10-22 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-401.
+- 2007-10-22 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-401.
