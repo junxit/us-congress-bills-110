@@ -20,6 +20,7 @@ In this Act:
 - **(1)** *Public land* The term “public land” means the approximately 622 acres of Federal land managed by the Bureau of Land Management and identified for conveyance on the map prepared by the Bureau of Land Management entitled “Douglas County Public Utility District Proposal” and dated March 2, 2006.
 - **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 - **(3)** *PUD* The term “PUD” means the Public Utility District No. 1 of Douglas County, Washington.
+- **(4)** *Wells hydroelectric project* The term “Wells Hydroelectric Project” means Federal Energy Regulatory Commission Project No. 2149.
 
 ## § 3. Conveyance of public land, Wells Hydroelectric Project, Public Utility District No. 1 of Douglas County, Washington
 
@@ -28,7 +29,7 @@ In this Act:
 - **(c)** *Payment* Not later than 30 days after the date on which the public land is conveyed under this section, the PUD shall pay to the Secretary an amount equal to the appraised value of the public land as determined under subsection (b).
 - **(d)** *Map and legal descriptions* As soon as practicable after the date of enactment of this Act, the Secretary shall finalize legal descriptions of the public land to be conveyed under this section. The Secretary may correct any minor errors in the map referred to in section 2 or in the legal descriptions. The map and legal descriptions shall be on file and available for public inspection in appropriate offices of the Bureau of Land Management.
 - **(e)** *Costs of conveyance* As a condition of conveyance, any costs related to the conveyance under this section shall be paid by the PUD.
-- **(f)** *Disposition of proceeds* The Secretary shall deposit the proceeds from the sale in the working capital fund of the Bureau of Land Management established by section 306 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1736).
+- **(f)** *Disposition of proceeds* The Secretary shall deposit the proceeds from the sale in the Federal Land Disposal Account established by section 206 of the Federal Land Transaction Facilitation Act (43 U.S.C. 2305) to be expended to improve access to public lands administered by the Bureau of Land Management in the State of Washington.
 
 ## § 4. Segregation of lands
 
@@ -37,3 +38,7 @@ In this Act:
   - **(2)** location, entry, and patenting under the mining laws, and all amendments thereto; and
   - **(3)** operation of the mineral leasing, mineral materials, and geothermal leasing laws, and all amendments thereto.
 - **(b)** *Duration* This section expires two years after the date of enactment of this Act or on the date of the completion of the conveyance under section 3, whichever is earlier.
+
+## § 5. Retained authority
+
+The Secretary shall retain the authority to place conditions on the license to insure adequate protection and utilization of the public land granted to the Secretary in section 4(e) of the Federal Power Act (16 U.S.C. 797(e)) until the Federal Energy Regulatory Commission has issued a new license for the Wells Hydroelectric Project, to replace the original license expiring May 31, 2012, consistent with section 15 of the Federal Power Act (16 U.S.C. 808).
