@@ -1,7 +1,7 @@
 ---
 measure: H.R. 189
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 189
@@ -51,3 +51,12 @@ Paterson Great Falls National Historical Park Act of 2008
 - 2007-08-04 — Placed on the Union Calendar, Calendar No. 197.
 - 2007-08-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-310.
 - 2007-08-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-310.
+- 2007-10-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-10-22 — Considered as unfinished business. (consideration: CR H11818)
+- 2007-10-22 — Considered under suspension of the rules. (consideration: CR H11781-11785)
+- 2007-10-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 189.
+- 2007-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-22 — Mr. Grijalva moved to suspend the rules and pass the bill, as amended.
+- 2007-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 256 - 122 (Roll no. 983). (text: CR H11781-11782)
+- 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 256 - 122 (Roll no. 983).(text: CR H11781-11782)
+- 2007-10-22 — The title of the measure was amended. Agreed to without objection.

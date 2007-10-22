@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 189
 
-> To establish the Paterson Great Falls National Park in the State of New Jersey.
+> To establish the Paterson Great Falls National Historical Park in the State of New Jersey and for other purposes.
 
 ## § 1. Short title
 
