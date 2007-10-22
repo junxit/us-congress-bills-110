@@ -18,12 +18,17 @@ This Act may be cited as the “Presidential Library Donation Reform Act of 2007
 - **(a)** *In General* Section 2112 of title 44, United States Code, is amended by adding at the end the following new subsection:
   > - **(h)**
   >   - **(1)** Any Presidential library fundraising organization shall submit on a quarterly basis, in accordance with paragraph (2), information with respect to every contributor who gave the organization a contribution or contributions (whether monetary or in-kind) totaling $200 or more for the quarterly period.
+  > - **(h)**
+  >   - **(1)** Any Presidential library fundraising organization shall submit on a quarterly basis, in accordance with paragraph (2), information with respect to every contributor who—
+  >     - **(A)** with respect to a Presidential archival depository (including a depository of a President who currently holds the Office of President) for which the Archivist has not accepted, taken title to, or entered into an agreement to use any land or facility for the archival depository, gave the organization a contribution or contributions (whether monetary or in-kind) totaling $200 or more for the quarterly period; or
+  >     - **(B)** with respect to a Presidential archival depository for which the Archivist has accepted, taken title to, or entered into an agreement to use any land or facility for the archival depository, gave the organization a contribution or contributions (whether monetary or in-kind) totaling $1,250 or more for the quarterly period.
   >   - **(2)** For purposes of paragraph (1)—
   >     - **(A)** the entities to which information shall be submitted under that paragraph are the Administration, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate;
   >     - **(B)** the dates by which information shall be submitted under that paragraph are April 15, July 15, October 15, and January 15 of each year and of the following year (for the fourth quarterly filing);
   >     - **(C)** the requirement to submit information under that paragraph shall continue until the later of the following occurs:
   >       - **(i)** The Archivist has accepted, taken title to, or entered into an agreement to use any land or facility for the archival depository.
   >       - **(ii)** The President whose archives are contained in the depository no longer holds the Office of President and a period of four years has expired (beginning on the date the President left the Office).
+  >     - **(C)** the requirement to submit information under that paragraph shall continue to apply to a Presidential library fundraising organization during the lifetime of the President whose archives benefit from such fundraising.
   >   - **(3)** In this subsection:
   >     - **(A)** The term “Presidential library fundraising organization” means an organization that is established for the purpose of raising funds for creating, maintaining, expanding, or conducting activities at—
   >       - **(i)** a Presidential archival depository; or
