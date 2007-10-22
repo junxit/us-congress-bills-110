@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1254
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1254
@@ -62,3 +62,7 @@ Presidential Library Donation Reform Act of 2007
 - 2007-03-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 34 (Roll no. 142). (text: CR H2493-2494)
 - 2007-03-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 34 (Roll no. 142).(text: CR H2493-2494)
 - 2007-03-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2007-10-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-202.
+- 2007-10-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-202.
+- 2007-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.
