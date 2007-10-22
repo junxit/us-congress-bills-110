@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1337
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1337
@@ -20,6 +20,10 @@ To provide for a feasibility study of alternatives to augment the water supplies
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2007-07-11 — [House 110-1-616](votes/house-110-1-0616.md) — On Motion to Suspend the Rules and Pass, as Amended — **Failed** (208–211)
+
 ## Actions
 
 - 2007-03-06 — Introduced in House
@@ -37,3 +41,13 @@ To provide for a feasibility study of alternatives to augment the water supplies
 - 2007-07-10 — Placed on the Union Calendar, Calendar No. 137.
 - 2007-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-221.
 - 2007-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-221.
+- 2007-07-11 — Considered as unfinished business. (consideration: CR H7628)
+- 2007-07-11 — Failed of passage/not agreed to in House: On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 208 - 211 (Roll no. 616).(text: CR 7/10/2007 CR H7443)
+- 2007-07-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-07-11 — On motion to suspend the rules and pass the bill, as amended Failed by the Yeas and Nays: (2/3 required): 208 - 211 (Roll no. 616). (text: CR 7/10/2007 CR H7443)
+- 2007-10-22 — Considered under suspension of the rules. (consideration: CR H11802-11803)
+- 2007-10-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1337.
+- 2007-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-22 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2007-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11802-11803)
+- 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11802-11803)
