@@ -1,0 +1,43 @@
+---
+measure: H.R. 3919
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 3919
+
+Broadband Census of America Act of 2007
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+
+## Cosponsors (12)
+
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Wilson, Heather [R-NM-1] (W000789)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
+## Actions
+
+- 2007-10-22 — Introduced in House
+- 2007-10-22 — Introduced in House
+- 2007-10-22 — Referred to the House Committee on Energy and Commerce.
+- 2007-10-22 — Sponsor introductory remarks on measure. (CR E2196-2197)
