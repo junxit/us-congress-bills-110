@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3867
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3867
@@ -32,3 +32,8 @@ Small Business Contracting Program Improvements Act
 - 2007-10-17 — Introduced in House
 - 2007-10-17 — Introduced in House
 - 2007-10-17 — Referred to the House Committee on Small Business.
+- 2007-10-18 — Committee Consideration and Mark-up Session Held.
+- 2007-10-18 — Ordered to be Reported by the Yeas and Nays: 21 - 4.
+- 2007-10-22 — Placed on the Union Calendar, Calendar No. 254.
+- 2007-10-22 — Reported by the Committee on Small Business. H. Rept. 110-400.
+- 2007-10-22 — Reported by the Committee on Small Business. H. Rept. 110-400.
