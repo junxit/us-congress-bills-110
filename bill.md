@@ -57,15 +57,3 @@ This Act may be cited as the “Santa Ana River Water Supply Enhancement Act of 
   > - **(e)** *Sunset of Authority* This section shall have no effect after the date that is 10 years after the date of the enactment of this section.
 
 - **(b)** *Conforming Amendment* The table of sections in section 2 of Public Law 102–575 is further amended by inserting after the last item the following:
-
-## § 5. Center for technological advancement of membrane technology and education
-
-- **(a)** *In General* The Secretary of the Interior shall establish at the Orange County Water District located in Orange County, California, a center for the expressed purposes of providing—
-  - **(1)** assistance in the development and advancement of membrane technologies; and
-  - **(2)** educational support in the advancement of public understanding and acceptance of membrane produced water supplies.
-- **(b)** *Management of Center*
-  - **(1)** *Contracts* In establishing the center, the Secretary shall enter into contracts with the Orange County Water District for purposes of managing such center.
-  - **(2)** *Plan* Not later than 90 days after the date of enactment of this section, the Secretary, in consultation with the Orange County Water District, shall jointly prepare a plan, updated annually, identifying the goals and objectives of the center.
-- **(c)** *Authorization of Appropriations* There are authorized to carry out subsections (a) and (b), $2,000,000, for each of fiscal years 2008 through 2013. Such sums shall remain available until expended.
-- **(d)** *Report* Not later than one year after the date of enactment of this section and annually thereafter, the Secretary, in consultation with the Orange County Water District, shall provide a report to Congress on the status of the center and its accomplishments.
-- **(e)** *Sunset of Authority* This section shall have no effect after the date that is 10 years after the date of the enactment of this section.
