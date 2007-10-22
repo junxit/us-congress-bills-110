@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 751
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 751
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Chemistry Week.
 
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Cosponsors (12)
+## Cosponsors (15)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
@@ -30,6 +30,9 @@ Supporting the goals and ideals of National Chemistry Week.
 - Rep. Olver, John W. [D-MA-1] (O000085)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Pryce, Deborah [R-OH-15] (P000555)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
 
 ## Committees (1)
 
@@ -40,3 +43,9 @@ Supporting the goals and ideals of National Chemistry Week.
 - 2007-10-16 — Introduced in House
 - 2007-10-16 — Introduced in House
 - 2007-10-16 — Referred to the House Committee on Science and Technology.
+- 2007-10-22 — Considered under suspension of the rules. (consideration: CR H11816-11817)
+- 2007-10-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 751.
+- 2007-10-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-22 — Mr. Gordon moved to suspend the rules and agree to the resolution.
+- 2007-10-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H11816)
+- 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H11816)
