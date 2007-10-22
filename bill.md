@@ -60,7 +60,7 @@ Section 206 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6405) is amend
 >     - **(A)** *In general* This subsection shall not apply to any coral reef that is subject to the jurisdiction of a State unless the Governor of that State notifies the Secretary that the State consents to that application.
 >     - **(B)** *Revocation of consent* The governor of a State may revoke consent under subparagraph (A) by notifying the Secretary of such revocation.
 >   - **(4)** *Consistency with international law and treaties* Any action taken under the authority of this subsection must be consistent with otherwise applicable international law and treaties.
->   - **(5)** *Actions authorized with respect to vessels* Actions authorized under this subsection include vessel removal, and emergency re-stabilization of a vessel and any coral reef that is impacted by a vessel.
+>   - **(5)** *Actions authorized with respect to vessels* Actions authorized under this subsection include vessel removal, and emergency re-stabilization of a vessel and any coral reef that is impacted by a vessel
 >   - **(6)** *Regulations* The Secretary may issue regulations necessary to implement this subsection.
 
 ## § 4. National program
@@ -73,9 +73,9 @@ Section 206 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6405) is amend
     > - **(7)** to recognize the benefits of healthy coral reefs to island and coastal communities and to encourage Federal action to ensure, to the maximum extent practicable, the continued availability of those benefits.
 
 - **(b)** *Goals and objectives of national coral reef action strategy* Section 203(b)(8) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6402(b)(8)) is amended to read as follows:
-  > - **(8)** conservation, including resilience and the consideration of island and local traditions and practices.
+  > - **(8)** conservation, including the consideration of island and local traditions and practices.
 
-- **(c)** *Amendments relating to activities to conserve coral reefs and coral reef ecosystems* Section 207(b) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6406) is amended—
+- **(c)** *Amendments relating to activities To conserve coral reefs and coral reef ecosystems* Section 207(b) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6406) is amended—
   - **(1)** in paragraph (3) by striking “and” after the semicolon;
   - **(2)** in paragraph (4)—
     - **(A)** by striking “cooperative conservation” and inserting “cooperative research, conservation,”; and
@@ -185,19 +185,14 @@ Section 208 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6407) is amend
 
 - **(a)** *Amendments and clarifications to definitions*
   - **(1)** *Fish and Wildlife Coordination Act* Section 8 of the Fish and Wildlife Coordination Act (16 U.S.C. 666b) is amended by inserting before the period at the end the following: “, including coral reef ecosystems (as such term is defined in section 214 of the Coral Reef Conservation Act of 2000)”.
-  - **(2)** *Fish and Wildlife Act of 1956 and Fish and Wildlife Improvement Act of 1978* With respect to the authorities under the Fish and Wildlife Act of 1956 (16 U.S.C. 742a et seq.) and the authorities under the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l), references in such Acts to “wildlife” and “fish and wildlife” shall be construed to include coral reef ecosystems (as such term is defined in section 214 of the Coral Reef Conservation Act of 2000, as amended by this Act).
+  - **(2)** *Fish and Wildlife Act of 1956 and Fish and Wildlife Improvement Act of 1978* With respect to the authorities under the Fish and Wildlife Act of 1956 (16 U.S.C. 742a et. seq) and the authorities under the Fish and Wildlife Improvement Act of 1978 (16 U.S.C. 742l), references in such Acts to “wildlife” and “fish and wildlife” shall be construed to include coral reef ecosystems (as such term is defined in section 214 of the Coral Reef Conservation Act of 2000, as amended by this Act).
 - **(b)** *Coral reef conservation assistance* The Secretary of the Interior may provide technical assistance and, subject to the availability of appropriations, financial assistance to coastal States (as that term is defined in the Coral Reef Conservation Act of 2000, as amended by this Act).
 
 ## § 8. Clarification of definitions
 
 Section 214 of the Coral Reef Conservation Act of 2000, as redesignated by section 6(a) of this Act (relating to definitions; 16 U.S.C. 6409), is further amended—
 
-- **(1)** by amending paragraph (1) to read as follows:
-  > - **(1)** *Administrator* The term “Administrator”—
-  >   - **(A)** except as provided in subparagraph (B), means the Administrator of the National Oceanic and Atmospheric Administration; and
-  >   - **(B)** in sections 206 and 209, means the Secretary of the Interior for purposes of application of those sections to national parks, national wildlife refuges, and Wake Island.
-
-- **(2)** by amending paragraph (2) to read as follows:
+- **(1)** by amending paragraph (2) to read as follows:
   > - **(2)** *Conservation* The term ‘conservation’ means the use of methods and procedures that are necessary to preserve or sustain coral reefs and associated species as diverse, viable, and self-perpetuating coral reef ecosystems, including—
   >   - **(A)** all activities associated with resource management, such as assessment, conservation, protection, restoration, sustainable use, and management of habitat;
   >   - **(B)** mapping;
@@ -208,27 +203,23 @@ Section 214 of the Coral Reef Conservation Act of 2000, as redesignated by secti
   >   - **(G)** community outreach and education; and
   >   - **(H)** activities that promote safe and ecologically sound navigation.
 
-- **(3)** by amending paragraph (3) to read as follows:
+- **(2)** by amending paragraph (3) to read as follows:
   > - **(3)** *Coral* The term ‘coral’ means species of the phylum Cnidaria, including—
   >   - **(A)** all species of the orders Antipatharia (black corals), Scleractinia (stony corals), Gorgonacea (horny corals), Stolonifera (organpipe corals and others), Alcyonacea (soft corals), and Helioporacea (blue coral), of the class Anthozoa; and
   >   - **(B)** all species of the families Milleporidae (fire corals) and Stylasteridae (stylasterid hydrocorals), of the class Hydrozoa.
 
-- **(4)** by amending paragraph (4) to read as follows:
+- **(3)** by amending paragraph (4) to read as follows:
   > - **(4)** *Coral reef* The term “coral reef” means a limestone structure composed in whole or in part of living zooxanthellate stony corals (Class Anthozoa, Order Scleractinia), their skeletal remains, or both.
 
-- **(5)** by amending paragraph (5) to read as follows:
-  > - **(5)** *Coral reef ecosystem* The term “coral reef ecosystem” means a system of coral reefs and geographically associated species, habitats, and environment, including mangroves and seagrass habitats, and the processes that control its dynamics.
-
-- **(6)** by amending paragraph (7) to read as follows:
+- **(4)** by amending paragraph (7) to read as follows:
   > - **(7)** *Secretary* The term ‘Secretary’—
-  >   - **(A)** except as provided in subparagraphs (B) and (C), means the Secretary of Commerce;
-  >   - **(B)** in section 206(e), means—
+  >   - **(A)** except as provided in subparagraph (B), means the Secretary of Commerce; and
+  >   - **(B)** in sections 203, 206(e), and 209, means—
   >     - **(i)** the Secretary of the Interior, with respect to any coral reef or component thereof that is located in—
   >       - **(I)** the National Wildlife Refuge System;
   >       - **(II)** the National Park System; or
-  >       - **(III)** the waters surrounding Wake Island under the jurisdiction of the Secretary of the Interior, as set forth in Executive Order No. 11048 (27 Fed. Reg. 8851), dated September 4, 1962; or
-  >     - **(ii)** the Secretary of Commerce, with respect to any other coral reef or component thereof; and
-  >   - **(C)** in sections 203 and 209, means the Secretary of Commerce and the Secretary of the Interior.
+  >       - **(III)** the waters surrounding Wake Island under the jurisdiction of the Secretary of the Interior, as set forth in Executive Order 11048 (27 Fed. Reg. 8851), dated September 4, 1962; or
+  >     - **(ii)** the Secretary of Commerce, with respect to any other coral reef or component thereof.
 
 ## § 9. Authorization of appropriations
 
@@ -244,18 +235,7 @@ Section 213 of the Coral Reef Conservation Act of 2000 (formerly 16 U.S.C. 6408)
 - **(4)** by striking subsection (d) and inserting the following:
   > - **(d)** *Department of the Interior* There is authorized to be appropriated to the Secretary of the Interior to carry out this title $5,000,000 for each of fiscal years 2008 through 2012.
 
-## § 10. Ensuring resilience
-
-- **(a)** *Purposes* Section 202 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6401) is further amended by redesignating paragraphs (2) through (7) as paragraphs (3) through (8), respectively, and by inserting after paragraph (1) the following:
-  > - **(2)** to promote the resilience of coral reef ecosystems;
-
-- **(b)** *Criteria for Approval of project proposals* Section 204(g) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6403(g)) is further amended by striking “or” after the semicolon at the end of paragraph (10), by redesignating paragraph (11) as paragraph (12), and by inserting after paragraph (10) the following:
-  > - **(11)** improving and promoting the resilience of coral reefs and coral reef ecosystems; or
-
-- **(c)** *Activities authorized under national program* Section 207(b) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6406(b)) is further amended by striking “and” after the semicolon at the end of paragraph (4), by redesignating paragraph (5) as paragraph (6), and by inserting after paragraph (4) the following:
-  > - **(5)** improving and promoting the resilience of coral reefs and coral reef ecosystems; and
-
-## § 11. Funding for marine facilities, coral reef research, and coral reef institutes
+## § 10. Funding for marine facilities, coral reef research, and coral reef institutes
 
 - **(a)** *American Samoa community college* There is authorized to be appropriated $1,000,000 to the Secretary of Commerce, acting through the National Oceanic and Atmospheric Administration, to provide funds to a research facility for coral reef research and protection, and coastal ecology and development, at the American Samoa Community College.
 - **(b)** *University of Guam* There is authorized to be appropriated $1,000,000 to the Secretary of Commerce, acting through the National Oceanic and Atmospheric Administration, to provide funds to the University of Guam for coral reef research and protection.
