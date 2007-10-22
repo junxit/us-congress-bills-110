@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 3925
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3925
+
+> To direct the Administrator of the Federal Aviation Administration to issue an order regarding secondary cockpit barriers.
+
+## § 1. Findings
+
+Congress makes the following findings:
+
+- **(1)** The safety and security of the civil air transportation system is critical to the United States security and its national defense.
+- **(2)** A safe and secure United States civil air transportation system is essential to the basic freedom of Americans to move in intrastate, interstate, and international transportation.
+- **(3)** Terrorists have previously used planes as weapons and exploited United States aviation security.
+- **(4)** Reinforced cockpit doors that must be opened for physiological and operational needs present a clear vulnerability when the doors are open and this compromises the security and safety of the aircraft and its passengers.
+- **(5)** Many all-cargo aircraft do not have a cockpit door installed for protection from passenger aggressors and stowaways.
+
+## § 2. Improved Flight Deck Integrity Measures
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Aviation Administration shall issue an order—
+  - **(1)** requiring the installation of secondary barriers preventing access to the flight deck of any commercial aircraft operating under part 121 of title 14, Code of Federal Regulations; and
+  - **(2)**
+    - **(A)** for an aircraft that is equipped with a cockpit door, requiring that such secondary barriers remain locked while the aircraft is in flight and the cockpit door separating the flight deck and the passenger area is open; and
+    - **(B)** for an aircraft that is not equipped with a cockpit door, requiring that such secondary barriers remain locked as determined by the pilot in command.
+- **(b)** *Considerations* In issuing an order under this section, the Administrator shall take into account—
+  - **(1)** the most promising and cost effective of the available technologies relating to secondary barriers described in subsection (a); and
+  - **(2)** the cost and time schedule for deploying such barriers.
