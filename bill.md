@@ -21,7 +21,7 @@ This Act may be cited as the “Refuge Ecology Protection, Assistance, and Immed
   - **(3)** More than 675 known harmful nonnative species are found in the National Wildlife Refuge System.
   - **(4)** Nearly 8 million acres of the National Wildlife Refuge System contain harmful nonnative species.
   - **(5)** The cost of early identification and removal of harmful nonnative species is dramatically lower than removing an established invasive population.
-  - **(6)** The cost of the backlog of harmful nonnative species control projects that need to be carried out in the National Wildlife Refuge System is over $250,000,000, and the failure to carry out such projects threatens the ability of the System to fulfill its basic mission.
+  - **(6)** The cost of the backlog of harmful nonnative species control projects that need to be carried out in the National Wildlife Refuge System is over $361,000,000, and the failure to carry out such projects threatens the ability of the System to fulfill its basic mission.
 - **(b)** *Purpose* The purpose of this Act is to encourage partnerships among the United States Fish and Wildlife Service, other Federal agencies, States, Indian tribes, and other interests for the following objectives:
   - **(1)** To protect, enhance, restore, and manage a diversity of habitats for native fish and wildlife resources within the National Wildlife Refuge System through control of harmful nonnative species.
   - **(2)** To promote the development of voluntary State assessments to establish priorities for controlling harmful nonnative species that threaten or negatively impact refuge resources.
@@ -32,16 +32,16 @@ This Act may be cited as the “Refuge Ecology Protection, Assistance, and Immed
 
 For the purposes of this Act:
 
-- **(1)** *Advisory committee* The term Advisory Committee means the Invasive Species Advisory Committee established by section 3 of Executive Order 13112, dated February 3, 1999.
-- **(2)** *Appropriate Committees* The term appropriate Committees means the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+- **(1)** *Advisory committee* The term Advisory Committee means the Invasive Species Advisory Committee established by section 3 of Executive Order No. 13112, dated February 3, 1999.
+- **(2)** *Appropriate Committees* The term appropriate Committees means the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 - **(3)** *Control* The term control means, as appropriate, eradicating, suppressing, reducing, or managing harmful nonnative species from areas where they are present; taking steps to detect early infestations on at-risk native habitats; and restoring native species and habitats to reduce the effects of harmful nonnative species.
 - **(4)** *Environmental soundness* The term environmental soundness means the extent of inclusion of methods, efforts, actions, or programs to prevent or control infestations of harmful nonnative species, that—
   - **(A)** minimize adverse impacts to the structure and function of an ecosystem and adverse effects on nontarget species and ecosystems; and
   - **(B)** emphasize integrated management techniques.
 - **(5)** *Harmful nonnative species* The term harmful nonnative species means, with respect to a particular ecosystem in a particular region, any species, including its seeds, eggs, spores, or other biological material capable of propagating that species, that is not native to that ecosystem and has a demonstrable or potentially demonstrable negative environmental or economic impact in that region.
 - **(6)** *Indian tribe* The term Indian tribe has the meaning given that term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
-- **(7)** *National Management Plan* The term National Management Plan means the management plan referred to in section 5 of Executive Order 13112 of February 3, 1999, and entitled “Meeting the Invasive Species Challenge”.
-- **(8)** *Refuge resources* The term refuge resources means all lands and waters, including the fish and wildlife species and the ecosystems and habitats therein, that are owned and managed by the Federal Government through the United States Fish and Wildlife Service and located within the National Wildlife Refuge System administered under the National Wildlife Refuge Administration Act of 1966 (16 U.S.C. 668dd et seq.).
+- **(7)** *National Management Plan* The term National Management Plan means the management plan referred to in section 5 of Executive Order No. 13112 of February 3, 1999, and entitled “Meeting the Invasive Species Challenge”.
+- **(8)** *Refuge resources* The term refuge resources means all lands and waters, including the fish and wildlife species and the ecosystems and habitats therein, that are owned and managed by the Federal Government through the United States Fish and Wildlife Service and located within the National Wildlife Refuge System administered under the National Wildlife Refuge Administration Act of 1966 (16 U.S.C. 668dd et seq.), including any waterfowl production area.
 - **(9)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
 - **(10)** *State* The term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any other territory or possession of the United States, and any Indian tribe.
 
@@ -67,9 +67,9 @@ For the purposes of this Act:
   - **(2)** consult with the Secretary regarding whether proposed control projects are qualified control projects; and
   - **(3)** carry out functions relating to monitoring control projects under subsection (j).
 - **(d)** *Eligible applicant* To be an eligible applicant for purposes of subsection (a)(1), an applicant shall—
-  - **(1)** be a State, local government, interstate or regional agency, or private person;
+  - **(1)** be a State, local government, interstate or regional agency, university, or private person;
   - **(2)** have adequate personnel, funding, and authority to carry out and monitor or maintain a control project; and
-  - **(3)** have entered into an agreement with a national wildlife refuge or refuge complex.
+  - **(3)** have entered into an agreement with the Secretary or a designee of the Secretary, for a national wildlife refuge or refuge complex.
 - **(e)** *Qualified control project*
   - **(1)** *In general* To be a qualified control project under this section, a project shall—
     - **(A)** control harmful nonnative species on the lands or waters on which it is conducted;
@@ -123,7 +123,7 @@ For the purposes of this Act:
   - **(2)** *Report contents* A report under paragraph (1) shall include an assessment of—
     - **(A)** trends in the population size and distribution of harmful nonnative species in the project area for each control project carried out with a grant under this section, and in the adjacent areas as defined by the Secretary;
     - **(B)** data on the number of acres of refuge resources and native fish and wildlife habitat restored, protected, or enhanced under this section, including descriptions of, and partners involved with, control projects selected, in progress, and completed under this section;
-    - **(C)** trends in the population size and distribution of native species in the project areas, and in areas in proximity to refuge resources as defined by the Secretary;
+    - **(C)** trends in the population size and distribution in the project areas of native species targeted for restoration, and in areas in proximity to refuge resources as defined by the Secretary;
     - **(D)** an estimate of the long-term success of varying conservation techniques used in carrying out control projects with grants under this section;
     - **(E)** an assessment of the status of control projects carried out with grants under this section, including an accounting of expenditures by the United States Fish and Wildlife Service, State, regional, and local government agencies, and other entities to carry out such projects;
     - **(F)** a review of the environmental soundness of the control projects carried out with grants under this section;
@@ -136,7 +136,7 @@ For the purposes of this Act:
 ## § 5. Creation of an immediate response capability to harmful nonnative species
 
 - **(a)** *Establishment* The Secretary may provide financial assistance for a period of one fiscal year to enable an immediate response to outbreaks of harmful nonnative species that threaten or may negatively impact refuge resources that are at a stage at which rapid eradication or control is possible, and ensure eradication or immediate control of the harmful nonnative species.
-- **(b)** *Requirements for assistance* The Secretary shall provide assistance under this section, at the concurrence of the Governor of a State, to local and State agencies or nongovernmental entities for the eradication of an immediate harmful nonnative species threat only if—
+- **(b)** *Requirements for assistance* The Secretary shall provide assistance under this section, with the concurrence of the Governor of a State, to local and State agencies, universities, or nongovernmental entities for the eradication of an immediate harmful nonnative species threat only if—
   - **(1)** there is a demonstrated need for the assistance;
   - **(2)** the harmful nonnative species is considered to be an immediate threat to refuge resources, as determined by the Secretary; and
   - **(3)** the proposed response to such threat—
@@ -146,34 +146,40 @@ For the purposes of this Act:
 - **(d)** *Cost share* The Federal share of the cost of any activity carried out with assistance under this section may be up to 100 percent.
 - **(e)** *Monitoring and reporting* The Secretary shall require that persons receiving assistance under this section monitor and report on activities carried out with assistance under this section in accordance with the requirements that apply with respect to control projects carried out with assistance under section 4.
 
-## § 6. Cooperative Volunteer Invasives Monitoring and Control Program
+## § 6. Cooperative volunteer harmful non-native species monitoring and control program
 
-- **(a)** *In general* The Secretary shall establish a Cooperative Volunteer Invasives Monitoring and Control Program, under which the United States Fish and Wildlife Service and the United States Geological Survey may work with public interest organizations concerned with national wildlife refuges and volunteers to document and combat invasive species in national wildlife refuges.
-- **(b)** *Grants* Under the program, the Secretary may make grants to persons referred to in subsection (a) for projects to control and manage invasive species in national wildlife refuges and adjacent lands.
+- **(a)** *In general* Consistent with the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (Public Law 105–242), the Secretary shall establish a cooperative volunteer harmful non-native species monitoring and control program to administer and coordinate projects implemented by partner organizations concerned with national wildlife refuges to address harmful non-native species that threaten national wildlife refuges or adjacent lands.
+- **(b)** *Eligible activities* Each project administered and coordinated under this section shall include one of the following activities:
+  - **(1)** Habitat surveys.
+  - **(2)** Detection and identification of new introductions or infestations of harmful nonnative species.
+  - **(3)** Harmful non-native species control projects.
+  - **(4)** Public education and outreach to increase awareness concerning harmful non-native species and their threat to the refuge system.
 
 ## § 7. Relationship to other authorities
 
-Nothing in this Act affects authorities, responsibilities, obligations, or powers of the Secretary under any other statute.
+- **(a)** *Authorities, etc. of Secretary* Nothing in this Act affects authorities, responsibilities, obligations, or powers of the Secretary under any other statute.
+- **(b)** *State authority* Nothing in this Act preempts any provision or enforcement of State statute or regulation relating to the management of fish and wildlife resources within such State.
 
 ## § 8. Biennial report
 
-The Secretary shall prepare and submit to the Congress by not later than March 20, 2008, and biennially thereafter—
+The Secretary shall prepare and submit to the Congress by not later than 2 years after the date of the enactment of this Act and biennially thereafter—
 
 - **(1)** a comprehensive report summarizing all grant activities relating to invasive species initiated under this Act including—
   - **(A)** State assessment projects;
-  - **(B)** qualified control projects; and
-  - **(C)** immediate response activities;
+  - **(B)** qualified control projects;
+  - **(C)** immediate response activities; and
+  - **(D)** projects identified in the Refuge Operations Needs database or the Service Asset and Maintenance Management System database of the United States Fish and Wildlife Service.
 - **(2)** a list of grant priorities, ranked in high, medium, and low categories, for future grant activities in the areas of—
   - **(A)** early detection and rapid response;
   - **(B)** control, management, and restoration;
   - **(C)** research and monitoring;
   - **(D)** information management; and
-  - **(E)** public outreach and partnership efforts;
-- **(3)** a summary detailing progress in addressing operations and maintenance activities specific to invasive species identified in the Refuge Operations Needs database or the Service Asset and Maintenance Management System database of the United States Fish and Wildlife Service (or any successor to such a database); and
-- **(4)** information required to be included under section 4(k).
+  - **(E)** public outreach and partnership efforts; and
+- **(3)** information required to be included under section 4(k).
 
 ## § 9. Authorization of appropriations
 
 - **(a)** *In general* There are authorized to be appropriated to carry out this Act such sums as may be necessary.
-- **(b)** *Continuing availability* Amounts appropriated under this Act may remain available until expended.
-- **(c)** *Administrative expenses* Of amounts available each fiscal year to carry out this Act, the Secretary may expend not more than 5 percent to pay the administrative expenses necessary to carry out this Act.
+- **(b)** *Allowance for immediate response* Of the amounts appropriated to carry out this Act no more than 25 percent shall be available in any fiscal year for financial assistance under section 5.
+- **(c)** *Continuing availability* Amounts appropriated under this Act may remain available until expended.
+- **(d)** *Administrative expenses* Of amounts available each fiscal year to carry out this Act, the Secretary may expend not more than 3 percent or up to $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this Act.
