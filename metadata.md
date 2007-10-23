@@ -1,7 +1,7 @@
 ---
 measure: H.R. 53
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 53
@@ -16,9 +16,10 @@ Virgin Islands National Park School Lease Act
 
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Virgin Islands National Park School Lease Act
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 253.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-399.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-399.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
