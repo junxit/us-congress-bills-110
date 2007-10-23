@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3776
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3776
@@ -16,9 +16,10 @@ Energy Storage Technology Advancement Act of 2007
 
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Energy Storage Technology Advancement Act of 2007
 - 2007-10-22 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-402.
 - 2007-10-22 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-402.
 - 2007-10-22 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
