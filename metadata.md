@@ -1,7 +1,7 @@
 ---
 measure: H.R. 189
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 189
@@ -33,9 +33,10 @@ Paterson Great Falls National Historical Park Act of 2008
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -64,3 +65,4 @@ Paterson Great Falls National Historical Park Act of 2008
 - 2007-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 256 - 122 (Roll no. 983). (text: CR H11781-11782)
 - 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 256 - 122 (Roll no. 983).(text: CR H11781-11782)
 - 2007-10-22 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
