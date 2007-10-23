@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1205
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1205
@@ -26,10 +26,11 @@ Coral Reef Conservation Amendments Act of 2007
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Coral Reef Conservation Amendments Act of 2007
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 248.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-394, Part I.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-394, Part I.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
