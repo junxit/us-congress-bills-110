@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2197
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2197
@@ -25,9 +25,10 @@ Hopewell Culture National Historical Park Boundary Adjustment Act
 - Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Hopewell Culture National Historical Park Boundary Adjustment Act
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 245.
 - 2007-10-22 — Reported by the Committee on Natural Resources. H. Rept. 110-391.
 - 2007-10-22 — Reported by the Committee on Natural Resources. H. Rept. 110-391.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
