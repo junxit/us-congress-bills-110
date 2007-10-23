@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1803
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1803
@@ -20,9 +20,10 @@ San Diego Water Storage and Efficiency Act of 2007
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ San Diego Water Storage and Efficiency Act of 2007
 - 2007-10-22 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2007-10-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11804-11805)
 - 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11804-11805)
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
