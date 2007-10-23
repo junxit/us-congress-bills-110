@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1011
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -62,7 +62,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 1132` | replace | by striking the semicolon at the end of paragraphs (1) through (6) and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1132` | replace | by striking “; and” at the end of paragraph (7) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | amend | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1132` | replace | by striking the semicolon at the end of paragraphs (1) and (2) and inserting a period; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1132` | replace | by striking “; and” at the end of paragraph (3) and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
