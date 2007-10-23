@@ -1,7 +1,7 @@
 ---
 measure: H.R. 813
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 813
@@ -25,9 +25,10 @@ Santa Ana River Water Supply Enhancement Act of 2008
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Campbell, John [R-CA-48] (C001064)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Santa Ana River Water Supply Enhancement Act of 2008
 - 2007-10-22 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2007-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11803)
 - 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11803)
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
