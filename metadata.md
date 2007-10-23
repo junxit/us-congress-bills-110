@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1337
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1337
@@ -47,3 +47,4 @@ To provide for a feasibility study of alternatives to augment the water supplies
 - 2007-10-22 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
 - 2007-10-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11802-11803)
 - 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11802-11803)
+- 2007-10-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.
