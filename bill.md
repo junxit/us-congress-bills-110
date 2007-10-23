@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Homegrown Terrorism Prevention Act of 2007”.
+This Act may be cited as the “Violent Radicalization and Homegrown Terrorism Prevention Act of 2007”.
 
-## § 2. Prevention of homegrown terrorism
+## § 2. Prevention of violent radicalization and homegrown terrorism
 
 - **(a)** *In general* Title VIII of the Homeland Security Act of 2002 (6 U.S.C. 361 et seq.) is amended by adding at the end the following new subtitle:
 - **(b)** *Clerical amendment* The table of contents in section 1(b) of such Act is amended by inserting at the end of the items relating to title VIII the following:
