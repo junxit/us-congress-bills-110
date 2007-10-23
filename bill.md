@@ -2,7 +2,7 @@
 legis-num: H.R. 767
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 767
@@ -107,7 +107,7 @@ For the purposes of this Act:
   - **(3)** *Interim update* Each grantee under subsection (h)(1)(A) of this section shall also submit annually a brief synopsis to the Secretary, either electronically or in writing, that includes—
     - **(A)** a chronological list of project progress; and
     - **(B)** use of awarded funds.
-      - **(i)** *Cost Sharing for Projects*
+- **(i)** *Cost Sharing for Projects*
   - **(1)** *Federal share* Except as provided in paragraphs (2) and (3), the Federal share of the cost of a project carried out with a grant under this section shall not exceed 75 percent of such cost.
   - **(2)** *Innovative technology costs* The Federal share of the incremental additional cost of including in a control project any pilot testing or a demonstration of an innovative technology described in subsection (e)(2)(E) shall be 85 percent.
   - **(3)** *Projects on refuge lands or waters* The Federal share of the cost of the portion of a control project funded with a grant under this section that is carried out on national wildlife refuge lands or waters, including the cost of acquisition by the Federal Government of lands or waters for use for such a project, shall be 100 percent.

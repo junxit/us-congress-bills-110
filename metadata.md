@@ -1,7 +1,7 @@
 ---
 measure: H.R. 767
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 767
@@ -39,9 +39,10 @@ Refuge Ecology Protection, Assistance, and Immediate Response Act
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Refuge Ecology Protection, Assistance, and Immediate Response Act
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 251.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-397.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-397.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
