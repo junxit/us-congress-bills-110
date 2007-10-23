@@ -2,12 +2,12 @@
 legis-num: H.R. 830
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 830
 
-> To authorize the exchange of certain lands in Denali National Park in the State of Alaska.
+> To authorize the exchange of certain interests in land in Denali National Park in the State of Alaska.
 
 ## § 1. Short title
 
@@ -17,8 +17,8 @@ This Act may be cited as the “Denali National Park and Alaska Railroad Exchang
 
 In this Act:
 
-- **(1)** *Corporation* The term Corporation means the Alaska Railroad Corporation owned by the State of Alaska.
-- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(1)** *Corporation* The term “Corporation” means the Alaska Railroad Corporation owned by the State of Alaska.
+- **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 
 ## § 3. Exchange
 

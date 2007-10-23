@@ -1,7 +1,7 @@
 ---
 measure: H.R. 830
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 830
@@ -16,9 +16,10 @@ Denali National Park and Alaska Railroad Exchange Act of 2007
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Denali National Park and Alaska Railroad Exchange Act of 2007
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-395.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-395.
 - 2007-10-22 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
