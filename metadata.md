@@ -1,7 +1,7 @@
 ---
 measure: H.R. 523
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 523
@@ -16,9 +16,10 @@ Douglas County, Washington, PUD Conveyance Act
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Douglas County, Washington, PUD Conveyance Act
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 252.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-398.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-398.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
