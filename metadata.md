@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2868
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2868
@@ -43,3 +43,9 @@ To eliminate the exemption from State regulation for certain securities designat
 - 2007-10-15 — Placed on the Union Calendar, Calendar No. 237.
 - 2007-10-15 — Reported by the Committee on Financial Services. H. Rept. 110-380.
 - 2007-10-15 — Reported by the Committee on Financial Services. H. Rept. 110-380.
+- 2007-10-23 — Considered under suspension of the rules. (consideration: CR H11866-11868)
+- 2007-10-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2868.
+- 2007-10-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-23 — Mr. Meeks (NY) moved to suspend the rules and pass the bill, as amended.
+- 2007-10-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11866)
+- 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11866)
