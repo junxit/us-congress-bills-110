@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1205
 congress: 110
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 4 executed, 25 stated and not applied.
+34 amendatory instructions. 3 executed, 31 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `partners.` |
 | Inserted | `partners, including academic institutions located in those States, territories, and freely associated States referred to in section 212; and` |
 
-### 16 U.S.C. § 6401
+### 16 U.S.C. § 6404
 
 > in section 205(c) (16 U.S.C. 6404(c)), by striking “the grant program” and inserting “any grant program or emergency response action”;
 
@@ -50,15 +50,6 @@ to guess them.
 |---|---|
 | Removed | `the grant program` |
 | Inserted | `any grant program or emergency response action` |
-
-### 16 U.S.C. § 6408
-
-> in subsection (b) by striking “$1,000,000” and inserting “$2,000,000”;
-
-| | |
-|---|---|
-| Removed | `$1,000,000` |
-| Inserted | `$2,000,000` |
 
 ## Stated, not applied
 
@@ -75,22 +66,28 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 6403` | strike | by striking paragraph (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6403` | insert | by inserting after paragraph (9) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6405` | amend | Section 206 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6405) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6402` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6402` | add-at-end | by striking “and” after the semicolon at the end of paragraph (5), by striking the period at the end of paragraph (6) and inserting “; and”, and by adding at the end the following: | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `16 U.S.C. § 6402` | amend | Section 203(b)(8) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6402(b)(8)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6406` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6406` | add-at-end | by striking “and” after the semicolon at the end of paragraph (5), by striking the period at the end of paragraph (6) and inserting “; and”, and by adding at the end the following: | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `16 U.S.C. § 6406` | amend | Section 203(b)(8) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6402(b)(8)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6406` | strike | in paragraph (3) by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 6406` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6406` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6407` | amend | Section 208 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6407) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6401` | replace | in section 205(a) (16 U.S.C. 6404(a)), by striking “organization solely” and all that follows and inserting “organization— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6404` | add-at-end | by adding at the end of section 205(b) (16 U.S.C. 6404(b)) “The organization is encouraged to solicit funding and in-kind services from the private sector, including nongovernmental organizations, for emergency response actions under sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6401` | redesignate | by redesignating sections 209 and 210 as sections 213 and 214, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6401` | insert | by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6403` | amend | Section 204 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6403) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 666b` | insert | Section 8 of the Fish and Wildlife Coordination Act (16 U.S.C. 666b) is amended by inserting before the period at the end the following: “, including coral reef ecosystems (as such term is defined in section 214 of the Coral Reef Conserv… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1431` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6409` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6409` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6409` | amend | by amending paragraph (7) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6408` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6408` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 6408` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6404` | replace | in section 205(a) (16 U.S.C. 6404(a)), by striking “organization solely” and all that follows and inserting “organization— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6404` | amend | by adding at the end of section 205(b) (16 U.S.C. 6404(b)) “The organization is encouraged to solicit funding and in-kind services from the private sector, including nongovernmental organizations, for emergency response actions under sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6404` | redesignate | by redesignating sections 209 and 210 as sections 213 and 214, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6404` | insert | by inserting after section 208 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6403` | add-at-end | Section 204 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6403) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 742l` | insert | Section 8 of the Fish and Wildlife Coordination Act (16 U.S.C. 666b) is amended by inserting before the period at the end the following: “, including coral reef ecosystems (as such term is defined in section 214 of the Coral Reef Conserv… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (2) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (3) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (5) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending paragraph (7) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b) by striking “$1,000,000” and inserting “$2,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 6401` | redesignate | Section 202 of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6401) is further amended by redesignating paragraphs (2) through (7) as paragraphs (3) through (8), respectively, and by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6403` | redesignate | Section 204(g) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6403(g)) is further amended by striking “or” after the semicolon at the end of paragraph (10), by redesignating paragraph (11) as paragraph (12), and by inserting after… | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6406` | redesignate | Section 207(b) of the Coral Reef Conservation Act of 2000 (16 U.S.C. 6406(b)) is further amended by striking “and” after the semicolon at the end of paragraph (4), by redesignating paragraph (5) as paragraph (6), and by inserting after p… | the bill quotes the text struck but describes what replaces it |
