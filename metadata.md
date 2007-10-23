@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1808
@@ -16,7 +16,7 @@ To designate the Department of Veterans Affairs Medical Center in Augusta, Georg
 
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 
-## Cosponsors (74)
+## Cosponsors (82)
 
 - Rep. Deal, Nathan [R-GA-9] (D000168)
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
@@ -92,6 +92,14 @@ To designate the Department of Veterans Affairs Medical Center in Augusta, Georg
 - Rep. Weldon, Dave [R-FL-15] (W000267)
 - Rep. King, Steve [R-IA-5] (K000362)
 - Rep. Boustany, Charles W., Jr. [R-LA-7] (B001255)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
 
 ## Committees (1)
 
@@ -102,3 +110,11 @@ To designate the Department of Veterans Affairs Medical Center in Augusta, Georg
 - 2007-03-29 — Introduced in House
 - 2007-03-29 — Introduced in House
 - 2007-03-29 — Referred to the House Committee on Veterans' Affairs.
+- 2007-04-23 — Referred to the Subcommittee on Health.
+- 2007-10-23 — At the conclusion of debate, a recorded vote was demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-10-23 — Considered under suspension of the rules. (consideration: CR H11873-11878, H11887-11888)
+- 2007-10-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1808.
+- 2007-10-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-23 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2007-10-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 988). (text: CR H11873)
+- 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 988).(text: CR H11873)
