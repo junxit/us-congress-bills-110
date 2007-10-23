@@ -22,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(3)** by striking the semicolon at the end of paragraphs (1) through (6) and inserting a period;
   - **(4)** by striking “; and” at the end of paragraph (7) and inserting a period; and
   - **(5)** by adding at the end the following new paragraphs:
-    > - **(9)** Certain lands in the Jefferson National Forest, which comprise approximately 3,769 acres, as generally depicted on the map entitled “Brush Mountain and Brush Mountain East” and dated February 2007, and which shall be known as the Brush Mountain East Wilderness.
+    > - **(9)** Certain lands in the Jefferson National Forest, which comprise approximately 3,743 acres, as generally depicted on the map entitled “Brush Mountain and Brush Mountain East” and dated October 2007, and which shall be known as the Brush Mountain East Wilderness.
     > - **(10)** Certain lands in the Jefferson National Forest, which comprise approximately 4,794 acres, as generally depicted on the map entitled “Brush Mountain and Brush Mountain East” and dated February 2007, and which shall be known as the Brush Mountain Wilderness.
     > - **(11)** Certain lands in the Jefferson National Forest, which comprise approximately 4,223 acres, as generally depicted on the map entitled “Seng Mountain and Raccoon Branch” and dated February 2007, and which shall be known as the Raccoon Branch Wilderness.
     > - **(12)** Certain lands in the Jefferson National Forest, which comprise approximately 3,270 acres, as generally depicted on the map entitled “Stone Mountain” and dated February 2007, and which shall be known as the Stone Mountain Wilderness.
@@ -69,7 +69,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 4. Designation of Seng Mountain and Bear Creek Scenic Areas, Jefferson National Forest, Virginia
 
 - **(a)** *Establishment* The following National Forest System lands in the State of Virginia are hereby designated as National Scenic Areas (in this section referred to as the “scenic areas”):
-  - **(1)** Certain lands in the Jefferson National Forest, which comprise approximately 6,455 acres, as generally depicted on the map entitled “Seng Mountain and Raccoon Branch” and dated February 2007, and which shall be known as the Seng Mountain National Scenic Area.
+  - **(1)** Certain lands in the Jefferson National Forest, which comprise approximately 5,192 acres, as generally depicted on the map entitled “Seng Mountain and Raccoon Branch” and dated October 2007, and which shall be known as the Seng Mountain National Scenic Area.
   - **(2)** Certain lands in the Jefferson National Forest, which comprise approximately 5,128 acres, as generally depicted on the map entitled “Bear Creek” and dated February 2007, and which shall be known as the Bear Creek National Scenic Area.
 - **(b)** *Maps and legal descriptions*
   - **(1)** *Filing* As soon as practicable after the date of the enactment of this Act, the Secretary of Agriculture shall file with the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Natural Resources and the Committee on Agriculture of the House of Representatives a map and legal description of each of the scenic areas.
@@ -102,4 +102,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** Nonmotorized recreation trails within the Seng Mountain and Bear Creek Scenic Areas designated by section 4.
 - **(b)** *Consultation* The Secretary of Agriculture shall establish the trail plan in consultation with interested parties.
 - **(c)** *Implementation report* Not later than two years after the date of the enactment of this Act, the Secretary of Agriculture shall submit to Congress a report on the implementation of the trail plan, including the identification of priority trails for development.
-- **(d)** *Trail required* The Secretary of Agriculture shall develop a sustainable trail, using a contour curvilinear alignment, to provide a continuous connection for non-motorized travel between County Route 650 and Forest Development Road 4018 in Smyth County, Virginia.
+- **(d)** *Trail required* The Secretary of Agriculture shall develop a sustainable trail, using a contour curvilinear alignment, to provide for non-motorized travel along the southern boundary of the Raccoon Branch Wilderness established by section 1(11) of Public Law 100–326, as added by (2)(a) of this Act, connecting to Forest Development Road 49352 in Smyth County, Virginia.
+- **(e)** *Motorized access in emergencies* The designation of lands as wilderness or a wilderness study area by an amendment made by this section does not prohibit the use of motor vehicles, motorized equipment, or motorboats or the landing of aircraft or other forms of mechanical transport, on the designated lands when required in connection with an emergency involving the health and safety of persons, including search and rescue efforts or the response to an Amber Alert.

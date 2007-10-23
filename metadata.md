@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1011
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1011
@@ -49,3 +49,28 @@ Virginia Ridge and Valley Act of 2007
 - 2007-10-05 — Committee on Agriculture discharged.
 - 2007-10-05 — Committee on Agriculture discharged.
 - 2007-10-05 — Placed on the Union Calendar, Calendar No. 224.
+- 2007-10-22 — Rules Committee Resolution H. Res. 763 Reported to House. Rule provides for consideration of H.R. 1011 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2007-10-23 — Amendment (A001) offered by Mr. Goodlatte. (consideration: CR H11905-11907; text: CR H11905)
+- 2007-10-23 — Amendment (A002) offered by Mr. Rahall. (consideration: CR H11908; text: CR H11908)
+- 2007-10-23 — Amendment agreed to by House: On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.
+- 2007-10-23 — Amendment agreed to by House: On agreeing to the Rahall amendment (A002) Agreed to by voice vote.
+- 2007-10-23 — Considered under the provisions of rule H. Res. 763. (consideration: CR H11900-11908; text of measure as introduced: CR H11900-11902; text of measure as reported in House: CR H11902-11903)
+- 2007-10-23 — DEBATE - The House proceeded with 10 minutes of debate on the Goodlatte amendment.
+- 2007-10-23 — DEBATE - The House proceeded with 10 minutes of debate on the Lamborn motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new subsection to motorize access in emergencies.
+- 2007-10-23 — DEBATE - The House proceeded with one hour of debate on H.R. 1011.
+- 2007-10-23 — House amendment agreed to: On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.
+- 2007-10-23 — House amendment agreed to: On agreeing to the Rahall amendment (A002) Agreed to by voice vote.
+- 2007-10-23 — House amendment offered
+- 2007-10-23 — House amendment offered
+- 2007-10-23 — House amendment offered/reported by : Amendment (A001) offered by Mr. Goodlatte.(consideration: CR H11905-11907; text: CR H11905)
+- 2007-10-23 — House amendment offered/reported by : Amendment (A002) offered by Mr. Rahall.(consideration: CR H11908; text: CR H11908)
+- 2007-10-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-23 — Mr. Lamborn moved to recommit with instructions to Natural Resources. (consideration: CR H11907-11908; text: CR H11907)
+- 2007-10-23 — On agreeing to the Goodlatte amendment (A001) Agreed to by voice vote.
+- 2007-10-23 — On agreeing to the Rahall amendment (A002) Agreed to by voice vote.
+- 2007-10-23 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 236 - 178 (Roll no. 994).
+- 2007-10-23 — On passage Passed by voice vote.
+- 2007-10-23 — Passed/agreed to in House: On passage Passed by voice vote.
+- 2007-10-23 — Rule H. Res. 763 passed House.
+- 2007-10-23 — Rule provides for consideration of H.R. 1011 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2007-10-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11907)
