@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2094
 congress: 110
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2094
@@ -48,3 +48,4 @@ To provide for certain administrative and support services for the Dwight D. Eis
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 246.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-392.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-392.
+- 2007-10-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 436.
