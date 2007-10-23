@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 680
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 680
@@ -16,7 +16,7 @@ Condemning the actions of September 7, 2007, resulting in damage to the Vietnam 
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Cosponsors (97)
+## Cosponsors (118)
 
 - Rep. Rogers, Harold [R-KY-5] (R000395)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
@@ -115,6 +115,27 @@ Condemning the actions of September 7, 2007, resulting in damage to the Vietnam 
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Wamp, Zach [R-TN-3] (W000119)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Hayes, Robin [R-NC-8] (H001029)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Knollenberg, Joe [R-MI-9] (K000288)
 
 ## Committees (1)
 
@@ -125,3 +146,10 @@ Condemning the actions of September 7, 2007, resulting in damage to the Vietnam 
 - 2007-09-25 — Introduced in House
 - 2007-09-25 — Introduced in House
 - 2007-09-25 — Referred to the House Committee on Veterans' Affairs.
+- 2007-10-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-10-23 — Considered under suspension of the rules. (consideration: CR H11879-11883, H11888)
+- 2007-10-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 680.
+- 2007-10-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-23 — Mr. Filner moved to suspend the rules and agree to the resolution.
+- 2007-10-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 989). (text: CR H11879)
+- 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 989).(text: CR H11879)
