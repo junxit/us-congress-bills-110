@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1680
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1680
@@ -46,3 +46,10 @@ Secure Handling of Ammonium Nitrate Act of 2007
 - 2007-10-02 — Placed on the Union Calendar, Calendar No. 221.
 - 2007-10-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-357.
 - 2007-10-02 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-357.
+- 2007-10-23 — Considered under suspension of the rules. (consideration: CR H11862-11866)
+- 2007-10-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1680.
+- 2007-10-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-23 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2007-10-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11862-11863)
+- 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11862-11863)
+- 2007-10-23 — The title of the measure was amended. Agreed to without objection.
