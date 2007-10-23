@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1462
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1462
@@ -26,9 +26,10 @@ Platte River Recovery Implementation Program and Pathfinder Modification Authori
 - Rep. Cubin, Barbara [R-WY-At Large] (C000962)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Platte River Recovery Implementation Program and Pathfinder Modification Authori
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 247.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-393.
 - 2007-10-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-393.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
