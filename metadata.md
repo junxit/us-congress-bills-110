@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3775
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3775
@@ -16,9 +16,10 @@ Industrial Energy Efficiency Research and Development Act of 2007
 
 - Rep. Lampson, Nick [D-TX-22] (L000043)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Industrial Energy Efficiency Research and Development Act of 2007
 - 2007-10-22 — Placed on the Union Calendar, Calendar No. 255.
 - 2007-10-22 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-401.
 - 2007-10-22 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-401.
+- 2007-10-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.

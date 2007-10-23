@@ -2,7 +2,7 @@
 legis-num: H.R. 3775
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3775
@@ -28,11 +28,11 @@ The Congress finds the following:
 
 ## § 3. Industrial technologies program
 
-- **(a)** *In General* The Secretary of Energy (in this Act referred to as the “Secretary”) shall establish a program, in cooperation with energy-intensive industries, trade and industry research collaborations representing such industries, and institutions of higher education, to conduct research, development, demonstration, and commercial application activities with respect to new industrial and commercial processes, technologies, and methods to—
-  - **(1)** achieve—
-    - **(A)** substantial improvements in energy efficiency; and
-    - **(B)** environmental performance improvements such as waste reduction, emissions reductions, and more efficient water use; and
-  - **(2)** enhance the economic competitiveness of the United States industrial sector.
+- **(a)** *In general* The Secretary of Energy (in this Act referred to as the “Secretary”) shall establish a program, in cooperation with energy-intensive industries, trade and industry research collaborations representing such industries, and institutions of higher education—
+  - **(1)** to conduct energy research, development, demonstration, and commercial application activities with respect to new industrial and commercial processes, technologies, and methods to—
+    - **(A)** achieve substantial improvements in energy efficiency; and
+    - **(B)** enhance the economic competitiveness of the United States industrial sector; and
+  - **(2)** to conduct environmental research and development with respect to new industrial and commercial processes, technologies, and methods to achieve environmental performance improvements such as waste reduction, emissions reductions, and more efficient water use.
 - **(b)** *Program Activities* Research, development, demonstration, and commercial application activities under this section may include—
   - **(1)** activities to support the development and use of technologies and processes that improve the quality and quantity of feedstocks recovered or recycled from process and waste streams;
   - **(2)** research to meet manufacturing feedstock requirements with alternative resources;
