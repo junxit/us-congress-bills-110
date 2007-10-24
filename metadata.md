@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1808
@@ -120,3 +120,15 @@ To designate the Department of Veterans Affairs Medical Center in Augusta, Georg
 - 2007-10-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 988). (text: CR H11873)
 - 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 988).(text: CR H11873)
 - 2007-10-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2007-10-31 — Cleared for White House.
+- 2007-10-31 — Passed Senate without amendment by Unanimous Consent.
+- 2007-10-31 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-10-31 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S13646)
+- 2007-10-31 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S13646)
+- 2007-11-01 — Message on Senate action sent to the House.
+- 2007-11-01 — Presented to President.
+- 2007-11-01 — Presented to President.
+- 2007-11-08 — Became Public Law No: 110-112.
+- 2007-11-08 — Became Public Law No: 110-112.
+- 2007-11-08 — Signed by President.
+- 2007-11-08 — Signed by President.
