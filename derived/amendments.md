@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1955
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 361` | amend | Title VIII of the Homeland Security Act of 2002 (6 U.S.C. 361 et seq.) is amended by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 361` | add-at-end | Title VIII of the Homeland Security Act of 2002 (6 U.S.C. 361 et seq.) is amended by adding at the end the following new subtitle: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 361` | insert | The table of contents in section 1(b) of such Act is amended by inserting at the end of the items relating to title VIII the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
