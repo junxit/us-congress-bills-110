@@ -54,7 +54,7 @@ Congress finds that—
     - **(ix)** native language immersion programs;
     - **(x)** native language immersion schools from kindergarten through high school;
     - **(xi)** college and master’s degree programs in native language immersion instruction; and
-    - **(xii)** traditional justice programs, and
+    - **(xii)** traditional justice programs; and
   - **(B)** by continuing their efforts to enhance Native Hawaiian self-determination and local control;
 - **(17)** Native Hawaiians are actively engaged in Native Hawaiian cultural practices, traditional agricultural methods, fishing and subsistence practices, maintenance of cultural use areas and sacred sites, protection of burial sites, and the exercise of their traditional rights to gather medicinal plants and herbs, and food sources;
 - **(18)** the Native Hawaiian people wish to preserve, develop, and transmit to future generations of Native Hawaiians their lands and Native Hawaiian political and cultural identity in accordance with their traditions, beliefs, customs and practices, language, and social and political institutions, to control and manage their own lands, including ceded lands, and to achieve greater self-determination over their own affairs;

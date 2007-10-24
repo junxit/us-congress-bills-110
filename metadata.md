@@ -1,7 +1,7 @@
 ---
 measure: H.R. 505
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 505
@@ -30,6 +30,11 @@ Native Hawaiian Government Reorganization Act of 2007
 
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2007-10-24 — [House 110-1-999](votes/house-110-1-0999.md) — On Motion to Recommit with Instructions — **Failed** (178–235)
+- 2007-10-24 — [House 110-1-1000](votes/house-110-1-1000.md) — On Passage — **Passed** (261–153)
+
 ## Actions
 
 - 2007-01-17 — Introduced in House
@@ -41,3 +46,16 @@ Native Hawaiian Government Reorganization Act of 2007
 - 2007-10-18 — Placed on the Union Calendar, Calendar No. 243.
 - 2007-10-18 — Reported by the Committee on Natural Resources. H. Rept. 110-389.
 - 2007-10-18 — Reported by the Committee on Natural Resources. H. Rept. 110-389.
+- 2007-10-22 — Rules Committee Resolution H. Res. 764 Reported to House. Rule provides for consideration of H.R. 505 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2007-10-24 — Considered under the provisions of rule H. Res. 764. (consideration: CR H11974-11989)
+- 2007-10-24 — DEBATE - The House proceeded with 10 minutes of debate on the Flake motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment to make applicable the United States Constitution's Bill of Rights, the Federal Civil Rights laws, and burden or immunities clauses to the bill.
+- 2007-10-24 — DEBATE - The House proceeded with one hour of debate on H.R. 505.
+- 2007-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-24 — Mr. Flake moved to recommit with instructions to Natural Resources. (consideration: CR H11986-11988; text: CR H11986)
+- 2007-10-24 — On motion to recommit with instructions Failed by the Yeas and Nays: 178 - 235 (Roll no. 999).
+- 2007-10-24 — On passage Passed by the Yeas and Nays: 261 - 153 (Roll no. 1000). (text: CR H11974-11978)
+- 2007-10-24 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 261 - 153 (Roll no. 1000).(text: CR H11974-11978)
+- 2007-10-24 — Rule H. Res. 764 passed House.
+- 2007-10-24 — Rule provides for consideration of H.R. 505 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
+- 2007-10-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11987)
+- 2007-10-24 — The previous question was ordered pursuant to the rule. (consideration: CR H11986)
