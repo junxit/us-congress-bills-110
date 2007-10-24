@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1808
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1808
@@ -101,9 +101,10 @@ To designate the Department of Veterans Affairs Medical Center in Augusta, Georg
 - Rep. Marshall, Jim [D-GA-8] (M001146)
 - Rep. Broun, Paul C. [R-GA-10] (B001262)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -122,3 +123,4 @@ To designate the Department of Veterans Affairs Medical Center in Augusta, Georg
 - 2007-10-23 — Mr. Filner moved to suspend the rules and pass the bill.
 - 2007-10-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 988). (text: CR H11873)
 - 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 988).(text: CR H11873)
+- 2007-10-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
