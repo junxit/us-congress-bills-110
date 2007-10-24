@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1483
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -84,5 +84,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 804(h)(4), by striking “staff to carry out its duties;” and inserting | the bill names no machine-readable US Code section |
 | — | replace | in section 804(j), by striking “10 years after the date of enactment of this title” and inserting “15 years after the date of the enactment of this title”; | the bill names no machine-readable US Code section |
 | — | replace | in section 807(e), by striking “duties with regard to the preparation and approval of the Canalway Plan.” and inserting “duties.”; | the bill names no machine-readable US Code section |
-| — | amend | in section 807, by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in section 807, by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | in section 810(a)(1), by inserting after the first sentence: “Such sums shall remain available until expended.”. | the bill names no machine-readable US Code section |
