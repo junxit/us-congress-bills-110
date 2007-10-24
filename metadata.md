@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1955
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1955
@@ -33,10 +33,11 @@ Violent Radicalization and Homegrown Terrorism Prevention Act of 2007
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Violent Radicalization and Homegrown Terrorism Prevention Act of 2007
 - 2007-10-23 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
 - 2007-10-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 6 (Roll no. 993). (text: CR H11854-11857)
 - 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 6 (Roll no. 993).(text: CR H11854-11857)
+- 2007-10-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
