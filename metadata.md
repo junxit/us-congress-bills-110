@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2408
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2408
@@ -45,3 +45,15 @@ To designate the Department of Veterans Affairs outpatient clinic in Green Bay, 
 - 2007-10-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11878)
 - 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11878)
 - 2007-10-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2007-12-13 — Cleared for White House.
+- 2007-12-13 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S15571)
+- 2007-12-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S15571)
+- 2007-12-14 — Message on Senate action sent to the House.
+- 2007-12-19 — Presented to President.
+- 2007-12-19 — Presented to President.
+- 2007-12-21 — Became Public Law No: 110-145.
+- 2007-12-21 — Became Public Law No: 110-145.
+- 2007-12-21 — Signed by President.
+- 2007-12-21 — Signed by President.
