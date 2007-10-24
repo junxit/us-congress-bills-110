@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1483
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1483
@@ -58,3 +58,24 @@ Celebrating America's Heritage Act
 - 2007-10-18 — Placed on the Union Calendar, Calendar No. 242.
 - 2007-10-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-388.
 - 2007-10-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-388.
+- 2007-10-22 — Rules Committee Resolution H. Res. 765 Reported to House. Rule provides for consideration of H.R. 1483 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-10-23 — Rule H. Res. 765 passed House.
+- 2007-10-24 — Amendment (A002) offered by Mr. Rahall. (consideration: CR H11964; text: CR H11964)
+- 2007-10-24 — Amendment agreed to by House: On agreeing to the Rahall amendment (A002) Agreed to by voice vote.
+- 2007-10-24 — Considered under the provisions of rule H. Res. 765. (consideration: CR H11940-11965; text of measure as introduced: CR H11940; text of measure as reported in House: CR H11940-11963;)
+- 2007-10-24 — DEBATE - The House proceeded with 10 minutes of debate on the Bishop (UT) motion to recommit with instructions. The instructions contained in the motion seek to report the same to the House forthwith with the following amendment which adds a new Title VI- Application of Certain Laws pertaining to Application of Certain State and Local Laws.
+- 2007-10-24 — DEBATE - The House proceeded with one hour of debate on H.R. 1483.
+- 2007-10-24 — House amendment agreed to: On agreeing to the Rahall amendment (A002) Agreed to by voice vote.
+- 2007-10-24 — House amendment offered
+- 2007-10-24 — House amendment offered
+- 2007-10-24 — House amendment offered/reported by : Amendment (A002) offered by Mr. Rahall.(consideration: CR H11964; text: CR H11964)
+- 2007-10-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-24 — Mr. Bishop (UT) moved to recommit with instructions to Natural Resources. (consideration: CR H11963-11964; text: CR H11963)
+- 2007-10-24 — On agreeing to the Rahall amendment (A002) Agreed to by voice vote.
+- 2007-10-24 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 344 - 71 (Roll no. 995).
+- 2007-10-24 — On passage Passed by recorded vote: 291 - 122 (Roll no. 996).
+- 2007-10-24 — Passed/agreed to in House: On passage Passed by recorded vote: 291 - 122 (Roll no. 996).
+- 2007-10-24 — Rule provides for consideration of H.R. 1483 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2007-10-24 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1483.
+- 2007-10-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11964)
+- 2007-10-24 — The previous question was ordered pursuant to the rule. (consideration: CR H11963)
