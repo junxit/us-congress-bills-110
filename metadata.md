@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1011
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1011
@@ -25,10 +25,11 @@ Virginia Ridge and Valley Act of 2007
 - Rep. Davis, Tom [R-VA-11] (D000136)
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -74,3 +75,4 @@ Virginia Ridge and Valley Act of 2007
 - 2007-10-23 — Rule H. Res. 763 passed House.
 - 2007-10-23 — Rule provides for consideration of H.R. 1011 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2007-10-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11907)
+- 2007-10-24 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
