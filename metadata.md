@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2408
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2408
@@ -27,9 +27,10 @@ To designate the Department of Veterans Affairs outpatient clinic in Green Bay, 
 - Rep. Ryan, Paul [R-WI-1] (R000570)
 - Rep. Boozman, John [R-AR-3] (B001236)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the Department of Veterans Affairs outpatient clinic in Green Bay, 
 - 2007-10-23 — Mr. Filner moved to suspend the rules and pass the bill.
 - 2007-10-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11878)
 - 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11878)
+- 2007-10-24 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
