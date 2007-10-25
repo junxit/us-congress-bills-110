@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1483
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -24,14 +24,14 @@ to guess them.
 
 ## Executed
 
-### 16 U.S.C. § 461
+### 16 U.S.C. § 1244
 
-> Division II of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 16 U.S.C. 461 note) is amended in each of sections 108(a), 209(a), 311(a), 409(a), 508(a), 608(a), 708(a), 810(a) (as redesignated by this Act), and 909(c), by striking “$10,000,000” and inserting “$15,000,000”.
+> Subsection (c) is amended by striking “2007” and inserting “2011”.
 
 | | |
 |---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$15,000,000` |
+| Removed | `2007` |
+| Inserted | `2011` |
 
 ## Stated, not applied
 
@@ -42,6 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Division II of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 16 U.S.C. 461 note) is amended in each of sections 108(a), 209(a), 311(a), 409(a), 508(a), 608(a), 708(a), 810(a) (as redesignated by this Act)… | the bill names no machine-readable US Code section |
 | — | replace | by striking section 103(b) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking section 105 and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “Governor” and all that follows through “Parks,” and inserting “National Coal Heritage Area Authority”; and | the bill names no machine-readable US Code section |
@@ -71,8 +72,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subsection (b), by striking “Committee or”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), in the matter before paragraph (1), by striking “Committee” and inserting “management entity”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 809 (as redesignated by Act), by striking “assistance” and inserting “financial assistance”. | the bill names no machine-readable US Code section |
-| — | insert | Paragraph (3) of subsection (b) is amended by inserting after subparagraph (B) a new subparagraph as follows: | the bill names no machine-readable US Code section |
-| — | replace | Subsection (c) is amended by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 1244` | insert | Paragraph (3) of subsection (b) is amended by inserting after subparagraph (B) a new subparagraph as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “27” and inserting “at least 21 members, but not to exceed 27”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “Environment” and inserting “Environmental”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking “19”; | the bill names no machine-readable US Code section |
