@@ -1,0 +1,207 @@
+---
+legis-num: S. 2245
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2245
+
+> To establish a commission to ensure food safety in the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Food Safety Authority Modernization Act”.
+
+## § 2. Congressional Bipartisan Food Safety Commission
+
+- **(a)** *Commission*
+  - **(1)** *Establishment*
+    - **(A)** *In general* There is established a commission to be known as the Congressional Bipartisan Food Safety Commission (referred to in this Act as the Commission).
+    - **(B)** *Purpose* The purpose of the Commission shall be to act in a bipartisan, consensus-driven fashion—
+      - **(i)** to review the food safety system of the United States;
+      - **(ii)** to prepare a report that—
+        - **(I)** summarizes information about the food safety system as in effect as of the date of enactment of this Act; and
+        - **(II)** makes recommendations on ways—
+          - **(aa)** to modernize the food safety system of the United States;
+          - **(bb)** to harmonize and update food safety statutes;
+          - **(cc)** to improve Federal, State, local, and interagency coordination of food safety personnel, activities, budgets, and leadership;
+          - **(dd)** to best allocate scarce resources according to risk;
+          - **(ee)** to ensure that regulations, directives, guidance, and other standards and requirements are based on best-available science and technology;
+          - **(ff)** to emphasize preventative rather than reactive strategies; and
+          - **(gg)** to provide to Federal agencies funding mechanisms necessary to effectively carry out food safety responsibilities; and
+      - **(iii)** to draft specific statutory language, including detailed summaries of the language and budget recommendations, that would implement the recommendations of the Commission.
+  - **(2)** *Membership*
+    - **(A)** *Composition* The Commission shall be composed of 19 members.
+    - **(B)** *Eligibility* Members of the Commission shall—
+      - **(i)** have specialized training, education, or significant experience in at least 1 of the areas of—
+        - **(I)** food safety research;
+        - **(II)** food safety law and policy; and
+        - **(III)** program design and implementation;
+      - **(ii)** consist of—
+        - **(I)** the Secretary of Agriculture (or a designee);
+        - **(II)** the Secretary of Health and Human Services (or a designee);
+        - **(III)** 1 Member of the House of Representatives; and
+        - **(IV)** 1 Member of the Senate; and
+        - **(V)** 15 additional members that include, to the maximum extent practicable, representatives of—
+          - **(aa)** consumer organizations;
+          - **(bb)** agricultural and livestock production;
+          - **(cc)** public health professionals;
+          - **(dd)** State regulators;
+          - **(ee)** Federal employees; and
+          - **(ff)** the livestock and food manufacturing and processing industry.
+    - **(C)** *Appointments*
+      - **(i)** *In general* The appointment of the members of the Commission shall be made not later than 60 days after the date of enactment of this Act.
+      - **(ii)** *Certain appointments* Of the members of the Commission described in subparagraph (B)(ii)(V)—
+        - **(I)** 2 shall be appointed by the President;
+        - **(II)** 7 shall be appointed by a working group consisting of—
+          - **(aa)** the Chairman of each of the Committee on Agriculture, Nutrition, and Forestry and the Committee on Health, Education, Labor, and Pensions of the Senate;
+          - **(bb)** the Chairman of each of the Committee on Agriculture and the Committee on Energy and Commerce of the House of Representatives;
+          - **(cc)** the Speaker of the House of Representatives; and
+          - **(dd)** the majority leader of the Senate; and
+        - **(III)** 6 shall be appointed by a working group consisting of—
+          - **(aa)** the Ranking Member of each of the Committees described in items (aa) and (bb) of subclause (II);
+          - **(bb)** the minority leader of the House of Representatives; and
+          - **(cc)** the minority leader of the Senate.
+    - **(D)** *Term* A member of the Commission shall be appointed for the life of the Commission.
+    - **(E)** *Vacancies* A vacancy on the Commission—
+      - **(i)** shall not affect the powers of the Commission; and
+      - **(ii)** shall be filled in the same manner as the original appointment was made.
+  - **(3)** *Meetings*
+    - **(A)** *Initial meeting* Except as provided in subparagraph (B), the initial meeting of the Commission shall be conducted in Washington, District of Columbia, not later than 30 days after the date of appointment of the final member of the Commission under paragraph (2)(C).
+    - **(B)** *Meeting for partial appointment* If, as of the date that is 90 days after the date of enactment of this Act, all members of the Commission have not been appointed under paragraph (2)(C), but at least 8 members have been appointed, the Commission may hold the initial meeting of the Commission.
+    - **(C)** *Other meetings* The Commission shall—
+      - **(i)** hold a series of at least 5 stakeholder meetings to solicit public comment, including—
+        - **(I)** at least 1 stakeholder meeting, to be held in Washington, District of Columbia; and
+        - **(II)** at least 4 stakeholder meetings, to be held in various regions of the United States; and
+      - **(ii)** meet at the call of—
+        - **(I)** the Chairperson;
+        - **(II)** the Vice-Chairperson; or
+        - **(III)** a majority of the members of the Commission.
+    - **(D)** *Public participation; information* To the maximum extent practicable—
+      - **(i)** each meeting of the Commission shall be open to the public; and
+      - **(ii)** all information from a meeting of the Commission shall be recorded and made available to the public.
+    - **(E)** *Quorum* With respect to meetings of the Commission—
+      - **(i)** a majority of the members of the Commission shall constitute a quorum for the conduct of business of the Commission; but
+      - **(ii)** for the purpose of a stakeholder meeting described in subparagraph (C)(i), 4 or more members of the Commission shall constitute a quorum.
+    - **(F)** *Facilitator* The Commission shall contract with a nonpolitical, disinterested third-party entity to serve as a meeting facilitator.
+  - **(4)** *Chairperson and Vice-Chairperson* At the initial meeting of the Commission, the members of the Commission shall select from among the members a Chairperson and Vice-Chairperson of the Commission.
+- **(b)** *Duties*
+  - **(1)** *Recommendations* The Commission shall review and consider the statutes, studies, and reports described in paragraph (2) for the purpose of understanding the food safety system of the United States in existence as of the date of enactment of this Act.
+  - **(2)** *Statutes, studies, and reports* The statutes, studies, and reports referred to in paragraph (1) are—
+    - **(A)** with respect to laws administered by the Secretary of Agriculture—
+      - **(i)** the Federal Seed Act (7 U.S.C. 1551 et seq.);
+      - **(ii)** the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.);
+      - **(iii)** the Animal Health Protection Act (7 U.S.C. 8301 et seq.);
+      - **(iv)** the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.);
+      - **(v)** the Poultry Products Inspection Act (21 U.S.C. 451 et seq.);
+      - **(vi)** the Federal Meat Inspection Act (21 U.S.C. 601 et seq.); and
+      - **(vii)** the Egg Products Inspection Act (21 U.S.C. 1031 et seq.);
+    - **(B)** with respect to laws administered by the Secretary of the Treasury, the Federal Alcohol Administration Act (27 U.S.C. 201 et seq.);
+    - **(C)** with respect to laws administered by the Federal Trade Commission, the Act of September 26, 1914 (15 U.S.C. 41 et seq.);
+    - **(D)** with respect to laws administered by the Secretary of Health and Human Services—
+      - **(i)** chapters I through IV of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.);
+      - **(ii)** the Public Health Service Act (42 U.S.C. 201 et seq.);
+      - **(iii)** the Import Milk Act (21 U.S.C. 141 et seq.);
+      - **(iv)** the Food Additives Amendment of 1958 (Public Law 85–929; 52 Stat. 1041);
+      - **(v)** the Fair Packaging and Labeling Act (Public Law 89–755; 80 Stat. 1296);
+      - **(vi)** the Infant Formula Act of 1980 (21 U.S.C. 301 note; Public Law 96–359);
+      - **(vii)** the Pesticide Monitoring Improvements Act of 1988 (Public Law 100–418; 102 Stat. 1411);
+      - **(viii)** the Nutrition Labeling and Education Act of 1990 (21 U.S.C. 301 note; Public Law 101–535);
+      - **(ix)** the Food and Drug Administration Modernization Act of 1997 (21 U.S.C. 301 note; Public Law 105–115); and
+      - **(x)** the Public Health Security and Bioterrorism Preparedness and Response Act of 2002 (21 U.S.C. 201 note; Public Law 107–188);
+    - **(E)** with respect to laws administered by the Attorney General, the Federal Anti-Tampering Act (18 U.S.C. 1365 note; Public Law 98–127);
+    - **(F)** with respect to laws administered by the Administrator of the Environmental Protection Agency—
+      - **(i)** the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.);
+      - **(ii)** the Food Quality Protection Act of 1996 (7 U.S.C. 136 note; Public Law 104–170);
+      - **(iii)** the Toxic Substances Control Act (15 U.S.C. 2601 et seq.); and
+      - **(iv)** the Safe Drinking Water Act of 1974 (42 U.S.C. 201 note; Public Law 93–523); and
+    - **(G)** with respect to laws administered by the Secretary of Transportation, chapter 57 of subtitle II of title 49, United States Code (relating to sanitary food transportation); and
+    - **(H)** with respect to Government studies on food safety—
+      - **(i)** the report of the National Academies of Science entitled “Ensuring Safe Food from Production to Consumption” and dated 1998;
+      - **(ii)** the report of the National Academies of Science entitled “Scientific Criteria to Ensure Safe Food” and dated 2003;
+      - **(iii)** reports of the Office of the Inspector General of the Department of Agriculture, including—
+        - **(I)** report 24601–0008–CH, entitled “Egg Products Processing Inspection” and dated September 18, 2007;
+        - **(II)** report 24005–1–AT, entitled “Food Safety and Inspection Service—State Meat and Poultry Inspection Programs” and dated September 27, 2006;
+        - **(III)** report 24601–06–CH, entitled “Food Safety and Inspection Service’s In-Plant Performance System” and dated March 28, 2006;
+        - **(IV)** report 24601–05–AT, entitled “Hazard Analysis and Critical Control Point Implementation at Very Small Plants” and dated June 24, 2005;
+        - **(V)** report 24601–04–HY, entitled “Food Safety and Inspection Service Oversight of the 2004 Recall by Quaker Maid Meats, Inc.” and dated May 18, 2005;
+        - **(VI)** report 24501–01–FM, entitled “Food Safety and Inspection Service Application Controls—Performance Based Inspection System” and dated November 24, 2004;
+        - **(VII)** report 24601–03–CH, entitled “Food Safety and Inspection Service Use of Food Safety Information” and dated September 30, 2004;
+        - **(VIII)** report 24601–03–HY, entitled “Food Safety and Inspection Service Effectiveness Checks for the 2002 Pilgrim’s Pride Recall” and dated June 29, 2004;
+        - **(IX)** report 24601–02–HY, entitled “Food Safety and Inspection Service Oversight of the Listeria Outbreak in the Northeastern United States” and dated June 9, 2004;
+        - **(X)** report 24099–05–HY, entitled “Food Safety and Inspection Service Imported Meat and Poultry Equivalence Determinations Phase III” and dated December 29, 2003;
+        - **(XI)** report 24601–2–KC, entitled “Food Safety and Inspection Service—Oversight of Production Process and Recall at Conagra Plant (Establishment 969)” and dated September 30, 2003;
+        - **(XII)** report 24601–1–Ch, entitled “Laboratory Testing Of Meat And Poultry Products” and dated June 21, 2000;
+        - **(XIII)** report 24001–3–At, 24601–1–Ch, 24099–3–Hy, 24601–4–At, entitled “Food Safety and Inspection Service: HACCP Implementation, Pathogen Testing Program, Foreign Country Equivalency, Compliance Activities” and dated June 21, 2000; and
+        - **(XIV)** report 24001–3–At, entitled “Implementation of the Hazard Analysis and Critical Control Point System” and dated June 21, 2000; and
+    - **(I)** with respect to reports prepared by the Government Accountability Office, the reports designated—
+      - **(i)** GAO–05–212;
+      - **(ii)** GAO–02–47T;
+      - **(iii)** GAO/T–RCED–94–223;
+      - **(iv)** GAO/RCED–99–80;
+      - **(v)** GAO/T–RCED–98–191;
+      - **(vi)** GAO/RCED–98–103;
+      - **(vii)** GAO–07–785T;
+      - **(viii)** GAO–05–51;
+      - **(ix)** GAO/T–RCED–94–311;
+      - **(x)** GAO/RCED–92–152;
+      - **(xi)** GAO/T–RCED–99–232;
+      - **(xii)** GAO/T–RCED–98–271;
+      - **(xiii)** GAO–07–449T;
+      - **(xiv)** GAO–05–213;
+      - **(xv)** GAO–04–588T;
+      - **(xvi)** GAO/RCED–00–255;
+      - **(xvii)** GAO/RCED–00–195; and
+      - **(xviii)** GAO/T–RCED–9–256.
+  - **(3)** *Report* Not later than 360 days after the date on which the Commission first meets, the Commission shall submit to the President and Congress a report that includes the report and summaries, statutory language recommendations, and budget recommendations described in clauses (ii) and (iii) of subsection (a)(1)(B).
+- **(c)** *Powers of the commission*
+  - **(1)** *Hearings* The Commission or, at the direction of the Commission, any member of the Commission, may, for the purpose of carrying out this section—
+    - **(A)** hold such hearings, meet and act at such times and places, take such testimony, receive such evidence, and administer such oaths; and
+    - **(B)** require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, documents, tapes, and materials;
+  - **(2)** *Issuance and enforcement of subpoenas*
+    - **(A)** *Issuance* A subpoena issued under paragraph (1)(B) shall—
+      - **(i)** bear the signature of the Chairperson of the Commission; and
+      - **(ii)** be served by any person or class of persons designated by the Chairperson for that purpose.
+    - **(B)** *Enforcement* In the case of contumacy or failure to obey a subpoena issued under paragraph (1)(B), the United States district court for the district in which the subpoenaed person resides, is served, or may be found, may issue an order requiring the person to appear at any designated place to testify or to produce documentary or other evidence.
+    - **(C)** *Noncompliance* Any failure to obey the order of the court may be punished by the court as a contempt of court.
+    - **(D)** *Witness allowances and fees*
+      - **(i)** *In general* Section 1821 of title 28, United States Code, shall apply to a witness requested or subpoenaed to appear at a hearing of the Commission.
+      - **(ii)** *Expenses* The per diem and mileage allowances for a witness shall be paid from funds available to pay the expenses of the Commission.
+  - **(3)** *Information from Federal agencies*
+    - **(A)** *In general* The Commission may secure directly, from any Federal agency, such information as the Commission considers necessary to carry out this section.
+    - **(B)** *Provision of information*
+      - **(i)** *In general* Subject to subparagraph (C), on the request of the Commission, the head of a Federal agency described in subparagraph (A) shall expeditiously furnish information requested by the Commission to the Commission.
+      - **(ii)** *Administration* The furnishing of information by a Federal agency to the Commission shall not be considered a waiver of any exemption available to the agency under section 552 of title 5, United States Code.
+    - **(C)** *Information to be kept confidential* For purposes of section 1905 of title 18, United States Code—
+      - **(i)** the Commission shall be considered an agency of the Federal Government; and
+      - **(ii)** any individual employed by an individual, entity, or organization that is a party to a contract with the Commission under this section shall be considered an employee of the Commission.
+- **(d)** *Commission personnel matters*
+  - **(1)** *Members*
+    - **(A)** *Non-federal employees* A member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
+    - **(B)** *Federal employees* A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation in addition to the compensation received for the services of the member as an officer or employee of the Federal Government.
+    - **(C)** *Travel expenses* A member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+  - **(2)** *Staff*
+    - **(A)** *Executive director* Not later than 30 days after the Chairperson and Vice-Chairperson of the Commission are selected under subsection (a)(4), the Chairperson and Vice-Chairperson shall jointly select an individual to serve as executive director of the Commission.
+    - **(B)** *Additional staff* The Chairperson of the Commission may, without regard to the civil service laws (including regulations), appoint and terminate the appointment of such other additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
+    - **(C)** *Confirmation of executive director* The employment of an executive director under this paragraph shall be subject to confirmation by the Commission.
+    - **(D)** *Compensation*
+      - **(i)** *In general* Except as provided in clause (ii), the Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+      - **(ii)** *Maximum rate of pay* The rate of pay for the executive director and other personnel shall not exceed the rate payable for level II of the Executive Schedule under section 5316 of title 5, United States Code.
+  - **(3)** *Detail of Federal government employees*
+    - **(A)** *In general* An employee of the Federal Government may be detailed to the Commission, without reimbursement, for such period of time as is permitted by law.
+    - **(B)** *Civil service status* The detail of the employee shall be without interruption or loss of civil service status or privilege.
+  - **(4)** *Procurement of temporary and intermittent services* The Chairperson, Vice-Chairperson, and executive director of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5316 of that title.
+- **(e)** *Funding and support services* For each fiscal year, the Secretary of Agriculture and the Secretary of Health and Human Services shall provide to fund the Commission and carry out this section—
+  - **(1)** from funds made available to the Secretary of Agriculture under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c) and amounts made available for the Office of the Secretary of Health and Human Services from appropriations Acts, such equal amounts as are necessary to fund the Commission and otherwise carry out this section; and
+  - **(2)** such equal contributions of support services as are necessary to assist the Commission in carrying out the duties of the Commission under this section.
+- **(f)** *Termination* The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the report under subsection (b)(2).
+
+## § 3. Termination of authority relating to food and food safety
+
+- **(a)** *Termination of authority* The budget authority to implement the provisions of law described in subsection (b) relating to food and food safety shall terminate on the date that is 2 years after the date of enactment of this Act.
+- **(b)** *Provisions of law* The provisions of law referred to in subsection (a) are—
+  - **(1)** the Poultry Products Inspection Act (21 U.S.C. 451 et seq.);
+  - **(2)** the Federal Meat Inspection Act (21 U.S.C. 601 et seq.);
+  - **(3)** the Egg Products Inspection Act (21 U.S.C. 1031 et seq.); and
+  - **(4)** chapters I through IV of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
