@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3564
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3564
@@ -45,3 +45,6 @@ Regulatory Improvement Act of 2007
 - 2007-10-22 — Ms. Sanchez, Linda T. moved to suspend the rules and pass the bill.
 - 2007-10-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11810)
 - 2007-10-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11810)
+- 2007-10-23 — Received in the Senate.
+- 2007-10-24 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-10-25 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.
