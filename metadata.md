@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 346
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 346
@@ -16,7 +16,7 @@ A resolution expressing heartfelt sympathy for the victims of the devastating th
 
 - Sen. Coleman, Norm [R-MN] (C001057)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -27,6 +27,7 @@ A resolution expressing heartfelt sympathy for the victims of the devastating th
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -36,3 +37,7 @@ A resolution expressing heartfelt sympathy for the victims of the devastating th
 
 - 2007-10-15 — Introduced in Senate
 - 2007-10-15 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S12874)
+- 2007-10-25 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2007-10-25 — Committee on the Judiciary. Reported by Senator Leahy with an amendment and with an amended preamble. Without written report.
+- 2007-10-25 — Committee on the Judiciary. Reported by Senator Leahy with an amendment and with an amended preamble. Without written report.
+- 2007-10-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.
