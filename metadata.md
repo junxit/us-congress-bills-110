@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1483
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1483
@@ -41,9 +41,10 @@ Celebrating America's Heritage Act
 - Rep. LaTourette, Steven C. [R-OH-14] (L000553)
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -79,3 +80,4 @@ Celebrating America's Heritage Act
 - 2007-10-24 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1483.
 - 2007-10-24 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11964)
 - 2007-10-24 — The previous question was ordered pursuant to the rule. (consideration: CR H11963)
+- 2007-10-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
