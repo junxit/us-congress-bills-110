@@ -18,12 +18,8 @@ This Act may be cited as the “Early Warning and Health Care for Workers Affect
 - **(a)** *Definitions*
   - **(1)** *Employer, plant closing, and mass layoff* Paragraphs (1) through (3) of section 2(a) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2101(a)(1)–(3)) are amended to read as follows:
     > - **(1)** the term employer means any business enterprise that employs 100 or more employees;
-    > - **(2)** the term plant closing means—
-    >   - **(A)** the permanent or temporary shutdown of a single site of employment, or of one or more facilities or operating units within a single site of employment, which results in an employment loss at such site, during any 30-day period, for 25 or more employees; or
-    >   - **(B)** the permanent or temporary shutdown of multiple sites of employment, or of one or more facilities or operating units within such sites, which results in an employment loss, during any 30-day period, for 100 or more employees.
-    > - **(3)** the term mass layoff means—
-    >   - **(A)** a reduction in force at a single site of employment which results in an employment loss at such site, during any 30-day period, for 25 or more employees; or
-    >   - **(B)** a reduction in force at multiple sites of employment which results in an employment loss, during any 30-day period, for 100 or more employees.
+    > - **(2)** the term plant closing means the permanent or temporary shutdown of a single site of employment, or of one or more facilities or operating units within a single site of employment, which results in an employment loss at such site, during any 30-day period, for 25 or more employees;
+    > - **(3)** the term mass layoff means a reduction in force at a single site of employment which results in an employment loss at such site, during any 30-day period, for 25 or more employees.
 
   - **(2)** *Secretary of labor*
     - **(A)** *Definition* Paragraph (8) of such section is amended to read as follows:
@@ -48,16 +44,17 @@ This Act may be cited as the “Early Warning and Health Care for Workers Affect
 
 - **(c)** *Enforcement*
   - **(1)** *Amount* Section 5(a)(1) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2104(a)(1)) is amended—
-    - **(A)** in subparagraph (A)(ii), by striking “and” at the end thereof;
-    - **(B)** by redesignating subparagraph (B) as subparagraph (D);
-    - **(C)** by inserting after subparagraph (A) the following new subparagraphs:
-      > - **(B)** interest on the amount described in subparagraph (A) calculated at the prevailing rate;
-      > - **(C)** an additional amount as liquidated damages equal to the sum of the amount described in subparagraph (A) and the interest described in subparagraph (B); and
+    - **(A)** in subparagraph (A)—
+      - **(i)** by striking “back pay for each day of violation” and inserting “two days’ pay multiplied by the number of calendar days short of 90 that the employer provided notice before such closing or layoff ”; and
+      - **(ii)** in clause (ii), by striking “and” at the end thereof;
+    - **(B)** by redesignating subparagraph (B) as subparagraph (C);
+    - **(C)** by inserting after subparagraph (A) the following:
+      > - **(B)** interest on the amount described in subparagraph (A) calculated at the prevailing rate; and
 
-    - **(D)** in the matter following subparagraph (B), by striking “for the period of the violation, up to a maximum of 60 days” and inserting “for the number of workdays that an affected employee would have worked during the period of the violation, up to a maximum of 90 days”.
+    - **(D)** by striking the matter following subparagraph (C) (as so redesignated).
   - **(2)** *Exemption* Section 5(a)(4) of such Act (29 U.S.C. 2104(a)(4)) is amended by striking “reduce the amount of the liability or penalty provided for in this section” and inserting “reduce the amount of the liability under subparagraph (C) of paragraph (1) and reduce the amount of the penalty provided for in paragraph (3)”.
   - **(3)** *Administrative complaint* Section 5(a)(5) of such Act (29 U.S.C. 2104(a)(5)) is amended—
-    - **(A)** by striking “may sue,” and inserting “may,”;
+    - **(A)** by striking “may sue” and inserting “may,”;
     - **(B)** by inserting after “both,” the following: “(A) file a complaint with the Secretary alleging a violation of section 3, or (B) bring suit”; and
     - **(C)** by adding at the end thereof the following new sentence: “A person seeking to enforce such liability may use one or both of the enforcement mechanisms described in subparagraphs (A) and (B).”.
   - **(4)** *Action by the Secretary* Section 5 of such Act (29 U.S.C. 2104) is amended—
@@ -80,10 +77,18 @@ This Act may be cited as the “Early Warning and Health Care for Workers Affect
   > - **(a)** *Posting of notices* Each employer shall post and keep posted in conspicuous places upon its premises where notices to employees are customarily posted a notice to be prepared or approved by the Secretary setting forth excerpts from, or summaries of, the pertinent provisions of this chapter and information pertinent to the filing of a complaint.
   > - **(b)** *Penalties* A willful violation of this section shall be punishable by a fine of not more than $500 for each separate offense.
 
-- **(e)** *Information regarding benefits and services available to employees* Such Act is further amended by adding at the end the following:
-  > ## § 12. Information regarding benefits and services available to workers
+- **(e)** *Non-waiver of rights and remedies; Information regarding benefits and services available to employees* Such Act is further amended by adding at the end the following:
+  > ## § 12. Rights and remedies not subject to waiver
   >
-  > The Secretary of Labor shall maintain a guide of benefits and services which may be available to affected employees, including unemployment compensation, trade adjustment assistance, COBRA benefits, and services available under the Workforce Investment Act of 1998. Such guide shall be available on the Internet website of the Department of Labor and shall include a description of the benefits and services, the eligibility requirements, and the means of obtaining such benefits and services. Upon receiving notice from an employer under section 3(a)(2), the Secretary shall immediately transmit such guide to such employer.
+  > - **(a)** *In general* The rights and remedies provided under this Act (including the right to maintain a civil action) may not be waived, deferred, or lost pursuant to any agreement or settlement other than an agreement or settlement described in subsection (b).
+  > - **(b)** *Agreement or settlement* An agreement or settlement referred to in subsection (a) is an agreement or settlement negotiated by the Secretary, an attorney general of any State, or a private attorney on behalf of affected employees.
+  >
+  > ## § 13. Information regarding benefits and services available to workers
+  >
+  > The Secretary of Labor shall maintain a guide of benefits and services which may be available to affected employees, including unemployment compensation, trade adjustment assistance, COBRA benefits, and early access to training and other services, including counseling services, available under the Workforce Investment Act of 1998. Such guide shall be available on the Internet website of the Department of Labor and shall include a description of the benefits and services, the eligibility requirements, and the means of obtaining such benefits and services. Upon receiving notice from an employer under section 3(a)(2), the Secretary shall immediately transmit such guide to such employer.
+
+- **(e)** *Notice Excused Where Caused by Terrorist Attack* Section 3(b)(2) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2102(b)(2)) is amended by adding at the end the following new subparagraph:
+  > - **(C)** No notice under this Act shall be required if the plant closing or mass layoff is due directly or indirectly to a terrorist attack on the United States.
 
 ## § 3. Extension of COBRA benefits for certain individuals certified as TAA eligible
 
