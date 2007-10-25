@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3796
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3796
@@ -16,7 +16,7 @@ Early Warning and Health Care for Workers Affected by Globalization Act
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (9)
+## Cosponsors (13)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
@@ -27,6 +27,10 @@ Early Warning and Health Care for Workers Affected by Globalization Act
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
 ## Committees (1)
 
@@ -37,3 +41,8 @@ Early Warning and Health Care for Workers Affected by Globalization Act
 - 2007-10-10 — Introduced in House
 - 2007-10-10 — Introduced in House
 - 2007-10-10 — Referred to the House Committee on Education and Labor.
+- 2007-10-18 — Committee Consideration and Mark-up Session Held.
+- 2007-10-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 18.
+- 2007-10-25 — Placed on the Union Calendar, Calendar No. 258.
+- 2007-10-25 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-410.
+- 2007-10-25 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-410.
