@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 347
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 347
@@ -32,3 +32,5 @@ A resolution designating May 2008 as "National Be Bear Aware and Wildlife Stewar
 - 2007-10-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-10-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-10-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
+- 2007-10-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S13494-13495; text as passed Senate: CR S13494)
+- 2007-10-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S13494-13495; text as passed Senate: CR S13494)
