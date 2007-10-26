@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3963
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3963
@@ -16,7 +16,7 @@ Children's Health Insurance Program Reauthorization Act of 2007
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 
-## Cosponsors (23)
+## Cosponsors (24)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
@@ -41,6 +41,7 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - Rep. Barrow, John [D-GA-12] (B001252)
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 - Rep. Ross, Mike [D-AR-4] (R000573)
+- Sen. Vitter, David [R-LA] (V000127)
 
 ## Committees (5)
 
@@ -50,10 +51,16 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - House — Oversight and Accountability Committee
 - House — Ways and Means Committee
 
-## Recorded votes (2)
+## Recorded votes (8)
 
 - 2007-10-25 — [House 110-1-1008](votes/house-110-1-1008.md) — On Motion to Recommit with Instructions — **Failed** (164–242)
 - 2007-10-25 — [House 110-1-1009](votes/house-110-1-1009.md) — On Passage — **Passed** (265–142)
+- 2007-10-31 — [Senate 110-1-401](votes/senate-110-1-0401.md) — On the Cloture Motion — **Cloture Motion Agreed to** (62–33)
+- 2007-11-01 — [Senate 110-1-402](votes/senate-110-1-0402.md) — On the Cloture Motion — **Cloture Motion Agreed to** (65–30)
+- 2007-11-01 — [Senate 110-1-403](votes/senate-110-1-0403.md) — On Passage of the Bill — **Bill Passed** (64–30)
+- 2007-12-12 — [House 110-1-1154](votes/house-110-1-1154.md) — On motion to postpone consideration of the veto message — **Passed** (211–180)
+- 2008-01-23 — [House 110-2-21](votes/house-110-2-0021.md) — On Ordering the Previous Question — **Passed** (217–195)
+- 2008-01-23 — [House 110-2-22](votes/house-110-2-0022.md) — Passage, Objections of the President Not Withstanding — **Failed** (260–152)
 
 ## Actions
 
@@ -84,3 +91,39 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - 2007-10-26 — Motion to proceed to consideration of measure in Senate. (consideration: CR S13492)
 - 2007-10-26 — Motion to proceed to consideration of measure withdrawn in Senate.
 - 2007-10-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
+- 2007-10-31 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 62 - 33. Record Vote Number: 401. (consideration: CR S13610; text: CR S13610)
+- 2007-10-31 — Motion to proceed to measure considered in Senate. (consideration: CR S13598-13611)
+- 2007-10-31 — Senate amendment submitted
+- 2007-10-31 — Senate amendment submitted
+- 2007-10-31 — Senate amendment submitted
+- 2007-10-31 — Senate amendment submitted
+- 2007-10-31 — Senate amendment submitted
+- 2007-10-31 — Senate amendment submitted
+- 2007-11-01 — Cleared for White House.
+- 2007-11-01 — Cloture motion on the bill presented in Senate. (consideration: CR S13675)
+- 2007-11-01 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 65 - 30. Record Vote Number: 402. (consideration: CR S13675-13676; text: CR S13675)
+- 2007-11-01 — Measure laid before Senate by motion.
+- 2007-11-01 — Message on Senate action sent to the House.
+- 2007-11-01 — Motion to proceed to consideration of measure agreed to in Senate. (consideration: CR S13657; text: CR S13657)
+- 2007-11-01 — Motion to proceed to measure considered in Senate. (consideration: CR S13657-13676)
+- 2007-11-01 — Passed Senate without amendment by Yea-Nay Vote. 64 - 30. Record Vote Number: 403.
+- 2007-11-01 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 64 - 30. Record Vote Number: 403.
+- 2007-11-01 — Senate amendment submitted
+- 2007-11-01 — Senate amendment submitted
+- 2007-11-14 — Referred to the Subcommittee on Health, Employment, Labor, and Pensions.
+- 2007-11-30 — Presented to President.
+- 2007-11-30 — Presented to President.
+- 2007-12-12 — DEBATE - The House proceeded with one hour of debate on the motion to postpone consideration of the President's veto message to accompany H.R. 3963.
+- 2007-12-12 — Mr. Hoyer moved to postpone consideration of the veto message until Jan. 23, 2008. (consideration: CR H15382-15391)
+- 2007-12-12 — On motion to postpone consideration of the veto message Agreed to by the Yeas and Nays: 211 - 180 (Roll no. 1154).
+- 2007-12-12 — The Chair laid before the House the veto message from the President.
+- 2007-12-12 — The previous question on the motion to postpone consideration of the veto message was ordered without objection. (consideration: CR H15391)
+- 2007-12-12 — Vetoed by President.
+- 2007-12-12 — Vetoed by President.
+- 2008-01-23 — DEBATE - The House proceeded with one hour of debate on the question of passage of H.R. 3963, the objections of the President to the contrary, notwithstanding.
+- 2008-01-23 — Failed of passage in House over veto: On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 260 - 152 (Roll no. 22).(consideration: CR H407)
+- 2008-01-23 — In House, veto referred to the Committees on Energy and Commerce and Ways and Means
+- 2008-01-23 — Motion to refer the bill and accompanying veto message to the Committees on Energy and Commerce and Ways and Means. Agreed to without objection.
+- 2008-01-23 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 195 (Roll no. 21). (consideration: CR H406-407)
+- 2008-01-23 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 260 - 152 (Roll no. 22). (consideration: CR H407)
+- 2008-01-23 — The Chair laid before the House the veto message from the President. (consideration: CR H395-407)
