@@ -1,7 +1,7 @@
 ---
 measure: S. 635
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 635
@@ -16,9 +16,10 @@ Methamphetamine Remediation Research Act of 2007
 
 - Sen. Baucus, Max [D-MT] (B000243)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Harkin, Tom [D-IA] (H000206)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Methamphetamine Remediation Research Act of 2007
 
 - 2007-02-15 — Introduced in Senate
 - 2007-02-15 — Read twice and referred to the Committee on Environment and Public Works.
+- 2007-06-06 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2007-10-26 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-207.
+- 2007-10-26 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-207.
+- 2007-10-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.
