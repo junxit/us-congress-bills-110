@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3963
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3963
@@ -80,3 +80,7 @@ Children's Health Insurance Program Reauthorization Act of 2007
 - 2007-10-25 — Rule provides for consideration of H.R. 3963 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2007-10-25 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12089)
 - 2007-10-25 — The previous question was ordered without objection. (consideration: CR H12087)
+- 2007-10-26 — Cloture motion on the measure presented in Senate.
+- 2007-10-26 — Motion to proceed to consideration of measure in Senate. (consideration: CR S13492)
+- 2007-10-26 — Motion to proceed to consideration of measure withdrawn in Senate.
+- 2007-10-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.
