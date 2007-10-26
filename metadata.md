@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 346
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 346
@@ -16,7 +16,7 @@ A resolution expressing heartfelt sympathy for the victims of the devastating th
 
 - Sen. Coleman, Norm [R-MN] (C001057)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -28,6 +28,7 @@ A resolution expressing heartfelt sympathy for the victims of the devastating th
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Obama, Barack [D-IL] (O000167)
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Coburn, Tom [R-OK] (C000560)
 
 ## Committees (1)
 
@@ -41,3 +42,11 @@ A resolution expressing heartfelt sympathy for the victims of the devastating th
 - 2007-10-25 — Committee on the Judiciary. Reported by Senator Leahy with an amendment and with an amended preamble. Without written report.
 - 2007-10-25 — Committee on the Judiciary. Reported by Senator Leahy with an amendment and with an amended preamble. Without written report.
 - 2007-10-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 445.
+- 2007-10-26 — Amendment SA 3471 agreed to in Senate by Unanimous Consent.
+- 2007-10-26 — Amendment SA 3471 proposed by Senator Reid for Senator Coleman. (consideration: CR S13495; text: CR S13495) To amend the title of the resolution.
+- 2007-10-26 — Measure laid before Senate by unanimous consent. (consideration: CR S13494-13495; text of measure as reported in Senate: CR S13494-13495)
+- 2007-10-26 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.
+- 2007-10-26 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.
+- 2007-10-26 — Senate amendment agreed to: Amendment SA 3471 agreed to in Senate by Unanimous Consent.
+- 2007-10-26 — Senate amendment proposed (on the floor): Amendment SA 3471 proposed by Senator Reid for Senator Coleman.(consideration: CR S13495; text: CR S13495)
+- 2007-10-26 — Senate amendment submitted
