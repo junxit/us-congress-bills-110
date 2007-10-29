@@ -37,11 +37,12 @@ In this Act, the following definitions apply:
 - **(f)** *Use of temporary housing units To provide housing to volunteers*
   - **(1)** *In general* In providing assistance under title IV of the Stafford Act (42 U.S.C. 5170 et seq.) for covered hurricane damages, the President may provide temporary housing units purchased under section 408 of the Stafford Act (42 U.S.C. 5174) to State and local governments and appropriate private nonprofit entities for the purpose of providing housing to volunteers assisting in the recovery from such damages.
   - **(2)** *Feasibility determination* The President may provide temporary housing units for the purposes described in paragraph (1) only if the President determines that such assistance is appropriate, cost effective, and would not unduly interfere with the ability of the Federal Emergency Management Agency to provide housing for individuals and households with respect to other major disasters.
-- **(g)** *Contributions for public facilities used To host public events*
+- **(g)** *Contributions for public facilities used to host public events*
   - **(1)** *In general* Notwithstanding sections 403 and 406 of the Stafford Act (42 U.S.C. 5170b and 5172), the President may make contributions to the State of Louisiana for—
     - **(A)** costs incurred for the repair or restoration of a public facility used to host public events if the facility was damaged as a result of use in conducting response activities for Hurricane Katrina or Rita;
-    - **(B)** costs incurred because response activities for Hurricane Katrina or Rita precluded the normal use of the facility for public events; and
-    - **(C)** costs incurred for necessary materials provided to evacuees in a public facility used to host public events.
+    - **(B)** costs incurred because response activities for Hurricane Katrina or Rita precluded the normal use of a public facility used to host public events;
+    - **(C)** costs incurred for necessary materials provided to evacuees of Hurricane Katrina or Rita in a public facility used to host public events; and
+    - **(D)** the reasonable costs of renting or leasing a public facility used to host public events that was used for conducting response activities for Hurricane Katrina or Rita.
   - **(2)** *Limitations*
     - **(A)** *Contributions for repair and restoration costs* Contributions made under paragraph (1)(A) shall be limited to repair and restoration costs associated with damages described in paragraph (1)(A) that occurred—
       - **(i)** in the case of damages related to Hurricane Katrina, on or before October 27, 2005; and
@@ -51,6 +52,7 @@ In this Act, the following definitions apply:
         - **(I)** for which there was a binding commitment for use of the facility in effect prior to August 29, 2005; and
         - **(II)** that was scheduled to be held on or before December 31, 2005, at the facility.
       - **(ii)** *Lost revenues* Contributions under paragraph (1)(B) shall not be made for any lost revenues.
+    - **(C)** *Contributions for reasonable costs of renting or leasing* Contributions made under paragraph (1)(D) shall be limited to the reasonable costs of renting or leasing the facility during the period beginning on August 29, 2005, and ending on January 6, 2006.
   - **(3)** *Costs recoverable from other sources* Costs that may be recovered by the State of Louisiana from any other program or from insurance or another source shall not be eligible for assistance under this subsection.
   - **(4)** *Limitation on statutory construction* Nothing in this section shall be construed to affect eligibility for assistance under section 403 or 406 of the Stafford Act (42 U.S.C. 5170b or 5172), except to the extent that such assistance would result in a duplication of benefits.
   - **(5)** *Federal share* The Federal share of assistance under this subsection shall be 100 percent of the eligible costs.

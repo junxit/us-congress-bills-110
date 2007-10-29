@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3247
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3247
@@ -42,3 +42,9 @@ Hurricanes Katrina and Rita Recovery Facilitation Act of 2007
 - 2007-10-18 — Placed on the Union Calendar, Calendar No. 241.
 - 2007-10-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-387.
 - 2007-10-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-387.
+- 2007-10-29 — Considered under suspension of the rules. (consideration: CR H12124-12128)
+- 2007-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3247.
+- 2007-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-29 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2007-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12124-12125)
+- 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12124-12125)
