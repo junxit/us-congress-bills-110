@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 230
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 230
@@ -16,7 +16,7 @@ Supporting the observance of Breast Cancer Awareness Month, and for other purpos
 
 - Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
 
-## Cosponsors (60)
+## Cosponsors (129)
 
 - Rep. Sessions, Pete [R-TX-32] (S000250)
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
@@ -78,6 +78,75 @@ Supporting the observance of Breast Cancer Awareness Month, and for other purpos
 - Rep. Latham, Tom [R-IA-4] (L000111)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 - Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. Young, C. W. Bill [R-FL-10] (Y000031)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Wilson, Heather [R-NM-1] (W000789)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Davis, David [R-TN-1] (D000606)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Knollenberg, Joe [R-MI-9] (K000288)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Hastert, J. Dennis [R-IL-14] (H000323)
+- Rep. Mica, John L. [R-FL-7] (M000689)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. LaHood, Ray [R-IL-18] (L000552)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
 ## Committees (1)
 
@@ -89,3 +158,9 @@ Supporting the observance of Breast Cancer Awareness Month, and for other purpos
 - 2007-10-10 — Introduced in House
 - 2007-10-10 — Referred to the House Committee on Energy and Commerce.
 - 2007-10-10 — Referred to the Subcommittee on Health.
+- 2007-10-29 — Considered under suspension of the rules. (consideration: CR H12122-12123)
+- 2007-10-29 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 230.
+- 2007-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-29 — Ms. Baldwin moved to suspend the rules and agree to the resolution.
+- 2007-10-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H12122)
+- 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H12122)
