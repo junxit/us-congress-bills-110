@@ -1,7 +1,7 @@
 ---
 measure: S. 1498
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 0 executed, 19 stated and not applied.
+21 amendatory instructions. 0 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -46,7 +46,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraph (4) (as redesignated by subparagraph (A)), by striking “paragraph (2)” and inserting “paragraph (3)”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (6) (as redesignated by subparagraph (A)), by striking “subsection (a)(2)(C)” and inserting “this section”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraphs (1) and (2), by striking “subsections (b) and (d) of section 3” each place it appears and inserting “subsections (b), (d), and (e) of section 3”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “(other than subsection 3(b))” and inserting “(other than subsections (b), (d), and (e) of section 3)”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraphs (1) and (2), by striking “(other than subsection 3(b))” each place it appears and inserting “(other than subsections (b), (d), and (e) of section 3)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking the subsection designation and heading and all that follows through “Section 3” and inserting “Section 3”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (b). | the bill names no machine-readable US Code section |

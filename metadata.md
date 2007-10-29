@@ -1,7 +1,7 @@
 ---
 measure: S. 1498
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1498
@@ -16,12 +16,13 @@ Captive Primate Safety Act
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
 - Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Ensign, John [R-NV] (E000194)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ Captive Primate Safety Act
 - 2007-05-24 — Introduced in Senate
 - 2007-05-24 — Read twice and referred to the Committee on Environment and Public Works.
 - 2007-05-24 — Sponsor introductory remarks on measure. (CR S6866)
+- 2007-07-31 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2007-10-29 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 110-210.
+- 2007-10-29 — Committee on Environment and Public Works. Reported by Senator Boxer with amendments. With written report No. 110-210.
+- 2007-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 455.

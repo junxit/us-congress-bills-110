@@ -46,8 +46,12 @@ Section 2(g) of the Lacey Act Amendments of 1981 (16 U.S.C. 3371(g)) is amended 
     - **(G)** by adding at the end the following:
       > - **(7)** *Application* This subsection shall apply beginning on the effective date of the regulations promulgated pursuant to this subsection.
 
-- **(b)** *Criminal Penalties* Section 4(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3373(d)) is amended—
-  - **(1)** in paragraphs (1) and (2), by striking “subsections (b) and (d) of section 3” each place it appears and inserting “subsections (b), (d), and (e) of section 3”; and
+- **(b)** *Civil penalties* Section 4(a)(1) of the Lacey Act Amendments of 1981 (16 U.S.C. 3373(a)(1)) is amended—
+  - **(1)** by striking “(other than subsection 3(b))” and inserting “(other than subsections (b), (d), and (e) of section 3)”; and
+  - **(2)** by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”.
+- **(b)** *Criminal Penalties* Section 4(d) of the
+- **(c)** *Criminal penalties* Section 4(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3373(d)) is amended—
+  - **(1)** in paragraphs (1) and (2), by striking “(other than subsection 3(b))” each place it appears and inserting “(other than subsections (b), (d), and (e) of section 3)”; and
   - **(2)** in paragraph (3), by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”.
 
 ## § 4. Applicability provision amendment
