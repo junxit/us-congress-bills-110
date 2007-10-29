@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2728
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2728
@@ -48,3 +48,9 @@ To designate the station of the United States Border Patrol located at 25762 Mad
 - 2007-09-14 — Placed on the House Calendar, Calendar No. 114.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-327.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-327.
+- 2007-10-29 — Considered under suspension of the rules. (consideration: CR H12129-12130)
+- 2007-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2728.
+- 2007-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-29 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12129)
+- 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12129)
