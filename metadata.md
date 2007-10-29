@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3224
@@ -42,6 +42,10 @@ Dam Rehabilitation and Repair Act of 2007
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2007-10-29 — [House 110-1-1010](votes/house-110-1-1010.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (263–102)
+
 ## Actions
 
 - 2007-07-30 — Introduced in House
@@ -55,3 +59,10 @@ Dam Rehabilitation and Repair Act of 2007
 - 2007-10-18 — Placed on the Union Calendar, Calendar No. 240.
 - 2007-10-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-386.
 - 2007-10-18 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-386.
+- 2007-10-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-10-29 — Considered under suspension of the rules. (consideration: CR H12123-12124, H12132)
+- 2007-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3224.
+- 2007-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-29 — Mr. Salazar moved to suspend the rules and pass the bill, as amended.
+- 2007-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 263 - 102 (Roll no. 1010). (text: CR H12123)
+- 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 263 - 102 (Roll no. 1010).(text: CR H12123)
