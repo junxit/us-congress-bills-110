@@ -2,7 +2,7 @@
 legis-num: H. RES. 740
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 740
@@ -11,14 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas, on September 29, 2007, an estimated 1,000 members of a heavily-armed Darfur rebel group overran a small base in Haskanita, Darfur, Sudan, occupied by the African Union Mission in Sudan (AMIS), brutally killing 10 peacekeepers—seven Nigerian peacekeepers and three other soldiers from Mali, Senegal, and Botswana—and wounding seven peacekeepers, with 50 soldiers missing;
+- Whereas, on September 29, 2007, an estimated 1,000 heavily-armed rebels in Darfur overran a small base in Haskanita, Darfur, Sudan, occupied by the African Union Mission in Sudan (AMIS), brutally killing 10 peacekeepers—seven Nigerian soldiers and three other unarmed military observers and civilian police officers from Mali, Senegal, and Botswana—and wounding seven other peacekeepers, with 50 peacekeepers still missing;
 - Whereas, in an assault described by the African Union commander as “deliberate and sustained”, the rebel group broke into the AMIS base in 30 vehicles with heavy artillery and mortars and battled for hours until AMIS forces ran out of ammunition;
 - Whereas the attacks were the worst attacks on AMIS peacekeepers since the deployment of the peacekeepers to Sudan in July 2004;
 - Whereas the United Nations Security Council condemned the “murderous attack” on AMIS peacekeepers and demanded that “no effort be spared” to identify and bring to justice the perpetrators of the attacks;
-- Whereas, in the aftermath of the attacks, Haskanita has been burned to the ground, driving more than 15,000 civilians into the bush or neighboring towns;
-- Whereas the attacks have been openly condemned by the United States Government, the African Union, the international community, and civilized people everywhere;
-- Whereas the Government of Sudan has not publicly spoken out against or condemned the attacks; and
-- Whereas the attacks occurred amid international peace efforts to deploy a hybrid African Union-United Nations peacekeeping force to Darfur, Sudan, and convene peace talks scheduled for October 27, 2007, in Tripoli, Libya: Now, therefore, be it
+- Whereas, in the aftermath of the attacks, the Government of Sudan secured the area reportedly to facilitate the evacuation of AMIS peacekeepers, but later was accused of burning Haskanita to the ground, driving more than 15,000 civilians into the wilderness or neighboring towns;
+- Whereas the attacks have been openly condemned by the United States Government, the African Union, the international community, and civilized people everywhere; and
+- Whereas the Government of Sudan has not publicly spoken out against or condemned the attacks: Now, therefore, be it
 
 That the House of Representatives—
 
