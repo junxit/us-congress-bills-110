@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3877
 
-> To require the Director of the National Institute of Standards and Technology to establish an initiative to promote the research, development, and demonstration of miner tracking and communications systems and to promote the establishment of standards and other measurement services regarding underground communications to protect miners in the United States.
+> To require the Director of the National Institute of Standards and Technology to establish an initiative to promote the research, development, and demonstration of miner tracking and communications systems and to promote the establishment of standards regarding underground communications to protect miners in the United States.
 
 ## § 1. Short title
 
@@ -42,7 +42,7 @@ Congress finds the following:
 
 ## § 4. Standards regarding underground communications
 
-Consistent with Office of Management and Budget Circular A–119, the Director of the National Institute of Standards and Technology shall work with industry and relevant Federal agencies to develop consensus industry standards for communications in underground mines. The Director shall also develop and provide any needed measurement services to support implementation of these standards. In their efforts to help develop these standards and related measurement services, the following issues should be addressed:
+The Director of the National Institute of Standards and Technology shall work with industry and relevant Federal agencies to develop consensus industry standards for communications in underground mines. The Director shall also develop and provide any needed measurement services to support implementation of these standards. In their efforts to help develop these standards and related measurement services, the following issues should be addressed:
 
 - **(1)** The appropriate use of frequency bands and power levels.
 - **(2)** Matters related to interoperability of systems, applications, and devices.
