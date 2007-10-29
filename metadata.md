@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2671
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2671
@@ -60,3 +60,9 @@ To designate the United States courthouse located at 301 North Miami Avenue, Mia
 - 2007-09-14 — Placed on the House Calendar, Calendar No. 113.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-326.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-326.
+- 2007-10-29 — Considered under suspension of the rules. (consideration: CR H12128-12129)
+- 2007-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2671.
+- 2007-10-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-29 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12128)
+- 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12128)
