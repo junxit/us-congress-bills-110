@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3927
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3927
@@ -22,9 +22,10 @@ Third Higher Education Extension Act of 2007
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Keller, Ric [R-FL-8] (K000361)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -37,3 +38,5 @@ Third Higher Education Extension Act of 2007
 - 2007-10-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H11885)
 - 2007-10-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H11885)
 - 2007-10-23 — Referred to the House Committee on Education and Labor.
+- 2007-10-24 — Received in the Senate.
+- 2007-10-30 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
