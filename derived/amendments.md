@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3224
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
