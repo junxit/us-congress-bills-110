@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 58
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 58
@@ -16,7 +16,7 @@ Expressing support for designation of the month of October 2007 as "Country Musi
 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Cosponsors (25)
+## Cosponsors (33)
 
 - Rep. Feeney, Tom [R-FL-24] (F000447)
 - Rep. Coble, Howard [R-NC-6] (C000556)
@@ -43,6 +43,14 @@ Expressing support for designation of the month of October 2007 as "Country Musi
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
 - Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 
 ## Committees (1)
 
@@ -53,3 +61,11 @@ Expressing support for designation of the month of October 2007 as "Country Musi
 - 2007-10-16 — Introduced in House
 - 2007-10-16 — Introduced in House
 - 2007-10-16 — Referred to the House Committee on Education and Labor.
+- 2007-10-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-10-29 — Considered under suspension of the rules. (consideration: CR H12107-12109)
+- 2007-10-29 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 58.
+- 2007-10-29 — Mr. Hinojosa moved to suspend the rules and pass the resolution.
+- 2007-10-30 — Considered as unfinished business. (consideration: CR H12169)
+- 2007-10-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-10-30 — On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 1015). (text: CR 10/29/2007 H12108)
+- 2007-10-30 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 1015).(text: CR 10/29/2007 H12108)
