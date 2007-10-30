@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3877
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3877
@@ -30,9 +30,10 @@ Mine Communications Technology Innovation Act
 - Rep. Udall, Mark [D-CO-2] (U000038)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Mine Communications Technology Innovation Act
 - 2007-10-29 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-411.
 - 2007-10-29 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-411.
 - 2007-10-29 — The title of the measure was amended. Agreed to without objection.
+- 2007-10-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
