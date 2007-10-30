@@ -1,7 +1,7 @@
 ---
 measure: S. 2258
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2258
@@ -32,3 +32,7 @@ Third Higher Education Extension Act of 2007
 - 2007-10-30 — Presented to President.
 - 2007-10-30 — Presented to President.
 - 2007-10-30 — Received in the House.
+- 2007-10-31 — Became Public Law No: 110-109.
+- 2007-10-31 — Became Public Law No: 110-109.
+- 2007-10-31 — Signed by President.
+- 2007-10-31 — Signed by President.
