@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3247
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3247
@@ -25,9 +25,10 @@ Hurricanes Katrina and Rita Recovery Facilitation Act of 2007
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
 - Rep. Jindal, Bobby [R-LA-1] (J000287)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Hurricanes Katrina and Rita Recovery Facilitation Act of 2007
 - 2007-10-29 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
 - 2007-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12124-12125)
 - 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12124-12125)
+- 2007-10-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
