@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2671
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2671
@@ -43,9 +43,10 @@ To designate the United States courthouse located at 301 North Miami Avenue, Mia
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Weldon, Dave [R-FL-15] (W000267)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ To designate the United States courthouse located at 301 North Miami Avenue, Mia
 - 2007-10-29 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2007-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12128)
 - 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12128)
+- 2007-10-30 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
