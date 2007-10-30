@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 230
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 230
@@ -148,9 +148,10 @@ Supporting the observance of Breast Cancer Awareness Month, and for other purpos
 - Rep. Terry, Lee [R-NE-2] (T000459)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -164,3 +165,4 @@ Supporting the observance of Breast Cancer Awareness Month, and for other purpos
 - 2007-10-29 — Ms. Baldwin moved to suspend the rules and agree to the resolution.
 - 2007-10-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H12122)
 - 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H12122)
+- 2007-10-30 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
