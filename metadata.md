@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 234
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 234
@@ -53,9 +53,10 @@ Calling on the Government of the People's Republic of China to respect the human
 - Rep. Inglis, Bob [R-SC-4] (I000023)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -70,3 +71,4 @@ Calling on the Government of the People's Republic of China to respect the human
 - 2007-10-29 — Mr. Tanner moved to suspend the rules and agree to the resolution.
 - 2007-10-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H12109-12110)
 - 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H12109-12110)
+- 2007-10-30 — Received in the Senate and referred to the Committee on Foreign Relations.
