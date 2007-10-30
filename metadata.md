@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2671
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2671
@@ -68,3 +68,15 @@ To designate the United States courthouse located at 301 North Miami Avenue, Mia
 - 2007-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12128)
 - 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12128)
 - 2007-10-30 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2007-12-13 — Cleared for White House.
+- 2007-12-13 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-13 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S15568)
+- 2007-12-13 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S15568)
+- 2007-12-14 — Message on Senate action sent to the House.
+- 2007-12-19 — Presented to President.
+- 2007-12-19 — Presented to President.
+- 2007-12-21 — Became Public Law No: 110-146.
+- 2007-12-21 — Became Public Law No: 110-146.
+- 2007-12-21 — Signed by President.
+- 2007-12-21 — Signed by President.

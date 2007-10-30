@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2671
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 2671
@@ -15,4 +15,4 @@ The United States courthouse at 301 North Miami Avenue, Miami, Florida, shall be
 
 ## § 2. References
 
-Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States courthouse referred to in subsection (a) shall be deemed to be a reference to the “C. Clyde Atkins United States Courthouse”.
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States courthouse referred to in section 1 shall be deemed to be a reference to the “C. Clyde Atkins United States Courthouse”.
