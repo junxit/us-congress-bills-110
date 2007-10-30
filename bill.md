@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2258
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -23,7 +23,7 @@ Nothing in this Act, or in the Higher Education Extension Act of 2005 as amended
 
 ## § 4. Definition of eligible not-for-profit holder
 
-Section 435(p) of the Higher Education Act of 1965 (20 U.S.C. 1085(p)) is amended —
+Section 435(p) of the Higher Education Act of 1965 (20 U.S.C. 1085(p)) is amended—
 
 - **(1)** in paragraph (1), by striking subparagraph (D) and inserting the following:
   > - **(D)** acting as a trustee on behalf of a State, political subdivision, authority, agency, instrumentality, or other entity described in subparagraph (A), (B), or (C), regardless of whether such State, political subdivision, authority, agency, instrumentality, or other entity is an eligible lender under subsection (d).
