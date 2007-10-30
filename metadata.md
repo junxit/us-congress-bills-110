@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1473
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1473
@@ -51,9 +51,10 @@ Anthony DeJuan Boatwright Act
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Anthony DeJuan Boatwright Act
 - 2007-10-29 — Mr. Barrow moved to suspend the rules and pass the bill, as amended.
 - 2007-10-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12106)
 - 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12106)
+- 2007-10-30 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
