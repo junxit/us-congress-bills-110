@@ -2,12 +2,10 @@
 legis-num: H. RES. 778
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 778
-
-> Honoring the first responders and supporting the victims of the Southern California fires.
 
 ## Preamble
 
@@ -22,7 +20,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas hundreds of volunteers took time from their daily lives to help ensure that evacuated families are sheltered, clothed, fed, and emotionally comforted through this traumatic event;
 - Whereas it is clear that the continued commitment and heroism exhibited by firefighters have saved countless lives, homes, and businesses;
 - Whereas the people of California and the nation recognize that the dedication of firefighters will remain steadfast throughout the ongoing efforts; and
-- Whereas a major Federal disaster declaration was issued on Ocober 24, 2007: Now, therefore, be it
+- Whereas a major Federal disaster declaration was issued on October 24, 2007: Now, therefore, be it
 
 That the House of Representatives—
 
