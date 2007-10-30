@@ -34,7 +34,10 @@ Section 604 of the National Manufactured Housing Construction and Safety Standar
 >     - **(B)** is equipped with a tone alarm;
 >     - **(C)** is equipped with Specific Alert Message Encoding, or SAME technology; and
 >     - **(D)** complies with Consumer Electronics Association (CEA) Standard 2009–A (or current revision thereof) Performance Specification for Public Alert Receivers.
->   - **(2)** *Liability protections* No aspect of the function, operation, performance, capabilities, or utilization of the weather radio required under this subsection, or any instructions related thereto, shall be subject to the requirements of section 613 or 615 or any regulations promulgated by the Secretary pursuant to the authority under such sections.
+>   - **(2)** *Liability protections*
+>     - **(A)** No aspect of the function, operation, performance, capabilities, or utilization of the weather radio required under this subsection, or any instructions related thereto, shall be subject to the requirements of section 613 or 615 or any regulations promulgated by the Secretary pursuant to the authority under such sections.
+>     - **(B)** Manufacturers of manufactured homes, as such term is defined in section 603, shall be immune from common law civil liability for any aspect of the function, operation, performance, capabilities, or utilization of the weather radio receiver mandated by the Federal manufactured home construction and safety standard promulgated in accordance with this subsection, including any instructions related thereto.
+>     - **(C)** Any reminder, assistance, or instructions provided by the operator of a manufactured housing community concerning the function of a weather radio contained in a manufactured home shall not subject the operator, an owner or employee of the manufactured home community, or the manufacturer of the manufactured home to liability for the functionality of that weather radio.
 
 ## § 4. Establishment
 
