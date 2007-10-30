@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1236
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 414 of title 39, United States Code, is amended by striking subsection (h). | the bill names no machine-readable US Code section |
+| — | replace | Section 414(h) of title 39, United States Code, is amended by striking “2007” and inserting “2011”. | the bill names no machine-readable US Code section |
