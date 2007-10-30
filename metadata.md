@@ -1,0 +1,41 @@
+---
+measure: H.R. 3992
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 3992
+
+Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvement Act of 2008
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+
+## Cosponsors (11)
+
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2007-10-30 — Introduced in House
+- 2007-10-30 — Introduced in House
+- 2007-10-30 — Referred to the House Committee on the Judiciary.
