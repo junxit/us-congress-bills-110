@@ -1,7 +1,7 @@
 ---
 measure: S. 2198
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2198
@@ -16,7 +16,7 @@ Andrew Larochelle God, Family, and Country Act of 2007
 
 - Sen. DeMint, Jim [R-SC] (D000595)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 - Sen. Inhofe, James M. [R-OK] (I000024)
@@ -27,9 +27,12 @@ Andrew Larochelle God, Family, and Country Act of 2007
 - Sen. Allard, Wayne [R-CO] (A000109)
 - Sen. Sununu, John E. [R-NH] (S001078)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Stevens, Ted [R-AK] (S000888)
 
 ## Actions
 
 - 2007-10-18 — Introduced in Senate
 - 2007-10-18 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-10-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.
+- 2007-10-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S13587; text as passed Senate: CR S13587)
+- 2007-10-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S13587; text as passed Senate: CR S13587)
