@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3920
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-187 amendatory instructions. 55 executed, 132 stated and not applied.
+222 amendatory instructions. 63 executed, 159 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,21 @@ to guess them.
 
 ### 19 U.S.C. § 2271
 
-> in subparagraph (A), by striking “firm)” and inserting “firm, and workers in a service sector firm or subdivision of a service sector firm, or public agency)”; and
+> by striking “or subdivision” and inserting “or public agency, or subdivision of a firm or public agency,”; and
+
+| | |
+|---|---|
+| Removed | `or subdivision` |
+| Inserted | `or public agency, or subdivision of a firm or public agency,` |
+
+### 19 U.S.C. § 2271
+
+> in subparagraph (A), by striking “firm)” and inserting “firm, and workers in a service sector firm or subdivision of a service sector firm, or of a public agency or subdivision thereof)”; and
 
 | | |
 |---|---|
 | Removed | `firm)` |
-| Inserted | `firm, and workers in a service sector firm or subdivision of a service sector firm, or public agency)` |
+| Inserted | `firm, and workers in a service sector firm or subdivision of a service sector firm, or of a public agency or subdivision thereof)` |
 
 ### 19 U.S.C. § 2272
 
@@ -116,12 +125,12 @@ to guess them.
 
 ### 19 U.S.C. § 2319
 
-> in paragraph (2), by striking “employment—” and all that follows and inserting “employment has been totally or partially separated from such employment.”;
+> in paragraph (2), by striking “employment—” and all that follows and inserting “employment, has been totally or partially separated from such employment.”;
 
 | | |
 |---|---|
 | Removed | `employment—` |
-| Inserted | `employment has been totally or partially separated from such employment.` |
+| Inserted | `employment, has been totally or partially separated from such employment.` |
 
 ### 19 U.S.C. § 2273
 
@@ -143,7 +152,16 @@ to guess them.
 
 ### 19 U.S.C. § 2273
 
-> in subsection (d), by striking “together with his reasons” and inserting “and on the Website of the Department of Labor, together with the Secretary’s reasons”.
+> by striking “subdivision of the firm” and all that follows through “he shall” and inserting “subdivision of the firm, or of a public agency or subdivision of a public agency, that total or partial separations from such firm (or subdivision) or public agency (or subdivision) are no longer attributable to the conditions specified in section 222, the Secretary shall”; and
+
+| | |
+|---|---|
+| Removed | `subdivision of the firm” and all that follows through “he shall` |
+| Inserted | `subdivision of the firm, or of a public agency or subdivision of a public agency, that total or partial separations from such firm (or subdivision) or public agency (or subdivision) are no longer attributable to the conditions specified in section 222, the Secretary shall` |
+
+### 19 U.S.C. § 2273
+
+> by striking “together with his reasons” and inserting “and on the Website of the Department of Labor, together with the Secretary’s reasons”.
 
 | | |
 |---|---|
@@ -494,7 +512,7 @@ to guess them.
 
 ### 19 U.S.C. § 2341
 
-> in the matter preceding subparagraph (A) of paragraph (2) , by striking “paragraph (1)(C)—” and inserting “paragraph (1)(C):”; and
+> in the matter preceding subparagraph (A) of paragraph (2), by striking “paragraph (1)(C)—” and inserting “paragraph (1)(C):”; and
 
 | | |
 |---|---|
@@ -519,6 +537,60 @@ to guess them.
 | Removed | `December 31, 2008` |
 | Inserted | `December 31, 2011` |
 
+### 29 U.S.C. § 2102
+
+> Section 3 of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2102) is amended by striking “60-day period” and inserting “90-day period” each place it appears.
+
+| | |
+|---|---|
+| Removed | `60-day period` |
+| Inserted | `90-day period` |
+
+### 29 U.S.C. § 2104
+
+> Section 5(a)(1) of such Act (29 U.S.C. 2104(a)(1)) is amended in the matter following subparagraph (B), by striking “60 days” and inserting “90 days”.
+
+| | |
+|---|---|
+| Removed | `60 days` |
+| Inserted | `90 days` |
+
+### 29 U.S.C. § 2102
+
+> in paragraph (1), by striking “or, if there is no such representative at that time, to each affected employee; and” and inserting “and to each affected employee;”; and
+
+| | |
+|---|---|
+| Removed | `or, if there is no such representative at that time, to each affected employee; and` |
+| Inserted | `and to each affected employee;` |
+
+### 29 U.S.C. § 2104
+
+> by striking “back pay for each day of violation” and inserting “two days’ pay multiplied by the number of calendar days short of 90 that the employer provided notice before such closing or layoff ”
+
+| | |
+|---|---|
+| Removed | `back pay for each day of violation` |
+| Inserted | `two days’ pay multiplied by the number of calendar days short of 90 that the employer provided notice before such closing or layoff` |
+
+### 29 U.S.C. § 2104
+
+> Section 5(a)(4) of such Act (29 U.S.C. 2104(a)(4)) is amended by striking “reduce the amount of the liability or penalty provided for in this section” and inserting “reduce the amount of the liability under subparagraph (C) of paragraph (1) and reduce the amount of the penalty provided for in paragraph (3)”.
+
+| | |
+|---|---|
+| Removed | `reduce the amount of the liability or penalty provided for in this section` |
+| Inserted | `reduce the amount of the liability under subparagraph (C) of paragraph (1) and reduce the amount of the penalty provided for in paragraph (3)` |
+
+### 29 U.S.C. § 2104
+
+> by striking “may sue” and inserting “may,”;
+
+| | |
+|---|---|
+| Removed | `may sue` |
+| Inserted | `may,` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -528,7 +600,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `19 U.S.C. § 2271` | replace | by striking “or subdivision” and inserting (or subdivision) or public agency (or subdivision); and | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2271` | insert | in paragraph (3), by inserting “and on the Website of the Department of Labor” after “Federal Register”. | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2272` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2272` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -561,8 +632,6 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2274` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2274` | replace | The table of contents for title II of the Trade Act of 1974 is amended by striking the item relating to section 224 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2275` | add-at-end | Section 225 of the Trade Act of 1974 (19 U.S.C. 2275) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2271` | add-at-end | Subchapter A of chapter 2 of title II of the trade Act of 1974 (19 U.S.C. 2271 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2271` | amend | The table of contents of the Trade Act of 1974 is amended by adding after the item relating to section 225 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2291` | replace | by striking subclauses (I) and (II) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2291` | strike | by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2291` | redesignate | by redesignating subclause (IV) as subclause (V); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -599,7 +668,7 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2296` | amend | Section 236(d) of the Trade Act of 1974 (19 U.S.C. 2296(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2291` | redesignate | in section 233(d) (as redesignated by section 121(d) of this Act), by inserting “suitable” before “on-the-job training”; and | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2291` | insert | by inserting “suitable” before “on-the-job training” each place it appears; and | the bill quotes the text inserted but describes where it goes |
-| `19 U.S.C. § 2291` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2291` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2295` | insert | Part II of subchapter B of chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2295 et seq.) is amended by inserting after section 236 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2295` | insert | The table of contents for title II of the Trade Act of 1974 is amended by inserting after the item relating to section 236 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2297` | strike | in subsection (a)(2)(C)(ii), by striking “, unless the worker received a waiver under section 231(c)”; and | the bill quotes the text struck but describes what replaces it |
@@ -617,13 +686,21 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 2918` | amend | Clause (i) of section 173(f)(2)(B) of the Workforce Investment Act of 1998 (29 U.S.C. 2918(f)(2)(B)) is amended by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2918` | add-at-end | Section 35 of such Code is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 2918` | add-at-end | Subsection (f) of section 173 of the Workforce Investment Act of 1998 (29 U.S.C. 2918) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1162` | replace | by striking “In the case of a qualified beneficiary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1162` | redesignate | by redesignating clauses (v) and (vi), as amended by paragraphs (1) and (2), as clauses (viii) and (ix) and by inserting after clause (iv) the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4980B` | replace | by striking “In the case of a qualified beneficiary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 4980B` | redesignate | by redesignating subclauses (V) and (VI), as amended by paragraph (1), as subclauses (VIII) and (IX) and by inserting after clause (IV) the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300bb-2` | replace | by striking “In the case of a qualified beneficiary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300bb-2` | redesignate | by redesignating clauses (iv) and (v), as amended by paragraph (1), as clauses (vi) and (vii) and by inserting after clause (iii) the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2318` | amend | by amending the heading to read as follows: “Reemployment trade adjustment assistance”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2318` | replace | by striking paragraphs (3) through (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2318` | replace | The table of contents for title II of the Trade Act of 1974 is amended by striking the item relating to section 246 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2271` | add-at-end | Subchapter A of chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2271` | amend | The table of contents of the Trade Act of 1974 is amended by adding after the item relating to section 225 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2311` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2311` | replace | by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2311` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2315` | strike | by striking “, in accordance with guidelines prescribed by the Secretary,” and | the bill quotes the text struck but describes what replaces it |
+| `19 U.S.C. § 2315` | strike | by striking “, in accordance with guidelines prescribed by the Secretary,”; and | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2321` | amend | The item relating to section 249 in the table of contents for title II of the Trade Act of 1974 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter C of chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2311 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents for title II of the Trade Act of 1974 is amended by inserting after the item relating to section 249 the following: | the bill names no machine-readable US Code section |
@@ -647,9 +724,13 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting after the first sentence the following: “Of the amounts appropriated pursuant to this subsection for each fiscal year, $350,000 shall be available for full-time positions in the Department of Commerce to administer the progr… | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “new product development” and inserting “the development of new products and services”; and | the bill names no machine-readable US Code section |
 | — | insert | in the second sentence, by inserting “, 223A,” after “223”. | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 2341` | amend | Chapter 3 of title II of the Trade Act of 1974 (19 U.S.C. 2341 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2341` | insert | The table of contents for title II of the Trade Act of 1974 is amended by inserting after the item relating to section 265 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | in subsection (a), by inserting “and on the Website of the Department of Agriculture” after “Federal Register”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1103` | add-at-end | Section 903 of the Social Security Act (42 U.S.C. 1103) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “2007” in paragraph (1) and inserting “2012”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2008” in paragraph (2) and inserting “2013”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “2007” in paragraph (1) and inserting “2010”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2008” in paragraph (2) and inserting “2011”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter Y of chapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new part: | the bill names no machine-readable US Code section |
 | — | insert | Subparagraphs (A) and (B) of section 51(d)(5) of such Code are each amended by inserting “manufacturing redevelopment zone,” after “renewal community,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Part IV of subchapter A of chapter 1 of such Code (relating to credits against tax) is amended by adding at the end the following new subpart: | the bill names no machine-readable US Code section |
@@ -660,3 +741,21 @@ complete account of the bill's effect, which it is not.
 | — | replace | The heading of subpart H of part IV of subchapter A of chapter 1 of such Code is amended by striking “certain bonds” and inserting “clean renewable energy bonds”. | the bill names no machine-readable US Code section |
 | — | replace | The table of subparts for part IV of subchapter A of chapter 1 of such Code is amended by striking the item relating to subpart H and inserting the following new items: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of parts for subchapter Y of chapter 1 of such Code is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| `29 U.S.C. § 2107` | amend | Paragraphs (1) through (3) of section 2(a) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2101(a)(1)–(3)) are amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2107` | amend | Paragraph (8) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2107` | strike | Section 8(a) of such Act (29 U.S.C. 2107(a)) is amended by striking “of Labor”. | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 2102` | replace | Section 3(d) of such Act (29 U.S.C. 2102(d)) is amended by striking out “, each of which is less than the minimum number of employees specified in section 2(a)(2) or (3) but which in the aggregate exceed that minimum number,” and inserti… | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 2101` | strike | Section 2(b)(1) of such Act (29 U.S.C. 2101(b)(1)) is amended by striking “(other than a part-time employee)”. | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 2102` | redesignate | by redesignating paragraph (2) as paragraph (3) and inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2102` | add-at-end | Section 3 of such Act (29 U.S.C. 2102) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2104` | strike | in clause (ii), by striking “and” at the end thereof; | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 2104` | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2104` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2104` | redesignate | by striking the matter following subparagraph (C) (as so redesignated). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2104` | insert | by inserting after “both,” the following: “(A) file a complaint with the Secretary alleging a violation of section 3, or (B) bring suit”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2104` | amend | by adding at the end thereof the following new sentence: “A person seeking to enforce such liability may use one or both of the enforcement mechanisms described in subparagraphs (A) and (B).”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2104` | redesignate | by redesignating subsection (b) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 209` | insert | by inserting after subsection (a) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2101` | amend | Section 11 of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2101 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2107` | add-at-end | Such Act is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2102` | amend | Section 3(b)(2) of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2102(b)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
