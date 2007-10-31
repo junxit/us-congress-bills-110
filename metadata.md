@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2295
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2295
@@ -325,3 +325,6 @@ ALS Registry Act
 - 2007-10-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-10-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 970). (text: CR 10/15/2007 H11513-11514)
 - 2007-10-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 3 (Roll no. 970).(text: CR 10/15/2007 H11513-11514)
+- 2007-10-17 — Received in the Senate.
+- 2007-10-30 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-10-31 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.
