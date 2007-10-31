@@ -1,7 +1,7 @@
 ---
 measure: S. 2265
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2265
@@ -24,8 +24,15 @@ An Act to extend the existing provisions regarding the eligibility for essential
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Johnson, Tim [D-SD] (J000177)
 
+## Committees (1)
+
+- House — Transportation and Infrastructure Committee
+
 ## Actions
 
 - 2007-10-30 — Introduced in Senate
 - 2007-10-30 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S13587; text as passed Senate: CR S13587)
 - 2007-10-30 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S13587; text as passed Senate: CR S13587)
+- 2007-10-31 — Message on Senate action sent to the House.
+- 2007-10-31 — Received in the House.
+- 2007-10-31 — Referred to the House Committee on Transportation and Infrastructure.
