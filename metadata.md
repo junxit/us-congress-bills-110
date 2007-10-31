@@ -1,7 +1,7 @@
 ---
 measure: S. 2198
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2198
@@ -29,6 +29,10 @@ Andrew Larochelle God, Family, and Country Act of 2007
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Stevens, Ted [R-AK] (S000888)
 
+## Committees (1)
+
+- House — Committee on House Administration
+
 ## Actions
 
 - 2007-10-18 — Introduced in Senate
@@ -36,3 +40,6 @@ Andrew Larochelle God, Family, and Country Act of 2007
 - 2007-10-19 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.
 - 2007-10-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S13587; text as passed Senate: CR S13587)
 - 2007-10-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S13587; text as passed Senate: CR S13587)
+- 2007-10-31 — Message on Senate action sent to the House.
+- 2007-10-31 — Received in the House.
+- 2007-10-31 — Referred to the House Committee on House Administration.
