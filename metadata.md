@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1236
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1236
@@ -183,11 +183,12 @@ To amend title 39, United States Code, to extend the authority of the United Sta
 - Rep. Cannon, Chris [R-UT-3] (C000116)
 - Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
-## Committees (3)
+## Committees (4)
 
 - House — Energy and Commerce Committee
 - House — Oversight and Accountability Committee
 - House — Armed Services Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -217,3 +218,4 @@ To amend title 39, United States Code, to extend the authority of the United Sta
 - 2007-10-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12195)
 - 2007-10-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12195)
 - 2007-10-30 — The title of the measure was amended. Agreed to without objection.
+- 2007-11-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
