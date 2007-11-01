@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3446
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3446
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 202 Eas
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ To designate the facility of the United States Postal Service located at 202 Eas
 - 2007-10-30 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2007-10-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 1019). (text: CR H12197)
 - 2007-10-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 1019).(text: CR H12197)
+- 2007-11-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
