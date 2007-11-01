@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3867
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3867
@@ -22,9 +22,10 @@ Small Business Contracting Program Improvements Act
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (2)
 
@@ -128,3 +129,4 @@ Small Business Contracting Program Improvements Act
 - 2007-10-30 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
 - 2007-10-30 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12187)
 - 2007-10-30 — The previous question was ordered pursuant to the rule. (consideration: CR H12186)
+- 2007-11-01 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
