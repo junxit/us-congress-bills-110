@@ -1,7 +1,7 @@
 ---
 measure: S. 2248
 congress: 110
-version: Placed on Calendar Senate
+version: Referral Instructions Senate
 ---
 
 # S. 2248
@@ -16,9 +16,10 @@ FISA Amendments Act of 2008
 
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Intelligence (Select) Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -26,3 +27,5 @@ FISA Amendments Act of 2008
 - 2007-10-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
 - 2007-10-26 — Select Committee on Intelligence. Original measure reported to Senate by Senator Rockefeller. With written report No. 110-209. Additional and Minority views filed.
 - 2007-10-26 — Select Committee on Intelligence. Original measure reported to Senate by Senator Rockefeller. With written report No. 110-209. Additional and Minority views filed.
+- 2007-10-31 — Committee on the Judiciary. Hearings held.
+- 2007-11-01 — Referred to the Committee on the Judiciary pursuant to section 3(b) of S.Res. 400, 94th Congres, as amended by S.Res. 445, 108th Congress, for a period not to exceed 10 days of session.

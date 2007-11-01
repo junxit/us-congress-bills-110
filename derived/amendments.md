@@ -1,7 +1,7 @@
 ---
 measure: S. 2248
 congress: 110
-version: Placed on Calendar Senate
+version: Referral Instructions Senate
 derived: true
 ---
 
@@ -14,33 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-59 amendatory instructions. 2 executed, 57 stated and not applied.
+59 amendatory instructions. 0 executed, 59 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 50 U.S.C. § 1803
-
-> in paragraph (1), by striking “105B(h) or 501(f)(1)” and inserting “501(f)(1) or 703”; and
-
-| | |
-|---|---|
-| Removed | `105B(h) or 501(f)(1)` |
-| Inserted | `501(f)(1) or 703` |
-
-### 50 U.S.C. § 1803
-
-> in paragraph (2), by striking “105B(h) or 501(f)(1)” and inserting “501(f)(1) or 703”.
-
-| | |
-|---|---|
-| Removed | `105B(h) or 501(f)(1)` |
-| Inserted | `501(f)(1) or 703` |
 
 ## Stated, not applied
 
@@ -103,8 +83,10 @@ complete account of the bill's effect, which it is not.
 | — | insert | in section 302(c) (50 U.S.C. 1822(c)), by inserting “(except when sitting en banc)” after “except that no judge”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “105B(h) or 501(f)(1)” and inserting “501(f)(1) or 703”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “105B(h) or 501(f)(1)” and inserting “501(f)(1) or 703”. | the bill names no machine-readable US Code section |
 | — | amend | The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), as amended by section 101, is further amended by adding after title VII the following new title: | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VIII of the Foreign Intelligence Surveillance Act (50 U.S.C. 1801 et seq.), as added by section 203 of this Act, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of contents in the first section of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), as amended by section 101(b), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| `50 U.S.C. § 1801` | repeal | Except as provided in subsection (c), sections 105A, 105B, and 105C of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805a, 1805b, and 1805c) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 1801` | strike | The table of contents in the first section of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is amended by striking the items relating to sections 105A, 105B, and 105C. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Except as provided in subsection (c), sections 105A, 105B, and 105C of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1805a, 1805b, and 1805c) are repealed. | the bill names no machine-readable US Code section |
+| — | strike | The table of contents in the first section of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) is amended by striking the items relating to sections 105A, 105B, and 105C. | the bill names no machine-readable US Code section |
