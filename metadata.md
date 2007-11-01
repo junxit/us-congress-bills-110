@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3307
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3307
@@ -56,3 +56,17 @@ To designate the facility of the United States Postal Service located at 570 Bro
 - 2007-10-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 1018). (text: CR H12196)
 - 2007-10-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 1018).(text: CR H12196)
 - 2007-11-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 498.
+- 2007-11-16 — Cleared for White House.
+- 2007-11-16 — Message on Senate action sent to the House.
+- 2007-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14656-14657)
+- 2007-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14656-14657)
+- 2007-11-26 — Presented to President.
+- 2007-11-26 — Presented to President.
+- 2007-11-30 — Became Public Law No: 110-124.
+- 2007-11-30 — Became Public Law No: 110-124.
+- 2007-11-30 — Signed by President.
+- 2007-11-30 — Signed by President.
