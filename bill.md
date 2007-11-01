@@ -58,6 +58,9 @@ Section 1030(a)(2)(C) of title 18, United States Code, is amended by striking �
       - **(i)** by striking “(A)(i) knowingly” and inserting “(A) knowingly”;
       - **(ii)** by redesignating clauses (ii) and (iii) as subparagraphs (B) and (C), respectively; and
       - **(iii)** in subparagraph (C), as so redesignated, by striking “; and” and inserting a period;
+      - **(iii)** in subparagraph (C), as so redesignated—
+        - **(I)** by inserting “and loss” after “damage”; and
+        - **(II)** by striking “; and” and inserting a period;
   - **(2)** in subsection (c)—
     - **(A)** in paragraph (2)(A), by striking “(a)(5)(A)(iii),”;
     - **(B)** in paragraph (3)(B), by striking “(a)(5)(A)(iii),”;
@@ -89,7 +92,7 @@ Section 1030(a)(2)(C) of title 18, United States Code, is amended by striking �
 
     - **(D)** by striking paragraph (5); and
   - **(3)** in subsection (g)—
-    - **(A)** in the second sentence, by striking “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” and inserting “in subclauses (I), (II), (III), (IV), (V), or (VI) of subsection (c)(4)(A)(i)”; and
+    - **(A)** in the second sentence, by striking “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” and inserting “in subclauses (I), (II), (III), (IV), (V), or (VI)(IV), or (V) of subsection (c)(4)(A)(i)”; and
     - **(B)** in the third sentence, by striking “subsection (a)(5)(B)(i)” and inserting “subsection (c)(4)(A)(i)(I)”.
 - **(b)** *Conforming changes* Section 2332b(g)(5)(B)(i) of title 18, United States Code, is amended by striking “1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v)” and inserting “1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI)”.
 
@@ -101,3 +104,49 @@ Section 1030(a)(7) of title 18, United States Code, is amended to read as follow
 >   - **(A)** threat to cause damage to a protected computer;
 >   - **(B)** threat to obtain information from a protected computer without authorization or in excess of authorization or to impair the confidentiality of information obtained from a protected computer without authorization or by exceeding authorized access; or
 >   - **(C)** demand or request for money or other thing of value in relation to damage to a protected computer, where such damage was caused to facilitate the extortion;
+
+## § 7. Conspiracy to commit cyber-crimes
+
+Section 1030(b) of title 18, United States Code, is amended by inserting “conspires to commit or” after “Whoever”.
+
+## § 8. Use of full interstate and foreign commerce power for criminal penalties
+
+Section 1030(e)(2)(B) of title 18, United States Code, is amended by inserting “or affecting” after “which is used in”.
+
+## § 9. Forfeiture for section 1030 violations
+
+Section 1030 of title 18, United States Code, is amended by adding at the end the following:
+
+> - **(i)**
+>   - **(1)** The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—
+>     - **(A)** such person’s interest in any personal property that was used or intended to be used to commit or to facilitate the commission of such violation; and
+>     - **(B)** any property, real or personal, constituting or derived from, any proceeds that such person obtained, directly or indirectly, as a result of such violation.
+>   - **(2)** The criminal forfeiture of property under this subsection, any seizure and disposition thereof, and any judicial proceeding in relation thereto, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except subsection (d) of that section.
+> - **(j)** For purposes of subsection (i), the following shall be subject to forfeiture to the United States and no property right shall exist in them:
+>   - **(1)** Any personal property used or intended to be used to commit or to facilitate the commission of any violation of this section, or a conspiracy to violate this section.
+>   - **(2)** Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section
+
+## § 10. Directive to United States Sentencing Commission
+
+- **(a)** *Directive* Pursuant to its authority under section 994(p) of title 28, United States Code, and in accordance with this section, the United States Sentencing Commission shall review its guidelines and policy statements applicable to persons convicted of offenses under sections 1028, 1028A, 1030, 2511, and 2701 of title 18, United States Code, and any other relevant provisions of law, in order to reflect the intent of Congress that such penalties be increased in comparison to those currently provided by such guidelines and policy statements.
+- **(b)** *Requirements* In determining its guidelines and policy statements on the appropriate sentence for the crimes enumerated in subsection (a), the United States Sentencing Commission shall consider the extent to which the guidelines and policy statements may or may not account for the following factors in order to create an effective deterrent to computer crime and the theft or misuse of personally identifiable data:
+  - **(1)** The level of sophistication and planning involved in such offense.
+  - **(2)** Whether such offense was committed for purpose of commercial advantage or private financial benefit.
+  - **(3)** The potential and actual loss resulting from the offense including—
+    - **(A)** the value of information obtained from a protected computer, regardless of whether the owner was deprived of use of the information; and
+    - **(B)** where the information obtained constitutes a trade secret or other proprietary information, the cost the victim incurred developing or compiling the information.
+  - **(4)** Whether the defendant acted with intent to cause either physical or property harm in committing the offense.
+  - **(5)** The extent to which the offense violated the privacy rights of individuals.
+  - **(6)** The effect of the offense upon the operations of an agency of the United States Government, or of a State or local government.
+  - **(7)** Whether the offense involved a computer used by the United States Government, a State, or a local government in furtherance of national defense, national security, or the administration of justice.
+  - **(8)** Whether the offense was intended to, or had the effect of, significantly interfering with or disrupting a critical infrastructure.
+  - **(9)** Whether the offense was intended to, or had the effect of, creating a threat to public health or safety, causing injury to any person, or causing death.
+  - **(10)** Whether the defendant purposefully involved a juvenile in the commission of the offense.
+  - **(11)** Whether the defendant's intent to cause damage or intent to obtain personal information should be disaggregated and considered separately from the other factors set forth in USSG 2B1.1(b)(14).
+  - **(12)** Whether the term “victim” as used in USSG 2B1.1, should include individuals whose privacy was violated as a result of the offense in addition to individuals who suffered monetary harm as a result of the offense.
+  - **(13)** Whether the defendant disclosed personal information obtained during the commission of the offense.
+- **(c)** *Additional requirements* In carrying out this section, the United States Sentencing Commission shall—
+  - **(1)** assure reasonable consistency with other relevant directives and with other sentencing guidelines;
+  - **(2)** account for any additional aggravating or mitigating circumstances that might justify exceptions to the generally applicable sentencing ranges;
+  - **(3)** make any conforming changes to the sentencing guidelines; and
+  - **(4)** assure that the guidelines adequately meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code.

@@ -1,7 +1,7 @@
 ---
 measure: S. 2168
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 0 executed, 25 stated and not applied.
+30 amendatory instructions. 0 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,11 +48,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “(A)(i) knowingly” and inserting “(A) knowingly”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (ii) and (iii) as subparagraphs (B) and (C), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (C), as so redesignated, by striking “; and” and inserting a period; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and loss” after “damage”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “; and” and inserting a period; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2)(A), by striking “(a)(5)(A)(iii),”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3)(B), by striking “(a)(5)(A)(iii),”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (4) to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (5); and | the bill names no machine-readable US Code section |
-| — | replace | in the second sentence, by striking “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” and inserting “in subclauses (I), (II), (III), (IV), (V), or (VI) of subsection (c)(4)(A)(i)”; and | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” and inserting “in subclauses (I), (II), (III), (IV), (V), or (VI)(IV), or (V) of subsection (c)(4)(A)(i)”; and | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence, by striking “subsection (a)(5)(B)(i)” and inserting “subsection (c)(4)(A)(i)(I)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2332b(g)(5)(B)(i) of title 18, United States Code, is amended by striking “1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v)” and inserting “1030(a)(5)(A) resulting in damage as defined in 1030(c)(4… | the bill names no machine-readable US Code section |
 | — | amend | Section 1030(a)(7) of title 18, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Section 1030(b) of title 18, United States Code, is amended by inserting “conspires to commit or” after “Whoever”. | the bill names no machine-readable US Code section |
+| — | insert | Section 1030(e)(2)(B) of title 18, United States Code, is amended by inserting “or affecting” after “which is used in”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1030 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
