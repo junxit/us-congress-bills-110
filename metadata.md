@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 780
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 780
@@ -27,3 +27,9 @@ Providing for the consideration of the bill (H.R. 2262) to modify the requiremen
 - 2007-10-30 — Placed on the House Calendar, Calendar No. 142.
 - 2007-10-30 — The House Committee on Rules reported an original measure, H. Rept. 110-416, by Mr. McGovern.
 - 2007-10-30 — The House Committee on Rules reported an original measure, H. Rept. 110-416, by Mr. McGovern.
+- 2007-11-01 — Considered as privileged matter. (consideration: CR H12389-12396)
+- 2007-11-01 — DEBATE - The House proceeded with one hour of debate on H. Res. 780.
+- 2007-11-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-01 — On agreeing to the resolution Agreed to by recorded vote: 224 - 195 (Roll no. 1028). (text: CR H12389)
+- 2007-11-01 — On ordering the previous question Agreed to by the Yeas and Nays: 221 - 194 (Roll no. 1027). (consideration: CR H12395-12396)
+- 2007-11-01 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 224 - 195 (Roll no. 1028).(text: CR H12389)
