@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 58
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 58
@@ -52,9 +52,10 @@ Expressing support for designation of the month of October 2007 as "Country Musi
 - Rep. English, Phil [R-PA-3] (E000187)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ Expressing support for designation of the month of October 2007 as "Country Musi
 - 2007-10-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-10-30 — On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 1015). (text: CR 10/29/2007 H12108)
 - 2007-10-30 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 1015).(text: CR 10/29/2007 H12108)
+- 2007-11-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
