@@ -39,13 +39,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** does not include extraction of mineral material for commercial use or sale.
   - **(8)** The term “Federal land” means any land, and any interest in land, that is owned by the United States and open to location of mining claims under the general mining laws and title II of this Act.
   - **(9)** The term “Indian lands” means lands held in trust for the benefit of an Indian tribe or individual or held by an Indian tribe or individual subject to a restriction by the United States against alienation.
-  - **(10)** The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 and following), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+  - **(10)** The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
   - **(11)** The term “locatable mineral”—
     - **(A)** subject to subparagraph (B), means any mineral, the legal and beneficial title to which remains in the United States and that is not subject to disposition under any of—
-      - **(i)** the Mineral Leasing Act (30 U.S.C. 181 and following);
-      - **(ii)** the Geothermal Steam Act of 1970 (30 U.S.C. 1001 and following);
-      - **(iii)** the Act of July 31, 1947, commonly known as the Materials Act of 1947 (30 U.S.C. 601 and following); or
-      - **(iv)** the Mineral Leasing for Acquired Lands Act (30 U.S.C. 351 and following); and
+      - **(i)** the Mineral Leasing Act (30 U.S.C. 181 et seq.);
+      - **(ii)** the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.);
+      - **(iii)** the Act of July 31, 1947, commonly known as the Materials Act of 1947 (30 U.S.C. 601 et seq.); or
+      - **(iv)** the Mineral Leasing for Acquired Lands Act (30 U.S.C. 351 et seq.); and
     - **(B)** does not include any mineral that is subject to a restriction against alienation imposed by the United States and is—
       - **(i)** held in trust by the United States for any Indian or Indian tribe, as defined in section 2 of the Indian Mineral Development Act of 1982 (25 U.S.C. 2101); or
       - **(ii)** owned by any Indian or Indian tribe, as defined in that section.
@@ -57,25 +57,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(17)** The term “Secretary” means the Secretary of the Interior, unless otherwise specified.
   - **(18)** The term “temporary cessation” means a halt in mine-related production activities for a continuous period of no longer than 5 years.
   - **(19)** The term “undue degradation” means irreparable harm to significant scientific, cultural, or environmental resources on public lands that cannot be effectively mitigated.
-- **(b)** *Title II*
-  - **(1)** *Valid existing rights* As used in title II, the term “valid existing rights” means a mining claim or millsite claim located on lands described in section 201(b), that—
-    - **(A)** was properly located and maintained under this Act prior to and on the applicable date; or
-    - **(B)**
-      - **(i)** was properly located and maintained under the general mining laws prior to the applicable date;
-      - **(ii)** was supported by a discovery of a valuable mineral deposit within the meaning of the general mining laws on the applicable date, or satisfied the limitations under existing law for millsite claims; and
-      - **(iii)** continues to be valid under this Act.
-  - **(2)** *Applicable date* As used in paragraph (1), the term “applicable date” means one of the following:
-    - **(A)** For lands described in paragraph (1) of section 201(b), the date of the recommendation referred to in paragraph (1) of that section if such recommendation is made on or after the date of the enactment of this Act.
-    - **(B)** For lands described in paragraph (1) of section 201(b), if the recommendation referred to in paragraph (1) of that section is made before the date of the enactment of this Act, the earlier of—
-      - **(i)** the date of the enactment of this Act; or
-      - **(ii)** the date of any withdrawal of such lands from mineral activities.
-    - **(C)** For lands described in paragraph (3)(B) of section 201(b), the date of the enactment of this Act.
-    - **(D)** For lands described in paragraph (3)(A) or (3)(C) of section 201(b), the date of the enactment of the amendment to the Wild and Scenic Rivers Act (16 U.S.C. 1271 and following) listing the river segment for study.
-    - **(E)** For lands described in paragraph (3)(B) of section 201(b), the date of the determination of eligibility of such lands for inclusion in the Wild and Scenic River System.
-    - **(F)** For lands described in paragraph (4) of section 201(b), the date of the withdrawal under other law.
+- **(b)** *Valid existing rights* As used in this Act, the term “valid existing rights” means a mining claim or millsite claim located on lands described in section 201(b), that—
+  - **(1)** was properly located and maintained under the general mining laws prior to the date of enactment of this Act;
+  - **(2)** was supported by a discovery of a valuable mineral deposit within the meaning of the general mining laws on the date of enactment of this Act, or satisfied the limitations under existing law for millsite claims; and
+  - **(3)** continues to be valid under this Act.
 - **(c)** *References to other laws*
   - **(1)** Any reference in this Act to the term general mining laws is a reference to those Acts that generally comprise chapters 2, 12A, and 16, and sections 161 and 162, of title 30, United States Code.
-  - **(2)** Any reference in this Act to the Act of July 23, 1955, is a reference to the Act entitled “An Act to amend the Act of July 31, 1947 (61 Stat. 681) and the mining laws to provide for multiple use of the surface of the same tracts of the public lands, and for other purposes” (30 U.S.C. 601 and following).
+  - **(2)** Any reference in this Act to the Act of July 23, 1955, is a reference to the Act entitled “An Act to amend the Act of July 31, 1947 (61 Stat. 681) and the mining laws to provide for multiple use of the surface of the same tracts of the public lands, and for other purposes” (30 U.S.C. 601 et seq.).
 
 ## § 3. Application rules
 
@@ -89,8 +77,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(iii)** the operator shall bring such mineral activities into compliance with this Act by the end of such 10-year period.
     - **(B)** Where an application for modification of a plan of operations referred to in subparagraph (A)(ii) has been timely submitted and an approved plan expires prior to Secretarial action on the application, mineral activities and reclamation may continue in accordance with the terms of the expired plan until the Secretary makes an administrative decision on the application.
 - **(c)** *Federal Lands Subject to Existing Permit*
-  - **(1)** Any Federal land shall not be subject to the requirements of section 102 if the land is—
+  - **(1)** Any Federal land shall be subject to the requirements of section 102(a)(2) if the land is—
     - **(A)** subject to an operations permit; and
     - **(B)** producing valuable locatable minerals in commercial quantities prior to the date of enactment of this Act.
-  - **(2)** Any Federal land added through a plan modification to an operations permit on Federal land that is submitted after the date of enactment of this Act shall be subject to the terms of section 102.
+  - **(2)** Any Federal land added through a plan modification to an operations permit on Federal land that is submitted after the date of enactment of this Act shall be subject to the terms of section 102(a)(3).
 - **(d)** *Application of Act to beneficiation and processing of non-Federal minerals on Federal lands* The provisions of this Act (including the environmental protection requirements of title III) shall apply in the same manner and to the same extent to mining claims, millsite claims, and tunnel site claims used for beneficiation or processing activities for any mineral without regard to whether or not the legal and beneficial title to the mineral is held by the United States. This subsection applies only to minerals that are locatable minerals or minerals that would be locatable minerals if the legal and beneficial title to such minerals were held by the United States.

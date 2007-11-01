@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2262
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2262
@@ -100,3 +100,69 @@ Hardrock Mining and Reclamation Act of 2007
 - 2007-10-29 — Placed on the Union Calendar, Calendar No. 260.
 - 2007-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-412.
 - 2007-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-412.
+- 2007-10-30 — Rules Committee Resolution H. Res. 780 Reported to House. Rule provides for consideration of H.R. 2262 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.
+- 2007-11-01 — Amendment (A001) offered by Mr. Rahall. (consideration: CR H12420-12421; text: CR H12420-12421)
+- 2007-11-01 — Amendment (A002) offered by Mr. Pearce. (consideration: CR H12421-12422, H12428-12429; text: CR H12421)
+- 2007-11-01 — Amendment (A003) offered by Ms. Matsui. (consideration: CR H12422-12423; text: CR H12422)
+- 2007-11-01 — Amendment (A004) offered by Mr. Heller. (consideration: CR H12423-12424; text: CR H12423)
+- 2007-11-01 — Amendment (A005) offered by Mr. Cannon. (consideration: CR H12424-12425, H12429-12430; text: CR H12424)
+- 2007-11-01 — Amendment (A006) offered by Mr. Pearce. (consideration: CR H12425-12428; text: CR H12425-12427)
+- 2007-11-01 — Amendment agreed to Committee of the Whole
+- 2007-11-01 — Amendment agreed to Committee of the Whole
+- 2007-11-01 — Amendment agreed to Committee of the Whole
+- 2007-11-01 — Amendment failed in Committee of the Whole
+- 2007-11-01 — Amendment failed in Committee of the Whole
+- 2007-11-01 — Amendment failed in Committee of the Whole
+- 2007-11-01 — Considered under the provisions of rule H. Res. 780. (consideration: CR H12397-12432; text of measure as reported in House: CR H12410-12420)
+- 2007-11-01 — DEBATE - Pursuant to the provisions of H. Res. 780, the Committee of the Whole proceeded with 10 minutes of debate on the Cannon amendment.
+- 2007-11-01 — DEBATE - Pursuant to the provisions of H. Res. 780, the Committee of the Whole proceeded with 10 minutes of debate on the Heller amendment.
+- 2007-11-01 — DEBATE - Pursuant to the provisions of H. Res. 780, the Committee of the Whole proceeded with 10 minutes of debate on the Matsui amendment.
+- 2007-11-01 — DEBATE - Pursuant to the provisions of H. Res. 780, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment.
+- 2007-11-01 — DEBATE - Pursuant to the provisions of H. Res. 780, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment.
+- 2007-11-01 — DEBATE - Pursuant to the provisions of H. Res. 780, the Committee of the Whole proceeded with 10 minutes of debate on the Rahall amendment, as modified.
+- 2007-11-01 — DEBATE - The House proceeded with 10 minutes of debate on the Pearce motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to limit the amount of royalties to any mineral that is used in the manufacture of any technology used for the production of solar energy or nuclear energy.
+- 2007-11-01 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2262.
+- 2007-11-01 — House amendment agreed to: On agreeing to the Heller amendment (A004) Agreed to by voice vote.
+- 2007-11-01 — House amendment agreed to: On agreeing to the Matsui amendment (A003) Agreed to by voice vote.
+- 2007-11-01 — House amendment agreed to: On agreeing to the Rahall amendment (A001) as modified Agreed to by voice vote.(text as modified: CR H12421)
+- 2007-11-01 — House amendment not agreed to: On agreeing to the Cannon amendment (A005) Failed by recorded vote: 175 - 240 (Roll no. 1031).
+- 2007-11-01 — House amendment not agreed to: On agreeing to the Pearce amendment (A002) Failed by recorded vote: 173 - 244 (Roll no. 1030).
+- 2007-11-01 — House amendment not agreed to: On agreeing to the Pearce amendment (A006) Failed by voice vote.
+- 2007-11-01 — House amendment offered
+- 2007-11-01 — House amendment offered
+- 2007-11-01 — House amendment offered
+- 2007-11-01 — House amendment offered
+- 2007-11-01 — House amendment offered
+- 2007-11-01 — House amendment offered
+- 2007-11-01 — House amendment offered/reported by : Amendment (A001) offered by Mr. Rahall.(consideration: CR H12420-12421; text: CR H12420-12421)
+- 2007-11-01 — House amendment offered/reported by : Amendment (A002) offered by Mr. Pearce.(consideration: CR H12421-12422, H12428-12429; text: CR H12421)
+- 2007-11-01 — House amendment offered/reported by : Amendment (A003) offered by Ms. Matsui.(consideration: CR H12422-12423; text: CR H12422)
+- 2007-11-01 — House amendment offered/reported by : Amendment (A004) offered by Mr. Heller.(consideration: CR H12423-12424; text: CR H12423)
+- 2007-11-01 — House amendment offered/reported by : Amendment (A005) offered by Mr. Cannon.(consideration: CR H12424-12425, H12429-12430; text: CR H12424)
+- 2007-11-01 — House amendment offered/reported by : Amendment (A006) offered by Mr. Pearce.(consideration: CR H12425-12428; text: CR H12425-12427)
+- 2007-11-01 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 780 and Rule XVIII.
+- 2007-11-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-01 — Mr. Pearce moved to recommit with instructions to Natural Resources. (consideration: CR H12430-12431; text: CR H12430)
+- 2007-11-01 — ORDER OF PROCEDURE - Mr. Rahall asked unanimous consent that, during further proceedings today in the House and in the Committee of the Whole, the Chair be authorized to reduce to two minutes the minimum time for electronic voting on any question that otherwise could be subjected to five-minute voting under clause 8 or 9 of rule 20 or under clause 6 of rule 18.
+- 2007-11-01 — On agreeing to the Cannon amendment (A005) Failed by recorded vote: 175 - 240 (Roll no. 1031).
+- 2007-11-01 — On agreeing to the Heller amendment (A004) Agreed to by voice vote.
+- 2007-11-01 — On agreeing to the Matsui amendment (A003) Agreed to by voice vote.
+- 2007-11-01 — On agreeing to the Pearce amendment (A002) Failed by recorded vote: 173 - 244 (Roll no. 1030).
+- 2007-11-01 — On agreeing to the Pearce amendment (A006) Failed by voice vote.
+- 2007-11-01 — On agreeing to the Rahall amendment (A001) as modified Agreed to by voice vote. (text as modified: CR H12421)
+- 2007-11-01 — On motion to recommit with instructions Failed by the Yeas and Nays: 170 - 240 (Roll no. 1032).
+- 2007-11-01 — On passage Passed by the Yeas and Nays: 244 - 166 (Roll no. 1033).
+- 2007-11-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cannon amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cannon demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-11-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pearce demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-11-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 244 - 166 (Roll no. 1033).
+- 2007-11-01 — Rahall amendment (A001) modified by unanimous consent. Modification was technical in nature.
+- 2007-11-01 — Roll call votes on amendments in House
+- 2007-11-01 — Roll call votes on amendments in House
+- 2007-11-01 — Rule H. Res. 780 passed House.
+- 2007-11-01 — Rule provides for consideration of H.R. 2262 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.
+- 2007-11-01 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 2262.
+- 2007-11-01 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-11-01 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2262.
+- 2007-11-01 — The Speaker designated the Honorable Jose E. Serrano to act as Chairman of the Committee.
+- 2007-11-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12430-12431)
+- 2007-11-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
