@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3307
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3307
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 570 Bro
 - Rep. Saxton, Jim [R-NJ-3] (S000097)
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 570 Bro
 - 2007-10-30 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2007-10-30 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 1018). (text: CR H12196)
 - 2007-10-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 1018).(text: CR H12196)
+- 2007-11-01 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
