@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2787
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2787
@@ -37,9 +37,10 @@ CJ's Home Protection Act of 2007
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ CJ's Home Protection Act of 2007
 - 2007-10-30 — Placed on the Union Calendar, Calendar No. 263.
 - 2007-10-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-415.
 - 2007-10-30 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-415.
+- 2007-11-01 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
