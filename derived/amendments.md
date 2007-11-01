@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2262
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 30 U.S.C. § 611
 
-> By striking “or cinders” and inserting in lieu thereof “cinders, and clay”.
+> by striking “or cinders” and inserting in lieu thereof “cinders, and clay”; and
 
 | | |
 |---|---|
@@ -44,15 +44,15 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `30 U.S.C. § 28` | insert | Section 2324 of the Revised Statutes of the United States (30 U.S.C. 28) is amended by inserting “or section 103(a) of the Hardrock Mining and Reclamation Act of 2007” after “Act of 1993,”. | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 21a` | insert | in the first sentence by inserting before the period at the end the following: “and to ensure that mineral extraction and processing not cause undue degradation of the natural and cultural resources of the public lands”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 21a` | add-at-end | by adding at the end thereof the following: “It shall also be the responsibility of the Secretary of Agriculture to carry out the policy provisions of paragraphs (1) and (2) of this section.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 21a` | amend | by adding at the end thereof the following: “It shall also be the responsibility of the Secretary of Agriculture to carry out the policy provisions of paragraphs (1) and (2) of this section.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 1604` | insert | Section 5(e)(3) of the National Materials and Minerals Policy, Research and Development Act of 1980 (30 U.S.C. 1604(e)(3)) is amended by inserting before the period the following: “, except that for National Forest System lands the Secre… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | By striking “as prescribed by the Secretary”. | the bill names no machine-readable US Code section |
-| — | insert | By inserting before the period the following: “in the same manner as if such claim was subject to title II and title III of the Hardrock Mining and Reclamation Act of 2007”. | the bill names no machine-readable US Code section |
-| `30 U.S.C. § 611` | insert | By inserting “(a)” before the first sentence. | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 611` | insert | By inserting “mineral materials, including but not limited to” after “varieties of” in the first sentence. | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 611` | amend | By adding the following new subsection at the end thereof: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 611` | insert | In subsection (b) by inserting “and mineral material” after “vegetative”. | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 611` | insert | In subsection (c) by inserting “and mineral material” after “vegetative”. | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 611` | strike | Section 1 of the Act of July 31, 1947, entitled “An Act to provide for the disposal of materials on the public lands of the United States” (30 U.S.C. 601 and following) is amended by striking “common varieties of” in the first sentence. | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 611` | insert | The Act of July 23, 1955, is amended by inserting after section 7 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 611` | insert | The Act of July 31, 1947, entitled “An Act to provide for the disposal of materials on the public lands of the United States” (30 U.S.C. 601 and following) is amended by inserting after section 4 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | by striking “as prescribed by the Secretary”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period the following: “in the same manner as required by title II and title III of the Hardrock Mining and Reclamation Act of 2007”. | the bill names no machine-readable US Code section |
+| `30 U.S.C. § 611` | insert | by inserting “(a)” before the first sentence; | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 611` | insert | by inserting “mineral materials, including but not limited to” after “varieties of” in the first sentence; | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 611` | amend | by adding the following new subsection at the end thereof: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 612` | insert | in subsection (b) by inserting “and mineral material” after “vegetative”; and | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 612` | insert | in subsection (c) by inserting “and mineral material” after “vegetative”. | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 611` | strike | Section 1 of the Act of July 31, 1947, entitled “An Act to provide for the disposal of materials on the public lands of the United States” (30 U.S.C. 601 et seq.) is amended by striking “common varieties of” in the first sentence. | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 601` | insert | The Act of July 23, 1955, is amended by inserting after section 7 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 601` | insert | The Act of July 31, 1947, entitled “An Act to provide for the disposal of materials on the public lands of the United States” (30 U.S.C. 601 et seq.) is amended by inserting after section 4 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
