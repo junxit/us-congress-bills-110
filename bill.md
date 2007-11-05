@@ -2,7 +2,7 @@
 legis-num: H. RES. 744
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 744
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas more than 44,000 Native Americans served in the Armed Forces during World War II, in both the European and Pacific fronts, representing a substantial portion of the 350,000 Native Americans then living in the United States;
 - Whereas Native Americans fought in the Korean conflict, and more than 42,000 Native Americans fought in the Vietnam War, 90 percent of whom served as volunteers;
 - Whereas Native Americans also provided significant contributions in the military operations in Grenada and Panama and the Persian Gulf War in 1980s and 1990s; and
-- Whereas Native Americans should also be recognized for their participation in Operation Enduring Freedom and Operation Iraqi Freedom: Now, therefore, be it—
+- Whereas Native Americans should also be recognized for their participation in Operation Enduring Freedom and Operation Iraqi Freedom: Now, therefore, be it
 
 That the House of Representatives—
 
