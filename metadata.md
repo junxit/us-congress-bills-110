@@ -1,7 +1,7 @@
 ---
 measure: S. 1347
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1347
@@ -29,3 +29,6 @@ A bill to amend the Omnibus Indian Advancement Act to modify the date as of whic
 - 2007-10-26 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-208.
 - 2007-10-26 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-208.
 - 2007-10-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 452.
+- 2007-10-30 — Star Print ordered on the report.
+- 2007-11-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S13937; text as passed Senate: CR S13937)
+- 2007-11-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S13937; text as passed Senate: CR S13937)

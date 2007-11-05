@@ -1,7 +1,7 @@
 ---
 measure: S. 1347
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the first sentence, by striking “Notwithstanding” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | in the second sentence, by striking “The Secretary” and inserting the following: | the bill names no machine-readable US Code section |
-| — | replace | by striking the third sentence and inserting the following: | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 2703` | replace | in the first sentence, by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 2703` | replace | in the second sentence, by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `25 U.S.C. § 2703` | replace | by striking the third sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
