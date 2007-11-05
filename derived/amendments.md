@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3997
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 0 executed, 35 stated and not applied.
+55 amendatory instructions. 0 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,7 +41,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 403(b) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Section 457(g) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3401 (relating to definitions) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 414(u) (relating to special rules relating to veterans’ reemployment rights under USERRA) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 414(u) (relating to special rules relating to veterans’ reemployment rights under USERRA), as amended by section 103(b), is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | The heading for section 414(u) is amended by inserting “and to Differential Wage Payments to Members on Active Duty” after “USERRA”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 219(f)(1) (defining compensation) is amended by adding at the end the following new sentence: “The term compensation includes any differential wage payment (as defined in section 3401(h)(2)).”. | the bill names no machine-readable US Code section |
 | — | insert | Part III of subchapter B of chapter 1 (relating to items specifically excluded from gross income) is amended by inserting after section 139A the following new section: | the bill names no machine-readable US Code section |
@@ -51,18 +51,38 @@ complete account of the bill's effect, which it is not.
 | — | strike | Subparagraph (D) of section 6103(l)(7) (relating to disclosure of return information to Federal, State, and local agencies administering certain programs under the Social Security Act, the Food Stamp Act of 1977, or title 38, United Stat… | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 1477` | amend | Subsection (e) of section 408A (relating to qualified rollover contribution), as in effect before the amendments made by section 824 of the Pension Protection Act of 2006, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1477` | amend | Subsection (e) of section 408A, as in effect after the amendments made by section 824 of the Pension Protection Act of 2006, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1967` | add-at-end | Subsection (d) of section 530 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1967` | amend | Subsection (d) of section 530 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2504` | add-at-end | Subsection (d) of section 121 (relating to special rules) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382a` | insert | Section 1612(a)(1)(A) of the Social Security Act (42 U.S.C. 1382a(a)(1)(A)) is amended by inserting “(and, in the case of cash remuneration paid for service as a member of a uniformed service (other than payments described in paragraph (… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1382a` | strike | by striking “and” at the end of subparagraph (F); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382a` | replace | by striking the period at the end of subparagraph (G) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `37 U.S.C. § 403` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `37 U.S.C. § 403` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382a` | strike | by striking “and” at the end of paragraph (22); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382a` | replace | by striking the period at the end of paragraph (23) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382b` | strike | by striking “and” at the end of paragraph (14); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382b` | replace | by striking the period at the end of paragraph (15) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 101` | insert | by inserting after paragraph (15) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382a` | strike | in paragraph (23), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382a` | replace | in paragraph (24), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1382a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Subsection (a) of section 6698 (relating to general rule) is amended by striking “5 months” and inserting “12 months”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (1) of section 6698(b) is amended by striking “$50” and inserting “$100”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Part I of subchapter B of chapter 68 (relating to assessable penalties) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for part I of subchapter B of chapter 68 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Subsections (a)(1), (b)(1)(A), and (b)(2)(A) of section 6721 are each amended by striking “$50” and inserting “$100”. | the bill names no machine-readable US Code section |
+| — | replace | Subsections (a)(1), (d)(1)(A), and (e)(3)(A) of section 6721 are each amended by striking “$250,000” and inserting “$600,000”. | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (A) of section 6721(b)(1) is amended by striking “$15” and inserting “$25”. | the bill names no machine-readable US Code section |
+| — | replace | Subsections (b)(1)(B) and (d)(1)(B) of section 6721 are each amended by striking “$75,000” and inserting “$200,000”. | the bill names no machine-readable US Code section |
+| — | replace | Subparagraph (A) of section 6721(b)(2) is amended by striking “$30” and inserting “$60”. | the bill names no machine-readable US Code section |
+| — | replace | Subsections (b)(2)(B) and (d)(1)(C) of section 6721 are each amended by striking “$150,000” and inserting “$400,000”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “$100,000” in subparagraph (A) and inserting “$250,000”, | the bill names no machine-readable US Code section |
+| — | replace | by striking “$25,000” in subparagraph (B) and inserting “$75,000”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$50,000” in subparagraph (C) and inserting “$150,000”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (2) of section 6721(e) is amended by striking “$100” and inserting “$250”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (a) of section 6722 is amended by striking “$50” and inserting “$100”. | the bill names no machine-readable US Code section |
+| — | replace | Subsections (a) and (c)(2)(A) of section 6722 are each amended by striking “$100,000” and inserting “$600,000”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph (1) of section 6722(c) is amended by striking “$100” and inserting “$250”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “$50” and inserting “$100”, and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$100,000” and inserting “$600,000”. | the bill names no machine-readable US Code section |
+| — | replace | Subsection (a) of section 6651 is amended by striking “$100” in the last sentence and inserting “$225”. | the bill names no machine-readable US Code section |
