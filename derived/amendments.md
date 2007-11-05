@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2262
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -51,8 +51,8 @@ complete account of the bill's effect, which it is not.
 | `30 U.S.C. § 611` | insert | by inserting “(a)” before the first sentence; | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 611` | insert | by inserting “mineral materials, including but not limited to” after “varieties of” in the first sentence; | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 611` | amend | by adding the following new subsection at the end thereof: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `30 U.S.C. § 612` | insert | in subsection (b) by inserting “and mineral material” after “vegetative”; and | the bill quotes the text inserted but describes where it goes |
-| `30 U.S.C. § 612` | insert | in subsection (c) by inserting “and mineral material” after “vegetative”. | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 611` | insert | in subsection (b) by inserting “and mineral material” after “vegetative”; and | the bill quotes the text inserted but describes where it goes |
+| `30 U.S.C. § 611` | insert | in subsection (c) by inserting “and mineral material” after “vegetative”. | the bill quotes the text inserted but describes where it goes |
 | `30 U.S.C. § 611` | strike | Section 1 of the Act of July 31, 1947, entitled “An Act to provide for the disposal of materials on the public lands of the United States” (30 U.S.C. 601 et seq.) is amended by striking “common varieties of” in the first sentence. | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 601` | insert | The Act of July 23, 1955, is amended by inserting after section 7 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 601` | insert | The Act of July 31, 1947, entitled “An Act to provide for the disposal of materials on the public lands of the United States” (30 U.S.C. 601 et seq.) is amended by inserting after section 4 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
