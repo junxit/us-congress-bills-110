@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1567
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1567
@@ -146,3 +146,9 @@ Stop Tuberculosis (TB) Now Act of 2007
 - 2007-10-15 — Placed on the Union Calendar, Calendar No. 238.
 - 2007-10-15 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-381, Part I.
 - 2007-10-15 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-381, Part I.
+- 2007-11-05 — Considered under suspension of the rules. (consideration: CR H12459-12462)
+- 2007-11-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1567.
+- 2007-11-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-05 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
+- 2007-11-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12459-12460)
+- 2007-11-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12459-12460)
