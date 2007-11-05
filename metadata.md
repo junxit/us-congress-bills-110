@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2262
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2262
@@ -81,9 +81,10 @@ Hardrock Mining and Reclamation Act of 2007
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -166,3 +167,4 @@ Hardrock Mining and Reclamation Act of 2007
 - 2007-11-01 — The Speaker designated the Honorable Jose E. Serrano to act as Chairman of the Committee.
 - 2007-11-01 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H12430-12431)
 - 2007-11-01 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-11-05 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
