@@ -1,7 +1,7 @@
 ---
 measure: H.R. 513
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 513
@@ -41,9 +41,10 @@ National Heroes Credit Protection Act
 - Rep. Altmire, Jason [D-PA-4] (A000362)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ National Heroes Credit Protection Act
 - 2007-11-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 0 (Roll no. 1035). (text: CR H12471)
 - 2007-11-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 0 (Roll no. 1035).(text: CR H12471)
 - 2007-11-05 — The title of the measure was amended. Agreed to without objection.
+- 2007-11-06 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
