@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 787
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 787
@@ -16,7 +16,7 @@ Expressing the support and sympathy of the House of Representatives and the peop
 
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Cosponsors (60)
+## Cosponsors (67)
 
 - Rep. Barrett, J. Gresham [R-SC-3] (B001239)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
@@ -78,6 +78,13 @@ Expressing the support and sympathy of the House of Representatives and the peop
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
 
 ## Committees (1)
 
@@ -88,3 +95,9 @@ Expressing the support and sympathy of the House of Representatives and the peop
 - 2007-10-31 — Introduced in House
 - 2007-10-31 — Introduced in House
 - 2007-10-31 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-11-06 — Considered under suspension of the rules. (consideration: CR H12764-12766)
+- 2007-11-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 787.
+- 2007-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-06 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2007-11-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H12764)
+- 2007-11-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H12764)
