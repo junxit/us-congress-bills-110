@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 60
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 60
@@ -38,9 +38,10 @@ Expressing support for the goals of Veterans Educate Today's Students (VETS) Day
 - Rep. Boyd, Allen [D-FL-2] (B000716)
 - Rep. Poe, Ted [R-TX-2] (P000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ Expressing support for the goals of Veterans Educate Today's Students (VETS) Day
 - 2007-11-05 — Mr. Filner moved to suspend the rules and agree to the resolution.
 - 2007-11-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H12475)
 - 2007-11-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H12475)
+- 2007-11-06 — Received in the Senate and referred to the Committee on Veterans' Affairs.
