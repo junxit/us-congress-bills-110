@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1119
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 140503(b) of title 36, United States Code, is amended by striking “parents and lineal descendants” and inserting “the parents, spouse, and lineal descendants”. | the bill names no machine-readable US Code section |
+| — | replace | Section 140503(b) of title 36, United States Code, is amended by striking “parents and lineal descendants” and inserting “the parents, spouse, siblings, and lineal descendants”. | the bill names no machine-readable US Code section |
