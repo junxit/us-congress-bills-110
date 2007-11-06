@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1119
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1119
@@ -16,7 +16,7 @@ Purple Heart Family Equity Act of 2007
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (20)
+## Cosponsors (28)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Blunt, Roy [R-MO-7] (B000575)
@@ -38,6 +38,14 @@ Purple Heart Family Equity Act of 2007
 - Rep. Salazar, John T. [D-CO-3] (S001158)
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 
 ## Committees (1)
 
@@ -48,3 +56,19 @@ Purple Heart Family Equity Act of 2007
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Introduced in House
 - 2007-02-16 — Referred to the House Committee on the Judiciary.
+- 2007-02-17 — Sponsor introductory remarks on measure. (CR E387-388)
+- 2007-03-19 — Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.
+- 2007-07-27 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-07-27 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-08-02 — Committee Consideration and Mark-up Session Held.
+- 2007-08-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-11-06 — Considered under suspension of the rules. (consideration: CR H12770-12771)
+- 2007-11-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1119.
+- 2007-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-06 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.
+- 2007-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12770)
+- 2007-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12770)
+- 2007-11-06 — Placed on the Union Calendar, Calendar No. 269.
+- 2007-11-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-428.
+- 2007-11-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-428.
+- 2007-11-06 — The title of the measure was amended. Agreed to without objection.
