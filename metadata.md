@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 782
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 782
@@ -16,7 +16,7 @@ Expressing the sense of the House with respect to the Boston Red Sox victory in 
 
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
 
-## Cosponsors (21)
+## Cosponsors (53)
 
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
 - Rep. Frank, Barney [D-MA-4] (F000339)
@@ -39,6 +39,38 @@ Expressing the sense of the House with respect to the Boston Red Sox victory in 
 - Rep. Larson, John B. [D-CT-1] (L000557)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Porter, Jon C. [R-NV-3] (P000589)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
 
 ## Committees (1)
 
@@ -49,3 +81,9 @@ Expressing the sense of the House with respect to the Boston Red Sox victory in 
 - 2007-10-30 — Introduced in House
 - 2007-10-30 — Introduced in House
 - 2007-10-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-11-06 — Considered under suspension of the rules. (consideration: CR H12767-12770)
+- 2007-11-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 782.
+- 2007-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-06 — Mr. Lynch moved to suspend the rules and agree to the resolution.
+- 2007-11-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H12767-12768)
+- 2007-11-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H12767-12768)
