@@ -1,7 +1,7 @@
 ---
 measure: H.R. 513
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `10 U.S.C. § 101` | add-at-end | Title II of the Servicemembers Civil Relief Act (50 U.S.C. App. 521 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 101` | insert | The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 207 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 101` | insert | Section 108 of such Act (50 U.S.C. App. 518) is amended in the matter preceding paragraph (1), by inserting after “liability of that servicemember” the following: “, or the inclusion of a military service deployment explanation in a file… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title II of the Servicemembers Civil Relief Act (50 U.S.C. App. 521 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 207 the following new item: | the bill names no machine-readable US Code section |
+| — | insert | Section 108 of such Act (50 U.S.C. App. 518) is amended in the matter preceding paragraph (1), by inserting after “liability of that servicemember” the following: “, or the inclusion of a military service deployment explanation in a file… | the bill names no machine-readable US Code section |
