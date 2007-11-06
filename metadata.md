@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2949
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2949
@@ -47,9 +47,10 @@ Eurasia Foundation Act
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Eurasia Foundation Act
 - 2007-11-05 — Mr. Engel moved to suspend the rules and pass the bill, as amended.
 - 2007-11-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12462-12463)
 - 2007-11-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12462-12463)
+- 2007-11-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
