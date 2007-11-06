@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3866
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3866
@@ -30,3 +30,11 @@ Small Business Programs Act of 2007
 - 2007-10-17 — Introduced in House
 - 2007-10-17 — Introduced in House
 - 2007-10-17 — Referred to the House Committee on Small Business.
+- 2007-10-18 — Committee Consideration and Mark-up Session Held.
+- 2007-10-18 — Ordered to be Reported by Voice Vote.
+- 2007-11-06 — Considered under suspension of the rules. (consideration: CR H12773-12776)
+- 2007-11-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3866.
+- 2007-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-06 — Ms. Velazquez moved to suspend the rules and pass the bill, as amended.
+- 2007-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12773-12774)
+- 2007-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12773-12774)
