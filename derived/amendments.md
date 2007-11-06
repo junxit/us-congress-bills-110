@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3997
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -51,21 +51,21 @@ complete account of the bill's effect, which it is not.
 | — | strike | Subparagraph (D) of section 6103(l)(7) (relating to disclosure of return information to Federal, State, and local agencies administering certain programs under the Social Security Act, the Food Stamp Act of 1977, or title 38, United Stat… | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 1477` | amend | Subsection (e) of section 408A (relating to qualified rollover contribution), as in effect before the amendments made by section 824 of the Pension Protection Act of 2006, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1477` | amend | Subsection (e) of section 408A, as in effect after the amendments made by section 824 of the Pension Protection Act of 2006, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1967` | amend | Subsection (d) of section 530 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1967` | add-at-end | Subsection (d) of section 530 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2504` | add-at-end | Subsection (d) of section 121 (relating to special rules) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382a` | insert | Section 1612(a)(1)(A) of the Social Security Act (42 U.S.C. 1382a(a)(1)(A)) is amended by inserting “(and, in the case of cash remuneration paid for service as a member of a uniformed service (other than payments described in paragraph (… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1382a` | strike | by striking “and” at the end of subparagraph (F); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382a` | replace | by striking the period at the end of subparagraph (G) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `37 U.S.C. § 403` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `37 U.S.C. § 403` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382a` | strike | by striking “and” at the end of paragraph (22); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382a` | replace | by striking the period at the end of paragraph (23) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382b` | strike | by striking “and” at the end of paragraph (14); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382b` | replace | by striking the period at the end of paragraph (15) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 101` | insert | by inserting after paragraph (15) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1382a` | strike | in paragraph (23), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1382a` | replace | in paragraph (24), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1382a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1382a` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Subsection (a) of section 6698 (relating to general rule) is amended by striking “5 months” and inserting “12 months”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (1) of section 6698(b) is amended by striking “$50” and inserting “$100”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Part I of subchapter B of chapter 68 (relating to assessable penalties) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
