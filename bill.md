@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3495
 
-> To establish a National Commission on Children and Disasters, a National Resource Center on Children and Disasters, and for other purposes.
+> To establish a National Commission on Children and Disasters, and for other purposes.
 
 ## § 1. Short title
 
@@ -79,7 +79,7 @@ The Commission shall—
 - **(a)** *Hearings* The Commission may hold such hearings, meet and act at such times and places, and receive such evidence as may be necessary to carry out the functions of the Commission.
 - **(b)** *Information from Federal agencies*
   - **(1)** *In general* The Commission may secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Federal Government such information, suggestions, estimates, and statistics as the Commission considers necessary to carry out this Act.
-  - **(2)** *Provision of information* On request of the Chairperson of the Commission, each department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, provide the requested information to the Commission
+  - **(2)** *Provision of information* On request of the Chairperson of the Commission, each department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, provide the requested information to the Commission.
   - **(3)** *Receipt, handling, storage, and dissemination* Information shall only be received, handled, stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
 - **(c)** *Assistance from Federal agencies*
   - **(1)** *General services administration* On request of the Chairperson of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, administrative support and other services necessary for the Commission to carry out its duties.
