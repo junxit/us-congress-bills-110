@@ -32,16 +32,10 @@ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended—
   >       - **(ii)** $8,500,000,000 in certified development company financings, as provided in section 7(a)(13) and as provided in section 504 of the Small Business Investment Act of 1958;
   >       - **(iii)** $750,000,000 in loans, as provided in section 7(a)(21); and
   >       - **(iv)** $50,000,000 in loans, as provided in section 7(m).
-  >     - **(C)** For the programs authorized by title III of the Small Business Investment Act of 1958, the Administration is authorized to make—
-  >       - **(i)** $4,500,000,000 in purchases of participating securities; and
-  >       - **(ii)** $4,000,000,000 in guarantees of debentures.
+  >     - **(C)** For the programs authorized by title III of the Small Business Investment Act of 1958, the Administration is authorized to make $4,000,000,000 in guarantees of debentures.
   >     - **(D)** For the programs authorized by part B of title IV of the Small Business Investment Act of 1958, the Administration is authorized to enter into guarantees not to exceed $6,000,000,000, of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act.
   >     - **(E)** The Administration is authorized to make grants or enter into cooperative agreements for a total amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1).
-  >   - **(2)** *Additional authorizations*
-  >     - **(A)** There are authorized to be appropriated to the Administration for fiscal year 2008 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b), and to carry out the Small Business Investment Act of 1958, including salaries and expenses of the Administration.
-  >     - **(B)** Notwithstanding any other provision of this paragraph, for fiscal year 2008—
-  >       - **(i)** no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
-  >       - **(ii)** the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $2,000,000.
+  >   - **(2)** *Additional authorization* There are authorized to be appropriated to the Administration for fiscal year 2008 $20,000,000 to carry out the PRIME program.
   > - **(e)** *Fiscal year 2009*
   >   - **(1)** *Program levels* The following program levels are authorized for fiscal year 2009:
   >     - **(A)** For the programs authorized by this Act, the Administration is authorized to make—
@@ -52,16 +46,10 @@ Section 20 of the Small Business Act (15 U.S.C. 631 note) is amended—
   >       - **(ii)** $9,000,000,000 in certified development company financings, as provided in section 7(a)(13) and as provided in section 504 of the Small Business Investment Act of 1958;
   >       - **(iii)** $750,000,000 in loans, as provided in section 7(a)(21); and
   >       - **(iv)** $50,000,000 in loans, as provided in section 7(m).
-  >     - **(C)** For the programs authorized by title III of the Small Business Investment Act of 1958, the Administration is authorized to make—
-  >       - **(i)** $4,500,000,000 in purchases of participating securities; and
-  >       - **(ii)** $4,000,000,000 in guarantees of debentures.
+  >     - **(C)** For the programs authorized by title III of the Small Business Investment Act of 1958, the Administration is authorized to make $4,000,000,000 in guarantees of debentures.
   >     - **(D)** For the programs authorized by part B of title IV of the Small Business Investment Act of 1958, the Administration is authorized to enter into guarantees not to exceed $6,000,000,000, of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act.
   >     - **(E)** The Administration is authorized to make grants or enter into cooperative agreements for a total amount of $7,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1).
-  >   - **(2)** *Additional authorizations*
-  >     - **(A)** There are authorized to be appropriated to the Administration for fiscal year 2009 such sums as may be necessary to carry out the provisions of this Act not elsewhere provided for, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b), and to carry out the Small Business Investment Act of 1958, including salaries and expenses of the Administration.
-  >     - **(B)** Notwithstanding any other provision of this paragraph, for fiscal year 2009—
-  >       - **(i)** no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
-  >       - **(ii)** the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $2,000,000.
+  >   - **(2)** *Additional authorization* There are authorized to be appropriated to the Administration for fiscal year 2009 $20,000,000 to carry out the PRIME program.
 
 ## § 3. BusinessLINC grants reauthorization
 
