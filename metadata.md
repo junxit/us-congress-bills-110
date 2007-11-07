@@ -1,7 +1,7 @@
 ---
 measure: H.R. 798
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 798
@@ -44,3 +44,7 @@ To direct the Administrator of General Services to install a photovoltaic system
 - 2007-02-12 — Reported by the Committee on Transportation. H. Rept. 110-11.
 - 2007-02-12 — Reported by the Committee on Transportation. H. Rept. 110-11.
 - 2007-02-13 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2007-06-06 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2007-11-07 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-224.
+- 2007-11-07 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-224.
+- 2007-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.
