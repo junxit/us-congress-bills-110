@@ -41,13 +41,8 @@ The purposes of this Act are—
   - **(5)** *Employment agency* The term employment agency has the meaning given the term in section 701(c) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(c)).
   - **(6)** *Labor organization* The term labor organization has the meaning given the term in section 701(d) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(d)).
   - **(7)** *Person* The term person has the meaning given the term in section 701(a) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(a)).
-  - **(8)** *Religious organization* The term religious organization means—
-    - **(A)** a religious corporation, association, or society; or
-    - **(B)** a school, college, university, or other educational institution or institution of learning, if—
-      - **(i)** the institution is in whole or substantial part controlled, managed, owned, or supported by a particular religion, religious corporation, association, or society; or
-      - **(ii)** the curriculum of the institution is directed toward the propagation of a particular religion.
-  - **(9)** *Sexual orientation* The term sexual orientation means homosexuality, heterosexuality, or bisexuality.
-  - **(10)** *State* The term State has the meaning given the term in section 701(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(i)).
+  - **(8)** *Sexual orientation* The term sexual orientation means homosexuality, heterosexuality, or bisexuality.
+  - **(9)** *State* The term State has the meaning given the term in section 701(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(i)).
 - **(b)** *Application of definitions* For purposes of this section, a reference in section 701 of the Civil Rights Act of 1964—
   - **(1)** to an employee or an employer shall be considered to refer to an employee (as defined in paragraph (3)) or an employer (as defined in paragraph (4)), respectively, except as provided in paragraph (2) below; and
   - **(2)** to an employer in subsection (f) of that section shall be considered to refer to an employer (as defined in paragraph (4)(A)).
@@ -73,9 +68,9 @@ The purposes of this Act are—
 
 It shall be an unlawful employment practice for a covered entity to discriminate against an individual because such individual (1) opposed any practice made an unlawful employment practice by this Act; or (2) made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this Act.
 
-## § 6. Exemption for religious organizations
+## § 6. Exemption for Religious Organizations
 
-This Act shall not apply to a religious organization.
+This Act shall not apply to a corporation, association, educational institution, or society that is exempt from the religious discrimination provisions of title VII of the Civil Rights Acts of 1964 pursuant to section 702(a) or 703(e)(2) of such Act (42 U.S.C. 2000e–1(a); 2000e–2(e)(2)).
 
 ## § 7. Nonapplication to members of the armed forces; veterans’ preferences
 
@@ -89,8 +84,8 @@ This Act shall not apply to a religious organization.
 - **(a)** *Employer rules and policies*
   - **(1)** *In general* Nothing in this Act shall be construed to prohibit a covered entity from enforcing rules and policies that do not intentionally circumvent the purposes of this Act, if the rules or policies are designed for, and uniformly applied to, all individuals regardless of actual or perceived sexual orientation.
   - **(2)** *Sexual harassment* Nothing in this Act shall be construed to limit a covered entity from taking adverse action against an individual because of a charge of sexual harassment against that individual, provided that rules and policies on sexual harassment, including when adverse action is taken, are designed for, and uniformly applied to, all individuals regardless of actual or perceived sexual orientation.
-  - **(3)** *Actions conditioned on marriage* An unlawful employment practice under section 4 shall include an action described in that section that is conditioned, in a State in which a person cannot marry a person of the same sex, either on being married or being eligible to marry.
-- **(b)** *Employee benefits* Nothing in this Act shall be construed to require a covered entity to treat a couple who are not married, including a same-sex couple who are not married, in the same manner as the covered entity treats a married couple for purposes of employee benefits.
+- **(b)** *Employee benefits* Nothing in this Act shall be construed to require a covered entity to treat a couple who are not married in the same manner as the covered entity treats a married couple for purposes of employee benefits.
+- **(c)** *Definition of marriage* As used in this Act, the term “married” or “marry” refer to marriage as such term is defined in section 7 of title I, United States Code (referred to as the Defense of Marriage Act).
 
 ## § 9. Collection of statistics prohibited
 
