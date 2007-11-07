@@ -1,7 +1,7 @@
 ---
 measure: S. 597
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 597
@@ -16,7 +16,7 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (25)
+## Cosponsors (61)
 
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -43,6 +43,42 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Brownback, Sam [R-KS] (B000953)
 - Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -53,3 +89,8 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 - 2007-02-14 — Introduced in Senate
 - 2007-02-14 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S1976)
 - 2007-02-14 — Sponsor introductory remarks on measure. (CR S1975-1976)
+- 2007-03-30 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2007-08-01 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-222.
+- 2007-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-222.
+- 2007-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.
