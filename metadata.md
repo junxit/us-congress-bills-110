@@ -1,7 +1,7 @@
 ---
 measure: S. 2265
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2265
@@ -36,3 +36,10 @@ An Act to extend the existing provisions regarding the eligibility for essential
 - 2007-10-31 — Message on Senate action sent to the House.
 - 2007-10-31 — Received in the House.
 - 2007-10-31 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-11-06 — Considered under suspension of the rules. (consideration: CR H12782-12783)
+- 2007-11-06 — DEBATE - The House proceeded with forty minutes of debate on S. 2265.
+- 2007-11-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-06 — Mr. Costello moved to suspend the rules and pass the bill, as amended.
+- 2007-11-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H12782)
+- 2007-11-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H12782)
+- 2007-11-06 — The title of the measure was amended. Agreed to without objection.
