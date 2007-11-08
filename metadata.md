@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 289
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 289
@@ -24,3 +24,7 @@ A resolution expressing the sense of the Senate that a "Welcome Home Vietnam Vet
 
 - 2007-08-01 — Introduced in Senate
 - 2007-08-01 — Referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S10627)
+- 2007-11-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S14234)
+- 2007-11-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S14234)
+- 2007-11-08 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S14233-14234)
+- 2007-11-08 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S14233-14234)
