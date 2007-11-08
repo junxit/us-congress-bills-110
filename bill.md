@@ -1,0 +1,218 @@
+---
+legis-num: S. 2330
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2330
+
+> To authorize a pilot program within the Departments of Veterans Affairs and Housing and Urban Development with the goal of preventing at-risk veterans and veteran families from falling into homelessness, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Veterans Homelessness Prevention Act”.
+
+## § 2. Pilot program to provide supportive housing for very low-income veteran families
+
+- **(a)** *Purpose* The purposes of this section are—
+  - **(1)** to expand the supply of permanent housing for very low-income veteran families; and
+  - **(2)** to provide supportive services through such housing to support the needs of such veteran families.
+- **(b)** *Establishment of pilot program*
+  - **(1)** *In general* The Secretary of Housing and Urban Development shall establish a pilot program to provide assistance to private nonprofit organizations and consumer cooperatives to expand the supply of supportive housing for very low-income veteran families
+  - **(2)** *Authority to provide assistance* The Secretary shall, to the extent amounts are made available for assistance under this section and the Secretary receives approvable applications for such assistance, provide assistance to private nonprofit organizations and consumer cooperatives to carry out the pilot program established under paragraph (1).
+  - **(3)** *Nature of assistance* The assistance provided under this subsection—
+    - **(A)** shall be available for use to plan for and finance the acquisition, construction, reconstruction, or moderate or substantial rehabilitation of a structure or a portion of a structure to be used as supportive housing for very low-income veteran families in accordance with this section; and
+    - **(B)** may also cover the cost of real property acquisition, site improvement, conversion, demolition, relocation, and other expenses that the Secretary determines are necessary to expand the supply of supportive housing for very low-income veteran families.
+  - **(4)** *Consultation* In meeting the requirement of this subsection, the Secretary shall consult with—
+    - **(A)** the Secretary of Veterans Affairs; and
+    - **(B)** the Special Assistant for Veterans Affairs, as such Special Assistant was established under section 4(g) of the Department of Housing and Urban Development Act.
+- **(c)** *Forms of assistance* Assistance under this section shall be made available in the following forms:
+  - **(1)** Assistance may be provided as a grant for costs of planning a project to be used as supportive housing for very low-income veteran families.
+  - **(2)** Assistance may be provided as a capital advance under this paragraph for a project, such advance shall—
+    - **(A)** bear no interest;
+    - **(B)** not be required to be repaid so long as the housing remains available for occupancy by very low-income veteran families in accordance with this section; and
+    - **(C)** be in an amount calculated in accordance with the development cost limitation established pursuant to subsection (j).
+  - **(3)** Assistance may be provided as project rental assistance, under an annual contract that—
+    - **(A)** obligates the Secretary to make monthly payments to cover any part of the costs attributed to units occupied (or, as approved by the Secretary, held for occupancy) by very low-income veteran families that is not met from project income;
+    - **(B)** provides for the project not more than the sum of the initial annual project rentals for all units so occupied and any initial utility allowances for such units, as approved by the Secretary;
+    - **(C)** any contract amounts not used by a project in any year shall remain available to the project until the expiration of the contract; and
+    - **(D)** provides that the Secretary shall, to the extent appropriations for such purpose are made available, adjust the annual contract amount if the sum of the project income and the amount of assistance payments available under this paragraph are inadequate to provide for reasonable project costs.
+- **(d)** *Tenant rent contribution* A very low-income veteran family shall pay as rent for a dwelling unit assisted under this section the highest of the following amounts, rounded to the nearest dollar:
+  - **(1)** 30 percent of the veteran family's adjusted monthly income.
+  - **(2)** 10 percent of the veteran family's monthly income.
+  - **(3)** If the veteran family is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the veteran family's actual housing costs, is specifically designated by such agency to meet the veteran family's housing costs, the portion of such payments which is so designated.
+- **(e)** *Term of commitment*
+  - **(1)** *Use limitations* All units in housing assisted under this section shall be made available for occupancy by very low-income veteran families for not less than 15 years.
+  - **(2)** *Contract terms*
+    - **(A)** *Initial term* The initial term of a contract entered into under subsection (c)(2) shall be 60 months.
+    - **(B)** *Extension* The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 12 months.
+    - **(C)** *Authority of Secretary to make early commitments* In order to facilitate the orderly extension of expiring contracts, the Secretary may make commitments to extend expiring contracts during the year prior to the date of expiration.
+- **(f)** *Applications*
+  - **(1)** *In general* Amounts made available under this section shall be allocated by the Secretary among approvable applications submitted by private nonprofit organizations and consumer cooperatives.
+  - **(2)** *Content of application*
+    - **(A)** *In general* Applications for assistance under this section shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
+    - **(B)** *Required content* Applications for assistance under this section shall contain—
+      - **(i)** a description of the proposed housing;
+      - **(ii)** a description of the assistance the applicant seeks under this section;
+      - **(iii)** a description of—
+        - **(I)** the supportive services to be provided to the persons occupying such housing;
+        - **(II)** the manner in which such services will be provided to such persons, including, in the case of frail elderly persons (as such term is defined in section 202 of the Housing Act of 1959 (12 U.S.C. 1701q)), evidence of such residential supervision as the Secretary determines is necessary to facilitate the adequate provision of such services; and
+        - **(III)** the public or private sources of assistance that can reasonably be expected to fund or provide such services;
+      - **(iv)** a certification from the public official responsible for submitting a housing strategy for the jurisdiction to be served in accordance with section 105 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12705) that the proposed project is consistent with the approved housing strategy; and
+      - **(v)** such other information or certifications that the Secretary determines to be necessary or appropriate to achieve the purposes of this section.
+  - **(3)** *Rejection* The Secretary shall not reject any application for assistance under this section on technical grounds without giving notice of that rejection and the basis therefore to the applicant.
+- **(g)** *Selection criteria* The Secretary shall establish selection criteria for assistance under this section, which shall include criteria—
+  - **(1)** based upon—
+    - **(A)** the ability of the applicant to develop and operate the proposed housing;
+    - **(B)** the need for supportive housing for very low-income veteran families in the area to be served;
+    - **(C)** the extent to which the proposed size and unit mix of the housing will enable the applicant to manage and operate the housing efficiently and ensure that the provision of supportive services will be accomplished in an economical fashion;
+    - **(D)** the extent to which the proposed design of the housing will meet the physical needs of very low-income veteran families;
+    - **(E)** the extent to which the applicant has demonstrated that the supportive services identified pursuant to subsection (f)(2)(B)(iii) will be provided on a consistent, long-term basis;
+    - **(F)** the extent to which the proposed design of the housing will accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the very low-income veterans the housing is intended to serve; and
+    - **(G)** such other factors as the Secretary determines to be appropriate to ensure that funds made available under this section are used effectively; and
+  - **(2)** appropriate to consider the need for supportive housing for very low-income veteran families in nonmetropolitan areas and by Indian tribes.
+- **(h)** *Provision of supportive services to veteran families*
+  - **(1)** *In general* The Secretary of Veterans Affairs shall ensure that any housing assistance provided to veterans or veteran families includes a range of services tailored to the needs of the very low-income veteran families occupying such housing, which may include services for—
+    - **(A)** outreach;
+    - **(B)** health (including counseling, mental health, substance abuse, post-traumatic stress disorder, and traumatic brain injury) diagnosis and treatment;
+    - **(C)** habilitation and rehabilitation;
+    - **(D)** case management;
+    - **(E)** daily living;
+    - **(F)** personal financial planning;
+    - **(G)** transportation;
+    - **(H)** vocation;
+    - **(I)** employment and training;
+    - **(J)** education;
+    - **(K)** assistance in obtaining veterans benefits and public benefits, including health and medical care provided by the Department of Veterans Affairs;
+    - **(L)** assistance in obtaining income support;
+    - **(M)** assistance in obtaining health insurance;
+    - **(N)** fiduciary and representative payee;
+    - **(O)** legal aid;
+    - **(P)** child care;
+    - **(Q)** housing counseling;
+    - **(R)** service coordination; and
+    - **(S)** other services necessary for maintaining independent living.
+  - **(2)** *Local coordination of services*
+    - **(A)** *In general* The Secretary shall ensure that owners of housing assisted under this section have the managerial capacity to—
+      - **(i)** assess on an ongoing basis the service needs of residents;
+      - **(ii)** coordinate the provision of supportive services and tailor such services to the individual needs of residents; and
+      - **(iii)** seek on a continuous basis new sources of assistance to ensure the long-term provision of supportive services.
+    - **(B)** *Classification of costs* Any cost associated with this subsection shall be an eligible cost under subsections (c)(3) and (i).
+- **(i)** *Financial assistance for services*
+  - **(1)** *In general* The Secretary of Veterans Affairs shall, to the extent amounts are available for assistance under this subsection, provide financial assistance for the provision of supportive services, and for coordinating the provision of such services, to very low-income veteran families occupying assisted housing. Such assistance shall be made through payments to owners of such housing for each resident of the housing based on the formula established under paragraph (2).
+  - **(2)** *Formula* The Secretary of Veterans Affairs shall establish a formula to determine the rate of the payments to be provided under this subsection. The formula shall determine a rate for each resident of the housing assisted under this section (which shall be adjusted not less than annually to take into consideration changes in the cost of living).
+  - **(3)** *Authorization of appropriations*
+    - **(A)** *In general* There is authorized to be appropriated for the Department of Veterans Affairs to carry out this subsection amounts as follows:
+      - **(i)** For fiscal year 2008, $1,000,000.
+      - **(ii)** For each fiscal year after fiscal year 2008, such sums as may be necessary for such fiscal year.
+    - **(B)** *Availability* Amounts authorized to be appropriated by subparagraph (A) shall remain available until expended.
+- **(j)** *Development cost limitations*
+  - **(1)** *In general* The Secretary shall periodically establish development cost limitations by market area for various types and sizes of supportive housing for very low-income veteran families by publishing a notice of the cost limitations in the Federal Register.
+  - **(2)** *Considerations* The cost limitations established under paragraph (1) shall reflect—
+    - **(A)** the cost of construction, reconstruction, or moderate or substantial rehabilitation of supportive housing for very low-income veteran families that meets applicable State and local housing and building codes;
+    - **(B)** the cost of movables necessary to the basic operation of the housing, as determined by the Secretary;
+    - **(C)** the cost of special design features necessary to make the housing accessible to very low-income veteran families;
+    - **(D)** the cost of congregate space necessary to accommodate the provision of supportive services to veteran families;
+    - **(E)** if the housing is newly constructed, the cost of meeting the energy efficiency standards promulgated by the Secretary in accordance with section 109 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12709); and
+    - **(F)** the cost of land, including necessary site improvement.
+  - **(3)** *Use of data* In establishing development cost limitations for a given market area under this subsection, the Secretary shall use data that reflect currently prevailing costs of construction, reconstruction, or moderate or substantial rehabilitation, and land acquisition in the area.
+  - **(4)** *Congregate space* For purposes of paragraph (1), a congregate space shall include space for cafeterias or dining halls, community rooms or buildings, workshops, child care, adult day health facilities or other outpatient health facilities, or other essential service facilities.
+  - **(5)** *Commercial facilities* Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.
+  - **(6)** *Acquisition* In the case of existing housing and related facilities to be acquired, the cost limitations shall include—
+    - **(A)** the cost of acquiring such housing;
+    - **(B)** the cost of rehabilitation, alteration, conversion, or improvement, including the moderate or substantial rehabilitation thereof; and
+    - **(C)** the cost of the land on which the housing and related facilities are located.
+  - **(7)** *Annual adjustments* The Secretary shall adjust the cost limitation not less than annually to reflect changes in the general level of construction, reconstruction, and moderate and substantial rehabilitation costs.
+  - **(8)** *Incentives for savings*
+    - **(A)** *Special housing account*
+      - **(i)** *In general* The Secretary shall use the development cost limitations established under paragraph (1) or (6) to calculate the amount of financing to be made available to individual owners.
+      - **(ii)** *Actual developmental costs less than financing* Owners which incur actual development costs that are less than the amount of financing shall be entitled to retain 50 percent of the savings in a special housing account.
+      - **(iii)** *Bonus for energy efficiency* The percentage established under clause (ii) shall be increased to 75 percent for owners which add energy efficiency features which—
+        - **(I)** exceed the energy efficiency standards promulgated by the Secretary in accordance with section 109 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12709);
+        - **(II)** substantially reduce the life-cycle cost of the housing; and
+        - **(III)** reduce gross rent requirements.
+    - **(B)** *Uses* The special housing account established under subparagraph (A) may be used—
+      - **(i)** to provide services to residents of the housing or funds set aside for replacement reserves; or
+      - **(ii)** for such other purposes as determined by the Secretary.
+  - **(9)** *Design flexibility* The Secretary shall, to the extent practicable, give owners the flexibility to design housing appropriate to their location and proposed resident population within broadly defined parameters.
+  - **(10)** *Use of funds from other sources* An owner shall be permitted voluntarily to provide funds from sources other than this section for amenities and other features of appropriate design and construction suitable for supportive housing under this section if the cost of such amenities is—
+    - **(A)** not financed with the advance; and
+    - **(B)** is not taken into account in determining the amount of Federal assistance or of the rent contribution of tenants.
+- **(k)** *Tenant selection*
+  - **(1)** *In general* An owner shall adopt written tenant selection procedures that are—
+    - **(A)** satisfactory to the Secretary and which are—
+      - **(i)** consistent with the purpose of improving housing opportunities for very low-income veteran families; and
+      - **(ii)** reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease; and
+    - **(B)** compliant with subtitle C of title VI of the Housing and Community Development Act of 1992 (42 U.S.C. 13601 et seq.) and any regulations issued under such subtitle.
+  - **(2)** *Notification of rejection* Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+  - **(3)** *Information regarding housing*
+    - **(A)** *In general* The Secretary shall provide, to the Secretary of Veterans Affairs and the Secretary of Labor, information regarding the availability of the housing assisted under this section.
+    - **(B)** *Sharing of information with additional agencies* Within 30 days of receipt of the information, the Secretary of Veterans Affairs and Secretary of Labor shall provide such information to agencies in the area of the housing that receive assistance from the Department of Veterans Affairs and the Department of Labor for providing medical care, housing, supportive services or employment and training services to homeless veterans.
+- **(l)** *Miscellaneous provisions*
+  - **(1)** *Technical assistance* The Secretary shall make available appropriate technical assistance to ensure that prospective applicants are able to participate more fully in the program carried out under this section.
+  - **(2)** *Civil rights compliance* Each owner shall certify, to the satisfaction of the Secretary, that assistance made available under this section will be conducted and administered in conformity with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000a et seq.), the Fair Housing Act (42 U.S.C. 3601 et seq.), and other Federal, State, and local laws prohibiting discrimination and promoting equal opportunity.
+  - **(3)** *Owner deposit*
+    - **(A)** *In general* The Secretary shall require an owner of housing, assisted under this section, to deposit an amount not to exceed $15,000 in a special escrow account to ensure the owner's commitment to the housing.
+    - **(B)** *Reduction of requirement*
+      - **(i)** *In general* The Secretary may reduce or waive the owner deposit specified under subparagraph (A) for individual applicants if the Secretary finds that such waiver or reduction is necessary to achieve the purposes of this section and the applicant demonstrates to the satisfaction of the Secretary that it has the capacity to manage and maintain the housing in accordance with this section.
+      - **(ii)** *Nonprofits* The Secretary may reduce or waive the requirement of the owner deposit under subparagraph (A) in the case of a nonprofit applicant that is not affiliated with a national sponsor, as determined by the Secretary.
+  - **(4)** *Notice of appeal*
+    - **(A)** *In general* The Secretary shall notify an owner not less than 30 days prior to canceling any reservation of assistance provided under this section.
+    - **(B)** *Appeal*
+      - **(i)** *filing deadline* During the 30-day period following the receipt of any notice required under subparagraph (A), an owner may appeal the proposed cancellation.
+      - **(ii)** *timing of decision* Any appeal undertaken under clause (i), including review by the Secretary, shall be completed not later than 45 days after the appeal is filed.
+  - **(5)** *Labor*
+    - **(A)** *In general* The Secretary shall take such action as may be necessary to ensure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than the rates prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+    - **(B)** *Exemption* Subparagraph (A) shall not apply to any individual who—
+      - **(i)** performs services for which the individual volunteered;
+      - **(ii)** does not receive compensation for such services or is paid expenses, reasonable benefits, or a nominal fee for such services; and
+      - **(iii)** is not otherwise employed at any time in the construction work.
+  - **(6)** *Access to residual receipts*
+    - **(A)** *In general* The Secretary shall authorize the owner of a housing project assisted under this section to use any residual receipts held for the project in excess of $500 per unit (or in excess of such other amount prescribed by the Secretary based on the needs of the project) for activities to retrofit and renovate the project as described under section 802(d)(3) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8011(d)(3)) or to provide supportive services to residents of the project.
+    - **(B)** *Report* Any owner that uses residual receipts under this paragraph shall submit to the Secretary a report, not less than annually, describing the uses of the residual receipts.
+    - **(C)** *Determination of amount* In determining the amount of project rental assistance to be provided to a project under subsection (c)(3) of this section, the Secretary may take into consideration the residual receipts held for the project only if, and to the extent that, excess residual receipts are not used under this paragraph.
+  - **(7)** *Occupancy standards and obligations* Each owner shall operate housing assisted under this section in compliance with subtitle C of title VI of the Housing and Community Development Act of 1992 (42 U.S.C. 13601 et seq.) and any regulations issued under such subtitle.
+  - **(8)** *Use of project reserves*
+    - **(A)** *In general* Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project that are currently obsolete or unmarketable.
+    - **(B)** *Approval of Secretary required* Any use described in subparagraph (A) of amounts for project reserves for a project assisted under this section shall be subject to the approval of the Secretary to ensure that such use is designed to retrofit units that are currently obsolete or unmarketable.
+- **(m)** *Definitions* In this section, the following definitions shall apply:
+  - **(1)** *Consumer cooperative* The term consumer cooperative has the same meaning given such term for purposes of the supportive housing for the elderly program under section 202 of the Housing Act of 1959 (12 U.S.C. 1701q).
+  - **(2)** *Very low-income veteran family* The term very low-income veteran family means a veteran family whose income does not exceed 50 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish an income ceiling higher or lower than 50 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents (as determined under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f)), or unusually high or low family incomes.
+  - **(3)** *Owner* The term owner means a private nonprofit organization or consumer cooperative that receives assistance under this section to develop and operate supportive housing for very low-income veteran families.
+  - **(4)** *Private nonprofit organization* The term private nonprofit organization means—
+    - **(A)** any incorporated private institution or foundation—
+      - **(i)** no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual;
+      - **(ii)** which has a governing board that is responsible for the operation of the housing assisted under this section; and
+      - **(iii)** which is approved by the Secretary as to financial responsibility;
+    - **(B)** a for-profit limited partnership the sole general partner of which is an organization meeting the requirements under clauses (i), (ii), and (iii) of subparagraph (A);
+    - **(C)** a corporation wholly owned and controlled by an organization meeting the requirements under clauses (i), (ii), and (iii) of subparagraph (A); and
+    - **(D)** a tribally designated housing entity, as such term is defined in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103).
+  - **(5)** *Secretary* The term Secretary means the Secretary of Housing and Urban Development, except where specifically provided otherwise.
+  - **(6)** *State* The term State includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States.
+  - **(7)** *Supportive housing for very low-income veteran families* The term supportive housing for very low-income veteran families means housing that is designed to accommodate the provision of supportive services that are expected to be needed, either initially or over the useful life of the housing, by the veteran families that the housing is intended to serve.
+  - **(8)** *Veteran* The term veteran has the meaning given the term in section 101 of title 38, United States Code.
+  - **(9)** *Veteran family* The term veteran family includes a veteran who is a single person, a family (including families with children) whose head of household (or whose spouse) is a veteran, and one or more veterans living together with 1 or more persons.
+- **(n)** *Allocation of funds* Of any amounts made available for assistance under this section:
+  - **(1)** *Planning grants* Not more than 2.5 percent shall be available for planning grants in accordance with subsection (c)(1).
+  - **(2)** *Capital advances* Such sums as may be necessary shall be available for capital advances in accordance with subsection (c)(2).
+  - **(3)** *Project rental assistance* Such sums as may be necessary shall be available for project rental assistance in accordance with subsection (c)(3).
+  - **(4)** *Technical assistance* Not more than 1 percent shall be available for technical assistance in accordance with subsection (l)(1).
+- **(o)** *Authorization of appropriations for housing assistance*
+  - **(1)** *In general* There is authorized to be appropriated to the Department of Housing and Urban Development for assistance under this section $25,000,000 for fiscal year 2008 and such sums as may be necessary for each fiscal year thereafter.
+  - **(2)** *Availability* Amounts authorized to be appropriated by paragraph (1) shall remain available until expended.
+
+## § 3. Assessment of pilot program
+
+- **(a)** *In general* Upon the expiration of the 2-year period beginning on the date of the enactment of this Act, the Secretary of Veterans Affairs, in consultation with the Secretary of Housing and Urban Development, shall conduct an assessment of the pilot program carried out under section 2 to determine the effectiveness and limitations of, and potential improvements for, such program.
+- **(b)** *Submission of assessment to Congress* Not later than 180 days after the expiration of the 2-year period described in subsection (a), the Secretary of Veterans Affairs shall submit a report to the Congress regarding the results of the assessment required under subsection (a).
+
+## § 4. Technical assistance grants for housing assistance for veterans
+
+- **(a)** *In general* The Secretary of Housing and Urban Development shall, to the extent amounts are made available in appropriation Acts for grants under this section, make grants to eligible entities under subsection (b) to provide to nonprofit organizations technical assistance appropriate to assist such organizations in—
+  - **(1)** sponsoring housing projects for veterans assisted under programs, including any pilot programs, administered by the Department of Housing and Urban Development;
+  - **(2)** fulfilling the planning and application processes and requirements necessary under such programs administered by the Department; and
+  - **(3)** assisting veterans in obtaining housing or homeless assistance under programs administered by the Department.
+- **(b)** *Eligible entities* An eligible entity under this subsection is a nonprofit entity or organization having such expertise as the Secretary shall require in providing technical assistance to providers of services for veterans.
+- **(c)** *Selection of grant recipients* The Secretary of Housing and Urban Development shall establish criteria for selecting applicants for grants under this section to receive such grants and shall select applicants based upon such criteria.
+- **(d)** *Funding* Of any amounts made available in fiscal year 2008 or any fiscal year thereafter to the Department of Housing and Urban Development for salaries and expenses, $750,000 shall be available, and shall remain available until expended, for grants under this section.
