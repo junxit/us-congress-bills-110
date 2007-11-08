@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3315
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3315
@@ -255,3 +255,12 @@ To provide that the great hall of the Capitol Visitor Center shall be known as E
 - 2007-08-02 — Introduced in House
 - 2007-08-02 — Introduced in House
 - 2007-08-02 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-08-03 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-09-25 — Subcommittee Hearings Held.
+- 2007-10-30 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-10-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-10-31 — Committee Consideration and Mark-up Session Held.
+- 2007-10-31 — Ordered to be Reported by Voice Vote.
+- 2007-11-08 — Placed on the House Calendar, Calendar No. 150.
+- 2007-11-08 — Reported by the Committee on Transportation. H. Rept. 110-436.
+- 2007-11-08 — Reported by the Committee on Transportation. H. Rept. 110-436.
