@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3996
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -129,12 +129,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | Subparagraph (E) of section 163(h)(3) (relating to mortgage insurance premiums treated as interest) is amended by striking clauses (iii) and (iv) and inserting the following new clause: | the bill names no machine-readable US Code section |
 | — | amend | Subparagraph (D) of section 216(b)(1) (defining cooperative housing corporation) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (b) of section 121 (relating to limitations) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 6306` | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Section 7811 is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the bill names no machine-readable US Code section |
+| — | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the bill names no machine-readable US Code section |
+| — | strike | Section 7811 is amended by striking subsection (g). | the bill names no machine-readable US Code section |
+| — | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the bill names no machine-readable US Code section |
+| — | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the bill names no machine-readable US Code section |
+| — | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the bill names no machine-readable US Code section |
 | — | replace | Subsection (b) of section 511 of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking “December 31, 2010” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subsection (c) of section 932 (relating to treatment of Virgin Islands residents) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `8 U.S.C. § 1481` | insert | Subpart A of part II of subchapter N of chapter 1 is amended by inserting after section 877 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -149,9 +149,9 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1481` | insert | The table of sections for subpart A of part II of subchapter N of chapter 1 is amended by inserting after the item relating to section 877 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Section 6404 is amended by striking subsection (g) and by redesignating subsection (h) as subsection (g). | the bill names no machine-readable US Code section |
 | `19 U.S.C. § 1313` | add-at-end | Section 313(j)(2) of the Tariff Act of 1930 (19 U.S.C. 1313(j)(2)) is amended by adding at the end the following: “For purposes of subparagraph (A) of this paragraph, wine of the same color having a price variation not to exceed 50 perce… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Subpart B of part II of subchapter E of chapter 1 (relating to taxable year for which items of gross income included) is amended by inserting after section 457 the following new section: | the bill names no machine-readable US Code section |
-| — | replace | Section 26(b)(2) is amended by striking “and” at the end of subparagraph (S), by striking the period at the end of subparagraph (T) and inserting “, and”, and by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections of subpart B of part II of subchapter E of chapter 1 is amended by inserting after the item relating to section 457 the following new item: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 457A` | insert | Subpart B of part II of subchapter E of chapter 1 (relating to taxable year for which items of gross income included) is amended by inserting after section 457 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 457A` | replace | Section 26(b)(2) is amended by striking “and” at the end of subparagraph (S), by striking the period at the end of subparagraph (T) and inserting “, and”, and by adding at the end the following new subparagraph: | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `26 U.S.C. § 457A` | insert | The table of sections of subpart B of part II of subchapter E of chapter 1 is amended by inserting after the item relating to section 457 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 710` | amend | Part I of subchapter K of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 710` | add-at-end | Subsection (c) of section 856 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 710` | insert | Subsection (b) of section 6662 is amended by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -162,10 +162,10 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 710` | insert | Section 741 is amended by inserting “or section 710 (relating to special rules for partners providing investment management services to partnership)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 710` | replace | by striking “other than guaranteed” and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 710` | replace | by striking the semi-colon at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 710` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 710` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 710` | replace | by striking “other than guaranteed” and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 710` | replace | by striking the semi-colon at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 710` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 710` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 710` | add-at-end | The table of sections for part I of subchapter K of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subsection (c) of section 514 (relating to acquisition indebtedness) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | Subsection (a) of section 1239 is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -179,7 +179,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Subsection (b) of section 6045 is amended by adding at the end the following: “In the case of a consolidated reporting statement (as defined in regulations) with respect to any account which includes the statement required by this subsec… | the bill names no machine-readable US Code section |
 | — | replace | by striking “The basis of property” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The cost of real property” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Subpart B of part III of subchapter A of chapter 61 is amended by inserting after section 6045 the following new section: | the bill names no machine-readable US Code section |
 | — | redesignate | Paragraph (2) of section 6724(d) (defining payee statement) is amended by redesignating subparagraphs (I) through (CC) as subparagraphs (J) through (DD), respectively, and by inserting after subparagraph (H) the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for subpart B of part III of subchapter A of chapter 61 is amended by inserting after the item relating to section 6045 the following new item: | the bill names no machine-readable US Code section |
