@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 808
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 808
@@ -16,7 +16,7 @@ Commemorating the 50th Anniversary of the Metropolitan Washington Council of Gov
 
 - Rep. Moran, James P. [D-VA-8] (M000933)
 
-## Cosponsors (68)
+## Cosponsors (69)
 
 - Rep. Davis, Tom [R-VA-11] (D000136)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
@@ -86,6 +86,7 @@ Commemorating the 50th Anniversary of the Metropolitan Washington Council of Gov
 - Rep. Gerlach, Jim [R-PA-6] (G000549)
 - Rep. Porter, Jon C. [R-NV-3] (P000589)
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
 ## Committees (1)
 
@@ -98,3 +99,9 @@ Commemorating the 50th Anniversary of the Metropolitan Washington Council of Gov
 - 2007-11-08 — Introduced in House
 - 2007-11-08 — Ordered to be Reported by Voice Vote.
 - 2007-11-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-11-13 — Considered under suspension of the rules. (consideration: CR H13596-13598)
+- 2007-11-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 808.
+- 2007-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-13 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2007-11-13 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H13596-13597)
+- 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H13596-13597)
