@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4153
 congress: 110
-version: Considered and Passed House
+version: Engrossed in House
 derived: true
 ---
 
@@ -69,7 +69,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1070a` | redesignate | Paragraph (8) of section 401(b) (as redesignated by subsection (a)(2) of this section) is amended by striking subparagraph (F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070a` | redesignate | Paragraph (8) of section 401(b) of the Higher Education Act of 1965 (as redesignated by subsection (a)(2) of this section) is amended by striking subparagraph (F) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087vv` | replace | Section 480(b) of the Higher Education Act of 1965 (20 U.S.C. 1087vv(b)) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087vv` | replace | Section 480(d)(1) of the Higher Education Act of 1965 (20 U.S.C. 1087vv(d)(1)) is amended by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1098e` | add-at-end | Section 493C of the Higher Education Act of 1965 (20 U.S.C. 1098e) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
