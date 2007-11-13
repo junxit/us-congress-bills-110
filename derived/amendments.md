@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -65,10 +65,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3797w` | replace | by striking subsections (d) through (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797w` | replace | Section 2976(a) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797w(a)) is amended by striking “States, Territories” and all that follows through the period at the end and inserting the following: “States, local go… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 3797w` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3796ff-1` | replace | by striking the subsection heading and inserting “Requirement for aftercare component”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3796ff-1` | replace | by striking the subsection heading and inserting “Requirement for Aftercare Component”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3796ff-1` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3796ff-1` | amend | Section 1904(d) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796ff–3(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 3797u-1` | insert | Section 2953(a)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u-2(a)(1)) is amended by inserting “that is punishable by a term of imprisonment exceeding one year” after “convicted of an offense”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 3797u-1` | insert | Section 2953(a)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797u–2(a)(1)) is amended by inserting “that is punishable by a term of imprisonment exceeding one year” after “convicted of an offense”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 13702` | strike | in paragraph (2) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 13702` | replace | in paragraph (3) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 13702` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
