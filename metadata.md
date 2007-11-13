@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 1593
@@ -112,9 +112,10 @@ Second Chance Act of 2007
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Melancon, Charlie [D-LA-3] (M001161)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -139,3 +140,17 @@ Second Chance Act of 2007
 - 2007-11-13 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
 - 2007-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 62 (Roll no. 1083). (text: CR H13565-13575)
 - 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 62 (Roll no. 1083).(text: CR H13565-13575)
+- 2007-11-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-03-11 — Cleared for White House.
+- 2008-03-11 — Passed Senate without amendment by Unanimous Consent.
+- 2008-03-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-03-11 — Pursuant to the provisions of H. Con. Res. 270, enrollment corrections on H.R. 1593 have been made.
+- 2008-03-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1893-1895)
+- 2008-03-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1893-1895)
+- 2008-03-12 — Message on Senate action sent to the House.
+- 2008-04-07 — Presented to President.
+- 2008-04-07 — Presented to President.
+- 2008-04-09 — Became Public Law No: 110-199.
+- 2008-04-09 — Became Public Law No: 110-199.
+- 2008-04-09 — Signed by President.
+- 2008-04-09 — Signed by President.
