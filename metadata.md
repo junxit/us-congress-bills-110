@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1593
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1593
@@ -116,6 +116,10 @@ Second Chance Act of 2007
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2007-11-13 — [House 110-1-1083](votes/house-110-1-1083.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (347–62)
+
 ## Actions
 
 - 2007-03-20 — Introduced in House
@@ -130,3 +134,12 @@ Second Chance Act of 2007
 - 2007-05-09 — Placed on the Union Calendar, Calendar No. 82.
 - 2007-05-09 — Reported by the Committee on Judiciary. H. Rept. 110-140.
 - 2007-05-09 — Reported by the Committee on Judiciary. H. Rept. 110-140.
+- 2007-05-23 — Sponsor introductory remarks on measure. (CR H5691)
+- 2007-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-11-13 — Considered as unfinished business. (consideration: CR H13823-13824)
+- 2007-11-13 — Considered under suspension of the rules. (consideration: CR H13564-13582)
+- 2007-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1593.
+- 2007-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-13 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2007-11-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 62 (Roll no. 1083). (text: CR H13565-13575)
+- 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 347 - 62 (Roll no. 1083).(text: CR H13565-13575)
