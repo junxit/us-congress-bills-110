@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2614
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2614
@@ -29,3 +29,10 @@ To amend the Reclamation Wastewater and Groundwater Study and Facilities Act to 
 - 2007-06-07 — Introduced in House
 - 2007-06-07 — Introduced in House
 - 2007-06-07 — Referred to the House Committee on Natural Resources.
+- 2007-06-11 — Referred to the Subcommittee on Water and Power.
+- 2007-11-13 — Considered under suspension of the rules. (consideration: CR H13528-13529)
+- 2007-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2614.
+- 2007-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-13 — Ms. Bordallo moved to suspend the rules and pass the bill.
+- 2007-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13528)
+- 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13528)
