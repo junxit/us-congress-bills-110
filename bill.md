@@ -18,7 +18,7 @@ This Act may be cited as the “Compacts of Free Association Amendments Act of 2
 - **(a)** *In general* Section 101 of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921) is amended—
   - **(1)** in the first sentence of subsection (a), by inserting before the period at the end the following: “, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Federated States of Micronesia, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 30, 2004, which shall serve as the authority to implement the provisions thereof”; and
   - **(2)** in the first sentence of subsection (b), by inserting before the period at the end the following: “, including Article X of the Federal Programs and Services Agreement Between the Government of the United States and the Government of the Republic of the Marshall Islands, as amended under the Agreement to Amend Article X that was signed by those two Governments on June 18, 2004, which shall serve as the authority to implement the provisions thereof”.
-- **(b)** *Effective date* The amendments made by subsection (a) shall be effective as of January 31, 2008.
+- **(b)** *Effective date* The amendments made by subsection (a) shall be effective as of April 30, 2008.
 
 ## § 3. Funds to Facilitate Federal Activities
 
@@ -31,7 +31,7 @@ Unobligated amounts appropriated before the date of the enactment of this Act pu
   >   - **(i)** *In general* Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively, provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term United States Agency for International Development, Office of Foreign Disaster Assistance shall be construed to mean “the United States Agency for International Development”.
   >   - **(ii)** *Definition of will provide funding* In the second sentence of paragraph 12 of each of the Agreements described in clause (i), the term will provide funding means will provide funding through a transfer of funds using Standard Form 1151 or a similar document or through an interagency, reimbursable agreement.
 
-- **(b)** *Effective date* The amendments made by subsection (a) shall be effective as of January 31, 2008.
+- **(b)** *Effective date* The amendments made by subsection (a) shall be effective as of April 30, 2008.
 
 ## § 5. Clarifications regarding Palau
 
@@ -130,3 +130,18 @@ The Government of the Republic of Palau may deposit the payment otherwise payabl
 ## § 10. Clarification of tax-free status of Trust Funds
 
 In the U.S.–RMI Compact, the U.S.–FSM Compact, and their respective trust fund subsidiary agreements, for the purposes of taxation by the United States or its subsidiary jurisdictions, the term State means “State, territory, or the District of Columbia”.
+
+## § 11. Transfer of naval vessels to certain foreign recipients
+
+- **(a)** *Transfers by grant* The President is authorized to transfer vessels to foreign countries on a grant basis under section 516 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j), as follows:
+  - **(1)** *Turkey* To the Government of Turkey—
+    - **(A)** the OLIVER HAZARD PERRY class guided missile frigates GEORGE PHILIP (FFG–12) and SIDES (FFG–14); and
+    - **(B)** the OSPREY class minehunter coastal ship BLACKHAWK (MHC–58).
+  - **(2)** *Lithuania* To the Government of Lithuania, the OSPREY class minehunter coastal ships CORMORANT (MHC–57) and KINGFISHER (MHC–56).
+- **(b)** *Transfers by sale* The President is authorized to transfer vessels to foreign recipients on a sale basis under section 21 of the Arms Export Control Act (22 U.S.C. 2761), as follows:
+  - **(1)** *Taiwan* To the Taipei Economic and Cultural Representative Office in the United States (which is the Taiwan instrumentality designated pursuant to section 10(a) of the Taiwan Relations Act (22 U.S.C. 3309(a))), the OSPREY class minehunter coastal ships ORIOLE (MHC–55) and FALCON (MHC–59).
+  - **(2)** *Turkey* To the Government of Turkey, the OSPREY class minehunter coastal ship SHRIKE (MHC–62).
+- **(c)** *Grants not counted in annual total of transferred excess defense articles* The value of a vessel transferred to a recipient on a grant basis pursuant to authority provided by subsection (a) shall not be counted against the aggregate value of excess defense articles transferred in any fiscal year under section 516(g) of the Foreign Assistance Act of 1961.
+- **(d)** *Costs of transfers* Any expense incurred by the United States in connection with a transfer authorized by this section shall be charged to the recipient.
+- **(e)** *Repair and refurbishment in United States shipyards* To the maximum extent practicable, the President shall require, as a condition of the transfer of a vessel under this section, that the recipient to which the vessel is transferred have such repair or refurbishment of the vessel as is needed before the vessel joins the naval forces of the recipient performed at a shipyard located in the United States, including a United States Navy shipyard.
+- **(f)** *Expiration of authority* The authority to transfer a vessel under this section shall expire at the end of the 2-year period beginning on the date of the enactment of this Act.
