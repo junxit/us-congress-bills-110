@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3403
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -125,4 +125,4 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 222` | strike | by striking “wireless” in the heading of subsection (f); and | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 222` | insert | by inserting “or a provider of IP-enabled voice service (as such term is defined in section 7 of the Wireless Communications and Public Safety Act of 1999 (47 U.S.C. 615b))” after “telephone exchange service”; | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 222` | replace | by striking “Notwithstanding subsections (b)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `47 U.S.C. § 222` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `47 U.S.C. § 222` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
