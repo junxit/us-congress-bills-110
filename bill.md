@@ -18,7 +18,7 @@ This Act may be cited as the “College Cost Reduction and Access Act Technical 
 - **(a)** *Correction of designation*
   - **(1)** *CCRAA Amendment* Section 101(a)(2) of the College Cost Reduction and Access Act (Public Law 110–84) is amended by striking “paragraphs (4) through (9) as paragraphs (3) through (8)” and inserting “paragraphs (4) through (8) as paragraphs (3) through (7)”.
   - **(2)** *Redesignation* Paragraph (9) of section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b)(9)), as added by section 102(b) of the College Cost Reduction and Access Act (Public Law 110–84), is redesignated as paragraph (8).
-- **(b)** *Revision of availability rule* Paragraph (8) of section 401(b) (as redesignated by subsection (a)(2) of this section) is amended by striking subparagraph (F) and inserting the following:
+- **(b)** *Revision of availability rule* Paragraph (8) of section 401(b) of the Higher Education Act of 1965 (as redesignated by subsection (a)(2) of this section) is amended by striking subparagraph (F) and inserting the following:
   > - **(F)** *Use of fiscal year funds for award years* The amounts made available by subparagraph (A) for any fiscal year shall remain available for the fiscal year succeeding the fiscal year for which such amounts are made available.
 
 ## § 3. Definition of untaxed income and benefits
