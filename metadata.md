@@ -1,0 +1,27 @@
+---
+measure: H.R. 4168
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 4168
+
+To authorize the Sault Ste. Marie Tribe of Chippewa Indians of the State of Michigan to convey land and interests in land owned by the Tribe, and for other purposes.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+
+## Committees (1)
+
+- House — Natural Resources Committee
+
+## Actions
+
+- 2007-11-13 — Introduced in House
+- 2007-11-13 — Introduced in House
+- 2007-11-13 — Referred to the House Committee on Natural Resources.
