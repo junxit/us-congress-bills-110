@@ -15,7 +15,7 @@ This Act may be cited as the “Broadband Census of America Act of 2007”.
 
 ## § 2. Census of broadband service deployment
 
-- **(a)** *Duty to collect and report*
+- **(a)** *Duty To collect and report*
   - **(1)** *Annual assessment and report* The Commission shall, on an annual basis, conduct an assessment and publish a report on the nature and deployment of, and subscription to, broadband service capability throughout the States.
   - **(2)** *Bandwidth service tiers* The Commission shall designate bandwidth service tiers by identifying tiers of increasing data transmission speeds of broadband service capability that will provide useful information about the nature and extent of deployment of broadband service capability. At a minimum, the tiers in the aggregate shall encompass all data transmission speeds deployed, and shall consist of multiple combinations of upstream and downstream data transmission speeds. Each tier shall be designated, to the extent possible, to correspond to the ability to support qualitatively different applications and services, which the Commission shall also identify.
   - **(3)** *Information collection* The Commission shall collect, or provide for the collection of, information from all commercial and public providers of broadband service capability under its jurisdiction in each State. Such information shall include—
@@ -57,9 +57,9 @@ This Act may be cited as the “Broadband Census of America Act of 2007”.
 - **(e)** *Updating* The NTIA shall update the broadband inventory map developed and maintained pursuant to this section to ensure that the information provided by the broadband inventory map is timely and accurate.
 - **(f)** *Obtaining information*
   - **(1)** *In general* The NTIA shall request and obtain such information as may be necessary to carry out this section from the following:
-    - **(A)** Eligible entities under section 4.
-    - **(B)** The Commission.
-    - **(C)** Commercial and public providers of broadband service capability.
+    - **(A)** eligible entities under section 4;
+    - **(B)** the Commission; and
+    - **(C)** commercial and public providers of broadband service capability.
   - **(2)** *Priority of information requests* If the NTIA has not otherwise obtained such information pursuant to paragraph (3), the NTIA shall—
     - **(A)** first request and try to obtain such information from such eligible entities before requesting and obtaining such information from the Commission; and
     - **(B)** only request such information from commercial and public providers of broadband service capability if such information cannot be obtained in a timely fashion from such eligible entities or the Commission.
@@ -158,11 +158,11 @@ For the purposes of this Act, the following definitions shall apply:
 
 - **(1)** *Broadband service capability* The term broadband service capability means an Internet Protocol-based transmission service that is offered to end users to enable such end users to send and receive voice, video, data, graphics, or a combination, to or from the Internet without regard to any transmission media or technology.
 - **(2)** *Commission* The term Commission means the Federal Communications Commission.
-- **(3)** *Indian tribe* The term “Indian tribe” has the meaning given in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+- **(3)** *Indian tribe* The term Indian tribe has the meaning given in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
 - **(4)** *NTIA* The term NTIA means the National Telecommunications and Information Administration of the Department of Commerce.
-- **(5)** *Personal consumer information* The term “personal consumer information”—
+- **(5)** *Personal consumer information* The term personal consumer information—
   - **(A)** means information that allows a human being to be identified individually;
-  - **(B)** includes the following information with respect to an individual—
+  - **(B)** includes the following information with respect to an individual:
     - **(i)** the first and last name;
     - **(ii)** a home or physical address;
     - **(iii)** a date or place of birth;
@@ -171,6 +171,6 @@ For the purposes of this Act, the following definitions shall apply:
     - **(vi)** a credit card number or bank account or card number; and
   - **(C)** does not include any record of aggregate information that does not permit the identification of particular individuals.
 - **(6)** *Provider*
-  - **(A)** *Public provider* The term “public” when used with respect to a provider of broadband service capability means a provider that is an agency or instrumentality of a State, or a municipality or other subdivision (or agency or instrumentality of a municipality or other subdivision) of a State, regardless of the facilities used.
-  - **(B)** *Commercial provider* The term “commercial” when used with respect to a provider of broadband service capability means a provider that offers broadband service capability for a fee, or on an advertising-supported basis, directly to the public or to such classes of users as to be effectively available to the public, regardless of the facilities used.
+  - **(A)** *Public provider* The term public when used with respect to a provider of broadband service capability means a provider that is an agency or instrumentality of a State, or a municipality or other subdivision (or agency or instrumentality of a municipality or other subdivision) of a State, regardless of the facilities used.
+  - **(B)** *Commercial provider* The term commercial when used with respect to a provider of broadband service capability means a provider that offers broadband service capability for a fee, or on an advertising-supported basis, directly to the public or to such classes of users as to be effectively available to the public, regardless of the facilities used.
 - **(7)** *State* The term State means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, the Northern Mariana Islands, and any other territory and possession of the United States.
