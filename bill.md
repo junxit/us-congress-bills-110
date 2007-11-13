@@ -2,12 +2,12 @@
 legis-num: H. RES. 335
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 335
 
-> Expressing the sense of the House of Representatives that the President should declare lung cancer a public health priority and should implement a comprehensive interagency program to reduce the lung cancer mortality rate by at least 50 percent by 2015.
+> Resolution expressing the sense of the House of Representatives with respect to lung cancer as a public health priority and the recommendations of the Lung Cancer Progress Review Group of the National Cancer Institute.
 
 ## Preamble
 
@@ -24,20 +24,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Report of the Lung Cancer Progress Review Group identified as its “highest priority” the creation of integrated, multidisciplinary, multi-institutional research consortia organized around the problem of lung cancer rather than around specific research disciplines; and
 - Whereas the United States must enhance its response to the issues raised in the Report of the Lung Cancer Progress Review Group: Now, therefore, be it
 
-That it is the sense of the House of Representatives that the President should—
+That the House of Representatives—
 
-- **(1)** declare lung cancer a public health priority and immediately lead a coordinated effort to reduce the lung cancer mortality rate by 50 percent by 2015;
-- **(2)** direct the Secretary of Health and Human Services to increase funding for lung cancer research and other lung cancer-related programs as part of a coordinated strategy with defined goals, including—
-  - **(A)** translational research and specialized lung cancer research centers;
-  - **(B)** expansion of existing multi-institutional, population-based screening programs incorporating state-of-the-art image processing, centralized review, clinical management, and tobacco cessation protocols;
-  - **(C)** research on disparities in lung cancer incidence and mortality rates;
-  - **(D)** graduate medical education programs in thoracic medicine and cardiothoracic surgery;
-  - **(E)** new programs within the Food and Drug Administration to expedite the development of chemoprevention and targeted therapies for lung cancer;
-  - **(F)** annual reviews by the Agency for Healthcare Research and Quality of lung cancer screening and treatment protocols;
-  - **(G)** the appointment of a lung cancer director within the Centers for Disease Control and Prevention with authority to improve lung cancer surveillance and screening programs; and
-  - **(H)** lung cancer screening demonstration programs under the direction of the Centers for Medicare and Medicaid Services;
-- **(3)** direct the Secretary of Defense, in conjunction with the Secretary of Veterans Affairs, to develop a broad-based lung cancer screening and disease management program among members of the Armed Forces and veterans, and to develop technologically advanced diagnostic programs for the early detection of lung cancer;
-- **(4)** appoint a Lung Cancer Scientific and Medical Advisory Committee, comprised of medical, scientific, pharmaceutical, and patient advocacy representatives, to—
-  - **(A)** work with the National Lung Cancer Public Health Policy Board described in paragraph (5); and
-  - **(B)** report to the President and Congress on the progress toward and the obstacles to achieving the goal described in paragraph (1) of reducing the lung cancer mortality rate by 50 percent by 2015; and
-- **(5)** convene a National Lung Cancer Public Health Policy Board, comprised of multiagency and multidepartment representatives and at least 3 members of the Lung Cancer Scientific and Medical Advisory Committee, to oversee and coordinate all efforts to accomplish the goal described in paragraph (1) of reducing the lung cancer mortality rate by 50 percent by 2015.
+- **(1)** recognizes lung cancer as a public health priority and the importance of taking steps toward reducing the lung cancer mortality rate by at least half by 2015;
+- **(2)** acknowledges the importance of the recommendations of the Lung Cancer Progress Review Group of the National Cancer Institute;
+- **(3)** encourages increased investment for lung cancer research and other lung cancer-related programs;
+- **(4)** supports efforts to develop a broad-based lung cancer screening and disease management program among members of the Armed Forces and veterans; and
+- **(5)** recognizes the benefit of graduate medical education programs in thoracic medicine and cardiothoracic surgery.
