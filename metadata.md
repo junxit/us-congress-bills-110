@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3315
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3315
@@ -272,3 +272,14 @@ To provide that the great hall of the Capitol Visitor Center shall be known as E
 - 2007-11-13 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2007-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 6 (Roll no. 1082). (text: CR H13529)
 - 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 6 (Roll no. 1082).(text: CR H13529)
+- 2007-11-14 — Received in the Senate, read twice.
+- 2007-12-06 — Cleared for White House.
+- 2007-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S15000)
+- 2007-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S15000)
+- 2007-12-07 — Message on Senate action sent to the House.
+- 2007-12-11 — Presented to President.
+- 2007-12-11 — Presented to President.
+- 2007-12-18 — Became Public Law No: 110-139.
+- 2007-12-18 — Became Public Law No: 110-139.
+- 2007-12-18 — Signed by President.
+- 2007-12-18 — Signed by President.
