@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3703
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3703
@@ -38,3 +38,16 @@ To amend section 5112(p)(1)(A) of title 31, United States Code, to allow an exce
 - 2007-11-13 — Mr. Scott (GA) moved to suspend the rules and pass the bill.
 - 2007-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13544)
 - 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13544)
+- 2007-11-14 — Received in the Senate.
+- 2007-11-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2007-12-03 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 515.
+- 2007-12-17 — Cleared for White House.
+- 2007-12-17 — Message on Senate action sent to the House.
+- 2007-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S15787-15788)
+- 2007-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S15787-15788)
+- 2007-12-19 — Presented to President.
+- 2007-12-19 — Presented to President.
+- 2007-12-21 — Became Public Law No: 110-147.
+- 2007-12-21 — Became Public Law No: 110-147.
+- 2007-12-21 — Signed by President.
+- 2007-12-21 — Signed by President.
