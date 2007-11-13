@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3315
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3315
@@ -264,3 +264,11 @@ To provide that the great hall of the Capitol Visitor Center shall be known as E
 - 2007-11-08 — Placed on the House Calendar, Calendar No. 150.
 - 2007-11-08 — Reported by the Committee on Transportation. H. Rept. 110-436.
 - 2007-11-08 — Reported by the Committee on Transportation. H. Rept. 110-436.
+- 2007-11-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-11-13 — Considered as unfinished business. (consideration: CR H13822-13823)
+- 2007-11-13 — Considered under suspension of the rules. (consideration: CR H13529-13535)
+- 2007-11-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3315.
+- 2007-11-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-13 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-11-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 6 (Roll no. 1082). (text: CR H13529)
+- 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 6 (Roll no. 1082).(text: CR H13529)
