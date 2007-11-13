@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3470
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3470
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 744 Wes
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,16 @@ To designate the facility of the United States Postal Service located at 744 Wes
 - 2007-11-13 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2007-11-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H13810)
 - 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H13810)
+- 2007-11-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S16055)
+- 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S16055)
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2007-12-20 — Presented to President.
+- 2007-12-20 — Presented to President.
+- 2007-12-26 — Became Public Law No: 110-162.
+- 2007-12-26 — Became Public Law No: 110-162.
+- 2007-12-26 — Signed by President.
+- 2007-12-26 — Signed by President.
