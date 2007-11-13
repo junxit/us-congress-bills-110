@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1534
 
-> To prohibit certain sales, distributions, and transfers of elemental mercury, to prohibit the export of elemental mercury, and for other purposes.
+> To prohibit the sale, distribution, or transfer of mercury, to prohibit the export of mercury, and for other purposes.
 
 ## § 1. Short title
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1534
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -43,4 +43,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 2605` | add-at-end | Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 2611` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2611` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
