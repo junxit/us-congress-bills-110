@@ -1,7 +1,7 @@
 ---
 measure: S. 2107
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2107
@@ -16,6 +16,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Menendez, Robert [D-NJ] (M000639)
 
+## Cosponsors (1)
+
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,8 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - 2007-09-27 — Introduced in Senate
 - 2007-09-27 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-10-19 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.
