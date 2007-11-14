@@ -2,7 +2,7 @@
 legis-num: H. RES. 812
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 812
@@ -28,5 +28,5 @@ That the House of Representatives—
 
 - **(1)** expresses its heartfelt sympathy for the victims of the devastating flooding affecting southern Mexico;
 - **(2)** conveys its sincere support to the people and Government of Mexico;
-- **(3)** urges the United States Government to immediately make available all possible assistance to Mexican authorities; and
+- **(3)** urges the United States Government to immediately make available all appropriate assistance requested by the Mexican authorities; and
 - **(4)** reaffirms its commitment to provide relief aid to the victims as the effects of the flooding continue to unfold.
