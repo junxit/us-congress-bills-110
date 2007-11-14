@@ -1,0 +1,50 @@
+---
+legis-num: S. 2346
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2346
+
+> To temporarily increase the portfolio caps applicable to Freddie Mac and Fannie Mae, to provide the necessary financing to curb foreclosures by facilitating the refinancing of at-risk subprime borrowers into safe, affordable loans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Promoting Refinancing Opportunities for Mortgages Impacted by the Subprime Emergency Act of 2007” or the “PROMISE Act”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** American families will be severely harmed by an unprecedented wave of anticipated foreclosures expected to occur over the coming months, as adjustable rate subprime mortgages reset to higher interest rates;
+- **(2)** preventing such foreclosures and facilitating the refinancing of at-risk subprime borrowers into safe, affordable loans will require the additional liquidity provided by the Federal National Mortgage Association and the Federal Home Loan Mortgage Association, and any affiliates thereof;
+- **(3)** the failure to prevent these anticipated foreclosures could have devastating effects on household wealth, neighborhood property values, and the overall health of the broader economy; and
+- **(4)** the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, and any affiliates thereof, are currently constrained from purchasing large volumes of subprime refinancings by portfolio limitations, as set forth by the Office of Federal Housing Enterprise Oversight.
+
+## § 3. Definitions
+
+For purposes of this Act, the following definitions shall apply:
+
+- **(1)** *Director* The term Director means the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development.
+- **(2)** *Enterprise* The term enterprise means—
+  - **(A)** the Federal National Mortgage Association, and any affiliate thereof; and
+  - **(B)** the Federal Home Loan Mortgage Corporation, and any affiliate thereof.
+- **(3)** *Fannie Mae Consent Decree* The term Fannie Mae Consent Decree means the order of the Office of Federal Housing Enterprises Oversight dated May 23, 2006, in the matter of the Federal National Mortgage Association.
+- **(4)** *Freddie Mac letter* The term Freddie Mac Letter means the letter dated July 31, 2006, from the Chairman and Chief Executive Officer of the Federal Home Loan Mortgage Corporation to the Director.
+- **(5)** *OFHEO* The term OFHEO means the Office of Federal Housing Enterprises Oversight.
+
+## § 4. Lifting of Portfolio Caps
+
+- **(a)** *In general* Immediately upon the date of enactment of this Act, the Director shall terminate, suspend, modify, or otherwise lift—
+  - **(1)** the limitation on growth provision set forth in section 4, Article III of the Fannie Mae Consent Decree; and
+  - **(2)** the voluntary temporary growth limitation described in the Freddie Mac Letter.
+- **(b)** *Factors* In carrying out subsection (a), the Director shall increase the mortgage portfolio limitations of both enterprises by not less than 10 percent.
+- **(c)** *Allocation*
+  - **(1)** *In general* Eighty-five percent of the portfolio increase described in subsection (b) shall be used for the purpose of refinancing subprime mortgages at risk of foreclosure.
+  - **(2)** *Definitions* The Director may establish criteria defining the term subprime mortgage, as the Director determines necessary.
+- **(d)** *Rule of construction* Nothing in this section shall be construed to prevent or prohibit the Director from exercising any authority of the Director to terminate, suspend, modify, or otherwise lift the limitations referenced in paragraphs (1) and (2) of subsection (a) beyond the minimum increase specified in subsection (b), as the Director deems appropriate.
+
+## § 5. Sunset provision
+
+This Act is repealed, effective 6 months after the date of enactment of this Act, and the authority of the Director under this Act is terminated on that date of repeal.
