@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 813
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 813
@@ -20,6 +20,10 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 
 - House — Rules Committee
 
+## Recorded votes (1)
+
+- 2007-11-14 — [House 110-1-1086](votes/house-110-1-1086.md) — On Ordering the Previous Question — **Passed** (224–190)
+
 ## Actions
 
 - 2007-11-09 — All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.
@@ -27,3 +31,9 @@ Providing for consideration of the conference report to accompany the bill (H.R.
 - 2007-11-09 — Placed on the House Calendar, Calendar No. 153.
 - 2007-11-09 — The House Committee on Rules reported an original measure, H. Rept. 110-440, by Ms. Castor.
 - 2007-11-09 — The House Committee on Rules reported an original measure, H. Rept. 110-440, by Ms. Castor.
+- 2007-11-14 — Considered as privileged matter. (consideration: CR H13867-13873)
+- 2007-11-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 813.
+- 2007-11-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-14 — On agreeing to the resolution Agreed to by voice vote. (text: CR H13867)
+- 2007-11-14 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 190 (Roll no. 1086). (consideration: CR H13872-13873)
+- 2007-11-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H13867)
