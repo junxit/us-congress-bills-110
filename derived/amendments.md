@@ -1,7 +1,7 @@
 ---
 measure: H.R. 719
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+9 amendatory instructions. 1 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 18 U.S.C. § 3583
+
+> Section 3583(d) of title 18, United States Code, is amended by striking “any condition set forth as a discretionary condition of probation in section 3563(b)(1) through (b)(10) and (b)(12) through (b)(20)” and inserting “a condition set forth in section 3563(b), other than that described in paragraph (11) of that section”.
+
+| | |
+|---|---|
+| Removed | `any condition set forth as a discretionary condition of probation in section 3563(b)(1) through (b)(10) and (b)(12) through (b)(20)` |
+| Inserted | `a condition set forth in section 3563(b), other than that described in paragraph (11) of that section` |
 
 ## Stated, not applied
 
@@ -31,16 +42,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 16914` | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (5) through (8); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16914` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16913` | insert | Section 113(c) of the Sex Offender Registration and Notification Act (42 U.S.C. 16913(c)) is amended by inserting “and before any use of an electronic mail address, instant message address, or other similar Internet identifier not provid… | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2250` | insert | in subsection (b), by inserting “or (d)” after “subsection (a)”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2250` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16918` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 16918` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16918` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16919` | add-at-end | Section 119 of the Sex Offender Registration and Notification Act (42 U.S.C. 16919) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 16911` | replace | in paragraph (7)(H), by striking the period and inserting the following: “, except that it shall not be necessary to show that the sexual conduct actually occurred or to offer proof that the defendant engaged in an act, other than use of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `47 U.S.C. § 151` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 3563` | strike | in paragraph (22), by striking “or”; | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 3563` | replace | by striking the period at the end of paragraph (23) and inserting “; or” and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 3563` | insert | by inserting after paragraph (23) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Subparagraph (C) of section 621(a)(1) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16981(a)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 95 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of chapter 95 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | strike | by striking “or” at the end of clause (i); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, (iii) electronic or digital currencies, and the corresponding monetary value of any associated account, or (iv) stored value cards or similar devices” after “delivery”. | the bill names no machine-readable US Code section |
