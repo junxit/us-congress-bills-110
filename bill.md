@@ -24,4 +24,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That the Senate—
 
 - **(1)** recognizes the religious and historical significance of the festival of Diwali; and
-- **(2)** requests the President to issue a proclamation recognizing Diwali.
+- **(2)** in observance of Diwali, the festival of lights, expresses its deepest respect for Indian Americans and the Indian diaspora throughout the world on this significant occasion.
