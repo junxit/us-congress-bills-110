@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 258
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
