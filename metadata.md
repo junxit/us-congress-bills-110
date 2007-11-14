@@ -1,7 +1,7 @@
 ---
 measure: S. 597
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 597
@@ -16,7 +16,7 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (61)
+## Cosponsors (64)
 
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -79,6 +79,9 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 - Sen. Nelson, Bill [D-FL] (N000032)
 - Sen. Smith, Gordon H. [R-OR] (S001142)
 - Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 
 ## Committees (1)
 
@@ -94,3 +97,17 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 - 2007-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-222.
 - 2007-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-222.
 - 2007-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-14 — Amendment SA 3676 agreed to in Senate by Unanimous Consent.
+- 2007-11-14 — Amendment SA 3676 proposed by Senator Durbin for Senator Feinstein. (consideration: CR S14416; text: CR S14416) To extend the special postage stamp for breast cancer research for 4 years.
+- 2007-11-14 — Amendment SA 3678 agreed to in Senate by Unanimous Consent.
+- 2007-11-14 — Amendment SA 3678 proposed by Senator Durbin for Senator Feinstein. (consideration: CR S14416; text: CR S14416) To amend the title.
+- 2007-11-14 — Measure laid before Senate by unanimous consent. (consideration: CR S14416)
+- 2007-11-14 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (text: CR S14416)
+- 2007-11-14 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(text: CR S14416)
+- 2007-11-14 — Senate amendment agreed to: Amendment SA 3676 agreed to in Senate by Unanimous Consent.
+- 2007-11-14 — Senate amendment agreed to: Amendment SA 3678 agreed to in Senate by Unanimous Consent.
+- 2007-11-14 — Senate amendment proposed (on the floor): Amendment SA 3676 proposed by Senator Durbin for Senator Feinstein.(consideration: CR S14416; text: CR S14416)
+- 2007-11-14 — Senate amendment proposed (on the floor): Amendment SA 3678 proposed by Senator Durbin for Senator Feinstein.(consideration: CR S14416; text: CR S14416)
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
