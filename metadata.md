@@ -1,7 +1,7 @@
 ---
 measure: S. 2168
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2168
@@ -16,7 +16,7 @@ Identity Theft Enforcement and Restitution Act of 2007
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (7)
+## Cosponsors (11)
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -25,6 +25,10 @@ Identity Theft Enforcement and Restitution Act of 2007
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
 
 ## Committees (1)
 
@@ -39,3 +43,5 @@ Identity Theft Enforcement and Restitution Act of 2007
 - 2007-11-01 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2007-11-01 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2007-11-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.
+- 2007-11-15 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S14568-14572; text of measure as reported in Senate: CR S14568-14569; text as passed Senate: CR S14570-14572)
+- 2007-11-15 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S14568-14572; text of measure as reported in Senate: CR S14568-14569; text as passed Senate: CR S14570-14572)

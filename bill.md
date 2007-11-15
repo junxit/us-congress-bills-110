@@ -57,7 +57,6 @@ Section 1030(a)(2)(C) of title 18, United States Code, is amended by striking �
     - **(B)** in subparagraph (A)—
       - **(i)** by striking “(A)(i) knowingly” and inserting “(A) knowingly”;
       - **(ii)** by redesignating clauses (ii) and (iii) as subparagraphs (B) and (C), respectively; and
-      - **(iii)** in subparagraph (C), as so redesignated, by striking “; and” and inserting a period;
       - **(iii)** in subparagraph (C), as so redesignated—
         - **(I)** by inserting “and loss” after “damage”; and
         - **(II)** by striking “; and” and inserting a period;
@@ -92,7 +91,7 @@ Section 1030(a)(2)(C) of title 18, United States Code, is amended by striking �
 
     - **(D)** by striking paragraph (5); and
   - **(3)** in subsection (g)—
-    - **(A)** in the second sentence, by striking “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” and inserting “in subclauses (I), (II), (III), (IV), (V), or (VI)(IV), or (V) of subsection (c)(4)(A)(i)”; and
+    - **(A)** in the second sentence, by striking “in clauses (i), (ii), (iii), (iv), or (v) of subsection (a)(5)(B)” and inserting “in subclauses (I), (II), (III), (IV), or (V) of subsection (c)(4)(A)(i)”; and
     - **(B)** in the third sentence, by striking “subsection (a)(5)(B)(i)” and inserting “subsection (c)(4)(A)(i)(I)”.
 - **(b)** *Conforming changes* Section 2332b(g)(5)(B)(i) of title 18, United States Code, is amended by striking “1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v)” and inserting “1030(a)(5)(A) resulting in damage as defined in 1030(c)(4)(A)(i)(II) through (VI)”.
 
