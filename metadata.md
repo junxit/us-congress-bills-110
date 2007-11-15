@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3985
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3985
@@ -31,3 +31,8 @@ Over-the-Road Bus Transportation Accessibility Act of 2007
 - 2007-10-29 — Introduced in House
 - 2007-10-29 — Introduced in House
 - 2007-10-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-10-31 — Committee Consideration and Mark-up Session Held.
+- 2007-10-31 — Ordered to be Reported by Voice Vote.
+- 2007-11-15 — Placed on the Union Calendar, Calendar No. 279.
+- 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-456.
+- 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-456.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3985
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,4 +35,4 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 13902` | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 13902` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 13902` | insert | Sections 13902(a)(5) and 13905(d)(1)(A) of such title are each amended by inserting after “Board” the following: “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Fede… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 13102 of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 13102` | add-at-end | Section 13102 of title 49, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
