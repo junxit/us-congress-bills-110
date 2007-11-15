@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4136
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “2252A (relating to child pornography) where the child pornography at issue involves minors, 2260 (production of certain child pornography for importation int… | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting after “any visual depiction” the following: “or knowingly accesses child pornography on the internet with intent to view it”; | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B), by inserting after “including by computer” the following: “or knowingly accesses child pornography on the internet with intent to view it”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting after “that contains any image of child pornography” the following: “or knowingly accesses child pornography on the internet with intent to view it”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B), by inserting after “including by computer” the following: “or knowingly accesses child pornography on the internet with intent to view it”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “2252A (relating to child pornography) where the child pornography at issue involves minors, 2260 (production of certain child pornography for importation int… | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252` | add-at-end | Section 2252 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2252A` | add-at-end | Section 2252A of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
