@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 825
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 825
@@ -16,6 +16,14 @@ Providing for consideration of the bill (H.R. 3915) to amend the Truth in Lendin
 
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (1)
+
+- 2007-11-15 — [House 110-1-1109](votes/house-110-1-1109.md) — On Ordering the Previous Question — **Passed** (224–195)
+
 ## Actions
 
 - 2007-11-14 — Introduced in House
@@ -23,3 +31,11 @@ Providing for consideration of the bill (H.R. 3915) to amend the Truth in Lendin
 - 2007-11-14 — Placed on the House Calendar, Calendar No. 157.
 - 2007-11-14 — The House Committee on Rules reported an original measure, H. Rept. 110-450, by Mr. Arcuri.
 - 2007-11-14 — The House Committee on Rules reported an original measure, H. Rept. 110-450, by Mr. Arcuri.
+- 2007-11-15 — Considered as privileged matter. (consideration: CR H13964-13969)
+- 2007-11-15 — Considered as unfinished business. (consideration: CR H13976, H13968-13969)
+- 2007-11-15 — DEBATE - The House continued with debate on H. Res. 825.
+- 2007-11-15 — DEBATE - The House proceeded with one hour of debate on H. Res. 825.
+- 2007-11-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-11-15 — On agreeing to the resolution Agreed to by voice vote. (text: CR H13964)
+- 2007-11-15 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 195 (Roll no. 1109). (consideration: CR H13968-13969, H13976)
+- 2007-11-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H13964)
