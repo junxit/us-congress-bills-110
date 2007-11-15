@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 366
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 366
@@ -16,7 +16,7 @@ A resolution designating November 2007 as "National Methamphetamine Awareness Mo
 
 - Sen. Baucus, Max [D-MT] (B000243)
 
-## Cosponsors (23)
+## Cosponsors (34)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Alexander, Lamar [R-TN] (A000360)
@@ -41,6 +41,17 @@ A resolution designating November 2007 as "National Methamphetamine Awareness Mo
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Conrad, Kent [D-ND] (C000705)
 - Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hagel, Chuck [R-NE] (H001028)
 
 ## Committees (1)
 
@@ -51,3 +62,7 @@ A resolution designating November 2007 as "National Methamphetamine Awareness Mo
 - 2007-11-05 — Introduced in Senate
 - 2007-11-05 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S13773-13774)
 - 2007-11-05 — Sponsor introductory remarks on measure. (CR S13774)
+- 2007-11-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2007-11-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-11-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2007-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 509.
