@@ -1,0 +1,45 @@
+---
+legis-num: H.R. 4241
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4241
+
+> To prohibit the transfer of personal information to any person or business outside the United States, without notice.
+
+## § 1. Short title
+
+This Act may be cited as the “Notify Americans Before Outsourcing Personal Information Act”.
+
+## § 2. Protection of personally identifiable information from unauthorized transfer
+
+- **(a)** *In General* A business shall not transfer personally identifiable information regarding a citizen of the United States to any foreign affiliate or subcontractor located in another country without providing that citizen written notice that such information may be transferred to such foreign affiliate or subcontractor.
+- **(b)** *Plain Language Requirement* Written notice must be sent by regular mail, not e-mail, and separate from any other financial disclosure or information. It must be written in easily understandable, plain language.
+- **(c)** *Notice Period* Written notice must be provided to a citizen of the United States at least ninety (90) days before such information may be transferred to any foreign affiliate or subcontractor.
+
+## § 3. Private cause of action
+
+To enforce compliance with this Act, to obtain damages, including compensatory and punitive; to obtain injunctive relief; and to obtain any other compensation, a private cause of action in State court is authorized.
+
+## § 4. Effective date
+
+This Act shall take effect on the 90th day beginning after the date of the enactment of this Act.
+
+## § 5. Definitions
+
+-  As used in this Act, the following definitions apply:
+  - **(1)** *Business* The term “business” means any financial institution that collects or retains personally identifiable information.
+  - **(2)** *Personally identifiable information* The term “personally identifiable information” includes information such as, but not limited to:
+    - **(A)** name;
+    - **(B)** postal address;
+    - **(C)** financial information;
+    - **(D)** date of birth;
+    - **(E)** phone number (landline and/or cell phone);
+    - **(F)** e-mail address;
+    - **(G)** social security number;
+    - **(H)** mother's maiden name;
+    - **(I)** password for access to electronic Internet records;
+    - **(J)** driver's license number; and
+    - **(K)** personal tax information.
