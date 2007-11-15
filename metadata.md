@@ -1,7 +1,7 @@
 ---
 measure: S. 2272
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2272
@@ -16,6 +16,10 @@ A bill to designate the facility of the United States Postal Service known as th
 
 - Sen. Vitter, David [R-LA] (V000127)
 
+## Cosponsors (1)
+
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ A bill to designate the facility of the United States Postal Service known as th
 
 - 2007-10-31 — Introduced in Senate
 - 2007-10-31 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2007-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
