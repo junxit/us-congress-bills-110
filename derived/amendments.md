@@ -1,7 +1,7 @@
 ---
 measure: H.R. 409
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 23 U.S.C. § 151
-
-> in subsection (d) by striking “of this title” and inserting “for the bridge inspection program and section 104(a) and section 502 for the tunnel inspection program.”
-
-| | |
-|---|---|
-| Removed | `of this title` |
-| Inserted | `for the bridge inspection program and section 104(a) and section 502 for the tunnel inspection program.` |
 
 ## Stated, not applied
 
@@ -42,8 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `23 U.S.C. § 151` | insert | in the section heading by inserting “and tunnel” after “bridge”; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 151` | insert | in subsection headings (a) and (c) by inserting “and tunnel” after “bridge” each place it appears; | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 151` | insert | in the text by inserting “and tunnel” after “bridge” each place it appears; and | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 151` | insert | in the text by inserting “and tunnels” after “bridges”; and | the bill quotes the text inserted but describes where it goes |
-| `23 U.S.C. § 151` | insert | Section 133(b)(1) of such title is amended by inserting “, tunnels, including safety inspection,” after “highways)”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | in the section heading by inserting “and tunnel” after “bridge”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection headings (a) and (c) by inserting “and tunnel” after “bridge” each place it appears; | the bill names no machine-readable US Code section |
+| — | insert | in the text by inserting “and tunnel” after “bridge” each place it appears; and | the bill names no machine-readable US Code section |
+| — | insert | in the text by inserting “and tunnels” after “bridges”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d) by striking “of this title” and inserting “for the bridge inspection program and section 104(a) and section 502 for the tunnel inspection program.” | the bill names no machine-readable US Code section |
+| — | insert | Section 133(b)(1) of such title is amended by inserting “, tunnels, including safety inspection,” after “highways)”. | the bill names no machine-readable US Code section |
