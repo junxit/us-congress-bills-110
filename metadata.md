@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3712
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3712
@@ -25,3 +25,11 @@ To designate the United States courthouse located at 1716 Spielbusch Avenue in T
 - 2007-10-01 — Introduced in House
 - 2007-10-01 — Introduced in House
 - 2007-10-01 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-10-02 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-10-30 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-10-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-10-31 — Committee Consideration and Mark-up Session Held.
+- 2007-10-31 — Ordered to be Reported by Voice Vote.
+- 2007-11-15 — Placed on the House Calendar, Calendar No. 160.
+- 2007-11-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-455.
+- 2007-11-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-455.
