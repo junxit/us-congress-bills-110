@@ -1,7 +1,7 @@
 ---
 measure: S. 2371
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 480(b) of the Higher Education Act of 1965 (20 U.S.C. 1087vv(b)) is amended by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 493C of the Higher Education Act of 1965 (20 U.S.C. 1098e) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `20 U.S.C. § 1087vv` | replace | Section 480(b) of the Higher Education Act of 1965 (20 U.S.C. 1087vv(b)) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1098e` | add-at-end | Section 493C of the Higher Education Act of 1965 (20 U.S.C. 1098e) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
