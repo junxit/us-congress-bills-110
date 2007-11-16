@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 366
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 366
@@ -66,3 +66,5 @@ A resolution designating November 2007 as "National Methamphetamine Awareness Mo
 - 2007-11-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-11-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 509.
+- 2007-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S14657; text as passed Senate: CR S14657)
+- 2007-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S14657; text as passed Senate: CR S14657)
