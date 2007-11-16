@@ -1,7 +1,7 @@
 ---
 measure: S. 274
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 274
@@ -16,7 +16,7 @@ Federal Employee Protection of Disclosures Act
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -28,6 +28,7 @@ Federal Employee Protection of Disclosures Act
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
 
 ## Committees (1)
 
@@ -38,3 +39,9 @@ Federal Employee Protection of Disclosures Act
 - 2007-01-11 — Introduced in Senate
 - 2007-01-11 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S456-458)
 - 2007-01-11 — Sponsor introductory remarks on measure. (CR S455-456)
+- 2007-03-30 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Oversight of Government Management, the Federal Workforce, and the District of Columbia.
+- 2007-06-13 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2007-11-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-232.
+- 2007-11-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-232.
+- 2007-11-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 513.
+- 2007-11-16 — Senate amendment submitted
