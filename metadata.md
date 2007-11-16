@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 367
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 367
@@ -16,7 +16,7 @@ A resolution commemorating the 40th anniversary of the mass movement for Soviet 
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 - Sen. Smith, Gordon H. [R-OR] (S001142)
@@ -35,6 +35,7 @@ A resolution commemorating the 40th anniversary of the mass movement for Soviet 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Vitter, David [R-LA] (V000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -48,3 +49,5 @@ A resolution commemorating the 40th anniversary of the mass movement for Soviet 
 - 2007-11-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-11-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.
+- 2007-11-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S14657-14658; text as passed Senate: CR S14657-14658)
+- 2007-11-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S14657-14658; text as passed Senate: CR S14657-14658)
