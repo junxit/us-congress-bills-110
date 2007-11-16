@@ -23,7 +23,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(1)** in subparagraph (B)(ii), by striking “and” at the end;
   - **(2)** in subparagraph (C)(iii), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
-    > - **(D)** “disclosure” means a formal or informal communication or transmission, but does not include a communication concerning policy decisions that lawfully exercise discretionary authority unless the employee providing the disclosure reasonably believes that the disclosure evidences—
+    > - **(D)** disclosure means a formal or informal communication or transmission, but does not include a communication concerning policy decisions that lawfully exercise discretionary authority unless the employee providing the disclosure reasonably believes that the disclosure evidences—
     >   - **(i)** any violation of any law, rule, or regulation; or
     >   - **(ii)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
 
