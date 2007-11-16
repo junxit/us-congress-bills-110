@@ -1,7 +1,7 @@
 ---
 measure: S. 2272
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2272
@@ -32,3 +32,6 @@ A bill to designate the facility of the United States Postal Service known as th
 - 2007-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-11-15 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2007-11-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
+- 2007-11-16 — Message on Senate action sent to the House.
+- 2007-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14656-14657; text as passed Senate: CR S14657)
+- 2007-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14656-14657; text as passed Senate: CR S14657)
