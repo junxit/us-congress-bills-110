@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3887
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3887
@@ -16,7 +16,7 @@ William Wilberforce Trafficking Victims Protection Reauthorization Act of 2007
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 
-## Cosponsors (11)
+## Cosponsors (42)
 
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
@@ -29,6 +29,37 @@ William Wilberforce Trafficking Victims Protection Reauthorization Act of 2007
 - Rep. Drake, Thelma D. [R-VA-2] (D000605)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Pence, Mike [R-IN-6] (P000587)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Simpson, Michael K. [R-ID-2] (S001148)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 
 ## Committees (3)
 
@@ -44,3 +75,15 @@ William Wilberforce Trafficking Victims Protection Reauthorization Act of 2007
 - 2007-10-18 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-10-18 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-10-18 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-10-22 — Referred to the Subcommittee on Health.
+- 2007-10-23 — Committee Consideration and Mark-up Session Held.
+- 2007-10-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-11-06 — Committee on Energy and Commerce discharged.
+- 2007-11-06 — Committee on Energy and Commerce discharged.
+- 2007-11-06 — House Committee on Judiciary Granted an extension for further consideration ending not later than Nov. 9, 2007.
+- 2007-11-06 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-430, Part I.
+- 2007-11-06 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-430, Part I.
+- 2007-11-09 — House Committee on Judiciary Granted an extension for further consideration ending not later than Nov. 20, 2007.
+- 2007-11-20 — Committee on Judiciary discharged.
+- 2007-11-20 — Committee on Judiciary discharged.
+- 2007-11-20 — Placed on the Union Calendar, Calendar No. 281.
