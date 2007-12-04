@@ -1,7 +1,7 @@
 ---
 measure: S. 1382
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1382
@@ -16,6 +16,75 @@ ALS Registry Act
 
 - Sen. Reid, Harry [D-NV] (R000146)
 
+## Cosponsors (66)
+
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+
 ## Committees (1)
 
 - Senate — Health, Education, Labor, and Pensions Committee
@@ -25,3 +94,7 @@ ALS Registry Act
 - 2007-05-14 — Introduced in Senate
 - 2007-05-14 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S6062-6063)
 - 2007-05-14 — Sponsor introductory remarks on measure. (CR S6062)
+- 2007-11-14 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-12-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-12-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-12-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.
