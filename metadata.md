@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4043
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4043
@@ -16,7 +16,7 @@ Preserving and Expanding Minority Depository Institutions Act
 
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 
-## Cosponsors (12)
+## Cosponsors (15)
 
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. Frank, Barney [D-MA-4] (F000339)
@@ -30,6 +30,9 @@ Preserving and Expanding Minority Depository Institutions Act
 - Rep. Green, Al [D-TX-9] (G000553)
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Scott, David [D-GA-13] (S001157)
 
 ## Committees (1)
 
@@ -40,3 +43,8 @@ Preserving and Expanding Minority Depository Institutions Act
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Referred to the House Committee on Financial Services.
+- 2007-11-07 — Committee Consideration and Mark-up Session Held.
+- 2007-11-07 — Ordered to be Reported by Voice Vote.
+- 2007-12-04 — Placed on the Union Calendar, Calendar No. 289.
+- 2007-12-04 — Reported by the Committee on Financial Services. H. Rept. 110-465.
+- 2007-12-04 — Reported by the Committee on Financial Services. H. Rept. 110-465.
