@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 710
@@ -82,3 +82,14 @@ Charlie W. Norwood Living Organ Donation Act
 - 2007-03-07 — The title of the measure was amended. Agreed to without objection.
 - 2007-03-08 — Received in the Senate.
 - 2007-03-14 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 77.
+- 2007-07-09 — Amendment SA 2025 agreed to in Senate by Unanimous Consent.
+- 2007-07-09 — Amendment SA 2025 proposed by Senator Reid for Senator Levin. (consideration: CR S8880; text: CR S8880) In the nature of a substitute.
+- 2007-07-09 — Measure laid before Senate by unanimous consent. (consideration: CR S8879-8880)
+- 2007-07-09 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-07-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-07-09 — Senate amendment agreed to: Amendment SA 2025 agreed to in Senate by Unanimous Consent.
+- 2007-07-09 — Senate amendment proposed (on the floor): Amendment SA 2025 proposed by Senator Reid for Senator Levin.(consideration: CR S8880; text: CR S8880)
+- 2007-07-09 — Senate amendment submitted
+- 2007-07-10 — Message on Senate action sent to the House.
+- 2007-12-04 — House agreed to Senate amendment with amendments pursuant to H. Res. 837.
+- 2007-12-04 — Resolving differences -- House actions: House agreed to Senate amendment with amendments pursuant to H. Res. 837.

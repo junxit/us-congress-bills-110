@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 274e` | add-at-end | Section 301(a) of the National Organ Transplant Act (42 U.S.C. 274e(a)) is amended by adding at the end the following: “The preceding sentence does not apply with respect to the paired donation of human kidneys.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 274e` | add-at-end | Section 301(c) of the National Organ Transplant Act (42 U.S.C. 274e(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | in subparagraph (A), by adding at the end the following: “In addition, there shall be available to the Fund for expenditures during 2009 an amount equal to $30,000,000 and for expenditures during or after 2013 an amount equal to $470,000… | the bill names no machine-readable US Code section |
-| — | strike | in the heading, by striking “furnished during 2008”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “specified in subparagraph (A)” and inserting “specified in the first sentence of subparagraph (A)”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after “furnished during 2008” the following: “and for the obligation of the entire first amount specified in the second sentence of such subparagraph for payment with respect to physicians' services furnished during 2009 and… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 274e` | add-at-end | in subsection (a), by adding at the end the following: “The preceding sentence does not apply with respect to human organ paired donation.”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274e` | add-at-end | in subsection (c), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
