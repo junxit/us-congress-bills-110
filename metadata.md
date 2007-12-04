@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3887
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3887
@@ -87,3 +87,13 @@ William Wilberforce Trafficking Victims Protection Reauthorization Act of 2007
 - 2007-11-20 — Committee on Judiciary discharged.
 - 2007-11-20 — Committee on Judiciary discharged.
 - 2007-11-20 — Placed on the Union Calendar, Calendar No. 281.
+- 2007-12-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-04 — Considered as unfinished business. (consideration: CR H14130)
+- 2007-12-04 — Considered under suspension of the rules. (consideration: CR H14098-14122)
+- 2007-12-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3887.
+- 2007-12-04 — DEBATE - The House proceeded with further debate on H.R. 3887.
+- 2007-12-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-04 — Ms. Jackson-Lee moved to suspend the rules and pass the bill, as amended.
+- 2007-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2 (Roll no. 1124). (text: CR H14098-14112)
+- 2007-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 2 (Roll no. 1124).(text: CR H14098-14112)
+- 2007-12-04 — The title of the measure was amended. Agreed to without objection.
