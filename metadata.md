@@ -1,7 +1,7 @@
 ---
 measure: S. 2168
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2168
@@ -30,9 +30,10 @@ Identity Theft Enforcement and Restitution Act of 2007
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -45,3 +46,6 @@ Identity Theft Enforcement and Restitution Act of 2007
 - 2007-11-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 459.
 - 2007-11-15 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S14568-14572; text of measure as reported in Senate: CR S14568-14569; text as passed Senate: CR S14570-14572)
 - 2007-11-15 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S14568-14572; text of measure as reported in Senate: CR S14568-14569; text as passed Senate: CR S14570-14572)
+- 2007-11-16 — Message on Senate action sent to the House.
+- 2007-12-04 — Received in the House.
+- 2007-12-04 — Referred to the House Committee on the Judiciary.
