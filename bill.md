@@ -43,6 +43,7 @@ This Act may be cited as the “U.S. Capitol Police and Library of Congress Poli
 - **(d)** *Protecting Status of Transferred Employees*
   - **(1)** *Nonreduction in pay, rank, or grade* The transfer of any individual under this section shall not cause that individual to be separated or reduced in basic pay, rank or grade.
   - **(2)** *Leave and compensatory time* Any annual leave, sick leave, or other leave, or compensatory time, to the credit of an individual transferred under this section shall be transferred to the credit of that individual as a member or an employee of the Capitol Police (as the case may be). The treatment of leave or compensatory time transferred under this section shall be governed by regulations of the Capitol Police Board.
+  - **(3)** *Prohibiting imposition of probationary period* The Chief of the Capitol Police may not impose a period of probation on any individual who is transferred under this section.
 - **(e)** *Rules of Construction Relating to Employee Representation*
   - **(1)** *Employee representation* Nothing in this Act shall be construed to authorize any labor organization that represented an individual who was a Library of Congress police employee or a Library of Congress police civilian employee before the individual’s transfer date to represent that individual as a member of the Capitol Police or an employee of the Capitol Police after the individual’s transfer date.
   - **(2)** *Agreements not applicable* Nothing in this Act shall be construed to authorize any collective bargaining agreement (or any related court order, stipulated agreement, or agreement to the terms or conditions of employment) applicable to Library of Congress police employees or to Library of Congress police civilian employees to apply to members of the Capitol Police or to civilian employees of the Capitol Police.
@@ -71,7 +72,7 @@ This Act may be cited as the “U.S. Capitol Police and Library of Congress Poli
     - **(B)** notwithstanding the third sentence of section 402(a) of such Act (2 U.S.C. 1402(a)), the individual’s request for counseling under such section shall be made not later than 60 days after the date of the alleged violation; and
     - **(C)** the employing office of the individual at the time of the alleged violation shall be the Capitol Police Board.
   - **(3)** *Exception for alleged violations subject to hearing prior to transfer* Paragraph (1) does not apply with respect to an alleged violation for which a hearing has commenced in accordance with the covered law on or before the transfer date.
-  - **(4)** *Covered law defined* In this subsection, a “covered law” is any law for which the remedy for an alleged violation is provided for officers and employees of the Capitol Police under the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.)
+  - **(4)** *Covered law defined* In this subsection, a “covered law” is any law for which the remedy for an alleged violation is provided for officers and employees of the Capitol Police under the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.).
 - **(c)** *Availability of Detailees During Transition Period* During the transition period, the Chief of the Capitol Police may detail additional members of the Capitol Police to the Library of Congress, without reimbursement.
 - **(d)** *Effect on Existing Memorandum of Understanding* The Memorandum of Understanding between the Library of Congress and the Capitol Police entered into on December 12, 2004, shall remain in effect during the transition period, subject to—
   - **(1)** the provisions of this Act; and
@@ -98,15 +99,15 @@ This Act may be cited as the “U.S. Capitol Police and Library of Congress Poli
     - **(C)** *Conforming amendment relating to disorderly conduct* Section 5104(e)(2) of title 40, United States Code, is amended by striking subparagraph (C) and inserting the following:
       > - **(C)** with the intent to disrupt the orderly conduct of official business, enter or remain in a room in any of the Capitol Buildings set aside or designated for the use of—
       >   - **(i)** either House of Congress or a Member, committee, officer, or employee of Congress, or either House of Congress; or
-      >   - **(ii)** the Library of Congress.
+      >   - **(ii)** the Library of Congress;
 
   - **(2)** *Repeal of offenses and penalties specific to the Library of Congress* Sections 2, 3, 4, 5, 6, and 8 of the Act of August 4, 1950 (2 U.S.C. 167a, 167b, 167c, 167d, 167e, and 167g) are repealed.
   - **(3)** *Suspension of prohibitions against use of Library of Congress buildings and grounds* Section 10 of the Act of August 4, 1950 (2 U.S.C. 167i) is amended by striking “2 to 6, inclusive, of this Act” and inserting “5103 and 5104 of title 40, United States Code”.
   - **(4)** *Conforming amendment to description of Library of Congress grounds* Section 11 of the Act of August 4, 1950 (2 U.S.C. 167j) is amended—
     - **(A)** in subsection (a), by striking “For the purposes of this Act the” and inserting “The”;
-    - **(B)** in subsection (b), by striking “For the purposes of this Act the” and inserting “The”;
-    - **(C)** in subsection (c), by striking “For the purposes of this Act the” and inserting “The”; and
-    - **(D)** in subsection (d), by striking “For the purposes of this Act the” and inserting “The”.
+    - **(B)** in subsection (b), by striking “For the purposes of this Act, the” and inserting “The”;
+    - **(C)** in subsection (c), by striking “For the purposes of this Act, the” and inserting “The”; and
+    - **(D)** in subsection (d), by striking “For the purposes of this Act, the” and inserting “The”.
 - **(c)** *Conforming Amendment Relating to Jurisdiction of Inspector General of Library of Congress* Section 1307(b)(1) of the Legislative Branch Appropriations Act, 2006 (2 U.S.C. 185(b)), is amended by striking the semicolon at the end and inserting the following: “, except that nothing in this paragraph may be construed to authorize the Inspector General to audit or investigate any operations or activities of the United States Capitol Police;”.
 - **(d)** *Effective Date* The amendments made by this section shall take effect October 1, 2009.
 
