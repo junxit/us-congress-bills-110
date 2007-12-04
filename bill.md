@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1662
 
-> To authorize the Secretary of the Interior to seek limited reimbursement for site security activities, and for other purposes.
+> To amend the Reclamation Safety of Dams Act of 1978 to authorize improvements for the security of dams and other facilities.
 
 ## § 1. Short title
 
