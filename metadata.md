@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4118
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4118
@@ -43,3 +43,14 @@ To exclude from gross income payments from the Hokie Spirit Memorial Fund to the
 - 2007-12-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H14122)
 - 2007-12-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H14122)
 - 2007-12-04 — The title of the measure was amended. Agreed to without objection.
+- 2007-12-05 — Received in the Senate, read twice.
+- 2007-12-06 — Cleared for White House.
+- 2007-12-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S15000)
+- 2007-12-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S15000)
+- 2007-12-07 — Message on Senate action sent to the House.
+- 2007-12-11 — Presented to President.
+- 2007-12-11 — Presented to President.
+- 2007-12-19 — Became Public Law No: 110-141.
+- 2007-12-19 — Became Public Law No: 110-141.
+- 2007-12-19 — Signed by President.
+- 2007-12-19 — Signed by President.
