@@ -1,7 +1,7 @@
 ---
 measure: S. 863
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 863
@@ -37,3 +37,5 @@ Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007
 - 2007-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-69. Additional views filed.
 - 2007-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment. With written report No. 110-69. Additional views filed.
 - 2007-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
+- 2007-12-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14747-14748; text: CR S14747-14748)
+- 2007-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14747-14748; text: CR S14747-14748)

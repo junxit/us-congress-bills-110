@@ -1,7 +1,7 @@
 ---
 measure: S. 863
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | insert | Section 1343 of title 18, United States Code, is amended by inserting: “occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a presidentially declared m… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5170` | add-at-end | Chapter 47 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5170` | add-at-end | The table of sections for chapter 47 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1343` | insert | Section 1343 of title 18, United States Code, is amended by inserting: “occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a presidentially declared m… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 1341 of title 18, United States Code, is amended by inserting: “occurs in relation to, or involving any benefit authorized, transported, transmitted, transferred, disbursed, or paid in connection with, a presidentially declared m… | the bill names no machine-readable US Code section |
