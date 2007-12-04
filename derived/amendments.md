@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3690
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,29 +44,29 @@ to guess them.
 
 ### 2 U.S.C. § 167j
 
-> in subsection (b), by striking “For the purposes of this Act the” and inserting “The”;
+> in subsection (b), by striking “For the purposes of this Act, the” and inserting “The”;
 
 | | |
 |---|---|
-| Removed | `For the purposes of this Act the` |
+| Removed | `For the purposes of this Act, the` |
 | Inserted | `The` |
 
 ### 2 U.S.C. § 167j
 
-> in subsection (c), by striking “For the purposes of this Act the” and inserting “The”; and
+> in subsection (c), by striking “For the purposes of this Act, the” and inserting “The”; and
 
 | | |
 |---|---|
-| Removed | `For the purposes of this Act the` |
+| Removed | `For the purposes of this Act, the` |
 | Inserted | `The` |
 
 ### 2 U.S.C. § 167j
 
-> in subsection (d), by striking “For the purposes of this Act the” and inserting “The”.
+> in subsection (d), by striking “For the purposes of this Act, the” and inserting “The”.
 
 | | |
 |---|---|
-| Removed | `For the purposes of this Act the` |
+| Removed | `For the purposes of this Act, the` |
 | Inserted | `The` |
 
 ## Stated, not applied
