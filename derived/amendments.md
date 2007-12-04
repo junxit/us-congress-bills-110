@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3887
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-126 amendatory instructions. 35 executed, 91 stated and not applied.
+151 amendatory instructions. 42 executed, 109 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 8 U.S.C. § 1101
 
-> in the matter preceding subclause (I), by striking “jointly;” and inserting “jointly,”;
+> in the matter preceding subclause (I), by striking “Security and the Attorney General jointly;” and inserting “Security, in consultation with the Attorney General,”;
 
 | | |
 |---|---|
-| Removed | `jointly;` |
-| Inserted | `jointly,` |
+| Removed | `Security and the Attorney General jointly;` |
+| Inserted | `Security, in consultation with the Attorney General,` |
 
 ### 8 U.S.C. § 1101
 
@@ -62,39 +62,39 @@ to guess them.
 
 ### 8 U.S.C. § 1101
 
-> in clause (ii)(II), by striking “alien; and” and inserting “alien and any parents or siblings of such alien who establish a present danger of retaliation as a result of the alien’s cooperation with law enforcement.”; and
+> in subclause (II), by striking “and” at the end and inserting “or”; and
 
 | | |
 |---|---|
-| Removed | `alien; and` |
-| Inserted | `alien and any parents or siblings of such alien who establish a present danger of retaliation as a result of the alien’s cooperation with law enforcement.` |
+| Removed | `and` |
+| Inserted | `or` |
 
 ### 8 U.S.C. § 1255
 
-> in subparagraph (A), by striking “Attorney General,” and inserting “Secretary of Homeland Security,”; and
+> in paragraph (1), in the matter preceding subparagraph (A), by striking “the Attorney General,,” and inserting “the Secretary of Homeland Security in consultation with the Attorney General,”;
 
 | | |
 |---|---|
-| Removed | `Attorney General,` |
-| Inserted | `Secretary of Homeland Security,` |
+| Removed | `the Attorney General,,` |
+| Inserted | `the Secretary of Homeland Security in consultation with the Attorney General,` |
 
 ### 8 U.S.C. § 1255
 
-> Section 245(m)(1) of the Immigration and Nationality Act (8 U.S.C. 1255(m)(1)) is amended, in the matter preceding subparagraph (A), by striking “unless the Attorney General” and inserting “unless the Secretary”.
+> Section 245(m)(1) of the Immigration and Nationality Act (8 U.S.C. 1255(m)(1)) is amended, in the matter preceding subparagraph (A), by striking “unless the Attorney General” and inserting “unless the Secretary, in consultation with the Attorney General,”.
 
 | | |
 |---|---|
 | Removed | `unless the Attorney General` |
-| Inserted | `unless the Secretary` |
+| Inserted | `unless the Secretary, in consultation with the Attorney General,` |
 
 ### 22 U.S.C. § 7105
 
-> in the matter preceding subclause (I), by striking “consultation” and all that follows through “person” and inserting “consultation with the Attorney General or the Secretary of Homeland Security, that the person”; and
+> in the matter preceding subclause (I), by striking “consultation” and all that follows through “person” and inserting “consultation with the Attorney General and the Secretary of Homeland Security, that the person”;
 
 | | |
 |---|---|
 | Removed | `consultation” and all that follows through “person` |
-| Inserted | `consultation with the Attorney General or the Secretary of Homeland Security, that the person` |
+| Inserted | `consultation with the Attorney General and the Secretary of Homeland Security, that the person` |
 
 ### 22 U.S.C. § 7105
 
@@ -123,14 +123,23 @@ to guess them.
 | Removed | `and the Department of Justice` |
 | Inserted | `, the Department of Homeland Security, and the Department of Health and Human Services` |
 
-### 18 U.S.C. § 1591
+### 18 U.S.C. § 1594
 
-> by striking “that the person has not attained the age of 18 years and” and inserting “that the person (being a person who has not attained the age of 18 years)”; and
+> Section 1594 of title 18, United States Code, is amended by striking “1590, or 1591” and inserting “or 1591”.
 
 | | |
 |---|---|
-| Removed | `that the person has not attained the age of 18 years and` |
-| Inserted | `that the person (being a person who has not attained the age of 18 years)` |
+| Removed | `1590, or 1591` |
+| Inserted | `or 1591` |
+
+### 18 U.S.C. § 1595
+
+> Section 1595 of title 18, United States Code, is amended by striking “, 1590, or 1591” and inserting “or 1591”.
+
+| | |
+|---|---|
+| Removed | `, 1590, or 1591` |
+| Inserted | `or 1591` |
 
 ### 18 U.S.C. § 1594
 
@@ -141,14 +150,59 @@ to guess them.
 | Removed | `The court,` |
 | Inserted | `Subject to remission or restoration, the court,` |
 
+### 18 U.S.C. § 1591
+
+> by striking “proceedings;” at the end of subparagraph (C) and inserting “proceedings; or”; and
+
+| | |
+|---|---|
+| Removed | `proceedings;` |
+| Inserted | `proceedings; or` |
+
+### 18 U.S.C. § 1591
+
+> by striking “proceedings;” at the end of paragraph (3) and inserting “proceedings; or”; and
+
+| | |
+|---|---|
+| Removed | `proceedings;` |
+| Inserted | `proceedings; or` |
+
+### 8 U.S.C. § 1328
+
+> Section 833(d)(5)(B) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162) is amended by striking “interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates” and inserting “interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States, an international marriage broker that violates”.
+
+| | |
+|---|---|
+| Removed | `interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates` |
+| Inserted | `interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States, an international marriage broker that violates` |
+
+### 22 U.S.C. § 7103
+
+> by striking “section 107(b)” and inserting “subsections (b) and (h) of section 107”; and
+
+| | |
+|---|---|
+| Removed | `section 107(b)` |
+| Inserted | `subsections (b) and (h) of section 107` |
+
+### 42 U.S.C. § 14044
+
+> in the first sentence, by striking “in consultation” and inserting “in coordination with the Secretary of State and in consultation”; and
+
+| | |
+|---|---|
+| Removed | `in consultation` |
+| Inserted | `in coordination with the Secretary of State and in consultation` |
+
 ### 8 U.S.C. § 1182
 
-> Section 212(a)(2)(H)(i) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)(H)(i)) is amended by striking “consular officer” and inserting “consular officer, the Secretary of State,”.
+> Section 212(a)(2)(H)(i) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)(H)(i)) is amended by striking “consular officer” and inserting “consular officer, the Secretary of Homeland Security, the Secretary of State,”.
 
 | | |
 |---|---|
 | Removed | `consular officer` |
-| Inserted | `consular officer, the Secretary of State,` |
+| Inserted | `consular officer, the Secretary of Homeland Security, the Secretary of State,` |
 
 ### 8 U.S.C. § 1101
 
@@ -287,16 +341,25 @@ to guess them.
 
 ### 22 U.S.C. § 7110
 
-> in paragraph (3), by striking “$300,000” and all that follows through “2007” and inserting “$500,000 for each of the fiscal years 2008 through 2011”;
+> in paragraph (3), by striking “$300,000” and all that follows through “2007” and inserting “$1,000,000 for each of the fiscal years 2008 through 2011”;
 
 | | |
 |---|---|
 | Removed | `$300,000” and all that follows through “2007` |
-| Inserted | `$500,000 for each of the fiscal years 2008 through 2011` |
+| Inserted | `$1,000,000 for each of the fiscal years 2008 through 2011` |
 
 ### 22 U.S.C. § 7110
 
-> in subsection (f), by striking “$5,000,000” and all that follows through “2007” and inserting “$15,000,000 for each of the fiscal years 2008 through 2011”;
+> by striking “section 107(b)” and inserting “section 107(b) of this Act and section 202(g) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2007”; and
+
+| | |
+|---|---|
+| Removed | `section 107(b)` |
+| Inserted | `section 107(b) of this Act and section 202(g) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2007` |
+
+### 22 U.S.C. § 7110
+
+> by striking “$5,000,000” and all that follows through “2007” and inserting “$15,000,000 for each of the fiscal years 2008 through 2011”;
 
 | | |
 |---|---|
@@ -350,7 +413,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 7103` | insert | Section 105(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(b)) is amended by inserting “the Secretary of Education,” after “the Secretary of Homeland Security,”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7103` | amend | Section 105(e) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7103(e)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7104` | add-at-end | Section 106 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7104) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2152d` | add-at-end | Section 106 of the Trafficking Victims Protection Act of 2000 (22 U.S. C. 7104) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2152d` | add-at-end | Section 134(a)(2) of the Foreign Assistance Act of 1961 (22 U.S.C. 2152d(a)(2)) is amended by adding at the end before the semi-colon the following: “, including investigation of individuals and entities that may be involved in trafficki… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | insert | in the second sentence, by inserting at the end before the period the following: “, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -358,69 +421,87 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 7101` | insert | The Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.) is amended by inserting after section 107 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7106` | strike | Subsection (a) of section 108 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106) is amended in the matter preceding paragraph (1) by striking “a significant number of”. | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7106` | insert | in the first sentence, by inserting at the end before the period the following: “, including in all appropriate cases requiring incarceration of individuals convicted of such acts”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7106` | insert | by inserting after the first sentence the following new sentence: “For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of acts of severe forms of trafficking in persons shall not be consid… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7106` | insert | by inserting after the first sentence the following new sentence: “For purposes of the preceding sentence, suspended or significantly-reduced sentences for convictions of principal actors in cases of severe forms of trafficking in person… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7106` | insert | in paragraph (2), by inserting at the end before the period the following: “, including by providing training to law enforcement and immigration officials in the identification and treatment of trafficking victims using approaches that f… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7106` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7107` | amend | Subsection (b)(3) of section 110 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107) is amended by adding the following at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subsection (a)(5) of section 112A of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7109a) is amended by adding at the end the following new sentence: “Such mechanism shall include, not later than two years after the date of t… | the bill names no machine-readable US Code section |
-| — | insert | Subsection (b) of such section is amended by inserting after “subsection (a)(4)” the following: “and the second sentence of subsection (a)(5)”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 7109a` | add-at-end | Subsection (a)(5) of section 112A of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7109a) is amended by adding at the end the following new sentence: “Such mechanism shall include, not later than two years after the date of t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7109a` | insert | Subsection (b) of such section is amended by inserting after “subsection (a)(4)” the following: “and the second sentence of subsection (a)(5)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7101` | insert | The Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.) is amended by inserting after section 112A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | replace | in subclause (I), by striking the comma at the end and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | add-at-end | in subclause (II), by adding at the end the following: “including physical presence on account of the alien having been allowed entry into the United States for participation in investigative or judicial processes;”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | strike | in item (aa), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1101` | redesignate | by redesignating item (bb) as item (cc); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | insert | by inserting after item (aa) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | strike | by striking “involving unusual and severe harm”; and | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1101` | amend | by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | amend | in subclause (IV), by adding “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | strike | in subclause (I), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1101` | amend | by adding the following at the end: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | strike | by striking clause (iii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | add-at-end | Section 214(o) of the Immigration and Nationality Act (8 U.S.C. 1184(o)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 7105` | amend | Section 107(c)(3) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(c)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | insert | in paragraph (1)(B), by inserting “subject to paragraph (6),” after “(B)”; | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1101` | strike | in paragraph (1)(C)(ii), by striking “involving unusual and severe harm”; and | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1101` | add-at-end | by adding at the end the following new paragraph— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | replace | by striking “subparagraph (A) if a Federal” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1184` | replace | by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1184` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1184` | add-at-end | Section 214(p)(6) of the Immigration and Nationality Act (8 U.S.C. 1184(p)(6)) is amended by adding at the end the following: “The Secretary of Homeland Security may extend the authorized period of status of an alien as a nonimmigrant un… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1255` | insert | in paragraph (1)(B), by inserting “subject to paragraph (6),” after “(B)”; | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1255` | strike | in paragraph (1)(C)(ii), by striking “, or in the case of subparagraph (C)(i), the Attorney General,”; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1255` | replace | in paragraph (3), by striking the period at the end and inserting the following: “, unless the absence is in order to assist in the investigation or prosecution or unless an official involved in the investigation or prosecution certifies… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1255` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1519` | add-at-end | Section 214 of the Immigration and Nationality Act is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1101` | strike | Section 101(a)(15)(T)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)(i)), as amended by section 201(a), is further amended by striking “, or in the case of subclause (III)(aa) the Secretary of Homeland Security and th… | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1255` | strike | in the matter preceding subparagraph (A), by striking “, or in the case of subparagraph (C)(i), the Attorney General,,”; | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1255` | strike | in subparagraph (C)(ii), by striking “, or in the case of subparagraph (C)(i), the Attorney General,”. | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1227` | add-at-end | Section 237 of the Immigration and Nationality Act (8 U.S.C. 1227) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7105` | amend | Section 107(c)(3) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(c)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1229b` | add-at-end | Section 240A(b) of the Immigration and Nationality Act (8 U.S.C. 1229b(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7105` | add-at-end | in subclause (I), by adding at the end before the semicolon the following: “or is unlikely or unable to cooperate with such a request due to physical or psychological trauma;”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1641` | strike | by striking “or” at the end of paragraph (2)(B); | the bill quotes the text struck but describes what replaces it |
-| `8 U.S.C. § 1641` | replace | by striking the period at the end of paragraph (3)(B) and inserting “or;”; and | the bill quotes the text inserted but describes where it goes |
-| `8 U.S.C. § 1641` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1641` | replace | by striking the period at the end of paragraph (3)(B) and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | add-at-end | Subsection (b)(1) of section 107 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105) is amended by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | insert | by inserting before the period at the end the following: “, including the identification of juvenile victims of trafficking”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | add-at-end | by adding at the end the following new sentence: “The Attorney General and the Secretary of Heath and Human Services shall provide education and guidance to State and local officials on the identification of aliens who are the victims of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7105` | add-at-end | Section 107 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7110` | add-at-end | in subsection (b), by adding at the end the following new sentence: “To carry out the purposes of section 107(h), there are authorized to be appropriated to the Secretary of Health and Human Services $2,500,000 for fiscal year 2008, $5,0… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7110` | add-at-end | in subsection (d), by adding at the end the following new sentence: “To carry out the purposes of section 107(h), there are authorized to be appropriated to the Attorney General $2,500,000 for fiscal year 2008, $5,000,0000 for fiscal yea… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1591` | insert | by inserting at the end “In a prosecution under this subsection, the Government need not prove that the defendant knew that the person had not attained the age of 18 years.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7105` | amend | Section 107(b)(2)(B)(ii) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(b)(2)(B)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10601` | insert | The Victims of Crime Act of 1984 (42 U.S.C. 10601 et seq.)) is amended by inserting after section 1404E the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | add-at-end | Chapter 117 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | repeal | Section 1591 of title 18, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | strike | The table of sections for chapter 77 of title 18, United States Code, is amended by striking the item relating to section 1591. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | add-at-end | The table of sections for chapter 117 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | amend | The heading for chapter 77 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | amend | The heading for chapter 117 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1592` | amend | Section 1592 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1592` | amend | The item relating to section 1592 in the table of sections at the beginning of chapter 77 of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1594` | insert | Section 1593(b) of title 18, United States Code, is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1593` | insert | Section 1593(b) of title 18, United States Code, is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1594` | add-at-end | in subsection (c), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1595` | strike | by striking “of section 1589, 1590, or 1591”; and | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 1595` | insert | by inserting “(or any person who knowingly benefits, financially or by receiving anything of value from participation in a venture which has engaged in an act in violation of this chapter)” after “perpetrator”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1595` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1591` | add-at-end | Chapter 73 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1591` | add-at-end | The table of sections at the beginning of chapter 73 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1591` | insert | by inserting “or affecting” after “travel in”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 1591` | insert | by inserting “in the special maritime and territorial jurisdiction of the United States, ” after “foreign commerce,”. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2423` | insert | Chapter 117 of title 18, United States Code, is amended by inserting after section 2423 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2423` | strike | Section 2423 of title 18, United States Code, is amended by striking subsections (b) through (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2423` | insert | The table of sections at the beginning of chapter 117 of title 18, United States Code, is amended by inserting after the item relating to section 2423 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | strike | by striking “or” at the end of subparagraph (B); | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1591` | insert | by inserting immediately after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | strike | by striking “or” at the end of paragraph (2); | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1591` | insert | by inserting immediately after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | strike | by striking “or” at the end of paragraph (1); | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1591` | insert | by inserting “or” at the end of paragraph (2); and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1591` | insert | by inserting immediately after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | strike | by striking “and” at the end of paragraph (5); | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 1591` | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 1591` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | insert | Chapter 117 of title 18, United States Code, is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | insert | The table of sections at the beginning of chapter 117 of title 18, United States Code, is amended by inserting at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | insert | Chapter 117 of title 18, United States Code, is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1591` | insert | The table of sections at the beginning of chapter 117 of title 18, United States Code, is amended by inserting at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | add-at-end | Chapter 77 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1101` | add-at-end | The table of sections at the beginning of chapter 77 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | Section 278 of the Immigration and Nationality Act (8 U.S.C. 1328) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The table of contents of the Immigration and Nationality Act is amended by amending the item relating to section 278 to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 833(d)(5)(B) of the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162) is amended by striking “interstate or foreign commerce, an international marriage broker that, within the speci… | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting “the Attorney General,” after “the Secretary of Labor,”; | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (G), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraph (H) as subparagraph (J); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (G) the following new subparagraphs: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 14044` | insert | Section 201(a)(2)(A)(ii) of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044(a)(2)(A)(ii)) is amended by inserting before the semi-colon at the end the following: “and the use of existing Federal and State … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | Section 206 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044d) is amended by striking “, as the department or agency determines appropriate,”. | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1328` | amend | Section 278 of the Immigration and Nationality Act (8 U.S.C. 1328) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1328` | amend | The table of contents of the Immigration and Nationality Act is amended by amending the item relating to section 278 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 7103` | insert | by inserting “the Attorney General,” after “the Secretary of Labor,”; | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 7103` | strike | in subparagraph (G), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 7103` | redesignate | by redesignating subparagraph (H) as subparagraph (J); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 1307` | insert | by inserting after subparagraph (G) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14044` | add-at-end | Paragraph (1) of section 201(a) of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14044` | insert | in clause (ii), by inserting before the semicolon at the end the following: “and the use of existing Federal and State criminal laws that do not require force, fraud, or coercion as an element of a felony crime to prosecute such person.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14044d` | strike | Section 206 of the Trafficking Victims Protection Reauthorization Act of 2005 (42 U.S.C. 14044d) is amended by striking “, as the department or agency determines appropriate,”. | the bill quotes the text struck but describes what replaces it |
 | `8 U.S.C. § 1255` | amend | Section 245(h)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1255(h)(2)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1158` | add-at-end | in subsection (a)(2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 279` | add-at-end | in subsection (a)(2), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 279` | add-at-end | in subsection (b)(3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 279` | replace | Section 462(b)(1)(L) of the Homeland Security Act of 2002 (6 U.S.C. 279(b)(1)(L)) is amended by striking the period at the end and inserting “, including regular follow-up visits to such facilities, placements, and other entities, to ass… | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 279` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -438,4 +519,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (d) of section 202, by striking “$10,000,000” and all that follows through “2007” and inserting “$15,000,000 for each of the fiscal years 2008 through 2011”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g) of section 203, by striking “$5,000,000” and all that follows through “2007” and inserting “$5,000,000 for each of the fiscal years 2008 through 2011”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d) of section 204, by striking “$25,000,000” and all that follows through “2007” and inserting “$25,000,000 for each of the fiscal years 2008 through 2011”. | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 4028` | amend | Section 708 of the Foreign Service Act of 1980 (22 U.S.C. 4028) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 4028` | add-at-end | Section 708 of the Foreign Service Act of 1980 (22 U.S.C. 4028) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
