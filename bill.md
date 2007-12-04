@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, on May 8, 2007, power was restored to the Assembly of Northern Ireland, opening a new chapter in the history of Northern Ireland;
+- Whereas on May 8, 2007, power was restored to the Assembly of Northern Ireland, opening a new chapter in the history of Northern Ireland;
 - Whereas Dr. Ian Paisley became First Minister and Martin McGuinness became Deputy First Minister of Northern Ireland;
 - Whereas Dr. Paisley and Mr. McGuinness have been working to solidify the peace agreement and to govern Northern Ireland effectively; and
 - Whereas Dr. Paisley and Mr. McGuinness are making their first trip together to the United States: Now, therefore, be it
