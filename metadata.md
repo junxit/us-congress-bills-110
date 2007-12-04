@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4050
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4050
@@ -29,3 +29,8 @@ Levee-Like Structure Consideration Act of 2007
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Referred to the House Committee on Financial Services.
+- 2007-11-07 — Committee Consideration and Mark-up Session Held.
+- 2007-11-07 — Ordered to be Reported by Voice Vote.
+- 2007-12-04 — Placed on the Union Calendar, Calendar No. 290.
+- 2007-12-04 — Reported by the Committee on Financial Services. H. Rept. 110-466.
+- 2007-12-04 — Reported by the Committee on Financial Services. H. Rept. 110-466.
