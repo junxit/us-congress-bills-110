@@ -1,7 +1,7 @@
 ---
 measure: S. 1327
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1327
@@ -42,3 +42,5 @@ A bill to create and extend certain temporary district court judgeships.
 - 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-05-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2007-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
+- 2007-12-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14747; text: CR S14747)
+- 2007-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14747; text: CR S14747)
