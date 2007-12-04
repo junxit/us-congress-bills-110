@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2930
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-29 amendatory instructions. 3 executed, 26 stated and not applied.
+30 amendatory instructions. 3 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -61,26 +61,27 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 1701q` | insert | by inserting after “assistance.—” the following: “(A) Initial project rental assistance contract.—”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1701q` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1701q` | redesignate | by redesignating paragraphs (1) through (7) as subparagraphs (A) through (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1701q` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), and (7) as subparagraphs (A), (B), (C), (D), (E), (G), and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | redesignate | by inserting after subparagraph (E) (as so redesignated by paragraph (2) of this subsection) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701q` | insert | Section 202(h)(1) of the Housing Act of 1959 (12 U.S.C. 1701q(h)(1)) is amended, in the matter preceding subparagraph (A), by inserting “reasonable” before “development cost limitations”. | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1701q` | insert | Section 202(j)(3)(A) of the Housing Act of 1959 (12 U.S.C. 1701q(j)(3)(A)) is amended by inserting after the period at the end the following: “Such amount shall be used only to cover operating deficits during the first three years of ope… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701q` | insert | Subparagraph (B) of section 202(k)(4) of the Housing Act of 1959 (12 U.S.C. 1701q(k)(4)(B)) is amended by inserting before the semicolon the following: “; except that, in the case of any national organization that is the owner of multipl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1701q` | insert | in the matter preceding paragraph (1), by inserting “, for which the Secretary’s consent to prepayment is required,” after “Act)”; | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1701q` | add-at-end | Subsection (j) of section 202 (12 U.S.C. 1701q(j)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | insert | in the matter preceding paragraph (1), by inserting “, for which the Secretary’s consent to prepayment is required” after “Act)”; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1701q` | insert | by inserting “project-based” before “rental assistance payments contract”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1701q` | insert | by inserting “project-based” before “rental housing assistance programs”; | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1701q` | insert | by inserting “project-based” before “rental housing assistance programs”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1701q` | insert | by inserting “, or any successor project-based rental assistance program,” after “1701s))”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1701q` | insert | by inserting before the semicolon the following; “, except that if, such project-based rental assistance is no longer available to the project as a result of insufficient amounts of appropriated funds for such purpose, or is no longer av… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701q` | insert | by inserting “(A)” before “a lower”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1701q` | insert | by inserting “, or (B) a transaction in which the project owner will address the physical needs of the project” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1701q` | insert | by inserting after “National Housing Act,” the following: “or approving the standards used by authorized lenders to underwrite a loan refinanced with risk sharing as provided by section 542 of the Housing and Community Development Act of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1701q` | insert | in the matter preceding paragraph (1), by inserting after “tenants,” the following: “or that furthers the mission of the private nonprofit organization project owner, private nonprofit organization project sponsor, or private nonprofit o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | insert | by inserting before the period at the end the following: “, or (B) a transaction in which the project owner will address the physical needs of the project, but only if, as a result of the refinancing (i) the rent charges for unassisted f… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701` | insert | by inserting after “National Housing Act,” the following: “or approving the standards used by authorized lenders to underwrite a loan refinanced with risk sharing as provided by section 542 of the Housing and Community Development Act of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | insert | in the matter preceding paragraph (1), by inserting after “tenants,” the following: “or is used in the provision of affordable rental housing and related social services for elderly persons by the private nonprofit organization project o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701q` | strike | in paragraph (1), by striking “not more than 15 percent of”; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1701q` | insert | in paragraph (2), by inserting before the semicolon the following; “, including reducing the number of units and reconfiguring units that are functionally obsolete, unmarketable, or not economically viable”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701q` | strike | in paragraph (3), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1701q` | replace | in paragraph (4) by striking “and” at the end and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1701q` | amend | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | replace | in paragraph (4) by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701q` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701q` | strike | by striking “not more than 15 percent of”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1701q` | insert | by inserting before the period at the end the following: “or other purposes approved by the Secretary”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701z-11` | add-at-end | Section 811 of the American Homeownership and Economic Opportunity Act of 2000 (12 U.S.C. 1701q note) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
