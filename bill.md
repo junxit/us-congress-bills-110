@@ -7,12 +7,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2246
 
-> To validate certain conveyances made by the Union Pacific Railroad Company of lands located in Reno, Nevada, that were originally conveyed by the United States to facilitate construction of transcontinental railroads, and for other purposes.
+> To provide for the release of any reversionary interest of the United States in and to certain lands in Reno, Nevada.
 
-## § 1. Validation of rail corridor real property conveyances, Reno, Nevada
+## § 1. Railroad lands defined
 
-- **(a)** *Validation*
-  - **(1)** *Conveyances covered by memorandum of understanding* The land conveyances that were made, or are to be made, to the City of Reno, Nevada, by the Union Pacific Railroad Company pursuant to the Memorandum of Understanding for Reno Rail Corridor, as amended, entered into on December 1, 1998, between the City of Reno and the Union Pacific Railroad Company, and that comprise approximately 120 acres of land, as depicted on the map entitled “Release of Land to City of Reno, Nevada” prepared by the Bureau of Land Management and dated May 2, 2007, which were originally granted by the United States to the predecessor of the Union Pacific Railroad Company to facilitate construction of transcontinental railroads, are hereby valid to the extent that the conveyances would have been valid had the land involved in the conveyances been held by the Union Pacific Railroad Company in absolute or fee-simple title at the time of the conveyances.
-  - **(2)** *Additional conveyance* The land conveyance made to the City of Reno, Nevada, by CTB Inc., a Nevada Corporation, in the grant, bargain, and sale deed dated October 22, 2002, and involving a parcel of land situated in the NW¼SW¼ of Section 11, Township 19 North, Range 19 East, Mount Diablo base and meridian, is hereby valid to the extent that the conveyance would have been valid had the land involved in the conveyance been held by CTB Inc. in absolute or fee-simple title at the time of the conveyance.
-- **(b)** *Release of united states interests* All right, title, and interest of the United States in and to the land described in subsection (a) are hereby released to the City of Reno, without consideration.
-- **(c)** *Filing of instruments* As soon as practicable after the date of the enactment of this Act, the Secretary of the Interior shall file for recordation in the real property records of Washoe County, Nevada, such instruments as may be necessary to document the validation of the land conveyances described in subsection (a) and the release of the interests of the United States under subsection (b).
+For the purposes of this Act, the term “railroad lands” means those lands within the City of Reno, Nevada, located within portions of sections 10, 11, and 12 of T.19 N., R. 19 E., and portions of section 7 of T.19 N., R. 20 E., Mount Diablo Meridian, Nevada, that were originally granted to the Union Pacific Railroad under the provisions of the Act of July 1, 1862, commonly known as the Union Pacific Railroad Act.
+
+## § 2. Release of reversionary interest
+
+Any reversionary interests of the United States (including interests under the Act of July 1, 1862, commonly known as the Union Pacific Railroad Act) in and to the railroad lands as defined in section one of this Act are hereby released.
