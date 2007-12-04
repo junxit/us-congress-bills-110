@@ -1,7 +1,7 @@
 ---
 measure: S. 2272
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2272
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service known as th
 
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -35,3 +36,5 @@ A bill to designate the facility of the United States Postal Service known as th
 - 2007-11-16 — Message on Senate action sent to the House.
 - 2007-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14656-14657; text as passed Senate: CR S14657)
 - 2007-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14656-14657; text as passed Senate: CR S14657)
+- 2007-12-04 — Received in the House.
+- 2007-12-04 — Referred to the House Committee on Oversight and Government Reform.
