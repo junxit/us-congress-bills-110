@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3690
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -80,8 +80,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `2 U.S.C. § 1961` | add-at-end | Section 9 of the Act entitled “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes”, approved July 31, 1946 (2 U.S.C. 1961) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 167` | repeal | The first section and sections 7 and 9 of the Act of August 4, 1950 (2 U.S.C. 167, 167f, 167h) are repealed on October 1, 2009. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 167j` | insert | Section 5101 of title 40, United States Code, is amended by inserting “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”. | the bill quotes the text inserted but describes where it goes |
-| `2 U.S.C. § 167j` | add-at-end | Section 5102 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 5101` | insert | Section 5101 of title 40, United States Code, is amended by inserting “all buildings on the real property described under section 5102(d)” after “(including the Administrative Building of the United States Botanic Garden)”. | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 5102` | add-at-end | Section 5102 of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 5104` | replace | Section 5104(e)(2) of title 40, United States Code, is amended by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 167a` | repeal | Sections 2, 3, 4, 5, 6, and 8 of the Act of August 4, 1950 (2 U.S.C. 167a, 167b, 167c, 167d, 167e, and 167g) are repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 185` | replace | Section 1307(b)(1) of the Legislative Branch Appropriations Act, 2006 (2 U.S.C. 185(b)), is amended by striking the semicolon at the end and inserting the following: “, except that nothing in this paragraph may be construed to authorize … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
