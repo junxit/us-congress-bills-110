@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 0 executed, 19 stated and not applied.
+35 amendatory instructions. 0 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,3 +50,19 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 7, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 8, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 9, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (a), (b), and (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (d) through (i) as subsections (e) through (j), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (c), the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by striking subsection (j) (as so redesignated) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1110 of the Public Health Service Act (42 U.S.C. 300b–9) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (6); | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (2), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (6) (as so redesignated by subparagraph (A)), by striking the period at the end and inserting “, which may include recommendations, advice, or information dealing with— | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (E), (F) and (G) as subparagraphs (F), (H), and (I); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by inserting after subparagraph (F), as so redesignated, the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 5, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 6, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
