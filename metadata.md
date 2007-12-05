@@ -1,7 +1,7 @@
 ---
 measure: S. 1327
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1327
@@ -29,9 +29,10 @@ A bill to create and extend certain temporary district court judgeships.
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -44,3 +45,6 @@ A bill to create and extend certain temporary district court judgeships.
 - 2007-05-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 172.
 - 2007-12-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14747; text: CR S14747)
 - 2007-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14747; text: CR S14747)
+- 2007-12-05 — Message on Senate action sent to the House.
+- 2007-12-05 — Received in the House.
+- 2007-12-05 — Referred to the House Committee on the Judiciary.
