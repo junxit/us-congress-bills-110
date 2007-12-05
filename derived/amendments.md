@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4043
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1462a` | insert | by inserting “the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency” after “consult with”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1462a` | insert | by inserting a comma after “Thrift Supervision”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1462a` | add-at-end | Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 nt.) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1462a` | amend | Effective upon the enactment of subsection (b), section 3(g)(2) of the Home Owners' Loan Act (12 U.S.C. 1462a(g)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1463` | insert | by inserting “the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency” after “consult with”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1463` | insert | by inserting a comma after “Thrift Supervision”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1463` | add-at-end | Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1462a` | amend | Effective upon the enactment of subsection (b), section 3(g)(2) of the Home Owners’ Loan Act (12 U.S.C. 1462a(g)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
