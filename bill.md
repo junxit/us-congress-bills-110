@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Additional temporary extension of authorization of programs under the Small Business Act and the Small Business Investment Act of 1958
 
-- **(a)** *In general* Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Addministration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 110–57 (121 Stat. 560), is further amended by striking “December 15, 2007” each place it appears and inserting “May 23, 2008”.
+- **(a)** *In general* Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 110–57 (121 Stat. 560), is further amended by striking “December 15, 2007” each place it appears and inserting “May 23, 2008”.
 - **(b)** *Effective date* The amendment made by subsection (a) shall take effect on December 15, 2007.

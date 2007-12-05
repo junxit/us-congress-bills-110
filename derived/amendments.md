@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4252
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Addministration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 1… | the bill names no machine-readable US Code section |
+| — | replace | Section 1 of the Act entitled “An Act to extend temporarily certain authorities of the Small Business Administration”, approved October 10, 2006 (Public Law 109–316; 120 Stat. 1742), as most recently amended by section 1 of Public Law 11… | the bill names no machine-readable US Code section |
