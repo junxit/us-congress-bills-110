@@ -1,7 +1,7 @@
 ---
 measure: S. 2371
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 20 U.S.C. § 1070g
+
+> in section 420L(1)(B), by striking “sound” and inserting “responsible”; and
+
+| | |
+|---|---|
+| Removed | `sound` |
+| Inserted | `responsible` |
+
+### 20 U.S.C. § 1070g
+
+> by striking “academic year” each place it appears in subsections (a)(1) and (c)(1) and inserting “year”; and
+
+| | |
+|---|---|
+| Removed | `academic year` |
+| Inserted | `year` |
+
+### 20 U.S.C. § 1070g
+
+> by striking “other student assistance” and inserting “other assistance the student may receive”; and
+
+| | |
+|---|---|
+| Removed | `other student assistance` |
+| Inserted | `other assistance the student may receive` |
 
 ## Stated, not applied
 
@@ -31,5 +60,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1087vv` | replace | Section 480(b) of the Higher Education Act of 1965 (20 U.S.C. 1087vv(b)) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1098e` | add-at-end | Section 493C of the Higher Education Act of 1965 (20 U.S.C. 1098e) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1070g` | strike | by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
