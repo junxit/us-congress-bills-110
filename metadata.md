@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2930
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2930
@@ -50,3 +50,9 @@ Section 202 Supportive Housing for the Elderly Act of 2007
 - 2007-12-04 — Placed on the Union Calendar, Calendar No. 287.
 - 2007-12-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-463.
 - 2007-12-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-463.
+- 2007-12-05 — Considered under suspension of the rules. (consideration: CR H14176-14180)
+- 2007-12-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2930.
+- 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-05 — Mr. Mahoney (FL) moved to suspend the rules and pass the bill, as amended.
+- 2007-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H14176-14178)
+- 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H14176-14178)
