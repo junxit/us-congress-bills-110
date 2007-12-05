@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 826
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 826
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that the hanging of nooses 
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (56)
+## Cosponsors (60)
 
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 - Rep. McHenry, Patrick T. [R-NC-10] (M001156)
@@ -74,6 +74,10 @@ Expressing the sense of the House of Representatives that the hanging of nooses 
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
 
 ## Committees (1)
 
@@ -84,3 +88,9 @@ Expressing the sense of the House of Representatives that the hanging of nooses 
 - 2007-11-14 — Introduced in House
 - 2007-11-14 — Introduced in House
 - 2007-11-14 — Referred to the House Committee on the Judiciary.
+- 2007-12-05 — Considered under suspension of the rules. (consideration: CR H14198-14203)
+- 2007-12-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 826.
+- 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-05 — Mr. Conyers moved to suspend the rules and agree to the resolution.
+- 2007-12-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H14198-14199)
+- 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H14198-14199)
