@@ -1,7 +1,7 @@
 ---
 measure: H.R. 236
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 236
@@ -24,6 +24,10 @@ North Bay Water Reuse Program Act of 2007
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2007-12-05 — [House 110-1-1130](votes/house-110-1-1130.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (358–55)
+
 ## Actions
 
 - 2007-01-04 — Introduced in House
@@ -42,3 +46,7 @@ North Bay Water Reuse Program Act of 2007
 - 2007-12-04 — Placed on the Union Calendar, Calendar No. 282.
 - 2007-12-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-458.
 - 2007-12-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-458.
+- 2007-12-05 — Considered as unfinished business. (consideration: CR H14172)
+- 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 55 (Roll no. 1130). (text: CR 12/4/2007 H14095-14096)
+- 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 55 (Roll no. 1130).(text: CR 12/4/2007 H14095-14096)
