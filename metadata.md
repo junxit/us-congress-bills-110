@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 836
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 836
@@ -25,3 +25,10 @@ Granting the authority provided under clause 4(c)(3) of rule X of the Rules of t
 - 2007-12-04 — Introduced in House
 - 2007-12-04 — Introduced in House
 - 2007-12-04 — Referred to the House Committee on Rules.
+- 2007-12-05 — Considered as privileged matter. (consideration: CR H14226-14117)
+- 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-05 — On agreeing to the resolution Agreed to without objection. (text: CR H14226)
+- 2007-12-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H14226)
+- 2007-12-05 — Placed on the House Calendar, Calendar No. 162.
+- 2007-12-05 — Reported by the Committee on Rules. H. Rept. 110-473.
+- 2007-12-05 — Reported by the Committee on Rules. H. Rept. 110-473.
