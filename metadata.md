@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 822
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 822
@@ -16,7 +16,7 @@ Recognizing the 100th anniversary year of the founding of the Port of Los Angele
 
 - Rep. Richardson, Laura [D-CA-37] (R000581)
 
-## Cosponsors (23)
+## Cosponsors (25)
 
 - Rep. Rohrabacher, Dana [R-CA-46] (R000409)
 - Rep. Harman, Jane [D-CA-36] (H000213)
@@ -41,6 +41,8 @@ Recognizing the 100th anniversary year of the founding of the Port of Los Angele
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
 
 ## Committees (1)
 
@@ -51,3 +53,11 @@ Recognizing the 100th anniversary year of the founding of the Port of Los Angele
 - 2007-11-13 — Introduced in House
 - 2007-11-13 — Introduced in House
 - 2007-11-13 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-11-14 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2007-12-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-05 — Considered under suspension of the rules. (consideration: CR H14212-14217, H14226)
+- 2007-12-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 822.
+- 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-05 — Ms. Richardson moved to suspend the rules and agree to the resolution, as amended.
+- 2007-12-05 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 1133). (text: CR H14212)
+- 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 1133).(text: CR H14212)
