@@ -1,7 +1,7 @@
 ---
 measure: S. 863
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 863
@@ -24,9 +24,10 @@ Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -39,3 +40,6 @@ Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007
 - 2007-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 167.
 - 2007-12-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S14747-14748; text: CR S14747-14748)
 - 2007-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14747-14748; text: CR S14747-14748)
+- 2007-12-05 — Message on Senate action sent to the House.
+- 2007-12-05 — Received in the House.
+- 2007-12-05 — Referred to the House Committee on the Judiciary.
