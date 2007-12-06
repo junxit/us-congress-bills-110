@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 54
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 54
@@ -30,3 +30,7 @@ A concurrent resolution supporting the designation of a week as "National Cardio
 - 2007-11-16 — Introduced in Senate
 - 2007-11-16 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S14644-14645)
 - 2007-11-16 — Sponsor introductory remarks on measure. (CR S14645)
+- 2007-12-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S15000; text: CR S15000)
+- 2007-12-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S15000; text: CR S15000)
+- 2007-12-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2007-12-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
