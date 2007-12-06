@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2085
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2085
@@ -24,6 +24,10 @@ McGee Creek Project Pipeline and Associated Facilities Conveyance Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2007-12-06 — [House 110-1-1141](votes/house-110-1-1141.md) — On Motion to Suspend the Rules and Pass — **Passed** (373–0)
+
 ## Actions
 
 - 2007-05-01 — Introduced in House
@@ -42,3 +46,7 @@ McGee Creek Project Pipeline and Associated Facilities Conveyance Act
 - 2007-12-04 — Placed on the Union Calendar, Calendar No. 284.
 - 2007-12-04 — Reported by the Committee on Natural Resources. H. Rept. 110-460.
 - 2007-12-04 — Reported by the Committee on Natural Resources. H. Rept. 110-460.
+- 2007-12-06 — Considered as unfinished business. (consideration: CR H14444-14445)
+- 2007-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 0 (Roll no. 1141). (text: CR 12/04/2007 H14097-14098)
+- 2007-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 0 (Roll no. 1141).(text: CR 12/04/2007 H14097-14098)
