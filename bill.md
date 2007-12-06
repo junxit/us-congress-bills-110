@@ -20,7 +20,7 @@ This Act may be cited as the “Securities Law Technical Corrections Act of 2007
   - **(2)** in section 18(b)(1)(C) (15 U.S.C. 77r(b)(1)(C)), by striking “is a security” and inserting “a security”;
   - **(3)** in section 18(c)(2)(B)(i) (15 U.S.C. 77r(c)(2)(B)(i)), by striking “State, or” and inserting “State or”;
   - **(4)** in section 19(d)(6)(A) (15 U.S.C. 77s(d)(6)(A)), by striking “in paragraph (1) of (3)” and inserting “in paragraph (1) or (3)”; and
-  - **(5)** in section 27A(c)(1)(B)(ii) (15 U.S.C. 77z–2(c)(1)(B)(ii), by striking “business entity;” and inserting “business entity,”.
+  - **(5)** in section 27A(c)(1)(B)(ii) (15 U.S.C. 77z–2(c)(1)(B)(ii)), by striking “business entity;” and inserting “business entity,”.
 - **(b)** *Securities Exchange Act of 1934* The Securities Exchange Act of 1934 (15 U.S.C. 78 et seq.) is amended—
   - **(1)** in section 2(1)(a) (15 U.S.C. 78b(1)(a)), by striking “affected” and inserting “effected”;
   - **(2)** in section 3(a)(55)(A) (15 U.S.C. 78c(a)(55)(A)), by striking “section 3(a)(12) of the Securities Exchange Act of 1934” and inserting “section 3(a)(12) of this Act”;
@@ -36,7 +36,7 @@ This Act may be cited as the “Securities Law Technical Corrections Act of 2007
     - **(B)** by striking the sentence beginning “The order granting” and ending “from such membership.” in such redesignated subparagraph (B); and
     - **(C)** inserting such sentence in the matter following such redesignated subparagraph after “are satisfied.”;
   - **(9)** in section 16(a)(2)(C) (15 U.S.C. 78p(a)(2)(C)), by striking “section 206(b)” and inserting “section 206B”;
-  - **(10)** in section 17(b)(1)(B) (15 U.S.C. 78q(b)(1)(B)), by striking “gives” and inserting “give”; and
+  - **(10)** in section 17(b)(1)(B) (15 U.S.C. 78q(b)(1)(B)), by striking “15A(k) gives” and inserting “15A(k), give”; and
   - **(11)** in section 21C(c)(2) (15 U.S.C. 78u–3(c)(2)), by striking “paragraph (1) subsection” and inserting “Paragraph (1)”.
 - **(c)** *Trust Indenture Act of 1939* The Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.) is amended—
   - **(1)** in section 304(b) (15 U.S.C. 77ddd(b)), by striking “section 2 of such Act” and inserting “section 2(a) of such Act”;
@@ -48,19 +48,18 @@ This Act may be cited as the “Securities Law Technical Corrections Act of 2007
   - **(3)** in section 12(d)(1)(J) (15 U.S.C. 80a–12(d)(1)(J)), by striking “any provision of this subsection” and inserting “any provision of this paragraph”;
   - **(4)** in section 13(a)(3) (15 U.S.C. 80a–13(a)(3)), by inserting “or” after the semicolon at the end;
   - **(5)** in section 17(f)(4) (15 U.S.C. 80a–17(f)(4)), by striking “No such member” and inserting “No member of a national securities exchange”;
-  - **(6)** in section 17(f)(6) (15 U.S.C. 80a–17(f)(6)), by striking “company may serve” and inserting “company, may serve”;
-  - **(7)** in section 27(i)(2)(B) (15 U.S.C. 80a–27(i)(2)(B)), by striking “section 26(e)” both places it appears and inserting “section 26(f)”; and
-  - **(8)** in section 61(a)(3)(B)(iii) (15 U.S.C. 80a–61(a)(3)(B)(iii))—
+  - **(6)** in section 17(f)(6) (15 U.S.C. 80a–17(f)(6)), by striking “company may serve” and inserting “company, may serve”; and
+  - **(7)** in section 61(a)(3)(B)(iii) (15 U.S.C. 80a–60(a)(3)(B)(iii))—
     - **(A)** by striking “paragraph (1) of section 205” and inserting “section 205(a)(1)”; and
     - **(B)** by striking “clause (A) or (B) of that section” and inserting “section 205(b)(1) or (2)”.
 - **(e)** *Investment Advisers Act of 1940* The Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) is amended—
-  - **(1)** in each of the following sections, by striking “principal business office” or “principal place of business” (whichever and wherever it appears) and inserting “principal office and place of business”: sections 203(c)(1)(A), 203(k)(4)(B)(ii), 213(a), 222(b), 222(b)(1), 222(b)(2), 222(c), 222(c)(1), and 222(c)(2) (15 U.S.C. 80b–3(c)(1)(A), 80b–3(k)(4)(B)(ii), 80b–13(a), 80b–22(b), 80b–22(b)(1), 80b–22(b)(2), 80b–22(c), 80b–22(c)(1), and 80b–22(c)(2)); and
+  - **(1)** in each of the following sections, by striking “principal business office” or “principal place of business” (whichever and wherever it appears) and inserting “principal office and place of business”: sections 203(c)(1)(A), 203(k)(4)(B), 213(a), 222(b), and 222(c) (15 U.S.C. 80b–3(c)(1)(A), 80b–3(k)(4)(B), 80b–13(a), 80b–18a(b), and 80b–18a(c)); and
   - **(2)** in section 206(3) (15 U.S.C. 80b–6(3)), by inserting “or” after the semicolon at the end.
 
 ## § 3. Conforming amendments for the repeal of the Public Utilities Holding Company Act of 1935
 
 - **(a)** *Securities Exchange Act of 1934* The Securities Exchange Act of 1934 (15 U.S.C. 78 et seq.) is amended—
-  - **(1)** in section 3(a)(47) (15 U.S.C. 78c(a)(47)), by striking “the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a et seq),”; and
+  - **(1)** in section 3(a)(47) (15 U.S.C. 78c(a)(47)), by striking “the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a et seq.),”; and
   - **(2)** in section 12(k) (15 U.S.C. 78l(k)), by amending paragraph (7) to read as follows:
     > - **(7)** *Definition* For purposes of this subsection, the term emergency means—
     >   - **(A)** a major market disturbance characterized by or constituting—

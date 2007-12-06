@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3505
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-44 amendatory instructions. 27 executed, 17 stated and not applied.
+43 amendatory instructions. 26 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `individual;` |
 | Inserted | `individual,` |
 
-### 15 U.S.C. § 77a
+### 15 U.S.C. § 77r
 
 > in section 18(b)(1)(C) (15 U.S.C. 77r(b)(1)(C)), by striking “is a security” and inserting “a security”;
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `is a security` |
 | Inserted | `a security` |
 
-### 15 U.S.C. § 77a
+### 15 U.S.C. § 77r
 
 > in section 18(c)(2)(B)(i) (15 U.S.C. 77r(c)(2)(B)(i)), by striking “State, or” and inserting “State or”;
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `State, or` |
 | Inserted | `State or` |
 
-### 15 U.S.C. § 77a
+### 15 U.S.C. § 77s
 
 > in section 19(d)(6)(A) (15 U.S.C. 77s(d)(6)(A)), by striking “in paragraph (1) of (3)” and inserting “in paragraph (1) or (3)”; and
 
@@ -60,9 +60,9 @@ to guess them.
 | Removed | `in paragraph (1) of (3)` |
 | Inserted | `in paragraph (1) or (3)` |
 
-### 15 U.S.C. § 77a
+### 15 U.S.C. § 77z-2
 
-> in section 27A(c)(1)(B)(ii) (15 U.S.C. 77z–2(c)(1)(B)(ii), by striking “business entity;” and inserting “business entity,”.
+> in section 27A(c)(1)(B)(ii) (15 U.S.C. 77z–2(c)(1)(B)(ii)), by striking “business entity;” and inserting “business entity,”.
 
 | | |
 |---|---|
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `affected` |
 | Inserted | `effected` |
 
-### 15 U.S.C. § 78
+### 15 U.S.C. § 78c
 
 > in section 3(a)(55)(A) (15 U.S.C. 78c(a)(55)(A)), by striking “section 3(a)(12) of the Securities Exchange Act of 1934” and inserting “section 3(a)(12) of this Act”;
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `company, account person, or entity` |
 | Inserted | `company, account, person, or entity` |
 
-### 15 U.S.C. § 78
+### 15 U.S.C. § 78j-1
 
 > in section 10A(i)(1)(B)(i) (15 U.S.C. 78j–1(i)(1)(B)(i)), by striking “nonaudit” and inserting “non-audit”;
 
@@ -114,7 +114,7 @@ to guess them.
 | Removed | `earning statement` |
 | Inserted | `earnings statement` |
 
-### 15 U.S.C. § 78
+### 15 U.S.C. § 78p
 
 > in section 16(a)(2)(C) (15 U.S.C. 78p(a)(2)(C)), by striking “section 206(b)” and inserting “section 206B”;
 
@@ -123,16 +123,16 @@ to guess them.
 | Removed | `section 206(b)` |
 | Inserted | `section 206B` |
 
-### 15 U.S.C. § 78
+### 15 U.S.C. § 78q
 
-> in section 17(b)(1)(B) (15 U.S.C. 78q(b)(1)(B)), by striking “gives” and inserting “give”; and
+> in section 17(b)(1)(B) (15 U.S.C. 78q(b)(1)(B)), by striking “15A(k) gives” and inserting “15A(k), give”; and
 
 | | |
 |---|---|
-| Removed | `gives` |
-| Inserted | `give` |
+| Removed | `15A(k) gives` |
+| Inserted | `15A(k), give` |
 
-### 15 U.S.C. § 78
+### 15 U.S.C. § 78u-3
 
 > in section 21C(c)(2) (15 U.S.C. 78u–3(c)(2)), by striking “paragraph (1) subsection” and inserting “Paragraph (1)”.
 
@@ -150,7 +150,7 @@ to guess them.
 | Removed | `section 2 of such Act` |
 | Inserted | `section 2(a) of such Act` |
 
-### 15 U.S.C. § 77aaa
+### 15 U.S.C. § 77mmm
 
 > in section 313(a)(4) (15 U.S.C. 77mmm(a)(4)) by striking “subsection 311” and inserting “section 311(b)”; and
 
@@ -159,7 +159,7 @@ to guess them.
 | Removed | `subsection 311` |
 | Inserted | `section 311(b)` |
 
-### 15 U.S.C. § 77aaa
+### 15 U.S.C. § 77qqq
 
 > in section 317(a)(1) (15 U.S.C. 77qqq(a)(1)), by striking “(1),” and inserting “(1)”.
 
@@ -168,7 +168,7 @@ to guess them.
 | Removed | `(1),` |
 | Inserted | `(1)` |
 
-### 15 U.S.C. § 80a-1
+### 15 U.S.C. § 80a-2
 
 > in section 2(a)(19) (15 U.S.C. 80a–2(a)(19)) by striking “clause (vi)” both places it appears in the last two sentences and inserting “clause (vii)”;
 
@@ -177,7 +177,7 @@ to guess them.
 | Removed | `clause (vi)` |
 | Inserted | `clause (vii)` |
 
-### 15 U.S.C. § 80a-1
+### 15 U.S.C. § 80a-12
 
 > in section 12(d)(1)(J) (15 U.S.C. 80a–12(d)(1)(J)), by striking “any provision of this subsection” and inserting “any provision of this paragraph”;
 
@@ -186,7 +186,7 @@ to guess them.
 | Removed | `any provision of this subsection` |
 | Inserted | `any provision of this paragraph` |
 
-### 15 U.S.C. § 80a-1
+### 15 U.S.C. § 80a-17
 
 > in section 17(f)(4) (15 U.S.C. 80a–17(f)(4)), by striking “No such member” and inserting “No member of a national securities exchange”;
 
@@ -195,25 +195,16 @@ to guess them.
 | Removed | `No such member` |
 | Inserted | `No member of a national securities exchange` |
 
-### 15 U.S.C. § 80a-1
+### 15 U.S.C. § 80a-17
 
-> in section 17(f)(6) (15 U.S.C. 80a–17(f)(6)), by striking “company may serve” and inserting “company, may serve”;
+> in section 17(f)(6) (15 U.S.C. 80a–17(f)(6)), by striking “company may serve” and inserting “company, may serve”; and
 
 | | |
 |---|---|
 | Removed | `company may serve` |
 | Inserted | `company, may serve` |
 
-### 15 U.S.C. § 80a-1
-
-> in section 27(i)(2)(B) (15 U.S.C. 80a–27(i)(2)(B)), by striking “section 26(e)” both places it appears and inserting “section 26(f)”; and
-
-| | |
-|---|---|
-| Removed | `section 26(e)` |
-| Inserted | `section 26(f)` |
-
-### 15 U.S.C. § 80a-1
+### 15 U.S.C. § 80a-60
 
 > by striking “paragraph (1) of section 205” and inserting “section 205(a)(1)”; and
 
@@ -222,7 +213,7 @@ to guess them.
 | Removed | `paragraph (1) of section 205` |
 | Inserted | `section 205(a)(1)` |
 
-### 15 U.S.C. § 80a-1
+### 15 U.S.C. § 80a-60
 
 > by striking “clause (A) or (B) of that section” and inserting “section 205(b)(1) or (2)”.
 
@@ -233,7 +224,7 @@ to guess them.
 
 ### 15 U.S.C. § 80b-3
 
-> in each of the following sections, by striking “principal business office” or “principal place of business” (whichever and wherever it appears) and inserting “principal office and place of business”: sections 203(c)(1)(A), 203(k)(4)(B)(ii), 213(a), 222(b), 222(b)(1), 222(b)(2), 222(c), 222(c)(1), and 222(c)(2) (15 U.S.C. 80b–3(c)(1)(A), 80b–3(k)(4)(B)(ii), 80b–13(a), 80b–22(b), 80b–22(b)(1), 80b–22(b)(2), 80b–22(c), 80b–22(c)(1), and 80b–22(c)(2)); and
+> in each of the following sections, by striking “principal business office” or “principal place of business” (whichever and wherever it appears) and inserting “principal office and place of business”: sections 203(c)(1)(A), 203(k)(4)(B), 213(a), 222(b), and 222(c) (15 U.S.C. 80b–3(c)(1)(A), 80b–3(k)(4)(B), 80b–13(a), 80b–18a(b), and 80b–18a(c)); and
 
 | | |
 |---|---|
@@ -276,19 +267,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 78` | strike | by striking the sentence beginning “The order granting” and ending “from such membership.” in subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78` | redesignate | by striking the sentence beginning “The order granting” and ending “from such membership.” in such redesignated subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 80a-1` | insert | in section 9(b)(4)(B) (15 U.S.C. 80a–9(b)(4)(B)), by inserting “or” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 80a-1` | insert | in section 13(a)(3) (15 U.S.C. 80a–13(a)(3)), by inserting “or” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78o` | strike | by striking the sentence beginning “The order granting” and ending “from such membership.” in subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o-5` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78o-5` | redesignate | by striking the sentence beginning “The order granting” and ending “from such membership.” in such redesignated subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-9` | insert | in section 9(b)(4)(B) (15 U.S.C. 80a–9(b)(4)(B)), by inserting “or” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 80a-13` | insert | in section 13(a)(3) (15 U.S.C. 80a–13(a)(3)), by inserting “or” after the semicolon at the end; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 80b-6` | insert | in section 206(3) (15 U.S.C. 80b–6(3)), by inserting “or” after the semicolon at the end. | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78c` | strike | in section 3(a)(47) (15 U.S.C. 78c(a)(47)), by striking “the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a et seq),”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 78c` | strike | in section 3(a)(47) (15 U.S.C. 78c(a)(47)), by striking “the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a et seq.),”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 78l` | amend | in section 12(k) (15 U.S.C. 78l(k)), by amending paragraph (7) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78u` | strike | in section 21(h)(2) (15 U.S.C. 78u(h)(2)), by striking “section 18(c) of the Public Utility Holding Company Act of 1935,”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 77ccc` | amend | in section 303 (15 U.S.C. 77ccc), by amending paragraph (17) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77jjj` | strike | in section 310 (15 U.S.C. 77jjj), by striking subsection (c) (including the preceding heading); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77kkk` | strike | in section 311 (15 U.S.C. 77kkk) by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 80a-1` | strike | in section 2(a)(44) (15 U.S.C. 80a–2(a)(44)), by striking “Public Utility Holding Company Act of 1935,”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 80a-2` | strike | in section 2(a)(44) (15 U.S.C. 80a–2(a)(44)), by striking “Public Utility Holding Company Act of 1935,”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 80a-3` | amend | in section 3(c) (15 U.S.C. 80a–3(c)), by amending paragraph (8) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 80a-37` | strike | in section 38(b) (15 U.S.C. 80a–37(b)), by striking “the Public Utility Holding Company Act of 1935,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 80a-49` | strike | in section 50 (15 U.S.C. 80a–49), by striking “the Public Utility Holding Company Act of 1935,”. | the bill quotes the text struck but describes what replaces it |
