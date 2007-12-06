@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 58
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 58
@@ -32,8 +32,15 @@ A concurrent resolution welcoming First Minister Dr. Ian Paisley and Deputy Firs
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
+## Committees (1)
+
+- House — Foreign Affairs Committee
+
 ## Actions
 
 - 2007-12-04 — Introduced in Senate
 - 2007-12-04 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S14746; text as passed Senate: CR S14746; text of measure as introduced: CR S14745)
 - 2007-12-04 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S14746; text as passed Senate: CR S14746; text of measure as introduced: CR S14745)
+- 2007-12-06 — Message on Senate action sent to the House.
+- 2007-12-06 — Received in the House.
+- 2007-12-06 — Referred to the House Committee on Foreign Affairs.
