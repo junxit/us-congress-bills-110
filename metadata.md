@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 710
@@ -89,3 +89,8 @@ Charlie W. Norwood Living Organ Donation Act
 - 2007-07-10 — Message on Senate action sent to the House.
 - 2007-12-04 — House agreed to Senate amendment with amendments pursuant to H. Res. 837.
 - 2007-12-04 — Resolving differences -- House actions: House agreed to Senate amendment with amendments pursuant to H. Res. 837.
+- 2007-12-05 — Message on House action received in Senate and at desk: House amendments to Senate amendment.
+- 2007-12-06 — Cleared for White House.
+- 2007-12-06 — Message on Senate action sent to the House.
+- 2007-12-06 — Resolving differences -- Senate actions: Senate agreed to House amendment to Senate amendment and House amendment to title of bill by Unanimous Consent.
+- 2007-12-06 — Senate agreed to House amendment to Senate amendment and House amendment to title of bill by Unanimous Consent.

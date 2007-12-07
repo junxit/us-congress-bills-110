@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 710
-congress: 110th CONGRESS
-session: 1st Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 710
 
-That the House agree to the amendment of the Senate to the bill (H.R. 710) entitled “An Act to amend the National Organ Transplant Act to provide that criminal penalties do not apply to paired donations of human kidneys, and for other purposes”, with the following
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
+> To amend the National Organ Transplant Act to provide that criminal penalties do not apply to human organ paired donation, and for other purposes.
 
 ## § 1. Short title
 
