@@ -1,7 +1,7 @@
 ---
 measure: H.R. 710
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
