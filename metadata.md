@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 6
@@ -16,7 +16,7 @@ Energy Independence and Security Act of 2007
 
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Cosponsors (200)
+## Cosponsors (639)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
@@ -218,6 +218,445 @@ Energy Independence and Security Act of 2007
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Kerry, John F. [D-MA] (K000148)
 
 ## Committees (4)
 
@@ -257,3 +696,709 @@ Energy Independence and Security Act of 2007
 - 2007-01-18 — The previous question on the motion was ordered without objection. (consideration: CR H727)
 - 2007-01-18 — The previous question was ordered pursuant to the rule. (consideration: CR H726)
 - 2007-01-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 9.
+- 2007-06-06 — Cloture motion on the motion to proceed presented in Senate. (consideration: CR S7153; text: CR S7153)
+- 2007-06-06 — Motion to proceed to consideration of measure made in Senate.
+- 2007-06-06 — Motion to proceed to consideration of measure withdrawn in Senate.
+- 2007-06-07 — Motion to proceed to measure considered in Senate. (consideration: CR S7313)
+- 2007-06-11 — Cloture on the motion to proceed invoked in Senate by Yea-Nay Vote. 91 - 0. Record Vote Number: 208. (consideration: CR H7442; text: CR H7442)
+- 2007-06-11 — Motion to proceed to measure considered in Senate. (consideration: CR S7426-7432)
+- 2007-06-11 — Motion to proceed to measure considered in Senate. (consideration: CR S7442)
+- 2007-06-11 — Senate amendment submitted
+- 2007-06-11 — Senate amendment submitted
+- 2007-06-11 — Senate amendment submitted
+- 2007-06-11 — Senate amendment submitted
+- 2007-06-11 — Senate amendment submitted
+- 2007-06-12 — Amendment SA 1502 proposed by Senator Reid. (consideration: CR S7513-7515) In the nature of a substitute.
+- 2007-06-12 — Amendment SA 1505 proposed by Senator Inhofe to Amendment SA 1502. (consideration: CR S7515-7522) To improve domestic fuels security.
+- 2007-06-12 — Amendment SA 1508 agreed to in Senate by Yea-Nay Vote. 63 - 30. Record Vote Number: 209.
+- 2007-06-12 — Amendment SA 1508 proposed by Senator Lieberman for Senator Bayh to Amendment SA 1502. (consideration: CR S7522-7524, S7534; text: CR S7522-7523) To provide for the publication and implementation of an action plan to reduce the quantity of oil used annually in the United States.
+- 2007-06-12 — Amendment SA 1515 agreed to in Senate by Unanimous Consent.
+- 2007-06-12 — Amendment SA 1515 proposed by Senator Sanders to Amendment SA 1502. (consideration: CR S7524-7528) To establish an energy efficiency and renewable energy worker training program.
+- 2007-06-12 — Measure laid before Senate by unanimous consent. (consideration: CR S7513-7535)
+- 2007-06-12 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2007-06-12 — Motion to proceed to measure considered in Senate. (consideration: CR S7504-7513)
+- 2007-06-12 — Roll call votes on amendments in Senate: Amendment SA 1508 agreed to in Senate by Yea-Nay Vote. 63 - 30. Record Vote Number: 209.
+- 2007-06-12 — Senate amendment agreed to: Amendment SA 1508 agreed to in Senate by Yea-Nay Vote. 63 - 30. Record Vote Number: 209.
+- 2007-06-12 — Senate amendment agreed to: Amendment SA 1515 agreed to in Senate by Unanimous Consent.
+- 2007-06-12 — Senate amendment proposed (on the floor): Amendment SA 1502 proposed by Senator Reid.(consideration: CR S7513-7515)
+- 2007-06-12 — Senate amendment proposed (on the floor): Amendment SA 1505 proposed by Senator Inhofe to Amendment SA 1502.(consideration: CR S7515-7522)
+- 2007-06-12 — Senate amendment proposed (on the floor): Amendment SA 1508 proposed by Senator Lieberman for Senator Bayh to Amendment SA 1502.(consideration: CR S7522-7524, S7534; text: CR S7522-7523)
+- 2007-06-12 — Senate amendment proposed (on the floor): Amendment SA 1515 proposed by Senator Sanders to Amendment SA 1502.(consideration: CR S7524-7528)
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-12 — Senate amendment submitted
+- 2007-06-13 — Amendment SA 1505 not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 210.
+- 2007-06-13 — Amendment SA 1537 proposed by Senator Reid for Senator Bingaman to Amendment SA 1502. (consideration: CR S7589-7590) To provide for a renewable portfolio standard.
+- 2007-06-13 — Amendment SA 1538 proposed by Senator McConnell for Senator Domenici to Amendment SA 1537. (consideration: CR S7590) To provide for the establishment of a Federal clean portfolio standard.
+- 2007-06-13 — Considered by Senate. (consideration: CR S7582)
+- 2007-06-13 — Considered by Senate. (consideration: CR S7582-7589)
+- 2007-06-13 — Considered by Senate. (consideration: CR S7582-7625)
+- 2007-06-13 — Roll call votes on amendments in Senate: Amendment SA 1505 not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 210.
+- 2007-06-13 — Senate amendment not agreed to: Amendment SA 1505 not agreed to in Senate by Yea-Nay Vote. 43 - 52. Record Vote Number: 210.
+- 2007-06-13 — Senate amendment proposed (on the floor): Amendment SA 1537 proposed by Senator Reid for Senator Bingaman to Amendment SA 1502.(consideration: CR S7589-7590)
+- 2007-06-13 — Senate amendment proposed (on the floor): Amendment SA 1538 proposed by Senator McConnell for Senator Domenici to Amendment SA 1537.(consideration: CR S7590)
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-13 — Senate amendment submitted
+- 2007-06-14 — Amendment SA 1519 proposed by Senator Kohl to Amendment SA 1502. (consideration: CR S7705-7706; text: CR S7706) To amend the Sherman Act to make oil-producing and exporting cartels illegal.
+- 2007-06-14 — Amendment SA 1546 proposed by Senator Kohl for Senator DeMint to Amendment SA 1502. (consideration: CR S7706, S7708-7709; text: CR S7706) To provide that legislation that would increase the national average fuel prices for automobiles is subject to a point of order in the Senate.
+- 2007-06-14 — Amendment SA 1557 proposed by Senator Bingaman for Senator Klobuchar to Amendment SA 1502. (consideration: CR S7696, S7711-7712) To establish a national greenhouse gas registry.
+- 2007-06-14 — Amendment SA 1566 proposed by Senator Warner to Amendment SA 1502. (consideration: CR S7696-7697, S7708, S7709-7710, S7712-7715; text: CR S7696; text as modified: CR S7708) To authorize the State of Virginia to petition for authorization to conduct natural gas exploration and drilling activities in the coastal zone of the State.
+- 2007-06-14 — Amendment SA 1566, having failed to achieve the 60 votes required for adoption,  not agreed to in Senate by Yea-Nay Vote. 43 - 44. Record Vote Number: 212.
+- 2007-06-14 — Amendment SA 1572 as modified agreed to in Senate by Voice Vote. (text as modified: CR S7716-7719)
+- 2007-06-14 — Amendment SA 1572 proposed by Senator Salazar to Amendment SA 1502. (consideration: CR S7707, S7716-7718) To reduce United States dependence on foreign oil by promoting the development of plug-in electric vehicles, deploying near-term programs to electrify the transportation sector, and including electric drive vehicles in the fleet purchasing programs.
+- 2007-06-14 — Amendment SA 1573 proposed by Senator Klobuchar for Senator Bingaman to Amendment SA 1537. (consideration: CR S7680-7696) To provide for a renewable portfolio standard.
+- 2007-06-14 — Amendment SA 1578 proposed by Senator Menendez to Amendment SA 1502.
+- 2007-06-14 — Amendment SA 1578 proposed by Senator Menendez to Amendment SA 1566. (consideration: CR S7697-7703, S7712-7713; text: CR S7697-7698) To authorize the State of Virginia to petition for authorization to conduct natural gas exploration and drilling activities in the coastal zone of the State.
+- 2007-06-14 — Amendment SA 1578 was modified to be a 1st degree amendment by Unanimous Consent. (text as modified: CR S7712)
+- 2007-06-14 — Considered by Senate. (consideration: CR S7680)
+- 2007-06-14 — Considered by Senate. (consideration: CR S7680)
+- 2007-06-14 — Considered by Senate. (consideration: CR S7680)
+- 2007-06-14 — Considered by Senate. (consideration: CR S7680-7719)
+- 2007-06-14 — Motion to table amendment SA 1538 agreed to in Senate by Yea-Nay Vote. 56 - 39. Record Vote Number: 211.
+- 2007-06-14 — Proposed amendment SA 1566, having failed to achieve the 60 votes required for adoption,  withdrawn in Senate.
+- 2007-06-14 — Proposed amendment SA 1578, amendment SA 1566 having failed to achieve the 60 votes required for adoption,  withdrawn in Senate.
+- 2007-06-14 — Roll call votes on amendments in Senate: Amendment SA 1566, having failed to achieve the 60 votes required for adoption,  not agreed to in Senate by Yea-Nay Vote. 43 - 44. Record Vote Number: 212.
+- 2007-06-14 — Roll call votes on amendments in Senate: Motion to table amendment SA 1538 agreed to in Senate by Yea-Nay Vote. 56 - 39. Record Vote Number: 211.
+- 2007-06-14 — Senate amendment agreed to: Amendment SA 1572 as modified agreed to in Senate by Voice Vote.(text as modified: CR S7716-7719)
+- 2007-06-14 — Senate amendment not agreed to: Amendment SA 1566, having failed to achieve the 60 votes required for adoption,  not agreed to in Senate by Yea-Nay Vote. 43 - 44. Record Vote Number: 212.
+- 2007-06-14 — Senate amendment proposed (on the floor): Amendment SA 1519 proposed by Senator Kohl to Amendment SA 1502.(consideration: CR S7705-7706; text: CR S7706)
+- 2007-06-14 — Senate amendment proposed (on the floor): Amendment SA 1546 proposed by Senator Kohl for Senator DeMint to Amendment SA 1502.(consideration: CR S7706, S7708-7709; text: CR S7706)
+- 2007-06-14 — Senate amendment proposed (on the floor): Amendment SA 1557 proposed by Senator Bingaman for Senator Klobuchar to Amendment SA 1502.(consideration: CR S7696, S7711-7712)
+- 2007-06-14 — Senate amendment proposed (on the floor): Amendment SA 1566 proposed by Senator Warner to Amendment SA 1502.(consideration: CR S7696-7697, S7708, S7709-7710, S7712-7715; text: CR S7696; text as modified: CR S7708)
+- 2007-06-14 — Senate amendment proposed (on the floor): Amendment SA 1572 proposed by Senator Salazar to Amendment SA 1502.(consideration: CR S7707, S7716-7718)
+- 2007-06-14 — Senate amendment proposed (on the floor): Amendment SA 1573 proposed by Senator Klobuchar for Senator Bingaman to Amendment SA 1537.(consideration: CR S7680-7696)
+- 2007-06-14 — Senate amendment proposed (on the floor): Amendment SA 1578 proposed by Senator Menendez to Amendment SA 1502.
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-14 — Senate amendment submitted
+- 2007-06-15 — Amendment SA 1520 proposed by Senator Cardin to Amendment SA 1502. (consideration: CR S7781-7782; text: CR S7781-7782) To promote the energy independence of the United States.
+- 2007-06-15 — Amendment SA 1524 agreed to in Senate by Voice Vote.
+- 2007-06-15 — Amendment SA 1524 proposed by Senator Salazar to Amendment SA 1502. (consideration: CR S7785-7787; text: CR S7785) To express the sense of Congress relating to the use of renewable resources to generate energy.
+- 2007-06-15 — Amendment SA 1608 proposed by Senator Corker to Amendment SA 1502. (consideration: CR S7780-7781; text: CR S7780) To allow clean fuels to meet the renewable fuel standard.
+- 2007-06-15 — Amendment SA 1609 proposed by Senator Domenici for Senator Thune to Amendment SA 1502. (consideration: CR S7782-7783; text: CR S7783) To provide requirements for the designation of national interest electric transmission corridors.
+- 2007-06-15 — Amendment SA 1610 proposed by Senator Cardin to Amendment SA 1502. (consideration: CR S7783-7785; text: CR S7783) To provide for the siting, construction, expansion, and operation of liquefied natural gas terminals.
+- 2007-06-15 — Amendment SA 1615 proposed by Senator Collins to Amendment SA 1502. (consideration: CR S7798-7799; text: CR S7798) To provide for the development and coordination of a comprehensive and integrated United States research program that assists the people of the United States and the world to understand, assess, and predict human-induced and natural processes of abrupt climate change.
+- 2007-06-15 — Considered by Senate. (consideration: CR S7780)
+- 2007-06-15 — Considered by Senate. (consideration: CR S7780)
+- 2007-06-15 — Considered by Senate. (consideration: CR S7780)
+- 2007-06-15 — Considered by Senate. (consideration: CR S7780)
+- 2007-06-15 — Considered by Senate. (consideration: CR S7780)
+- 2007-06-15 — Considered by Senate. (consideration: CR S7780)
+- 2007-06-15 — Considered by Senate. (consideration: CR S7780-7781, S7781-7787, S7787-7789, S7798-7799)
+- 2007-06-15 — Senate amendment agreed to: Amendment SA 1524 agreed to in Senate by Voice Vote.
+- 2007-06-15 — Senate amendment proposed (on the floor): Amendment SA 1520 proposed by Senator Cardin to Amendment SA 1502.(consideration: CR S7781-7782; text: CR S7781-7782)
+- 2007-06-15 — Senate amendment proposed (on the floor): Amendment SA 1524 proposed by Senator Salazar to Amendment SA 1502.(consideration: CR S7785-7787; text: CR S7785)
+- 2007-06-15 — Senate amendment proposed (on the floor): Amendment SA 1608 proposed by Senator Corker to Amendment SA 1502.(consideration: CR S7780-7781; text: CR S7780)
+- 2007-06-15 — Senate amendment proposed (on the floor): Amendment SA 1609 proposed by Senator Domenici for Senator Thune to Amendment SA 1502.(consideration: CR S7782-7783; text: CR S7783)
+- 2007-06-15 — Senate amendment proposed (on the floor): Amendment SA 1610 proposed by Senator Cardin to Amendment SA 1502.(consideration: CR S7783-7785; text: CR S7783)
+- 2007-06-15 — Senate amendment proposed (on the floor): Amendment SA 1615 proposed by Senator Collins to Amendment SA 1502.(consideration: CR S7798-7799; text: CR S7798)
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-15 — Senate amendment submitted
+- 2007-06-18 — Amendment SA 1614 proposed by Senator Bingaman for Senator Tester to Amendment SA 1502. (consideration: CR S7805-7806) To establish a program to provide loans for projects to produce syngas from coal and other feedstocks while simultaneously reducing greenhouse gas emissions and reliance of the United States on petroleum and natural gas.
+- 2007-06-18 — Amendment SA 1628 proposed by Senator Domenici for Senator Bunning to Amendment SA 1502. (consideration: CR S7804-7805) To provide standards for clean coal-derived fuels.
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804)
+- 2007-06-18 — Considered by Senate. (consideration: CR S7804-7807)
+- 2007-06-18 — Senate amendment proposed (on the floor): Amendment SA 1614 proposed by Senator Bingaman for Senator Tester to Amendment SA 1502.(consideration: CR S7805-7806)
+- 2007-06-18 — Senate amendment proposed (on the floor): Amendment SA 1628 proposed by Senator Domenici for Senator Bunning to Amendment SA 1502.(consideration: CR S7804-7805)
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-18 — Senate amendment submitted
+- 2007-06-19 — Amendment SA 1519 agreed to in Senate by Yea-Nay Vote. 70 - 23. Record Vote Number: 215.
+- 2007-06-19 — Amendment SA 1609 agreed to in Senate by Voice Vote.
+- 2007-06-19 — Amendment SA 1610 not agreed to in Senate by Yea-Nay Vote. 37 - 56. Record Vote Number: 216.
+- 2007-06-19 — Amendment SA 1614 not agreed to in Senate by Yea-Nay Vote. 33 - 61. Record Vote Number: 214.
+- 2007-06-19 — Amendment SA 1628 not agreed to in Senate by Yea-Nay Vote. 39 - 55. Record Vote Number: 213.
+- 2007-06-19 — Amendment SA 1704 proposed by Senator Baucus to Amendment SA 1502. (consideration: CR S7871-7872) To amend the Internal Revenue Code of 1986 to provide for energy advancement and investment, and for other purposes.
+- 2007-06-19 — Cloture motion on amendment SA 1502 presented in Senate. (consideration: CR S7877; text: CR S7877)
+- 2007-06-19 — Cloture motion on amendment SA 1704 presented in Senate. (consideration: CR S7877; text: CR S7877)
+- 2007-06-19 — Cloture motion on the bill presented in Senate. (consideration: CR S7877; text: CR S7877)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846, S7849-7854, S7854-7860)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846, S7860-7861)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846, S7861-7862, S7863-7864, S7869-7870)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846, S7864, S7866-7869, S7870-7871)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846, S7864-7866)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846, S7869; text as modified: CR S7869)
+- 2007-06-19 — Considered by Senate. (consideration: CR S7846-7872, S7873-7879)
+- 2007-06-19 — Roll call votes on amendments in Senate: Amendment SA 1519 agreed to in Senate by Yea-Nay Vote. 70 - 23. Record Vote Number: 215.
+- 2007-06-19 — Roll call votes on amendments in Senate: Amendment SA 1610 not agreed to in Senate by Yea-Nay Vote. 37 - 56. Record Vote Number: 216.
+- 2007-06-19 — Roll call votes on amendments in Senate: Amendment SA 1614 not agreed to in Senate by Yea-Nay Vote. 33 - 61. Record Vote Number: 214.
+- 2007-06-19 — Roll call votes on amendments in Senate: Amendment SA 1628 not agreed to in Senate by Yea-Nay Vote. 39 - 55. Record Vote Number: 213.
+- 2007-06-19 — Senate amendment agreed to: Amendment SA 1519 agreed to in Senate by Yea-Nay Vote. 70 - 23. Record Vote Number: 215.
+- 2007-06-19 — Senate amendment agreed to: Amendment SA 1609 agreed to in Senate by Voice Vote.
+- 2007-06-19 — Senate amendment not agreed to: Amendment SA 1610 not agreed to in Senate by Yea-Nay Vote. 37 - 56. Record Vote Number: 216.
+- 2007-06-19 — Senate amendment not agreed to: Amendment SA 1614 not agreed to in Senate by Yea-Nay Vote. 33 - 61. Record Vote Number: 214.
+- 2007-06-19 — Senate amendment not agreed to: Amendment SA 1628 not agreed to in Senate by Yea-Nay Vote. 39 - 55. Record Vote Number: 213.
+- 2007-06-19 — Senate amendment proposed (on the floor): Amendment SA 1704 proposed by Senator Baucus to Amendment SA 1502.(consideration: CR S7871-7872)
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-19 — Senate amendment submitted
+- 2007-06-20 — Amendment SA 1528 agreed to in Senate by Unanimous Consent.
+- 2007-06-20 — Amendment SA 1528 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8010-8012; text: CR S8010) To improve the section relating to energy storage competitiveness.
+- 2007-06-20 — Amendment SA 1529 agreed to in Senate by Unanimous Consent.
+- 2007-06-20 — Amendment SA 1529 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8010-8012; text: CR S8010) To require the Administrator of General Services to submit an annual report to the Energy Information Agency.
+- 2007-06-20 — Amendment SA 1533 agreed to in Senate by Unanimous Consent.
+- 2007-06-20 — Amendment SA 1533 proposed by Senator Bingaman for Senator Menendez to Amendment SA 1502. (consideration: CR S8010-8012; text: CR S8010) To make the Commonwealth of Puerto Rico eligible for the Federal weatherization program.
+- 2007-06-20 — Amendment SA 1546 ruled out of order by the chair.
+- 2007-06-20 — Amendment SA 1551 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8010)
+- 2007-06-20 — Amendment SA 1551 proposed by Senator Bingaman for Senator Cantwell to Amendment SA 1502. (consideration: CR S8010-8012) To establish a standard for Federal agencies for the purchase of products that have standby power.
+- 2007-06-20 — Amendment SA 1666 proposed by Senator Inhofe to Amendment SA 1502. (consideration: CR S8033-8038, S8039, S8040-8041; text: CR S8034) To ensure agricultural equity with respect to the renewable fuels standard.
+- 2007-06-20 — Amendment SA 1666 ruled out of order by the chair.
+- 2007-06-20 — Amendment SA 1693 agreed to in Senate by Yea-Nay Vote. 58 - 34. Record Vote Number: 219.
+- 2007-06-20 — Amendment SA 1693 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8032-8033, S8039, S8039-8040; text: CR S8032-8033) To ensure that the renewable fuel standard does not harm the environment.
+- 2007-06-20 — Amendment SA 1718 proposed by Senator Gregg to Amendment SA 1704. (consideration: CR S8005-8010; text: CR S8005) To strike the provision extending the additional duty on ethanol and for other purposes.
+- 2007-06-20 — Amendment SA 1718 ruled out of order by the chair.
+- 2007-06-20 — Amendment SA 1733 proposed by Senator Kyl to Amendment SA 1502. To provide a condition precedent for the effective date of the revenue raisers.
+- 2007-06-20 — Amendment SA 1733 proposed by Senator Kyl to Amendment SA 1704. (consideration: CR S8042-8051; text: CR S8042)
+- 2007-06-20 — Amendment SA 1733 was modified to be a second degree amendment to SA 1704 by Unanimous Consent.
+- 2007-06-20 — Amendment SA 1800 not agreed to in Senate by Yea-Nay Vote. 45 - 49. Record Vote Number: 221.
+- 2007-06-20 — Amendment SA 1800 proposed by Senator Kyl to Amendment SA 1704. (consideration: CR S8025-8031, S8041-8042; text: CR S8025) To disallow the credit for renewable diesel for fuel that is coprocessed with petroleum.
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002, S8012-8021)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002, S8031-8032)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002-8005)
+- 2007-06-20 — Considered by Senate. (consideration: CR S8002-8021, S8022-8051)
+- 2007-06-20 — Motion to waive the Budget Act with respect to amendment SA 1546 rejected in Senate by Yea-Nay Vote. 37 - 55. Record Vote Number: 217.
+- 2007-06-20 — Motion to waive the Budget Act with respect to amendment SA 1666 rejected in Senate by Yea-Nay Vote. 31 - 63. Record Vote Number: 220.
+- 2007-06-20 — Motion to waive the Budget Act with respect to amendment SA 1718 rejected in Senate by Yea-Nay Vote. 36 - 56. Record Vote Number: 218.
+- 2007-06-20 — Point of order raised in Senate with respect to amendment SA 1546.
+- 2007-06-20 — Point of order raised in Senate with respect to amendment SA 1666.
+- 2007-06-20 — Point of order raised in Senate with respect to amendment SA 1718.
+- 2007-06-20 — Roll call votes on amendments in Senate: Amendment SA 1693 agreed to in Senate by Yea-Nay Vote. 58 - 34. Record Vote Number: 219.
+- 2007-06-20 — Roll call votes on amendments in Senate: Amendment SA 1800 not agreed to in Senate by Yea-Nay Vote. 45 - 49. Record Vote Number: 221.
+- 2007-06-20 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1546 rejected in Senate by Yea-Nay Vote. 37 - 55. Record Vote Number: 217.
+- 2007-06-20 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1666 rejected in Senate by Yea-Nay Vote. 31 - 63. Record Vote Number: 220.
+- 2007-06-20 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1718 rejected in Senate by Yea-Nay Vote. 36 - 56. Record Vote Number: 218.
+- 2007-06-20 — Senate amendment agreed to: Amendment SA 1528 agreed to in Senate by Unanimous Consent.
+- 2007-06-20 — Senate amendment agreed to: Amendment SA 1529 agreed to in Senate by Unanimous Consent.
+- 2007-06-20 — Senate amendment agreed to: Amendment SA 1533 agreed to in Senate by Unanimous Consent.
+- 2007-06-20 — Senate amendment agreed to: Amendment SA 1551 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8010)
+- 2007-06-20 — Senate amendment agreed to: Amendment SA 1693 agreed to in Senate by Yea-Nay Vote. 58 - 34. Record Vote Number: 219.
+- 2007-06-20 — Senate amendment not agreed to: Amendment SA 1800 not agreed to in Senate by Yea-Nay Vote. 45 - 49. Record Vote Number: 221.
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1528 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8010-8012; text: CR S8010)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1529 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8010-8012; text: CR S8010)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1533 proposed by Senator Bingaman for Senator Menendez to Amendment SA 1502.(consideration: CR S8010-8012; text: CR S8010)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1551 proposed by Senator Bingaman for Senator Cantwell to Amendment SA 1502.(consideration: CR S8010-8012)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1666 proposed by Senator Inhofe to Amendment SA 1502.(consideration: CR S8033-8038, S8039, S8040-8041; text: CR S8034)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1693 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8032-8033, S8039, S8039-8040; text: CR S8032-8033)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1718 proposed by Senator Gregg to Amendment SA 1704.(consideration: CR S8005-8010; text: CR S8005)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1733 proposed by Senator Kyl to Amendment SA 1704.(consideration: CR S8042-8051; text: CR S8042)
+- 2007-06-20 — Senate amendment proposed (on the floor): Amendment SA 1800 proposed by Senator Kyl to Amendment SA 1704.(consideration: CR S8025-8031, S8041-8042; text: CR S8025)
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-20 — Senate amendment submitted
+- 2007-06-21 — Amendment SA 1502 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1513 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8212)
+- 2007-06-21 — Amendment SA 1513 proposed by Senator Bingaman for Senator Murkowski to Amendment SA 1502. (consideration: CR S8206-8220) To amend the Alaska Natural Gas Pipeline Act to allow the Federal Coordinator for Alaska Natural Gas Transportation Projects to hire employees more efficiently.
+- 2007-06-21 — Amendment SA 1520 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8219-8220)
+- 2007-06-21 — Amendment SA 1520 proposed to amendment SA 1502 by Mr. Bingaman for Mr. Cardin by Unanimous Consent. (consideration: CR S8206-8220)
+- 2007-06-21 — Amendment SA 1520 ruled non-germane by the chair.
+- 2007-06-21 — Amendment SA 1525 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8215)
+- 2007-06-21 — Amendment SA 1525 proposed by Senator Bingaman for Senator Sanders to Amendment SA 1502. (consideration: CR S8206-8220) To require that not less than 30 percent of the hot water demand for certain new or substantially modified Federal buildings be met through the installation and use of solar hot water heaters.
+- 2007-06-21 — Amendment SA 1537 ruled non-germane by the chair.
+- 2007-06-21 — Amendment SA 1557 ruled non-germane by the chair.
+- 2007-06-21 — Amendment SA 1567 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8215)
+- 2007-06-21 — Amendment SA 1567 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8206-8220) To require the Secretary of Energy to establish a program to evaluate the cost-effectiveness of installing advanced insulation into commercial refrigerated trailers, refrigerators, freezers, and refrigerator-freezers.
+- 2007-06-21 — Amendment SA 1568 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8208)
+- 2007-06-21 — Amendment SA 1568 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8206-8220) To prevent supply disruptions from planned refinery outages.
+- 2007-06-21 — Amendment SA 1569 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1569 proposed by Senator Bingaman for Senator Domenici to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8208-8209) To provide an alternate sulfur dioxide removal measurement for certain coal gasification project goals.
+- 2007-06-21 — Amendment SA 1573 ruled non-germane by the chair.
+- 2007-06-21 — Amendment SA 1595 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8219)
+- 2007-06-21 — Amendment SA 1595 proposed by Senator Bingaman for Senator Kohl to Amendment SA 1502. (consideration: CR S8206-8220) To provide a set aside for small automobile manufacturers and component suppliers for awards under the advanced technology vehicles manufacturing incentive program.
+- 2007-06-21 — Amendment SA 1597 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8209)
+- 2007-06-21 — Amendment SA 1597 proposed by Senator Bingaman for Senator Inouye to Amendment SA 1502. (consideration: CR S8206-8220) To propose a study of the adequacy of transportation of domestically-produced renewable fuel by railroads and other modes of transportation, and for other purposes.
+- 2007-06-21 — Amendment SA 1602 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1602 proposed by Senator Bingaman for Senator Inhofe to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8210) To provide transitional assistance for farmers who plant dedicated energy crops for a local cellulosic refinery.
+- 2007-06-21 — Amendment SA 1608 ruled out of order by the chair.
+- 2007-06-21 — Amendment SA 1615 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8219)
+- 2007-06-21 — Amendment SA 1615 proposed by Mr. Bingaman for Ms. Collins to amendment SA 1502 by Unanimous Consent. (consideration: CR S8206-8220)
+- 2007-06-21 — Amendment SA 1615 ruled non-germane by the chair.
+- 2007-06-21 — Amendment SA 1624 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1624 proposed by Senator Bingaman for Senator Dole to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8209) To expand the scope of the applied research program on energy storage systems to include flow batteries.
+- 2007-06-21 — Amendment SA 1639 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1639 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8206) To make certain technical corrections to title III.
+- 2007-06-21 — Amendment SA 1660 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1660 proposed by Senator Bingaman for Senator Inhofe to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8210-8212) To modify sections to provide for the use of geothermal heat pumps.
+- 2007-06-21 — Amendment SA 1675 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1675 proposed by Senator Bingaman for Senator Menendez to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8214) To provide for a study on the effect of laws limiting the siting of privately owned electric distribution wires on the development of combined heat and power facilities.
+- 2007-06-21 — Amendment SA 1676 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8219)
+- 2007-06-21 — Amendment SA 1676 proposed by Senator Bingaman for Senator Brown to Amendment SA 1502. (consideration: CR S8206-8220) To establish a renewable energy innovation partnership program to support the development, demonstration, and deployment of systems and projects relating to renewable energy.
+- 2007-06-21 — Amendment SA 1677 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1677 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8206-8607) To improve the bill.
+- 2007-06-21 — Amendment SA 1679 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8219)
+- 2007-06-21 — Amendment SA 1679 proposed by Senator Bingaman for Senator Hutchison to Amendment SA 1502. (consideration: CR S8206-8220) To require the Secretary of Energy to enter into an arrangement with the National Academy of Sciences to assess the impact of the renewable fuel standard.
+- 2007-06-21 — Amendment SA 1683 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1683 proposed by Senator Bingaman for Senator Voinovich to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8212-8214) To implement the Convention on Supplementary Compensation for Nuclear Damage.
+- 2007-06-21 — Amendment SA 1687 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8214)
+- 2007-06-21 — Amendment SA 1687 proposed by Senator Bingaman for Senator Burr to Amendment SA 1502. (consideration: CR S8206-8220) To express the sense of Congress that the Department of Energy should be the lead United States Government agency in charge of formulating and coordinating the national energy security policy of the United States.
+- 2007-06-21 — Amendment SA 1688 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1688 proposed by Senator Bingaman for Senator Burr to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8214-8215) To require the President to submit to Congress an annual national energy security strategy report.
+- 2007-06-21 — Amendment SA 1689 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1689 proposed by Senator Bingaman for Senator Burr to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8215) To amend the National Security Act of 1947 to add the Secretary of Energy to the National Security Council in recognition of the role energy and energy security issues play in the United States national security.
+- 2007-06-21 — Amendment SA 1698 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1698 proposed by Senator Bingaman for Senator Cantwell to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8208) To modify the definition of renewable biomass.
+- 2007-06-21 — Amendment SA 1700 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8220)
+- 2007-06-21 — Amendment SA 1700 proposed by Senator Bingaman for Senator Collins to Amendment SA 1502. (consideration: CR S8206-8220) To provide for research support to facilitate the development of sustainable markets and technologies to produce and use woody biomass and other low-carbon fuels.
+- 2007-06-21 — Amendment SA 1702 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1702 proposed by Senator Bingaman for Senator Snowe to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8217) To authorize loans for renewable energy systems and energy efficiency projects under the Express Loan Program of the Small Business Administration.
+- 2007-06-21 — Amendment SA 1704 ruled non-germane by the chair.
+- 2007-06-21 — Amendment SA 1706 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8217-8219)
+- 2007-06-21 — Amendment SA 1706 proposed by Senator Bingaman for Senator Kerry to Amendment SA 1502. (consideration: CR S8206-8220) To establish a small business energy efficiency program, and for other purposes.
+- 2007-06-21 — Amendment SA 1710 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1710 proposed by Senator Bingaman for Senator Feingold to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8215) To clarify the purposes of the energy and environmental block grant program.
+- 2007-06-21 — Amendment SA 1717 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1717 proposed by Senator Bingaman for Senator Carper to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8215) To require the Secretary of the Interior, acting through the Director of the Minerals Management Service, to conduct a study to assess each offshore wind resource located in the region of the eastern outer Continental Shelf.
+- 2007-06-21 — Amendment SA 1724 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1724 proposed by Senator Bingaman for Senator Enzi to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8220) To modify the deadline by which the President is required to approve or disapprove a certain State petition.
+- 2007-06-21 — Amendment SA 1729 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8214)
+- 2007-06-21 — Amendment SA 1729 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8206-8220) To provide for the treatment of certain applications and requests.
+- 2007-06-21 — Amendment SA 1733 ruled out of order by the chair.
+- 2007-06-21 — Amendment SA 1759 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8215-8216)
+- 2007-06-21 — Amendment SA 1759 proposed by Senator Bingaman for Senator Wyden to Amendment SA 1502. (consideration: CR S8206-8220) To provide for a national assessment of carbon sequestration and methane and nitrous oxide emissions from terrestrial ecosystems.
+- 2007-06-21 — Amendment SA 1764 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8209)
+- 2007-06-21 — Amendment SA 1764 proposed by Senator Bingaman for Senator Akaka to Amendment SA 1502. (consideration: CR S8206-8220) To promote the development and use of marine and hydrokinetic renewable energy technologies.
+- 2007-06-21 — Amendment SA 1792 as modified agreed to in Senate by Voice Vote. (text as modified: CR S8181-8185)
+- 2007-06-21 — Amendment SA 1792 proposed by Senator Stevens to Amendment SA 1502. (consideration: CR S8181-8186) To provide for corporate average fuel economy (CAFE) standards.
+- 2007-06-21 — Amendment SA 1797 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S8216-8217)
+- 2007-06-21 — Amendment SA 1797 proposed by Senator Bingaman for Senator Cantwell to Amendment SA 1502. (consideration: CR S8206-8220) To modernize the electricity grid of the United States by catalyzing the production, use, and integration of technologies capable of communicating and recording valuable information relating to conditions of supply, consumer loads, and system performance.
+- 2007-06-21 — Amendment SA 1798 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1798 proposed by Senator Bingaman to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8207-8208) To make technical corrections.
+- 2007-06-21 — Amendment SA 1799 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Amendment SA 1799 proposed by Senator Bingaman for Senator Boxer to Amendment SA 1502. (consideration: CR S8206-8220; text: CR S8209-8210) To reduce emissions of carbon dioxide from the Capitol power plant.
+- 2007-06-21 — Cloture an amendment SA 1704 not invoked in Senate by Yea-Nay Vote. 57 - 36. Record Vote Number: 223. (consideration: CR S8175-8176; text: CR S8175)
+- 2007-06-21 — Cloture on amendment SA 1502 invoked in Senate by Yea-Nay Vote. 61 - 32. Record Vote Number: 224. (consideration: CR S8177; text: CR S8177)
+- 2007-06-21 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 62 - 32. Record Vote Number: 225. (consideration: CR S8220-8221; text: CR S8220)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166-8175)
+- 2007-06-21 — Considered by Senate. (consideration: CR S8166-8221)
+- 2007-06-21 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on amendmend SA 1704 (Record Vote Number 223) entered in Senate. (consideration: CR S8176)
+- 2007-06-21 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on amendment SA 1704 (Record Vote Number 223) withdrawn in Senate. (consideration: CR S8176)
+- 2007-06-21 — Motion to waive the Budget Act with respect to amendment SA 1733 rejected in Senate by Yea-Nay Vote. 38 - 55. Record Vote Number: 222.
+- 2007-06-21 — Passed Senate with an amendment by Yea-Nay Vote. 65 - 27. Record Vote Number: 226. (text: CR 6/26/2007 S8473-8519)
+- 2007-06-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 65 - 27. Record Vote Number: 226.(text: CR 6/26/2007 S8473-8519)
+- 2007-06-21 — Point of order raised in Senate with respect to amendment SA 1733.
+- 2007-06-21 — Roll call votes on amendments in Senate: Cloture an amendment SA 1704 not invoked in Senate by Yea-Nay Vote. 57 - 36. Record Vote Number: 223.(consideration: CR S8175-8176; text: CR S8175)
+- 2007-06-21 — Roll call votes on amendments in Senate: Cloture on amendment SA 1502 invoked in Senate by Yea-Nay Vote. 61 - 32. Record Vote Number: 224.(consideration: CR S8177; text: CR S8177)
+- 2007-06-21 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 1733 rejected in Senate by Yea-Nay Vote. 38 - 55. Record Vote Number: 222.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1502 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1513 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8212)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1520 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8219-8220)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1525 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8215)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1567 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8215)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1568 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8208)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1569 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1595 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8219)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1597 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8209)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1602 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1615 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8219)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1624 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1639 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1660 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1675 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1676 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8219)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1677 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1679 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8219)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1683 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1687 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8214)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1688 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1689 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1698 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1700 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8220)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1702 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1706 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8217-8219)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1710 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1717 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1724 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1729 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8214)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1759 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8215-8216)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1764 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8209)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1792 as modified agreed to in Senate by Voice Vote.(text as modified: CR S8181-8185)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1797 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S8216-8217)
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1798 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment agreed to: Amendment SA 1799 agreed to in Senate by Unanimous Consent.
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1513 proposed by Senator Bingaman for Senator Murkowski to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1525 proposed by Senator Bingaman for Senator Sanders to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1567 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1568 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1569 proposed by Senator Bingaman for Senator Domenici to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8208-8209)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1595 proposed by Senator Bingaman for Senator Kohl to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1597 proposed by Senator Bingaman for Senator Inouye to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1602 proposed by Senator Bingaman for Senator Inhofe to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8210)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1624 proposed by Senator Bingaman for Senator Dole to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8209)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1639 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8206)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1660 proposed by Senator Bingaman for Senator Inhofe to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8210-8212)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1675 proposed by Senator Bingaman for Senator Menendez to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8214)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1676 proposed by Senator Bingaman for Senator Brown to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1677 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8206-8607)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1679 proposed by Senator Bingaman for Senator Hutchison to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1683 proposed by Senator Bingaman for Senator Voinovich to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8212-8214)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1687 proposed by Senator Bingaman for Senator Burr to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1688 proposed by Senator Bingaman for Senator Burr to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8214-8215)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1689 proposed by Senator Bingaman for Senator Burr to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8215)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1698 proposed by Senator Bingaman for Senator Cantwell to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8208)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1700 proposed by Senator Bingaman for Senator Collins to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1702 proposed by Senator Bingaman for Senator Snowe to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8217)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1706 proposed by Senator Bingaman for Senator Kerry to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1710 proposed by Senator Bingaman for Senator Feingold to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8215)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1717 proposed by Senator Bingaman for Senator Carper to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8215)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1724 proposed by Senator Bingaman for Senator Enzi to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1729 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1759 proposed by Senator Bingaman for Senator Wyden to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1764 proposed by Senator Bingaman for Senator Akaka to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1792 proposed by Senator Stevens to Amendment SA 1502.(consideration: CR S8181-8186)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1797 proposed by Senator Bingaman for Senator Cantwell to Amendment SA 1502.(consideration: CR S8206-8220)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1798 proposed by Senator Bingaman to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8207-8208)
+- 2007-06-21 — Senate amendment proposed (on the floor): Amendment SA 1799 proposed by Senator Bingaman for Senator Boxer to Amendment SA 1502.(consideration: CR S8206-8220; text: CR S8209-8210)
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-21 — Senate amendment submitted
+- 2007-06-22 — Amendment SA 1867 agreed to in Senate by Unanimous Consent.
+- 2007-06-22 — Amendment SA 1867 proposed by Senator Reid for Senator Bingaman. (consideration: CR S8273; text: CR S8273) To amend the title.
+- 2007-06-22 — Measure amended in Senate by unanimous consent after passage. (consideration: CR S8273)
+- 2007-06-22 — Senate amendment agreed to: Amendment SA 1867 agreed to in Senate by Unanimous Consent.
+- 2007-06-22 — Senate amendment proposed (on the floor): Amendment SA 1867 proposed by Senator Reid for Senator Bingaman.(consideration: CR S8273; text: CR S8273)
+- 2007-06-22 — Senate amendment submitted
+- 2007-06-22 — Title to H.R.6 amended after passage.
+- 2007-06-25 — Senate ordered measure printed as passed.
+- 2007-06-26 — Message on Senate action sent to the House.
+- 2007-12-05 — Rules Committee Resolution H. Res. 846 Reported to House. Rule provides for consideration of H.R. 6.
+- 2007-12-06 — DEBATE - Pursuant to the provisions of H. Res. 846, the House proceeded with one hour of debate on the motion to agree to the Senate amendments with amendments.
+- 2007-12-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-06 — On motion that the House agree with amendments to the Senate amendments Agreed to by the Yeas and Nays: 235 - 181 (Roll no. 1140). (text as House agreed to Senate amendment: CR H14270-14424)
+- 2007-12-06 — Pursuant to the provisions of H. Res. 846, the House moved to agree with amendments to the Senate amendments. (consideration: CR H14270-14444)
+- 2007-12-06 — Resolving differences -- House actions: On motion that the House agree with amendments to the Senate amendments Agreed to by the Yeas and Nays: 235 - 181 (Roll no. 1140).(text as House agreed to Senate amendment: CR H14270-14424)
+- 2007-12-06 — The House resumed debate on the motion to agree to the Senate amendments to H.R. 6 with amendments.
+- 2007-12-06 — The previous question was ordered pursuant to the rule. (consideration: CR H14444)
+- 2007-12-07 — Cloture motion on the motion to agree to House amendments to Senate amendments presented in Senate. (consideration: CR S15004-15009; text: CR S15004)
+- 2007-12-07 — Cloture on the motion to agree to the House amendments to the Senate amendments not invoked in Senate by Yea-Nay Vote. 53 - 42. Record Vote Number: 416. (consideration: CR S15009; text: CR S15009)
+- 2007-12-07 — Message on House action received in Senate and at desk: House amendments to Senate amendments.
+- 2007-12-07 — Motion to agree to House amendments to Senate amendments made in Senate.
