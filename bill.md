@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2062
 congress: 110th CONGRESS
-session: 2d Session
+session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
