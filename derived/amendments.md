@@ -1,7 +1,7 @@
 ---
 measure: S. 2062
 congress: 110
-version: Reported to Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
