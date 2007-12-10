@@ -1,7 +1,7 @@
 ---
 measure: S. 2062
 congress: 110
-version: Reported to Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 2062
@@ -28,9 +28,10 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - Sen. Domenici, Pete V. [R-NM] (D000407)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2007-12-07 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-238.
 - 2007-12-07 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-238.
 - 2007-12-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.
+- 2007-12-10 — Referred to the Committee on Banking, Housing, and Urban Affairs pursuant to the order of May 27, 1988, for not to exceed 60 days.
