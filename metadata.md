@@ -1,7 +1,7 @@
 ---
 measure: S. 888
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 888
@@ -42,3 +42,11 @@ Genocide Accountability Act of 2007
 - 2007-03-30 — Message on Senate action sent to the House.
 - 2007-03-30 — Received in the House.
 - 2007-03-30 — Referred to the House Committee on the Judiciary.
+- 2007-04-20 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2007-12-05 — Cleared for White House.
+- 2007-12-05 — Considered under suspension of the rules. (consideration: CR H14203-14207)
+- 2007-12-05 — DEBATE - The House proceeded with forty minutes of debate on S. 888.
+- 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-05 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2007-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H14203)
+- 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H14203)
