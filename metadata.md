@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3986
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3986
@@ -31,3 +31,11 @@ John F. Kennedy Center Reauthorization Act of 2008
 - 2007-10-29 — Introduced in House
 - 2007-10-29 — Introduced in House
 - 2007-10-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-10-30 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-10-30 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-10-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-10-31 — Committee Consideration and Mark-up Session Held.
+- 2007-10-31 — Ordered to be Reported by Voice Vote.
+- 2007-12-10 — Placed on the Union Calendar, Calendar No. 296.
+- 2007-12-10 — Reported by the Committee on Transportation. H. Rept. 110-480.
+- 2007-12-10 — Reported by the Committee on Transportation. H. Rept. 110-480.
