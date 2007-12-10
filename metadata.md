@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 54
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 54
@@ -21,9 +21,10 @@ A concurrent resolution supporting the designation of a week as "National Cardio
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -34,3 +35,6 @@ A concurrent resolution supporting the designation of a week as "National Cardio
 - 2007-12-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S15000; text: CR S15000)
 - 2007-12-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
 - 2007-12-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2007-12-07 — Message on Senate action sent to the House.
+- 2007-12-10 — Received in the House.
+- 2007-12-10 — Referred to the House Committee on Oversight and Government Reform.
