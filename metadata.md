@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3739
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 3739
@@ -16,9 +16,10 @@ To amend the Arizona Water Settlements Act to modify the requirements for the st
 
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,16 @@ To amend the Arizona Water Settlements Act to modify the requirements for the st
 - 2007-12-11 — Placed on the Union Calendar, Calendar No. 299.
 - 2007-12-11 — Reported by the Committee on Natural Resources. H. Rept. 110-484.
 - 2007-12-11 — Reported by the Committee on Natural Resources. H. Rept. 110-484.
+- 2007-12-12 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2007-12-14 — Cleared for White House.
+- 2007-12-14 — Message on Senate action sent to the House.
+- 2007-12-14 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-14 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S15706)
+- 2007-12-14 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S15706)
+- 2007-12-19 — Presented to President.
+- 2007-12-19 — Presented to President.
+- 2007-12-21 — Became Public Law No: 110-148.
+- 2007-12-21 — Became Public Law No: 110-148.
+- 2007-12-21 — Signed by President.
+- 2007-12-21 — Signed by President.
