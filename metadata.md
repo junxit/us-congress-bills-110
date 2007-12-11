@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3541
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 3541
@@ -49,9 +49,10 @@ Do-Not-Call Improvement Act of 2007
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -71,3 +72,16 @@ Do-Not-Call Improvement Act of 2007
 - 2007-12-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-486.
 - 2007-12-11 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-486.
 - 2007-12-11 — The title of the measure was amended. Agreed to without objection.
+- 2007-12-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2008-02-06 — Cleared for White House.
+- 2008-02-06 — Passed Senate without amendment by Unanimous Consent.
+- 2008-02-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-02-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S750-751)
+- 2008-02-06 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S750-751)
+- 2008-02-07 — Message on Senate action sent to the House.
+- 2008-02-12 — Presented to President.
+- 2008-02-12 — Presented to President.
+- 2008-02-15 — Became Public Law No: 110-187.
+- 2008-02-15 — Became Public Law No: 110-187.
+- 2008-02-15 — Signed by President.
+- 2008-02-15 — Signed by President.
