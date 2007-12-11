@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 708
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 708
@@ -16,7 +16,7 @@ Honoring the life and accomplishments of Luciano Pavarotti and recognizing the s
 
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 
-## Cosponsors (17)
+## Cosponsors (31)
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
@@ -35,6 +35,20 @@ Honoring the life and accomplishments of Luciano Pavarotti and recognizing the s
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Tanner, John S. [D-TN-8] (T000038)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Costa, Jim [D-CA-20] (C001059)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
 
 ## Committees (1)
 
@@ -45,3 +59,9 @@ Honoring the life and accomplishments of Luciano Pavarotti and recognizing the s
 - 2007-10-02 — Introduced in House
 - 2007-10-02 — Introduced in House
 - 2007-10-02 — Referred to the House Committee on Foreign Affairs.
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15231-15233)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 708.
+- 2007-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-11 — Mr. Meeks (NY) moved to suspend the rules and agree to the resolution.
+- 2007-12-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H15232)
+- 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H15232)
