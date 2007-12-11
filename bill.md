@@ -2,12 +2,12 @@
 legis-num: H. RES. 695
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 695
 
-> Expressing the support for designation of a “National Fire Fighter Appreciation Day” to honor and celebrate the fire fighters of the United States.
+> Resolution expressing the support of the House of Representatives for the designation of a National Fire Fighter Appreciation Day to honor and celebrate the fire fighters of the United States.
 
 ## Preamble
 
@@ -18,7 +18,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 346 fire fighters and emergency personnel died while responding to the terrorist attacks that occurred on September 11, 2001;
 - Whereas fire fighters respond to more than 20,000,000 calls during a typical year;
 - Whereas fire fighters also provide emergency medical services, hazardous materials response, special rescue response, terrorism response, and life safety education;
-- Whereas, in 1922, President Harding declared the week of October 9 to be Fire Prevention Week; and
-- Whereas the second Tuesday in October is an appropriate day for the establishment of a National Fire Fighter Appreciation Day: Now, therefore, be it
+- Whereas, in 1922, President Harding first declared a Fire Prevention Week, and it is appropriate to continue this tradition by supporting the designation of a National Fire Fighter Appreciation Day: Now, therefore, be it
 
 That the House of Representatives supports the designation of a “National Fire Fighter Appreciation Day” to honor and celebrate the fire fighters of the United States.
