@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 264
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 264
@@ -22,9 +22,10 @@ Honoring the University of Hawaii for its 100 years of commitment to public high
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,9 @@ Honoring the University of Hawaii for its 100 years of commitment to public high
 - 2007-12-11 — Ms. Hirono moved to suspend the rules and agree to the resolution.
 - 2007-12-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H15241)
 - 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H15241)
+- 2007-12-12 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2007-12-17 — Message on Senate action sent to the House.
+- 2007-12-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2007-12-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2007-12-17 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S15791)
+- 2007-12-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S15791)
