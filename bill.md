@@ -7,4 +7,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3079
 
-> To amend the Joint Resolution Approving the Covenant to Establish a Commonwealth of the Northern Mariana Islands, and for other purposes.
+> To amend the joint resolution that approved the covenant establishing the Commonwealth of the Northern Mariana Islands, and for other purposes.
