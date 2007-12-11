@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 847
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 847
@@ -16,7 +16,7 @@ Recognizing the importance of Christmas and the Christian faith.
 
 - Rep. King, Steve [R-IA-5] (K000362)
 
-## Cosponsors (52)
+## Cosponsors (60)
 
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
@@ -70,13 +70,33 @@ Recognizing the importance of Christmas and the Christian faith.
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Davis, Geoff [R-KY-4] (D000603)
 - Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Burgess, Michael C. [R-TX-26] (B001248)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2007-12-11 — [House 110-1-1143](votes/house-110-1-1143.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (372–9)
 
 ## Actions
 
 - 2007-12-06 — Introduced in House
 - 2007-12-06 — Introduced in House
 - 2007-12-06 — Referred to the House Committee on Foreign Affairs.
+- 2007-12-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-11 — Considered as unfinished business. (consideration: CR H15274)
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15233-15234)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 847.
+- 2007-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-11 — Mr. Meeks (NY) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-12-11 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 372 - 9, 10 Present (Roll no. 1143). (text: CR H15233)
+- 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 372 - 9, 10 Present (Roll no. 1143).(text: CR H15233)
