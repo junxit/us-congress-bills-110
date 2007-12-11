@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2601
 congress: 110
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 2601
