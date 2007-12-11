@@ -18,10 +18,7 @@ Section 110 of division B of the Miscellaneous Appropriations Act, 2001 (114 Sta
   >   - **(I)** *San Gabriel Basin Water Quality Authority* The San Gabriel Basin Water Quality Authority shall be responsible for providing a 35 percent non-Federal match for Federal funds made available to the Authority under this Act.
   >   - **(II)** *Central Basin Municipal Water District* The Central Basin Municipal Water District shall be responsible for providing a 35 percent non-Federal match for Federal funds made available to the District under this Act.
 
-- **(2)** in subsection (a), by adding at the end the following:
-  > - **(4)** *Interest on funds in Restoration Fund* No amounts appropriated above the cumulative amount of $85,000,000 to the Restoration Fund under subsection (d)(1) shall be invested by the Secretary of the Treasury in interest-bearing securities of the United States.
-
-- **(3)** by amending subsection (d) to read as follows:
+- **(2)** by amending subsection (d) to read as follows:
   > - **(d)** *Authorization of appropriations*
   >   - **(1)** *In general* There is authorized to be appropriated to the Restoration Fund established under subsection (a) $146,200,000. Such funds shall remain available until expended.
   >   - **(2)** *Set-aside* Of the amounts appropriated under paragraph (1), no more than $21,200,000 shall be made available to carry out the Central Basin Water Quality Project.
