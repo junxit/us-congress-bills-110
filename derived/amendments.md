@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3739
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
