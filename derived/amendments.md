@@ -1,7 +1,7 @@
 ---
 measure: H.R. 123
 congress: 110
-version: Reference Change House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 110(d)(1) of division B of the Miscellaneous Appropriations Act, 2001 (114 Stat. 2763A–223), as enacted into law by section 1(a)(4) of the Consolidated Appropriations Act, 2001 (Public Law 106–554), is amended by striking “$85,00… | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a)(3)(B), by inserting after clause (iii) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a), by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
