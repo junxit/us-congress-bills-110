@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4341
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4341
@@ -25,3 +25,10 @@ To extend the trade adjustment assistance program under the Trade Act of 1974 fo
 - 2007-12-10 — Introduced in House
 - 2007-12-10 — Introduced in House
 - 2007-12-10 — Referred to the House Committee on Ways and Means.
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15269-15270)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4341.
+- 2007-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-11 — Mr. Levin moved to suspend the rules and pass the bill.
+- 2007-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H15269)
+- 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H15269)
+- 2007-12-11 — Received in the Senate.

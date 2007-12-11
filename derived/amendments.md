@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4341
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `and $4,000,000` |
 | Inserted | `$4,000,000` |
 
-### 19 U.S.C. § 2317
+### 19 U.S.C. § 2401g
 
 > by striking “, and there are authorized” and inserting “. There are authorized”; and
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `, and there are authorized` |
 | Inserted | `. There are authorized` |
 
-### 19 U.S.C. § 2317
+### 19 U.S.C. § 2271
 
 > Section 285 of the Trade Act of 1974 (19 U.S.C. 2271 note) is amended by striking “December 31, 2007” each place it appears and inserting “March 31, 2008”.
 
@@ -79,4 +79,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `19 U.S.C. § 2346` | insert | by inserting after “October 1, 2007,” the following: “and $4,000,000 for the 3-month period beginning on January 1, 2008,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2317` | amend | by adding at the end the following: “There are authorized to be appropriated and there are appropriated to the Department of Agriculture to carry out this chapter $9,000,000 for the 3-month period beginning on January 1, 2008.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2401g` | add-at-end | by adding at the end the following: “There are authorized to be appropriated and there are appropriated to the Department of Agriculture to carry out this chapter $9,000,000 for the 3-month period beginning on January 1, 2008.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
