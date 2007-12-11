@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 853
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 853
@@ -16,7 +16,7 @@ Honoring those who have volunteered to assist in the cleanup of the November 7, 
 
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
@@ -30,6 +30,7 @@ Honoring those who have volunteered to assist in the cleanup of the November 7, 
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
 - Rep. Thompson, Mike [D-CA-1] (T000460)
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
 
 ## Committees (1)
 
@@ -40,3 +41,10 @@ Honoring those who have volunteered to assist in the cleanup of the November 7, 
 - 2007-12-10 — Introduced in House
 - 2007-12-10 — Introduced in House
 - 2007-12-10 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15259-15261)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 853.
+- 2007-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-11 — Mrs. Tauscher moved to suspend the rules and agree to the resolution.
+- 2007-12-11 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H15259)
+- 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H15259)
+- 2007-12-11 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
