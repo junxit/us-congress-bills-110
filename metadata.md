@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 842
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 842
@@ -16,7 +16,7 @@ Expressing sympathy to and pledging the support of the House of Representatives 
 
 - Rep. Rothman, Steven R. [D-NJ-9] (R000462)
 
-## Cosponsors (22)
+## Cosponsors (29)
 
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
@@ -40,6 +40,13 @@ Expressing sympathy to and pledging the support of the House of Representatives 
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
 
 ## Committees (1)
 
@@ -50,3 +57,11 @@ Expressing sympathy to and pledging the support of the House of Representatives 
 - 2007-12-04 — Introduced in House
 - 2007-12-04 — Introduced in House
 - 2007-12-04 — Referred to the House Committee on Foreign Affairs.
+- 2007-12-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-11 — Considered as unfinished business. (consideration: CR H15273-15274)
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15230-15231)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 842.
+- 2007-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-11 — Mr. Meeks (NY) moved to suspend the rules and agree to the resolution, as amended.
+- 2007-12-11 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 1142). (text: CR H15230)
+- 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 1142).(text: CR H15230)
