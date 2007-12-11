@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1413
 
-> To direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to address vulnerabilities in aviation security by carrying out a pilot program to screen airport workers with access to secure and sterile areas of airports, and for other purposes.
+> To direct the Assistant Secretary of Homeland Security (Transportation Security Administration) to address vulnerabilities in aviation security by carrying out a pilot program to screen airport workers with access to secure and sterile areas of airports.
 
 ## § 1. Enhanced perimeter security and access control through comprehensive screening of airport workers
 
