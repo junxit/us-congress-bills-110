@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3541
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 6101` | add-at-end | The Do-Not-Call Implementation Act (15 U.S.C. 6101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6101` | insert | in section 3, after the first sentence, by inserting the following: “Such rule shall not provide any date of expiration for telephone numbers registered on the do-not-call registry, nor for any predetermined time limitation for telephone… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The Do-Not-Call Implementation Act (15 U.S.C. 6101 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
