@@ -1,7 +1,7 @@
 ---
 measure: S. 793
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 793
@@ -16,7 +16,7 @@ Traumatic Brain Injury Act of 2008
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
@@ -37,6 +37,7 @@ Traumatic Brain Injury Act of 2008
 - Sen. Enzi, Michael B. [R-WY] (E000285)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Salazar, Ken [D-CO] (S001163)
 
 ## Committees (1)
 
@@ -51,3 +52,12 @@ Traumatic Brain Injury Act of 2008
 - 2007-08-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. With written report No. 110-140.
 - 2007-08-01 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. With written report No. 110-140.
 - 2007-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 317.
+- 2007-12-11 — Amendment SA 3831 agreed to in Senate by Unanimous Consent.
+- 2007-12-11 — Amendment SA 3831 proposed by Senator Reid for Senator Kennedy. (consideration: CR S15154) In the nature of a substitute.
+- 2007-12-11 — Measure laid before Senate by unanimous consent. (consideration: CR S15152-15154; text of measure as reported in Senate: CR S15152-15153)
+- 2007-12-11 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-12-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-12-11 — Senate amendment agreed to: Amendment SA 3831 agreed to in Senate by Unanimous Consent.
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3831 proposed by Senator Reid for Senator Kennedy.(consideration: CR S15154)
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-11 — The committee substitute as amended agreed to by Unanimous Consent.
