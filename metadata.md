@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4009
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4009
@@ -42,3 +42,11 @@ To designate the facility of the United States Postal Service located at 567 Wes
 - 2007-10-30 — Introduced in House
 - 2007-10-30 — Introduced in House
 - 2007-10-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-11-08 — Committee Consideration and Mark-up Session Held.
+- 2007-11-08 — Ordered to be Reported by Voice Vote.
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15244-15245)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4009.
+- 2007-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-11 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2007-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H15244-15245)
+- 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H15244-15245)
