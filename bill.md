@@ -47,3 +47,7 @@ This Act may be cited as the “Child Soldiers Accountability Act of 2007”.
 
 - **(c)** *Ground of removability for recruiting or using child soldiers* Section 237(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(4)) is amended by adding at the end the following:
   > - **(F)** *Recruitment or use of child soldiers* Any alien described in section 212(a)(3)(G) is deportable.
+
+- **(d)** *Withholding of removal* Section 241(b)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)(B)) is amended by adding at the end the following: “For purposes of clause (iii), an alien who is removable under section 237(a)(4)(F) or inadmissible under section 212(a)(3)(G) shall be considered an alien with respect to whom there are serious reasons to believe that the alien committed a serious nonpolitical crime.”.
+- **(e)** *Asylum* Section 208(b)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1158(b)(2)(B) is amended by adding at the end the following:
+  > - **(iii)** *Recruitment and use of child soldiers* For purposes of clause (iii) of subparagraph (A), an alien who is removable under section 237(a)(4)(F) or inadmissible under section 212(a)(3)(G) shall be considered an alien with respect to whom there are serious reasons to believe that the alien committed a serious nonpolitical crime.
