@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4009
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4009
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 567 Wes
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Walberg, Timothy [R-MI-7] (W000798)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,16 @@ To designate the facility of the United States Postal Service located at 567 Wes
 - 2007-12-11 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2007-12-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H15244-15245)
 - 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H15244-15245)
+- 2007-12-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S16055)
+- 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S16055)
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2007-12-20 — Presented to President.
+- 2007-12-20 — Presented to President.
+- 2007-12-26 — Became Public Law No: 110-167.
+- 2007-12-26 — Became Public Law No: 110-167.
+- 2007-12-26 — Signed by President.
+- 2007-12-26 — Signed by President.
