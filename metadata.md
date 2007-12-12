@@ -1,7 +1,7 @@
 ---
 measure: S. 597
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 597
@@ -111,3 +111,14 @@ A bill to amend title 39, United States Code, to extend the authority of the Uni
 - 2007-11-14 — Senate amendment proposed (on the floor): Amendment SA 3678 proposed by Senator Durbin for Senator Feinstein.(consideration: CR S14416; text: CR S14416)
 - 2007-11-14 — Senate amendment submitted
 - 2007-11-14 — Senate amendment submitted
+- 2007-11-15 — Held at the desk.
+- 2007-11-15 — Message on Senate action sent to the House.
+- 2007-11-15 — Received in the House.
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15248-15249)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on S. 597.
+- 2007-12-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-11 — Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.
+- 2007-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H15248)
+- 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H15248)
+- 2007-12-11 — The title of the measure was amended. Agreed to without objection.
+- 2007-12-12 — Message on House action received in Senate and at desk: House amendments to Senate bill.
