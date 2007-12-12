@@ -1,7 +1,7 @@
 ---
 measure: H.R. 797
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 797
@@ -111,3 +111,14 @@ Dr. James Allen Veteran Vision Equity Act of 2007
 - 2007-03-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 175).(text: CR H2778-2779)
 - 2007-03-21 — The title of the measure was amended. Agreed to without objection.
 - 2007-03-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2007-11-02 — Measure laid before Senate by unanimous consent. (consideration: CR S13736)
+- 2007-11-02 — Message on Senate action sent to the House.
+- 2007-11-02 — Passed Senate with an amendment by Unanimous Consent.
+- 2007-11-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2007-11-02 — See also S. 1163.
+- 2007-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2007-11-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2007-11-02 — Senate struck all after the Enacting Clause and substituted the language of S.1163 as amended.
+- 2007-12-11 — House agreed to Senate amendment with amendments pursuant to H. Res. 855.
+- 2007-12-11 — Resolving differences -- House actions: House agreed to Senate amendment with amendments pursuant to H. Res. 855.
+- 2007-12-12 — Message on House action received in Senate and at desk: House amendments to Senate amendment.
