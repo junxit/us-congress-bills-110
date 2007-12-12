@@ -42,7 +42,7 @@ In this Act:
 - **(9)** *Person* The term person means—
   - **(A)** a natural person, corporation, company, business association, partnership, society, trust, any other nongovernmental entity, organization, or group;
   - **(B)** any governmental entity or instrumentality of a government, including a multilateral development institution (as defined in section 1701(c)(3) of the International Financial Institutions Act (22 U.S.C. 262r(c)(3))); and
-  - **(C)** any successor, subunit, or subsidiary of any entity described in subparagraph (A) or (B).
+  - **(C)** any successor, subunit, parent company or subsidiary of any entity described in subparagraph (A) or (B).
 - **(10)** *Power production activities* The term power production activities means any business operation that involves a project commissioned by the National Electricity Corporation of Sudan or other similar entity of the Government of Sudan whose purpose is to facilitate power generation and delivery, including establishing power-generating plants or hydroelectric dams, selling or installing components for the project, or providing service contracts related to the installation or maintenance of the project.
 - **(11)** *State* The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 - **(12)** *State or local government* The term State or local government includes—
@@ -50,12 +50,6 @@ In this Act:
   - **(B)** any local government within a State, and any agency or instrumentality thereof;
   - **(C)** any other governmental instrumentality; and
   - **(D)** any public institution of higher education within the meaning of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
-- **(13)** *Significant humanitarian efforts* The term significant humanitarian efforts means—
-  - **(A)** efforts—
-    - **(i)** undertaken in conjunction with an international development or humanitarian organization, the regional government of southern Sudan, or a nonprofit entity;
-    - **(ii)** that are substantial in relationship to the size and scope of the business operations with respect to Sudan; and
-    - **(iii)** that benefit 1 or more mar­gin­al­ized populations of Sudan; or
-  - **(B)** materially improving conditions for the marginalized population in Darfur.
 
 ## § 3. Authority of State and local governments to divest from certain companies directly invested in certain Sudanese sectors
 
@@ -69,19 +63,20 @@ In this Act:
     - **(B)** are conducted under a license from the Office of Foreign Assets Control, or are expressly exempted under Federal law from the requirement to be conducted under such a license;
     - **(C)** consist of providing goods or services to marginalized populations of Sudan;
     - **(D)** consist of providing goods or services to an internationally recognized peacekeeping force or humanitarian organization;
-    - **(E)** consist of providing goods or services that are used only to promote health or education;
-    - **(F)** are conducted by a person that has also undertaken significant humanitarian efforts; or
-    - **(G)** have been voluntarily suspended.
+    - **(E)** consist of providing goods or services that are used only to promote health or education; or
+    - **(F)** have been voluntarily suspended.
 - **(e)** *Requirements* Any measure taken by a State or local government under subsection (b) shall meet the following requirements:
   - **(1)** *Notice* The State or local government shall provide written notice and an opportunity to comment in writing to each person to whom a measure is to be applied.
   - **(2)** *Timing* The measure shall apply to a person not earlier than the date that is 90 days after the date on which written notice is provided to the person under paragraph (1).
+  - **(3)** *Applicability* The measure shall not apply to a person that demonstrates to the State or local government that the person does not conduct or have direct investments in business operations described in subsection (d).
+  - **(4)** *Sense of Congress on avoiding erroneous targeting* It is the sense of Congress that a State or local government should not adopt a measure under subsection (b) with respect to a person unless the State or local government has made every effort to avoid erroneously targeting the person and has verified that the person conducts or has direct investments in business operations described in subsection (d).
 - **(f)** *Definitions* In this section:
   - **(1)** *Investment* The investment of assets, with respect to a State or local government, includes—
     - **(A)** a commitment or contribution of assets;
     - **(B)** a loan or other extension of credit of assets; and
     - **(C)** the entry into or renewal of a contract for goods or services.
   - **(2)** *Assets*
-    - **(A)** *In general* Except as provided in subparagraph (B), the term assets refers to public monies and includes any pension, retirement, annuity, or endowment fund, or similar instrument, that is controlled, directly or indirectly, by a State or local government.
+    - **(A)** *In general* Except as provided in subparagraph (B), the term assets refers to public monies and includes any pension, retirement, annuity, or endowment fund, or similar instrument, that is controlled by a State or local government.
     - **(B)** *Exception* The term assets does not include employee benefit plans covered by title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.).
 - **(g)** *Nonpreemption* A measure of a State or local government authorized under subsection (b) is not preempted by any Federal law or regulation.
 - **(h)** *Effective date*
@@ -116,12 +111,11 @@ It is the sense of Congress that a fiduciary of an employee benefit plan, as def
   - **(3)** *Suspension and debarment* The head of an executive agency may debar or suspend a contractor from eligibility for Federal contracts upon the determination of a false certification under paragraph (1). The debarment period may not exceed 3 years.
   - **(4)** *Inclusion on List of Parties Excluded from Federal Procurement and Nonprocurement Programs* The Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation issued under section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421) each contractor that is debarred, suspended, proposed for debarment or suspension, or declared ineligible by the head of an executive agency on the basis of a determination of a false certification under paragraph (1).
   - **(5)** *Rule of construction* This section shall not be construed to limit the use of other remedies available to the head of an executive agency or any other official of the Federal Government on the basis of a determination of a false certification under paragraph (1).
-- **(c)** *Exception for procurement of certain products* The certification requirement under subsection (a) does not apply to contracts for the procurement of eligible products (as that term is defined in section 308(4) of the Trade Agreements Act of 1979 (19 U.S.C. 2518(4)) of any foreign country or instrumentality designated under section 301(b)(1) of such Act (19 U.S.C. 2511(b)(1)).
-- **(d)** *Waiver*
+- **(c)** *Waiver*
   - **(1)** *In general* The President may waive the requirement of subsection (a) on a case-by-case basis if the President determines and certifies in writing to the appropriate congressional committees that it is in the national interest to do so.
   - **(2)** *Reporting requirement* Not later than April 15, 2008, and semi-annually thereafter, the Administrator for Federal Procurement Policy shall submit to the appropriate congressional committees a report on waivers granted under paragraph (1).
-- **(e)** *Implementation through the Federal Acquisition Regulation* Not later than 120 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued pursuant to section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421) to provide for the implementation of the requirements of this section.
-- **(f)** *Report* Not later than one year after the date the Federal Acquisition Regulation is amended under subsection (e) to implement the requirements of this section, the Administrator of General Services, with the assistance of other executive agencies, shall submit to the Office of Management and Budget and the appropriate congressional committees a report on the actions taken under this section.
+- **(d)** *Implementation through the Federal Acquisition Regulation* Not later than 120 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation issued pursuant to section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421) to provide for the implementation of the requirements of this section.
+- **(e)** *Report* Not later than one year after the date the Federal Acquisition Regulation is amended under subsection (e) to implement the requirements of this section, the Administrator of General Services, with the assistance of other executive agencies, shall submit to the Office of Management and Budget and the appropriate congressional committees a report on the actions taken under this section.
 
 ## § 7. Sense of Congress on efforts by other countries
 
