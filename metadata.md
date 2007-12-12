@@ -1,7 +1,7 @@
 ---
 measure: S. 1245
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1245
@@ -36,3 +36,5 @@ A bill to reform mutual aid agreements for the National Capital Region.
 - 2007-12-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-237.
 - 2007-12-06 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-237.
 - 2007-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 525.
+- 2007-12-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S15373; text as passed Senate: CR S15373)
+- 2007-12-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S15373; text as passed Senate: CR S15373)
