@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4252
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4252
@@ -31,3 +31,8 @@ To provide for an additional temporary extension of programs under the Small Bus
 - 2007-12-05 — Ms. Velazquez moved to suspend the rules and pass the bill.
 - 2007-12-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H14223)
 - 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H14223)
+- 2007-12-06 — Received in the Senate, read twice.
+- 2007-12-07 — Cleared for White House.
+- 2007-12-07 — Message on Senate action sent to the House.
+- 2007-12-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S15037)
+- 2007-12-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S15037)
