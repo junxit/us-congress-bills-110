@@ -1,7 +1,7 @@
 ---
 measure: S. 793
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 793
@@ -39,9 +39,10 @@ Traumatic Brain Injury Act of 2008
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Salazar, Ken [D-CO] (S001163)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -61,3 +62,7 @@ Traumatic Brain Injury Act of 2008
 - 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3831 proposed by Senator Reid for Senator Kennedy.(consideration: CR S15154)
 - 2007-12-11 — Senate amendment submitted
 - 2007-12-11 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2007-12-12 — Message on Senate action sent to the House.
+- 2007-12-12 — Received in the House.
+- 2007-12-12 — Referred to the House Committee on Energy and Commerce.
+- 2007-12-12 — Referred to the Subcommittee on Health.
