@@ -1,7 +1,7 @@
 ---
 measure: S. 1916
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1916
@@ -16,10 +16,11 @@ Chimp Haven is Home Act
 
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Chimp Haven is Home Act
 
 - 2007-08-01 — Introduced in Senate
 - 2007-08-01 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2007-11-14 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2007-12-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-12-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
+- 2007-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.
