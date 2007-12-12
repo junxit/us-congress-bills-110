@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4299
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-66 amendatory instructions. 10 executed, 56 stated and not applied.
+66 amendatory instructions. 11 executed, 55 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -114,6 +114,15 @@ to guess them.
 | Removed | `Any` |
 | Inserted | `Subject to paragraph (7)(G), any` |
 
+### 15 U.S.C. § 6701
+
+> Section 103(e)(1)(B)(ii) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “$100,000,000” and inserting “$50,000,000”.
+
+| | |
+|---|---|
+| Removed | `$100,000,000` |
+| Inserted | `$50,000,000` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -131,14 +140,14 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6701` | insert | in section 103(e)(6)(E), by inserting “and any Program Year thereafter” after “Year 5”. | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6701` | strike | by striking “(until such time as the Congress may act otherwise with respect to such losses)”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 6701` | insert | in subparagraph (B), by inserting before the period at the end “, except that, notwithstanding paragraph (1) or any other provision of Federal or State law, no insurer may be required to make any payment for insured losses in excess of i… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 6701` | amend | by adding at the end the following: “The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will excee… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | add-at-end | by adding at the end the following: “The Secretary shall provide an initial notice to Congress not later than 15 days after the date of an act of terrorism, stating whether the Secretary estimates that aggregate insured losses will excee… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | replace | by striking “and the Congress shall” and all that follows through the end of the paragraph and inserting a period. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 6701` | replace | by striking “For purposes” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 6701` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | in subparagraph (C), by inserting “133 percent of” before “any mandatory recoupment”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 6701` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | in subparagraph (D)(ii), by inserting before the period at the end “, in accordance with the timing requirements of paragraph (7)(E)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | add-at-end | Section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | add-at-end | Section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -167,15 +176,14 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6701` | insert | in clause (i), by inserting “applicable” before “insurance”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6701` | insert | in the heading, by inserting “applicable” before “insurance”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6701` | insert | by inserting “applicable” before “insurance”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 6701` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | in clause (i), by inserting “and group life insurance policies” after “policies”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6701` | replace | by striking clause (iii) and inserting the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | insert | by inserting “with respect to property and casualty insurance,” after “annual basis,”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 6701` | insert | by inserting before the period at the end the following: “and, with respect to group life insurance, the amount equal to 0.0053 percent of the amount at risk for covered lines under the policy”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 6701` | replace | in subparagraph (G), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 6701` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | replace | in clause (ii), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | amend | by adding after and below clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | add-at-end | Section 103(c) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 103(e)(1)(B)(ii) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “$100,000,000” and inserting “$50,000,000”. | the bill names no machine-readable US Code section |
