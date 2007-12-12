@@ -1,7 +1,7 @@
 ---
 measure: S. 1429
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1429
@@ -31,3 +31,7 @@ A bill to amend the Safe Drinking Water Act to reauthorize the provision of tech
 
 - 2007-05-17 — Introduced in Senate
 - 2007-05-17 — Read twice and referred to the Committee on Environment and Public Works.
+- 2007-07-31 — Committee on Environment and Public Works. Ordered to be reported with amendments favorably.
+- 2007-12-12 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 110-242.
+- 2007-12-12 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 110-242.
+- 2007-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 534.

@@ -1,7 +1,7 @@
 ---
 measure: S. 1429
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1442(e) of the Safe Drinking Water Act (42 U.S.C. 300j–1(e)) is amended in the fifth sentence by striking “1997 through 2003” and inserting “2008 through 2012”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1442(e) of the Safe Drinking Water Act (42 U.S.C. 300j–1(e)) is amended in the fifth sentence by striking “1997 through 2003” and inserting “2008 through 2012”.striking “1997 through 2003.” and inserting the following: “2008 thro… | the bill names no machine-readable US Code section |
