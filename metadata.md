@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 269
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 269
@@ -25,3 +25,6 @@ Directing the Clerk of the House of Representatives to correct the enrollment of
 - 2007-12-12 — On agreeing to the resolution Agreed to without objection. (text: CR H15353)
 - 2007-12-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H15353)
 - 2007-12-12 — Received in the Senate.
+- 2007-12-14 — Message on Senate action sent to the House.
+- 2007-12-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S15619)
+- 2007-12-14 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S15619)
