@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3985
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3985
@@ -26,6 +26,10 @@ Over-the-Road Bus Transportation Accessibility Act of 2007
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2007-12-12 — [House 110-1-1155](votes/house-110-1-1155.md) — On Motion to Suspend the Rules and Pass — **Passed** (374–0)
+
 ## Actions
 
 - 2007-10-29 — Introduced in House
@@ -36,3 +40,11 @@ Over-the-Road Bus Transportation Accessibility Act of 2007
 - 2007-11-15 — Placed on the Union Calendar, Calendar No. 279.
 - 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-456.
 - 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-456.
+- 2007-12-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-11 — Considered under suspension of the rules. (consideration: CR H15256-15257)
+- 2007-12-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3985.
+- 2007-12-11 — Mr. Oberstar moved to suspend the rules and pass the bill.
+- 2007-12-12 — Considered as unfinished business. (consideration: CR H15391-15392)
+- 2007-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-12 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 1155). (text: CR 12/11/2007 H15256)
+- 2007-12-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 1155).(text: CR 12/11/2007 H15256)
