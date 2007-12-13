@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1858
@@ -51,3 +51,12 @@ Newborn Screening Saves Lives Act of 2007
 - 2007-12-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2007-12-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2007-12-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.
+- 2007-12-13 — Amendment SA 3852 agreed to in Senate by Unanimous Consent.
+- 2007-12-13 — Amendment SA 3852 proposed by Senator Harkin for Senator Dodd. (consideration: CR S15574) In the nature of a substitute.
+- 2007-12-13 — Measure laid before Senate by unanimous consent. (consideration: CR S15572-15577; text of measure as reported in Senate: CR S15572-15574)
+- 2007-12-13 — Passed Senate with an amendment by Unanimous Consent. (text: CR S15574-15576)
+- 2007-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S15574-15576)
+- 2007-12-13 — Senate amendment agreed to: Amendment SA 3852 agreed to in Senate by Unanimous Consent.
+- 2007-12-13 — Senate amendment proposed (on the floor): Amendment SA 3852 proposed by Senator Harkin for Senator Dodd.(consideration: CR S15574)
+- 2007-12-13 — Senate amendment submitted
+- 2007-12-13 — The committee substitute as amended agreed to by Unanimous Consent.
