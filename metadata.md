@@ -1,7 +1,7 @@
 ---
 measure: S. 1585
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1585
@@ -29,3 +29,7 @@ A bill to designate the Department of Veterans Affairs Outpatient Clinic in Tuls
 - 2007-06-11 — Introduced in Senate
 - 2007-06-11 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S7454)
 - 2007-06-11 — Sponsor introductory remarks on measure. (CR S7454)
+- 2007-12-13 — Passed Senate without amendment by Unanimous Consent. (text: CR S15572)
+- 2007-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S15572)
+- 2007-12-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S15572)
+- 2007-12-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S15572)
