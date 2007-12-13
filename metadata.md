@@ -1,7 +1,7 @@
 ---
 measure: S. 1916
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1916
@@ -34,3 +34,5 @@ Chimp Haven is Home Act
 - 2007-12-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2007-12-12 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2007-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.
+- 2007-12-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S15568-15569; text of measure as reported in Senate: CR S15569; text as passed Senate: CR S15569)
+- 2007-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S15568-15569; text of measure as reported in Senate: CR S15569; text as passed Senate: CR S15569)
