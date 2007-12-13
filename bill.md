@@ -9,7 +9,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To amend the Public Health Service Act to modify the program for the sanctuary system for surplus chimpanzees by terminating the authority for the removal of chimpanzees from the system for research purposes.
 
-## § 1. Sanctuary system for surplus chimpanzees; termination of authority for removal from system for research purposes
+## § 1. Short title
+
+This Act may be cited as the “Chimp Haven is Home Act”.
+
+## § 2. Sanctuary system for surplus chimpanzees; termination of authority for removal from system for research purposes
 
 - **(a)** *In general* The first section 481C of the Public Health Service Act (42 U.S.C. 287a–3a) (added by section 2 of Public Law 106–551) is amended in subsection (d)—
   - **(1)** in paragraph (2), in subparagraph (J), by striking “If any chimpanzee is removed” and all that follows; and
