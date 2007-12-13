@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 4542
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4542
+
+> To repeal the provision of title 46, United States Code, requiring a license for employment in the business of salvaging on the coast of Florida.
+
+## § 1. Repeal of requirement of license for employment in the business of salvaging on the coast of Florida
+
+Chapter 801 of title 46, United States Code, is amended—
+
+- **(1)** by striking section 80102; and
+- **(2)** in the table of sections at the beginning of the chapter by striking the item relating to that section.
