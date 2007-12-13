@@ -1,7 +1,7 @@
 ---
 measure: S. 2271
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 80a-29` | add-at-end | Section 13 of the Investment Company Act of 1940 (15 U.S.C. 80a–13) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 80a-13` | add-at-end | Section 13 of the Investment Company Act of 1940 (15 U.S.C. 80a–13) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Section 6305 of the U.S. Troop Readiness, Veterans' Care, Katrina Recovery, and Iraq Accountability Appropriations Act, 2007 (Public Law 110–28; 121 Stat. 172) is repealed. | the bill names no machine-readable US Code section |
