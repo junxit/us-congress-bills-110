@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4343
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4343
@@ -43,3 +43,13 @@ Fair Treatment for Experienced Pilots Act
 - 2007-12-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 1144). (text: CR H15252)
 - 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 1144).(text: CR H15252)
 - 2007-12-11 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-12-12 — Cleared for White House.
+- 2007-12-12 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S15373)
+- 2007-12-12 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S15373)
+- 2007-12-13 — Became Public Law No: 110-135.
+- 2007-12-13 — Became Public Law No: 110-135.
+- 2007-12-13 — Message on Senate action sent to the House.
+- 2007-12-13 — Presented to President.
+- 2007-12-13 — Presented to President.
+- 2007-12-13 — Signed by President.
+- 2007-12-13 — Signed by President.
