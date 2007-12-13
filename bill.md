@@ -38,7 +38,7 @@ Section 402 of the Missing Children’s Assistance Act (42 U.S.C. 5771) is amend
 - **(a)** *In general* Section 404(b) of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)) is amended—
   - **(1)** striking paragraph (3); and
   - **(2)** redesignating paragraph (4) as paragraph (3).
-- **(b)** *Annual grant to the national center for missing and exploited children* Section 404(b)(1) of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)(1)) is amended to read as follows:
+- **(b)** Annual grant to the national center for missing and exploited children.—Section 404(b)(1) of the Missing Children’s Assistance Act (42 U.S.C. 5773(b)(1)) is amended to read as follows:
   > - **(1)** *In general* The Administrator shall annually make a grant to the Center, which shall be used to—
   >   - **(A)**
   >     - **(i)** operate a national 24-hour toll-free telephone line by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child's legal custodian; and
