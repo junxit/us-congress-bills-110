@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 69
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 69
@@ -52,3 +52,7 @@ Making further continuing appropriations for the fiscal year 2008, and for other
 - 2007-12-13 — Rule H. Res. 869 passed House.
 - 2007-12-13 — Rule provides for consideration of H.J. Res. 69 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2007-12-13 — The previous question was ordered pursuant to the rule. (consideration: CR H15439)
+- 2007-12-14 — Became Public Law No: 110-137.
+- 2007-12-14 — Became Public Law No: 110-137.
+- 2007-12-14 — Signed by President.
+- 2007-12-14 — Signed by President.
