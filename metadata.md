@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 396
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 396
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate that the hanging of nooses shoul
 
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -32,6 +32,7 @@ A resolution expressing the sense of the Senate that the hanging of nooses shoul
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Coburn, Tom [R-OK] (C000560)
 - Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
 
 ## Committees (1)
 
@@ -45,3 +46,5 @@ A resolution expressing the sense of the Senate that the hanging of nooses shoul
 - 2007-12-13 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2007-12-13 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title and with an amended preamble. Without written report.
 - 2007-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 543.
+- 2007-12-14 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent.(consideration: CR S15704-15705; text of measure as reported in Senate: CR S15704-15705)
+- 2007-12-14 — Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Unanimous Consent. (consideration: CR S15704-15705; text of measure as reported in Senate: CR S15704-15705)
