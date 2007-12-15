@@ -1,7 +1,7 @@
 ---
 measure: S. 2400
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Chapter 17 of title 37, United States Code, is amended by inserting after section 903 the following new section: | the bill names no machine-readable US Code section |
-| — | insert | The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 903 the following new item: | the bill names no machine-readable US Code section |
+| `37 U.S.C. § 904` | insert | Chapter 17 of title 37, United States Code, is amended by inserting after section 903 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `37 U.S.C. § 904` | insert | The table of sections at the beginning of chapter 17 of such title is amended by inserting after the item relating to section 903 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
