@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3454
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3454
@@ -29,3 +29,11 @@ To provide for the conveyance of a small parcel of National Forest System land i
 - 2007-08-04 — Introduced in House
 - 2007-08-04 — Introduced in House
 - 2007-08-04 — Referred to the House Committee on Agriculture.
+- 2007-12-12 — Committee Consideration and Mark-up Session Held.
+- 2007-12-12 — Ordered to be Reported by Voice Vote.
+- 2007-12-17 — Considered under suspension of the rules. (consideration: CR H15474-15475)
+- 2007-12-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3454.
+- 2007-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-17 — Mr. Peterson (MN) moved to suspend the rules and pass the bill.
+- 2007-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H15474)
+- 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H15474)
