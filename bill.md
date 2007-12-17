@@ -14,11 +14,24 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(a)** *Short title* This Act may be cited as the “Federal Employee Protection of Disclosures Act”.
 - **(b)** *Clarification of disclosures covered* Section 2302(b)(8) of title 5, United States Code, is amended—
   - **(1)** in subparagraph (A)—
-    - **(A)** by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of”; and
+    - **(A)** by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, that the employee or applicant reasonably believes is evidence of”;
     - **(B)** in clause (i), by striking “a violation” and inserting “any violation”; and
+    - **(C)** by striking “or” at the end;
   - **(2)** in subparagraph (B)—
-    - **(A)** by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of”; and
-    - **(B)** in clause (i), by striking “a violation” and inserting “any violation (other than a violation of this section)”.
+    - **(A)** by striking “which the employee or applicant reasonably believes evidences” and inserting “, without restriction to time, place, form, motive, context, or prior disclosure made to any person by an employee or applicant, including a disclosure made in the ordinary course of an employee’s duties, of information that the employee or applicant reasonably believes is evidence of”;
+    - **(B)** in clause (i), by striking “a violation” and inserting “any violation (other than a violation of this section)”; and
+    - **(C)** in clause (ii), by adding “or” at the end; and
+  - **(3)** by adding at the end the following:
+    > - **(C)** any disclosure that—
+    >   - **(i)** is made by an employee or applicant of information required by law or Executive order to be kept secret in the interest of national defense or the conduct of foreign affairs that the employee or applicant reasonably believes is direct and specific evidence of—
+    >     - **(I)** any violation of any law, rule, or regulation;
+    >     - **(II)** gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety; or
+    >     - **(III)** a false statement to Congress on an issue of material fact; and
+    >   - **(ii)** is made to—
+    >     - **(I)** a member of a committee of Congress having a primary responsibility for oversight of a department, agency, or element of the Federal Government to which the disclosed information relates and who is authorized to receive information of the type disclosed;
+    >     - **(II)** any other Member of Congress who is authorized to receive information of the type disclosed; or
+    >     - **(III)** an employee of Congress who has the appropriate security clearance and is authorized to receive information of the type disclosed.
+
 - **(c)** *Covered disclosures* Section 2302(a)(2) of title 5, United States Code, is amended—
   - **(1)** in subparagraph (B)(ii), by striking “and” at the end;
   - **(2)** in subparagraph (C)(iii), by striking the period at the end and inserting “; and”; and
@@ -99,4 +112,16 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(n)** *Scope of due process*
   - **(1)** *Special counsel* Section 1214(b)(4)(B)(ii) of title 5, United States Code, is amended by inserting “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
   - **(2)** *Individual action* Section 1221(e)(2) of title 5, United States Code, is amended by inserting “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
-- **(o)** *Effective date* This Act shall take effect 30 days after the date of enactment of this Act.
+- **(o)** *Reporting requirements*
+  - **(1)** *Government Accountability Office*
+    - **(A)** *In general* Not later than 40 months after the date of enactment of this Act, the Government Accountability Office shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives on the implementation of this Act.
+    - **(B)** *Contents* The report under this paragraph shall include—
+      - **(i)** an analysis of any changes in the number of cases filed with the United States Merit Systems Protection Board alleging violations of section 2302(b)(8) or (9) of title 5, United States Code, since the effective date of the Act;
+      - **(ii)** the outcome of the cases described under clause (i), including whether or not the United States Merit Systems Protection Board, the Federal Circuit Court of Appeals, or any other court determined the allegations to be frivolous or malicious; and
+      - **(iii)** any other matter as determined by the Government Accountability Office.
+  - **(2)** *Merit Systems Protection Board*
+    - **(A)** *In general* Each report submitted annually by the Merit Systems Protection Board under section 1116 of title 31, United States Code, shall, with respect to the period covered by such report, include as an addendum the following:
+      - **(i)** Information relating to the outcome of cases decided during the applicable year of the report in which violations of section 2302(b)(8) or (9) of title 5, United States Code, were alleged.
+      - **(ii)** The number of such cases filed in the regional and field offices, the number of petitions for review filed in such cases, and the outcomes of such cases.
+    - **(B)** *First report* The first report described under subparagraph (A) submitted after the date of enactment of this Act shall include an addendum required under that subparagraph that covers the period beginning on January 1, 2008 through the end of the fiscal year 2008.
+- **(p)** *Effective date* This Act shall take effect 30 days after the date of enactment of this Act.
