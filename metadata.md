@@ -1,7 +1,7 @@
 ---
 measure: S. 1916
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1916
@@ -22,9 +22,10 @@ Chimp Haven is Home Act
 - Sen. Landrieu, Mary L. [D-LA] (L000550)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -36,3 +37,7 @@ Chimp Haven is Home Act
 - 2007-12-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 536.
 - 2007-12-13 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S15568-15569; text of measure as reported in Senate: CR S15569; text as passed Senate: CR S15569)
 - 2007-12-13 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S15568-15569; text of measure as reported in Senate: CR S15569; text as passed Senate: CR S15569)
+- 2007-12-14 — Message on Senate action sent to the House.
+- 2007-12-17 — Received in the House.
+- 2007-12-17 — Referred to the House Committee on Energy and Commerce.
+- 2007-12-17 — Referred to the Subcommittee on Health.
