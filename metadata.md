@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4342
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4342
@@ -52,3 +52,11 @@ To designate the facility of the United States Postal Service located at 824 Man
 - 2007-12-10 — Introduced in House
 - 2007-12-10 — Introduced in House
 - 2007-12-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-12 — Committee Consideration and Mark-up Session Held.
+- 2007-12-12 — Ordered to be Reported by Voice Vote.
+- 2007-12-17 — Considered under suspension of the rules. (consideration: CR H15482-15483)
+- 2007-12-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4342.
+- 2007-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-17 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H15482)
+- 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H15482)
