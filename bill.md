@@ -2,12 +2,12 @@
 legis-num: H. RES. 816
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 816
 
-> Congratulating the Colorado Rockies on winning the National League Championship and playing in the 2007 World Series.
+> A Resolution congratulating the Colorado Rockies on winning the National League Championship.
 
 ## Preamble
 
@@ -20,10 +20,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** congratulates—
-  - **(A)** the Colorado Rockies on winning the 2007 National League Championship and advancing to the 2007 World Series;
-  - **(B)** the players, manager, coaches, support staff, ownership, and executives whose commitment to the game made this all possible; and
+  - **(A)** the Colorado Rockies on winning the 2007 National League Championship;
+  - **(B)** the players, manager, coaches, support staff, ownership, and executives whose commitment to the game made all this possible; and
   - **(C)** the Boston Red Sox for their extraordinary success in winning the 2007 World Series; and
-- **(2)** directs the Enrolling Clerk of the House of Repesentatives to transmit an enrolled copy of this resolution to—
+- **(2)** directs the Enrolling Clerk of the House of Representatives to transmit an enrolled copy of this resolution to—
   - **(A)** the 2007 Colorado Rockies and Boston Red Sox baseball teams;
   - **(B)** Colorado Rockies manager Clint Hurdle; and
   - **(C)** Colorado Baseball Partnership’s chief executive officer and chairman Charlie Monfort.
