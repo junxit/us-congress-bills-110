@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 856
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 856
@@ -16,7 +16,7 @@ Expresses heartfelt sympathy for the victims and families of the shootings in Om
 
 - Rep. Terry, Lee [R-NE-2] (T000459)
 
-## Cosponsors (72)
+## Cosponsors (73)
 
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Shimkus, John [R-IL-19] (S000364)
@@ -90,13 +90,26 @@ Expresses heartfelt sympathy for the victims and families of the shootings in Om
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 - Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
 - Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2007-12-17 — [House 110-1-1163](votes/house-110-1-1163.md) — On Motion to Suspend the Rules and Agree — **Passed** (387–0)
 
 ## Actions
 
 - 2007-12-11 — Introduced in House
 - 2007-12-11 — Introduced in House
 - 2007-12-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-17 — Considered as unfinished business. (consideration: CR H15513)
+- 2007-12-17 — Considered under suspension of the rules. (consideration: CR H15476-15477)
+- 2007-12-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 856.
+- 2007-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-17 — Ms. Norton moved to suspend the rules and agree to the resolution.
+- 2007-12-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 1163). (text: CR H15476)
+- 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 1163).(text: CR H15476)
