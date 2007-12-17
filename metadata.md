@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 388
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 388
@@ -38,3 +38,5 @@ A resolution designating the week of February 4 through February 8, 2008, as "Na
 - 2007-12-13 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-12-13 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-12-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 541.
+- 2007-12-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S15790-15791; text as passed Senate: CR S15790-15791)
+- 2007-12-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S15790-15791; text as passed Senate: CR S15790-15791)
