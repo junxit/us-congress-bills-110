@@ -19,11 +19,11 @@ The purpose of this Act is to encourage executive agencies and their contractors
 
 ## § 3. Promoting Federal Food Donation
 
-- **(a)** *Revision of FAR To include clause relating to food donations* Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised to provide that all contracts above the simplified acquisition threshold for the provision, service, or sale of food, or for the lease or rental of Federal property to a private entity for events at which food is provided, shall include a clause that—
-  - **(1)** encourages the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people in the United States;
-  - **(2)** provides that the head of an executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing such excess, apparently wholesome food to food-insecure people in the United States; and
-  - **(3)** states that executive agencies and contractors making donations pursuant to this Act are protected from civil or criminal liability under the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791).
-- **(b)** *Applicability* The revisions to the Federal Acquisition Regulation made pursuant to subsection (a) shall not apply to contracts entered into by the Department of Defense.
+Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised to provide that each contract in an amount greater than $25,000 for the provision, service, or sale of food, or for the lease or rental of Federal property to a private entity for events at which food is provided, shall include a clause that—
+
+- **(1)** encourages the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people in the United States;
+- **(2)** provides that the head of an executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing such excess, apparently wholesome food to food-insecure people in the United States; and
+- **(3)** states that executive agencies and contractors making donations pursuant to this Act are protected from civil or criminal liability under the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791).
 
 ## § 4. Definitions
 
