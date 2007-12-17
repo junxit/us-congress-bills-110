@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4286
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4286
@@ -310,9 +310,10 @@ To award a congressional gold medal to Daw Aung San Suu Kyi in recognition of he
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 - Rep. Loebsack, David [D-IA-2] (L000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -331,3 +332,17 @@ To award a congressional gold medal to Daw Aung San Suu Kyi in recognition of he
 - 2007-12-17 — Mr. Crowley moved to suspend the rules and pass the bill.
 - 2007-12-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 1170). (text: CR H15497-15498)
 - 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 1170).(text: CR H15497-15498)
+- 2007-12-18 — Received in the Senate.
+- 2008-01-22 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-04-24 — Cleared for White House.
+- 2008-04-24 — Passed Senate without amendment by Unanimous Consent.
+- 2008-04-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-04-24 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S3411-3412)
+- 2008-04-24 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S3411-3412)
+- 2008-04-28 — Message on Senate action sent to the House.
+- 2008-05-01 — Presented to President.
+- 2008-05-01 — Presented to President.
+- 2008-05-06 — Became Public Law No: 110-209.
+- 2008-05-06 — Became Public Law No: 110-209.
+- 2008-05-06 — Signed by President.
+- 2008-05-06 — Signed by President.
