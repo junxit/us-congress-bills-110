@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 851
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 851
@@ -111,3 +111,11 @@ Honoring local and state first responders, and the citizens of the Pacific North
 - 2007-12-06 — Introduced in House
 - 2007-12-06 — Introduced in House
 - 2007-12-06 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-17 — Considered as unfinished business. (consideration: CR H15513-15514)
+- 2007-12-17 — Considered under suspension of the rules. (consideration: CR H15477-15479)
+- 2007-12-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 851.
+- 2007-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-17 — Ms. Norton moved to suspend the rules and agree to the resolution.
+- 2007-12-17 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 1164). (text: CR H15478)
+- 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 390 - 0 (Roll no. 1164).(text: CR H15478)
