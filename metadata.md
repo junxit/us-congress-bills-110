@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1858
@@ -39,9 +39,10 @@ Newborn Screening Saves Lives Act of 2007
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Coleman, Norm [R-MN] (C001057)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -60,3 +61,7 @@ Newborn Screening Saves Lives Act of 2007
 - 2007-12-13 — Senate amendment proposed (on the floor): Amendment SA 3852 proposed by Senator Harkin for Senator Dodd.(consideration: CR S15574)
 - 2007-12-13 — Senate amendment submitted
 - 2007-12-13 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2007-12-14 — Message on Senate action sent to the House.
+- 2007-12-17 — Received in the House.
+- 2007-12-17 — Referred to the House Committee on Energy and Commerce.
+- 2007-12-17 — Referred to the Subcommittee on Health.
