@@ -1,7 +1,7 @@
 ---
 measure: S. 2488
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2488
@@ -36,9 +36,15 @@ OPEN Government Act of 2007
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
 ## Actions
 
 - 2007-12-14 — Introduced in Senate
 - 2007-12-14 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S15701-15704; text as passed Senate: CR S15701-15703)
 - 2007-12-14 — Message on Senate action sent to the House.
 - 2007-12-14 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S15701-15704; text as passed Senate: CR S15701-15703)
+- 2007-12-17 — Received in the House.
+- 2007-12-17 — Referred to the House Committee on Oversight and Government Reform.
