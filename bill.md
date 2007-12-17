@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 4721
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4721
+
+> To amend the Terrorism Risk Insurance Act of 2002 to temporarily reduce the insurer deductibles for insurers sustaining insured losses from large terrorism events.
+
+## § 1. Short title
+
+This Act may be cited as the “Terrorism Risk Insurance Improvement Act of 2007”.
+
+## § 2. Large event reset
+
+The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
+
+- **(1)** in section 102(7)—
+  - **(A)** in subparagraph (F), by striking “and” at the end;
+  - **(B)** in subparagraph (G), by striking the period at the end and inserting “; and”; and
+  - **(C)** by adding at the end the following new subparagraph:
+    > - **(H)** Notwithstanding subparagraph (f)(i), if aggregate industry insured losses resulting from a certified act of terrorism exceed $1,000,000,000, for any insurer that sustains insured losses resulting from such act of terrorism, the value of such insurer’s direct earned premiums over the calendar year immediately preceding the program year, multiplied by a percentage, which—
+    >   - **(i)** for the Program Year consisting of calendar year 2008 shall be 5 percent; and
+    >   - **(ii)** for each Program Year thereafter, shall be 50 basis points greater than the percentage applicable to the preceding Program Year, except that if an act of terrorism occurs during any such Program Year that results in aggregate industry insured losses exceeding $1,000,000,000, the percentage for the succeeding Program Year shall be 5 percent and the increase under this clause shall apply to Program Years thereafter;
+
+- **(2)** in section 103(e)(1)(b)—
+  - **(A)** in clause (ii), by striking the period at the end and inserting a semicolon; and
+  - **(B)** by adding after and below clause (ii) the following:
+    > except that if a certified act of terrorism occurs for which resulting aggregate industry insured losses exceed $1,000,000,000, the applicable amount for any subsequent certified act of terrorism shall be the amount specified in section 102(1)(B)(ii).
