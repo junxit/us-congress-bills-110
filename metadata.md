@@ -1,7 +1,7 @@
 ---
 measure: S. 2400
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2400
@@ -37,9 +37,10 @@ Wounded Warrior Bonus Equity Act
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Armed Services Committee
+- House — Armed Services Committee
 
 ## Actions
 
@@ -52,3 +53,5 @@ Wounded Warrior Bonus Equity Act
 - 2007-12-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S15705-15706)
 - 2007-12-14 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S15705-15706)
 - 2007-12-14 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S15705-15706)
+- 2007-12-17 — Received in the House.
+- 2007-12-17 — Referred to the House Committee on Armed Services.
