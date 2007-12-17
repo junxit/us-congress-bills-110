@@ -1,7 +1,7 @@
 ---
 measure: S. 1839
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1839
@@ -36,3 +36,7 @@ A bill to require periodic reports on claims related to acts of terrorism agains
 - 2007-10-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 418.
 - 2007-10-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S13134-13135; text as passed Senate: CR S13135)
 - 2007-10-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S13134-13135; text as passed Senate: CR S13135)
+- 2007-10-19 — Message on Senate action sent to the House.
+- 2007-10-22 — Held at the desk.
+- 2007-10-22 — Received in the House.
+- 2007-12-17 — Referred to the House Committee on Foreign Affairs.
