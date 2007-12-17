@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4286
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4286
@@ -16,7 +16,7 @@ To award a congressional gold medal to Daw Aung San Suu Kyi in recognition of he
 
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Cosponsors (235)
+## Cosponsors (291)
 
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
@@ -253,6 +253,62 @@ To award a congressional gold medal to Daw Aung San Suu Kyi in recognition of he
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Berry, Marion [D-AR-1] (B000420)
 - Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
+- Rep. Sullivan, John [R-OK-1] (S001155)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Pence, Mike [R-IN-6] (P000587)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Ryan, Paul [R-WI-1] (R000570)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Porter, Jon C. [R-NV-3] (P000589)
+- Rep. McCrery, Jim [R-LA-4] (M000388)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Rehberg, Dennis R. [R-MT-At Large] (R000571)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Cantor, Eric [R-VA-7] (C001046)
+- Rep. Reynolds, Thomas M. [R-NY-26] (R000569)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Loebsack, David [D-IA-2] (L000565)
 
 ## Committees (1)
 
@@ -263,3 +319,11 @@ To award a congressional gold medal to Daw Aung San Suu Kyi in recognition of he
 - 2007-12-05 — Introduced in House
 - 2007-12-05 — Introduced in House
 - 2007-12-05 — Referred to the House Committee on Financial Services.
+- 2007-12-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-17 — Considered as unfinished business. (consideration: CR H15527-15528)
+- 2007-12-17 — Considered under suspension of the rules. (consideration: CR H15497-15500)
+- 2007-12-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4286.
+- 2007-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-17 — Mr. Crowley moved to suspend the rules and pass the bill.
+- 2007-12-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 1170). (text: CR H15497-15498)
+- 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 1170).(text: CR H15497-15498)
