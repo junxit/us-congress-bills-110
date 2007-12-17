@@ -1,7 +1,7 @@
 ---
 measure: S. 2339
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2339
@@ -20,9 +20,10 @@ A bill to designate the Department of Veterans Affairs clinic in Alpena, Michiga
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ A bill to designate the Department of Veterans Affairs clinic in Alpena, Michiga
 - 2007-12-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S15572)
 - 2007-12-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S15572)
 - 2007-12-13 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S15572)
+- 2007-12-14 — Message on Senate action sent to the House.
+- 2007-12-17 — Received in the House.
+- 2007-12-17 — Referred to the House Committee on Veterans' Affairs.
