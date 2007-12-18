@@ -1,11 +1,13 @@
 ---
 legis-num: S. 901
-congress: 
-session: 
-chamber: 
+congress: 110th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 901
+
+> To amend the Public Health Service Act to provide additional authorizations of appropriations for the health centers program under section 330 of such Act.
 
 ## § 1. Short title
 
