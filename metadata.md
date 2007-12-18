@@ -1,7 +1,7 @@
 ---
 measure: H.R. 797
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 797
@@ -122,3 +122,7 @@ Dr. James Allen Veteran Vision Equity Act of 2007
 - 2007-12-11 — House agreed to Senate amendment with amendments pursuant to H. Res. 855.
 - 2007-12-11 — Resolving differences -- House actions: House agreed to Senate amendment with amendments pursuant to H. Res. 855.
 - 2007-12-12 — Message on House action received in Senate and at desk: House amendments to Senate amendment.
+- 2007-12-17 — Cleared for White House.
+- 2007-12-17 — Message on Senate action sent to the House.
+- 2007-12-17 — Resolving differences -- Senate actions: Senate agreed to House amendments (text and title) to Senate amendment by Unanimous Consent.(consideration: CR S15786-15787; text as Senate agreed to House amendment: CR S15786-15787)
+- 2007-12-17 — Senate agreed to House amendments (text and title) to Senate amendment by Unanimous Consent. (consideration: CR S15786-15787; text as Senate agreed to House amendment: CR S15786-15787)
