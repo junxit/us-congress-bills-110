@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 72
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 72
@@ -37,3 +37,9 @@ Making further continuing appropriations for the fiscal year 2008, and for other
 - 2007-12-19 — Rule H. Res. 893 passed House.
 - 2007-12-19 — Rule provides for consideration of H.R. 2764 and H.J. Res. 72.
 - 2007-12-19 — The previous question was ordered pursuant to the rule. (consideration: CR H16889)
+- 2007-12-20 — Presented to President.
+- 2007-12-20 — Presented to President.
+- 2007-12-21 — Became Public Law No: 110-149.
+- 2007-12-21 — Became Public Law No: 110-149.
+- 2007-12-21 — Signed by President.
+- 2007-12-21 — Signed by President.
