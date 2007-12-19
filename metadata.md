@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 389
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 389
@@ -16,7 +16,7 @@ A resolution commemorating the 25th Anniversary of the United States Air Force S
 
 - Sen. Allard, Wayne [R-CO] (A000109)
 
-## Cosponsors (14)
+## Cosponsors (19)
 
 - Sen. Salazar, Ken [D-CO] (S001163)
 - Sen. Tester, Jon [D-MT] (T000464)
@@ -32,6 +32,11 @@ A resolution commemorating the 25th Anniversary of the United States Air Force S
 - Sen. Chambliss, Saxby [R-GA] (C000286)
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Barrasso, John [R-WY] (B001261)
 
 ## Committees (1)
 
@@ -41,3 +46,7 @@ A resolution commemorating the 25th Anniversary of the United States Air Force S
 
 - 2007-12-05 — Introduced in Senate
 - 2007-12-05 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S14802)
+- 2007-12-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S16056)
+- 2007-12-19 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S16056)
+- 2007-12-19 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S16056)
+- 2007-12-19 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S16056)
