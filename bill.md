@@ -201,7 +201,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** Subsection (a) of section 1016 is amended by striking paragraph (31) and by redesignating paragraphs (32) through (37) as paragraphs (31) through (36), respectively.
   - **(2)**
     - **(A)** Section 45H, as amended by paragraph (1), is amended by adding at the end the following new subsection:
-      > - **(g)** *Election To not take credit* No credit shall be determined under subsection (a) for the taxable year if the taxpayer elects not to have subsection (a) apply to such taxable year.
+      > - **(g)** *Election to not take credit* No credit shall be determined under subsection (a) for the taxable year if the taxpayer elects not to have subsection (a) apply to such taxable year.
 
     - **(B)** Subsection (m) of section 6501 is amended by inserting “45H(g),” after “45C(d)(4),”.
   - **(3)**
