@@ -18,7 +18,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas Keith Stansell, Thomas Howes, and Marc Gonsalves, 3 United States citizens on the aircraft, were taken hostage by the FARC on February 13, 2003;
 - Whereas the FARC murdered Tom Janis, another United States citizen on the downed aircraft;
 - Whereas 3 United States citizens on a subsequent search mission also lost their lives;
-- Whereas the 3 hostages were last shown alive on July 25, 2003, during a taped interview with the CBS news show “60 Minutes”;
+- Whereas the 3 hostages were last shown alive in a videotape seized by the Government of Colombia and aired on November 30, 2007;
 - Whereas a police officer from Colombia who escaped from the FARC in April 2007 claims he saw the 3 United States hostages alive in April 2007;
 - Whereas at least 50 FARC leaders have been indicted in the United States for drug trafficking; and
 - Whereas Ricardo Palmera, the most senior FARC leader to be tried in the United States, was convicted of conspiring to take the United States citizens hostage in Colombia: Now, therefore, be it
