@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1216
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 1216
@@ -62,9 +62,10 @@ K.T. Safety Act of 2007
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. Andrews, Robert E. [D-NJ-1] (A000210)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -81,3 +82,16 @@ K.T. Safety Act of 2007
 - 2007-12-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text as House agreed to Senate amendment: CR H16871-16872)
 - 2007-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text as House agreed to Senate amendment: CR H16871-16872)
 - 2007-12-19 — Received in the Senate.
+- 2008-01-22 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2008-02-14 — Cleared for White House.
+- 2008-02-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1083)
+- 2008-02-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1083)
+- 2008-02-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2008-02-14 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2008-02-15 — Message on Senate action sent to the House.
+- 2008-02-25 — Presented to President.
+- 2008-02-25 — Presented to President.
+- 2008-02-28 — Became Public Law No: 110-189.
+- 2008-02-28 — Became Public Law No: 110-189.
+- 2008-02-28 — Signed by President.
+- 2008-02-28 — Signed by President.
