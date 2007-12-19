@@ -2,12 +2,14 @@
 legis-num: H.R. 3997
 congress: 110th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 3997
 
-> To amend the Internal Revenue Code of 1986 to provide earnings assistance and tax relief to members of the uniformed services, volunteer firefighters, and Peace Corps volunteers, and for other purposes.
+That the House agree to the amendments of the Senate to the bill (H.R. 3997) entitled “An Act to amend the Internal Revenue Code of 1986 to provide earnings assistance and tax relief to members of the uniformed services, volunteer firefighters, and Peace Corps volunteers, and for other purposes”, with the following
+
+*In lieu of the matter proposed to be inserted by the amendment of the Senate to the text of the bill, insert the following:*
 
 ## § 1. Short title, etc
 
