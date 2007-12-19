@@ -24,7 +24,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the United States and the Republic of Korea continuously work to modernize their security relationship through annual Security Consultative Meetings between their defense ministers, the Strategic Consultation for Allied Partnership Dialogue, and various lower-level forums;
 - Whereas the economic partnership between the United States and the Republic of Korea has contributed to significant economic growth for both countries;
 - Whereas the Republic of Korea is the seventh largest trading partner of the United States, and the United States is the third largest trading partner of the Republic of Korea;
-- Whereas the Free Trade Agreement between the United States of America and the Republic of Korea, done at Washington June 30, 2007, is the first free trade agreement between the United States and a Northeast Asian nation, paving the way for greater economic efficiency and consumer benefits in both countries;
 - Whereas nearly 2,000,000 Korean-Americans contribute to the fabric of life in the United States and link the United States to Korea on a personal basis;
 - Whereas the Republic of Korea sends more international students to the United States than any other country; and
 - Whereas the strong relationship between the United States and the Republic of Korea across many fronts has proven beneficial for both countries: Now, therefore, be it
@@ -32,7 +31,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 That it is the sense of the Senate that—
 
 - **(1)** the strength and endurance of the alliance between the United States and the Republic of Korea should be acknowledged and celebrated;
-- **(2)** the Free Trade Agreement between the United States of America and the Republic of Korea, done at Washington June 30, 2007, highlights the vibrancy and diversity of the common interests of the United States and the Republic of Korea and should be fully implemented by both countries;
+- **(2)** the economic relationship, highlighting the vibrancy and diversity of the common interests of the United States and the Republic of Korea, should be broadened and deepened;
 - **(3)** the United States should sustain substantive dialogue with both the Republic of Korea and the Democratic People’s Republic of Korea, with the expectation of the eventual unification of the Korean peninsula, as it was at the signing of the Treaty of Peace, Amity, Commerce and Navigation between the Kingdom of Chosun (Korea) and the United States, concluded May 22, 1882;
 - **(4)** working with the Republic of Korea to foster greater regional cooperation in East Asia should be a priority of the United States, as such cooperation brings long and short term benefits to all those involved; and
-- **(5)** the United States and the Republic of Korea should strive to develop further a more global perspective in their partnership, with the goal of addressing international priorities such as the fight against terrorism, the promotion of human rights, the enhancement of democracy, and support for peacekeeping.
+- **(5)** the United States and the Republic of Korea should strive to develop further a more global perspective in their partnership, with the goal of addressing international priorities such as the fight against terrorism, the promotion of human rights, the enhancement of democracy, support for peacekeeping, and protection of the environment.
