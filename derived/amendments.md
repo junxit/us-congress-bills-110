@@ -1,7 +1,7 @@
 ---
 measure: S. 1974
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-227 amendatory instructions. 0 executed, 227 stated and not applied.
+243 amendatory instructions. 3 executed, 240 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 26 U.S.C. § 401
+
+> Section 4006(a)(3)(A)(i) of ERISA is amended by striking “1990” and inserting “2005”.
+
+| | |
+|---|---|
+| Removed | `1990` |
+| Inserted | `2005` |
+
+### 26 U.S.C. § 401
+
+> Section 402(c)(1)(A) of the 2006 Act is amended by striking “commercial airline” and inserting “commercial”.
+
+| | |
+|---|---|
+| Removed | `commercial airline` |
+| Inserted | `commercial` |
+
+### 26 U.S.C. § 401
+
+> Section 4041(b)(5)(A) of ERISA is amended by striking “subparagraph (B)” and inserting “subparagraphs (B) and (D)”.
+
+| | |
+|---|---|
+| Removed | `subparagraph (B)` |
+| Inserted | `subparagraphs (B) and (D)` |
 
 ## Stated, not applied
 
@@ -37,16 +66,20 @@ complete account of the bill's effect, which it is not.
 | — | replace | Clause (i) of section 412(c)(1)(A) of the 1986 Code is amended by striking “the plan is” and inserting “the plan are”. | the bill names no machine-readable US Code section |
 | — | insert | Section 412(c)(7) of the 1986 Code is amended by inserting “which reduces the accrued benefit of any participant” after “subsection (d)(2)” in subparagraph (A). | the bill names no machine-readable US Code section |
 | — | strike | Section 412(d)(1) of the 1986 Code is amended by striking “, the valuation date,”. | the bill names no machine-readable US Code section |
+| — | amend | Section 303(b) of ERISA is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 303(c)(5)(B)(iii) of ERISA is amended by inserting “beginning” before “after 2008”. | the bill names no machine-readable US Code section |
 | — | insert | Section 303(c)(5)(B)(iv)(II) of ERISA is amended by inserting “for such year ” after “beginning in 2007)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 303(f)(4)(A) of ERISA is amended by striking “paragraph (2)” and inserting “paragraph (3)”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 205(g)(3)(B)(iii)(I)) for such month” and inserting “section 205(g)(3)(B)(iii)(I) for such month)”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subparagraph (B)” and inserting “subparagraph (C)”. | the bill names no machine-readable US Code section |
-| — | replace | The last sentence of section 303(i)(4)(B) of ERISA is amended by striking “subparagraph (A)(ii)” and inserting “subparagraph (A)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (A) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “the target normal cost (determined without regard to this paragraph) of the plan for the plan year” and inserting “the amount determined under subsection (b)(1)(A)(i) with respect to the plan for the pla… | the bill names no machine-readable US Code section |
+| — | replace | by striking “subparagraph (A)(ii)” in the last sentence of paragraph (4)(B) and inserting “subparagraph (A)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | is amended by adding at the end of subparagraph (A) the following new sentence:“In the case of plan years beginning in 2008, the funding shortfall for the preceding plan year may be determined using such methods of estimation as the Secr… | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end of subparagraph (E) the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and short years” in the heading of subparagraph (E) and inserting “, short years, and years with alternate valuation date”. | the bill names no machine-readable US Code section |
 | — | replace | Section 303(k)(6)(B) of ERISA is amended by striking “, except” and all that follows and inserting a period. | the bill names no machine-readable US Code section |
+| — | amend | Section 430(b) of the 1986 Code is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | Section 430(c)(5)(B)(iii) of the 1986 Code is amended by inserting “beginning” before “after 2008”. | the bill names no machine-readable US Code section |
 | — | insert | Section 430(c)(5)(B)(iv)(II) of the 1986 Code is amended by inserting “for such year ” after “beginning in 2007)”. | the bill names no machine-readable US Code section |
 | — | strike | by striking “as of the first day of the plan year” the second place it appears in the first sentence of paragraph (3)(A), | the bill names no machine-readable US Code section |
@@ -58,13 +91,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “liabilities” and inserting “benefits” in subparagraph (B), | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 417(e)(3)(D)(i)) for such month” in subparagraph (F) and inserting “section 417(e)(3)(D)(i) for such month)”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subparagraph (B)” in subparagraph (F) and inserting “subparagraph (C)”. | the bill names no machine-readable US Code section |
-| — | replace | The last sentence of section 430(i)(4)(B) of the 1986 Code is amended by striking “subparagraph (A)(ii)” and inserting “subparagraph (A)”. | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (A) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “the target normal cost (determined without regard to this paragraph) of the plan for the plan year” and inserting “the amount determined under subsection (b)(1)(A)(i) with respect to the plan for the pla… | the bill names no machine-readable US Code section |
+| — | replace | by striking “subparagraph (A)(ii)” in the last sentence of paragraph (4)(B) and inserting “subparagraph (A)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end of subparagraph (A) the following new sentence: “In the case of plan years beginning in 2008, the funding shortfall for the preceding plan year may be determined using such methods of estimation as the Secretary may … | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 302(c)” in subparagraph (D)(ii)(II) and inserting “section 412(c)”, | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end of subparagraph (E) the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | by striking “and short years” in the heading of subparagraph (E) and inserting “, short years, and years with alternate valuation date”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(as provided under paragraph (2))” after “applies” in paragraph (1), and | the bill names no machine-readable US Code section |
 | — | replace | by striking “, except” and all that follows in paragraph (6)(B) and inserting a period. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “section 206(g)(4)(B)” and inserting “section 206(g)(4)(A)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “The Secretary of the Treasury, in consultation with the Secretary, shall have the authority to prescribe rules applicable to the notices required under this subsection.”. | the bill names no machine-readable US Code section |
 | — | replace | Section 206(g)(1)(B)(ii) of ERISA is amended by striking “a funding” and inserting “an adjusted funding”. | the bill names no machine-readable US Code section |
 | — | insert | The heading for section 206(g)(1)(C) of ERISA is amended by inserting “benefit” after “event”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 206(g)(3)(E) of ERISA is amended by adding at the end the following new flush sentence: | the bill names no machine-readable US Code section |
@@ -73,8 +110,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “without regard to this subparagraph” and inserting “without regard to the reduction in the value of assets under section 303(f)(4)”, and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “beginning” before “after” each place it appears. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 206(g) of ERISA is amended by redesignating paragraph (10) as paragraph (11) and by inserting after paragraph (9) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 101(j)(2) of ERISA is amended by striking “section 206(g)(4)(B)” and inserting “section 206(g)(4)(A)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 502(c)(4) of ERISA is amended by striking “subsection (j) or (k) of section 101 or 302(b)(7)(F)(iv)” and inserting “subsection (j), (k), or (l) of section 101 or section 514(e)(3)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 502(c)(4) of ERISA is amended by striking “by any person” and all that follows through the period and inserting “by any person of subsection (j), (k), or (l) of section 101 or section 514(e)(3).”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 303” and inserting “section 430” in the matter preceding subparagraph (A), and | the bill names no machine-readable US Code section |
 | — | replace | by striking “a funding” and inserting “an adjusted funding” in subparagraph (B). | the bill names no machine-readable US Code section |
 | — | insert | by inserting “benefit” after “event” in the heading, and | the bill names no machine-readable US Code section |
@@ -88,13 +124,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “without regard to this paragraph” and inserting “without regard to the reduction in the value of assets under section 430(f)(4)”, and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “beginning” before “after” each place it appears. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 436 of the 1986 Code is amended by redesignating subsection (k) as subsection (m) and by inserting after subsection (j) the following new subsections: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 103(b) of the 2006 Act is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection” and inserting “section”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subparagraph” and inserting “paragraph”. | the bill names no machine-readable US Code section |
-| — | repeal | Section 502(b)(2) of the 2006 Act, and the amendment made by such section, are repealed. | the bill names no machine-readable US Code section |
-| — | repeal | Section 902(f)(2) of the 2006 Act, and the amendment made by such section, are repealed. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “the normal costs, the accrued liabilities” and inserting “the normal costs or target normal costs, the accrued liabilities or funding target”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (7) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 4071 of ERISA is amended by striking “as section 303(k)(4) or 307(e)” and inserting “or section 303(k)(4),”. | the bill names no machine-readable US Code section |
 | — | strike | Section 401(a)(29) of the 1986 Code is amended by striking “on plans in at-risk status” in the heading. | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 430(j)” and inserting “section 430(j)(3)”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraph (5)(A)” and inserting “section 430(j)(4)(A)”. | the bill names no machine-readable US Code section |
@@ -124,7 +158,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the Secretary” in subclause (I) and inserting “the Secretary of the Treasury, in consultation with the Secretary”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Secretary” in the last sentence and inserting “Secretary of the Treasury”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “an employer's withdrawal liability” in paragraph (9)(B) and inserting “the allocation of unfunded vested benefits to an employer”. | the bill names no machine-readable US Code section |
-| — | insert | Section 305(f)(2)(A)(i) of ERISA is amended by inserting “to a participant or beneficiary whose annuity starting date (as defined in section 205(h)(2)) occurs after such date,” after the comma at the end. | the bill names no machine-readable US Code section |
 | — | insert | Section 305(g) of ERISA is amended by inserting “under subsection (c)” after “funding improvement plan” the first place it appears. | the bill names no machine-readable US Code section |
 | — | replace | Section 302(b)(3) of ERISA is amended by striking “the plan adopts” and inserting “the plan sponsor adopts”. | the bill names no machine-readable US Code section |
 | — | replace | Section 502(c)(2) of ERISA is amended by striking “101(b)(4)” and inserting “101(b)(1)”. | the bill names no machine-readable US Code section |
@@ -145,8 +178,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “the Secretary of Labor” in subparagraph (C)(iii)(I) and inserting “the Secretary, in consultation with the Secretary of Labor”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the Secretary of Labor” in the last sentence of subparagraph (C)(iii) and inserting “the Secretary”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “an employer's withdrawal liability” in paragraph (9)(B) and inserting “the allocation of unfunded vested benefits to an employer”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “section 411(b)(1)(A)” and inserting “section 411(a)(9)”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs after such date,” after the comma at the end. | the bill names no machine-readable US Code section |
+| — | replace | Section 432(f)(2)(A)(i) of the 1986 Code is amended by striking “section 411(b)(1)(A)” and inserting “section 411(a)(9)”. | the bill names no machine-readable US Code section |
 | — | insert | Section 432(g) of the 1986 Code is amended by inserting “under subsection (c)” after “funding improvement plan” the first place it appears. | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 412(a)” in paragraph (3) and inserting “section 431(a)”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (9) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
@@ -159,15 +191,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | Clause (ii) of section 101(c)(2)(A) of the Pension Funding Equity Act of 2004, as amended by section 301(c) of the 2006 Act, is amended by striking “2008” and inserting “2009”. | the bill names no machine-readable US Code section |
 | — | replace | Section 205(g)(3)(B)(iii)(II) of ERISA is amended by striking “section 205(g)(3)(B)(iii)(II)” and inserting “section 205(g)(3)(A)(ii)(II)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 417(e)(3)(D)(i) of the 1986 Code is amended by striking “clause (ii)” and inserting “subparagraph (C)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4006(a)(3)(A)(i) of ERISA is amended by striking “1990” and inserting “2005”. | the bill names no machine-readable US Code section |
-| — | replace | Section 402(c)(1)(A) of the 2006 Act is amended by striking “commercial airline” and inserting “commercial”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4041(b)(5)(A) of ERISA is amended by striking “subparagraph (B)” and inserting “subparagraphs (B) and (D)”. | the bill names no machine-readable US Code section |
-| — | replace | Section 4041(b)(5)(D) of ERISA is amended by striking “after” and inserting “before”. | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of clause (i), and | the bill names no machine-readable US Code section |
-| — | replace | by striking clause (ii) and inserting the following new clauses: | the bill names no machine-readable US Code section |
+| — | amend | Section 415(b)(2)(E)(v) of the 1986 Code is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 401` | strike | by striking “and” at the end of clause (i), and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 401` | replace | by striking clause (ii) and inserting the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “for which the latest annual report filed under section 104(a) was filed” in subclause (I)(aa) and inserting “to which the notice relates”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, determined in the same manner as under section 304 (and in the case of assets, also in the same manner as under subclause (I)(bb)),” after “assets and liabilities”, and | the bill names no machine-readable US Code section |
-| — | strike | by striking “as the last day of such plan year”. | the bill names no machine-readable US Code section |
+| — | replace | by striking subclause (II) and inserting the following new subclause: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 4221 of ERISA is amended by striking subsection (e) and by redesignating subsections (f) and (g) as subsections (e) and (f), respectively. | the bill names no machine-readable US Code section |
 | — | insert | Section 104(d)(1)(E)(ii) of ERISA is amended by inserting “funding” after “plan's”. | the bill names no machine-readable US Code section |
 | — | replace | Section 503(e) of the 2006 Act is amended by striking “section 101(f)” and inserting “section 104(d)”. | the bill names no machine-readable US Code section |
@@ -180,11 +208,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | Section 101(i)(8)(B) of ERISA is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 408(g)(3)(D)(ii) of ERISA is amended by striking “subsection (b)(14)(B)(ii)” and inserting “subsection (b)(14)(A)(ii)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 408(g)(6)(A)(i) of ERISA is amended by striking “financial adviser” and inserting “fiduciary adviser”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “the participant” each place it appears and inserting “a participant”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 408(b)(4)” in clause (ii) and inserting “subsection (b)(4)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4975(d)(17) of the 1986 Code, in the matter preceding subparagraph (A), is amended by striking “and that permits” and inserting “that permits”. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “subsection (b)(14)” and inserting “subsection (d)(17)”, | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C)(iv)(II), by striking “subsection (b)(14)(B)(ii)” and inserting “(d)(17)(A)(ii)”, | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (F)(i)(I), by striking “financial adviser” and inserting “fiduciary adviser,”, | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (I), by striking “section 406” and inserting “subsection (c)”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the participant” each place it appears and inserting “a participant”, | the bill names no machine-readable US Code section |
 | — | insert | in the matter preceding subclause (I), by inserting “referred to in subsection (e)(3)(B)” after “investment advice”, and | the bill names no machine-readable US Code section |
@@ -198,9 +228,9 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “(or any period that would be a blackout period but for the fact that it is a period of 3 consecutive business days or less)” after “blackout period” in subparagraph (A)(ii), and | the bill names no machine-readable US Code section |
 | — | insert | by inserting the following new sentence at the end of subparagraph (B): “In the case of any period that would be a blackout period but for the fact that it is a period of 3 consecutive business days or less, the preceding sentence shall … | the bill names no machine-readable US Code section |
 | — | replace | Section 404(c)(5) of ERISA is amended by striking “participant” each place it appears and inserting “participant or beneficiary”. | the bill names no machine-readable US Code section |
+| — | amend | Section 203(f)(1)(B) of ERISA is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “clause” in subparagraph (A)(iii) and inserting “subparagraph”, and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “otherwise” before “allowable” in subparagraph (C). | the bill names no machine-readable US Code section |
-| — | amend | Section 203((f)(1)(B) of ERISA is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Subclause (II) of section 204(b)(5)(B)(i) of ERISA is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “clause” in subparagraph (A)(iii) and inserting “subparagraph”, and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “otherwise” before “allowable” in subparagraph (C). | the bill names no machine-readable US Code section |
@@ -219,36 +249,44 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking the next to last sentence, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the plan's funding shortfall determined under section 430” in the last sentence and inserting “the excess (if any) of the plan's funding target (as defined in section 430(d)(1)) over the value of the plan's assets (as determ… | the bill names no machine-readable US Code section |
 | — | amend | Clause (iii) of section 404(a)(7)(C) of the 1986 Code is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | strike | Section 408A(c)(3)(B) of the 1986 Code, as in effect after the amendments made by section 824(b)(1) of the 2006 Act, is amended by striking the second “an” before “eligible”. | the bill names no machine-readable US Code section |
+| — | strike | by striking the second “an” before “eligible”, | the bill names no machine-readable US Code section |
+| — | strike | by striking “other than a Roth IRA”, and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new flush sentence: | the bill names no machine-readable US Code section |
+| — | replace | Section 408A(d)(3)(B), as in effect after the amendments made by section 824(b)(2)(B) of the 2006 Act, is amended by striking “(other than a Roth IRA)” and by inserting at the end the following new sentence: “This paragraph shall not app… | the bill names no machine-readable US Code section |
 | — | insert | The first sentence of section 72(t)(2)(G)(iv) of the 1986 Code is amended by inserting “on or” before “before”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “described in paragraph (8)(B)(iii)” after “eligible retirement plan” in subparagraph (A), and | the bill names no machine-readable US Code section |
 | — | strike | by striking “trust” before “designated beneficiary” in subparagraph (B). | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 401(a)(31)(D) of the 1986 Code is amended by adding at the end the following new sentence: “Such term shall include any distribution which is treated as an eligible rollover distribution by reason of section 402(c)(11), 403(a)(4)… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 402(f)(2)(A) of the 1986 Code is amended by adding at the end the following new sentence: “Such term shall include any distribution which is treated as an eligible rollover distribution by reason of section 403(a)(4)(B), 403(b)(8… | the bill names no machine-readable US Code section |
+| — | strike | Clause (i) of section 402(c)(11) of the 1986 Code is amended by striking “for purposes of this subsection”. | the bill names no machine-readable US Code section |
 | — | redesignate | Section 415(f) of the 1986 Code is amended by striking paragraph (2) and by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
 | — | replace | is amended by striking “subparagraph (C)(ii)” and inserting “subparagraph (B)(ii)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 420(c)(1)(A) of the 1986 Code is amended by adding at the end the following new sentence: “In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred m… | the bill names no machine-readable US Code section |
 | — | strike | Section 420(f)(2) of the 1986 Code is amended by striking “such” before “the applicable” in subparagraph (D)(i)(I). | the bill names no machine-readable US Code section |
 | — | replace | Section 4980(c)(2)(B) of the 1986 Code is amended by striking “or” at the end of clause (i), by striking the period at the end of clause (ii) and inserting “, or”, and by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| — | strike | by striking “of the employee, his spouse, or dependents (as defined in section 152)” in paragraph (1), | the bill names no machine-readable US Code section |
+| — | insert | by inserting “maintained by the employer described in paragraph (4)(B)” after “an eligible retirement plan”, and | the bill names no machine-readable US Code section |
+| — | strike | by striking “of the employee, his spouse, or dependents (as defined in section 152)” , | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5)(A), by striking “health insurance plan” and inserting “health plan”. | the bill names no machine-readable US Code section |
 | — | replace | Subparagraph (B) of section 402(l)(3) of the 1986 Code is amended by striking “all amounts distributed from all eligible retirement plans were treated as 1 contract for purposes of determining the inclusion of such distribution under sec… | the bill names no machine-readable US Code section |
 | — | strike | Section 3121(b)(5)(E) of the 1986 Code is amended by striking “or special trial judge”. | the bill names no machine-readable US Code section |
 | — | strike | Section 210(a)(5)(E) of the Social Security Act is amended by striking “or special trial judge”. | the bill names no machine-readable US Code section |
+| — | strike | Section 864(a) of the 2006 Act is amended by striking “Reconciliation”. | the bill names no machine-readable US Code section |
 | — | amend | Section 401(a)(35)(E)(iv) of the 1986 Code is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 401(k)(13)(D)(i)(I) of the 1986 Code is amended by striking “such compensation as exceeds 1 percent but does not” and inserting “such contributions as exceed 1 percent but do not”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “an erroneous automatic contribution” and inserting “a permissible withdrawal”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “erroneous automatic contribution” in the heading and inserting “permissible withdrawal”. | the bill names no machine-readable US Code section |
-| — | insert | Section 402(g)(2)(A)(ii) is amended by inserting “through the end of such taxable year” after “such amount”. | the bill names no machine-readable US Code section |
+| — | insert | Section 402(g)(2)(A)(ii) of the 1986 Code is amended by inserting “through the end of such taxable year” after “such amount”. | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B), by inserting “and” after the comma at the end, | the bill names no machine-readable US Code section |
 | — | strike | by striking subparagraph (C), and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (D) as subparagraph (C). | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 414(w)(5) of the 1986 Code is amended by striking “and” at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting a comma, and by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 414(w)(6) of the 1986 Code is amended by inserting “or for purposes of applying the limitation under section 402(g)(1)” before the period at the end. | the bill names no machine-readable US Code section |
 | — | amend | Section 414(x)(1) of the 1986 Code is amended by adding at the end of paragraph (1) the following new sentence: “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eli… | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end of paragraph (1) the following new sentence: “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator sh… | the bill names no machine-readable US Code section |
 | — | redesignate | by striking paragraph (3) and by redesignating paragraphs (4), (5), and (6) as paragraphs (3), (4), and (5), respectively. | the bill names no machine-readable US Code section |
 | — | replace | Section 906(b)(1)(B)(ii) of the 2006 Act is amended by striking “paragraph (1)” and inserting “paragraph (10)”. | the bill names no machine-readable US Code section |
-| — | amend | Section 14(b) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | repeal | Subsection (d) of section 5 of the Railroad Retirement Act (45 U.S.C. 231d) is repealed. | the bill names no machine-readable US Code section |
+| — | replace | Section 4021(b) of ERISA is amended by inserting “or” at the end of paragraph (12), by striking “; or” at the end of paragraph (13) and inserting a period, and by striking paragraph (14). | the bill names no machine-readable US Code section |
+| `45 U.S.C. § 231m` | amend | Section 14(b) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `45 U.S.C. § 231d` | repeal | Subsection (d) of section 5 of the Railroad Retirement Act (45 U.S.C. 231d) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1104(d)(1) of the 2006 Act is amended by striking “Act” the first place it appears and inserting “section”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (i) and (ii) of subparagraph (A) as subclauses (I) and (II), | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), | the bill names no machine-readable US Code section |
@@ -258,3 +296,7 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 101(b)(4)” in clause (v)(III) and inserting “section 101(b)(1)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 408(d)(8)(D) of the 1986 Code is amended by striking “all amounts distributed from all individual retirement plans were treated as 1 contract under paragraph (2)(A) for purposes of determining the inclusion of such distribution u… | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 501` | amend | The last sentence of section 303(g)(3)(B) of ERISA is amended to read as follows: “Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan's actuary on the basis of an assum… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | amend | The last sentence of section 430(g)(3)(B) of the 1986 Code is amended to read as follows: “Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan's actuary on the basis of … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | add-at-end | Paragraph (2) of section 205(d) of ERISA is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | add-at-end | Subsection (g) of section 417 of the 1986 Code is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
