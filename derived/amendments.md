@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 62
 congress: 110
-version: Agreed to Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 604(a)(5) of title 28, United States Code, is amended by inserting after “hold office during good behavior”, the following: “magistrate judges appointed under section 631 of this title,”. | the bill names no machine-readable US Code section |
+| `28 U.S.C. § 604` | insert | Section 604(a)(5) of title 28, United States Code, is amended by inserting after “hold office during good behavior”, the following: “magistrate judges appointed under section 631 of this title,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
