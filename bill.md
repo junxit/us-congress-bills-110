@@ -18,3 +18,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Commission* As used in this Act, the term Commission means the Consumer Product Safety Commission.
 - **(b)** *Consumer Product Safety Act* Except as otherwise expressly provided, whenever in this Act an amendment is expressed as an amendment to a section or other provision, the reference shall be considered to be made to a section or other provision of the Consumer Product Safety Act (15 U.S.C. 2051 et seq.).
+- **(c)** *Rule* In this Act and the amendments made by this Act, a reference to any rule under any Act enforced by the Commission shall be considered a reference to any rule, standard, ban, or order under any such Act.
+
+## § 3. Authority to issue implementing regulations
+
+The Commission may issue regulations, as necessary, to implement this Act and the amendments made by this Act.
