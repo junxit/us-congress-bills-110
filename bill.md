@@ -34,7 +34,7 @@ The Clayton Act is amended by adding at the end thereof the following:
 ## § 5. Federal trade commission enforcement
 
 - **(a)** *Clayton Act* Section 11(a) of the Clayton Act (15 U.S.C. 21(a)) is amended by striking “subject to jurisdiction” and all that follows through the first semicolon and inserting “subject to jurisdiction under subtitle IV of title 49, United States Code (except for agreements described in section 10706 of that title and transactions described in section 11321 of that title);”.
-- **(b)** *FTC Act* Section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 44(a)(1)) is amended by striking “common carriers subject” and inserting “common carriers, except for railroads, subject”.
+- **(b)** *FTC Act* Section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 44(a)(1)15 U.S.C. 45(a)(2)) is amended by striking “common carriers subject” and inserting “common carriers, except for railroads, subject”.
 
 ## § 6. Expansion of treble damages to rail common carriers
 
@@ -42,7 +42,7 @@ Section 4 of the Clayton Act (15 U.S.C. 15) is amended by—
 
 - **(1)** redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and
 - **(2)** inserting after subsection (a) the following:
-  > - **(b)** Subsection (a) shall apply to common carriers by rail subject to the jurisdiction of the Surface Transportation Board under subtitle IV of title 49, United States Code, without regard to whether such railroads have filed rates or whether a complaint challenging a rate has been filed.
+  > - **(b)** Subsection (a) shall apply to common carriers by raila common carrier by railroad subject to the jurisdiction of the Surface Transportation Board under subtitle IV of title 49, United States Code, without regard to whether such railroads have filed rates or whether a complaint challenging a rate has been filed.
 
 ## § 7. Termination of exemptions in title 49
 
@@ -64,7 +64,7 @@ Section 4 of the Clayton Act (15 U.S.C. 15) is amended by—
     - **(B)** by striking “is exempt from the antitrust laws and from all other law,” in the third sentence and inserting “is exempt from all other law (except the antitrust laws referred to in subsection (c)),”; and
   - **(2)** by adding at the end the following:
     > - **(c)** *Application of antitrust laws*
-    >   - **(1)** *In general* Nothing in this section exempts a transaction described in subsection (a) from the application of the Sherman Act (15 U.S.C. 1 et seq.), the Clayton Act (15 U.S.C. 12, 14 et seq.), the Federal Trade Commission Act (15 U.S.C. 41 et seq.), section 73 or 74 of the Wilson Tariff Act (15 U.S.C. 8–9), or the Act of June 19, 1936 (15 U.S.C. 13, 13a, 13b, 21a).
+    >   - **(1)** *In general* Nothing in this section exempts a transaction described in subsection (a) from the application of the Sherman Act (15 U.S.C. 1 et seq.), the Clayton Act (15 U.S.C. 12, 14 et seq.), the Federal Trade Commission Act (15 U.S.C. 41 et seq.), section 73 or 74 of the Wilson Tariff Act (15 U.S.C. 8–9), or the Act of June 19, 1936 (15 U.S.C. 13, 13a, 13b, 21a). The preceding sentence shall not apply to any transaction relating to the pooling of railroad cars approved by the Surface Transportation Board or its predecessor agency pursuant to section 11322 of title 49, United States Code.
     >   - **(2)** *Antitrust analysis to consider impact* In reviewing any such transaction for the purpose of any provision of law described in paragraph (1), the Board and any other reviewing agency shall take into account, among any other considerations, the impact of the transaction on shippers and on affected communities.
 
 - **(c)** *Conforming amendments*
