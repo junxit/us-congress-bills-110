@@ -1,7 +1,7 @@
 ---
 measure: S. 2478
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2478
@@ -16,9 +16,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Sununu, John E. [R-NH] (S001078)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Brown, Sherrod [D-OH] (B000944)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-12-13 — Introduced in Senate
 - 2007-12-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2007-12-13 — Sponsor introductory remarks on measure. (CR S15468-15469)
+- 2007-12-19 — Passed Senate without amendment by Unanimous Consent. (text: CR S16055)
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S16055)
+- 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S16055)
+- 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S16055)
