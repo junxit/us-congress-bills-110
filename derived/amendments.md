@@ -1,7 +1,7 @@
 ---
 measure: S. 772
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | The sixth undesignated paragraph of section 7 of the Clayton Act (15 U.S.C. 18) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Clayton Act is amended by adding at the end thereof the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 11(a) of the Clayton Act (15 U.S.C. 21(a)) is amended by striking “subject to jurisdiction” and all that follows through the first semicolon and inserting “subject to jurisdiction under subtitle IV of title 49, United States Code… | the bill names no machine-readable US Code section |
-| — | replace | Section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 44(a)(1)) is amended by striking “common carriers subject” and inserting “common carriers, except for railroads, subject”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5(a)(2) of the Federal Trade Commission Act (15 U.S.C. 44(a)(1)15 U.S.C. 45(a)(2)) is amended by striking “common carriers subject” and inserting “common carriers, except for railroads, subject”. | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2)(A), by striking “, and the Sherman Act (15 U.S.C. 1 et seq.),” and all that follows through “or carrying out the agreement” in the third sentence; | the bill names no machine-readable US Code section |
 | — | strike | by striking the second sentence; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “However, the” in the third sentence and inserting “The”; and | the bill names no machine-readable US Code section |
