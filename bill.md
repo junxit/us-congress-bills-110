@@ -32,7 +32,7 @@ This Act may be cited as the “Child Soldiers Accountability Act of 2007”.
     >   - **(1)** *Participate actively in hostilities* The term participate actively in hostilities means taking part in—
     >     - **(A)** combat or military activities related to combat, including scouting, spying, sabotage, and serving as a decoy, a courier, or at a military checkpoint; or
     >     - **(B)** direct support functions related to combat, including taking supplies to the front line and other services at the front line.
-    >   - **(2)** *Armed force or group* The term armed force or group means any army, militia, or other military organization, whether or not it is state-sponsored.
+    >   - **(2)** *Armed force or group* The term armed force or group means any army, militia, or other military organization, whether or not it is state-sponsored, excluding any group assembled solely for nonviolent political association.
 
   - **(2)** *Statute of limitations* Chapter 213 of title 18, United States Code is amended by adding at the end the following:
     > ## § 3300. Recruitment or use of child soldiers
