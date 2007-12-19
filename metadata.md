@@ -1,7 +1,7 @@
 ---
 measure: S. 2174
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2174
@@ -39,3 +39,14 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S14656-14657; text as passed Senate: CR S14656)
 - 2007-12-04 — Received in the House.
 - 2007-12-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-12 — Committee Consideration and Mark-up Session Held.
+- 2007-12-12 — Ordered to be Reported by Voice Vote.
+- 2007-12-17 — Cleared for White House.
+- 2007-12-17 — Considered under suspension of the rules. (consideration: CR H15481-15482)
+- 2007-12-17 — DEBATE - The House proceeded with forty minutes of debate on S. 2174.
+- 2007-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-17 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2007-12-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H15481)
+- 2007-12-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H15481)
+- 2007-12-19 — Presented to President.
+- 2007-12-19 — Presented to President.
