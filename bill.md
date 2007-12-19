@@ -1,6 +1,6 @@
 ---
 legis-num: S. CON. RES. 62
-congress: One Hundred Tenth Congress of the United States of America
+congress: 110th CONGRESS
 session: 1st Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
