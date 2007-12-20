@@ -1,7 +1,7 @@
 ---
 measure: S. 863
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 863
@@ -43,3 +43,10 @@ Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007
 - 2007-12-05 — Message on Senate action sent to the House.
 - 2007-12-05 — Received in the House.
 - 2007-12-05 — Referred to the House Committee on the Judiciary.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Considered under suspension of the rules. (consideration: CR H16864-16866)
+- 2007-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 863.
+- 2007-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-19 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2007-12-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR S16864-16865)
+- 2007-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR S16864-16865)
