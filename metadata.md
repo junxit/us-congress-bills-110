@@ -1,7 +1,7 @@
 ---
 measure: S. 1896
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1896
@@ -39,3 +39,12 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-08-04 — Message on Senate action sent to the House.
 - 2007-08-04 — Received in the House.
 - 2007-08-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-10-23 — Committee Consideration and Mark-up Session Held.
+- 2007-10-23 — Ordered to be Reported by Unanimous Consent.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Considered under suspension of the rules. (consideration: CR H16857-16858)
+- 2007-12-19 — DEBATE - The House proceeded with forty minutes of debate on S. 1896.
+- 2007-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-19 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2007-12-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H16857)
+- 2007-12-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H16857)
