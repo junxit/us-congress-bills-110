@@ -1,7 +1,7 @@
 ---
 measure: S. 2271
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2271
@@ -49,3 +49,12 @@ Sudan Accountability and Divestment Act of 2007
 - 2007-12-13 — Referred to the Committee on Financial Services, and in addition to the Committees on Oversight and Government Reform, Foreign Affairs, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-12-13 — Referred to the Committee on Financial Services, and in addition to the Committees on Oversight and Government Reform, Foreign Affairs, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-12-13 — Referred to the Committee on Financial Services, and in addition to the Committees on Oversight and Government Reform, Foreign Affairs, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-12-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2007-12-18 — Cleared for White House.
+- 2007-12-18 — Considered as unfinished business. (consideration: CR H16767-16768)
+- 2007-12-18 — Considered under suspension of the rules. (consideration: CR H16753-16760)
+- 2007-12-18 — DEBATE - The House proceeded with forty minutes of debate on S. 2271.
+- 2007-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-18 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
+- 2007-12-18 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 1179). (text: CR H16753-16755)
+- 2007-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 411 - 0 (Roll no. 1179).(text: CR H16753-16755)
