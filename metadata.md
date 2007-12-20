@@ -1,7 +1,7 @@
 ---
 measure: S. 2488
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2488
@@ -48,3 +48,10 @@ OPEN Government Act of 2007
 - 2007-12-14 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S15701-15704; text as passed Senate: CR S15701-15703)
 - 2007-12-17 — Received in the House.
 - 2007-12-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-18 — Cleared for White House.
+- 2007-12-18 — Considered under suspension of the rules. (consideration: CR H16788-16792)
+- 2007-12-18 — DEBATE - The House proceeded with forty minutes of debate on S. 2488.
+- 2007-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-18 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2007-12-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H16788-16790)
+- 2007-12-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H16788-16790)
