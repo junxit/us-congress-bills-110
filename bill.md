@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 4839
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H.R. 4839
@@ -276,7 +276,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
   - **(4)** Subsection (a) of section 34 is amended—
     - **(A)** in paragraph (1), by striking “with respect to gasoline used during the taxable year on a farm for farming purposes”,
-    - **(B)** in paragraph (2), by striking “with respect to gasoline used during the taxable year (A) otherwise than as a fuel in a highway vehicle or (B) in vehicles while engaged in furnishing certain public passenger land transportation service”, and
+    - **(B)** in paragraph (2), by striking “with respect to gasoline used during the taxable year: (A) otherwise than as a fuel in a highway vehicle; or (B) in vehicles while engaged in furnishing certain public passenger land transportation service”, and
     - **(C)** in paragraph (3), by striking “with respect to fuels used for nontaxable purposes or resold during the taxable year”.
   - **(5)** Paragraph (2) of section 35(d) is amended—
     - **(A)** by striking “paragraph (2) or (4) of”, and

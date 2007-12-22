@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4839
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4839
@@ -35,3 +35,4 @@ Tax Technical Corrections Act of 2007
 - 2007-12-19 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S16056-16060)
 - 2007-12-19 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S16056-16060)
 - 2007-12-19 — Referred to the House Committee on Ways and Means.
+- 2007-12-20 — Message on Senate action sent to the House.
