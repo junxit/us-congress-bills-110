@@ -1,7 +1,7 @@
 ---
 measure: S. 1916
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1916
@@ -41,3 +41,13 @@ Chimp Haven is Home Act
 - 2007-12-17 — Received in the House.
 - 2007-12-17 — Referred to the House Committee on Energy and Commerce.
 - 2007-12-17 — Referred to the Subcommittee on Health.
+- 2007-12-19 — Cleared for White House.
+- 2007-12-19 — Committee on Energy and Commerce discharged.
+- 2007-12-19 — Committee on Energy and Commerce discharged.
+- 2007-12-19 — Considered by unanimous consent. (consideration:  CR H16922-16923)
+- 2007-12-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-12-19 — Mrs. McCarthy (NY) asked unanimous consent to discharge from committee and consider.
+- 2007-12-19 — On passage Passed without objection. (text: CR H16922-16923)
+- 2007-12-19 — Passed/agreed to in House: On passage Passed without objection.(text: CR H16922-16923)
+- 2007-12-21 — Presented to President.
+- 2007-12-21 — Presented to President.
