@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 Subsection (a) of section 24 of the United States Housing Act of 1937 (42 U.S.C. 1437v(a)) is amended—
 
-- **(1)** in paragraph (1), by inserting before “through” the following: “located in communities of all sizes, including small and medium communities,”;
+- **(1)** in paragraph (1), by inserting before “through” the following: “located in communities of all sizes, including small- and medium-sized communities,”;
 - **(2)** in paragraph (3)—
   - **(A)** by inserting “low- and” before “very low-income”; and
   - **(B)** by striking “and” at the end;
@@ -53,7 +53,7 @@ Section 24 is amended—
 Section 24 is amended—
 
 - **(1)** by striking subsection (n) (relating to grants for assisting affordable housing developed through main street projects in smaller communities);
-- **(2)** in subsection (a), by striking the last sentence (that appears after and below paragraph (4));
+- **(2)** in subsection (a), by striking the last sentence (that appears after and below paragraph (5), as added by section 2(4) of this Act);
 - **(3)** in subsection (l)—
   - **(A)** in paragraph (3), by striking “, including a specification of the amount and type of assistance provided under subsection (n);” and inserting “; and”; and
   - **(B)** by striking paragraph (4); and
@@ -63,7 +63,7 @@ Section 24 is amended—
 
 Paragraph (1) of section 24(d) is amended—
 
-- **(1)** in the matter preceding subparagraph (A), by striking “program” and inserting “plan”;
+- **(1)** in the matter preceding subparagraph (A), by striking “programs” and inserting “plans”;
 - **(2)** in subparagraph (G), by striking “program” and inserting “plan”;
 - **(3)** by striking subparagraph (J) and inserting the following new subparagraph:
   > - **(J)** the acquisition and development of replacement housing units in accordance with subsection (j);
@@ -73,7 +73,7 @@ Paragraph (1) of section 24(d) is amended—
   - **(A)** by striking “15 percent” and inserting “25 percent”; and
   - **(B)** by striking the period at the end and inserting a semicolon; and
 - **(6)** by adding at the end the following new subparagraphs:
-  > - **(M)** necessary costs of ensuring the effective temporary and permanent relocation of residents displaced as a result of the revitalization of the project, including costs of monitoring as required under subsection (k); and
+  > - **(M)** necessary costs of ensuring the effective relocation of residents displaced as a result of the revitalization of the project, including costs of monitoring as required under subsection (k); and
   > - **(N)** activities undertaken to comply with the provisions of (B)(vii) and (C)(xiii) of subsection (e)(2) and subsection (l) (relating to green developments).
 
 ## § 7. Selection of proposals for grants
@@ -111,12 +111,13 @@ Paragraph (1) of section 24(d) is amended—
   >       - **(I)** in the case of residential construction, complies with the nonmandatory items of the national Green Communities criteria checklist identified in subsection (l)(1)(A), or any substantially equivalent standard as determined by the Secretary, but only to the extent such compliance exceeds the compliance necessary to accumulate the number of points required under such subsection; and
   >       - **(II)** in the case of non-residential construction, includes non-mandatory components of version 2.2 of the Leadership in Energy and Environmental Design (LEED) green building rating system for New Construction and Major Renovations, version 2.0 of the LEED for Core and Shell rating system, or version 2.0 of the LEED for Commercial Interiors rating system, as applicable, or any substantially equivalent standard as determined by the Secretary, but only to the extent such inclusion exceeds the inclusion necessary to accumulate the number of points required under such system.
   >     - **(xiii)** *Hard-to-house families* The extent to which the one-for-one replacement plan under subparagraph (B)(v) for the revitalization plan provides replacement housing that is likely to be most appropriate and beneficial for families whose housing needs are difficult to fulfill, including individuals who are not ineligible for occupancy in public housing pursuant to subsection (m)(2), have been released from a State or Federal correctional facility, have not been arrested for or charged with any crime during the period beginning upon probation or parole and ending one year after completion of probation or parole, and for whom affordable housing is a critical need.
-  >     - **(xiv)** *Additional on-site mixed-income housing* The extent to which the one-for-one replacement plan under subparagraph (B)(v) provides public housing units in addition to the number necessary to minimally comply with the requirement under subsection (j)(2)(A)(i), including the extent to which such plan provides sufficient housing for elderly and disabled residents who indicate a preference to return to housing provided on the site of the original public housing involved in the revitalization plan and complies with the requirements of subsection (j)(2)(A)(ii).
-  >     - **(xv)** *Other* Such other factors as the Secretary considers appropriate.
+  >     - **(xiv)** *Family-friendly housing* The extent to which replacement housing units provided through the revitalization plan contain a sufficient number of bedrooms to prevent overcrowding.
+  >     - **(xv)** *Additional on-site mixed-income housing* The extent to which the one-for-one replacement plan under subparagraph (B)(v) provides public housing units in addition to the number necessary to minimally comply with the requirement under subsection (j)(2)(A)(i), including the extent to which such plan provides sufficient housing for elderly and disabled residents who indicate a preference to return to housing provided on the site of the original public housing involved in the revitalization plan and complies with the requirements of subsection (j)(2)(A)(ii).
+  >     - **(xvi)** *Other* Such other factors as the Secretary considers appropriate.
 
 - **(b)** *Treatment of low-income housing tax credit allocations; mandatory site visits* Section 24(e), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new paragraphs:
   > - **(5)** *Treatment of low-income housing tax credit allocation* In the case of any application for a grant under this section that relies on the allocation of any low-income housing tax credit provided pursuant to section 42 of the Internal Revenue Code of 1986 as part of the revitalization plan proposed in the application, the Secretary shall not require that the first phase of any project to be developed under the plan possess an allocation of such low-income housing tax credits at the time of such application.
-  > - **(6)** *Mandatory site visits* Notwithstanding any other provision of law, the Secretary shall provide for appropriate officers or employees of the Department of Housing and Urban Development to conduct a visit to the site of the public housing involved in the revitalization plan proposed under each application for a grant under this section that is involved in a final selection of applications to be funded under this section. Site visits pursuant to this paragraph shall be used only for the purpose of obtaining information to assist in making such final selections, including information for use in determining whether the public housing projects involved in the application are severely distressed public housing.
+  > - **(6)** *Mandatory site visits* Notwithstanding any other provision of law, the Secretary shall provide for appropriate officers or employees of the Department of Housing and Urban Development to conduct a visit to the site of the public housing involved in the revitalization plan proposed under each application for a grant under this section that is involved in a final selection of applications to be funded under this section. Site visits pursuant to this paragraph shall be used only for the purpose of obtaining information to assist in determining whether the public housing projects involved in the application are severely distressed public housing.
 
 ## § 8. Requirements for mandatory core components
 
@@ -154,13 +155,14 @@ Section 24 is amended—
   >       - **(i)** the expiration of the two-year period that begins upon the end of the development period under the plan; and
   >       - **(ii)** the date on which all funding under the grant for community and supportive services has been expended.
   > - **(h)** *Relocation program* Each recipient of a grant under this section shall—
-  >   - **(1)** provide for each household displaced by the revitalization plan for which the grant is made to be relocated to comparable housing pursuant to section 18(a)(4)(A)(iii) and for payment of actual and reasonable relocation expenses of each such household pursuant to section 18(a)(4)(B);
+  >   - **(1)** provide for each household displaced by the revitalization plan for which the grant is made to be relocated to a comparable replacement dwelling, as defined in section 101 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601), and for payment of actual and reasonable relocation expenses of each such household and any replacement housing payments as are required by the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970;
   >   - **(2)** fully inform such households of all relocation options, which may include relocating to housing in a neighborhood with a lower concentration of poverty than their current residence or remaining in the housing to which they relocate;
-  >   - **(3)** establish strategies and plans that assist such displaced residents in utilizing tenant-based vouchers to select housing opportunities, including in communities with a lower concentration of poverty, that—
+  >   - **(3)** to the maximum extent possible, minimize academic disruptions on affected children enrolled in school by coordinating relocation with school calendars;
+  >   - **(4)** establish strategies and plans that assist such displaced residents in utilizing tenant-based vouchers to select housing opportunities, including in communities with a lower concentration of poverty, that—
   >     - **(A)** will not result in a financial burden to the family; and
   >     - **(B)** will promote long-term housing stability;
-  >   - **(4)** establish and comply with relocation benchmarks that ensure successful relocation in terms of timeliness; and
-  >   - **(5)** notwithstanding any other provision of law, in the case of any tenant-based assistance made available for relocation of a household under this subsection, provide that the term during which the household may lease a dwelling unit using such assistance shall not be shorter than 150 days; if the household is unable to lease a dwelling unit during such period, the public housing agency shall either extend the period during which the household may lease a dwelling unit using such assistance or provide the tenant with the next available dwelling unit owned by the public housing agency.
+  >   - **(5)** establish and comply with relocation benchmarks that ensure successful relocation in terms of timeliness; and
+  >   - **(6)** notwithstanding any other provision of law, in the case of any tenant-based assistance made available for relocation of a household under this subsection, provide that the term during which the household may lease a dwelling unit using such assistance shall not be shorter than 150 days; if the household is unable to lease a dwelling unit during such period, the public housing agency shall either extend the period during which the household may lease a dwelling unit using such assistance or provide the tenant with the next available dwelling unit owned by the public housing agency.
   > - **(i)** *Right to expanded housing opportunities for resident households*
   >   - **(1)** *In general* Subject only to paragraph (3), each revitalization plan assisted with a grant under this section shall make available, to each household occupying a dwelling unit in the public housing subject to a revitalization plan that is displaced as a result of the revitalization plan (including any demolition or disposition of the unit), occupancy for such household in a replacement dwelling unit provided pursuant to subsection (j). To exercise such right under this paragraph to occupancy in such a replacement dwelling unit, the household shall respond in writing to the notice provided pursuant to subsection (g)(2)(C) by the public housing agency.
   >   - **(2)** *Preferences* Such a replacement dwelling unit shall be made available to each household displaced as a result of the revitalization plan before any replacement dwelling unit is made available to any other eligible household.
@@ -169,16 +171,16 @@ Section 24 is amended—
   >   - **(1)** *Number* For one hundred percent of all such dwelling units in existence as of the date of the application for the grant that are demolished or disposed under the revitalization plan, the public housing agency carrying out the plan shall provide an additional dwelling unit.
   >   - **(2)** *Location* Such dwelling units shall be provided in the following manner:
   >     - **(A)** *On-site mixed-income housing*
-  >       - **(i)** *One-third requirement* A mixed-income housing development shall be provided on the site of the original public housing involved in the revitalization plan in which, except as provided in clause (iii), at least one-third of all dwelling units shall be public housing dwelling units and shall be provided through the acquisition or development of additional public housing dwelling units.
+  >       - **(i)** *One-third requirement* A mixed-income housing development shall be provided on the site of the original public housing involved in the revitalization plan in which, except as provided in clause (iii), at least one-third of all dwelling units shall be public housing dwelling units and shall be provided through the development of additional public housing dwelling units.
   >       - **(ii)** *Requirements for additional on-site units* If the mixed-income housing development provided pursuant to clause (i) includes more public housing dwelling units at the site of the original public housing than is minimally necessary to comply with such clause, the public housing agency shall consult with residents, community leaders, and local government officials regarding such additional public housing dwelling units and shall ensure that such units are provided in a manner that affirmatively furthers fair housing.
   >       - **(iii)** *Exception* If, upon a showing by a public housing agency, the Secretary determines that it is infeasible to locate replacement dwelling units on the site of the original public housing involved in the revitalization plan in accordance with clause (i), all replacement units shall be located in areas within the jurisdiction of the public housing agency having low concentrations of poverty, except that at least one mixed-income housing development shall be provided in such an area within the jurisdiction of the public housing agency and that one-third of all units in such development shall be public housing dwelling units. The Secretary may make a finding of infeasibility under this clause only if—
-  >         - **(I)** such location on-site would result in the violation of an existing consent decree; or
-  >         - **(II)** the land on which the public housing is located is environmentally unsafe, geologically unstable, or otherwise unsuitable for the construction of housing.
+  >         - **(I)** such location on-site would result in the violation of a consent decree; or
+  >         - **(II)** the land on which the public housing is located is environmentally unsafe, geologically unstable, or otherwise unsuitable for the construction of housing, as evidenced by an independent environmental review or assessment.
   >       - **(iv)** *Deconcentration of poverty* All dwelling units provided pursuant to this subparagraph shall be provided in a manner that results in decreased concentrations of poverty, with respect to such concentrations existing on the date of the application for the grant under this section.
   >     - **(B)** *Off-site mixed-income housing* Any other replacement housing units provided in addition to the dwelling units provided pursuant to subparagraph (A) shall be provided, in areas within the jurisdiction of the public housing agency having low concentrations of poverty, through—
   >       - **(i)** the acquisition or development of additional public housing dwelling units; or
   >       - **(ii)** the acquisition, development, or contracting (including through project-based assistance) of additional dwelling units that are subject to requirements regarding eligibility for occupancy, tenant contribution toward rent, and long-term affordability restrictions which are comparable to public housing units, except that subparagraphs (B) and (D) of section 8(o)(13) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13); relating to percentage limitation and income-mixing requirement for project-based assistance) shall not apply with respect to vouchers used to comply with the requirements of this clause.
-  >   - **(3)** *Timing* All replacement dwelling units provided pursuant to this subsection shall be provided not later than the expiration of the 12-month period beginning upon the demolition or disposition of the public housing dwelling units. To the greatest extent practicable, such replacement or additional dwelling units, or redevelopment, shall be accomplished in phases over time and, in each such phase, the public housing dwelling units and the dwelling units described in subparagraph (B)(ii) of paragraph (2) shall be made available for occupancy before any nonassisted dwelling unit is made available for occupancy.
+  >   - **(3)** *Timing* All replacement dwelling units provided pursuant to this subsection shall be provided not later than the expiration of the 12-month period beginning upon the demolition or disposition of the public housing dwelling units, except that replacement dwelling units financed with a low-income housing tax credit under section 42 of the Internal Revenue Code of 1986 in connection with the revitalization plan shall be provided not later than the expiration of the 12-month period beginning upon the allocation of such low-income housing tax credit. To the greatest extent practicable, such replacement or additional dwelling units, or redevelopment, shall be accomplished in phases over time and, in each such phase, the public housing dwelling units and the dwelling units described in subparagraph (B)(ii) of paragraph (2) shall be made available for occupancy before any nonassisted dwelling unit is made available for occupancy.
   >   - **(4)** *Fair housing* The demolition or disposition, relocation, and provision of replacement housing units under paragraph (2)(B) shall be carried out in a manner that affirmatively furthers fair housing, as described in subsection (e) of section 808 of the Civil Rights Act of 1968 (42 U.S.C. 3608(e)).
   > - **(k)** *Monitoring of displaced households*
   >   - **(1)** *PHA responsibilities* To facilitate compliance with the requirement under subsection (i) (relating to right to expanded housing opportunities), the Secretary shall, by regulation, require each public housing agency that receives a grant under this section, during the period of the revitalization plan assisted with the grant and until all funding under the grant has been expended—
@@ -201,10 +203,10 @@ Section 24 is amended—
   >       - **(ii)** Upon completion of the revitalization plan of the grantee.
   >   - **(3)** *Applicability and updating of standards*
   >     - **(A)** *Applicability* Except as provided in subparagraph (B), the national Green Communities criteria checklist and LEED rating systems referred to in subparagraphs (A) and (B) that are in effect for purposes of this subsection are such checklist and systems as in existence upon the date of the enactment of the HOPE VI Improvement and Reauthorization Act of 2007.
-  >     - **(B)** *Updating* The Secretary may, by regulation, adopt and apply, for purposes of this section, future amendments and supplements to, and editions of, the national Green Communities criteria checklist and the LEED rating systems.
+  >     - **(B)** *Updating* The Secretary may, by regulation, adopt and apply, for purposes of this section, future amendments and supplements to, and editions of, the national Green Communities criteria checklist, the LEED rating systems, and any standard that the Secretary has determined to be substantially equivalent to such checklist or systems.
   > - **(m)** *Fair housing; limitation on exclusion*
   >   - **(1)** *Fair housing* Each revitalization plan assisted under this section shall affirmatively further fair housing, as described in subsection (e) of section 808 of the Civil Rights Act of 1968.
-  >   - **(2)** *Limitation on exclusion* Except to the extent necessary to comply with the requirements of this section, replacement housing provided pursuant to subsection (j) under a revitalization plan of a public housing agency that is owned or managed, or assisted, by the agency shall be subject to the same policies, practices, standards, and criteria regarding waiting lists, tenant screening (including screening criteria, such as credit checks), and occupancy that apply to other housing owned or managed, or assisted, respectively, by such agency. A household may not be prevented from occupying a replacement dwelling unit provided pursuant to subsection (j), except to the extent specifically provided by any other provision of Federal law (including subtitle F of title V of the Quality Housing and Work Responsibility Act of 1998 (42 U.S.C. 13661 et seq.; relating to safety and security in public and assisted housing and ineligibility of drug criminals, illegal drug users, alcohol abusers, and dangerous sex offenders), subtitle D of title VI of the Housing and Community Development Act of 1992), (42 U.S.C. 13611 et seq.; relating to preferences for elderly and disabled residents), and section 16(f) of the United States Housing Act of 1937 (42 U.S.C. 1437n(f); relating to ineligibility of persons convicted of methamphetamine offenses)).
+  >   - **(2)** *Limitation on exclusion* Except to the extent necessary to comply with the requirements of this section, replacement housing provided pursuant to subsection (j) under a revitalization plan of a public housing agency that is owned or managed, or assisted, by the agency shall be subject to the same policies, practices, standards, and criteria regarding waiting lists, tenant screening (including screening criteria, such as credit checks), and occupancy that apply to other housing owned or managed, or assisted, respectively, by such agency. A household may not be prevented from occupying a replacement dwelling unit provided pursuant to subsection (j), or from being provided a tenant-based voucher under the revitalization plan, except to the extent specifically provided by any other provision of Federal law (including subtitle F of title V of the Quality Housing and Work Responsibility Act of 1998 (42 U.S.C. 13661 et seq.; relating to safety and security in public and assisted housing and ineligibility of drug criminals, illegal drug users, alcohol abusers, and dangerous sex offenders), subtitle D of title VI of the Housing and Community Development Act of 1992), (42 U.S.C. 13611 et seq.; relating to preferences for elderly and disabled residents), and section 16(f) of the United States Housing Act of 1937 (42 U.S.C. 1437n(f); relating to ineligibility of persons convicted of methamphetamine offenses)).
   > - **(n)** *Enforcement*
   >   - **(1)** *Administrative enforcement* If the Secretary determines on the record after opportunity for an agency hearing, pursuant to a request made by any member of household described in subsection (i)(1) who is adversely affected or aggrieved by a violation of subsection (g), (h), (i), (j), (k), (m), or (o), that such a violation has occurred, the Secretary shall issue an order requiring the public housing agency committing such violation to cease and desist for such violation and to take any affirmative action necessary to correct or remedy the conditions resulting from such violation.
   >   - **(2)** *Availability of other remedies* The remedy under paragraph (1) shall be in addition to all other rights and remedies provided by law.
@@ -219,14 +221,21 @@ Section 24 is amended—
   >     - **(A)** litigation;
   >     - **(B)** obtaining approvals of the Federal Government or a State or local government;
   >     - **(C)** complying with environmental assessment and abatement requirements;
-  >     - **(D)** relocating residents; or
-  >     - **(E)** any other reason established by the Secretary by notice published in the Federal Register.
+  >     - **(D)** relocating residents;
+  >     - **(E)** resident involvement that leads to significant changes to the revitalization plan; or
+  >     - **(F)** any other reason established by the Secretary by notice published in the Federal Register.
   >   - **(4)** *Authority of Secretary* In determining the amount of each grant under this section and the closeout date for the grant, the Secretary shall take into consideration the scope, scale, and size of the revitalization plan assisted under the grant.
   > - **(p)** *Applicability of other laws*
   >   - **(1)** *Section 18* Any severely distressed public housing demolished or disposed of pursuant to a revitalization plan and any public housing developed in lieu of such severely distressed housing shall be subject to the provisions of section 18. To the extent the provisions of section 18 conflict with or are duplicative of the provisions of this section, the provisions of this section solely shall apply.
   >   - **(2)** *URA* The Uniform Relocation and Real Property Acquisition Policies Act of 1974 shall apply to all relocation activities pursuant to a revitalization plan under this section.
 
-## § 9. Annual report; availability of documents
+## § 9. Planning and technical assistance grants
+
+Subsection (v) of section 24 (42 U.S.C. 1437v(v)), as so redesignated by section 8(1), is amended by striking paragraph (2) and inserting the following new paragraph:
+
+> - **(2)** *Technical assistance grants* Subject only to approvable requests for grants pursuant to paragraph (1) for any fiscal year, the Secretary shall use not less than two percent for grants in such fiscal year to recipients of grants under this section to assist such recipients in obtaining technical assistance in carrying out revitalization programs.
+
+## § 10. Annual report; availability of documents
 
 Subsection (u) of section 24, as so redesignated by section 8(1) of this Act, is amended—
 
@@ -235,15 +244,16 @@ Subsection (u) of section 24, as so redesignated by section 8(1) of this Act, is
 
 - **(2)** by adding at the end the following:
 
-## § 10. Definitions
+## § 11. Definitions
 
 Subsection (s) of section 24, as so redesignated by section 8(l) of this Act, is amended—
 
-- **(1)** in clauses (i) and (iii) of paragraph (1)(C), by striking “program” each place such term appears and inserting “plan”;
+- **(1)** in clauses (i) and (iii) of paragraph (1)(C), by striking program each place such term appears and inserting plan;
 - **(2)** in paragraph (3)—
   - **(A)** by striking “Supportive” and inserting “Community and supportive”;
-  - **(B)** by inserting “community and” before “supportive services”; and
-  - **(C)** by inserting after “transportation,” the following: “employment and vocational counseling, financial counseling, life skills training, ”;
+  - **(B)** by inserting “community and” before “supportive services”;
+  - **(C)** by inserting before the period at the end the following: “, and such other services that, linked with affordable housing, will improve the health and residential stability of public housing residents”; and
+  - **(D)** by inserting after “transportation,” the following: “employment and vocational counseling, financial counseling, life skills training, ”;
 - **(3)** by redesignating paragraph (3) as paragraph (6);
 - **(4)** by inserting after paragraph (2), the following new paragraph:
   > - **(5)** *Significant amendment or change* The term significant means, with respect to an amendment or change to a revitalization plan, that the amendment or change—
@@ -256,26 +266,26 @@ Subsection (s) of section 24, as so redesignated by section 8(l) of this Act, is
   > - **(2)** *Comprehensive relocation assistance* The term comprehensive relocation assistance means comprehensive assistance necessary to relocate the members of a household, and includes counseling, including counseling regarding housing options and locations and use of tenant-based assistance, case management services, assistance in locating a suitable residence, site tours, and other assistance.
   > - **(3)** *Development* The term development has the same meaning given such term in the first sentence of paragraph (1) of section 3(c) (42 U.S.C. 1437a).
 
-## § 11. Conforming amendment
+## § 12. Conforming amendment
 
-Paragraph (1) of section 24(f) is amended by striking “programs” and inserting “plan”.
+Paragraph (1) of section 24(f) is amended by striking “programs” and inserting “plans”.
 
-## § 12. Authorization of appropriations
+## § 13. Authorization of appropriations
 
-Subsection (v)(1) of section 24, as so redesignated by section 8(1) of this Act, is amended by striking all that follows “section” and inserting “$800,000,000 for each of fiscal years 2008 through 2015”.
+Subsection (v)(1) of section 24, as so redesignated by section 8(1) of this Act, is amended by striking all that follows “section” and inserting “$800,000,000 for each of fiscal years 2008 through 2015.”.
 
-## § 13. Extension of program
+## § 14. Extension of program
 
-Subsection (w) of section 24, (as so redesignated by section 8(1) of this Act) is amended by striking “September 30, 2006” and inserting “September 30, 2015”.
+Subsection (w) of section 24, (as so redesignated by section 8(2) of this Act) is amended by striking “September 30, 2007” and inserting “September 30, 2015”.
 
-## § 14. Review
+## § 15. Review
 
 The Comptroller General of the United States shall—
 
 - **(1)** conduct a review of activities, actions, and methods used in revitalization plans assisted under section 24 of the United States Housing Act of 1937 to determine which may be transferable to other federally-assisted housing programs; and
 - **(2)** make recommendations to the Congress regarding the activities, actions, and methods reviewed under paragraph (1) not later than the expiration of the 3-year period beginning on the date of the enactment of this Act.
 
-## § 15. Regulations
+## § 16. Regulations
 
 Section 24, as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
 
