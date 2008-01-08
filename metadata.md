@@ -1,7 +1,7 @@
 ---
 measure: S. 550
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 550
@@ -30,3 +30,7 @@ A bill to preserve existing judgeships on the Superior Court of the District of 
 - 2007-02-12 — Introduced in Senate
 - 2007-02-12 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S1854)
 - 2007-02-12 — Sponsor introductory remarks on measure. (CR S1854)
+- 2007-02-15 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-01-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 12/19/2007 without amendment. With written report No. 110-256.
+- 2008-01-08 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 12/19/2007 without amendment. With written report No. 110-256.
+- 2008-01-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
