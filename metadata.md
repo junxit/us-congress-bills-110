@@ -1,7 +1,7 @@
 ---
 measure: S. 2478
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2478
@@ -34,3 +34,7 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2007-12-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S16055)
 - 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S16055)
 - 2007-12-19 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S16055)
+- 2007-12-20 — Held at the desk.
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2007-12-20 — Received in the House.
+- 2008-01-15 — Referred to the House Committee on Oversight and Government Reform.

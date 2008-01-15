@@ -1,8 +1,8 @@
 ---
 legis-num: S. 2478
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 2478
