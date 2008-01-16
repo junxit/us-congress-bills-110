@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4253
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment House
 ---
 
 # H.R. 4253
@@ -43,3 +43,12 @@ Military Reservist and Veteran Small Business Reauthorization and Opportunity Ac
 - 2007-12-06 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-12-06 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 2 (Roll no. 1138). (text: CR 12/5/2007 H14218-14221)
 - 2007-12-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 2 (Roll no. 1138).(text: CR 12/5/2007 H14218-14221)
+- 2007-12-07 — Received in the Senate, read twice.
+- 2007-12-19 — Measure laid before Senate by unanimous consent. (consideration: CR S15952)
+- 2007-12-19 — Passed Senate in lieu of S.1784 with an amendment by Unanimous Consent.
+- 2007-12-19 — Passed/agreed to in Senate: Passed Senate in lieu of S.1784 with an amendment by Unanimous Consent.
+- 2007-12-19 — See also S.1784.
+- 2007-12-19 — Senate struck all after the Enacting Clause and substituted the language of S. 1784 amended.
+- 2007-12-20 — Message on Senate action sent to the House.
+- 2008-01-16 — House agreed to Senate amendment with amendment pursuant to H. Res. 921. (consideration: CR H44-45)
+- 2008-01-16 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 921.(consideration: CR H44-45)
