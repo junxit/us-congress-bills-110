@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3959
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *In General* Section 1308(c) of the National Flood Insurance Act of 1968 (42 U.S.C. 4015(c)) is amended—
   - **(1)** by redesignating paragraph (2) as paragraph (3); and
   - **(2)** by inserting after paragraph (1) the following new paragraph:
-    > - **(2)** *Recently purchased pre-FIRM properties* Any property that—
+    > - **(2)** *Recently purchased pre-FIRM single family properties used as principal residences* Any single family property that is used as a principal residence that—
     >   - **(A)** has been constructed or substantially improved and for which such construction or improvement was started, as determined by the Director, before December 31, 1974, or before the effective date of the initial rate map published by the Director under paragraph (2) of section 1360 for the area in which such property is located, whichever is later; and
     >   - **(B)** is purchased—
     >     - **(i)** after the date of enactment of this paragraph; and
