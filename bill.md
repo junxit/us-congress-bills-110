@@ -1,20 +1,25 @@
 ---
 legis-num: H.R. 4253
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H.R. 4253
 
-> To improve and expand small business assistance programs for veterans of the armed forces and military reservists, and for other purposes.
+That the House agree to the amendment of the Senate to the bill (H.R. 4253) entitled “An Act to improve and expand small business assistance programs for veterans of the armed forces and military reservists, and for other purposes”, with the following:
 
-## § 1. Short title; table of contents
+*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
 
-- **(a)** *Short title* This Act may be cited as the “Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2007”.
-- **(b)** *Table of contents* The table of contents for this Act is as follows:
+## § 1. Short title
 
-## § 2. Definitions
+This Act may be cited as the “Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008”.
+
+## § 2. Table of contents
+
+The table of contents for this Act is as follows:
+
+## § 3. Definitions
 
 In this Act—
 
