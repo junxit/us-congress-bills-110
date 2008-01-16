@@ -1,0 +1,25 @@
+---
+legis-num: H. RES. 924
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 924
+
+> Congratulating Iowa State University of Science and Technology for 150 years of leadership and service to the United States and the world as Iowa’s land-grant university.
+
+## Preamble
+
+- Whereas Iowa State University of Science and Technology was established by the Iowa General Assembly on March 22, 1858, as the Iowa Agricultural College and Model Farm in response to the State of Iowa’s desire to provide higher education opportunities to farm families and working classes in Iowa, predating the passage of the Federal Morrill Act by 4 years;
+- Whereas on September 3, 1862, Iowa became the first State in the United States to accept the terms and conditions of the Morrill Act creating the land-grant system of colleges and universities;
+- Whereas the Iowa Agricultural College and Model Farm, known today as Iowa State University of Science and Technology, received Iowa’s land-grant charter on March 29, 1864, making it one of the first land-grant institutions in the United States;
+- Whereas Iowa State University was a pioneer in all 3 parts of the land-grant mission, including— (1)allowing access to all, regardless of race, gender, or social class; (2)practical research; and (3)outreach;
+- Whereas Iowa State University fulfilled the 3 parts of the land-grant mission by— (1)creating the first land-grant institution to be coeducational from its opening, with 16 women in its first class; future suffragist Carrie Chapman Catt was an 1880 graduate; and George Washington Carver was the first African-American student, earning a bachelor’s degree in 1894 and a master’s degree in 1896, and was also the institution’s first African-American faculty member; (2)establishing the United States’ first Engineering Experiment Station and domestic economy experimental kitchen, and one of the first agriculture experiment stations; and (3)organizing the Farmers Institutes in the winter of 1869, by Iowa State President Adonijah Welch, and organizing the nation’s first county Extension Service in 1903 in Sioux County in northwest Iowa by Professor Perry Holden;
+- Whereas some of the most important technological advancements of the modern world were the result of research at Iowa State, including— (1)development of hybrid seed corn in the 1920s; (2)pioneering work on soybean oil extraction and producing ethanol from corn and other plant materials by Professor Orland Sweeney in the 1930s; (3)invention of the electronic digital computer in the late 1930s by Professor John Atanasoff and graduate student Clifford Berry, whose Atanasoff-Berry Computer was the first to incorporate the 7 basic principles of modern computing; (4)laying the foundation for the modern plastics industry with polyethylene research by Professor Henry Gilman; (5)development of the process still used today to refine pure rare-earth materials, including reactor-grade uranium, by Professor Frank Spedding and Harley Wilhelm, as a result of Iowa State’s key role in the Manhattan Project in WWII; (6)development of modern livestock animal genetics by Professor Jay Lush; and (7)first field-testing of a genetically altered plant (tobacco) in 1987 and genetically altered tree (poplar) in 1989 by Professor Robert Thornburg;
+- Whereas Iowa State hired one of the first permanent campus artists-in-residence, with sculptor Christian Petersen holding that position from 1934 to 1955 and providing hundreds of sculptures and other art objects to the university, whose Art on Campus collection today includes more than 600 major public works of art;
+- Whereas Iowa State has had a technology transfer office since 1935, longer than all but one other university in the United States, and is acknowledged today as a leader in putting technology to work, being cited as a “model of economic development” and “licensing powerhouse” in a 2007 study commissioned by the National Science Foundation;
+- Whereas Iowa State University is today spearheading new advances in science and technology, including new materials, information sciences, green architecture, biological research, and the development of biorenewable fuels and other resources to support the bioeconomy and the Nation’s independence from nonrenewable petroleum resources; and
+- Whereas more than 257,000 degrees have been awarded by Iowa State, and its graduates include heads of State, leaders of industry, great humanitarians, and gifted scientists, whose work has improved the quality of life for people worldwide: Now, therefore, be it
+
+That the United States House of Representatives congratulates Iowa State University of Science and Technology for 150 years of outstanding service to the State of Iowa, the United States, and the world in fulfilling its mission as a land-grant university; and thanks the State of Iowa for its visionary leadership in the beginning of the land-grant movement in the United States of America.
