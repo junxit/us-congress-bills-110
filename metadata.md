@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 912
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 912
@@ -16,7 +16,7 @@ Condemning the assassination of former Pakistani Prime Minister Benazir Bhutto a
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 
-## Cosponsors (20)
+## Cosponsors (31)
 
 - Rep. Pence, Mike [R-IN-6] (P000587)
 - Rep. Lantos, Tom [D-CA-12] (L000090)
@@ -38,13 +38,36 @@ Condemning the assassination of former Pakistani Prime Minister Benazir Bhutto a
 - Rep. Dreier, David [R-CA-26] (D000492)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Pitts, Joseph R. [R-PA-16] (P000373)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2008-01-16 — [House 110-2-3](votes/house-110-2-0003.md) — On Motion to Suspend the Rules and Agree — **Passed** (413–0)
 
 ## Actions
 
 - 2008-01-15 — Introduced in House
 - 2008-01-15 — Introduced in House
 - 2008-01-15 — Referred to the House Committee on Foreign Affairs.
+- 2008-01-16 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-01-16 — Considered as unfinished business. (consideration: CR H44)
+- 2008-01-16 — Considered under suspension of the rules. (consideration: CR H30-35)
+- 2008-01-16 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 912.
+- 2008-01-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-16 — Mr. Ackerman moved to suspend the rules and agree to the resolution.
+- 2008-01-16 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 3). (text: CR H30)
+- 2008-01-16 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 3).(text: CR H30)
