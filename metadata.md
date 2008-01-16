@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4253
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 4253
@@ -48,3 +48,14 @@ Military Reservist and Veteran Small Business Reauthorization and Opportunity Ac
 - 2007-12-20 — Message on Senate action sent to the House.
 - 2008-01-16 — House agreed to Senate amendment with amendment pursuant to H. Res. 921. (consideration: CR H44-45)
 - 2008-01-16 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 921.(consideration: CR H44-45)
+- 2008-01-22 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2008-01-31 — Cleared for White House.
+- 2008-01-31 — Resolving differences -- Senate actions: Senate agreed to House amendment by Unanimous Consent.(consideration: CR S555-559; text as Senate agreed to House amendment: CR S556-558)
+- 2008-01-31 — Senate agreed to House amendment by Unanimous Consent. (consideration: CR S555-559; text as Senate agreed to House amendment: CR S556-558)
+- 2008-02-04 — Message on Senate action sent to the House.
+- 2008-02-07 — Presented to President.
+- 2008-02-07 — Presented to President.
+- 2008-02-14 — Became Public Law No: 110-186.
+- 2008-02-14 — Became Public Law No: 110-186.
+- 2008-02-14 — Signed by President.
+- 2008-02-14 — Signed by President.

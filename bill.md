@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 4253
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the House of Representatives, U. S.,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 4253
 
-That the House agree to the amendment of the Senate to the bill (H.R. 4253) entitled “An Act to improve and expand small business assistance programs for veterans of the armed forces and military reservists, and for other purposes”, with the following:
-
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+> To improve and expand small business assistance programs for veterans of the armed forces and military reservists, and for other purposes.
 
 ## § 1. Short title
 
