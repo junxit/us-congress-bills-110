@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 279
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 279
@@ -24,3 +24,6 @@ Providing for an adjournment of the House.
 - 2008-01-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-01-16 — On agreeing to the resolution Agreed to without objection. (text: CR H260)
 - 2008-01-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H260)
+- 2008-01-22 — Message on Senate action sent to the House.
+- 2008-01-22 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S59)
+- 2008-01-22 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S59)
