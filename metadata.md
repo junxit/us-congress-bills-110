@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 922
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 922
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 3524) to reauthorize the HOPE VI p
 - 2008-01-16 — Placed on the House Calendar, Calendar No. 178.
 - 2008-01-16 — The House Committee on Rules reported an original measure, H. Rept. 110-509, by Ms. Castor.
 - 2008-01-16 — The House Committee on Rules reported an original measure, H. Rept. 110-509, by Ms. Castor.
+- 2008-01-17 — Considered as privileged matter. (consideration: CR H299-301)
+- 2008-01-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 922.
+- 2008-01-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-17 — On agreeing to the resolution Agreed to by voice vote. (text: CR H299)
+- 2008-01-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H299)
+- 2008-01-17 — The previous question was ordered without objection. (consideration: CR H301)
