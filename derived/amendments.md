@@ -1,7 +1,7 @@
 ---
 measure: H.R. 664
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | The Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 10301` | add-at-end | The Water Desalination Act of 1996 (42 U.S.C. 10301 note; Public Law 104–298) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
