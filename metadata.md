@@ -1,7 +1,7 @@
 ---
 measure: H.R. 409
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 409
@@ -52,3 +52,10 @@ To amend title 23, United States Code, to direct the Secretary of Transportation
 - 2007-11-15 — Placed on the Union Calendar, Calendar No. 278.
 - 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-454.
 - 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-454.
+- 2008-01-22 — Considered under suspension of the rules. (consideration: CR H365-367)
+- 2008-01-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 409.
+- 2008-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-22 — Mr. DeFazio moved to suspend the rules and pass the bill, as amended.
+- 2008-01-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H365)
+- 2008-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H365)
+- 2008-01-22 — The title of the measure was amended. Agreed to without objection.
