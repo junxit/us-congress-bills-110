@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 772
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 772
@@ -39,3 +39,9 @@ Recognizing the American Highway Users Alliance on the occasion of its 75th anni
 - 2007-11-15 — Placed on the House Calendar, Calendar No. 159.
 - 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-453.
 - 2007-11-15 — Reported by the Committee on Transportation. H. Rept. 110-453.
+- 2008-01-22 — Considered under suspension of the rules. (consideration: CR H367-368)
+- 2008-01-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 772.
+- 2008-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-22 — Mr. DeFazio moved to suspend the rules and agree to the resolution.
+- 2008-01-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H367)
+- 2008-01-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H367)
