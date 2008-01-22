@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3988
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3988
@@ -59,3 +59,11 @@ To designate the facility of the United States Postal Service located at 3701 Al
 - 2007-10-29 — Introduced in House
 - 2007-10-29 — Introduced in House
 - 2007-10-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-12 — Committee Consideration and Mark-up Session Held.
+- 2007-12-12 — Ordered to be Reported by Voice Vote.
+- 2008-01-22 — Considered under suspension of the rules. (consideration: CR H357-358)
+- 2008-01-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3988.
+- 2008-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-22 — Ms. Norton moved to suspend the rules and pass the bill.
+- 2008-01-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H357)
+- 2008-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H357)
