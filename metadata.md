@@ -1,7 +1,7 @@
 ---
 measure: S. 1189
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1189
@@ -29,3 +29,7 @@ A bill to designate the Federal building and United States Courthouse located at
 - 2007-04-23 — Introduced in Senate
 - 2007-04-23 — Read twice and referred to the Committee on Environment and Public Works.
 - 2007-04-23 — Sponsor introductory remarks on measure. (CR S4855)
+- 2007-12-18 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-01-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-01-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-01-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
