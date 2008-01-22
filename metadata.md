@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3720
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3720
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 424 Cla
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 - Rep. Granger, Kay [R-TX-12] (G000377)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,19 @@ To designate the facility of the United States Postal Service located at 424 Cla
 - 2008-01-22 — Ms. Norton moved to suspend the rules and pass the bill.
 - 2008-01-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H358)
 - 2008-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H358)
+- 2008-01-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-02-27 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 684.
+- 2008-04-22 — Cleared for White House.
+- 2008-04-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3269-3270)
+- 2008-04-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3269-3270)
+- 2008-04-23 — Message on Senate action sent to the House.
+- 2008-05-01 — Presented to President.
+- 2008-05-01 — Presented to President.
+- 2008-05-07 — Became Public Law No: 110-213.
+- 2008-05-07 — Became Public Law No: 110-213.
+- 2008-05-07 — Signed by President.
+- 2008-05-07 — Signed by President.
