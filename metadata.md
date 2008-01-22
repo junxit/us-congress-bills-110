@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3992
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3992
@@ -16,7 +16,7 @@ Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvem
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Rep. Forbes, J. Randy [R-VA-4] (F000445)
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
@@ -29,6 +29,8 @@ Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvem
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
 
 ## Committees (1)
 
@@ -39,3 +41,11 @@ Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvem
 - 2007-10-30 — Introduced in House
 - 2007-10-30 — Introduced in House
 - 2007-10-30 — Referred to the House Committee on the Judiciary.
+- 2007-11-01 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-11-01 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2007-11-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-11-07 — Committee Consideration and Mark-up Session Held.
+- 2007-11-07 — Ordered to be Reported by Voice Vote.
+- 2008-01-22 — Placed on the Union Calendar, Calendar No. 314.
+- 2008-01-22 — Reported by the Committee on Judiciary. H. Rept. 110-514.
+- 2008-01-22 — Reported by the Committee on Judiciary. H. Rept. 110-514.
