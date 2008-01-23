@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 932
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 932
@@ -16,7 +16,7 @@ Expressing support for designation of the week of February 4 through February 8,
 
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 
-## Cosponsors (35)
+## Cosponsors (42)
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Miller, George [D-CA-7] (M000725)
@@ -53,6 +53,13 @@ Expressing support for designation of the week of February 4 through February 8,
 - Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
 
 ## Committees (1)
 
@@ -63,3 +70,9 @@ Expressing support for designation of the week of February 4 through February 8,
 - 2008-01-17 — Introduced in House
 - 2008-01-17 — Introduced in House
 - 2008-01-17 — Referred to the House Committee on Education and Labor.
+- 2008-01-23 — Considered under suspension of the rules. (consideration: CR H420-422)
+- 2008-01-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 932.
+- 2008-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-23 — Ms. Sanchez, Linda T. moved to suspend the rules and agree to the resolution.
+- 2008-01-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H420)
+- 2008-01-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H420)
