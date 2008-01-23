@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3873
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3873
@@ -36,3 +36,9 @@ Section 515 Rural Housing Property Transfer Improvement Act of 2007
 - 2007-12-04 — Placed on the Union Calendar, Calendar No. 288.
 - 2007-12-04 — Reported by the Committee on Financial Services. H. Rept. 110-464.
 - 2007-12-04 — Reported by the Committee on Financial Services. H. Rept. 110-464.
+- 2008-01-23 — Considered under suspension of the rules. (consideration: CR H410-412)
+- 2008-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3873.
+- 2008-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-23 — Mr. Hodes moved to suspend the rules and pass the bill.
+- 2008-01-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H410)
+- 2008-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H410)
