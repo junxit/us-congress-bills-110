@@ -1,7 +1,7 @@
 ---
 legis-num: S. CON. RES. 63
 congress: 110th CONGRESS
-session: 1st Session
+session: 2nd Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,10 +16,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas hydrocephalus affects an estimated 1,000,000 Americans;
 - Whereas 1 or 2 in every 1,000 babies are born with hydrocephalus;
 - Whereas over 375,000 older Americans have hydrocephalus, which often goes undetected or is misdiagnosed as dementia, Alzheimer’s disease, or Parkinson’s disease;
-- Whereas, with appropriate diagnosis and treatment, people with hydrocephalus are able to live full and productive lives;
+- Whereas with appropriate diagnosis and treatment, people with hydrocephalus are able to live full and productive lives;
 - Whereas the standard treatment for hydrocephalus was developed in 1952, and carries multiple risks including shunt failure, infection, and overdrainage;
 - Whereas there are fewer than 10 centers in the United States specializing in the treatment of adults with normal pressure hydrocephalus;
-- Whereas, each year, the people of the United States spend in excess of $1,000,000,000 to treat hydrocephalus;
+- Whereas each year, the people of the United States spend in excess of $1,000,000,000 to treat hydrocephalus;
 - Whereas a September 2005 conference sponsored by 7 institutes of the National Institutes of Health—“Hydrocephalus: Myths, New Facts, Clear Directions”—resulted in efforts to initiate new, collaborative research and treatment efforts; and
 - Whereas the Hydrocephalus Association is one of the Nation’s oldest and largest patient and research advocacy and support networks for individuals suffering from hydrocephalus: Now, therefore, be it
 
