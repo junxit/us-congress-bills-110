@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 282
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 282
@@ -24,3 +24,6 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2008-01-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-01-23 — On agreeing to the resolution Agreed to without objection. (text: CR H409)
 - 2008-01-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H409)
+- 2008-01-24 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S301)
+- 2008-01-24 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S301)
+- 2008-01-25 — Message on Senate action sent to the House.
