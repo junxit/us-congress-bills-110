@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 852
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 852
@@ -20,12 +20,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas rapid advancements in technology have made cyber-surveillance the new frontier in stalking;
 - Whereas there are national organizations, local victim service organizations, prosecutors' offices, and police departments that stand ready to assist stalking victims and who are working diligently to craft competent, thorough, and innovative responses to stalking;
 - Whereas there is a need to enhance the criminal justice system's response to stalking and stalking victims, including aggressive investigation and prosecution; and
-- Whereas Congress urges the establishment of January 2008 as National Stalking Awareness Month: Now, therefore, be it
+- Whereas the House of Representatives urges the establishment of January 2008 as National Stalking Awareness Month: Now, therefore, be it
 
 That—
 
-- **(1)** it is the sense of Congress that—
+- **(1)** it is the sense of the House of Representatives that—
   - **(A)** National Stalking Awareness Month provides an opportunity to educate the people of the United States about stalking;
   - **(B)** all Americans should applaud the efforts of the many victim service providers, police, prosecutors, national and community organizations, and private sector supporters for their efforts in promoting awareness about stalking; and
   - **(C)** policymakers, criminal justice officials, victim service and human service agencies, nonprofits, and others should recognize the need to increase awareness of stalking and the availability of services for stalking victims; and
-- **(2)** Congress urges national and community organizations, businesses in the private sector, and the media to promote awareness of the crime of stalking through National Stalking Awareness Month.
+- **(2)** the House of Representatives urges national and community organizations, businesses in the private sector, and the media to promote awareness of the crime of stalking through National Stalking Awareness Month.
