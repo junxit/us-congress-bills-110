@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3959
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3959
@@ -34,3 +34,9 @@ To amend the National Flood Insurance Act of 1968 to provide for the phase-in of
 - 2008-01-16 — Placed on the Union Calendar, Calendar No. 311.
 - 2008-01-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-510.
 - 2008-01-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-510.
+- 2008-01-23 — Considered under suspension of the rules. (consideration: CR H412-413)
+- 2008-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3959.
+- 2008-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-23 — Mr. Frank (MA) moved to suspend the rules and pass the bill, as amended.
+- 2008-01-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H412-413)
+- 2008-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H412-413)
