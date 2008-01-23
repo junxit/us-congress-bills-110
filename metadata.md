@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3992
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3992
@@ -49,3 +49,9 @@ Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvem
 - 2008-01-22 — Placed on the Union Calendar, Calendar No. 314.
 - 2008-01-22 — Reported by the Committee on Judiciary. H. Rept. 110-514.
 - 2008-01-22 — Reported by the Committee on Judiciary. H. Rept. 110-514.
+- 2008-01-23 — Considered under suspension of the rules. (consideration: CR H424-428)
+- 2008-01-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3992.
+- 2008-01-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-23 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2008-01-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H424-426)
+- 2008-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H424-426)
