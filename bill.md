@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1145
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -48,7 +48,7 @@ Whenever in this Act a section or other provision is amended or repealed, that a
     >       - **(i)** the claimed invention was made by or on behalf of parties to a joint research agreement that was in effect on or before the effective filing date of the claimed invention;
     >       - **(ii)** the claimed invention was made as a result of activities undertaken within the scope of the joint research agreement; and
     >       - **(iii)** the application for patent for the claimed invention discloses or is amended to disclose the names of the parties to the joint research agreement.
-    >     - **(B)** For purposes of subparagraph (A), the term “joint research agreement” means a written contract, grant, or cooperative agreement entered into by two or more persons or entities for the performance of experimental, developmental, or research work in the field of the claimed invention.
+    >     - **(B)** For purposes of subparagraph (A), the term joint research agreement means a written contract, grant, or cooperative agreement entered into by two or more persons or entities for the performance of experimental, developmental, or research work in the field of the claimed invention.
     >   - **(4)** *Patents and published applications effectively filed* A patent or application for patent is effectively filed under subsection (a)(2) with respect to any subject matter described in the patent or application—
     >     - **(A)** as of the filing date of the patent or the application for patent; or
     >     - **(B)** if the patent or application for patent is entitled to claim a right of priority under section 119, 365(a), or 365(b) or to claim the benefit of an earlier filing date under section 120, 121, or 365(c), based upon one or more prior filed applications for patent, as of the filing date of the earliest such application that describes the subject matter.
