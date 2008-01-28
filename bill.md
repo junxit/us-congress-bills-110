@@ -1,0 +1,69 @@
+---
+legis-num: H.R. 5139
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5139
+
+> To require the Secretary of the Interior to conduct a theme study to identify sites and resources to commemorate and interpret the Cold War.
+
+## § 1. Definitions
+
+- **(1)** *Advisory Committee* The term Advisory Committee means the Cold War Advisory Committee established under section 3.
+- **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *Theme study* The term theme study means the national historic landmark theme study conducted under section 2(a).
+
+## § 2. Cold War theme study
+
+- **(a)** *In general* The Secretary shall conduct a national historic landmark theme study to identify sites and resources in the United States that are significant to the Cold War.
+- **(b)** *Resources* In conducting the theme study, the Secretary shall consider—
+  - **(1)** the inventory of sites and resources associated with the Cold War completed by the Secretary of Defense under section 8120(b)(9) of the Department of Defense Appropriations Act, 1991 (Public Law 101–511; 104 Stat. 1906); and
+  - **(2)** historical studies and research of Cold War sites and resources, including—
+    - **(A)** intercontinental ballistic missiles;
+    - **(B)** flight training centers;
+    - **(C)** manufacturing facilities;
+    - **(D)** communications and command centers (such as Cheyenne Mountain, Colorado);
+    - **(E)** defensive radar networks (such as the Distant Early Warning Line);
+    - **(F)** nuclear weapons test sites (such as the Nevada test site); and
+    - **(G)** strategic and tactical aircraft.
+- **(c)** *Contents* The theme study shall include—
+  - **(1)** recommendations for commemorating and interpreting sites and resources identified by the theme study, including—
+    - **(A)** sites for which studies for potential inclusion in the National Park System should be authorized;
+    - **(B)** sites for which new national historic landmarks should be nominated; and
+    - **(C)** other appropriate designations;
+  - **(2)** recommendations for cooperative agreements with—
+    - **(A)** State and local governments;
+    - **(B)** local historical organizations; and
+    - **(C)** other appropriate entities; and
+  - **(3)** an estimate of the amount required to carry out the recommendations under paragraphs (1) and (2).
+- **(d)** *Consultation* In conducting the theme study, the Secretary shall consult with—
+  - **(1)** the Secretary of the Air Force;
+  - **(2)** State and local officials;
+  - **(3)** State historic preservation offices; and
+  - **(4)** other interested organizations and individuals.
+- **(e)** *Report* Not later than 3 years after the date on which funds are made available to carry out this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the findings, conclusions, and recommendations of the theme study.
+
+## § 3. Cold War Advisory Committee
+
+- **(a)** *Establishment* As soon as practicable after funds are made available to carry out this Act, the Secretary shall establish an advisory committee, to be known as the “Cold War Advisory Committee”, to assist the Secretary in carrying out this Act.
+- **(b)** *Composition* The Advisory Committee shall be composed of 9 members, to be appointed by the Secretary, of whom—
+  - **(1)** 3 shall have expertise in Cold War history;
+  - **(2)** 2 shall have expertise in historic preservation;
+  - **(3)** 1 shall have expertise in the history of the United States; and
+  - **(4)** 3 shall represent the general public.
+- **(c)** *Chairperson* The Advisory Committee shall select a chairperson from among the members of the Advisory Committee.
+- **(d)** *Compensation* A member of the Advisory Committee shall serve without compensation but may be reimbursed by the Secretary for expenses reasonably incurred in the performance of the duties of the Advisory Committee.
+- **(e)** *Meetings* On at least 3 occasions, the Secretary (or a designee) shall meet and consult with the Advisory Committee on matters relating to the theme study.
+
+## § 4. Interpretive handbook on the Cold War
+
+Not later than 4 years after the date on which funds are made available to carry out this Act, the Secretary shall—
+
+- **(1)** prepare and publish an interpretive handbook on the Cold War; and
+- **(2)** disseminate information in the theme study by other appropriate means.
+
+## § 5. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this Act $500,000.
