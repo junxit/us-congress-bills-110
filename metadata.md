@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4240
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4240
@@ -34,3 +34,11 @@ To designate the facility of the United States Postal Service located at 10799 W
 - 2007-11-15 — Introduced in House
 - 2007-11-15 — Introduced in House
 - 2007-11-15 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-12 — Committee Consideration and Mark-up Session Held.
+- 2007-12-12 — Ordered to be Reported by Voice Vote.
+- 2008-01-28 — Considered under suspension of the rules. (consideration: CR H460-462)
+- 2008-01-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4240.
+- 2008-01-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-28 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-01-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H460)
+- 2008-01-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H460)
