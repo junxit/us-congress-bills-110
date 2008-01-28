@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 938
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 938
@@ -62,3 +62,9 @@ Commending the West Virginia University Mountaineer football team for exemplifyi
 - 2008-01-23 — Introduced in House
 - 2008-01-23 — Introduced in House
 - 2008-01-23 — Referred to the House Committee on Education and Labor.
+- 2008-01-28 — Considered under suspension of the rules. (consideration: CR H468-470)
+- 2008-01-28 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 938.
+- 2008-01-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-28 — Mr. Altmire moved to suspend the rules and agree to the resolution, as amended.
+- 2008-01-28 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H468-469)
+- 2008-01-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H468-469)

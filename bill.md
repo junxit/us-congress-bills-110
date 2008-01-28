@@ -2,7 +2,7 @@
 legis-num: H. RES. 938
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 938
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Mountaineer receiver Tito Gonzales demonstrated outstanding play with a 79-yard touchdown pass and showed a national television audience how important Mountaineer success was to his team and his State;
 - Whereas Mountaineer freshman tailback Noel Devine gave a spirited and skillful performance worthy of his injured teammate and mentor, record-breaking tailback Steve Slaton;
 - Whereas the Mountaineers’ offensive line dominated the battle in the trenches, making possible the outstanding performances of White, Devine, Schmitt, receiver Darius Reynaud, kicker Pat McAfee, and the other offensive stars of the day;
-- Whereas the Mountaineers’ attacking defense contained one of the best teams in the Nation and forced the Sooner offense to yield the field time and again;
+- Whereas the Mountaineers' attacking defense forced the Sooner offense to yield the field time and again;
 - Whereas the Mountaineers finished among the top 10 in college football rankings for 3 years in a row;
 - Whereas Mountaineer athletic director Ed Pastilong has instilled in the athletic department of West Virginia University the highest standards of ethics and performance throughout his many years of leadership; and
 - Whereas the Mountaineers and their new head coach Bill Stewart have brought great honor to themselves, their university, and the State of West Virginia: Now, therefore, be it
