@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5104
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5104
@@ -42,3 +42,10 @@ To extend the Protect America Act of 2007 for 15 days.
 - 2008-01-29 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S457)
 - 2008-01-29 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S457)
 - 2008-01-29 — The title of the measure was amended. Agreed to without objection.
+- 2008-01-30 — Message on Senate action sent to the House.
+- 2008-01-30 — Presented to President.
+- 2008-01-30 — Presented to President.
+- 2008-01-31 — Became Public Law No: 110-182.
+- 2008-01-31 — Became Public Law No: 110-182.
+- 2008-01-31 — Signed by President.
+- 2008-01-31 — Signed by President.
