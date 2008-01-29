@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1528
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,8 @@ Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by
 
 ## § 3. Management
 
-The Secretary of the Interior (hereafter in this Act referred to as the “Secretary”) shall use the Trail Management Blueprint described in the draft report titled the “Metacomet Monadnock Mattabesett Trail System National Scenic Trail Feasibility Study and Environmental Assessment”, prepared by the National Park Service, and dated Spring 2006, as the framework for management and administration of the New England National Scenic Trail. Additional or more detailed plans for administration, management, protection, access, maintenance, or development of the trail may be developed consistent with the Trail Management Blueprint, and as approved by the Secretary.
+- **(a)** *In General* The Secretary of the Interior (hereafter in this Act referred to as the “Secretary”) shall use the Trail Management Blueprint described in the draft report titled the “Metacomet Monadnock Mattabesett Trail System National Scenic Trail Feasibility Study and Environmental Assessment”, prepared by the National Park Service, and dated Spring 2006, as the framework for management and administration of the New England National Scenic Trail. Additional or more detailed plans for administration, management, protection, access, maintenance, or development of the trail may be developed consistent with the Trail Management Blueprint, and as approved by the Secretary.
+- **(b)** *Application of Certain State and Local laws* Notwithstanding subsection (a), all designated and future designated lands within the New England National Scenic Trail, including all Federal lands, shall be exclusively governed by relevant State and local laws regarding hunting, fishing, and the possession or use of a weapon (including concealed weapons), trap, or net.
 
 ## § 4. Cooperative agreements
 
