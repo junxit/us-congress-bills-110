@@ -2,7 +2,7 @@
 legis-num: H. RES. 933
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 933
@@ -19,8 +19,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Craig Steltz was named first-team All-American and led the Southeastern Conference in interceptions;
 - Whereas defensive tackle Glenn Dorsey was awarded the Bronko Nagurski Trophy, the Rotary Lombardi Trophy, the Outland Trophy, and the Ronnie Lott Trophy making him the most honored defensive player in Louisiana State University history;
 - Whereas quarterback Matt Flynn threw 21 touchdown passes during the 2007 season, including a career-high record of four touchdowns in the Bowl Championship Series national championship game;
-- Whereas running back Jacob Hester rushed for 1,103 yards during the 2007 season, scoring 12 touchdowns, and completed his collegiate football career of 364 carries without fumbling or turning over the football;
-- Whereas Louisiana State University head coach Les Miles has led the Tiger football program to 34 wins, 20 Southeastern Conference victories, 14 wins over nationally ranked opponents, and three double-digit win seasons as head coach; and
+- Whereas running back Jacob Hester rushed for 1,103 yards during the 2007 season, scoring 12 touchdowns, and completed his collegiate football career of 363 carries without fumbling or turning over the football;
+- Whereas Louisiana State University head coach Les Miles has led the Tiger football program to 34 wins, 20 Southeastern Conference victories, 15 wins over nationally ranked opponents, and three double-digit win seasons as head coach; and
 - Whereas Louisiana State University is the first team to win two Bowl Championship Series national championship titles, having won two titles in 5 years: Now, therefore, be it
 
 That the House of Representatives—
