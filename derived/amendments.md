@@ -1,7 +1,7 @@
 ---
 measure: S. 2571
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+6 amendatory instructions. 4 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 7 U.S.C. § 136w-8
+
+> in the paragraph heading, by striking “Waiver” and inserting “Exemption”;
+
+| | |
+|---|---|
+| Removed | `Waiver` |
+| Inserted | `Exemption` |
+
+### 7 U.S.C. § 136w-8
+
+> by striking “waive the registration service fee for an application” and inserting “exempt an application from the registration service fee”; and
+
+| | |
+|---|---|
+| Removed | `waive the registration service fee for an application` |
+| Inserted | `exempt an application from the registration service fee` |
+
+### 7 U.S.C. § 136w-8
+
+> in clause (ii), by striking “waiver” and inserting “exemption”; and
+
+| | |
+|---|---|
+| Removed | `waiver` |
+| Inserted | `exemption` |
+
+### 7 U.S.C. § 136w-8
+
+> in subsection (m)(2), by striking “2008” each place it appears and inserting “2012”.
+
+| | |
+|---|---|
+| Removed | `2008` |
+| Inserted | `2012` |
 
 ## Stated, not applied
 
@@ -31,9 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | in clause (ii), by inserting “or exemption” after “waiver”; and | the bill names no machine-readable US Code section |
-| — | replace | in the paragraph heading, by striking “Waiver” and inserting “Exemption”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “waive the registration service fee for an application” and inserting “exempt an application from the registration service fee”; and | the bill names no machine-readable US Code section |
-| — | replace | in clause (ii), by striking “waiver” and inserting “exemption”; and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (m)(2), by striking “2008” each place it appears and inserting “2012”. | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 136w-8` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 136w-8` | insert | in clause (ii), by inserting “or exemption” after “waiver”; and | the bill quotes the text inserted but describes where it goes |
