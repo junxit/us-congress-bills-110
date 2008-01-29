@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5104
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 50 U.S.C. § 1803
 
-> Section 6(c) of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 557; 50 U.S.C. 1803 note) is amended by striking “180 days” and inserting “210 days”.
+> Section 6(c) of the Protect America Act of 2007 (Public Law 110–55; 121 Stat. 557; 50 U.S.C. 1803 note) is amended by striking “180 days” and inserting “195 days”.
 
 | | |
 |---|---|
 | Removed | `180 days` |
-| Inserted | `210 days` |
+| Inserted | `195 days` |
