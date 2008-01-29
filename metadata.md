@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5140
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5140
@@ -39,6 +39,10 @@ Economic Stimulus Act of 2008
 - House — Financial Services Committee
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2008-01-29 — [House 110-2-25](votes/house-110-2-0025.md) — On Motion to Suspend the Rules and Pass — **Passed** (385–35)
+
 ## Actions
 
 - 2008-01-28 — Introduced in House
@@ -46,3 +50,10 @@ Economic Stimulus Act of 2008
 - 2008-01-28 — Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-01-28 — Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-01-28 — Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-01-29 — Considered under suspension of the rules. (consideration: CR H485-509)
+- 2008-01-29 — DEBATE - The House proceeded with debate on H.R. 5140.
+- 2008-01-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-01-29 — Mr. Rangel moved to suspend the rules and pass the bill.
+- 2008-01-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 35, 1 Present (Roll no. 25). (text: CR H485-487)
+- 2008-01-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 35, 1 Present (Roll no. 25).(text: CR H485-487)
+- 2008-01-29 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.

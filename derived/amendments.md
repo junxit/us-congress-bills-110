@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5140
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -186,7 +186,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6428` | amend | Section 6428 of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 1324` | amend | Section 6428 of the Internal Revenue Code of 1986 is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1324` | insert | Paragraph (2) of section 1324(b) of title 31, United States Code, is amended by inserting “or 6428” after “section 35”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 1` | strike | Paragraph (1) of section 1(i) of the Internal Revenue Code of 1986 is amended by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1324` | amend | The item relating to section 6428 in the table of sections for subchapter B of chapter 65 of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
