@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3111
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3111
@@ -16,7 +16,7 @@ Port Chicago Naval Magazine National Memorial Enhancement Act of 2008
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
@@ -32,6 +32,9 @@ Port Chicago Naval Magazine National Memorial Enhancement Act of 2008
 - Rep. Solis, Hilda L. [D-CA-32] (S001153)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 
 ## Committees (2)
 
@@ -46,3 +49,16 @@ Port Chicago Naval Magazine National Memorial Enhancement Act of 2008
 - 2007-07-19 — Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-19 — Referred to the Committee on Natural Resources, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-19 — Sponsor introductory remarks on measure. (CR E1572-1573)
+- 2007-07-23 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-08-14 — Referred to the Subcommittee on Readiness.
+- 2007-09-27 — Subcommittee Hearings Held.
+- 2007-10-10 — Committee Consideration and Mark-up Session Held.
+- 2007-10-10 — Ordered to be Reported by Unanimous Consent.
+- 2007-10-10 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2007-12-19 — House Committee on Armed Services Granted an extension for further consideration ending not later than Jan. 15, 2008.
+- 2007-12-19 — Reported by the Committee on Natural Resources. H. Rept. 110-506, Part I.
+- 2007-12-19 — Reported by the Committee on Natural Resources. H. Rept. 110-506, Part I.
+- 2008-01-15 — House Committee on Armed Services Granted an extension for further consideration ending not later than Feb. 1, 2008.
+- 2008-02-01 — Committee on Armed Services discharged.
+- 2008-02-01 — Committee on Armed Services discharged.
+- 2008-02-01 — Placed on the Union Calendar, Calendar No. 319.
