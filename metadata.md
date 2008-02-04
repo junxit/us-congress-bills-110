@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 25
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 25
@@ -16,10 +16,11 @@ A joint resolution providing for the appointment of John W. McCarter as a citize
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A joint resolution providing for the appointment of John W. McCarter as a citize
 
 - 2007-11-16 — Introduced in Senate
 - 2007-11-16 — Read twice and referred to the Committee on Rules and Administration. (text of measure as introduced: CR S14643)
+- 2008-02-04 — Passed Senate without amendment by Unanimous Consent. (text: CR S609)
+- 2008-02-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S609)
+- 2008-02-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S609)
+- 2008-02-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S609)
