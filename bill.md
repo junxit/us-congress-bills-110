@@ -1,0 +1,28 @@
+---
+legis-num: S. 2590
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2590
+
+> To authorize the Secretary of the Interior, acting through the Director of the National Park Service, to designate the Dr. Norman E. Borlaug Birthplace and Childhood Home in Cresco, Iowa, as a National Historic Site and as a unit of the National Park System, and for other purposes.
+
+## § 1. Dr. Norman E. Borlaug Birthplace and Home National Historic Site
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Historic site* The term Historic Site means the Dr. Norman E. Borlaug Birthplace and Home National Historic Site, designated by the Secretary under subsection (b).
+  - **(2)** *Norman E. Borlaug property* The term Norman E. Borlaug property means—
+    - **(A)** the Norman E. Borlaug Birthplace site, located at 20399 Timber Avenue, Cresco, Iowa;
+    - **(B)** the Norman E. Borlaug Childhood Home site, located at 19518 200th Street, Cresco, Iowa; and
+    - **(C)** any personal property relating to—
+      - **(i)** the Norman E. Borlaug Birthplace site; and
+      - **(ii)** the Norman E. Borlaug Childhood Home site.
+  - **(3)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the National Park Service.
+- **(b)** *Acquisition of property; designation of National Historic Site* If the Secretary acquires, by donation, from the Norman Borlaug Heritage Foundation, fee simple and unencumbered title to the Norman E. Borlaug property, the Secretary shall designate the property as—
+  - **(1)** a National Historic Site, to be known as the “Dr. Norman E. Borlaug Birthplace and Home National Historic Site”; and
+  - **(2)** a unit of the National Park System.
+- **(c)** *Administration* The Secretary shall administer the Historic Site in accordance with applicable laws (including regulations), including—
+  - **(1)** the National Park Service Organic Act (16 U.S.C. 1 et seq.); and
+  - **(2)** the Act of August 21, 1935 (16 U.S.C. 461 et seq.).
