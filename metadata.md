@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 434
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 434
@@ -16,7 +16,7 @@ A resolution designating the week of February 10-16, 2008, as "National Drug Pre
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Cosponsors (11)
+## Cosponsors (16)
 
 - Sen. Baucus, Max [D-MT] (B000243)
 - Sen. Kerry, John F. [D-MA] (K000148)
@@ -29,6 +29,11 @@ A resolution designating the week of February 10-16, 2008, as "National Drug Pre
 - Sen. Salazar, Ken [D-CO] (S001163)
 - Sen. Casey, Robert P., Jr. [D-PA] (C001070)
 - Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Isakson, Johnny [R-GA] (I000055)
 
 ## Committees (1)
 
@@ -39,3 +44,7 @@ A resolution designating the week of February 10-16, 2008, as "National Drug Pre
 - 2008-01-29 — Introduced in Senate
 - 2008-01-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S449-450)
 - 2008-01-29 — Sponsor introductory remarks on measure. (CR S450)
+- 2008-02-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S671)
+- 2008-02-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S671)
+- 2008-02-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S671)
+- 2008-02-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S671)
