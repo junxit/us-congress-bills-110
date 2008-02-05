@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2457
 congress: 110th CONGRESS
-session: 1st Session
+session: 2nd Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,3 +13,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(a)** *In general* Any lease of restricted land of the Mashantucket Pequot (Western) Tribe (referred to in this section as the Tribe) entered into on behalf of the Tribe by the tribal corporation of the Tribe chartered pursuant to section 17 of the Act of June 18, 1934 (25 U.S.C. 477), may include an option to renew the lease for not more than 2 additional terms, each of which shall not exceed 25 years, subject only to the approval of the tribal council of the Tribe.
 - **(b)** *Liability of United States* The United States shall not be liable to any party for any loss resulting from a renewal of a lease entered into pursuant to subsection (a).
+- **(c)** *Prohibition on gaming activities* No entity may conduct any gaming activity (within the meaning of section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703)) pursuant to a claim of inherent authority or any Federal law (including the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) and any regulations promulgated by the Secretary of the Interior or the National Indian Gaming Commission pursuant to that Act) on any land that is leased with an option to renew the lease in accordance with this section.

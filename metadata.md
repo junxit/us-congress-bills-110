@@ -1,7 +1,7 @@
 ---
 measure: S. 2457
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2457
@@ -28,3 +28,13 @@ A bill to provide for extensions of leases of certain land by Mashantucket Pequo
 
 - 2007-12-12 — Introduced in Senate
 - 2007-12-12 — Read twice and referred to the Committee on Indian Affairs.
+- 2008-02-05 — Amendment SA 3988 agreed to in Senate by Unanimous Consent.
+- 2008-02-05 — Amendment SA 3988 proposed by Senator Reid for Senator Lieberman. (consideration: CR S670; text: CR S670) To prohibit gaming activities on certain land.
+- 2008-02-05 — Measure laid before Senate by unanimous consent. (consideration: CR S670)
+- 2008-02-05 — Passed Senate with an amendment by Unanimous Consent. (text: CR S670)
+- 2008-02-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S670)
+- 2008-02-05 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2008-02-05 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2008-02-05 — Senate amendment agreed to: Amendment SA 3988 agreed to in Senate by Unanimous Consent.
+- 2008-02-05 — Senate amendment proposed (on the floor): Amendment SA 3988 proposed by Senator Reid for Senator Lieberman.(consideration: CR S670; text: CR S670)
+- 2008-02-05 — Senate amendment submitted
