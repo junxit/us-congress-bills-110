@@ -1,7 +1,7 @@
 ---
 measure: S. 550
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 550
@@ -36,3 +36,6 @@ A bill to preserve existing judgeships on the Superior Court of the District of 
 - 2008-01-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
 - 2008-02-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S609; text as passed Senate: CR S609)
 - 2008-02-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S609; text as passed Senate: CR S609)
+- 2008-02-05 — Message on Senate action sent to the House.
+- 2008-02-06 — Received in the House.
+- 2008-02-06 — Referred to the House Committee on Oversight and Government Reform.
