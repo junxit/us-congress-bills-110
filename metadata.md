@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 273
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 273
@@ -16,7 +16,7 @@ Recognizing the 50th Anniversary of the National Academy of Recording Arts & Sci
 
 - Rep. Bono, Mary [R-CA-45] (B001228)
 
-## Cosponsors (53)
+## Cosponsors (61)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
@@ -71,6 +71,14 @@ Recognizing the 50th Anniversary of the National Academy of Recording Arts & Sci
 - Rep. Upton, Fred [R-MI-6] (U000031)
 - Rep. Cubin, Barbara [R-WY-At Large] (C000962)
 - Rep. Pickering, Charles W. "Chip" [R-MS-3] (P000323)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
 
 ## Committees (1)
 
@@ -81,3 +89,11 @@ Recognizing the 50th Anniversary of the National Academy of Recording Arts & Sci
 - 2007-12-19 — Introduced in House
 - 2007-12-19 — Introduced in House
 - 2007-12-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-01-29 — Committee Consideration and Mark-up Session Held.
+- 2008-01-29 — Ordered to be Reported by Voice Vote.
+- 2008-02-06 — Considered under suspension of the rules. (consideration: CR H564-565)
+- 2008-02-06 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 273.
+- 2008-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-06 — Mr. Hodes moved to suspend the rules and agree to the resolution.
+- 2008-02-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H564)
+- 2008-02-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H564)
