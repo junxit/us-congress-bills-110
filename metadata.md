@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 943
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 943
@@ -16,7 +16,7 @@ Remembering the space shuttle Challenger disaster and honoring its crew members,
 
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
 
-## Cosponsors (60)
+## Cosponsors (69)
 
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Hirono, Mazie K. [D-HI-2] (H001042)
@@ -78,13 +78,34 @@ Remembering the space shuttle Challenger disaster and honoring its crew members,
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Weldon, Dave [R-FL-15] (W000267)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
 
 ## Committees (1)
 
 - House — Science, Space, and Technology Committee
+
+## Recorded votes (1)
+
+- 2008-02-06 — [House 110-2-31](votes/house-110-2-0031.md) — On Motion to Suspend the Rules and Agree — **Passed** (371–0)
 
 ## Actions
 
 - 2008-01-28 — Introduced in House
 - 2008-01-28 — Introduced in House
 - 2008-01-28 — Referred to the House Committee on Science and Technology.
+- 2008-02-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-06 — Considered as unfinished business. (consideration: CR H593)
+- 2008-02-06 — Considered under suspension of the rules. (consideration: CR H571-573)
+- 2008-02-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 943.
+- 2008-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-06 — Mr. Melancon moved to suspend the rules and agree to the resolution.
+- 2008-02-06 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 31). (text: CR H571)
+- 2008-02-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 371 - 0 (Roll no. 31).(text: CR H571)
