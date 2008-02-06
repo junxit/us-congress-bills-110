@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 25
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 25
@@ -34,3 +34,6 @@ A joint resolution providing for the appointment of John W. McCarter as a citize
 - 2008-02-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S609)
 - 2008-02-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S609)
 - 2008-02-04 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S609)
+- 2008-02-05 — Message on Senate action sent to the House.
+- 2008-02-06 — Received in the House.
+- 2008-02-06 — Referred to the House Committee on House Administration.
