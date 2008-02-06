@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 942
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 942
@@ -16,7 +16,7 @@ Recognizing the significance of Black History Month.
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (55)
+## Cosponsors (58)
 
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
@@ -73,13 +73,30 @@ Recognizing the significance of Black History Month.
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Baca, Joe [D-CA-43] (B001234)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2008-02-06 — [House 110-2-30](votes/house-110-2-0030.md) — On Motion to Suspend the Rules and Agree — **Passed** (367–0)
 
 ## Actions
 
 - 2008-01-28 — Introduced in House
 - 2008-01-28 — Introduced in House
 - 2008-01-28 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-01-29 — Committee Consideration and Mark-up Session Held.
+- 2008-01-29 — Ordered to be Reported by Voice Vote.
+- 2008-02-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-06 — Considered as unfinished business. (consideration: CR H592-593)
+- 2008-02-06 — Considered under suspension of the rules. (consideration: CR H566-570)
+- 2008-02-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 942.
+- 2008-02-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-06 — Mr. Hodes moved to suspend the rules and agree to the resolution.
+- 2008-02-06 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 367 - 0 (Roll no. 30). (text: CR H566)
+- 2008-02-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 367 - 0 (Roll no. 30).(text: CR H566)
