@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 273
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 273
@@ -80,9 +80,10 @@ Recognizing the 50th Anniversary of the National Academy of Recording Arts & Sci
 - Rep. McGovern, James P. [D-MA-3] (M000312)
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -97,3 +98,9 @@ Recognizing the 50th Anniversary of the National Academy of Recording Arts & Sci
 - 2008-02-06 — Mr. Hodes moved to suspend the rules and agree to the resolution.
 - 2008-02-06 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H564)
 - 2008-02-06 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H564)
+- 2008-02-07 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2008-02-08 — Message on Senate action sent to the House.
+- 2008-02-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-02-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-02-08 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S821)
+- 2008-02-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S821)
