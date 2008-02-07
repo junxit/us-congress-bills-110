@@ -1,7 +1,7 @@
 ---
 measure: S. 2457
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2457
@@ -38,3 +38,6 @@ A bill to provide for extensions of leases of certain land by Mashantucket Pequo
 - 2008-02-05 — Senate amendment agreed to: Amendment SA 3988 agreed to in Senate by Unanimous Consent.
 - 2008-02-05 — Senate amendment proposed (on the floor): Amendment SA 3988 proposed by Senator Reid for Senator Lieberman.(consideration: CR S670; text: CR S670)
 - 2008-02-05 — Senate amendment submitted
+- 2008-02-06 — Message on Senate action sent to the House.
+- 2008-02-07 — Received in the House.
+- 2008-02-07 — Referred to the House Committee on Natural Resources.
