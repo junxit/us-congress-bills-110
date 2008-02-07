@@ -1,0 +1,52 @@
+---
+legis-num: H.R. 5270
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5270
+
+> To amend the Internal Revenue Code of 1986 to extend the funding and expenditure authority of the Airport and Airway Trust Fund, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Airport and Airway Extension Act of 2008”.
+
+## § 2. Extension of taxes funding Airport and Airway Trust Fund
+
+- **(a)** *Fuel taxes* Subparagraph (B) of section 4081(d)(2) of the Internal Revenue Code of 1986 is amended by striking “February 29, 2008” and inserting “June 30, 2008”.
+- **(b)** *Ticket taxes*
+  - **(1)** *Persons* Clause (ii) of section 4261(j)(1)(A) of such Code is amended by striking “February 29, 2008” and inserting “June 30, 2008”.
+  - **(2)** *Property* Clause (ii) of section 4271(d)(1)(A) of such Code is amended by striking “February 29, 2008” and inserting “June 30, 2008”.
+- **(c)** *Effective date* The amendments made by this section shall take effect on March 1, 2008.
+
+## § 3. Extension of Airport and Airway Trust Fund expenditure authority
+
+- **(a)** *In general* Paragraph (1) of section 9502(d) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “March 1, 2008” and inserting “July 1, 2008”, and
+  - **(2)** by inserting “or the Airport and Airway Extension Act of 2008” before the semicolon at the end of subparagraph (A).
+- **(b)** *Conforming amendment* Paragraph (2) of section 9502(f) of such Code is amended by striking “March 1, 2008” and inserting “July 1, 2008”.
+- **(c)** *Effective date* The amendments made by this section shall take effect on March 1, 2008.
+
+## § 4. Extension of Airport Improvement Program and other authorities
+
+- **(a)** *Authorization of appropriations*
+  - **(1)** *In general* Section 48103 of title 49, United States Code, is amended—
+    - **(A)** by striking “and” at the end of paragraph (3);
+    - **(B)** by striking the period at the end of paragraph (4) and inserting “; and”; and
+    - **(C)** by inserting after paragraph (4) the following:
+      > - **(5)** $2,756,250,000 for the 9-month period beginning October 1, 2007.
+
+  - **(2)** *Obligation of amounts* Sums made available pursuant to the amendment made by paragraph (1) may be obligated at any time through September 30, 2008, and shall remain available until expended.
+  - **(3)** *Program implementation* For purposes of calculating funding apportionments and meeting other requirements under sections 47114, 47115, 47116, and 47117 of title 49, United States Code, for the 9-month period beginning October 1, 2007, the Administrator of the Federal Aviation Administration shall—
+    - **(A)** first calculate such funding apportionments on an annualized basis as if the total amount available under section 48103 of such title for fiscal year 2008 were $3,675,000,000; and
+    - **(B)** then reduce by 25 percent—
+      - **(i)** all funding apportionments calculated under subparagraph (A); and
+      - **(ii)** amounts available pursuant to sections 47117(b) and 47117(f)(2) of such title.
+- **(b)** *Project grant authority* Section 47104(c) of such title is amended by striking “September 30, 2007,” and inserting “June 30, 2008,”.
+- **(c)** *Government share of certain AIP costs* Section 161 of the Vision 100—Century of Aviation Reauthorization Act (49 U.S.C. 47109 note) is amended by striking “in each of fiscal years 2004 through 2007” and inserting “in fiscal year 2008 before July 1, 2008,”.
+- **(d)** *Adjustment authority*
+  - **(1)** *In general* Section 409(d) of such Act (49 U.S.C. 40101 note) is amended by striking “2007.” and inserting “2008.”.
+  - **(2)** *Effective Date* The amendment made by paragraph (1) shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act that was in effect on such date.
+- **(e)** *Airport eligibility* The first sentence of section 186(d) of such Act (117 Stat. 2518) is amended by inserting “and for the portion of fiscal year 2008 ending before July 1, 2008,” after “2007,”.
