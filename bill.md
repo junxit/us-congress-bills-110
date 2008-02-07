@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 5311
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5311
+
+> To amend title 10, United States Code, to provide for the transfer certain receipts derived from leases involving Oil Shale Reserves Numbered 1 and 3 to the State of Colorado, and for other purposes.
+
+## § 1. Treatment of oil shale reserve receipts
+
+Section 7439(f) of title 10, United States Code, is amended—
+
+- **(1)** in paragraph (2), by inserting “the earlier of December 31, 2007, or” after “and ending on”; and
+- **(2)** by adding at the end the following new paragraphs:
+  > - **(3)**
+  >   - **(A)** Not less than $33,250,000 of the moneys deposited in the Treasury under paragraph (1) that exceed the amounts described in subparagraphs (A) and (B) of paragraph (2) shall be transferred by the Secretary of the Treasury to the State of Colorado for use in accordance with subparagraph (B).
+  >   - **(B)** Amounts transferred to the State of Colorado under subparagraph (A) shall be used by the State and political subdivisions of the State for—
+  >     - **(i)** conservation, restoration, and protection of land, water, and wildlife resources affected by oil or gas development activities in Garfield and Rio Blanco Counties in the State;
+  >     - **(ii)** repair, maintenance, and construction of State and county roads in each of those counties; and
+  >     - **(iii)** the conduct of capital improvement projects (including the construction and maintenance of sewer and water treatment plants) that are designed and carried out to address the impacts of oil and gas development activities in each of those counties.
+  > - **(4)**
+  >   - **(A)** Beginning on January 1, 2008, but subject to subparagraph (B), all moneys received from a lease under this section (including moneys in the form of sales, bonuses, royalties (including interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.)), and rentals) shall be distributed in accordance with section 35 of the Mineral Leasing Act (30 U.S.C. 191).
+  >   - **(B)** Until the date on which the Secretary of Energy and the Secretary of the Interior provide the certification described in paragraph (2) regarding the sum of money deposited in the Treasury under paragraph (1), amounts transferred by the Secretary of the Treasury to the State of Colorado in accordance with section 35 of the Mineral Leasing Act (30 U.S.C. 191) shall be used by the State and political subdivisions of the State in accordance with paragraph (3)(B).
