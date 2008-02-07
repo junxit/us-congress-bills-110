@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 947
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 947
@@ -16,7 +16,7 @@ Congratulating Lee Myung-Bak on his election to the Presidency of the Republic o
 
 - Rep. Royce, Edward R. [R-CA-40] (R000487)
 
-## Cosponsors (17)
+## Cosponsors (25)
 
 - Rep. Lantos, Tom [D-CA-12] (L000090)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -35,13 +35,33 @@ Congratulating Lee Myung-Bak on his election to the Presidency of the Republic o
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2008-02-07 — [House 110-2-41](votes/house-110-2-0041.md) — On Motion to Suspend the Rules and Agree — **Passed** (388–0)
 
 ## Actions
 
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Referred to the House Committee on Foreign Affairs.
+- 2008-02-06 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-06 — Considered under suspension of the rules. (consideration: CR H580-583)
+- 2008-02-06 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 947.
+- 2008-02-06 — Mr. Payne moved to suspend the rules and agree to the resolution.
+- 2008-02-07 — Considered as unfinished business. (consideration: CR H783)
+- 2008-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-07 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 41). (text: CR 2/6/2008 H580)
+- 2008-02-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 41).(text: CR 2/6/2008 H580)
