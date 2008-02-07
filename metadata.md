@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4137
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4137
@@ -55,6 +55,14 @@ Higher Education Opportunity Act
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
 
+## Recorded votes (5)
+
+- 2008-02-07 — [House 110-2-36](votes/house-110-2-0036.md) — On Agreeing to the Amendment — **Agreed to** (260–153)
+- 2008-02-07 — [House 110-2-37](votes/house-110-2-0037.md) — On Agreeing to the Amendment — **Agreed to** (222–191)
+- 2008-02-07 — [House 110-2-38](votes/house-110-2-0038.md) — On Agreeing to the Amendment — **Failed** (179–236)
+- 2008-02-07 — [House 110-2-39](votes/house-110-2-0039.md) — On Motion to Recommit with Instructions — **Failed** (194–216)
+- 2008-02-07 — [House 110-2-40](votes/house-110-2-0040.md) — On Passage — **Passed** (354–58)
+
 ## Actions
 
 - 2007-11-09 — Introduced in House
@@ -76,3 +84,195 @@ Higher Education Opportunity Act
 - 2007-12-19 — Placed on the Union Calendar, Calendar No. 305.
 - 2007-12-19 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-500, Part I.
 - 2007-12-19 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-500, Part I.
+- 2008-02-06 — Rules Committee Resolution H. Res. 956 Reported to House. Rule provides for consideration of H.R. 4137 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill.
+- 2008-02-07 — Amendment (A001) offered by Mr. George Miller. (consideration: CR H736-751; text: CR H736-749)
+- 2008-02-07 — Amendment (A002) offered by Mr. McKeon. (consideration: CR H751-752; text: CR H751)
+- 2008-02-07 — Amendment (A004) offered by Mr. Petri. (consideration: CR H755-756, H778; text: CR H755)
+- 2008-02-07 — Amendment (A005) offered by Mr. Petri. (consideration: CR H756-758, H778-779; text: CR H756)
+- 2008-02-07 — Amendment (A006) offered by Mr. Castle. (consideration: CR H758; text: CR H758)
+- 2008-02-07 — Amendment (A007) offered by Mr. Davis (IL). (consideration: CR H758-760, H779-780; text: CR H758)
+- 2008-02-07 — Amendment (A008) offered by Mr. Sestak. (consideration: CR H760-761; text: CR H760)
+- 2008-02-07 — Amendment (A009) offered by Mr. Sestak. (consideration: CR H761-762; text: CR H761)
+- 2008-02-07 — Amendment (A010) offered by Mr. Yarmuth. (consideration: CR H762-763; text: CR H762)
+- 2008-02-07 — Amendment (A011) offered by Mr. Hastings (FL). (consideration: CR H763-765; text: CR H763-764)
+- 2008-02-07 — Amendment (A012) offered by Mr. Welch (VT). (consideration: CR H765-766; text: CR H765)
+- 2008-02-07 — Amendment (A013) offered by Ms. Johnson, E. B.. (consideration: CR H766-767; text: CR H766)
+- 2008-02-07 — Amendment (A014) offered by Mr. Stupak. (consideration: CR H767-768; text: CR H767)
+- 2008-02-07 — Amendment (A015) offered by Mr. Doggett. (consideration: CR H768-769; text: CR H768)
+- 2008-02-07 — Amendment (A016) offered by Mr. Baird. (consideration: CR H769-770; text: CR H769)
+- 2008-02-07 — Amendment (A017) offered by Mr. Crowley. (consideration: CR H770-771; text: CR H770)
+- 2008-02-07 — Amendment (A018) offered by Mr. Cooper. (consideration: CR H771-772; text: CR H771)
+- 2008-02-07 — Amendment (A019) offered by Mr. Ryan (OH). (consideration: CR H772-773; text: CR H772)
+- 2008-02-07 — Amendment (A020) offered by Mr. Van Hollen. (consideration: CR H773-775; text: CR H773)
+- 2008-02-07 — Amendment (A021) offered by Mrs. Gillibrand. (consideration: CR H775-776; text: CR H775)
+- 2008-02-07 — Amendment (A022) offered by Mr. Murphy, Patrick. (consideration: CR H776-777; text: CR H776)
+- 2008-02-07 — Amendment (A023) offered by Mr. Shuler. (consideration: CR H777-778; text: CR H777)
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment agreed to Committee of the Whole
+- 2008-02-07 — Amendment failed in Committee of the Whole
+- 2008-02-07 — Amendments (A003) offered by Mr. Hinojosa. (consideration: CR H752-755; text: CR H752-753)
+- 2008-02-07 — Committee of the Whole House on the state of the Union rises leaving H.R. 4137 as unfinished business.
+- 2008-02-07 — Considered as unfinished business. (consideration: CR H645-783)
+- 2008-02-07 — Considered under the provisions of rule H. Res. 956. (consideration: CR H641-645)
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Baird amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Castle amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Cooper amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Crowley amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Davis(IL) amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Doggett amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Eddie Bernice Johnson amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Gillibrand amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Hastings (FL) amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Hinojosa en bloc amendments.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the McKeon amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Patrick Murphy (PA) amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Petri amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Petri amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Ryan (OH) amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Sestak amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Sestak amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Shuler amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Stupak amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Van Hollen amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Welch amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 10 minutes of debate on the Yarmuth amendment.
+- 2008-02-07 — DEBATE - Pursuant to the provisions of H. Res. 956, the Committee of the Whole proceeded with 20 minutes of debate on the George Miller (CA) amendment.
+- 2008-02-07 — DEBATE - The House proceeded with ten minutes of debate on the Ferguson motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding a new Title XII regarding Limitations on Expenditures.
+- 2008-02-07 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4137.
+- 2008-02-07 — GENERAL DEBATE - The Committee of the Whole resumed general debate on H.R. 4137.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Baird amendment (A016) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Castle amendment (A006) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Cooper amendment (A018) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Crowley amendment (A017) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Doggett amendment (A015) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Gillibrand amendment (A021) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Hastings (FL) amendment (A011) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Hinojosa amendments (A003) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Johnson, E. B. amendment (A013) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the McKeon amendment (A002) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Murphy, Patrick amendment (A022) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Petri amendment (A004) Agreed to by recorded vote: 260 - 153 (Roll no. 36).
+- 2008-02-07 — House amendment agreed to: On agreeing to the Petri amendment (A005) Agreed to by recorded vote: 222 - 191 (Roll no. 37).
+- 2008-02-07 — House amendment agreed to: On agreeing to the Ryan (OH) amendment (A019) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Sestak amendment (A008) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Sestak amendment (A009) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Shuler amendment (A023) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Stupak amendment (A014) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Van Hollen amendment (A020) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Welch (VT) amendment (A012) Agreed to by voice vote.
+- 2008-02-07 — House amendment agreed to: On agreeing to the Yarmuth amendment (A010) Agreed to by voice vote.
+- 2008-02-07 — House amendment not agreed to: On agreeing to the Davis (IL) amendment (A007) Failed by recorded vote: 179 - 236 (Roll no. 38).
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered
+- 2008-02-07 — House amendment offered/reported by : Amendment (A001) offered by Mr. George Miller.(consideration: CR H736-751; text: CR H736-749)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A002) offered by Mr. McKeon.(consideration: CR H751-752; text: CR H751)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A004) offered by Mr. Petri.(consideration: CR H755-756, H778; text: CR H755)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A005) offered by Mr. Petri.(consideration: CR H756-758, H778-779; text: CR H756)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A006) offered by Mr. Castle.(consideration: CR H758; text: CR H758)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A007) offered by Mr. Davis (IL).(consideration: CR H758-760, H779-780; text: CR H758)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A008) offered by Mr. Sestak.(consideration: CR H760-761; text: CR H760)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A009) offered by Mr. Sestak.(consideration: CR H761-762; text: CR H761)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A010) offered by Mr. Yarmuth.(consideration: CR H762-763; text: CR H762)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A011) offered by Mr. Hastings (FL).(consideration: CR H763-765; text: CR H763-764)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A012) offered by Mr. Welch (VT).(consideration: CR H765-766; text: CR H765)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A013) offered by Ms. Johnson, E. B..(consideration: CR H766-767; text: CR H766)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A014) offered by Mr. Stupak.(consideration: CR H767-768; text: CR H767)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A015) offered by Mr. Doggett.(consideration: CR H768-769; text: CR H768)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A016) offered by Mr. Baird.(consideration: CR H769-770; text: CR H769)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A017) offered by Mr. Crowley.(consideration: CR H770-771; text: CR H770)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A018) offered by Mr. Cooper.(consideration: CR H771-772; text: CR H771)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A019) offered by Mr. Ryan (OH).(consideration: CR H772-773; text: CR H772)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A020) offered by Mr. Van Hollen.(consideration: CR H773-775; text: CR H773)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A021) offered by Mrs. Gillibrand.(consideration: CR H775-776; text: CR H775)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A022) offered by Mr. Murphy, Patrick.(consideration: CR H776-777; text: CR H776)
+- 2008-02-07 — House amendment offered/reported by : Amendment (A023) offered by Mr. Shuler.(consideration: CR H777-778; text: CR H777)
+- 2008-02-07 — House amendment offered/reported by : Amendments (A003) offered by Mr. Hinojosa.(consideration: CR H752-755; text: CR H752-753)
+- 2008-02-07 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 956 and Rule XVIII.
+- 2008-02-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-07 — Mr. Ferguson moved to recommit with instructions to Education and Labor. (consideration: CR H780-782; text: CR H780)
+- 2008-02-07 — Mr. Hinojosa moved that the Committee rise.
+- 2008-02-07 — ORDER OF PROCEDURE - Mr. Hinojosa asked unanimous consent that, during further consideration of H.R. 4137 pursuant to H. Res. 956, the Chair may reduce to two minutes the minimum time for electronic voting under clause 6 of rule 18 and clauses 8 and 9 of rule 20. Agreed to without objection.
+- 2008-02-07 — On agreeing to the Baird amendment (A016) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Castle amendment (A006) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Cooper amendment (A018) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Crowley amendment (A017) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Davis (IL) amendment (A007) Failed by recorded vote: 179 - 236 (Roll no. 38).
+- 2008-02-07 — On agreeing to the Doggett amendment (A015) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Gillibrand amendment (A021) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Hastings (FL) amendment (A011) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Hinojosa amendments (A003) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Johnson, E. B. amendment (A013) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the McKeon amendment (A002) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Miller, George amendment (A001) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Murphy, Patrick amendment (A022) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Petri amendment (A004) Agreed to by recorded vote: 260 - 153 (Roll no. 36).
+- 2008-02-07 — On agreeing to the Petri amendment (A005) Agreed to by recorded vote: 222 - 191 (Roll no. 37).
+- 2008-02-07 — On agreeing to the Ryan (OH) amendment (A019) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Sestak amendment (A008) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Sestak amendment (A009) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Shuler amendment (A023) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Stupak amendment (A014) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Van Hollen amendment (A020) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Welch (VT) amendment (A012) Agreed to by voice vote.
+- 2008-02-07 — On agreeing to the Yarmuth amendment (A010) Agreed to by voice vote.
+- 2008-02-07 — On motion that the Committee rise Agreed to by voice vote.
+- 2008-02-07 — On motion to recommit with instructions Failed by recorded vote: 194 - 216 (Roll no. 39). (consideration: CR H781-782)
+- 2008-02-07 — On passage Passed by the Yeas and Nays: 354 - 58 (Roll no. 40).
+- 2008-02-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Davis(IL) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. McKeon demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-02-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Petri amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. McKeon demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-02-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Petri amendment, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Price(GA) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-02-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 354 - 58 (Roll no. 40).
+- 2008-02-07 — Roll call votes on amendments in House
+- 2008-02-07 — Roll call votes on amendments in House
+- 2008-02-07 — Roll call votes on amendments in House
+- 2008-02-07 — Rule H. Res. 956 passed House.
+- 2008-02-07 — Rule provides for consideration of H.R. 4137 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill.
+- 2008-02-07 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4137.
+- 2008-02-07 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H658-636)
+- 2008-02-07 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2008-02-07 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4137.
+- 2008-02-07 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
+- 2008-02-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H781)
+- 2008-02-07 — The previous question was ordered pursuant to the rule. (consideration: CR H780)

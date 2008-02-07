@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4137
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “College Opportunity and Affordability Act of 2007”.
-- **(b)** *Table of contents*
+- **(a)** *Short title* This Act may be cited as the “College Opportunity and Affordability Act of 2008”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. References; Effective date
 
