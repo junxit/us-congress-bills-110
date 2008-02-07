@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4848
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -60,6 +60,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 6331` | add-at-end | Part E of title XVIII of the Social Security Act (42 U.S.C. 1395x et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 3716` | insert | by inserting “the Department of Health and Human Services,” after “United States Postal Service,” in subsection (c)(1)(A); and | the bill quotes the text inserted but describes where it goes |
-| `31 U.S.C. § 3716` | amend | by adding at the end of subsection (c)(3) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6331` | add-at-end | Section 1874 of the Social Security Act (42 U.S.C. 1395kk) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6331` | insert | by inserting “the Department of Health and Human Services,” after “United States Postal Service,” in subsection (c)(1)(A); and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6331` | amend | by adding at the end of subsection (c)(3) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
