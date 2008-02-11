@@ -1,7 +1,7 @@
 ---
 measure: S. 2071
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,9 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | The first sentence of section 310(e)(1)(B)(i) of the Controlled Substances Act (21 U.S.C. 830(e)(1)(B)(i)) is amended by striking “A regulated seller” and inserting “A regulated seller or regulated person referred to in subsection (b)(3)… | the bill names no machine-readable US Code section |
-| — | insert | Section 310(e)(1)(B) of the Controlled Substances Act (21 U.S.C. 830(e)(1)(B)) is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (13), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (14), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 402(a) of the Controlled Substances Act (21 U.S.C. 842(a)(10)) is amended by inserting before the semicolon the following: “or negligently to fail to self-certify as required under section 310 (21 U.S.C. 830)”. | the bill names no machine-readable US Code section |
+| `21 U.S.C. § 830` | insert | Section 310(e)(2) of the Controlled Substances Act (21 U.S.C. 830(e)(2)) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 830` | insert | Section 310(e)(1)(B) of the Controlled Substances Act (21 U.S.C. 830(e)(1)(B)) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 842` | strike | in paragraph (13), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 842` | replace | in paragraph (14), by striking the period and inserting “; or”; | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 842` | insert | by inserting after paragraph (14) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 842` | insert | Section 402(a) of the Controlled Substances Act (21 U.S.C. 842(a)(10)) is amended by inserting before the semicolon the following: “or negligently to fail to self-certify as required under section 310 (21 U.S.C. 830)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
