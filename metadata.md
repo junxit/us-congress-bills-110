@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5270
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5270
@@ -41,3 +41,17 @@ Airport and Airway Extension Act of 2008
 - 2008-02-12 — Mr. Crowley moved to suspend the rules and pass the bill.
 - 2008-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H831-832)
 - 2008-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H831-832)
+- 2008-02-13 — Cleared for White House.
+- 2008-02-13 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S990-991)
+- 2008-02-13 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S990-991)
+- 2008-02-14 — Message on Senate action sent to the House.
+- 2008-02-25 — Presented to President.
+- 2008-02-25 — Presented to President.
+- 2008-02-28 — Became Public Law No: 110-190.
+- 2008-02-28 — Became Public Law No: 110-190.
+- 2008-02-28 — Provisions extending both the AIP program and tax authority from February 29, 2008 thorugh June 30, 2008 were included in H.R.5270 (Public Law 110-190).
+- 2008-02-28 — Provisions extending tax authority from December 31, 2007 through February 29, 2008 were included in Section 116 of H.R.2764 (Public Law 110-161).
+- 2008-02-28 — Provisions extending the AIP program and tax authority from October 1, 2007 through December 31, 2007 were included in Section 148 and 149 of H.J.Res.52 (Public Law 110-92), as subsequently extended by Section 101 of H.R.3222, H.J.Res.69 (Public Law 110-137), and H.J.Res.72 (Public Law 110-149).
+- 2008-02-28 — Signed by President.
+- 2008-02-28 — Signed by President.
+- 2008-07-08 — Provisions extending both AIP program and tax authority from July 1, 2008 through September 30, 2008 were included in H.R. 6327 (P.L. 110-253)
