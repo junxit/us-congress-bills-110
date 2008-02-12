@@ -81,10 +81,10 @@ Unless otherwise agreed by the Secretary of the Navy, the Project—
 
 ## § 9. Authorization of appropriations
 
-There is authorized to be appropriated, out of any money in the Treasury of the United States not otherwise appropriated, the following—
+There is authorized to be appropriated, out of any money in the Treasury of the United States not otherwise appropriated, the following:
 
-- **(1)** $60,000,000 (the current estimated construction cost of the Project, plus or minus such amounts as may be indicated by the engineering cost indices for this type of construction); and
-- **(2)** such sums as may be required to operate and maintain the said project.
+- **(1)** $60,000,000 (the current estimated construction cost of the Project, plus or minus such amounts as may be indicated by the engineering cost indices for this type of construction).
+- **(2)** Such sums as may be required to operate and maintain the said project.
 
 ## § 10. Reports to congress
 
