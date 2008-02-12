@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 954
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 954
@@ -16,7 +16,7 @@ Honoring the life of senior Border Patrol agent Luis A. Aguilar, who lost his li
 
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Cosponsors (30)
+## Cosponsors (38)
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -48,13 +48,33 @@ Honoring the life of senior Border Patrol agent Luis A. Aguilar, who lost his li
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
 - Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
 ## Committees (1)
 
 - House — Homeland Security Committee
+
+## Recorded votes (1)
+
+- 2008-02-12 — [House 110-2-43](votes/house-110-2-0043.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (357–0)
 
 ## Actions
 
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Referred to the House Committee on Homeland Security.
+- 2008-02-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-12 — Considered as unfinished business. (consideration: CR H848-849)
+- 2008-02-12 — Considered under suspension of the rules. (consideration: CR H820-823)
+- 2008-02-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 954.
+- 2008-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-12 — Mr. Thompson (MS) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-02-12 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 43). (text: CR H820)
+- 2008-02-12 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 357 - 0 (Roll no. 43).(text: CR H820)

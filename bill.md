@@ -2,7 +2,7 @@
 legis-num: H. RES. 954
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 954
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas Luis Aguilar was born in El Paso, Texas, on November 26, 1976, to Luis Aguilar and Cecilia G. Silva;
-- Whereas Luis Aguilar resided in Somerton, Arizona, and is survived by his mother and father, his wife, Erica Aguilar, his two children, Luis and Ariana, his brother, senior Border Patrol agent Marco Antonio Aguilar, and his sister, Angie Aguilar;
+- Whereas Luis Aguilar resided in Somerton, Arizona, and is survived by his mother and father, his wife, Erica Aguilar, his two children, Luis and Arianna, his brother, senior Border Patrol agent Marco Antonio Aguilar, and his sister, Angie Aguilar;
 - Whereas Luis Aguilar joined the United States Border Patrol on July 21, 2002;
 - Whereas on January 19, 2008, after over 5 years of dedicated service in the United States Border Patrol, Luis Aguilar selflessly paid the ultimate sacrifice in service to the United States;
 - Whereas Border Patrol agents carry out the vital role of protecting our Nation’s borders and ensuring the safety of the United States;
