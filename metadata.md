@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5135
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5135
@@ -31,3 +31,11 @@ To designate the facility of the United States Postal Service located at 201 Wes
 - 2008-01-23 — Introduced in House
 - 2008-01-23 — Introduced in House
 - 2008-01-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-01-29 — Committee Consideration and Mark-up Session Held.
+- 2008-01-29 — Ordered to be Reported by Voice Vote.
+- 2008-02-12 — Considered under suspension of the rules. (consideration: CR H842-844)
+- 2008-02-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5135.
+- 2008-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-12 — Mr. Butterfield moved to suspend the rules and pass the bill.
+- 2008-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H842-843)
+- 2008-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H842-843)
