@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5270
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
