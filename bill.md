@@ -2,12 +2,10 @@
 legis-num: H. RES. 975
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 975
-
-> Expressing the condolences of the House of Representatives on the death of the Honorable Tom Lantos, a Representative of the State of California.
 
 That the House has heard with profound sorrow of the death of the Honorable Tom Lantos, a Representative from the State of California.
 
