@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3468
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3468
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1704 We
 
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
@@ -26,6 +26,10 @@ To designate the facility of the United States Postal Service located at 1704 We
 - Rep. Etheridge, Bob [D-NC-2] (E000226)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. Hayes, Robin [R-NC-8] (H001029)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Coble, Howard [R-NC-6] (C000556)
 
 ## Committees (1)
 
@@ -36,3 +40,11 @@ To designate the facility of the United States Postal Service located at 1704 We
 - 2007-08-04 — Introduced in House
 - 2007-08-04 — Introduced in House
 - 2007-08-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-12-12 — Committee Consideration and Mark-up Session Held.
+- 2007-12-12 — Ordered to be Reported by Voice Vote.
+- 2008-02-12 — Considered under suspension of the rules. (consideration: CR H839-840)
+- 2008-02-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3468.
+- 2008-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-12 — Mr. Butterfield moved to suspend the rules and pass the bill.
+- 2008-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H839)
+- 2008-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H839)
