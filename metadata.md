@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3773
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3773
@@ -69,3 +69,9 @@ FISA Amendments Act of 2008
 - 2007-11-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H14061)
 - 2007-11-15 — The previous question was ordered pursuant to the rule. (consideration: CR H14059)
 - 2007-11-15 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have words taken down. Mr. Patrick Murphy of Pennsylvania asked unanimous consent to withdraw the words. Without objection the words were withdrawn. The House resumed debate on H.R. 3773.
+- 2007-12-03 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 517.
+- 2008-02-12 — Measure laid before Senate by unanimous consent. (consideration: CR S904-913)
+- 2008-02-12 — Passed Senate with an amendment by Unanimous Consent. (text: CR S904-913)
+- 2008-02-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S904-913)
+- 2008-02-12 — See also S.2248.
+- 2008-02-12 — Senate struck all after the Enacting Clause and substituted the language of S.2248 amended.
