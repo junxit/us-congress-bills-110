@@ -1,7 +1,7 @@
 ---
 measure: S. 2071
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2071
@@ -57,9 +57,11 @@ Combat Methamphetamine Enhancement Act of 2007
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -76,3 +78,9 @@ Combat Methamphetamine Enhancement Act of 2007
 - 2008-02-11 — Senate amendment agreed to: Amendment SA 4017 agreed to in Senate by Unanimous Consent.
 - 2008-02-11 — Senate amendment proposed (on the floor): Amendment SA 4017 proposed by Senator Durbin for Senator Feinstein.(consideration: CR S861-862; text: CR S861-862)
 - 2008-02-11 — Senate amendment submitted
+- 2008-02-12 — Message on Senate action sent to the House.
+- 2008-02-12 — Received in the House.
+- 2008-02-12 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-02-12 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-02-12 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-02-12 — Referred to the Subcommittee on Health.
