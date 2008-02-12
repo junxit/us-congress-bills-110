@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5270
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5270
@@ -35,3 +35,9 @@ Airport and Airway Extension Act of 2008
 - 2008-02-07 — Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-02-07 — Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-02-07 — Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-02-12 — Considered under suspension of the rules. (consideration: CR H831-834)
+- 2008-02-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5270.
+- 2008-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-12 — Mr. Crowley moved to suspend the rules and pass the bill.
+- 2008-02-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H831-832)
+- 2008-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H831-832)
