@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 293
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 293
@@ -25,3 +25,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2008-02-13 — On agreeing to the resolution Agreed to by recorded vote: 215 - 203 (Roll no. 56). (text: CR H908)
 - 2008-02-13 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 215 - 203 (Roll no. 56).(text: CR H908)
 - 2008-02-13 — Received in the Senate.
+- 2008-02-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1085; text as passed Senate: CR S1085)
+- 2008-02-14 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1085; text as passed Senate: CR S1085)
+- 2008-02-15 — Message on Senate action sent to the House.
