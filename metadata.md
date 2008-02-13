@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 971
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 971
@@ -49,3 +49,10 @@ Expressing the sympathies and support of the House of Representatives for the in
 - 2008-02-12 — Introduced in House
 - 2008-02-12 — Introduced in House
 - 2008-02-12 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-02-13 — Considered under suspension of the rules. (consideration: CR H919-922)
+- 2008-02-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 971.
+- 2008-02-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-13 — Mr. Cohen moved to suspend the rules and agree to the resolution.
+- 2008-02-13 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H919)
+- 2008-02-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H919)
+- 2008-02-13 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
