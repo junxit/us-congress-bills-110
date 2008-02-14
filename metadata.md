@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 790
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 790
@@ -36,3 +36,11 @@ Commending the people of the State of Washington for showing their support for t
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Referred to the House Committee on Veterans' Affairs.
+- 2008-02-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-13 — Considered under suspension of the rules. (consideration: CR H914-916)
+- 2008-02-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 790.
+- 2008-02-13 — Mr. Rodriguez moved to suspend the rules and agree to the resolution.
+- 2008-02-14 — Considered as unfinished business. (consideration: CR H969)
+- 2008-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 66). (text: CR 2/13/2008 H914)
+- 2008-02-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 383 - 0 (Roll no. 66).(text: CR 2/13/2008 H914)
