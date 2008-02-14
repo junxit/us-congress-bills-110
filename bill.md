@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas the National Association for the Advancement of Colored People (NAACP), originally known as the National Negro Committee, was founded in New York City on February 12, 1909, the centennial of Abraham Lincoln's birth, by a multiracial group of activists who answered ‘The Call’ for a national conference to discuss the civil and political rights of African-Americans;
-- Whereas the National Association for the Advancement of Colored People was founded by a distinguished group of leaders in the struggle for civil and political liberty, including Ida Wells-Barnett, W.E.B. DuBois, Henry Moscowitz, Mary White Ovington, Oswald Garrison Villiard, and William English Walling;
+- Whereas the National Association for the Advancement of Colored People was founded by a distinguished group of leaders in the struggle for civil and political liberty, including Ida Wells-Barnett, W.E.B. DuBois, Henry Moscowitz, Mary White Ovington, Oswald Garrison Villard, and William English Walling;
 - Whereas the NAACP is the oldest and largest civil rights organization in the United States;
 - Whereas the mission of the NAACP is to ensure the political, educational, social, and economic equality of rights of all persons and to eliminate racial hatred and racial discrimination;
 - Whereas the NAACP is committed to achieving its goals through nonviolence;
