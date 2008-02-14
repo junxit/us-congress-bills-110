@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1834
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1834
@@ -62,3 +62,12 @@ To authorize the national ocean exploration program and the national undersea re
 - 2007-12-18 — Placed on the Union Calendar, Calendar No. 304.
 - 2007-12-18 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-311, Part II.
 - 2007-12-18 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-311, Part II.
+- 2008-02-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-13 — Considered under suspension of the rules. (consideration: CR H896-900; text of measure as reported in House: CR H896-898)
+- 2008-02-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1834.
+- 2008-02-13 — Mr. Lipinski moved to suspend the rules and pass the bill, as amended.
+- 2008-02-14 — By unanimous consent, the text of H.R. 1834, as proposed to be adopted under suspension of the rules, was modified by an amendment placed at the desk.
+- 2008-02-14 — Considered as unfinished business. (consideration: CR H963-965)
+- 2008-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 49 (Roll no. 62). (text: CR H963-964)
+- 2008-02-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 352 - 49 (Roll no. 62).(text: CR H963-964)
