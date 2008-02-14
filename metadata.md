@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 982
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 982
@@ -16,6 +16,10 @@ Providing for the adoption of the resolution (H. Res. 979) recommending that the
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2008-02-13 — Introduced in House
@@ -23,3 +27,9 @@ Providing for the adoption of the resolution (H. Res. 979) recommending that the
 - 2008-02-13 — The House Committee on Rules reported an original measure, H. Rept. 110-526, by Ms. Slaughter.
 - 2008-02-13 — The House Committee on Rules reported an original measure, H. Rept. 110-526, by Ms. Slaughter.
 - 2008-02-13 — Upon the adoption of H.Res. 982, H.Res. 979 and H.Res. 980 are hereby adopted.
+- 2008-02-14 — Considered as privileged matter. (consideration: CR H948-958, H959-962)
+- 2008-02-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 982.
+- 2008-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-14 — On agreeing to the resolution Agreed to by recorded vote: 223 - 32, 1 Present (Roll no. 60). (text: CR H948)
+- 2008-02-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 223 - 32, 1 Present (Roll no. 60).(text: CR H948)
+- 2008-02-14 — The previous question was ordered without objection. (consideration: CR H961)
