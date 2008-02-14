@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 979
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 979
@@ -26,3 +26,5 @@ Recommending that the House of Representatives find Harriet Miers and Joshua Bol
 - 2008-02-13 — Introduced in House
 - 2008-02-13 — Referred to the House Committee on the Judiciary.
 - 2008-02-13 — Rules Committee Resolution H. Res. 982 Reported to House. Rule provides for consideration of H. Res. 979 and H. Res. 980. Upon the adoption of H.Res. 982, H.Res. 979 and H.Res. 980 are hereby adopted.
+- 2008-02-14 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 982, H. Res. 979 is considered passed House.(consideration: CR H962; text as passed House: CR H962)
+- 2008-02-14 — Pursuant to the provisions of H. Res. 982, H. Res. 979 is considered passed House. (consideration: CR H962; text as passed House: CR H962)
