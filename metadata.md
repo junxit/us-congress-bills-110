@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 966
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 966
@@ -16,7 +16,7 @@ Honoring African American inventors, past and present, for their leadership, cou
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Cosponsors (19)
+## Cosponsors (22)
 
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
@@ -37,6 +37,9 @@ Honoring African American inventors, past and present, for their leadership, cou
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
 
 ## Committees (1)
 
@@ -47,3 +50,11 @@ Honoring African American inventors, past and present, for their leadership, cou
 - 2008-02-07 — Introduced in House
 - 2008-02-07 — Introduced in House
 - 2008-02-07 — Referred to the House Committee on Science and Technology.
+- 2008-02-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-13 — Considered under suspension of the rules. (consideration: CR H892-894)
+- 2008-02-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 966.
+- 2008-02-13 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.
+- 2008-02-14 — Considered as unfinished business. (consideration: CR H962-963)
+- 2008-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 61). (text: CR 2/13/2008 H892-893)
+- 2008-02-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 387 - 0 (Roll no. 61).(text: CR 2/13/2008 H892-893)
