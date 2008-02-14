@@ -1,0 +1,63 @@
+---
+legis-num: H.R. 5463
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5463
+
+> To protect investors by fostering transparency and accountability of attorneys in private securities litigation.
+
+## § 1. Short title
+
+This Act may be cited as the “Securities Litigation Attorney Accountability and Transparency Act”.
+
+## § 2. Losing plaintiff’s attorney pays
+
+- **(a)** *Securities Exchange Act of 1934* Section 21D(c) of the Securities Exchange Act of 1934 (15 U.S.C. 78u–4(c)) is amended by adding at the end the following new paragraph:
+  > - **(4)** *Assessment of fees and expenses*
+  >   - **(A)** *Determination required* If the court in any private action arising under this title enters a final judgment against a plaintiff on the basis of a motion to dismiss, motion for summary judgment, or a trial on the merits, the court shall, upon motion by the defendant, determine whether—
+  >     - **(i)** the position of the plaintiff was not substantially justified;
+  >     - **(ii)** imposing fees and expenses on the plaintiff's attorney would be just; and
+  >     - **(iii)** the cost of such fees and expenses to the defendant is substantially burdensome or unjust.
+  >   - **(B)** *Award* If the court makes the determinations described in clauses (i), (ii), and (iii) of subparagraph (A), the court shall award the defendant reasonable fees and other expenses incurred by the defendant and impose such fees and expenses on the plaintiff’s attorney.
+  >   - **(C)** *Basis of determination regarding position; burden of persuasion* The determination of whether the position of the plaintiff was substantially justified shall be made on the basis of the record in the action for which fees and other expenses are sought, but the burden of persuasion shall be on the defendant.
+
+- **(b)** *Securities Act of 1933* Section 27(c) of the Securities Act of 1933 (15 U.S.C. 77z–1(c)) is amended by adding at the end the following new paragraph:
+  > - **(4)** *Assessment of fees and expenses*
+  >   - **(A)** *Determination required* If the court in any private action arising under this title enters a final judgment against a plaintiff on the basis of a motion to dismiss, motion for summary judgment, or a trial on the merits, the court shall, upon motion by the defendant, determine whether—
+  >     - **(i)** the position of the plaintiff was not substantially justified;
+  >     - **(ii)** imposing fees and expenses on the plaintiff's attorney would be just; and
+  >     - **(iii)** the cost of such fees and expenses to the defendant is substantially burdensome or unjust.
+  >   - **(B)** *Award* If the court makes the determinations described in clauses (i), (ii), and (iii) of subparagraph (A), the court shall award the defendant reasonable fees and other expenses incurred by the defendant and impose such fees and expenses on the plaintiff’s attorney.
+  >   - **(C)** *Basis of determination regarding position; burden of persuasion* The determination of whether the position of the plaintiff was substantially justified shall be made on the basis of the record in the action for which fees and other expenses are sought, but the burden of persuasion shall be on the defendant.
+
+## § 3. Disclosures of payments, fee arrangements, contributions, and other potential conflicts of interest between plaintiff and attorneys
+
+- **(a)** *Securities Exchange Act of 1934* Section 21D(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78u–4(a)) is amended by adding at the end the following new paragraphs:
+  > - **(10)** *Disclosures regarding payments*
+  >   - **(A)** *Sworn certifications required* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identify any direct or indirect payment, or promise of any payment, by such attorney, or any person affiliated with such attorney, to such plaintiff, or any person affiliated with such plaintiff, beyond the plaintiff’s pro rata share of any recovery, except as ordered or approved by the court in accordance with paragraph (4). Upon disclosure of any such payment or promise of payment, the court shall disqualify the attorney from representing the plaintiff.
+  >   - **(B)** *Definition* For purposes of this paragraph, the term payment shall include the transfer of money and any other thing of value, including the provision of services, other than representation of the plaintiff in the private action arising under this title.
+  > - **(11)** *Disclosures regarding legal representations* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identifies the nature and terms of any legal representation provided by such attorney, or any person affiliated with such attorney, to such plaintiff, or any person affiliated with such plaintiff other than the representation of the plaintiff in the private action arising under this title. The court may allow such certifications to be made under seal. The court shall make a determination whether the nature or terms of the fee arrangement for any other matter influenced the selection and retention of counsel in any private action arising under this title and, if the court so finds, shall disqualify the attorney from representing the plaintiff in any such action.
+  > - **(12)** *Disclosures regarding contributions* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identifies any contribution made within five years prior to the filing of the complaint by such attorney, any person affiliated with such attorney, or any political action committee controlled by such attorney, to any elected official with authority to retain counsel for such plaintiff or to select or appoint, influence the selection or appointment of, or oversee any individual or group of individuals with that authority.
+  > - **(13)** *Disclosure regarding other conflicts of interest* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identifies any other conflict of interest (other than one specified in paragraphs (10) through (12)) between such attorney and such plaintiff. The court shall make a determination of whether such conflict is sufficient to disqualify the attorney from representing the plaintiff.
+
+- **(b)** *Securities Act of 1933* Section 27(a) of the Securities Act of 1933 (15 U.S.C. 77z–1(a)) is amended by adding at the end the following new paragraph:
+  > - **(10)** *Disclosures regarding payments*
+  >   - **(A)** *Sworn certifications required* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identify any direct or indirect payment, or promise of any payment, by such attorney, or any person affiliated with such attorney, to such plaintiff, or any person affiliated with such plaintiff, beyond the plaintiff’s pro rata share of any recovery, except as ordered or approved by the court in accordance with paragraph (4). Upon disclosure of any such payment or promise of payment, the court shall disqualify the attorney from representing the plaintiff.
+  >   - **(B)** *Definition* For purposes of this paragraph, the term payment shall include the transfer of money and any other thing of value, including the provision of services, other than representation of the plaintiff in the private action arising under this title.
+  > - **(11)** *Disclosures regarding legal representations* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identifies the nature and terms of any legal representation provided by such attorney, or any person affiliated with such attorney, to such plaintiff, or any person affiliated with such plaintiff other than the representation of the plaintiff in the private action arising under this title. The court may allow such certifications to be made under seal. The court shall make a determination whether the nature or terms of the fee arrangement for any other matter influenced the selection and retention of counsel in any private action arising under this title and, if the court so finds, shall disqualify the attorney from representing the plaintiff in any such action.
+  > - **(12)** *Disclosures regarding contributions* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identifies any contribution made within five years prior to the filing of the complaint by such attorney, any person affiliated with such attorney, or any political action committee controlled by such attorney, to any elected official with authority to retain counsel for such plaintiff or to select or appoint, influence the selection or appointment of, or oversee any individual or group of individuals with that authority.
+  > - **(13)** *Disclosure regarding other conflicts of interest* In any private action arising under this title, each plaintiff and any attorney for such plaintiff shall provide sworn certifications, which shall be personally signed by such plaintiff and such attorney, respectively, and filed with the complaint, that identifies any other conflict of interest (other than one specified in paragraphs (10) through (12)) between such attorney and such plaintiff. The court shall make a determination of whether such conflict is sufficient to disqualify the attorney from representing the plaintiff.
+
+## § 4. Selection of lead counsel
+
+- **(a)** *Securities Exchange Act of 1934* Section 21D(a)(3)(B)(v) of the Securities Exchange Act of 1934 (15 U.S.C. 78u–4(a)(3)(B)(v)) is amended by adding at the end the following: “In exercising the discretion of the court over the approval of lead counsel, the court shall employ a competitive bidding process as one of the criteria in the selection and retention of counsel for the most adequate plaintiff, unless the court determines on the record that such a process is not feasible.”.
+- **(b)** *Securities Act of 1933* Section 27(a)(3)(B)(v) of the Securities Act of 1933 (15 U.S.C. 77z–1(a)(3)(B)(v)) is amended by adding at the end the following: “In exercising the discretion of the court over the approval of lead counsel, the court shall employ a competitive bidding process as one of the criteria in the selection and retention of counsel for the most adequate plaintiff, unless the court determines on the record that such a process is not feasible.”.
+
+## § 5. Study of average hourly fees in securities class actions
+
+- **(a)** *Study and review required* The Comptroller General of the United States shall conduct a study and review of fee awards to lead counsel in securities class actions over the five years preceding the date of enactment of this Act to determine the effective average hourly rate for lead counsel in such actions.
+- **(b)** *Report required* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the results of the study and review required by this section. The Comptroller General shall submit an updated study every three years thereafter.
+- **(c)** *Definition* For purposes of this section, the term securities class action means a private class action arising under the Securities Act of 1933 (15 U.S.C. 77 et seq.) or the Securities Exchange Act of 1934 (15 U.S.C. 78 et seq.) that is brought as a plaintiff class action pursuant to the Federal Rules of Civil Procedure.
