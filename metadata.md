@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 972
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 972
@@ -16,7 +16,7 @@ Supporting the goals and ideals of American Heart Month and National Wear Red Da
 
 - Rep. Capps, Lois [D-CA-23] (C001036)
 
-## Cosponsors (71)
+## Cosponsors (78)
 
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
@@ -89,13 +89,33 @@ Supporting the goals and ideals of American Heart Month and National Wear Red Da
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2008-02-14 — [House 110-2-68](votes/house-110-2-0068.md) — On Motion to Suspend the Rules and Agree — **Passed** (389–0)
 
 ## Actions
 
 - 2008-02-12 — Introduced in House
 - 2008-02-12 — Introduced in House
 - 2008-02-12 — Referred to the House Committee on Energy and Commerce.
+- 2008-02-13 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-13 — Considered under suspension of the rules. (consideration: CR H917-918)
+- 2008-02-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 972.
+- 2008-02-13 — Mrs. Capps moved to suspend the rules and agree to the resolution.
+- 2008-02-14 — Considered as unfinished business. (consideration: CR H970-971)
+- 2008-02-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 68). (text: CR 2/13/2008 H914)
+- 2008-02-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 389 - 0 (Roll no. 68).(text: CR 2/13/2008 H914)
+- 2008-02-14 — Referred to the Subcommittee on Health.
