@@ -1,7 +1,7 @@
 ---
 measure: H.R. 275
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2151n` | add-at-end | Section 116 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2304` | add-at-end | Section 502B of the Foreign Assistance Act of 1961 (22 U.S.C. 2304) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 116 of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 502B of the Foreign Assistance Act of 1961 (22 U.S.C. 2304) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
