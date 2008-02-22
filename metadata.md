@@ -1,7 +1,7 @@
 ---
 measure: S. 2324
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2324
@@ -16,11 +16,19 @@ Inspector General Reform Act of 2008
 
 - Sen. McCaskill, Claire [D-MO] (M001170)
 
-## Cosponsors (3)
+## Cosponsors (11)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -31,3 +39,7 @@ Inspector General Reform Act of 2008
 - 2007-11-08 — Introduced in Senate
 - 2007-11-08 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S14194-14198)
 - 2007-11-08 — Sponsor introductory remarks on measure. (CR S14193-14194)
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2008-02-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 02/14/2008 with amendments. With written report No. 110-262.
+- 2008-02-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 02/14/2008 with amendments. With written report No. 110-262.
+- 2008-02-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.

@@ -1,7 +1,7 @@
 ---
 measure: S. 2324
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 2 executed, 32 stated and not applied.
+35 amendatory instructions. 2 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -68,14 +68,15 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 6 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “in any medium (including electronically stored information, as well as any tangible thing)” after “other data”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subpena” and inserting “subpoena”. | the bill names no machine-readable US Code section |
-| — | strike | in subparagraph (C), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
-| — | amend | in subparagraph (D), by adding “and” after the semicolon; and | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (C)(D), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | amend | in subparagraph (D)(E), by adding “and” after the semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (1) by striking “appointed under section 3”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, inspection reports, and evaluation reports” after “audit reports” the first place it appears; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “audit” the second place it appears; and | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a)(10) by inserting “, inspection reports, and evaluation reports” after “audit reports”. | the bill names no machine-readable US Code section |
+| — | insert | The Inspector General Act of 1978 (5 U.S.C. App.) is amended by inserting after section 8K the following: | the bill names no machine-readable US Code section |
 | — | strike | Section 8E(b) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking paragraph (3). | the bill names no machine-readable US Code section |
 | — | strike | by striking “and paragraph (3)” in paragraph (2); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (3); and | the bill names no machine-readable US Code section |
