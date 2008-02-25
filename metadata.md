@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 944
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 944
@@ -16,7 +16,7 @@ Honoring the service and accomplishments of Lieutenant General Russel L. Honore,
 
 - Rep. Scott, David [D-GA-13] (S001157)
 
-## Cosponsors (38)
+## Cosponsors (72)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Barrow, John [D-GA-12] (B001252)
@@ -56,6 +56,40 @@ Honoring the service and accomplishments of Lieutenant General Russel L. Honore,
 - Rep. Hooley, Darlene [D-OR-5] (H000762)
 - Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 - Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Broun, Paul C. [R-GA-10] (B001262)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. Kline, John [R-MN-2] (K000363)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Akin, W. Todd [R-MO-2] (A000358)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
 
 ## Committees (1)
 
@@ -66,3 +100,12 @@ Honoring the service and accomplishments of Lieutenant General Russel L. Honore,
 - 2008-01-28 — Introduced in House
 - 2008-01-28 — Introduced in House
 - 2008-01-28 — Referred to the House Committee on Armed Services.
+- 2008-02-11 — Referred to the Subcommittee on Military Personnel.
+- 2008-02-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-02-25 — Considered as unfinished business. (consideration: CR H1015-1016)
+- 2008-02-25 — Considered under suspension of the rules. (consideration: CR H1010-1013)
+- 2008-02-25 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 944.
+- 2008-02-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-25 — Mr. Courtney moved to suspend the rules and agree to the resolution, as amended.
+- 2008-02-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 71). (text: CR H1010)
+- 2008-02-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 380 - 0 (Roll no. 71).(text: CR H1010)
