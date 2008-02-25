@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5478
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5478
@@ -39,3 +39,15 @@ To provide for the continued minting and issuance of certain $1 coins in 2008.
 - 2008-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1013)
 - 2008-02-25 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
 - 2008-02-25 — Referred to the House Committee on Financial Services.
+- 2008-02-28 — Cleared for White House.
+- 2008-02-28 — Message on Senate action sent to the House.
+- 2008-02-28 — Passed Senate without amendment by Unanimous Consent.
+- 2008-02-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-02-28 — Presented to President.
+- 2008-02-28 — Presented to President.
+- 2008-02-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S1390)
+- 2008-02-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S1390)
+- 2008-02-29 — Became Public Law No: 110-192.
+- 2008-02-29 — Became Public Law No: 110-192.
+- 2008-02-29 — Signed by President.
+- 2008-02-29 — Signed by President.
