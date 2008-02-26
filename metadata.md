@@ -1,7 +1,7 @@
 ---
 measure: S. 1200
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1200
@@ -16,7 +16,7 @@ Indian Health Care Improvement Act Amendments of 2008
 
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 
-## Cosponsors (20)
+## Cosponsors (83)
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Reid, Harry [D-NV] (R000146)
@@ -38,10 +38,86 @@ Indian Health Care Improvement Act Amendments of 2008
 - Sen. Stevens, Ted [R-AK] (S000888)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Coburn, Tom [R-OK] (C000560)
 
 ## Committees (1)
 
 - Senate — Indian Affairs Committee
+
+## Recorded votes (10)
+
+- 2008-02-13 — [Senate 110-2-23](votes/senate-110-2-0023.md) — On the Amendment — **Amendment Agreed to** (95–0)
+- 2008-02-14 — [Senate 110-2-24](votes/senate-110-2-0024.md) — On the Amendment — **Amendment Agreed to** (95–0)
+- 2008-02-14 — [Senate 110-2-25](votes/senate-110-2-0025.md) — On the Amendment — **Amendment Rejected** (28–67)
+- 2008-02-14 — [Senate 110-2-26](votes/senate-110-2-0026.md) — On the Amendment — **Amendment Rejected** (21–73)
+- 2008-02-14 — [Senate 110-2-27](votes/senate-110-2-0027.md) — On the Amendment — **Amendment Agreed to** (94–0)
+- 2008-02-25 — [Senate 110-2-28](votes/senate-110-2-0028.md) — On the Cloture Motion — **Cloture Motion Agreed to** (85–2)
+- 2008-02-25 — [Senate 110-2-29](votes/senate-110-2-0029.md) — On the Amendment — **Amendment Agreed to** (78–11)
+- 2008-02-26 — [Senate 110-2-30](votes/senate-110-2-0030.md) — On the Amendment — **Amendment Agreed to** (52–42)
+- 2008-02-26 — [Senate 110-2-31](votes/senate-110-2-0031.md) — On the Amendment — **Amendment Agreed to** (56–38)
+- 2008-02-26 — [Senate 110-2-32](votes/senate-110-2-0032.md) — On Passage of the Bill — **Bill Passed** (83–10)
 
 ## Actions
 
@@ -52,3 +128,266 @@ Indian Health Care Improvement Act Amendments of 2008
 - 2007-10-16 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-197.
 - 2007-10-16 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-197.
 - 2007-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 421.
+- 2008-01-22 — Amendment SA 3893 proposed by Senator Brownback to Amendment SA 3899. (consideration: CR S46-48; text: CR S46-47) To acknowledge a long history of official depredations and ill-conceived policies by the Federal Government regarding Indian tribes and offer an apology to all Native Peoples on behalf of the United States.
+- 2008-01-22 — Amendment SA 3894 proposed by Senator Bingaman to Amendment SA 3899. (consideration: CR S38-39; text: CR S38-39) To amend title XVIII of the Social Security Act to provide for a limitation on the charges for contract health services provided to Indians by Medicare providers.
+- 2008-01-22 — Amendment SA 3896 proposed by Senator Vitter to Amendment SA 3899. (consideration: CR S42-43; text: CR S42) To modify a section relating to limitation on use of funds appropriated to the Service.
+- 2008-01-22 — Amendment SA 3899 proposed by Senator Dorgan. (consideration: CR S52-53) In the nature of a substitute.
+- 2008-01-22 — Amendment SA 3900 proposed by Senator Sanders to Amendment SA 3899. (consideration: CR S59-60; text: CR S59) To provide for payments under subsections (a) through (e) of section 2604 of the Low-Income Home Energy Assistance Act of 1981.
+- 2008-01-22 — Measure laid before Senate by unanimous consent. (consideration: CR S26-39, S41-45, S46-48, S52-53, S59-65)
+- 2008-01-22 — Senate amendment proposed (on the floor): Amendment SA 3893 proposed by Senator Brownback to Amendment SA 3899.(consideration: CR S46-48; text: CR S46-47)
+- 2008-01-22 — Senate amendment proposed (on the floor): Amendment SA 3894 proposed by Senator Bingaman to Amendment SA 3899.(consideration: CR S38-39; text: CR S38-39)
+- 2008-01-22 — Senate amendment proposed (on the floor): Amendment SA 3896 proposed by Senator Vitter to Amendment SA 3899.(consideration: CR S42-43; text: CR S42)
+- 2008-01-22 — Senate amendment proposed (on the floor): Amendment SA 3899 proposed by Senator Dorgan.(consideration: CR S52-53)
+- 2008-01-22 — Senate amendment proposed (on the floor): Amendment SA 3900 proposed by Senator Sanders to Amendment SA 3899.(consideration: CR S59-60; text: CR S59)
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-22 — Senate amendment submitted
+- 2008-01-23 — Considered by Senate. (consideration: CR S158)
+- 2008-01-23 — Considered by Senate. (consideration: CR S158)
+- 2008-01-23 — Considered by Senate. (consideration: CR S158)
+- 2008-01-23 — Considered by Senate. (consideration: CR S158)
+- 2008-01-23 — Considered by Senate. (consideration: CR S158)
+- 2008-01-23 — Considered by Senate. (consideration: CR S158, S159-163, S167-174, S177-179)
+- 2008-01-23 — Senate amendment submitted
+- 2008-01-23 — Senate amendment submitted
+- 2008-02-06 — Senate amendment submitted
+- 2008-02-07 — Senate amendment submitted
+- 2008-02-07 — Senate amendment submitted
+- 2008-02-11 — Senate amendment submitted
+- 2008-02-11 — Senate amendment submitted
+- 2008-02-13 — Amendment SA 3898 proposed by Senator Barrasso to Amendment SA 3899. (consideration: CR S961-962; text: CR S961) To require the Comptroller General to report on the effectiveness of coordination of health care services provided to Indians using Federal, State local and tribal funds.
+- 2008-02-13 — Amendment SA 4020 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 23.
+- 2008-02-13 — Amendment SA 4020 proposed by Senator Tester to Amendment SA 3899. (consideration: CR S959-960; text: CR S959) To express the sense of Congress regarding law enforcement and methamphetamine issues in Indian country.
+- 2008-02-13 — Amendment SA 4022 proposed by Senator Gregg to Amendment SA 3900. (consideration: CR S960-961; text: CR S960) To provide funding for the Low-Income Home Energy Assistance Program in a fiscally responsible manner.
+- 2008-02-13 — Considered by Senate. (consideration: CR S957)
+- 2008-02-13 — Considered by Senate. (consideration: CR S957)
+- 2008-02-13 — Considered by Senate. (consideration: CR S957)
+- 2008-02-13 — Considered by Senate. (consideration: CR S957)
+- 2008-02-13 — Considered by Senate. (consideration: CR S957-959)
+- 2008-02-13 — Considered by Senate. (consideration: CR S957-962)
+- 2008-02-13 — Roll call votes on amendments in Senate: Amendment SA 4020 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 23.
+- 2008-02-13 — Senate amendment agreed to: Amendment SA 4020 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 23.
+- 2008-02-13 — Senate amendment proposed (on the floor): Amendment SA 3898 proposed by Senator Barrasso to Amendment SA 3899.(consideration: CR S961-962; text: CR S961)
+- 2008-02-13 — Senate amendment proposed (on the floor): Amendment SA 4020 proposed by Senator Tester to Amendment SA 3899.(consideration: CR S959-960; text: CR S959)
+- 2008-02-13 — Senate amendment proposed (on the floor): Amendment SA 4022 proposed by Senator Gregg to Amendment SA 3900.(consideration: CR S960-961; text: CR S960)
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-13 — Senate amendment submitted
+- 2008-02-14 — Amendment SA 3893 as modified agreed to in Senate by Voice Vote. (text as modified: CR S1037-1038)
+- 2008-02-14 — Amendment SA 3897 proposed by Senator Smith to Amendment SA 3899. (consideration: CR S1004-1006; text: CR S1004-1005) To modify a provision relating to development of innovative approaches.
+- 2008-02-14 — Amendment SA 3898 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Amendment SA 3906 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1015)
+- 2008-02-14 — Amendment SA 3906 proposed by Senator Murkowski for Senator Martinez to Amendment SA 3899. (consideration: CR S1013-1020, S1026, S1040; text: CR S1014) To amend titles XI and XVIII of the Social Security Act to provide increased civil and criminal penalties for acts involving fraud and abuse under the Medicare program.
+- 2008-02-14 — Amendment SA 4015 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899. (consideration: CR S1030-1032; text: CR S1030-1031) To authorize the Secretary of Health and Human Services to establish an Indian health savings account demonstration project.
+- 2008-02-14 — Amendment SA 4023 agreed to in Senate by Voice Vote.
+- 2008-02-14 — Amendment SA 4023 proposed by Senator Mikulski to Amendment SA 3899. (consideration: CR S1008-1013, S1038; text: CR S1010) To temporarily delay application of proposed changes to Medicaid payment rules for case management and targeted case management services.
+- 2008-02-14 — Amendment SA 4024 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040; text: CR S997-999) To ensure that tribal members receive scientifically effective health promotion services.
+- 2008-02-14 — Amendment SA 4025 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040) To clarify the absence of authorization of racial preference in employment.
+- 2008-02-14 — Amendment SA 4026 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004,S1040) To modify a provision relating to child sexual abuse and prevention treatment programs.
+- 2008-02-14 — Amendment SA 4027 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040; text: CR S997) To clarify the effect of a title.
+- 2008-02-14 — Amendment SA 4028 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040) To provide a blood quantum requirement for Federal recognition of Indian tribes.
+- 2008-02-14 — Amendment SA 4029 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Amendment SA 4029 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S992, S997, S1040) To require a study of membership criteria for federally recognized Indian tribes.
+- 2008-02-14 — Amendment SA 4030 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040; text: CR H997) To ensure tribal members have access to the highest levels of quality and safety in the Service.
+- 2008-02-14 — Amendment SA 4031 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040; text: CR H997-998) To promote transparency and quality in the Service.
+- 2008-02-14 — Amendment SA 4032 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 27. (consideration: CR S996-1004, S1028, S1032-1033)
+- 2008-02-14 — Amendment SA 4032 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1028-1030) To protect rape and sexual assault victims from HIV/AIDS and other sexually transmitted diseases.
+- 2008-02-14 — Amendment SA 4033 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040) To allow tribal members to make their own health care choices.
+- 2008-02-14 — Amendment SA 4034 not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 25.
+- 2008-02-14 — Amendment SA 4034 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1020-1022; text: CR H998) To allow tribal members to make their own health care choices.
+- 2008-02-14 — Amendment SA 4035 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040) To prioritize patient care over administrative overhead.
+- 2008-02-14 — Amendment SA 4036 not agreed to in Senate by Yea-Nay Vote. 21 - 73. Record Vote Number: 26.
+- 2008-02-14 — Amendment SA 4036 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1027-1028) To prioritize scarce resources to basic medical services for Indians.
+- 2008-02-14 — Amendment SA 4037 proposed by Senator Coburn to Amendment SA 3899. (consideration: CR S996-1004, S1040) To prioritize scarce resources to basic medical services for Indians.
+- 2008-02-14 — Amendment SA 4038 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Amendment SA 4038 proposed by Senator Murkowski for Senator Vitter to Amendment SA 3899. (consideration: CR S1030-1032; text: CR S1030) Of a perfecting nature.
+- 2008-02-14 — Amendment SA 4066 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899. (consideration: CR S1030-1032; text: CR S1030) Of a perfecting nature.
+- 2008-02-14 — Amendment SA 4067 proposed by Senator DeMint to Amendment SA 3894. (consideration: CR S1006-1008, S1022-1024; text: CR S1006) To rescind funds appropriated by the Consolidated Appropriations Act, 2008, for the City of Berkeley, California, and any entities located in such city, and to provide that such funds shall be transferred to the Operation and Maintenance, Marine Corps account of the Department of Defense for the purposes of recruiting.
+- 2008-02-14 — Amendment SA 4070 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899. (consideration: CR S1030-1032; text: CR S1030) Of a perfecting nature.
+- 2008-02-14 — Amendment SA 4073 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899. (consideration: CR S1030-1032; text: CR S1030) Of a perfecting nature.
+- 2008-02-14 — Amendment SA 4078 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1040)
+- 2008-02-14 — Amendment SA 4078 proposed by Senator Dorgan for Senator Coburn to Amendment SA 3899. (consideration: CR S1040) To determine the factors leading to significant tobacco-related disease and disproportionate health effects on tribal populations.
+- 2008-02-14 — Amendment SA 4080 proposed by Senator DeMint to Amendment SA 4070. (consideration: CR S1037; text: CR S1037) To rescind funds appropriated by the Consolidated Appropriations Act, 2008, for the City of Berkeley, California, and any entities located in such city, and to provide that such funds shall be transferred to the Operation and Maintenance, Marine Corps account of the Department of Defense for the purposes of recruiting.
+- 2008-02-14 — Amendment SA 4082 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 24.
+- 2008-02-14 — Amendment SA 4082 proposed by Senator Dorgan to Amendment SA 3899. (consideration: CR S1025-1026, S1026; text: CR S1025-1026) Of a perfecting nature.
+- 2008-02-14 — Amendment SA 4083 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Amendment SA 4083 proposed by Senator Dorgan for Senator Bingaman to Amendment SA 3899. (consideration: CR S1040; text: CR S1040) To require the Comptroller General of the United States to conduct a study on payments for contract health services.
+- 2008-02-14 — Cloture motion on amendment SA 3899 presented in Senate. (consideration: CR S1045; text: CR S1045)
+- 2008-02-14 — Cloture motion on the measure presented in Senate. (consideration: CR S1045)
+- 2008-02-14 — Considered by Senate. (consideration: CR S993)
+- 2008-02-14 — Considered by Senate. (consideration: CR S993, S1010)
+- 2008-02-14 — Considered by Senate. (consideration: CR S993-1046)
+- 2008-02-14 — Considered by Senate. (consideration: CR S994)
+- 2008-02-14 — Considered by Senate. (consideration: CR S994)
+- 2008-02-14 — Considered by Senate. (consideration: CR S994, S1013)
+- 2008-02-14 — Considered by Senate. (consideration: CR S994, S1037-1038)
+- 2008-02-14 — Considered by Senate. (consideration: CR S994, S1040)
+- 2008-02-14 — Proposed amendment SA 3894 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 3900 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4024 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4025 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4026 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4027 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4028 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4030 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4031 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4033 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4035 withdrawn in Senate.
+- 2008-02-14 — Proposed amendment SA 4037 withdrawn in Senate.
+- 2008-02-14 — Roll call votes on amendments in Senate: Amendment SA 4032 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 27.(consideration: CR S996-1004, S1028, S1032-1033)
+- 2008-02-14 — Roll call votes on amendments in Senate: Amendment SA 4034 not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 25.
+- 2008-02-14 — Roll call votes on amendments in Senate: Amendment SA 4036 not agreed to in Senate by Yea-Nay Vote. 21 - 73. Record Vote Number: 26.
+- 2008-02-14 — Roll call votes on amendments in Senate: Amendment SA 4082 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 24.
+- 2008-02-14 — SA 4022 fell when SA 3900 withdrawn.
+- 2008-02-14 — SA 4067 fell when SA 3894 withdrawn.
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 3893 as modified agreed to in Senate by Voice Vote.(text as modified: CR S1037-1038)
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 3898 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 3906 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1015)
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 4023 agreed to in Senate by Voice Vote.
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 4029 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 4032 agreed to in Senate by Yea-Nay Vote. 94 - 0. Record Vote Number: 27.(consideration: CR S996-1004, S1028, S1032-1033)
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 4038 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 4078 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1040)
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 4082 agreed to in Senate by Yea-Nay Vote. 95 - 0. Record Vote Number: 24.
+- 2008-02-14 — Senate amendment agreed to: Amendment SA 4083 agreed to in Senate by Unanimous Consent.
+- 2008-02-14 — Senate amendment not agreed to: Amendment SA 4034 not agreed to in Senate by Yea-Nay Vote. 28 - 67. Record Vote Number: 25.
+- 2008-02-14 — Senate amendment not agreed to: Amendment SA 4036 not agreed to in Senate by Yea-Nay Vote. 21 - 73. Record Vote Number: 26.
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 3897 proposed by Senator Smith to Amendment SA 3899.(consideration: CR S1004-1006; text: CR S1004-1005)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 3906 proposed by Senator Murkowski for Senator Martinez to Amendment SA 3899.(consideration: CR S1013-1020, S1026, S1040; text: CR S1014)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4015 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899.(consideration: CR S1030-1032; text: CR S1030-1031)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4023 proposed by Senator Mikulski to Amendment SA 3899.(consideration: CR S1008-1013, S1038; text: CR S1010)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4024 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040; text: CR S997-999)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4025 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4026 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004,S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4027 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040; text: CR S997)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4028 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4029 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S992, S997, S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4030 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040; text: CR H997)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4031 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040; text: CR H997-998)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4032 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1028-1030)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4033 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4034 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1020-1022; text: CR H998)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4035 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4036 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1027-1028)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4037 proposed by Senator Coburn to Amendment SA 3899.(consideration: CR S996-1004, S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4038 proposed by Senator Murkowski for Senator Vitter to Amendment SA 3899.(consideration: CR S1030-1032; text: CR S1030)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4066 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899.(consideration: CR S1030-1032; text: CR S1030)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4067 proposed by Senator DeMint to Amendment SA 3894.(consideration: CR S1006-1008, S1022-1024; text: CR S1006)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4070 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899.(consideration: CR S1030-1032; text: CR S1030)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4073 proposed by Senator Murkowski for Senator DeMint to Amendment SA 3899.(consideration: CR S1030-1032; text: CR S1030)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4078 proposed by Senator Dorgan for Senator Coburn to Amendment SA 3899.(consideration: CR S1040)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4080 proposed by Senator DeMint to Amendment SA 4070.(consideration: CR S1037; text: CR S1037)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4082 proposed by Senator Dorgan to Amendment SA 3899.(consideration: CR S1025-1026, S1026; text: CR S1025-1026)
+- 2008-02-14 — Senate amendment proposed (on the floor): Amendment SA 4083 proposed by Senator Dorgan for Senator Bingaman to Amendment SA 3899.(consideration: CR S1040; text: CR S1040)
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-14 — Senate amendment submitted
+- 2008-02-25 — Amendment SA 4019 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S1113)
+- 2008-02-25 — Amendment SA 4019 proposed by Senator Dorgan for Senator Johnson to Amendment SA 3899. (consideration: CR S1113) To provide for testimony by Service employees in cases of rape and sexual assault.
+- 2008-02-25 — Amendment SA 4021 agreed to in Senate by Unanimous Consent.
+- 2008-02-25 — Amendment SA 4021 proposed by Senator Dorgan for Senator Thune to Amendment SA 3899. (consideration: CR S1113; text: CR S1113) To require a study of tribal justice systems.
+- 2008-02-25 — Amendment SA 4070 agreed to in Senate by Yea-Nay Vote. 78 - 11. Record Vote Number: 29.
+- 2008-02-25 — Amendment SA 4080 ruled non-germane by the chair.
+- 2008-02-25 — Cloture on amendment SA 3899 invoked in Senate by Yea-Nay Vote. 85 - 2. Record Vote Number: 28. (consideration: CR S1108-1109; text: CR S1108)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101, S1109)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101, S1109)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101, S1110-1111)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101, S1113-1114)
+- 2008-02-25 — Considered by Senate. (consideration: CR S1101-1114)
+- 2008-02-25 — Point of order raised in Senate with respect to amendment SA 4080.
+- 2008-02-25 — Proposed amendment SA 4073 withdrawn in Senate. (consideration: CR S1109-1110)
+- 2008-02-25 — Roll call votes on amendments in Senate: Amendment SA 4070 agreed to in Senate by Yea-Nay Vote. 78 - 11. Record Vote Number: 29.
+- 2008-02-25 — Roll call votes on amendments in Senate: Cloture on amendment SA 3899 invoked in Senate by Yea-Nay Vote. 85 - 2. Record Vote Number: 28.(consideration: CR S1108-1109; text: CR S1108)
+- 2008-02-25 — Senate amendment agreed to: Amendment SA 4019 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S1113)
+- 2008-02-25 — Senate amendment agreed to: Amendment SA 4021 agreed to in Senate by Unanimous Consent.
+- 2008-02-25 — Senate amendment agreed to: Amendment SA 4070 agreed to in Senate by Yea-Nay Vote. 78 - 11. Record Vote Number: 29.
+- 2008-02-25 — Senate amendment proposed (on the floor): Amendment SA 4019 proposed by Senator Dorgan for Senator Johnson to Amendment SA 3899.(consideration: CR S1113)
+- 2008-02-25 — Senate amendment proposed (on the floor): Amendment SA 4021 proposed by Senator Dorgan for Senator Thune to Amendment SA 3899.(consideration: CR S1113; text: CR S1113)
+- 2008-02-26 — Amendment SA 3896 agreed to in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 30.
+- 2008-02-26 — Amendment SA 3896, previously agreed to, was modified by Unanimous Consent. (consideration: CR S1208; text as modified: CR S1208)
+- 2008-02-26 — Amendment SA 3897 agreed to in Senate by Yea-Nay Vote. 56 - 38. Record Vote Number: 31.
+- 2008-02-26 — Amendment SA 3899 agreed to in Senate by Unanimous Consent.
+- 2008-02-26 — Amendment SA 4066 agreed to in Senate by Unanimous Consent.
+- 2008-02-26 — Considered by Senate. (consideration: CR S1150)
+- 2008-02-26 — Considered by Senate. (consideration: CR S1150, S1151-1152)
+- 2008-02-26 — Considered by Senate. (consideration: CR S1150, S1152)
+- 2008-02-26 — Considered by Senate. (consideration: CR S1150, S1155)
+- 2008-02-26 — Considered by Senate. (consideration: CR S1150-1151)
+- 2008-02-26 — Considered by Senate. (consideration: CR S1150-1158, S1208)
+- 2008-02-26 — Passed Senate with an amendment by Yea-Nay Vote. 83 - 10. Record Vote Number: 32. (text: CR 3/5/2008 S1607-1653)
+- 2008-02-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 83 - 10. Record Vote Number: 32.(text: CR 3/5/2008 S1607-1653)
+- 2008-02-26 — Proposed amendment SA 4015 withdrawn in Senate. (consideration: CR S1152)
+- 2008-02-26 — Roll call votes on amendments in Senate: Amendment SA 3896 agreed to in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 30.
+- 2008-02-26 — Roll call votes on amendments in Senate: Amendment SA 3897 agreed to in Senate by Yea-Nay Vote. 56 - 38. Record Vote Number: 31.
+- 2008-02-26 — Senate amendment agreed to: Amendment SA 3896 agreed to in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 30.
+- 2008-02-26 — Senate amendment agreed to: Amendment SA 3897 agreed to in Senate by Yea-Nay Vote. 56 - 38. Record Vote Number: 31.
+- 2008-02-26 — Senate amendment agreed to: Amendment SA 3899 agreed to in Senate by Unanimous Consent.
+- 2008-02-26 — Senate amendment agreed to: Amendment SA 4066 agreed to in Senate by Unanimous Consent.
