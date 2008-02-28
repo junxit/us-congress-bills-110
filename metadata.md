@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 67
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 67
@@ -32,3 +32,9 @@ A concurrent resolution establishing the Joint Congressional Committee on Inaugu
 - 2008-02-08 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S820-821; text as passed Senate: CR S821; text of measure as introduced: CR S819)
 - 2008-02-12 — Received in the House.
 - 2008-02-12 — Referred to the House Committee on House Administration.
+- 2008-02-28 — Considered under suspension of the rules. (consideration: CR H1164-1165)
+- 2008-02-28 — DEBATE - The House proceeded with forty minutes of debate on S. Con. Res. 67.
+- 2008-02-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-02-28 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2008-02-28 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1164-1165)
+- 2008-02-28 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1164-1165)
