@@ -1,7 +1,7 @@
 ---
 measure: S. 2146
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2146
@@ -16,10 +16,13 @@ A bill to authorize the Administrator of the Environmental Protection Agency to 
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (1)
 
@@ -29,3 +32,7 @@ A bill to authorize the Administrator of the Environmental Protection Agency to 
 
 - 2007-10-04 — Introduced in Senate
 - 2007-10-04 — Read twice and referred to the Committee on Environment and Public Works.
+- 2008-02-06 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-02-28 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-266.
+- 2008-02-28 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-266.
+- 2008-02-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 585.
