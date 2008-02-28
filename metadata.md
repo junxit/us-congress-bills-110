@@ -1,0 +1,26 @@
+---
+measure: S. 2675
+congress: 110
+version: Introduced in Senate
+---
+
+# S. 2675
+
+A bill to designate the facility of the United States Postal Service located at 201 West Greenway Street in Derby, Kansas, as the "Sergeant Jamie O. Maugans Post Office Building".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Brownback, Sam [R-KS] (B000953)
+
+## Committees (1)
+
+- Senate — Homeland Security and Governmental Affairs Committee
+
+## Actions
+
+- 2008-02-28 — Introduced in Senate
+- 2008-02-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
