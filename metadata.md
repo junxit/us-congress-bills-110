@@ -1,7 +1,7 @@
 ---
 measure: S. 2160
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2160
@@ -16,9 +16,12 @@ Veterans Pain Care Act of 2007
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
 
 ## Committees (1)
 
@@ -29,3 +32,8 @@ Veterans Pain Care Act of 2007
 - 2007-10-15 — Introduced in Senate
 - 2007-10-15 — Read twice and referred to the Committee on Veterans' Affairs. (text of measure as introduced: CR S12871-21872)
 - 2007-10-15 — Sponsor introductory remarks on measure. (CR S12870-12871)
+- 2007-10-24 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 110-328.
+- 2007-11-14 — Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.
+- 2008-02-28 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 110-267.
+- 2008-02-28 — Committee on Veterans' Affairs. Reported by Senator Akaka without amendment. With written report No. 110-267.
+- 2008-02-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 586.
