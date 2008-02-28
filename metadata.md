@@ -1,7 +1,7 @@
 ---
 measure: S. 1200
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1200
@@ -102,9 +102,12 @@ Indian Health Care Improvement Act Amendments of 2008
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Coburn, Tom [R-OK] (C000560)
 
-## Committees (1)
+## Committees (4)
 
 - Senate — Indian Affairs Committee
+- House — Ways and Means Committee
+- House — Energy and Commerce Committee
+- House — Natural Resources Committee
 
 ## Recorded votes (10)
 
@@ -391,3 +394,9 @@ Indian Health Care Improvement Act Amendments of 2008
 - 2008-02-26 — Senate amendment agreed to: Amendment SA 3897 agreed to in Senate by Yea-Nay Vote. 56 - 38. Record Vote Number: 31.
 - 2008-02-26 — Senate amendment agreed to: Amendment SA 3899 agreed to in Senate by Unanimous Consent.
 - 2008-02-26 — Senate amendment agreed to: Amendment SA 4066 agreed to in Senate by Unanimous Consent.
+- 2008-02-28 — Message on Senate action sent to the House.
+- 2008-02-28 — Received in the House.
+- 2008-02-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-02-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-02-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-02-28 — Referred to the Committee on Natural Resources, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
