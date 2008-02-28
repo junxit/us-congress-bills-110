@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 816
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,4 +24,3 @@ This Act may be cited as the “Orchard Detention Basin Flood Control Act”.
 - **(c)** *Description of Land* The land referred to in subsections (a) and (b) is the approximately 65 acres of land in the Sunrise Mountain Instant Study Area of Clark County, Nevada, that is—
   - **(1)** known as the “Orchard Detention Basin”; and
   - **(2)** designated for release on the map titled “Orchard Detention Basin” and dated March 18, 2005.
-- **(d)** *Right-of-Way* The Secretary of the Interior shall grant to Clark County, Nevada, a right-of-way to the land described in subsection (c) for the construction and maintenance of the Orchard Detention Basin Project on the land.
