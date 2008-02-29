@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 96
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 96
@@ -47,3 +47,5 @@ A resolution expressing the sense of the Senate that Harriett Woods will be reme
 - 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-03-15 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2007-03-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 81.
+- 2008-02-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1435; text as passed Senate: CR S1435)
+- 2008-02-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1435; text as passed Senate: CR S1435)
