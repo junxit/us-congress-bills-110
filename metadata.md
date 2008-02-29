@@ -1,7 +1,7 @@
 ---
 measure: S. 2146
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2146
@@ -36,3 +36,6 @@ A bill to authorize the Administrator of the Environmental Protection Agency to 
 - 2008-02-28 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-266.
 - 2008-02-28 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-266.
 - 2008-02-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 585.
+- 2008-02-29 — Message on Senate action sent to the House.
+- 2008-02-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1434; text as passed Senate: CR S1434)
+- 2008-02-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1434; text as passed Senate: CR S1434)
