@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5159
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5159
@@ -29,3 +29,8 @@ Capitol Visitor Center Act of 2008
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Referred to the House Committee on House Administration.
+- 2008-02-12 — Committee Consideration and Mark-up Session Held.
+- 2008-02-12 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-03-03 — Placed on the Union Calendar, Calendar No. 326.
+- 2008-03-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-535.
+- 2008-03-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-535.
