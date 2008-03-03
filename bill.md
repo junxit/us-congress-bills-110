@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1922
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,37 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Jupiter Inlet Lighthouse Outstanding Natural Area Act of 2007”.
+This Act may be cited as the “Jupiter Inlet Lighthouse Outstanding Natural Area Act of 2008”.
 
-## § 2. Findings
-
-Congress finds that—
-
-- **(1)** the area surrounding the Jupiter Inlet Lighthouse in the State of Florida—
-  - **(A)** is at the confluence of the Loxahatchee River and the Indian River Lagoon; and
-  - **(B)** supports significant ecological values, including—
-    - **(i)** endangered species of flora and fauna; and
-    - **(ii)** imperiled natural communities rapidly vanishing in south Florida;
-- **(2)** the area surrounding the Lighthouse was first used by Native Americans over 4,000 years ago;
-- **(3)** Europeans made contact with the area surrounding the Lighthouse in the 17th century;
-- **(4)** the Lighthouse and the associated Oil House, which was constructed in 1860, are nationally recognized historical structures that should be preserved for present and future generations of people in the United States;
-- **(5)** the Lighthouse tells an important story about—
-  - **(A)** the maritime history of southeast Florida;
-  - **(B)** the prehistory and history of southeast Florida; and
-  - **(C)** the role of southeast Florida in the Civil War, World War II, and the creation of the National Weather Service;
-- **(6)** the Lighthouse is listed on the National Register of Historic Places;
-- **(7)** the Lighthouse has been, and continues to be, a physical manifestation of the commitment of the Federal Government to maritime safety and security;
-- **(8)** the current operations and activities of the Coast Guard at Jupiter Inlet perpetuate the commitment described in paragraph (7);
-- **(9)** the Jupiter Inlet Lighthouse Outstanding Natural Area—
-  - **(A)** would make a significant addition to the National Landscape Conservation System administered by the Bureau of Land Management; and
-  - **(B)** would be the only unit of the National Landscape Conservation System located east of the Mississippi River;
-- **(10)** statutory protection is needed for the Lighthouse and the Federal land surrounding the Lighthouse to ensure that the natural and cultural resources continue to be—
-  - **(A)** a part of the historic, cultural, and natural heritage of the United States; and
-  - **(B)** a source of inspiration for the people of the United States;
-- **(11)** the actions of the Federal Government to protect and conserve the land and historic structures associated with the Outstanding Natural Area should not be construed, interpreted, or allowed to diminish or control ongoing or future Coast Guard operations or activities; and
-- **(12)** the Lighthouse and the Federal land surrounding the Lighthouse represent a true partnership of the highest order in which collaboration is, and would continue to be, an everyday reality leading to successful management and land stewardship by the Bureau of Land Management, Palm Beach County, Florida, the Town of Jupiter, Florida, the Village of Tequesta, Florida, the Loxahatchee River Historical Society, and the Coast Guard (collectively known as the “Jupiter Working Group”) and other partners.
-
-## § 3. Definitions
+## § 2. Definitions
 
 In this Act:
 
@@ -52,14 +24,14 @@ In this Act:
   - **(B)** the Town of Jupiter, Florida;
   - **(C)** the Village of Tequesta, Florida; and
   - **(D)** the Loxahatchee River Historical Society.
-- **(4)** *Management plan* The term management plan means the management plan developed under section 5(a).
-- **(5)** *Map* The term map means the map entitled “Jupiter Inlet Lighthouse: Outstanding Natural Area” and dated February 2007.
-- **(6)** *Outstanding natural area* The term Outstanding Natural Area means the Jupiter Inlet Lighthouse Outstanding Natural Area established by section 4(a).
+- **(4)** *Management plan* The term management plan means the management plan developed under section 4(a).
+- **(5)** *Map* The term map means the map entitled “Jupiter Inlet Lighthouse: Outstanding Natural Area” and dated October 29, 2007.
+- **(6)** *Outstanding natural area* The term Outstanding Natural Area means the Jupiter Inlet Lighthouse Outstanding Natural Area established by section 3(a).
 - **(7)** *Public land* The term public land has the meaning given the term “public lands” in section 103(e) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702(e)).
 - **(8)** *Secretary* The term Secretary means the Secretary of the Interior.
 - **(9)** *State* The term State means the State of Florida.
 
-## § 4. Establishment of the jupiter inlet light house outstanding natural area
+## § 3. Establishment of the jupiter inlet lighthouse outstanding natural area
 
 - **(a)** *Establishment* Subject to valid existing rights, there is established for the purposes described in subsection (b) the Jupiter Inlet Lighthouse Outstanding Natural Area, the boundaries of which are depicted on the map.
 - **(b)** *Purposes* The purposes of the Outstanding Natural Area are to protect, conserve, and enhance the unique and nationally important historic, natural, cultural, scientific, educational, scenic, and recreational values of the Federal land surrounding the Lighthouse for the benefit of present generations and future generations of people in the United States, while—
@@ -69,7 +41,7 @@ In this Act:
   - **(1)** the Office of the Director of the Bureau of Land Management; and
   - **(2)** the Eastern States Office of the Bureau of Land Management in the State of Virginia.
 - **(d)** *Withdrawal*
-  - **(1)** *In general* Subject to valid existing rights, section 7, and any existing withdrawals under the Executive orders and public land order described in paragraph (2), the Federal land and any interests in the Federal land included in the Outstanding Natural Area are withdrawn from—
+  - **(1)** *In general* Subject to valid existing rights, section 6, and any existing withdrawals under the Executive orders and public land order described in paragraph (2), the Federal land and any interests in the Federal land included in the Outstanding Natural Area are withdrawn from—
     - **(A)** all forms of entry, appropriation, or disposal under the public land laws;
     - **(B)** location, entry, and patent under the public land mining laws; and
     - **(C)** operation of the mineral leasing and geothermal leasing laws and the mineral materials laws.
@@ -78,7 +50,7 @@ In this Act:
     - **(B)** Executive Order No. 4254 (June 12, 1925); and
     - **(C)** Public Land Order No. 7202 (61 Fed. Reg. 29758).
 
-## § 5. Management plan
+## § 4. Management plan
 
 - **(a)** *In general* Not later than 3 years after the date of enactment of this Act, the Secretary, in consultation with the Commandant, shall develop a comprehensive management plan in accordance with section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712) to—
   - **(1)** provide long-term management guidance for the public land in the Outstanding Natural Area; and
@@ -94,25 +66,25 @@ In this Act:
   - **(2)** objectives and provisions to maintain or recreate historic structures;
   - **(3)** an implementation plan for a program of interpretation and public education about the natural and cultural resources of the Lighthouse, the public land surrounding the Lighthouse, and associated structures;
   - **(4)** a proposal for administrative and public facilities to be developed or improved that—
-    - **(A)** are compatible with achieving the resource objectives for the Outstanding Natural Area described in section 6(a)(1)(B); and
+    - **(A)** are compatible with achieving the resource objectives for the Outstanding Natural Area described in section 5(a)(1)(B); and
     - **(B)** would accommodate visitors to the Outstanding Natural Area;
   - **(5)** natural and cultural resource management strategies for the Outstanding Natural Area, to be developed in consultation with appropriate departments of the State, the Local Partners, and the Commandant, with an emphasis on resource conservation in the Outstanding Natural Area and the interpretive, educational, and long-term scientific uses of the resources; and
   - **(6)** recreational use strategies for the Outstanding Natural Area, to be prepared in consultation with the Local Partners, appropriate departments of the State, and the Coast Guard, with an emphasis on passive recreation.
 - **(e)** *Interim plan* Until a management plan is adopted for the Outstanding Natural Area, the Jupiter Inlet Coordinated Resource Management Plan (including any updates or amendments to the Jupiter Inlet Coordinated Resource Management Plan) shall be in effect.
 
-## § 6. Management of the jupiter inlet lighthouse outstanding natural area
+## § 5. Management of the jupiter inlet lighthouse outstanding natural area
 
 - **(a)** *Management*
   - **(1)** *In general* The Secretary, in consultation with the Local Partners and the Commandant, shall manage the Outstanding Natural Area—
     - **(A)** as part of the National Landscape Conservation System; and
     - **(B)** in a manner that conserves, protects, and enhances the unique and nationally important historical, natural, cultural, scientific, educational, scenic, and recreational values of the Outstanding Natural Area, including an emphasis on the restoration of native ecological systems.
   - **(2)** *Limitation* In managing the Outstanding Natural Area, the Secretary shall not take any action that precludes, prohibits, or otherwise affects the conduct of ongoing or future Coast Guard operations or activities on lots 16 and 18, as depicted on the map.
-- **(b)** *Uses* Subject to valid existing rights and section 7, the Secretary shall only allow uses of the Outstanding Natural Area that the Secretary, in consultation with the Commandant and Local Partners, determines would likely further—
+- **(b)** *Uses* Subject to valid existing rights and section 6, the Secretary shall only allow uses of the Outstanding Natural Area that the Secretary, in consultation with the Commandant and Local Partners, determines would likely further—
   - **(1)** the purposes for which the Outstanding Natural Area is established;
   - **(2)** the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); and
   - **(3)** other applicable laws.
-- **(c)** *Cooperative agreements* To facilitate implementation of the management plan and to continue the successful partnerships with local communities and other partners, the Secretary shall, in accordance with section 307(b) of the Federal Land Management Policy and Management Act of 1976 (43 U.S.C. 1737(b)), enter into cooperative agreements with the appropriate Federal, State, county, other local government agencies, and other partners (including the Loxahatchee River Historical Society) for the long-term management of the Outstanding Natural Area
-- **(d)** *Research activities* To continue successful research partnerships, pursue future research partnerships, and assist in the development and implementation of the management plan, the Secretary may, in accordance with section 307(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1737(a)), authorize the conduct of appropriate research activities in the Outstanding Natural Area for the purposes described in section 4(b).
+- **(c)** *Cooperative agreements* To facilitate implementation of the management plan and to continue the successful partnerships with local communities and other partners, the Secretary shall, in accordance with section 307(b) of the Federal Land Management Policy and Management Act of 1976 (43 U.S.C. 1737(b)), enter into cooperative agreements with the appropriate Federal, State, county, other local government agencies, and other partners (including the Loxahatchee River Historical Society) for the long-term management of the Outstanding Natural Area.
+- **(d)** *Research activities* To continue successful research partnerships, pursue future research partnerships, and assist in the development and implementation of the management plan, the Secretary may, in accordance with section 307(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1737(a)), authorize the conduct of appropriate research activities in the Outstanding Natural Area for the purposes described in section 3(b).
 - **(e)** *Acquisition of land*
   - **(1)** *In general* Subject to paragraph (2), the Secretary may acquire for inclusion in the Outstanding Natural Area any State or private land or any interest in State or private land that is—
     - **(A)** adjacent to the Outstanding Natural Area; and
@@ -128,7 +100,7 @@ In this Act:
   - **(3)** any law enforcement activity of any Federal, State, or local law enforcement agency in the Outstanding Natural Area.
 - **(g)** *Future disposition of coast guard facilities* If the Commandant determines, after the date of enactment of this Act, that Coast Guard facilities within the Outstanding Natural Area exceed the needs of the Coast Guard, the Commandant may relinquish the facilities to the Secretary without removal, subject only to any environmental remediation that may be required by law.
 
-## § 7. Effect on ongoing and future coast guard operations
+## § 6. Effect on ongoing and future coast guard operations
 
 Nothing in this Act, the management plan, or the Jupiter Inlet Coordinated Resource Management Plan (including updates or amendments to the Jupiter Inlet Coordinated Resource Management Plan) precludes, prohibits, or otherwise affects ongoing or future Coast Guard operations or activities in the Outstanding Natural Area, including—
 
@@ -138,6 +110,6 @@ Nothing in this Act, the management plan, or the Jupiter Inlet Coordinated Resou
 - **(4)** the existing lease of the Jupiter Inlet Lighthouse on lot 18 from the Coast Guard to the Loxahatchee River Historical Society; or
 - **(5)** any easements or other less-than-fee interests in property appurtenant to existing Coast Guard facilities on lots 16 and 18.
 
-## § 8. Authorization of appropriations
+## § 7. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this Act.
