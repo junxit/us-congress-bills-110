@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5159
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -55,6 +55,6 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 1806` | repeal | Section 6701 of the U.S. Troop Readiness, Veterans’ Care, Katrina Recovery, and Iraq Accountability Appropriation Act of 2007 (2 U.S.C. 1806) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 130e` | repeal | Section 310 of the Legislative Branch Appropriations Act, 1990 (2 U.S.C. 130e) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 2166` | repeal | Section 441 of the Legislative Reorganization Act of 1970 (2 U.S.C. 2166) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1301` | amend | Section 101(3)(C) of the Congressional Accountability of 1995 (2 U.S.C. 1301(3)(C)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1301` | amend | Section 210(a)(4) of such Act (2 U.S.C. 1331(a)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 2166` | amend | Section 2107(9) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1301` | amend | Section 101(3)(C) of the Congressional Accountability Act of 1995 (2 U.S.C. 1301(3)(C)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1331` | amend | Section 210(a)(4) of such Act (2 U.S.C. 1331(a)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 2107` | amend | Section 2107(9) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
