@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5264
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5264
@@ -39,3 +39,13 @@ Andean Trade Preference Extension Act of 2008
 - 2008-02-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1131)
 - 2008-02-27 — Received in the Senate, read twice.
 - 2008-02-27 — The title of the measure was amended. Agreed to without objection.
+- 2008-02-28 — Cleared for White House.
+- 2008-02-28 — Message on Senate action sent to the House.
+- 2008-02-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1388-1390)
+- 2008-02-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1388-1390)
+- 2008-02-28 — Presented to President.
+- 2008-02-28 — Presented to President.
+- 2008-02-29 — Became Public Law No: 110-191.
+- 2008-02-29 — Became Public Law No: 110-191.
+- 2008-02-29 — Signed by President.
+- 2008-02-29 — Signed by President.
