@@ -1,7 +1,7 @@
 ---
 measure: S. 2146
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2146
@@ -24,9 +24,10 @@ A bill to authorize the Administrator of the Environmental Protection Agency to 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -39,3 +40,5 @@ A bill to authorize the Administrator of the Environmental Protection Agency to 
 - 2008-02-29 — Message on Senate action sent to the House.
 - 2008-02-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1434; text as passed Senate: CR S1434)
 - 2008-02-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1434; text as passed Senate: CR S1434)
+- 2008-03-03 — Received in the House.
+- 2008-03-03 — Referred to the House Committee on Energy and Commerce.
