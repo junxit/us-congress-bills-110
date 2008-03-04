@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1922
 
-> To designate the Jupiter Inlet Lighthouse and the surrounding Federal land in the State of Florida as an Outstanding Natural Area and as a unit of the National Landscape System, and for other purposes.
+> To designate the Jupiter Inlet Lighthouse and the surrounding Federal land in the State of Florida as an Outstanding Natural Area and as a unit of the National Landscape Conservation System, and for other purposes.
 
 ## § 1. Short title
 
@@ -46,7 +46,7 @@ In this Act:
     - **(B)** location, entry, and patent under the public land mining laws; and
     - **(C)** operation of the mineral leasing and geothermal leasing laws and the mineral materials laws.
   - **(2)** *Description of executive orders* The Executive orders and public land order described in paragraph (1) are—
-    - **(A)** the Executive Order dated October 22, 1854;
+    - **(A)** the Executive order dated October 22, 1854;
     - **(B)** Executive Order No. 4254 (June 12, 1925); and
     - **(C)** Public Land Order No. 7202 (61 Fed. Reg. 29758).
 
