@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1311
 
-> To direct the Secretary of the Interior to convey the Alta-Hualapai Site to the city of Las Vegas, Nevada, for the development of a cancer treatment facility.
+> To provide for the conveyance of the Alta-Hualapai Site to the Nevada Cancer Institute, and for other purposes.
 
 ## § 1. Short title
 
@@ -28,16 +28,17 @@ In this Act:
 
 ## § 3. Land Conveyance
 
-- **(a)** *Acceptance* The Secretary may accept the relinquishment by the City of all or part of the Alta-Hualapai Site.
-- **(b)** *Conveyance for use as non-profit cancer institute* After relinquishment of all or part of the Alta-Hualapai Site to the Secretary, and not later than 180 days after request of the Institute, the Secretary shall convey to the Institute, subject to valid existing rights, the portion of the Alta-Hualapai Site that is necessary for the development of a non-profit cancer institute.
-- **(c)** *Additional conveyances* Not later than 180 days after a request from the City, the Secretary shall convey to the City, subject to valid existing rights, any remaining portion of the Alta-Hualapai site necessary for ancillary medical or non-profit use compatible with the mission of the Institute.
-- **(d)** *Applicable law* Any conveyance by the City of any portion of the land received under this Act shall be for no less than fair market value and the proceeds shall be distributed in accordance with section 4(e)(1) of Public Law 105–263 (112 Stat. 2345).
-- **(e)** *Transaction Costs* All land conveyed by the Secretary under this Act shall be at no cost, except that the Secretary may require the recipient to bear any costs associated with transfer of title or any necessary land surveys.
-- **(f)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on all transactions conducted under Public Law 105–263 (112 Stat. 2345).
+- **(a)** *Survey and Legal description* The City shall prepare a survey and legal description of the Alta-Hualapai Site. The survey shall conform to the Bureau of Land Management cadastral survey standards and be subject to approval by the Secretary.
+- **(b)** *Acceptance* The Secretary may accept the relinquishment by the City of all or part of the Alta-Hualapai Site.
+- **(c)** *Conveyance for use as nonprofit cancer institute* After relinquishment of all or part of the Alta-Hualapai Site to the Secretary, and not later than 180 days after request of the Institute, the Secretary shall convey to the Institute, subject to valid existing rights, the portion of the Alta-Hualapai Site that is necessary for the development of a nonprofit cancer institute.
+- **(d)** *Additional conveyances* Not later than 180 days after a request from the City, the Secretary shall convey to the City, subject to valid existing rights, any remaining portion of the Alta-Hualapai Site necessary for ancillary medical or nonprofit use compatible with the mission of the Institute.
+- **(e)** *Applicable law* Any conveyance by the City of any portion of the land received under this Act shall be for no less than fair market value and the proceeds shall be distributed in accordance with section 4(e)(1) of Public Law 105–263 (112 Stat. 2345).
+- **(f)** *Transaction Costs* All land conveyed by the Secretary under this Act shall be at no cost, except that the Secretary may require the recipient to bear any costs associated with transfer of title or any necessary land surveys.
+- **(g)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on all transactions conducted under Public Law 105–263 (112 Stat. 2345).
 
 ## § 4. Rights-of-way
 
-Consistent with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701), the Secretary may grant rights of way to the Water District on a portion of the Alta-Hualapai Site for a flood control project and a water pumping facility.
+Consistent with the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701), the Secretary may grant rights-of-way to the Water District on a portion of the Alta-Hualapai Site for a flood control project and a water pumping facility.
 
 ## § 5. Reversion
 
