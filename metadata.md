@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 807
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 807
@@ -52,3 +52,10 @@ Honoring the life of Marjory Stoneman Douglas, champion of the Florida Everglade
 - 2007-11-07 — Introduced in House
 - 2007-11-07 — Introduced in House
 - 2007-11-07 — Referred to the House Committee on Natural Resources.
+- 2007-11-08 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-03-04 — Considered under suspension of the rules. (consideration: CR H1197-1198)
+- 2008-03-04 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 807.
+- 2008-03-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-04 — Mr. Rahall moved to suspend the rules and agree to the resolution, as amended.
+- 2008-03-04 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H1197)
+- 2008-03-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H1197)
