@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3111
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 16 U.S.C. § 431
 
-> in subsection (g), (as redesignated by paragraph (1)), by striking “Secretary of the Navy to provide public access to the Memorial.” and inserting “Secretary of Defense to provide as much public access as possible to the Memorial without interfering with military needs.”.
+> in subsection (f), (as redesignated by paragraph (1)), by striking “Secretary of the Navy to provide public access to the Memorial.” and inserting “Secretary of Defense to provide as much public access as possible to the Memorial without interfering with military needs.”.
 
 | | |
 |---|---|
@@ -42,5 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 431` | redesignate | by redesignating subsection (c) as subsection (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 431` | insert | by inserting after subsection (b) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 431` | redesignate | by redesignating subsection (c) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1` | insert | by inserting after subsection (b) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

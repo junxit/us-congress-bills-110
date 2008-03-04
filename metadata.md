@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3111
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3111
@@ -62,3 +62,9 @@ Port Chicago Naval Magazine National Memorial Enhancement Act of 2008
 - 2008-02-01 — Committee on Armed Services discharged.
 - 2008-02-01 — Committee on Armed Services discharged.
 - 2008-02-01 — Placed on the Union Calendar, Calendar No. 319.
+- 2008-03-04 — Considered under suspension of the rules. (consideration: CR H1194-1195)
+- 2008-03-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3111.
+- 2008-03-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-04 — Mr. Rahall moved to suspend the rules and pass the bill, as amended.
+- 2008-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1194)
+- 2008-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1194)
