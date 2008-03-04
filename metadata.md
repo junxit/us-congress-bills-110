@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1424
@@ -16,7 +16,7 @@ A bill to provide authority for the Federal Government to purchase and insure ce
 
 - Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
 
-## Cosponsors (255)
+## Cosponsors (274)
 
 - Rep. Ramstad, Jim [R-MN-3] (R000033)
 - Rep. Abercrombie, Neil [D-HI-1] (A000014)
@@ -273,6 +273,25 @@ A bill to provide authority for the Federal Government to purchase and insure ce
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
 
 ## Committees (3)
 
@@ -288,3 +307,25 @@ A bill to provide authority for the Federal Government to purchase and insure ce
 - 2007-03-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-03-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-03-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-03-12 — Referred to the Subcommittee on Health.
+- 2007-03-14 — Referred to the Subcommittee on Health.
+- 2007-06-15 — Subcommittee Hearings Held.
+- 2007-06-27 — Referred to the Subcommittee on Health, Employment, Labor, and Pensions.
+- 2007-07-18 — Committee Consideration and Mark-up Session Held.
+- 2007-07-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 9.
+- 2007-09-19 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 10 - 3 .
+- 2007-09-19 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-09-26 — Committee Consideration and Mark-up Session Held.
+- 2007-09-26 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 13.
+- 2007-10-10 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-10-10 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-10-15 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-374, Part I.
+- 2007-10-15 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-374, Part I.
+- 2007-10-15 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-374, Part II.
+- 2007-10-15 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-374, Part II.
+- 2007-10-16 — Committee Consideration and Mark-up Session Held.
+- 2007-10-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 13.
+- 2008-03-04 — Placed on the Union Calendar, Calendar No. 328.
+- 2008-03-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-374, Part III.
+- 2008-03-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-374, Part III.
+- 2008-03-04 — Rules Committee Resolution H. Res. 1014 Reported to House. Rule provides for consideration of H.R. 1424 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
