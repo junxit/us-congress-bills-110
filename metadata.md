@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 467
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 467
@@ -28,3 +28,7 @@ A resolution honoring the life of Myron Cope.
 
 - 2008-02-29 — Introduced in Senate
 - 2008-02-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1434)
+- 2008-03-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1546)
+- 2008-03-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1546)
+- 2008-03-04 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1545-1546)
+- 2008-03-04 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1545-1546)
