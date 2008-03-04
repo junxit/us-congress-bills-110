@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-48 amendatory instructions. 8 executed, 40 stated and not applied.
+144 amendatory instructions. 26 executed, 118 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,78 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 29 U.S.C. § 1185a
+
+> by striking “construed—” and all that follows through “(1) as requiring” and inserting “construed as requiring”;
+
+| | |
+|---|---|
+| Removed | `construed—” and all that follows through “(1) as requiring` |
+| Inserted | `construed as requiring` |
+
+### 29 U.S.C. § 1185a
+
+> by striking “mental health benefits” and inserting “mental health or substance-related disorder benefits” each place it appears; and
+
+| | |
+|---|---|
+| Removed | `mental health benefits` |
+| Inserted | `mental health or substance-related disorder benefits` |
+
+### 29 U.S.C. § 1185a
+
+> by striking “Mental health benefits” and inserting “Mental health and substance-related disorder benefits”;
+
+| | |
+|---|---|
+| Removed | `Mental health benefits` |
+| Inserted | `Mental health and substance-related disorder benefits` |
+
+### 29 U.S.C. § 1185a
+
+> by striking “benefits with respect to mental health services” and inserting “benefits with respect to services for mental health conditions or substance-related disorders”; and
+
+| | |
+|---|---|
+| Removed | `benefits with respect to mental health services` |
+| Inserted | `benefits with respect to services for mental health conditions or substance-related disorders` |
+
+### 42 U.S.C. § 300gg-5
+
+> by striking “construed—” and all that follows through “(1) as requiring” and inserting “construed as requiring”;
+
+| | |
+|---|---|
+| Removed | `construed—” and all that follows through “(1) as requiring` |
+| Inserted | `construed as requiring` |
+
+### 42 U.S.C. § 300gg-5
+
+> by striking “mental health benefits” and inserting “mental health and substance-related disorder benefits” each place it appears; and
+
+| | |
+|---|---|
+| Removed | `mental health benefits` |
+| Inserted | `mental health and substance-related disorder benefits` |
+
+### 42 U.S.C. § 300gg-5
+
+> by striking “Mental health benefits” and inserting “Mental health and substance-related disorder benefits”;
+
+| | |
+|---|---|
+| Removed | `Mental health benefits` |
+| Inserted | `Mental health and substance-related disorder benefits` |
+
+### 42 U.S.C. § 300gg-5
+
+> by striking “benefits with respect to mental health services” and inserting “benefits with respect to services for mental health conditions or substance-related disorders”; and
+
+| | |
+|---|---|
+| Removed | `benefits with respect to mental health services` |
+| Inserted | `benefits with respect to services for mental health conditions or substance-related disorders` |
 
 ### 29 U.S.C. § 1185a
 
@@ -52,6 +124,96 @@ to guess them.
 | Inserted | `Mental health and substance-related disorder benefits` |
 
 ### 29 U.S.C. § 1185a
+
+> by striking “benefits with respect to mental health services” and inserting “benefits with respect to services for mental health conditions or substance-related disorders”; and
+
+| | |
+|---|---|
+| Removed | `benefits with respect to mental health services` |
+| Inserted | `benefits with respect to services for mental health conditions or substance-related disorders` |
+
+### 26 U.S.C. § 9812
+
+> by striking “construed—” and all that follows through “(1) as requiring” and inserting “construed as requiring”,
+
+| | |
+|---|---|
+| Removed | `construed—” and all that follows through “(1) as requiring` |
+| Inserted | `construed as requiring` |
+
+### 26 U.S.C. § 9812
+
+> by striking “mental health benefits” each place it appears (other than in any provision amended by paragraph (2)) and inserting “mental health or substance-related disorder benefits”,
+
+| | |
+|---|---|
+| Removed | `mental health benefits` |
+| Inserted | `mental health or substance-related disorder benefits` |
+
+### 29 U.S.C. § 1185a
+
+> by striking “construed—” and all that follows through “(1) as requiring” and inserting “construed as requiring”;
+
+| | |
+|---|---|
+| Removed | `construed—” and all that follows through “(1) as requiring` |
+| Inserted | `construed as requiring` |
+
+### 29 U.S.C. § 1185a
+
+> by striking “mental health benefits” and inserting “mental health and substance-related disorder benefits” each place it appears; and
+
+| | |
+|---|---|
+| Removed | `mental health benefits` |
+| Inserted | `mental health and substance-related disorder benefits` |
+
+### 29 U.S.C. § 1185a
+
+> by striking “Mental health benefits” and inserting “Mental health and substance-related disorder benefits”;
+
+| | |
+|---|---|
+| Removed | `Mental health benefits` |
+| Inserted | `Mental health and substance-related disorder benefits` |
+
+### 29 U.S.C. § 1185a
+
+> by striking “benefits with respect to mental health services” and inserting “benefits with respect to services for mental health conditions or substance-related disorders”; and
+
+| | |
+|---|---|
+| Removed | `benefits with respect to mental health services` |
+| Inserted | `benefits with respect to services for mental health conditions or substance-related disorders` |
+
+### 42 U.S.C. § 300gg-5
+
+> by striking “construed—” and all that follows through “(1) as requiring” and inserting “construed as requiring”;
+
+| | |
+|---|---|
+| Removed | `construed—” and all that follows through “(1) as requiring` |
+| Inserted | `construed as requiring` |
+
+### 42 U.S.C. § 300gg-5
+
+> by striking “mental health benefits” and inserting “mental health or substance-related disorder benefits” each place it appears; and
+
+| | |
+|---|---|
+| Removed | `mental health benefits` |
+| Inserted | `mental health or substance-related disorder benefits` |
+
+### 42 U.S.C. § 300gg-5
+
+> by striking “Mental health benefits” and inserting “Mental health and substance-related disorder benefits”;
+
+| | |
+|---|---|
+| Removed | `Mental health benefits` |
+| Inserted | `Mental health and substance-related disorder benefits` |
+
+### 42 U.S.C. § 300gg-5
 
 > by striking “benefits with respect to mental health services” and inserting “benefits with respect to services for mental health conditions or substance-related disorders”; and
 
@@ -108,6 +270,47 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1185a` | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185a` | replace | by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1185a` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | strike | by striking “, but does not include benefits with respect to treatment of substance abuse or chemical dependency”. | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1185a` | add-at-end | Subsection (a) of such section, as amended by subsection (a)(1), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | add-at-end | Subsection (a) of such section is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | add-at-end | Subsection (a) of such section is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | amend | Paragraph (2) of subsection (c) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | insert | by inserting “(or 1 in the case of an employer residing in a State that permits small groups to include a single individual)” after “at least 2” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1185a` | strike | by striking “and who employs at least 2 employees on the first day of the plan year”. | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1185a` | strike | Such section is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | insert | Such section is further amended by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | amend | The heading of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | replace | The table of contents in section 1 of such Act is amended by striking the item relating to section 712 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | replace | by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300gg-5` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | strike | by striking “, but does not include benefits with respect to treatment of substances abuse or chemical dependency”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300gg-5` | amend | Subsection (a) of such section, as amended by subsection (a)(1), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | add-at-end | Subsection (a) of such section is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | amend | Paragraph (2) of subsection (c) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | insert | by inserting “(or 1 in the case of an employer residing in a State that permits small groups to include a single individual)” after “at least 2” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300gg-5` | strike | by striking “and who employs at least 2 employees on the first day of the plan year”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300gg-5` | strike | Such section is amended by striking out subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | insert | Such section is further amended by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | amend | The heading of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | replace | by striking “construed—” and all that follows through “(1) as requiring” and inserting “construed as requiring”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “; or” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2). | the bill names no machine-readable US Code section |
+| — | replace | by striking “mental health benefits” and inserting “mental health and substance-related disorder benefits” each place it appears; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Mental health benefits” in the heading and inserting “Mental health and substance-related disorder benefits”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “benefits with respect to mental health services” and inserting “benefits with respect to services for mental health conditions or substance-related disorders”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “, but does not include benefits with respect to treatment of substances abuse or chemical dependency”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (a) of such section, as amended by subsection (a)(1), is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (a) of such section is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Paragraph (2) of subsection (c) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (c)(1) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | strike | Such section is amended by striking subsection (f). | the bill names no machine-readable US Code section |
+| — | amend | The heading of such section is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for subchapter B of chapter 100 of the Internal Revenue Code of 1986 is amended by striking the item relating to section 9812 and inserting the following new item: | the bill names no machine-readable US Code section |
+| `29 U.S.C. § 1185a` | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | replace | by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1185a` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185a` | strike | by striking “, but does not include benefits with respect to treatment of substances abuse or chemical dependency”. | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 1185a` | add-at-end | Subsection (a) of such section, as amended by subsection (a)(1), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185a` | add-at-end | Subsection (a) of such section is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -134,6 +337,43 @@ complete account of the bill's effect, which it is not.
 | — | strike | Such section is amended by striking out subsection (f). | the bill names no machine-readable US Code section |
 | — | insert | Such section is further amended by inserting after subsection (e) the following new subsection: | the bill names no machine-readable US Code section |
 | — | amend | The heading of such section is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9812` | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | replace | by striking “; or” and inserting a period, and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 9812` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | replace | by striking “mental health benefits” each place it appears in subsections (a)(1)(B)(i), (a)(1)(C), (a)(2)(B)(i), and (a)(2)(C) and inserting “mental health and substance-related disorder benefits”, and | the bill quotes text on both sides, but not as a single substitution this could carry out |
+| `26 U.S.C. § 9812` | replace | in subsection (e), by striking paragraph (4) and inserting the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | add-at-end | Subsection (a) of section 9812 of such Code, as amended by subsection (a)(1), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | add-at-end | Subsection (a) of section 9812 of such Code is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | amend | Paragraph (2) of section 9812(c) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | amend | Paragraph (1) of section 9812(c) of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | strike | Section 9812 of such Code is amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | amend | The heading of section 9812 of such Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 9812` | replace | The table of sections for subchapter B of chapter 100 of such Code is amended by striking the item relating to section 9812 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | replace | by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1185a` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | strike | by striking “, but does not include benefits with respect to treatment of substances abuse or chemical dependency”. | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1185a` | add-at-end | Subsection (a) of such section, as amended by subsection (a)(1), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | add-at-end | Subsection (a) of such section is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | amend | Paragraph (2) of subsection (c) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | insert | by inserting “(or 1 in the case of an employer residing in a State that permits small groups to include a single individual)” after “at least 2” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1185a` | strike | by striking “and who employs at least 2 employees on the first day of the plan year”. | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 1185a` | strike | Such section is amended by striking out subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | insert | Such section is further amended by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | amend | The heading of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185a` | replace | The table of contents in section 1 of such Act is amended by striking the item relating to section 712 and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | replace | by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300gg-5` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | strike | by striking “, but does not include benefits with respect to treatment of substance abuse or chemical dependency”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300gg-5` | add-at-end | Subsection (a) of such section, as amended by subsection (a)(1), is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | add-at-end | Subsection (a) of such section is further amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | amend | Paragraph (2) of subsection (c) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | insert | by inserting “(or 1 in the case of an employer residing in a State that permits small groups to include a single individual)” after “at least 2” the first place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300gg-5` | strike | by striking “and who employs at least 2 employees on the first day of the plan year”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 300gg-5` | strike | Such section is amended by striking out subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | insert | Such section is further amended by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-5` | amend | The heading of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9812` | add-at-end | in subsection (a), by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 9812` | replace | by striking “; or” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 9812` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
