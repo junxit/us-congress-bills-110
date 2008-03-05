@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1014
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1014
@@ -16,6 +16,10 @@ Providing for consideration of the bill (H.R. 1424) to amend section 712 of the 
 
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 
+## Committees (1)
+
+- House — Rules Committee
+
 ## Actions
 
 - 2008-03-04 — Introduced in House
@@ -23,3 +27,12 @@ Providing for consideration of the bill (H.R. 1424) to amend section 712 of the 
 - 2008-03-04 — Rule provides for consideration of H.R. 1424 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2008-03-04 — The House Committee on Rules reported an original measure, H. Rept. 110-538, by Ms. Castor.
 - 2008-03-04 — The House Committee on Rules reported an original measure, H. Rept. 110-538, by Ms. Castor.
+- 2008-03-05 — By direction of the Committee on Rules, Ms Castor called up H. Res. 1014 for its immediate consideration.
+- 2008-03-05 — Considered as privileged matter. (consideration: CR H1259-1272)
+- 2008-03-05 — DEBATE - The House proceeded with one hour of debate on H. Res. 1014.
+- 2008-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-05 — On agreeing to the resolution Agreed to by the Yeas and Nays: 209 - 198 (Roll no. 96). (text: CR H1259)
+- 2008-03-05 — On motion to consider the resolution Agreed to by the Yeas and Nays: 215 - 192, 1 Present (Roll no. 94). (consideration: CR H1259-1262)
+- 2008-03-05 — On ordering the previous question Agreed to by the Yeas and Nays: 215 - 195 (Roll no. 95). (consideration: CR H1271)
+- 2008-03-05 — POINT OF ORDER - The Broun (GA) raised a point of order against the provisions of H.Res. 1014 because it violates the Congressional Budget Act. The Chair announced that the desposition of the point of order would be resolved by the question of consideration of H. Res. 1014. The House proceeded with 20 minutes of debate on the point of order at the end of which the Chair will put the question of consideration.
+- 2008-03-05 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 209 - 198 (Roll no. 96).(text: CR H1259)
