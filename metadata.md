@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 289
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 289
@@ -64,9 +64,10 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - Rep. Butterfield, G. K. [D-NC-1] (B001251)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -81,3 +82,9 @@ Honoring and praising the National Association for the Advancement of Colored Pe
 - 2008-02-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-02-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 64). (text: CR 2/13/2008 H910)
 - 2008-02-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 64).(text: CR 2/13/2008 H910)
+- 2008-02-25 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2008-03-05 — Message on Senate action sent to the House.
+- 2008-03-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-03-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-03-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1653-1654)
+- 2008-03-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1653-1654)
