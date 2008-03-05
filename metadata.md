@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1084
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1084
@@ -65,3 +65,9 @@ Reconstruction and Stabilization Civilian Management Act of 2008
 - 2008-03-04 — Placed on the Union Calendar, Calendar No. 329.
 - 2008-03-04 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-537.
 - 2008-03-04 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-537.
+- 2008-03-05 — Considered under suspension of the rules. (consideration: CR H1227-1231)
+- 2008-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1084.
+- 2008-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-05 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
+- 2008-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1227-1229)
+- 2008-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1227-1229)
