@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 4191
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 4191
 
-> To redesignate Dayton Aviation Heritage National Historic Park in the State of Ohio as “Wright Brothers-Dunbar National Historic Park”, and for other purposes.
+> To redesignate the Dayton Aviation Heritage National Historical Park in the State of Ohio as the “Wright Brothers-Dunbar National Historical Park”, and for other purposes.
 
 ## § 1. Short title
 
