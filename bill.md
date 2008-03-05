@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 278
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,8 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Taiwan has demonstrated its unequivocal support for human rights and a commitment to the democratic ideals of freedom of speech, freedom of the press, rule of law, and free and fair elections routinely held in a multiparty system;
 - Whereas Taiwan is one of the strongest democratic allies of the United States in the Asia-Pacific region;
 - Whereas it is United States policy to support and strengthen democracy around the world;
-- Whereas, with its stable democratic system and impressive economic prowess, Taiwan stands apart from many equally young democracies whose freedom and liberty have been severely challenged;
-- Whereas Taiwan’s young democracy faces constant military threat and intimidation from neighboring China; and
+- Whereas, with its stable democratic system and impressive economic prowess, Taiwan stands apart from many equally young democracies whose freedom and liberty have been severely challenged; and
 - Whereas the United States Congress has organized congressional delegations to witness the electoral process in thriving democracies, including elections in Taiwan: Now, therefore, be it
 
 That it is the sense of the Congress that—
