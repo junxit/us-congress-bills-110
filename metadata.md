@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1007
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1007
@@ -16,7 +16,7 @@ Expressing the condolences of the House to those affected by the devastating sho
 
 - Rep. Manzullo, Donald A. [R-IL-16] (M001138)
 
-## Cosponsors (22)
+## Cosponsors (29)
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Shimkus, John [R-IL-19] (S000364)
@@ -40,6 +40,13 @@ Expressing the condolences of the House to those affected by the devastating sho
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 - Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Heller, Dean [R-NV-2] (H001041)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 
 ## Committees (1)
 
@@ -50,3 +57,9 @@ Expressing the condolences of the House to those affected by the devastating sho
 - 2008-02-28 — Introduced in House
 - 2008-02-28 — Introduced in House
 - 2008-02-28 — Referred to the House Committee on Education and Labor.
+- 2008-03-05 — Considered under suspension of the rules. (consideration: CR H1255-1257)
+- 2008-03-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1007.
+- 2008-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-05 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2008-03-05 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1255)
+- 2008-03-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1255)
