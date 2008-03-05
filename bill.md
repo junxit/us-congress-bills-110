@@ -2,7 +2,7 @@
 legis-num: H. RES. 1014
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1014
@@ -15,10 +15,10 @@ That upon the adoption of this resolution it shall be in order to consider in th
 
 In the engrossment of H.R. 1424, the Clerk shall—
 
-- **(a)** add the text of H.R. 493, as passed by the House, as new matter at the end of H.R. 1424;
-- **(b)** conform the title of H.R. 1424 to reflect the addition to the engrossment of H.R. 493;
-- **(c)** assign appropriate designations to provisions within the engrossment; and
-- **(d)** conform provisions for short titles within the engrossment.
+- **(1)** add the text of H.R. 493, as passed by the House, as new matter at the end of H.R. 1424;
+- **(2)** conform the title of H.R. 1424 to reflect the addition of the text of H.R. 493 to the engrossment;
+- **(3)** assign appropriate designations to provisions within the engrossment; and
+- **(4)** conform provisions for short titles within the engrossment.
 
 ## § 3.
 
