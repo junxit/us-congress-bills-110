@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5159
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5159
@@ -34,3 +34,9 @@ Capitol Visitor Center Act of 2008
 - 2008-03-03 — Placed on the Union Calendar, Calendar No. 326.
 - 2008-03-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-535.
 - 2008-03-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-535.
+- 2008-03-05 — Considered under suspension of the rules. (consideration: CR H1249-1254)
+- 2008-03-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5159.
+- 2008-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-05 — Mr. Brady (PA) moved to suspend the rules and pass the bill, as amended.
+- 2008-03-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1249-1253)
+- 2008-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1249-1253)
