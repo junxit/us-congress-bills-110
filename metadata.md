@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1424
@@ -329,3 +329,24 @@ A bill to provide authority for the Federal Government to purchase and insure ce
 - 2008-03-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-374, Part III.
 - 2008-03-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-374, Part III.
 - 2008-03-04 — Rules Committee Resolution H. Res. 1014 Reported to House. Rule provides for consideration of H.R. 1424 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2008-03-05 — Considered under the provisions of rule H. Res. 1014. (consideration: CR H1274-1309, H1309-1315)
+- 2008-03-05 — DEBATE - The House proceeded with 10 minutes of debate on the Hoekstra motion to recommit with instructions, pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with a complete new text consisting of the bill H.R. 3773, as passed by the House.
+- 2008-03-05 — DEBATE - The House proceeded with two hours of debate on H.R. 1424.
+- 2008-03-05 — Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Kline motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment in the nature of a substitute consisting of new text entitled "Mental Health Parity Act of 2008".
+- 2008-03-05 — House amendment offered
+- 2008-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-05 — Mr. Hoekstra appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.
+- 2008-03-05 — Mr. Hoekstra moved to recommit with instructions to Energy and Commerce. (consideration: CR H1307-1308; text: CR H1307)
+- 2008-03-05 — Mr. Kline (MN) moved to recommit with instructions to Energy and Commerce. (consideration: CR H1309-1314; text: CR H1309-1312)
+- 2008-03-05 — Mr. Pallone moved to table the motion to appeal the ruling of the chair (consideration: CR H1308-1309)
+- 2008-03-05 — Mr. Pallone raised a point of order against the motion to recommit with instructions. Mr. Pallone stated that the motion to recommit with instructions sought to insert non-germane material into the bill. Sustained by the Chair.
+- 2008-03-05 — On motion to recommit with instructions Failed by recorded vote: 196 - 221 (Roll no. 100).
+- 2008-03-05 — On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 223 - 186, 1 Present (Roll no. 99).
+- 2008-03-05 — On passage Passed by the Yeas and Nays: 268 - 148 (Roll no. 101). (text: CR H1274-1285)
+- 2008-03-05 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 268 - 148 (Roll no. 101).(text: CR H1274-1285)
+- 2008-03-05 — Point of order sustained against the motion to recommit with instructions.
+- 2008-03-05 — Pursuant to section 2 of H. Res. 1014, the text of H.R. 493, as passed by the House, will be appended to the engrossment of H.R. 1424.
+- 2008-03-05 — Rule H. Res. 1014 passed House.
+- 2008-03-05 — Rule provides for consideration of H.R. 1424 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
+- 2008-03-05 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1314)
+- 2008-03-05 — The previous question was ordered pursuant to the rule. (consideration: CR H1307)
