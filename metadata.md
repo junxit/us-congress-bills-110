@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 462
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 462
@@ -36,3 +36,7 @@ A resolution designating the first week of April 2008 as "National Asbestos Awar
 - 2008-02-27 — Introduced in Senate
 - 2008-02-27 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1273)
 - 2008-02-27 — Sponsor introductory remarks on measure. (CR S1273)
+- 2008-03-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1654)
+- 2008-03-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1654)
+- 2008-03-05 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S1654)
+- 2008-03-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S1654)
