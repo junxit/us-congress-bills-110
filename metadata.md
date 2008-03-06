@@ -1,7 +1,7 @@
 ---
 measure: S. 2728
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2728

@@ -36,11 +36,16 @@ The duties of the Commission shall be to—
   - **(B)** identifies incentives intended to ensure an adequate and dependable supply of water to meet the needs of the United States for the next 50 years;
   - **(C)** suggests strategies that avoid increased mandates on State and local governments;
   - **(D)** eliminates duplication and conflict among Federal governmental programs;
-  - **(E)** considers all available technologies and other methods to optimize water supply reliability, availability, and quality, while safeguarding the environment;
-  - **(F)** recommends means of capturing excess water and flood water for conservation and use in the event of a drought;
-  - **(G)** suggests financing options for comprehensive water management projects and for appropriate public works projects;
-  - **(H)** suggests strategies to conserve existing water supplies, including recommendations for repairing aging infrastructure; and
-  - **(I)** includes other objectives related to the effective management of the water supply to ensure reliability, availability, and quality, which the Commission shall consider appropriate.
+  - **(E)**
+    - **(C)** considers all available technologies and other methods to optimize water supply reliability, availability, and quality, while safeguarding the environment;
+  - **(F)**
+    - **(D)** recommends means of capturing excess water and flood water for conservation and use in the event of a drought;
+  - **(G)**
+    - **(E)** suggests financing options for comprehensive water management projects and for appropriate public works projects;
+  - **(H)**
+    - **(F)** suggests strategies to conserve existing water supplies, including recommendations for repairing aging infrastructure and promoting efficiency and conservation; and
+  - **(I)**
+    - **(G)** includes other objectives related to the effective management of the water supply to ensure reliability, availability, and quality, which the Commission shall consider appropriate.
 
 ## § 5. Membership
 
