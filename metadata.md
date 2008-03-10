@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 66
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 66
@@ -35,3 +35,7 @@ A concurrent resolution commemorating the 175th anniversary of the commencement 
 - 2008-02-07 — Introduced in Senate
 - 2008-02-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S796)
 - 2008-02-07 — Sponsor introductory remarks on measure. (CR S796-797)
+- 2008-03-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S1822)
+- 2008-03-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S1822)
+- 2008-03-10 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S1822)
+- 2008-03-10 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S1822)
