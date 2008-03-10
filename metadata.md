@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5501
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5501
@@ -38,3 +38,8 @@ Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, T
 - 2008-02-27 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-02-27 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-02-27 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-03-10 — Committee on Financial Services discharged.
+- 2008-03-10 — Committee on Financial Services discharged.
+- 2008-03-10 — Placed on the Union Calendar, Calendar No. 333.
+- 2008-03-10 — Reported by the Committee on Foreign Affairs. H. Rept. 110-546, Part I.
+- 2008-03-10 — Reported by the Committee on Foreign Affairs. H. Rept. 110-546, Part I.
