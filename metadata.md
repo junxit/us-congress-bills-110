@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5492
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5492
@@ -30,3 +30,8 @@ To authorize the Board of Regents of the Smithsonian Institution to construct a 
 - 2008-02-26 — Introduced in House
 - 2008-02-26 — Introduced in House
 - 2008-02-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-02-28 — Committee Consideration and Mark-up Session Held.
+- 2008-02-28 — Ordered to be Reported by Voice Vote.
+- 2008-03-10 — Placed on the Union Calendar, Calendar No. 332.
+- 2008-03-10 — Reported by the Committee on Transportation. H. Rept. 110-545.
+- 2008-03-10 — Reported by the Committee on Transportation. H. Rept. 110-545.
