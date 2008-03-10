@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3196
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3196
@@ -47,9 +47,10 @@ To designate the facility of the United States Postal Service located at 20 Suss
 - Rep. Walsh, James T. [R-NY-25] (W000099)
 - Rep. Fossella, Vito [R-NY-13] (F000440)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -66,3 +67,19 @@ To designate the facility of the United States Postal Service located at 20 Suss
 - 2008-03-10 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2008-03-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 109). (text: CR H1423)
 - 2008-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 109).(text: CR H1423)
+- 2008-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-03-28 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 681.
+- 2008-04-22 — Cleared for White House.
+- 2008-04-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3269-3270)
+- 2008-04-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3269-3270)
+- 2008-04-23 — Message on Senate action sent to the House.
+- 2008-05-01 — Presented to President.
+- 2008-05-01 — Presented to President.
+- 2008-05-07 — Became Public Law No: 110-210.
+- 2008-05-07 — Became Public Law No: 110-210.
+- 2008-05-07 — Signed by President.
+- 2008-05-07 — Signed by President.
