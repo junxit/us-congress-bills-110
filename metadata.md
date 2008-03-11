@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 306
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 306
@@ -38,3 +38,5 @@ Permitting the use of the Rotunda of the Capitol for a ceremony as part of the c
 - 2008-03-10 — Ms. Lofgren, Zoe asked unanimous consent to discharge from committee and consider.
 - 2008-03-10 — On agreeing to the resolution Agreed to without objection. (text: CR H1432)
 - 2008-03-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1432)
+- 2008-03-11 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1893)
+- 2008-03-11 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1893)
