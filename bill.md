@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2516
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,40 +13,48 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Kendell Frederick Citizenship Assistance Act”.
 
-## § 2. Fingerprints for members of Armed Forces
+## § 2. Fingerprints and other biometric information for members of the United States Armed Forces
 
-- **(a)** *In general* Notwithstanding any other provision of law, including section 552a of title 5, United States Code (commonly referred to as the “Privacy Act of 1974”), the Secretary of Homeland Security shall use the fingerprints provided by an individual at the time the individual enlisted in the Armed Forces to satisfy any requirement for fingerprints in connection with an application for naturalization if—
-  - **(1)** the individual may be naturalized pursuant to section 328 or 329 of the Immigration and Nationality Act (8 U.S.C. 1439 and 1440);
-  - **(2)** the individual was fingerprinted in accordance with the requirements of the Department of Defense at the time the individual enlisted in the Armed Forces;
-  - **(3)** the individual submits an application for naturalization not later than 24 months after the date on which the individual enlisted in the Armed Forces; and
-  - **(4)** the Secretary of Homeland Security determines that the fingerprints are sufficient to adjudicate the applicant’s naturalization application.
-- **(b)** *More timely and effective adjudication* Nothing in this section precludes an individual described in subsection (a) from submitting a new set of fingerprints to the Secretary of Homeland Security. If the Secretary of Homeland Security determines that submitting a new set of fingerprints would result in more timely and effective adjudication of the individual’s naturalization application, the Secretary shall—
+- **(a)** *In general* Notwithstanding any other provision of law, including section 552a of title 5, United States Code (commonly referred to as the “Privacy Act of 1974”), the Secretary of Homeland Security shall use the fingerprints provided by an individual at the time the individual enlisted in the United States Armed Forces, or at the time the individual filed an application for adjustment of status, to satisfy any requirement for background and security checks in connection with an application for naturalization if—
+  - **(1)** the individual may be naturalized pursuant to section 328 or 329 of the Immigration and Nationality Act (8 U.S.C. 1439, 1440);
+  - **(2)** the individual was fingerprinted and provided other biometric information in accordance with the requirements of the Department of Defense at the time the individual enlisted in the United States Armed Forces;
+  - **(3)** the individual—
+    - **(A)** submitted an application for naturalization not later than 24 months after the date on which the individual enlisted in the United States Armed Forces; or
+    - **(B)** provided the required biometric information to the Department of Homeland Security through a United States Citizenship and Immigration Services Application Support Center at the time of the individual's application for adjustment of status if filed not later than 24 months after the date on which the individual enlisted in the United States Armed Forces; and
+  - **(4)** the Secretary of Homeland Security determines that the biometric information provided, including fingerprints, is sufficient to conduct the required background and security checks needed for the applicant’s naturalization application.
+- **(b)** *More timely and effective adjudication* Nothing in this section precludes an individual described in subsection (a) from submitting a new set of biometric information, including fingerprints, to the Secretary of Homeland Security with an application for naturalization. If the Secretary determines that submitting a new set of biometric information, including fingerprints, would result in more timely and effective adjudication of the individual’s naturalization application, the Secretary shall—
   - **(1)** inform the individual of such determination; and
-  - **(2)** provide the individual with a description of how to submit such fingerprints.
-- **(c)** *Cooperation* The Secretary of Homeland Security, in consultation with the Secretary of Defense, shall determine the format of fingerprints acceptable for usage under subsection (a). The Secretary of Defense, or any other official having custody of the fingerprints referred to in subsection (a), shall—
+  - **(2)** provide the individual with a description of how to submit such biometric information, including fingerprints.
+- **(c)** *Cooperation* The Secretary of Homeland Security, in consultation with the Secretary of Defense, shall determine the format of biometric information, including fingerprints, acceptable for usage under subsection (a). The Secretary of Defense, or any other official having custody of the biometric information, including fingerprints, referred to in subsection (a), shall—
   - **(1)** make such prints available, without charge, to the Secretary of Homeland Security for the purpose described in subsection (a); and
   - **(2)** otherwise cooperate with the Secretary of Homeland Security to facilitate the processing of applications for naturalization under subsection (a).
+- **(d)** *Electronic transmission* Not later than one year after the date of the enactment of this Act, the Secretary of Homeland Security shall, in coordination with the Secretary of Defense and the Director of the Federal Bureau of Investigation, implement procedures that will ensure the rapid electronic transmission of biometric information, including fingerprints, from existing repositories of such information needed for military personnel applying for naturalization as described in subsection (a) and that will safeguard privacy and civil liberties.
+- **(e)** *Centralization and expedited processing*
+  - **(1)** *Centralization* The Secretary of Homeland Security shall centralize the data processing of all applications for naturalization filed by members of the United States Armed Forces on active duty serving abroad.
+  - **(2)** *Expedited processing* The Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence shall take appropriate actions to ensure that applications for naturalization by members of the United States Armed Forces described in paragraph (1), and associated background checks, receive expedited processing and are adjudicated within 180 days of the receipt of responses to all background checks.
 
 ## § 3. Provision of information on military naturalization
 
-- **(a)** *In general* Not later than 30 days after the effective date of any modification to a regulation related to naturalization under section 328 or 329 of the Immigration and Nationality Act (8 U.S.C. 1439 and 1440), the Secretary of Homeland Security shall make appropriate updates to the Internet sites maintained by the Secretary to reflect such modification.
+- **(a)** *In general* Not later than 30 days after the effective date of any modification to a regulation related to naturalization under section 328 or 329 of the Immigration and Nationality Act (8 U.S.C. 1439, 1440), the Secretary of Homeland Security shall make appropriate updates to the Internet sites maintained by the Secretary to reflect such modification.
 - **(b)** *Sense of Congress* It is the sense of Congress that the Secretary of Homeland Security, not later than 180 days after each effective date described in subsection (a), should make necessary updates to the appropriate application forms of the Department of Homeland Security.
 
 ## § 4. Reports
 
 - **(a)** *Adjudication process*
-  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to the appropriate congressional committees on the entire process for the adjudication of an application for naturalization filed pursuant to section 328 or 329 of the Immigration and Nationality Act (8 U.S.C. 1439 and 1440), including the process that—
-    - **(A)** begins at the time the application is mailed to, or received by, the Secretary of Homeland Security, regardless of whether the Secretary determines that such application is complete; and
+  - **(1)** *In general* Not later than 120 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees on the entire process for the adjudication of an application for naturalization filed pursuant to section 328 or 329 of the Immigration and Nationality Act (8 U.S.C. 1439, 1440), including the process that—
+    - **(A)** begins at the time the application is mailed to, or received by, the Secretary, regardless of whether the Secretary determines that such application is complete; and
     - **(B)** ends on the date of the final disposition of such application.
   - **(2)** *Contents* The report submitted under paragraph (1) shall include a description of—
     - **(A)** the methods used by the Secretary of Homeland Security and the Secretary of Defense to prepare, handle, and adjudicate such applications;
     - **(B)** the effectiveness of the chain of authority, supervision, and training of employees of the Federal Government or of other entities, including contract employees, who have any role in such process or adjudication; and
-    - **(C)** the ability of the Secretary of Homeland Security and the Secretary of Defense to use technology to facilitate or accomplish any aspect of such process or adjudication.
+    - **(C)** the ability of the Secretary of Homeland Security and the Secretary of Defense to use technology to facilitate or accomplish any aspect of such process or adjudication and to safeguard privacy and civil liberties
 - **(b)** *Implementation*
-  - **(1)** *Study* The Comptroller General of the United States shall conduct a study on the implementation of this Act by the Secretary of Homeland Security and the Secretary of Defense, including studying any technology that may be used to improve the efficiency of the naturalization process for members of the Armed Forces.
-  - **(2)** *Report* Not later than 180 days after the date on which the Comptroller General submits the report required under subsection (a), the Comptroller General shall submit a report to the appropriate congressional committees on the study required by paragraph (1) that includes recommendations for improving the implementation of this Act.
+  - **(1)** *Study* The Comptroller General of the United States and the Inspector General of the Department of Homeland Security shall conduct a study on the implementation of this Act by the Secretary of Homeland Security and the Secretary of Defense, including an assessment of any technology that may be used to improve the efficiency of the naturalization process for members of the United States Armed Forces and an assessment of the impact of this Act on privacy and civil liberties.
+  - **(2)** *Report* Not later than 180 days after the date on which the Secretary of Homeland Security submits the report required under subsection (a), the Comptroller General and the Inspector General shall submit a report to the appropriate congressional committees on the study required by paragraph (1) that includes recommendations for improving the implementation of this Act.
 - **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
   - **(1)** the Committee on Armed Services of the Senate;
-  - **(2)** the Committee on the Judiciary of the Senate;
-  - **(3)** the Committee on Armed Services of the House of Representatives; and
-  - **(4)** the Committee on the Judiciary of the House of Representatives.
+  - **(2)** the Committee on Homeland Security and Governmental Affairs of the Senate;
+  - **(3)** the Committee on the Judiciary of the Senate;
+  - **(4)** the Committee on Armed Services of the House of Representatives;
+  - **(5)** the Committee on Homeland Security of the House of Representatives; and
+  - **(6)** the Committee on the Judiciary of the House of Representatives.
