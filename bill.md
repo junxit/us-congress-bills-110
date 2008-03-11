@@ -2,7 +2,7 @@
 legis-num: H. RES. 924
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 924
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas Iowa State University of Science and Technology was established by the Iowa General Assembly on March 22, 1858, as the Iowa Agricultural College and Model Farm in response to the State of Iowa’s desire to provide higher education opportunities to farm families and working classes in Iowa, predating the passage of the Federal Morrill Act by 4 years;
-- Whereas on September 3, 1862, Iowa became the first State in the United States to accept the terms and conditions of the Morrill Act creating the land-grant system of colleges and universities;
+- Whereas on September 11, 1862, Iowa became the first State in the United States to accept the terms and conditions of the Morrill Act creating the land-grant system of colleges and universities;
 - Whereas the Iowa Agricultural College and Model Farm, known today as Iowa State University of Science and Technology, received Iowa’s land-grant charter on March 29, 1864, making it one of the first land-grant institutions in the United States;
 - Whereas Iowa State University was a pioneer in all 3 parts of the land-grant mission, including— (1)allowing access to all, regardless of race, gender, or social class; (2)practical research; and (3)outreach;
 - Whereas Iowa State University fulfilled the 3 parts of the land-grant mission by— (1)creating the first land-grant institution to be coeducational from its opening, with 16 women in its first class; future suffragist Carrie Chapman Catt was an 1880 graduate; and George Washington Carver was the first African-American student, earning a bachelor’s degree in 1894 and a master’s degree in 1896, and was also the institution’s first African-American faculty member; (2)establishing the United States’ first Engineering Experiment Station and domestic economy experimental kitchen, and one of the first agriculture experiment stations; and (3)organizing the Farmers Institutes in the winter of 1869, by Iowa State President Adonijah Welch, and organizing the nation’s first county Extension Service in 1903 in Sioux County in northwest Iowa by Professor Perry Holden;
