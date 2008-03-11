@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 313
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 313
@@ -29,3 +29,6 @@ Authorizing the use of the rotunda of the Capitol for a ceremony to honor the 5 
 - 2008-03-10 — Ms. Lofgren, Zoe asked unanimous consent to consider as introduced.
 - 2008-03-10 — On agreeing to the resolution Agreed to without objection. (text: CR H1432)
 - 2008-03-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H1432)
+- 2008-03-11 — Message on Senate action sent to the House.
+- 2008-03-11 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S1839)
+- 2008-03-11 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1839)
