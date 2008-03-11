@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1024
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1024
@@ -16,7 +16,7 @@ Recognizing the 187th anniversary of the independence of Greece and celebrating 
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Cosponsors (24)
+## Cosponsors (35)
 
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
@@ -42,6 +42,17 @@ Recognizing the 187th anniversary of the independence of Greece and celebrating 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Ferguson, Mike [R-NJ-7] (F000443)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
 
 ## Committees (1)
 
@@ -52,3 +63,9 @@ Recognizing the 187th anniversary of the independence of Greece and celebrating 
 - 2008-03-06 — Introduced in House
 - 2008-03-06 — Introduced in House
 - 2008-03-06 — Referred to the House Committee on Foreign Affairs.
+- 2008-03-11 — Considered under suspension of the rules. (consideration: CR H1463-1467)
+- 2008-03-11 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1024.
+- 2008-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-11 — Mr. Crowley moved to suspend the rules and agree to the resolution, as amended.
+- 2008-03-11 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H1463-1464)
+- 2008-03-11 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H1463-1464)
