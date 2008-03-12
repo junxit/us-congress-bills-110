@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1036
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1036
@@ -27,3 +27,9 @@ Providing for consideration of the concurrent resolution (H. Con. Res. 312) revi
 - 2008-03-11 — Rule provides for consideration of H. Con. Res. 312 with 4 hours of general debate. Previous question shall be considered as ordered without intervening motions. Measure will be considered read. Specified amendments are in order.
 - 2008-03-11 — The House Committee on Rules reported an original measure, H. Rept. 110-548, by Mr. McGovern.
 - 2008-03-11 — The House Committee on Rules reported an original measure, H. Rept. 110-548, by Mr. McGovern.
+- 2008-03-12 — Considered as privileged matter. (consideration: CR H1553-1560)
+- 2008-03-12 — DEBATE - The House proceeded with one hour of debate on H. Res. 1036.
+- 2008-03-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-12 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 195 (Roll no. 130). (text: CR H1553-1554, H1559)
+- 2008-03-12 — On ordering the previous question Agreed to by the Yeas and Nays: 222 - 196 (Roll no. 129). (consideration: CR H1559-1560)
+- 2008-03-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 195 (Roll no. 130).(text: CR H1553-1554, H1559)
