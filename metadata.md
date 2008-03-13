@@ -1,7 +1,7 @@
 ---
 measure: S. 352
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 352
@@ -37,3 +37,8 @@ Sunshine in the Courtroom Act of 2008
 - 2007-01-22 — Introduced in Senate
 - 2007-01-22 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S837)
 - 2007-01-22 — Sponsor introductory remarks on measure. (CR S837)
+- 2007-02-14 — Committee on the Judiciary. Hearings held.
+- 2008-03-06 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2008-03-13 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2008-03-13 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2008-03-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 618.
