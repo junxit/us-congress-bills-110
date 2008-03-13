@@ -1,7 +1,7 @@
 ---
 measure: S. 2756
 congress: 110
-version: Committee Discharged Senate
+version: Introduced in Senate
 derived: true
 ---
 
