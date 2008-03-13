@@ -1,7 +1,7 @@
 ---
 measure: S. 2774
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2774
