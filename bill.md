@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5631
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5631
+
+> To designate the facility of the United States Postal Service located at 1155 Seminole Trail in Charlottesville, Virginia, as the “Corporal Bradley T. Arms Post Office Building”.
+
+## § 1. Corporal Bradley T. Arms Post Office Building
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 1155 Seminole Trail in Charlottesville, Virginia, shall be known and designated as the “Corporal Bradley T. Arms Post Office Building”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Corporal Bradley T. Arms Post Office Building”.
