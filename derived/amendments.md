@@ -1,7 +1,7 @@
 ---
 measure: S. 2745
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Section 751 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2008 (division A of Public Law 110–161; 121 Stat. 1883) is repealed. | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 7901` | repeal | Section 751 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2008 (division A of Public Law 110–161; 121 Stat. 1883) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

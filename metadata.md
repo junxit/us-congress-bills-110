@@ -1,7 +1,7 @@
 ---
 measure: S. 2745
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2745
@@ -35,3 +35,9 @@ A bill to extend agricultural programs beyond March 15, 2008, to suspend permane
 - 2008-03-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1597)
 - 2008-03-12 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S1916-1917; text as passed Senate: CR S1916)
 - 2008-03-12 — Received in the House.
+- 2008-03-13 — Presented to President.
+- 2008-03-13 — Presented to President.
+- 2008-03-14 — Became Public Law No: 110-196.
+- 2008-03-14 — Became Public Law No: 110-196.
+- 2008-03-14 — Signed by President.
+- 2008-03-14 — Signed by President.
