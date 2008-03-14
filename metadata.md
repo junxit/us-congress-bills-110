@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 71
 congress: 110
-version: Enrolled Bill
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 71
