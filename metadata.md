@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3773
 congress: 110
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 3773
@@ -75,3 +75,12 @@ FISA Amendments Act of 2008
 - 2008-02-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S904-913)
 - 2008-02-12 — See also S.2248.
 - 2008-02-12 — Senate struck all after the Enacting Clause and substituted the language of S.2248 amended.
+- 2008-02-13 — Message on Senate action sent to the House.
+- 2008-03-12 — Rules Committee Resolution H. Res. 1041 Reported to House. Rule provides for consideration of H.R. 3773 with 1 hour and 40 minutes of general debate. Previous question shall be considered as ordered without intervening motions. The resolution waives all points of order against the motion except those arising under clause 10 of rule XXI. Upon the adoption of the resolution it shall be in order to move that the House agree to the Senate amendment to H.R. 3773 with an amendment.
+- 2008-03-14 — DEBATE - Pursuant to the provisions of H. Res. 1041, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 3773 with an amendment.
+- 2008-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-14 — On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 213 - 197, 1 Present (Roll no. 145). (text as House agreed to Senate amendment: CR H1729-1742)
+- 2008-03-14 — Pursuant to the provisions of H. Res. 1041, the House moved to agree with an amendment to the Senate amendment. (consideration: CR H1720-1742)
+- 2008-03-14 — Resolving differences -- House actions: On motion that the House agree with an amendment to the Senate amendment Agreed to by the Yeas and Nays: 213 - 197, 1 Present (Roll no. 145).(text as House agreed to Senate amendment: CR H1729-1742)
+- 2008-03-14 — Rule H. Res. 1041 passed House.
+- 2008-03-14 — The previous question was ordered pursuant to the rule. (consideration: CR H1760)
