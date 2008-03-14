@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 71
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 71
