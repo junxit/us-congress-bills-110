@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 316
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 316
@@ -25,3 +25,6 @@ Providing for an adjournment or recess of the two Houses.
 - 2008-03-12 — On agreeing to the resolution Agreed to by the Yeas and Nays: 211 - 204 (Roll no. 132). (text: CR H1573)
 - 2008-03-12 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 211 - 204 (Roll no. 132).(text: CR H1573)
 - 2008-03-12 — Received in the Senate.
+- 2008-03-14 — Message on Senate action sent to the House.
+- 2008-03-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2008-03-14 — Resolution agreed to in Senate without amendment by Unanimous Consent.
