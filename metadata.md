@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1041
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1041
@@ -27,3 +27,9 @@ Providing for consideration of the Senate amendment to the bill (H.R. 3773) to a
 - 2008-03-12 — The House Committee on Rules reported an original measure, H. Rept. 110-549, by Mr. Arcuri.
 - 2008-03-12 — The House Committee on Rules reported an original measure, H. Rept. 110-549, by Mr. Arcuri.
 - 2008-03-12 — The resolution waives all points of order against the motion except those arising under clause 10 of rule XXI. Upon the adoption of the resolution it shall be in order to move that the House agree to the Senate amendment to H.R. 3773 with an amendment.
+- 2008-03-14 — Considered as privileged matter. (consideration: CR H1707-1720)
+- 2008-03-14 — DEBATE - The House proceeded with one hour of debate on H. Res. 1041.
+- 2008-03-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-03-14 — On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 188 (Roll no. 144). (text: CR H1707)
+- 2008-03-14 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 190 (Roll no. 143). (consideration: CR H1718-1719)
+- 2008-03-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 188 (Roll no. 144).(text: CR H1707)
