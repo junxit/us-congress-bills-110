@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2745
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -21,7 +21,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** Section 524(b) of the Federal Crop Insurance Act (7 U.S.C. 1524(b)).
   - **(3)** Section 25 of the Food Stamp Act of 1977 (7 U.S.C. 2034).
   - **(4)** Section 601(j)(1) of the Rural Electrification Act of 1936 (7 U.S.C. 950bb(j)(1)).
-  - **(5)** Section 231(b)(4) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621note; Public Law 106–224).
+  - **(5)** Section 231(b)(4) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224).
   - **(6)** Section 9002(k)(2) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8102(k)(2)).
   - **(7)** Section 9004(d) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8104(d)).
   - **(8)** Section 9006(f) of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8106(f)).
