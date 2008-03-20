@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 70
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 70
@@ -16,6 +16,544 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Sen. Conrad, Kent [D-ND] (C000705)
 
+## Cosponsors (535)
+
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+
 ## Committees (1)
 
 - Senate — Budget Committee
@@ -26,3 +564,764 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2008-03-07 — Committee on the Budget. Original measure reported to Senate by Senator Conrad. Without written report.
 - 2008-03-07 — Introduced in Senate
 - 2008-03-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 612. (text of measure as introduced: CR S1747-1754)
+- 2008-03-10 — Measure laid before Senate by unanimous consent. (consideration: CR S1791-1814)
+- 2008-03-10 — Senate amendment submitted
+- 2008-03-10 — Senate amendment submitted
+- 2008-03-10 — Senate amendment submitted
+- 2008-03-10 — Senate amendment submitted
+- 2008-03-11 — Amendment SA 4160 proposed by Senator Baucus. (consideration: CR S1839-1855; text: CR S1839-1840) To provide tax relief to middle-class families and small businesses, property tax relief to homeowners, relief to those whose homes were damaged or destroyed by Hurricanes Katrina and Rita, and tax relief to America's troops and veterans.
+- 2008-03-11 — Amendment SA 4170 proposed by Senator Graham. (consideration: CR S1855-1869; text: CR S1855) To protect families, family farms and small businesses by extending the income tax rate structure, raising the death tax exemption to $5 million and reducing the maximum death tax rate to no more than 35%; to keep education affordable by extending the college tuition deduction; and to protect senior citizens from higher taxes on their retirement income, maintain U.S. financial market competitiveness, and promote economic growth by extending the lower tax rates on dividends and capital gains.
+- 2008-03-11 — Considered by Senate. (consideration: CR S1832-1839, S1839-1869, S1895-1909)
+- 2008-03-11 — Senate amendment proposed (on the floor): Amendment SA 4160 proposed by Senator Baucus.(consideration: CR S1839-1855; text: CR S1839-1840)
+- 2008-03-11 — Senate amendment proposed (on the floor): Amendment SA 4170 proposed by Senator Graham.(consideration: CR S1855-1869; text: CR S1855)
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-11 — Senate amendment submitted
+- 2008-03-12 — Amendment SA 4151 proposed by Senator Kennedy. (consideration: CR S1946-1949; text: CR S1946) To add a deficit-neutral reserve fund for increasing federal student loan limits to protect students against disruptions in the private credit markets.
+- 2008-03-12 — Amendment SA 4173 proposed by Senator Bingaman. (consideration: CR S1917-1921; text: S1918) To provide additional funding resources in FY2009 for investments in innovation and education in order to improve the competitiveness of the United States.
+- 2008-03-12 — Amendment SA 4181 proposed by Senator Conrad for Senator Pryor. (consideration: CR S1962; text: CR S1962) To add a deficit-neutral reserve fund for Science Parks.
+- 2008-03-12 — Amendment SA 4189 proposed by Senator Gregg for Senator Specter. (consideration: CR S1921-1922; text: CR S1921) To repeal section 13203 of the Omnibus Budget Reconciliation Act of 1993 by restoring the Alternative Minimum Tax rates that had been in effect prior thereto.
+- 2008-03-12 — Amendment SA 4190 proposed by Senator Conrad. (consideration: CR S1922; text: CR S1922) To add a deficit-neutral reserve fund for repealing the 1993 rate increase for the alternative minimum tax for individuals.
+- 2008-03-12 — Amendment SA 4191 proposed by Senator Kyl. (consideration: CR S1922-1926; text: CR S1921-1922) To protect small businesses, family ranches and farms from the Death Tax by providing a $5 million exemption, a low rate for smaller estates and a maximum rate no higher than 35%.
+- 2008-03-12 — Amendment SA 4192 proposed by Senator Bunning. (consideration: CR S1932-1939; text: CR S1932) To repeal the tax increase on Social Security benefits imposed by the Omnibus Budget Reconciliation Act of 1993.
+- 2008-03-12 — Amendment SA 4194 proposed by Senator Murray for Senator Lincoln. (consideration: CR S1950-1953; text: CR S1950) To provide the Veterans Benefits Administration with additional resources to more effectively meet their increasing workload and to better address the unacceptably large claims backlog.
+- 2008-03-12 — Amendment SA 4196 proposed by Senator Conrad for Senator Salazar. (consideration: CR S1926-1932, S1940-1946; text: CR S1926; text as modified Senate: CR S1940) To reform the estate tax to avoid subjecting thousands of families, family businesses, and family farms and ranches to the estate tax.
+- 2008-03-12 — Amendment SA 4198 proposed by Senator Dorgan. (consideration: CR S1939-1940; text: CR S1939) To increase the Indian Health Service by $1 billion in FY 2009.
+- 2008-03-12 — Amendment SA 4203 proposed by Senator Gregg for Senator Specter. (consideration: CR S1939; text: CR S1939) To increase funding for the National Institutes of Health and the Low Income Home Energy Assistance Program.
+- 2008-03-12 — Amendment SA 4204 proposed by Senator Conrad. (consideration: CR S1939; text: CR S1939) To add a deficit-neutral reserve fund for repealing the 1993 increase in the income tax on Social Security benefits.
+- 2008-03-12 — Amendment SA 4207 proposed by Senator Alexander. (consideration: CR S1940; text: CR S1940) To establish a deficit-neutral reserve fund to improve energy efficiency and production.
+- 2008-03-12 — Amendment SA 4221 proposed by Senator Sununu. (consideration: CR S1949-1950; text: CR S1949) To save lives, promote overall health care efficiency, and lower the cost of the delivery of health care services by facilitating the deployment and use of electronic prescribing technologies by physicians.
+- 2008-03-12 — Amendment SA 4222 proposed by Senator Alexander. (consideration: CR S1953-1954; text: CR S1953) To take $670,000 used by the EEOC in bringing actions against employers that require their employees to speak English, and instead use the money to teach English to adults through the Department of Education's English Literacy/Civics Education State Grant program.
+- 2008-03-12 — Amendment SA 4231 proposed by Senator Sessions. (consideration: CR S1955-1961; text: CR S1955-1956) To establish a deficit-neutral reserve fund for border security, immigration enforcement, and criminal alien removal programs.
+- 2008-03-12 — Amendment SA 4242 proposed by Senator Cornyn. (consideration: CR S1960-1962; text: CR S1961) To protect the family budget by providing for a budget point of order against legislation that increases income taxes on taxpayers, including hard-working middle-income families, entrepreneurs, and college students.
+- 2008-03-12 — Amendment SA 4246 proposed by Senator Allard. (consideration: CR S1966-1972) To raise taxes by an unprecedented $1.4 trillion for the purpose of fully funding 111 new or expanded federal spending programs.
+- 2008-03-12 — Amendment SA 4259 proposed by Senator Menendez. (consideration: CR S1976-1980; text: S1976) To establish a reserve fund for immigration reform and enforcement.
+- 2008-03-12 — Considered by Senate. (consideration: CR S1916)
+- 2008-03-12 — Considered by Senate. (consideration: CR S1916)
+- 2008-03-12 — Considered by Senate. (consideration: CR S1916, S1917-1992, S2029-2032)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4151 proposed by Senator Kennedy.(consideration: CR S1946-1949; text: CR S1946)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4173 proposed by Senator Bingaman.(consideration: CR S1917-1921; text: S1918)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4181 proposed by Senator Conrad for Senator Pryor.(consideration: CR S1962; text: CR S1962)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4189 proposed by Senator Gregg for Senator Specter.(consideration: CR S1921-1922; text: CR S1921)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4190 proposed by Senator Conrad.(consideration: CR S1922; text: CR S1922)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4191 proposed by Senator Kyl.(consideration: CR S1922-1926; text: CR S1921-1922)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4192 proposed by Senator Bunning.(consideration: CR S1932-1939; text: CR S1932)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4194 proposed by Senator Murray for Senator Lincoln.(consideration: CR S1950-1953; text: CR S1950)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4196 proposed by Senator Conrad for Senator Salazar.(consideration: CR S1926-1932, S1940-1946; text: CR S1926; text as modified Senate: CR S1940)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4198 proposed by Senator Dorgan.(consideration: CR S1939-1940; text: CR S1939)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4203 proposed by Senator Gregg for Senator Specter.(consideration: CR S1939; text: CR S1939)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4204 proposed by Senator Conrad.(consideration: CR S1939; text: CR S1939)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4207 proposed by Senator Alexander.(consideration: CR S1940; text: CR S1940)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4221 proposed by Senator Sununu.(consideration: CR S1949-1950; text: CR S1949)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4222 proposed by Senator Alexander.(consideration: CR S1953-1954; text: CR S1953)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4231 proposed by Senator Sessions.(consideration: CR S1955-1961; text: CR S1955-1956)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4242 proposed by Senator Cornyn.(consideration: CR S1960-1962; text: CR S1961)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4246 proposed by Senator Allard.(consideration: CR S1966-1972)
+- 2008-03-12 — Senate amendment proposed (on the floor): Amendment SA 4259 proposed by Senator Menendez.(consideration: CR S1976-1980; text: S1976)
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-12 — Senate amendment submitted
+- 2008-03-13 — Amendment SA 4148 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4148 proposed by Senator Conrad for Senator Kennedy. (consideration: CR S2064-2067; text: CR S2066) To increase by $71 million the resources available to the Food and Drug Administration in FY 2009 for food and drug safety.
+- 2008-03-13 — Amendment SA 4151 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4153 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4153 proposed by Senator Conrad for Senator Burr. (consideration: CR S2064-2067; text: CR S2065) To develop biodefense medical countermeasures by fully funding the Biomedical Advanced Research and Development Authority (BARDA) in a fiscally responsible manner.
+- 2008-03-13 — Amendment SA 4154 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2057)
+- 2008-03-13 — Amendment SA 4154 proposed by Senator Reed. (consideration: CR S2057; text: CR S2057) To reduce the energy burden of low-income families, seniors, and individuals with disabilities by increasing funding for the Low-Income Home Energy Assistance Program (LIHEAP) by $1.6 billion in FY 2009.
+- 2008-03-13 — Amendment SA 4155 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4155 proposed by Senator Brown. (consideration: CR S2060; text: CR S2060) To improve the training of manufacturing workers.
+- 2008-03-13 — Amendment SA 4159 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4159 proposed by Senator Conrad for Senator Allard. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079) To ensure that the Secretary of Health and Human Services has continued authority to prevent fraud and protect the integrity of the Medicaid program and SCHIP and to reduce inappropriate spending under those programs.
+- 2008-03-13 — Amendment SA 4160 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 42.
+- 2008-03-13 — Amendment SA 4162 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4162 proposed by Senator Conrad for Senator Reid. (consideration: CR S2064-2067; text: CR S2067) To establish a deficit-neutral reserve fund to provide for the acceleration of the phased-in eligibility of members of the Armed Forces for concurrent receipt of retired pay and veterans' disability compensation.
+- 2008-03-13 — Amendment SA 4164 as modified agreed to in Senate by Voice Vote. (text as modified: CR S2057)
+- 2008-03-13 — Amendment SA 4164 proposed by Senator Biden. (consideration: CR S2057) To increase 2009 funding for the COPS program to $1.15 billion, with an offset.
+- 2008-03-13 — Amendment SA 4166 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4166 proposed by Senator Conrad for Senator Biden. (consideration: CR S2064-2067; text: CR S2066) To increase fiscal year 2009 funding for the Violence Against Women Act (VAWA) by $100 million, with an offset.
+- 2008-03-13 — Amendment SA 4170 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 43.
+- 2008-03-13 — Amendment SA 4172 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4172 proposed by Senator Conrad for Senator Casey. (consideration: CR S2064-2067; text: CR S2067) To include in the deficit-neutral reserve funds for America's veterans and wounded servicemembers and for a post 9/11 GI bill provision for the continuing payment to members of the Armed Forces who are retired or separated from the Armed Forces due to a combat-related injury after September 11, 2001, of bonuses that such members were entitled to before the retirement or separation and would continue to be entitled to such members were not retired of separated.
+- 2008-03-13 — Amendment SA 4173 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4176 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4176 proposed by Senator Conrad for Senator Carper. (consideration: CR S2064-2067; text: CR S2067) To provide for a deficit-neutral reserve fund for the increased use of recovery audits.
+- 2008-03-13 — Amendment SA 4181 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4183 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4183 proposed by Senator Conrad for Senator Pryor. (consideration: CR S2064-2067; text: CR S2066) To add a deficit-neutral reserve fund to improve student achievement during secondary education, including middle school completion, high school graduation and preparing students for higher education and the workforce.
+- 2008-03-13 — Amendment SA 4186 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4186 proposed by Senator Conrad for Senator Bunning. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2078-2079) To provide a point of order against any budget resolution that fails to achieve an on-budget balance within 5 years.
+- 2008-03-13 — Amendment SA 4189 (upon reconsideration) not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 48.
+- 2008-03-13 — Amendment SA 4189 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 45.
+- 2008-03-13 — Amendment SA 4190 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 44.
+- 2008-03-13 — Amendment SA 4191 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 50.
+- 2008-03-13 — Amendment SA 4192 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 52.
+- 2008-03-13 — Amendment SA 4194 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4195 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4195 proposed by Senator Conrad for Senator Lincoln. (consideration: CR 3/14/2008 S2064-2069; text: CR 3/14/2008 S2069) To provide for a deficit-neutral reserve fund for reducing the income threshold for the refundable child tax credit to $10,000 for taxable years 2009 and 2010 with no inflation adjustment to ensure that low-income working families receive the benefit of such credit.
+- 2008-03-13 — Amendment SA 4196 not agreed to in Senate by Yea-Nay Vote. 38 - 62. Record Vote Number: 49.
+- 2008-03-13 — Amendment SA 4197 agreed to in Senate by Yea-Nay Vote. 89 - 7. Record Vote Number: 68.
+- 2008-03-13 — Amendment SA 4197 proposed by Senator Kohl. (consideration: CR S2061-2062; text: CR S2061) To establish a deficit-neutral reserve fund for a 3-year extension of the pilot program for national and State background checks on direct patient access employees of long-term care facilities or providers.
+- 2008-03-13 — Amendment SA 4198 agreed to in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 54.
+- 2008-03-13 — Amendment SA 4199 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4199 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S2064-2067; text: CR S2066) To provide for the use of the deficit-neutral reserve fund for tax relief to reinstate and expand the charitable IRA rollover.
+- 2008-03-13 — Amendment SA 4200 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4200 proposed by Senator Conrad for Senator Dorgan. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079) To provide for the use of the deficit-neutral reserve fund to invest in clean energy and preserve the environment for the 5-year extension of energy tax incentives.
+- 2008-03-13 — Amendment SA 4203 agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 53.
+- 2008-03-13 — Amendment SA 4204 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 51.
+- 2008-03-13 — Amendment SA 4207 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 56.
+- 2008-03-13 — Amendment SA 4208 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4208 proposed by Senator Dole. (consideration: CR S2058-2059; text: CR S2058) To increase amounts budgeted for States and local governments for expenses related to immigration enforcement training and support under section 287(g) of the Immigration and Nationality Act, with an offset.
+- 2008-03-13 — Amendment SA 4210 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4210 proposed by Senator Conrad for Senator Lautenberg. (consideration: CR S2064-2067; text: CR S2066) To include rail (including high-speed passenger rail), airport, and seaport projects in the eligibility requirements of the Deficit Neutral Reserve Fund for Investments in America's Infrastructure.
+- 2008-03-13 — Amendment SA 4211 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4211 proposed by Senator Conrad for Senator Lieberman. (consideration: CR S2066-2067; text: CR S2066-2067) To increase funding for operations and management of the Federal Emergency Management Agency, with an offset.
+- 2008-03-13 — Amendment SA 4212 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4212 proposed by Senator Nelson NE. (consideration: CR S2054-2055; text: CR S2055) To create additional jobs and make a lasting investment in our national infrastructure by increasing Fiscal Year 2008 infrastructure stimulus funding by designating $3.5 billion in existing stimulus funding in the resolution as discretionary funding.
+- 2008-03-13 — Amendment SA 4214 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4214 proposed by Senator Conrad for Senator Enzi. (consideration: CR S2064-2067; text: CR S2064) To establish a deficit-neutral reserve fund to terminate certain deductions from mineral revenue payments made to States.
+- 2008-03-13 — Amendment SA 4215 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4215 proposed by Senator Conrad for Senator Enzi. (consideration: CR S2064-2067; text: CR S2065) To establish a deficit-neutral reserve fund to improve the animal health and disease program.
+- 2008-03-13 — Amendment SA 4218 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 64.
+- 2008-03-13 — Amendment SA 4218 proposed by Senator Sanders. (consideration: CR S2055-2056; text: CR S2056) To put children ahead of millionaires and billionaires by restoring the pre-2001 top income tax rate for people earning over $1 million, and use this revenue to invest in LIHEAP; IDEA; Head Start; Child Care; nutrition; school construction and deficit reduction.
+- 2008-03-13 — Amendment SA 4219 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4219 proposed by Senator Conrad for Senator Stabenow. (consideration: CR S2064-2067; text: CR S2067) To provide for the use of the deficit-neutral reserve fund for tax relief to encourage struggling companies to invest in new equipment and stimulate the United States economy by allowing the use of accumulated alternative minimum tax and research and development credits in lieu of bonus depreciation.
+- 2008-03-13 — Amendment SA 4220 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4220 proposed by Senator Conrad for Senator Cardin. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080) To increase funding for water quality research programs at the United States Geological Survey, with an offset.
+- 2008-03-13 — Amendment SA 4221 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4222 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 58.
+- 2008-03-13 — Amendment SA 4225 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4225 proposed by Senator Conrad for Senator Feinstein. (consideration: CR S2064-2067; text: CR S2066) To provide for a total of $950,000,000 in outlays for the State Criminal Alien Assistance Program in fiscal year 2009.
+- 2008-03-13 — Amendment SA 4227 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4227 proposed by Senator Conrad for Senator Clinton. (consideration: CR S2064-2067; text: CR S2067) To increase funding for the Administration on Aging by the authorized level of $53,000,000 in fiscal year 2009 for the Lifespan Respite Care Act, which provides much-needed respite care to our nation's dedicated family caregivers for the elderly and disabled.
+- 2008-03-13 — Amendment SA 4229 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4229 proposed by Senator Conrad for Senator Martinez. (consideration: CR S2064-2067; text: CR S2064-2065) To provide a deficit-neutral reserve fund to provide for State disclosure, through a publicly accessible Internet site, of information relating to payments made under the State Medicaid program to hospitals, nursing facilities, outpatient surgery centers, intermediate care facilities for the mentally retarded, institutions for mental diseases, or other institutional providers and the number of patients treated by such providers.
+- 2008-03-13 — Amendment SA 4230 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4230 proposed by Senator Conrad for Senator Chambliss. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2078) To increase FY 2009 funding for the Byrne/Justice Assistance Grant program to $906,000,000 with an offset.
+- 2008-03-13 — Amendment SA 4231 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 60.
+- 2008-03-13 — Amendment SA 4232 not agreed to in Senate by Yea-Nay Vote. 29 - 68. Record Vote Number: 66.
+- 2008-03-13 — Amendment SA 4232 proposed by Senator DeMint for Senator Allard. (consideration: CR S2059-2060; text: CR S2059) To pay down the Federal debt and eliminate government waste by reducing spending 5 percent on programs rated (as mandated under the Government Performance and Results Act (Public Law 103-62)) ineffective by the Office of Management and Budget Program Assessment Rating Tool.
+- 2008-03-13 — Amendment SA 4239 proposed by Senator Inhofe. (consideration: CR S2062; text: CR S2062) To express the sense of the Senate on funding for national defense in future fiscal years.
+- 2008-03-13 — Amendment SA 4240 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 63.
+- 2008-03-13 — Amendment SA 4240 proposed by Senator Ensign. (consideration: CR S2055; text: CR S2055) To require wealthy Medicare beneficiaries to pay a greater share of their Medicare Part D premiums.
+- 2008-03-13 — Amendment SA 4242 ruled out of order by the chair.
+- 2008-03-13 — Amendment SA 4243 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4243 proposed by Senator Conrad for Senator Vitter. (consideration: CR S2064-2067; text: CR S2065) To fully fund authorized amounts to implement the Adam Walsh Act that will increase enforcement to catch and detain child predators, combat child pornography, and make the Internet safer for our own children.
+- 2008-03-13 — Amendment SA 4244 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4244 proposed by Senator Conrad for Senator Roberts. (consideration: CR S2064-2067; text: CR S2064) To ensure the viability of small businesses by helping them provide to their employees access to quality child care.
+- 2008-03-13 — Amendment SA 4245 proposed by Senator Biden. (consideration: CR 3/14/2008 S2086; text: CR 3/14/2008 S2086) To restore full funding for the international affairs budget, in support of the reconstruction of Iraq and Afghanistan, nuclear nonproliferation, foreign assistance, fighting global AIDS, promoting sustainable development, and other efforts, with an offset.
+- 2008-03-13 — Amendment SA 4246 not agreed to in Senate by Yea-Nay Vote. 0 - 97. Record Vote Number: 62.
+- 2008-03-13 — Amendment SA 4248 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4248 proposed by Senator Conrad for Senator Barrasso. (consideration: CR S2064-2067; text: CR S2065) To provide for a deficit-neutral reserve fund that preserves and promotes Medicare payment policies that support rural health care providers.
+- 2008-03-13 — Amendment SA 4249 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4249 proposed by Senator Conrad for Senator Dorgan. (consideration: CR S2064-2067; text: CR S2066) To increase the number of organ donations by funding the programs authorized by the Organ Donation and Recovery Improvement Act of 2004.
+- 2008-03-13 — Amendment SA 4252 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4252 proposed by Senator Conrad for Senator Brown. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2078) To increase Federal assistance to food banks.
+- 2008-03-13 — Amendment SA 4253 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4253 proposed by Senator Conrad for Senator Dodd. (consideration: CR S2064-2067; text: CR S2066) To increase spending for the Maternal and Child Health Block Grant by $184,000,000 in fiscal year 2009, with an offset.
+- 2008-03-13 — Amendment SA 4254 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4254 proposed by Senator Dodd. (consideration: CR S2059; text: CR S2059) To increase funding for the National Institutes of Health, the Centers for Disease Control and Prevention and the Health Resources and Services Administration for autism research, education, and early detection with an offset.
+- 2008-03-13 — Amendment SA 4255 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4255 proposed by Senator Conrad for Senator Kohl. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080) To increase 2009 funding for Juvenile Justice Programs to $560 million, with an offset.
+- 2008-03-13 — Amendment SA 4259 agreed to in Senate by Yea-Nay. 53 - 45. Record Vote Number: 59.
+- 2008-03-13 — Amendment SA 4261 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4261 proposed by Senator Conrad for Senator Grassley. (consideration: CR S2064-2067; text: CR S2065) To reduce waste in Department of Defense contracting.
+- 2008-03-13 — Amendment SA 4264 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4264 proposed by Senator Conrad for Senator Coleman. (consideration: CR S2064-2067; text: CR S2065) To deny funding for the United Nations Durban II Anti-Racism Conference, which has been used as a platform to advance anti-Semitism and for this reason opposed by the United States and 45 other members of the United Nations General Assembly during a vote on December 22, 2007, and direct the savings to veterans.
+- 2008-03-13 — Amendment SA 4268 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR 3/14/2008 S2078)
+- 2008-03-13 — Amendment SA 4268 proposed by Senator Conrad for Senator Thune. (consideration: CR 3/14/2008 S2078-2080) To provide $40,000,000 in fiscal year 2009 to improve safety by increasing funds for tribal justice and law enforcement, with an offset.
+- 2008-03-13 — Amendment SA 4269 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4269 proposed by Senator Conrad for Senator Thune. (consideration: CR S2064-2067; text: CR S2065) To provide for a total of $99,000,000 in COPS Hot Spots funding, as authorized in the Combat Meth Act.
+- 2008-03-13 — Amendment SA 4276 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 78.
+- 2008-03-13 — Amendment SA 4276 proposed by Senator Grassley. (consideration: CR 3/14/2008 S2077-2078; text as modified: CR 3/14/2008 S2077) To exempt from pay-as-you-go enforcement modifications to the individual alternative minimum tax (AMT) that prevent millions of additional taxpayers from having to pay the AMT.
+- 2008-03-13 — Amendment SA 4283 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4283 proposed by Senator Conrad for Senator Hatch. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080) To express the sense of the Senate that none of the funds recommended by this resolution, or appropriated or otherwise made available under any other Act, to the USPTO shall be diverted, redirected, transferred, or used for any other purpose than for which such funds were intended.
+- 2008-03-13 — Amendment SA 4284 agreed to in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 67.
+- 2008-03-13 — Amendment SA 4284 proposed by Senator Brownback. (consideration: CR S2060-2061; text: CR S2060) To provide funds for a Commission on Budgetary Accountability and Review of Federal Agencies.
+- 2008-03-13 — Amendment SA 4285 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4285 proposed by Senator Conrad for Senator Nelson FL. (consideration: CR S2064-2067; text: CR S2066) To make funds available to ensure that Survivor Benefit Plan annuities are not reduced by the amount of veterans' dependency and indemnity compensation received by military families.
+- 2008-03-13 — Amendment SA 4286 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4286 proposed by Senator Conrad for Senator Klobuchar. (consideration: CR S2064-2067; text: CR S2066) To provide in the deficit-neutral reserve fund for America's veterans and wounded servicemembers and for a Post 9/11 GI bill for access of rural veterans to health care and other services.
+- 2008-03-13 — Amendment SA 4287 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4287 proposed by Senator Conrad for Senator Klobuchar. (consideration: CR S2064-2067; text: CR S2066) To establish a deficit-neutral reserve fund for implementation of the Yellow Ribbon Reintegration Program for members of the National Guard and Reserve.
+- 2008-03-13 — Amendment SA 4297 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4297 proposed by Senator Conrad for Senator Hatch. (consideration: CR S2064-2067; text: CR S2065) To provide for a reserve fund for legislation that funds the traumatic brain injury program.
+- 2008-03-13 — Amendment SA 4309 proposed by Senator Vitter. (consideration: CR S2063-2064; text: CR S2063) To create a reserve fund to ensure that Federal assistance does not go to sanctuary cities that ignore the immigration laws of the United States and create safe havens for illegal aliens and potential terrorists.
+- 2008-03-13 — Amendment SA 4311 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4311 proposed by Senator Conrad for Senator Alexander. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079) To improve education in the United States by providing $300,000,000 for the Teacher Incentive Fund to support State and local school district efforts to reward outstanding teaching and school leadership by improving compensation programs for teachers who have a demonstrated record of improving student academic achievement, teachers who teach in high need subjects such as mathematics and science, and teachers who teach in high need, low income schools.
+- 2008-03-13 — Amendment SA 4313 proposed by Senator Cornyn. (consideration: CR 3/14/2008 S2071-2072; text: CR 3/14/2008 S2072) To protect the family budget from runaway Government spending by increasing the number of Senators necessary to waive the PAYGO Point of Order from 60 to 100.
+- 2008-03-13 — Amendment SA 4313 ruled out of order by the chair.
+- 2008-03-13 — Amendment SA 4328 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 65.
+- 2008-03-13 — Amendment SA 4328 proposed by Senator DeMint. (consideration: CR S2057-2058; text: CR S2057) To provide for a deficit-neutral reserve fund for Social Security reform.
+- 2008-03-13 — Amendment SA 4329 agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 55.
+- 2008-03-13 — Amendment SA 4329 proposed by Senator Nelson FL. (consideration: CR S2047-2048; text: CR S2048) To establish a deficit-neutral reserve fund to improve energy efficiency and production.
+- 2008-03-13 — Amendment SA 4330 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4330 proposed by Senator Conrad for Senator Obama. (consideration: CR S2078-2080; text: CR S2078) To provide an additional $5 million to the military departments' respective Boards for Correction of Military Records to expedite review of cases in which service members with combat-related psychological injuries (such as PTSD) or closed head injuries (such as TBIs) were administered discharges for personality disorders or other discharges resulting in a loss of benefits or care and seek a correction of records or upgraded discharge.
+- 2008-03-13 — Amendment SA 4332 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4332 proposed by Senator Kerry. (consideration: CR S2050; text: CR S2050) To promote the modernization of the health care system through the adoption of electronic prescribing technology.
+- 2008-03-13 — Amendment SA 4333 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4333 proposed by Senator Conrad for Senator Baucus. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079-2080) To express the sense of the Senate that Medicaid administrative regulations should not undermine Medicaid's role in our Nation's health care system, cap Federal Medicaid spending, or otherwise shift Medicaid cost burdens to State or local governments and their taxpayers and health providers, or undermine the Federal guarantee of health insurance coverage Medicaid provides.
+- 2008-03-13 — Amendment SA 4334 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4334 proposed by Senator Conrad for Senator Smith. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079) To increase the funding levels for programs carried out under the Older Americans Act of 1965 by $184,000,000 to keep pace with inflation and increasing numbers of older Americans, and comply with minimum wage requirements for the programs.
+- 2008-03-13 — Amendment SA 4335 not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 71.
+- 2008-03-13 — Amendment SA 4335 proposed by Senator Ensign. (consideration: CR S2070-2071; text: CR S2070) To increase funding for the Department of Justice for the vigorous enforcement of a prohibition against taking minors across State lines in circumvention of laws requiring the involvement of parents in abortion decisions consistent with the Child Custody Protection Act, which passed the Senate by a bipartisan vote of 65-34, with an offset.
+- 2008-03-13 — Amendment SA 4339 proposed by Senator DeMint. (consideration: CR 3/14/2008 S2080-2081 text: CR 3/14/2008 S2080-2081) To provide for a deficit-neutral reserve fund for providing an above the line Federal income tax deduction for individuals purchasing health insurance outside the workplace.
+- 2008-03-13 — Amendment SA 4340 proposed by Senator DeMint. (consideration: CR  3/14/2008 S2071; text: CR 3/14/2008 S2071) To create a point of order against bills that would raise gasoline prices.
+- 2008-03-13 — Amendment SA 4340 ruled out of order by the chair.
+- 2008-03-13 — Amendment SA 4345 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4345 proposed by Senator Conrad for Senator DeMint. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080) To provide for a deficit-neutral reserve fund for education reform.
+- 2008-03-13 — Amendment SA 4347 proposed by Senator DeMint. (consideration: CR 3/14/2008 S2074-2075; text: CR 3/14/2008 S2074) To establish an earmark moratorium for fiscal year 2009.
+- 2008-03-13 — Amendment SA 4347 ruled out of order by the chair.
+- 2008-03-13 — Amendment SA 4348 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 74.
+- 2008-03-13 — Amendment SA 4348 proposed by Senator Kyl. (consideration: CR 3/14/2008 S2072-2073; text: CR 3/14/2008 S2073) To provide certainty to taxpayers by extending expiring tax provisions such as the R&D Tax Credit that helps US companies innovate, combat pay exclusion for our soldiers in the field, the education deduction to make colleges more affordable and the alternative energy incentives to make the environment cleaner through the end of 2009.
+- 2008-03-13 — Amendment SA 4349 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4349 proposed by Senator Conrad for Senator Dole. (consideration: CR S2064-2067; text: CR S2065) To provide the Secretary of Agriculture with the necessary funding to effectively address the critical community facility infrastructure needs of our rural areas across the United States.
+- 2008-03-13 — Amendment SA 4350 agreed to in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 57.
+- 2008-03-13 — Amendment SA 4350 proposed by Senator Kennedy. (consideration: CR S2050-2051; text: CR S2050) To increase funding for the Department of Education's English Literacy-Civics Education State Grant program, with an offset.
+- 2008-03-13 — Amendment SA 4352 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4352 proposed by Senator Conrad for Senator Casey. (consideration: S2064-2067; text: CR S2067) To add a deficit-neutral reserve fund for the protection and safety of the Nation's food supply.
+- 2008-03-13 — Amendment SA 4357 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4357 proposed by Senator Conrad for Senator Gregg. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079) Point of order against using new reconciliation to create new mandatory programs and 20% limit on new direct spending in reconciliation legislation.
+- 2008-03-13 — Amendment SA 4361 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4361 proposed by Senator Conrad for Senator Clinton. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079) To increase funding for the Department of Agriculture by $1,000,000 in fiscal year 2009 to provide public access to information about the sources of foods distributed through the school lunch program and other nutrition programs under the jurisdiction of the Secretary of Agriculture.
+- 2008-03-13 — Amendment SA 4364 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4364 proposed by Senator Conrad for Senator Smith. (consideration: CR S2064-2067, CR 3/14/2008 S2069; text: CR 3/14/2008 S2069) To provide a deficit-neutral reserve fund to provide for a demonstration project regarding Medicaid coverage of low-income HIV-infected individuals.
+- 2008-03-13 — Amendment SA 4368 as modified agreed to in Senate by Yea-Nay Vote. 90 - 5. Record Vote Number: 70. (text as modified: CR 3/14/2008 S2069)
+- 2008-03-13 — Amendment SA 4368 proposed by Senator Boxer. (consideration: CR 3/14/2008 S2069-2070) To increase funding for the Department of Justice for the vigorous enforcement of laws protecting children.
+- 2008-03-13 — Amendment SA 4370 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Amendment SA 4370 proposed by Senator Conrad for Senator Bingaman. (consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079) To provide for a deficit-neutral reserve fund to make improvements to ensure access to the Medicare program for low-income senior citizens and other low-income Medicare beneficiaries.
+- 2008-03-13 — Amendment SA 4372 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 77.
+- 2008-03-13 — Amendment SA 4372 proposed by Senator Kyl. (consideration: CR 3/14/2008 S2076-2077; text: CR 3/14/2008 S2076) To protect small businesses, family ranches and farms from the Death Tax by providing a $5 million exemption, a low rate for smaller estates and a maximum rate no higher than 35%.
+- 2008-03-13 — Amendment SA 4373 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Amendment SA 4373 proposed by Senator Reid. (consideration: CR S2063; text: CR S2063) To establish a reserve fund for studying the effect of cooperation with local law enforcement.
+- 2008-03-13 — Amendment SA 4376 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR 3/14/2008 S2079)
+- 2008-03-13 — Amendment SA 4376 proposed by Senator Conrad for Senator Snowe. (consideration: CR 3/14/2008 S2078-2080) To provide the use of the deficit-neutral reserve fund for tax relief for cafeteria plans.
+- 2008-03-13 — Amendment SA 4378 not agreed to in Senate by Yea-Nay Vote. 23 - 77. Record Vote Number: 76.
+- 2008-03-13 — Amendment SA 4378 proposed by Senator Landrieu. (consideration: CR 3/14/2008 S2075-2076; text: CR 3/14/2008 S2075) To protect family businesses and farmers without increasing our nation's debt by providing for an estate tax that sets the exemption at $5 million and the rate at 35 percent, with the benefits of the exemption recaptured for estates over $100 million, paid for by closing tax loopholes that allow offshore deferral of compensation and transactions entered into solely for the purpose of avoiding taxation.
+- 2008-03-13 — Amendment SA 4380 proposed by Senator DeMint. (consideration: CR 3/14/2008 S2081-2082; text: CR 3/14/2008 S2081) To provide for a deficit-neutral reserve fund for transferring funding for Berkeley, CA earmarks to the Marine Corps.
+- 2008-03-13 — Considered by Senate. (consideration: CR S2036, S2040-2041)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2036-2037, S2041-2042)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2036-2067, CR 3/14/2008 S2069-2118)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2042)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2042)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2042-2043)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2044)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2044-2045)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2045-2046)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2046-2047)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2046; text as modified: CR S2046)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2047)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2048-2049; text as modified: CR S2046)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2049)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2049-2050)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2050)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2051)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2052)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2052-2054)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2053)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2054)
+- 2008-03-13 — Considered by Senate. (consideration: CR S2037, S2054)
+- 2008-03-13 — Motion to reconsider the vote by which amendment SA 4189 was not agreed to (Record Vote Number 45) agreed to by Yea-Nay Vote. 51 - 50. Record Vote Number: 47.
+- 2008-03-13 — Motion to table amendment SA 4309 agreed to in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 69.
+- 2008-03-13 — Motion to table the motion to reconsider the vote by which amendment SA 4189 was not agreed to (Record Vote Number 45) not agreed to by Yea-Nay Vote. 49 - 51. Record Vote Number: 46.
+- 2008-03-13 — Motion to waive the Budget Act with respect to amendment SA 4242 rejected in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 61.
+- 2008-03-13 — Motion to waive the Budget Act with respect to amendment SA 4313 rejected in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 73.
+- 2008-03-13 — Motion to waive the Budget Act with respect to amendment SA 4340 rejected in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 72.
+- 2008-03-13 — Motion to waive the Budget Act with respect to amendment SA 4347 rejected in Senate by Yea-Nay Vote. 29 - 71. Record Vote Number: 75.
+- 2008-03-13 — Point of order raised in Senate with respect to amendment SA 4242.
+- 2008-03-13 — Point of order raised in Senate with respect to amendment SA 4313.
+- 2008-03-13 — Point of order raised in Senate with respect to amendment SA 4340.
+- 2008-03-13 — Point of order raised in Senate with respect to amendment SA 4347.
+- 2008-03-13 — Proposed amendment SA 4239 withdrawn in Senate.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4160 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 42.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4170 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 43.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4189 (upon reconsideration) not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 48.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4189 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 45.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4190 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 44.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4191 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 50.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4192 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 52.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4196 not agreed to in Senate by Yea-Nay Vote. 38 - 62. Record Vote Number: 49.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4197 agreed to in Senate by Yea-Nay Vote. 89 - 7. Record Vote Number: 68.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4198 agreed to in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 54.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4203 agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 53.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4204 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 51.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4207 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 56.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4218 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 64.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4222 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 58.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4231 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 60.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4232 not agreed to in Senate by Yea-Nay Vote. 29 - 68. Record Vote Number: 66.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4240 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 63.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4246 not agreed to in Senate by Yea-Nay Vote. 0 - 97. Record Vote Number: 62.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4259 agreed to in Senate by Yea-Nay. 53 - 45. Record Vote Number: 59.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4276 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 78.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4284 agreed to in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 67.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4328 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 65.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4329 agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 55.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4335 not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 71.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4348 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 74.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4350 agreed to in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 57.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4368 as modified agreed to in Senate by Yea-Nay Vote. 90 - 5. Record Vote Number: 70.(text as modified: CR 3/14/2008 S2069)
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4372 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 77.
+- 2008-03-13 — Roll call votes on amendments in Senate: Amendment SA 4378 not agreed to in Senate by Yea-Nay Vote. 23 - 77. Record Vote Number: 76.
+- 2008-03-13 — Roll call votes on amendments in Senate: Motion to reconsider the vote by which amendment SA 4189 was not agreed to (Record Vote Number 45) agreed to by Yea-Nay Vote. 51 - 50. Record Vote Number: 47.
+- 2008-03-13 — Roll call votes on amendments in Senate: Motion to table amendment SA 4309 agreed to in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 69.
+- 2008-03-13 — Roll call votes on amendments in Senate: Motion to table the motion to reconsider the vote by which amendment SA 4189 was not agreed to (Record Vote Number 45) not agreed to by Yea-Nay Vote. 49 - 51. Record Vote Number: 46.
+- 2008-03-13 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 4242 rejected in Senate by Yea-Nay Vote. 58 - 40. Record Vote Number: 61.
+- 2008-03-13 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 4313 rejected in Senate by Yea-Nay Vote. 27 - 71. Record Vote Number: 73.
+- 2008-03-13 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 4340 rejected in Senate by Yea-Nay Vote. 39 - 59. Record Vote Number: 72.
+- 2008-03-13 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 4347 rejected in Senate by Yea-Nay Vote. 29 - 71. Record Vote Number: 75.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4148 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4151 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4153 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4154 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2057)
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4155 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4159 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4160 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 42.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4162 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4164 as modified agreed to in Senate by Voice Vote.(text as modified: CR S2057)
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4166 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4172 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4173 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4176 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4181 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4183 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4186 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4190 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 44.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4194 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4195 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4197 agreed to in Senate by Yea-Nay Vote. 89 - 7. Record Vote Number: 68.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4198 agreed to in Senate by Yea-Nay Vote. 69 - 30. Record Vote Number: 54.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4199 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4200 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4203 agreed to in Senate by Yea-Nay Vote. 95 - 4. Record Vote Number: 53.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4204 agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 51.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4208 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4210 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4211 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4212 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4214 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4215 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4219 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4220 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4221 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4222 agreed to in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 58.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4225 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4227 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4229 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4230 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4231 agreed to in Senate by Yea-Nay Vote. 61 - 37. Record Vote Number: 60.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4243 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4244 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4248 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4249 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4252 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4253 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4254 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4255 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4259 agreed to in Senate by Yea-Nay. 53 - 45. Record Vote Number: 59.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4261 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4264 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4268 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR 3/14/2008 S2078)
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4269 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4283 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4284 agreed to in Senate by Yea-Nay Vote. 49 - 48. Record Vote Number: 67.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4285 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4286 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4287 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4297 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4311 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4329 agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 55.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4330 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4332 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4333 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4334 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4345 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4349 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4350 agreed to in Senate by Yea-Nay Vote. 95 - 2. Record Vote Number: 57.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4352 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4357 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4361 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4364 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4368 as modified agreed to in Senate by Yea-Nay Vote. 90 - 5. Record Vote Number: 70.(text as modified: CR 3/14/2008 S2069)
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4370 agreed to in Senate by Unanimous Consent.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4373 agreed to in Senate by Voice Vote.
+- 2008-03-13 — Senate amendment agreed to: Amendment SA 4376 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4170 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 43.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4189 (upon reconsideration) not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 48.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4189 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 45.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4191 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 50.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4192 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 52.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4196 not agreed to in Senate by Yea-Nay Vote. 38 - 62. Record Vote Number: 49.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4207 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 56.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4218 not agreed to in Senate by Yea-Nay Vote. 43 - 55. Record Vote Number: 64.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4232 not agreed to in Senate by Yea-Nay Vote. 29 - 68. Record Vote Number: 66.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4240 not agreed to in Senate by Yea-Nay Vote. 42 - 56. Record Vote Number: 63.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4246 not agreed to in Senate by Yea-Nay Vote. 0 - 97. Record Vote Number: 62.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4276 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 78.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4328 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 65.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4335 not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 71.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4348 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 74.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4372 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 77.
+- 2008-03-13 — Senate amendment not agreed to: Amendment SA 4378 not agreed to in Senate by Yea-Nay Vote. 23 - 77. Record Vote Number: 76.
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4148 proposed by Senator Conrad for Senator Kennedy.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4153 proposed by Senator Conrad for Senator Burr.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4154 proposed by Senator Reed.(consideration: CR S2057; text: CR S2057)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4155 proposed by Senator Brown.(consideration: CR S2060; text: CR S2060)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4159 proposed by Senator Conrad for Senator Allard.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4162 proposed by Senator Conrad for Senator Reid.(consideration: CR S2064-2067; text: CR S2067)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4164 proposed by Senator Biden.(consideration: CR S2057)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4166 proposed by Senator Conrad for Senator Biden.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4172 proposed by Senator Conrad for Senator Casey.(consideration: CR S2064-2067; text: CR S2067)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4176 proposed by Senator Conrad for Senator Carper.(consideration: CR S2064-2067; text: CR S2067)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4183 proposed by Senator Conrad for Senator Pryor.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4186 proposed by Senator Conrad for Senator Bunning.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2078-2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4195 proposed by Senator Conrad for Senator Lincoln.(consideration: CR 3/14/2008 S2064-2069; text: CR 3/14/2008 S2069)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4197 proposed by Senator Kohl.(consideration: CR S2061-2062; text: CR S2061)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4199 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4200 proposed by Senator Conrad for Senator Dorgan.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4208 proposed by Senator Dole.(consideration: CR S2058-2059; text: CR S2058)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4210 proposed by Senator Conrad for Senator Lautenberg.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4211 proposed by Senator Conrad for Senator Lieberman.(consideration: CR S2066-2067; text: CR S2066-2067)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4212 proposed by Senator Nelson NE.(consideration: CR S2054-2055; text: CR S2055)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4214 proposed by Senator Conrad for Senator Enzi.(consideration: CR S2064-2067; text: CR S2064)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4215 proposed by Senator Conrad for Senator Enzi.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4218 proposed by Senator Sanders.(consideration: CR S2055-2056; text: CR S2056)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4219 proposed by Senator Conrad for Senator Stabenow.(consideration: CR S2064-2067; text: CR S2067)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4220 proposed by Senator Conrad for Senator Cardin.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4225 proposed by Senator Conrad for Senator Feinstein.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4227 proposed by Senator Conrad for Senator Clinton.(consideration: CR S2064-2067; text: CR S2067)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4229 proposed by Senator Conrad for Senator Martinez.(consideration: CR S2064-2067; text: CR S2064-2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4230 proposed by Senator Conrad for Senator Chambliss.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2078)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4232 proposed by Senator DeMint for Senator Allard.(consideration: CR S2059-2060; text: CR S2059)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4239 proposed by Senator Inhofe.(consideration: CR S2062; text: CR S2062)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4240 proposed by Senator Ensign.(consideration: CR S2055; text: CR S2055)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4243 proposed by Senator Conrad for Senator Vitter.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4244 proposed by Senator Conrad for Senator Roberts.(consideration: CR S2064-2067; text: CR S2064)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4245 proposed by Senator Biden.(consideration: CR 3/14/2008 S2086; text: CR 3/14/2008 S2086)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4248 proposed by Senator Conrad for Senator Barrasso.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4249 proposed by Senator Conrad for Senator Dorgan.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4252 proposed by Senator Conrad for Senator Brown.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2078)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4253 proposed by Senator Conrad for Senator Dodd.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4254 proposed by Senator Dodd.(consideration: CR S2059; text: CR S2059)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4255 proposed by Senator Conrad for Senator Kohl.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4261 proposed by Senator Conrad for Senator Grassley.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4264 proposed by Senator Conrad for Senator Coleman.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4268 proposed by Senator Conrad for Senator Thune.(consideration: CR 3/14/2008 S2078-2080)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4269 proposed by Senator Conrad for Senator Thune.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4276 proposed by Senator Grassley.(consideration: CR 3/14/2008 S2077-2078; text as modified: CR 3/14/2008 S2077)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4283 proposed by Senator Conrad for Senator Hatch.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4284 proposed by Senator Brownback.(consideration: CR S2060-2061; text: CR S2060)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4285 proposed by Senator Conrad for Senator Nelson FL.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4286 proposed by Senator Conrad for Senator Klobuchar.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4287 proposed by Senator Conrad for Senator Klobuchar.(consideration: CR S2064-2067; text: CR S2066)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4297 proposed by Senator Conrad for Senator Hatch.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4309 proposed by Senator Vitter.(consideration: CR S2063-2064; text: CR S2063)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4311 proposed by Senator Conrad for Senator Alexander.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4313 proposed by Senator Cornyn.(consideration: CR 3/14/2008 S2071-2072; text: CR 3/14/2008 S2072)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4328 proposed by Senator DeMint.(consideration: CR S2057-2058; text: CR S2057)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4329 proposed by Senator Nelson FL.(consideration: CR S2047-2048; text: CR S2048)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4330 proposed by Senator Conrad for Senator Obama.(consideration: CR S2078-2080; text: CR S2078)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4332 proposed by Senator Kerry.(consideration: CR S2050; text: CR S2050)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4333 proposed by Senator Conrad for Senator Baucus.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079-2080)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4334 proposed by Senator Conrad for Senator Smith.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4335 proposed by Senator Ensign.(consideration: CR S2070-2071; text: CR S2070)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4339 proposed by Senator DeMint.(consideration: CR 3/14/2008 S2080-2081 text: CR 3/14/2008 S2080-2081)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4340 proposed by Senator DeMint.(consideration: CR  3/14/2008 S2071; text: CR 3/14/2008 S2071)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4345 proposed by Senator Conrad for Senator DeMint.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2080)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4347 proposed by Senator DeMint.(consideration: CR 3/14/2008 S2074-2075; text: CR 3/14/2008 S2074)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4348 proposed by Senator Kyl.(consideration: CR 3/14/2008 S2072-2073; text: CR 3/14/2008 S2073)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4349 proposed by Senator Conrad for Senator Dole.(consideration: CR S2064-2067; text: CR S2065)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4350 proposed by Senator Kennedy.(consideration: CR S2050-2051; text: CR S2050)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4352 proposed by Senator Conrad for Senator Casey.(consideration: S2064-2067; text: CR S2067)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4357 proposed by Senator Conrad for Senator Gregg.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4361 proposed by Senator Conrad for Senator Clinton.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4364 proposed by Senator Conrad for Senator Smith.(consideration: CR S2064-2067, CR 3/14/2008 S2069; text: CR 3/14/2008 S2069)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4368 proposed by Senator Boxer.(consideration: CR 3/14/2008 S2069-2070)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4370 proposed by Senator Conrad for Senator Bingaman.(consideration: CR 3/14/2008 S2078-2080; text: CR 3/14/2008 S2079)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4372 proposed by Senator Kyl.(consideration: CR 3/14/2008 S2076-2077; text: CR 3/14/2008 S2076)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4373 proposed by Senator Reid.(consideration: CR S2063; text: CR S2063)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4376 proposed by Senator Conrad for Senator Snowe.(consideration: CR 3/14/2008 S2078-2080)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4378 proposed by Senator Landrieu.(consideration: CR 3/14/2008 S2075-2076; text: CR 3/14/2008 S2075)
+- 2008-03-13 — Senate amendment proposed (on the floor): Amendment SA 4380 proposed by Senator DeMint.(consideration: CR 3/14/2008 S2081-2082; text: CR 3/14/2008 S2081)
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-13 — Senate amendment submitted
+- 2008-03-14 — Amendment SA 4206 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Amendment SA 4206 proposed by Senator Conrad for Senator Barrasso. (consideration: CR  S2087; text: CR S2087) To provide funding to enable certain individuals and entities to comply with the Endangered Species Act of 1973.
+- 2008-03-14 — Amendment SA 4209 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2084)
+- 2008-03-14 — Amendment SA 4209 proposed by Senator Conrad for Senator Collins. (consideration: CR S2083-2084) To provide for renewable energy and energy efficiency tax credits with offsets.
+- 2008-03-14 — Amendment SA 4233 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 81.
+- 2008-03-14 — Amendment SA 4233 proposed by Senator Allard. (consideration: CR S2083; text: CR S2083) To require that legislation to reauthorize SCHIP include provisions codifying the unborn child regulation.
+- 2008-03-14 — Amendment SA 4245 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 83.
+- 2008-03-14 — Amendment SA 4270 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2083)
+- 2008-03-14 — Amendment SA 4270 proposed by Senator Conrad for Senator Leahy. (consideration: CR S2083-2084) To add a deficit-neutral reserve fund for legislation that improves the participation of naturalized citizens in the United States political process, strengthens national security by improving and expediting FBI security name checks, and reduces the backlog of naturalization applications for individuals seeking to become naturalized citizens.
+- 2008-03-14 — Amendment SA 4299 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 84.
+- 2008-03-14 — Amendment SA 4299 proposed by Senator Vitter. (consideration: CR S2086-2087; text: S2086-2087) Expressing the sense of the Senate regarding the need for comprehensive legislation to legalize the importation of prescription drugs from highly industrialized countries with safe pharmaceutical infrastructures.
+- 2008-03-14 — Amendment SA 4300 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Amendment SA 4300 proposed by Senator Conrad for Senator Clinton. To provide for a reserve fund for legislation to establish a program, including medical monitoring and treatment, addressing the adverse health impacts linked to the September 11, 2001, attacks.
+- 2008-03-14 — Amendment SA 4302 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Amendment SA 4302 proposed by Senator Conrad for Senator Gregg. (consideration: CR S2083-2084; text: CR S2083) To provide for a reserve fund for legislation to provide access, coverage, and choice for every American to quality and affordable care.
+- 2008-03-14 — Amendment SA 4307 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Amendment SA 4307 proposed by Senator Conrad for Senator Bunning. (consideration: CR S2083-2084; text: CR S2084) To permanently extend the adoption tax credit and the exclusion for adoption assistance programs included in the Economic Growth and Tax Relief Reconciliation Act of 2001.
+- 2008-03-14 — Amendment SA 4331 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Amendment SA 4331 proposed by Senator Conrad for Senator Baucus. (consideration: CR S2083-2084; text: CR S2083) To add a deficit-neutral reserve fund to ban abusive and inappropriate sales and marketing tactics used by private insurers offering Medicare Advantage and prescription drug plans.
+- 2008-03-14 — Amendment SA 4339 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 82.
+- 2008-03-14 — Amendment SA 4371 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Amendment SA 4371 proposed by Senator Conrad for Senator Graham. (consideration: CR S2083-2084; text: CR S2084) To express the Sense of the Senate regarding a Balanced Budget Amendment to the Constitution of the United States.
+- 2008-03-14 — Amendment SA 4375 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Amendment SA 4375 proposed by Senator Conrad for Senator Specter. (consideration: CR S2083-2084; text: CR S2084) To express the Sense of the Senate regarding Philadelphia Housing Authority's "Moving to Work Agreement" with the U.S. Department of Housing and Urban Development.
+- 2008-03-14 — Amendment SA 4379 agreed to in Senate by Yea-Nay Vote. 70 - 27. Record Vote Number: 80.
+- 2008-03-14 — Amendment SA 4379 proposed by Senator Boxer. (consideration: CR S2082-2083; text: CR S2082) To facilitate coverage of pregnant women in SCHIP.
+- 2008-03-14 — Amendment SA 4380 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 79.
+- 2008-03-14 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments by Yea-Nay Vote. 51 - 44. Record Vote Number: 85.(text: CR 3/31/2008 S2238-2250)
+- 2008-03-14 — Resolution agreed to in Senate with amendments by Yea-Nay Vote. 51 - 44. Record Vote Number: 85. (text: CR 3/31/2008 S2238-2250)
+- 2008-03-14 — Roll call votes on amendments in Senate: Amendment SA 4233 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 81.
+- 2008-03-14 — Roll call votes on amendments in Senate: Amendment SA 4245 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 83.
+- 2008-03-14 — Roll call votes on amendments in Senate: Amendment SA 4299 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 84.
+- 2008-03-14 — Roll call votes on amendments in Senate: Amendment SA 4339 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 82.
+- 2008-03-14 — Roll call votes on amendments in Senate: Amendment SA 4379 agreed to in Senate by Yea-Nay Vote. 70 - 27. Record Vote Number: 80.
+- 2008-03-14 — Roll call votes on amendments in Senate: Amendment SA 4380 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 79.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4206 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4209 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2084)
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4245 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 83.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4270 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2083)
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4299 agreed to in Senate by Yea-Nay Vote. 73 - 23. Record Vote Number: 84.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4300 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4302 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4307 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4331 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4371 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4375 agreed to in Senate by Unanimous Consent.
+- 2008-03-14 — Senate amendment agreed to: Amendment SA 4379 agreed to in Senate by Yea-Nay Vote. 70 - 27. Record Vote Number: 80.
+- 2008-03-14 — Senate amendment not agreed to: Amendment SA 4233 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 81.
+- 2008-03-14 — Senate amendment not agreed to: Amendment SA 4339 not agreed to in Senate by Yea-Nay Vote. 45 - 51. Record Vote Number: 82.
+- 2008-03-14 — Senate amendment not agreed to: Amendment SA 4380 not agreed to in Senate by Yea-Nay Vote. 41 - 57. Record Vote Number: 79.
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4206 proposed by Senator Conrad for Senator Barrasso.(consideration: CR  S2087; text: CR S2087)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4209 proposed by Senator Conrad for Senator Collins.(consideration: CR S2083-2084)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4233 proposed by Senator Allard.(consideration: CR S2083; text: CR S2083)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4270 proposed by Senator Conrad for Senator Leahy.(consideration: CR S2083-2084)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4299 proposed by Senator Vitter.(consideration: CR S2086-2087; text: S2086-2087)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4300 proposed by Senator Conrad for Senator Clinton.
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4302 proposed by Senator Conrad for Senator Gregg.(consideration: CR S2083-2084; text: CR S2083)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4307 proposed by Senator Conrad for Senator Bunning.(consideration: CR S2083-2084; text: CR S2084)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4331 proposed by Senator Conrad for Senator Baucus.(consideration: CR S2083-2084; text: CR S2083)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4371 proposed by Senator Conrad for Senator Graham.(consideration: CR S2083-2084; text: CR S2084)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4375 proposed by Senator Conrad for Senator Specter.(consideration: CR S2083-2084; text: CR S2084)
+- 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4379 proposed by Senator Boxer.(consideration: CR S2082-2083; text: CR S2082)
