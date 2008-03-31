@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5551
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5551
@@ -30,3 +30,10 @@ To amend title 11, District of Columbia Official Code, to implement the increase
 - 2008-03-06 — Introduced in House
 - 2008-03-06 — Referred to the House Committee on Oversight and Government Reform.
 - 2008-03-06 — Sponsor introductory remarks on measure. (CR E320)
+- 2008-03-10 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported by Voice Vote.
+- 2008-03-13 — Subcommittee on Federal Workforce, Post Office, and the District of Columbia Discharged.
+- 2008-03-31 — Placed on the Union Calendar, Calendar No. 343.
+- 2008-03-31 — Reported by the Committee on Oversight and Government. H. Rept. 110-560.
+- 2008-03-31 — Reported by the Committee on Oversight and Government. H. Rept. 110-560.

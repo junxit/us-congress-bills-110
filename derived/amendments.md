@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5551
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 18 U.S.C. § 3006A
 
-> Section 11—2604(a), District of Columbia Official Code, is amended by striking “$65 per hour” and inserting “$80 per hour”.
+> Section 11–2604(a), District of Columbia Official Code, is amended by striking “$65 per hour” and inserting “$80 per hour”.
 
 | | |
 |---|---|
@@ -42,4 +42,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `18 U.S.C. § 3006A` | amend | Section 11—2604(b), District of Columbia Official Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 3006A` | amend | Section 11–2604(b), District of Columbia Official Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
