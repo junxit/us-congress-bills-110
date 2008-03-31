@@ -51,7 +51,7 @@ This Act may be cited as the “Captive Wildlife Safety Technical Amendments Act
   - **(1)** in paragraph (1), by striking “subsections (b) and (d)” and inserting “subsections (b), (d), and (e)”; and
   - **(2)** in paragraph (1), by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”.
 - **(c)** *Criminal Penalties* Section 4(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3373(d)) is amended—
-  - **(1)** in paragraphs (1)(A) and (1)(B) and in the first sentence of paragraph (2), by striking “subsections (b) and (d)” each place it appears and inserting “subsections (b), (d), and (e) of section 3”; and
+  - **(1)** in paragraphs (1)(A) and (1)(B) and in the first sentence of paragraph (2), by striking “subsections (b) and (d)” each place it appears and inserting “subsections (b), (d), and (e)”; and
   - **(2)** in paragraph (3), by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”.
 - **(d)** *Correction of prior amendment*
   - **(1)** *Correction* Section 102(c) of Public Law 100–653 (102 Stat. 3826) is amended by striking “section 3(b)” and inserting “subsection 3(b)”.
