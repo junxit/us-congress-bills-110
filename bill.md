@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Fish and Wildlife Foundation Establishment Act Amendment of 2008”.
+This Act may be cited as the “National Fish and Wildlife Foundation Establishment Act Amendment of 2007”.
 
 ## § 2. Board of directors of the foundation
 
