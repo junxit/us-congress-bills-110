@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3352
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hydrographic Services Improvement Act Amendments of 2007”.
+This Act may be cited as the “Hydrographic Services Improvement Act Amendments of 2008”.
 
 ## § 2. Definitions
 
@@ -20,7 +20,7 @@ Section 302 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892)
 - **(1)** by amending paragraph (3) to read as follows:
   > - **(3)** *Hydrographic data* The term “hydrographic data” means information that—
   >   - **(A)** is acquired through—
-  >     - **(i)** hydrographic, bathymetric, or shoreline surveying;
+  >     - **(i)** hydrographic, bathymetric, photogrammetric, lidar, radar, remote sensing, or shoreline and other ocean- and coastal-related surveying;
   >     - **(ii)** geodetic, geospatial, or geomagnetic measurements;
   >     - **(iii)** tide, water level, and current observations; or
   >     - **(iv)** other methods; and
@@ -49,7 +49,7 @@ Section 303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892a
   > - **(c)** *Acquisition of hydrographic data and provide hydrographic services* To the extent that it does not detract from the promotion of safe and efficient navigation, the Administrator may acquire hydrographic data and provide hydrographic services to—
   >   - **(1)** support the conservation and management of coastal and ocean resources;
   >   - **(2)** save and protect life and property;
-  >   - **(3)** support the resumption of commerce in response to emergencies, natural disasters, and man-made disasters, and
+  >   - **(3)** support the resumption of commerce in response to emergencies, natural disasters, and man-made disasters; and
   >   - **(4)** meet homeland security and maritime domain awareness needs, including carrying out mission assignments (as that term is defined in section 641 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 741).
 
 ## § 4. Hydrographic services review panel
@@ -70,36 +70,31 @@ Section 306 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892d
 > There are authorized to be appropriated to the Administrator the following:
 >
 > - **(1)** To carry out nautical mapping and charting functions under sections 303 and 304, except for conducting hydrographic surveys—
->   - **(A)** $54,000,000 for fiscal year 2008;
->   - **(B)** $55,000,000 for fiscal year 2009;
->   - **(C)** $56,000,000 for fiscal year 2010;
->   - **(D)** $57,000,000 for fiscal year 2011; and
->   - **(E)** $58,000,000 for fiscal year 2012.
+>   - **(A)** $55,000,000 for fiscal year 2009;
+>   - **(B)** $56,000,000 for fiscal year 2010;
+>   - **(C)** $57,000,000 for fiscal year 2011; and
+>   - **(D)** $58,000,000 for fiscal year 2012.
 > - **(2)** To contract for hydrographic surveys under section 303(b)(1), including the leasing or time chartering of vessels—
->   - **(A)** $31,500,000 for fiscal year 2008;
->   - **(B)** $32,130,000 for fiscal year 2009;
->   - **(C)** $32,760,000 for fiscal year 2010;
->   - **(D)** $33,390,000 for fiscal year 2011; and
->   - **(E)** $34,020,000 for fiscal year 2012.
+>   - **(A)** $32,130,000 for fiscal year 2009;
+>   - **(B)** $32,760,000 for fiscal year 2010;
+>   - **(C)** $33,390,000 for fiscal year 2011; and
+>   - **(D)** $34,020,000 for fiscal year 2012.
 > - **(3)** To operate hydrographic survey vessels owned by the United States and operated by the Administration—
->   - **(A)** $25,400,000 for fiscal year 2008;
->   - **(B)** $25,900,000 for fiscal year 2009;
->   - **(C)** $26,400,000 for fiscal year 2010;
->   - **(D)** $26,900,000 for fiscal year 2011; and
->   - **(E)** $27,400,000 for fiscal year 2012.
+>   - **(A)** $25,900,000 for fiscal year 2009;
+>   - **(B)** $26,400,000 for fiscal year 2010;
+>   - **(C)** $26,900,000 for fiscal year 2011; and
+>   - **(D)** $27,400,000 for fiscal year 2012.
 > - **(4)** To carry out geodetic functions under this title—
->   - **(A)** $32,000,000 for fiscal year 2008;
->   - **(B)** $32,640,000 for fiscal year 2009;
->   - **(C)** $32,280,000 for fiscal year 2010;
->   - **(D)** $33,920,000 for fiscal year 2011; and
->   - **(E)** $34,560,000 for fiscal year 2012.
+>   - **(A)** $32,640,000 for fiscal year 2009;
+>   - **(B)** $32,280,000 for fiscal year 2010;
+>   - **(C)** $33,920,000 for fiscal year 2011; and
+>   - **(D)** $34,560,000 for fiscal year 2012.
 > - **(5)** To carry out tide and current measurement functions under this title—
->   - **(A)** $26,500,000 for fiscal year 2008;
->   - **(B)** $27,000,000 for fiscal year 2009;
->   - **(C)** $27,500,000 for fiscal year 2010;
->   - **(D)** $28,000,000 for fiscal year 2011; and
->   - **(E)** $28,500,000 for fiscal year 2012.
-> - **(6)** To acquire a hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
+>   - **(A)** $27,000,000 for fiscal year 2009;
+>   - **(B)** $27,500,000 for fiscal year 2010;
+>   - **(C)** $28,000,000 for fiscal year 2011; and
+>   - **(D)** $28,500,000 for fiscal year 2012.
+> - **(6)** To acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
 
 ## § 6. Addition of short title to existing law
 
