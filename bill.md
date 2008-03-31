@@ -40,7 +40,7 @@ Section 303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892a
   - **(B)** in paragraph (1) by striking “data;” and inserting “data and provide hydrographic services;”;
 - **(2)** in subsection (b)—
   - **(A)** by striking “the Act of 1947,” and inserting “the Coast and Geodetic Survey Act (33 U.S.C. 883a et seq.)”;
-  - **(B)** in paragraph (3) by striking “title IX of the Federal Property and Administrative Services Act of 1949; and” and inserting “subchapter VI of chapter 10 of title 40, United States Code;”;
+  - **(B)** in paragraph (3) by striking “title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.); and” and inserting “subchapter VI of chapter 10 of title 40, United States Code;”;
   - **(C)** in paragraph (4) by striking the period and inserting “; and”; and
   - **(D)** by adding at the end the following:
     > - **(5)** may create, support, and maintain a Joint Hydrographic Institute.
@@ -49,7 +49,7 @@ Section 303 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892a
   > - **(c)** *Acquisition of hydrographic data and provide hydrographic services* To the extent that it does not detract from the promotion of safe and efficient navigation, the Administrator may acquire hydrographic data and provide hydrographic services to—
   >   - **(1)** support the conservation and management of coastal and ocean resources;
   >   - **(2)** save and protect life and property;
-  >   - **(3)** support the resumption of commerce in response to emergencies, natural disasters, and man-made disasters; and
+  >   - **(3)** support the resumption of commerce in response to emergencies, natural disasters, and man-made disasters, and
   >   - **(4)** meet homeland security and maritime domain awareness needs, including carrying out mission assignments (as that term is defined in section 641 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 741).
 
 ## § 4. Hydrographic services review panel
@@ -94,7 +94,7 @@ Section 306 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892d
 >   - **(B)** $27,500,000 for fiscal year 2010;
 >   - **(C)** $28,000,000 for fiscal year 2011; and
 >   - **(D)** $28,500,000 for fiscal year 2012.
-> - **(6)** To acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
+> - **(6)** To acquire a hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
 
 ## § 6. Addition of short title to existing law
 
