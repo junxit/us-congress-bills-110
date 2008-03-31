@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3891
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Fish and Wildlife Foundation Establishment Act Amendment of 2007”.
+This Act may be cited as the “National Fish and Wildlife Foundation Establishment Act Amendment of 2008”.
 
 ## § 2. Board of directors of the foundation
 
