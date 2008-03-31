@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3352
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 33 U.S.C. § 883a
+### 33 U.S.C. § 892a
 
 > by striking “the Act of 1947,” and inserting “the Coast and Geodetic Survey Act (33 U.S.C. 883a et seq.)”; and
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `the Act of 1947,` |
 | Inserted | `the Coast and Geodetic Survey Act (33 U.S.C. 883a et seq.)` |
 
-### 33 U.S.C. § 883a
+### 33 U.S.C. § 892a
 
 > in paragraph (1) by striking “data;” and inserting “data and provide hydrographic services;”;
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `data;` |
 | Inserted | `data and provide hydrographic services;` |
 
-### 33 U.S.C. § 883a
+### 40 U.S.C. § 541
 
 > by striking “the Act of 1947,” and inserting “the Coast and Geodetic Survey Act (33 U.S.C. 883a et seq.)”;
 
@@ -51,13 +51,13 @@ to guess them.
 | Removed | `the Act of 1947,` |
 | Inserted | `the Coast and Geodetic Survey Act (33 U.S.C. 883a et seq.)` |
 
-### 33 U.S.C. § 883a
+### 40 U.S.C. § 541
 
-> in paragraph (3) by striking “title IX of the Federal Property and Administrative Services Act of 1949; and” and inserting “subchapter VI of chapter 10 of title 40, United States Code;”;
+> in paragraph (3) by striking “title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.); and” and inserting “subchapter VI of chapter 10 of title 40, United States Code;”;
 
 | | |
 |---|---|
-| Removed | `title IX of the Federal Property and Administrative Services Act of 1949; and` |
+| Removed | `title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.); and` |
 | Inserted | `subchapter VI of chapter 10 of title 40, United States Code;` |
 
 ### 33 U.S.C. § 892c
@@ -90,8 +90,8 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 892` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 892` | amend | by amending paragraph (4)(A) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 892` | strike | by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 883a` | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 883a` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 541` | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 541` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 892a` | replace | by striking subsection (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 892c` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 892d` | amend | Section 306 of the Hydrographic Services Improvement Act of 1998 (33 U.S.C. 892d) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
