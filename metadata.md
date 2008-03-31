@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 478
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 478
@@ -29,3 +29,7 @@ A resolution supporting the goals and ideals of "World Water Day".
 - 2008-03-10 — Introduced in Senate
 - 2008-03-10 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S1821)
 - 2008-03-10 — Sponsor introductory remarks on measure. (CR S1821)
+- 2008-03-31 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S2250)
+- 2008-03-31 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S2250)
+- 2008-03-31 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S2250)
+- 2008-03-31 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S2250)
