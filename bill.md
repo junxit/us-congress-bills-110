@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1187
 
-> To expand the boundaries of the Gulf of the Farallones National Marine Sanctuary and the Cordell Bank National Marine Sanctuary, and for other purposes.
+> To expand the boundaries of the Gulf of the Farallones National Marine Sanctuary and the Cordell Bank National Marine Sanctuary.
 
 ## § 1. Short title
 
