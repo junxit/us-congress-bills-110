@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4933
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -49,7 +49,7 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by inserting after paragraph (6) (as redesignated by subparagraph (A)) the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “subsections (b) and (d)” and inserting “subsections (b), (d), and (e)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraphs (1)(A) and (1)(B) and in the first sentence of paragraph (2), by striking “subsections (b) and (d)” each place it appears and inserting “subsections (b), (d), and (e) of section 3”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraphs (1)(A) and (1)(B) and in the first sentence of paragraph (2), by striking “subsections (b) and (d)” each place it appears and inserting “subsections (b), (d), and (e)”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “section 3(d)” and inserting “subsection (d) or (e) of section 3”. | the bill names no machine-readable US Code section |
 | — | replace | Section 102(c) of Public Law 100–653 (102 Stat. 3826) is amended by striking “section 3(b)” and inserting “subsection 3(b)”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a), by striking “(a) In general.—Section 3” and inserting “Section 3”; and | the bill names no machine-readable US Code section |
