@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1061
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1061
@@ -16,7 +16,7 @@ Commemorating the 40th anniversary of the assassination of Dr. Martin Luther Kin
 
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Cosponsors (22)
+## Cosponsors (25)
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
@@ -40,6 +40,9 @@ Commemorating the 40th anniversary of the assassination of Dr. Martin Luther Kin
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
 
 ## Committees (1)
 
@@ -50,3 +53,9 @@ Commemorating the 40th anniversary of the assassination of Dr. Martin Luther Kin
 - 2008-03-31 — Introduced in House
 - 2008-03-31 — Introduced in House
 - 2008-03-31 — Referred to the House Committee on the Judiciary.
+- 2008-04-01 — Considered under suspension of the rules. (consideration: CR H1860-1864)
+- 2008-04-01 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1061.
+- 2008-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-01 — Mr. Conyers moved to suspend the rules and agree to the resolution.
+- 2008-04-01 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1860)
+- 2008-04-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H1860)
