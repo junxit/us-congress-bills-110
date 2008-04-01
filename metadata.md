@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5168
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5168
@@ -52,3 +52,11 @@ To designate the facility of the United States Postal Service located at 19101 C
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-02-26 — Committee Consideration and Mark-up Session Held.
+- 2008-02-26 — Ordered to be Reported by Voice Vote.
+- 2008-04-01 — Considered under suspension of the rules. (consideration: CR H1851-1852)
+- 2008-04-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5168.
+- 2008-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-01 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-04-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1851)
+- 2008-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1851)
