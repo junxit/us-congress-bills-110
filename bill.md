@@ -2,12 +2,12 @@
 legis-num: H. RES. 1005
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1005
 
-> Supporting the goals and ideals of Borderline Personality Awareness Month.
+> Resolution supporting the goals and ideals of Borderline Personality Disorder Awareness Month.
 
 ## Preamble
 
@@ -19,6 +19,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas official recognition of BPD is relatively new, and diagnosing it is often impeded by lack of awareness and frequent co-occurrence with other conditions, such as depression, bipolar disorder, substance abuse, anxiety, and eating disorders;
 - Whereas despite its prevalence, enormous public health costs, and the devastating toll it takes on individuals, families, and communities, BPD only recently has begun to command the attention it requires;
 - Whereas it is essential to increase awareness of BPD among people suffering from this disorder, their families, mental health professionals, and the general public by promoting education, research, funding, early detection, and effective treatments; and
-- Whereas the National Education Alliance for Borderline Personality Disorder and the National Alliance on Mental Illness has requested that Congress designate May as Borderline Personality Disorder Awareness Month as a means of educating our Nation about this disorder, the needs of those suffering from it, and its consequences: Now, therefore, be it
+- Whereas the National Education Alliance for Borderline Personality Disorder and the National Alliance on Mental Illness have requested that Congress designate May as Borderline Personality Disorder Awareness Month as a means of educating our Nation about this disorder, the needs of those suffering from it, and its consequences: Now, therefore, be it
 
 That the House of Representatives supports the goals and ideals of Borderline Personality Disorder Awareness Month.
