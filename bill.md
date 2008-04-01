@@ -2,7 +2,7 @@
 legis-num: H. RES. 1021
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1021
@@ -21,11 +21,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the popularity of women’s history celebrations has sparked a new interest in uncovering women’s forgotten heritage;
 - Whereas the President’s Commission on the Celebration of Women in American History was established to consider how best to acknowledge and celebrate the roles and accomplishments of women in American history;
 - Whereas the National Women’s History Museum was founded in 1996 as an institution dedicated to preserving, interpreting, and celebrating the diverse historic contributions of women, and integrating this rich heritage fully into the Nation’s teachings and history books;
-- Whereas the House of Representatives recognizes March, 2008, as National Women’s History Month; and
+- Whereas the House of Representatives recognizes March 2008 as National Women’s History Month; and
 - Whereas the theme of National Women’s History Month for 2008 is visionary female artists and their contribution to our cultural heritage: Now, therefore, be it
 
 That the House of Representatives—
 
-- **(1)** supports the goals and ideals of National Women’s History Month;
-- **(2)** recognizes and honors the women and organizations in the United States that have fought for and continue to promote the teaching of women’s history; and
-- **(3)** reaffirms its commitment to promoting National Women’s History Month, which this year honors female artists.
+- **(1)** supports the goals and ideals of National Women’s History Month; and
+- **(2)** recognizes and honors the women and organizations in the United States that have fought for and continue to promote the teaching of women’s history.
