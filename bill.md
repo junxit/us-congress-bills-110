@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2016
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,19 +27,19 @@ In this Act:
   - **(1)** Each area that is designated as—
     - **(A)** a national monument;
     - **(B)** a national conservation area;
-    - **(C)** an outstanding natural area;
-    - **(D)** a wilderness study area;
-    - **(E)** a component of the National Trails System;
-    - **(F)** a component of the National Wild and Scenic Rivers System; or
-    - **(G)** a component of the National Wilderness Preservation System.
+    - **(C)** a wilderness study area;
+    - **(D)** a National Scenic Trail or National Historic Trail designated as a component of the National Trails System;
+    - **(E)** a component of the National Wild and Scenic Rivers System; or
+    - **(F)** a component of the National Wilderness Preservation System.
   - **(2)** Any area designated by Congress to be administered for conservation purposes, including—
     - **(A)** the Steens Mountain Cooperative Management and Protection Area, as designated under section 101(a) of the Steens Mountain Cooperative Management and Protection Act of 2000 (16 U.S.C. 460nnn–11(a));
-    - **(B)** the Headwaters Forest Reserve; and
-    - **(C)** any additional area designated by Congress for inclusion in the system.
+    - **(B)** the Headwaters Forest Reserve;
+    - **(C)** the Yaquina Head Outstanding Natural Area; and
+    - **(D)** any additional area designated by Congress for inclusion in the system.
 - **(c)** *Management* The Secretary shall manage the system—
-  - **(1)** in accordance with any applicable law (including regulations) relating to any component of the system included under subsection (b); and
+  - **(1)** in accordance with each applicable law (including regulations) relating to each component of the system included under subsection (b); and
   - **(2)** in a manner that protects the values for which the components of the system were designated.
 
-## § 4. Authorization of appropriations
+## § 4. Statutory construction
 
-There are authorized to be appropriated such sums as are necessary to carry out this Act.
+Nothing in this Act shall be construed to enhance, diminish, or modify any law or proclamation (or regulations related to such law or proclamation) under which the components of the system identified in section 3(b) were established, or are managed, including, but not limited to, the Alaska National Interest Land Conservation Act (43 U.S.C. 1601 et seq.), the Wilderness Act (16 U.S.C. 1131 et seq.), the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.), the National Trails System Act (16 U.S.C. 1241 et seq.), and the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
