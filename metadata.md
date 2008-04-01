@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1312
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1312
@@ -49,3 +49,9 @@ Arts Require Timely Service (ARTS) Act
 - 2008-03-06 — Placed on the Union Calendar, Calendar No. 330.
 - 2008-03-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-540.
 - 2008-03-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-540.
+- 2008-04-01 — Considered under suspension of the rules. (consideration: CR H1857-1860)
+- 2008-04-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1312.
+- 2008-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-01 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2008-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1857)
+- 2008-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1857)
