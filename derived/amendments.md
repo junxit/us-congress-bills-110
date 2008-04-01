@@ -1,7 +1,7 @@
 ---
 measure: S. 2304
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+26 amendatory instructions. 0 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,3 +44,16 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (1) at the end, by striking “and”; | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (2) at the end, by striking the period and adding “; and”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking at the end “and”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “for fiscal years 2006 through 2009.” and inserting “for each of the fiscal years 2006 and 2007; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1), (2), and (3) (as added by subsection (a)(3)) as subparagraphs (A), (B), and (C), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | replace | by striking “There are authorized” and inserting “(1) In general.—There are authorized”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | Subsection (c) of such section is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part HH of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797aa) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | Such part is further amended by amending the part heading to read as follows: “Grants to improve treatment of offenders with mental illnesses”. | the bill names no machine-readable US Code section |
+| — | replace | Section 1001(a)(20) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3793(a)(20)) is amended by striking “fiscal years 2001 through 2004” and inserting “fiscal years 2009 through 2014”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2) by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
