@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1312
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 4 executed, 2 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,32 +33,23 @@ to guess them.
 | Removed | `Attorney General` |
 | Inserted | `Secretary of Homeland Security` |
 
-### 8 U.S.C. § 1184
+### 26 U.S.C. § 501
 
-> by striking “Any person” and inserting “(i) Except as provided in clause (ii), any person”; and
-
-| | |
-|---|---|
-| Removed | `Any person` |
-| Inserted | `(i) Except as provided in clause (ii), any person` |
-
-### 8 U.S.C. § 1184
-
-> by striking “Attorney General” each place it appears and inserting “Secretary of Homeland Security”; and
+> by striking “(D) Any” and inserting “(D)(i) Any”;
 
 | | |
 |---|---|
-| Removed | `Attorney General` |
-| Inserted | `Secretary of Homeland Security` |
+| Removed | `(D) Any` |
+| Inserted | `(D)(i) Any` |
 
 ### 26 U.S.C. § 501
 
-> by striking “(D) Any person” and inserting “(D)(i) Except as provided in clause (ii), any person”; and
+> by striking “Once the” and inserting “Except as provided in clause (ii), once the”; and
 
 | | |
 |---|---|
-| Removed | `(D) Any person` |
-| Inserted | `(D)(i) Except as provided in clause (ii), any person` |
+| Removed | `Once the` |
+| Inserted | `Except as provided in clause (ii), once the` |
 
 ## Stated, not applied
 
@@ -69,5 +60,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `8 U.S.C. § 1184` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
