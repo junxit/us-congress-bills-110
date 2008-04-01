@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2040
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -72,3 +72,4 @@ The Congress hereby finds as follows:
 - **(a)** *Surcharge required* All sales shall include a surcharge of $10 per coin.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges which are received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the United Negro College Fund (UNCF) to carry out the purposes of the Fund, including providing scholarships and internships for minority students and operating funds and technology enhancement services for 39 member historically black colleges and universities.
 - **(c)** *Audits* The United Negro College Fund shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received by the Fund under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
