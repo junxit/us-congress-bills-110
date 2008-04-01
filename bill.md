@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 154
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,8 +27,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the manner in which the polonium-210 was obtained, transported, and used must be fully investigated and revealed in order to reveal any defects or inadequacies in the present safeguard regime for that substance administered by the Russian Government and in order to prevent the unlawful, criminal, or terrorist acquisition or use of polonium-210 in the future;
 - Whereas the danger posed by polonium-210, as displayed by the discovery, subsequent to Mr. Litvinenko’s death, of numerous cases of its exposure to objects and persons who had contact with Mr. Litvinenko and his meal companions, demonstrates the threat that the proliferation and use of polonium-210 poses to the lives of innocents worldwide, as well as to international security;
 - Whereas on July 15, 2006, the United States and Russia jointly announced the Global Initiative to Combat Nuclear Terrorism, which “will enhance cooperation … to combat the global threat of nuclear terrorism … [including] determined and systematic efforts to improve accounting, control, and physical protection of nuclear material and radioactive substances, as well as security of nuclear facilities; [and] detect and suppress illicit trafficking or other illicit activities involving such materials, especially measures to prevent their acquisition and use by terrorists”;
-- Whereas on May 22, 2007, British authorities stated that they will seek to prosecute a Russian citizen, Andrei Lugovoi, for the murder of Mr. Litvinenko; and
-- Whereas the British investigation into Mr. Litvinenko’s murder continues: Now, therefore, be it
+- Whereas Mr. Lugovoi has won immunity from prosecution as a member of the Russian Duma in December 2007 elections allegedly influenced by government electoral manipulation, which provides credence to claims that he has enjoyed official support in obtaining that office and its associated immunity; and
+- Whereas the British investigation into Mr. Litvinenko’s murder continues in an atmosphere of deteriorating relations between the United Kingdom and the Russian Federation due, in part, to a lack of agreement on the further pursuit of that investigation: Now, therefore, be it
 
 That it is the sense of Congress that—
 
