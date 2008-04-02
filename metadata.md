@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1065
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1065
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 5501) to authorize appropriations 
 - 2008-04-01 — Placed on the House Calendar, Calendar No. 198.
 - 2008-04-01 — The House Committee on Rules reported an original measure, H. Rept. 110-562, by Mr. McGovern.
 - 2008-04-01 — The House Committee on Rules reported an original measure, H. Rept. 110-562, by Mr. McGovern.
+- 2008-04-02 — Considered as privileged matter. (consideration: CR H1894-1902, H1903-1904)
+- 2008-04-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 1065.
+- 2008-04-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-02 — On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 192 (Roll no. 155). (text: CR H1894-1895)
+- 2008-04-02 — On ordering the previous question Agreed to by the Yeas and Nays: 215 - 199 (Roll no. 154). (consideration: CR H1903)
+- 2008-04-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 192 (Roll no. 155).(text: CR H1894-1895)
