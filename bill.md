@@ -1,0 +1,198 @@
+---
+legis-num: H.R. 5683
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5683
+
+> To make certain reforms with respect to the Government Accountability Office, and for other purposes.
+
+## § 1. Short title; references; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Government Accountability Office Act of 2008”.
+- **(b)** *References* Except as otherwise expressly provided, whenever in this Act an amendment is expressed in terms of an amendment to a section or other provision, the reference shall be considered to be made to a section or other provision of title 31, United States Code.
+- **(c)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Provisions relating to future annual pay adjustments
+
+- **(a)** *In general* Section 732 of title 31, United States Code, is amended by adding at the end the following:
+  > - **(j)**
+  >   - **(1)** For purposes of this subsection—
+  >     - **(A)** the term pay increase, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
+  >     - **(B)** the term required minimum percentage, as used with respect to an officer or employee in connection with a year, means the percentage equal to the total increase in rates of basic pay (expressed as a percentage) taking effect under sections 5303 and 5304–5304a of title 5 in such year with respect to General Schedule positions within the pay locality (as defined by section 5302(5) of title 5) in which the position of such officer or employee is located;
+  >     - **(C)** the term covered officer or employee, as used with respect to a pay increase, means any individual—
+  >       - **(i)** who is an officer or employee of the Government Accountability Office, other than an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
+  >       - **(ii)** whose performance is at least at a satisfactory level, as determined by the Comptroller General under the provisions of subsection (c)(3) for purposes of the adjustment taking effect under such provisions in such year; and
+  >     - **(D)** the term merit pay means any amount payable under section 731(b) which does not constitute basic pay.
+  >   - **(2)**
+  >     - **(A)** Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller General shall provide for a further increase in the rate of basic pay of such officer or employee.
+  >     - **(B)** The further increase under this subsection—
+  >       - **(i)** shall be equal to the amount necessary to make up for the shortfall described in subparagraph (A); and
+  >       - **(ii)** shall take effect as of the same date as the pay increase otherwise taking effect in such year.
+  >     - **(C)** Nothing in this paragraph shall be considered to permit or require that a rate of basic pay be increased to an amount inconsistent with the limitation set forth in subsection (c)(2).
+  >     - **(D)** If (disregarding this subsection) the covered officer or employee would also have received any merit pay in such year, such merit pay shall be decreased by an amount equal to the portion of such officer’s or employee’s basic pay for such year which is attributable to the further increase described in subparagraph (A) (as determined by the Comptroller General), but to not less than zero.
+  >   - **(3)** Notwithstanding any other provision of this chapter, the effective date of any pay increase taking effect with respect to a covered officer or employee in any year shall be the same as the effective date of any adjustment taking effect under section 5303 of title 5 with respect to statutory pay systems (as defined by section 5302(1) of title 5) in such year.
+
+- **(b)** *Effective date* The amendment made by this section shall apply with respect to any pay increase (as defined by such amendment) taking effect on or after the date of the enactment of this Act.
+
+## § 3. Pay adjustment relating to certain previous years
+
+- **(a)** *Applicability* This section applies in the case of any individual who, as of the date of the enactment of this Act, is an officer or employee of the Government Accountability Office, excluding—
+  - **(1)** an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1); and
+  - **(2)** an officer or employee who received both a 2.6 percent pay increase in January 2006 and a 2.4 percent pay increase in February 2007.
+- **(b)** *Pay increase defined* For purposes of this section, the term pay increase, as used with respect to a year, means the total increase in rates of basic pay taking effect under sections 731(b) and 732(c)(3) of title 31, United States Code, in such year.
+- **(c)** *Prospective effect* Effective with respect to pay for service performed in any pay period beginning after the end of the 3-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+- **(d)** *Payment for earlier periods* Not later than 4 months after the date of the enactment of this Act, the Comptroller General shall pay to each individual whose rate of basic pay is adjusted in accordance with subsection (c) a lump-sum payment. Subject to subsection (e), such lump-sum payment shall be equal to—
+  - **(1)** the total amount of basic pay that would have been paid to the individual, for service performed during the period beginning on the effective date of the pay increase for 2006 and ending on the day before the effective date of the pay adjustment under subsection (c), if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, minus
+  - **(2)** the total amount of basic pay that was in fact paid to the individual for service performed during the period described in paragraph (1).
+- **(e)** *Conditions* Nothing in subsection (c) or (d) shall be considered to permit or require—
+  - **(1)** the payment of any rate (or lump-sum amount based on a rate) for any pay period, to the extent that that rate would be (or would have been) inconsistent with the limitation that applies (or that applied) with respect to such pay period under section 732(c)(2) of title 31, United States Code; or
+  - **(2)** the payment of any rate or amount based on the pay increase for 2006 or 2007 (as the case may be), if the performance of the officer or employee involved was not at a satisfactory level, as determined by the Comptroller General under paragraph (3) of section 732(c) of such title 31 for purposes of the adjustment under such paragraph for that year.
+- **(f)** *Retirement*
+  - **(1)** *In general* The lump-sum payment paid under subsection (d) to an officer or employee shall, for purposes of any determination of the average pay (as defined by section 8331 or 8401 of title 5, United States Code) which is used to compute an annuity under subchapter III of chapter 83 or chapter 84 of such title—
+    - **(A)** be treated as basic pay (as defined by section 8331 or 8401 of such title); and
+    - **(B)** be allocated to the biweekly pay periods covered by subsection (d).
+  - **(2)** *Contributions* Notwithstanding section 8334, 8422, 8423, or any other provision of title 5, United States Code, no employee or agency contribution shall be required for purposes of this subsection.
+- **(g)** *Availability of funds* Notwithstanding section 1502 of title 31, United States Code, or any other provision of law limiting the availability of funds to a given fiscal year, the unobligated balances of expired “Salaries and Expenses” appropriations of the Government Accountability Office are available to the Comptroller General for the purpose of making lump-sum payments under this section until such time as the expired appropriations accounts are closed and the appropriations are cancelled pursuant to section 1552 of such title.
+- **(h)** *Exclusive remedy* This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.
+
+## § 4. Lump-sum payment for certain merit pay
+
+- **(a)** *In general* Not later than 4 months after the date of the enactment of this Act, the Comptroller General shall pay to each qualified individual a lump-sum payment equal to the amount of merit pay such individual was denied for 2006, as determined under subsection (b).
+- **(b)** *Amount* The amount payable to a qualified individual under this section shall be equal to—
+  - **(1)** the total amount of merit pay such individual would have earned for 2006 (determined by applying the Government Accountability Office’s performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect for increases effective in 2006) if such individual had not had a salary equal to or greater than the maximum for such individual’s band (as further described in subsection (c)(2)), less
+  - **(2)** the total amount of merit pay such individual in fact was paid in January 2006.
+- **(c)** *Qualified individual* For purposes of this section, the term qualified individual means an individual who—
+  - **(1)** as of the date of the enactment of this Act, is an officer or employee of the Government Accountability Office, excluding—
+    - **(A)** an individual holding a position subject to section 732a or 733 of title 31, United States Code (disregarding section 732a(b) and 733(c) of such title);
+    - **(B)** a Federal Wage System employee; and
+    - **(C)** an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
+  - **(2)** as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual’s pay band (determined in accordance with the orders cited in subsection (b)(1)).
+- **(d)** *Availability of funds* Notwithstanding section 1502 of title 31, United States Code, or any other provision of law limiting the availability of funds to a given fiscal year, the unobligated balances of expired “Salaries and Expenses” appropriations of the Government Accountability Office are available to the Comptroller General for the purpose of making lump-sum payments under this section until such time as the expired appropriations accounts are closed and the appropriations are cancelled pursuant to section 1552 of such title.
+- **(e)** *Exclusive remedy* This section constitutes the exclusive remedy that any officers and employees (as described in subsection (c)) have for any claim that they are owed any monies denied to them in the form of merit pay for 2006 under section 731(b) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body in the United States, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such officers or employees that they were due money in the form of merit pay for 2006 pursuant to such section 731(b) or any other law.
+- **(f)** *Definitions* For purposes of this section—
+  - **(1)** the term merit pay means any amount payable under section 731(b) of title 31, United States Code, which does not constitute basic pay; and
+  - **(2)** the term permanent merit pay increase means an increase under section 731(b) of title 31, United States Code, in a rate of basic pay.
+
+## § 5. Inspector General
+
+- **(a)** *In general* Subchapter I of chapter 7 is amended by adding at the end the following:
+  > ## § 705. Inspector General for the Government Accountability Office
+  >
+  > - **(a)** *Establishment of office* There is established an Office of the Inspector General in the Government Accountability Office, to—
+  >   - **(1)** conduct and supervise audits consistent with generally accepted government auditing standards and investigations relating to the Government Accountability Office;
+  >   - **(2)** provide leadership and coordination and recommend policies, to promote economy, efficiency, and effectiveness in the Government Accountability Office; and
+  >   - **(3)** keep the Comptroller General and Congress fully and currently informed concerning fraud and other serious problems, abuses, and deficiencies relating to the administration of programs and operations of the Government Accountability Office.
+  > - **(b)** *Appointment, supervision, and removal*
+  >   - **(1)** The Office of the Inspector General shall be headed by an Inspector General, who shall be appointed by the Comptroller General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Comptroller General.
+  >   - **(2)** The Inspector General may be removed from office by the Comptroller General. The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.
+  > - **(c)** *Authority of Inspector General* In addition to the authority otherwise provided by this section, the Inspector General, in carrying out the provisions of this section, may—
+  >   - **(1)** have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material that relate to programs and operations of the Government Accountability Office;
+  >   - **(2)** make such investigations and reports relating to the administration of the programs and operations of the Government Accountability Office as are, in the judgment of the Inspector General, necessary or desirable;
+  >   - **(3)** request such documents and information as may be necessary for carrying out the duties and responsibilities provided by this section from any Federal agency;
+  >   - **(4)** in the performance of the functions assigned by this section, obtain all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence from a person not in the United States Government or from a Federal agency, to the same extent and in the same manner as the Comptroller General under the authority and procedures available to the Comptroller General in section 716 of this title;
+  >   - **(5)** administer to or take from any person an oath, affirmation, or affidavit, whenever necessary in the performance of the functions assigned by this section, which oath, affirmation, or affidavit when administered or taken by or before an employee of the Office of Inspector General designated by the Inspector General shall have the same force and effect as if administered or taken by or before an officer having a seal;
+  >   - **(6)** have direct and prompt access to the Comptroller General when necessary for any purpose pertaining to the performance of functions and responsibilities under this section;
+  >   - **(7)** report expeditiously to the Attorney General whenever the Inspector General has reasonable grounds to believe there has been a violation of Federal criminal law; and
+  >   - **(8)** provide copies of all reports to the Audit Advisory Committee of the Government Accountability Office and provide such additional information in connection with such reports as is requested by the Committee.
+  > - **(d)** *Complaints by employees*
+  >   - **(1)** The Inspector General—
+  >     - **(A)** subject to subparagraph (B), may receive, review, and investigate, as the Inspector General considers appropriate, complaints or information from an employee of the Government Accountability Office concerning the possible existence of an activity constituting a violation of any law, rule, or regulation, mismanagement, or a gross waste of funds; and
+  >     - **(B)** shall refer complaints or information concerning violations of personnel law, rules, or regulations to established investigative and adjudicative entities of the Government Accountability Office.
+  >   - **(2)** The Inspector General shall not, after receipt of a complaint or information from an employee, disclose the identity of the employee without the consent of the employee, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
+  >   - **(3)** Any employee who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or threaten to take any action against any employee as a reprisal for making a complaint or disclosing information to the Inspector General, unless the complaint was made or the information disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
+  > - **(e)** *Semiannual reports*
+  >   - **(1)** The Inspector General shall submit semiannual reports summarizing the activities of the Office of the Inspector General to the Comptroller General. Such reports shall include, but need not be limited to—
+  >     - **(A)** a summary of each significant report made during the reporting period, including a description of significant problems, abuses, and deficiencies disclosed by such report;
+  >     - **(B)** a description of the recommendations for corrective action made with respect to significant problems, abuses, or deficiencies described pursuant to subparagraph (A);
+  >     - **(C)** a summary of the progress made in implementing such corrective action described pursuant to subparagraph (B); and
+  >     - **(D)** information concerning any disagreement the Comptroller General has with a recommendation of the Inspector General.
+  >   - **(2)** The Comptroller General shall transmit the semiannual reports of the Inspector General, together with any comments the Comptroller General considers appropriate, to Congress within 30 days after receipt of such reports.
+  > - **(f)** *Independence in carrying out duties and responsibilities* The Comptroller General may not prevent or prohibit the Inspector General from carrying out any of the duties or responsibilities of the Inspector General under this section.
+  > - **(g)** *Authority for staff*
+  >   - **(1)** *In general* The Inspector General shall select, appoint, and employ such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
+  >   - **(2)** *Experts and consultants* The Inspector General may procure temporary and intermittent services under section 3109 of title 5 at rates not to exceed the daily equivalent of the annual rate of basic pay for level V of the Executive Schedule under section 5315 of such title.
+  >   - **(3)** *Independence in appointing staff* No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed by the Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
+  >   - **(4)** *Limitation on program responsibilities* The Inspector General and any individual carrying out any of the duties or responsibilities of the Office of the Inspector General are prohibited from performing any program responsibilities.
+  > - **(h)** *Office space* The Comptroller General shall provide the Office of the Inspector General—
+  >   - **(1)** appropriate and adequate office space;
+  >   - **(2)** such equipment, office supplies, and communications facilities and services as may be necessary for the operation of the Office of the Inspector General;
+  >   - **(3)** necessary maintenance services for such office space, equipment, office supplies, and communications facilities; and
+  >   - **(4)** equipment and facilities located in such office space.
+  > - **(i)** *Definition* As used in this section, the term Federal agency means a department, agency, instrumentality, or unit thereof, of the Federal Government.
+
+- **(b)** *Incumbent* The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act shall continue to serve in such position subject to removal in accordance with the amendments made by this section.
+- **(c)** *Clerical amendment* The table of sections for chapter 7 is amended by inserting after the item relating to section 704 the following:
+
+## § 6. Administering oaths
+
+Section 711(4) is amended by striking “when auditing and settling accounts”.
+
+## § 7. Comptroller General reports
+
+Section 719 is amended—
+
+- **(1)** in subsection (b)(1)(B), by striking “and” at the end;
+- **(2)** in subsection (b)(1)(C), by striking the period at the end and inserting “; and”;
+- **(3)** by adding at the end of subsection (b)(1) the following:
+  > - **(D)** for agencies subject to sections 901 and other agencies designated by the Comptroller General, an assessment of their overall degree of cooperation in making personnel available for interview, providing written answers to questions, submitting to an oath authorized by the Comptroller General under section 711, granting access to records, providing timely comments to draft reports, adopting recommendations in reports and responding to such other matters as the Comptroller General deems appropriate in carrying out his duties under authority of sections 711–720 or any other provisions of law.
+
+- **(4)** in subsection (c)(2)(B), by striking “and” at the end;
+- **(5)** in subsection (c)(3), by striking the period at the end and inserting “; and”; and
+- **(6)** by adding at the end of subsection (c) the following:
+  > - **(4)** as soon as practicable when an agency does not, within a reasonable time of a request by the Comptroller General, make personnel available for interview, provide written answers to questions, grant access to records, or submit to an oath authorized by the Comptroller General under sections 711–720 or any other provisions of law.
+
+## § 8. Reimbursement of audit costs
+
+- **(a)** *In general* Section 3521 is amended by adding at the end the following:
+  > - **(i)**
+  >   - **(1)** Any executive agency or component thereof that prepares an audited financial statement under section 3515 shall reimburse the Government Accountability Office the cost of any audit of the financial statements (or any part thereof) and related schedules of such agency or component performed by the Comptroller General.
+  >   - **(2)** Reimbursements required by paragraph (1) shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the reimbursement is received and shall remain available until expended.
+
+- **(b)** *Conforming amendment* Section 1401 of title I of Public Law 108–83 (31 U.S.C. 3521 note) is repealed.
+- **(c)** *Effective date* This section and the amendments made by this section shall take effect on October 1, 2009.
+
+## § 9. Financial disclosure requirements
+
+Section 109(13)(B) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended—
+
+- **(1)** in clause (i), by inserting “(except any officer or employee of the Government Accountability Office)” after “legislative branch”, and by striking “and” at the end;
+- **(2)** by redesignating clause (ii) as clause (iii); and
+- **(3)** by inserting after clause (i) the following:
+  > - **(ii)** each officer or employee of the Government Accountability Office who, for at least 60 consecutive days, occupies a position for which the rate of basic pay, minus the amount of locality pay authorized under section 5304 of title 5, United States Code, for the locality within which the position of such officer or employee is located (as determined by the Comptroller General), is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule; and
+
+## § 10. Highest basic pay rate
+
+Section 732(c)(2) is amended by striking “highest basic rate for GS–15;” and inserting “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5;”.
+
+## § 11. Additional authorities
+
+- **(a)** *In general* Section 731 is amended—
+  - **(1)** by repealing subsection (d);
+  - **(2)** in subsection (e)—
+    - **(A)** in the matter before paragraph (1), by striking “maximum daily rate for GS–18 under section 5332 of such title” and inserting “daily rate for level IV of the Executive Schedule”; and
+    - **(B)** by striking “more than—” and all that follows and inserting the following: “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.”; and
+  - **(3)** by adding at the end the following:
+    > - **(j)** Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
+
+- **(b)** *Conforming amendments*
+  - **(1)** Section 732a(b) is amended by striking “section 731(d), (e)(1), or (e)(2)” and inserting “paragraph (1) or (2) of section 731(e)”.
+  - **(2)** Section 733(c) is amended by striking “(d),”.
+  - **(3)** Section 735(a) is amended by striking “731(c)–(e),” and inserting “731(c) and (e),”.
+
+## § 12. Voluntary separation incentive payments
+
+Section 2 of Public Law 106–303 (5 U.S.C. 5597 note) is amended—
+
+- **(1)** in subsection (b)(1), by striking “subsection (a)(2)(D)” and inserting “subsections (a)(2)(D), (c)(2)(D), and (d)”,
+- **(2)** in subsection (b)(4), by inserting “and” at the end;
+- **(3)** in subsection (b)(5), by striking the semicolon at the end and inserting a period;
+- **(4)** by striking paragraphs (6) and (7) of subsection (b);
+- **(5)** by repealing subsection (c);
+- **(6)** in subsection (d)—
+  - **(A)** in the subsection heading, by striking “Definitions” and inserting “Definition”;
+  - **(B)** by striking paragraph (1) and the matter in paragraph (2) before “As used”; and
+  - **(C)** by running in (after the em-dash in the subsection heading) the text of paragraph (2) (as amended by subparagraph (B)); and
+- **(7)** in the first sentence of subsection (f), by striking “, excluding subsection (c)”.
