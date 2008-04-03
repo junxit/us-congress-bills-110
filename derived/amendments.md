@@ -1,7 +1,7 @@
 ---
 measure: S. 2764
 congress: 110
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
