@@ -1,7 +1,7 @@
 ---
 measure: S. 2764
 congress: 110
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 2764
@@ -24,3 +24,6 @@ A bill to amend the Servicemembers Civil Relief Act to enhance protections for s
 
 - 2008-03-13 — Introduced in Senate
 - 2008-03-13 — Read twice and referred to the Committee on Armed Services.
+- 2008-04-03 — Referred to the Committee on Veterans' Affairs.
+- 2008-04-03 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2008-04-03 — Senate Committee on Armed Services discharged by Unanimous Consent.
