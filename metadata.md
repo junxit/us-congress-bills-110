@@ -1,7 +1,7 @@
 ---
 measure: S. 550
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 550
@@ -21,9 +21,10 @@ A bill to preserve existing judgeships on the Superior Court of the District of 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -39,3 +40,13 @@ A bill to preserve existing judgeships on the Superior Court of the District of 
 - 2008-02-05 — Message on Senate action sent to the House.
 - 2008-02-06 — Received in the House.
 - 2008-02-06 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-03-10 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported by Voice Vote.
+- 2008-04-01 — Cleared for White House.
+- 2008-04-01 — Considered under suspension of the rules. (consideration: CR H1853-1854)
+- 2008-04-01 — DEBATE - The House proceeded with forty minutes of debate on S. 550.
+- 2008-04-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-01 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-04-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1853)
+- 2008-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1853)
