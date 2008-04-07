@@ -1,7 +1,7 @@
 ---
 measure: S. 1667
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1667
@@ -28,3 +28,7 @@ A bill to establish a pilot program for the expedited disposal of Federal real p
 
 - 2007-06-20 — Introduced in Senate
 - 2007-06-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-04-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-279.
+- 2008-04-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-279.
+- 2008-04-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 631.
