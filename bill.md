@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2063
 
-> To direct the Secretary of Health and Human Services, in consultation with the Secretary of Education, to develop a voluntary policy for managing the risk of food allergy and anaphylaxis in schools.
+> To direct the Secretary of Health and Human Services, in consultation with the Secretary of Education, to develop a voluntary policy for managing the risk of food allergy and anaphylaxis in schools, to establish school-based food allergy management grants, and for other purposes.
 
 ## § 1. Short title
 
