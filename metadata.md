@@ -1,7 +1,7 @@
 ---
 measure: S. 793
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 793
@@ -66,3 +66,11 @@ Traumatic Brain Injury Act of 2008
 - 2007-12-12 — Received in the House.
 - 2007-12-12 — Referred to the House Committee on Energy and Commerce.
 - 2007-12-12 — Referred to the Subcommittee on Health.
+- 2008-04-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-04-08 — Considered as unfinished business. (consideration: CR H2047-2048)
+- 2008-04-08 — Considered under suspension of the rules. (consideration: CR H2041-2045)
+- 2008-04-08 — DEBATE - The House proceeded with forty minutes of debate on S. 793.
+- 2008-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-08 — Ms. Baldwin moved to suspend the rules and pass the bill, as amended.
+- 2008-04-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 1 (Roll no. 163). (text: CR H2041-2043)
+- 2008-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 1 (Roll no. 163).(text: CR H2041-2043)
