@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 73
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 73
@@ -23,8 +23,15 @@ A concurrent resolution expressing Congressional support for the goals and ideal
 - Sen. Brown, Sherrod [D-OH] (B000944)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 
+## Committees (1)
+
+- House — Energy and Commerce Committee
+
 ## Actions
 
 - 2008-04-03 — Introduced in Senate
 - 2008-04-03 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S2588-2589; text as passed Senate: CR S2588-2589; text of measure as introduced: CR S2485-2486)
 - 2008-04-03 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2588-2589; text as passed Senate: CR S2588-2589; text of measure as introduced: CR S2485-2486)
+- 2008-04-07 — Message on Senate action sent to the House.
+- 2008-04-08 — Received in the House.
+- 2008-04-08 — Referred to the House Committee on Energy and Commerce.
