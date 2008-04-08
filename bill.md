@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 265
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 265
@@ -11,10 +11,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas more than 2,000,000 Americans are demonstrating their courage and commitment to freedom by serving in the Armed Forces of the United States;
-- Whereas 43 percent of the members of the Armed Forces, when deployed away from their permanent duty stations, have left families with children behind;
+- Whereas more than 2,750,000 Americans are demonstrating their courage and commitment to freedom by serving in the Armed Forces of the United States;
+- Whereas 50 percent of the members of the Armed Forces, when deployed away from their permanent duty stations, have left families with children behind;
 - Whereas no one feels the effect of those deployments more than the children of deployed service members;
-- Whereas as of March 31, 2005, approximately 2,000 of these children have lost a parent serving in the Armed Forces during the preceding 5 years;
+- Whereas as of March 15, 2008, approximately 3,400 of these children have lost a parent serving in the Armed Forces during the preceding 5 years;
 - Whereas the daily struggles and personal sacrifices of children of members of the Armed Forces too often go unnoticed;
 - Whereas the children of members of the Armed Forces are a source of pride and honor to all Americans and it is fitting that the Nation recognize their contributions and celebrate their spirit;
 - Whereas the “National Month of the Military Child”, observed in April each year, recognizes military children for their sacrifices and contributes to demonstrating the Nation’s unconditional support to members of the Armed Forces;

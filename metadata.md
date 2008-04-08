@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 265
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 265
@@ -16,7 +16,7 @@ Honoring military children during "National Month of the Military Child".
 
 - Rep. Moran, James P. [D-VA-8] (M000933)
 
-## Cosponsors (21)
+## Cosponsors (38)
 
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
@@ -39,6 +39,23 @@ Honoring military children during "National Month of the Military Child".
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Miller, Jeff [R-FL-1] (M001144)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
 
 ## Committees (1)
 
@@ -49,3 +66,10 @@ Honoring military children during "National Month of the Military Child".
 - 2007-03-23 — Introduced in House
 - 2007-03-23 — Introduced in House
 - 2007-03-23 — Referred to the House Committee on Armed Services.
+- 2007-04-03 — Referred to the Subcommittee on Military Personnel.
+- 2008-04-08 — Considered under suspension of the rules. (consideration: CR H2020-2022)
+- 2008-04-08 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 265.
+- 2008-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-08 — Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.
+- 2008-04-08 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2020)
+- 2008-04-08 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2020)
