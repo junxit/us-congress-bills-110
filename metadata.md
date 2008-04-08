@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 70
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 70
@@ -16,7 +16,7 @@ Congratulating the Army Reserve on its centennial, which will be formally celebr
 
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
-## Cosponsors (242)
+## Cosponsors (260)
 
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Taylor, Gene [D-MS-4] (T000074)
@@ -260,6 +260,24 @@ Congratulating the Army Reserve on its centennial, which will be formally celebr
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 - Rep. Hunter, Duncan [R-CA-52] (H000981)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Cantor, Eric [R-VA-7] (C001046)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Barrett, J. Gresham [R-SC-3] (B001239)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Radanovich, George [R-CA-19] (R000004)
+- Rep. Sali, Bill [R-ID-1] (S001167)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
 
 ## Committees (1)
 
@@ -271,3 +289,11 @@ Congratulating the Army Reserve on its centennial, which will be formally celebr
 - 2007-12-13 — Introduced in House
 - 2007-12-13 — Referred to the House Committee on Armed Services.
 - 2007-12-13 — Sponsor introductory remarks on measure. (CR E2572)
+- 2008-04-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-04-08 — Considered as unfinished business. (consideration: CR H2046)
+- 2008-04-08 — Considered under suspension of the rules. (consideration: CR H2022-2024)
+- 2008-04-08 — DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 70.
+- 2008-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-08 — Ms. Bordallo moved to suspend the rules and pass the resolution, as amended.
+- 2008-04-08 — On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 161). (text: CR H2022)
+- 2008-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 161).(text: CR H2022)
