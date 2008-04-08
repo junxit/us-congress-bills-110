@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 5723
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5723
+
+> To amend the Federal Home Loan Bank Act to allow Federal home loan banks to invest surplus funds in student loan securities and make advances for student loan financing, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Emergency Student Loan Market Liquidity Act”.
+
+## § 2. Emergency student loan market liquidity
+
+The Federal Home Loan Bank Act (12 U.S.C. 1421 et seq.) is amended—
+
+- **(1)** by redesignating section 30 as section 31; and
+- **(2)** by inserting after section 29, the following new section:
+  > ## § 30. Emergency authority
+  >
+  > - **(a)** *Investment of surplus* Such part of the assets of each Federal home loan bank (except reserves and amounts provided for in subsection (g) of section 11) as are not required for advances to members, may be invested in student loan-related securities in addition to the other investments described in subsection (h) of such section.
+  > - **(b)** *Collateral* For purposes of section 10(a)(3), the following shall be considered eligible collateral in addition to the other categories of eligible collateral described in such section:
+  >   - **(1)** Student loan-related securities.
+  >   - **(2)** Student loans.
+  > - **(c)** *Long-term advances* Notwithstanding section 10(a)(2), any Federal home loan bank may make secured long-term advances upon sufficient collateral for purposes of providing funds to any member for financing the origination of student loans or the purchase or financing of student loan-related securities.
+  > - **(d)** *Definitions* For purposes of this section, the following definitions shall apply:
+  >   - **(1)** *Student loan-related security* The term “student loan-related security” means a security that—
+  >     - **(A)** is rated in 1 of the 3 highest rating categories (without regard to any refinement or gradation of such rating category by a numerical modifier or otherwise) by at least one nationally recognized statistical rating organization; and
+  >     - **(B)** is described in at least 1 of the clauses:
+  >       - **(i)** Represents an interest in student loans.
+  >       - **(ii)** Is a bond, note or other obligation payable from and secured by an interest in student loans.
+  >       - **(iii)** Is a bond, note or other obligation that—
+  >         - **(I)** is part of an issue of securities issued for the purpose of providing funds to purchase or originate student loans; and
+  >         - **(II)** will be payable from and secured by an interest in such student loans.
+  >   - **(2)** *Interest in student loans* The term “interest in student loans” includes ownership rights in, or certificates of interest or participation interests in, such student loans or the promissory notes evidencing such student loans and rights designated to assure servicing of such promissory notes, or the receipt or timely receipt of amounts payable and under such promissory notes or the timely distribution thereof to the holders of such interest.
+  >   - **(3)** *Student loan* The term “student loan” means any loan made under subtitle B of title IV of the Higher Education Act of 1965 (whether to a student, the parents of a student, or a consolidating borrower).
+  > - **(e)** *Temporary nature of relief*
+  >   - **(1)** *Effective period* Except as provided in paragraph (2), this section shall be effective for investments and advances made between February 1, 2008, and the end of the 2-year period beginning on the date of the enactment of the Emergency Student Loan Market Liquidity Act.
+  >   - **(2)** *Exception* Notwithstanding the expiration of the effective period of this section—
+  >     - **(A)** any investment by any Federal home loan bank under subsection (a) in any student loan-related security shall remain an authorized investment of such bank through the maturity of such security; and
+  >     - **(B)** any student loan-related securities or student loans held by any Federal home loan bank as collateral under subsection (b) for an advance to a member under subsection (c) may continue to be held by the bank as security until the advance matures or is otherwise repaid or extinguished.
