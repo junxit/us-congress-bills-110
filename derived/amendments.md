@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1198
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 12 executed, 8 stated and not applied.
+14 amendatory instructions. 7 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,43 +26,25 @@ to guess them.
 
 ### 42 U.S.C. § 280g-1
 
-> in the section heading, by striking “infants” and inserting “newborns, infants, and young children”;
+> in the section heading, by striking “infants” and inserting “newborns and infants”;
 
 | | |
 |---|---|
 | Removed | `infants` |
-| Inserted | `newborns, infants, and young children` |
+| Inserted | `newborns and infants` |
 
 ### 42 U.S.C. § 280g-1
 
-> in the heading, by striking “newborn and infant” and inserting “newborn, infant, and young child”;
+> in the matter preceding paragraph (1), by striking “screening, evaluation and intervention programs and systems” and inserting “screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,”;
 
 | | |
 |---|---|
-| Removed | `newborn and infant` |
-| Inserted | `newborn, infant, and young child` |
+| Removed | `screening, evaluation and intervention programs and systems` |
+| Inserted | `screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,` |
 
 ### 42 U.S.C. § 280g-1
 
-> in the matter preceding paragraph (1), by striking “newborn and infant hearing screening, evaluation and intervention programs and systems” and inserting “newborn, infant, and young child hearing screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,”; and
-
-| | |
-|---|---|
-| Removed | `newborn and infant hearing screening, evaluation and intervention programs and systems` |
-| Inserted | `newborn, infant, and young child hearing screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers,` |
-
-### 42 U.S.C. § 280g-1
-
-> in paragraph (2), by striking “newborn and infant” and inserting “newborn, infant, and young child”; and
-
-| | |
-|---|---|
-| Removed | `newborn and infant` |
-| Inserted | `newborn, infant, and young child` |
-
-### 42 U.S.C. § 280g-1
-
-> in subparagraph (A), by striking “hearing loss screening, evaluation, and intervention programs” and inserting “hearing loss screening, evaluation, diagnosis, and intervention programs”;
+> in paragraph (1)(A), by striking “hearing loss screening, evaluation, and intervention programs” and inserting “hearing loss screening, evaluation, diagnosis, and intervention programs”; and
 
 | | |
 |---|---|
@@ -71,66 +53,39 @@ to guess them.
 
 ### 42 U.S.C. § 280g-1
 
-> in paragraph (3), by striking “ensuring that families of the child” and all that follows and inserting “ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of early intervention services, educational and program placements, and other options for their child from highly qualified providers.”; and
+> in paragraph (3), by striking “ensuring that families of the child” and all that follows and inserting “ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers.”; and
 
 | | |
 |---|---|
 | Removed | `ensuring that families of the child` |
-| Inserted | `ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of early intervention services, educational and program placements, and other options for their child from highly qualified providers.` |
+| Inserted | `ensuring that families of the child are provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language and communication options and are given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for their child from highly qualified providers.` |
 
 ### 42 U.S.C. § 280g-1
 
-> by striking “newborn and infant” and inserting “newborn, infant, and young child”;
-
-| | |
-|---|---|
-| Removed | `newborn and infant` |
-| Inserted | `newborn, infant, and young child` |
-
-### 42 U.S.C. § 280g-1
-
-> by striking “newborns and infants” and inserting “newborns, infants, and young children”; and
-
-| | |
-|---|---|
-| Removed | `newborns and infants` |
-| Inserted | `newborns, infants, and young children` |
-
-### 42 U.S.C. § 280g-1
-
-> in the heading, by striking “newborn and infant” and inserting “newborn, infant, and young child”; and
-
-| | |
-|---|---|
-| Removed | `newborn and infant` |
-| Inserted | `newborn, infant, and young child` |
-
-### 42 U.S.C. § 280g-1
-
-> by striking “fiscal year 2002” and inserting “fiscal years 2008 through 2013”;
+> in paragraph (1), by striking “fiscal year 2002” and inserting “fiscal years 2009 through 2014”;
 
 | | |
 |---|---|
 | Removed | `fiscal year 2002` |
-| Inserted | `fiscal years 2008 through 2013` |
+| Inserted | `fiscal years 2009 through 2014` |
 
 ### 42 U.S.C. § 280g-1
 
-> in paragraph (2), by striking “fiscal year 2002” and inserting “fiscal years 2008 through 2013”; and
+> in paragraph (2), by striking “fiscal year 2002” and inserting “fiscal years 2009 through 2014”; and
 
 | | |
 |---|---|
 | Removed | `fiscal year 2002` |
-| Inserted | `fiscal years 2008 through 2013` |
+| Inserted | `fiscal years 2009 through 2014` |
 
 ### 42 U.S.C. § 280g-1
 
-> in paragraph (3), by striking “fiscal year 2002” and inserting “fiscal years 2008 through 2013”.
+> in paragraph (3), by striking “fiscal year 2002” and inserting “fiscal years 2009 through 2014”.
 
 | | |
 |---|---|
 | Removed | `fiscal year 2002` |
-| Inserted | `fiscal years 2008 through 2013` |
+| Inserted | `fiscal years 2009 through 2014` |
 
 ## Stated, not applied
 
@@ -143,9 +98,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 280g-1` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g-1` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280g-1` | replace | by striking the term “newborn and infant” each place such term appears and inserting “newborn, infant, and young child”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280g-1` | replace | by striking “for purposes of this section, continue” and insert the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 280g-1` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 280g-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 280g-1` | replace | in paragraphs (2) and (3) of subsection (c), by striking the term “newborn and infant hearing screening, evaluation and intervention programs” each place such term appears and inserting “newborn, infant, and young child hearing screening… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 280g-1` | strike | by striking “, after rescreening,”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 280g-1` | replace | in paragraphs (2) and (3) of subsection (c), by striking the term “hearing screening, evaluation and intervention programs” each place such term appears and inserting “hearing screening, evaluation, diagnosis, and intervention programs”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 280g-1` | strike | in paragraph (6), by striking “, after rescreening,”; and | the bill quotes the text struck but describes what replaces it |
