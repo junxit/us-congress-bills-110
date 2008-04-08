@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2464
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -51,6 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 300w-9` | insert | by inserting before the period the following: “, $25,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2011”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300w-9` | insert | by inserting before the period the following: “, $25,000,000 for fiscal year 2009, $26,250,000 for fiscal year 2010, $27,562,500 for fiscal year 2011, $28,940,625 for fiscal year 2012, and $30,387,656 for fiscal year 2013”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300w-9` | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300w-9` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

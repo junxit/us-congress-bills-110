@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2464
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -37,7 +37,7 @@ Section 1910 of the Public Health Service Act (42 U.S.C. 300w–9) is amended—
 - **(1)** in subsection (a), by striking “3-year period (with an optional 4th year” and inserting “4-year period (with an optional 5th year”;
 - **(2)** in subsection (d)—
   - **(A)** by striking “and such sums” and inserting “such sums”; and
-  - **(B)** by inserting before the period the following: “, $25,000,000 for fiscal year 2008, and such sums as may be necessary for each of fiscal years 2009 through 2011”;
+  - **(B)** by inserting before the period the following: “, $25,000,000 for fiscal year 2009, $26,250,000 for fiscal year 2010, $27,562,500 for fiscal year 2011, $28,940,625 for fiscal year 2012, and $30,387,656 for fiscal year 2013”;
 - **(3)** by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and
 - **(4)** by inserting after subsection (a) the following:
   > - **(b)**
