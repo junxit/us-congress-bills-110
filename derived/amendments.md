@@ -1,7 +1,7 @@
 ---
 measure: S. 2162
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,3 +36,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 110(e)(2) of the Veterans' Health Care Act of 1984 (38 U.S.C. 1712A note) is amended by striking “through 2008” and inserting “through 2012”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “marriage and family counseling,” after “professional counseling,”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “as may be essential to” and inserting “as the Secretary considers appropriate for”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter II of chapter 73 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of chapter 73 of such title is amended by inserting after the item relating to section 7330 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 110(e)(2) of the Veterans' Health Care Act of 1984 (38 U.S.C. 1712A note; Public Law 98–528) is amended by striking “through 2008” and inserting “through 2012”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “marriage and family counseling,” after “professional counseling,”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “as may be essential to” and inserting “as the Secretary considers appropriate for”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsections (a) and (b) of section 1782, by inserting “marriage and family counseling,” after “professional counseling,”. | the bill names no machine-readable US Code section |
