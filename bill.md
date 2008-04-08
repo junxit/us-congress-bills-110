@@ -1,17 +1,17 @@
 ---
 legis-num: H.R. 2063
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2063
 
-> To direct the Secretary of Health and Human Services, in consultation with the Secretary of Education, to develop a voluntary policy for managing the risk of food allergy and anaphylaxis in schools, to establish school-based food allergy management grants, and for other purposes.
+> To direct the Secretary of Health and Human Services, in consultation with the Secretary of Education, to develop a voluntary policy for managing the risk of food allergy and anaphylaxis in schools.
 
 ## § 1. Short title
 
-This Act may be cited as the “Food Allergy and Anaphylaxis Management Act of 2007”.
+This Act may be cited as the “Food Allergy and Anaphylaxis Management Act of 2008”.
 
 ## § 2. Findings
 
@@ -49,7 +49,7 @@ In this Act:
 
 - **(a)** *Establishment* Not later than 1 year after the date of enactment of this Act, the Secretary shall—
   - **(1)** develop a policy to be used on a voluntary basis to manage the risk of food allergy and anaphylaxis in schools; and
-  - **(2)** make such policy available to local educational agencies and other interested individuals and entities to be implemented on a voluntary basis only.
+  - **(2)** make such policy available to local educational agencies and other interested individuals and entities, including licensed child care providers, preschool programs, and Head Start, to be implemented on a voluntary basis only.
 - **(b)** *Contents* The voluntary policy developed by the Secretary under subsection (a) shall contain guidelines that address each of the following:
   - **(1)** Parental obligation to provide the school, prior to the start of every school year, with—
     - **(A)** documentation from the student’s physician or nurse—
@@ -74,38 +74,6 @@ In this Act:
   - **(10)** The collection and publication of data for each administration of epinephrine to a student at risk for anaphylaxis.
 - **(c)** *Relation to State law* Nothing in this Act or the policy developed by the Secretary under subsection (a) shall be construed to preempt State law, including any State law regarding whether students at risk for anaphylaxis may self-administer medication.
 
-## § 5. School-based food allergy management grants
+## § 5. Voluntary nature of policy and guidelines
 
-- **(a)** *In general* The Secretary may award grants of not more than $50,000 to local educational agencies to assist such agencies with implementing voluntary food allergy management guidelines described in section 4.
-- **(b)** *Application*
-  - **(1)** *In general* To be eligible to receive a grant under this section, a local educational agency shall submit an application to the Secretary at such time, in such manner, and including such information as the Secretary may reasonably require.
-  - **(2)** *Contents* Each application submitted under paragraph (1) shall include—
-    - **(A)** a certification that the food allergy management guidelines described in section 4 have been adopted by the local educational agency;
-    - **(B)** a description of the activities to be funded by the grant in carrying out the food allergy management guidelines, including—
-      - **(i)** how the guidelines will be carried out at individual schools served by the local educational agency;
-      - **(ii)** how the local educational agency will inform parents and students of the food allergy management guidelines in place;
-      - **(iii)** how school nurses, teachers, administrators, and other school-based staff will be made aware of, and given training on, when applicable, the food allergy management guidelines in place; and
-      - **(iv)** any other activities that the Secretary determines appropriate;
-    - **(C)** an itemization of how grant funds received under this section will be expended;
-    - **(D)** a description of how adoption of the guidelines and implementation of grant activities will be monitored; and
-    - **(E)** an agreement by the local educational agency to report information required by the Secretary to conduct evaluations under this section.
-- **(c)** *Use of funds* Each local educational agency that receives a grant under this section may use the grant funds for the following:
-  - **(1)** Creation of systems and databases related to creation, storage, and maintenance of student records.
-  - **(2)** Purchase of equipment or services, or both, related to the creation, storage, and maintenance of student records.
-  - **(3)** In partnership with local health departments, school nurse, teacher, and personnel training for food allergy management.
-  - **(4)** Purchase and storage of limited medical supplies, including epinephrine and disposable wet wipes.
-  - **(5)** Programs that educate students as to the presence of, and policies and procedures in place related to, food allergies and anaphylactic shock.
-  - **(6)** Outreach to parents.
-  - **(7)** Any other activities consistent with the guidelines described in section 4.
-- **(d)** *Duration of awards* The Secretary may award grants under this section for a period of not more than 2 years. In the event the Secretary conducts a program evaluation under this section, funding in the second year of the grant, where applicable, shall be contingent on a successful program evaluation by the Secretary after the first year.
-- **(e)** *Maximum amount of annual awards* A grant awarded under this section may not be made in an amount that is more than $50,000 annually.
-- **(f)** *Priority* In awarding grants under this section, the Secretary shall give priority to local educational agencies that receive Federal funding under title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
-- **(g)** *Administrative funds* A local educational agency that receives a grant under this section may use not more than 2 percent of the grant amount for administrative costs related to carrying out this section.
-- **(h)** *Progress and evaluations* At the completion of the grant period referred to in subsection (d), a local educational agency shall provide the Secretary with information on the status of implementation of the food allergy management guidelines described in section 4.
-- **(i)** *Supplement, not supplant* Grant funds received under this section shall be used to supplement, and not supplant, non-Federal funds and any other Federal funds available to carry out the activities described in this section.
-- **(j)** *Authorization of appropriations* There are authorized to be appropriated to carry out this section $30,000,000 for fiscal year 2008 and such sums as may be necessary for each of the 4 succeeding fiscal years.
-
-## § 6. Voluntary nature of policy and guidelines
-
-- **(a)** *In general* The policy developed by the Secretary under section 4(a) and the food allergy management guidelines contained in such policy are voluntary. Nothing in this Act or the policy developed by the Secretary under section 4(a) shall be construed to require a local educational agency or school to implement such policy or guidelines.
-- **(b)** *Exception* Notwithstanding subsection (a), the Secretary may enforce an agreement by a local educational agency to implement food allergy management guidelines as a condition on the receipt of a grant under section 5.
+The policy developed by the Secretary under section 4(a) and the food allergy management guidelines contained in such policy are voluntary. Nothing in this Act or the policy developed by the Secretary under section 4(a) shall be construed to require a local educational agency or school to implement such policy or guidelines.
