@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3825
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 1 executed, 18 stated and not applied.
+16 amendatory instructions. 0 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 42 U.S.C. § 300b-8
-
-> in subsection (i), by striking “such sums” and all that follows through the period at the end and inserting “$15,000,000 for fiscal year 2008 and such sums as may be necessary for each of the fiscal years 2009 through 2012.”.
-
-| | |
-|---|---|
-| Removed | `such sums` |
-| Inserted | `$15,000,000 for fiscal year 2008 and such sums as may be necessary for each of the fiscal years 2009 through 2012.` |
 
 ## Stated, not applied
 
@@ -42,21 +31,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 280h` | add-at-end | Part Q of title III of the Public Health Service Act (42 U.S.C. 280h et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-8` | strike | in subparagraph (E), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 300b-8` | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-8` | insert | by inserting after subparagraph (E) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | replace | by striking subsections (a), (b), and (c) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | redesignate | by redesignating subsections (d) through (i) as subsections (e) through (j), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | insert | by inserting after subsection (c), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-8` | redesignate | by striking subsection (j) (as so redesignated) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-9` | add-at-end | Section 1110 of the Public Health Service Act (42 U.S.C. 300b–9) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-10` | insert | in paragraph (1), by inserting “and grants awarded under section 399Z–1” before the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300b-10` | redesignate | by redesignating paragraph (3) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | strike | in paragraph (2), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300b-10` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | redesignate | in paragraph (6) (as so redesignated by subparagraph (A)), by striking the period at the end and inserting “, which may include recommendations, advice, or information dealing with— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-10` | redesignate | by redesignating subparagraphs (E), (F) and (G) as subparagraphs (F), (H), and (I); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | redesignate | by redesignating subparagraphs (E), (F), and (G) as subparagraphs (F), (H), and (I), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | redesignate | by inserting after subparagraph (F), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-10` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 7, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 8, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 9, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 5, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 6, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
