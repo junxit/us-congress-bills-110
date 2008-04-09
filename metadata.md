@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2016
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2016
@@ -90,6 +90,17 @@ National Landscape Conservation System Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (8)
+
+- 2008-04-09 — [House 110-2-167](votes/house-110-2-0167.md) — On Agreeing to the Amendment — **Agreed to** (414–0)
+- 2008-04-09 — [House 110-2-168](votes/house-110-2-0168.md) — On Agreeing to the Amendment — **Failed** (175–246)
+- 2008-04-09 — [House 110-2-169](votes/house-110-2-0169.md) — On Agreeing to the Amendment — **Failed** (172–245)
+- 2008-04-09 — [House 110-2-170](votes/house-110-2-0170.md) — On Agreeing to the Amendment — **Agreed to** (333–89)
+- 2008-04-09 — [House 110-2-171](votes/house-110-2-0171.md) — On Agreeing to the Amendment — **Agreed to** (416–5)
+- 2008-04-09 — [House 110-2-172](votes/house-110-2-0172.md) — On Agreeing to the Amendment — **Agreed to** (214–207)
+- 2008-04-09 — [House 110-2-173](votes/house-110-2-0173.md) — On Motion to Recommit with Instructions — **Failed** (208–212)
+- 2008-04-09 — [House 110-2-174](votes/house-110-2-0174.md) — On Passage — **Passed** (278–140)
+
 ## Actions
 
 - 2007-04-24 — Introduced in House
@@ -103,3 +114,91 @@ National Landscape Conservation System Act
 - 2008-04-01 — Placed on the Union Calendar, Calendar No. 344.
 - 2008-04-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-561.
 - 2008-04-01 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-561.
+- 2008-04-08 — Rules Committee Resolution H. Res. 1084 Reported to House. Rule provides for consideration of H.R. 2016 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.
+- 2008-04-09 — Amendment (A001) offered by Mr. Grijalva. (consideration: CR H2105-2106, H2113; text: CR H2105)
+- 2008-04-09 — Amendment (A002) offered by Mr. Cannon. (consideration: CR H2106-2107; text: CR H2106)
+- 2008-04-09 — Amendment (A003) offered by Mr. Bishop (UT). (consideration: CR H2107-2108, H2113-2114; text: CR H2107)
+- 2008-04-09 — Amendment (A004) offered by Mr. Bishop (UT). (consideration: CR H2108-2109, H2114-2115; text: CR H2108)
+- 2008-04-09 — Amendment (A005) offered by Mr. Bishop (UT). (consideration: CR H2109, H2115; text: CR H2109)
+- 2008-04-09 — Amendment (A006) offered by Mr. Altmire. (consideration: CR H2109-2110, H2115-2116; text: CR H2109)
+- 2008-04-09 — Amendment (A007) offered by Mr. Pearce. (consideration: CR H2110-2111, H2116-2117; text: CR H2110)
+- 2008-04-09 — Amendment (A008) offered by Mr. Walden (OR). (consideration: CR H2111-2112, text: CR H2112)
+- 2008-04-09 — Amendment agreed to Committee of the Whole
+- 2008-04-09 — Amendment agreed to Committee of the Whole
+- 2008-04-09 — Amendment agreed to Committee of the Whole
+- 2008-04-09 — Amendment agreed to Committee of the Whole
+- 2008-04-09 — Amendment agreed to Committee of the Whole
+- 2008-04-09 — Amendment failed in Committee of the Whole
+- 2008-04-09 — Amendment failed in Committee of the Whole
+- 2008-04-09 — By unanimous consent, the Walden (OR) amendment was withdrawn.
+- 2008-04-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 2016 as unfinished business.
+- 2008-04-09 — Considered as unfinished business. (consideration: CR H2112-2119)
+- 2008-04-09 — Considered under the provisions of rule H. Res. 1084. (consideration: CR H2099-2112)
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Altmire amendment.
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Bishop (UT) amendment.
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Bishop (UT) amendment.
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Bishop (UT) amendment.
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Cannon amendment.
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Grijalva amendment.
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Pearce amendment.
+- 2008-04-09 — DEBATE - Pursuant to the provisions of H. Res. 1084, the Committee of the Whole proceeded with ten minutes of debate on the Walden amendment.
+- 2008-04-09 — DEBATE - The House proceeded with ten minutes of debate on the Cannon motion to recommit.
+- 2008-04-09 — Floor summary: DEBATE - The instructions contained in the motion seek to add language to the bill stating that nothing in this Act shall affect the right to bear arms under the Second Amendment within the National Landscape Conservation System.
+- 2008-04-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2016.
+- 2008-04-09 — House amendment agreed to: On agreeing to the Altmire amendment (A006) Agreed to by recorded vote: 416 - 5 (Roll no. 171).
+- 2008-04-09 — House amendment agreed to: On agreeing to the Bishop (UT) amendment (A005) Agreed to by recorded vote: 333 - 89 (Roll no. 170).
+- 2008-04-09 — House amendment agreed to: On agreeing to the Cannon amendment (A002) Agreed to by voice vote.
+- 2008-04-09 — House amendment agreed to: On agreeing to the Grijalva amendment (A001) Agreed to by recorded vote: 414 - 0 (Roll no. 167).
+- 2008-04-09 — House amendment agreed to: On agreeing to the Pearce amendment (A007) Agreed to by recorded vote: 214 - 207 (Roll no. 172).
+- 2008-04-09 — House amendment not agreed to: On agreeing to the Bishop (UT) amendment (A003) Failed by recorded vote: 175 - 246 (Roll no. 168).
+- 2008-04-09 — House amendment not agreed to: On agreeing to the Bishop (UT) amendment (A004) Failed by recorded vote: 172 - 245 (Roll no. 169).
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered
+- 2008-04-09 — House amendment offered/reported by : Amendment (A001) offered by Mr. Grijalva.(consideration: CR H2105-2106, H2113; text: CR H2105)
+- 2008-04-09 — House amendment offered/reported by : Amendment (A002) offered by Mr. Cannon.(consideration: CR H2106-2107; text: CR H2106)
+- 2008-04-09 — House amendment offered/reported by : Amendment (A003) offered by Mr. Bishop (UT).(consideration: CR H2107-2108, H2113-2114; text: CR H2107)
+- 2008-04-09 — House amendment offered/reported by : Amendment (A004) offered by Mr. Bishop (UT).(consideration: CR H2108-2109, H2114-2115; text: CR H2108)
+- 2008-04-09 — House amendment offered/reported by : Amendment (A005) offered by Mr. Bishop (UT).(consideration: CR H2109, H2115; text: CR H2109)
+- 2008-04-09 — House amendment offered/reported by : Amendment (A006) offered by Mr. Altmire.(consideration: CR H2109-2110, H2115-2116; text: CR H2109)
+- 2008-04-09 — House amendment offered/reported by : Amendment (A007) offered by Mr. Pearce.(consideration: CR H2110-2111, H2116-2117; text: CR H2110)
+- 2008-04-09 — House amendment offered/reported by : Amendment (A008) offered by Mr. Walden (OR).(consideration: CR H2111-2112, text: CR H2112)
+- 2008-04-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1084 and Rule XVIII.
+- 2008-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-09 — Mr. Cannon moved to recommit with instructions to Natural Resources.
+- 2008-04-09 — On agreeing to the Altmire amendment (A006) Agreed to by recorded vote: 416 - 5 (Roll no. 171).
+- 2008-04-09 — On agreeing to the Bishop (UT) amendment (A003) Failed by recorded vote: 175 - 246 (Roll no. 168).
+- 2008-04-09 — On agreeing to the Bishop (UT) amendment (A004) Failed by recorded vote: 172 - 245 (Roll no. 169).
+- 2008-04-09 — On agreeing to the Bishop (UT) amendment (A005) Agreed to by recorded vote: 333 - 89 (Roll no. 170).
+- 2008-04-09 — On agreeing to the Cannon amendment (A002) Agreed to by voice vote.
+- 2008-04-09 — On agreeing to the Grijalva amendment (A001) Agreed to by recorded vote: 414 - 0 (Roll no. 167).
+- 2008-04-09 — On agreeing to the Pearce amendment (A007) Agreed to by recorded vote: 214 - 207 (Roll no. 172).
+- 2008-04-09 — On motion to recommit with instructions Failed by recorded vote: 208 - 212 (Roll no. 173). (consideration: CR H2117)
+- 2008-04-09 — On passage Passed by recorded vote: 278 - 140 (Roll no. 174).
+- 2008-04-09 — POSTPONED PROCEEDINGS - At the end of debate on the Altmire amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Altmire demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-09 — POSTPONED PROCEEDINGS - At the end of debate on the Bishop (UT) amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Bishop (UT) demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-09 — POSTPONED PROCEEDINGS - At the end of debate on the Bishop (UT) amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-09 — POSTPONED PROCEEDINGS - At the end of debate on the Bishop (UT) amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the noes had prevailed. Mr. Bishop (UT) demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-09 — POSTPONED PROCEEDINGS - At the end of debate on the Grijalva amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Grijalva demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-09 — POSTPONED PROCEEDINGS - At the end of debate on the Pearce amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the noes had prevailed. Mr. Pearce demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-09 — Passed/agreed to in House: On passage Passed by recorded vote: 278 - 140 (Roll no. 174).
+- 2008-04-09 — Roll call votes on amendments in House
+- 2008-04-09 — Roll call votes on amendments in House
+- 2008-04-09 — Roll call votes on amendments in House
+- 2008-04-09 — Roll call votes on amendments in House
+- 2008-04-09 — Roll call votes on amendments in House
+- 2008-04-09 — Roll call votes on amendments in House
+- 2008-04-09 — Rule H. Res. 1084 passed House.
+- 2008-04-09 — Rule provides for consideration of H.R. 2016 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill.
+- 2008-04-09 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H2105)
+- 2008-04-09 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2008-04-09 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2016.
+- 2008-04-09 — The Speaker designated the Honorable Tim Holden to act as Chairman of the Committee.
+- 2008-04-09 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2117)
+- 2008-04-09 — The previous question was ordered pursuant to the rule.
+- 2008-04-09 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
