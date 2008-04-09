@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 865
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 865
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that the March 2007 report 
 
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 
-## Cosponsors (32)
+## Cosponsors (34)
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Burton, Dan [R-IN-5] (B001149)
@@ -50,6 +50,8 @@ Expressing the sense of the House of Representatives that the March 2007 report 
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 
 ## Committees (1)
 
@@ -60,3 +62,12 @@ Expressing the sense of the House of Representatives that the March 2007 report 
 - 2007-12-11 — Introduced in House
 - 2007-12-11 — Introduced in House
 - 2007-12-11 — Referred to the House Committee on Foreign Affairs.
+- 2008-02-27 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2008-02-27 — Committee Consideration and Mark-up Session Held.
+- 2008-04-09 — Considered under suspension of the rules. (consideration: CR H2078-2081)
+- 2008-04-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 865.
+- 2008-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-09 — Mr. Payne moved to suspend the rules and agree to the resolution, as amended.
+- 2008-04-09 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2078-2079)
+- 2008-04-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2078-2079)
+- 2008-04-09 — The title of the measure was amended. Agreed to without objection.
