@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5395
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5395
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 11001 D
 
 - Rep. Carnahan, Russ [D-MO-3] (C001060)
 
-## Cosponsors (18)
+## Cosponsors (56)
 
 - Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
@@ -36,6 +36,44 @@ To designate the facility of the United States Postal Service located at 11001 D
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 - Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
 
 ## Committees (1)
 
@@ -46,3 +84,11 @@ To designate the facility of the United States Postal Service located at 11001 D
 - 2008-02-12 — Introduced in House
 - 2008-02-12 — Introduced in House
 - 2008-02-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported by Voice Vote.
+- 2008-04-09 — Considered under suspension of the rules. (consideration: CR H2086-2088)
+- 2008-04-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5395.
+- 2008-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-09 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2008-04-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2086)
+- 2008-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2086)
