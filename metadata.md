@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1077
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1077
@@ -16,7 +16,7 @@ Calling on the Government of the People's Republic of China to end its crackdown
 
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Cosponsors (9)
+## Cosponsors (18)
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
@@ -27,6 +27,15 @@ Calling on the Government of the People's Republic of China to end its crackdown
 - Rep. Solis, Hilda L. [D-CA-32] (S001153)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 
 ## Committees (1)
 
@@ -37,3 +46,12 @@ Calling on the Government of the People's Republic of China to end its crackdown
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Referred to the House Committee on Foreign Affairs.
+- 2008-04-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-04-08 — Considered under suspension of the rules. (consideration: CR H2048-2058)
+- 2008-04-08 — DEBATE - By unanimous consent, debate time was expanded by an additional 20 minutes, equally divided and controlled.
+- 2008-04-08 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1077.
+- 2008-04-08 — Mr. Berman moved to suspend the rules and agree to the resolution.
+- 2008-04-09 — Considered as unfinished business. (consideration: CR H2098-2099)
+- 2008-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-09 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 166). (text: CR 4/8/2008 H2048)
+- 2008-04-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 413 - 1 (Roll no. 166).(text: CR 4/8/2008 H2048)
