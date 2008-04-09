@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 504
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 504
@@ -16,7 +16,7 @@ A resolution condemning the violence in Tibet and calling for restraint by the G
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (14)
+## Cosponsors (23)
 
 - Sen. Smith, Gordon H. [R-OR] (S001142)
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
@@ -32,6 +32,15 @@ A resolution condemning the violence in Tibet and calling for restraint by the G
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
 
 ## Committees (1)
 
@@ -42,3 +51,7 @@ A resolution condemning the violence in Tibet and calling for restraint by the G
 - 2008-04-07 — Introduced in Senate
 - 2008-04-07 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2638-2639)
 - 2008-04-07 — Sponsor introductory remarks on measure. (CR S2639-2641)
+- 2008-04-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2826-2827; text: CR S2827)
+- 2008-04-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2826-2827; text: CR S2827)
+- 2008-04-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2008-04-09 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
