@@ -1,7 +1,7 @@
 ---
 measure: S. 1522
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1522
@@ -26,8 +26,17 @@ Fisheries Restoration and Irrigation Mitigation Act of 2007
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Tester, Jon [D-MT] (T000464)
 
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
 ## Actions
 
 - 2007-05-24 — Introduced in Senate
 - 2007-05-24 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S6894-6895)
 - 2007-05-24 — Sponsor introductory remarks on measure. (CR S6894)
+- 2007-07-26 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-152.
+- 2008-01-30 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments and an amendment to the title. With written report No. 110-297.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments and an amendment to the title. With written report No. 110-297.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 649.
