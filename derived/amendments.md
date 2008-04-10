@@ -1,7 +1,7 @@
 ---
 measure: S. 128
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 0 executed, 31 stated and not applied.
+32 amendatory instructions. 0 executed, 32 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,3 +62,4 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | The Cache La Poudre River Corridor Act (16 U.S.C. 461 note; Public Law 104–323) is amended by inserting after section 108 (as redesignated by section 4(b)) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 109 of the Cache La Poudre River Corridor Act (16 U.S.C. 461 note; Public Law 104–323) (as redesignated by section 4(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | The Cache La Poudre River Corridor Act (16 U.S.C. 461 note; Public Law 104–323) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | The Cache La Poudre River Corridor Act (16 U.S.C. 461 note; Public Law 104–323) is repealed. | the bill names no machine-readable US Code section |
