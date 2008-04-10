@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2634
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2634
@@ -16,7 +16,7 @@ Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2008
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Cosponsors (6)
+## Cosponsors (104)
 
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -24,6 +24,104 @@ Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2008
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. DeFazio, Peter A. [D-OR-4] (D000191)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Frank, Barney [D-MA-4] (F000339)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Andrews, Robert E. [D-NJ-1] (A000210)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
 ## Committees (1)
 
@@ -35,3 +133,11 @@ Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2008
 - 2007-06-07 — Introduced in House
 - 2007-06-07 — Referred to the House Committee on Financial Services.
 - 2007-06-07 — Sponsor introductory remarks on measure. (CR E1244-1245)
+- 2007-07-17 — Referred to the Subcommittee on Domestic and International Monetary Policy, Trade, and Technology.
+- 2007-11-08 — Committee Hearings Held.
+- 2007-11-08 — Subcommittee on Domestic and International Monetary Policy, Trade, and Technology Discharged.
+- 2008-04-03 — Committee Consideration and Mark-up Session Held.
+- 2008-04-03 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-04-10 — Placed on the Union Calendar, Calendar No. 354.
+- 2008-04-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-575.
+- 2008-04-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-575.
