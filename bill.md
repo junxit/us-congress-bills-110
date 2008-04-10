@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1304
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -30,7 +30,7 @@ This Act may be cited as the “Arizona National Scenic Trail Act”.
   - **(6)** because the Arizona Trail is physically possible and financially feasible, no additional feasibility studies to designate the Arizona Trail as a national scenic trail are required.
 - **(b)** *Purpose* The purpose of this Act is to designate the Arizona Trail as a national scenic trail.
 
-## § 3. Arizona national scenic trail
+## § 3. Arizona National Scenic Trail
 
 Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following:
 
