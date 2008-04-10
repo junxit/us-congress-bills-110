@@ -1,7 +1,7 @@
 ---
 measure: S. 1969
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1969
@@ -25,8 +25,17 @@ Alexander Hamilton Boyhood Home Study Act of 2007
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Crapo, Mike [R-ID] (C000880)
 
+## Committees (1)
+
+- Senate — Energy and Natural Resources Committee
+
 ## Actions
 
 - 2007-08-02 — Introduced in Senate
 - 2007-08-02 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-08-02 — Sponsor introductory remarks on measure. (CR S10809-10810)
+- 2007-09-27 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-266.
+- 2008-01-30 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-305.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-305.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 657.

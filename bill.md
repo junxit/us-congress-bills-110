@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1969
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -25,6 +25,8 @@ Congress finds that—
 
 ## § 3. Study
 
+## § 2. Study
+
 - **(a)** *In general* The Secretary of the Interior (referred to in this Act as the “Secretary”), in consultation with the Governor of the Virgin Islands, shall conduct a special resource study of Estate Grange and other sites and resources associated with Alexander Hamilton’s life on St. Croix in the United States Virgin Islands.
 - **(b)** *Contents* In conducting the study under subsection (a), the Secretary shall evaluate—
   - **(1)** the national significance of the sites and resources; and
@@ -36,4 +38,6 @@ Congress finds that—
 
 ## § 4. Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this Act.
+## § 3. Authorization of appropriations
+
+-  There are authorized to be appropriated such sums as are necessary to carry out this Act.
