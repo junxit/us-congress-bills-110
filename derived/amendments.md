@@ -1,7 +1,7 @@
 ---
 measure: S. 2034
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,6 +34,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding paragraph (1), by striking “eight hundred fifty-nine thousand six hundred acres” and inserting “873,300 acres”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (29), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “19-mile segment” and inserting “29-mile segment”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “eight hundred fifty-nine thousand six hundred acres” and inserting “873,300 acres”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (29), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “19-mile segment” and inserting “29-mile segment”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following: | the bill names no machine-readable US Code section |
