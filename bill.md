@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1991
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Lewis and Clark National Historic Trail Extension Study Act of 2007”.
+This Act may be cited as the “Lewis and Clark National Historic Trail Extension Study Act of 2007 2008”.
 
 ## § 2. Definitions
 
@@ -29,9 +29,9 @@ In this Act:
     - **(A)** the preparation phase of the expedition starting in Monticello, located near Charlottesville, Virginia, and traveling to Wood River, Illinois; and
     - **(B)** the return phase of the expedition from St. Louis, Missouri, to Washington, D.C.;
   - **(2)** evaluate the suitability and feasibility of adding the Eastern Legacy sites to the Trail;
-  - **(3)** analyze the potential impact that the inclusion of the Eastern Legacy sites is likely to have on the Eastern Legacy sites; and
+  - **(3)** analyze the potential impact that the inclusion of the Eastern Legacy sitesadding the Eastern Legacy sites to the Trail is likely to have on the Eastern Legacy sites; and
   - **(4)** analyze the potential impact that the inclusion of the Eastern Legacy sites in the Trail is likely to have on tourist visitation to the western half of the Trail.
 - **(c)** *Criteria* The criteria for the study of areas for potential inclusion in the National Park System contained in section 8 of Public Law 91–383 (16 U.S.C. 1a–5) shall apply to the study under subsection (a).
-- **(d)** *Report* Not later than 2 years after the date on which funds are first made available for the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing—
+- **(d)** *Report* Not later than 23 years after the date on which funds are first made available for the study under subsection (a), the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing—
   - **(1)** the results of the study; and
   - **(2)** any conclusions and recommendations of the Secretary.
