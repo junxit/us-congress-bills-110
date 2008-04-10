@@ -1,7 +1,7 @@
 ---
 measure: S. 1247
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1247
@@ -16,6 +16,10 @@ Weir Farm National Historic Site Amendment Act
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
+## Cosponsors (1)
+
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +28,8 @@ Weir Farm National Historic Site Amendment Act
 
 - 2007-04-26 — Introduced in Senate
 - 2007-04-26 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-09-11 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-213.
+- 2008-01-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-289.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-289.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 641.
