@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1522
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Fisheries Restoration and Irrigation Mitigation Act of 2007”.
+This Act may be cited as the “Fisheries Restoration and Irrigation Mitigation Act of 20072008”.
 
 ## § 2. Priority projects
 
@@ -40,7 +40,7 @@ Section 9 of the Fisheries Restoration and Irrigation Mitigation Act of 2000 (16
 
 Section 10 of the Fisheries Restoration and Irrigation Mitigation Act of 2000 (16 U.S.C. 777 note; Public Law 106–502) is amended—
 
-- **(1)** in subsection (a), by striking “2001 through 2005” and inserting “2008 through 2014”; and
+- **(1)** in subsection (a), by striking “2001 through 2005” and inserting “2008 through 2014 2009 through 2015”; and
 - **(2)** in subsection (b), by striking paragraph (2) and inserting the following:
   > - **(2)** *Administrative expenses*
   >   - **(A)** *Definition of administrative expense* In this paragraph, the term “administrative expense” means, except as provided in subparagraph (B)(iii)(II), any expenditure relating to—

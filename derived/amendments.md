@@ -1,7 +1,7 @@
 ---
 measure: S. 1522
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -36,5 +36,5 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting “any” before “amounts are made”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after “Secretary shall” the following: “, after partnering with local governmental entities and the States in the Pacific Ocean drainage area,”. | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “2001 through 2005” and inserting “2008 through 2014”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “2001 through 2005” and inserting “2008 through 2014 2009 through 2015”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
