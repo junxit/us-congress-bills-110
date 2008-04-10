@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4881
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Contracting and Tax Accountability Act of 2007”.
+This Act may be cited as the “Contracting and Tax Accountability Act of 2008”.
 
 ## § 2. Governmental policy
 
@@ -24,12 +24,12 @@ Section 3720B of title 31, United States Code, is amended—
 - **(1)** in the section heading, by adding at the end “or contracts”;
 - **(2)** by adding at the end the following:
   > - **(c)**
-  >   - **(1)** Unless this subsection is waived by the head of a Federal agency, a person who has a seriously delinquent tax debt shall be proposed for debarment from any contract awarded by the Federal government pursuant to procedures established by regulation by the Administrator for Federal Procurement Policy.
-  >   - **(2)** The head of any Federal agency that issues an invitation for bids or a request for proposals for a negotiated acquisition shall require each person that submits a bid or proposal to submit with the bid or proposal a form—
+  >   - **(1)** Unless this subsection is waived by the head of a Federal agency, a person who has a seriously delinquent tax debt shall be proposed for debarment from any contract awarded by the Federal Government.
+  >   - **(2)** The head of any Federal agency that issues an invitation for bids or a request for proposals for a contract in an amount greater than the simplified acquisition threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 401(11)) shall require each person that submits a bid or proposal to submit with the bid or proposal a form—
   >     - **(A)** certifying that the person does not have a seriously delinquent tax debt; and
   >     - **(B)** authorizing the Secretary of the Treasury to disclose to the head of the agency information limited to describing whether the person has a seriously delinquent tax debt.
   >   - **(3)** The Secretary shall make available to all Federal agencies a standard form for the certification and authorization described in paragraph (2).
-  >   - **(4)** Not later than 270 days after the date of enactment of this subsection, the Administrator for Federal Procurement Policy shall issue revised regulations to incorporate the requirements of this subsection.
+  >   - **(4)** Not later than 270 days after the date of enactment of this subsection, the Federal Acquisition Regulation shall be revised to incorporate the requirements of this subsection.
   >   - **(5)** For purposes of this subsection:
   >     - **(A)** The term contract means a binding agreement entered into by a Federal agency for the purpose of obtaining property or services, but does not include—
   >       - **(i)** a contract designated by the head of the agency as assisting the agency in the performance of disaster relief authorities; or
