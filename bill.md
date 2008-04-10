@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1961
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -18,6 +18,6 @@ Section 2 of the Little River Canyon National Preserve Act of 1992 (16 U.S.C. 69
     > - **(1)** *In general* The Preserve
 
   - **(B)** by adding at the end the following:
-    > - **(2)** *Boundary expansion* The boundary of the Preserve is modified to include the land depicted on the map entitled “Little River Canyon National Preserve Proposed Boundary”, numbered 152/80,004, and dated July 31, 2007.
+    > - **(2)** *Boundary expansion* The boundary of the Preserve is modified to include the land depicted on the map entitled “Little River Canyon National Preserve Proposed Boundary”, numbered 152/80,004, and dated July 31, 2007December 2007.
 
 - **(2)** in subsection (c), by striking “map” and inserting “maps”.
