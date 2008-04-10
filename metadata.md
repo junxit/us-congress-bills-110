@@ -1,7 +1,7 @@
 ---
 measure: S. 1341
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1341
@@ -29,3 +29,8 @@ Las Cienegas Enhancement and Saguaro National Park Boundary Adjustment Act
 - 2007-05-09 — Introduced in Senate
 - 2007-05-09 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-05-09 — Sponsor introductory remarks on measure. (CR S5871)
+- 2007-09-27 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-266.
+- 2008-01-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-292.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-292.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 644.
