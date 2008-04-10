@@ -1,7 +1,7 @@
 ---
 measure: S. 1940
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1940
@@ -29,3 +29,8 @@ Rio Puerco Watershed Management Program Reauthorization Act
 - 2007-08-02 — Introduced in Senate
 - 2007-08-02 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-08-02 — Sponsor introductory remarks on measure. (CR S10792)
+- 2007-09-20 — Committee on Energy and Natural Resources Senate Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-216.
+- 2008-01-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-302.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-302.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 654.
