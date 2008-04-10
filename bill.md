@@ -1,7 +1,7 @@
 ---
 legis-num: S. 127
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -38,4 +38,5 @@ Section 6 of the Great Sand Dunes National Park and Preserve Act of 2000 (16 U.S
   - **(A)** in paragraph (1), by striking “and” at the end;
   - **(B)** in paragraph (2), by striking the period at the end and inserting “; and”; and
   - **(C)** by adding at the end the following:
-    > - **(3)** use decreed water rights on the Refuge in approximately the same manner that the water rights have been used historically.
+    > - **(3)** use decreed water rights on the Refuge in approximately the same manner that the water rights have been used historically.”.
+    > - **(3)** subject to any agreement in existence as of the date of enactment of this paragraph, and to the extent consistent with the purposes of the Refuge, use decreed water rights on the Refuge in approximately the same manner that the water rights have been used historically.
