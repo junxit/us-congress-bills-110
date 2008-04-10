@@ -1,7 +1,7 @@
 ---
 measure: S. 86
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 86
@@ -29,3 +29,8 @@ Fossil Creek Wild and Scenic River Act
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S93-94)
+- 2007-11-08 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-282.
+- 2008-01-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-283.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-283.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.
