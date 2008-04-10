@@ -1,7 +1,7 @@
 ---
 measure: S. 1921
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+4 amendatory instructions. 2 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,3 +41,15 @@ to guess them.
 |---|---|
 | Removed | `September 30, 2008` |
 | Inserted | `September 30, 2013` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| — | replace | in subsection (d)(7)(A), by striking “fiscal years 2004 through 2008” and inserting “fiscal years 2009 through 2013”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e). | the bill names no machine-readable US Code section |
