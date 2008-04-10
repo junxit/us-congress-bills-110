@@ -1,7 +1,7 @@
 ---
 measure: S. 1940
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating subparagraphs (I) through (N) as subparagraphs (J) through (O), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (H) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (I) through (N) as subparagraphs (J) through (O), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (H) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “enactment of this Act” and inserting “enactment of the Rio Puerco Watershed Management Program Reauthorization Act”. | the bill names no machine-readable US Code section |
 | — | replace | Section 401(e) of the Omnibus Parks and Public Lands Management Act of 1996 (Public Law 104–333; 110 Stat. 4148) is amended by striking “enactment of this Act” and inserting “enactment of the Rio Puerco Watershed Management Program Reaut… | the bill names no machine-readable US Code section |
