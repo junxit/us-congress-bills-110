@@ -1,7 +1,7 @@
 ---
 measure: S. 2220
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating section 4 as section 5; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 3 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 1535 of title 36, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
