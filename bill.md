@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1329
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Acadia National Park Improvement Act of 2007”.
+This Act may be cited as the “Acadia National Park Improvement Act of 2008”.
 
 ## § 2. Extension of land conveyance authority
 
@@ -34,10 +34,10 @@ Title I of Public Law 99–420 (16 U.S.C. 341 note) is amended by adding at the 
 
 > ## § 108. Intermodal transportation center
 >
-> - **(a)** *In general* The Secretary shall provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park.
-> - **(b)** *Agreements* To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and cooperative agreements, under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—
+> - **(a)** *In general* The Secretary shallmay provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park.
+> - **(b)** *Agreements* To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and cooperative agreementsand, notwithstanding chapter 63 of title 31, United States Code, cooperative agreements under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—
 >   - **(1)** to provide exhibits, interpretive services (including employing individuals to provide such services), and technical assistance;
->   - **(2)** to conduct activities that facilitate the dissemination of information relating to the Park and the Island Explorer transit system;
+>   - **(2)** to conduct activities that facilitate the dissemination of information relating to the Park and the Island Explorer transit systemsystem (or any successor transit system);
 >   - **(3)** to provide financial assistance for the construction of the intermodal transportation center in exchange for space in the center that is sufficient to interpret the Park; and
 >   - **(4)** to assist with the operation and maintenance of the intermodal transportation center.
 > - **(c)** *Authorization of appropriations*
