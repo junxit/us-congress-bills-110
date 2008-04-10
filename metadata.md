@@ -1,7 +1,7 @@
 ---
 measure: S. 127
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 127
@@ -29,3 +29,8 @@ A bill to amend the Great Sand Dunes National Park and Preserve Act of 2000 to e
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S126)
+- 2007-09-11 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-213.
+- 2008-01-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-284.
+- 2008-04-10 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-284.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 636.
