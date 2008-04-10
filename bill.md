@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1939
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,13 +19,16 @@ In this Act:
 
 - **(1)** *Claim* The term Claim means a claim of the Claimants against the United States under—
   - **(A)** the administrative adjudication of Ramona and Boyd Lawson, IBLA 97–459, NMNM–96160, 159 IBLA 184 (June 4, 2003); or
-  - **(B)** section 316 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1746).
+  - **(B)** section 316 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1746).of the Claimants to any right, title, or interest in any land located in lot 10, sec. 22, T. 18 N., R. 12 E., New Mexico Principal Meridian, San Miguel County, New Mexico, except as provided in section (3)(a).
 - **(2)** *Claimants* The term Claimants means Ramona Lawson and Boyd Lawson.
 - **(3)** *Federal land* The term Federal land means a parcel of National Forest System land in the Santa Fe National Forest, New Mexico, that is—
   - **(A)** a portion of the land occupied by improvements that is referred to in the administrative adjudication described in paragraph (1)(A);
   - **(B)** comprised of approximately 6.20 acres of land;
   - **(C)** in lot 10, sec. 22, T. 18 N., R. 12 E., New Mexico Principal Meridian, San Miguel County, New Mexico; and
   - **(D)** described and delineated in the survey.
+- **(3)** *Federal land* The term Federal land means a parcel of National Forest System land in the Santa Fe National Forest, New Mexico, that is—
+  - **(A)** comprised of approximately 6.20 acres of land; and
+  - **(B)** described and delineated in the survey.
 - **(4)** *Secretary* The term Secretary means the Secretary of Agriculture, acting through the Forest Service Regional Forester, Southwestern Region.
 - **(5)** *Survey* The term survey means the survey plat entitled “Boundary Survey and Conservation Easement Plat”, prepared by Chris A. Chavez, Land Surveyor, Forest Service, NMPLS#12793, and recorded on February 27, 2007, at book 55, page 93, of the land records of San Miguel County, New Mexico.
 
