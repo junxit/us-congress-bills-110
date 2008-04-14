@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5493
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5493
@@ -16,6 +16,11 @@ To provide that the usual day for paying salaries in or under the House of Repre
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
+## Cosponsors (2)
+
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+
 ## Committees (1)
 
 - House — Committee on House Administration
@@ -25,3 +30,8 @@ To provide that the usual day for paying salaries in or under the House of Repre
 - 2008-02-26 — Introduced in House
 - 2008-02-26 — Introduced in House
 - 2008-02-26 — Referred to the House Committee on House Administration.
+- 2008-04-02 — Committee Consideration and Mark-up Session Held.
+- 2008-04-02 — Ordered to be Reported by Voice Vote.
+- 2008-04-14 — Placed on the Union Calendar, Calendar No. 363.
+- 2008-04-14 — Reported by the Committee on House Administration. H. Rept. 110-588.
+- 2008-04-14 — Reported by the Committee on House Administration. H. Rept. 110-588.
