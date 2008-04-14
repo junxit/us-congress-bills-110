@@ -26,21 +26,27 @@ In this Act:
 
 ## § 4. Responsibilities of Federal agencies
 
-- **(a)** *Requirement To use plain language in new documents* Within one year after the date of the enactment of this Act, each agency—
+- **(a)** *Requirement to use plain language in new documents* Within one year after the date of the enactment of this Act, each agency—
   - **(1)** shall use plain language in any covered document of the agency issued or substantially revised after the date of the enactment of this Act;
   - **(2)** may use plain language in any revision of a covered document issued on or before such date; and
-  - **(3)** shall, to the maximum extent practicable, preserve and enhance the role of English by using the English language in all covered documents.
+  - **(3)** shall, when appropriate, use the English language in covered documents.
 - **(b)** *Guidance* In implementing subsection (a), an agency may follow either the guidance of the Plain English Handbook, published by the Securities and Exchange Commission, or the Federal Plain Language Guidelines. If any agency has its own plain language guidance, the agency may use that guidance, as long as it is consistent with the Federal Plain Language Guidelines, the Plain English Handbook, published by the Securities and Exchange Commission, and the recommendations made by the Comptroller General under section 5(c).
 - **(c)** *Additional provisions relating to use of English language* Nothing in this Act shall be construed—
   - **(1)** to prohibit the use of a language other than English;
   - **(2)** to limit the preservation or use of Native Alaskan or Native American languages (as defined in the Native American Languages Act);
-  - **(3)** to disparage any language or discourage any person from learning or using a language; or
-  - **(4)** to be inconsistent with the Constitution of the United States.
+  - **(3)** to disparage any language or discourage any person from learning or using a language;
+  - **(4)** to impact or affect protections regarding language access; or
+  - **(5)** to be inconsistent with the Constitution of the United States.
 - **(d)** *Covered document* In this section, the term covered document—
   - **(1)** means any document that explains how to obtain a benefit or service or file taxes, or that is relevant to obtaining a benefit or service or filing taxes; and
   - **(2)** includes, whether in paper or electronic form, a letter, publication, form, notice, or instruction but does not include a regulation.
 - **(e)** *Use of plain language by agencies* Each agency should, to the extent practicable and appropriate, use plain language in any collection of information (as defined in section 3502(3)(A)(i) of title 44, United States Code).
-- **(f)** *Incorporation of Comptroller General Recommendations* Upon issuance of the report provided by the Comptroller General under section 5(c), the Federal Plain Language Guidelines and the Plain English Handbook published by the Securities and Exchange Commission shall be updated to incorporate the recommendations made by the Comptroller General.
+- **(f)** *Incorporation of Comptroller General Recommendations*
+  - **(1)** *Reports*
+    - **(A)** *Federal aviation administration* The Administrator of the Federal Aviation Administration, acting through the Plain Language Action and Information Network, shall submit to the committees described in paragraph (2) a report on whether the recommendations made by the Comptroller General in the report under section 5(c) have been incorporated into the Federal Plain Language Guidelines described in subsection (b), and, if such recommendations have not been incorporated, an explanation of why they have not been incorporated.
+    - **(B)** *Securities and Exchange commission* The Securities and Exchange Commission shall submit to the committees described in paragraph (2) a report on whether the recommendations made by the Comptroller General in the report under section 5(c) have been incorporated into the Plain English Handbook described in subsection (b), and, if such recommendations have not been incorporated, an explanation of why they have not been incorporated.
+  - **(2)** *Committees* The committees described in this paragraph are the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+  - **(3)** *Deadline* The reports required under paragraph (1) shall be submitted within six months after the issuance of the report provided by the Comptroller General under section 5(c).
 
 ## § 5. Reports to Congress
 
