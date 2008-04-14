@@ -49,7 +49,7 @@ Section 3720B of title 31, United States Code, is amended—
   >       - **(i)** The term seriously delinquent tax debt means an outstanding debt under the Internal Revenue Code of 1986 for which a notice of lien has been filed in public records pursuant to section 6323 of such Code.
   >       - **(ii)** Such term does not include—
   >         - **(I)** a debt that is being paid in a timely manner pursuant to an agreement under section 6159 or section 7122 of such Code; and
-  >         - **(II)** a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsections (a), (b), or (f) of section 6015 of such Code, is requested or pending.
+  >         - **(II)** a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsection (a), (b), or (f) of section 6015 of such Code, is requested or pending.
 
 ## § 4. Prohibition on awarding of grants to delinquent Federal debtors
 
@@ -75,4 +75,4 @@ Section 3720B of title 31, United States Code, is amended—
     - **(A)** *In general* The term seriously delinquent tax debt means an outstanding debt under the Internal Revenue Code of 1986 for which a notice of lien has been filed in public records pursuant to section 6323 of such Code.
     - **(B)** *Exceptions* Such term does not include—
       - **(i)** a debt that is being paid in a timely manner pursuant to an agreement under section 6159 or section 7122 of such Code; and
-      - **(ii)** a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsections (a), (b), or (f) of section 6015 of such Code, is requested or pending.
+      - **(ii)** a debt with respect to which a collection due process hearing under section 6330 of such Code, or relief under subsection (a), (b), or (f) of section 6015 of such Code, is requested or pending.
