@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5719
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5719
@@ -16,7 +16,7 @@ Taxpayer Assistance and Simplification Act of 2008
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (16)
+## Cosponsors (17)
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 - Rep. Lewis, John [D-GA-5] (L000287)
@@ -34,6 +34,7 @@ Taxpayer Assistance and Simplification Act of 2008
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
 ## Committees (1)
 
@@ -44,3 +45,11 @@ Taxpayer Assistance and Simplification Act of 2008
 - 2008-04-08 — Introduced in House
 - 2008-04-08 — Introduced in House
 - 2008-04-08 — Referred to the House Committee on Ways and Means.
+- 2008-04-09 — Committee Consideration and Mark-up Session Held.
+- 2008-04-09 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 17.
+- 2008-04-14 — Placed on the Union Calendar, Calendar No. 362.
+- 2008-04-14 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-584, Part I.
+- 2008-04-14 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-584, Part I.
+- 2008-04-14 — Rules Committee Resolution H. Res. 1102 Reported to House. Rule provides for consideration of H.R. 5719 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
+- 2008-04-14 — Supplemental report filed by the Committee on Ways and Means, H. Rept. 110-584, Part II.
+- 2008-04-14 — Supplemental report filed by the Committee on Ways and Means, H. Rept. 110-584, Part II.
