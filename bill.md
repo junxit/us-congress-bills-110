@@ -73,7 +73,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(c)** *Clerical amendment* The table of sections for chapter 25 is amended by adding at the end the following new item:
 - **(d)** *Effective date* The amendments made by this section shall apply to amounts paid after December 31, 2008.
 
-## § 6. Referrals to low-income taxpayer clinics permitted
+## § 6. Referrals to low income taxpayer clinics permitted
 
 - **(a)** *In general* Subsection (c) of section 7526 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
   > - **(6)** *Treasury employees permitted to refer taxpayers to qualified low-income taxpayer clinics* Notwithstanding any other provision of law, officers and employees of the Department of the Treasury may refer taxpayers for advice and assistance to qualified low-income taxpayer clinics receiving funding under this section.
@@ -96,7 +96,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(b)** *Increase in authorized grants for low-income taxpayer clinics* Paragraph (1) of section 7526(c) (relating to aggregate limitation) is amended by striking “$6,000,000” and inserting “$10,000,000”.
 - **(c)** *Clerical amendments*
-  - **(1)** Section 7526(c)(5) is amended by striking the last sentence by inserting “qualified” before “low-income”.
+  - **(1)** Section 7526(c)(5) is amended by inserting “qualified” before “low-income”.
   - **(2)** The table of sections for chapter 77 is amended by inserting after the item relating to section 7526 the following new item:
 - **(d)** *Effective Date* The amendments made by this section shall take effect on the date of the enactment of this Act.
 
@@ -176,8 +176,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(5)** The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A.
 - **(c)** *Effective date*
   - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall take effect on the date of the enactment of this Act.
-  - **(2)** *Exception for existing contracts, etc* The amendments made by this section shall not apply to any contract which was entered into before July 18, 2007, and is not renewed or extended on or after March 1, 2008.
-  - **(3)** *Unauthorized contracts and extensions treated as void* Any qualified tax collection contract (as defined in section 6306 of the Internal Revenue Code of 1986, as in effect before its repeal) which is entered into on or after July 18, 2007, and any extension or renewal on or after March 1, 2008, of any qualified tax collection contract (as so defined) shall be void.
+  - **(2)** *Exception for existing contracts, etc* The amendments made by this section shall not apply to any contract which was entered into before March 1, 2008, and is not renewed or extended on or after such date.
+  - **(3)** *Unauthorized contracts and extensions treated as void* Any qualified tax collection contract (as defined in section 6306 of the Internal Revenue Code of 1986, as in effect before its repeal) which is entered into on or after March 1, 2008, and any extension or renewal on or after such date of any qualified tax collection contract (as so defined), shall be void.
 
 ## § 15. Clarification of IRS unclaimed refund authority
 
@@ -191,7 +191,7 @@ Paragraph (1) of section 6103(m) (relating to tax refunds) is amended by inserti
 
 ## § 17. Substantiation of amounts paid or distributed out of health savings account
 
-- **(a)** *In general* Paragraph (1) of section 223(f) (relating to amounts used for qualified medical expenses) is amended by inserting “(and substantiated in a manner similar to the substantiation required for flexible spending arrangements)” after “account beneficiary”.
+- **(a)** *In general* Paragraph (1) of section 223(f) (relating to amounts used for qualified medical expenses) is amended by inserting “(and, in the case of amounts paid or distributed after December 31, 2010, substantiated in a manner similar to the substantiation required for flexible spending arrangements)” after “account beneficiary”.
 - **(b)** *Reports* Subsection (h) of section 223 (relating to reports) is amended—
   - **(1)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively,
   - **(2)** by moving the text of subparagraphs (A) and (B) (as so redesignated) and the last sentence 2 ems to the right,
@@ -200,49 +200,40 @@ Paragraph (1) of section 6103(m) (relating to tax refunds) is amended by inserti
     >   - **(1)** *In general* The Secretary may require—
 
   - **(4)** by adding at the end the following new paragraph:
-    > - **(2)** *Relating to substantiation* Not later than January 15 of each calendar year, the trustee of a health savings account shall make a report regarding such account to the Secretary and the account beneficiary setting forth—
+    > - **(2)** *Relating to substantiation* Not later than January 15 of each calendar year after 2011, the trustee of a health savings account shall make a report regarding such account to the Secretary and the account beneficiary setting forth—
     >   - **(A)** the name, address, and identifying number of the account beneficiary, and
     >   - **(B)** the amount paid or distributed out of such account for the preceding calendar year not substantiated in accordance with subsection (f)(1).
 
-- **(c)** *Effective date* The amendments made by this section shall apply with respect to amounts paid or distributed out of health savings accounts after December 31, 2008.
+- **(c)** *Effective date* The amendments made by this section shall apply with respect to amounts paid or distributed out of health savings accounts after December 31, 2010.
 
-## § 18. Increase in information return penalties
+## § 18. Certain domestically controlled foreign persons performing services under contract with United States Government treated as American employers
 
-- **(a)** *Failure To file correct information returns*
-  - **(1)** *In general* Subsections (a)(1), (b)(1)(A), and (b)(2)(A) of section 6721 are each amended by striking “$50” and inserting “$100”.
-  - **(2)** *Aggregate annual limitation* Subsections (a)(1), (d)(1)(A), and (e)(3)(A) of section 6721 are each amended by striking “$250,000” and inserting “$1,500,000”.
-- **(b)** *Reduction where correction within 30 days*
-  - **(1)** *In general* Subparagraph (A) of section 6721(b)(1) is amended by striking “$15” and inserting “$25”.
-  - **(2)** *Aggregate annual limitation* Subsections (b)(1)(B) and (d)(1)(B) of section 6721 are each amended by striking “$75,000” and inserting “$250,000”.
-- **(c)** *Reduction where correction on or before August 1*
-  - **(1)** *In general* Subparagraph (A) of section 6721(b)(2) is amended by striking “$30” and inserting “$60”.
-  - **(2)** *Aggregate annual limitation* Subsections (b)(2)(B) and (d)(1)(C) of section 6721 are each amended by striking “$150,000” and inserting “$500,000”.
-- **(d)** *Aggregate annual limitations for persons with gross receipts of not more than $5,000,000* Paragraph (1) of section 6721(d) is amended—
-  - **(1)** by striking “$100,000” in subparagraph (A) and inserting “$500,000”,
-  - **(2)** by striking “$25,000” in subparagraph (B) and inserting “$75,000”, and
-  - **(3)** by striking “$50,000” in subparagraph (C) and inserting “$200,000”.
-- **(e)** *Penalty in case of intentional disregard* Paragraph (2) of section 6721(e) is amended by striking “$100” and inserting “$250”.
-- **(f)** *Failure To Furnish Correct Payee Statements*
-  - **(1)** *In general* Subsection (a) of section 6722 is amended by striking “$50” and inserting “$100”.
-  - **(2)** *Aggregate annual limitation* Subsections (a) and (c)(2)(A) of section 6722 are each amended by striking “$100,000” and inserting “$1,500,000”.
-  - **(3)** *Penalty in case of intentional disregard* Paragraph (1) of section 6722(c) is amended by striking “$100” and inserting “$250”.
-- **(g)** *Failure To comply with other information reporting requirements* Section 6723 is amended—
-  - **(1)** by striking “$50” and inserting “$100”, and
-  - **(2)** by striking “$100,000” and inserting “$1,500,000”.
-- **(h)** *Effective date* The amendments made by this section shall apply with respect to information returns required to be filed after December 31, 2008.
+- **(a)** *FICA taxes* Section 3121 (relating to definitions) is amended by adding at the end the following new subsection:
+  > - **(z)** *Treatment of certain foreign persons as American employers*
+  >   - **(1)** *In general* If any employee of a foreign person is performing services in connection with a contract between the United States Government (or any instrumentality thereof) and any member of any domestically controlled group of entities which includes such foreign person, such foreign person shall be treated for purposes of this chapter as an American employer with respect to such services performed by such employee.
+  >   - **(2)** *Domestically controlled group of entities* For purposes of this subsection—
+  >     - **(A)** *In general* The term domestically controlled group of entities means a controlled group of entities the common parent of which is a domestic corporation.
+  >     - **(B)** *Controlled group of entities* The term controlled group of entities means a controlled group of corporations as defined in section 1563(a)(1), except that—
+  >       - **(i)** “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein, and
+  >       - **(ii)** the determination shall be made without regard to subsections (a)(4) and (b)(2) of section 1563.
+  >   - **(3)** *Liability of common parent* In the case of a foreign person who is a member of any domestically controlled group of entities, the common parent of such group shall be jointly and severally liable for any tax under this chapter for which such foreign person is liable by reason of this subsection, and for any penalty imposed on such person by this title with respect to any failure to pay such tax or to file any return or statement with respect to such tax or wages subject to such tax. No deduction shall be allowed under this title for any liability imposed by the preceding sentence.
+  >   - **(4)** *Coordination* Paragraph (1) shall not apply to any services which are covered by an agreement under subsection (l).
+  >   - **(5)** *Cross reference* For relief from taxes in cases covered by certain international agreements, see sections 3101(c) and 3111(c).
 
-## § 19. Increase in penalty for failure to file partnership returns
+- **(b)** *Social Security benefits* Subsection (e) of section 210 of the Social Security Act (42 U.S.C. 410(e)) is amended—
+  - **(1)** by striking “(e) The term” and inserting “(e)(1) The term”,
+  - **(2)** by redesignating clauses (1) through (6) as clauses (A) through (F), respectively, and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(2)**
+    >   - **(A)** If any employee of a foreign person is performing services in connection with a contract between the United States Government (or any instrumentality thereof) and any member of any domestically controlled group of entities which includes such foreign person, such foreign person shall be treated as an American employer with respect to such services performed by such employee.
+    >   - **(B)** For purposes of this paragraph—
+    >     - **(i)** The term domestically controlled group of entities means a controlled group of entities the common parent of which is a domestic corporation.
+    >     - **(ii)** The term controlled group of entities means a controlled group of corporations as defined in section 1563(a)(1) of the Internal Revenue Code of 1986, except that—
+    >       - **(I)** “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein, and
+    >       - **(II)** the determination shall be made without regard to subsections (a)(4) and (b)(2) of section 1563 of such Code.
 
-Section 6698 is amended by adding at the end the following new subsection:
+- **(c)** *Effective date* The amendment made by this section shall apply to services performed after the date of the enactment of this Act.
 
-> - **(e)** *Modifications* In the case of any return required to be filed after December 31, 2008, the dollar amount in effect under subsection (b)(1) shall be increased by $15.
-
-## § 20. Increase in penalty for failure to file S corporation return
-
-Section 6699 is amended by adding at the end the following new subsection:
-
-> - **(e)** *Modifications* In the case of any return required to be filed after December 31, 2008, the dollar amount in effect under subsection (b)(1) shall be increased by $15.
-
-## § 21. Time for payment of corporate estimated tax
+## § 19. Time for payment of corporate estimated tax
 
 The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 in effect on the date of the enactment of this Act is increased by 0.25 percentage points.
