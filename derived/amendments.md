@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5715
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -77,8 +77,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 1078` | insert | in the first sentence, by inserting “or designates an institution of higher education for participation in the program under this subsection under paragraph (4),” after “under this part”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078` | insert | in the third sentence, by inserting “or to eligible borrowers who attend an institution in the State that is designated under paragraph (4)” after “problems”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1078` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1071` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1071` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087a` | insert | by inserting “(1)” after “as may be necessary”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1087a` | insert | by inserting before the period at the end of such sentence the following: “; and (2) for purchasing loans under section 459A”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087a` | insert | Part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) is amended by inserting after section 459 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1087a` | insert | Section 456(b) of the Higher Education Act of 1965 (20 U.S.C. 1087f(b)) is amended by inserting “or purchased” after “loans made” each place it appears in paragraphs (2) and (3). | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 1087f` | insert | Section 456(b) of the Higher Education Act of 1965 (20 U.S.C. 1087f(b)) is amended by inserting “or purchased” after “loans made” each place it appears in paragraphs (2) and (3). | the bill quotes the text inserted but describes where it goes |
