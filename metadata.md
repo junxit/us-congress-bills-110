@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5715
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5715
@@ -16,7 +16,7 @@ Ensuring Continued Access to Student Loans Act of 2008
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (16)
+## Cosponsors (32)
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
@@ -34,6 +34,22 @@ Ensuring Continued Access to Student Loans Act of 2008
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Wu, David [D-OR-1] (W000793)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Davis, David [R-TN-1] (D000606)
+- Rep. Keller, Ric [R-FL-8] (K000361)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
 ## Committees (1)
 
@@ -44,3 +60,8 @@ Ensuring Continued Access to Student Loans Act of 2008
 - 2008-04-08 — Introduced in House
 - 2008-04-08 — Introduced in House
 - 2008-04-08 — Referred to the House Committee on Education and Labor.
+- 2008-04-09 — Committee Consideration and Mark-up Session Held.
+- 2008-04-09 — Ordered to be Reported by Voice Vote.
+- 2008-04-14 — Placed on the Union Calendar, Calendar No. 361.
+- 2008-04-14 — Reported by the Committee on Education and Labor. H. Rept. 110-583.
+- 2008-04-14 — Reported by the Committee on Education and Labor. H. Rept. 110-583.
