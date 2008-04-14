@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3548
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3548
@@ -68,3 +68,11 @@ Plain Language in Government Communications Act of 2008
 - 2008-04-10 — Placed on the Union Calendar, Calendar No. 358.
 - 2008-04-10 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-580.
 - 2008-04-10 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-580.
+- 2008-04-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-04-14 — Considered as unfinished business. (consideration: CR H2245)
+- 2008-04-14 — Considered under suspension of the rules. (consideration: CR H2237-2239)
+- 2008-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3548.
+- 2008-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-14 — Mr. Braley (IA) moved to suspend the rules and pass the bill, as amended.
+- 2008-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 1 (Roll no. 185). (text: CR H2237)
+- 2008-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 1 (Roll no. 185).(text: CR H2237)
