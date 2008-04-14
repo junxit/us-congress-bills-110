@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5570
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 8 U.S.C. § 1101
+
+> Section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)) is amended by striking “October 1, 2008,” each place such term appears and inserting “January 1, 2010,”.
+
+| | |
+|---|---|
+| Removed | `October 1, 2008,` |
+| Inserted | `January 1, 2010,` |
+
+### 8 U.S.C. § 1101
+
+> Section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)), as amended by paragraph (1), is further amended by striking “January 1, 2010,” each place such term appears and inserting “January 1, 2016,”.
+
+| | |
+|---|---|
+| Removed | `January 1, 2010,` |
+| Inserted | `January 1, 2016,` |
 
 ## Stated, not applied
 
@@ -31,4 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)) is amended by striking “before October 1, 2008,” each place such term appears. | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1101` | strike | Section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)) is amended by striking “before October 1, 2008,” each place such term appears. | the bill quotes the text struck but describes what replaces it |
