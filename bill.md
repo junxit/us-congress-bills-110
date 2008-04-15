@@ -2,7 +2,7 @@
 legis-num: H. RES. 1102
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1102
@@ -14,3 +14,16 @@ That upon the adoption of this resolution it shall be in order to consider in th
 ## § 2.
 
 During consideration of H.R. 5719 pursuant to this resolution, notwithstanding the operation of the previous question, the Chair may postpone further consideration of the bill to such time as may be designated by the Speaker.
+
+## § 3.
+
+Notwithstanding any other provision of this resolution, the amendment considered as adopted under the first section of this resolution shall be modified as specified in section 4.
+
+## § 4.
+
+The modification referred to in section 3 is as follows:
+
+> ## § 20. Gao study on health savings accounts
+>
+> - **(a)** *In general* The Comptroller General of the United States shall conduct a study of the use of distributions from health savings accounts.
+> - **(b)** *Submission of Report* Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit a report on the findings of the study conducted under subsection (a) and shall include therein recommendations (if any) relating to such findings. The report shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.

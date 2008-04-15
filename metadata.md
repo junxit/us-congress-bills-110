@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1102
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1102
@@ -27,3 +27,16 @@ Providing for consideration of the bill (H.R. 5719) to amend the Internal Revenu
 - 2008-04-14 — Placed on the House Calendar, Calendar No. 203.
 - 2008-04-14 — The House Committee on Rules reported an original measure, H. Rept. 110-585, by Ms. Sutton.
 - 2008-04-14 — The House Committee on Rules reported an original measure, H. Rept. 110-585, by Ms. Sutton.
+- 2008-04-15 — Amendment (A001) offered by Ms. Sutton. (consideration: CR H2305; text: CR H2305)
+- 2008-04-15 — Amendment agreed to by House: On agreeing to the Sutton amendment (A001) Agreed to by voice vote.
+- 2008-04-15 — Considered as privileged matter. (consideration: CR H2299-2306; text of measure as reported in House: CR H2299)
+- 2008-04-15 — DEBATE - The House proceeded with one hour of debate on H. Res. 1102.
+- 2008-04-15 — House amendment agreed to: On agreeing to the Sutton amendment (A001) Agreed to by voice vote.
+- 2008-04-15 — House amendment offered
+- 2008-04-15 — House amendment offered/reported by : Amendment (A001) offered by Ms. Sutton.(consideration: CR H2305; text: CR H2305)
+- 2008-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-15 — On agreeing to the Sutton amendment (A001) Agreed to by voice vote.
+- 2008-04-15 — On agreeing to the resolution Agreed to by recorded vote: 222 - 195 (Roll no. 187).
+- 2008-04-15 — On ordering the previous question on the amendment (A001) and on the resolution Agreed to by the Yeas and Nays: 220 - 196 (Roll no. 186). (consideration: CR H2305-2306)
+- 2008-04-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 222 - 195 (Roll no. 187).
+- 2008-04-15 — Roll call votes on amendments in House
