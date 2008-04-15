@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1095
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1095
@@ -16,7 +16,7 @@ Recognizing and honoring the 40th anniversary of congressional passage of title 
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Cosponsors (40)
+## Cosponsors (52)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
@@ -58,6 +58,18 @@ Recognizing and honoring the 40th anniversary of congressional passage of title 
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
 
 ## Committees (1)
 
@@ -68,3 +80,9 @@ Recognizing and honoring the 40th anniversary of congressional passage of title 
 - 2008-04-09 — Introduced in House
 - 2008-04-09 — Introduced in House
 - 2008-04-09 — Referred to the House Committee on the Judiciary.
+- 2008-04-15 — Considered under suspension of the rules. (consideration: CR H2280-2284)
+- 2008-04-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1095.
+- 2008-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-15 — Mr. Conyers moved to suspend the rules and agree to the resolution.
+- 2008-04-15 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2280-2281)
+- 2008-04-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2280-2281)
