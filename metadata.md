@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1119
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 1119
@@ -72,3 +72,8 @@ Purple Heart Family Equity Act of 2007
 - 2007-11-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-428.
 - 2007-11-06 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-428.
 - 2007-11-06 — The title of the measure was amended. Agreed to without objection.
+- 2007-11-08 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.
+- 2008-04-14 — Cleared for White House.
+- 2008-04-14 — Message on Senate action sent to the House.
+- 2008-04-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2981)
+- 2008-04-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S2981)
