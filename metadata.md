@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1068
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1068
@@ -34,3 +34,10 @@ Permitting active duty members of the Armed Forces who are assigned to a Congres
 - 2008-04-14 — Placed on the House Calendar, Calendar No. 205.
 - 2008-04-14 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-587.
 - 2008-04-14 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-587.
+- 2008-04-15 — Considered under suspension of the rules. (consideration: CR H2298)
+- 2008-04-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1068.
+- 2008-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-15 — Mr. Brady (PA) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-04-15 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2298)
+- 2008-04-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2298)
+- 2008-04-15 — The title of the measure was amended. Agreed to without objection.
