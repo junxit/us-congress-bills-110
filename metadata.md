@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5570
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5570
@@ -33,3 +33,10 @@ Religious Worker Visa Extension Act of 2008
 - 2008-04-14 — Placed on the Union Calendar, Calendar No. 364.
 - 2008-04-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-589.
 - 2008-04-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-589.
+- 2008-04-15 — Considered under suspension of the rules. (consideration: CR H2284-2289)
+- 2008-04-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5570.
+- 2008-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-15 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2008-04-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H2284-2285)
+- 2008-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(consideration: CR H2284-2285)
+- 2008-04-15 — The title of the measure was amended. Agreed to without objection.
