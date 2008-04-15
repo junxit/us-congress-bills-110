@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5719
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -61,19 +61,19 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Section 6343 (relating to authority to release levy and return property) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 77 (relating to miscellaneous provisions) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 77 is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 6306` | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Section 7811 is amended by striking subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6306` | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | Subchapter A of chapter 64 is amended by striking section 6306. | the bill names no machine-readable US Code section |
+| — | strike | Subchapter B of chapter 76 is amended by striking section 7433A. | the bill names no machine-readable US Code section |
+| — | strike | Section 7811 is amended by striking subsection (g). | the bill names no machine-readable US Code section |
+| — | strike | Section 1203 of the Internal Revenue Service Restructuring Act of 1998 is amended by striking subsection (e). | the bill names no machine-readable US Code section |
+| — | strike | The table of sections for subchapter A of chapter 64 is amended by striking the item relating to section 6306. | the bill names no machine-readable US Code section |
+| — | strike | The table of sections for subchapter B of chapter 76 is amended by striking the item relating to section 7433A. | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (1) of section 6103(m) (relating to tax refunds) is amended by inserting “, and through any other means of mass communication,” after “media”. | the bill names no machine-readable US Code section |
 | `31 U.S.C. § 333` | insert | Subsection (a) of section 333 of title 31, United States Code, is amended by inserting “Internet domain address,” after “solicitation,” both places it appears. | the bill quotes the text inserted but describes where it goes |
 | `31 U.S.C. § 333` | insert | Subsections (c)(2) and (d)(1) of section 333 of such Code are each amended by inserting “or any other mass communications by electronic means,” after “telecast,”. | the bill quotes the text inserted but describes where it goes |
 | — | insert | Paragraph (1) of section 223(f) (relating to amounts used for qualified medical expenses) is amended by inserting “(and, in the case of amounts paid or distributed after December 31, 2010, substantiated in a manner similar to the substan… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, | the bill names no machine-readable US Code section |
 | — | replace | by striking “(h) Reports.—The Secretary may require—” and inserting the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 410` | add-at-end | Section 3121 (relating to definitions) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 410` | redesignate | by redesignating clauses (1) through (6) as clauses (A) through (F), respectively, and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 410` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 410` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

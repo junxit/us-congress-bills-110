@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5719
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5719
@@ -40,6 +40,11 @@ Taxpayer Assistance and Simplification Act of 2008
 
 - House — Ways and Means Committee
 
+## Recorded votes (2)
+
+- 2008-04-15 — [House 110-2-189](votes/house-110-2-0189.md) — On Motion to Recommit with Instructions — **Failed** (210–210)
+- 2008-04-15 — [House 110-2-190](votes/house-110-2-0190.md) — On Passage — **Passed** (238–179)
+
 ## Actions
 
 - 2008-04-08 — Introduced in House
@@ -53,3 +58,16 @@ Taxpayer Assistance and Simplification Act of 2008
 - 2008-04-14 — Rules Committee Resolution H. Res. 1102 Reported to House. Rule provides for consideration of H.R. 5719 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
 - 2008-04-14 — Supplemental report filed by the Committee on Ways and Means, H. Rept. 110-584, Part II.
 - 2008-04-14 — Supplemental report filed by the Committee on Ways and Means, H. Rept. 110-584, Part II.
+- 2008-04-15 — Considered under the provisions of rule H. Res. 1102. (consideration: CR H2307-2322)
+- 2008-04-15 — DEBATE - The House proceeded with one hour of debate on H.R. 5719.
+- 2008-04-15 — DEBATE - The House proceeded with ten minutes of debate on the Herger motion to recommit with instructions. The instructions contained in the motion seek to add language to deny tax exempt interest with respect to bonds of sanctuary states and cities.
+- 2008-04-15 — House amendment offered
+- 2008-04-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-15 — Mr. Herger moved to recommit with instructions to Ways and Means. (consideration: CR H2319-2321; text: CR H2319)
+- 2008-04-15 — On motion to recommit with instructions Failed by the Yeas and Nays: 210 - 210 (Roll no. 189).
+- 2008-04-15 — On passage Passed by recorded vote: 238 - 179 (Roll no. 190). (text: CR H2307-2310)
+- 2008-04-15 — Passed/agreed to in House: On passage Passed by recorded vote: 238 - 179 (Roll no. 190).(text: CR H2307-2310)
+- 2008-04-15 — Rule H. Res. 1102 passed House.
+- 2008-04-15 — Rule provides for consideration of H.R. 5719 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Ways and Means now printed in the bill shall be considered as adopted.
+- 2008-04-15 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2320)
+- 2008-04-15 — The previous question was ordered pursuant to the rule. (consideration: CR H2319)

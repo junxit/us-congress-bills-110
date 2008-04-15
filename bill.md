@@ -191,7 +191,7 @@ Paragraph (1) of section 6103(m) (relating to tax refunds) is amended by inserti
 
 ## § 17. Substantiation of amounts paid or distributed out of health savings account
 
-- **(a)** *In general* Paragraph (1) of section 223(f) (relating to amounts used for qualified medical expenses) is amended by inserting “(and, in the case of amounts paid or distributed after December 31, 2010, substantiated in a manner similar to the substantiation required for flexible spending arrangements)” after “account beneficiary”.
+- **(a)** *In general* Paragraph (1) of section 223(f) (relating to amounts used for qualified medical expenses) is amended by inserting “(and, in the case of amounts paid or distributed after December 31, 2010, substantiated in a manner similar to the substantiation required for flexible spending arrangements as related to account beneficiary substantiation requirements)” after “account beneficiary”.
 - **(b)** *Reports* Subsection (h) of section 223 (relating to reports) is amended—
   - **(1)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively,
   - **(2)** by moving the text of subparagraphs (A) and (B) (as so redesignated) and the last sentence 2 ems to the right,
@@ -237,3 +237,8 @@ Paragraph (1) of section 6103(m) (relating to tax refunds) is amended by inserti
 ## § 19. Time for payment of corporate estimated tax
 
 The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 in effect on the date of the enactment of this Act is increased by 0.25 percentage points.
+
+## § 20. GAO study on health savings accounts
+
+- **(a)** *In general* The Comptroller General of the United States shall conduct a study of the use of distributions from health savings accounts.
+- **(b)** *Submission of Report* Not later than 1 year after the date of the enactment of this Act, the Comptroller General shall submit a report on the findings of the study conducted under subsection (a) and shall include therein recommendations (if any) relating to such findings. The report shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
