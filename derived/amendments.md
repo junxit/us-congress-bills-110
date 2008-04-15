@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5570
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,14 +41,3 @@ to guess them.
 |---|---|
 | Removed | `January 1, 2010,` |
 | Inserted | `January 1, 2016,` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `8 U.S.C. § 1101` | strike | Section 101(a)(27)(C)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(C)(ii)) is amended by striking “before October 1, 2008,” each place such term appears. | the bill quotes the text struck but describes what replaces it |
