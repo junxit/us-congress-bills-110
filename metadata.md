@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 70
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 70
@@ -297,3 +297,8 @@ Congratulating the Army Reserve on its centennial, which will be formally celebr
 - 2008-04-08 — Ms. Bordallo moved to suspend the rules and pass the resolution, as amended.
 - 2008-04-08 — On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 161). (text: CR H2022)
 - 2008-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 393 - 0 (Roll no. 161).(text: CR H2022)
+- 2008-04-09 — Received in the Senate, read twice.
+- 2008-04-14 — Cleared for White House.
+- 2008-04-14 — Message on Senate action sent to the House.
+- 2008-04-14 — Passed Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2982)
+- 2008-04-14 — Passed/agreed to in Senate: Passed Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S2982)

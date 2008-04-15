@@ -1,8 +1,8 @@
 ---
 legis-num: H.J. RES. 70
-congress: 110th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.J. RES. 70
@@ -11,8 +11,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas on January 9, 1905, the 26th President of the United States, Theodore Roosevelt, dispatched a “special message” to the Senate and the House of Representatives that “earnestly recommended passage” of legislation to establish a Federal reserve force of skilled and trained personnel to bring “our Army … to the highest point of efficiency”;
-- Whereas on December 14, 1905, the then-Secretary of War and later 27th President of the United States, William Howard Taft, transmitted to the Senate and the House of Representatives a draft bill and letter authored by Major General Leonard Wood, “strongly commending … proposed legislation” to “increase the efficiency of the Medical Corps of the Army” by establishing a Federal reserve force comprised of specially trained personnel;
+- Whereas on January 9, 1905, the 26th President of the United States, Theodore Roosevelt, dispatched a “special message” to the Senate and the House of Representatives that “earnestly recommended passage” of legislation to establish a Federal reserve force of skilled and trained personnel to bring “our Army * * * to the highest point of efficiency”;
+- Whereas on December 14, 1905, the then-Secretary of War and later 27th President of the United States, William Howard Taft, transmitted to the Senate and the House of Representatives a draft bill and letter authored by Major General Leonard Wood, “strongly commending * * * proposed legislation” to “increase the efficiency of the Medical Corps of the Army” by establishing a Federal reserve force comprised of specially trained personnel;
 - Whereas in response to the recommendations of President Theodore Roosevelt and senior military and civilian leaders, the 60th Congress enacted Public Law 101, entitled “An Act to increase the efficiency of the Medical Department of the United States Army”, ch. 150, 35 Stat. 66, which was signed into law on April 23, 1908, by President Theodore Roosevelt;
 - Whereas Public Law 101 authorized the establishment of the first Federal reserve force and the first reservoir of trained officers in a reserve status for a United States military service;
 - Whereas Congress subsequently adapted, expanded, and amended the reserve organization of the Army to include additional military occupational specialties and capabilities and established the organization today known as the Army Reserve;
