@@ -1,7 +1,7 @@
 ---
 measure: S. 845
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 845
@@ -52,3 +52,12 @@ Safety of Seniors Act of 2007
 - 2007-08-02 — Received in the House.
 - 2007-08-02 — Referred to the House Committee on Energy and Commerce.
 - 2007-08-02 — Referred to the Subcommittee on Health.
+- 2008-04-08 — Cleared for White House.
+- 2008-04-08 — Considered under suspension of the rules. (consideration: CR H2034-2036)
+- 2008-04-08 — DEBATE - The House proceeded with forty minutes of debate on S. 845.
+- 2008-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-08 — Mrs. Capps moved to suspend the rules and pass the bill.
+- 2008-04-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2034-2035)
+- 2008-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2034-2035)
+- 2008-04-14 — Presented to President.
+- 2008-04-14 — Presented to President.
