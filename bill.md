@@ -2,7 +2,7 @@
 legis-num: H. RES. 1097
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1097
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas in 2006, an estimated 905,000 children were determined to be victims of abuse or neglect out of an estimated 6,600,000 children referred for investigations and assessments;
+- Whereas in 2006, an estimated 905,000 children were determined to be victims of abuse or neglect out of an estimated 6,100,000 children referred for investigations and assessments;
 - Whereas the number of children who received an investigation or assessment by Child Protective Services increased by 333,000 from 2002 to 2006;
 - Whereas in 2006, an estimated 1,530 children died tragically as a result of abuse or neglect;
 - Whereas some of the most vulnerable children in our Nation are the most likely to be maltreated, with the youngest suffering the highest rate of victimization and children with disabilities also experiencing a high risk of maltreatment;
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas children who are abused or neglected are at higher risk in adulthood for health problems such as alcoholism, depression, drug abuse, eating disorders, obesity, suicide, and certain chronic diseases;
 - Whereas a National Institute of Justice study indicated abuse or neglect during childhood increased the likelihood of arrest as a juvenile by 59 percent and adult criminal behavior by 28 percent;
 - Whereas it is estimated that approximately one-third of abused and neglected children grow up to victimize their own children;
-- Whereas 25 percent of the children abused and neglected are likely to be maltreated again;
+- Whereas 25 percent of children maltreated in 2006 had prior history of victimization.
 - Whereas child abuse and neglect can have long-term economic and societal costs;
 - Whereas community-based services to overburdened families are far less costly than the emotional and physical damage inflicted on children or the costs of child protective services, law enforcement, courts, foster care, health care, and the treatment of adults recovering from child abuse;
 - Whereas the annual estimated cost to the United States for not preventing child abuse and neglect is approximately $104,000,000,000, according to a 2008 report by Prevent Child Abuse America;
