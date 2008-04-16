@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2634
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2634
@@ -141,3 +141,53 @@ Jubilee Act for Responsible Lending and Expanded Debt Cancellation of 2008
 - 2008-04-10 — Placed on the Union Calendar, Calendar No. 354.
 - 2008-04-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-575.
 - 2008-04-10 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-575.
+- 2008-04-14 — Rules Committee Resolution H. Res. 1103 Reported to House. Rule provides for consideration of H.R. 2634 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill.
+- 2008-04-16 — Amendment (A001) offered by Mr. Frank (MA). (consideration: CR H2387-2388, H2390)
+- 2008-04-16 — Amendment (A002) offered by Mr. Rohrabacher. (consideration: CR H2388-2389, H2390-2391; text: CR H2388)
+- 2008-04-16 — Amendment (A003) offered by Mr. Hastings (FL). (consideration: CR H2389-2390; text: CR H2389)
+- 2008-04-16 — Amendment (A004) offered by Mr. Frank (MA). (consideration: CR H2393-2394; text: CR H2393)
+- 2008-04-16 — Amendment agreed to Committee of the Whole
+- 2008-04-16 — Amendment agreed to Committee of the Whole
+- 2008-04-16 — Amendment agreed to Committee of the Whole
+- 2008-04-16 — Amendment agreed to by House: On agreeing to the Frank (MA) amendment (A004) Agreed to by voice vote.
+- 2008-04-16 — Considered under the provisions of rule H. Res. 1103. (consideration: CR H2376-2394)
+- 2008-04-16 — DEBATE - Pursuant to the provisions of H. Res. 1103, the Committee of the Whole proceeded with 10 minutes of debate on the Frank (MA) amendment.
+- 2008-04-16 — DEBATE - Pursuant to the provisions of H. Res. 1103, the Committee of the Whole proceeded with ten minutes of debate on the Hastings (FL) amendment.
+- 2008-04-16 — DEBATE - Pursuant to the provisions of H. Res. 1109, the Committee of the Whole proceeded with ten minutes of debate on the Rohrabacher amendment.
+- 2008-04-16 — DEBATE - The House proceeded with ten minutes of debate on the Mario Diaz-Balart motion to recommit with instructions. The instructions contained in the motion seek to add language to the bill that excludes any country whose government has business interests with Iran.
+- 2008-04-16 — Frank (MA) amendment (A001) modified by unanimous consent. Modification made clarifying changes to the amendment as offered. (text as modified: CR H2387)
+- 2008-04-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2634.
+- 2008-04-16 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A001) as modified Agreed to by recorded vote: 424 - 0 (Roll no. 196).(text as modified: CR H2387)
+- 2008-04-16 — House amendment agreed to: On agreeing to the Frank (MA) amendment (A004) Agreed to by voice vote.
+- 2008-04-16 — House amendment agreed to: On agreeing to the Hastings (FL) amendment (A003) Agreed to by voice vote.
+- 2008-04-16 — House amendment agreed to: On agreeing to the Rohrabacher amendment (A002) Agreed to by recorded vote: 382 - 41, 2 Present (Roll no. 197).
+- 2008-04-16 — House amendment offered
+- 2008-04-16 — House amendment offered
+- 2008-04-16 — House amendment offered
+- 2008-04-16 — House amendment offered
+- 2008-04-16 — House amendment offered/reported by : Amendment (A001) offered by Mr. Frank (MA).(consideration: CR H2387-2388, H2390)
+- 2008-04-16 — House amendment offered/reported by : Amendment (A002) offered by Mr. Rohrabacher.(consideration: CR H2388-2389, H2390-2391; text: CR H2388)
+- 2008-04-16 — House amendment offered/reported by : Amendment (A003) offered by Mr. Hastings (FL).(consideration: CR H2389-2390; text: CR H2389)
+- 2008-04-16 — House amendment offered/reported by : Amendment (A004) offered by Mr. Frank (MA).(consideration: CR H2393-2394; text: CR H2393)
+- 2008-04-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1103 and Rule XVIII.
+- 2008-04-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-16 — Mr. Diaz-Balart, M. moved to recommit with instructions to Financial Services. (consideration: CR H2391-2393; text: CR H2391)
+- 2008-04-16 — On agreeing to the Frank (MA) amendment (A001) as modified Agreed to by recorded vote: 424 - 0 (Roll no. 196). (text as modified: CR H2387)
+- 2008-04-16 — On agreeing to the Frank (MA) amendment (A004) Agreed to by voice vote.
+- 2008-04-16 — On agreeing to the Hastings (FL) amendment (A003) Agreed to by voice vote.
+- 2008-04-16 — On agreeing to the Rohrabacher amendment (A002) Agreed to by recorded vote: 382 - 41, 2 Present (Roll no. 197).
+- 2008-04-16 — On motion to recommit with instructions Agreed to by the Yeas and Nays: 291 - 130, 1 Present (Roll no. 198).
+- 2008-04-16 — On passage Passed by recorded vote: 285 - 132 (Roll no. 199).
+- 2008-04-16 — POSTPONED PROCEEDINGS - At the end of debate on the Frank (MA) amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Frank (MA) demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-16 — POSTPONED PROCEEDINGS - At the end of debate on the Rohrabacher amendment, the Chair put the question on adoption of the amendment, and by voice vote, announced that the ayes had prevailed. Mr. Rohrabacher demanded a recorded vote and the Chair postponed further proceedings on the question until later in the legislative day.
+- 2008-04-16 — Passed/agreed to in House: On passage Passed by recorded vote: 285 - 132 (Roll no. 199).
+- 2008-04-16 — Roll call votes on amendments in House
+- 2008-04-16 — Roll call votes on amendments in House
+- 2008-04-16 — Rule H. Res. 1103 passed House.
+- 2008-04-16 — Rule provides for consideration of H.R. 2634 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill.
+- 2008-04-16 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H2385-2387)
+- 2008-04-16 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2634.
+- 2008-04-16 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
+- 2008-04-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H2392)
+- 2008-04-16 — The previous question was ordered pursuant to the rule. (consideration: CR H2391)
+- 2008-04-16 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of the Rohrabacher amendment, which had been debated earlier and on which further proceedings had been postponed.
