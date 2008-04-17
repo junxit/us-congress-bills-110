@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3928
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3928
@@ -16,7 +16,7 @@ Government Funding Transparency Act of 2008
 
 - Rep. Murphy, Christopher [D-CT-5] (M001169)
 
-## Cosponsors (8)
+## Cosponsors (17)
 
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
@@ -26,6 +26,15 @@ Government Funding Transparency Act of 2008
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
 - Rep. Hall, John J. [D-NY-19] (H001039)
 - Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 
 ## Committees (1)
 
@@ -37,3 +46,11 @@ Government Funding Transparency Act of 2008
 - 2007-10-23 — Introduced in House
 - 2007-10-23 — Referred to the House Committee on Oversight and Government Reform.
 - 2007-10-23 — Sponsor introductory remarks on measure. (CR H11853)
+- 2007-11-02 — Referred to the Subcommittee on Government Management, Organization, and Procurement.
+- 2008-03-11 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2008-03-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-04-17 — Placed on the Union Calendar, Calendar No. 367.
+- 2008-04-17 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-594.
+- 2008-04-17 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-594.
