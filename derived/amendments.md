@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3513
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,21 +26,21 @@ to guess them.
 
 ### 16 U.S.C. § 1132
 
-> in the matter before paragraph (1), by striking “eight hundred fifty-nine thousand six hundred acres” and inserting “873,300 acres”;
+> in the matter preceding paragraph (1), by striking “eight hundred fifty-nine thousand six hundred acres” and inserting “871,593 acres”;
 
 | | |
 |---|---|
 | Removed | `eight hundred fifty-nine thousand six hundred acres` |
-| Inserted | `873,300 acres` |
+| Inserted | `871,593 acres` |
 
 ### 16 U.S.C. § 1274
 
-> in the matter before subparagraph (A), by striking “19-mile segment” and inserting “29-mile segment”;
+> in the matter preceding subparagraph (A), by striking “19-mile segment” and inserting “28.2-mile segment”;
 
 | | |
 |---|---|
 | Removed | `19-mile segment` |
-| Inserted | `29-mile segment` |
+| Inserted | `28.2-mile segment` |
 
 ## Stated, not applied
 
@@ -51,7 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 1132` | replace | by striking the period at the end of paragraph (29) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1274` | strike | by striking “and” at the end of subparagraph (A); and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1274` | replace | by striking subparagraph (B) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | replace | in paragraph (29), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1274` | replace | in subparagraph (A), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1274` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
