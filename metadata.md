@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3221
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3221
@@ -16,7 +16,7 @@ Housing and Economic Recovery Act of 2008
 
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Cosponsors (18)
+## Cosponsors (220)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
@@ -36,6 +36,208 @@ Housing and Economic Recovery Act of 2008
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Harkin, Tom [D-IA] (H000206)
 
 ## Committees (10)
 
@@ -50,7 +252,7 @@ Housing and Economic Recovery Act of 2008
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
 
-## Recorded votes (6)
+## Recorded votes (17)
 
 - 2007-08-04 — [House 110-1-827](votes/house-110-1-0827.md) — On Agreeing to the Amendment — **Agreed to** (220–190)
 - 2007-08-04 — [House 110-1-828](votes/house-110-1-0828.md) — On Agreeing to the Amendment — **Failed** (169–245)
@@ -58,6 +260,17 @@ Housing and Economic Recovery Act of 2008
 - 2007-08-04 — [House 110-1-830](votes/house-110-1-0830.md) — On Agreeing to the Amendment — **Agreed to** (218–196)
 - 2007-08-04 — [House 110-1-831](votes/house-110-1-0831.md) — On Motion to Recommit with Instructions — **Failed** (169–244)
 - 2007-08-04 — [House 110-1-832](votes/house-110-1-0832.md) — On Passage — **Passed** (241–172)
+- 2008-02-28 — [Senate 110-2-35](votes/senate-110-2-0035.md) — On the Cloture Motion — **Cloture Motion Rejected** (48–46)
+- 2008-04-01 — [Senate 110-2-86](votes/senate-110-2-0086.md) — On the Cloture Motion — **Cloture Motion Agreed to** (94–1)
+- 2008-04-03 — [Senate 110-2-88](votes/senate-110-2-0088.md) — On the Motion to Table — **Motion to Table Agreed to** (58–36)
+- 2008-04-03 — [Senate 110-2-89](votes/senate-110-2-0089.md) — On the Motion — **Motion Rejected** (44–40)
+- 2008-04-03 — [Senate 110-2-90](votes/senate-110-2-0090.md) — On the Motion — **Motion Rejected** (41–44)
+- 2008-04-04 — [Senate 110-2-91](votes/senate-110-2-0091.md) — On the Amendment — **Amendment Agreed to** (76–2)
+- 2008-04-04 — [Senate 110-2-92](votes/senate-110-2-0092.md) — On the Motion — **Motion Agreed to** (74–5)
+- 2008-04-08 — [Senate 110-2-93](votes/senate-110-2-0093.md) — On the Cloture Motion — **Cloture Motion Agreed to** (92–6)
+- 2008-04-10 — [Senate 110-2-94](votes/senate-110-2-0094.md) — On the Amendment — **Amendment Rejected** (15–79)
+- 2008-04-10 — [Senate 110-2-95](votes/senate-110-2-0095.md) — On the Amendment — **Amendment Agreed to** (88–8)
+- 2008-04-10 — [Senate 110-2-96](votes/senate-110-2-0096.md) — On Passage of the Bill — **Bill Passed** (84–12)
 
 ## Actions
 
@@ -270,3 +483,338 @@ Housing and Economic Recovery Act of 2008
 - 2007-08-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2007-09-04 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-09-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.
+- 2007-09-19 — Referred to the Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
+- 2007-09-19 — Referred to the Subcommittee on Workforce Protections.
+- 2008-02-14 — Cloture motion on the motion to proceed presented in Senate. (consideration: CR S1082-1083)
+- 2008-02-14 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1082-1083)
+- 2008-02-14 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S1083)
+- 2008-02-28 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 48 - 46. Record Vote Number: 35. (consideration: CR S1364-1376; text: CR S1364-1365)
+- 2008-02-28 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote Number 35) made in Senate. (consideration: CR S1365)
+- 2008-02-29 — Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S1417)
+- 2008-02-29 — Motion to proceed to measure considered in Senate. (consideration: CR S1393-1417)
+- 2008-03-11 — For Further Action See H.R.6.
+- 2008-03-14 — Motion to proceed to consideration of measure made in Senate.
+- 2008-04-01 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 94 - 1. Record Vote Number: 86. (consideration: CR S2270; text: CR S2270)
+- 2008-04-01 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote Number 35) agreed to in Senate by Unanimous Consent. (consideration: CR S2268)
+- 2008-04-01 — Motion to proceed to measure considered in Senate. (consideration: CR S2268-2285)
+- 2008-04-01 — Senate amendment submitted
+- 2008-04-01 — Senate amendment submitted
+- 2008-04-02 — Motion to proceed to measure considered in Senate. (consideration: CR S2314-2337)
+- 2008-04-02 — Senate amendment submitted
+- 2008-04-02 — Senate amendment submitted
+- 2008-04-02 — Senate amendment submitted
+- 2008-04-03 — Amendment SA 4387 proposed by Senator Dodd. (consideration: CR S2368-2370) In the nature of a substitute.
+- 2008-04-03 — Amendment SA 4388 proposed by Senator Durbin to Amendment SA 4387. (consideration: CR S2370-2371, S2375-2380, S2380-2396, S2402-2403) To address the treatment of primary mortgages in bankruptcy, and for other purposes.
+- 2008-04-03 — Amendment SA 4389 proposed by Senator Landrieu to Amendment SA 4387. (consideration: CR S2413-2415, S2423-2424; text: S2413; text as modified: CR S2423-2424) To amend the Internal Revenue Code of 1986 to allow use of amended income tax returns to take into account receipt of certain hurricane-related casualty loss grants by disallowing previously taken casualty loss deductions and to waive the deadline on the construction of GO Zone property which is eligible for bonus depreciation.
+- 2008-04-03 — Amendment SA 4397 proposed by Senator Murray to Amendment SA 4387. (consideration: CR S2407-2412, S2422; text: CR S2407) To increase funding for housing counseling resources.
+- 2008-04-03 — Amendment SA 4397 ruled out of order by the chair.
+- 2008-04-03 — Amendment SA 4401 proposed by Senator Sanders to Amendment SA 4387. (consideration: CR S2415-2419; text: CR S2415) To establish a maximum rate of interest for loans insured under title II of the National Housing Act, and for other purposes.
+- 2008-04-03 — Amendment SA 4406 proposed by Senator Voinovich to Amendment SA 4387. (consideration: CR S2403-2407; text: CR S2403-2404) To protect families most vulnerable to foreclosure due to a sudden loss of income by extending the depreciation incentive to loss companies that have accumulated alternative minimum tax and research and development tax credits.
+- 2008-04-03 — Amendment SA 4407 proposed by Senator Kyl to Amendment SA 4387. (consideration: CR S2412-2413, S2422-2423; text: CR S2412) To amend the Internal Revenue Code of 1986 to adjust for inflation the dollar limitation for the principal residence gain exclusion.
+- 2008-04-03 — Amendment SA 4407 ruled out of order by the chair.
+- 2008-04-03 — Amendment SA 4421 proposed by Senator Cardin to Amendment SA 4387. (consideration: CR S2419-2421; text: CR S2419-2420) To amend the Internal Revenue Code of 1986 to allow a credit against income tax for the purchase of a principal residence by a first-time homebuyer.
+- 2008-04-03 — Measure laid before Senate by motion. (consideration: CR S2368-2371, S2375-2396, S2400-2401, S2402-2424)
+- 2008-04-03 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent. (consideration: CR S2368)
+- 2008-04-03 — Motion to table amendment SA 4388 agreed to in Senate by Yea-Nay Vote. 58 - 36. Record Vote Number: 88.
+- 2008-04-03 — Motion to waive S.Con.Res. 21, section 201(a), 110th Congress, with respect to amendment SA 4397 rejected in Senate by Yea-Nay Vote. 44 - 40. Record Vote Number: 89.
+- 2008-04-03 — Motion to waive S.Con.Res. 21, section 201(a), 110th Congress, with respect to amendment SA 4407 rejected in Senate  by Yea-Nay Vote. 41 - 44. Record Vote Number: 90.
+- 2008-04-03 — Point of order raised in Senate with respect to amendment SA 4397.
+- 2008-04-03 — Point of order raised in Senate with respect to amendment SA 4407.
+- 2008-04-03 — Roll call votes on amendments in Senate: Motion to table amendment SA 4388 agreed to in Senate by Yea-Nay Vote. 58 - 36. Record Vote Number: 88.
+- 2008-04-03 — Roll call votes on amendments in Senate: Motion to waive S.Con.Res. 21, section 201(a), 110th Congress, with respect to amendment SA 4397 rejected in Senate by Yea-Nay Vote. 44 - 40. Record Vote Number: 89.
+- 2008-04-03 — Roll call votes on amendments in Senate: Motion to waive S.Con.Res. 21, section 201(a), 110th Congress, with respect to amendment SA 4407 rejected in Senate  by Yea-Nay Vote. 41 - 44. Record Vote Number: 90.
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4387 proposed by Senator Dodd.(consideration: CR S2368-2370)
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4388 proposed by Senator Durbin to Amendment SA 4387.(consideration: CR S2370-2371, S2375-2380, S2380-2396, S2402-2403)
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4389 proposed by Senator Landrieu to Amendment SA 4387.(consideration: CR S2413-2415, S2423-2424; text: S2413; text as modified: CR S2423-2424)
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4397 proposed by Senator Murray to Amendment SA 4387.(consideration: CR S2407-2412, S2422; text: CR S2407)
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4401 proposed by Senator Sanders to Amendment SA 4387.(consideration: CR S2415-2419; text: CR S2415)
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4406 proposed by Senator Voinovich to Amendment SA 4387.(consideration: CR S2403-2407; text: CR S2403-2404)
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4407 proposed by Senator Kyl to Amendment SA 4387.(consideration: CR S2412-2413, S2422-2423; text: CR S2412)
+- 2008-04-03 — Senate amendment proposed (on the floor): Amendment SA 4421 proposed by Senator Cardin to Amendment SA 4387.(consideration: CR S2419-2421; text: CR S2419-2420)
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-03 — Senate amendment submitted
+- 2008-04-04 — Amendment SA 4382 proposed by Senator Lincoln to Amendment SA 4387. (consideration: CR S2602-2603; text: CR S2602) To provide an incentive to employers to offer group legal plans that provide a benefit for real estate and foreclosure review.
+- 2008-04-04 — Amendment SA 4384 proposed by Senator Sanders to Amendment SA 4387. (consideration: CR S2605-2606; text: CR S2605) To provide an increase in specially adapted housing benefits for disabled veterans.
+- 2008-04-04 — Amendment SA 4389 as modified agreed to in Senate by Voice Vote.
+- 2008-04-04 — Amendment SA 4404 proposed by Senator Landrieu to Amendment SA 4387. (consideration: CR S2603-2605; text: CR S2603) To amend the provisions relating to qualified mortgage bonds to include relief for persons in areas affected by Hurricanes Katrina, Rita, and Wilma.
+- 2008-04-04 — Amendment SA 4406 as modified agreed to in Senate by Yea-Nay Vote. 76 - 2. Record Vote Number: 91.
+- 2008-04-04 — Amendment SA 4419 proposed by Senator Ensign to Amendment SA 4387. (consideration: CR S2595-2596, S2601-2602) To amend the Internal Revenue Code of 1986 to provide for the limited continuation of clean energy production incentives and incentives to improve energy efficiency in order to prevent a downturn in these sectors that would result from a lapse in the tax law.
+- 2008-04-04 — Amendment SA 4423 proposed by Senator Nelson FL to Amendment SA 4387. (consideration: CR S2598-2601; text: CR S2598-2599) To provide for the penalty-free use of retirement funds to provide foreclosure recovery relief for individuals with mortgages on their principal residences.
+- 2008-04-04 — Amendment SA 4429 proposed by Senator Alexander to Amendment SA 4419. (consideration: CR S2596-2598; text: CR S2596-2597) To provide a longer extension of the renewable energy production tax credit and to encourage all emerging renewable sources of electricity, and for other purposes.
+- 2008-04-04 — Amendment SA 4433 proposed by Senator Lincoln for Senator Snowe to Amendment SA 4387. (consideration: CR S2603; text: CR S2603) To modify the increase in volume cap for housing bonds in 2008.
+- 2008-04-04 — Cloture motion on amendment SA4387 presented in Senate. (consideration: CR S2606; text: CR S2606)
+- 2008-04-04 — Cloture motion on the measure presented in Senate. (consideration: CR S2606; text: CR S2606)
+- 2008-04-04 — Considered by Senate. (consideration: CR S2591)
+- 2008-04-04 — Considered by Senate. (consideration: CR S2591, S2592-2593, S2610; text as modified: CR S2592; text as further modified: CR S2610)
+- 2008-04-04 — Considered by Senate. (consideration: CR S2591-2592, S2593-2594; text as further modified: CR S2593-2594)
+- 2008-04-04 — Considered by Senate. (consideration: CR S2591-2606, S2607-2610)
+- 2008-04-04 — Considered by Senate. (consideration: CR S2592)
+- 2008-04-04 — Considered by Senate. (consideration: CR S2592)
+- 2008-04-04 — Motion to waive S. Con. Res. 21, section 204, 110th Congress, with respect to amendment SA 4389 agreed to in Senate by Yea-Nay Vote. 74 - 5. Record Vote Number: 92.
+- 2008-04-04 — Point of order raised in Senate with respect to amendment SA 4389.
+- 2008-04-04 — Roll call votes on amendments in Senate: Amendment SA 4406 as modified agreed to in Senate by Yea-Nay Vote. 76 - 2. Record Vote Number: 91.
+- 2008-04-04 — Roll call votes on amendments in Senate: Motion to waive S. Con. Res. 21, section 204, 110th Congress, with respect to amendment SA 4389 agreed to in Senate by Yea-Nay Vote. 74 - 5. Record Vote Number: 92.
+- 2008-04-04 — Senate amendment agreed to: Amendment SA 4389 as modified agreed to in Senate by Voice Vote.
+- 2008-04-04 — Senate amendment agreed to: Amendment SA 4406 as modified agreed to in Senate by Yea-Nay Vote. 76 - 2. Record Vote Number: 91.
+- 2008-04-04 — Senate amendment proposed (on the floor): Amendment SA 4382 proposed by Senator Lincoln to Amendment SA 4387.(consideration: CR S2602-2603; text: CR S2602)
+- 2008-04-04 — Senate amendment proposed (on the floor): Amendment SA 4384 proposed by Senator Sanders to Amendment SA 4387.(consideration: CR S2605-2606; text: CR S2605)
+- 2008-04-04 — Senate amendment proposed (on the floor): Amendment SA 4404 proposed by Senator Landrieu to Amendment SA 4387.(consideration: CR S2603-2605; text: CR S2603)
+- 2008-04-04 — Senate amendment proposed (on the floor): Amendment SA 4419 proposed by Senator Ensign to Amendment SA 4387.(consideration: CR S2595-2596, S2601-2602)
+- 2008-04-04 — Senate amendment proposed (on the floor): Amendment SA 4423 proposed by Senator Nelson FL to Amendment SA 4387.(consideration: CR S2598-2601; text: CR S2598-2599)
+- 2008-04-04 — Senate amendment proposed (on the floor): Amendment SA 4429 proposed by Senator Alexander to Amendment SA 4419.(consideration: CR S2596-2598; text: CR S2596-2597)
+- 2008-04-04 — Senate amendment proposed (on the floor): Amendment SA 4433 proposed by Senator Lincoln for Senator Snowe to Amendment SA 4387.(consideration: CR S2603; text: CR S2603)
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — Senate amendment submitted
+- 2008-04-04 — The point of order was moot.
+- 2008-04-07 — Amendment SA 4478 proposed by Senator Murray to Amendment SA 4387. (consideration: CR S2628; text: CR S2628) To increase funding for housing counseling with an offset.
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628)
+- 2008-04-07 — Considered by Senate. (consideration: CR S2628-2832)
+- 2008-04-07 — Senate amendment proposed (on the floor): Amendment SA 4478 proposed by Senator Murray to Amendment SA 4387.(consideration: CR S2628; text: CR S2628)
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-07 — Senate amendment submitted
+- 2008-04-08 — Amendment SA 4494 proposed by Senator Mikulski to Amendment SA 4478. (consideration: CR S2722; text: CR S2722) To make additional funds available to the Neighborhood Reinvestment Corporation to increase legal assistance available to homeowners at risk of foreclosure and assistance to community organizations working to preserve homeownership and prevent foreclosure, with an offset.
+- 2008-04-08 — Cloture on amendment SA 4387 invoked in Senate by Yea-Nay Vote. 92 - 6. Record Vote Number: 93. (consideration: CR S2726; text: CR S2726)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722, S2722-2723; text as modified: CR S2733)
+- 2008-04-08 — Considered by Senate. (consideration: CR S2722-2726, S2726-2728, S2729-2730, S2730-2731, S2733-2734, S2735-2738)
+- 2008-04-08 — Roll call votes on amendments in Senate: Cloture on amendment SA 4387 invoked in Senate by Yea-Nay Vote. 92 - 6. Record Vote Number: 93.(consideration: CR S2726; text: CR S2726)
+- 2008-04-08 — Senate amendment proposed (on the floor): Amendment SA 4494 proposed by Senator Mikulski to Amendment SA 4478.(consideration: CR S2722; text: CR S2722)
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-08 — Senate amendment submitted
+- 2008-04-09 — Amendment SA 4389, previously agreed to, was modified further by Unanimous Consent. (text as further modified: CR S2810-2811)
+- 2008-04-09 — Amendment SA 4390 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2808-2809)
+- 2008-04-09 — Amendment SA 4390 proposed by Senator Dodd for Senator Hatch to Amendment SA 4387. (consideration: CR S2808)
+- 2008-04-09 — Amendment SA 4398 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2806)
+- 2008-04-09 — Amendment SA 4398 proposed by Senator Dodd for Senator Salazar. (consideration: CR S2806) To address the availability of foreclosure prevention hotlines, and for other purposes.
+- 2008-04-09 — Amendment SA 4433 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Amendment SA 4444 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Amendment SA 4444 proposed by Senator Dodd for Senator Boxer to Amendment SA 4387. (consideration: CR S2806; text: CR S2806) To provide the sense of the Senate regarding non-interference with local government requirements that the holder of a foreclosed property maintain that property.
+- 2008-04-09 — Amendment SA 4446 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2806)
+- 2008-04-09 — Amendment SA 4446 proposed by Senator Dodd for Senator Leahy to Amendment SA 4387. (consideration: CR S2806) To assure national distribution of certain redevelopment and housing counseling resources.
+- 2008-04-09 — Amendment SA 4449 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2806-2807)
+- 2008-04-09 — Amendment SA 4449 proposed by Senator Dodd for Senator Ensign to Amendment SA 4387. (consideration: CR S2806-2807) To sunset the ability of States to reinvest profits generated under title III, and for other purposes.
+- 2008-04-09 — Amendment SA 4454 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Amendment SA 4454 proposed by Senator Dodd for Senator Brownback to Amendment SA 4387. (consideration: CR S2807; text as modified: CR S2807) To require enhanced reporting regarding certain loans guaranteed by the Mutual Mortgage Insurance Fund.
+- 2008-04-09 — Amendment SA 4458 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2807)
+- 2008-04-09 — Amendment SA 4458 proposed by Senator Dodd for Senator Gregg to Amendment SA 4387. (consideration: CR S2807) To ensure that no funds appropriated under title III may be used to fund any project that involves, includes, or is associated with the use of eminent domain.
+- 2008-04-09 — Amendment SA 4464 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2807)
+- 2008-04-09 — Amendment SA 4464 proposed by Senator Dodd for Senator Crapo to Amendment SA 4387. (consideration: CR S2807) To restore investment authority of certain banks and savings associations to the types of public welfare activities previously permitted by law and regulation.
+- 2008-04-09 — Amendment SA 4473 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2807)
+- 2008-04-09 — Amendment SA 4473 proposed by Senator Dodd for Senator DeMint to Amendment SA 4387. (consideration: CR S2807) To provide a limitation on the distribution of funds made available under title II and III to organizations which have been indicted, or the employees of which have been indicted, for election fraud.
+- 2008-04-09 — Amendment SA 4478 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Amendment SA 4480 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Amendment SA 4480 proposed by Senator Dodd for Senator Carper to Amendment SA 4387. (consideration: CR S2807; text: CR S2807) To require the Federal housing Finance Board to permit the Federal home loan banks to use affordable housing program funds to refinance certain single-family first mortgages.
+- 2008-04-09 — Amendment SA 4489 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2807-2808)
+- 2008-04-09 — Amendment SA 4489 proposed by Senator Dodd for Senator McCaskill to Amendment SA 4387. (consideration: CR S2807-2808) To prohibit authorized lenders of home equity conversion mortgages from requiring seniors to purchase an annuity with the proceeds of a reverse mortgage, and to provide other consumer protections to reverse mortgage borrowers.
+- 2008-04-09 — Amendment SA 4494 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S2811)
+- 2008-04-09 — Amendment SA 4518 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Amendment SA 4518 proposed by Senator Dodd to Amendment SA 4387. (consideration: CR S2808) To improve housing benefits for veterans.
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780, S2797-2800)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780, S2800)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780, S2808-2809)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780, S2811)
+- 2008-04-09 — Considered by Senate. (consideration: CR S2780-2811)
+- 2008-04-09 — Proposed amendment SA 4382 withdrawn in Senate.
+- 2008-04-09 — Proposed amendment SA 4384 withdrawn in Senate.
+- 2008-04-09 — Proposed amendment SA 4401 withdrawn in Senate.
+- 2008-04-09 — Proposed amendment SA 4404 withdrawn in Senate.
+- 2008-04-09 — Proposed amendment SA 4421 withdrawn in Senate.
+- 2008-04-09 — Proposed amendment SA 4423 withdrawn in Senate.
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4390 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2808-2809)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4390 proposed by Senator Dodd for Senator Hatch to Amendment SA 4387.(consideration: CR S2808)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4398 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2806)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4433 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4444 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4446 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2806)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4449 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2806-2807)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4454 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4458 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2807)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4464 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2807)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4473 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2807)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4478 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4480 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4489 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2807-2808)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4494 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S2811)
+- 2008-04-09 — Senate amendment agreed to: Amendment SA 4518 agreed to in Senate by Unanimous Consent.
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4398 proposed by Senator Dodd for Senator Salazar.(consideration: CR S2806)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4444 proposed by Senator Dodd for Senator Boxer to Amendment SA 4387.(consideration: CR S2806; text: CR S2806)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4446 proposed by Senator Dodd for Senator Leahy to Amendment SA 4387.(consideration: CR S2806)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4449 proposed by Senator Dodd for Senator Ensign to Amendment SA 4387.(consideration: CR S2806-2807)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4454 proposed by Senator Dodd for Senator Brownback to Amendment SA 4387.(consideration: CR S2807; text as modified: CR S2807)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4458 proposed by Senator Dodd for Senator Gregg to Amendment SA 4387.(consideration: CR S2807)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4464 proposed by Senator Dodd for Senator Crapo to Amendment SA 4387.(consideration: CR S2807)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4473 proposed by Senator Dodd for Senator DeMint to Amendment SA 4387.(consideration: CR S2807)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4480 proposed by Senator Dodd for Senator Carper to Amendment SA 4387.(consideration: CR S2807; text: CR S2807)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4489 proposed by Senator Dodd for Senator McCaskill to Amendment SA 4387.(consideration: CR S2807-2808)
+- 2008-04-09 — Senate amendment proposed (on the floor): Amendment SA 4518 proposed by Senator Dodd to Amendment SA 4387.(consideration: CR S2808)
+- 2008-04-09 — Senate amendment submitted
+- 2008-04-10 — Amendment SA 4387 agreed to in Senate by Unanimous Consent.
+- 2008-04-10 — Amendment SA 4419 agreed to in Senate by Yea-Nay Vote. 88 - 8. Record Vote Number: 95.
+- 2008-04-10 — Amendment SA 4429 not agreed to in Senate by Yea-Nay Vote. 15 - 79. Record Vote Number: 94.
+- 2008-04-10 — Amendment SA 4523 agreed to in Senate by Unanimous Consent.
+- 2008-04-10 — Amendment SA 4523 proposed by Senator Dodd. (consideration: CR S2859-2861; text: CR S2859) To amend the title.
+- 2008-04-10 — Cloture motion on the measure withdrawn by unanimous consent in Senate.
+- 2008-04-10 — Considered by Senate. (consideration: CR S2836, S2844)
+- 2008-04-10 — Considered by Senate. (consideration: CR S2836-2837, S2839)
+- 2008-04-10 — Considered by Senate. (consideration: CR S2836-2861)
+- 2008-04-10 — Considered by Senate. (consideration: CR S2837-2839)
+- 2008-04-10 — Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 84 - 12. Record Vote Number: 96. (text: CR 4/16/2008 S3087-3102)
+- 2008-04-10 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 84 - 12. Record Vote Number: 96.(text: CR 4/16/2008 S3087-3102)
+- 2008-04-10 — Roll call votes on amendments in Senate: Amendment SA 4419 agreed to in Senate by Yea-Nay Vote. 88 - 8. Record Vote Number: 95.
+- 2008-04-10 — Roll call votes on amendments in Senate: Amendment SA 4429 not agreed to in Senate by Yea-Nay Vote. 15 - 79. Record Vote Number: 94.
+- 2008-04-10 — Senate amendment agreed to: Amendment SA 4387 agreed to in Senate by Unanimous Consent.
+- 2008-04-10 — Senate amendment agreed to: Amendment SA 4419 agreed to in Senate by Yea-Nay Vote. 88 - 8. Record Vote Number: 95.
+- 2008-04-10 — Senate amendment agreed to: Amendment SA 4523 agreed to in Senate by Unanimous Consent.
+- 2008-04-10 — Senate amendment not agreed to: Amendment SA 4429 not agreed to in Senate by Yea-Nay Vote. 15 - 79. Record Vote Number: 94.
+- 2008-04-10 — Senate amendment proposed (on the floor): Amendment SA 4523 proposed by Senator Dodd.(consideration: CR S2859-2861; text: CR S2859)
+- 2008-04-10 — Senate amendment submitted
+- 2008-04-16 — Message on Senate action sent to the House.
