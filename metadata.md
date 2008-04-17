@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3734
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3734
@@ -25,3 +25,11 @@ Morley Nelson Snake River Birds of Prey National Conservation Area Act
 - 2007-10-02 — Introduced in House
 - 2007-10-02 — Introduced in House
 - 2007-10-02 — Referred to the House Committee on Natural Resources.
+- 2007-10-04 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-03-06 — Subcommittee Hearings Held.
+- 2008-04-02 — Committee Consideration and Mark-up Session Held.
+- 2008-04-02 — Ordered to be Reported by Voice Vote.
+- 2008-04-02 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-04-17 — Placed on the House Calendar, Calendar No. 207.
+- 2008-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-593.
+- 2008-04-17 — Reported by the Committee on Natural Resources. H. Rept. 110-593.
