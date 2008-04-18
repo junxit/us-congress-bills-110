@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5819
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5819
@@ -35,3 +35,10 @@ SBIR/STTR Reauthorization Act
 - 2008-04-16 — Referred to the Committee on Small Business, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-04-16 — Referred to the Committee on Small Business, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-04-16 — Referred to the Committee on Small Business, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-04-17 — Committee Consideration and Mark-up Session Held.
+- 2008-04-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 0.
+- 2008-04-18 — Committee on Science and Technology discharged.
+- 2008-04-18 — Committee on Science and Technology discharged.
+- 2008-04-18 — Placed on the Union Calendar, Calendar No. 368.
+- 2008-04-18 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-595, Part I.
+- 2008-04-18 — Reported (Amended) by the Committee on Small Business. H. Rept. 110-595, Part I.
