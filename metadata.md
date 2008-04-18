@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3033
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3033
@@ -16,9 +16,15 @@ Contractors and Federal Spending Accountability Act of 2008
 
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
 
-## Cosponsors (1)
+## Cosponsors (7)
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
 
 ## Committees (1)
 
@@ -29,3 +35,12 @@ Contractors and Federal Spending Accountability Act of 2008
 - 2007-07-12 — Introduced in House
 - 2007-07-12 — Introduced in House
 - 2007-07-12 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-07-13 — Sponsor introductory remarks on measure. (CR E1519-1520)
+- 2007-07-17 — Referred to the Subcommittee on Government Management, Organization, and Procurement.
+- 2008-03-11 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2008-03-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-04-18 — Placed on the Union Calendar, Calendar No. 369.
+- 2008-04-18 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-596.
+- 2008-04-18 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-596.
