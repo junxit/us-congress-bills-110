@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3513
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3513
@@ -40,3 +40,9 @@ Copper Salmon Wilderness Act of 2008
 - 2008-04-17 — Placed on the Union Calendar, Calendar No. 365.
 - 2008-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-591.
 - 2008-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-591.
+- 2008-04-22 — Considered under suspension of the rules. (consideration: CR H2496-2497)
+- 2008-04-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3513.
+- 2008-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-22 — Mr. Rahall moved to suspend the rules and pass the bill, as amended.
+- 2008-04-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2496)
+- 2008-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2496)
