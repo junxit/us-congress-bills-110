@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3513
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -52,6 +52,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 1132` | replace | in paragraph (29), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1132` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1132` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1274` | replace | in subparagraph (A), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1274` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
