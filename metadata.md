@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5712
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5712
@@ -16,10 +16,15 @@ Close the Contractor Fraud Loophole Act
 
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 
-## Cosponsors (2)
+## Cosponsors (7)
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
 
 ## Committees (1)
 
@@ -30,3 +35,9 @@ Close the Contractor Fraud Loophole Act
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-04-10 — Referred to the Subcommittee on Government Management, Organization, and Procurement.
+- 2008-04-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-04-16 — Subcommittee on Government Management, Organization, and Procurement Discharged.
+- 2008-04-22 — Placed on the Union Calendar, Calendar No. 372.
+- 2008-04-22 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-599.
+- 2008-04-22 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-599.

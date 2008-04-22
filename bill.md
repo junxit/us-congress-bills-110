@@ -25,3 +25,11 @@ This Act may be cited as the “Close the Contractor Fraud Loophole Act”.
   - **(2)** The term “covered contractor” means an entity performing a covered contract awarded by an executive agency.
   - **(3)** The term “Executive agency” has the meaning provided in section 105 of title 5, United States Code.
 - **(c)** *Applicability* This Act applies to all work performed under covered contracts, whether the work is performed inside or outside the United States.
+
+## § 2. Revision of the Federal Acquisition Regulation
+
+The Federal Acquisition Regulation shall be amended within 180 days after the date of the enactment of this Act pursuant to FAR Case 2007–006 (as published at 72 Fed Reg. 64019, November 14, 2007) or any follow-on FAR case to include provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.
+
+## § 3. Definition
+
+In this Act, the term “covered contract” means any contract in an amount greater than $5,000,000 and more than 120 days in duration.
