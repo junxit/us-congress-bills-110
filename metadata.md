@@ -1,7 +1,7 @@
 ---
 measure: H.R. 900
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 900
@@ -16,7 +16,7 @@ Puerto Rico Democracy Act of 2007
 
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
 
-## Cosponsors (82)
+## Cosponsors (129)
 
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
@@ -100,6 +100,53 @@ Puerto Rico Democracy Act of 2007
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
 - Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Pence, Mike [R-IN-6] (P000587)
+- Rep. Peterson, John E. [R-PA-5] (P000263)
+- Rep. Marchant, Kenny [R-TX-24] (M001158)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Cannon, Chris [R-UT-3] (C000116)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Radanovich, George [R-CA-19] (R000004)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Bishop, Rob [R-UT-1] (B001250)
+- Rep. Sali, Bill [R-ID-1] (S001167)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Fallin, Mary [R-OK-5] (F000453)
+- Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Davis, David [R-TN-1] (D000606)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
 
 ## Committees (1)
 
@@ -110,3 +157,12 @@ Puerto Rico Democracy Act of 2007
 - 2007-02-07 — Introduced in House
 - 2007-02-07 — Introduced in House
 - 2007-02-07 — Referred to the House Committee on Natural Resources.
+- 2007-02-13 — Referred to the Subcommittee on Insular Affairs.
+- 2007-03-22 — Subcommittee Hearings Held.
+- 2007-04-25 — Subcommittee Hearings Held.
+- 2007-10-23 — Committee Consideration and Mark-up Session Held.
+- 2007-10-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2007-10-23 — Subcommittee on Insular Affairs Discharged.
+- 2008-04-22 — Placed on the Union Calendar, Calendar No. 370.
+- 2008-04-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-597.
+- 2008-04-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-597.
