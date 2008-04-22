@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3032
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3032
@@ -25,3 +25,8 @@ To amend the Federal Election Campaign Act of 1971 to permit candidates for elec
 - 2007-07-12 — Introduced in House
 - 2007-07-12 — Introduced in House
 - 2007-07-12 — Referred to the House Committee on House Administration.
+- 2008-04-02 — Committee Consideration and Mark-up Session Held.
+- 2008-04-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-04-22 — Placed on the Union Calendar, Calendar No. 375.
+- 2008-04-22 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-602.
+- 2008-04-22 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-602.
