@@ -1,7 +1,7 @@
 ---
 measure: H.R. 831
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 831
@@ -20,6 +20,10 @@ Coffman Cove Administrative Site Conveyance Act of 2008
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2008-04-22 — [House 110-2-207](votes/house-110-2-0207.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (382–0)
+
 ## Actions
 
 - 2007-02-05 — Introduced in House
@@ -32,3 +36,11 @@ Coffman Cove Administrative Site Conveyance Act of 2008
 - 2008-04-17 — Placed on the Union Calendar, Calendar No. 366.
 - 2008-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-592.
 - 2008-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-592.
+- 2008-04-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-04-22 — Considered as unfinished business. (consideration: CR H2531-2532)
+- 2008-04-22 — Considered under suspension of the rules. (consideration: CR H2499-2500)
+- 2008-04-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 831.
+- 2008-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-22 — Mr. Rahall moved to suspend the rules and pass the bill, as amended.
+- 2008-04-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 207). (text: CR H2499)
+- 2008-04-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 382 - 0 (Roll no. 207).(text: CR H2499)
