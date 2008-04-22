@@ -1,7 +1,7 @@
 ---
 measure: S. 431
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+33 amendatory instructions. 0 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,11 +36,31 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 113(c) of the Sex Offender Registration and Notification Act (42 U.S.C. 16913(c)) is amended by inserting “and before any use of an electronic mail address, instant message address, or other similar Internet identifier not provid… | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting “or (d)” after “subsection (a)”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 141(b) of the Adam Walsh Child Protection and Safety Act of 2006 (Public Law 109–248; 120 Stat. 602) is amended by striking “offense specified in subsection (a)” and inserting “offenses specified in subsections (a) and (d) of sec… | the bill names no machine-readable US Code section |
 | — | strike | in paragraph (3), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (4) as paragraph (5); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 119 of the Sex Offender Registration and Notification Act (42 U.S.C. 16919) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (7)(H), by striking the period and inserting the following: “, except that it shall not be necessary to show that the sexual conduct actually occurred or to offer proof that the defendant engaged in an act, other than use of… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following:is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 2252` | insert | in subparagraph (A), by inserting “, or knowingly accesses with intent to view,” after “possesses”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252` | insert | in subparagraph (B), by inserting “, or knowingly accesses with intent to view,” after “possesses”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252` | insert | in subparagraph (A), by inserting “, or knowingly accesses with intent to view,” after “possesses”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252` | insert | in subparagraph (B), by inserting “, or knowingly accesses with intent to view,” after “possesses”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | in each of subsections (a), (b), and (d), by inserting “using any means or facility of interstate or foreign commerce or” after “be transported”; | the bill names no machine-readable US Code section |
+| — | insert | in each of subsections (a) and (b), by inserting “using any means or facility of interstate or foreign commerce or” after “been transported”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (d), by inserting “using any means or facility of interstate or foreign commerce or” after “is transported”; | the bill names no machine-readable US Code section |
+| — | insert | in section 2251A(c), by inserting “using any means or facility of interstate or foreign commerce or” after “or transported”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “using any means or facility of interstate or foreign commerce or” after “ships”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “using any means or facility of interstate or foreign commerce or” after “distributes, any visual depiction”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “using any means or facility of interstate or foreign commerce or” after “depiction for distribution”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (4), by inserting “using any means or facility of interstate or foreign commerce or” after “has been shipped or transported”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), by inserting “using any means or facility of interstate or foreign commerce or” after “ships”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (3), by inserting “using any means or facility of interstate or foreign commerce or” after “mails, or” each place it appears; | the bill names no machine-readable US Code section |
+| — | insert | in each of paragraphs (4) and (5), by inserting “using any means or facility of interstate or foreign commerce or” after “has been mailed, or shipped or transported”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (6), by inserting “using any means or facility of interstate or foreign commerce or” after “has been mailed, shipped, or transported”. | the bill names no machine-readable US Code section |
+| — | replace | Chapter 110 of title 18, United States Code, is amended in each of sections 2251, 2251A, 2252, and 2252A, by striking “in interstate” each place it appears and inserting “in or affecting interstate”. | the bill names no machine-readable US Code section |
+| — | insert | Section 2252(a)(3)(B) of title 18, United States Code, is amended by inserting “, shipped, or transported using any means or facility of interstate or foreign commerce” after “that has been mailed”. | the bill names no machine-readable US Code section |
+| — | replace | Section 2252A(a)(6)(C) of title 18, United States Code, is amended by striking “or by transmitting” and all that follows through “by computer,” and inserting “or any means or facility of interstate or foreign commerce,”. | the bill names no machine-readable US Code section |
