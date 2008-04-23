@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, on average, a person is sexually assaulted in the United States every 21/2 minutes;
+- Whereas on average, a person is sexually assaulted in the United States every 21/2 minutes;
 - Whereas the Department of Justice reports that 191,670 people in the United States were sexually assaulted in 2005;
 - Whereas 1 in 6 women and 1 in 33 men have been victims of rape or attempted rape;
 - Whereas the Department of Defense received 2,688 reports of sexual assault involving members of the Armed Forces in fiscal year 2007;
@@ -21,7 +21,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas 2/3 of sexual crimes are committed by persons who are not strangers to the victims;
 - Whereas sexual assault survivors suffer emotional scars long after the physical scars have healed;
 - Whereas prevention education programs carried out by rape crisis and women’s health centers have the potential to reduce the prevalence of sexual assault in their communities;
-- Whereas, because of recent advances in DNA technology, law enforcement agencies now have the potential to identify the rapists in tens of thousands of unsolved rape cases;
+- Whereas because of recent advances in DNA technology, law enforcement agencies now have the potential to identify the rapists in tens of thousands of unsolved rape cases;
 - Whereas aggressive prosecution can incarcerate rapists and therefore prevent them from committing further crimes;
 - Whereas free, confidential help is available to all survivors of sexual assault through the National Sexual Assault Hotline, more than 1,000 rape crisis centers across the United States, and other organizations that provide services to assist survivors of sexual assault; and
 - Whereas April is recognized as “National Sexual Assault Awareness and Prevention Month”: Now, therefore, be it
