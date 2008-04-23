@@ -13,19 +13,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Close the Contractor Fraud Loophole Act”.
 
-## § 2. Requirement to notify Inspectors General of certain violations related to certain Federal contracts
-
-- **(a)** *Notification of certain contract violations*
-  - **(1)** *Requirement* A covered contractor shall submit written notification to the Office of Inspector General of the Executive agency that awarded the covered contract whenever the contractor has reasonable grounds to believe that the contractor, or a principal, employee, agent, or subcontractor of the contractor, has committed a violation of Federal criminal law, or has received a significant overpayment, in connection with the award or performance of the covered contract or any subcontract under the contract.
-  - **(2)** *Cause for debarment or suspension* A knowing violation to notify an Inspector General of a violation or overpayment covered by paragraph (1) shall be a cause for debarment or suspension of the covered contractor.
-  - **(3)** *Timing of notification* A notification under paragraph (1) shall be submitted within 14 days after the contractor becomes aware of the violation or overpayment.
-  - **(4)** *Copy of notification* A copy of any notification under paragraph (1) shall be submitted by the contractor to the contracting officer for the contract.
-- **(b)** *Definitions* In this Act:
-  - **(1)** The term “covered contract” means any contract in an amount greater than $5,000,000 and more than 120 days in duration, whether performed inside or outside the United States. The term includes a contract for commercial items.
-  - **(2)** The term “covered contractor” means an entity performing a covered contract awarded by an executive agency.
-  - **(3)** The term “Executive agency” has the meaning provided in section 105 of title 5, United States Code.
-- **(c)** *Applicability* This Act applies to all work performed under covered contracts, whether the work is performed inside or outside the United States.
-
 ## § 2. Revision of the Federal Acquisition Regulation
 
 The Federal Acquisition Regulation shall be amended within 180 days after the date of the enactment of this Act pursuant to FAR Case 2007–006 (as published at 72 Fed Reg. 64019, November 14, 2007) or any follow-on FAR case to include provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.
