@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5220
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5220
@@ -23,9 +23,10 @@ To designate the facility of the United States Postal Service located at 3800 SW
 - Rep. Hooley, Darlene [D-OR-5] (H000762)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,13 @@ To designate the facility of the United States Postal Service located at 3800 SW
 - 2008-03-05 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2008-03-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1246)
 - 2008-03-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1246)
+- 2008-03-06 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-03-28 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 694.
+- 2008-04-22 — Cleared for White House.
+- 2008-04-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3269-3270)
+- 2008-04-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3269-3270)
+- 2008-04-23 — Message on Senate action sent to the House.
