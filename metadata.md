@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1016
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1016
@@ -16,7 +16,7 @@ Expressing the condolences of the House of Representatives on the death of Willi
 
 - Rep. Feeney, Tom [R-FL-24] (F000447)
 
-## Cosponsors (79)
+## Cosponsors (94)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
@@ -97,6 +97,21 @@ Expressing the condolences of the House of Representatives on the death of Willi
 - Rep. Pence, Mike [R-IN-6] (P000587)
 - Rep. Price, Tom [R-GA-6] (P000591)
 - Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Stearns, Cliff [R-FL-6] (S000822)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Keller, Ric [R-FL-8] (K000361)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Conaway, K. Michael [R-TX-11] (C001062)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Cantor, Eric [R-VA-7] (C001046)
+- Rep. Weldon, Dave [R-FL-15] (W000267)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
 
 ## Committees (1)
 
@@ -107,3 +122,11 @@ Expressing the condolences of the House of Representatives on the death of Willi
 - 2008-03-04 — Introduced in House
 - 2008-03-04 — Introduced in House
 - 2008-03-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-04-23 — Considered under suspension of the rules. (consideration: CR H2565-2568)
+- 2008-04-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1016.
+- 2008-04-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-23 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-04-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2565)
+- 2008-04-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H2565)
