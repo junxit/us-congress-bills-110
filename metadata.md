@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4203
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4203
@@ -31,9 +31,10 @@ To designate the facility of the United States Postal Service located at 3035 St
 - Rep. Price, Tom [R-GA-6] (P000591)
 - Rep. Kingston, Jack [R-GA-1] (K000220)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,13 @@ To designate the facility of the United States Postal Service located at 3035 St
 - 2008-02-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H841)
 - 2008-02-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H841)
 - 2008-02-12 — The title of the measure was amended. Agreed to without objection.
+- 2008-02-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-02-27 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 689.
+- 2008-04-22 — Cleared for White House.
+- 2008-04-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3269-3270)
+- 2008-04-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3269-3270)
+- 2008-04-23 — Message on Senate action sent to the House.
