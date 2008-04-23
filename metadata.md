@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 494
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 494
@@ -28,3 +28,8 @@ A resolution expressing the sense of the Senate on the need for Iraq's neighbors
 
 - 2008-04-01 — Introduced in Senate
 - 2008-04-01 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2299-2300)
+- 2008-04-02 — Sponsor introductory remarks on measure. (CR S2320-2321)
+- 2008-04-22 — Committee on Foreign Relations. Ordered to be reported with an amendment favorably.
+- 2008-04-23 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with an amended preamble. Without written report.
+- 2008-04-23 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with an amended preamble. Without written report.
+- 2008-04-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 709.
