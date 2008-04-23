@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 74
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Con.Res. 74
@@ -29,3 +29,7 @@ A concurrent resolution honoring the Prime Minister of Ireland, Bertie Ahern, fo
 
 - 2008-04-08 — Introduced in Senate
 - 2008-04-08 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2757)
+- 2008-04-22 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2008-04-23 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
+- 2008-04-23 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
+- 2008-04-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.
