@@ -1,7 +1,7 @@
 ---
 measure: S. 2324
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2324
@@ -43,3 +43,11 @@ Inspector General Reform Act of 2008
 - 2008-02-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 02/14/2008 with amendments. With written report No. 110-262.
 - 2008-02-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman under authority of the order of the Senate of 02/14/2008 with amendments. With written report No. 110-262.
 - 2008-02-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.
+- 2008-04-23 — Amendment SA 4575 agreed to in Senate by Unanimous Consent.
+- 2008-04-23 — Amendment SA 4575 proposed by Senator Reid for Senator Kyl. (consideration: CR S3328; text: CR S3328) To modify provisions relating to transfers and removals, duties of counsel, and comments on budget submissions, and for other purposes.
+- 2008-04-23 — Measure laid before Senate by unanimous consent. (consideration: CR S3323-3332; text of measure as reported in House: CR S3323-3327)
+- 2008-04-23 — Passed Senate with amendments by Unanimous Consent. (text: CR S3328-3332)
+- 2008-04-23 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S3328-3332)
+- 2008-04-23 — Senate amendment agreed to: Amendment SA 4575 agreed to in Senate by Unanimous Consent.
+- 2008-04-23 — Senate amendment proposed (on the floor): Amendment SA 4575 proposed by Senator Reid for Senator Kyl.(consideration: CR S3328; text: CR S3328)
+- 2008-04-23 — Senate amendment submitted
