@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5613
 
-> To extend certain moratoria and impose additional moratoria on certain Medicaid regulations through April 1, 2009.
+> To extend certain moratoria and impose additional moratoria on certain Medicaid regulations through April 1, 2009, and for other purposes.
 
 ## § 1. Short title
 
@@ -130,7 +130,7 @@ This Act may be cited as the “Protecting the Medicaid Safety Net Act of 2008�
 
 ## § 6. Adjustment to PAQI Fund
 
-Section 1848(l)(2) of the Social Security Act (42 U.S.C. 1395w–4(l)(2)), as amended by section 101(a)(2) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173), is amended—
+Section 1848(l)(2) of the Social Security Act (42 U.S.C. 1395w-4(l)(2)), as amended by section 101(a)(2) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110-173), is amended—
 
 - **(1)** in subparagraph (A)(i)—
   - **(A)** in subclause (III), by striking “$4,960,000,000” and inserting “$3,790,000,000”; and

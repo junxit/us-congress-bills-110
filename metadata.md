@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5613
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5613
@@ -243,6 +243,10 @@ Protecting the Medicaid Safety Net Act of 2008
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2008-04-23 — [House 110-2-209](votes/house-110-2-0209.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (349–62)
+
 ## Actions
 
 - 2008-03-13 — Introduced in House
@@ -261,3 +265,8 @@ Protecting the Medicaid Safety Net Act of 2008
 - 2008-04-22 — Placed on the Union Calendar, Calendar No. 373.
 - 2008-04-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-600.
 - 2008-04-22 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-600.
+- 2008-04-23 — Considered as unfinished business. (consideration: CR H2596)
+- 2008-04-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 62 (Roll no. 209). (text: CR 4/22/2008 H2502-2504)
+- 2008-04-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 349 - 62 (Roll no. 209).(text: CR 4/22/2008 H2502-2504)
+- 2008-04-23 — The title of the measure was amended. Agreed to without objection.
