@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5528
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5528
@@ -37,3 +37,11 @@ To designate the facility of the United States Postal Service located at 120 Com
 - 2008-03-04 — Introduced in House
 - 2008-03-04 — Introduced in House
 - 2008-03-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported by Voice Vote.
+- 2008-04-23 — Considered under suspension of the rules. (consideration: CR H2562-2563)
+- 2008-04-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5528.
+- 2008-04-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-23 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-04-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2562)
+- 2008-04-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2562)
