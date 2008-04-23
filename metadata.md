@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5472
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5472
@@ -88,3 +88,8 @@ To designate the facility of the United States Postal Service located at 2650 Dr
 - 2008-04-09 — Mr. Clay moved to suspend the rules and pass the bill.
 - 2008-04-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 177). (text: CR H2083)
 - 2008-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 177).(text: CR H2083)
+- 2008-04-10 — Received in the Senate, read twice.
+- 2008-04-22 — Cleared for White House.
+- 2008-04-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3269-3270)
+- 2008-04-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3269-3270)
+- 2008-04-23 — Message on Senate action sent to the House.
