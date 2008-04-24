@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5720
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5720
@@ -45,3 +45,8 @@ Housing Assistance Tax Act of 2008
 - 2008-04-08 — Introduced in House
 - 2008-04-08 — Introduced in House
 - 2008-04-08 — Referred to the House Committee on Ways and Means.
+- 2008-04-09 — Committee Consideration and Mark-up Session Held.
+- 2008-04-09 — Ordered to be Reported (Amended) by the Yeas and Nays: 35 - 5.
+- 2008-04-24 — Placed on the Union Calendar, Calendar No. 377.
+- 2008-04-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-606.
+- 2008-04-24 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-606.

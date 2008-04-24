@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5720
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-98 amendatory instructions. 19 executed, 79 stated and not applied.
+100 amendatory instructions. 19 executed, 81 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,12 +44,12 @@ to guess them.
 
 ### 26 U.S.C. § 42
 
-> by striking “subsection (d)—” and all that follows and inserting “subsection (d) the proceeds of such obligation”.
+> by striking “subsection (d)—” and all that follows and inserting “subsection (d) the proceeds of such obligation.”.
 
 | | |
 |---|---|
 | Removed | `subsection (d)—` |
-| Inserted | `subsection (d) the proceeds of such obligation` |
+| Inserted | `subsection (d) the proceeds of such obligation.` |
 
 ### 26 U.S.C. § 42
 
@@ -125,12 +125,12 @@ to guess them.
 
 ### 26 U.S.C. § 6211
 
-> Section 6211(b)(4)(A) is amended by striking “ and 35,” and inserting “35, 36,”.
+> Section 6211(b)(4)(A) is amended by striking “34,” and all that follows through “6428” and inserting “34, 35, 36, 53(e), and 6428”.
 
 | | |
 |---|---|
-| Removed | `and 35,` |
-| Inserted | `35, 36,` |
+| Removed | `34,” and all that follows through “6428` |
+| Inserted | `34, 35, 36, 53(e), and 6428` |
 
 ### 26 U.S.C. § 63
 
@@ -143,7 +143,7 @@ to guess them.
 
 ### 26 U.S.C. § 149
 
-> Subparagraph (A) of section 149(b)(3) of the Internal Revenue Code of 1986 (relating to exceptions for certain insurance programs) is amended by striking “or” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, or” and by adding at the end the following new clause:
+> Subparagraph (A) of section 149(b)(3) (relating to exceptions for certain insurance programs) is amended by striking “or” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, or” and by adding at the end the following new clause:
 
 | | |
 |---|---|
@@ -161,7 +161,7 @@ to guess them.
 
 ### 26 U.S.C. § 47
 
-> Clause (I) of section 47(c)(2)(B)(v) is amended by striking “section 168(h)” and inserting “section 168(h), except that 50 percent shall be substituted for 35 percent in paragraph (1)(B)(iii) thereof”.
+> Subclause (I) of section 47(c)(2)(B)(v) is amended by striking “section 168(h)” and inserting “section 168(h), except that 50 percent shall be substituted for 35 percent in paragraph (1)(B)(iii) thereof”.
 
 | | |
 |---|---|
@@ -212,7 +212,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 42` | strike | by striking “or below market Federal loan” in the matter preceding clause (i), | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 42` | strike | by striking “, and such loan is repaid,” in clause (ii). | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 42` | strike | Paragraph (2) of section 42(i) is amended by striking subparagraphs (D) and (E). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | redesignate | Subparagraph (C) of section 42(d)(5) (relating to increase in credit for buildings in high cost areas), before redesignation under subsection (d), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | redesignate | Subparagraph (C) of section 42(d)(5) (relating to increase in credit for buildings in high cost areas), before redesignation under subsection (f), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | add-at-end | Paragraph (3) of section 42(e) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | replace | Clause (ii) of section 42(d)(4)(C) (relating to limitation) is amended by striking “10 percent of the eligible basis of the qualified low-income housing project of which it is a part. For purposes of” and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 42` | amend | Subparagraph (A) of section 42(d)(5) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -223,14 +223,15 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 42` | redesignate | Paragraph (5) of section 42(d) is amended by striking subparagraph (B) and by redesignating subparagraph (C) as subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | strike | Paragraph (2) of section 42(c) (defining qualified low-income building) is amended by striking the flush sentence at the end. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | amend | Paragraph (6) of section 42(j) (relating to no recapture on disposition of building (or interest therein) where bond posted) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | add-at-end | Subparagraph (C) of section 42(m)(1) (relating to plans for allocation of credit among projects) is amended by striking “and” at the end of clause (vii), by striking the period at the end of clause (viii), and by adding at the end the fo… | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 42` | add-at-end | Subparagraph (C) of section 42(m)(1) (relating to plans for allocation of credit among projects) is amended by striking “and” at the end of clause (vii), by striking the period at the end of clause (viii) and inserting a comma, and by ad… | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 42` | redesignate | Clause (i) of section 42(i)(3)(D) is amended by striking “or” at the end of subclause (I), by redesignating subclause (II) as subclause (III), and by inserting after subclause (I) the following new subclause: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 42` | add-at-end | Section 42(i) (relating to definitions and special rules) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | add-at-end | Subsection (i) of section 146 (relating to treatment of refunding issues) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | insert | Clause (ii) of section 42(h)(4)(A) is amended by inserting “or such financing is refunded as described in section 146(i)(6)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Paragraph (3) of section 142(d) (relating to current income determinations) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Paragraph (2) of section 142(d) (relating to definitions and special rules) is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Paragraph (2) of section 142(d) (relating to definitions and special rules), as amended by this Act, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 142` | add-at-end | Paragraph (2) of section 142(d) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Paragraph (2) of section 142(d) (relating to definitions and special rules), as amended by subsection (b), is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Paragraph (2) of section 142(d), as amended by section 112, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | `26 U.S.C. § 142` | add-at-end | Subparagraph (A) of section 142(d)(3) is amended by adding at the end the following new sentence: “The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 26` | redesignate | Subpart C of part IV of subchapter A of chapter 1 is amended by redesignating section 36 as section 37 and by inserting after section 35 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1324` | insert | Section 1324(b)(2) of title 31, United States Code, is amended by inserting “, 36,” after “section 35”. | the bill quotes the text inserted but describes where it goes |
@@ -243,6 +244,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 56` | add-at-end | Subparagraph (B) of section 56(g)(4) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 56` | redesignate | Subparagraph (B) of section 38(c)(4) (relating to specified credits) is amended by redesignating clauses (ii) through (iv) as clauses (iii) through (v) and inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 56` | redesignate | Subparagraph (B) of section 38(c)(4), as amended by subsection (b), is amended by striking “and” at the end of clause (iv), by redesignating clause (v) as clause (vi), and by inserting after clause (iv) the following new clause: | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 149` | add-at-end | Paragraph (3) of section 149(b) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1445` | add-at-end | Subsection (b) of section 1445 (relating to exemptions) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1445` | add-at-end | Subsection (f) of section 1445 (relating to definitions) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 1445` | amend | Paragraph (7) of section 1445(b) (relating to special rules for paragraphs (2) and (3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -254,7 +256,7 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 856` | amend | Subparagraph (G) of section 856(c)(5) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 856` | add-at-end | Section 856(c)(5) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 856` | insert | The first sentence in the matter following section 856(c)(4)(B)(iii)(III) is amended by inserting “(including a discrepancy caused solely by the change in the foreign currency exchange rate used to value a foreign asset)” after “such req… | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 301` | add-at-end | Section 856(c)(5), as amended by section 301(d), is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 201` | add-at-end | Section 856(c)(5), as amended by section 201(d), is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 857` | amend | Clause (i) of section 857(b)(4)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 857` | amend | Clause (i) of section 857(b)(6)(B) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “4 years” in subparagraphs (C)(i), (C)(iv), and (D)(i) and inserting “2 years”, | the bill names no machine-readable US Code section |
@@ -270,15 +272,15 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6045` | add-at-end | Section 6045, as amended by subsection (a), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6045` | strike | by striking “at such time and”, and | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6045` | insert | by inserting after “other item.” the following new sentence: “The written statement required under the preceding sentence shall be furnished on or before February 15 of the year following the calendar year in which the payment was made.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6045` | add-at-end | Subsection (b) of section 6045 is amended by adding at the end the following: “In the case of a consolidated reporting statement (as defined in regulations) with respect to any account which includes the statement required by this subsec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6045` | add-at-end | Subsection (b) of section 6045 is amended by adding at the end the following: “In the case of a consolidated reporting statement (as defined in regulations) with respect to any account, any statement which would otherwise be required to … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6045` | replace | by striking “The basis of property” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6045` | replace | by striking “The cost of real property” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6045` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6045` | insert | Subpart B of part III of subchapter A of chapter 61 is amended by inserting after section 6045 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6045` | redesignate | Paragraph (2) of section 6724(d) (defining payee statement) is amended by redesignating subparagraphs (I) through (CC) as subparagraphs (J) through (DD), respectively, and by inserting after subparagraph (H) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6045` | insert | The table of sections for subpart B of part III of subchapter A of chapter 61 is amended by inserting after the item relating to section 6045 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6045` | insert | Subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986, as amended by subsection (b), is amended by inserting after section 6045A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6045` | redesignate | Subparagraph (B) of section 6724(d)(1) of such Code (defining information return) is amended by redesignating clauses (iv) through (xix) as clauses (v) through (xx), respectively, and by inserting after clause (iii) the following new cla… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6045` | insert | Subpart B of part III of subchapter A of chapter 61, as amended by subsection (b), is amended by inserting after section 6045A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6045` | redesignate | Subparagraph (B) of section 6724(d)(1) of such Code (defining information return) is amended by redesignating clause (iv) and each of the clauses which follow as clauses (v) through (xxii), respectively, and by inserting after clause (ii… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6045` | redesignate | Paragraph (2) of section 6724(d) of such Code (defining payee statement), as amended by subsection (c)(2), is amended by redesignating subparagraphs (J) through (DD) as subparagraphs (K) through (EE), respectively, and by inserting after… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6045` | insert | The table of sections for subpart B of part III of subchapter A of chapter 61 of such Code, as amended by subsection (b)(3), is amended by inserting after the item relating to section 6045A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 864` | add-at-end | Subsection (f) of section 864 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
