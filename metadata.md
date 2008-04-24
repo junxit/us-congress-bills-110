@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 322
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 322
@@ -319,3 +319,5 @@ Recognizing the 60th anniversary of the founding of the modern State of Israel a
 - 2008-04-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-04-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 210). (text: CR 4/22/2008 H2515)
 - 2008-04-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 210).(text: CR 4/22/2008 H2515)
+- 2008-04-24 — Passed/agreed to in Senate: Received in the Senate, considered, and passed without amendment and with a preamble by Unanimous Consent.(consideration: CR S3412)
+- 2008-04-24 — Received in the Senate, considered, and passed without amendment and with a preamble by Unanimous Consent. (consideration: CR S3412)
