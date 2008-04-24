@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(a)** *In General* Any State which desires to do so may enter into and participate in an agreement under this Act with the Secretary of Labor (in this Act referred to as the “Secretary”). Any State which is a party to an agreement under this Act may, upon providing 30 days’ written notice to the Secretary, terminate such agreement.
 - **(b)** *Provisions of Agreement* Any agreement under subsection (a) shall provide that the State agency of the State will make payments of emergency unemployment compensation to individuals who—
   - **(1)** have exhausted all rights to regular compensation under the State law or under Federal law with respect to a benefit year (excluding any benefit year that ended before May 1, 2007);
-  - **(2)** have no rights to regular compensation or extended compensation with respect to a week under such law or any other State unemployment compensation law or to compensation under any other Federal law; and
+  - **(2)** have no rights to regular compensation or extended compensation with respect to a week under such law or any other State unemployment compensation law or to compensation under any other Federal law (except as provided under subsection (e)); and
   - **(3)** are not receiving compensation with respect to such week under the unemployment compensation law of Canada.
 - **(c)** *Exhaustion of Benefits* For purposes of subsection (b)(1), an individual shall be deemed to have exhausted such individual’s rights to regular compensation under a State law when—
   - **(1)** no payments of regular compensation can be made under such law because such individual has received all regular compensation available to such individual based on employment or wages during such individual’s base period; or
@@ -39,8 +39,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(B)** 13 times the individual’s average weekly benefit amount for the benefit year.
   - **(2)** *Weekly benefit amount* For purposes of this subsection, an individual’s weekly benefit amount for any week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment.
 - **(c)** *Special Rule*
-  - **(1)** *In general* Notwithstanding any other provision of this section, if, at the time that the individual’s account is exhausted, such individual’s State is in an extended benefit period (as determined under paragraph (2)), then, such account shall be augmented by an amount equal to the amount originally established in such account (as determined under subsection (b)(1)).
-  - **(2)** *Extended benefit period* For purposes of paragraph (1), a State shall be considered to be in an extended benefit period if, at the time of exhaustion (as described in paragraph (1))—
+  - **(1)** *In general* Notwithstanding any other provision of this section, if, at the time that the individual’s account is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), then, such account shall be augmented by an amount equal to the amount originally established in such account (as determined under subsection (b)(1)).
+  - **(2)** *Extended benefit period* For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if—
     - **(A)** such a period is then in effect for such State under the Federal-State Extended Unemployment Compensation Act of 1970;
     - **(B)** such a period would then be in effect for such State under such Act if section 203(d) of such Act—
       - **(i)** were applied by substituting “4” for “5” each place it appears; and
@@ -48,7 +48,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** such a period would then be in effect for such State under such Act if—
       - **(i)** section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
       - **(ii)** such section 203(f)—
-        - **(I)** were applied by substituting “6.0” for “6.5” in paragraph (1)(A)(i); and
+        - **(I)** were applied by substituting “6.0” or “6.5” in paragraph (1)(A)(i); and
         - **(II)** did not include the requirement under paragraph (1)(A)(ii).
 
 ## § 4. Payments to States having agreements for the payment of emergency unemployment compensation
@@ -59,9 +59,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 5. Financing provisions
 
-- **(a)** *In General* Funds in the extended unemployment compensation account (as established by section 905(a) of the Social Security Act (42 U.S.C. 1105(a)) of the Unemployment Trust Fund (as established by section 904(a) of such Act (42 U.S.C. 1104(a)) shall be used for the making of payments to States having agreements entered into under this Act.
+- **(a)** *In General* Funds in the extended unemployment compensation account (as established by section 905(a) of the Social Security Act (42 U.S.C. 1105(a))) of the Unemployment Trust Fund (as established by section 904(a) of such Act (42 U.S.C. 1104(a))) shall be used for the making of payments to States having agreements entered into under this Act.
 - **(b)** *Certification* The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this Act. The Secretary of the Treasury, prior to audit or settlement by the Government Accountability Office, shall make payments to the State in accordance with such certification, by transfers from the extended unemployment compensation account (as so established) to the account of such State in the Unemployment Trust Fund (as so established).
-- **(c)** *Assistance to States* There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act (42 U.S.C. 1101(a)) of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act (42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this Act.
+- **(c)** *Assistance to States* There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act (42 U.S.C. 1101(a))) of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act (42 U.S.C. 501 et seq.)) in meeting the costs of administration of agreements under this Act.
 - **(d)** *Appropriations for Certain Payments* There are appropriated from the general fund of the Treasury, without fiscal year limitation, to the extended unemployment compensation account (as so established) of the Unemployment Trust Fund (as so established) such sums as the Secretary estimates to be necessary to make the payments under this section in respect of—
   - **(1)** compensation payable under chapter 85 of title 5, United States Code; and
   - **(2)** compensation payable on the basis of services to which section 3309(a)(1) of the Internal Revenue Code of 1986 applies.
