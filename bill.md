@@ -1,0 +1,65 @@
+---
+legis-num: H.R. 5893
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5893
+
+> To reauthorize the sound recording and film preservation programs of the Library of Congress, and for other purposes.
+
+## § 1. Short Title
+
+This Act may be cited as the “Library of Congress Sound Recording and Film Preservation Programs Reauthorization Act of 2008”.
+
+## § 2. Sound Recording Preservation Programs
+
+- **(a)** *National Recording Preservation Board*
+  - **(1)** *Reauthorization*
+    - **(A)** *In general* Section 133 of the National Recording Preservation Act of 2000 (2 U.S.C. 1743) is amended by striking “for each of the first 7 fiscal years beginning on or after the date of the enactment of this Act” and inserting “for the first fiscal year beginning on or after the date of the enactment of this Act and each succeeding fiscal year through fiscal year 2014”.
+    - **(B)** *Effective date* The amendment made by subparagraph (A) shall take effect as if included in the enactment of the National Recording Preservation Act of 2000.
+  - **(2)** *Criteria for removal of members* Section 122(d)(2) of such Act (2 U.S.C. 1722(d)(2)) is amended to read as follows:
+    > - **(2)** *Removal of members* The Librarian shall have the authority to remove any member of the Board if the member fails, after receiving proper notification, to attend (or send a designated alternate to attend) a regularly scheduled Board meeting, or if the member is determined by the Librarian to have substantially failed to fulfill the member’s responsibilities as a member of the Board.
+
+- **(b)** *National Recording Preservation Foundation*
+  - **(1)** *Reauthorization*
+    - **(A)** *In general* Section 152411(a) of title 36, United States Code, is amended by striking “for each of the first 7 fiscal years beginning on or after the date of the enactment of this chapter” and inserting “for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2014”.
+    - **(B)** *Effective date* The amendment made by subparagraph (A) shall take effect as if included in the enactment of the National Recording Preservation Act of 2000.
+  - **(2)** *Permitting Board members to serve more than 2 terms* Section 152403(b)(4) of such title is amended by striking the second sentence.
+  - **(3)** *Permitting Board to determine location of principal office*
+    - **(A)** *In general* Section 152406 of such title is amended by striking “District of Columbia.” and inserting “District of Columbia or another place as determined by the Board of Directors.”.
+    - **(B)** *Conforming amendment* Section 152405(b) of such title is amended by striking “District of Columbia,” and inserting “jurisdiction in which the principal office of the corporation is located,”.
+  - **(4)** *Clarification of limitation on use of funds for administrative expenses* Section 152411(b) of such title is amended to read as follows:
+    > - **(b)** *Limitation Related to Administrative Expenses* Amounts authorized under this section may not be used by the corporation for management and general or fundraising expenses as reported to the Internal Revenue Service as part of an annual information return required under the Internal Revenue Code of 1986.
+
+## § 3. Film Preservation Programs
+
+- **(a)** *National Film Preservation Board*
+  - **(1)** *Reauthorization*
+    - **(A)** *In general* Section 112 of the National Film Preservation Act of 1996 (2 U.S.C. 179v) is amended by inserting after “the Librarian” the following: “for the first fiscal year beginning on or after the date of the enactment of this Act and each succeeding fiscal year through fiscal year 2014”.
+    - **(B)** *Conforming amendment* Section 113 of such Act (2 U.S.C. 179w) is amended by striking the first sentence.
+    - **(C)** *Effective date* The amendments made by this paragraph shall take effect as if included in the enactment of the National Film Preservation Act of 1996.
+  - **(2)** *Expanding authorized uses of seal* Section 103(b) of such Act (2 U.S.C. 179m(b)) is amended by adding at the end the following: “The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film Registry when exhibiting, showing, or otherwise disseminating films in the Registry.”.
+  - **(3)** *Updating names of organizations represented on Board* Section 104(a)(1) of such Act (2 U.S.C. 179n(a)(1)) is amended—
+    - **(A)** in subparagraph (E), by striking “Cinema” and inserting “Cinema and Media”;
+    - **(B)** in subparagraph (G), by striking “Department of Film and Television” and inserting “Department of Film, Television, and Digital Media”;
+    - **(C)** in subparagraph (H), by striking “Film and Television” and inserting “Cinema Studies”; and
+    - **(D)** by amending subparagraph (L) to read as follows:
+      > - **(L)** Screen Actors Guild.
+
+- **(b)** *National Film Preservation Foundation*
+  - **(1)** *Reauthorization* Section 151711(a) of title 36, United States Code, is amended to read as follows, by inserting after the first sentence the following:
+    > - **(a)** *Authorization of Appropriations*
+    >   - **(1)** *In general* There are authorized to be appropriated to the Library of Congress amounts necessary to carry out this chapter, not to exceed—
+    >     - **(A)** $530,000 for each of the fiscal years 2005 through 2009;
+    >     - **(B)** $750,000 for each of the fiscal years 2010 through 2011; and
+    >     - **(C)** $1,000,000 for each of the fiscal years 2012 through 2017.
+    >   - **(2)** *Matching* The amounts authorized to be appropriated under this subsection are to be made available to the corporation to match any private contributions (whether in currency, services, or property) made to the corporation by private persons and State and local governments.
+
+  - **(2)** *Repatriation of films from foreign archives as purpose of Foundation* Section 151702(1) of such title is amended by striking “United States;” and inserting “United States and the repatriation of American films from foreign archives;”.
+  - **(3)** *Extension of deadline for filling vacancies in membership of Board of Directors* Section 151703(b)(5) of such title is amended by striking “60 days” and inserting “120 days”.
+
+## § 4. Permitting Distribution of Acquired News Transmissions in American Television and Radio Archives for Research or Deposit in Public Libraries or Archives
+
+Section 113(b)(3) of Public Law 94–553 (commonly known as the “American Television and Radio Archives Act”) (2 U.S.C. 170(b)(3)) is amended by striking “this subsection” and inserting “this subsection or a copy or phonorecord of a transmission program described under this subsection which is acquired by the Librarian pursuant to subsection (a)(1)”.
