@@ -1,7 +1,7 @@
 ---
 measure: S. 2903
 congress: 110
-version: Enrolled Bill
+version: Engrossed in Senate
 ---
 
 # S. 2903
