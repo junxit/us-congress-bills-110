@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 77
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 77
@@ -20,9 +20,10 @@ A concurrent resolution supporting the goals and ideals of National Sexual Assau
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A concurrent resolution supporting the goals and ideals of National Sexual Assau
 - 2008-04-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S3332)
 - 2008-04-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3332)
 - 2008-04-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3332)
+- 2008-04-24 — Message on Senate action sent to the House.
+- 2008-04-24 — Received in the House.
+- 2008-04-24 — Referred to the House Committee on the Judiciary.
