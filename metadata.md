@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 524
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 524
@@ -16,7 +16,7 @@ A resolution honoring the entrepreneurial spirit of the owners of small business
 
 - Sen. Kerry, John F. [D-MA] (K000148)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
@@ -32,6 +32,7 @@ A resolution honoring the entrepreneurial spirit of the owners of small business
 - Sen. Pryor, Mark L. [D-AR] (P000590)
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Coleman, Norm [R-MN] (C001057)
 
 ## Committees (1)
 
@@ -42,3 +43,7 @@ A resolution honoring the entrepreneurial spirit of the owners of small business
 - 2008-04-22 — Introduced in Senate
 - 2008-04-22 — Referred to the Committee on Small Business and Entrepreneurship. (text of measure as introduced: CR S3260)
 - 2008-04-22 — Sponsor introductory remarks on measure. (CR S3260-3261)
+- 2008-04-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3452; text as passed Senate: CR S3452)
+- 2008-04-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3452; text as passed Senate: CR S3452)
+- 2008-04-28 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2008-04-28 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
