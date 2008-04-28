@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas the Members of the Senate and the House of Representatives are saddened that the Prime Minister of Ireland, Bertie Ahern, has announced that he will resign on May 6, 2008;
 - Whereas Prime Minister Ahern has served the people of Ireland with distinction for many years and has been an extraordinary friend to the United States throughout his years in office;
-- Whereas, during his extensive period of public service, Prime Minister Ahern has made significant contributions to an unprecedented era of peace, prosperity, and progress in Ireland;
+- Whereas during his extensive period of public service, Prime Minister Ahern has made significant contributions to an unprecedented era of peace, prosperity, and progress in Ireland;
 - Whereas Prime Minister Ahern entered politics in 1977 and has been elected 10 times in the past 31 years by the people of Dublin Central;
 - Whereas Prime Minister Ahern was elected leader of Fianna Fáil in 1994 and became Prime Minister in 1997;
 - Whereas Prime Minister Ahern is the second-longest-serving Taoiseach, or Prime Minister, in the history of Ireland, and the second-longest-serving leader of Fianna Fáil;
