@@ -1,7 +1,7 @@
 ---
 measure: S. 2829
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2829
@@ -16,7 +16,7 @@ A bill to make technical corrections to section 1244 of the National Defense Aut
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
@@ -34,6 +34,9 @@ A bill to make technical corrections to section 1244 of the National Defense Aut
 - Sen. Hagel, Chuck [R-NE] (H001028)
 - Sen. Coleman, Norm [R-MN] (C001057)
 - Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
 
 ## Committees (1)
 
@@ -43,3 +46,7 @@ A bill to make technical corrections to section 1244 of the National Defense Aut
 
 - 2008-04-08 — Introduced in Senate
 - 2008-04-08 — Read twice and referred to the Committee on the Judiciary.
+- 2008-04-28 — Passed Senate without amendment by Unanimous Consent. (text: CR S3450)
+- 2008-04-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3450)
+- 2008-04-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3449-3450)
+- 2008-04-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3449-3450)

@@ -1,7 +1,7 @@
 ---
 measure: S. 2829
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
