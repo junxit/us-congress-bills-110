@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 497
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 497
@@ -42,3 +42,5 @@ A resolution expressing the sense of the Senate that public servants should be c
 - 2008-04-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
 - 2008-04-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment and with a preamble. Without written report.
 - 2008-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 704.
+- 2008-04-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3451; text as passed Senate: CR S3451)
+- 2008-04-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3451; text as passed Senate: CR S3451)
