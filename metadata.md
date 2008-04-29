@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3490
 congress: 110
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 3490
