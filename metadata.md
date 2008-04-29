@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5631
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5631
@@ -38,3 +38,11 @@ To designate the facility of the United States Postal Service located at 1155 Se
 - 2008-03-13 — Introduced in House
 - 2008-03-13 — Introduced in House
 - 2008-03-13 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-04-09 — Committee Consideration and Mark-up Session Held.
+- 2008-04-09 — Ordered to be Reported by Voice Vote.
+- 2008-04-29 — Considered under suspension of the rules. (consideration: CR H2827-2828)
+- 2008-04-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5631.
+- 2008-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-29 — Mr. Kucinich moved to suspend the rules and pass the bill.
+- 2008-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2827)
+- 2008-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2827)
