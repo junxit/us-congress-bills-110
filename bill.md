@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3490
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Tuolumne Me-Wuk Land Transfer Act of 2007”.
+This Act may be cited as the “Tuolumne Me-Wuk Land Transfer Act of 2008”.
 
 ## § 2. Findings
 
@@ -28,7 +28,9 @@ Congress finds that—
 
 ## § 3. Lands to be taken into trust
 
-- **(a)** *In general* Subject to valid existing rights, all right, title, and interest (including improvements and appurtenances) of the United States in and to the Federal lands described in subsection (b) are hereby declared to be held in trust by the United States for the benefit of the Tribe for nongaming purposes, and shall be subject to the same terms and conditions as those lands described in the California Indian Land Transfer Act of 2000 (title IX, Public Law 106–568; 114 Stat. 2868, 2921). Lands taken or to be taken in trust by the United States for the benefit of the Tribe which are described in subsection (c) of this Act shall be subject to subsection (c) of section 903 of the California Indian Land Transfer Act of 2000.
+- **(a)** *In general*
+  - **(1)** *Federal lands* Subject to valid existing rights, all right, title, and interest (including improvements and appurtenances) of the United States in and to the Federal lands described in subsection (b), immediately after the Secretary of the Interior has confirmed that the National Environmental Policy Act of 1969 has been complied with regarding the trust acquisition of those Federal lands, the Federal lands shall be declared to be held in trust by the United States for the benefit of the Tribe for nongaming purposes, and shall be subject to the same terms and conditions as those lands described in the California Indian Land Transfer Act of 2000 (title IX, Public Law 106–568; 114 Stat. 2868, 2921).
+  - **(2)** *Trust lands* Lands described in subsection (c) of this section that are taken or to be taken in trust by the United States for the benefit of the Tribe shall be subject to subsection (c) of section 903 of the California Indian Land Transfer Act of 2000.
 - **(b)** *Federal lands described* The Federal lands described in this subsection, comprising approximately 66 acres, are as follows:
   - **(1)** Township 1 North, Range 16 East, Section 6, Lots 10 and 12, MDM, containing 50.24 acres more or less.
   - **(2)** Township 1 North, Range 16 East, Section 5, Lot 16, MDM, containing 15.35 acres more or less.
@@ -43,7 +45,7 @@ Congress finds that—
   - **(7)** Assessor Parcel No. 620401700, 0.8 acres, trust land.
   - **(8)** A portion of Assessor Parcel No. 620500200, 2.5 acres, trust land.
   - **(9)** Assessor Parcel No. 620506200, 24.87 acres, trust land.
-- **(d)** *Survey* Not later than 180 days after the date of the enactment of this Act, the Office of Cadastral Survey of the Bureau of Land Management shall complete a survey of the lands described in subsections (b) and (c) for the purpose of incorporating those lands within the boundaries of the Tuolumne Rancheria.
+- **(d)** *Survey* As soon as practicable after the date of the enactment of this Act, the Office of Cadastral Survey of the Bureau of Land Management shall complete fieldwork required for a survey of the lands described in subsections (b) and (c) for the purpose of incorporating those lands within the boundaries of the Tuolumne Rancheria. Not later than 90 days after that fieldwork is completed, that office shall complete the survey.
 - **(e)** *Legal descriptions*
   - **(1)** *Publication* On approval by the Community Council of the Tribe of the survey completed under subsection (d), the Secretary of the Interior shall publish in the Federal Register—
     - **(A)** a legal description of the new boundary lines of the Tuolumne Rancheria; and
