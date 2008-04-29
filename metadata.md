@@ -1,7 +1,7 @@
 ---
 measure: S. 2829
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2829
@@ -38,9 +38,10 @@ A bill to make technical corrections to section 1244 of the National Defense Aut
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -50,3 +51,6 @@ A bill to make technical corrections to section 1244 of the National Defense Aut
 - 2008-04-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S3450)
 - 2008-04-28 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3449-3450)
 - 2008-04-28 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3449-3450)
+- 2008-04-29 — Message on Senate action sent to the House.
+- 2008-04-29 — Received in the House.
+- 2008-04-29 — Referred to the House Committee on the Judiciary.
