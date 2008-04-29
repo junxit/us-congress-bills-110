@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 74
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 74
@@ -21,9 +21,10 @@ A concurrent resolution honoring the Prime Minister of Ireland, Bertie Ahern, fo
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A concurrent resolution honoring the Prime Minister of Ireland, Bertie Ahern, fo
 - 2008-04-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.
 - 2008-04-28 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3450-3451; text as passed Senate: CR S3451)
 - 2008-04-28 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3450-3451; text as passed Senate: CR S3451)
+- 2008-04-29 — Message on Senate action sent to the House.
+- 2008-04-29 — Received in the House.
+- 2008-04-29 — Referred to the House Committee on Foreign Affairs.
