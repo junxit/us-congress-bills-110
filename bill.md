@@ -1,0 +1,41 @@
+---
+legis-num: S. RES. 541
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 541
+
+> Supporting humanitarian assistance, protection of civilians, accountability for abuses in Somalia, and urging concrete progress in line with the Transitional Federal Charter of Somalia toward the establishment of a viable government of national unity.
+
+## Preamble
+
+- Whereas, despite the formation of the internationally recognized Transitional Federal Government (TFG) in 2004, there has been little improvement in the governance or stability of southern and central Somalia, and stability in the northern region of Puntland has deteriorated;
+- Whereas governance failures in Somalia have permitted and contributed to escalating violence, egregious human rights abuses, and violations of international humanitarian law, which occur with impunity and have led to an independent system of roadblocks, checkpoints, and extortion that hinders trade, business, and the delivery of desperately needed humanitarian assistance;
+- Whereas the Government of Ethiopia intervened in Somalia in December 2006 against the Islamic Courts Union (ICU) and continues to serve as the primary security force for the TFG in Somalia;
+- Whereas a United Nations Monitoring Group on Somalia report presented to the United Nations Security Council on July 20, 2007, alleged that Eritreans have provided arms to insurgents in Somalia as part of a long-standing dispute between Ethiopia and Eritrea that includes a series of interlocking proxy wars in the Horn of Africa;
+- Whereas the United Nations estimates that, as of April 2008, 2,000,000 people in Somalia need humanitarian assistance or livelihood support for at least the next 6 months, including 745,000 people who have fled ongoing insecurity and sporadic violence in Mogadishu over the past 16 months, adding to more than 275,000 long-term internally displaced Somalis;
+- Whereas, despite Prime Minister Nur Hassan Hussein’s public commitment to humanitarian operations, local and international aid agencies remain hindered by extortion, harassment, and administrative obstructions;
+- Whereas, in March 2008, United Nations Secretary-General Ban Ki-moon presented his report on Somalia based on recent strategic assessments and fact-finding missions, which offered recommendations for increasing United Nations engagement while decreasing the presence of foreign troops, including the establishment of a maritime task force to deter piracy and support the 1992 international arms embargo;
+- Whereas the United States Government has allocated nearly $50,000,000 to support the African Union Mission in Somalia (AMISOM) and continues to be the leading contributor of humanitarian assistance in Somalia, with approximately $140,000,000 provided in fiscal year 2007 and fiscal year 2008 to date, but still lacks a comprehensive strategy to build a sustainable peace;
+- Whereas, over the last 5 years, the Senate has repeatedly called upon the President through resolutions, amendments, bills, oversight letters, and hearings to develop and implement a comprehensive strategy to contribute to lasting peace and security throughout the Horn of Africa by helping to establish a legitimate, stable central government in Somalia capable of maintaining the rule of law and preventing Somalia from becoming a safe haven for terrorists;
+- Whereas a February 2008 Government Accountability Office (GAO) report entitled, “Somalia: Several Challenges Limit U.S. and International Stabilization, Humanitarian, and Development Efforts”, found that United States and international “efforts have been limited by lack of security, access to vulnerable populations, and effective government institutions” as well as the fact that the “U.S. strategy for Somalia, outlined in the Administration’s 2007 report to Congress on its Comprehensive Regional Strategy on Somalia, is incomplete”;
+- Whereas the recent designation by the Department of State of Somali’s al Shabaab militia as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189) and as a specially designated global terrorist under section 1(b) of Executive Order 13224 (September 23, 2001) highlights the growing need for a strategic, multifaceted, and coordinated approach to Somalia; and
+- Whereas it is in the interest of the United States, the people of Somalia, and the citizens and governments of neighboring and other interested countries to work towards a legitimate peace and a sustainable resolution to the crisis in Somalia that includes civilian protection and access to services, upholds the rule of law, and promotes accountability: Now, therefore, be it
+
+That it is the sense of the Senate that—
+
+- **(1)** the United States remains committed to the people of Somalia and to helping build the institutions necessary for a stable nation free from civil war and violent extremism;
+- **(2)** the President, in partnership with the African Union, the United Nations, and the international community, should—
+  - **(A)** provide sufficient humanitarian assistance to those most seriously affected by armed conflict, drought, and flooding throughout Somalia, and call on the Transitional Federal Government to actively facilitate the dispersal of such assistance;
+  - **(B)** ensure accountability for all state, non-state, and external parties responsible for violations of human rights and international humanitarian law in Somalia, including through the deployment of United Nations human rights monitors and the establishment of a United Nations Commission of Inquiry to investigate abuses;
+  - **(C)** call on all parties to recommit to an inclusive dialogue, with international support, in the interest of promoting sustainable peace and security in Somalia and across the Horn of Africa;
+  - **(D)** urge the Government of Ethiopia, in coordination with the United Nations Political Office in Somalia, to develop a clear timeline for the responsible withdrawal of its armed forces from Somalia, to honor its obligation under the Geneva Conventions to ensure protection of civilians under its control, and to observe the distinction between civilians and military combatants and their assets;
+  - **(E)** urge the Government of Eritrea to play a productive role in helping to bring about stability to Somalia, including ceasing to provide any financial and material support, such as arms and ammunition, to insurgent groups in and around Mogadishu and throughout the region; and
+  - **(F)** call on all countries in the region and wider international community to provide increased support for AMISOM and ensure a robust civilian protection mandate;
+- **(3)** to achieve sustainable peace in the region, the Transitional Federal Government, including the newly appointed Prime Minister and his Cabinet, should—
+  - **(A)** take necessary steps to protect civilians from dangers related to military operations, investigate and prosecute human rights abuses, provide basic services to all the people of Somalia, and ensure that humanitarian organizations have full access to vulnerable populations;
+  - **(B)** recommit to the Transitional Federal Charter;
+  - **(C)** set a detailed timeline and demonstrate observable progress for completing the political transition laid out in the Transitional Federal Charter by 2009, including concrete and immediate steps toward scheduling elections as a means of establishing a democratically elected government that represents the people of Somalia; and
+  - **(D)** agree to participate in an inclusive and transparent political process, with international support, towards the formation of a government of national unity based on the principles of democracy, accountability, and the rule of law.
