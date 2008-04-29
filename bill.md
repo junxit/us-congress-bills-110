@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3522
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -41,7 +41,7 @@ Congress finds the following:
 
 - **(a)** *Conditional Ratification and Approval* This Act ratifies and approves the Jicarilla Apache Nation’s quitclaim deed for the Settlement Lands to Rio Arriba County, but such ratification and approval shall be effective only upon satisfaction of all conditions in section 3, and only as of the date that the Secretary’s findings are published in the Federal Register pursuant to section 3.
 - **(b)** *Patent* Following publication of the notice described in section 3, the Secretary shall issue to Rio Arriba County a patent for the Settlement Lands, subject to the exceptions and restrictive covenants described subsection (c).
-- **(c)** *Conditions of Patent* The patent to be issued by the Secretary under subsection (b) shall be subject to all valid existing rights of third parties, including but not limited to easements of record, and shall include the following perpetual restrictive covenant running with the Settlement Lands for the benefit of the lands comprising the Jicarilla Apache Reservation adjacent to the Settlement Lands: “Tract A shall be used only for governmental purposes and shall not be used for a prison, jail or other facility for incarcerating persons accused or convicted of a crime. For purposes of this restrictive covenant, ”governmental purposes“ shall include the provision of governmental services to the public by Rio Arriba County and the development and operation of private businesses to the extent permitted by applicable State law.”.
+- **(c)** *Conditions of Patent* The patent to be issued by the Secretary under subsection (b) shall be subject to all valid existing rights of third parties, including but not limited to easements of record, and shall include the following perpetual restrictive covenant running with the Settlement Lands for the benefit of the lands comprising the Jicarilla Apache Reservation adjacent to the Settlement Lands: “Tract A shall be used only for governmental purposes and shall not be used for a prison, jail or other facility for incarcerating persons accused or convicted of a crime. For purposes of this restrictive covenant, ” governmental purposes “shall include the provision of governmental services to the public by Rio Arriba County and the development and operation of private businesses to the extent permitted by applicable State law.”.
 
 ## § 5. Boundary change
 
