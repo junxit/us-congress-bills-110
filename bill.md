@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2457
 congress: 110th CONGRESS
-session: 2nd Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 

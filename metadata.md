@@ -1,7 +1,7 @@
 ---
 measure: S. 2457
 congress: 110
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 2457
@@ -20,9 +20,10 @@ A bill to provide for extensions of leases of certain land by Mashantucket Pequo
 
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,16 @@ A bill to provide for extensions of leases of certain land by Mashantucket Pequo
 - 2008-02-06 — Message on Senate action sent to the House.
 - 2008-02-07 — Received in the House.
 - 2008-02-07 — Referred to the House Committee on Natural Resources.
+- 2008-04-09 — Committee Hearings Held.
+- 2008-04-17 — Committee Consideration and Mark-up Session Held.
+- 2008-04-17 — Ordered to be Reported by Unanimous Consent.
+- 2008-04-29 — Cleared for White House.
+- 2008-04-29 — Considered under suspension of the rules. (consideration: CR H2769-2770)
+- 2008-04-29 — DEBATE - The House proceeded with forty minutes of debate on S. 2457.
+- 2008-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-29 — Mr. Rahall moved to suspend the rules and pass the bill.
+- 2008-04-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2769)
+- 2008-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2769)
+- 2008-04-29 — Placed on the Union Calendar, Calendar No. 381.
+- 2008-04-29 — Reported by the Committee on Natural Resources. H. Rept. 110-611.
+- 2008-04-29 — Reported by the Committee on Natural Resources. H. Rept. 110-611.
