@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1043
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1043
@@ -16,7 +16,7 @@ Honoring the life and legacy of Chief Standing Bear, a pioneer in civil rights f
 
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
-## Cosponsors (46)
+## Cosponsors (51)
 
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 - Rep. Lewis, John [D-GA-5] (L000287)
@@ -64,6 +64,11 @@ Honoring the life and legacy of Chief Standing Bear, a pioneer in civil rights f
 - Rep. Davis, Tom [R-VA-11] (D000136)
 - Rep. Boren, Dan [D-OK-2] (B001254)
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Rep. Terry, Lee [R-NE-2] (T000459)
 
 ## Committees (1)
 
@@ -74,3 +79,9 @@ Honoring the life and legacy of Chief Standing Bear, a pioneer in civil rights f
 - 2008-03-12 — Introduced in House
 - 2008-03-12 — Introduced in House
 - 2008-03-12 — Referred to the House Committee on Natural Resources.
+- 2008-04-29 — Considered under suspension of the rules. (consideration: CR H2772-2773)
+- 2008-04-29 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1043.
+- 2008-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-29 — Mr. Rahall moved to suspend the rules and agree to the resolution.
+- 2008-04-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2772)
+- 2008-04-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2772)
