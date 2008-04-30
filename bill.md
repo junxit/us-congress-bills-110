@@ -2,7 +2,7 @@
 legis-num: H. RES. 1100
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1100
@@ -22,7 +22,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the University of Iowa Hawkeyes Wrestling Team had a final team score of 117.5 to place them 1st in the Division I standings with the 2d place team scoring only 79;
 - Whereas the University of Iowa Hawkeyes Wrestling Team has a rich tradition and history of producing champions and outstanding collegiate athletes and coaches since the program began in 1911;
 - Whereas former University of Iowa Hawkeyes Wrestling Head Coach, and Olympic Gold Medalist, Dan Gable helped establish one of the most successful wrestling programs in the nation and is commended for his leadership and guidance provided to the current 2008 championship team;
-- Whereas the current University of Iowa Hawkeyes Wrestling team has continued the teams winning history which includes Big Ten Conference Championships in 1958, 1962, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982 ,1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 2000, 2004, and 2008, and NCAA Division I National Wrestling Championships in 1975, 1976, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1991, 1992, 1993, 1995, 1996, 1997, 1998, 1999, 2000, and 2008;
+- Whereas the current University of Iowa Hawkeyes Wrestling team has continued the teams winning history which includes Big Ten Conference Championships in 1915, 1916, 1958, 1962, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982 ,1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 2000, 2004, and 2008, and NCAA Division I National Wrestling Championships in 1975, 1976, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1991, 1992, 1993, 1995, 1996, 1997, 1998, 1999, 2000, and 2008;
 - Whereas the hard work and dedication of the University of Iowa Hawkeyes Wrestling team’s Brodie Ambrose, Matt Ballweg, Chad Beatty, Jay Borschel, Derek Coorough, Daniel Dennis, Dan Erekson, Michael Fahrer, Charlie Falck, Matt Fields, Stew Gillmor, Tyler Halverson, Aaron Janssen, Jordan Johnson, Phillip Keddy, Jake Kerr, Nick Kolegraff, Brooks Kopsa, J.J. Krutsinger, Ryan Kurovski, Dan LeClere, Nick LeClere, T.H. Leet, Rick Loera, Luke Lofthouse, Thomas Magnani, Montell Marion, Weston Marling, Jordan McLaughlin, Derrick Mehmen, Brent Metcalf, Ryan Morningstar, Mark Perry, Blake Rasing, Ethan Sebert, Joe Slaton, Alex Tsirtsis, Vinnie Wagner, Head Coach Tom Brands, Assistant Coach Wes Hand, Interim Assistant Coach Doug Schwab, and Strength Training Coach Mike Zadick all contributed to an outstanding season culminating in the 2008 national title; and
 - Whereas the University of Iowa Hawkeyes Wrestling Team have brought honor to themselves, the University of Iowa, the City of Iowa City, and the State of Iowa: Now, therefore, be it
 
