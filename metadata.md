@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 330
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 330
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Sexual Assault Awareness and Prevent
 
 - Rep. Baldwin, Tammy [D-WI-2] (B001230)
 
-## Cosponsors (22)
+## Cosponsors (27)
 
 - Rep. Poe, Ted [R-TX-2] (P000592)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
@@ -40,6 +40,11 @@ Supporting the goals and ideals of National Sexual Assault Awareness and Prevent
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 - Rep. Lewis, John [D-GA-5] (L000287)
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 
 ## Committees (1)
 
@@ -50,3 +55,9 @@ Supporting the goals and ideals of National Sexual Assault Awareness and Prevent
 - 2008-04-17 — Introduced in House
 - 2008-04-17 — Introduced in House
 - 2008-04-17 — Referred to the House Committee on the Judiciary.
+- 2008-04-30 — Considered under suspension of the rules. (consideration: CR H2898-2901)
+- 2008-04-30 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 330.
+- 2008-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-30 — Ms. Baldwin moved to suspend the rules and agree to the resolution.
+- 2008-04-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2898)
+- 2008-04-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2898)
