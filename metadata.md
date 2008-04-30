@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 444
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 444
@@ -49,3 +49,9 @@ Supporting the goals and ideals of National Aviation Maintenance Technician Day,
 - 2007-09-14 — Placed on the House Calendar, Calendar No. 110.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-323.
 - 2007-09-14 — Reported by the Committee on Transportation. H. Rept. 110-323.
+- 2008-04-30 — Considered under suspension of the rules. (consideration: CR H2886-2888)
+- 2008-04-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 444.
+- 2008-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-30 — Mr. Filner moved to suspend the rules and agree to the resolution.
+- 2008-04-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2886-2887)
+- 2008-04-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2886-2887)
