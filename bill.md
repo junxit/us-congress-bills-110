@@ -2,7 +2,7 @@
 legis-num: H. RES. 964
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 964
@@ -11,18 +11,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas an organization that owns or operates a 15-passenger van should not allow an inexperienced driver of such a van to drive the van because design and handling characteristics of a 15-passenger van make it drive differently than other passenger vehicles;
-- Whereas the safety records of drivers experienced in driving a 15-passenger van are significantly better than drivers not experienced in driving such a van;
-- Whereas according to the National Highway Traffic Safety Administration, from 1997 through 2006 there were 1,090 fatalities of van occupants resulting from crashes involving 15-passenger vans of which 534 resulted from largely preventable single vehicle rollover crashes of such vans;
-- Whereas according to the Insurance Institute for Highway Safety, in 2005, 59 percent of the fatalities in 15-passenger van crashes occurred in single-vehicle rollover crashes which is higher than the rollover fatality rates for any other passenger vehicle type;
-- Whereas 15-passenger vans require special driving skills because they are larger, with higher centers of gravity which makes them less stable than vehicles such as cars, especially if the van is heavily loaded;
-- Whereas adding passengers in a 15-passenger vans increases the center of gravity causing the van to be increasingly difficult to handle and less stable;
-- Whereas the death rate for all occupants was higher for 15-passenger vans than for other passenger vehicle types combined;
-- Whereas during the period 2001 through 2005, the death rate for 15-passenger vans was 250 per million registered vehicles compared to 151 per million for all other registered vehicles;
-- Whereas impressing upon 15-passenger van drivers the inherent dangers of operating these vehicles, particularly when fully loaded, and educating them about proper handling and control, particularly during emergency situations, can reduce the risk of rollover, such training can also help dispel the expectation that these vans operate like large passenger cars;
-- Whereas wearing safety belts dramatically increases the chances of survival during a rollover crash nearly 80 percent of those who died in 15-passenger van rollovers nationwide between 1990 and 2003 were not buckled up;
-- Whereas in fatal, single vehicle rollovers involving 15-passenger vans over the past decade, 91 percent of occupants wearing seat belts survived; and
-- Whereas driver education and training, and general awareness of the dangers of these vans are the only effective means of reducing the death rates of these existing vans: Now, therefore, be it
 - Whereas an organization that owns or operates a 15-passenger van should not allow an inexperienced driver of such a van to drive the van because design and handling characteristics of a 15-passenger van make it drive differently than other passenger vehicles;
 - Whereas the safety records of drivers experienced in driving a 15-passenger van are significantly better than drivers not experienced in driving such a van;
 - Whereas according to the National Highway Traffic Safety Administration, from 1997 through 2006, there were 1,090 fatalities of van occupants resulting from crashes involving 15-passenger vans of which 534 fatalities resulted from largely preventable single-vehicle rollover crashes of such vans;
@@ -37,4 +25,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in fatal, single-vehicle rollover crashes involving 15-passenger vans over the past decade, 91 percent of occupants wearing safety belts survived; and
 - Whereas driver education and training, and general awareness of the dangers of these vans are effective means of reducing the death rates of occupants of 15-passenger vans: Now, therefore, be it
 
-That the House of Representatives recognizes the need for awareness regarding the increased risks of driving 15-passenger vans and encourages any operator of such a vehicle or person who provides transportation on such a vehicle to provide adequate training for drivers and safety information, including the necessity for wearing seat belts, to passengers.
+That the House of Representatives recognizes the need for awareness regarding the increased risks of driving 15-passenger vans and encourages any operator of such a vehicle or person who provides transportation in such a vehicle to provide adequate training for drivers and safety information, including the necessity for wearing safety belts, to passengers.
