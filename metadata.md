@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1858
@@ -16,7 +16,7 @@ Newborn Screening Saves Lives Act of 2007
 
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
@@ -38,6 +38,7 @@ Newborn Screening Saves Lives Act of 2007
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
 
 ## Committees (2)
 
@@ -65,3 +66,18 @@ Newborn Screening Saves Lives Act of 2007
 - 2007-12-17 — Received in the House.
 - 2007-12-17 — Referred to the House Committee on Energy and Commerce.
 - 2007-12-17 — Referred to the Subcommittee on Health.
+- 2008-04-08 — By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-280.
+- 2008-04-08 — By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-280.
+- 2008-04-08 — Cleared for White House.
+- 2008-04-08 — Considered under suspension of the rules. (consideration: CR H2038-2041)
+- 2008-04-08 — DEBATE - The House proceeded with forty minutes of debate on S. 1858.
+- 2008-04-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-08 — Mrs. Capps moved to suspend the rules and pass the bill.
+- 2008-04-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2038-2040)
+- 2008-04-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2038-2040)
+- 2008-04-14 — Presented to President.
+- 2008-04-14 — Presented to President.
+- 2008-04-24 — Became Public Law No: 110-204.
+- 2008-04-24 — Became Public Law No: 110-204.
+- 2008-04-24 — Signed by President.
+- 2008-04-24 — Signed by President.

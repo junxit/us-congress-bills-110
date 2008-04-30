@@ -1,7 +1,7 @@
 ---
 measure: S. 1858
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -43,7 +43,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300b-10` | redesignate | by redesignating subparagraphs (E), (F) and (G) as subparagraphs (F), (H), and (I); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-10` | redesignate | by inserting after subparagraph (F), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300b-10` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300b-10` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 5, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300b-1` | add-at-end | Part A of title XI of the Public Health Service Act (42 U.S.C. 300b–1 et seq.), as amended by section 6, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
