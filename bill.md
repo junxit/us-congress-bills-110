@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Need-Based Educational Aid Act of 2007”.
+This Act may be cited as the “Need-Based Educational Aid Act of 2008”.
 
 ## § 2. Amendment
 
