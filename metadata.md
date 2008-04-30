@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 511
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 511
@@ -36,3 +36,5 @@ A resolution recognizing that John Sidney McCain, III, is a natural born citizen
 - 2008-04-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-04-24 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-04-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 715.
+- 2008-04-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S3645-3646; text of measure as passed Senate: CR S3646)
+- 2008-04-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3645-3646; text of measure as passed Senate: CR S3646)
