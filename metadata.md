@@ -1,7 +1,7 @@
 ---
 measure: S. 1760
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1760
@@ -49,3 +49,5 @@ Healthy Start Reauthorization Act of 2007
 - 2008-04-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2008-04-29 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute. Without written report.
 - 2008-04-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 723.
+- 2008-04-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S3644; text of measure as passed Senate: CR S3644)
+- 2008-04-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S3644; text of measure as passed Senate: CR S3644)
