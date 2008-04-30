@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 5926
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5926
+
+> To amend the National Trails System Act to designate the Pacific Northwest National Scenic Trail.
+
+## § 1. Short title
+
+This Act may be cited as the “Pacific Northwest National Scenic Trail Act of 2008”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** in accordance with section 5(c)(22) of the National Trails System Act (16 U.S.C. 1244(c)(22)), a feasibility study of the proposed Pacific Northwest Trail was—
+  - **(A)** conducted by the Director of the National Park Service and the Chief of the Forest Service; and
+  - **(B)** completed in June 1980;
+- **(2)** the feasibility study contained—
+  - **(A)** a conclusion that the Pacific Northwest Trail “would have the scenic and recreational qualities needed for designation as a National Scenic Trail”; but
+  - **(B)** a recommendation against the designation of the Pacific Northwest Trail, citing as obstacles factors that are present in every other national scenic trail that has been designated under the National Trails System Act (16 U.S.C. 1241 et seq.);
+- **(3)** undaunted, the founder of the Pacific Northwest Trail and many supporters—
+  - **(A)** moved forward with the creation of the Pacific Northwest Trail; and
+  - **(B)** established a private volunteer organization to build, maintain, and promote the Pacific Northwest Trail;
+- **(4)** similar to each other national scenic trail designated under the National Trails System Act (16 U.S.C. 1241 et seq.), the Pacific Northwest Trail stands as an outstanding example of the recreational opportunities that can be provided through a partnership among the Federal Government, State and local governments, private nonprofit trail organizations, individual volunteers, and landowners;
+- **(5)** today, approximately 950 miles of the Pacific Northwest Trail are completed and provide significant outdoor recreational experiences to citizens and visitors of the United States, thus providing on-the-ground proof of the feasibility and desirability of designating the Pacific Northwest Trail as a national scenic trail, as required under section 5(b) of the National Trails System Act (16 U.S.C. 1244(b));
+- **(6)** three segments of the Pacific Northwest Trail have already been designated by Congress as national recreation trails; and
+- **(7)** because the entire route of the Pacific Northwest Trail was found to qualify for designation as a national scenic trail, Congress should—
+  - **(A)** designate the entire Pacific Northwest Trail as a national scenic trail; and
+  - **(B)** provide administrative, technical, and financial assistance in accordance with the National Trails System Act (16 U.S.C. 1241 et seq.).
+
+## § 3. Designation of Pacific Northwest National Scenic Trail
+
+Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following:
+
+> - **(26)** *Pacific Northwest National Scenic Trail*
+>   - **(A)** *In general* The Pacific Northwest National Scenic Trail, a trail of approximately 1,200 miles, extending from the Continental Divide in Glacier National Park, Montana, to the Pacific Ocean Coast in Olympic National Park, Washington, following the route depicted on the map entitled “Pacific Northwest National Scenic Trail: Proposed Trail”, numbered T12/80,000, and dated February 2008 (referred to in this paragraph as the map).
+>   - **(B)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+>   - **(C)** *Administration* The Pacific Northwest National Scenic Trail shall be administered by the Secretary of the Interior.
+>   - **(D)** *Land acquisition* The United States shall not acquire for tide Pacific Northwest National Scenic Trail any land or interest in land outside the exterior boundary of any federally managed area without the consent of the owner of the land or interest in land.
