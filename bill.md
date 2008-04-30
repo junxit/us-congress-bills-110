@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Combustible Dust Explosion and Fire Prevention Act of 2008”.
+This Act may be cited as the “Worker Protection Against Combustible Dust Explosions and Fires Act of 2008”.
 
 ## § 2. Findings
 
@@ -36,12 +36,12 @@ Congress finds the following:
   - **(2)** *Requirements* The interim final standard required under this subsection shall include the following:
     - **(A)** Requirements for hazard assessment to identify, evaluate, and control combustible dust hazards.
     - **(B)** Requirements for a written program that includes provisions for hazardous dust inspection, testing, hot work, ignition control, and housekeeping, including the frequency and method or methods used to minimize accumulations of combustible dust on ledges, floors, equipment, and other exposed surfaces.
-    - **(C)** Requirements for engineering, administrative controls, and operating procedures, such as means to control fugitive dust emissions and ignition sources, the safe use and maintenance of dust producing and dust collection systems and filters, minimizing horizontal surfaces where dust can accumulate, and sealing of areas inaccessible to housekeeping.
+    - **(C)** Requirements for engineering controls (which requirements shall be effective 6 months after the date on which the interim standard is issued), administrative controls, and operating procedures, such as means to control fugitive dust emissions and ignition sources, the safe use and maintenance of dust producing and dust collection systems and filters, minimizing horizontal surfaces where dust can accumulate, and sealing of areas inaccessible to housekeeping.
     - **(D)** Requirements for housekeeping to prevent accumulation of combustible dust in places of employment in such depths that it can present explosion, deflagration, or other fire hazards, including safe methods of dust removal.
     - **(E)** Requirements for employee participation in hazard assessment, development of and compliance with the written program, and other elements of hazard management.
     - **(F)** Requirements to provide written safety and health information and annual training to employees, including housekeeping procedures, hot work procedures, preventive maintenance procedures, common ignition sources, and lock-out, tag-out procedures.
   - **(3)** *Procedure* The requirements in this subsection shall take effect without regard to the procedural requirements applicable to regulations promulgated under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)) or the procedural requirements of chapter 5 of title 5, United States Code.
-  - **(4)** *Effective date of interim standard* The interim final standard shall take effect 30 days after issuance. The interim final standard shall have the legal effect of an occupational safety and health standard, and shall apply until a final standard becomes effective under section 6 of the Occupational Safety and Health Act (29 U.S.C. 655).
+  - **(4)** *Effective date of interim standard* Except as specified in paragraph (2)(C) with regards to engineering controls, the interim final standard shall take effect 30 days after issuance. The interim final standard shall have the legal effect of an occupational safety and health standard, and shall apply until a final standard becomes effective under section 6 of the Occupational Safety and Health Act (29 U.S.C. 655).
 - **(b)** *Final Standard*
   - **(1)** *Rulemaking* Not later than 18 months after the date of enactment of this Act, the Secretary of Labor shall, pursuant to section 6 of the Occupational Safety and Health Act (29 U.S.C. 655), promulgate a final standard regulating combustible dust explosions.
   - **(2)** *Requirements* The final standard required under this subsection shall include the following:
@@ -50,7 +50,8 @@ Congress finds the following:
     - **(C)** Requirements for managing change of dust producing materials, technology, equipment, staffing, and procedures.
     - **(D)** Requirements for building design such as explosion venting, ducting, and sprinklers.
     - **(E)** Requirements for explosion protection, including separation and segregation of the hazard.
-    - **(F)** Relevant and appropriate provisions of National Fire Protection Association combustible dust standards, including the “Standard for the Prevention of Fire and Dust Explosions from the Manufacturing, Processing, and Handling of Combustible Particulate Solids” (NFPA 654), “Standard for Combustible Metals” (NFPA 484), and “Standard for the Prevention of Fires and Dust Explosions in Agricultural and Food Processing Facilities” (NFPA 61).
+    - **(F)** Relevant and appropriate provisions of National Fire Protection Association combustible dust standards.
+  - **(3)** *Procedure* The final standard required by this subsection shall be promulgated in accordance with the procedural requirements for rulemaking under section 6(b) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655(b)) and under title 5, United States Code, including the requirements relating to small businesses in chapter 6 of such title.
 
 ## § 4. Revision of the hazard communication standard
 
