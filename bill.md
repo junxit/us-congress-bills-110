@@ -20,13 +20,13 @@ This Act may be cited as the “Healthy Start Reauthorization Act of 2007”.
     > - **(b)** *Considerations in making grants*
     >   - **(1)** *Requirements* In making grants under subsection (a)
 
-  - **(2)** by adding at the end the following paragraph:
+  - **(2)** by adding at the end the following paragraphs:
     > - **(2)** *Other considerations* In making grants under subsection (a), the Secretary shall take into consideration the following:
     >   - **(A)** Factors that contribute to infant mortality, such as low birthweight.
     >   - **(B)** The extent to which applicants for such grants facilitate—
     >     - **(i)** a community-based approach to the delivery of services; and
     >     - **(ii)** a comprehensive approach to women’s health care to improve perinatal outcomes.
-    > - **(3)** *Special projects* Nothing in paragraph (2) shall be construed to prohibit the Secretary from awarding grants under subsection (a) for special projects that are intended to address significant disparities in perinatal health indicators in communities along the United States-Mexico border or in Alaska and Hawaii.
+    > - **(3)** *Special projects* Nothing in paragraph (2) shall be construed to prevent the Secretary from awarding grants under subsection (a) for special projects that are intended to address significant disparities in perinatal health indicators in communities along the United States-Mexico border or in Alaska or Hawaii.
 
 - **(b)** *Other grants* Section 330H of the Public Health Service Act (42 U.S.C. 254c–8) is amended—
   - **(1)** in subsection (a), by striking paragraph (3); and
