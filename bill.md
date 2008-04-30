@@ -2,7 +2,7 @@
 legis-num: H. RES. 1149
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1149
@@ -20,6 +20,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas as many people with sarcoidosis have no symptoms, it is difficult to measure how many people have the condition;
 - Whereas sarcoidosis is a disease that affects Americans nationwide and people around the world, and yet its causes and potential treatments remain a mystery;
 - Whereas skin-related symptoms of this chronic, multisystemic disease were first recognized more than 100 years ago, but the effects of the disease on other organs were not observed until the first quarter of this century;
+- Whereas sarcoidosis was the chief diagnosis of the death of fluorescent light bulb workers in Salem, Massachusetts in the 1940s;
+- Whereas sarcoidosis was the first diagnosis for an overwhelming majority of rescue workers’ health conditions on September 11, 2001;
+- Whereas sarcoidosis has been documented to be disproportionately found among factory workers and Navy deckgrinders;
 - Whereas today, researchers are still trying to learn more about the causes, cures, and overall nature of this affliction;
 - Whereas the American Lung Association has actively advocated for more research to better understand how environmental and occupational exposures may increase the risk of sarcoidosis;
 - Whereas the National Sarcoidosis Society strives to serve those afflicted by the disease by focusing its efforts on public policy, research funding, patient services, public awareness and education, and finding a cure; and
@@ -28,7 +31,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** supports the goals and ideals of National Sarcoidosis Awareness Month;
-- **(2)** recognizes that sarcoidosis has played a prominent yet hidden role in America’s workforce history, being the chief diagnosis of the deaths of fluorescent light bulb workers in Salem, Massachusetts, in the 1940s;
-- **(3)** recognizes that sarcoidosis disproportionately affects factory workers, Navy deckgrinders, and was the first diagnosis for an overwhelming majority of rescue workers who assisted with the rescue and recovery operations after the attacks on September 11, 2001;
-- **(4)** acknowledges the diligent efforts of individuals and organizations who observe National Sarcoidosis Awareness Month with appropriate activities to further promote awareness of the disease; and
-- **(5)** supports research efforts to better understand the links between sarcoidosis and specific occupations where sarcoidosis is disproportionately represented.
+- **(2)** recognizes that sarcoidosis has played a prominent yet hidden role in America’s workforce history;
+- **(3)** acknowledges the diligent efforts of individuals and organizations who observe National Sarcoidosis Awareness Month with appropriate activities to further promote awareness of the disease; and
+- **(4)** supports research efforts to better understand the links between sarcoidosis and specific occupations where sarcoidosis is disproportionately represented.
