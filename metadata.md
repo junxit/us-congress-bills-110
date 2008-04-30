@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1130
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1130
@@ -16,7 +16,7 @@ Recognizing the roles and contributions of America's teachers to building and en
 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Cosponsors (58)
+## Cosponsors (85)
 
 - Rep. Blunt, Roy [R-MO-7] (B000575)
 - Rep. Brady, Kevin [R-TX-8] (B000755)
@@ -76,6 +76,33 @@ Recognizing the roles and contributions of America's teachers to building and en
 - Rep. Moran, James P. [D-VA-8] (M000933)
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Fossella, Vito [R-NY-13] (F000440)
+- Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Terry, Lee [R-NE-2] (T000459)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Barton, Joe [R-TX-6] (B000213)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Regula, Ralph [R-OH-16] (R000141)
+- Rep. Radanovich, George [R-CA-19] (R000004)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Sali, Bill [R-ID-1] (S001167)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
 
 ## Committees (1)
 
@@ -86,3 +113,9 @@ Recognizing the roles and contributions of America's teachers to building and en
 - 2008-04-22 — Introduced in House
 - 2008-04-22 — Introduced in House
 - 2008-04-22 — Referred to the House Committee on Education and Labor.
+- 2008-04-30 — Considered under suspension of the rules. (consideration: CR H2901-2903)
+- 2008-04-30 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1130.
+- 2008-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-30 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution.
+- 2008-04-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2901)
+- 2008-04-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2901)
