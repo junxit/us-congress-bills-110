@@ -1,0 +1,14 @@
+---
+legis-num: S. 2957
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2957
+
+> To modernize credit union net worth standards, advance credit union efforts to promote economic growth, and modify credit union regulatory standards and reduce burdens, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Credit Union Regulatory Improvements Act of 2008”.
