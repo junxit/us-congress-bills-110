@@ -1,7 +1,7 @@
 ---
 measure: S. 2739
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2739
@@ -63,3 +63,14 @@ Consolidated Natural Resources Act of 2008
 - 2008-04-10 — Senate amendment proposed (on the floor): Amendment SA 4521 proposed by Senator Coburn.(consideration: CR S2870-2872, S2877-2878; text: CR S2870-2871)
 - 2008-04-10 — Senate amendment proposed (on the floor): Amendment SA 4522 proposed by Senator Coburn.(consideration: CR S2868-2870, S2877; text: CR S2868)
 - 2008-04-10 — Senate amendment submitted
+- 2008-04-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-04-29 — Cleared for White House.
+- 2008-04-29 — Considered as unfinished business. (consideration: CR H2830)
+- 2008-04-29 — Considered under suspension of the rules. (consideration: CR H2773-2814)
+- 2008-04-29 — DEBATE - The House proceeded with forty minutes of debate on S. 2739.
+- 2008-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-29 — Mr. Rahall moved to suspend the rules and pass the bill.
+- 2008-04-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 291 - 117 (Roll no. 226). (text: CR H2773-2806)
+- 2008-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 291 - 117 (Roll no. 226).(text: CR H2773-2806)
+- 2008-05-01 — Presented to President.
+- 2008-05-01 — Presented to President.
