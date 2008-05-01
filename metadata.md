@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 534
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 534
@@ -36,3 +36,7 @@ A resolution designating the month of May 2008 as "National Drug Court Month".
 - 2008-04-28 — Introduced in Senate
 - 2008-04-28 — Referred to the Committee on the Judiciary. (text of measure as introduce: CR S3446)
 - 2008-04-28 — Sponsor introductory remarks on measure. (CR S3446)
+- 2008-05-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text of measure as passed Senate: CR S3728-3729)
+- 2008-05-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text of measure as passed Senate: CR S3728-3729)
+- 2008-05-01 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3728-3729)
+- 2008-05-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S3728-3729)
