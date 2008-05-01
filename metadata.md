@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5715
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5715
@@ -16,7 +16,7 @@ Ensuring Continued Access to Student Loans Act of 2008
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
-## Cosponsors (32)
+## Cosponsors (33)
 
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
@@ -50,6 +50,7 @@ Ensuring Continued Access to Student Loans Act of 2008
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
 
 ## Committees (1)
 
@@ -118,3 +119,21 @@ Ensuring Continued Access to Student Loans Act of 2008
 - 2008-04-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2008-04-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5715.
 - 2008-04-17 — The previous question was ordered pursuant to the rule. (consideration: CR H2467)
+- 2008-04-28 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-04-29 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 722.
+- 2008-04-30 — Amendment SA 4592 agreed to in Senate by Unanimous Consent.
+- 2008-04-30 — Amendment SA 4592 proposed by Senator Durbin for Senator Kennedy. (consideration: CR S3643) To improve access to student loans.
+- 2008-04-30 — Measure laid before Senate by unanimous consent. (consideration: CR S3642-3643)
+- 2008-04-30 — Message on Senate action sent to the House.
+- 2008-04-30 — Passed Senate with amendments by Unanimous Consent.
+- 2008-04-30 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2008-04-30 — Senate amendment agreed to: Amendment SA 4592 agreed to in Senate by Unanimous Consent.
+- 2008-04-30 — Senate amendment proposed (on the floor): Amendment SA 4592 proposed by Senator Durbin for Senator Kennedy.(consideration: CR S3643)
+- 2008-04-30 — Senate amendment submitted
+- 2008-05-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2008-05-01 — Cleared for White House.
+- 2008-05-01 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 5715.
+- 2008-05-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-01 — Mr. Miller, George moved that the House suspend the rules an agree to the Senate amendments. (consideration: CR H2983-2987, H2989)
+- 2008-05-01 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: 388 - 21 (Roll no. 239). (text as House agreed to Senate amendments: CR H2983-2984)
+- 2008-05-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: 388 - 21 (Roll no. 239).(text as House agreed to Senate amendments: CR H2983-2984)
