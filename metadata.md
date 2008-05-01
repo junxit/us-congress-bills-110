@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1195
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1195
@@ -164,3 +164,11 @@ SAFETEA-LU Technical Corrections Act of 2008
 - 2008-04-17 — Senate amendment submitted
 - 2008-04-17 — Senate amendment submitted
 - 2008-04-17 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S3121)
+- 2008-04-18 — Message on Senate action sent to the House.
+- 2008-04-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2008-04-30 — Cleared for White House.
+- 2008-04-30 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 1195.
+- 2008-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-30 — Mr. Oberstar moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H2867-2885, H2908-2909)
+- 2008-04-30 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 51, 11 Present (Roll no. 229). (text as House agreed to Senate amendment: CR H2867-2880)
+- 2008-04-30 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 51, 11 Present (Roll no. 229).(text as House agreed to Senate amendment: CR H2867-2880)
