@@ -1,7 +1,7 @@
 ---
 measure: S. 2457
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 2457
@@ -55,3 +55,5 @@ A bill to provide for extensions of leases of certain land by Mashantucket Pequo
 - 2008-04-29 — Placed on the Union Calendar, Calendar No. 381.
 - 2008-04-29 — Reported by the Committee on Natural Resources. H. Rept. 110-611.
 - 2008-04-29 — Reported by the Committee on Natural Resources. H. Rept. 110-611.
+- 2008-05-01 — Presented to President.
+- 2008-05-01 — Presented to President.
