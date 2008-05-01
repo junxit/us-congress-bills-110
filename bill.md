@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 1195
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 1195
 
-That the bill from the House of Representatives (H.R. 1195) entitled “An Act to amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users to make technical corrections, and for other purposes.”, do pass with the following
+> To amend the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users to make technical corrections, and for other purposes.
 
 ## § 1. Short title; table of contents
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1195
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1195
@@ -66,7 +66,7 @@ SAFETEA-LU Technical Corrections Act of 2008
 - House — Transportation and Infrastructure Committee
 - Senate — Environment and Public Works Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2008-04-14 — [Senate 110-2-103](votes/senate-110-2-0103.md) — On the Cloture Motion — **Cloture Motion Agreed to** (93–1)
 - 2008-04-16 — [Senate 110-2-104](votes/senate-110-2-0104.md) — On the Motion to Table the Motion to Recommit — **Motion to Table Motion to Recommit Agreed to** (78–18)
@@ -74,6 +74,7 @@ SAFETEA-LU Technical Corrections Act of 2008
 - 2008-04-17 — [Senate 110-2-106](votes/senate-110-2-0106.md) — On the Amendment — **Amendment Rejected** (49–43)
 - 2008-04-17 — [Senate 110-2-107](votes/senate-110-2-0107.md) — On the Cloture Motion — **Cloture Motion Agreed to** (90–2)
 - 2008-04-17 — [Senate 110-2-108](votes/senate-110-2-0108.md) — On Passage of the Bill — **Bill Passed** (88–2)
+- 2008-04-30 — [House 110-2-229](votes/house-110-2-0229.md) — On Motion to Suspend the Rules and Agree to the Senate Amendment — **Passed** (358–51)
 
 ## Actions
 
@@ -173,3 +174,11 @@ SAFETEA-LU Technical Corrections Act of 2008
 - 2008-04-17 — Senate amendment submitted
 - 2008-04-17 — Senate amendment submitted
 - 2008-04-17 — The committee substitute as amended agreed to by Unanimous Consent. (consideration: CR S3121)
+- 2008-04-18 — Message on Senate action sent to the House.
+- 2008-04-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2008-04-30 — Cleared for White House.
+- 2008-04-30 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 1195.
+- 2008-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-30 — Mr. Oberstar moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H2867-2885, H2908-2909)
+- 2008-04-30 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 51, 11 Present (Roll no. 229). (text as House agreed to Senate amendment: CR H2867-2880)
+- 2008-04-30 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 51, 11 Present (Roll no. 229).(text as House agreed to Senate amendment: CR H2867-2880)
