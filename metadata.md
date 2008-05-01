@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 494
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 494
@@ -33,3 +33,11 @@ A resolution expressing the sense of the Senate on the need for Iraq's neighbors
 - 2008-04-23 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with an amended preamble. Without written report.
 - 2008-04-23 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with an amended preamble. Without written report.
 - 2008-04-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 709.
+- 2008-05-01 — Amendment SA 4653 agreed to in Senate by Unanimous Consent.
+- 2008-05-01 — Amendment SA 4653 proposed by Senator Cantwell for Senator Reid. (text of measure as introduced: CR S3728; text: CR S3728) To improve the resolution.
+- 2008-05-01 — Measure laid before Senate by unanimous consent. (consideration: CR S3727-3728; text of measure as reported: CR S3727-3728)
+- 2008-05-01 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text of measure as passed Senate: CR S3728)
+- 2008-05-01 — Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text of measure as passed Senate: CR S3728)
+- 2008-05-01 — Senate amendment agreed to: Amendment SA 4653 agreed to in Senate by Unanimous Consent.
+- 2008-05-01 — Senate amendment proposed (on the floor): Amendment SA 4653 proposed by Senator Cantwell for Senator Reid.(text of measure as introduced: CR S3728; text: CR S3728)
+- 2008-05-01 — Senate amendment submitted
