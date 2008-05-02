@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3522
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 3522
@@ -42,3 +42,8 @@ To ratify a conveyance of a portion of the Jicarilla Apache Reservation to Rio A
 - 2008-04-29 — Placed on the Union Calendar, Calendar No. 380.
 - 2008-04-29 — Reported by the Committee on Natural Resources. H. Rept. 110-610.
 - 2008-04-29 — Reported by the Committee on Natural Resources. H. Rept. 110-610.
+- 2008-04-30 — Received in the Senate, read twice.
+- 2008-05-01 — Cleared for White House.
+- 2008-05-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3727)
+- 2008-05-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3727)
+- 2008-05-02 — Message on Senate action sent to the House.
