@@ -1,7 +1,7 @@
 ---
 measure: H.R. 493
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 493
@@ -16,7 +16,7 @@ Genetic Information Nondiscrimination Act of 2008
 
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
-## Cosponsors (224)
+## Cosponsors (226)
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Eshoo, Anna G. [D-CA-14] (E000215)
@@ -242,6 +242,8 @@ Genetic Information Nondiscrimination Act of 2008
 - Rep. Davis, Artur [D-AL-7] (D000602)
 - Rep. Hill, Baron P. [D-IN-9] (H001030)
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
 
 ## Committees (3)
 
@@ -293,3 +295,23 @@ Genetic Information Nondiscrimination Act of 2008
 - 2007-04-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 420 - 3 (Roll no. 261).(text: CR H4083-4094)
 - 2007-04-26 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-04-30 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 125.
+- 2008-04-23 — Senate amendment submitted
+- 2008-04-24 — Amendment SA 4573 agreed to in Senate by Unanimous Consent.
+- 2008-04-24 — Amendment SA 4573 proposed by Senator Kennedy for Senator Snowe. (consideration: CR S3374) In the nature of a substitute.
+- 2008-04-24 — Measure laid before Senate by unanimous consent. (consideration: CR S3363-3375)
+- 2008-04-24 — Message on Senate action sent to the House.
+- 2008-04-24 — Passed Senate with an amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 113.
+- 2008-04-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 95 - 0. Record Vote Number: 113.
+- 2008-04-24 — Senate amendment agreed to: Amendment SA 4573 agreed to in Senate by Unanimous Consent.
+- 2008-04-24 — Senate amendment proposed (on the floor): Amendment SA 4573 proposed by Senator Kennedy for Senator Snowe.(consideration: CR S3374)
+- 2008-04-28 — Message on Senate action sent to the House.
+- 2008-04-28 — Senate requests return of papers with respect to H.R. 493 by Unanimous Consent.
+- 2008-04-29 — Message on Senate action sent to the House.
+- 2008-04-29 — Papers returned to Senate
+- 2008-05-01 — Cleared for White House.
+- 2008-05-01 — DEBATE - Pursuant to the provisions of H. Res. 1156, the House proceeded with one hour of debate on the George Miller (CA) motion to agree to the Senate amendment to H.R. 493.
+- 2008-05-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-01 — Mr. Miller, George moved that the House agree to the Senate amendment. (consideration: CR H2961-2980)
+- 2008-05-01 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 414 - 1 (Roll no. 234). (text as House agreed to Senate amendment: CR H2961-2972)
+- 2008-05-01 — Pursuant to the provisions of H. Con. Res. 340, enrollment corrections on H.R. 493 have been made.
+- 2008-05-01 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 414 - 1 (Roll no. 234).(text as House agreed to Senate amendment: CR H2961-2972)
