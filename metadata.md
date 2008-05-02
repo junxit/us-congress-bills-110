@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 340
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 340
@@ -28,3 +28,4 @@ To make technical corrections in the enrollment of the bill H.R. 493.
 - 2008-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H2982)
 - 2008-05-01 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S3727)
 - 2008-05-01 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S3727)
+- 2008-05-02 — Message on Senate action sent to the House.
