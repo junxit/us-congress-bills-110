@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 493
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 493
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short Title* This Act may be cited as the “Genetic Information Nondiscrimination Act of 2007”.
+- **(a)** *Short Title* This Act may be cited as the “Genetic Information Nondiscrimination Act of 2008”.
 - **(b)** *Table of Contents* The table of contents of this Act is as follows:
 
 ## § 2. Findings
