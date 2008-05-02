@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 112
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 112
@@ -48,3 +48,9 @@ Supporting the goals and ideas of a National Child Care Worthy Wage Day.
 - 2007-05-01 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 345 - 73, 1 Present (Roll no. 271). (text: CR H4227)
 - 2007-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 345 - 73, 1 Present (Roll no. 271).(text: CR H4227)
 - 2007-05-02 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2007-06-27 — Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.
+- 2008-05-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-05-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-05-01 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S3727)
+- 2008-05-01 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S3727)
+- 2008-05-02 — Message on Senate action sent to the House.
