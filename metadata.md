@@ -1,7 +1,7 @@
 ---
 measure: S. 2954
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2954
@@ -32,3 +32,7 @@ A bill to amend Public Law 110-196 to provide for a temporary extension of progr
 - 2008-05-01 — Presented to President.
 - 2008-05-01 — Presented to President.
 - 2008-05-01 — Received in the House.
+- 2008-05-02 — Became Public Law No: 110-208.
+- 2008-05-02 — Became Public Law No: 110-208.
+- 2008-05-02 — Signed by President.
+- 2008-05-02 — Signed by President.
