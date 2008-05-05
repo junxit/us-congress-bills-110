@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1512
@@ -16,7 +16,7 @@ To amend the Immigration and Nationality Act to provide for compensation to Stat
 
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 
-## Cosponsors (26)
+## Cosponsors (60)
 
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
@@ -44,6 +44,40 @@ To amend the Immigration and Nationality Act to provide for compensation to Stat
 - Rep. Higgins, Brian [D-NY-27] (H001038)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 
 ## Committees (1)
 
@@ -54,3 +88,11 @@ To amend the Immigration and Nationality Act to provide for compensation to Stat
 - 2007-03-13 — Introduced in House
 - 2007-03-13 — Introduced in House
 - 2007-03-13 — Referred to the House Committee on the Judiciary.
+- 2007-04-20 — Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.
+- 2007-09-25 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2007-09-25 — Subcommittee Consideration and Mark-up Session Held.
+- 2007-10-24 — Committee Consideration and Mark-up Session Held.
+- 2007-10-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-05-05 — Placed on the Union Calendar, Calendar No. 385.
+- 2008-05-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-618.
+- 2008-05-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-618.
