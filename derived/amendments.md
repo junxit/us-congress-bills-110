@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5830
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+20 amendatory instructions. 4 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 12 U.S.C. § 1707
+### 12 U.S.C. § 1715z-3
 
 > in subsection (a)(1), by striking “or 243” each place such term appears and inserting “243, or 257”; and
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `or 243` |
 | Inserted | `243, or 257` |
 
-### 12 U.S.C. § 1707
+### 12 U.S.C. § 1715z-3
 
 > in subsection (b), by striking “and 243” each place such term appears and inserting “243, and 257”.
 
@@ -41,6 +41,24 @@ to guess them.
 |---|---|
 | Removed | `and 243` |
 | Inserted | `243, and 257` |
+
+### 12 U.S.C. § 1701x
+
+> in the second sentence by striking “for certification” and inserting “, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual,”;
+
+| | |
+|---|---|
+| Removed | `for certification` |
+| Inserted | `, for certification of an organization, that each individual through which the organization provides counseling shall demonstrate, and, for certification of an individual,` |
+
+### 12 U.S.C. § 2604
+
+> in the section heading, by striking “special” and inserting “home buying”;
+
+| | |
+|---|---|
+| Removed | `special` |
+| Inserted | `home buying` |
 
 ## Stated, not applied
 
@@ -51,4 +69,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1707` | amend | Title II of the National Housing Act (12 U.S.C. 1707 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1707` | add-at-end | Title II of the National Housing Act (12 U.S.C. 1707 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | add-at-end | Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | add-at-end | Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | strike | in subclause (III), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1701x` | replace | in subclause (IV) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1701x` | insert | by inserting after subclause (IV) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | add-at-end | Section 106(a) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(a)(3)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | replace | by striking paragraph (1) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | insert | by inserting “and for certifying organizations” before the period at the end of the first sentence; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1701x` | insert | in paragraph (3), by inserting “organizations and” before “individuals”; | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 1701x` | redesignate | by redesignating paragraph (3) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | insert | by inserting after paragraph (2) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | add-at-end | Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | replace | by striking subsections (a) and (b) and inserting the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | insert | in subsection (c), by inserting at the end the following new sentence: “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 106(e) of the… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 2604` | insert | in subsection (d), by inserting after the period at the end of the first sentence the following: “The lender shall provide the HUD-issued booklet in the version that is most appropriate for the person receiving it.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
