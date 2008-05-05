@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 952
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 952
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that there should be establ
 
 - Rep. Klein, Ron [D-FL-22] (K000366)
 
-## Cosponsors (133)
+## Cosponsors (149)
 
 - Rep. Roskam, Peter J. [R-IL-6] (R000580)
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
@@ -151,13 +151,47 @@ Expressing the sense of the House of Representatives that there should be establ
 - Rep. Smith, Christopher H. [R-NJ-4] (S000522)
 - Rep. Putnam, Adam H. [R-FL-12] (P000586)
 - Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Miller, George [D-CA-7] (M000725)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (2)
+
+- 2008-05-05 — [House 110-2-240](votes/house-110-2-0240.md) — On Motion to Suspend the Rules and Agree — **Passed** (368–0)
+- 2008-05-05 — [House 110-2-241](votes/house-110-2-0241.md) — Table motion to reconsider — **Passed** (202–168)
 
 ## Actions
 
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported by Voice Vote.
+- 2008-05-05 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-05-05 — Considered as unfinished business. (consideration: CR H3045-3046)
+- 2008-05-05 — Considered under suspension of the rules. (consideration: CR H3042-3044)
+- 2008-05-05 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 952.
+- 2008-05-05 — Motion to reconsider the vote tabled.
+- 2008-05-05 — Mr. Clay moved to suspend the rules and agree to the resolution.
+- 2008-05-05 — Mr. Hastings (FL) moved to table the motion to reconsider the vote
+- 2008-05-05 — Mr. Lewis (CA) moved to reconsider the vote.
+- 2008-05-05 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 368 - 0 (Roll no. 240). (text: CR H3042)
+- 2008-05-05 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 202 - 168 (Roll no. 241).
+- 2008-05-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 368 - 0 (Roll no. 240).(text: CR H3042)
