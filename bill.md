@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4279
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Prioritizing Resources and Organization for Intellectual Property Act of 2007”.
+- **(a)** *Short title* This Act may be cited as the “Prioritizing Resources and Organization for Intellectual Property Act of 2008”.
 - **(b)** *Table of contents* The table of contents is as follows:
 
 ## § 2. Reference
@@ -20,7 +20,7 @@ Any reference in this Act to the “Trademark Act of 1946” refers to the Act e
 
 ## § 3. Definition
 
-In this Act, the term “United States person” means—
+In this Act, the term United States person means—
 
 - **(1)** any United States resident or national,
 - **(2)** any domestic concern (including any permanent domestic establishment of any foreign concern), and
