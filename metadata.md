@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5830
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5830
@@ -16,7 +16,7 @@ FHA Housing Stabilization and Homeownership Retention Act of 2008
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
 
-## Cosponsors (34)
+## Cosponsors (43)
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
@@ -52,6 +52,15 @@ FHA Housing Stabilization and Homeownership Retention Act of 2008
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. Sires, Albio [D-NJ-13] (S001165)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Mahoney, Tim [D-FL-16] (M001164)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
 
 ## Committees (1)
 
@@ -62,3 +71,10 @@ FHA Housing Stabilization and Homeownership Retention Act of 2008
 - 2008-04-17 — Introduced in House
 - 2008-04-17 — Introduced in House
 - 2008-04-17 — Referred to the House Committee on Financial Services.
+- 2008-04-24 — Committee Consideration and Mark-up Session Held.
+- 2008-04-30 — Committee Consideration and Mark-up Session Held.
+- 2008-05-01 — Committee Consideration and Mark-up Session Held.
+- 2008-05-01 — Ordered to be Reported (Amended) by the Yeas and Nays: 46 - 21.
+- 2008-05-05 — Placed on the Union Calendar, Calendar No. 386.
+- 2008-05-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-619.
+- 2008-05-05 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-619.
