@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5919
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5919
@@ -31,3 +31,8 @@ To make technical corrections regarding the Newborn Screening Saves Lives Act of
 - 2008-04-30 — Ms. Roybal-Allard moved to suspend the rules and pass the bill.
 - 2008-04-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2890)
 - 2008-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H2890)
+- 2008-05-01 — Received in the Senate, read twice.
+- 2008-05-02 — Cleared for White House.
+- 2008-05-02 — Message on Senate action sent to the House.
+- 2008-05-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S3749)
+- 2008-05-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S3749)
