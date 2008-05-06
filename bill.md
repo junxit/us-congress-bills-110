@@ -2,7 +2,7 @@
 legis-num: H. RES. 1155
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1155
@@ -23,4 +23,4 @@ That the House of Representatives—
 - **(1)** congratulates the recipients of the El Dorado Promise scholarship for choosing to further their education;
 - **(2)** observes that April 30, 2008, is the second academic signing day for graduating El Dorado High School students receiving El Dorado Promise and other academic scholarships;
 - **(3)** acknowledges that the El Dorado Promise scholarship program is important for the revitalization of southern Arkansas; and
-- **(4)** recognizes Murphy Oil Corporation for its efforts to ensure that children from southern Arkansas, who might otherwise struggle in financing a college education, are able to attend college.
+- **(4)** recognizes the organizations and corporation involved in this program for their efforts to ensure that children from southern Arkansas, who might otherwise struggle in financing a college education, are able to attend college.
