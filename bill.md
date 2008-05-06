@@ -2,7 +2,7 @@
 legis-num: H. RES. 1109
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1109
@@ -27,7 +27,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Mr. Dith was a tireless activist speaking out about the Cambodian genocide and once stating, “I’m a one person crusade”;
 - Whereas soon after the release of the film “The Killing Fields”, Mr. Dith became a United States citizen and a goodwill ambassador for the United Nations High Commissioner for Refugees;
 - Whereas, in 1994, Mr. Dith worked to help pass the Cambodian Genocide Justice Act of 1994, sponsored by former Senator Charles Robb of Virginia, which established an Office of Cambodian Genocide Investigations at the Department of State;
-- Whereas, on March 30, 2008, Mr. Dith, a resident of Woodbridge, New Jersey, passed away at the age of 65;
+- Whereas, on March 30, 2008, Mr. Dith, a resident of Woodbridge, New Jersey, passed away at the age of 65; and
 - Whereas the Dith Pran Holocaust Awareness Project was established to create awareness about the Cambodian genocide: Now, therefore, be it
 
 That the House of Representatives—
