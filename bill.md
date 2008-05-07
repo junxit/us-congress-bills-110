@@ -18,7 +18,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas it is important to educate women and girls about the significance of awareness of key female health issues;
 - Whereas the offices of women's health within the Department of Health and Human Services, the Food and Drug Administration, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the National Institutes of Health, and the Agency for Healthcare Research and Quality are vital to providing critical services that support women's health research and education and other necessary services that benefit women of all ages, races, and ethnicities;
 - Whereas National Women's Health Week begins on Mother's Day each year and celebrates the efforts of national and community organizations that work with partners and volunteers to improve awareness of key women's health issues; and
-- Whereas, in 2008, the week of May 11 through May 17 is dedicated as National Women's Health Week: Now, therefore, be it
+- Whereas in 2008, the week of May 11 through May 17 is dedicated as National Women's Health Week: Now, therefore, be it
 
 That Congress—
 
