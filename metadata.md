@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1175
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1175
@@ -20,6 +20,13 @@ Providing for consideration of the Senate amendments to the bill (H.R. 3221) mov
 
 - House — Rules Committee
 
+## Recorded votes (4)
+
+- 2008-05-07 — [House 110-2-281](votes/house-110-2-0281.md) — On Ordering the Previous Question — **Passed** (226–198)
+- 2008-05-07 — [House 110-2-282](votes/house-110-2-0282.md) — Table Motion to Reconsider — **Passed** (225–192)
+- 2008-05-07 — [House 110-2-283](votes/house-110-2-0283.md) — On Agreeing to the Resolution — **Passed** (224–198)
+- 2008-05-07 — [House 110-2-284](votes/house-110-2-0284.md) — Table Motion to Reconsider — **Passed** (227–196)
+
 ## Actions
 
 - 2008-05-06 — Introduced in House
@@ -27,3 +34,16 @@ Providing for consideration of the Senate amendments to the bill (H.R. 3221) mov
 - 2008-05-06 — The House Committee on Rules reported an original measure, H. Rept. 110-622, by Mr. Welch (VT).
 - 2008-05-06 — The House Committee on Rules reported an original measure, H. Rept. 110-622, by Mr. Welch (VT).
 - 2008-05-06 — The rule waives all points of order against the motion except for clause 10 of rule XXI. The rule also provides that the Chair shall divide the question of adoption of the motion among the three House amendments. The rule provides that upon adoption of the motion specified in the first section of the resolution, a motion that the House concur in the Senate amendment to the title shall be considered as adopted.
+- 2008-05-07 — Considered as privileged matter. (consideration: CR H3134-3146)
+- 2008-05-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 1175.
+- 2008-05-07 — Motion to reconsider the vote tabled.
+- 2008-05-07 — Mr. Aderholt moved to reconsider the vote.
+- 2008-05-07 — Mr. Carter moved to reconsider the vote.
+- 2008-05-07 — Mr. Welch (VT) moved to table the motion to reconsider the vote (consideration: CR H3145)
+- 2008-05-07 — Mr. Welch (VT) moved to table the motion to reconsider the vote (consideration: CR H3145-3146)
+- 2008-05-07 — On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 198, 1 Present (Roll no. 283). (text: CR H3134)
+- 2008-05-07 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 225 - 192 (Roll no. 282).
+- 2008-05-07 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 227 - 196 (Roll no. 284).
+- 2008-05-07 — On ordering the previous question Agreed to by recorded vote: 226 - 198 (Roll no. 281). (consideration: CR H3144)
+- 2008-05-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 198, 1 Present (Roll no. 283).(text: CR H3134)
+- 2008-05-07 — The House resumed debate on H. Res. 1175.
