@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5493
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `2 U.S.C. § 60d-1` | add-at-end | Section 116(a) of the Legislative Branch Appropriations Act, 2002 (2 U.S.C. 60d–1) is amended by adding at the end the following new sentence: “Notwithstanding the previous sentence, the Committee on House Administration may by regulatio… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (A), by striking “at least 60 days” and inserting “more than 2 months”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking “at least 60 days” and inserting “more than 2 months”. | the bill names no machine-readable US Code section |
+| — | replace | Paragraph 9(c) of rule XXXVII of the Standing Rules of the Senate is amended by striking “more than 60 days in a calendar year” and inserting “more than 2 months, in the aggregate, during the 1-year period before that former officer's or… | the bill names no machine-readable US Code section |
