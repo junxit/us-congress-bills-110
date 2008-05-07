@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1174
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1174
@@ -27,3 +27,18 @@ Providing for consideration of the bill (H.R. 5818) to authorize the Secretary o
 - 2008-05-06 — Placed on the House Calendar, Calendar No. 214.
 - 2008-05-06 — The House Committee on Rules reported an original measure, H. Rept. 110-621, by Ms. Castor.
 - 2008-05-06 — The House Committee on Rules reported an original measure, H. Rept. 110-621, by Ms. Castor.
+- 2008-05-07 — Considered as privileged matter. (consideration: CR H3119-3124)
+- 2008-05-07 — Considered as unfinished business. (consideration: CR H3124-3129)
+- 2008-05-07 — Considered as unfinished business. (consideration: CR H3149, H3150)
+- 2008-05-07 — DEBATE - The House proceeded with one hour of debate on H. Res. 1174.
+- 2008-05-07 — DEBATE - The House resumed debate on H. Res. 1174.
+- 2008-05-07 — Mr. Hastings (FL) moved to table the motion to reconsider the vote (consideration: CR H3150-3151)
+- 2008-05-07 — Mr. Simpson moved to reconsider the vote.
+- 2008-05-07 — Mr. Welch (VT) moved to table the motion to reconsider the vote (consideration: CR H3152)
+- 2008-05-07 — Mrs. Emerson moved to reconsider the vote.
+- 2008-05-07 — On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 192 (Roll no. 289). (text: CR H3119)
+- 2008-05-07 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 212 - 183 (Roll no. 290).
+- 2008-05-07 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 226 - 186 (Roll no. 288).
+- 2008-05-07 — On ordering the previous question Agreed to by the Yeas and Nays: 220 - 187 (Roll no. 287). (consideration: CR H3129, H3150)
+- 2008-05-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1174, the Chair put the question of adoption on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Hastings (WA) demanded the yeas and nays and the Chair postponed further proceedings on ordering the previous question until later in the legislative day.
+- 2008-05-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 192 (Roll no. 289).(text: CR H3119)
