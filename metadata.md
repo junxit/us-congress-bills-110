@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 308
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 308
@@ -45,3 +45,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers' Memo
 - 2008-05-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-05-01 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 237). (text: CR 5/1/2008 H2885)
 - 2008-05-01 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 412 - 0 (Roll no. 237).(text: CR 5/1/2008 H2885)
+- 2008-05-02 — Received in the Senate.
+- 2008-05-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S3930; text as passed Senate: CR S3730)
+- 2008-05-07 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S3930; text as passed Senate: CR S3730)
