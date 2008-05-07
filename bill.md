@@ -2,7 +2,7 @@
 legis-num: H. RES. 1091
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1091
@@ -16,7 +16,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Charlton Heston was a leader in many areas of life outside of acting, including serving as President of the Screen Actors Guild, which he helped to integrate with Ronald Reagan and was Chairman of the American Film Institute;
 - Whereas Charlton Heston was an active supporter of the civil rights movement, including protesting the showing of his film at a segregated movie theater in Oklahoma City and participating in and leading the Arts Group in the 1963 civil rights march on Washington;
 - Whereas in the last major public role of his life, Charlton Heston was President of the National Rifle Association from June 1998 until April 2003;
-- Whereas, as President of the National Rifle Association, Charlton Heston was a stalwart defender of the 2nd Amendment right of citizens to keep and bear arms and was an active and effective promoter of wildlife management through hunting;
+- Whereas as President of the National Rifle Association, Charlton Heston was a stalwart advocate of the position that the 2nd Amendment gave citizens the right to keep and bear arms;
+- Whereas Charlton Heston was an active promoter of wildlife management through hunting;
 - Whereas, in 2003, Charlton Heston was awarded the Presidential Medal of Freedom, the Nation’s highest civilian honor;
 - Whereas Charlton Heston was born in Illinois on October 4, 1923, and his parents moved to St. Helen, Michigan, where he grew up;
 - Whereas, in 1943, Charlton Heston enlisted in the Army Air Force and served as a radio-gunner in the Aleutian Islands of Alaska, and in 1947, he was discharged from the Army;
