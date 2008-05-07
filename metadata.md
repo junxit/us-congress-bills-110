@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 72
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 72
@@ -31,3 +31,7 @@ A concurrent resolution supporting the goals and ideals of the International Yea
 
 - 2008-04-01 — Introduced in Senate
 - 2008-04-01 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S2300-2301)
+- 2008-05-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S3931)
+- 2008-05-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S3931)
+- 2008-05-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S3931)
+- 2008-05-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S3931)
