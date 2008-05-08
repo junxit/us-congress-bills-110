@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 241(i)(3)(A) of the Immigration and Nationality Act (8 U.S.C. 1231(i)(3)(A)) is amended by inserting “charged with or” before “convicted”. | the bill names no machine-readable US Code section |
 | `8 U.S.C. § 1231` | insert | Section 241(i)(3)(A) of the Immigration and Nationality Act (8 U.S.C. 1231(i)(3)(A)) is amended by inserting “charged with or” before “convicted”. | the bill quotes the text inserted but describes where it goes |
