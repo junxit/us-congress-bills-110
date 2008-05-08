@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 72
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 72
@@ -23,9 +23,10 @@ A concurrent resolution supporting the goals and ideals of the International Yea
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ A concurrent resolution supporting the goals and ideals of the International Yea
 - 2008-05-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S3931)
 - 2008-05-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S3931)
 - 2008-05-07 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S3931)
+- 2008-05-08 — Message on Senate action sent to the House.
+- 2008-05-08 — Received in the House.
+- 2008-05-08 — Referred to the House Committee on Foreign Affairs.
