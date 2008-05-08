@@ -20,7 +20,7 @@ Any reference in this Act to the “Trademark Act of 1946” refers to the Act e
 
 ## § 3. Definition
 
-In this Act, the term United States person means—
+In this Act, the term “United States person” means—
 
 - **(1)** any United States resident or national,
 - **(2)** any domestic concern (including any permanent domestic establishment of any foreign concern), and
