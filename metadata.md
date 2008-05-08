@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5690
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5690
@@ -46,3 +46,12 @@ To remove the African National Congress from treatment as a terrorist organizati
 - 2008-05-05 — Placed on the Union Calendar, Calendar No. 387.
 - 2008-05-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-620, Part I.
 - 2008-05-05 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-620, Part I.
+- 2008-05-06 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Frelinghuysen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-06 — Considered under suspension of the rules. (consideration: CR H3078-3083)
+- 2008-05-06 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5690.
+- 2008-05-06 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2008-05-08 — Considered as unfinished business. (consideration: CR H3203)
+- 2008-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/6/2008 H3078-3079)
+- 2008-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/6/2008 H3078-3079)
+- 2008-05-08 — The title of the measure was amended. Agreed to without objection.
