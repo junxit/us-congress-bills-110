@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5690
 
-> To exempt the African National Congress from treatment as a terrorist organization for certain acts or events, provide relief for certain members of the African National Congress regarding admissibility, and for other purposes.
+> To remove the African National Congress from treatment as a terrorist organization for certain acts or events, provide relief for certain members of the African National Congress regarding admissibility, and for other purposes.
 
 ## § 1. Exemption of African National Congress from treatment as terrorist organization for certain acts or events
 
