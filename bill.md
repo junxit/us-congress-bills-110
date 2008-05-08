@@ -21,7 +21,7 @@ This Act may be cited as the “Federal Employees Paid Parental Leave Act of 200
   - **(3)** by adding at the end the following:
     > - **(2)** An employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of subsection (a)(1) any paid leave which is available to such employee for that purpose.
     > - **(3)** The paid leave that is available to an employee for purposes of paragraph (2) is—
-    >   - **(A)** 8 administrative workweeks of paid parental leave under this subparagraph in connection with the birth or placement involved; and
+    >   - **(A)** subject to paragraph (6), 4 administrative workweeks of paid parental leave under this subparagraph in connection with the birth or placement involved; and
     >   - **(B)** any annual or sick leave accrued or accumulated by such employee under subchapter I.
     > - **(4)** Nothing in this subchapter shall be considered to require—
     >   - **(A)** that an employing agency provide paid sick leave in any situation in which such employing agency would not normally be required to provide such leave; or
@@ -30,7 +30,14 @@ This Act may be cited as the “Federal Employees Paid Parental Leave Act of 200
     >   - **(A)** shall be payable from any appropriation or fund available for salaries or expenses for positions within the employing agency;
     >   - **(B)** shall not be considered to be annual or vacation leave for purposes of section 5551 or 5552 or for any other purpose; and
     >   - **(C)** if not used by the employee before the end of the 12-month period (as referred to in subsection (a)(1)) to which it relates, shall not accumulate for any subsequent use.
-    > - **(6)** The Director of the Office of Personnel Management shall prescribe any regulations necessary to carry out this subsection, including, subject to paragraph (4)(B), the manner in which an employee may designate any day or other period as to which such employee wishes to use paid parental leave described in paragraph (3)(A).
+    > - **(6)** The Director of the Office of Personnel Management—
+    >   - **(A)** may promulgate regulations to increase the amount of paid parental leave available to an employee under paragraph (3)(A), to a total of not more than 8 administrative workweeks, based on the consideration of the following factors:
+    >     - **(i)** the benefits provided to the Federal Government of offering paid parental leave, including enhanced recruitment and retention of employees;
+    >     - **(ii)** the cost to the Federal Government of increasing the amount of paid parental leave that is available to employees;
+    >     - **(iii)** trends in the private sector and in State and local governments with respect to offering paid parental leave;
+    >     - **(iv)** the Federal Government’s role as a model employer; and
+    >     - **(v)** such other factors as the Director considers necessary; and
+    >   - **(B)** shall prescribe any regulations necessary to carry out this subsection, including, subject to paragraph (4)(B), the manner in which an employee may designate any day or other period as to which such employee wishes to use paid parental leave described in paragraph (3)(A).
 
 - **(b)** *Effective date* The amendments made by this section shall not be effective with respect to any birth or placement occurring before the end of the 6-month period beginning on the date of the enactment of this Act.
 

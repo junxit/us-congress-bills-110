@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5781
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5781
@@ -52,3 +52,13 @@ Federal Employees Paid Parental Leave Act of 2008
 - 2008-04-14 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-04-14 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-04-14 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-04-15 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2008-04-16 — Committee Consideration and Mark-up Session Held.
+- 2008-04-16 — Forwarded by Subcommittee to Full Committee .
+- 2008-04-16 — Ordered to be Reported by the Yeas and Nays: 21 - 10.
+- 2008-04-16 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-08 — Committee on House Administration discharged.
+- 2008-05-08 — Committee on House Administration discharged.
+- 2008-05-08 — Placed on the Union Calendar, Calendar No. 389.
+- 2008-05-08 — Reported (Amended) by the Committee on Oversight and Government Reform, H. Rept. 110-624, Part I.
+- 2008-05-08 — Reported (Amended) by the Committee on Oversight and Government Reform, H. Rept. 110-624, Part I.
