@@ -1,7 +1,7 @@
 ---
 measure: S. 2929
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2929
@@ -39,3 +39,8 @@ A bill to temporarily extend the programs under the Higher Education Act of 1965
 - 2008-05-06 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 408 - 0 (Roll no. 256). (text: CR 5/5/2008 H3035-3036)
 - 2008-05-06 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 223 - 189 (Roll no. 257).
 - 2008-05-06 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 408 - 0 (Roll no. 256).(text: CR 5/5/2008 H3035-3036)
+- 2008-05-07 — Cleared for White House.
+- 2008-05-07 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2008-05-07 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR S8329-8330; text of measure as Senate agreed to House amendment)
+- 2008-05-07 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR S8329-8330; text of measure as Senate agreed to House amendment)
+- 2008-05-08 — Message on Senate action sent to the House.
