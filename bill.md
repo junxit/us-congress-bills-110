@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 752
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,20 +11,25 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Electronic Equipment Donation Act of 2007”.
+This Act may be cited as the “Federal Electronic Equipment Donation Act of 2008”.
 
-## § 2. Requirement to donate useful Federal electronic equipment to qualifying recipients
+## § 2. Requirement to transfer useful Federal electronic equipment to educational recipients
 
-- **(a)** *Transfer of equipment to qualifying entities* Each Federal agency shall identify useful Federal electronic equipment that the agency has determined is surplus property and—
-  - **(1)** transfer such equipment to the Administrator of General Services for transfer for donation to a qualifying recipient in accordance with section 549 of title 40, United States Code;
-  - **(2)** transfer such equipment directly to a qualifying recipient, through an arrangement made by the Administrator of General Services under subsection (b); or
-  - **(3)** transfer such equipment directly to a qualifying recipient pursuant to section 11(i) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(i)) and in accordance with subsection (c).
-- **(b)** *Advance reporting of equipment to GSA* Each Federal agency shall report to the Administrator of General Services the availability of useful Federal electronic equipment as far as possible in advance of the date the equipment is expected to become surplus, so that the Administrator may attempt to arrange for the direct transfer from the donating agency to qualifying recipients.
-- **(c)** *Transfers under Stevenson-Wydler* With respect to any transfer described in subsection (a)(3), if the equipment is not classroom-usable, the equipment shall be conveyed initially to a nonprofit refurbisher for upgrade before transfer to the recipient.
-- **(d)** *Preference* In transferring any equipment pursuant to this Act, the Administrator of General Services shall give the highest preference to qualifying recipients located in an enterprise community or empowerment zone designated under section 1391 or 1400 of the Internal Revenue Code of 1986.
-- **(e)** *Low cost* Any transfer made pursuant to this Act shall be made at the lowest cost to the qualifying recipient permitted by law.
-- **(f)** *Notice of availability of equipment* The Administrator of General Services shall provide notice of the anticipated availability of useful Federal electronic equipment to qualifying recipients by all practicable means, including newspapers, community announcements, and the Internet.
-- **(g)** *Facilitation by regional federal executive boards* The regional Federal Executive Boards (as that term is used in part 960 of title 5, Code of Federal Regulations) shall help facilitate the transfer of useful Federal electronic equipment from the agencies they represent to qualifying recipients under this Act.
+- **(a)** *Transfer of Equipment to educational Entities*
+  - **(1)** *In general* Each Federal agency shall identify useful Federal electronic equipment that the agency has determined is excess to its needs and—
+    - **(A)** report such equipment to the Administrator of General Services for processing for transfer to an educational recipient in accordance with section 549 of title 40, United States Code;
+    - **(B)** transfer such equipment directly to an educational recipient, through an arrangement made by the Administrator of General Services under subsection (b);
+    - **(C)** transfer such equipment directly to an educational recipient pursuant to section 11(i) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(i)); or
+    - **(D)** report such equipment to the Administrator of General Services as excess property if transfer under subparagraphs (A) through (C) is not practicable.
+  - **(2)** *Management of nontransferable equipment* For equipment reported under paragraph (1)(D), the Administrator of General Services shall manage the equipment in accordance with subchapters II and III of title 40, United States Code.
+- **(b)** *Advance Reporting of Equipment to GSA* Each Federal agency shall report to the Administrator of General Services the availability of useful Federal electronic equipment as far as possible in advance of the date the equipment is expected to become excess to its needs, so that the Administrator may attempt to arrange for the direct transfer from the donating agency to educational recipients.
+- **(c)** *Use of nonprofit refurbishers* In transferring any equipment pursuant to this Act, at the request of the educational recipient and if appropriate, if the equipment is not classroom-usable, the transferring agency shall convey the equipment initially to a nonprofit refurbisher for upgrade before transfer to the educational recipient.
+- **(d)** *Removal of data before transfer* In transferring any equipment pursuant to this Act, the transferring agency shall remove data from the equipment prior to transfer to the educational recipient according to accepted sanitization procedures. To the maximum extent practicable, the transferring agency shall remove data using a means that does not remove, disable, destroy, or otherwise render unusable the equipment or components.
+- **(e)** *Preference* In transferring any equipment pursuant to this Act, the transferring agency shall give the highest preference to educational recipients located in an enterprise community or empowerment zone designated under section 1391 or 1400 of the Internal Revenue Code of 1986, a qualifying small town, or a qualifying county.
+- **(f)** *Low Cost* Any transfer made pursuant to this Act shall be made at the lowest cost to the educational recipient permitted by law.
+- **(g)** *Title* Title of ownership of equipment transferred pursuant to this Act shall transfer to the educational recipient receiving the equipment.
+- **(h)** *Notice of Availability of Equipment* The Administrator of General Services shall provide notice of the anticipated availability of useful Federal electronic equipment to educational recipients by all practicable means, including newspapers, community announcements, and the Internet.
+- **(i)** *Facilitation by Regional Federal Executive Boards* The regional Federal Executive Boards (as that term is used in part 960 of title 5, Code of Federal Regulations) shall help facilitate the transfer of useful Federal electronic equipment from the agencies they represent to educational recipients under this Act.
 
 ## § 3. Rulemaking
 
@@ -43,25 +48,42 @@ This Act may not be construed to create any right or benefit, substantive or pro
 In this Act:
 
 - **(1)** The term “Federal agency” means an Executive department or an Executive agency (as such terms are defined in chapter 1 of title 5, United States Code).
-- **(2)** The term “qualifying recipient” means any of the following:
-  - **(A)** An educational recipient.
-  - **(B)** A qualifying small town.
-  - **(C)** A qualifying county.
-  - **(D)** A library.
-- **(3)** The term “educational recipient” means a school or a community-based educational organization.
-- **(4)** The term “school” includes a pre-kindergarten program (as that term is used in the Elementary and Secondary Education Act of 1965), an elementary school, a secondary school, and a local educational agency (as those terms are defined in section 9101 of that Act.)
-- **(5)** The term “community based educational organization” means a nonprofit entity that—
-  - **(A)** is engaged in collaborative projects with schools or the primary focus of which is education; and
-  - **(B)** qualifies as a nonprofit educational institution or organization for purposes of section 549(c)(3) of title 40, United States Code.
-- **(6)** The term “qualifying small town” means a political subdivision with a population of not more than 24,999 individuals where 20 percent or more of the residents earn less than the poverty threshold (as defined by the Bureau of the Census).
-- **(7)** The term “qualifying county” means a county where 20 percent or more of the residents earn less than the poverty threshold (as defined by the Bureau of the Census).
-- **(8)** The term “useful Federal electronic equipment”—
+- **(2)** The term “educational recipient” means a school or a community-based educational organization.
+- **(3)** The term “school” includes a pre-kindergarten program (as that term is used in the Elementary and Secondary Education Act of 1965), an elementary school, a secondary school, and a local educational agency (as those terms are defined in section 9101 of that Act.)
+- **(4)** The term “community based educational organization” means a nonprofit entity that qualifies as a nonprofit educational institution or organization for purposes of section 501(c)(3) of the Internal Revenue Code of 1986 and—
+  - **(A)** is engaged in collaborative projects, the primary focus of which is education, with schools, qualifying small towns, qualifying counties, or libraries; or
+  - **(B)** provides use of computers and Internet access to members of the community at no charge.
+- **(5)** The term “qualifying small town” means a political subdivision with a population of not more than 24,999 individuals where 20 percent or more of the residents earn less than the poverty threshold (as defined by the Bureau of the Census).
+- **(6)** The term “qualifying county” means a county where 20 percent or more of the residents earn less than the poverty threshold (as defined by the Bureau of the Census).
+- **(7)** The term “useful Federal electronic equipment”—
   - **(A)** means—
     - **(i)** computers and related peripheral tools (such as computer printers, modems, routers, and servers), including telecommunications and research equipment;
     - **(ii)** fax machines; and
-    - **(iii)** any other electronic equipment determined by a Federal agency to be potentially useful to a qualifying recipient; and
+    - **(iii)** any other electronic equipment determined by a Federal agency to be potentially useful to an educational recipient; and
   - **(B)** includes computer software, where the transfer of a license is permitted.
-- **(9)** The term “classroom-usable,” with respect to useful Federal electronic equipment, means such equipment that does not require an upgrade of hardware or software in order to be used by an educational recipient without being first transferred under section 2(c) to a nonprofit refurbisher for such an upgrade.
-- **(10)** The term “nonprofit refurbisher” means an organization that—
+- **(8)** The term “classroom-usable”, with respect to useful Federal electronic equipment, means such equipment that does not require an upgrade of hardware or software in order to be used by an educational recipient without being first transferred under section 2(c) to a nonprofit refurbisher for such an upgrade.
+- **(9)** The term “nonprofit refurbisher” means an organization that—
   - **(A)** is exempt from income taxes under section 501(c) of the Internal Revenue Code of 1986; and
-  - **(B)** upgrades useful Federal electronic equipment that is not yet classroom-usable at no cost or low cost to the ultimate recipient school or community-based educational organization.
+  - **(B)** upgrades useful Federal electronic equipment that is not yet classroom-usable at no cost or low cost to the ultimate educational recipient.
+
+## § 7. Preference in donation of personal property through State agencies
+
+Section 549(e)(3)(B) of title 40, United States Code, is amended—
+
+- **(1)** by striking “The state plan” and inserting the following:
+  > - **(i)** *In general* The state plan
+
+- **(2)** by adding at the end the following new clause:
+  > - **(ii)** *Preference* The state plan of operation shall require the state agency to give the highest preference for electronic equipment to eligible institutions (as described in subsection (c)(3)) that are located in an enterprise community or empowerment zone designated under section 1391 or 1400 of the Internal Revenue Code of 1986, a political subdivision with a population of not more than 24,999 individuals where 20 percent or more of the residents earn less than the poverty threshold (as defined by the Bureau of the Census), or a county where 20 percent or more of the residents earn less than poverty threshold (as defined by the Bureau of the Census).
+
+## § 8. Report to Congress
+
+- **(a)** *Report required* Not later than 18 months after the date of the enactment of this Act, the Administrator of General Services shall submit to Congress a report.
+- **(b)** *Contents of report* The report shall contain the following:
+  - **(1)** An inventory of items that Federal agencies identified as useful Federal electronic equipment that the agency has determined is excess to its needs in the first 365 days after the date of the enactment of this Act.
+  - **(2)** The number of such items that were—
+    - **(A)** transferred to educational recipients pursuant to this Act;
+    - **(B)** transferred to other Federal agencies and organizations pursuant to section 521 of title 40, United States Code;
+    - **(C)** transferred to State agencies pursuant to section 549 of title 40, United State Code; or
+    - **(D)** disposed of through other means.
+  - **(3)** Recommendations for further legislation or administrative action that the Administrator considers appropriate to establish an effective system for transferring excess useful Federal electronic equipment to educational recipients.
