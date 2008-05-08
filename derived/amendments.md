@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4279
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -175,11 +175,11 @@ complete account of the bill's effect, which it is not.
 | `17 U.S.C. § 602` | insert | by inserting “or departing from the United States” after “United States”. | the bill quotes the text inserted but describes where it goes |
 | `17 U.S.C. § 602` | insert | in the section heading, by inserting “or exportation” after “importation”; and | the bill quotes the text inserted but describes where it goes |
 | `17 U.S.C. § 602` | amend | The item relating to chapter 6 in the table of chapters for title 17, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2319` | insert | by inserting “is a felony and” after offense the first place such term appears; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2319` | insert | by inserting “is a felony and” after offense the first place such term appears; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2319` | insert | by inserting “is a felony and” after offense the first place such term appears; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2319` | insert | by inserting “is a felony and” after “offense” the first place such term appears; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2319` | insert | by inserting “is a felony and” after “offense” the first place such term appears; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2319` | insert | by inserting “is a felony and” after “offense” the first place such term appears; and | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2319` | insert | by inserting “under subsection (a)” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2319` | insert | in subsection (d)(4), by inserting “is a felony and” after offense the first place such term appears. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2319` | insert | in subsection (d)(4), by inserting “is a felony and” after “offense” the first place such term appears. | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 853` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2318` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2318` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
