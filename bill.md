@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3323
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,16 +11,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Goleta Water Distribution System Conveyance Act of 2007”.
+This Act may be cited as the “Goleta Water Distribution System Conveyance Act of 2008”.
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Agreement* The term “Agreement” means Agreement No. 07–LC–20–9387 between the United States and the District, entitled “Agreement Between the United States and the Goleta Water District to Transfer Title of the Federally Owned Distribution System to the Goleta Water District”.
-- **(2)** *District* The term “District” means the Goleta Water District, located in Santa Barbara County, California.
-- **(3)** *Goleta water distribution system* The term “Goleta Water Distribution System” means the facilities constructed by the United States to enable the District to convey water to its water users, and associated lands, as described in Appendix A of the Agreement.
-- **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior.
+- **(1)** *Agreement* The term Agreement means Agreement No. 07–LC–20–9387 between the United States and the District, entitled “Agreement Between the United States and the Goleta Water District to Transfer Title of the Federally Owned Distribution System to the Goleta Water District”.
+- **(2)** *District* The term District means the Goleta Water District, located in Santa Barbara County, California.
+- **(3)** *Goleta water distribution system* The term Goleta Water Distribution System means the facilities constructed by the United States to enable the District to convey water to its water users, and associated lands, as described in Appendix A of the Agreement.
+- **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
 ## § 3. Conveyance of the goleta water distribution system
 
@@ -42,3 +42,7 @@ After conveyance of the Goleta Water Distribution System under this Act—
 - **(a)** *Compliance with environmental and historic preservation laws* Prior to any conveyance under this Act, the Secretary shall complete all actions required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), the National Historic Preservation Act (16 U.S.C. 470 et seq.), and all other applicable laws.
 - **(b)** *Compliance by the district* Upon the conveyance of the Goleta Water Distribution System under this Act, the District shall comply with all applicable Federal, State, and local laws and regulations in its operation of the facilities that are transferred.
 - **(c)** *Applicable authority* All provisions of Federal reclamation law (the Act of June 17, 1902 (43 U.S.C. 371 et seq.) and Acts supplemental to and amendatory of that Act) shall continue to be applicable to project water provided to the District.
+
+## § 7. Report
+
+If, 12 months after the date of the enactment of this Act, the Secretary has not completed the conveyance required under section 3, the Secretary shall complete a report that states the reason the conveyance has not been completed and the date by which the conveyance shall be completed. The Secretary shall submit a report required under this section to Congress not later than 14 months after the date of the enactment of this Act.
