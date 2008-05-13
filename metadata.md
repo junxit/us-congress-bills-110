@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3121
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3121
@@ -37,11 +37,12 @@ Flood Insurance Reform and Modernization Act of 2007
 - House — Financial Services Committee
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2007-09-27 — [House 110-1-919](votes/house-110-1-0919.md) — On Agreeing to the Amendment — **Agreed to** (268–143)
 - 2007-09-27 — [House 110-1-920](votes/house-110-1-0920.md) — On Motion to Recommit with Instructions — **Failed** (179–232)
 - 2007-09-27 — [House 110-1-921](votes/house-110-1-0921.md) — On Passage — **Passed** (263–146)
+- 2008-05-13 — [Senate 110-2-125](votes/senate-110-2-0125.md) — On Passage of the Bill — **Bill Passed** (92–6)
 
 ## Actions
 
@@ -166,3 +167,10 @@ Flood Insurance Reform and Modernization Act of 2007
 - 2007-09-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H10993)
 - 2007-09-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
 - 2007-09-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-05-13 — Measure laid before Senate by unanimous consent. (consideration: CR S4061-4072)
+- 2008-05-13 — Passed Senate in lieu of S.2284 with an amendment by Yea-Nay Vote. 92 - 6. Record Vote Number: 125. (text: CR S4061-4072)
+- 2008-05-13 — Passed/agreed to in Senate: Passed Senate in lieu of S.2284 with an amendment by Yea-Nay Vote. 92 - 6. Record Vote Number: 125.(text: CR S4061-4072)
+- 2008-05-13 — See also S.2284.
+- 2008-05-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S4061)
+- 2008-05-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S4061)
+- 2008-05-13 — Senate struck all after the Enacting Clause and substituted the language of S.2284 amended.
