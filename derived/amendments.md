@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2649
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | in subsection (a), by inserting before the period the following: “, including Phase II of the Olivenhain Water Treatment Plant”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (b)(2), by adding at the end the following: “Notwithstanding any other provision of this title, the Federal share of the costs of the projects for which funds are made available under this section shall not exceed $35,000,0… | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 390h` | insert | The Reclamation Wastewater and Groundwater Study and Facilities Act (Public Law 102–575, title XVI; 43 U.S.C. 390h et seq.) is amended by inserting after section 16__ the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390h` | insert | The table of sections in section 2 of the Reclamation Projects Authorization and Adjustment Act of 1992 is amended by inserting after the item relating to section 163__ the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
