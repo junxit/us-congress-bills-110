@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3121
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3121
@@ -160,3 +160,10 @@ Flood Insurance Reform and Modernization Act of 2007
 - 2007-09-27 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H10993)
 - 2007-09-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
 - 2007-09-28 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-05-13 — Measure laid before Senate by unanimous consent. (consideration: CR S4061-4072)
+- 2008-05-13 — Passed Senate in lieu of S.2284 with an amendment by Yea-Nay Vote. 92 - 6. Record Vote Number: 125. (text: CR S4061-4072)
+- 2008-05-13 — Passed/agreed to in Senate: Passed Senate in lieu of S.2284 with an amendment by Yea-Nay Vote. 92 - 6. Record Vote Number: 125.(text: CR S4061-4072)
+- 2008-05-13 — See also S.2284.
+- 2008-05-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S4061)
+- 2008-05-13 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S4061)
+- 2008-05-13 — Senate struck all after the Enacting Clause and substituted the language of S.2284 amended.
