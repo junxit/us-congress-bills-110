@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2649
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2649
@@ -29,3 +29,11 @@ Lake Hodges Surface Water Improvement and Reclamation Act of 2008
 - 2007-06-11 — Introduced in House
 - 2007-06-11 — Introduced in House
 - 2007-06-11 — Referred to the House Committee on Natural Resources.
+- 2007-06-13 — Referred to the Subcommittee on Water and Power.
+- 2008-04-23 — Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .
+- 2008-04-23 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-04-30 — Committee Consideration and Mark-up Session Held.
+- 2008-04-30 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-05-13 — Placed on the Union Calendar, Calendar No. 396.
+- 2008-05-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-634.
+- 2008-05-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-634.
