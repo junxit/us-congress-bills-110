@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4008
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4008
@@ -96,3 +96,14 @@ Credit and Debit Card Receipt Clarification Act of 2007
 - 2008-05-13 — Mr. Mahoney (FL) moved to suspend the rules and pass the bill.
 - 2008-05-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 308). (text: CR H3729)
 - 2008-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 308).(text: CR H3729)
+- 2008-05-14 — Received in the Senate, read twice.
+- 2008-05-20 — Cleared for White House.
+- 2008-05-20 — Message on Senate action sent to the House.
+- 2008-05-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4439-4440)
+- 2008-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4439-4440)
+- 2008-05-23 — Presented to President.
+- 2008-05-23 — Presented to President.
+- 2008-06-03 — Became Public Law No: 110-241.
+- 2008-06-03 — Became Public Law No: 110-241.
+- 2008-06-03 — Signed by President.
+- 2008-06-03 — Signed by President.
