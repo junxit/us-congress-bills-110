@@ -36,8 +36,12 @@ It is the sense of Congress that—
 
 - **(1)** the United States should make it a priority to seek broader permission and greater cooperation from foreign governments to allow the United States to process North Korean refugees overseas for resettlement in the United States, through persistent diplomacy by senior officials of the United States, including United States ambassadors to Asia-Pacific nations;
 - **(2)** at the same time that careful screening of intending refugees is important, the United States also should make every effort to ensure that its screening, processing, and resettlement of North Korean refugees are as efficient and expeditious as possible;
-- **(3)** the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights, humanitarian, and refugee issues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.); and
-- **(4)** in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availed themselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea.
+- **(3)** the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights, humanitarian, and refugee issues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.);
+- **(4)** in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availed themselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea; and
+- **(5)** because there are genuine refugees among North Koreans fleeing into China who face severe punishments upon their forcible return, the United States should urge the Government of China to—
+  - **(A)** immediately halt its forcible repatriation of North Koreans;
+  - **(B)** fulfill its obligations pursuant to the 1951 United Nations Convention Relating to the Status of Refugees, the 1967 Protocol Relating to the Status of Refugees, and the 1995 Agreement on the Upgrading of the UNHCR Mission in the People’s Republic of China to UNHCR Branch Office in the People’s Republic of China; and
+  - **(C)** allow the United Nations High Commissioner for Refugees (UNHCR) unimpeded access to North Koreans inside China to determine whether they are refugees and whether they require assistance.
 
 ## § 4. Definitions
 
@@ -56,7 +60,7 @@ Not later than 120 days after the date of the enactment of this Act, the Broadca
 Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended—
 
 - **(1)** in subsection (b)(1), by striking “2008” and inserting “2012”; and
-- **(2)** in subsection (c), by striking “in each of the three years thereafter” and inserting “annually through 2012”.
+- **(2)** in subsection (c), by striking “in each of the 3 years thereafter” and inserting “annually through 2012”.
 
 ## § 8. Special envoy on North Korean human rights issues
 

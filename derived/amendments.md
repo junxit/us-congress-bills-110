@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5834
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 13 executed, 9 stated and not applied.
+22 amendatory instructions. 12 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,11 +44,11 @@ to guess them.
 
 ### 22 U.S.C. § 7814
 
-> in subsection (c), by striking “in each of the three years thereafter” and inserting “annually through 2012”.
+> in subsection (c), by striking “in each of the 3 years thereafter” and inserting “annually through 2012”.
 
 | | |
 |---|---|
-| Removed | `in each of the three years thereafter` |
+| Removed | `in each of the 3 years thereafter` |
 | Inserted | `annually through 2012` |
 
 ### 22 U.S.C. § 7817
@@ -96,15 +96,6 @@ to guess them.
 | Removed | `in each of the 2 years thereafter` |
 | Inserted | `annually thereafter through 2012` |
 
-### 22 U.S.C. § 7833
-
-> Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2008” and inserting “2012”.
-
-| | |
-|---|---|
-| Removed | `2008` |
-| Inserted | `2012` |
-
 ### 22 U.S.C. § 7845
 
 > by striking “for each of the following 5 years” and inserting “through 2012”; and
@@ -150,12 +141,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 7812` | insert | Section 102(b)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7812(b)(1)) is amended by inserting after “2008” the following: “and $4,000,000 for each of fiscal years 2009 through 2012”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 102(b)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7812(b)(1)) is amended by inserting after “2008” the following: “and $4,000,000 for each of fiscal years 2009 through 2012”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 7817` | insert | by inserting before the period at the end the following: “, by and with the advice and consent of the Senate”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7817` | insert | in the second sentence, by inserting before the period at the end the following: “who shall have the rank of ambassador and shall hold the office at the pleasure of the President”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7817` | insert | in subsection (b), by inserting before the period at the end the following: “, including the protection of those people who have fled as refugees”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7817` | redesignate | by redesignating paragraphs (1) through (6) as paragraphs (2) through (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 7817` | redesignate | by inserting before paragraph (2), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2008” and inserting “2012”. | the bill names no machine-readable US Code section |
 | `22 U.S.C. § 7845` | insert | in the subsection heading, by inserting “and refugee” before “information”; | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 7845` | replace | by striking “; and” at the end and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 7845` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
