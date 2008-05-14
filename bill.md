@@ -2,7 +2,7 @@
 legis-num: H. RES. 1133
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1133
@@ -16,7 +16,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Jonte Flowers also holds the NCAA Division II record for player career steals, with 414;
 - Whereas the Warriors finished the 2008 season with a record of 38–1, an NCAA Division II record for most victories in a season by an NCAA men’s basketball team;
 - Whereas over the past 3 years, the team’s overall record is an impressive 105–6;
-- Whereas the senior class, which includes John Smith, Jonte Flowers, Quincy Henderson, Shane Neiss, and Brent Riese, accrued a record of 129–17 in their 3 years of play together at Winona State University;
+- Whereas the senior class, which includes John Smith, Jonte Flowers, Quincy Henderson, Shane Neiss, and Brent Riese, accrued a record of 129–17 in their 4 years of play together at Winona State University;
 - Whereas John Smith was named the NCAA Division II Player of the Year by four separate organizations, which include 2 consecutive years of recognition from Basketball Times and DII Bulletin, as well as the National Association of Basketball Coaches, for his outstanding performance throughout the year;
 - Whereas John Smith also holds the NCAA Division II record for consecutive starts, with 146;
 - Whereas the Winona State University Warriors men’s basketball team boasts two national titles from 2006 and 2008, three straight North Central Region titles from 2006, 2007, and 2008, four straight regular season championships, and three straight conference tournament championships;
