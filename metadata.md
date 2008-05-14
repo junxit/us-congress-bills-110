@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1134
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1134
@@ -16,7 +16,7 @@ Supporting the goals and ideals of Mental Health Month.
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 
-## Cosponsors (50)
+## Cosponsors (148)
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 - Rep. Baird, Brian [D-WA-3] (B001229)
@@ -68,10 +68,112 @@ Supporting the goals and ideals of Mental Health Month.
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 - Rep. Sherman, Brad [D-CA-27] (S000344)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Giffords, Gabrielle [D-AZ-8] (G000554)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Blackburn, Marsha [R-TN-7] (B001243)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Calvert, Ken [R-CA-44] (C000059)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Mahoney, Tim [D-FL-16] (M001164)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Manzullo, Donald A. [R-IL-16] (M001138)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Neugebauer, Randy [R-TX-19] (N000182)
+- Rep. Obey, David R. [D-WI-7] (O000007)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Taylor, Gene [D-MS-4] (T000074)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Murphy, Patrick J. [D-PA-8] (M001168)
+- Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Doolittle, John T. [R-CA-4] (D000429)
+- Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
+- Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
+- Rep. Granger, Kay [R-TX-12] (G000377)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Walberg, Timothy [R-MI-7] (W000798)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+- Rep. Coble, Howard [R-NC-6] (C000556)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
 
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2008-05-14 — [House 110-2-312](votes/house-110-2-0312.md) — On Motion to Suspend the Rules and Agree — **Passed** (421–0)
 
 ## Actions
 
@@ -79,3 +181,11 @@ Supporting the goals and ideals of Mental Health Month.
 - 2008-04-23 — Introduced in House
 - 2008-04-23 — Referred to the House Committee on Energy and Commerce.
 - 2008-04-23 — Referred to the Subcommittee on Health.
+- 2008-05-13 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Simpson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-13 — Considered under suspension of the rules. (consideration: CR H3710-3712)
+- 2008-05-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1134.
+- 2008-05-13 — Mrs. Napolitano moved to suspend the rules and agree to the resolution.
+- 2008-05-14 — Considered as unfinished business. (consideration: CR H3799-3800)
+- 2008-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-14 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 312). (text: CR 5/13/2008 H3710)
+- 2008-05-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 312).(text: CR 5/13/2008 H3710)
