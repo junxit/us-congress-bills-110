@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 789
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 789
@@ -16,7 +16,7 @@ Honoring public child welfare agencies, nonprofit organizations and private enti
 
 - Rep. Bachmann, Michele [R-MN-6] (B001256)
 
-## Cosponsors (55)
+## Cosponsors (63)
 
 - Rep. Akin, W. Todd [R-MO-2] (A000358)
 - Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
@@ -73,13 +73,33 @@ Honoring public child welfare agencies, nonprofit organizations and private enti
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Taylor, Gene [D-MS-4] (T000074)
 - Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
+- Rep. Walberg, Timothy [R-MI-7] (W000798)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Burton, Dan [R-IN-5] (B001149)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2008-05-14 — [House 110-2-322](votes/house-110-2-0322.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (414–0)
 
 ## Actions
 
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Referred to the House Committee on Education and Labor.
+- 2008-05-13 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Simpson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-13 — Considered under suspension of the rules. (consideration: CR H3717-3719)
+- 2008-05-13 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 789.
+- 2008-05-13 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-05-14 — Considered as unfinished business. (consideration: CR H3857)
+- 2008-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 414 - 0 (Roll no. 322). (text: CR 5/13/2008 H3717-3718)
+- 2008-05-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by recorded vote (2/3 required): 414 - 0 (Roll no. 322).(text: CR 5/13/2008 H3717-3718)
