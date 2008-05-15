@@ -25,24 +25,27 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Conflicts of interest disclosure* Section 9 of the Federal Advisory Committee Act (5 U.S.C. App.) is further amended by inserting after subsection (b) (as added by subsection (a)) the following:
   > - **(c)** *Conflicts of interest disclosure*
   >   - **(1)** The head of each agency shall ensure that no individual appointed to serve on an advisory committee that reports to the agency has a conflict of interest that is relevant to the functions to be performed by the advisory committee, unless the head of the agency determines that the conflict is unavoidable and that the need for the individual’s services outweighs the potential impacts of the conflict of interest. The head of each agency shall require that each individual the agency appoints or intends to appoint to serve on an advisory committee inform the agency official responsible for appointing the individual of any actual or potential conflict of interest the individual has that is relevant to the functions to be performed and that, for an individual appointed to serve on an advisory committee, the conflict is publicly disclosed as described in section 11.
-  >   - **(2)** The head of each agency shall ensure that each report of an advisory committee that reports to the agency is the result of the advisory committee’s independent judgment. Each advisory committee shall include in each report of the committee a statement describing the process used by the advisory committee in formulating the recommendations or conclusions contained in the report.
+  >   - **(2)** The head of each agency shall ensure that each report of an advisory committee that reports to the agency is the result of the advisory committee’s judgment, independent from the agency. Each advisory committee shall include in each report of the committee a statement describing the process used by the advisory committee in formulating the recommendations or conclusions contained in the report.
 
-- **(c)** *Regulations and guidance* Not later than 180 days after the date of the enactment of this Act, the Administrator of General Services, in consultation with the Director of the Office of Government Ethics, shall—
-  - **(1)** promulgate regulations defining conflict of interest and such other regulations as the Administrator finds necessary to carry out and ensure the enforcement of this section; and
-  - **(2)** issue guidance for agencies and advisory committees on procedures and best practices for ensuring that advisory committees provide independent advice and expertise.
+- **(c)** *Regulations*
+  - **(1)** *Regulations relating to conflicts of interest* Not later than 180 days after the date of the enactment of this Act, the Director of the Office of Government Ethics, in consultation with the Administrator of General Services, shall promulgate regulations defining conflict of interest and such other regulations as the Director finds necessary to carry out and ensure the enforcement of subsection (c) of section 9 of the Federal Advisory Committee Act, as added by this section.
+  - **(2)** *Regulations implementing FACA* Section 7(c) of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by inserting after “(c)” the following: “The Administrator shall promulgate regulations as necessary to implement this Act.”.
 
 ## § 3. Preventing efforts to circumvent the Federal Advisory Committee Act and public disclosure
 
 - **(a)** *De facto members* Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following:
   > - **(d)** *Treatment of individual as member* An individual who is not a full-time or permanent part-time officer or employee of the Federal Government shall be regarded as a member of a committee if the individual regularly attends and participates in committee meetings as if the individual were a member, even if the individual does not have the right to vote or veto the advice or recommendations of the advisory committee.
 
-- **(b)** *White House interagency advisory committees* Section 11 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following:
-  > - **(f)** *White House interagency advisory committees* Any communication between—
-  >   - **(1)** an interagency committee or task force established by the President or the Vice President or any member or staff acting on behalf of such an interagency committee or task force, and
-  >   - **(2)** any person who is not an officer or employee of the Federal Government,
+- **(b)** *Interagency advisory committees* Section 11 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following:
+  > - **(f)** *Interagency advisory committees*
+  >   - **(1)** Any communication between—
+  >     - **(A)** an interagency advisory committee established by the President or the Vice President or any member or staff acting on behalf of such an interagency advisory committee, and
+  >     - **(B)** any person who is not an officer or employee of the Federal Government,
+  >   - **(2)** In this subsection, the term interagency advisory committee means any committee, board, commission, council, conference, panel, task force, or other similar group, or any subcommittee or other subgroup thereof, established in the interest of obtaining advice or recommendations for the President or the Vice President, that is composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government and includes officers or employees of at least two separate Federal agencies but does not include an advisory committee as defined in section 3(2) of this Act.
+  >   - **(3)** This subsection is not intended to apply to cabinet meetings, the National Security Council, the Council of Economic Advisors, or any other permanent advisory body established by statute.
 
 - **(c)** *Subcommittees* Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by striking subsection (a) and inserting the following:
-  > - **(a)** *Application* The provisions of this Act or of any rule, order, or regulation promulgated under this Act shall apply to each advisory committee, including any subcommittee or subgroup thereof, except to the extent that any Act of Congress establishing any such advisory committee specifically provides otherwise. Any subcommittee or subgroup that reports to a parent committee established under section 9(a) is not required to comply with section 9(e). In this subsection, the term “subgroup” includes any working group, task force, or other entity formed for the purpose of assisting the committee or any subcommittee of the committee in its work.
+  > - **(a)** *Application* The provisions of this Act or of any rule, order, or regulation promulgated under this Act shall apply to each advisory committee, including any subcommittee or subgroup thereof, except to the extent that any Act of Congress establishing any such advisory committee specifically provides otherwise. Any subcommittee or subgroup that reports to a parent committee established under section 9(a) is not required to comply with section 9(e). In this subsection, the term subgroup includes any working group, task force, or other entity formed for the purpose of assisting the committee or any subcommittee of the committee in its work.
 
 - **(d)** *Committees created under contract* Section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) is amended in the matter following subparagraph (C) by adding at the end the following: “An advisory committee is considered to be established by an agency, agencies, or the President, if it is formed, created, or organized under contract, other transactional authority, cooperative agreement, grant, or otherwise at the request or direction of, an agency, agencies, or the President.”.
 - **(e)** *Advisory committees containing special government employees* Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is further amended by adding at the end the following new subsection:
@@ -51,13 +54,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 4. Increasing transparency of advisory committees
 
 - **(a)** *Information requirement* Section 11 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended—
-  - **(1)** by amending the section heading to read as follows:
+  - **(1)** by striking the section designation and heading and inserting the following:
     > ## § 11. Disclosure of information
 
   - **(2)** by redesignating subsection (a) as subsection (d) and in that subsection—
     - **(A)** by inserting the following subsection heading: “Availability of Paper Copies of Transcripts.—”; and
     - **(B)** by inserting after “duplication,” the following: “paper ”;
-  - **(3)** by redesignating subsection (b) as subsection (e); and
+  - **(3)** by striking “(b)” and inserting “(e) Agency proceeding defined.—”; and
   - **(4)** by inserting before subsection (d), as redesignated by paragraph (2), the following new subsections:
     > - **(a)** *In general* With respect to each advisory committee, the head of the agency to which the advisory committee reports shall make publicly available in accordance with subsection (b) the following information:
     >   - **(1)** The charter of the advisory committee.
@@ -82,7 +85,15 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     >   - **(2)** The head of an agency shall make available electronically, on the official public internet site of the agency, a transcript or audio or video recording of each advisory committee meeting not later than 7 calendar days after the meeting.
     > - **(c)** *Provision of information by Administrator of General Services* The Administrator of General Services shall provide, on the official public internet site of the General Services Administration, electronic access to the information made available by each agency under this section.
 
-- **(b)** *Charter filing* Section 9(e) of the Federal Advisory Committee Act (5 U.S.C. App.), as redesignated by section 2, is amended by striking “with (1) the Administrator,” and all that follows through “, or” and inserting “(1) with the Administrator and”.
+- **(b)** *Charter filing* Section 9(e) of the Federal Advisory Committee Act (5 U.S.C. App.), as redesignated by section 2, is amended—
+  - **(1)** by striking “with (1) the Administrator,” and all that follows through “, or” and inserting “(1) with the Administrator and”;
+  - **(2)** by striking “and” at the end of subparagraph (I);
+  - **(3)** by striking the period and inserting a semicolon at the end of subparagraph (J); and
+  - **(4)** by adding at the end the following new subparagraphs:
+    > - **(K)** the authority under which the committee is established;
+    > - **(L)** the estimated number of members and a description of the expertise needed to carry out the objectives of the committee;
+    > - **(M)** a description of whether the committee will be composed of special government employees, representatives, or members from both categories; and
+    > - **(N)** whether the committee has the authority to create subcommittees and if so, the individual authorized to exercise such authority.
 
 ## § 5. Comptroller General review and reports
 
@@ -92,12 +103,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** The second report shall be submitted not later than five years after such date of promulgation of regulations.
 - **(c)** *Committees* The committees described in this subsection are the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
-## § 6. Definition
+## § 6. Definitions
 
-Section 3 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following new paragraph:
+Section 3 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following new paragraphs:
 
-> - **(5)** The term “special Government employee” has the same meaning as in section 202(a) of title 18, United States Code.
+> - **(5)** The term representative means an individual who is not a full-time or part-time employee of the Federal Government and who is appointed to an advisory committee to represent the views of an entity or entities outside the Federal Government.
+> - **(6)** The term special Government employee has the same meaning as in section 202(a) of title 18, United States Code.
 
 ## § 7. Effective date
 
-This Act shall take effect 30 days after the date of the enactment of this Act, except as otherwise provided in section 2(c).
+This Act shall take effect 30 days after the date of the enactment of this Act, except as otherwise provided in section 2(c)(1).

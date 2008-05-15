@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5687
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5687
@@ -29,3 +29,8 @@ Federal Advisory Committee Act Amendments of 2008
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-04-09 — Committee Consideration and Mark-up Session Held.
+- 2008-04-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-05-15 — Placed on the Union Calendar, Calendar No. 411.
+- 2008-05-15 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-650.
+- 2008-05-15 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-650.
