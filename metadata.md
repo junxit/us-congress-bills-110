@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6022
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6022
@@ -103,3 +103,7 @@ Strategic Petroleum Reserve Fill Suspension and Consumer Protection Act of 2008
 - 2008-05-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 25 (Roll no. 307). (text: CR H3702)
 - 2008-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 385 - 25 (Roll no. 307).(text: CR H3702)
 - 2008-05-13 — Referred to the Subcommittee on Energy and Air Quality.
+- 2008-05-14 — Cleared for White House.
+- 2008-05-14 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S4202)
+- 2008-05-14 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S4202)
+- 2008-05-15 — Message on Senate action sent to the House.
