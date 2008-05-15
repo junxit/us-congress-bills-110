@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4841
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -54,8 +54,8 @@ In this Act:
 
 ## § 5. Authorization of appropriations
 
-- **(a)** *Restoration fund* There is authorized to be appropriated to the San Jacinto Basin Restoration Fund established in section 6 of this Act the amount of $5,000,000 for each of fiscal years 2009 and 2010 to pay or reimburse the costs associated with constructing, operating, and maintaining the portion of the basin recharge project that the United States is responsible for under the Settlement Agreement. These costs are described in section 4.5 of the Settlement Agreement and are necessary to accommodate deliveries of the supplemental imported water under section 4.4 of the Settlement Agreement.
-- **(b)** *Development fund* There is authorized to be appropriated to the Soboba Band of Luiseño Indians Water Development Fund established in section 7 of this Act the amount of $5,500,000 for each of fiscal years 2009 and 2010 to pay or reimburse costs associated with constructing, operating, and maintaining water and sewage infrastructure, and other water-related development projects.
+- **(a)** *Restoration fund* There is authorized to be appropriated to the San Jacinto Basin Restoration Fund established in section 6 of this Act the amount of $5,000,000 for each of fiscal years 2010 and 2011 to pay or reimburse the costs associated with constructing, operating, and maintaining the portion of the basin recharge project that the United States is responsible for under the Settlement Agreement. These costs are described in section 4.5 of the Settlement Agreement and are necessary to accommodate deliveries of the supplemental imported water under section 4.4 of the Settlement Agreement.
+- **(b)** *Development fund* There is authorized to be appropriated to the Soboba Band of Luiseño Indians Water Development Fund established in section 7 of this Act the amount of $5,500,000 for each of fiscal years 2010 and 2011 to pay or reimburse costs associated with constructing, operating, and maintaining water and sewage infrastructure, and other water-related development projects.
 - **(c)** *Limitation* No funding of any construction, operation, maintenance, or replacement other than those funds authorized under subsections (a) and (b) shall be the responsibility of the Federal Government under the Settlement Agreement or this Act.
 
 ## § 6. Restoration fund
@@ -74,7 +74,7 @@ In this Act:
 
 ## § 7. Development fund
 
-- **(a)** *Establishment* There shall be established within the Treasury of the United States an interest bearing account to be known as the “Soboba Band of Luiseño Indians Water Development Fund”, to be managed and invested by the Secretary, consisting of the amounts authorized to be appropriated in section 5(b).
+- **(a)** *Establishment* There shall be established within the Treasury of the United States a fund to be known as the “Soboba Band of Luiseño Indians Water Development Fund”, to be managed and invested by the Secretary consisting of the amounts authorized to be appropriated in section 5(b).
 - **(b)** *Management* The Secretary shall manage the Development Fund, make investments, and make monies available for distribution consistent with the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4001 et seq.) (referred to in this section as the “Trust Fund Reform Act”), this Act, and the Settlement Agreement.
 - **(c)** *Investment* The Secretary shall invest amounts in the Development Fund in accordance with—
   - **(1)** the Act of April 1, 1880 (21 Stat. 70, ch. 41, 25 U.S.C. 161);
