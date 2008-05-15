@@ -50,7 +50,7 @@ The Congress finds as follows:
 ## § 5. Issuance of coins
 
 - **(a)** *Quality of Coins* Coins minted under this Act shall be issued in uncirculated and proof qualities.
-- **(b)** *Mint Facility* Only one facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
+- **(b)** *Mint Facility* Only 1 facility of the United States Mint may be used to strike any particular quality of the coins minted under this Act.
 - **(c)** *Period for Issuance* The Secretary may issue coins under this Act only on or after February 8, 2010, and before January 1, 2011.
 
 ## § 6. Sale of coins
@@ -69,3 +69,4 @@ The Congress finds as follows:
 - **(a)** *In General* All sales of coins issued under this Act shall include a surcharge of $10 per coin.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid to the National Boy Scouts of America Foundation, which funds will be made available to local councils in the form of grants for the extension of Scouting in hard to serve areas.
 - **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the National Boy Scouts of America Foundation as may be related to the expenditures of amounts paid under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
