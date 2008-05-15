@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2894
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -65,5 +65,6 @@ The Congress finds as follows:
 ## § 7. Surcharges
 
 - **(a)** *In General* All sales of coins issued under this Act shall include a surcharge of $10 per coin.
-- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid to the Star-Spangled Banner and War of 1812 Bicentennial Commission for the purpose of supporting bicentennial activities (including providing coordination, advice, and assistance to Federal agencies, States, localities, and other organizations for such activities), educational outreach activities (including supporting scholarly research and the development of exhibits), and preservation and improvement activities relating to the sites and structures relating to the War of 1812.
-- **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the Star-Spangled Banner and War of 1812 Bicentennial Commission as may be related to the expenditures of amounts paid under subsection (b).
+- **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid to the Maryland War of 1812 Bicentennial Commission for the purpose of supporting bicentennial activities in collaboration with and aiding the Star-Spangled Banner and War of 1812 Bicentennial Commission as it provides coordination, advice, and assistance to Federal agencies, States, localities, and other organizations for such bicentennial activities, educational outreach activities (including supporting scholarly research and the development of exhibits), and preservation and improvement activities relating to the sites and structures relating to the War of 1812.
+- **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the Maryland War of 1812 Bicentennial Commission as may be related to the expenditures of amounts paid under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
