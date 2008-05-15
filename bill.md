@@ -1,17 +1,17 @@
 ---
 legis-num: H.R. 406
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 406
 
-> To posthumously award a Congressional gold medal to Alice Paul in recognition of her role in the women’s suffrage movement and in advancing equal rights for women.
+> To award a congressional gold medal in recognition of Alice Paul’s role in the women’s suffrage movement and in advancing equal rights for women.
 
 ## § 1. Short title
 
-This Act may be cited as the “Alice Paul Congressional Gold Medal Act”.
+This Act may be cited as the “Alice Paul Women’s Suffrage Congressional Gold Medal Act”.
 
 ## § 2. Findings
 
@@ -31,10 +31,11 @@ The Congress finds as follows:
 - **(12)** Few people have played a greater role in shaping the history of the United States than Alice Paul.
 - **(13)** Alice Paul is an example to all Americans of what one person can do to make a difference for millions of people.
 
-## § 3. Congressional Gold Medal
+## § 3. Congressional gold medal
 
-- **(a)** *Presentation authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the posthumous presentation, on behalf of the Congress, of a gold medal of appropriate design in commemoration of Alice Paul, in recognition of her role in the women’s suffrage movement and in advancing equal rights for women.
-- **(b)** *Design and striking* For purposes of the presentation referred to in subsection (a), the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall strike a gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
+- **(a)** *Presentation authorized* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the presentation, on behalf of the Congress, of a gold medal of appropriate design in commemoration of Alice Paul, in recognition of her role in the women’s suffrage movement and in advancing equal rights for women.
+- **(b)** *Presentation and display* The medal referred to in subsection (a) shall be presented jointly to representatives of the Alice Paul Institute and the Sewall-Belmont House, to be shared equally and displayed as appropriate.
+- **(c)** *Design and striking* For purposes of the presentation referred to in subsection (a), the Secretary of the Treasury (hereafter in this Act referred to as the “Secretary”) shall strike a gold medal with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
 
 ## § 4. Duplicate medals
 
