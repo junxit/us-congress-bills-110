@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5614
 
-> To authorize the production of Saint-Gaudens Double Eagle ultra-high relief bullion coins in palladium to provide affordable opportunities for investments in precious metals, and for other purposes.
+> To authorize the production in palladium of Saint-Gaudens Double Eagle coins as ultra-high relief numismatic coins and bullion investment coins in order to provide affordable opportunities for investments in precious metals, and for other purposes.
 
 ## § 1. Short Title
 
-This Act shall be known as the “Original Saint-Gaudens Double Eagle Ultra-High Relief Bullion Coin Act” .
+This Act shall be known as the “Original Saint-Gaudens Double Eagle Ultra-High Relief Palladium Bullion Coin Act” .
 
 ## § 2. Findings
 
@@ -49,46 +49,61 @@ The Congress finds that—
 Section 5112 of title 31, United States Code, is amended—
 
 - **(1)** in subsection (a), by adding at the end the following new paragraph:
-  > - **(11)** A $20 coin that—
+  > - **(12)** A $20 coin that—
   >   - **(A)** is 27 millimeters in diameter;
   >   - **(B)** weighs 1 ounce;
   >   - **(C)** is of an appropriate thickness, as determined by the Secretary; and
-  >   - **(D)** bears, on the obverse and reverse, the designs of the famous 27-millimeter version of the 1907 Augustus Saint-Gaudens Double Eagle ultra-high relief gold piece, as described in subsection (t).
+  >   - **(D)** bears, on the obverse and reverse, the designs of the famous 27-millimeter version of the 1907 Augustus Saint-Gaudens Double Eagle gold piece, as described in subsection (t).
 
 - **(2)** by adding at the end, the following new subsection:
-  > - **(t)** *Original Saint-Gaudens double eagle ultra-high relief coins*
-  >   - **(1)** *In General* Beginning January 1, 2009, the Secretary shall commence minting and issuing for sale such number of $20 bullion coins as the Secretary may determine to be appropriate, that bear the design described in paragraph (2).
-  >   - **(2)** *Design*
-  >     - **(A)** *In general* Except as provided under subparagraph (B), the obverse and reverse of the coins minted and issued under this subsection shall bear the original obverse and reverse designs by Augustus Saint-Gaudens which appear on the famous 27-millimeter version of the 1907 Double Eagle ultra-high relief gold piece.
+  > - **(t)** *Original Saint-Gaudens double eagle ultra-high relief numismatic coins and bullion investment coins*
+  >   - **(1)** *In general* Beginning January 1, 2009, the Secretary shall commence minting and issuing for sale—
+  >     - **(A)** such number of $20 bullion investment coins as the Secretary may determine to be appropriate, that bear the design described in paragraph (2); and
+  >     - **(B)** not more than 15,000 of the numismatic $20 coins that bear the design and meet the requirements of paragraph (3).
+  >   - **(2)** *Design and requirements for bullion investment coins*
+  >     - **(A)** *In general* Except as provided under subparagraph (B), the obverse and reverse of the coins minted and issued pursuant to paragraph (1)(A) shall bear a close approximation of the original obverse and reverse designs by Augustus Saint-Gaudens which appear on the famous 27-millimeter version of the 1907 Double Eagle ultra-high relief gold piece.
   >     - **(B)** *Variations* The coins referred to in subparagraph (A) shall—
-  >       - **(i)** have inscriptions of the weight of the coin and the purity of the alloy in the coin incused on the edge of the coin;
-  >       - **(ii)** the nominal denomination of the coin;
-  >       - **(iii)** the date of issue of the coin on the obverse, expressed as a Roman numeral as in the original design; and
+  >       - **(i)** have inscriptions of the weight of the coin and the purity of the alloy in the coin raised on the edge of the coin;
+  >       - **(ii)** bear the nominal denomination of the coin;
+  >       - **(iii)** bear the date of issue of the coin on the obverse, expressed as a Roman numeral as in the original design; and
   >       - **(iv)** bear such other inscriptions, including “In God We Trust”, as the Secretary determines to be appropriate and in keeping with the original design.
-  >     - **(C)** *Fractional coins prohibited* No coins issued under this subsection, regardless of the composition, shall ever be made available as so-called “fractional” coins.
-  >   - **(3)** *Composition*
-  >     - **(A)** *In general* The coins minted under this subsection shall contain .995 pure palladium, except that during the first year of minting and issuance only, the Secretary instead may choose to mint and issue the coin in .999 pure gold.
-  >     - **(B)** *1-year limitation* If the Secretary chooses to mint and issue the coins described in this subsection in gold during the first year of issue, no coins shall be minted and issued under this subsection in palladium during that year, and such gold coins shall be issued only in proof versions.
-  >   - **(4)** *Source of bullion*
-  >     - **(A)** *In general* The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
-  >     - **(B)** *Price of bullion* The Secretary shall pay not more than the average world price for the palladium under subparagraph (A).
-  >   - **(5)** *Sale of coins* Each bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
+  >     - **(C)** *Mint facility* Any facility of the United States Mint may be used to strike coins minted pursuant to paragraph (1)(A) other than the United States mint at West Point, New York.
+  >   - **(3)** *Design and requirements for ultra-high relief numismatic coins*
+  >     - **(A)** *In general* Subject to subparagraph (B), the obverse and reverse of the coins minted and issued pursuant to paragraph (1)(B) shall bear exact replicas of the original obverse and reverse designs by Augustus Saint-Gaudens which appear on the famous 27-millimeter version of the 1907 Double Eagle ultra-high relief gold piece and the edge of the coin shall have all appropriate raised lettering in the same manner as the original coin.
+  >     - **(B)** *Variations* The coins referred to in subparagraph (A) shall—
+  >       - **(i)** bear a single finish that most closely approximate the finish of the original gold 1907 ultra-high relief gold piece as is practicable;
+  >       - **(ii)** bear the nominal denomination of the coin;
+  >       - **(iii)** bear the date of issue of the coin on the obverse, expressed as a Roman numeral as in the original design; and
+  >       - **(iv)** bear such other inscriptions, including “In God We Trust”, as the Secretary determines to be appropriate and in keeping with the original design.
+  >     - **(C)** *Mint facility* Coins minted pursuant to paragraph (1)(B) may only be struck at the United States mint at West Point, New York.
+  >     - **(D)** *Fractional coins prohibited* No coins issued pursuant to paragraph (1)(B), shall be made available as so-called “fractional” coins.
+  >   - **(4)** *Distribution in sets and other coordination requirements* If the Secretary chooses, in accordance with subsection (i), to mint and issue a gold bullion coin that bears the same design as the ultra-high relief numismatic coins described in paragraph (1)(B)—
+  >     - **(A)** each palladium coin issued under paragraph (1)(B) may only be issued in a set containing 1 of each such coins;
+  >     - **(B)** each set of coins described in subparagraph (A) shall be provided in a presentation case of appropriate design;
+  >     - **(C)** the set described in subparagraph (A) may only be issued and sold in 2009;
+  >     - **(D)** gold coins issued in any set described in subparagraph (A) may only be struck at the United States mint at West Point, New York and no other gold coin issued by the Secretary that bears the same design as the ultra-high relief numismatic coins described in paragraph (1)(B) may be struck at such mint at West Point; and
+  >     - **(E)** no gold coin that bears the same design as the ultra-high relief numismatic coins described in paragraph (1)(B) shall be made available as so-called “fractional” coins.
+  >   - **(5)** *Composition*
+  >     - **(A)** *In general* The coins minted under this subsection shall contain .995 pure palladium.
+  >     - **(B)** *Source of bullion*
+  >       - **(i)** *In general* The Secretary shall acquire bullion for the palladium coins issued under this subsection by purchase of palladium mined from natural deposits in the United States, or in a territory or possession of the United States, within 1 year after the month in which the ore from which it is derived was mined.
+  >       - **(ii)** *Price of bullion* The Secretary shall pay not more than the average world price for the palladium under subparagraph (A).
+  >   - **(6)** *Sale of coins* Each coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
   >     - **(A)** the nominal denomination of the coin;
   >     - **(B)** the market value of the bullion at the time of sale; and
   >     - **(C)** the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, distribution, and shipping.
-  >   - **(6)** *Legal Tender* The coins minted under this title shall be legal tender, as provided in section 5103.
-  >   - **(7)** *Treatment as Numismatic items* For purposes of section 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
-  >   - **(8)** *Quality* Except as provided in subparagraph (3)(B), the Secretary may issue the coins described in this subsection in both proof and uncirculated versions.
-  >   - **(9)** *Special treatment* If the Secretary elects to mint and issue coins in 2009 in gold as described in subparagraph (3)(A), no more than 25,000 shall be available for sale in a special “Golden Age of American Coinage” set, including a special holder, each in combination only with a proof version of the gold coins described in subsection (q).
+  >   - **(7)** *Legal Tender* The coins minted under this title shall be legal tender, as provided in section 5103.
+  >   - **(8)** *Treatment as Numismatic items* For purposes of section 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+  >   - **(9)** *Quality* The Secretary may issue the coins described in paragraph (1)(A) in both proof and uncirculated versions.
   >   - **(10)** *Protective and anti-counterfeiting cover*
-  >     - **(A)** *In general* The Secretary shall give strong consideration to making the coins described in this subsection, regardless of metallic content, available only in protective covers that preserve the coins in the condition in which they are issued, allow clear and easy viewing of the obverse and reverse of the coin and protect it from movement within the holder, and also protect against counterfeiting of such coins or of the container.
-  >     - **(B)** *Acquisition* The Secretary may elect to comply with paragraph (A) by producing and assembling such protective covers within the United States Mint or by contracting for the installation of such covers.
+  >     - **(A)** *In general* The Secretary shall give strong consideration to making the coins described in this subsection available only in protective covers that preserve the coins in the condition in which they are issued, allow clear and easy viewing of the obverse, reverse, and sides of the coin and protect it from movement within the holder, and also protect against counterfeiting of such coins or of the container.
+  >     - **(B)** *Acquisition* The Secretary may elect to comply with subparagraph (A) by producing and assembling such protective covers within the United States Mint or by contracting for the installation of such covers.
   >   - **(11)** *Further anti-counterfeiting measures*
-  >     - **(A)** *Report required* In an attempt to forestall the counterfeiting or marketing of the coins described in this section, including this subsection, and of collectible, numismatic and rare coins in general, the Treasury Inspector General shall, after consulting with the Director of the United States Secret Service and the Federal Trade Commission, and in consultation with hobbyists, numismatists, law enforcement agencies, and the Citizens Coinage Advisory Committee, shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, before the end of the 9-month period beginning on the date of the enactment of the Original Saint-Gaudens Double Eagle Ultra-High Relief Bullion Coin Act, a report detailing the extent of counterfeiting of rare, collectible or numismatic coins made available for sale in the United States, regardless of the country where the original of such coin was produced or of the country in which the counterfeiting takes place, or sales overseas if such counterfeit coins are unauthorized copies of coins originally produced by the United States Mint.
+  >     - **(A)** *Report required* In an attempt to forestall the counterfeiting or marketing of the coins described in this section, including this subsection, and of collectible, numismatic and rare coins in general, the Comptroller General shall, after consulting with the Director of the United States Secret Service and the Federal Trade Commission, and in consultation with hobbyists, numismatists, law enforcement agencies, and the Citizens Coinage Advisory Committee, shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, before the end of the 9-month period beginning on the date of the enactment of the Original Saint-Gaudens Double Eagle Ultra-High Relief Bullion Coin Act, a report detailing the extent of counterfeiting of rare, collectible or numismatic coins made available for sale in the United States, regardless of the country where the original of such coin was produced or of the country in which the counterfeiting takes place, or sales overseas if such counterfeit coins are unauthorized copies of coins originally produced by the United States Mint.
   >     - **(B)** *Contents of report* The report submitted under subparagraph (A) shall describe the following:
   >       - **(i)** The extent of such counterfeiting of coins and numismatic items.
   >       - **(ii)** The source of such counterfeiting, if known, including which countries may be the origin of such counterfeits if they are produced outside the United States.
   >       - **(iii)** The distribution and marketing channels for such counterfeits within and without the United States.
   >       - **(iv)** The effect of any such counterfeiting on hobbyists, numismatists and on the investment opportunities for bullion or numismatic coins produced by the United States Mint.
   >       - **(v)** Whether such counterfeiting extends to the counterfeiting of coin-grading or protective materials in such a way that might imply that the counterfeit inside had been examined and authenticated by a reputable coin-grading firm.
-  >       - **(vi)** Such recommendations for legislative or administrative action as the Treasury Inspector General may determine to be appropriate to curtail or forestall any such counterfeiting.
+  >       - **(vi)** Such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate to curtail or forestall any such counterfeiting.
