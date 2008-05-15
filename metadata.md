@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 28
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 28
@@ -59,3 +59,5 @@ A joint resolution disapproving the rule submitted by the Federal Communications
 - 2008-05-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment. With written report No. 110-334.
 - 2008-05-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Inouye without amendment. With written report No. 110-334.
 - 2008-05-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 731.
+- 2008-05-15 — Passed Senate without amendment by Voice Vote. (consideration: CR S4267-4270; text as passed Senate: CR S4270)
+- 2008-05-15 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.(consideration: CR S4267-4270; text as passed Senate: CR S4270)
