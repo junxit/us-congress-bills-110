@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6051
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6051
@@ -35,3 +35,6 @@ To amend Public Law 110-196 to provide for a temporary extension of programs aut
 - 2008-05-14 — Referred to the Committee on Agriculture, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-05-14 — Referred to the Committee on Agriculture, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-05-14 — Referred to the Committee on Agriculture, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-05-15 — Message on Senate action sent to the House.
+- 2008-05-15 — Presented to President.
+- 2008-05-15 — Presented to President.
