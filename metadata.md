@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5834
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5834
@@ -46,3 +46,7 @@ North Korean Human Rights Reauthorization Act of 2008
 - 2008-05-13 — Placed on the Union Calendar, Calendar No. 392.
 - 2008-05-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-628.
 - 2008-05-13 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-628.
+- 2008-05-15 — Considered as unfinished business. (consideration: CR H4047)
+- 2008-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/13/2008 H3747-3748)
+- 2008-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/13/2008 H3747-3748)
