@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5856
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5856
@@ -26,3 +26,10 @@ Department of Veterans Affairs Medical Facility Authorization and Lease Act of 2
 - 2008-04-22 — Introduced in House
 - 2008-04-22 — Referred to the House Committee on Veterans' Affairs.
 - 2008-04-22 — Referred to the Subcommittee on Health.
+- 2008-04-23 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2008-04-23 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-04-30 — Committee Consideration and Mark-up Session Held.
+- 2008-04-30 — Ordered to be Reported by Voice Vote.
+- 2008-05-15 — Placed on the Union Calendar, Calendar No. 409.
+- 2008-05-15 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-648.
+- 2008-05-15 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-648.
