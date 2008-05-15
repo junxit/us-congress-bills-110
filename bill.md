@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Substance Use Disorders Prevention and Treatment Act of 2008”.
+This Act may be cited as the “Justin Bailey Veterans Substance Use Disorders Prevention and Treatment Act of 2008”.
 
 ## § 2. Expansion of Veterans Substance use Disorder Programs
 
@@ -19,13 +19,13 @@ Subsection (d) of section 1720A of title 38, United States Code, is amended by a
 
 > - **(3)**
 >   - **(A)** Each plan under paragraph (1) shall ensure that the medical center provides ready access to a full continuum of care for substance use disorders for veterans in need of such care.
->   - **(B)** In this paragraph, the term “full continuum of care” means, with respect to a substance use disorder, all of the following care, treatment, and services:
+>   - **(B)** In this paragraph, the term “full continuum of care” includes all of the following care, treatment, and services:
 >     - **(i)** Screening for substance use disorder in all settings, including primary care settings.
 >     - **(ii)** Detoxification and stabilization services.
 >     - **(iii)** Intensive outpatient care services.
 >     - **(iv)** Relapse prevention services.
 >     - **(v)** Outpatient counseling services.
->     - **(vi)** Residential substance use disorder treatment in the case of veterans with severe recurring substance abuse or substance dependence.
+>     - **(vi)** Residential substance use disorder treatment.
 >     - **(vii)** Pharmacological treatment to reduce cravings, and opioid substitution therapy referred to in paragraph (2).
 >     - **(viii)** Coordination with groups providing peer to peer counseling.
 >     - **(ix)** Short-term, early interventions for substance use disorders, such as motivational counseling, that are readily available and provided in a manner to overcome stigma associated with the provision of such interventions and related care.
@@ -59,7 +59,7 @@ Subsection (d) of section 1720A of title 38, United States Code, is amended by a
   - **(4)** Younger veterans, especially those who served in Operation Enduring Freedom or Operation Iraqi Freedom, are comfortable with and proficient at computer-based technology.
   - **(5)** Veterans living in rural areas find access to treatment for substance use disorder limited.
   - **(6)** Self-assessment and treatment options for substance use disorders through an Internet website may reduce stigma and provides additional access for individuals seeking care and treatment for such disorders.
-- **(b)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall carry out a pilot program to test the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program is available on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
+- **(b)** *In general* Not later than October 1, 2009, the Secretary of Veterans Affairs shall initiate a pilot program to test the feasibility and advisability of providing veterans who seek treatment for substance use disorders access to a computer-based self-assessment, education, and specified treatment program through a secure Internet website operated by the Secretary. Participation in the pilot program is available on a voluntary basis for those veterans who have served in Operation Enduring Freedom or Operation Iraqi Freedom.
 - **(c)** *Elements of Pilot Program*
   - **(1)** *In general* In designing and carrying out the pilot program under this section, the Secretary of Veterans Affairs shall ensure that—
     - **(A)** access to the Internet website and the programs available on the website by a veteran (or family member) does not involuntarily generate an identifiable medical record of that access by that veteran in any medical database maintained by the Department;
@@ -69,5 +69,22 @@ Subsection (d) of section 1720A of title 38, United States Code, is amended by a
   - **(3)** *Location of pilot program* The Secretary shall carry out the pilot program through those medical centers of the Department of Veterans Affairs that have established Centers for Excellence for Substance Abuse Treatment and Education or that have established a Substance Abuse Program Evaluation and Research Center.
   - **(4)** *Contract authority* The Secretary of Veterans Affairs may enter into contracts with qualified entities or organizations to carry out the pilot program required under this section.
 - **(d)** *Duration of pilot program* The pilot program required by subsection (a) shall be carried out during the two-year period beginning on the date of the commencement of the pilot program.
-- **(e)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Veterans Affairs $1,500,000 for each of fiscal years 2009 and 2010 to carry out the pilot program under this section.
+- **(e)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary of Veterans Affairs $1,500,000 for each of fiscal years 2010 and 2011 to carry out the pilot program under this section.
 - **(f)** *Report* Not later than six months after the completion of the pilot program, the Secretary shall submit to Congress a report on the pilot program, and shall include in that report an assessment of the feasibility and advisability of the pilot program, of any cost savings or other benefits associated with the pilot program, and recommendations for the continuation or expansion of the pilot program.
+
+## § 5. Report on residential mental health care facilities of the Veterans Health Administration
+
+- **(a)** *Review and report* Not later than six months after the date of the enactment of this Act, the Secretary of Veterans Affairs, acting through the Office of the Medical Inspector of the Department of Veterans Affairs, shall—
+  - **(1)** conduct a review of all residential mental health care facilities, including domiciliary facilities, of the Veterans Health Administration; and
+  - **(2)** submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the review conducted under paragraph (1).
+- **(b)** *Elements of report* The report required by subsection (a)(2) shall include the following:
+  - **(1)** A description of the availability of care in residential mental health care facilities in each Veterans Integrated Service Network (VISN).
+  - **(2)** An assessment of the supervision and support provided in the residential mental health care facilities of the Veterans Health Administration.
+  - **(3)** The ratio of staff members at each residential mental health care facility to patients at such facility.
+  - **(4)** An assessment of the appropriateness of rules and procedures for the prescription and administration of medications to patients in such residential mental health care facilities.
+  - **(5)** A description of the protocols at each residential mental health care facility for handling missed appointments.
+  - **(6)** Any recommendations the Secretary considers appropriate for improvements to such residential mental health care facilities and the care provided in such facilities.
+
+## § 6. Tribute to Justin Bailey
+
+This Act is enacted in tribute to Justin Bailey, who, after returning to the United States from service as a member of the Armed Forces in Operation Iraqi Freedom, died in a domiciliary facility of the Department of Veterans Affairs while receiving care for post-traumatic stress disorder and a substance use disorder.
