@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5803
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5803
@@ -25,3 +25,8 @@ To direct the Election Assistance Commission to establish a program to make gran
 - 2008-04-15 — Introduced in House
 - 2008-04-15 — Introduced in House
 - 2008-04-15 — Referred to the House Committee on House Administration.
+- 2008-05-07 — Committee Consideration and Mark-up Session Held.
+- 2008-05-07 — Ordered to be Reported (Amended) by the Yeas and Nays: 5 - 3.
+- 2008-05-15 — Placed on the Union Calendar, Calendar No. 398.
+- 2008-05-15 — Reported by the Committee on House Administration. H. Rept. 110-637.
+- 2008-05-15 — Reported by the Committee on House Administration. H. Rept. 110-637.
