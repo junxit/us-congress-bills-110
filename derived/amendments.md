@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3819
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -53,4 +53,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `38 U.S.C. § 1725` | replace | in subsection (f)(1), by striking subparagraph (C) and inserting the following new subparagraph (C): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1725` | replace | by striking subsection (a) and inserting the following new subsection (a): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1725` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1725` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
