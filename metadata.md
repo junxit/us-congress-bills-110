@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5916
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5916
@@ -37,3 +37,11 @@ Security Assistance and Arms Export Control Reform Act of 2008
 - 2008-05-12 — Placed on the Union Calendar, Calendar No. 391.
 - 2008-05-12 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-626.
 - 2008-05-12 — Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 110-626.
+- 2008-05-13 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Simpson objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-13 — Considered under suspension of the rules. (consideration: CR H3735-3747)
+- 2008-05-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5916.
+- 2008-05-13 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
+- 2008-05-15 — Considered as unfinished business. (consideration: CR H4047)
+- 2008-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/13/2008 H3735-3743)
+- 2008-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/13/2008 H3735-3743)

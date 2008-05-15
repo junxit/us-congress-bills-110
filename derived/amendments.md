@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5916
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-42 amendatory instructions. 11 executed, 31 stated and not applied.
+35 amendatory instructions. 11 executed, 24 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -134,11 +134,11 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `22 U.S.C. § 2717` | amend | by amending the second sentence to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2717` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2717` | amend | Section 38(b)(3)(A) of the Arms Export Control Act (22 U.S.C. 2778(b)(3)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 38 of the Arms Export Control Act (22 U.S.C. 2778) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2778` | amend | Section 38(b)(3)(A) of the Arms Export Control Act (22 U.S.C. 2778(b)(3)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2778` | add-at-end | Section 38 of the Arms Export Control Act (22 U.S.C. 2778) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2771` | insert | Chapter 3 of the Arms Export Control Act (22 U.S.C. 2771 et seq.) is amended by inserting after section 38 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2751` | insert | in sections 3(d)(2)(B), 3(d)(3)(A)(i), 3(d)(5), 21(e)(2)(A), 36(b)(2), 36(c)(2)(A), 36(d)(2)(A), 62(c)(1), and 63(a)(2) by inserting “the Republic of Korea, Israel,” before “or New Zealand”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2751` | insert | in section 3(b)(2) by inserting “the Government of the Republic of Korea,” before “or the Government of New Zealand”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 2751` | insert | in section 3(b)(2), by inserting “the Government of the Republic of Korea,” before “or the Government of New Zealand”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2751` | insert | in section 21(h)(1)(A), by inserting “the Republic of Korea,” before “or Israel”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2776` | redesignate | by redesignating paragraphs (2) through (6) as paragraphs (3) through (7), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2776` | replace | by striking “The letter of offer shall not be issued” and all that follows through “enacts a joint resolution” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -156,10 +156,3 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2795` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2795` | insert | in paragraph (3), by inserting “and” at the end; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2795` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2795` | amend | Subsection (c)(2) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate” each place it appears and inserting “Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Rel… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate” and “Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate”… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations” each place it appears and inserting “Chairman of the Committee on Foreign Affairs of the House of Representatives and to the … | the bill names no machine-readable US Code section |
-| — | replace | by striking “Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate” each place it appears and inserting “Committees on Foreign Affairs and Armed Services of the House of Represen… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Speaker of the House of Representatives, the chairman of the Committee on Foreign Relations of the Senate, and the chairman of the Committee on Armed Services of the Senate” each place it appears and inserting “Chairmen of t… | the bill names no machine-readable US Code section |
-| — | replace | by striking “Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations” each place it appears and inserting “Chairman of the Committee on Foreign Affairs of the House of Representatives and to the… | the bill names no machine-readable US Code section |
