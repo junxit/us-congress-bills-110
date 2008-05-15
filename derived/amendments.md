@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5664
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 38 U.S.C. § 2103
+
+> by striking “The Secretary” and inserting “(a) Plans and specifications.—The Secretary”; and
+
+| | |
+|---|---|
+| Removed | `The Secretary` |
+| Inserted | `(a) Plans and specifications.—The Secretary` |
 
 ## Stated, not applied
 
@@ -32,3 +43,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 2103 of title 38, United States Code, is amended by adding at the end the following new sentence: “The Secretary shall update such plans and specifications at least once every six years.”. | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 2103` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
