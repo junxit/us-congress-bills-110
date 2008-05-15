@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1197
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1197
@@ -27,3 +27,9 @@ Providing for consideration of the Senate amendment to the bill (H.R. 2642) maki
 - 2008-05-14 — The House Committee on Rules reported an original measure, H. Rept. 110-636, by Ms. Slaughter.
 - 2008-05-14 — The House Committee on Rules reported an original measure, H. Rept. 110-636, by Ms. Slaughter.
 - 2008-05-14 — The resolution provides for consideration of a motion that the House concur in the Senate amendment to H.R. 2642 with each of the three amendments printed in the report. The motion shall be debatable for two hours equally divided and controlled by the Chairman and ranking minority member of the Committee on Appropriations.
+- 2008-05-15 — Considered as privileged matter. (consideration: CR H3891-3903)
+- 2008-05-15 — DEBATE - The House proceeded with one hour of debate on H. Res. 1197.
+- 2008-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-15 — On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 200 (Roll no. 324). (text: CR H3891)
+- 2008-05-15 — On ordering the previous question Agreed to by the Yeas and Nays: 224 - 195 (Roll no. 323). (consideration: CR H3902)
+- 2008-05-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 221 - 200 (Roll no. 324).(text: CR H3891)
