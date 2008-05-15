@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5787
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5787
@@ -16,9 +16,18 @@ Federal Real Property Disposal Enhancement Act of 2008
 
 - Rep. Moore, Dennis [D-KS-3] (M001140)
 
-## Cosponsors (1)
+## Cosponsors (10)
 
 - Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Burton, Dan [R-IN-5] (B001149)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Tanner, John S. [D-TN-8] (T000038)
 
 ## Committees (1)
 
@@ -29,3 +38,10 @@ Federal Real Property Disposal Enhancement Act of 2008
 - 2008-04-14 — Introduced in House
 - 2008-04-14 — Introduced in House
 - 2008-04-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-04-15 — Referred to the Subcommittee on Government Management, Organization, and Procurement.
+- 2008-05-01 — Committee Consideration and Mark-up Session Held.
+- 2008-05-01 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-05-01 — Subcommittee on Government Management, Organization, and Procurement Discharged.
+- 2008-05-15 — Placed on the Union Calendar, Calendar No. 412.
+- 2008-05-15 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-651.
+- 2008-05-15 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-651.
