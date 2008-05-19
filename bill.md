@@ -54,5 +54,5 @@ That the Congress—
     - **(ii)** businesses that expand bicycle-friendly programs for their employees;
     - **(iii)** the health care industry to develop more member discount programs, that target increased physical activity such as bicycling and walking; and
     - **(iv)** provide bicycle commuters the transportation fringe benefits currently provided to people who commute by car or mass transit; and
-  - **(J)** build upon the “Green the Capitol Initiative” as a model, create and provide an environmentally sustainable and healthy working environment for employees that includes the promotion of bicycling as a transportation alternative;
+  - **(J)** build upon the “Green the Capitol Initiative” as a model, create and provide an environmentally sustainable and healthy working environment for employees that includes the promotion of bicycling as a transportation alternative; and
 - **(3)** encourages the Department of Transportation to provide leadership and coordination by reestablishing the Federal bicycle task force to include representatives from all relevant Federal agencies.
