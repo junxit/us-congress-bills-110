@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1142
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1142
@@ -16,7 +16,7 @@ Recognizing May 25, 2008, as National Missing Children's Day.
 
 - Rep. Lampson, Nick [D-TX-22] (L000043)
 
-## Cosponsors (44)
+## Cosponsors (45)
 
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
 - Rep. Hare, Phil [D-IL-17] (H001040)
@@ -62,6 +62,7 @@ Recognizing May 25, 2008, as National Missing Children's Day.
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
 
 ## Committees (1)
 
@@ -72,3 +73,9 @@ Recognizing May 25, 2008, as National Missing Children's Day.
 - 2008-04-23 — Introduced in House
 - 2008-04-23 — Introduced in House
 - 2008-04-23 — Referred to the House Committee on Education and Labor.
+- 2008-05-19 — Considered under suspension of the rules. (consideration: CR H4094-4095)
+- 2008-05-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1142.
+- 2008-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-19 — Mr. Bishop (NY) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-05-19 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4094)
+- 2008-05-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4094)

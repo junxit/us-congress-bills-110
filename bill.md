@@ -2,7 +2,7 @@
 legis-num: H. RES. 1142
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1142
@@ -20,6 +20,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** recognizes National Missing Children’s Day and requests that all Americans join together to plan events in communities across America to raise public awareness about the issue of missing children and the need to address this national problem,
+- **(1)** recognizes National Missing Children’s Day and encourages all Americans to join together to plan events in communities across America to raise public awareness about the issue of missing children and the need to address this national problem,
 - **(2)** recognizes that one of the most important tools for law enforcement to use in the case of a missing child is an up-to-date, good quality photograph and urges all parents and guardians to follow this important precaution, and
 - **(3)** acknowledges that National Missing Children’s Day should remind Americans not to forget the children who are still missing and not to waver in the effort to reunite them with their families.
