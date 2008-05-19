@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1137
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1137
@@ -16,7 +16,7 @@ Supporting the goals and ideals of National Public Works Week, and for other pur
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (24)
+## Cosponsors (30)
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
@@ -42,6 +42,12 @@ Supporting the goals and ideals of National Public Works Week, and for other pur
 - Rep. Boswell, Leonard L. [D-IA-3] (B000652)
 - Rep. Costello, Jerry F. [D-IL-12] (C000794)
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Hayes, Robin [R-NC-8] (H001029)
+- Rep. Shuster, Bill [R-PA-9] (S001154)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
 ## Committees (1)
 
@@ -52,3 +58,25 @@ Supporting the goals and ideals of National Public Works Week, and for other pur
 - 2008-04-23 — Introduced in House
 - 2008-04-23 — Introduced in House
 - 2008-04-23 — Referred to the House Committee on Transportation.
+- 2008-04-24 — Referred to the Subcommittee on Aviation.
+- 2008-04-24 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2008-04-24 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-04-24 — Referred to the Subcommittee on Highways and Transit.
+- 2008-04-24 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2008-04-24 — Referred to the Subcommittee on Water Resources and Environment.
+- 2008-05-07 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2008-05-07 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-15 — Committee Consideration and Mark-up Session Held.
+- 2008-05-15 — Ordered to be Reported by Voice Vote.
+- 2008-05-15 — Subcommittee on Aviation Discharged.
+- 2008-05-15 — Subcommittee on Coast Guard and Maritime Transportation Discharged.
+- 2008-05-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-05-15 — Subcommittee on Highways and Transit Discharged.
+- 2008-05-15 — Subcommittee on Railroads, Pipelines, and Hazardous Materials Discharged.
+- 2008-05-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Petri objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-19 — Considered under suspension of the rules. (consideration: CR H4098-4099)
+- 2008-05-19 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1137.
+- 2008-05-19 — Ms. Hirono moved to suspend the rules and agree to the resolution.
+- 2008-05-19 — Placed on the House Calendar, Calendar No. 220.
+- 2008-05-19 — Reported by the Committee on Transportation. H. Rept. 110-654.
+- 2008-05-19 — Reported by the Committee on Transportation. H. Rept. 110-654.
