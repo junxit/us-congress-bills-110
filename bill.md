@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1464
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Great Cats and Rare Canids Act of 2007.”
+This Act may be cited as the “Great Cats and Rare Canids Act of 2008.”
 
 ## § 2. Findings
 
@@ -37,8 +37,8 @@ The purposes of this Act are to provide financial resources and to foster intern
 
 In this Act:
 
-- **(1)** *CITES* The term “CITES” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249), including its appendices.
-- **(2)** *Conservation* The term “conservation”—
+- **(1)** *CITES* The term CITES“” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249), including its appendices.
+- **(2)** *Conservation* The term conservation—
   - **(A)** means the methods and procedures necessary to bring a species of rare felid or rare canid to the point at which there are sufficient populations in the wild to ensure the long-term viability of the species;
   - **(B)** includes all activities associated with protection and management of a rare felid or rare canid population, including—
     - **(i)** maintenance, management, protection, and restoration of rare felid or rare canid habitat;
@@ -47,20 +47,20 @@ In this Act:
     - **(iv)** community outreach and education;
     - **(v)** conflict resolution initiatives; and
     - **(vi)** strengthening the capacity of local communities, governmental agencies, nongovernmental organizations and other institutions to implement conservation programs.
-- **(3)** *Fund* The term “Fund” means the Great Cats and Rare Canids Conservation Fund established by section 6.
-- **(4)** *IUCN red list* The term “IUCN Red List” means the Red List of Threatened Species Maintained by the World Conservation Union.
-- **(5)** *Rare canid* The term “rare canid”—
+- **(3)** *Fund* The term Fund means the Great Cats and Rare Canids Conservation Fund established by section 6.
+- **(4)** *IUCN red list* The term IUCN Red List means the Red List of Threatened Species Maintained by the World Conservation Union.
+- **(5)** *Rare canid* The term rare canid—
   - **(A)** means any canid species, subspecies, or population that—
     - **(i)** is not native to the area comprised of the United States and Canada; and
     - **(ii)** is included in the IUCN Red List, Appendix I, II, or III of CITES, or any list published under section 4(c) of the Endangered Species Act of 1973 (16 U.S.C. 1532(c)); and
   - **(B)** includes such a subspecies or population of dhole (Cuon alpinus), gray wolf (Canis lupus), Ethiopian wolf (Canis simensis), bush dog (Speothos venaticus), African wild dog (Lycaon pictus), or maned wolf (Chrysocyon brachyurus).
-- **(6)** *Rare felid* The term “rare felid”—
+- **(6)** *Rare felid* The term rare felid—
   - **(A)** subject to subparagraph (C), means any felid species, subspecies, or population that—
     - **(i)** is not native to the area comprised of the United States and Canada; and
     - **(ii)** is included in the IUCN Red List, Appendix I, II, or III of CITES, or any list published under section 4(c) of the Endangered Species Act of 1973 (16 U.S.C. 1532(c));
   - **(B)** includes such a subspecies or population of lion (Panthera leo), leopard (Panthera pardus), jaguar (Panthera onca), snow leopard (Uncia uncia), clouded leopard (Neofelis nebulosa), cheetah (Acinonyx jubatus), or Iberian lynx (Lynx pardina); and
   - **(C)** does not include any tiger (Panthera tigris).
-- **(7)** *Secretary* The term “Secretary” refers to the Secretary of the Interior.
+- **(7)** *Secretary* The term Secretary refers to the Secretary of the Interior.
 
 ## § 5. Financial assistance
 
@@ -143,3 +143,7 @@ In this Act:
 ## § 7. Authorization or appropriations
 
 There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2008 through 2012 to carry out this Act.
+
+## § 8. Ineligible countries
+
+Amounts provided as a grant under this Act may not be spent on projects in Iran, Syria, Cuba, Sudan and North Korea.
