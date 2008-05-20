@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5729
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,23 +32,3 @@ to guess them.
 |---|---|
 | Removed | `such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition` |
 | Inserted | `health care under this section` |
-
-### 38 U.S.C. § 1803
-
-> Section 1803(a) of title 38, United States Code, is amended by striking “such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition” and inserting “health care under this section”.
-
-| | |
-|---|---|
-| Removed | `such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition` |
-| Inserted | `health care under this section` |
-
-## Stated, not applied
-
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
-
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| `38 U.S.C. § 1803` | insert | Section 1803(c)(1)(A) of title 38, United States Code, is amended by inserting “domiciliary care,” after “nursing home care,”. | the bill quotes the text inserted but describes where it goes |
