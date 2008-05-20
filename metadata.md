@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6049
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6049
@@ -45,3 +45,8 @@ Energy Improvement and Extension Act of 2008
 - 2008-05-14 — Introduced in House
 - 2008-05-14 — Introduced in House
 - 2008-05-14 — Referred to the House Committee on Ways and Means.
+- 2008-05-15 — Committee Consideration and Mark-up Session Held.
+- 2008-05-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 25 - 12.
+- 2008-05-20 — Placed on the Union Calendar, Calendar No. 415.
+- 2008-05-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-658.
+- 2008-05-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-658.
