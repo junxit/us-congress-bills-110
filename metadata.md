@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1464
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1464
@@ -130,3 +130,7 @@ Great Cats and Rare Canids Act of 2008
 - 2008-05-19 — Placed on the Union Calendar, Calendar No. 414.
 - 2008-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-657.
 - 2008-05-19 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-657.
+- 2008-05-20 — Considered as unfinished business. (consideration: CR H4280-4281)
+- 2008-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 294 - 119 (Roll No. 335). (text: CR 5/19/2008 H4070-4071)
+- 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 294 - 119 (Roll No. 335).(text: CR 5/19/2008 H4070-4071)
