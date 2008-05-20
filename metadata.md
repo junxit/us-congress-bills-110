@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 354
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 354
@@ -92,3 +92,7 @@ Recognizing the 100th birthday of Lyndon Baines Johnson, 36th President, designe
 - 2008-05-19 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4115-4116)
 - 2008-05-19 — Received in the Senate and referred to the Committee on the Judiciary.
 - 2008-05-19 — Referred to the House Committee on the Judiciary.
+- 2008-05-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-05-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4555)
+- 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4555)
