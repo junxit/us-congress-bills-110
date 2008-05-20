@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1195
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1195
@@ -16,7 +16,7 @@ Expressing condolences and sympathy to the people of the People's Republic of Ch
 
 - Rep. Wu, David [D-OR-1] (W000793)
 
-## Cosponsors (23)
+## Cosponsors (38)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
@@ -41,6 +41,21 @@ Expressing condolences and sympathy to the people of the People's Republic of Ch
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 - Rep. Dreier, David [R-CA-26] (D000492)
 - Rep. Fallin, Mary [R-OK-5] (F000453)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Ackerman, Gary L. [D-NY-5] (A000022)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Inglis, Bob [R-SC-4] (I000023)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 
 ## Committees (1)
 
@@ -53,3 +68,9 @@ Expressing condolences and sympathy to the people of the People's Republic of Ch
 - 2008-05-14 — Introduced in House
 - 2008-05-14 — Introduced in House
 - 2008-05-14 — Referred to the House Committee on Foreign Affairs.
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4209-4213)
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1195.
+- 2008-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-20 — Mr. Wu moved to suspend the rules and agree to the resolution, as amended.
+- 2008-05-20 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4209)
+- 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4209)
