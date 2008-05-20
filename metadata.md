@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3889
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3889
@@ -38,3 +38,9 @@ To amend title 38, United States Code, to require the Secretary of Veterans Affa
 - 2008-05-15 — Placed on the Union Calendar, Calendar No. 401.
 - 2008-05-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-640.
 - 2008-05-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-640.
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4191-4193)
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3889.
+- 2008-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-20 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2008-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4192)
+- 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4192)
