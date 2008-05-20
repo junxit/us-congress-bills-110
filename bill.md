@@ -16,5 +16,4 @@ This Act may be cited as the “Spina Bifida Health Care Program Expansion Act�
 ## § 2. Provision of comprehensive health care by Secretary of Veterans Affairs to children of Vietnam veterans born with Spina Bifida
 
 - **(a)** *Provision of comprehensive health care* Section 1803(a) of title 38, United States Code, is amended by striking “such health care as the Secretary determines is needed by the child for the spina bifida or any disability that is associated with such condition” and inserting “health care under this section”.
-- **(b)** *Authority To provide domiciliary care* Section 1803(c)(1)(A) of title 38, United States Code, is amended by inserting “domiciliary care,” after “nursing home care,”.
-- **(c)** *Effective date* The amendments made by subsections (a) and (b) shall apply with respect to care furnished after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to care furnished after the date of the enactment of this Act.
