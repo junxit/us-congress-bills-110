@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6048
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Title II of the Servicemembers Civil Relief Act (50 U.S.C. App. 521 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to title II the following new item: | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 101` | add-at-end | Title II of the Servicemembers Civil Relief Act (50 U.S.C. App. 521 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 101` | add-at-end | The table of contents in section 1(b) of such Act is amended by adding at the end of the items relating to title II the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
