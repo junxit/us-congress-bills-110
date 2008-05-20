@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 79
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 79
@@ -29,3 +29,7 @@ A concurrent resolution congratulating and saluting Focus: HOPE on its 40th anni
 - 2008-05-06 — Introduced in Senate
 - 2008-05-06 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3802-3803)
 - 2008-05-06 — Sponsor introductory remarks on measure. (CR S3803)
+- 2008-05-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S4555-4556)
+- 2008-05-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4555-4556)
+- 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4555-4556)
+- 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4555-4556)
