@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2419
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2419
@@ -15,6 +15,454 @@ Food, Conservation, and Energy Act of 2008
 ## Sponsor
 
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
+
+## Cosponsors (445)
+
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Gregg, Judd [R-NH] (G000445)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (2)
 
@@ -224,3 +672,810 @@ Food, Conservation, and Energy Act of 2008
 - 2007-07-27 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2007-09-04 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-09-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
+- 2007-11-05 — Amendment SA 3500 proposed by Senator Harkin. (consideration: CR S13743-13763) In the nature of a substitute.
+- 2007-11-05 — Measure laid before Senate by unanimous consent. (consideration: CR S13743-13763)
+- 2007-11-05 — Senate amendment proposed (on the floor): Amendment SA 3500 proposed by Senator Harkin.(consideration: CR S13743-13763)
+- 2007-11-05 — Senate amendment submitted
+- 2007-11-05 — Senate amendment submitted
+- 2007-11-05 — Senate amendment submitted
+- 2007-11-06 — Amendment SA 3508 proposed by Senator Reid for Senator Dorgan to Amendment SA 3500. (consideration: CR S13947) To strengthen payment limitations and direct the savings to increased funding for certain programs.
+- 2007-11-06 — Amendment SA 3509 proposed by Senator Reid to Amendment SA 3508. (consideration: CR S13947-13948; text: CR S13947) To change the enactment date.
+- 2007-11-06 — Amendment SA 3510 proposed by Senator Reid to language proposed to be stricken by amendment no. SA 3500. (consideration: CR S13948; text: CR S13948) To change the enactment date.
+- 2007-11-06 — Amendment SA 3511 proposed by Senator Reid to Amendment SA 3510. (consideration: CR S13948; text: CR S13948) To change the enactment date.
+- 2007-11-06 — Amendment SA 3512 proposed by Senator Reid. (consideration: CR S13948; text: CR S13948) To change the enactment date.
+- 2007-11-06 — Amendment SA 3513 proposed by Senator Reid to Amendment SA 3512. (consideration: CR S13948; text: CR S13948) To change the enactment date.
+- 2007-11-06 — Amendment SA 3514 proposed by Senator Reid to Amendment SA 3513. (consideration: CR S13948; text: CR S13948) To change the enactment date.
+- 2007-11-06 — Considered by Senate. (consideration: CR S13947)
+- 2007-11-06 — Considered by Senate. (consideration: CR S13947-13981)
+- 2007-11-06 — Motion by Senator Reid to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions to report back forthwith, with the following amendment (SA 3512) made in Senate.
+- 2007-11-06 — Senate amendment proposed (on the floor): Amendment SA 3508 proposed by Senator Reid for Senator Dorgan to Amendment SA 3500.(consideration: CR S13947)
+- 2007-11-06 — Senate amendment proposed (on the floor): Amendment SA 3509 proposed by Senator Reid to Amendment SA 3508.(consideration: CR S13947-13948; text: CR S13947)
+- 2007-11-06 — Senate amendment proposed (on the floor): Amendment SA 3510 proposed by Senator Reid to language proposed to be stricken by amendment no. SA 3500.(consideration: CR S13948; text: CR S13948)
+- 2007-11-06 — Senate amendment proposed (on the floor): Amendment SA 3511 proposed by Senator Reid to Amendment SA 3510.(consideration: CR S13948; text: CR S13948)
+- 2007-11-06 — Senate amendment proposed (on the floor): Amendment SA 3512 proposed by Senator Reid.(consideration: CR S13948; text: CR S13948)
+- 2007-11-06 — Senate amendment proposed (on the floor): Amendment SA 3513 proposed by Senator Reid to Amendment SA 3512.(consideration: CR S13948; text: CR S13948)
+- 2007-11-06 — Senate amendment proposed (on the floor): Amendment SA 3514 proposed by Senator Reid to Amendment SA 3513.(consideration: CR S13948; text: CR S13948)
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-06 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-07 — Senate amendment submitted
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118)
+- 2007-11-08 — Considered by Senate. (consideration: CR S14118-14139)
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-08 — Senate amendment submitted
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254)
+- 2007-11-13 — Considered by Senate. (consideration: CR S14254-14257, S14266-14273)
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-13 — Senate amendment submitted
+- 2007-11-14 — Cloture motion on amendment SA 3500 presented in Senate. (consideration: CR S14387; text: CR S14387)
+- 2007-11-14 — Cloture motion on the bill presented in Senate. (consideration: CR S14387; text: CR S14387)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14363, S14387)
+- 2007-11-14 — Considered by Senate. (consideration: CR S14366, S14368-14373, S14374-14375, S14387-14390)
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-14 — Senate amendment submitted
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435)
+- 2007-11-15 — Considered by Senate. (consideration: CR S14435-14438, S14439-14443, S14445-14446, S14453-14460, S14465, S14574-14575)
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-15 — Senate amendment submitted
+- 2007-11-16 — Cloture on amendment SA 3500 not invoked in Senate by Yea-Nay Vote. 55 - 42. Record Vote Number: 412. (consideration: CR S14592; text: CR S14592)
+- 2007-11-16 — Considered by Senate.
+- 2007-11-16 — Considered by Senate.
+- 2007-11-16 — Considered by Senate.
+- 2007-11-16 — Considered by Senate.
+- 2007-11-16 — Considered by Senate.
+- 2007-11-16 — Considered by Senate.
+- 2007-11-16 — Considered by Senate.
+- 2007-11-16 — Considered by Senate. (consideration: CR S14592)
+- 2007-11-16 — Considered by Senate. (consideration: CR S14592)
+- 2007-11-16 — Roll call votes on amendments in Senate: Cloture on amendment SA 3500 not invoked in Senate by Yea-Nay Vote. 55 - 42. Record Vote Number: 412.(consideration: CR S14592; text: CR S14592)
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-11-16 — Senate amendment submitted
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774)
+- 2007-12-05 — Considered by Senate. (consideration: CR S14774-14777)
+- 2007-12-05 — Second cloture motion on amendment SA 3500 presented in Senate. (consideration: CR S14774; text: CR S14774)
+- 2007-12-05 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-06 — Senate amendment submitted
+- 2007-12-07 — Amendment SA 3530 proposed by Senator Chambliss for Senator Coburn to Amendment SA 3500. (consideration: CR S15025; text: CR S15025) To limit the distribution to deceased individuals, and estates of those individuals, of certain agricultural payments.
+- 2007-12-07 — Amendment SA 3632 proposed by Senator Chambliss for Senator Coburn to Amendment SA 3500. (consideration: CR S15025; text: CR S15025) To modify a provision relating to the Environmental Quality Incentive Program.
+- 2007-12-07 — Amendment SA 3687 proposed by Senator Chambliss for Senator Cornyn to Amendment SA 3500. (consideration: CR S15025; text: CR S15025) To prevent duplicative payments for agricultural disaster assistance already covered by the Agricultural Disaster Relief Trust Fund.
+- 2007-12-07 — Amendment SA 3695 proposed by Senator Harkin for Senator Dorgan to Amendment SA 3500. (consideration: CR S15014) To strengthen payment limitations and direct the savings to increase funding for certain programs.
+- 2007-12-07 — Amendment SA 3711 proposed by Senator Chambliss for Senator Lugar to Amendment SA 3500. (consideration: CR S15019) Relative to traditional payments and loans.
+- 2007-12-07 — Amendment SA 3807 proposed by Senator Chambliss for Senator Coburn to Amendment SA 3500. (consideration: CR S15025; text: CR S15025) To ensure the priority of the farm bill remains farmers by eliminating wasteful Department of Agriculture spending on golf courses, junkets, cheese centers, and aging barns.
+- 2007-12-07 — Amendment SA 3810 proposed by Senator Klobuchar to Amendment SA 3500. (consideration: CR S15014-15019; text: CR S15014-15015) To improve the adjusted gross income limitation and use the savings to provide additional funding for certain programs and reduce the Federal deficit.
+- 2007-12-07 — Amendment SA 3819 proposed by Senator Brown to Amendment SA 3500. (consideration: CR S15014) To increase funding for critical Farm Bill programs and improve crop insurance.
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013)
+- 2007-12-07 — Considered by Senate. (consideration: CR S15013-15025)
+- 2007-12-07 — Proposed amendment SA 3508 withdrawn in Senate.
+- 2007-12-07 — Proposed amendment SA 3510 withdrawn in Senate.
+- 2007-12-07 — Proposed amendment SA 3512 withdrawn in Senate.
+- 2007-12-07 — SA 3509 fell when SA 3508 withdrawn.
+- 2007-12-07 — SA 3511 fell when SA 3510 withdrawn.
+- 2007-12-07 — SA 3513 fell when SA 3512 withdrawn.
+- 2007-12-07 — SA 3514 fell when SA 3513 fell.
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3530 proposed by Senator Chambliss for Senator Coburn to Amendment SA 3500.(consideration: CR S15025; text: CR S15025)
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3632 proposed by Senator Chambliss for Senator Coburn to Amendment SA 3500.(consideration: CR S15025; text: CR S15025)
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3687 proposed by Senator Chambliss for Senator Cornyn to Amendment SA 3500.(consideration: CR S15025; text: CR S15025)
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3695 proposed by Senator Harkin for Senator Dorgan to Amendment SA 3500.(consideration: CR S15014)
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3711 proposed by Senator Chambliss for Senator Lugar to Amendment SA 3500.(consideration: CR S15019)
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3807 proposed by Senator Chambliss for Senator Coburn to Amendment SA 3500.(consideration: CR S15025; text: CR S15025)
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3810 proposed by Senator Klobuchar to Amendment SA 3500.(consideration: CR S15014-15019; text: CR S15014-15015)
+- 2007-12-07 — Senate amendment proposed (on the floor): Amendment SA 3819 proposed by Senator Brown to Amendment SA 3500.(consideration: CR S15014)
+- 2007-12-07 — Senate amendment submitted
+- 2007-12-07 — Senate amendment submitted
+- 2007-12-10 — Amendment SA 3539 proposed by Senator Salazar for Senator Durbin to Amendment SA 3500. (consideration: CR S15057; text: CR S15057) To provide a termination date for the conduct of certain inspections and the issuance of certain regulations.
+- 2007-12-10 — Amendment SA 3549 proposed by Senator Thune for Senator Roberts to Amendment SA 3500. (consideration: CR S15046; text: CR S15046) To modify a provision relating to regulations.
+- 2007-12-10 — Amendment SA 3551 proposed by Senator Thune for Senator Alexander to Amendment SA 3500. (consideration: CR S15052-15053; text: CR S15053) To increase funding for the Initiative for Future Agriculture and Food Systems, with an offset.
+- 2007-12-10 — Amendment SA 3553 proposed by Senator Thune for Senator Alexander to Amendment SA 3500. (consideration: CR S15052-15053; text: CR S15053) To limit the tax credit for small wind energy property expenditures to property placed in service in connection with a farm or rural small business.
+- 2007-12-10 — Amendment SA 3569 proposed by Senator Thune for Senator Stevens to Amendment SA 3500. (consideration: CR S15051-15052; text: CR S15051-15052) To make commercial fishermen eligible for certain operating loans.
+- 2007-12-10 — Amendment SA 3596 proposed by Senator Thune for Senator Sessions to Amendment SA 3500. (consideration: CR S15051) To amend the Internal Revenue Code of 1986 to establish a pilot program under which agricultural producers may establish and contribute to tax-exempt farm savings accounts in lieu of obtaining federally subsidized crop insurance or noninsured crop assistance, to provide for contributions to such accounts by the Secretary of Agriculture, to specify the situations in which amounts may be paid to producers from such accounts, and to limit the total amount of such distributions to a producer during a taxable year, and for other purposes.
+- 2007-12-10 — Amendment SA 3614 proposed by Senator Domenici to Amendment SA 3500. (consideration: CR S15046-15049) To reduce our nation's dependency on foreign oil by investing in clean, renewable, and alternative energy resources.
+- 2007-12-10 — Amendment SA 3616 proposed by Senator Salazar to Amendment SA 3500. (consideration: CR S15041-15042; text: CR S15041-15042) To amend the Internal Revenue Code of 1986 to provide incentives for the production of all cellulosic biofuels.
+- 2007-12-10 — Amendment SA 3640 proposed by Senator Craig to Amendment SA 3500. (consideration: CR S15045-15046; text: CR S15045) To prohibit the involuntary acquisition of farmland and grazing land by Federal, State, and local governments for parks, open space, or similar purposes.
+- 2007-12-10 — Amendment SA 3671 proposed by Senator Thune for Senator Gregg to Amendment SA 3500. (consideration: CR S15049; text: CR S15049) To strike the section requiring the establishment of a Farm and Ranch Stress Assistance Network.
+- 2007-12-10 — Amendment SA 3672 proposed by Senator Thune for Senator Gregg to Amendment SA 3500. (consideration: CR S15049; text: CR S15049) To strike a provision relating to market loss assistance for asparagus producers.
+- 2007-12-10 — Amendment SA 3673 proposed by Senator Thune for Senator Gregg to Amendment SA 3500. (consideration: CR S15049; text: CR S15049) To improve women's access to heath care services in rural areas and provide improved medical care by reducing the excessive burden the liability system places on the delivery of obstetrical and gynecological services.
+- 2007-12-10 — Amendment SA 3674 proposed by Senator Thune for Senator Gregg to Amendment SA 3500. (consideration: CR S15049; text: CR S15049) To amend the Internal Revenue Code of 1986 to exclude discharges of indebtedness on principal residences from gross income, and for other purposes.
+- 2007-12-10 — Amendment SA 3771 proposed by Senator Thune for Senator Bond to Amendment SA 3500. (consideration: CR S15053) To amend title 7, United States Code, to include provisions relating to rulemaking.
+- 2007-12-10 — Amendment SA 3821 proposed by Senator Thune for Senator McConnell to Amendment SA 3500. (consideration: CR S15042; text: CR S15042) To promote the nutritional health of school children, with an offset.
+- 2007-12-10 — Amendment SA 3822 proposed by Senator Thune for Senator Gregg to Amendment SA 3500. (consideration: CR S15049; text: CR S15049) To provide nearly $1,000,000,000 in critical home heating assistance to low-income families and senior citizens for the 2007-2008 winter season, and reduce the Federal deficit by eliminating wasteful farm subsidies.
+- 2007-12-10 — Amendment SA 3823 proposed by Senator Thune for Senator Grassley to Amendment SA 3500. (consideration: CR S15049-15051) To provide for the review of agricultural mergers and acquisitions by the Department of Justice, and for other purposes.
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040)
+- 2007-12-10 — Considered by Senate. (consideration: CR S15040-15058)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3539 proposed by Senator Salazar for Senator Durbin to Amendment SA 3500.(consideration: CR S15057; text: CR S15057)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3549 proposed by Senator Thune for Senator Roberts to Amendment SA 3500.(consideration: CR S15046; text: CR S15046)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3551 proposed by Senator Thune for Senator Alexander to Amendment SA 3500.(consideration: CR S15052-15053; text: CR S15053)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3553 proposed by Senator Thune for Senator Alexander to Amendment SA 3500.(consideration: CR S15052-15053; text: CR S15053)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3569 proposed by Senator Thune for Senator Stevens to Amendment SA 3500.(consideration: CR S15051-15052; text: CR S15051-15052)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3596 proposed by Senator Thune for Senator Sessions to Amendment SA 3500.(consideration: CR S15051)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3614 proposed by Senator Domenici to Amendment SA 3500.(consideration: CR S15046-15049)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3616 proposed by Senator Salazar to Amendment SA 3500.(consideration: CR S15041-15042; text: CR S15041-15042)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3640 proposed by Senator Craig to Amendment SA 3500.(consideration: CR S15045-15046; text: CR S15045)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3671 proposed by Senator Thune for Senator Gregg to Amendment SA 3500.(consideration: CR S15049; text: CR S15049)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3672 proposed by Senator Thune for Senator Gregg to Amendment SA 3500.(consideration: CR S15049; text: CR S15049)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3673 proposed by Senator Thune for Senator Gregg to Amendment SA 3500.(consideration: CR S15049; text: CR S15049)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3674 proposed by Senator Thune for Senator Gregg to Amendment SA 3500.(consideration: CR S15049; text: CR S15049)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3771 proposed by Senator Thune for Senator Bond to Amendment SA 3500.(consideration: CR S15053)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3821 proposed by Senator Thune for Senator McConnell to Amendment SA 3500.(consideration: CR S15042; text: CR S15042)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3822 proposed by Senator Thune for Senator Gregg to Amendment SA 3500.(consideration: CR S15049; text: CR S15049)
+- 2007-12-10 — Senate amendment proposed (on the floor): Amendment SA 3823 proposed by Senator Thune for Senator Grassley to Amendment SA 3500.(consideration: CR S15049-15051)
+- 2007-12-10 — Senate amendment submitted
+- 2007-12-10 — Senate amendment submitted
+- 2007-12-10 — Senate amendment submitted
+- 2007-12-11 — Amendment SA 3660 proposed by Senator Baucus to Amendment SA 3500. (consideration: CR S15095-15097; text: CR S15095-15096) Relative to agricultural supply.
+- 2007-12-11 — Amendment SA 3666 proposed by Senator Tester to Amendment SA 3500. (consideration: CR S15095; text: CR S15095) To modify the provisions relating to unlawful practices under the Packers and Stockyards Act.
+- 2007-12-11 — Amendment SA 3711 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 417.
+- 2007-12-11 — Amendment SA 3720 proposed by Senator Schumer to Amendment SA 3500. (consideration: CR S15097-15098; text: CR S15097-15098) To improve crop insurance and use resulting savings to increase funding for certain conservation programs.
+- 2007-12-11 — Amendment SA 3736 proposed by Senator Wyden to Amendment SA 3500. (consideration: CR S15122-15125) To modify a provision relating to bioenergy crop transition assistance.
+- 2007-12-11 — Amendment SA 3825 proposed by Senator Gregg to Amendment SA 3673. (consideration: CR S15111; text: CR S15111) To change the enactment date.
+- 2007-12-11 — Amendment SA 3826 proposed by Senator Sanders to Amendment SA 3822. (consideration: CR S15118-15122) To provide for payments under subsections (a) through (e) of section 2604 of the Low-Income Home Energy Assistance Act of 1981, and restore supplemental agricultural disaster assistance from the Agriculture Disaster Relief Trust Fund.
+- 2007-12-11 — Amendment SA 3830 proposed by Senator Harkin to Amendment SA 3500. (consideration: CR S15126) Relative to public safety officers.
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15091-15095, S15107)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15095, S15107)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15107-15108)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15108-15111, S15116-15117)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15108-15111, S15117)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15108-15111, S15127)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15111)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15111, S15127)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15116, S15126-15127)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15125-15126)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090, S15125; text as modified: CR S15125)
+- 2007-12-11 — Considered by Senate. (consideration: CR S15090-15098, S15098-15128)
+- 2007-12-11 — Proposed amendment SA 3660 withdrawn in Senate.
+- 2007-12-11 — Roll call votes on amendments in Senate: Amendment SA 3711 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 417.
+- 2007-12-11 — Senate amendment not agreed to: Amendment SA 3711 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 417.
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3660 proposed by Senator Baucus to Amendment SA 3500.(consideration: CR S15095-15097; text: CR S15095-15096)
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3666 proposed by Senator Tester to Amendment SA 3500.(consideration: CR S15095; text: CR S15095)
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3720 proposed by Senator Schumer to Amendment SA 3500.(consideration: CR S15097-15098; text: CR S15097-15098)
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3736 proposed by Senator Wyden to Amendment SA 3500.(consideration: CR S15122-15125)
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3825 proposed by Senator Gregg to Amendment SA 3673.(consideration: CR S15111; text: CR S15111)
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3826 proposed by Senator Sanders to Amendment SA 3822.(consideration: CR S15118-15122)
+- 2007-12-11 — Senate amendment proposed (on the floor): Amendment SA 3830 proposed by Senator Harkin to Amendment SA 3500.(consideration: CR S15126)
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-11 — Senate amendment submitted
+- 2007-12-12 — Amendment SA 3539 agreed to in Senate by Unanimous Consent.
+- 2007-12-12 — Amendment SA 3551 not agreed to in Senate by Yea-Nay Vote. 19 - 75. Record Vote Number: 420.
+- 2007-12-12 — Amendment SA 3553 not agreed to in Senate by Yea-Nay Vote. 14 - 79. Record Vote Number: 421.
+- 2007-12-12 — Amendment SA 3596 not agreed to in Senate by Yea-Nay Vote. 35 - 58. Record Vote Number: 423.
+- 2007-12-12 — Amendment SA 3639 proposed by Senator Harkin to Amendment SA 3500. (consideration: CR S15183) To improve nutrition standards for foods and beverages sold in schools.
+- 2007-12-12 — Amendment SA 3671 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 418.
+- 2007-12-12 — Amendment SA 3672 not agreed to in Senate by Yea-Nay Vote. 39 - 56. Record Vote Number: 419.
+- 2007-12-12 — Amendment SA 3673, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 422.
+- 2007-12-12 — Amendment SA 3803 agreed to in Senate by Unanimous Consent.
+- 2007-12-12 — Amendment SA 3803 proposed by Senator Reid for Senator McConnell to Amendment SA 3500. (consideration: CR S15218; text: CR S15218) To amend the Internal Revenue Code of 1986 to provide for the tax treatment of horses, and for other purposes.
+- 2007-12-12 — Amendment SA 3844 proposed by Senator Harkin to Amendment SA 3830. (consideration: CR S15223) Relative to public safety officers.
+- 2007-12-12 — Amendment SA 3845 agreed to in Senate by Unanimous Consent.
+- 2007-12-12 — Amendment SA 3845 proposed by Senator Harkin for Senator Kennedy to Amendment SA 3539. (consideration: CR S15223, text: CR S15223) Of a perfecting nature.
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15182)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15183-15189, S15216)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15183-15189, S15216-15217)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15189-15195, S15217-15218)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15195-15203)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15203-15211)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15211-15216)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15218-15222)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15222)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15222; text as modified: CR S15222)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179, S15223)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179-15182)
+- 2007-12-12 — Considered by Senate. (consideration: CR S15179-15224)
+- 2007-12-12 — Proposed amendment SA 3632 withdrawn in Senate.
+- 2007-12-12 — Proposed amendment SA 3673, pursuant to the order of the Senate of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, withdrawn in Senate.
+- 2007-12-12 — Proposed amendment SA 3825 withdrawn in Senate.
+- 2007-12-12 — Roll call votes on amendments in Senate: Amendment SA 3551 not agreed to in Senate by Yea-Nay Vote. 19 - 75. Record Vote Number: 420.
+- 2007-12-12 — Roll call votes on amendments in Senate: Amendment SA 3553 not agreed to in Senate by Yea-Nay Vote. 14 - 79. Record Vote Number: 421.
+- 2007-12-12 — Roll call votes on amendments in Senate: Amendment SA 3596 not agreed to in Senate by Yea-Nay Vote. 35 - 58. Record Vote Number: 423.
+- 2007-12-12 — Roll call votes on amendments in Senate: Amendment SA 3671 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 418.
+- 2007-12-12 — Roll call votes on amendments in Senate: Amendment SA 3672 not agreed to in Senate by Yea-Nay Vote. 39 - 56. Record Vote Number: 419.
+- 2007-12-12 — Roll call votes on amendments in Senate: Amendment SA 3673, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 422.
+- 2007-12-12 — Senate amendment agreed to: Amendment SA 3539 agreed to in Senate by Unanimous Consent.
+- 2007-12-12 — Senate amendment agreed to: Amendment SA 3803 agreed to in Senate by Unanimous Consent.
+- 2007-12-12 — Senate amendment agreed to: Amendment SA 3845 agreed to in Senate by Unanimous Consent.
+- 2007-12-12 — Senate amendment not agreed to: Amendment SA 3551 not agreed to in Senate by Yea-Nay Vote. 19 - 75. Record Vote Number: 420.
+- 2007-12-12 — Senate amendment not agreed to: Amendment SA 3553 not agreed to in Senate by Yea-Nay Vote. 14 - 79. Record Vote Number: 421.
+- 2007-12-12 — Senate amendment not agreed to: Amendment SA 3596 not agreed to in Senate by Yea-Nay Vote. 35 - 58. Record Vote Number: 423.
+- 2007-12-12 — Senate amendment not agreed to: Amendment SA 3671 not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 418.
+- 2007-12-12 — Senate amendment not agreed to: Amendment SA 3672 not agreed to in Senate by Yea-Nay Vote. 39 - 56. Record Vote Number: 419.
+- 2007-12-12 — Senate amendment not agreed to: Amendment SA 3673, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 41 - 53. Record Vote Number: 422.
+- 2007-12-12 — Senate amendment proposed (on the floor): Amendment SA 3639 proposed by Senator Harkin to Amendment SA 3500.(consideration: CR S15183)
+- 2007-12-12 — Senate amendment proposed (on the floor): Amendment SA 3803 proposed by Senator Reid for Senator McConnell to Amendment SA 3500.(consideration: CR S15218; text: CR S15218)
+- 2007-12-12 — Senate amendment proposed (on the floor): Amendment SA 3844 proposed by Senator Harkin to Amendment SA 3830.(consideration: CR S15223)
+- 2007-12-12 — Senate amendment proposed (on the floor): Amendment SA 3845 proposed by Senator Harkin for Senator Kennedy to Amendment SA 3539.(consideration: CR S15223, text: CR S15223)
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-12 — Senate amendment submitted
+- 2007-12-13 — Amendment SA 3530 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S15417-15418)
+- 2007-12-13 — Amendment SA 3640, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 429.
+- 2007-12-13 — Amendment SA 3666, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 427.
+- 2007-12-13 — Amendment SA 3695, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 424.
+- 2007-12-13 — Amendment SA 3810, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 426.
+- 2007-12-13 — Amendment SA 3819, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 63. Record Vote Number: 428.
+- 2007-12-13 — Amendment SA 3851 agreed to in Senate by Voice Vote.
+- 2007-12-13 — Amendment SA 3851 proposed by Senator Harkin to Amendment SA 3500. (consideration: CR S15441-15447, S15448) To promote legal certainty, enhance competition, and reduce systemic risk in markets for futures and over-the-counter derivatives, and for other purposes.
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15383-15385)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15392-15398, S15418)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15398-15399)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15399-15404, S15420-15421)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15404-15412, S15418-15420)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15412-15417, S15418)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15417-15418)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15433-15441)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15447)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15450)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380, S15450)
+- 2007-12-13 — Considered by Senate. (consideration: CR S15380-15385, S15390-15421, S15433-15452)
+- 2007-12-13 — Proposed amendment SA 3640, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, withdrawn in Senate.
+- 2007-12-13 — Proposed amendment SA 3666, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, withdrawn in Senate.
+- 2007-12-13 — Proposed amendment SA 3695, pursuant to the order of the Senate of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, withdrawn in Senate.
+- 2007-12-13 — Proposed amendment SA 3720 withdrawn in Senate.
+- 2007-12-13 — Proposed amendment SA 3736 withdrawn in Senate.
+- 2007-12-13 — Proposed amendment SA 3810, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, withdrawn in Senate.
+- 2007-12-13 — Proposed amendment SA 3819, pursuant to the order of December 13, 2007, having failed to achieve 60 votes in the affirmative, withdrawn in Senate.
+- 2007-12-13 — Proposed amendment SA 3830 withdrawn in Senate.
+- 2007-12-13 — Roll call votes on amendments in Senate: Amendment SA 3640, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 429.
+- 2007-12-13 — Roll call votes on amendments in Senate: Amendment SA 3666, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 427.
+- 2007-12-13 — Roll call votes on amendments in Senate: Amendment SA 3695, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 424.
+- 2007-12-13 — Roll call votes on amendments in Senate: Amendment SA 3810, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 426.
+- 2007-12-13 — Roll call votes on amendments in Senate: Amendment SA 3819, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 63. Record Vote Number: 428.
+- 2007-12-13 — Roll call votes on amendments in Senate: Second cloture on Amendment SA 3500 invoked in Senate by Yea-Nay Vote. 78 - 12. Record Vote Number: 431.(consideration: CR S15450; text: CR S15450)
+- 2007-12-13 — SA 3844 fell when SA 3830 was withdrawn.
+- 2007-12-13 — Second cloture on Amendment SA 3500 invoked in Senate by Yea-Nay Vote. 78 - 12. Record Vote Number: 431. (consideration: CR S15450; text: CR S15450)
+- 2007-12-13 — Senate amendment agreed to: Amendment SA 3530 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S15417-15418)
+- 2007-12-13 — Senate amendment agreed to: Amendment SA 3851 agreed to in Senate by Voice Vote.
+- 2007-12-13 — Senate amendment not agreed to: Amendment SA 3640, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 37 - 58. Record Vote Number: 429.
+- 2007-12-13 — Senate amendment not agreed to: Amendment SA 3666, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 55. Record Vote Number: 427.
+- 2007-12-13 — Senate amendment not agreed to: Amendment SA 3695, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 56 - 43. Record Vote Number: 424.
+- 2007-12-13 — Senate amendment not agreed to: Amendment SA 3810, pursuant to the order of December 11, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 48 - 47. Record Vote Number: 426.
+- 2007-12-13 — Senate amendment not agreed to: Amendment SA 3819, pursuant to the order of December 13, 2007, having failed to achieve the required 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 32 - 63. Record Vote Number: 428.
+- 2007-12-13 — Senate amendment proposed (on the floor): Amendment SA 3851 proposed by Senator Harkin to Amendment SA 3500.(consideration: CR S15441-15447, S15448)
+- 2007-12-13 — Senate amendment submitted
+- 2007-12-13 — Senate amendment submitted
+- 2007-12-14 — Amendment SA 3500 agreed to in Senate by Unanimous Consent.
+- 2007-12-14 — Amendment SA 3855 agreed to in Senate by Unanimous Consent.
+- 2007-12-14 — Amendment SA 3855 proposed by Senator Harkin to Amendment SA 3500. (consideration: CR S15637-15639) Of a perfecting nature.
+- 2007-12-14 — Cloture motion on the bill withdrawn by unanimous consent in Senate.
+- 2007-12-14 — Considered by Senate. (consideration: CR S15622, S15623-15637, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15622, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15622-15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15622-15641)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Considered by Senate. (consideration: CR S15623, S15639)
+- 2007-12-14 — Passed Senate with an amendment by Yea-Nay Vote. 79 - 14. Record Vote Number: 434.
+- 2007-12-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 79 - 14. Record Vote Number: 434.
+- 2007-12-14 — Proposed amendment SA 3549 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3569 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3614 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3616 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3639 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3674 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3687 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3771 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3807 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3821 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3822 withdrawn in Senate.
+- 2007-12-14 — Proposed amendment SA 3823 withdrawn in Senate.
+- 2007-12-14 — Pursuant to the order of December 13, 2007, the following managers' package was agreed to: SA 3855.
+- 2007-12-14 — SA 3826 fell when SA 3822 was withdrawn.
+- 2007-12-14 — Senate amendment agreed to: Amendment SA 3500 agreed to in Senate by Unanimous Consent.
+- 2007-12-14 — Senate amendment agreed to: Amendment SA 3855 agreed to in Senate by Unanimous Consent.
+- 2007-12-14 — Senate amendment proposed (on the floor): Amendment SA 3855 proposed by Senator Harkin to Amendment SA 3500.(consideration: CR S15637-15639)
+- 2007-12-14 — Senate amendment submitted
+- 2007-12-14 — Senate insisted on its amendment, requested a conference.
+- 2008-02-04 — Senate appointed conferee(s) Harkin; Leahy; Conrad; Baucus; Lincoln; Stabenow; Chambliss; Lugar; Cochran; Roberts; Grassley.
+- 2008-02-05 — Message on Senate action sent to the House.
+- 2008-04-09 — DEBATE - The House proceeded with one hour of debate on the Goodlatte motion to instruct conferees. The instructions contained in the motion seek to require the managers on the part of the House to disagree to any provision which will result in an increase in taxes.
+- 2008-04-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-04-09 — Mr. Goodlatte moved that the House instruct conferees. (consideration: CR H2119-2121)
+- 2008-04-09 — Mr. Holden moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H2119-2121)
+- 2008-04-09 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to by voice vote.
+- 2008-04-09 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 400 - 11 (Roll no. 175). (consideration: CR H2120-2121)
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Agriculture for consideration of the House bill (except title XII) and the Senate amendment (except secs. 12001, 12201-12601, and 12701-12808), and modifications committed to conference: Peterson (MN), Holden, McIntyre, Etheridge, Boswell, Baca, Cardoza, Scott (GA), Goodlatte, Lucas, Moran (KS), Hayes, Musgrave, and Neugebauer.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Education and Labor for consideration of secs. 4303 and 4304 of the House bill, and secs. 4901-4905, 4911, and 4912 of the Senate amendment, and modifications committed to conference: Miller, George, McCarthy (NY), and Platts.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Energy and Commerce for consideration of secs. 6012, 6023, 6024, 6028, 6029, 9004, 9005, and 9017 of the House bill, and secs. 6006, 6012, 6110-6112, 6202, 6302, 7044, 7049, 7307, 7507, 9001, 11060, 11072, 11087, and 11101-11103 of the Senate amendment, and modifications committed to conference: Dingell, Pallone, and Barton (TX).
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Financial Services for consideration of sec. 11310 of the House bill, and secs. 6501-6505, 11068, and 13107 of the Senate amendment, and modifications committed to conference: Kanjorski, Waters, and Bachus.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Foreign Affairs for consideration of secs. 3001-3008, 3010-3014, and 3016 of the House bill, and secs. 3001-3022, 3101-3107, and 3201-3204 of the Senate amendment, and modifications committed to conference: Berman, Sherman, and Ros-Lehtinen.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Natural Resources for consideration of secs. 2313, 2331, 2341, 2405, 2607, 2607A, 2611, 5401, 6020, 7033, 7311, 8101, 8112, 8121-8127, 8204, 8205, 11063, and 11075 of the Senate amendment, and modifications committed to conference: Rahall, Bordallo, and McMorris Rodgers.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Oversight and Government Reform for consideration of secs. 1501 and 7109 of the House bill, and secs. 7020, 7313, 7314, 7316, 7502, 8126, 8205, and 10201 of the Senate amendment, and modifications committed to conference: Waxman, Towns, and Jordan.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Science and Technology for consideration of secs. 4403, 9003, 9006, 9010, 9015, 9019, and 9020 of the House bill, and secs. 7039, 7051, 7315, 7501, and 9001 of the Senate amendment, and modifications committed to conference: Gordon, Lampson, and McCaul (TX).
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Small Business for consideration of subtitle D of title XI of the Senate amendment, and modifications committed to conference: Velazquez, Shuler, and Chabot.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of secs. 2203, 2301, 6019, and 6020 of the House bill, and secs. 2604, 6029, 6030, 6034, and 11087 of the Senate amendment, and modifications committed to conference: Oberstar, Norton, and Graves.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on Ways and Means for consideration of sec. 1303 and title XII of the House bill, and secs. 12001-12601, and 12701-12808 of the Senate amendment, and modifications committed to conference: Rangel, Pomeroy, and McCrery.
+- 2008-04-09 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 11102, 11312, and 11314 of the House bill, and secs. 5402, 10103, 10201, 10203, 10205, 11017, 11069, 11076, 13102, and 13104 of the Senate amendment, and modifications committed to conference: Conyers, Scott (VA), and Smith (TX).
+- 2008-04-09 — The Speaker appointed conferees For consideration of the House bill (except title XII) and the Senate amendment (except secs. 12001, 12201-12601, and 12701-12808), and modifications committed to conference: DeLauro and Putnam.
+- 2008-04-09 — The previous question was ordered without objection.
+- 2008-04-14 — Conference committee actions: Conference held.
+- 2008-04-14 — Conference held.
+- 2008-04-15 — Conference committee actions: Conference held.
+- 2008-04-15 — Conference held.
+- 2008-04-16 — Conference committee actions: Conference held.
+- 2008-04-16 — Conference held.
+- 2008-04-18 — Conference committee actions: Conference held.
+- 2008-04-18 — Conference held.
+- 2008-04-22 — Conference committee actions: Conference held.
+- 2008-04-22 — Conference held.
+- 2008-04-30 — DEBATE - The House proceeded with one hour of debate on the Flake motion to instruct conferees on H.R. 2419. The instructions contained in the motion seek to require the managers on the part of the House to agree to the provisions contained in section 1703(b)(2) of the Senate amendment (relating to a $40,000 limitation on direct payments).
+- 2008-04-30 — Mr. Flake moved that the House instruct conferees. (consideration: CR H2924-2930; text: CR H2924)
+- 2008-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake motion to instruct conferees on H.R. 2419, the Chair put the question adoption of the motion and by voice vote, announced that the noes had prevailed. Mr. Flake demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until tomorrow.
+- 2008-04-30 — The previous question was ordered without objection. (consideration: CR H2930)
+- 2008-05-01 — DEBATE - The House proceeded with one hour of debate on the Kind motion to instruct conferees on H.R. 2419. The instructions contained in the motion seek to require the managers on the part of the House to insist on the amendment contained in section 2401(d) of the House bill, insist on the amendments contained in section 2104 of the House bill and reject the amendment contained in section 2401(2) of the Senate amendment, insist on the amendments contained in section 2102 of the House bill, and insist on the amendments contained in section 2608 of the Senate bill.
+- 2008-05-01 — DEBATE - The House proceeded with one hour of debate on the Ryan (WI) motion to instruct conferees on H.R. 2419. The instructions contained in the motion seek to require the managers on the part of the House to, within the scope of the conference, use the most recent baseline estimates supplied by the Congressional Budget Office when evaluating the costs of the provisions of the report.
+- 2008-05-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-01 — Mr. Kind moved that the House instruct conferees. (consideration: CR H2995-2999; text: CR H2995)
+- 2008-05-01 — Mr. Ryan (WI) moved that the House instruct conferees. (consideration: CR H2992-2995; text: CR H2992)
+- 2008-05-01 — On motion that the House instruct conferees Failed by the Yeas and Nays: 157 - 259 (Roll no. 238). (consideration: CR H2988-2989)
+- 2008-05-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kind motion to instruct conferees on H. R. 2419, the Chair put the question adoption of the motion and by voice vote, announced that the noes had prevailed. Mr. Kind demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until a time to be announced.
+- 2008-05-01 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ryan (WI) motion to instruct conferees on H. R. 2419, the Chair put the question adoption of the motion and by voice vote, announced that the noes had prevailed. Mr. Ryan (WI) demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion until a time to be announced.
+- 2008-05-01 — The previous question was ordered without objection. (consideration: CR H2994-2995)
+- 2008-05-05 — NOTICE OF INTENT TO OFFER MOTION TO INSTRUCT - Mr. Flake (AZ) notified the House of his intent to offer a motion to instruct conferees on H.R. 2419.
+- 2008-05-06 — DEBATE - The House proceeded with one hour of debate on the Flake motion to instruct conferees on H.R. 2419. The instructions contained in the motion seek to require the managers on the part of the House not to recede to the provisions contained in subtitle A of title XII of the Senate amendment (relating to a permanent agriculture disaster assistance program).
+- 2008-05-06 — Latham moved to reconsider the vote.
+- 2008-05-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-06 — Mr. Flake moved that the House instruct conferees. (consideration: CR H3102-3106)
+- 2008-05-06 — Mr. Hastings (FL) moved to table the motion to reconsider the vote (consideration: CR H3063-3064)
+- 2008-05-06 — Mr. Hastings (FL) moved to table the motion to reconsider the vote (consideration: CR H3092-3093)
+- 2008-05-06 — NOTIFICATION OF INTENT TO OFFER MOTION TO INSTRUCT - Mr. Cantor notified the House of his intent to offer a motion to instruct conferees on H.R. 2419.
+- 2008-05-06 — On motion that the House instruct conferees Failed by the Yeas and Nays: 140 - 274 (Roll no. 258). (consideration: CR H3091-3092)
+- 2008-05-06 — On motion that the House instruct conferees Failed by the Yeas and Nays: 172 - 241 (Roll no. 247). (consideration: CR H3062-3063)
+- 2008-05-06 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 203 - 176 (Roll no. 248).
+- 2008-05-06 — On motion to table the motion to reconsider the vote Agreed to by recorded vote: 221 - 192 (Roll no. 259).
+- 2008-05-06 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Flake motion to instruct conferees on H.R. 2419, the Chair put the question on adoption of the motion to instruct and by voice vote, announced the nays had prevailed. Mr. Flake demanded the yeas and nays and the Chair postponed further proceedings on adoption of the motion to instruct until a time to be announced.
+- 2008-05-06 — The previous question was ordered without objection. (consideration: CR H3106)
+- 2008-05-06 — Walsh (NY) moved to reconsider the vote.
+- 2008-05-07 — DEBATE - The House proceeded with one hour of debate on the Cantor motion to instruct conferees on H.R. 2419. The instructions contained in the motion seek to require the managers on the part of the House to disagree to the provisions contained in section 12808 of the Senate amendment (relating to qualified forestry conservation bonds).
+- 2008-05-07 — Mr. Cantor moved that the House instruct conferees. (consideration: CR H3177-3181)
+- 2008-05-07 — NOTIFICATION OF INTENT TO OFFER MOTION TO INSTRUCT - Mr. Shimkus notified the House of his intent to offer a motion to instruct conferees on H.R. 2419.
+- 2008-05-07 — NOTIFICATION OF INTENT TO OFFER MOTION TO INSTRUCT - Mr. Terry notified the House of his intent to offer a motion to instruct conferees on H.R. 2419.
+- 2008-05-07 — NOTIFICATION OF INTENT TO OFFER MOTION TO INSTRUCT - Mr. Upton notified the House of his intent to offer a motion to instruct conferees on H.R. 2419.
+- 2008-05-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cantor motion to instruct conferees on H.R. 2419, the Chair put the question on adoption of the motion and by voice vote announced that the ayes had prevailed. Mr. Cantor demanded the yeas and nays which were ordered and further proceedings on the question of adoption of the motion were postponed until a time to be announced.
+- 2008-05-07 — The previous question was ordered without objection. (consideration: CR H3181)
+- 2008-05-08 — DEBATE - The House proceeded with one hour of debate on the Shimkus motion to instruct conferees on H.R. 2419. The instructions contained in the motion direct the managers on the part of the House to recede to the provisions contained in section 9021 of the Senate amendment (relating to the E 85 Fuel Program).
+- 2008-05-08 — DEBATE - The House proceeded with one hour of debate on the Terry motion to instruct conferees on H.R. 2419. The instructions contained in the motion direct the managers on the part of the House to recede to the provisions contained in section 12312 subtitle C of title XII of the Senate amendment (relating to a cellulosic biofuel production tax credit).
+- 2008-05-08 — DEBATE - The House proceeded with one hour of debate on the Upton motion to instruct conferees on H.R. 2419. The instructions contained in the motion direct the managers on the part of the House to recede the provisions proposed to be added to Section 9001 of the Farm Security and Rural Investment Act of 2002 in the form of a definition of "Renewable Biomass".
+- 2008-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-08 — Mr. Shimkus moved that the House instruct conferees. (consideration: CR H3312-3317; text: CR H3312)
+- 2008-05-08 — Mr. Terry asked unanimous consent to withdraw his motion to instruct conferees on H.R. 2419. Agreed to without objection.
+- 2008-05-08 — Mr. Terry moved that the House instruct conferees. (consideration: CR H3317-3319; text: CR H3317)
+- 2008-05-08 — Mr. Upton moved that the House instruct conferees. (consideration: CR H3311-3312; text: CR H3311)
+- 2008-05-08 — On motion that the House instruct conferees Failed by the Yeas and Nays: 128 - 274 (Roll no. 304). (consideration: CR H3308-3309)
+- 2008-05-08 — On motion that the House instruct conferees Failed by the Yeas and Nays: 169 - 222 (Roll no. 305). (consideration: CR H3309)
+- 2008-05-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Shimkus motion to instruct conferees on H .R. 2419, the Chair put the question on adoption of the motion and by voice vote announced that the noes had prevailed. Mr. Shimkus demanded the yeas and nays which were ordered and further proceedings on the question of adoption of the motion were postponed until a time to be announced.
+- 2008-05-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Upton motion to instruct conferees on H .R. 2419, the Chair put the question on adoption of the motion and by voice vote announced that the noes had prevailed. Mr. Upton demanded the yeas and nays which were ordered and further proceedings on the question of adoption of the motion were postponed until a time to be announced.
+- 2008-05-08 — The previous question was ordered without objection. (consideration: CR H3312)
+- 2008-05-08 — The previous question was ordered without objection. (consideration: CR H3316)
+- 2008-05-13 — Conference report H. Rept. 110-627 filed. (text of conference report: CR H3409-3700)
+- 2008-05-13 — Conference report filed: Conference report H. Rept. 110-627 filed.(text of conference report: CR H3409-3700)
+- 2008-05-13 — Rules Committee Resolution H. Res. 1189 Reported to House. Rule provides for consideration of the conference report to H.R. 2419 with 1 hour of general debate. Motion to recommit allowed.
+- 2008-05-13 — Under clause 7(c) of rule XXI, the Chair announced that due to the filing of the conference report on H.R. 2419, the following two motions to instruct conferees on that measure have been vitiated: The motion to instruct offered by the gentleman from Michigan, Mr. Upton, which was debated on May 8th and on which further proceedings were postponed under clause 8 of rule XX; and the motion to instruct offered by the gentleman from Illinois, Mr. Shimkus, which was debated on May 8th and on which further proceedings were postponed under clause 8 of rule XX.
+- 2008-05-14 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2008-05-14 — Conference report agreed to in House: On agreeing to the conference report Agreed to by recorded vote: 318 - 106 (Roll no. 315).
+- 2008-05-14 — Conference report considered in Senate. (consideration: CR S4150-4172, S4203-4210)
+- 2008-05-14 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 2419.
+- 2008-05-14 — Motion to waive the Budget Act (section 203, S.Con.Res. 21, 110th Congress) with respect to the measure made in Senate.
+- 2008-05-14 — Motions to reconsider laid on the table Agreed to without objection.
+- 2008-05-14 — Mr. Cantor moved to recommit with instructions to the conference committee. (consideration: CR H3821-3822; text: CR H3821)
+- 2008-05-14 — Mr. Peterson (MN) brought up conference report H. Rept. 110-627 for consideration under the provisions of H. Res. 1189. (consideration: CR H3801-3822)
+- 2008-05-14 — On agreeing to the conference report Agreed to by recorded vote: 318 - 106 (Roll no. 315).
+- 2008-05-14 — On motion to recommit with instructions to conference committee Failed by the Yeas and Nays: 193 - 230 (Roll no. 314). (consideration: CR H3821-3822)
+- 2008-05-14 — Point of order against the measure raised in Senate.
+- 2008-05-14 — Rule H. Res. 1189 passed House.
+- 2008-05-14 — The previous question on the motion to recommit with instructions to conference committee was ordered without objection. (consideration: CR H3821)
+- 2008-05-14 — The previous question was ordered pursuant to the rule. (consideration: CR H3821)
+- 2008-05-15 — Cleared for White House.
+- 2008-05-15 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 81 - 15. Record Vote Number: 130.
+- 2008-05-15 — Conference report considered in Senate. (consideration: CR S4212-4243)
+- 2008-05-15 — Message on Senate action sent to the House.
+- 2008-05-15 — Motion to waive the Budget Act (section 203, S.Con.Res. 21, 110th Congress) with respect to the measure agreed to in Senate by Yea-Nay Vote. 74 - 21. Record Vote Number: 128.
+- 2008-05-15 — Motion to waive under paragraph 8(a) of Rule XLIV with respect to the measure agreed to in Senate by Yea-Nay Vote. 62 - 34. Record Vote Number: 129.
+- 2008-05-15 — Motion to waive under paragraph 8(a) of Rule XLIV with respect to the measure made in Senate.
+- 2008-05-15 — Point of order against the measure raised in Senate.
+- 2008-05-15 — Senate agreed to conference report by Yea-Nay Vote. 81 - 15. Record Vote Number: 130.
+- 2008-05-20 — Presented to President.
+- 2008-05-20 — Presented to President.
