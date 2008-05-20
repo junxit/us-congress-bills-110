@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2356
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 6(d) of title 4, United States Code, is amended by inserting after “Flag Day, June 14;” the following: “Father’s Day, third Sunday in June;”. | the bill names no machine-readable US Code section |
+| `4 U.S.C. § 6` | insert | Section 6(d) of title 4, United States Code, is amended by inserting after “Flag Day, June 14;” the following: “Father’s Day, third Sunday in June;”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

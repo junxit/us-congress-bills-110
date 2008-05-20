@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2356
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2356
@@ -44,3 +44,9 @@ To amend title 4, United States Code, to encourage the display of the flag of th
 - 2007-06-11 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448). (text: CR H6189)
 - 2007-06-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 0 (Roll no. 448).(text: CR H6189)
 - 2007-06-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-05-15 — Cleared for White House.
+- 2008-05-15 — Passed Senate without amendment by Unanimous Consent.
+- 2008-05-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-05-15 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4288)
+- 2008-05-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4288)
+- 2008-05-16 — Message on Senate action sent to the House.
