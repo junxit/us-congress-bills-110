@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6074
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | The Sherman Act (15 U.S.C. 1 et seq.) is amended by adding after section 7 the following: | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (6) by striking “or” after the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (7) by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1` | amend | The Sherman Act (15 U.S.C. 1 et seq.) is amended by adding after section 7 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `28 U.S.C. § 1605` | strike | in paragraph (6) by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `28 U.S.C. § 1605` | replace | in paragraph (7) by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `28 U.S.C. § 1605` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
