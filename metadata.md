@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6081
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6081
@@ -16,7 +16,7 @@ Heroes Earnings Assistance and Relief Tax Act of 2008
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (22)
+## Cosponsors (28)
 
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 - Rep. McDermott, Jim [D-WA-7] (M000404)
@@ -40,6 +40,12 @@ Heroes Earnings Assistance and Relief Tax Act of 2008
 - Rep. Loebsack, David [D-IA-2] (L000565)
 - Rep. Tsongas, Niki [D-MA-5] (T000465)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
 
 ## Committees (1)
 
@@ -50,3 +56,12 @@ Heroes Earnings Assistance and Relief Tax Act of 2008
 - 2008-05-16 — Introduced in House
 - 2008-05-16 — Introduced in House
 - 2008-05-16 — Referred to the House Committee on Ways and Means.
+- 2008-05-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-05-20 — Considered as unfinished business. (consideration: CR H4187-4188)
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4160-4171)
+- 2008-05-20 — DEBATE - The House continued with debate on H.R. 6081.
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6081.
+- 2008-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-20 — Mr. Rangel moved to suspend the rules and pass the bill, as amended.
+- 2008-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 331). (text: CR H4160-4167)
+- 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 331).(text: CR H4160-4167)
