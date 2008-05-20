@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 961
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 961
@@ -63,3 +63,10 @@ Commending the Alaska Army National Guard for its service to the State of Alaska
 - 2008-02-06 — Introduced in House
 - 2008-02-06 — Introduced in House
 - 2008-02-06 — Referred to the House Committee on Armed Services.
+- 2008-02-29 — Referred to the Subcommittee on Military Personnel.
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4180-4182)
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 961.
+- 2008-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-20 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution.
+- 2008-05-20 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4180)
+- 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4180)
