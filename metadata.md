@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2790
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2790
@@ -61,3 +61,9 @@ To amend title 38, United States Code, to establish the position of Director of 
 - 2008-05-15 — Placed on the Union Calendar, Calendar No. 403.
 - 2008-05-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-642.
 - 2008-05-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-642.
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4183-4185)
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2790.
+- 2008-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-20 — Mr. Hare moved to suspend the rules and pass the bill, as amended.
+- 2008-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4184)
+- 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4184)
