@@ -1,7 +1,7 @@
 ---
 measure: S. 3035
 congress: 110
-version: Engrossed in Senate
+version: Introduced in Senate
 ---
 
 # S. 3035
