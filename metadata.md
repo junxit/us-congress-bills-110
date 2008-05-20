@@ -1,7 +1,7 @@
 ---
 measure: S. 431
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 431
@@ -16,7 +16,7 @@ KIDS Act of 2008
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Stevens, Ted [R-AK] (S000888)
@@ -38,6 +38,7 @@ KIDS Act of 2008
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Vitter, David [R-LA] (V000127)
+- Sen. McCain, John [R-AZ] (M000303)
 
 ## Committees (1)
 
@@ -51,3 +52,13 @@ KIDS Act of 2008
 - 2008-04-22 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2008-04-22 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
 - 2008-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 706.
+- 2008-04-28 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 110-332.
+- 2008-04-28 — By Senator Leahy from Committee on the Judiciary filed written report. Report No. 110-332.
+- 2008-05-20 — Amendment SA 4798 agreed to in Senate by Unanimous Consent.
+- 2008-05-20 — Amendment SA 4798 proposed by Senator Reid for Senator Schumer. (consideration: CR S4553) To improve the bill.
+- 2008-05-20 — Measure laid before Senate by unanimous consent. (consideration: CR S4549-4554; text of measure as reported in Senate: CR S4549-4551)
+- 2008-05-20 — Passed Senate with amendments by Unanimous Consent. (text: CR S4553-4554)
+- 2008-05-20 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S4553-4554)
+- 2008-05-20 — Senate amendment agreed to: Amendment SA 4798 agreed to in Senate by Unanimous Consent.
+- 2008-05-20 — Senate amendment proposed (on the floor): Amendment SA 4798 proposed by Senator Reid for Senator Schumer.(consideration: CR S4553)
+- 2008-05-20 — Senate amendment submitted
