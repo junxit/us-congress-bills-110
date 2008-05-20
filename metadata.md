@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1054
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1054
@@ -16,7 +16,7 @@ Honoring the service and achievements of women in the Armed Forces and female ve
 
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 
-## Cosponsors (29)
+## Cosponsors (47)
 
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
@@ -47,6 +47,24 @@ Honoring the service and achievements of women in the Armed Forces and female ve
 - Rep. Castor, Kathy [D-FL-11] (C001066)
 - Rep. Drake, Thelma D. [R-VA-2] (D000605)
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
 ## Committees (2)
 
@@ -61,3 +79,10 @@ Honoring the service and achievements of women in the Armed Forces and female ve
 - 2008-03-14 — Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-03-14 — Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-03-14 — Sponsor introductory remarks on measure. (CR E430-431)
+- 2008-04-10 — Referred to the Subcommittee on Military Personnel.
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4178-4180)
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1054.
+- 2008-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-20 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-05-20 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4178)
+- 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4178)

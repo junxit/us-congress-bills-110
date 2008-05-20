@@ -2,7 +2,7 @@
 legis-num: H. RES. 1054
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1054
@@ -15,7 +15,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 34,000 women served in World War I, 400,000 served in World War II, 120,000 served in the Korean War, over 7,000 served in the Vietnam War, and more than 41,000 served in the first Gulf War;
 - Whereas more than 185,000 women have been deployed in support of Operation Enduring Freedom, Operation Iraqi Freedom, and other missions since 2001;
 - Whereas over 350 service women have given their lives for our Nation in combat zones since World War I, and more than 85 have been held as prisoners of war;
-- Whereas almost 350,000 women serving in the Armed Forces make up almost 15 percent of active duty personnel and over 17 percent of the National Guard reserve forces;
+- Whereas over 350,000 women serving in the Armed Forces make up approximately 15 percent of active duty personnel, 15 percent of Reserves, and 17 percent of the National Guard;
 - Whereas women are now playing an increasingly important role in America’s military forces; and
 - Whereas the women of America’s military, past and present, have served their nation in times of peace and war, at great personal sacrifice for both themselves and their families: Now, therefore, be it
 
