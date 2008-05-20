@@ -2,7 +2,7 @@
 legis-num: H. RES. 1208
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1208
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas 12,000,000 Americans spend time in foster care;
 - Whereas every year, more than 24,000 youth turn age 18 while in foster care;
 - Whereas the safekeeping of most youth who age out of foster care is the responsibility of the State governments, which receive Federal funding to assist them in doing so;
-- Whereas family reunification, kinship care, and adoption are the preferred solutions for children who are placed in foster care; and
+- Whereas family reunification, kinship care, and adoption are the preferred solutions for children who are placed in foster care;
 - Whereas Congress created a new Independent Living initiative in 1986, and expanded the program by passing the Chaffee Foster Care Independence Act in 1999 to assist youth who are emancipated while in foster care: Now, therefore, be it
 
 That the House of Representatives—
