@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5959
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5959
@@ -25,3 +25,6 @@ Intelligence Authorization Act for Fiscal Year 2009
 - 2008-05-05 — Introduced in House
 - 2008-05-05 — Introduced in House
 - 2008-05-05 — Referred to the House Committee on Intelligence (Permanent Select).
+- 2008-05-21 — Placed on the Union Calendar, Calendar No. 418.
+- 2008-05-21 — Reported (Amended) by the Committee on Intelligence (Permanent). H. Rept. 110-665.
+- 2008-05-21 — Reported (Amended) by the Committee on Intelligence (Permanent). H. Rept. 110-665.
