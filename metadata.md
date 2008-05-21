@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3480
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3480
@@ -80,3 +80,12 @@ Let Our Veterans Rest in Peace Act of 2008
 - 2008-05-15 — Placed on the Union Calendar, Calendar No. 408.
 - 2008-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-647.
 - 2008-05-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-647.
+- 2008-05-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (IA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-19 — Considered under suspension of the rules. (consideration: CR H4109-4111)
+- 2008-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3480.
+- 2008-05-19 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2008-05-21 — Considered as unfinished business. (consideration: CR H4433)
+- 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/19/2008 H4109)
+- 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/19/2008 H4109)
+- 2008-05-21 — The title of the measure was amended. Agreed to without objection.
