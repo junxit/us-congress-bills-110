@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 79
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 79
@@ -20,9 +20,10 @@ A concurrent resolution congratulating and saluting Focus: HOPE on its 40th anni
 
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A concurrent resolution congratulating and saluting Focus: HOPE on its 40th anni
 - 2008-05-20 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S4555-4556)
 - 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4555-4556)
 - 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4555-4556)
+- 2008-05-21 — Message on Senate action sent to the House.
+- 2008-05-21 — Received in the House.
+- 2008-05-21 — Referred to the House Committee on Oversight and Government Reform.
