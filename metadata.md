@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5826
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5826
@@ -30,6 +30,10 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2008
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2008-05-21 — [House 110-2-348](votes/house-110-2-0348.md) — On Motion to Suspend the Rules and Pass — **Passed** (417–0)
+
 ## Actions
 
 - 2008-04-16 — Introduced in House
@@ -42,3 +46,11 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2008
 - 2008-05-15 — Placed on the Union Calendar, Calendar No. 404.
 - 2008-05-15 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-643.
 - 2008-05-15 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-643.
+- 2008-05-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4198-4199)
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5826.
+- 2008-05-20 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2008-05-21 — Considered as unfinished business. (consideration: CR H4412-4413)
+- 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 348). (text: CR 5/20/2008 H4198)
+- 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 348).(text: CR 5/20/2008 H4198)
