@@ -2,7 +2,7 @@
 legis-num: H. RES. 1152
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1152
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas Arnold Palmer’s charitable endeavors span across the United States, from the Arnold Palmer Prostate Center in Rancho Mirage, California, to the Winnie Palmer Hospital for Women and Babies in Orlando, Florida;
 - Whereas Arnold Palmer possesses a charismatic personality and a sense of kindness and generosity that has endeared him to millions;
 - Whereas the United States Golf Association has its headquarters in Far Hills, New Jersey, in the 7th Congressional District;
-- Whereas United States Golf Association President Fred Ridley has said that Arnold Palmer conducts himself “with a gracious manner that has made him the game’s most eloquent diplomat”; and
+- Whereas United States Golf Association President Jim Vernon has said that “Arnold Palmer embodies the integrity and passion at the heart of the game of golf, as well as the gracious spirit of our Nation”; and
 - Whereas on June 3, 2008, the United States Golf Association will honor Arnold Palmer with the opening of the Arnold Palmer Center for Golf History in the United States Golf Association Museum in Bernards Township, New Jersey: Now, therefore, be it
 
 That the House of Representatives—
