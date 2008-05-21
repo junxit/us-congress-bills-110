@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Veterans Emergency Care Fairness Act of 2007”.
+This Act may be cited as the “Veterans Emergency Care Fairness Act of 2008”.
 
 ## § 2. Mandatory reimbursement of veterans receiving emergency treatment in non-Department of Veterans Affairs facilities until transfer to Department facilities
 
@@ -26,7 +26,7 @@ This Act may be cited as the “Veterans Emergency Care Fairness Act of 2007”.
 
 - **(b)** *Certain veterans with service-connected disability* Section 1728 of such title is amended—
   - **(1)** by striking subsection (a) and inserting the following new subsection (a):
-    > - **(a)** The Secretary shall, under such regulations as the Secretary shall prescribe, reimburse veterans entitled to hospital care or medical services under this chapter for the reasonable value of emergency treatment (including travel and incidental expenses under the terms and conditions set forth in section 111 of this title) for which such veterans have made payment, from sources other than the Department, where such emergency treatment was rendered to such veterans in need thereof for any of the following:
+    > - **(a)** The Secretary, under such regulations as the Secretary shall prescribe, shall reimburse veterans entitled to hospital care or medical services under this chapter for the reasonable value of emergency treatment (including travel and incidental expenses under the terms and conditions set forth in section 111 of this title) for which such veterans have made payment, from sources other than the Department, where such emergency treatment was rendered to such veterans in need thereof for any of the following:
     >   - **(1)** An adjudicated service-connected disability.
     >   - **(2)** A non-service-connected disability associated with and held to be aggravating a service-connected disability.
     >   - **(3)** Any disability of a veteran in the veteran has a total disability permanent in nature from a service-connected disability.
