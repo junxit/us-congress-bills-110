@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5787
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,15 +31,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 524 of title 40, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | The item relating to section 524 in the table of sections at the beginning of chapter 5 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 524` | amend | Section 524 of title 40, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 524` | amend | The item relating to section 524 in the table of sections at the beginning of chapter 5 of such title is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 572` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 572` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 572` | add-at-end | Section 572(a)(2)(A) of title 40, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 572` | insert | by inserting “(A)” after “(1) In general.—”; and | the bill quotes the text inserted but describes where it goes |
-| `40 U.S.C. § 572` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 572` | insert | by inserting “(1)” after “this section.—”; and | the bill quotes the text inserted but describes where it goes |
-| `40 U.S.C. § 572` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 572` | insert | by inserting “(1)” after “this section.—”; and | the bill quotes the text inserted but describes where it goes |
-| `40 U.S.C. § 572` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | amend | The text of section 571 of title 40, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 550` | insert | by inserting “(A)” after “(1) In general.—”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 550` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 553` | insert | by inserting “(1)” after “this section.—”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 553` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 554` | insert | by inserting “(1)” after “this section.—”; and | the bill quotes the text inserted but describes where it goes |
+| `40 U.S.C. § 554` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 571` | amend | The text of section 571 of title 40, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

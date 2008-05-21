@@ -71,34 +71,34 @@ Section 572(a)(2) of title 40, United States Code, is amended—
 
 ## § 5. Enhanced authorities with regard to reverted real property
 
-- **(a)** *Authority To pay expenses related to reverted real property* Section 572(a)(2)(A) of title 40, United States Code, is amended by adding at the end the following:
+- **(a)** *Authority to pay expenses related to reverted real property* Section 572(a)(2)(A) of title 40, United States Code, is amended by adding at the end the following:
   > - **(iv)** The direct and indirect costs associated with the reversion, custody, and disposal of reverted real property.
 
 - **(b)** *Requirements related to sales of reverted property under section 550* Section 550(b)(1) of title 40, United States Code, is amended—
   - **(1)** by inserting “(A)” after “(1) In general.—”; and
   - **(2)** by adding at the end the following:
-    > If the official, in consultation with the Administrator, recommends reversion of the property, the Administrator shall take control of such property, and, subject to subparagraph (B), sell it at fair market value for cash and not by lease, exchange, or leaseback arrangements.
+    > If the official, in consultation with the Administrator, recommends reversion of the property, the Administrator shall take control of such property, and, subject to subparagraph (B), sell it at or above appraised fair market value for cash and not by lease, exchange, or leaseback arrangements.
     > - **(B)** Prior to sale, the Administrator shall make such property available to State and local governments and certain non-profit institutions or organizations pursuant to this section and sections 553 and 554 of this title.
 
 - **(c)** *Requirements related to sales of reverted property under section 553* Section 553(e) of title 40, United States Code, is amended—
   - **(1)** by inserting “(1)” after “this section.—”; and
   - **(2)** by adding at the end the following:
-    > If the Administrator determines that reversion of the property is necessary to enforce compliance with the terms of the conveyance, the Administrator shall take control of such property and, subject to paragraph (2), sell it at fair market value for cash and not by lease, exchange, or leaseback arrangements.
+    > If the Administrator determines that reversion of the property is necessary to enforce compliance with the terms of the conveyance, the Administrator shall take control of such property and, subject to paragraph (2), sell it at or above appraised fair market value for cash and not by lease, exchange, or leaseback arrangements.
     > - **(2)** Prior to sale, the Administrator shall make such property available to State and local governments and certain non-profit institutions or organizations pursuant to this section and sections 550 and 554 of this title.
 
 - **(d)** *Requirements related to sales of reverted property under section 554* Section 554(f) of title 40, United States Code, is amended—
   - **(1)** by inserting “(1)” after “this section.—”; and
   - **(2)** by adding at the end the following:
-    > If the Secretary, in consultation with the Administrator, recommends reversion of the property, the Administrator shall take control of such property and, subject to paragraph (2), sell it at fair market value for cash and not by lease, exchange, or leaseback arrangements.
+    > If the Secretary, in consultation with the Administrator, recommends reversion of the property, the Administrator shall take control of such property and, subject to paragraph (2), sell it at or above appraised fair market value for cash and not by lease, exchange, or leaseback arrangements.
     > - **(2)** Prior to sale, the Administrator shall make such property available to State and local governments and certain non-profit institutions or organizations pursuant to this section and sections 550 and 553 of this title.
 
 ## § 6. Agency retention of proceeds
 
 The text of section 571 of title 40, United States Code, is amended to read as follows:
 
-> - **(a)** *Deposit of proceeds* Proceeds described in subsection (d) shall be deposited into the appropriate real property account of the agency that had custody and accountability for the real property. Such funds shall be expended only as authorized in annual appropriations Acts and only for activities as described in section 524(b) of this title and disposal activities, including paying costs incurred by the General Services Administration for any disposal-related activity authorized by this title. Proceeds shall not be expended for activities or projects subject to the requirements of section 3307 of this title.
+> - **(a)** *Deposit of proceeds* Net proceeds described in subsection (d) shall be deposited into the appropriate real property account of the agency that had custody and accountability for the real property. Such funds shall be expended only as authorized in annual appropriations Acts and only for activities as described in section 524(b) of this title and disposal activities, including paying costs incurred by the General Services Administration for any disposal-related activity authorized by this title. Proceeds shall not be expended for activities or projects subject to the requirements of section 3307 of this title.
 > - **(b)** *Effect on other sections* Nothing in this section is intended to affect section 572(b) or 574 of this title.
 > - **(c)** *Disposal agency for reverted property* For the purposes of this section, the General Services Administration, as the disposal agency, shall be treated as the agency with custody and accountability for properties which revert to the United States under sections 550, 553, and 554 of this title.
-> - **(d)** *Proceeds* The proceeds referred to in subsection (a) are proceeds under this chapter from a—
->   - **(1)** transfer of excess property to a Federal agency for agency use; or
+> - **(d)** *Proceeds* The net proceeds referred to in subsection (a) are proceeds under this chapter from a—
+>   - **(1)** transfer of excess property to a federal agency for agency use; or
 >   - **(2)** sale, lease, or other disposition of surplus property.
