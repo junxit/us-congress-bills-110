@@ -14,8 +14,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the vigilance of the members of the Armed Forces has been instrumental to the preservation of the freedom, security, and prosperity enjoyed by the people of the United States;
 - Whereas the success of the Armed Forces depends on the dedicated service of its members, their families, and the civilian employees of the Department of Defense and the Coast Guard;
 - Whereas the role of the United States as a world leader requires a military force that is well-trained, well-equipped, and appropriately sized;
-- Whereas to maintain such a force, the youth of the United States must possess a commitment to military service sufficient to achieve the levels of recruitment and retention necessary to sustain the strength, vitality, and character of the Armed Forces;
-- Whereas to foster and sustain such a commitment it is vital for the youth of the United States to understand that the service provided by members of the Armed Forces is an honorable legacy that protects the freedoms enjoyed by citizens of the United States as well as citizens of many other nations;
 - Whereas the Federal Government has a responsibility to raise awareness of and respect for this aspect of the heritage of the United States and to encourage the people of the United States to dedicate themselves to the values and principles for which Americans have served and sacrificed throughout the history of the Nation;
 - Whereas service in the Armed Forces entails special hazards and demands extraordinary sacrifices from service members and their families;
 - Whereas the support of the families of service members enhances the effectiveness and capabilities of the Armed Forces;
