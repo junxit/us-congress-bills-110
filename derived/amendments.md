@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2517
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -52,6 +52,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 5771` | amend | Section 402 of the Missing Children’s Assistance Act (42 U.S.C. 5771) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5714-11` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5771` | strike | by striking section 407; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5771` | redesignate | by redesignating section 408 as section 407. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5773` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | by striking section 407; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 408 as section 407. | the bill names no machine-readable US Code section |
