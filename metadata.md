@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 309
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 309
@@ -47,3 +47,7 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2008-05-19 — Placed on the House Calendar, Calendar No. 222.
 - 2008-05-19 — Reported by the Committee on Transportation. H. Rept. 110-656.
 - 2008-05-19 — Reported by the Committee on Transportation. H. Rept. 110-656.
+- 2008-05-21 — Considered as unfinished business. (consideration: CR H4432)
+- 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2008 H4100)
+- 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 5/19/2008 H4100)
