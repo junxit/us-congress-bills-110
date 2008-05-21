@@ -2,7 +2,7 @@
 legis-num: H. RES. 1022
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1022
@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas more than 536,000 women die during pregnancy and childbirth every year which is one every minute;
-- Whereas in 15 percent of all pregnancies, the complications are life-threatening;
-- Whereas girls under 15 are 5 times more likely to die in childbirth than women in their 20s;
+- Whereas an estimated 536,000 women die during pregnancy and childbirth every year which is equivalent to one death every minute;
+- Whereas an estimated 15 percent of pregnancies and childbirths involve unpredictable and often life-threatening complications that require emergency care;
+- Whereas girls under 15 are estimated to be 5 times more likely to die during childbirth than women in their 20s;
 - Whereas nearly all these deaths are preventable;
 - Whereas survival rates greatly depend upon the distance and time a woman must travel to get skilled emergency medical care;
 - Whereas care by skilled birth attendants, nurses, midwives, or doctors during pregnancy and childbirth, including emergency services, and care for mothers and newborns is essential;
@@ -31,5 +31,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** makes a stronger commitment to reducing maternal mortality both at home and abroad through greater financial investment and participation in global initiatives; and
-- **(2)** recognizes maternal health as a human right.
+- **(1)** affirms its commitment to promoting maternal health and child survival both at home and abroad through greater international investment and participation; and
+- **(2)** recognizes maternal health and child survival as fundamental to the well-being of families and societies, and to global development and prosperity.
