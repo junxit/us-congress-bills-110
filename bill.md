@@ -2,7 +2,7 @@
 legis-num: H. RES. 1124
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1124
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas some 10–15 percent of all persons with cancer will experience a metastatic brain tumor at some point;
 - Whereas brain tumors may be either malignant or benign, but can be life-threatening in either case;
 - Whereas treatment of brain tumors is complicated by the more than 120 different types of such tumors;
-- Whereas national priorities for dealing with brain tumors include— (1)protecting research programs at the National Cancer Institute such as the Specialized Programs of Research Excellence brain tumor programs; (2)strengthening brain tumor research program leadership at the National Institutes of Health, including the National Cancer Institute; and (3)eliminating the current two-year waiting period for Medicare benefits;
+- Whereas national priorities for dealing with brain tumors include— (1)supporting research programs at the National Cancer Institute; (2)strengthening brain tumor research program leadership at the National Institutes of Health, including the National Cancer Institute; and (3)strengthening access to critical healthcare services for Medicare beneficiaries;
 - Whereas the North American Brain Tumor Coalition established a Brain Tumor Action Week during the first week of May 2007 and each subsequent first week in May;
 - Whereas the Lori Arquilla Andersen Foundation is recognized for their efforts to promote awareness of the life-threatening effects of brain tumors, to advocate on behalf of brain tumor patients, and to raise funds for medical research;
 - Whereas Accelerate Brain Cancer Cure is recognized for their work to bring more treatments to patients, stimulate research and development and otherwise support the accelerated development of new therapies for brain cancer;
