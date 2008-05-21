@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 339
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 339
@@ -60,3 +60,7 @@ Supporting the goals of Motorcycle Safety Awareness Month.
 - 2008-05-19 — Placed on the House Calendar, Calendar No. 221.
 - 2008-05-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-655.
 - 2008-05-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-655.
+- 2008-05-21 — Considered as unfinished business. (consideration: CR H4432)
+- 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-21 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 5/19/2008 H4100-4101)
+- 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 5/19/2008 H4100-4101)

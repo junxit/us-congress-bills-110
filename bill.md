@@ -2,7 +2,7 @@
 legis-num: H. RES. 339
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 339
@@ -24,5 +24,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** recognizes the contribution motorcycles make to the transportation mix;
-- **(2)** encourages all road users to be more aware of motorcycles and motorcyclists’ safety; and
-- **(3)** supports the goals of Motorcycle Safety Awareness Month.
+- **(2)** encourages all road users to be more aware of motorcycles and motorcyclists’ safety;
+- **(3)** encourages all riders to receive appropriate training and practice safe riding skills; and
+- **(4)** supports the goals of Motorcycle Safety Awareness Month.
