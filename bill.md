@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 134
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,18 +19,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas according to a report from the Office of Minority and National Affairs for the American Psychiatric Association, although mental illness impacts all people, African Americans experience a much greater unmet need for mental health services and receive a lesser quality of care, thereby resulting in mental health disparities;
 - Whereas the three major brain diseases—schizophrenia, bipolar disorder, and depression—adversely affect the economy, contribute to the rise in incarceration rates, and erode the quality of family life of those involved;
 - Whereas nearly two-thirds of all people with a diagnosable mental illness do not seek mental health treatment due to stigma, lack of community-based resources, inadequate diagnosis, or no diagnosis;
-- Whereas according to the June 28, 2005, Washington Post article “Racial Disparities Found in Pinpointing Mental Illness”, African Americans in the United States are more than four times as likely to be diagnosed with schizophrenia as Caucasians, and Hispanics are more than three times as likely to be diagnosed as Caucasians;
-- Whereas communities of color are in need of culturally and linguistically competent mental health resources, including the provision of mental health services by health care providers from multi-ethnic communities, and the training of all health care providers to serve multi-ethnic consumers;
+- Whereas communities of color are in need of culturally competent mental health resources and the training of all health care providers to serve multi-ethnic consumers;
 - Whereas advocacy for traditional mental health organizations must be encouraged to incorporate and integrate minority mental health education and outreach within their respective portfolios;
-- Whereas there are disproportionate numbers of African Americans, Latinos, Asians, and others of color affected by a lack of resources for mental illness, and they comprise racially, ethnically, and linguistically unserved, underserved, and inappropriately served communities within the mental health system;
-- Whereas the 2002 Building Blocks for Youth “Action Report on Behalf of Latino and Latina Youth in the U.S. Justice System” highlighted the alarmingly disproportionate rates of Latinos and African-American youth in the justice system and indicated these youth receive harsher treatment than Caucasian youth charged for the same types of offenses and many of these youth have emotional disorders and mental health problems;
 - Whereas other research studies estimate that 50 to 70 percent of all youth in the juvenile justice system have mental health problems that are usually undiagnosed, misdiagnosed, untreated, or badly treated, thus leaving those incarcerated in vulnerable conditions;
 - Whereas minority mental health consumers often fall into the category of the “working poor”, facing additional challenges because they are underinsured or uninsured, which often leads to late diagnosis or no diagnosis of mental illness;
-- Whereas the faith, customs, values, and traditions of a variety of African Americans, Latinos, Asians, and other underserved groups must be taken into consideration when attempting to treat and diagnose mental illnesses;
+- Whereas the faith, customs, values, and traditions of a variety of ethnic groups should be taken into consideration when attempting to treat and diagnose mental illnesses;
 - Whereas a small percentage of African Americans receive mental health treatment, and a significant percentage refuse treatment or view mental health treatment as the “treatment of last resort”, due to the stigma associated with mental illness;
 - Whereas according to the 1999 Surgeon General’s Report on Mental Illness, African Americans are misdiagnosed at a higher rate within the mental health delivery system, and greater effort must be made to accurately assess the mental health of African Americans;
 - Whereas there is a need to improve public awareness of mental illness and to strengthen local and national awareness of brain diseases in order to assist with advocacy for persons of color with mental illness, so that they may receive adequate and appropriate treatment that will result in their becoming fully functioning members of society;
-- Whereas there is a need for culturally competent mental health service delivery for people of color;
 - Whereas community mobilization of resources is needed to educate, advocate for, and train mental health providers to help remove barriers to treatment of mental disorders;
 - Whereas access to mental health treatment and services is of paramount importance;
 - Whereas there is a need to encourage primary care physicians to offer screening, partner with mental health providers, and seek the appropriate referral to specialists and to encourage timely and accurate diagnosis;
@@ -40,6 +36,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That it is the sense of Congress that—
 
-- **(1)** open access to mental health treatment and services and public awareness of mental illness is of paramount importance;
-- **(2)** there is an important need for improved access to care, treatment and services, including employment and housing for those diagnosed with severe and persistent mental health disorders, and improved public awareness of mental illness; and
+- **(1)** improved access to mental health treatment and services and public awareness of mental illness are of paramount importance;
+- **(2)** there is an important need for improved access to care, treatment, and services for those diagnosed with severe and persistent mental health disorders and improved public awareness of mental illness; and
 - **(3)** an appropriate month should be recognized as Bebe Moore Campbell National Minority Mental Health Awareness Month to enhance public awareness of mental illness and mental illness among minorities.
