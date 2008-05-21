@@ -109,24 +109,13 @@ In this Act:
 ## § 5. Crane Conservation Fund
 
 - **(a)** *Establishment* There is established in the Multinational Species Conservation Fund established by the matter under the heading “MULTINATIONAL SPECIES CONSERVATION FUND” in title I of the Department of the Interior and Related Agencies Appropriations Act, 1999 (112 Stat. 2681–237; 16 U.S.C. 4246) a separate account to be known as the “Crane Conservation Fund”, consisting of—
-  - **(1)** amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e);
-  - **(2)** amounts appropriated to the Fund under section 7; and
-  - **(3)** any interest earned on investment of amounts in the Fund under subsection (c).
+  - **(1)** amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (c); and
+  - **(2)** amounts appropriated to the Fund under section 7.
 - **(b)** *Expenditures From Fund*
   - **(1)** *In general* Subject to paragraphs (2) and (3), upon request by the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary, without further appropriation, such amounts as the Secretary determines are necessary to provide assistance under section 4.
   - **(2)** *Administrative expenses* Of the amounts in the Fund available for each fiscal year, the Secretary may expend not more than 3 percent, or $150,000, whichever is greater, to pay the administrative expenses necessary to carry out this Act.
   - **(3)** *Limitation* Not more than 20 percent of the amounts made available from the Fund for any fiscal year may be used for projects relating to the conservation of North American crane species.
-- **(c)** *Investments of Amounts*
-  - **(1)** *In general* The Secretary of the Treasury shall invest such portion of the Fund as is not, in the judgment of the Secretary of the Treasury, required to meet current withdrawals. Investments may be made only in interest-bearing obligations of the United States.
-  - **(2)** *Acquisition of obligations* For the purpose of investments under paragraph (1), obligations may be acquired—
-    - **(A)** on original issue at the issue price; or
-    - **(B)** by purchase of outstanding obligations at the market price.
-  - **(3)** *Sale of obligations* Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
-  - **(4)** *Credits to fund* The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
-- **(d)** *Transfers of Amounts*
-  - **(1)** *In general* The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
-  - **(2)** *Adjustments* Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
-- **(e)** *Acceptance and Use of Donations*
+- **(c)** *Acceptance and Use of Donations*
   - **(1)** *In general* The Secretary may accept and use donations to provide assistance under section 4.
   - **(2)** *Transfer of donations* Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit in the Fund.
 
@@ -143,4 +132,4 @@ In this Act:
 
 ## § 7. Funding
 
-There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
+There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2009 through 2013, to remain available until expended.

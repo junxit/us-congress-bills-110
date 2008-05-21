@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1771
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1771
@@ -44,3 +44,11 @@ Crane Conservation Act of 2008
 - 2008-05-13 — Placed on the Union Calendar, Calendar No. 397.
 - 2008-05-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-635.
 - 2008-05-13 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-635.
+- 2008-05-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-19 — Considered under suspension of the rules. (consideration: CR H4071-4073)
+- 2008-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1771.
+- 2008-05-19 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2008-05-21 — Considered as unfinished business. (consideration: CR H4401)
+- 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 304 - 118 (Roll No. 345). (text: CR 5/19/2008 H4071-4072)
+- 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 304 - 118 (Roll No. 345).(text: CR 5/19/2008 H4071-4072)
