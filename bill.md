@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 752
 
-> To direct Federal agencies to donate excess and surplus Federal electronic equipment, including computers, computer components, printers, and fax machines, to qualifying small towns, counties, schools, nonprofit organizations, and libraries.
+> To direct Federal agencies to transfer excess Federal electronic equipment, including computers, computer components, printers, and fax machines, to educational recipients.
 
 ## § 1. Short title
 
@@ -18,10 +18,10 @@ This Act may be cited as the “Federal Electronic Equipment Donation Act of 200
 - **(a)** *Transfer of Equipment to educational Entities*
   - **(1)** *In general* Each Federal agency shall identify useful Federal electronic equipment that the agency has determined is excess to its needs and—
     - **(A)** report such equipment to the Administrator of General Services for processing for transfer to an educational recipient in accordance with section 549 of title 40, United States Code;
-    - **(B)** transfer such equipment directly to an educational recipient, through an arrangement made by the Administrator of General Services under subsection (b);
-    - **(C)** transfer such equipment directly to an educational recipient pursuant to section 11(i) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(i)); or
-    - **(D)** report such equipment to the Administrator of General Services as excess property if transfer under subparagraphs (A) through (C) is not practicable.
-  - **(2)** *Management of nontransferable equipment* For equipment reported under paragraph (1)(D), the Administrator of General Services shall manage the equipment in accordance with subchapters II and III of title 40, United States Code.
+    - **(B)** transfer such equipment directly to an educational recipient, through an arrangement made by the Administrator of General Services under subsection (b); or
+    - **(C)** report such equipment to the Administrator of General Services as excess property if transfer under subparagraph (A) or (B) is not practicable.
+  - **(2)** *Management of nontransferable equipment* For equipment reported under paragraph (1)(C), the Administrator of General Services shall manage the equipment in accordance with subchapters II and III of title 40, United States Code.
+  - **(3)** *Exception* Equipment transferred pursuant to section 11(i) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(i) is neither transferred pursuant to this Act nor subject to this Act’s requirements.
 - **(b)** *Advance Reporting of Equipment to GSA* Each Federal agency shall report to the Administrator of General Services the availability of useful Federal electronic equipment as far as possible in advance of the date the equipment is expected to become excess to its needs, so that the Administrator may attempt to arrange for the direct transfer from the donating agency to educational recipients.
 - **(c)** *Use of nonprofit refurbishers* In transferring any equipment pursuant to this Act, at the request of the educational recipient and if appropriate, if the equipment is not classroom-usable, the transferring agency shall convey the equipment initially to a nonprofit refurbisher for upgrade before transfer to the educational recipient.
 - **(d)** *Removal of data before transfer* In transferring any equipment pursuant to this Act, the transferring agency shall remove data from the equipment prior to transfer to the educational recipient according to accepted sanitization procedures. To the maximum extent practicable, the transferring agency shall remove data using a means that does not remove, disable, destroy, or otherwise render unusable the equipment or components.
