@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4841
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4841
@@ -42,3 +42,10 @@ Soboba Band of Luiseno Indians Settlement Act
 - 2008-05-15 — Placed on the Union Calendar, Calendar No. 410.
 - 2008-05-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-649.
 - 2008-05-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-649.
+- 2008-05-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-19 — Considered under suspension of the rules. (consideration: CR H4075-4078)
+- 2008-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4841.
+- 2008-05-19 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
