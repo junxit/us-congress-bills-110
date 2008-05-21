@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2517
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 2517
@@ -114,9 +114,10 @@ Protecting Our Children Comes First Act of 2007
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -133,3 +134,10 @@ Protecting Our Children Comes First Act of 2007
 - 2007-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 1132). (text: CR H14186-14187)
 - 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 3 (Roll no. 1132).(text: CR H14186-14187)
 - 2007-12-05 — Received in the Senate.
+- 2008-01-22 — Read twice and referred to the Committee on the Judiciary.
+- 2008-05-20 — Cleared for White House.
+- 2008-05-20 — Passed Senate without amendment by Unanimous Consent.
+- 2008-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4549)
+- 2008-05-20 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S4549)
+- 2008-05-21 — Message on Senate action sent to the House.
