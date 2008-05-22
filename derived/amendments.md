@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5540
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
