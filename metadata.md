@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 567
 congress: 110
-version: Agreed to Senate
+version: Reported to Senate
 ---
 
 # S.Res. 567
