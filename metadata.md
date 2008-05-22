@@ -1,7 +1,7 @@
 ---
 measure: S. 2982
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2982
@@ -29,3 +29,7 @@ Reconnecting Homeless Youth Act of 2008
 - 2008-05-06 — Introduced in Senate
 - 2008-05-06 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S3796-3798)
 - 2008-05-06 — Sponsor introductory remarks on measure. (CR S3795-3796)
+- 2008-05-22 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.
+- 2008-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 751.
