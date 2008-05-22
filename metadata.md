@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5658
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5658
@@ -52,3 +52,219 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 - 2008-05-16 — Placed on the Union Calendar, Calendar No. 413.
 - 2008-05-16 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-652.
 - 2008-05-16 — Reported (Amended) by the Committee on Armed Services. H. Rept. 110-652.
+- 2008-05-20 — PERMISSION TO FILE REPORT - Mr. Skelton asked unanimous consent that the Committee on Armed Services be permitted to file a supplemental report on the bill H.R. 5658. Agreed to without objection.
+- 2008-05-20 — Rules Committee Resolution H. Res. 1213 Reported to House. Rule provides for consideration of H.R. 5658 with 2 hours of general debate. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2008-05-20 — Supplemental report filed by the Committee on Armed Services, H. Rept. 110-652, Part II.
+- 2008-05-20 — Supplemental report filed by the Committee on Armed Services, H. Rept. 110-652, Part II.
+- 2008-05-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 5658 as unfinished business.
+- 2008-05-21 — Considered under the provisions of rule H. Res. 1213. (consideration: CR H4416-4432)
+- 2008-05-21 — GENERAL DEBATE - The Committee of the Whole proceeded with two hours of general debate on H.R. 5658.
+- 2008-05-21 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1213 and Rule XVIII.
+- 2008-05-21 — Rule H. Res. 1213 passed House.
+- 2008-05-21 — Rule provides for consideration of H.R. 5658 with 2 hours of general debate. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2008-05-21 — Rules Committee Resolution H. Res. 1218 Reported to House. Rule provides for consideration of H.R. 5658. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. No further general debate shall be in order. It shall be in order to consider as an original bill for the purpose of amendment under the five-minute rule the amendment in the nature of a substitute recommended by the Committeee on Armed Services now printed in the bill. All points of order against the committee amendment in the nature of a substitute are waived except those arising under clause 10 of rule XXI.
+- 2008-05-21 — The Speaker designated the Honorable Jesse L. Jackson Jr. to act as Chairman of the Committee.
+- 2008-05-22 — Amendment (A001) offered by Mr. Skelton. (consideration: CR H4741-4742; text: CR H4741-4742)
+- 2008-05-22 — Amendment (A002) offered by Mr. Skelton. (consideration: CR H4742-4745; text: CR H4742-4743)
+- 2008-05-22 — Amendment (A003) offered by Mr. Akin. (consideration: CR H4745-4746, 5/23/2008 H4787; text: CR H4745)
+- 2008-05-22 — Amendment (A005) offered by Mr. Franks (AZ). (consideration: CR H4756-4759, 5/23/2008 H4788; text: CR H4757)
+- 2008-05-22 — Amendment (A006) offered by Mr. Tierney. (consideration: CR H4759-4762, 5/23/2008 H4788-4789; text: CR H4759-4760)
+- 2008-05-22 — Amendment (A007) offered by Mr. Pearce. (consideration: CR H4763-4764, 5/23/2008 H4789; text: CR H4763)
+- 2008-05-22 — Amendment (A008) offered by Mr. Boren. (consideration: CR H4764-4766; text: CR H4764)
+- 2008-05-22 — Amendment (A009) offered by Mr. Waxman. (consideration: CR H4766-4774; text: CR H4766-4771)
+- 2008-05-22 — Amendment (A010) offered by Ms. Lee. (consideration: CR H4774-4777, 5/23/2008 H4790; text: CR H4774)
+- 2008-05-22 — Amendment (A011) offered by Mr. Israel. (consideration: CR H4777-4778; text: CR H4777)
+- 2008-05-22 — Amendment (A012) offered by Mr. Braley (IA). (consideration: CR 5/23/2008 H4779-4781, H4790-4791; text: CR 5/23/2008 H4779-4780)
+- 2008-05-22 — Amendment (A014) offered by Mr. Flake. (consideration: CR 5/23/2008 H4791-4794; text: CR 5/23/2008 H4791)
+- 2008-05-22 — Amendment (A015) offered by Mr. Bishop (GA). (consideration: CR 5/23/2008 H4794; text: CR 5/23/2008 H4794)
+- 2008-05-22 — Amendment (A016) offered by Mr. Price (NC). (consideration: CR 5/23/2008 H4794-4796, H4810; text: CR 5/23/2008 H4794)
+- 2008-05-22 — Amendment (A017) offered by Mr. Holt. (consideration: CR 5/23/2008 H4796-4797, H4810-4811; text: CR 5/23/2008 H4796)
+- 2008-05-22 — Amendment (A018) offered by Mr. McGovern. (consideration: CR 5/23/2008 H4797-4801, H4811-4812; text: CR 5/23/2008 H4798)
+- 2008-05-22 — Amendment (A019) offered by Mr. Ellsworth. (consideration: CR 5/23/2008 H4801; text: CR 5/23/2008 H4801)
+- 2008-05-22 — Amendment (A020) offered by Mr. Hodes. (consideration: CR 5/23/2008 H4801-4804; text: CR 5/23/2008 H4801-4802)
+- 2008-05-22 — Amendment (A021) offered by Mr. Foster. (consideration: CR 5/23/2008 H4804-4806; text: CR 5/23/2008 H4804-4805)
+- 2008-05-22 — Amendment (A022) offered by Ms. Schwartz. (consideration: CR 5/23/2008 H4806-4807; text: CR 5/23/2008 H4806)
+- 2008-05-22 — Amendment (A023) offered by Mr. Spratt. (consideration: CR 5/23/2008 H4807-4810; text: CR 5/23/2008 H4807)
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment agreed to Committee of the Whole
+- 2008-05-22 — Amendment failed in Committee of the Whole
+- 2008-05-22 — Amendment failed in Committee of the Whole
+- 2008-05-22 — Amendment failed in Committee of the Whole
+- 2008-05-22 — Amendment failed in Committee of the Whole
+- 2008-05-22 — Amendments (A004) offered by Mr. Skelton. (consideration: CR H4746-4756; text en bloc: CR H4746-4753)
+- 2008-05-22 — Amendments (A013) offered by Mr. Skelton. (consideration: CR 5/23/2008 H4781-4787; text en block: CR 5/23/2008 H4781-4784)
+- 2008-05-22 — By unanimous consent, the Flake amendment was withdrawn.
+- 2008-05-22 — Committee of the Whole House on the state of the Union rises leaving H.R. 5658 as unfinished business.
+- 2008-05-22 — Considered as unfinished business. (consideration: CR H4656-4763; text of measure as reported in House: CR H4658-4741)
+- 2008-05-22 — Considered as unfinished business. (consideration: CR H4763-4778, 5/23/2008 H4779-4821)
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Bishop (GA) amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Braley (IA) amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Ellsworth amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Flake amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Holt amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Israel amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Price (NC) amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Boren amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Hodes amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Lee amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the McGovern amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton En Bloc amendments.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Spratt amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Waxman amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H. Res. 1218, the Committee of the Whole proceeded with 5 minutes of debate on the Schwartz amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H.Res. 1218, the Committee of the Whole proceeded with 10 minutes of debate on the Akin amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H.Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Franks (AZ) amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H.Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Skelton amendment.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H.Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Skleton en bloc amendments.
+- 2008-05-22 — DEBATE - Pursuant to the provisions of H.Res. 1218, the Committee of the Whole proceeded with 20 minutes of debate on the Tierney amendment.
+- 2008-05-22 — DEBATE - The House proceeded with 10 minutes of debate of debate on the Conaway motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding at the at the end of title X, add the following new sections pertaining to Sec. 1071. Sense of Congress and Repeal of Alternative Fuel Procurement Requirement for Federal Agencies. Mr. Skelton raised a point of order against the motion to recommitt. Subsequently, the reservation was removed.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Bishop (GA) amendment (A015) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Boren amendment (A008) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Braley (IA) amendment (A012) Agreed to by recorded vote: 245 - 168 (Roll no. 360).
+- 2008-05-22 — House amendment agreed to: On agreeing to the Ellsworth amendment (A019) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Foster amendment (A021) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Hodes amendment (A020) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Holt amendment (A017) Agreed to by recorded vote: 218 - 192 (Roll no. 362).
+- 2008-05-22 — House amendment agreed to: On agreeing to the Israel amendment Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Lee amendment (A010) Agreed to by recorded vote: 234 - 183 (Roll no. 359).
+- 2008-05-22 — House amendment agreed to: On agreeing to the McGovern amendment (A018) Agreed to by recorded vote: 220 - 189 (Roll no. 363).
+- 2008-05-22 — House amendment agreed to: On agreeing to the Price (NC) amendment (A016) Agreed to by recorded vote: 240 - 168 (Roll no. 361).
+- 2008-05-22 — House amendment agreed to: On agreeing to the Schwartz amendment (A022) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Skelton amendment (A001) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Skelton amendment (A002) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Skelton amendments (A004) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Skelton amendments (A013) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Spratt amendment (A023) Agreed to by voice vote.
+- 2008-05-22 — House amendment agreed to: On agreeing to the Waxman amendment (A009) Agreed to by voice vote.
+- 2008-05-22 — House amendment not agreed to: On agreeing to the Akin amendment Failed by recorded vote: 128 - 287 (Roll no. 355).
+- 2008-05-22 — House amendment not agreed to: On agreeing to the Franks (AZ) amendment (A005) Failed by recorded vote: 186 - 229 (Roll no. 356).
+- 2008-05-22 — House amendment not agreed to: On agreeing to the Pearce amendment (A007) Failed by recorded vote: 145 - 271 (Roll no. 358).
+- 2008-05-22 — House amendment not agreed to: On agreeing to the Tierney amendment (A006) Failed by recorded vote: 122 - 292 (Roll no. 357).
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered
+- 2008-05-22 — House amendment offered/reported by : Amendment (A001) offered by Mr. Skelton.(consideration: CR H4741-4742; text: CR H4741-4742)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A002) offered by Mr. Skelton.(consideration: CR H4742-4745; text: CR H4742-4743)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A003) offered by Mr. Akin.(consideration: CR H4745-4746, 5/23/2008 H4787; text: CR H4745)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A005) offered by Mr. Franks (AZ).(consideration: CR H4756-4759, 5/23/2008 H4788; text: CR H4757)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A006) offered by Mr. Tierney.(consideration: CR H4759-4762, 5/23/2008 H4788-4789; text: CR H4759-4760)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A007) offered by Mr. Pearce.(consideration: CR H4763-4764, 5/23/2008 H4789; text: CR H4763)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A008) offered by Mr. Boren.(consideration: CR H4764-4766; text: CR H4764)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A009) offered by Mr. Waxman.(consideration: CR H4766-4774; text: CR H4766-4771)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A010) offered by Ms. Lee.(consideration: CR H4774-4777, 5/23/2008 H4790; text: CR H4774)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A011) offered by Mr. Israel.(consideration: CR H4777-4778; text: CR H4777)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A012) offered by Mr. Braley (IA).(consideration: CR 5/23/2008 H4779-4781, H4790-4791; text: CR 5/23/2008 H4779-4780)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A014) offered by Mr. Flake.(consideration: CR 5/23/2008 H4791-4794; text: CR 5/23/2008 H4791)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A015) offered by Mr. Bishop (GA).(consideration: CR 5/23/2008 H4794; text: CR 5/23/2008 H4794)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A016) offered by Mr. Price (NC).(consideration: CR 5/23/2008 H4794-4796, H4810; text: CR 5/23/2008 H4794)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A017) offered by Mr. Holt.(consideration: CR 5/23/2008 H4796-4797, H4810-4811; text: CR 5/23/2008 H4796)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A018) offered by Mr. McGovern.(consideration: CR 5/23/2008 H4797-4801, H4811-4812; text: CR 5/23/2008 H4798)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A019) offered by Mr. Ellsworth.(consideration: CR 5/23/2008 H4801; text: CR 5/23/2008 H4801)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A020) offered by Mr. Hodes.(consideration: CR 5/23/2008 H4801-4804; text: CR 5/23/2008 H4801-4802)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A021) offered by Mr. Foster.(consideration: CR 5/23/2008 H4804-4806; text: CR 5/23/2008 H4804-4805)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A022) offered by Ms. Schwartz.(consideration: CR 5/23/2008 H4806-4807; text: CR 5/23/2008 H4806)
+- 2008-05-22 — House amendment offered/reported by : Amendment (A023) offered by Mr. Spratt.(consideration: CR 5/23/2008 H4807-4810; text: CR 5/23/2008 H4807)
+- 2008-05-22 — House amendment offered/reported by : Amendments (A004) offered by Mr. Skelton.(consideration: CR H4746-4756; text en bloc: CR H4746-4753)
+- 2008-05-22 — House amendment offered/reported by : Amendments (A013) offered by Mr. Skelton.(consideration: CR 5/23/2008 H4781-4787; text en block: CR 5/23/2008 H4781-4784)
+- 2008-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-22 — Mr. Conaway moved to recommit with instructions to Armed Services. (consideration: CR 5/23/2008 H4812-4821; text: CR 5/23/2008 H4812-4819)
+- 2008-05-22 — Mr. Skelton provided notice in accordance with the provisions of H. Res. 1218, that subsequent consideration of specified amendments may be in an order other than that provided by the rule.
+- 2008-05-22 — Mrs. Tauscher moved that the Committee rise.
+- 2008-05-22 — Ms. Tauscher provided notice in accordance with the provisions of H. Res. 1218, that subsequent consideration of specified amendments may be in an order other than that provided by the rule.
+- 2008-05-22 — ORDER OF PROCEDURE - Ms. Tauscher asked unanimous consent that, during further consideration of H.R. 5658 pursuant to H. Res. 1218, the Chair may reduce to two minutes the minimum time for electronic voting under clause 6 of rule 18 and clauses 8 and 9 of rule 20. Agreed to without objection.
+- 2008-05-22 — On agreeing to the Akin amendment Failed by recorded vote: 128 - 287 (Roll no. 355).
+- 2008-05-22 — On agreeing to the Bishop (GA) amendment (A015) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Boren amendment (A008) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Braley (IA) amendment (A012) Agreed to by recorded vote: 245 - 168 (Roll no. 360).
+- 2008-05-22 — On agreeing to the Ellsworth amendment (A019) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Foster amendment (A021) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Franks (AZ) amendment (A005) Failed by recorded vote: 186 - 229 (Roll no. 356).
+- 2008-05-22 — On agreeing to the Hodes amendment (A020) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Holt amendment (A017) Agreed to by recorded vote: 218 - 192 (Roll no. 362).
+- 2008-05-22 — On agreeing to the Israel amendment Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Lee amendment (A010) Agreed to by recorded vote: 234 - 183 (Roll no. 359).
+- 2008-05-22 — On agreeing to the McGovern amendment (A018) Agreed to by recorded vote: 220 - 189 (Roll no. 363).
+- 2008-05-22 — On agreeing to the Pearce amendment (A007) Failed by recorded vote: 145 - 271 (Roll no. 358).
+- 2008-05-22 — On agreeing to the Price (NC) amendment (A016) Agreed to by recorded vote: 240 - 168 (Roll no. 361).
+- 2008-05-22 — On agreeing to the Schwartz amendment (A022) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Skelton amendment (A001) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Skelton amendment (A002) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Skelton amendments (A004) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Skelton amendments (A013) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Spratt amendment (A023) Agreed to by voice vote.
+- 2008-05-22 — On agreeing to the Tierney amendment (A006) Failed by recorded vote: 122 - 292 (Roll no. 357).
+- 2008-05-22 — On agreeing to the Waxman amendment (A009) Agreed to by voice vote.
+- 2008-05-22 — On motion that the Committee rise Agreed to by voice vote.
+- 2008-05-22 — On motion to recommit with instructions Failed by recorded vote: 186 - 223 (Roll no. 364).
+- 2008-05-22 — On passage Passed by recorded vote: 384 - 23 (Roll no. 365).
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Akin amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Akin demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Braley (IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Franks(AZ) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Franks (AZ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Holt amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Lee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McGovern amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Pearce amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Pearce demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (NC) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Tierney amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Hunter demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-05-22 — Passed/agreed to in House: On passage Passed by recorded vote: 384 - 23 (Roll no. 365).
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Roll call votes on amendments in House
+- 2008-05-22 — Rule H. Res. 1218 passed House.
+- 2008-05-22 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5658.
+- 2008-05-22 — The Committee of the Whole resumed its sitting.
+- 2008-05-22 — The Committee of the Whole rose informally to receive a message from the Senate.
+- 2008-05-22 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.
+- 2008-05-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2008-05-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2008-05-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 5658.
+- 2008-05-22 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR 5/23/2008 H4820)
+- 2008-05-22 — The previous question was ordered pursuant to the rule. (consideration: CR 5/23/2008 H4812)
+- 2008-05-22 — The title of the measure was amended. Agreed to without objection.
+- 2008-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the adoption of H.R. 5658 and on motions to suspend the rules which had been debated earlier and on which further proceedings had been postponed.
+- 2008-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2008-05-22 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
