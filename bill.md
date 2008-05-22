@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3667
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,22 +11,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Missisquoi and Trout Rivers Wild and Scenic River Study Act of 2007”.
+This Act may be cited as the “Missisquoi and Trout Rivers Wild and Scenic River Study Act of 2008”.
 
 ## § 2. Designation for study
 
 Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by adding at the end the following:
 
-> - *Missisquoi and trout rivers, vermont* The segment from the headwaters of the rivers downstream to the confluence of that segment with the Missisquoi Bay of Lake Champlain.
+> - **(__)** *Missisquoi and trout rivers, vermont* The approximately 25-mile segment of the upper Missisquoi from its headwaters in Lowell to the Canadian border in North Troy; the approximately 25-mile segment from the Canadian border in East Richford to Enosburg Falls; and approximately 20 miles of the Trout River from its headwaters to its confluence with the Missisquoi River.
 
 ## § 3. Study and report
 
 Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following:
 
-> - **(19)** *Missisquoi and trout rivers, vermont* Not later than 3 years after the date of enactment of this paragraph, the Secretary of the Interior shall—
->   - **(A)** complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(140); and
+> - **(19)** *Missisquoi and trout rivers, vermont* Not later than 3 years after funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+>   - **(A)** complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(__); and
 >   - **(B)** submit a report describing the results of that study to the appropriate committees of Congress.
-
-## § 4. Authorization of appropriations
-
-There are authorized to be appropriated such sums as are necessary to carry out this Act and the amendments made by this Act.
