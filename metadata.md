@@ -1,7 +1,7 @@
 ---
 measure: S. 3035
 congress: 110
-version: Introduced in Senate
+version: Enrolled Bill
 ---
 
 # S. 3035
