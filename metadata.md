@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 567
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 567
@@ -55,3 +55,9 @@ A resolution designating June 2008 as "National Internet Safety Month".
 - 2008-05-15 — Introduced in Senate
 - 2008-05-15 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4285-4286)
 - 2008-05-15 — Sponsor introductory remarks on measure. (CR S4286)
+- 2008-05-22 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-05-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4845-4846; text as passed Senate: CR S4846)
+- 2008-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 746.
+- 2008-05-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4845-4846; text as passed Senate: CR S4846)
