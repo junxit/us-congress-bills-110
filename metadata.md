@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 986
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 986
@@ -80,8 +80,21 @@ Recognizing the courage and sacrifice of those members of the United States Arme
 
 - House — Armed Services Committee
 
+## Recorded votes (1)
+
+- 2008-05-22 — [House 110-2-366](votes/house-110-2-0366.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (394–0)
+
 ## Actions
 
 - 2008-02-14 — Introduced in House
 - 2008-02-14 — Introduced in House
 - 2008-02-14 — Referred to the House Committee on Armed Services.
+- 2008-02-29 — Referred to the Subcommittee on Military Personnel.
+- 2008-05-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-05-20 — Considered under suspension of the rules. (consideration: CR H4175-4178)
+- 2008-05-20 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 986.
+- 2008-05-20 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-05-22 — Considered as unfinished business. (consideration: CR 5/23/2008 H4821-4822)
+- 2008-05-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-22 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 366). (text: CR 5/20/2008 H4175)
+- 2008-05-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 0 (Roll no. 366).(text: CR 5/20/2008 H4175)
