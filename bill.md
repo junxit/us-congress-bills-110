@@ -22,7 +22,7 @@ In this Act:
 - **(3)** *Child abuse and neglect* The term “child abuse and neglect” has the meaning given such term in section 111 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106g).
 - **(4)** *Covered program*
   - **(A)** *In general* The term “covered program” means each location of a program not operated by a governmental entity that, with respect to one or more children who are unrelated to the owner or operator of the program—
-    - **(i)** provides a 24-hour residential environment that provides specialized education or treatment, therapy, counseling, behavior modification, discipline, rehabilitation, emotional growth services, or related services, such as—
+    - **(i)** provides a residential environment, such as—
       - **(I)** a program with a wilderness or outdoor experience, expedition, or intervention;
       - **(II)** a boot camp experience or other experience designed to simulate characteristics of basic military training or correctional regimes;
       - **(III)** a therapeutic boarding school; or
@@ -31,8 +31,8 @@ In this Act:
       - **(I)** emotional, behavioral, or mental health problems or disorders; or
       - **(II)** problems with alcohol or substance abuse.
   - **(B)** *Exclusion* The term “covered program” does not include—
-    - **(i)** a hospital accredited by the State;
-    - **(ii)** a facility that is licensed and regulated by the State as a group home for children in foster care; or
+    - **(i)** a hospital licensed by the State;
+    - **(ii)** a foster family home or group home that provides 24-hour substitute care for children place away from their parents or guardians and for whom the State child welfare services agency has placement and care responsibility and that is licensed and regulated by the State as a foster family home or group home; or
     - **(iii)** a psychiatric residential treatment facility that is certified as meeting the requirements specified in regulations promulgated for such facilities under section 1905(h)(1)(A) of the Social Security Act and that provides psychiatric services for which medical assistance is available under a State plan under title XIX of such Act.
 - **(5)** *Protection and advocacy system* The term “protection and advocacy system” means a protection and advocacy system established under section 143 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15043).
 - **(6)** *State* The term “State” has the meaning given such term in section 111 of the Child Abuse Prevention and Treatment Act.
@@ -48,16 +48,16 @@ In this Act:
     - **(E)** Each child at such a program shall have reasonable access to a telephone, and be informed of their right to such access, for making and receiving phone calls with as much privacy as possible, and shall have access to the appropriate State or local child abuse reporting hotline number, and the national hotline number referred to in subsection (c)(2).
     - **(F)** Each staff member, including volunteers, at such a program shall be required, as a condition of employment, to become familiar with what constitutes child abuse and neglect, as defined by State law.
     - **(G)** Each staff member, including volunteers, at such a program shall be required, as a condition of employment, to become familiar with the requirements, including with State law relating to mandated reporters, and procedures for reporting child abuse and neglect in the State in which such a program is located.
-    - **(H)** Full disclosure, in writing, of staff qualifications and their roles and responsibilities at such program, including medical, emergency response, and mental health training, to parents of children at such a program, including providing information on any staff changes, including changes to any staff member’s qualifications, roles, or responsibilities, not later than 10 days after such changes occur.
+    - **(H)** Full disclosure, in writing, of staff qualifications and their roles and responsibilities at such program, including medical, emergency response, and mental health training, to parents or legal guardians of children at such a program, including providing information on any staff changes, including changes to any staff member’s qualifications, roles, or responsibilities, not later than 10 days after such changes occur.
     - **(I)** Each staff member at a covered program described in subclause (I) or (II) of section 2(4)(A)(i) shall be required, as a condition of employment, to be familiar with the signs, symptoms, and appropriate responses associated with heatstroke, dehydration, and hypothermia.
     - **(J)** Each staff member, including volunteers, shall be required, as a condition of employment, to submit to a criminal history check, including a name-based search of the National Sex Offender Registry established pursuant to the Adam Walsh Child Protection and Safety Act of 2006 (Public Law 109–248; 42 U.S.C. 16901 et seq.), a search of the State criminal registry or repository in the State in which the covered program is operating, and a Federal Bureau of Investigation fingerprint check. An individual shall be ineligible to serve in a position with any contact with children at a covered program if any such record check reveals a felony conviction for child abuse or neglect, spousal abuse, a crime against children (including child pornography), or a crime involving violence, including rape, sexual assault, or homicide, but not including other physical assault or battery.
     - **(K)** Policies and procedures for the provision of emergency medical care, including policies for staff protocols for implementing emergency responses.
     - **(L)** All promotional and informational materials produced by such a program shall include a hyperlink to or the URL address of the website created by the Assistant Secretary pursuant to subsection (c)(1)(A).
-    - **(M)** Policies to require parents of a child attending such a program—
+    - **(M)** Policies to require parents or legal guardians of a child attending such a program—
       - **(i)** to notify, in writing, such program of any medication the child is taking;
       - **(ii)** to be notified within 24 hours of any changes to the child’s medical treatment and the reason for such change; and
       - **(iii)** to be notified within 24 hours of any missed dosage of prescribed medication.
-    - **(N)** Procedures for notifying parents with children at such a program of any—
+    - **(N)** Procedures for notifying parents or legal guardians with children at such a program of any—
       - **(i)** on-site investigation of a report of child abuse and neglect;
       - **(ii)** violation of the health and safety standards described in this paragraph; and
       - **(iii)** violation of State licensing standards developed pursuant to section 114(b)(1) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act.
@@ -74,7 +74,7 @@ In this Act:
     - **(A)** include an investigation to determine if a violation of the standards required under subsection (a)(1) has occurred;
     - **(B)** include an assessment of the State’s performance with respect to appropriateness of response to and investigation of reports of child abuse and neglect at covered programs and appropriateness of legal action against responsible parties in such cases;
     - **(C)** be completed not later than 60 days after receipt by the Assistant Secretary of such a report;
-    - **(D)** not interfere with the State’s, or subdivision thereof’s, timeline for investigation; and
+    - **(D)** not interfere with an investigation by the State or a subdivision thereof; and
     - **(E)** be implemented in each State in which a covered program operates until such time as each such State has satisfied the requirements under section 114(c) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act, as determined by the Assistant Secretary, or two years has elapsed from the date that such review process is implemented, whichever is later.
   - **(3)** *Civil penalties* Not later than 180 days after the date of the enactment of this Act, the Assistant Secretary shall promulgate regulations establishing civil penalties for violations of the standards required under subsection (a)(1). The regulations establishing such penalties shall incorporate the following:
     - **(A)** Any owner or operator of a covered program at which the Assistant Secretary has found a violation of the standards required under subsection (a)(1) may be assessed a civil penalty not to exceed $50,000 per violation.
@@ -82,12 +82,13 @@ In this Act:
 - **(c)** *Dissemination of information* The Assistant Secretary shall establish, maintain, and disseminate information about the following:
   - **(1)** Websites made available to the public that contains, at a minimum, the following:
     - **(A)** The name and each location of each covered program, and the name of each owner and operator of each such program, operating in each State, and information regarding—
-      - **(i)** each such program’s level of compliance with the standards required under subsection (a)(1) and section 114(b)(1) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act;
-      - **(ii)** each such program’s level of standing with the State licensing requirements under section 114(b)(1) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act;
-      - **(iii)** substantiated reports of child abuse and neglect at each such program;
-      - **(iv)** any deaths that occurred to a child while under the care of such a program, including any such deaths that occurred in the five year period immediately preceding the date of the enactment of this Act;
-      - **(v)** owners or operators of a covered program that was found to be in violation of the standards required under subsection (a)(1), or a violation of the licensing standards developed pursuant to section 114(b)(1) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act, and who subsequently own or operate another covered program; and
-      - **(vi)** any penalties levied under subsection (b)(3), any judgments or orders issued by a court pursuant to section 5, and any other penalties levied by the State, against each such program.
+      - **(i)** each such program’s history of violations of—
+        - **(I)** regulations promulgated pursuant to subsection (a); and
+        - **(II)** section 114(b)(1) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act;
+      - **(ii)** each such program’s current status with the State licensing requirements under section 114(b)(1) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act;
+      - **(iii)** any deaths that occurred to a child while under the care of such a program, including any such deaths that occurred in the five year period immediately preceding the date of the enactment of this Act;
+      - **(iv)** owners or operators of a covered program that was found to be in violation of the standards required under subsection (a)(1), or a violation of the licensing standards developed pursuant to section 114(b)(1) of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act, and who subsequently own or operate another covered program; and
+      - **(v)** any penalties levied under subsection (b)(3), any judgments or orders issued by a court pursuant to section 5, and any other penalties levied by the State, against each such program.
     - **(B)** Information on best practices for helping adolescents with mental health disorders, conditions, behavioral challenges, or alcohol or substance abuse, including information to help families access effective resources in their communities.
   - **(2)** A national toll-free telephone hotline to receive complaints of child abuse and neglect at covered programs and violations of the standards required under subsection (a)(1).
 - **(d)** *Action* The Assistant Secretary shall establish a process to—
@@ -102,8 +103,8 @@ If the Assistant Secretary determines that a violation of subsection (a)(1) of s
 
 ## § 5. Private right of action
 
-- **(a)** *Maintenance of action* Any person may bring suit for relief of harm caused by a violation of section 3(a) in any district court of the United States having jurisdiction over the parties, without regard to the amount in controversy or citizenship of the parties.
-- **(b)** *Relief* The district court may award appropriate equitable relief and damages, and may award punitive damages and costs, including reasonable attorneys’ fees.
+- **(a)** *Maintenance of action* Any person suffering an injury-in-fact traceable to a violation of a regulation promulgated pursuant to section 3(a) may bring suit or a claim demanding relief.
+- **(b)** *Relief* A court hearing a claim or suit under subsection (a) may order any appropriate equitable remedy and award damages, including punitive damages and reasonable attorneys’ fees, for a violation of a regulation promulgated pursuant to section 3(a).
 - **(c)** *Limitation* The provisions of section 7 of the Civil Rights of Institutionalized Persons Act (42 U.S.C. 1997e) shall not apply to any action brought under this Act.
 
 ## § 6. Report
@@ -112,7 +113,7 @@ Not later than one year after the date of the enactment of this Act and annually
 
 - **(1)** a description of the number and types of covered programs inspected by the Assistant Secretary pursuant to section 3(b)(1);
 - **(2)** a description of types of violations of health and safety standards found by the Assistant Secretary and any penalties assessed;
-- **(3)** a summary of findings from on-going reviews conducted by the Assistant Secretary pursuant section 3(b)(2);
+- **(3)** a summary of findings from on-going reviews conducted by the Assistant Secretary pursuant to section 3(b)(2);
 - **(4)** a summary of State progress in meeting the requirements of this Act, including the requirements under section 114 of the Child Abuse Prevention and Treatment Act, as added by section 8 of this Act; and
 - **(5)** a summary of the Secretary’s oversight activities and findings conducted pursuant to subsection (d) of such section 114.
 
@@ -128,8 +129,8 @@ There is authorized to be appropriated to the Secretary of Health and Human Serv
   > - **(a)** *Definitions* In this section:
   >   - **(1)** *Child* The term “child” means an individual who has not attained the age of 18.
   >   - **(2)** *Covered program*
-  >     - **(A)** *In general* The term “covered program” means each location of a program not operated by a governmental entity that, with respect to one or more children who are unrelated to the owner or operator of the program—
-  >       - **(i)** provides a 24-hour residential environment that provides specialized education or treatment, therapy, counseling, behavior modification, discipline, rehabilitation, emotional growth services, or related services, such as—
+  >     - **(A)** *In general* The term “covered program” means each location of a program operated by a public or private entity that, with respect to one or more children who are unrelated to the owner or operator of the program—
+  >       - **(i)** provides a residential environment, such as—
   >         - **(I)** a program with a wilderness or outdoor experience, expedition, or intervention;
   >         - **(II)** a boot camp experience or other experience designed to simulate characteristics of basic military training or correctional regimes;
   >         - **(III)** a therapeutic boarding school; or
@@ -138,8 +139,8 @@ There is authorized to be appropriated to the Secretary of Health and Human Serv
   >         - **(I)** emotional, behavioral, or mental health problems or disorders; or
   >         - **(II)** problems with alcohol or substance abuse.
   >     - **(B)** *Exclusion* The term “covered program” does not include—
-  >       - **(i)** a hospital accredited by the State;
-  >       - **(ii)** a facility that is licensed and regulated by the State as a group home for children in foster care; or
+  >       - **(i)** a hospital licensed by the State;
+  >       - **(ii)** a foster family home or group home that provides 24-hour substitute care for children place away from their parents or guardians and for whom the State child welfare services agency has placement and care responsibility and that is licensed and regulated by the State as a foster family home or group home; or
   >       - **(iii)** a psychiatric residential treatment facility that is certified as meeting the requirements specified in regulations promulgated for such facilities under section 1905(h)(1)(A) of the Social Security Act and that provides psychiatric services for which medical assistance is available under a State plan under title XIX of such Act.
   >   - **(3)** *Protection and advocacy system* The term “protection and advocacy system” means a protection and advocacy system established under section 143 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15043).
   > - **(b)** *Eligibility requirements* To be eligible to receive a grant under section 106, a State shall—
@@ -150,23 +151,24 @@ There is authorized to be appropriated to the Secretary of Health and Human Serv
   >     - **(D)** notification to appropriate staff at covered programs if their position of employment meets the definition of mandated reporter, as defined by the State;
   >   - **(2)** develop policies and procedures to monitor and enforce compliance with the licensing requirements developed in accordance with paragraph (1), including—
   >     - **(A)** designating an agency to be responsible, in collaboration and consultation with State agencies providing human services (including child protective services, and services to children with emotional, psychological, developmental, or behavioral dysfunctions, impairments, disorders, or alcohol or substance abuse), State law enforcement officials, the appropriate protection and advocacy system, and courts of competent jurisdiction, for monitoring and enforcing such compliance;
-  >     - **(B)** a State licensing application process through which any individual seeking to operate a covered program would be required to disclose all previous substantiated reports of child abuse and neglect and all child deaths at any businesses previously or currently owned or operated by such individual;
+  >     - **(B)** a State licensing application process through which any individual seeking to operate a covered program would be required to disclose all previous substantiated reports of child abuse and neglect and all child deaths at any businesses previously or currently owned or operated by such individual, except that such reports shall not contain any personally identifiable information relating to the identity of individuals who were the victims of such child abuse and neglect;
   >     - **(C)** conducting unannounced site inspections not less often than once every two years at each location of a covered program;
-  >     - **(D)** creating a database, to be integrated with the annual State data reports required under section 106(d), of reports of child abuse and neglect at covered programs operating in the State; and
+  >     - **(D)** creating a database, to be integrated with the annual State data reports required under section 106(d), of reports of child abuse and neglect at covered programs operating in the State, except that such reports shall not contain any personally identifiable information relating to the identity of individuals who were the victims of such child abuse and neglect; and
   >     - **(E)** implementing a policy of graduated sanctions, including fines and suspension and revocation of licences, against covered programs operating in the State that are out of compliance with such health and safety licensing requirements;
   >   - **(3)** if the State is not yet satisfying the requirements of this subsection, in accordance with a determination made pursuant to subsection (c), develop policies and procedures for notifying the Secretary and the appropriate protection and advocacy system of any report of child abuse and neglect at a covered program operating in the State not later than 30 days after the appropriate State entity, or subdivision thereof, determines such report should be investigated and not later than 48 hours in the event of a fatality;
   >   - **(4)** if the Secretary determines that the State is satisfying the requirements of this subsection, in accordance with a determination made pursuant to subsection (c), develop policies and procedures for notifying the Secretary if—
   >     - **(A)** the State determines there is evidence of a pattern of violations of the standards required under paragraph (1) at a covered program operating in the State or by an owner or operator of such a program; or
   >     - **(B)** there is a child fatality at a covered program operating in the State;
-  >   - **(5)** develop policies and procedures for establishing and maintaining a publicly available database of all covered programs operating in the State, including the name and each location of each such program and the name of the owner and operator of each such program, information on reports of child abuse and neglect at such programs, violations of standards required under paragraph (1), and all penalties levied against such programs; and
+  >   - **(5)** develop policies and procedures for establishing and maintaining a publicly available database of all covered programs operating in the State, including the name and each location of each such program and the name of the owner and operator of each such program, information on reports of child abuse and neglect at such programs (except that such reports shall not contain any personally identifiable information relating to the identity of individuals who were the victims of such child abuse and neglect), violations of standards required under paragraph (1), and all penalties levied against such programs;
   >   - **(6)** annually submit to the Secretary a report that includes—
   >     - **(A)** the name and each location of all covered programs, including the names of the owners and operators of such programs, operating in the State, and any violations of State licensing requirements developed pursuant to subsection (b)(1); and
-  >     - **(B)** a description of State activities to monitor and enforce such State licensing requirements, including the names of owners and operators of each covered program that underwent a site inspection by the State, and a summary of the results and any actions taken.
+  >     - **(B)** a description of State activities to monitor and enforce such State licensing requirements, including the names of owners and operators of each covered program that underwent a site inspection by the State, and a summary of the results and any actions taken; and
+  >   - **(7)** if the Secretary determines that the State is satisfying the requirements of this subsection, in accordance with a determination made pursuant to subsection (c), develop and policies and procedures to report to the appropriate protection and advocacy system any case of the death of an individual under the control or supervision of a covered program not later than 48 hours after the State is informed of such death.
   > - **(c)** *Secretarial determination* The Secretary shall not determine that a State’s licensing requirements, monitoring, and enforcement of covered programs operating in the State satisfy the requirements of this subsection (b) unless—
   >   - **(1)** the State implements licensing requirements for such covered programs that meet or exceed the standards required under subsection (b)(1);
   >   - **(2)** the State designates an agency to be responsible for monitoring and enforcing compliance with such licensing requirements;
   >   - **(3)** the State conducts unannounced site inspections of each location of such covered programs not less often than once every two years;
-  >   - **(4)** the State creates a database of such covered programs, to include information on reports of child abuse and neglect at such programs;
+  >   - **(4)** the State creates a database of such covered programs, to include information on reports of child abuse and neglect at such programs (except that such reports shall not contain any personally identifiable information relating to the identity of individuals who were the victims of such child abuse and neglect);
   >   - **(5)** the State implements a policy of graduated sanctions, including fines and suspension and revocation of licenses against such covered programs that are out of compliance with the health and safety licensing requirements under subsection (b)(1); and
   >   - **(6)** after a review of assessments conducted under section 3(b)(2)(B) of the Stop Child Abuse in Residential Programs for Teens Act of 2008, the Secretary determines the State is appropriately investigating and responding to allegations of child abuse and neglect at such covered programs.
   > - **(d)** *Oversight*
@@ -183,13 +185,13 @@ There is authorized to be appropriated to the Secretary of Health and Human Serv
   >     - **(A)** the State shall inform the Secretary of each instance there is a report to be investigated of child abuse and neglect at a covered program operating in the State; and
   >     - **(B)** the Secretary and the appropriate local agency shall jointly investigate such report.
 
-- **(b)** *Authorization of appropriations* Section 112 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106h) is amended by inserting before the period at the end the following: “, and $200,000,000 for each of fiscal years 2009 through 2013”.
+- **(b)** *Authorization of appropriations* Section 112(a)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106h(a)(1)) is amended by inserting before the period at the end the following: “, and $200,000,000 for each of fiscal years 2009 through 2013”.
 - **(c)** *Conforming amendments*
-  - **(1)** *Coordination with available resources* Section 103(c)(1)(D) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(c)(1)(D)) is amended by inserting after “specific” the following: “(including reports of child abuse and neglect occurring at covered programs, as such term is defined in section 114)”.
+  - **(1)** *Coordination with available resources* Section 103(c)(1)(D) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(c)(1)(D)) is amended by inserting after “specific” the following: “(including reports of child abuse and neglect occurring at covered programs (except that such reports shall not contain any personally identifiable information relating to the identity of individuals who were the victims of such child abuse and neglect), as such term is defined in section 114)”.
   - **(2)** *Further requirement* Section 106(b)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(1)) is amended by adding at the end the following new subparagraph:
     > - **(C)** *Further requirement* To be eligible to receive a grant under this section, a State shall comply with the requirements under section 114(b) and shall include in the State plan submitted pursuant to subparagraph (A) a description of the activities the State will carry out to comply with the requirements under such section 114(b).
 
   - **(3)** *Annual State data reports* Section 106(d) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(d)) is amended—
-    - **(A)** in paragraph (1), by inserting before the period at the end the following: “(including reports of child abuse and neglect occurring at covered programs, as such term is defined in section 114)”; and
+    - **(A)** in paragraph (1), by inserting before the period at the end the following: “(including reports of child abuse and neglect occurring at covered programs (except that such reports shall not contain any personally identifiable information relating to the identity of individuals who were the victims of such child abuse and neglect), as such term is defined in section 114)”; and
     - **(B)** in paragraph (6), by inserting before the period at the end the following: “or who were in the care of a covered program, as such term is defined in section 114”.
 - **(d)** *Clerical amendment* Section 1(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note) is amended by inserting after the item relating to section 113 the following new item:
