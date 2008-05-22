@@ -1,7 +1,7 @@
 ---
 measure: S. 2420
 congress: 110
-version: Engrossed in Senate
+version: Reported to Senate
 ---
 
 # S. 2420
