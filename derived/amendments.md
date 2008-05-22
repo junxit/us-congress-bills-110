@@ -1,7 +1,7 @@
 ---
 measure: S. 2982
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-41 amendatory instructions. 0 executed, 41 stated and not applied.
+84 amendatory instructions. 0 executed, 84 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -72,3 +72,46 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “is authorized” and inserting “are authorized”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008” and inserting “$30,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (2) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2)(B), by striking clause (i) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “$100,000” and inserting “$200,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$45,000” and inserting “$70,000”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “Whenever the Secretary determines that any part of the amount allotted under paragraph (1) to a State for a fiscal year will not be obligated before the end of the fiscal year, the Secretary shall rea… | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (11) by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (12) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “indirectly” and inserting “by contract”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “services” the first place it appears and inserting “provide, directly or indirectly, services,”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “a continuous period not to exceed 540 days, except that” and all that follows and inserting the following: “a continuous period not to exceed 635 days, except that a youth in a program under this part who h… | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (14), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (15), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “special consideration” and inserting “priority”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “to health” and inserting “to quality health”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “mental health care” and inserting “behavioral health care”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), by striking the period at the end and inserting “, including access to educational and workforce programs to achieve outcomes such as decreasing high school dropout rates, increasing rates of attaining a secondary schoo… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Part D of the Runaway and Homeless Youth Act (42 U.S.C. 5714–21 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 351(b) of the Runaway and Homeless Youth Act (42 U.S.C. 5714–41(b)) is amended by inserting “public and” after “priority to”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating part F as part G; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after part E the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 382(a) of the Runaway and Homeless Youth Act (42 U.S.C. 5715(a)) is amended by striking “, and E” and inserting “, E, and F”. | the bill names no machine-readable US Code section |
+| — | replace | Section 385 of the Runaway and Homeless Youth Act (42 U.S.C. 5731a) is amended by striking “, and E” and inserting “, E, and F”. | the bill names no machine-readable US Code section |
+| — | replace | Section 386(a) of the Runaway and Homeless Youth Act (42 U.S.C. 5732(a)) is amended by striking “, or E” and inserting “, E, or F”. | the bill names no machine-readable US Code section |
+| — | redesignate | Part G of the Runaway and Homeless Youth Act (42 U.S.C. 5714a et seq.), as redesignated by section 8, is amended by inserting after section 386 the following: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding subparagraph (A), by striking “The” and all that follows through “means” and inserting “The term homeless, used with respect to a youth, means”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(ii), by striking “not less than 16 years of age” and inserting “not less than 16 years of age and not more than 21 years of age, except that nothing in this clause shall prevent a participant who enters the program ca… | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (5), (6), (7), and (8), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “is authorized” and inserting “are authorized”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “part E) $105,000,000 for fiscal year 2004” and inserting “section 345 and parts E and F) $150,000,000 for fiscal year 2009”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2005, 2006, 2007, and 2008” and inserting “2010, 2011, 2012, and 2013”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “In” and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(other than section 345)” before the period; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “is authorized” and inserting “are authorized”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008” and inserting “$30,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
