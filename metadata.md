@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 563
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 563
@@ -28,3 +28,9 @@ A resolution designating September 13, 2008, as "National Childhood Cancer Aware
 
 - 2008-05-13 — Introduced in Senate
 - 2008-05-13 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4114-4115)
+- 2008-05-22 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-05-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4845; text as passed Senate: CR S4845)
+- 2008-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 745.
+- 2008-05-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4845; text as passed Senate: CR S4845)
