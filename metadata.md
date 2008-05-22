@@ -1,7 +1,7 @@
 ---
 measure: S. 1210
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1210
@@ -16,12 +16,14 @@ Drug Endangered Children Act of 2007
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Kohl, Herb [D-WI] (K000305)
 - Sen. Feingold, Russell D. [D-WI] (F000061)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
 
 ## Committees (1)
 
@@ -32,3 +34,7 @@ Drug Endangered Children Act of 2007
 - 2007-04-25 — Introduced in Senate
 - 2007-04-25 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S5096)
 - 2007-04-25 — Sponsor introductory remarks on measure. (CR S5096)
+- 2008-05-22 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2008-05-22 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2008-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 747.
