@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5876
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,9 +32,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 5101` | add-at-end | Title I of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106h` | insert | Section 112 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106h) is amended by inserting before the period at the end the following: “, and $200,000,000 for each of fiscal years 2009 through 2013”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5104` | insert | Section 103(c)(1)(D) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(c)(1)(D)) is amended by inserting after “specific” the following: “(including reports of child abuse and neglect occurring at covered programs, as such … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5106h` | insert | Section 112(a)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106h(a)(1)) is amended by inserting before the period at the end the following: “, and $200,000,000 for each of fiscal years 2009 through 2013”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5104` | insert | Section 103(c)(1)(D) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5104(c)(1)(D)) is amended by inserting after “specific” the following: “(including reports of child abuse and neglect occurring at covered programs (except t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | add-at-end | Section 106(b)(1) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(1)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5106a` | insert | in paragraph (1), by inserting before the period at the end the following: “(including reports of child abuse and neglect occurring at covered programs, as such term is defined in section 114)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5106a` | insert | in paragraph (1), by inserting before the period at the end the following: “(including reports of child abuse and neglect occurring at covered programs (except that such reports shall not contain any personally identifiable information r… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5106a` | insert | in paragraph (6), by inserting before the period at the end the following: “or who were in the care of a covered program, as such term is defined in section 114”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5101` | insert | Section 1(b) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note) is amended by inserting after the item relating to section 113 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
