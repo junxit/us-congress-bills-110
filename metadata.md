@@ -1,7 +1,7 @@
 ---
 measure: S. 2829
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2829
@@ -54,3 +54,14 @@ A bill to make technical corrections to section 1244 of the National Defense Aut
 - 2008-04-29 — Message on Senate action sent to the House.
 - 2008-04-29 — Received in the House.
 - 2008-04-29 — Referred to the House Committee on the Judiciary.
+- 2008-05-19 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (IA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-05-19 — Considered under suspension of the rules. (consideration: CR H4111-4113)
+- 2008-05-19 — DEBATE - The House proceeded with forty minutes of debate on S. 2829.
+- 2008-05-19 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
+- 2008-05-21 — Cleared for White House.
+- 2008-05-21 — Considered as unfinished business. (consideration: CR H4433)
+- 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 5/19/2008 H4111)
+- 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 5/19/2008 H4111)
+- 2008-05-23 — Presented to President.
+- 2008-05-23 — Presented to President.
