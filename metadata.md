@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6081
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6081
@@ -65,3 +65,8 @@ Heroes Earnings Assistance and Relief Tax Act of 2008
 - 2008-05-20 — Mr. Rangel moved to suspend the rules and pass the bill, as amended.
 - 2008-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 331). (text: CR H4160-4167)
 - 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 331).(text: CR H4160-4167)
+- 2008-05-21 — Received in the Senate, read twice.
+- 2008-05-22 — Cleared for White House.
+- 2008-05-22 — Message on Senate action sent to the House.
+- 2008-05-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4772-4774)
+- 2008-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S4772-4774)
