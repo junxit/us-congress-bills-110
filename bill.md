@@ -97,7 +97,7 @@ In this Act:
 - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Foreign Relations of the Senate; and
   - **(B)** the Committee on Foreign Affairs of the House of Representatives.
-- **(2)** *Countries of eurasia* The term countries of Eurasia means Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, the Kyrgyz Republic, Moldova, the Russian Federation, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
+- **(2)** *Countries of eurasia* The term countries of Eurasia means Armenia, Azerbaijan, Be­la­rus, Georgia, Kazakhstan, the Kyrgyz Republic, Mol­do­va, the Russian Federation, Tajikistan, Turk­men­i­stan, Ukraine, and Uzbekistan.
 
 ## § 7. Authorization of appropriations
 

@@ -1,7 +1,7 @@
 ---
 measure: S. 3024
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3024
@@ -28,3 +28,7 @@ Eurasia Foundation Act
 
 - 2008-05-15 — Introduced in Senate
 - 2008-05-15 — Read twice and referred to the Committee on Foreign Relations.
+- 2008-05-20 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2008-06-02 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-342.
+- 2008-06-02 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-342.
+- 2008-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 754.
