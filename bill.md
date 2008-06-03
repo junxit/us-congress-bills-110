@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 138
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,13 +27,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas appropriate use of tests such as Prostate Specific Antigen (PSA) exams, blood pressure screens, and cholesterol screens, in conjunction with clinical examination and self-testing for problems such as testicular cancer, can result in the detection of many of these problems in their early stages and increases in the survival rates to nearly 100 percent;
 - Whereas women are 100 percent more likely to visit the doctor for annual examinations and preventive services than men;
 - Whereas men are less likely than women to visit their health center or physician for regular screening examinations of male-related problems for a variety of reasons, including fear, lack of health insurance, lack of information, and cost factors;
-- Whereas National Men’s Health Week was established by Congress in, and first celebrated in, 1994 and urged men and their families to engage in appropriate health behaviors, and the resulting increased awareness has improved health-related education and helped prevent illness;
+- Whereas National Men’s Health Week was established by Congress and first celebrated in 1994 and urged men and their families to engage in appropriate health behaviors, and the resulting increased awareness has improved health-related education and helped prevent illness;
 - Whereas the Governors of over 45 States issue proclamations annually declaring Men’s Health Week in their States;
 - Whereas since 1994, National Men’s Health Week has been celebrated each June by dozens of States, cities, localities, public health departments, health care entities, churches, and community organizations throughout the Nation, that promote health awareness events focused on men and family;
 - Whereas the National Men’s Health Week website has been established at www.menshealthweek.org and features Governors’ proclamations and National Men’s Health Week events;
 - Whereas men who are educated about the value that preventive health can play in prolonging their lifespan and their role as productive family members will be more likely to participate in health screenings;
 - Whereas men and their families are encouraged to increase their awareness of the importance of a healthy lifestyle, regular exercise, and medical checkups; and
-- Whereas June 11 through 17, 2007, is National Men’s Health Week, which has the purpose of heightening the awareness of preventable health problems and encouraging early detection and treatment of disease among men and boys: Now, therefore, be it
+- Whereas June 9 through 15, 2008, is National Men’s Health Week, which has the purpose of heightening the awareness of preventable health problems and encouraging early detection and treatment of disease among men and boys: Now, therefore, be it
 
 That—
 
