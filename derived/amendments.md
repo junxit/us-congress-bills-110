@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4791
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -152,8 +152,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `44 U.S.C. § 3542` | add-at-end | Section 3542(b) of title 44, United States Code, is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3542` | replace | in subsection (d), by striking the text and inserting “In this section, the term personally identifiable information has the meaning given that term in section 3542(b)(4) of title 44, United States Code.”. | the bill quotes the text inserted but describes where it goes |
-| — | insert | by inserting before the semicolon at the end of paragraph (5) the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `44 U.S.C. § 3543` | insert | by inserting before the semicolon at the end of paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 3543` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3544` | insert | by inserting after “annually” the following: “and as approved by the Director”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3544` | strike | by striking “and” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 3544` | redesignate | by redesignating subparagraph (B) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -166,10 +166,10 @@ complete account of the bill's effect, which it is not.
 | `44 U.S.C. § 3543` | replace | by striking the period and inserting “; and” at the end of subparagraph (E); and | the bill quotes the text inserted but describes where it goes |
 | `44 U.S.C. § 3543` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3543` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 3543` | insert | by inserting after “authority to ensure compliance with” the following: “and, to the extent determined necessary and explicitly authorized by the head of the agency, to enforce”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `44 U.S.C. § 3543` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 3543` | insert | by inserting “and” at the end of subparagraph (E); and | the bill quotes the text inserted but describes where it goes |
-| `44 U.S.C. § 3543` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 3544` | insert | by inserting after “authority to ensure compliance with” the following: “and, to the extent determined necessary and explicitly authorized by the head of the agency, to enforce”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `44 U.S.C. § 3544` | strike | by striking “and” at the end of subparagraph (D); | the bill quotes the text struck but describes what replaces it |
+| `44 U.S.C. § 3544` | insert | by inserting “and” at the end of subparagraph (E); and | the bill quotes the text inserted but describes where it goes |
+| `44 U.S.C. § 3544` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3544` | add-at-end | Section 3544(b) of title 44, United States Code, as amended by section 5, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 1402` | replace | by striking “, and” at the end of paragraph (5) and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `5 U.S.C. § 1402` | replace | by striking the period and inserting “; and” at the end of paragraph (6); and | the bill quotes the text inserted but describes where it goes |
