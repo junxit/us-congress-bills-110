@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 335
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 335
@@ -30,3 +30,10 @@ Authorizing the use of the Capitol Grounds for a celebration of the 100th annive
 - 2008-04-24 — Introduced in House
 - 2008-04-24 — Introduced in House
 - 2008-04-24 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-04-25 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-05-15 — Committee Consideration and Mark-up Session Held.
+- 2008-05-15 — Ordered to be Reported by Voice Vote.
+- 2008-05-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-06-03 — Placed on the House Calendar, Calendar No. 229.
+- 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-676.
+- 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-676.
