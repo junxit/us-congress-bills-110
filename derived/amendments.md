@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4106
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 5 U.S.C. § 6120
 
-> Section 622 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005, as contained in the Consolidated Appropriations Act, 2005 (5 U.S.C. 6120 note) is amended by striking “designate a Telework Coordinator to be” and inserting “appoint or designate a Telework Managing Officer to be”.
+> Section 622 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2005, as contained in the Consolidated Appropriations Act, 2005 (5 U.S.C. 6120 note) is amended by striking “designate a Telework Coordinator to be” and inserting “appoint a Telework Managing Officer or designate the Chief Human Capital Officer or other career employee to be”.
 
 | | |
 |---|---|
 | Removed | `designate a Telework Coordinator to be` |
-| Inserted | `appoint or designate a Telework Managing Officer to be` |
+| Inserted | `appoint a Telework Managing Officer or designate the Chief Human Capital Officer or other career employee to be` |
 
 ## Stated, not applied
 
