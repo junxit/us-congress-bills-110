@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 550
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 550
@@ -37,3 +37,5 @@ A resolution expressing the sense of the Senate regarding provocative and danger
 - 2008-05-20 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2008-05-20 — Committee on Foreign Relations. Reported by Senator Biden without amendment and with a preamble. Without written report.
 - 2008-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 741.
+- 2008-06-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4988-4989; text: CR S4988-4989)
+- 2008-06-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4988-4989; text: CR S4988-4989)
