@@ -1,7 +1,7 @@
 ---
 measure: S. 2162
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2162
@@ -16,12 +16,20 @@ Veterans' Mental Health and Other Care Improvements Act of 2008
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (4)
+## Cosponsors (12)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
 - Sen. Ensign, John [R-NV] (E000194)
 - Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (1)
 
@@ -37,3 +45,12 @@ Veterans' Mental Health and Other Care Improvements Act of 2008
 - 2008-04-08 — Committee on Veterans' Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute. With written report No. 110-281.
 - 2008-04-08 — Committee on Veterans' Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute. With written report No. 110-281.
 - 2008-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.
+- 2008-06-03 — Amendment SA 4824 agreed to in Senate by Unanimous Consent.
+- 2008-06-03 — Amendment SA 4824 proposed by Senator Boxer for Senator Akaka. (consideration: CR S4986) In the nature of a substitute.
+- 2008-06-03 — Measure laid before Senate by unanimous consent. (consideration: CR S4983-4986; text of measure as reported in Senate: CR S4983-4985)
+- 2008-06-03 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-06-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-06-03 — Senate amendment agreed to: Amendment SA 4824 agreed to in Senate by Unanimous Consent.
+- 2008-06-03 — Senate amendment proposed (on the floor): Amendment SA 4824 proposed by Senator Boxer for Senator Akaka.(consideration: CR S4986)
+- 2008-06-03 — Senate amendment submitted
+- 2008-06-03 — The committee substitute was withdrawn by Unanimous Consent.
