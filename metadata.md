@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 309
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 309
@@ -51,3 +51,6 @@ Authorizing the use of the Capitol Grounds for the District of Columbia Special 
 - 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-05-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2008 H4100)
 - 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 5/19/2008 H4100)
+- 2008-06-02 — Received in the Senate.
+- 2008-06-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S4989)
+- 2008-06-03 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S4989)
