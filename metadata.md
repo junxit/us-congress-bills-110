@@ -1,7 +1,7 @@
 ---
 measure: S. 2967
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2967
@@ -29,3 +29,7 @@ A bill to provide for certain Federal employee benefits to be continued for cert
 
 - 2008-05-01 — Introduced in Senate
 - 2008-05-01 — Read twice and referred to the Committee on Rules and Administration.
+- 2008-06-03 — Passed Senate without amendment by Unanimous Consent. (text: CR S4987-4988)
+- 2008-06-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S4987-4988)
+- 2008-06-03 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S4986-4988)
+- 2008-06-03 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S4986-4988)
