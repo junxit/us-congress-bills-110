@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 311
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 311
@@ -33,3 +33,10 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2008-03-06 — Introduced in House
 - 2008-03-06 — Introduced in House
 - 2008-03-06 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-03-07 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-05-15 — Committee Consideration and Mark-up Session Held.
+- 2008-05-15 — Ordered to be Reported by Voice Vote.
+- 2008-05-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-06-03 — Placed on the House Calendar, Calendar No. 228.
+- 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-675.
+- 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-675.
