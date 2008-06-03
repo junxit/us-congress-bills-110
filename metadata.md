@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5599
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5599
@@ -39,3 +39,10 @@ To designate the Federal building located at 4600 Silver Hill Road in Suitland, 
 - 2008-03-12 — Introduced in House
 - 2008-03-12 — Referred to the House Committee on Transportation and Infrastructure.
 - 2008-03-12 — Sponsor introductory remarks on measure. (CR E373)
+- 2008-03-13 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-05-15 — Committee Consideration and Mark-up Session Held.
+- 2008-05-15 — Ordered to be Reported by Voice Vote.
+- 2008-05-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-06-03 — Placed on the House Calendar, Calendar No. 227.
+- 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-674.
+- 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-674.
