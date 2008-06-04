@@ -1,7 +1,7 @@
 ---
 measure: S. 2403
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2403
@@ -29,3 +29,7 @@ To designate the United States courthouse located in the 700 block of East Broad
 - 2007-12-03 — Introduced in Senate
 - 2007-12-03 — Read twice and referred to the Committee on Environment and Public Works.
 - 2007-12-03 — Sponsor introductory remarks on measure. (CR S14704)
+- 2008-05-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 760.
