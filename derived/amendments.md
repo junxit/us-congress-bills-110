@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+12 amendatory instructions. 2 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 233
+
+> in the first sentence, by striking “or employee” and inserting “employee, or (subject to subsection (k)(4)) volunteer practitioner”; and
+
+| | |
+|---|---|
+| Removed | `or employee` |
+| Inserted | `employee, or (subject to subsection (k)(4)) volunteer practitioner` |
+
+### 42 U.S.C. § 233
+
+> in paragraph (1)(B)(ii), by striking “subparagraph (C)” and inserting “subparagraph (C) and paragraph (6)”; and
+
+| | |
+|---|---|
+| Removed | `subparagraph (C)` |
+| Inserted | `subparagraph (C) and paragraph (6)` |
 
 ## Stated, not applied
 
@@ -31,4 +51,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 254b` | amend | Section 330(r) of the Public Health Service Act (42 U.S.C. 254b(r)) is amended by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254b` | amend | Section 330(r)(1) of the Public Health Service Act (42 U.S.C. 254b(r)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254b` | add-at-end | Section 330(c) of the Public Health Service Act (42 U.S.C. 254b(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 233` | insert | in the second sentence, by inserting “and subsection (k)(4)” after “subject to paragraph (5)”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 233` | replace | by striking the term “employee, or contractor” each place such term appears and inserting “employee, volunteer practitioner, or contractor”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 233` | replace | by striking the term “employee, and contractor” each place such term appears and inserting “employee, volunteer practitioner, and contractor”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 233` | replace | by striking the term “employee, or any contractor” each place such term appears and inserting “employee, volunteer practitioner, or contractor”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 233` | replace | by striking the term “employees, or contractors” each place such term appears and inserting “employees, volunteer practitioners, or contractors”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 233` | add-at-end | Section 224(k) of the Public Health Service Act (42 U.S.C. 233(k)) is amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 233` | add-at-end | by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 259b` | add-at-end | Part D of title III of the Public Health Service Act (42 U.S.C. 259b et seq.) is amended by adding at the end the following new subpart: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
