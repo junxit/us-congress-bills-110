@@ -1,0 +1,31 @@
+---
+measure: S. 3082
+congress: 110
+version: Introduced in Senate
+---
+
+# S. 3082
+
+A bill to designate the facility of the United States Postal Service located at 1700 Cleveland Avenue in Kansas City, Missouri, as the "Reverend Earl Abel Post Office Building".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. McCaskill, Claire [D-MO] (M001170)
+
+## Cosponsors (1)
+
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+
+## Committees (1)
+
+- Senate — Homeland Security and Governmental Affairs Committee
+
+## Actions
+
+- 2008-06-04 — Introduced in Senate
+- 2008-06-04 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S5043)
+- 2008-06-04 — Sponsor introductory remarks on measure. (CR S5043)
