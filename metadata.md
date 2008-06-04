@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 335
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 335
@@ -37,3 +37,9 @@ Authorizing the use of the Capitol Grounds for a celebration of the 100th annive
 - 2008-06-03 — Placed on the House Calendar, Calendar No. 229.
 - 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-676.
 - 2008-06-03 — Reported by the Committee on Transportation. H. Rept. 110-676.
+- 2008-06-04 — Considered under suspension of the rules. (consideration: CR H4886-4888)
+- 2008-06-04 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 335.
+- 2008-06-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-04 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.
+- 2008-06-04 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4886)
+- 2008-06-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4886)
