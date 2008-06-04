@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3021
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3021
@@ -177,3 +177,80 @@ version: Reported in House
 - 2008-05-08 — Placed on the Union Calendar, Calendar No. 388.
 - 2008-05-08 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-623.
 - 2008-05-08 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-623.
+- 2008-06-03 — Rules Committee Resolution H. Res. 1234 Reported to House. Rule provides for consideration of H.R. 3021 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2008-06-04 — Amendment (A001) offered by Mr. Kildee. (consideration: CR H4947-4949, H4956; text: CR H4947-4948)
+- 2008-06-04 — Amendment (A002) offered by Mr. Ehlers. (consideration: CR H4949-4950, H4956-4957; text: CR H4949)
+- 2008-06-04 — Amendment (A003) offered by Mr. Welch (VT). (consideration: CR H4950-4952, H4957-4958; text: CR H4950)
+- 2008-06-04 — Amendment (A004) offered by Mr. Davis, Tom. (consideration: CR H4952-4953; text: CR H4952)
+- 2008-06-04 — Amendment (A005) offered by Mr. Visclosky. (consideration: CR H4953-4954; text: CR H4953)
+- 2008-06-04 — Amendment (A006) offered by Mr. Matheson. (consideration: CR H4954-4955, H4958; text: CR H4954)
+- 2008-06-04 — Amendment (A007) offered by Mr. Reichert. (consideration: CR H4955-4956; text: CR H4955)
+- 2008-06-04 — Amendment agreed to Committee of the Whole
+- 2008-06-04 — Amendment agreed to Committee of the Whole
+- 2008-06-04 — Amendment agreed to Committee of the Whole
+- 2008-06-04 — Amendment agreed to Committee of the Whole
+- 2008-06-04 — Amendment agreed to Committee of the Whole
+- 2008-06-04 — Amendment agreed to Committee of the Whole
+- 2008-06-04 — Amendment agreed to Committee of the Whole
+- 2008-06-04 — Considered under the provisions of rule H. Res. 1234. (consideration: CR H4927-4935, H4937-4961)
+- 2008-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1234, the Committee of the Whole proceeded with ten minutes of debate on the Ehlers amendment.
+- 2008-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1234, the Committee of the Whole proceeded with ten minutes of debate on the Kildee amendment.
+- 2008-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1234, the Committee of the Whole proceeded with ten minutes of debate on the Matheson amendment.
+- 2008-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1234, the Committee of the Whole proceeded with ten minutes of debate on the Reichert amendment.
+- 2008-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1234, the Committee of the Whole proceeded with ten minutes of debate on the Tom Davis amendment.
+- 2008-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1234, the Committee of the Whole proceeded with ten minutes of debate on the Visclosky amendment.
+- 2008-06-04 — DEBATE - Pursuant to the provisions of H. Res. 1234, the Committee of the Whole proceeded with thirty minutes of debate on the Welch amendment.
+- 2008-06-04 — DEBATE - The House proceeded with ten minutes of debate on the McMorris Rodgers motion to recommit. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting an exception for local educational agencies whose energy expenditures have increased by at least 50 percent since January 4, 2007, with respect to payment of maintenance costs for any of the activities described in section 103.
+- 2008-06-04 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3021.
+- 2008-06-04 — House amendment agreed to: On agreeing to the Davis, Tom amendment (A004) Agreed to by voice vote.
+- 2008-06-04 — House amendment agreed to: On agreeing to the Ehlers amendment (A002) Agreed to by recorded vote: 397 - 17 (Roll no. 375).
+- 2008-06-04 — House amendment agreed to: On agreeing to the Kildee amendment (A001) Agreed to by recorded vote: 260 - 151 (Roll no. 374).
+- 2008-06-04 — House amendment agreed to: On agreeing to the Matheson amendment Agreed to by recorded vote: 266 - 153 (Roll no. 377).
+- 2008-06-04 — House amendment agreed to: On agreeing to the Reichert amendment (A007) Agreed to by voice vote.
+- 2008-06-04 — House amendment agreed to: On agreeing to the Visclosky amendment (A005) Agreed to by voice vote.
+- 2008-06-04 — House amendment agreed to: On agreeing to the Welch (VT) amendment (A003) Agreed to by recorded vote: 409 - 5 (Roll no. 376).
+- 2008-06-04 — House amendment offered
+- 2008-06-04 — House amendment offered
+- 2008-06-04 — House amendment offered
+- 2008-06-04 — House amendment offered
+- 2008-06-04 — House amendment offered
+- 2008-06-04 — House amendment offered
+- 2008-06-04 — House amendment offered
+- 2008-06-04 — House amendment offered/reported by : Amendment (A001) offered by Mr. Kildee.(consideration: CR H4947-4949, H4956; text: CR H4947-4948)
+- 2008-06-04 — House amendment offered/reported by : Amendment (A002) offered by Mr. Ehlers.(consideration: CR H4949-4950, H4956-4957; text: CR H4949)
+- 2008-06-04 — House amendment offered/reported by : Amendment (A003) offered by Mr. Welch (VT).(consideration: CR H4950-4952, H4957-4958; text: CR H4950)
+- 2008-06-04 — House amendment offered/reported by : Amendment (A004) offered by Mr. Davis, Tom.(consideration: CR H4952-4953; text: CR H4952)
+- 2008-06-04 — House amendment offered/reported by : Amendment (A005) offered by Mr. Visclosky.(consideration: CR H4953-4954; text: CR H4953)
+- 2008-06-04 — House amendment offered/reported by : Amendment (A006) offered by Mr. Matheson.(consideration: CR H4954-4955, H4958; text: CR H4954)
+- 2008-06-04 — House amendment offered/reported by : Amendment (A007) offered by Mr. Reichert.(consideration: CR H4955-4956; text: CR H4955)
+- 2008-06-04 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1234 and Rule XVIII.
+- 2008-06-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-04 — Mrs. McMorris Rodgers moved to recommit with instructions toEducation and Labor. (consideration: CR H4959; text: CR H4959)
+- 2008-06-04 — On agreeing to the Davis, Tom amendment (A004) Agreed to by voice vote.
+- 2008-06-04 — On agreeing to the Ehlers amendment (A002) Agreed to by recorded vote: 397 - 17 (Roll no. 375).
+- 2008-06-04 — On agreeing to the Kildee amendment (A001) Agreed to by recorded vote: 260 - 151 (Roll no. 374).
+- 2008-06-04 — On agreeing to the Matheson amendment Agreed to by recorded vote: 266 - 153 (Roll no. 377).
+- 2008-06-04 — On agreeing to the Reichert amendment (A007) Agreed to by voice vote.
+- 2008-06-04 — On agreeing to the Visclosky amendment (A005) Agreed to by voice vote.
+- 2008-06-04 — On agreeing to the Welch (VT) amendment (A003) Agreed to by recorded vote: 409 - 5 (Roll no. 376).
+- 2008-06-04 — On motion to recommit with instructions Failed by recorded vote: 187 - 230 (Roll no. 378).
+- 2008-06-04 — On passage Passed by the Yeas and Nays: 250 - 164 (Roll no. 379).
+- 2008-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ehlers amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Ehlers demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kildee amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Kildee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Matheson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Matheson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-06-04 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Welch amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Welch demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2008-06-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 250 - 164 (Roll no. 379).
+- 2008-06-04 — Roll call votes on amendments in House
+- 2008-06-04 — Roll call votes on amendments in House
+- 2008-06-04 — Roll call votes on amendments in House
+- 2008-06-04 — Roll call votes on amendments in House
+- 2008-06-04 — Rule H. Res. 1234 passed House.
+- 2008-06-04 — Rule provides for consideration of H.R. 3021 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order.
+- 2008-06-04 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3021.
+- 2008-06-04 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (consideration: CR H4946-4947)
+- 2008-06-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3021.
+- 2008-06-04 — The Speaker designated the Honorable Madeleine Z. Bordallo to act as Chairwoman of the Committee.
+- 2008-06-04 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H4960)
+- 2008-06-04 — The previous question was ordered pursuant to the rule. (consideration: CR H4959)
+- 2008-06-04 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-04 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings were postponed.

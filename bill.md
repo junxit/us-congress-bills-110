@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3021
 
-> To direct the Secretary of Education to make grants and low-interest loans to local educational agencies for the construction, modernization, or repair of public kindergarten, elementary, and secondary educational facilities, and for other purposes.
+> To direct the Secretary of Education to make grants to State educational agencies for the modernization, renovation, or repair of public school facilities, and for other purposes.
 
 ## § 1. Short title; table of contents
 
@@ -30,3 +30,5 @@ In this Act:
 - **(6)** The term “LEED Green Building Rating System” means the United States Green Building Council Leadership in Energy and Environmental Design green building rating standard referred to as LEED Green Building Rating System.
 - **(7)** The term “Energy Star” means the Energy Star program of the United States Department of Energy and the United States Environmental Protection Agency.
 - **(8)** The term “CHPS Criteria” means the green building rating program developed by the Collaborative for High Performance Schools.
+- **(9)** The term “public school facilities” includes charter schools.
+- **(10)** The term “Green Globes” means the Green Building Initiative environmental design and rating system referred to as Green Globes.
