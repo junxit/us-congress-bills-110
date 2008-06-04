@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 366
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 366
@@ -36,3 +36,10 @@ Expressing the sense of Congress that increasing American capabilities in scienc
 - 2008-06-03 — Introduced in House
 - 2008-06-03 — Introduced in House
 - 2008-06-03 — Referred to the House Committee on Science and Technology.
+- 2008-06-04 — Considered under suspension of the rules. (consideration: CR H4911-4917)
+- 2008-06-04 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 366.
+- 2008-06-04 — DEBATE - The House resumed debate on H. Con. Res. 366.
+- 2008-06-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-04 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.
+- 2008-06-04 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4912)
+- 2008-06-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4912)
