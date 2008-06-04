@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5940
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5940
@@ -16,7 +16,7 @@ National Nanotechnology Initiative Amendments Act of 2008
 
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 
-## Cosponsors (24)
+## Cosponsors (31)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Baird, Brian [D-WA-3] (B001229)
@@ -42,6 +42,13 @@ National Nanotechnology Initiative Amendments Act of 2008
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
 ## Committees (1)
 
@@ -52,3 +59,12 @@ National Nanotechnology Initiative Amendments Act of 2008
 - 2008-05-01 — Introduced in House
 - 2008-05-01 — Introduced in House
 - 2008-05-01 — Referred to the House Committee on Science and Technology.
+- 2008-05-07 — Committee Consideration and Mark-up Session Held.
+- 2008-05-07 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-06-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-04 — Considered under suspension of the rules. (consideration: CR H4903-4911)
+- 2008-06-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5940.
+- 2008-06-04 — Mr. Gordon moved to suspend the rules and pass the bill, as amended.
+- 2008-06-04 — Placed on the Union Calendar, Calendar No. 427.
+- 2008-06-04 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-682.
+- 2008-06-04 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-682.

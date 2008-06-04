@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5940
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 0 executed, 14 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,8 +40,9 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 7501` | strike | by striking “or designate”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7501` | insert | by inserting “as a distinct entity” after “Advisory Panel”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 7501` | insert | by inserting at the end “The Advisory Panel shall form a subpanel with membership having specific qualifications tailored to enable it to carry out the requirements of subsection (c)(7).”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7501` | strike | in section 4(b), by striking “or designated” and “or designating”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7501` | strike | by striking “or designated” and “or designating”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7501` | add-at-end | by adding at the end the following: “At least one member of the Advisory Panel shall be an individual employed by and representing a minority-serving institution.”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7501` | amend | by amending section 5 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7501` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7501` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7501` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7501` | amend | Section 2(b)(5) of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501(b)(5)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
