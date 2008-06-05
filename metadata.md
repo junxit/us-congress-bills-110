@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 70
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 70
@@ -1325,3 +1325,62 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4371 proposed by Senator Conrad for Senator Graham.(consideration: CR S2083-2084; text: CR S2084)
 - 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4375 proposed by Senator Conrad for Senator Specter.(consideration: CR S2083-2084; text: CR S2084)
 - 2008-03-14 — Senate amendment proposed (on the floor): Amendment SA 4379 proposed by Senator Boxer.(consideration: CR S2082-2083; text: CR S2082)
+- 2008-03-31 — Held at the desk.
+- 2008-03-31 — Message on Senate action sent to the House.
+- 2008-03-31 — Received in the House.
+- 2008-05-14 — Considered under the provisions of rule H. Res. 1190. (consideration: CR H3828-3846, H3856-3857)
+- 2008-05-14 — Message on House action received in Senate and at desk: House amendment to Senate bill and House requests a conference.
+- 2008-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-14 — Mr. Ryan (WI) moved that the House instruct conferees.
+- 2008-05-14 — On agreeing to the resolution Agreed to without objection. (text: CR H3828-3846)
+- 2008-05-14 — On motion that the House insist upon its amendment, and request a conference Agreed to without objection. (consideration: CR H3828)
+- 2008-05-14 — On motion that the House instruct conferees Failed by the Yeas and Nays: 185 - 229 (Roll no. 321). (consideration: CR H3856-3857)
+- 2008-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Ryan(WI) motion to instruct conferees on S.Con.Res. 70, the Chair put the question on the adoption of the motion to instruct conferees and the noes had prevailed. Mr. Ryan(WI) demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the motion to instruct conferees until later in the legislative day.
+- 2008-05-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H3828-3846)
+- 2008-05-14 — Rule provides for consideration of S. Con. Res. 70 and H. Con. Res. 312. Measure will be considered read. The rule adopts as an amendment in the nature of a substitute consisting of the text H. Con. Res. 312 as adopted by the House, adopts S. Con. Res. 70, as amended, and provides that the House insists on its amendment and requests a conference with the Senate.
+- 2008-05-14 — The House proceeded with one hour of debate on the Ryan(WI) motion to instruct conferees on S. Con. Res. 70. The instructions contained in the motion seek to require the managers on the part of the House to increase negative budget authority and outlays in section 101(19), function 920(Allowances) of the House amendment, by $2.02 billion over the period of fiscal years 2009 through 2013.
+- 2008-05-14 — The House struck all after the resolving clause and inserted in lieu thereof the provisions of a similar measure H. Con. Res. 312. Agreed to without objection.
+- 2008-05-14 — The Speaker appointed conferees: Spratt, DeLauro, Edwards, Ryan (WI), and Barrett (SC).
+- 2008-05-14 — The previous question was ordered without objection. (consideration: CR H3854)
+- 2008-05-15 — Motion by Senator Boxer to instruct Senate conferees made in Senate. (consideration: CR S4255-4257, S4264-4265; text: CR S4255)
+- 2008-05-15 — Motion by Senator Boxer to instruct Senate conferees that no legislation providing for new mandates on greenhouse gas emissions should be enacted until it effectively addresses imports from China, India and other nations that have no similar emissions programs agreed to in Senate by Yea-Nay Vote. 55 - 40. Record Vote Number: 132.
+- 2008-05-15 — Motion by Senator Conrad to instruct Senate conferees made in Senate. (consideration: CR S4261-4263; text: CR S4261)
+- 2008-05-15 — Motion by Senator Conrad to instruct Senate conferees to insist that the revenue levels in the resolution include the cost of providing relief from the Alternative Minimum Tax in 2008, so that the number of taxpayers affected by the AMT does not increase and thereby more than 20 million middle-class families would be protected from paying higher taxes; to insist on the Senate position of providing for the extension of expiring and expired tax relief that has been routinely extended in past years, including tax relief such as the research and experimentation tax credit, the deduction for state and local sales taxes, the deduction for classroom expenses, the deduction for qualified education expenses, the incentive for the charitable IRA rollover, the combat pay earned income tax credit, and various energy tax incentives; and, insist that every effort should be made to offset the cost of these policies by closing the tax gap, shutting down abusive tax shelters, addressing offshore tax havens, and without raising taxes agreed to in Senate by Voice Vote.
+- 2008-05-15 — Motion by Senator DeMint to instruct Senate conferees made in Senate. (consideration: CR S4253-4255, S4265-4266; text: CR S4253)
+- 2008-05-15 — Motion by Senator DeMint to instruct Senate conferees rejected in Senate by Yea-Nay Vote. 34 - 61. Record Vote Number: 133.
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees made in Senate. (consideration: CR S4248-4251, S4263-4264; text: CR S4248)
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees made in Senate. (consideration: CR S4257-4258, S4267; text: CR S4257)
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees made in Senate. (consideration: CR S4258; text: CR S4258)
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees made in Senate. (consideration: CR S4263; text: CR S4263)
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees made in Senate. (consideration: CR S4263; text: CR S4263)
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees rejected in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 131.
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees rejected in Senate by Yea-Nay Vote. 47 - 48. Record Vote Number: 135.
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees to insist on the inclusion in the final conference report section 311 of S. Con. Res. 70, the deficit neutral reverse fund to improve energy efficiency and production, as passed by the Senate, and that such section include an additional requirement that the legislation also encourages the removal of existing barriers to building new zero-emission nuclear power plants in the United States agreed to in Senate by Voice Vote.
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees to insist on the inclusion in the final conference report the point of order against the consideration of a budget resolution in the Senate that does not contain a section regarding gross federal debt disclosure as contained in section 223 of the concurrent resolution as passed by the Senate, and further, that the conferees be instructed to include a debt disclosure section in the final conference report that itemizes the overall debt increase and the per person debt increase assumed by the final conference report agreed to in Senate by Voice Vote.
+- 2008-05-15 — Motion by Senator Gregg to instruct Senate conferees to insist that the final conference report include the individual points of order that empowers the Senate to prevent future budget resolutions from raiding Social Security; enforces transparency during Senate consideration of the congressional budget by requiring disclosure of the gross federal debt held by the nation; strengthens the integrity of the reconciliation process; and provides an additional tool to thwart any net increase in deficits in the long term (four ten year periods after 2018), as contained in sections 226, 223/224, 202 and 201, respectively, of the concurrent resolution as passed by the Senate agreed to in Senate by Unanimous Consent.
+- 2008-05-15 — Motion by Senator Kyl to instruct Senate conferees made in Senate. (consideration: CR S4251-4253; text: CR S4251)
+- 2008-05-15 — Motion by Senator Kyl to instruct Senate conferees to reject the House amendment that assumes $110 billion in tax increases as a result of having to offset the extension of tax policies that expired at the end of 2007 and will expire at the end of 2008 (including the AMT patch, the research and experimentation tax credit, the state and local sales tax deduction, the combat pay earned income tax credit, education tax credits, and the alternative energy tax credits) and insist that the final conference report include in the recommended levels and amounts in Title I reductions in revenues commensurate with extending these tax policies without offsetting tax increases agreed to in Senate by Voice Vote.
+- 2008-05-15 — Motion by Senator Vitter to instruct Senate conferees made in Senate. (consideration: CR S4258-4260, S4266-4267; text: CR S4258-4259)
+- 2008-05-15 — Motion by Senator Vitter to instruct Senate conferees rejected in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 134.
+- 2008-05-15 — Senate appointed conferees. Conrad; Murray; Wyden; Gregg; Domenici.
+- 2008-05-15 — Senate disagreed to House amendment and agreed to request for conference. (consideration: CR S4247-4267; text: CR S4247-4248)
+- 2008-05-16 — Message on Senate action sent to the House.
+- 2008-05-20 — Conferees agreed to file conference report.
+- 2008-05-20 — Conference committee actions: Conferees agreed to file conference report.
+- 2008-05-20 — Conference report H. Rept. 110-659 filed. (text of conference report: CR H4217-4278)
+- 2008-05-20 — Conference report filed: Conference report H. Rept. 110-659 filed.(text of conference report: CR H4217-4278)
+- 2008-05-20 — Rules Committee Resolution H. Res. 1214 Reported to House. Rule provides for consideration of the conference report to S. Con. Res. 70 with 1 hour of general debate. All points of order against the conference report and against its consideration are waived. The conference report shall be considered as read.
+- 2008-05-21 — Rule H. Res. 1214 passed House.
+- 2008-06-03 — Conference papers: Senate report and manager's statement held at the desk in Senate.
+- 2008-06-04 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 48 - 45. Record Vote Number: 142.(consideration: CR S5005-5008)
+- 2008-06-04 — Pursuant to the order of the Senate of June 3, 2008, the Senate voted on adoption of the conference report to accompany S.Con.Res. 70.
+- 2008-06-04 — Senate agreed to conference report by Yea-Nay Vote. 48 - 45. Record Vote Number: 142. (consideration: CR S5005-5008)
+- 2008-06-05 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 214 - 210 (Roll no. 382).(consideration: CR H5003)
+- 2008-06-05 — DEBATE - The House proceeded with one hour debate on the conference report to accompany S. Con. Res. 70.
+- 2008-06-05 — Message on Senate action sent to the House.
+- 2008-06-05 — Motions to reconsider laid on the table Agreed to without objection.
+- 2008-06-05 — Mr. Spratt brought up conference report H. Rept. 110-659 for consideration under the provisions of H. Res. 1214. (consideration: CR H4989-5001)
+- 2008-06-05 — On agreeing to the conference report Agreed to by the Yeas and Nays: 214 - 210 (Roll no. 382). (consideration: CR H5003)
+- 2008-06-05 — POSTPONED PROCEEDINGS - At the conclusion of debate on the conference report to accompany S.Con.Res.70 the yeas and nays were ordered. The Chair postponed further proceedings on the conference report to accompany S.Con.Res. 70 until later in the legislative day.
+- 2008-06-05 — The House proceeded to consider the conference report H.Rept. 110-659 as unfinished business. (consideration: CR H5003)
+- 2008-06-05 — The previous question was ordered without objection. (consideration: CR H5001)
