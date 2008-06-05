@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5599
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5599
@@ -29,9 +29,10 @@ To designate the Federal building located at 4600 Silver Hill Road in Suitland, 
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Cannon, Chris [R-UT-3] (C000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ To designate the Federal building located at 4600 Silver Hill Road in Suitland, 
 - 2008-06-04 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill.
 - 2008-06-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR S4890)
 - 2008-06-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR S4890)
+- 2008-06-05 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
