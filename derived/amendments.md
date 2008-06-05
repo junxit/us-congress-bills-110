@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5680
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -52,6 +52,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `25 U.S.C. § 415` | insert | Subsection (a) of the first section of the Act of August 9, 1955 (25 U.S.C. 415(a)) is amended in the second sentence by inserting “and except leases of land held in trust for the Morongo Band of Mission Indians which may be for a term o… | the bill quotes the text inserted but describes where it goes |
-| `25 U.S.C. § 415` | insert | Subsection (a) of the first section of the Act of August 9, 1955 (25 U.S.C. 415(a)), is amended in the second sentence by inserting “and lands held in trust for the Cow Creek Band of Umpqua true of Indians,” after “lands held in trust fo… | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 415` | insert | Subsection (a) of the first section of the Act of August 9, 1955 (25 U.S.C. 415(a)), is amended in the second sentence by inserting “and lands held in trust for the Cow Creek Band of Umpqua Tribe of Indians,” after “lands held in trust f… | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1606` | amend | by amending subsection (g)(1)(B)(iii) (43 U.S.C. 1606(g)(1)(B)(iii)), to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 450e-3` | add-at-end | Section 401 of Public Law 100–581 (102 Stat. 2944; 110 Stat. 766) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

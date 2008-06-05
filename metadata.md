@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5680
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5680
@@ -25,3 +25,9 @@ To amend certain laws relating to Native Americans, and for other purposes.
 - 2008-04-02 — Introduced in House
 - 2008-04-02 — Introduced in House
 - 2008-04-02 — Referred to the House Committee on Natural Resources.
+- 2008-04-09 — Committee Hearings Held.
+- 2008-05-14 — Committee Consideration and Mark-up Session Held.
+- 2008-05-14 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 435.
+- 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-692.
+- 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-692.
