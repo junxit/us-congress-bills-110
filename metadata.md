@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6003
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6003
@@ -16,7 +16,7 @@ Passenger Rail Investment and Improvement Act of 2008
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (37)
+## Cosponsors (44)
 
 - Rep. Mica, John L. [R-FL-7] (M000689)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
@@ -55,6 +55,13 @@ Passenger Rail Investment and Improvement Act of 2008
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
 - Rep. Holden, Tim [D-PA-17] (H000712)
 - Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Rehberg, Dennis R. [R-MT-At Large] (R000571)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
 
 ## Committees (1)
 
@@ -66,3 +73,11 @@ Passenger Rail Investment and Improvement Act of 2008
 - 2008-05-08 — Introduced in House
 - 2008-05-08 — Referred to the House Committee on Transportation and Infrastructure.
 - 2008-05-08 — Sponsor introductory remarks on measure. (CR E875-876)
+- 2008-05-09 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2008-05-20 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2008-05-20 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-22 — Committee Consideration and Mark-up Session Held.
+- 2008-05-22 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 434.
+- 2008-06-05 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-690.
+- 2008-06-05 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-690.
