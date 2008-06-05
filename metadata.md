@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2632
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2632
@@ -16,6 +16,10 @@ Sabinoso Wilderness Act of 2008
 
 - Rep. Udall, Tom [D-NM-3] (U000039)
 
+## Cosponsors (1)
+
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -26,3 +30,11 @@ Sabinoso Wilderness Act of 2008
 - 2007-06-07 — Introduced in House
 - 2007-06-07 — Referred to the House Committee on Natural Resources.
 - 2007-06-07 — Sponsor introductory remarks on measure. (CR E1243)
+- 2007-06-11 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2007-11-13 — Subcommittee Hearings Held.
+- 2008-05-14 — Committee Consideration and Mark-up Session Held.
+- 2008-05-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-05-14 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 438.
+- 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-695.
+- 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-695.
