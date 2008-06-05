@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5938
@@ -31,3 +31,12 @@ Former Vice President Protection Act of 2008
 - 2008-05-01 — Introduced in House
 - 2008-05-01 — Introduced in House
 - 2008-05-01 — Referred to the House Committee on the Judiciary.
+- 2008-05-02 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2008-05-06 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-13 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2008-05-13 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-14 — Committee Consideration and Mark-up Session Held.
+- 2008-05-14 — Ordered to be Reported by Voice Vote.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 439.
+- 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-696.
+- 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-696.
