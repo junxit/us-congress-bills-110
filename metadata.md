@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4749
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4749
@@ -16,9 +16,10 @@ National Bombing Prevention Act of 2008
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Sali, Bill [R-ID-1] (S001167)
 
 ## Committees (1)
 
@@ -29,3 +30,11 @@ National Bombing Prevention Act of 2008
 - 2007-12-17 — Introduced in House
 - 2007-12-17 — Introduced in House
 - 2007-12-17 — Referred to the House Committee on Homeland Security.
+- 2008-01-31 — Referred to the Subcommittee on Transportation Security and Infrastructure Protection.
+- 2008-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-20 — Committee Consideration and Mark-up Session Held.
+- 2008-05-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-05-20 — Subcommittee on Transportation Security and Infrastructure Protection Discharged.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 433.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-689.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-689.
