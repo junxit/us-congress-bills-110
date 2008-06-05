@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5909
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5909
@@ -25,3 +25,11 @@ COVERT Act of 2008
 - 2008-04-24 — Introduced in House
 - 2008-04-24 — Introduced in House
 - 2008-04-24 — Referred to the House Committee on Homeland Security.
+- 2008-04-28 — Referred to the Subcommittee on Transportation Security and Infrastructure Protection.
+- 2008-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-20 — Committee Consideration and Mark-up Session Held.
+- 2008-05-20 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-05-20 — Subcommittee on Transportation Security and Infrastructure Protection Discharged.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 431.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-687.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-687.
