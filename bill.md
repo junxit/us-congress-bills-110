@@ -1,0 +1,55 @@
+---
+legis-num: H.R. 6202
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6202
+
+> To promote the well-being of animals held for commercial use by providing such animals protection from cruelty and abuse.
+
+## § 1. Short title
+
+This Act may be cited as the “Farm Animals Anti-Cruelty Act”.
+
+## § 2. Finding and Declaration of policy
+
+- **(a)** *Findings* Congress finds that—
+  - **(1)** prohibiting cruelty to and abuse of animals held for commercial use promotes public health and responsible stewardship, reduces animal suffering, and is necessary given the industrialization of animal food production; and
+  - **(2)** animals held for commercial use are in interstate or foreign commerce or substantially affect such commerce or the free flow thereof, and regulation of the treatment of animals held for commercial use prevents and eliminates burdens upon such commerce.
+- **(b)** *Declaration of Policy* It is the policy of the United States that the raising, handling, transport, and slaughter of animals held for commercial use shall be carried out only by humane methods.
+
+## § 3. Prohibited Acts
+
+- **(a)** *Prohibited Acts* Whoever, without justification, kills, mutilates, disfigures, tortures, or intentionally causes an animal held for commercial use pain or suffering, or has responsibility for an animal held for commercial use and fails to provide food, water, shelter, and health care as is necessary to assure the animal’s health and well-being appropriate to the animal’s age and species, shall be subject to the penalties provided in section 5.
+
+## § 4. Exemptions
+
+- **(a)** *Exempted treatment* Nothing in this Act shall apply to the treatment of an animal held for commercial use—
+  - **(1)** in lawful scientific or agricultural research;
+  - **(2)** while undergoing an examination, test, treatment, or operation for veterinary purposes to improve the well-being of the animal; or
+  - **(3)** in exhibition at a state or county fair, or at similar exhibitions.
+- **(b)** *Exempted Acts* Any act in compliance with the Humane Slaughter Act (7 U.S.C. 1901 et seq.) is not prohibited under this Act.
+
+## § 5. Enforcement
+
+- **(a)** *Action by Attorney General* The Attorney General may bring an action in an appropriate United States district court to obtain relief under this Act, including seeking declaratory or injunctive relief for any alleged violation of section 3.
+- **(b)** *Civil Actions and Penalties*
+  - **(1)** *100 animals or fewer* The civil penalty for a violation of this Act involving 100 animals or fewer shall be not less than $500 and not more than $10,000.
+  - **(2)** *More than 100 animals* The civil penalty for a violation of this Act involving more than 100 animals shall be not less than $5000 and not more than $100,000.
+- **(c)** *Criminal Penalties*
+  - **(1)** *100 animals or fewer* For an incident involving 100 animals or fewer, a person who knowingly violates this Act shall be subject to a fine of not less than $500 and not more than $10,000, or imprisonment for not more than one year, or both.
+  - **(2)** *More than 100 animals* For an incident involving more than 100 animals, a person who knowingly violates this Act shall be subject to a fine of not less than $5,000 and not more than $100,000, or imprisonment for not more than one year, or both.
+
+## § 6. Effect on State laws
+
+Nothing in this Act shall be construed to preempt any provision of the law of any State or political subdivision of that State prohibiting animal cruelty or regulating or promoting animal welfare.
+
+## § 7. Definitions
+
+In this Act:
+
+- **(1)** *Animal* The term animal means any animal being held for commercial use and not as a pet, including livestock such as cattle, calves, swine, chickens, turkeys, ducks, geese, goats, sheep, lambs, rabbits, and other non-aquatic animals.
+- **(2)** *Commercial use* The term commercial use means use, or intended for use, as food or fiber or for food or fiber production.
+- **(3)** *Person having responsibility for an animal* The term person having responsibility for an animal refers to an animal’s owner, a person who has charge, custody, or control of an animal, or an employee or agent of either.
