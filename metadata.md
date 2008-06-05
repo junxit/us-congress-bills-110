@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5060
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5060
@@ -16,7 +16,7 @@ To amend the Immigration and Nationality Act to allow athletes admitted as nonim
 
 - Rep. Sánchez, Linda T. [D-CA-39] (S001156)
 
-## Cosponsors (15)
+## Cosponsors (20)
 
 - Rep. Delahunt, William D. [D-MA-10] (D000210)
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
@@ -33,6 +33,11 @@ To amend the Immigration and Nationality Act to allow athletes admitted as nonim
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 - Rep. Bishop, Timothy H. [D-NY-1] (B001242)
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Goodlatte, Bob [R-VA-6] (G000289)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
 ## Committees (1)
 
@@ -43,3 +48,11 @@ To amend the Immigration and Nationality Act to allow athletes admitted as nonim
 - 2008-01-17 — Introduced in House
 - 2008-01-17 — Introduced in House
 - 2008-01-17 — Referred to the House Committee on the Judiciary.
+- 2008-02-04 — Referred to the Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law.
+- 2008-03-12 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2008-03-12 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-04-02 — Committee Consideration and Mark-up Session Held.
+- 2008-04-02 — Ordered to be Reported by Voice Vote.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 440.
+- 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-697.
+- 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-697.
