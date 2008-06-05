@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5940
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5940
@@ -68,3 +68,7 @@ National Nanotechnology Initiative Amendments Act of 2008
 - 2008-06-04 — Placed on the Union Calendar, Calendar No. 427.
 - 2008-06-04 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-682.
 - 2008-06-04 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-682.
+- 2008-06-05 — Considered as unfinished business. (consideration: CR H5004)
+- 2008-06-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 6 (Roll no. 383). (text: CR 6/4/2008 H4903-4906)
+- 2008-06-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 6 (Roll no. 383).(text: CR 6/4/2008 H4903-4906)

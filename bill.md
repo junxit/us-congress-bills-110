@@ -42,7 +42,7 @@ The 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501 et 
 
 - **(4)** by inserting at the end of section 3 the following new subsection:
   > - **(d)** *Public information*
-  >   - **(1)** The National Nanotechnology Coordination Office shall develop and maintain a database accessible by the public of projects funded under the Environmental, Health, and Safety, the Education and Societal Dimensions, and the Nano­man­u­fac­tur­ing program component areas, or any successor program component areas, including a description of each project, its source of funding by agency, and its funding history. For the Environmental, Health, and Safety program component area, or any successor program component area, projects shall be grouped by major objective as defined by the research plan required under section 3(b) of the National Nanotechnology Initiative Amendments Act of 2008. For the Education and Societal Dimensions program component area, or any successor program component area, the projects shall be grouped in subcategories of—
+  >   - **(1)** The National Nanotechnology Coordination Office shall develop and maintain a database accessible by the public of projects funded under the Environmental, Health, and Safety, the Education and Societal Dimensions, and the Nanomanufacturing program component areas, or any successor program component areas, including a description of each project, its source of funding by agency, and its funding history. For the Environmental, Health, and Safety program component area, or any successor program component area, projects shall be grouped by major objective as defined by the research plan required under section 3(b) of the National Nanotechnology Initiative Amendments Act of 2008. For the Education and Societal Dimensions program component area, or any successor program component area, the projects shall be grouped in subcategories of—
   >     - **(A)** education in formal settings;
   >     - **(B)** education in informal settings;
   >     - **(C)** public outreach; and
@@ -72,7 +72,7 @@ The 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501 et 
 
 - **(8)** in section 10—
   - **(A)** by amending paragraph (2) to read as follows:
-    > - **(2)** *Nanotechnology* The term “nano­tech­nol­ogy” means the science and technology that will enable one to understand, measure, manipulate, and manufacture at the nanoscale, aimed at creating materials, devices, and systems with fundamentally new properties or functions.
+    > - **(2)** *Nanotechnology* The term “nanotechnology” means the science and technology that will enable one to understand, measure, manipulate, and manufacture at the nanoscale, aimed at creating materials, devices, and systems with fundamentally new properties or functions.
 
   - **(B)** by adding at the end the following new paragraph:
     > - **(7)** *Nanoscale* The term “nanoscale” means one or more dimensions of between approximately 1 and 100 nanometers.
@@ -98,13 +98,13 @@ The 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501 et 
     - **(D)** specify the funding allocated to each major objective of the plan and the source of funding by agency for the current fiscal year; and
     - **(E)** estimate the funding required for each major objective of the plan and the source of funding by agency for the following 3 fiscal years.
   - **(4)** *Transmittal to Congress* The plan required under paragraph (1) shall be submitted not later than 60 days after the date of enactment of this Act to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives.
-  - **(5)** *Updating and appending to report* The plan required under paragraph (1) shall be updated annually and appended to the report required under section 2(d) of the 21st Century Nano­tech­nol­ogy Research and Development Act (15 U.S.C. 7501(d)).
+  - **(5)** *Updating and appending to report* The plan required under paragraph (1) shall be updated annually and appended to the report required under section 2(d) of the 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501(d)).
 - **(c)** *Nanotechnology partnerships*
   - **(1)** *Establishment* As part of the program authorized by section 9 of the National Science Foundation Authorization Act of 2002, the Director of the National Science Foundation shall provide 1 or more grants to establish partnerships as defined by subsection (a)(2) of that section, except that each such partnership shall include 1 or more businesses engaged in the production of nanoscale materials, products, or devices. Partnerships established in accordance with this subsection shall be designated as “Nanotechnology Education Partnerships”.
   - **(2)** *Purpose* Nanotechnology Education Partnerships shall be designed to recruit and help prepare secondary school students to pursue postsecondary level courses of instruction in nanotechnology. At a minimum, grants shall be used to support—
     - **(A)** professional development activities to enable secondary school teachers to use curricular materials incorporating nanotechnology and to inform teachers about career possibilities for students in nanotechnology;
     - **(B)** enrichment programs for students, including access to nanotechnology facilities and equipment at partner institutions, to increase their understanding of nanoscale science and technology and to inform them about career possibilities in nanotechnology as scientists, engineers, and technicians; and
-    - **(C)** identification of appropriate nano­tech­nol­ogy educational materials and incorporation of nanotechnology into the curriculum for secondary school students at one or more organizations participating in a Partnership.
+    - **(C)** identification of appropriate nanotechnology educational materials and incorporation of nanotechnology into the curriculum for secondary school students at one or more organizations participating in a Partnership.
   - **(3)** *Selection* Grants under this subsection shall be awarded in accordance with subsection (b) of such section 9, except that paragraph (3)(B) of that subsection shall not apply.
 - **(d)** *Undergraduate education programs*
   - **(1)** *Activities supported* As part of the activities included under the Education and Societal Dimensions program component area, or any successor program component area, the Program shall support efforts to introduce nanoscale science, engineering, and technology into undergraduate science and engineering education through a variety of interdisciplinary approaches. Activities supported may include—
@@ -186,9 +186,9 @@ The 21st Century Nanotechnology Research and Development Act (15 U.S.C. 7501 et 
         - **(II)** to provide access to and use of instrumentation and equipment at the facilities, by means of networking technology, to individuals who are at locations remote from the facilities; and
     - **(B)** receive any recommendations on ways to strengthen the research portfolio supported under the Nanomanufacturing program component area, or any successor program component area, and on improving the capabilities of nanotechnology research facilities supported under the Program.
   - **(2)** *Advisory panel review* The Advisory Panel shall review the Nanomanufacturing program component area of the Program, or any successor program component area, and the capabilities of nanotechnology research facilities supported under the Program to assess—
-    - **(A)** whether the funding for the Nano­man­u­fac­turing program component area, or any successor program component area, is adequate and receiving appropriate priority within the overall resources available for the Program;
+    - **(A)** whether the funding for the Nanomanufacturing program component area, or any successor program component area, is adequate and receiving appropriate priority within the overall resources available for the Program;
     - **(B)** the relevance of the research being supported to the identified needs and requirements of industry;
-    - **(C)** whether the capabilities of nano­tech­nol­ogy research facilities supported under the Program are adequate—
+    - **(C)** whether the capabilities of nanotechnology research facilities supported under the Program are adequate—
       - **(i)** to meet current and near-term requirements for the fabrication and characterization of nanoscale devices and systems; and
       - **(ii)** to provide access to and use of instrumentation and equipment at the facilities, by means of networking technology, to individuals who are at locations remote from the facilities; and
     - **(D)** the level of funding that would be needed to support—
