@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4749
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Bombing Prevention Act of 2007”.
+This Act may be cited as the “National Bombing Prevention Act of 2008”.
 
 ## § 2. Bombing prevention
 
@@ -35,14 +35,29 @@ This Act may be cited as the “National Bombing Prevention Act of 2007”.
   >   - **(5)** assisting State, local, and tribal governments in developing multi-jurisdictional improvised explosive devices security plans for high-risk jurisdictions;
   >   - **(6)** helping to ensure, in coordination with the Under Secretary for Science and Technology and the Administrator of the Federal Emergency Management Agency, the identification and availability of effective technology applications through field pilot testing and acquisition of such technology applications by Federal, State, local, and tribal governments to deter, prevent, detect, protect, and respond to terrorist explosive attacks in the United States;
   >   - **(7)** coordinating the efforts of the Department relating to, and assisting departments and agencies of Federal, State, local, and tribal governments, and private sector business in, developing and implementing national explosives detection training, certification, and performance standards;
-  >   - **(8)** ensuring the implementation of any recommendations in the national strategy required under section 210G, including developing, maintaining, and tracking progress toward achieving objectives to reduce the vulnerability of the United States to terrorist explosive attacks; and
-  >   - **(9)** developing, in coordination with the Administrator of the Federal Emergency Management Agency, programmatic guidance and permitted uses for bombing prevention activities funded by homeland security assistance administered by the Department.
-  > - **(c)** *Authorization of appropriations*
+  >   - **(8)** ensuring the implementation of any recommendations in the national strategy required under section 210G, including developing, maintaining, and tracking progress toward achieving objectives to reduce the vulnerability of the United States to terrorist explosive attacks;
+  >   - **(9)** developing, in coordination with the Administrator of the Federal Emergency Management Agency, programmatic guidance and permitted uses for bombing prevention activities funded by homeland security assistance administered by the Department; and
+  >   - **(10)** establishing and executing a public awareness campaign to inform the general public and private sector businesses on ways they can deter, detect, prevent, protect against, and respond to terrorist explosive attacks in the United States, that—
+  >     - **(A)** utilizes a broad spectrum of both mainstream and specialty print, radio, television outlets, and the Internet;
+  >     - **(B)** utilizes small and disadvantaged businesses, as defined under the Small Business Act (15 U.S.C. 631 et seq.); and
+  >     - **(C)** ensures that the public awareness messages under the campaign reach and are understandable to underserved populations, including—
+  >       - **(i)** persons with physical and mental disabilities, health problems, visual impairments, hearing impairments, limited English proficiency, and literacy barriers;
+  >       - **(ii)** socially and economically disadvantaged households and communities;
+  >       - **(iii)** the elderly; and
+  >       - **(iv)** children.
+  > - **(c)** *Limitation on statutory construction* Nothing in this section shall be construed to affect the authority of the Administrator of the Federal Emergency Management Agency.
+  > - **(d)** *Authorization of appropriations*
   >   - **(1)** *In general* There are authorized to be appropriated to carry out this section—
   >     - **(A)** $10,000,000 for fiscal year 2009;
   >     - **(B)** $25,000,000 for each of fiscal years 2010 through 2012; and
   >     - **(C)** such sums as may be necessary for each subsequent fiscal year.
   >   - **(2)** *Availability* Amounts made available pursuant to paragraph (1) are authorized to remain available until expended.
+  > - **(e)** *Enhancement of explosives detection canine resources and capabilities* To enhance the Nation’s explosives detection canine resources and capabilities the Secretary of Homeland Security shall, by partnering with other Federal, State, local, and tribal agencies, nonprofit organizations, universities including historically black colleges and universities and minority serving institutions, and the private sector—
+  >   - **(1)** within 270 days after the date of the enactment of this subsection—
+  >     - **(A)** develop a pilot program that includes a domestic breeding program for purpose-bred explosives detection canines; and
+  >     - **(B)** increase the current number of capability assessments of explosives detection canine units to identify common challenges and gaps in canine explosives detection, to provide for effective domestic preparedness and collective response to terrorism, and to inform grant guidance and priorities, consistent with national capabilities database efforts;
+  >   - **(2)** continue development of a scientifically-based training curriculum to enhance consensus-based national training and certification standards to provide for effective domestic preparedness and collective response to terrorism through the effective use of explosives detection canines for explosives detection canines; and
+  >   - **(3)** continue engagement in explosives detection canine research and development activities through partnerships with the Science and Technology Directorate and the Technical Support Working Group.
   >
   > ## § 210G. National strategy
   >
@@ -71,3 +86,11 @@ This Act may be cited as the “National Bombing Prevention Act of 2007”.
   > - **(c)** *Working group* To facilitate the transfer of military technologies, the Secretary, acting through the Under Secretary for Science and Technology, in coordination with the Secretary of Defense, and in a manner consistent with protection of sensitive sources and methods, shall establish a working group to advise and assist in the identification of military technologies designed to deter, prevent, detect, protect, or respond to terrorist explosive attacks that are in the process of being developed, or are developed, by the Department of Defense or the private sector.
 
 - **(b)** *Technical and conforming amendment* The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 317 the following new items:
+
+## § 4. GAO study of explosives detection canine teams
+
+Section 1307(f) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53; 121 Stat. 395) is amended by striking “utilization” and all that follows through the end of the sentence and inserting “utilization of explosives detection canine teams, by the Transportation Security Administration and all other agencies of the Department of Homeland Security that utilize explosives detection canines, to strengthen security and the capacity of explosive detection canine detection teams of the Department.”.
+
+## § 5. Report on canine procurement activities
+
+The Secretary of Homeland Security shall submit a report to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate by not later than 180 days after the date of the enactment of this Act examining the administration of canine procurement activities by the Department of Homeland Security to deter, prevent, detect, and protect against terrorist explosive attacks in the United States, that includes consideration of the feasibility of reducing the price paid for the procurement of untrained canines, including by utilizing an expanded pool of breeds, procuring canines from domestic breeders, and acquiring canines from animal shelters, rescue societies, and other not-for-profit entities.
