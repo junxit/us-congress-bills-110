@@ -1,7 +1,7 @@
 ---
 measure: S. 2420
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # S. 2420
@@ -39,3 +39,13 @@ Federal Food Donation Act of 2008
 - 2008-05-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4844-4845; text as passed Senate: CR S4844-4845)
 - 2008-05-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S4844-4845; text as passed Senate: CR S4844-4845)
 - 2008-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 748.
+- 2008-05-23 — Message on Senate action sent to the House.
+- 2008-06-03 — Cleared for White House.
+- 2008-06-03 — Considered under suspension of the rules. (consideration: CR H4852-4853)
+- 2008-06-03 — DEBATE - The House proceeded with forty minutes of debate on S. 2420.
+- 2008-06-03 — Held at the desk.
+- 2008-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-03 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2008-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4852)
+- 2008-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4852)
+- 2008-06-03 — Received in the House.

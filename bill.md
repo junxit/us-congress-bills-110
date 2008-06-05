@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2420
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Food Donation Act of 2007”.
+This Act may be cited as the “Federal Food Donation Act of 2008”.
 
 ## § 2. Purpose
 
@@ -32,17 +32,9 @@ In this Act:
 
 ## § 4. Promoting Federal food donation
 
-Not later than 180 days after the date of enactment of this Act, the Administrator for Federal Procurement Policy shall revise the Federal Acquisition Regulation described in section 6(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(a)) to provide that all contracts above $25,000 for the provision, service, or sale of food, or for the lease or rental of Federal property to a private entity for events at which food is provided, shall include a clause that—
-
-- **(1)** encourages the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people in the United States;
-- **(2)** provides that the head of an executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing excess, apparently wholesome food to food-insecure people in the United States; and
-- **(3)** provides that executive agencies and contractors making donations pursuant to this Act are protected from civil or criminal liability under the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791).
-
-## § 5. Coordinator of community food security and gleaning
-
-- **(a)** *In general* The Secretary of Agriculture shall establish in the Department of Agriculture a Coordinator of Community Food Security and Gleaning.
-- **(b)** *Duties* The Coordinator of Community Food Security and Gleaning shall provide technical assistance relating to the activities described in section 4 to—
-  - **(1)** agencies of Federal, State, and local government;
-  - **(2)** nonprofit organizations;
-  - **(3)** agricultural producers; and
-  - **(4)** private entities.
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Federal Acquisition Regulation issued in accordance with section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421) shall be revised to provide that all contracts above $25,000 for the provision, service, or sale of food in the United States, or for the lease or rental of Federal property to a private entity for events at which food is provided in the United States, shall include a clause that—
+  - **(1)** encourages the donation of excess, apparently wholesome food to nonprofit organizations that provide assistance to food-insecure people in the United States; and
+  - **(2)** states the terms and conditions described in subsection (b).
+- **(b)** *Terms and conditions*
+  - **(1)** *Costs* In any case in which a contractor enters into a contract with an executive agency under which apparently wholesome food is donated to food-insecure people in the United States, the head of the executive agency shall not assume responsibility for the costs and logistics of collecting, transporting, maintaining the safety of, or distributing excess, apparently wholesome food to food-insecure people in the United States under this Act.
+  - **(2)** *Liability* An executive agency (including an executive agency that enters into a contract with a contractor) and any contractor making donations pursuant to this Act shall be exempt from civil and criminal liability to the extent provided under the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791).
