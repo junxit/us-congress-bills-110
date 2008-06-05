@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4179
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4179
@@ -16,7 +16,7 @@ FAST Redress Act of 2008
 
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 
-## Cosponsors (10)
+## Cosponsors (16)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
@@ -28,6 +28,12 @@ FAST Redress Act of 2008
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
 
 ## Committees (1)
 
@@ -38,3 +44,11 @@ FAST Redress Act of 2008
 - 2007-11-14 — Introduced in House
 - 2007-11-14 — Introduced in House
 - 2007-11-14 — Referred to the House Committee on Homeland Security.
+- 2008-01-31 — Referred to the Subcommittee on Transportation Security and Infrastructure Protection.
+- 2008-05-01 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-20 — Committee Consideration and Mark-up Session Held.
+- 2008-05-20 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-05-20 — Subcommittee on Transportation Security and Infrastructure Protection Discharged.
+- 2008-06-05 — Placed on the Union Calendar, Calendar No. 430.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-686.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-686.
