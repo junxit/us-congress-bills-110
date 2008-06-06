@@ -21,5 +21,5 @@ In this Act:
 - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
   - **(A)** the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives; and
   - **(B)** the Committee on Appropriations and the Committee on Foreign Relations of the Senate.
-- **(2)** *Countries of Central America* The term countries of Central America means Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama.
+- **(2)** *Countries of Central America* The term countries of Central America means Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama and includes Haiti and the Dominican Republic.
 - **(3)** *Merida Initiative* The term Merida Initiative means the program announced by the United States and Mexico on October 22, 2007, to fight illicit narcotics trafficking and criminal organizations throughout the Western Hemisphere.
