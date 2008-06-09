@@ -31,7 +31,7 @@ The Congress finds, on this, the 50th anniversary of the establishment of the Na
 - **(7)** Human and robotic exploration of the solar system will be a significant long term undertaking of humanity in the 21st century and beyond, and it is in the national interest that the United States should assume a leadership role in a cooperative international exploration initiative.
 - **(8)** Developing United States human space flight capabilities to allow independent American access to the International Space Station, and to explore beyond low Earth orbit, is a strategically important national imperative, and all prudent steps should thus be taken to bring the Orion Crew Exploration Vehicle and Ares I Crew Launch Vehicle to full operational capability as soon as practicable.
 - **(9)** NASA’s scientific research activities have contributed much to the advancement of knowledge, provided societal benefits, and helped train the next generation of scientists and engineers, and those activities should continue to be an important priority.
-- **(10)** NASA should make a sustained commitment to a robust long-term technology development activity. Such investments represent the critically important “seed corn” on which NASA’s ability to carry out challenging and productive missions in the future will depend.
+- **(10)** NASA should make a sustained commitment to a robust long-term technology development activity. Such investments represent the critically important seed corn on which NASA’s ability to carry out challenging and productive missions in the future will depend.
 - **(11)** NASA, through its pursuit of challenging and relevant activities, can provide an important stimulus to the next generation to pursue careers in science, technology, engineering, and mathematics.
 - **(12)** Commercial activities have substantially contributed to the strength of both the United States space program and the national economy, and the development of a healthy and robust United States commercial space sector should continue to be encouraged.
 - **(13)** It is in the national interest for the United States to have an export control policy that protects the national security while also enabling the United States aerospace industry to compete effectively in the global market place and the United States to undertake cooperative programs in science and human space flight in an effective and efficient manner.
@@ -40,7 +40,7 @@ The Congress finds, on this, the 50th anniversary of the establishment of the Na
 
 In this Act:
 
-- **(1)** *Administrator* The term “Administrator” means the Administrator of NASA.
-- **(2)** *NASA* The term “NASA” means the National Aeronautics and Space Administration.
-- **(3)** *NOAA* The term “NOAA” means the National Oceanic and Atmospheric Administration.
-- **(4)** *OSTP* The term “OSTP” means the Office of Science and Technology Policy.
+- **(1)** *Administrator* The term Administrator means the Administrator of NASA.
+- **(2)** *NASA* The term NASA means the National Aeronautics and Space Administration.
+- **(3)** *NOAA* The term NOAA means the National Oceanic and Atmospheric Administration.
+- **(4)** *OSTP* The term OSTP means the Office of Science and Technology Policy.
