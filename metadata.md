@@ -1,7 +1,7 @@
 ---
 measure: S. 2482
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2482
@@ -16,9 +16,10 @@ A bill to repeal the provision of title 46, United States Code, requiring a lice
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -30,3 +31,6 @@ A bill to repeal the provision of title 46, United States Code, requiring a lice
 - 2008-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 750.
 - 2008-06-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5331; text as passed Senate: CR S5331)
 - 2008-06-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5331; text as passed Senate: CR S5331)
+- 2008-06-06 — Message on Senate action sent to the House.
+- 2008-06-09 — Received in the House.
+- 2008-06-09 — Referred to the House Committee on Transportation and Infrastructure.
