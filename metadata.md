@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3022
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3022
@@ -39,3 +39,9 @@ Sequoia and Kings Canyon National Parks Wilderness Act of 2008
 - 2008-06-05 — Placed on the Union Calendar, Calendar No. 437.
 - 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-694.
 - 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-694.
+- 2008-06-09 — Considered under suspension of the rules. (consideration: CR H5048-5050)
+- 2008-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3022.
+- 2008-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-09 — Mr. Costa moved to suspend the rules and pass the bill, as amended.
+- 2008-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5048-5049)
+- 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5048-5049)
