@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3913
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 3913
@@ -16,9 +16,10 @@ To amend the International Center Act to authorize the lease or sublease of cert
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,12 @@ To amend the International Center Act to authorize the lease or sublease of cert
 - 2008-01-28 — Placed on the Union Calendar, Calendar No. 315.
 - 2008-01-28 — Reported by the Committee on Transportation. H. Rept. 110-518.
 - 2008-01-28 — Reported by the Committee on Transportation. H. Rept. 110-518.
+- 2008-01-29 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2008-05-20 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2008-06-02 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-343.
+- 2008-06-02 — Committee on Foreign Relations. Reported by Senator Biden without amendment. With written report No. 110-343.
+- 2008-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 755.
+- 2008-06-05 — Cleared for White House.
+- 2008-06-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5331)
+- 2008-06-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5331)
+- 2008-06-06 — Message on Senate action sent to the House.
