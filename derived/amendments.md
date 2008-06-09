@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5569
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 8 U.S.C. § 1153
 
-> Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 (8 U.S.C. 1153 note) is amended by striking “for 15 years” and inserting “for 20 years”.
+> Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 (8 U.S.C. 1153 note) is amended by striking “shall set aside” and all that follows through “eligible for admission” and inserting “shall set aside 3,000 visas annually for 20 years to include such aliens as are eligible for admission”.
 
 | | |
 |---|---|
-| Removed | `for 15 years` |
-| Inserted | `for 20 years` |
+| Removed | `shall set aside” and all that follows through “eligible for admission` |
+| Inserted | `shall set aside 3,000 visas annually for 20 years to include such aliens as are eligible for admission` |
