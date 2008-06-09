@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5938
@@ -40,3 +40,9 @@ Former Vice President Protection Act of 2008
 - 2008-06-05 — Placed on the Union Calendar, Calendar No. 439.
 - 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-696.
 - 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-696.
+- 2008-06-09 — Considered under suspension of the rules. (consideration: CR H5063-5064)
+- 2008-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5938.
+- 2008-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-09 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.
+- 2008-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5063)
+- 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5063)
