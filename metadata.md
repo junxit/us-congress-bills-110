@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5569
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5569
@@ -37,3 +37,10 @@ To extend for 5 years the EB-5 regional center pilot program, and for other purp
 - 2008-06-05 — Placed on the Union Calendar, Calendar No. 441.
 - 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-698.
 - 2008-06-05 — Reported by the Committee on Judiciary. H. Rept. 110-698.
+- 2008-06-09 — Considered under suspension of the rules. (consideration: CR H5060-5063)
+- 2008-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5569.
+- 2008-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-09 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill, as amended.
+- 2008-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5060-5061)
+- 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5060-5061)
+- 2008-06-09 — The title of the measure was amended. Agreed to without objection.
