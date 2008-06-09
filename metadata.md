@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1243
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1243
@@ -16,7 +16,7 @@ Recognizing the immeasurable contributions of fathers in the healthy development
 
 - Rep. Sullivan, John [R-OK-1] (S001155)
 
-## Cosponsors (25)
+## Cosponsors (28)
 
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 - Rep. McIntyre, Mike [D-NC-7] (M000485)
@@ -43,13 +43,28 @@ Recognizing the immeasurable contributions of fathers in the healthy development
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 
 ## Committees (1)
 
 - House — Education and the Workforce Committee
+
+## Recorded votes (1)
+
+- 2008-06-09 — [House 110-2-389](votes/house-110-2-0389.md) — On Motion to Suspend the Rules and Agree — **Passed** (373–0)
 
 ## Actions
 
 - 2008-06-05 — Introduced in House
 - 2008-06-05 — Introduced in House
 - 2008-06-05 — Referred to the House Committee on Education and Labor.
+- 2008-06-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-09 — Considered as unfinished business. (consideration: CR H5087-5088)
+- 2008-06-09 — Considered under suspension of the rules. (consideration: CR H5075-5077)
+- 2008-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1243.
+- 2008-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-09 — Mr. Yarmuth moved to suspend the rules and agree to the resolution.
+- 2008-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 373 - 0 (Roll no. 389). (text: CR H5075)
+- 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 373 - 0 (Roll no. 389).(text: CR H5075)
