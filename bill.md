@@ -43,7 +43,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1); and
   - **(2)** an officer or employee who received both a 2.6 percent pay increase in January 2006 and a 2.4 percent pay increase in February 2007.
 - **(b)** *Pay increase defined* For purposes of this section, the term pay increase, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under sections 731(b) and 732(c)(3) of title 31, United States Code, in such year.
-- **(c)** *Prospective effect* Effective with respect to pay for service performed in any pay period beginning after the end of the 3-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+- **(c)** *Prospective effect* Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 - **(d)** *Lump-sum payment* Not later than 6 months after the date of the enactment of this Act, the Comptroller General shall, subject to the availability of appropriations, pay to each individual to whom this section applies a lump-sum payment. Subject to subsection (e), such lump-sum payment shall be equal to—
   - **(1)** the total amount of basic pay that would have been paid to the individual, for service performed during the period beginning on the effective date of the pay increase for 2006 and ending on the day before the effective date of the pay adjustment under subsection (c) (or, if earlier, the date on which the individual retires or otherwise ceases to be employed by the Government Accountability Office), if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, minus
   - **(2)** the total amount of basic pay that was in fact paid to the individual for service performed during the period described in paragraph (1).
@@ -88,6 +88,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   > - **(b)** *Appointment, supervision, and removal*
   >   - **(1)** The Office of the Inspector General shall be headed by an Inspector General, who shall be appointed by the Comptroller General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Comptroller General.
   >   - **(2)** The Inspector General may be removed from office by the Comptroller General. The Comptroller General shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.
+  >   - **(3)** The Inspector General shall be paid at an annual rate of pay equal to $5,000 less than the annual rate of pay of the Comptroller General, and may not receive any cash award or bonus, including any award under chapter 45 of title 5.
   > - **(c)** *Authority of Inspector General* In addition to the authority otherwise provided by this section, the Inspector General, in carrying out the provisions of this section, may—
   >   - **(1)** have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material that relate to programs and operations of the Government Accountability Office;
   >   - **(2)** make such investigations and reports relating to the administration of the programs and operations of the Government Accountability Office as are, in the judgment of the Inspector General, necessary or desirable;
@@ -126,37 +127,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Incumbent* The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act shall continue to serve in such position subject to removal in accordance with the amendments made by this section.
 - **(c)** *Clerical amendment* The table of sections for chapter 7 is amended by inserting after the item relating to section 704 the following:
 
-## § 6. Administering oaths
-
-Section 711 is amended by striking paragraph (4) and inserting the following:
-
-> - **(4)** administer oaths to witnesses, except that, in matters other than auditing and settling accounts, the authority of an officer or employee to administer oaths to witnesses pursuant to a delegation under paragraph (2) shall not be available without the prior express approval of the Comptroller General (or a designee).
-
-## § 7. Comptroller General reports
-
-Section 719 is amended—
-
-- **(1)** in subsection (b)(1)(B), by striking “and” at the end;
-- **(2)** in subsection (b)(1)(C), by striking the period at the end and inserting “; and”;
-- **(3)** by adding at the end of subsection (b)(1) the following:
-  > - **(D)** for agencies subject to sections 901–903 and other agencies designated by the Comptroller General, an assessment of their overall degree of cooperation in making personnel available for interview, providing written answers to questions, submitting to an oath authorized by the Comptroller General under section 711, granting access to records, providing timely comments to draft reports, adopting recommendations in reports and responding to such other matters as the Comptroller General deems appropriate in carrying out his duties under authority of sections 711–720 or any other provisions of law.
-
-- **(4)** in subsection (c)(2)(B), by striking “and” at the end;
-- **(5)** in subsection (c)(3), by striking the period at the end and inserting “; and”, and
-- **(6)** by adding at the end of subsection (c) the following:
-  > - **(4)** as soon as practicable when an agency does not, within a reasonable time of a request by the Comptroller General, make personnel available for interview, provide written answers to questions, grant access to records, or submit to an oath authorized by the Comptroller General under sections 711–720 or any other provisions of law.
-
-## § 8. Reimbursement of audit costs
+## § 6. Reimbursement of audit costs
 
 - **(a)** *In general* Section 3521 is amended by adding at the end the following:
   > - **(i)**
-  >   - **(1)** Any executive agency or component thereof that prepares an audited financial statement under section 3515 shall reimburse the Government Accountability Office the cost of any audit of the financial statements (or any part thereof) and related schedules of such agency or component performed by the Comptroller General.
-  >   - **(2)** Reimbursements required by paragraph (1) shall be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the reimbursement is received and shall remain available until expended.
+  >   - **(1)** If the Government Accountability Office audits any financial statement or related schedule which is prepared under section 3515 by an executive agency (or component thereof) for a fiscal year beginning on or after October 1, 2009, such executive agency (or component) shall reimburse the Government Accountability Office for the cost of such audit if—
+  >     - **(A)** the statement or schedule audited is that of an executive agency (or component) which submitted a financial statement or related schedule under section 3515 for fiscal year 2007 which was audited by the Government Accountability Office; or
+  >     - **(B)** the reason for the audit (described in the matter before subparagraph (A)) is because of the Comptroller General’s determination of materiality to the statements required under section 331(e).
+  >   - **(2)** Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests the Government Accountability Office to audit such statement or any related schedule may reimburse the Government Accountability Office for the cost of such audit.
+  >   - **(3)** Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
 
-- **(b)** *Conforming amendment* Section 1401 of title I of Public Law 108–83 (31 U.S.C. 3523 note) is repealed.
-- **(c)** *Effective date* This section and the amendments made by this section shall take effect on October 1, 2009.
+- **(b)** *Conforming amendment* Section 1401 of title I of Public Law 108–83 (31 U.S.C. 3523 note) is repealed, effective October 1, 2010.
 
-## § 9. Financial disclosure requirements
+## § 7. Financial disclosure requirements
 
 Section 109(13)(B) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is amended—
 
@@ -165,42 +148,21 @@ Section 109(13)(B) of the Ethics in Government Act of 1978 (5 U.S.C. App.) is am
 - **(3)** by inserting after clause (i) the following:
   > - **(ii)** each officer or employee of the Government Accountability Office who, for at least 60 consecutive days, occupies a position for which the rate of basic pay, minus the amount of locality pay that would have been authorized under section 5304 of title 5, United States Code (had the officer or employee been paid under the General Schedule) for the locality within which the position of such officer or employee is located (as determined by the Comptroller General), is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule; and
 
-## § 10. Highest basic pay rate
+## § 8. Highest basic pay rate
 
 Section 732(c)(2) is amended by striking “highest basic rate for GS–15;” and inserting “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5;”.
 
-## § 11. Additional authorities
+## § 9. Additional authorities
 
-- **(a)** *In general*
-  - **(1)** Section 731 is amended—
-    - **(A)** by repealing subsection (d);
-    - **(B)** in subsection (e)—
-      - **(i)** in the matter before paragraph (1), by striking “maximum daily rate for GS–18 under section 5332 of such title” and inserting “daily rate for level IV of the Executive Schedule”; and
-      - **(ii)** by striking “more than—” and all that follows and inserting the following: “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.”; and
-    - **(C)** by adding at the end the following:
-      > - **(j)** Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
+- **(a)** *In general* Section 731 is amended—
+  - **(1)** by repealing subsection (d);
+  - **(2)** in subsection (e)—
+    - **(A)** in the matter before paragraph (1), by striking “maximum daily rate for GS–18 under section 5332 of such title” and inserting “daily rate for level IV of the Executive Schedule”; and
+    - **(B)** by striking “more than—” and all that follows and inserting the following: “more than 20 experts and consultants may be procured for terms of not more than 3 years, but which shall be renewable.”; and
+  - **(3)** by adding at the end the following:
+    > - **(j)** Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
 
-  - **(2)** *Conforming amendments*
-    - **(A)** Section 732a(b) is amended by striking “section 731(d), (e)(1), or (e)(2)” and inserting “paragraph (1) or (2) of section 731(e)”.
-    - **(B)** Section 733(c) is amended by striking “(d),”.
-    - **(C)** Section 735(a) is amended by striking “731(c)–(e),” and inserting “731(c) and (e),”.
-- **(b)** *Access to certain information*
-  - **(1)** *In general* Subchapter II of chapter 7 is amended by adding at the end the following:
-    > ## § 721. Access to certain information
-    >
-    > - **(a)** No provision of the Social Security Act shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain any information, to inspect any record, or to interview any officer, employee, or contractor under section 716 of this title, including with respect to any information disclosed to or obtained by the Secretary of Health and Human Services under part C or D of title XVIII of the Social Security Act.
-    > - **(b)** No provision of the Federal Food, Drug, and Cosmetic Act shall be construed to limit, amend, or supersede the authority of the Comptroller General to obtain any information, to inspect any record, or to interview any officer, employee, or contractor under section 716 of this title, including with respect to any information concerning any method or process which as a trade secret is entitled to protection.
-
-  - **(2)** *Interviews* Section 716(a) is amended in the second sentence by inserting “and interview agency officers and employees” after “agency record”.
-  - **(3)** *Clerical amendment* The analysis for chapter 7 is amended by inserting after the item relating to section 720 the following:
-
-## § 12. Basic pay for retirement
-
-Section 8331(3) of title 5, United States Code, is amended—
-
-- **(1)** in subparagraph (G), by striking “and” at the end;
-- **(2)** in subparagraph (H), by inserting “and” at the end;
-- **(3)** by inserting after subparagraph (H) the following:
-  > - **(I)** the nonpermanent amount of a performance-based pay increase received by an employee of the Government Accountability Office, to the extent that such increase does not cause the basic pay of such employee to exceed the limitation specified in section 732(c)(2) of title 31;
-
-- **(4)** in the matter following subparagraph (I) (as added by this section), by striking “(B) through (H)” and inserting “(B) through (I)”.
+- **(b)** *Conforming amendments*
+  - **(1)** Section 732a(b) is amended by striking “section 731(d), (e)(1), or (e)(2)” and inserting “paragraph (1) or (2) of section 731(e)”.
+  - **(2)** Section 733(c) is amended by striking “(d),”.
+  - **(3)** Section 735(a) is amended by striking “731(c)–(e),” and inserting “731(c) and (e),”.
