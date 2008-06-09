@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3913
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
