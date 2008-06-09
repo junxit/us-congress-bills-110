@@ -18,7 +18,7 @@ This Act may be cited as the “Congressional Review Act Improvement Act”.
 - **(a)** *Government paperwork reduction* Section 801 of title 5, United States Code, is amended as follows:
   - **(1)** *Repeal of requirement for submittal to both houses of congress of rules otherwise published in the federal register* Subsection (a)(1) is amended—
     - **(A)** by striking “each House of the Congress and to” in subparagraph (A);
-    - **(B)** by striking “and make available to each House of Congress” in subparagraph (B); and
+    - **(B)** by striking “each House of”, and inserting “on request” after “Congress”, in subparagraph (B); and
     - **(C)** by striking subparagraph (C).
   - **(2)** *Listing in congressional record of each rule received by the Comptroller General* Subsection (e) is amended to read as follows:
     > - **(e)**
