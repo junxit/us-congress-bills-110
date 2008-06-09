@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 311
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 311
@@ -46,3 +46,6 @@ Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box D
 - 2008-06-04 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.
 - 2008-06-04 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4882-4883)
 - 2008-06-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4882-4883)
+- 2008-06-05 — Passed/agreed to in Senate: Received in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S5331)
+- 2008-06-05 — Received in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5331)
+- 2008-06-06 — Message on Senate action sent to the House.
