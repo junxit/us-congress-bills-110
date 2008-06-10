@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 337
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 337
@@ -16,7 +16,7 @@ Honoring Seeds of Peace for its 15th anniversary as an organization promoting un
 
 - Rep. Allen, Thomas H. [D-ME-1] (A000357)
 
-## Cosponsors (43)
+## Cosponsors (51)
 
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
@@ -61,6 +61,14 @@ Honoring Seeds of Peace for its 15th anniversary as an organization promoting un
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
 - Rep. Burton, Dan [R-IN-5] (B001149)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Tierney, John F. [D-MA-6] (T000266)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
 
 ## Committees (1)
 
@@ -71,3 +79,11 @@ Honoring Seeds of Peace for its 15th anniversary as an organization promoting un
 - 2008-04-29 — Introduced in House
 - 2008-04-29 — Introduced in House
 - 2008-04-29 — Referred to the House Committee on Foreign Affairs.
+- 2008-04-30 — Committee Agreed to Seek Consideration Under Suspension of the Rules, by Unanimous Consent.
+- 2008-04-30 — Committee Consideration and Mark-up Session Held.
+- 2008-06-10 — Considered under suspension of the rules. (consideration: CR H5149-5151)
+- 2008-06-10 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 337.
+- 2008-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-10 — Mr. Payne moved to suspend the rules and agree to the resolution.
+- 2008-06-10 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5149-5150)
+- 2008-06-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5149-5150)
