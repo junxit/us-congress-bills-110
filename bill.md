@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2268
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ The Congress hereby finds as follows:
 
 - **(1)** Anna Jarvis, who is considered to be the founder of the modern Mother’s Day, was born in Webster, West Virginia on May 1, 1864.
 - **(2)** A resident of Grafton, West Virginia, Anna Jarvis dedicated much of her adult life to honoring her mother, Anna Reeves Jarvis, who passed on May 9, 1905.
-- **(3)** In 1908, the Matthews Methodist Episcopal Church of Grafton, West Virginia, officially proclaimed the third anniversary of Anna Reeves Jarvis’ death to be Mother’s Day.
+- **(3)** In 1908, the Andrews Methodist Episcopal Church of Grafton, West Virginia, officially proclaimed the third anniversary of Anna Reeves Jarvis’ death to be Mother’s Day.
 - **(4)** In 1910, West Virginia Governor, William Glasscock, issued the first Mother’s Day Proclamation encouraging all West Virginians to attend church and wear white carnations.
 - **(5)** On May 8, 1914, the Sixty-Third Congress approved H. J. Res. 263 designating the second Sunday in May to be observed as Mother’s Day and encouraging all Americans to display the American flag at their homes as a public expression of the love and reverence for the mothers of our Nation.
 - **(6)** On May 9, 1914, President Woodrow Wilson issued a Presidential Proclamation directing government officials to display the American flag on all government buildings and inviting the American people to display the flag at their homes on the second Sunday of May as a public expression of the love and reverence for the mothers of our nation.
@@ -65,3 +65,4 @@ The Congress hereby finds as follows:
   - **(1)** 1/2 to the Susan G. Komen for the Cure for the purpose of furthering research funded by the organization.
   - **(2)** 1/2 to the National Osteoporosis Foundation for the purpose of furthering research funded by the Foundation.
 - **(c)** *Audits* The Susan G. Komen for the Cure and the National Osteoporosis Foundation shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received by the respective organizations under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
