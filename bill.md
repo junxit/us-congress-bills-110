@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3229
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -58,3 +58,4 @@ This Act may be cited as the “National Infantry Museum and Soldier Center Comm
 - **(a)** *In General* All sales of coins issued under this Act shall include a surcharge of $10 per coin.
 - **(b)** *Distribution* Subject to section 5134(f) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be paid to the National Infantry Foundation for the purpose of establishing an endowment to support the maintenance of the National Infantry Museum and Soldier Center following its completion.
 - **(c)** *Audits* The Comptroller General of the United States shall have the right to examine such books, records, documents, and other data of the National Infantry Foundation as may be related to the expenditures of amounts paid under subsection (b).
+- **(d)** *Limitation* Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of such issuance, the issuance of such coin would result in the number of commemorative coin programs issued during such year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code (as in effect on the date of the enactment of this Act). The Secretary of the Treasury may issue guidance to carry out this subsection.
