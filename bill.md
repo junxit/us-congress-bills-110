@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 3754
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 3754
 
-> To authorize the Administrator of the Environmental Protection Agency to accept, as part of a settlement, diesel emission reduction Supplemental Environmental Projects, and for other purposes.
+> To authorize the Administrator of the Environmental Protection Agency to accept, as part of a settlement, diesel emission reduction Supplemental Environmental Proj­ects, and for other purposes.
 
 ## § 1. EPA authority to accept diesel emissions reduction Supplemental Environmental Projects
 
