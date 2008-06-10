@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6028
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6028
@@ -43,3 +43,11 @@ Merida Initiative to Combat Illicit Narcotics and Reduce Organized Crime Authori
 - 2008-06-06 — Committee on Judiciary discharged.
 - 2008-06-06 — Committee on Judiciary discharged.
 - 2008-06-06 — Placed on the Union Calendar, Calendar No. 445.
+- 2008-06-10 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-10 — Considered as unfinished business. (consideration: CR H5142-5143)
+- 2008-06-10 — Considered under suspension of the rules. (consideration: CR H5126-5139)
+- 2008-06-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6028.
+- 2008-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-10 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
+- 2008-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 311 - 106 (Roll no. 393). (text: CR H5126-5132)
+- 2008-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 311 - 106 (Roll no. 393).(text: CR H5126-5132)
