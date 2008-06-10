@@ -1,7 +1,7 @@
 ---
 measure: S. 1245
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1245
@@ -38,3 +38,13 @@ A bill to reform mutual aid agreements for the National Capital Region.
 - 2007-12-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 525.
 - 2007-12-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S15373; text as passed Senate: CR S15373)
 - 2007-12-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S15373; text as passed Senate: CR S15373)
+- 2007-12-13 — Held at the desk.
+- 2007-12-13 — Message on Senate action sent to the House.
+- 2007-12-13 — Received in the House.
+- 2008-06-09 — Cleared for White House.
+- 2008-06-09 — Considered under suspension of the rules. (consideration: CR H5085-5086)
+- 2008-06-09 — DEBATE - The House proceeded with forty minutes of debate on S. 1245.
+- 2008-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-09 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5085)
+- 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5085)
