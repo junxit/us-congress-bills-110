@@ -1,7 +1,7 @@
 ---
 measure: H.R. 634
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 634
@@ -336,3 +336,9 @@ American Veterans Disabled for Life Commemorative Coin Act
 - 2007-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 345). (text: CR H4973-4974)
 - 2007-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 345).(text: CR H4973-4974)
 - 2007-05-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-05-20 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment favorably.
+- 2008-06-02 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with an amendment. Without written report.
+- 2008-06-02 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Dodd with an amendment. Without written report.
+- 2008-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 757.
+- 2008-06-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5456-5457; text as passed Senate: CR S5456-5457)
+- 2008-06-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5456-5457; text as passed Senate: CR S5456-5457)
