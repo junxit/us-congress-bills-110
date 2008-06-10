@@ -1,6 +1,6 @@
 ---
 legis-num: S. 2516
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -47,7 +47,7 @@ This Act may be cited as the “Kendell Frederick Citizenship Assistance Act”.
   - **(2)** *Contents* The report submitted under paragraph (1) shall include a description of—
     - **(A)** the methods used by the Secretary of Homeland Security and the Secretary of Defense to prepare, handle, and adjudicate such applications;
     - **(B)** the effectiveness of the chain of authority, supervision, and training of employees of the Federal Government or of other entities, including contract employees, who have any role in such process or adjudication; and
-    - **(C)** the ability of the Secretary of Homeland Security and the Secretary of Defense to use technology to facilitate or accomplish any aspect of such process or adjudication and to safeguard privacy and civil liberties
+    - **(C)** the ability of the Secretary of Homeland Security and the Secretary of Defense to use technology to facilitate or accomplish any aspect of such process or adjudication and to safeguard privacy and civil liberties.
 - **(b)** *Implementation*
   - **(1)** *Study* The Comptroller General of the United States and the Inspector General of the Department of Homeland Security shall conduct a study on the implementation of this Act by the Secretary of Homeland Security and the Secretary of Defense, including an assessment of any technology that may be used to improve the efficiency of the naturalization process for members of the United States Armed Forces and an assessment of the impact of this Act on privacy and civil liberties.
   - **(2)** *Report* Not later than 180 days after the date on which the Secretary of Homeland Security submits the report required under subsection (a), the Comptroller General and the Inspector General shall submit a report to the appropriate congressional committees on the study required by paragraph (1) that includes recommendations for improving the implementation of this Act.

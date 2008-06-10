@@ -1,7 +1,7 @@
 ---
 measure: S. 2516
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2516
@@ -42,3 +42,13 @@ Kendell Frederick Citizenship Assistance Act
 - 2008-03-11 — Senate amendment agreed to: Amendment agreed to in Senate by Unanimous Consent.
 - 2008-03-11 — Senate amendment proposed (on the floor): Amendment SA 4177 proposed by Senator Brown for Senator Mikulski.(consideration: CR S1891-1892; text: CR S1891-1892)
 - 2008-03-11 — Senate amendment submitted
+- 2008-03-12 — Held at the desk.
+- 2008-03-12 — Message on Senate action sent to the House.
+- 2008-03-12 — Received in the House.
+- 2008-06-09 — Cleared for White House.
+- 2008-06-09 — Considered under suspension of the rules. (consideration: CR H5059-5060)
+- 2008-06-09 — DEBATE - The House proceeded with forty minutes of debate on S. 2516.
+- 2008-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-09 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.
+- 2008-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5059)
+- 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5059)
