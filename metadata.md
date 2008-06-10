@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4926
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4926
@@ -119,9 +119,10 @@ Josh Miller Helping Everyone Access Responsive Treatment in Schools Act of 2008
 - Rep. Tierney, John F. [D-MA-6] (T000266)
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -137,3 +138,4 @@ Josh Miller Helping Everyone Access Responsive Treatment in Schools Act of 2008
 - 2008-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5073)
 - 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5073)
 - 2008-06-09 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-10 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
