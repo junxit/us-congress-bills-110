@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1553
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Conquer Childhood Cancer Act of 2007”.
+This Act may be cited as the “Caroline Pryce Walker Conquer Childhood Cancer Act of 2008”.
 
 ## § 2. Findings
 
@@ -20,34 +20,47 @@ Congress makes the following findings:
 - **(1)** Cancer kills more children than any other disease.
 - **(2)** Each year cancer kills more children between 1 and 20 years of age than asthma, diabetes, cystic fibrosis, and AIDS, combined.
 - **(3)** Every year, over 12,500 young people are diagnosed with cancer.
-- **(4)** Each year about 2,300 children and teenagers die from cancer.
+- **(4)** Each year, about 2,300 children and teenagers die from cancer.
 - **(5)** One in every 330 Americans develops cancer before age 20.
 - **(6)** Some forms of childhood cancer have proven to be so resistant that even in spite of the great research strides made, most of those children die. Up to 75 percent of the children with cancer can now be cured.
-- **(7)** Brain tumors are now the most common cause of cancer-related death in children and are the most common solid tumor of childhood. Neuroblastoma is the second most common pediatric solid tumor (after brain tumors) and represents a major therapeutic challenge. More than 50 percent of children with metastatic disease still die despite aggressive, toxic chemotherapy regimens.
-- **(8)** The causes of most childhood cancers are not yet known.
-- **(9)** Childhood cancers are mostly those of the white blood cells (leukemias), brain, bone, the lymphatic system, and tumors of the muscles, kidneys, and nervous system. Each of these behaves differently, but all are characterized by an uncontrolled proliferation of abnormal cells.
-- **(10)** Eighty percent of the children who are diagnosed with cancer have disease which has already spread to distant sites in the body.
-- **(11)** Ninety percent of children with a form of pediatric cancer are treated at one of the more than 200 Children's Oncology Group member institutions throughout the United States.
+- **(7)** The causes of most childhood cancers are not yet known.
+- **(8)** Childhood cancers are mostly those of the white blood cells (leukemias), brain, bone, the lymphatic system, and tumors of the muscles, kidneys, and nervous system. Each of these behaves differently, but all are characterized by an uncontrolled proliferation of abnormal cells.
+- **(9)** Eighty percent of the children who are diagnosed with cancer have disease which has already spread to distant sites in the body.
+- **(10)** Ninety percent of children with a form of pediatric cancer are treated at one of the more than 200 Children's Oncology Group member institutions throughout the United States.
 
 ## § 3. Purposes
 
 It is the purpose of this Act to authorize appropriations to—
 
-- **(1)** encourage and expand the support for biomedical research programs of the existing National Cancer Institute-designated multi-center national infrastructure for pediatric cancer research;
-- **(2)** establish a population-based national childhood cancer database (the Children's Cancer Research Network) to evaluate incidence trends of childhood cancers and to enable the investigations of genetic epidemiology in order to identify causes to aid in development of prevention strategies;
-- **(3)** provide informational services to patients and families affected by childhood cancer;
-- **(4)** support the development, construction and operation of a comprehensive online public information system on childhood cancers and services available to families; and
-- **(5)** establish a fellowship program in pediatric cancer research to foster clinical and translational research career development in pediatric oncologists in the early stages of their career.
+- **(1)** encourage the support for pediatric cancer research and other activities related to pediatric cancer;
+- **(2)** establish a comprehensive national childhood cancer registry; and
+- **(3)** provide informational services to patients and families affected by childhood cancer.
 
-## § 4. Pediatric cancer research and awareness
+## § 4. Pediatric cancer research and awareness; national childhood cancer registry
 
-Subpart 1 of part C of title IV of the Public Health Service Act (42 U.S.C. 285 et seq.) is amended by adding at the end thereof the following:
+- **(a)** *Pediatric cancer research and awareness* Subpart 1 of part C of title IV of the Public Health Service Act (42 U.S.C. 285 et seq.) is amended by adding at the end the following:
+  > ## § 417E. Pediatric cancer research and awareness
+  >
+  > - **(a)** *Pediatric cancer research*
+  >   - **(1)** *Programs of research excellence in pediatric cancer* The Secretary, in collaboration with the Director of NIH and other Federal agencies with interest in prevention and treatment of pediatric cancer, shall continue to enhance, expand, and intensify pediatric cancer research and other activities related to pediatric cancer, including therapeutically applicable research to generate effective treatments, pediatric preclinical testing, and pediatric clinical trials through National Cancer Institute-supported pediatric cancer clinical trial groups and their member institutions. In enhancing, expanding, and intensifying such research and other activities, the Secretary is encouraged to take into consideration the application of such research and other activities for minority, health disparity, and medically underserved communities. For purposes of this section, the term pediatric cancer research means research on the causes, prevention, diagnosis, recognition, treatment, and long-term effects of pediatric cancer.
+  >   - **(2)** *Peer review requirements* All grants awarded under this subsection shall be awarded in accordance with section 492.
+  > - **(b)** *Public awareness of pediatric cancers and available treatments and research*
+  >   - **(1)** *In general* The Secretary may award grants to childhood cancer professional and direct service organizations for the expansion and widespread implementation of—
+  >     - **(A)** activities that provide available information on treatment protocols to ensure early access to the best available therapies and clinical trials for pediatric cancers;
+  >     - **(B)** activities that provide available information on the late effects of pediatric cancer treatment to ensure access to necessary long-term medical and psychological care; and
+  >     - **(C)** direct resource services such as educational outreach for parents, peer-to-peer and parent-to-parent support networks, information on school re-entry and postsecondary education, and resource directories or referral services for financial assistance, psychological counseling, and other support services.
+  >   - **(2)** *Performance measurement, transparency, and accountability* For each grant awarded under this subsection, the Secretary shall develop and implement metrics-based performance measures to assess the effectiveness of activities funded under such grant.
+  >   - **(3)** *Informational requirements* Any information made available pursuant to a grant awarded under paragraph (1) shall be—
+  >     - **(A)** culturally and linguistically appropriate as needed by patients and families affected by childhood cancer; and
+  >     - **(B)** approved by the Secretary.
+  > - **(c)** *Rule of construction* Nothing in this section shall be construed as being inconsistent with the goals and purposes of the Minority Health and Health Disparities Research and Education Act of 2000 (42 U.S.C. 202 note).
+  > - **(d)** *Authorization of appropriations* For purposes of carrying out this section and section 399E–1, there are authorized to be appropriated $30,000,000 for each of fiscal years 2009 through 2013. Such authorization of appropriations is in addition to the authorization of appropriations established in section 402A with respect to such purpose. Funds appropriated under this subsection shall remain available until expended.
 
-> ## § 417E. Pediatric cancer research and awareness
->
-> - **(a)** *Pediatric cancer research*
->   - **(1)** *Special programs of research excellence in pediatric cancers* The Director of NIH, acting through the National Cancer Institute, shall establish special programs of research excellence in the area of pediatric cancers. Such programs shall demonstrate a balanced approach to research cause, prognosis, prevention, diagnosis, and treatment of pediatric cancers that foster translation of basic research findings into innovative interventions applied to patients.
->   - **(2)** *Fellowship of excellence in pediatric cancer research* The Secretary shall develop a grant mechanism for the establishment, in cooperation with the National Cancer Institute-supported pediatric cancer clinical trial groups, of Research Fellowships in Pediatric Cancer to support adequate numbers of pediatric focused clinical and translational investigators thereby facilitating continuous momentum of research excellence.
-> - **(b)** *National Childhood Cancer Registry* The Director of NIH shall award a grant for the operation of a population-based national childhood cancer database, the Childhood Cancer Research Network (CCRN), of the Children’s Oncology Group, in cooperation with the National Cancer Institute.
-> - **(c)** *Public awareness of pediatric cancers and available treatments and research* The Secretary shall award grants to recognized childhood cancer professional and advocacy organizations for the expansion and widespread implementation of activities to raise public awareness of currently available information, treatment, and research with the intent to ensure access to best available therapies for pediatric cancers.
-> - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 through 2012. Funds appropriated under this section shall remain available until expended.
+- **(b)** *National Childhood Cancer registry* Part M of title III of the Public Health Service Act (42 U.S.C. 280e et seq.) is amended—
+  - **(1)** by inserting after section 399E the following:
+    > ## § 399E–1. National Childhood Cancer Registry
+    >
+    > - **(a)** *In general* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall award a grant to enhance and expand infrastructure to track the epidemiology of pediatric cancer into a comprehensive nationwide registry of actual occurrences of pediatric cancer. Such registry shall be updated to include an actual occurrence within weeks of the date of such occurrence.
+    > - **(b)** *Informed consent and privacy requirements and coordination with existing programs* The registry established pursuant to subsection (a) shall be subject to section 552a of title 5, United States Code, the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, applicable Federal and State informed consent regulations, any other applicable Federal and State laws relating to the privacy of patient information, and section 399B(d)(4) of this Act.
+
+  - **(2)** in section 399F(a), by inserting “(other than section 399E–1)” after “this part”.
