@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3179
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `40 U.S.C. § 502` | replace | by striking “for automated” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `40 U.S.C. § 502` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `40 U.S.C. § 502` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
