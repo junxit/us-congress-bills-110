@@ -11,53 +11,60 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Electronic Communications Preservation Act”.
+This Act may be cited as the “Electronic Message Preservation Act”.
 
-## § 2. Preservation of electronic communications
+## § 2. Preservation of electronic messages
 
-- **(a)** *Requirement for preservation of electronic communications*
-  - **(1)** *In general* Chapter 31 of title 44, United States Code, is amended by adding at the end the following new section:
-    > ## § 3108. Electronic communications
+- **(a)** *Requirement for Preservation of Electronic Messages*
+  - **(1)** *In general* Chapter 29 of title 44, United States Code, is amended by adding at the end the following new section:
+    > ## § 2911. Electronic messages
     >
-    > - **(a)** *Regulations required* Not later than 18 months after the date of the enactment of this section, the Archivist shall promulgate regulations governing agency preservation of electronic communications that are records. Such regulations shall, at a minimum—
-    >   - **(1)** require the electronic capture, management, and preservation of such electronic records;
+    > - **(a)** *Regulations Required* Not later than 18 months after the date of the enactment of this section, the Archivist shall promulgate regulations governing agency preservation of electronic messages that are records. Such regulations shall, at a minimum—
+    >   - **(1)** require the electronic capture, management, and preservation of such electronic records in accordance with the records disposition requirements of chapter 33 of this title;
     >   - **(2)** require that such electronic records are readily accessible for retrieval through electronic searches;
-    >   - **(3)** establish mandatory minimum functional requirements and a software certification testing process to certify electronic records management applications to be used by Federal agencies for purposes of complying with the requirements in paragraphs (1) and (2); and
-    >   - **(4)** include timelines for agency compliance with the regulations that ensure compliance as expeditiously as practicable but not later than four years after the date of the enactment of this section.
-    > - **(b)** *Coverage of other electronic records* To the extent practicable, the regulations promulgated under subsection (a) shall also include requirements for the capture, management, and preservation of other electronic records.
-    > - **(c)** *Compliance by Federal agencies* Each Federal agency shall comply with the regulations promulgated under subsection (a).
-    > - **(d)** *Review of regulations required* The Archivist shall periodically review and, as necessary, amend the regulations promulgated under this section.
-    > - **(e)** *Reports on implementation of regulations*
-    >   - **(1)** *Agency report to Archivist* Not later than four years after the date of the enactment of this section, the head of each Federal agency shall submit to the Archivist a report on the agency’s compliance with the regulations promulgated under this section.
-    >   - **(2)** *Archivist report to Congress* Not later than 90 days after receipt of all reports required by paragraph (1), the Archivist shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on Federal agency compliance with the regulations promulgated under this section.
+    >   - **(3)** establish mandatory minimum functional requirements for electronic records management systems to ensure compliance with the requirements in paragraphs (1) and (2);
+    >   - **(4)** establish a process to certify that Federal agencies’ electronic records management systems meet the functional requirements established under paragraph (3); and
+    >   - **(5)** include timelines for agency compliance with the regulations that ensure compliance as expeditiously as practicable but not later than four years after the date of the enactment of this section.
+    > - **(b)** *Coverage of Other Electronic Records* To the extent practicable, the regulations promulgated under subsection (a) shall also include requirements for the capture, management, and preservation of other electronic records.
+    > - **(c)** *Compliance by Federal Agencies* Each Federal agency shall comply with the regulations promulgated under subsection (a).
+    > - **(d)** *Review of Regulations Required* The Archivist shall periodically review and, as necessary, amend the regulations promulgated under this section.
+    > - **(e)** *Reports on Implementation of Regulations*
+    >   - **(1)** *Agency report to archivist* Not later than four years after the date of the enactment of this section, the head of each Federal agency shall submit to the Archivist a report on the agency’s compliance with the regulations promulgated under this section.
+    >   - **(2)** *Archivist report to congress* Not later than 90 days after receipt of all reports required by paragraph (1), the Archivist shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on Federal agency compliance with the regulations promulgated under this section.
 
-  - **(2)** *Clerical amendment* The table of sections for chapter 31 of title 44, United States Code, is amended by adding after the item relating to section 3107 the following new item:
-- **(b)** *Definition of electronic records management application* Section 2901 of title 44, United States Code, is amended—
+  - **(2)** *Clerical amendment* The table of sections for chapter 29 of title 44, United States Code, is amended by adding after the item relating to section 2910 the following new item:
+- **(b)** *Definitions* Section 2901 of title 44, United States Code, is amended—
   - **(1)** by striking “and” at the end of paragraph (14);
-  - **(2)** by striking the period at the end of paragraph (15) and inserting “; and”; and
-  - **(3)** by adding at the end the following new paragraph:
-    > - **(16)** the term “electronic records management application” means a software system designed to manage electronic records within an information technology system, including by categorizing and locating records, identifying records that are due for disposition, and storing, retrieving, and disposing of records stored in a repository.
+  - **(2)** by striking the period at the end of paragraph (15) and inserting a semicolon; and
+  - **(3)** by adding at the end the following new paragraphs:
+    > - **(16)** the term electronic messages means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals; and
+    > - **(17)** the term electronic records management system means a software system designed to manage electronic records within an information technology system, including by—
+    >   - **(A)** categorizing and locating records;
+    >   - **(B)** ensuring that records are retained as long as necessary;
+    >   - **(C)** identifying records that are due for disposition; and
+    >   - **(D)** the storage, retrieval, and disposition of records.
 
 ## § 3. Presidential records
 
-- **(a)** *Additional regulations relating to Presidential records*
+- **(a)** *Additional Regulations Relating to Presidential Records*
   - **(1)** *In general* Section 2206 of title 44, United States Code, is amended—
-    - **(A)** by striking “and” at the end of paragraph (4);
-    - **(B)** by striking the period at the end of paragraph (5) and inserting “; and”; and
+    - **(A)** by striking “and” at the end of paragraph (3);
+    - **(B)** by striking the period at the end of paragraph (4) and inserting “; and”; and
     - **(C)** by adding at the end the following:
       > - **(5)** provisions for establishing standards necessary for the economical and efficient management of Presidential records during the President’s term of office, including—
-      >   - **(A)** records management controls necessary for the capture, management, and preservation of electronic communications;
-      >   - **(B)** records management controls necessary to ensure that electronic communications are readily accessible for retrieval through electronic searches; and
-      >   - **(C)** a software certification testing process to certify the electronic records management application to be used by the President for the purposes of complying with the requirements in subparagraphs (A) and (B).
+      >   - **(A)** records management controls necessary for the capture, management, and preservation of electronic messages;
+      >   - **(B)** records management controls necessary to ensure that electronic messages are readily accessible for retrieval through electronic searches; and
+      >   - **(C)** a process to certify the electronic records management system to be used by the President for the purposes of complying with the requirements in subparagraphs (A) and (B).
 
-  - **(2)** *Definition* Section 2201 of title 44, United States Code, is amended by adding at the end the following new paragraph:
-    > - **(6)** The term “electronic records management application” has the meaning provided in section 2901(16) of this title.
+  - **(2)** *Definition* Section 2201 of title 44, United States Code, is amended by adding at the end the following new paragraphs:
+    > - **(5)** The term electronic messages has the meaning provided in section 2901(16) of this title.
+    > - **(6)** The term electronic records management system has the meaning provided in section 2901(17) of this title.
 
-- **(b)** *Certification of President’s management of Presidential records*
+- **(b)** *Certification of President’s Management of Presidential Records*
   - **(1)** *Certification required* Chapter 22 of title 44, United States Code, is amended by adding at the end the following new section:
     > ## § 2208. Certification of the President’s management of Presidential records
     >
-    > - **(a)** *Annual certification* The Archivist shall annually certify whether the records management controls established by the President meet requirements under sections 2203(a) and 2206(5) of this title.
+    > - **(a)** *Annual Certification* The Archivist shall annually certify whether the records management controls established by the President meet requirements under sections 2203(a) and 2206(5) of this title.
     > - **(b)** *Report to Congress* The Archivist shall report annually to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives on the status of the certification.
 
   - **(2)** *Clerical amendment* The table of sections for chapter 22 of title 44, United States Code, is amended by adding at the end the following new item:
