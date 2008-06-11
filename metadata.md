@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3179
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 3179
@@ -26,9 +26,10 @@ Local Preparedness Acquisition Act
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,13 @@ Local Preparedness Acquisition Act
 - 2007-12-17 — Placed on the Union Calendar, Calendar No. 303.
 - 2007-12-17 — Reported by the Committee on Oversight and Government. H. Rept. 110-494.
 - 2007-12-17 — Reported by the Committee on Oversight and Government. H. Rept. 110-494.
+- 2007-12-18 — Received in the Senate.
+- 2008-01-22 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-06-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-344.
+- 2008-06-05 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-344.
+- 2008-06-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 768.
+- 2008-06-10 — Cleared for White House.
+- 2008-06-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5457)
+- 2008-06-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5457)
+- 2008-06-11 — Message on Senate action sent to the House.
