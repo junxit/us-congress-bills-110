@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2631
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2631
@@ -16,12 +16,13 @@ Nuclear Forensics and Attribution Act
 
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Langevin, James R. [D-RI-2] (L000559)
 - Rep. Israel, Steve [D-NY-2] (I000057)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
 ## Committees (2)
 
@@ -35,3 +36,14 @@ Nuclear Forensics and Attribution Act
 - 2007-06-07 — Referred to the Committee on Homeland Security, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-06-07 — Referred to the Committee on Homeland Security, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-06-07 — Referred to the Committee on Homeland Security, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-06-18 — Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.
+- 2007-10-10 — Subcommittee Hearings Held.
+- 2007-10-31 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-10-31 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-20 — Committee Consideration and Mark-up Session Held.
+- 2008-05-20 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-06-11 — Committee on Foreign Affairs discharged.
+- 2008-06-11 — Committee on Foreign Affairs discharged.
+- 2008-06-11 — Placed on the Union Calendar, Calendar No. 449.
+- 2008-06-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-708, Part I.
+- 2008-06-11 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-708, Part I.
