@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 576
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 576
@@ -16,7 +16,7 @@ A resolution designating August 2008 as "Digital Television Transition Awareness
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Cosponsors (29)
+## Cosponsors (31)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
@@ -47,6 +47,8 @@ A resolution designating August 2008 as "Digital Television Transition Awareness
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
 
 ## Committees (1)
 
@@ -57,3 +59,7 @@ A resolution designating August 2008 as "Digital Television Transition Awareness
 - 2008-05-22 — Introduced in Senate
 - 2008-05-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4808)
 - 2008-05-22 — Sponsor introductory remarks on measure. (CR  S4808)
+- 2008-06-12 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-06-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 777.
