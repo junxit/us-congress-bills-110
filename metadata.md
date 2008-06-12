@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1333
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1333
@@ -16,7 +16,7 @@ To direct the Comptroller General of the United States to conduct a study on the
 
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 
-## Cosponsors (34)
+## Cosponsors (56)
 
 - Rep. Emerson, Jo Ann [R-MO-8] (E000172)
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
@@ -52,6 +52,28 @@ To direct the Comptroller General of the United States to conduct a study on the
 - Rep. Davis, Tom [R-VA-11] (D000136)
 - Rep. Boswell, Leonard L. [D-IA-3] (B000652)
 - Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Tancredo, Thomas G. [R-CO-6] (T000458)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Buyer, Steve [R-IN-4] (B001203)
+- Rep. Herseth, Stephanie [D-SD-At Large] (H001037)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Jindal, Bobby [R-LA-1] (J000287)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Perlmutter, Ed [D-CO-7] (P000593)
+- Rep. Reynolds, Thomas M. [R-NY-26] (R000569)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. Carney, Christopher P. [D-PA-10] (C001065)
+- Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 
 ## Committees (2)
 
@@ -65,3 +87,20 @@ To direct the Comptroller General of the United States to conduct a study on the
 - 2007-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-03-06 — Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-03-07 — Referred to the Subcommittee on Aviation.
+- 2007-03-07 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2007-03-12 — Referred to the Subcommittee on Emergency Communications, Preparedness, and Response.
+- 2008-04-30 — Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 8 - 0 .
+- 2008-04-30 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-05-15 — Committee Consideration and Mark-up Session Held.
+- 2008-05-15 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-05-15 — Subcommittee on Aviation Discharged.
+- 2008-05-15 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-05-20 — Committee Consideration and Mark-up Session Held.
+- 2008-05-20 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-06-05 — House Committee on Transportation Granted an extension for further consideration ending not later than June 13, 2008.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-691, Part I.
+- 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-691, Part I.
+- 2008-06-12 — Placed on the Union Calendar, Calendar No. 451.
+- 2008-06-12 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-691, Part II.
+- 2008-06-12 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-691, Part II.
