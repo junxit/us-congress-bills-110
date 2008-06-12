@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Emergency Extended Unemployment Compensation Act of 2008”.
-- **(b)** *Table of contents* The table of contents of this Act is as follows:
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Federal-State agreements
 
@@ -29,6 +29,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** the terms and conditions of the State law which apply to claims for regular compensation and to the payment thereof shall apply to claims for emergency unemployment compensation and the payment thereof, except where otherwise inconsistent with the provisions of this Act or with the regulations or operating instructions of the Secretary promulgated to carry out this Act; and
   - **(3)** the maximum amount of emergency unemployment compensation payable to any individual for whom an emergency unemployment compensation account is established under section 3 shall not exceed the amount established in such account for such individual.
 - **(e)** *Election by States* Notwithstanding any other provision of Federal law (and if State law permits), the Governor of a State that is in an extended benefit period may provide for the payment of emergency unemployment compensation prior to extended compensation to individuals who otherwise meet the requirements of this section.
+- **(f)** *Unauthorized Aliens Ineligible* A State shall require as a condition of eligibility for emergency unemployment compensation under this Act that each alien who receives such compensation must be legally authorized to work in the United States, as defined for purposes of the Federal Unemployment Tax Act (26 U.S.C. 3301 et seq.). In determining whether an alien meets the requirements of this subsection, a State must follow the procedures provided in section 1137(d) of the Social Security Act (42 U.S.C. 1320b–7(d)).
 
 ## § 3. Emergency unemployment compensation account
 
@@ -48,7 +49,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** such a period would then be in effect for such State under such Act if—
       - **(i)** section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
       - **(ii)** such section 203(f)—
-        - **(I)** were applied by substituting “6.0” or “6.5” in paragraph (1)(A)(i); and
+        - **(I)** were applied by substituting “6.0” for “6.5” in paragraph (1)(A)(i); and
         - **(II)** did not include the requirement under paragraph (1)(A)(ii).
 
 ## § 4. Payments to States having agreements for the payment of emergency unemployment compensation
@@ -81,14 +82,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 7. Definitions
 
-In this Act, the terms compensation, regular compensation, extended compensation, additional compensation, benefit year, base period, State, State agency, State law, and week have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+In this Act, the terms compensation, regular compensation, extended compensation, benefit year, base period, State, State agency, State law, and week have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
 ## § 8. Applicability
 
 - **(a)** *In General* Except as provided in subsection (b), an agreement entered into under this Act shall apply to weeks of unemployment—
   - **(1)** beginning after the date on which such agreement is entered into; and
-  - **(2)** ending on or before February 1, 2009.
+  - **(2)** ending on or before March 31, 2009.
 - **(b)** *Transition for Amount Remaining in Account*
-  - **(1)** *In general* Subject to paragraphs (2) and (3), in the case of an individual who has amounts remaining in an account established under section 3 as of the last day of the last week (as determined in accordance with the applicable State law) ending on or before February 1, 2009, emergency unemployment compensation shall continue to be payable to such individual from such amounts for any week beginning after such last day for which the individual meets the eligibility requirements of this Act.
+  - **(1)** *In general* Subject to paragraphs (2) and (3), in the case of an individual who has amounts remaining in an account established under section 3 as of the last day of the last week (as determined in accordance with the applicable State law) ending on or before March 31, 2009, emergency unemployment compensation shall continue to be payable to such individual from such amounts for any week beginning after such last day for which the individual meets the eligibility requirements of this Act.
   - **(2)** *Limit on augmentation* If the account of an individual is exhausted after the last day of such last week (as so determined), then section 3(c) shall not apply and such account shall not be augmented under such section, regardless of whether such individual’s State is in an extended benefit period (as determined under paragraph (2) of such section).
-  - **(3)** *Limit on compensation* No compensation shall be payable by reason of paragraph (1) for any week beginning after April 30, 2009.
+  - **(3)** *Limit on compensation* No compensation shall be payable by reason of paragraph (1) for any week beginning after June 30, 2009.
