@@ -1,7 +1,7 @@
 ---
 measure: S. 2146
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 2146
@@ -42,3 +42,11 @@ A bill to authorize the Administrator of the Environmental Protection Agency to 
 - 2008-02-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S1434; text as passed Senate: CR S1434)
 - 2008-03-03 — Received in the House.
 - 2008-03-03 — Referred to the House Committee on Energy and Commerce.
+- 2008-06-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-11 — Considered under suspension of the rules. (consideration: CR H5294-5296)
+- 2008-06-11 — DEBATE - The House proceeded with forty minutes of debate on S. 2146.
+- 2008-06-11 — Mr. Boucher moved to suspend the rules and pass the bill, as amended.
+- 2008-06-12 — Considered as unfinished business. (consideration: CR H5361-5362)
+- 2008-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 413). (text: CR 6/11/2008 H5294)
+- 2008-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 413).(text: CR 6/11/2008 H5294)
