@@ -1,7 +1,7 @@
 ---
 measure: S. 682
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 682
@@ -16,7 +16,7 @@ Edward William Brooke III Congressional Gold Medal Act
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
-## Cosponsors (67)
+## Cosponsors (68)
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 - Sen. Reid, Harry [D-NV] (R000146)
@@ -85,6 +85,7 @@ Edward William Brooke III Congressional Gold Medal Act
 - Sen. Conrad, Kent [D-ND] (C000705)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 
 ## Committees (2)
 
@@ -102,3 +103,10 @@ Edward William Brooke III Congressional Gold Medal Act
 - 2007-03-30 — Message on Senate action sent to the House.
 - 2007-03-30 — Received in the House.
 - 2007-03-30 — Referred to the House Committee on Financial Services.
+- 2008-06-10 — Cleared for White House.
+- 2008-06-10 — Considered under suspension of the rules. (consideration: CR H5162-5166)
+- 2008-06-10 — DEBATE - The House proceeded with forty minutes of debate on S. 682.
+- 2008-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-10 — Mr. Frank (MA) moved to suspend the rules and pass the bill.
+- 2008-06-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5162-5163)
+- 2008-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5162-5163)
