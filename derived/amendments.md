@@ -1,0 +1,54 @@
+---
+measure: S. 2146
+congress: 110
+version: Engrossed Amendment House
+derived: true
+---
+
+# What S. 2146 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+3 amendatory instructions. 2 executed, 1 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 42 U.S.C. § 16133
+
+> Section 793(d)(2) of such Act (42 U.S.C. 16133(d)(2)) is amended by striking “Governor” and inserting “chief executive”.
+
+| | |
+|---|---|
+| Removed | `Governor` |
+| Inserted | `chief executive` |
+
+### 42 U.S.C. § 16133
+
+> Subparagraphs (A) and (B) of section 793(c)(2) of such Act are each amended by striking “50” and inserting “51” and by striking “2 percent” and inserting “1.96 percent” in each place such terms appear.
+
+| | |
+|---|---|
+| Removed | `50` |
+| Inserted | `51` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 16131` | add-at-end | Section 791 of the Energy Policy Act of 2005 (42 U.S.C. 16131) is amended by adding at the end thereof the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
