@@ -1,7 +1,7 @@
 ---
 measure: S. 254
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 254
@@ -136,3 +136,10 @@ A bill to award posthumously a Congressional gold medal to Constantino Brumidi.
 - 2007-05-22 — Message on Senate action sent to the House.
 - 2007-05-22 — Received in the House.
 - 2007-05-22 — Referred to the House Committee on Financial Services.
+- 2008-06-10 — Cleared for White House.
+- 2008-06-10 — Considered under suspension of the rules. (consideration: CR H5157-5160)
+- 2008-06-10 — DEBATE - The House proceeded with forty minutes of debate on S. 254.
+- 2008-06-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-10 — Mr. Ackerman moved to suspend the rules and pass the bill.
+- 2008-06-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5157-5158)
+- 2008-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5157-5158)

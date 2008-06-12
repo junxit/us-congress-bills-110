@@ -1,8 +1,8 @@
 ---
 legis-num: S. 254
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Tenth Congress of the United States of America
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 254
@@ -42,5 +42,5 @@ The Secretary may strike and sell duplicates in bronze of the gold medal struck 
 
 ## § 5. Authority to use fund amounts; proceeds of sale
 
-- **(a)** *Authority to Use Fund Amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund, such amounts as may be necessary to pay for the costs of the medals struck pursuant to this Act.
+- **(a)** *Authority To Use Fund Amounts* There is authorized to be charged against the United States Mint Public Enterprise Fund, such amounts as may be necessary to pay for the costs of the medals struck pursuant to this Act.
 - **(b)** *Proceeds of Sale* Amounts received from the sale of duplicate bronze medals authorized under section 3 shall be deposited into the United States Mint Public Enterprise Fund.
