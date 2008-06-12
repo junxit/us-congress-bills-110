@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 325
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 325
@@ -16,9 +16,10 @@ Celebrating the 50th Anniversary of the Mackinac Island State Park Commission's 
 
 - Rep. Stupak, Bart [D-MI-1] (S001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -34,3 +35,8 @@ Celebrating the 50th Anniversary of the Mackinac Island State Park Commission's 
 - 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-05-21 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 5/19/2008 H4068)
 - 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 5/19/2008 H4068)
+- 2008-05-22 — Received in the Senate and referred to the Committee on the Judiciary.
+- 2008-06-12 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-06-12 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-06-12 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5638)
+- 2008-06-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5638)
