@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1553
 
-> To amend the Public Health Service Act to advance medical research and treatments into pediatric cancers, ensure patients and families have access to the current treatments and information regarding pediatric cancers, establish a population-based national childhood cancer database, and promote public awareness of pediatric cancers.
+> To amend the Public Health Service Act to advance medical research and treatments into pediatric cancers, ensure patients and families have access to information regarding pediatric cancers and current treatments for such cancers, establish a national childhood cancer registry, and promote public awareness of pediatric cancer.
 
 ## § 1. Short title
 
@@ -20,7 +20,7 @@ Congress makes the following findings:
 - **(1)** Cancer kills more children than any other disease.
 - **(2)** Each year cancer kills more children between 1 and 20 years of age than asthma, diabetes, cystic fibrosis, and AIDS, combined.
 - **(3)** Every year, over 12,500 young people are diagnosed with cancer.
-- **(4)** Each year, about 2,300 children and teenagers die from cancer.
+- **(4)** Each year about 2,300 children and teenagers die from cancer.
 - **(5)** One in every 330 Americans develops cancer before age 20.
 - **(6)** Some forms of childhood cancer have proven to be so resistant that even in spite of the great research strides made, most of those children die. Up to 75 percent of the children with cancer can now be cured.
 - **(7)** The causes of most childhood cancers are not yet known.
