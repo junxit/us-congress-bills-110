@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2370
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -36,7 +36,7 @@ In this Act:
 ## § 4. Clarification of property interest
 
 - **(a)** *Required Action* The Secretary of the Interior shall issue a quitclaim deed conveying any right, title, and interest the United States may have in and to Tingley Beach, San Gabriel Park, and the BioPark Parcels to the City.
-- **(b)** *Timing* The Secretary shall carry out the action in subsection (a) as soon as practicable after the date of enactment of this title and in accordance with all applicable law.
+- **(b)** *Timing* The Secretary shall carry out the action in subsection (a) as soon as practicable after the date of enactment of this titleAct and in accordance with all applicable law.
 - **(c)** *No Additional Payment* The City shall not be required to pay any additional costs to the United States for the value of San Gabriel Park, Tingley Beach, and the BioPark Parcels.
 
 ## § 5. Other rights, title, and interests unaffected
