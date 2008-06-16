@@ -1,7 +1,7 @@
 ---
 measure: S. 1929
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1929
@@ -29,3 +29,8 @@ Sierra Vista Subwatershed Feasibility Study Act
 - 2007-08-01 — Introduced in Senate
 - 2007-08-01 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-08-01 — Sponsor introductory remarks on measure. (CR S10621)
+- 2008-02-28 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-376.
+- 2008-05-07 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-360.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-360.
+- 2008-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 792.
