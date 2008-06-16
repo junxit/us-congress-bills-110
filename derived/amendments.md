@@ -1,7 +1,7 @@
 ---
 measure: S. 783
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+25 amendatory instructions. 0 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -38,6 +38,19 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the fourth sentence, by striking “In acquiring” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking subsections (b) through (f) and inserting the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (g) as subsection (c). | the bill names no machine-readable US Code section |
+| — | replace | Section 905 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230d) is amended in the first sentence by striking “, except that within the core area and on those lands acquired by the Secretary pursuant to section 902(c) of thi… | the bill names no machine-readable US Code section |
+| — | strike | by striking the first sentence; and | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “Pending such establishment and thereafter the” and inserting “The”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “Barataria Marsh Unit” each place it appears and inserting “Barataria Preserve Unit”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Jean Lafitte National Historical Park” each place it appears and inserting “Jean Lafitte National Historical Park and Preserve”. | the bill names no machine-readable US Code section |
+| — | replace | Section 901 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230) is amended in the second sentence by striking “of approximately twenty thousand acres generally depicted on the map entitled Barataria Marsh Unit-Jean Lafitte N… | the bill names no machine-readable US Code section |
+| — | replace | by striking “(a) Within the” and all that follows through the first sentence and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “The Secretary may also acquire by any of the foregoing methods” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the third sentence, by striking “Lands, waters, and interests therein” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in the fourth sentence, by striking “In acquiring” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (b) through (f) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (g) as subsection (d). | the bill names no machine-readable US Code section |
+| — | insert | Section 903 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230b) is amended in the fifth sentence by inserting “(or January 1, 2007, for areas added to the park after that date)” after “January 1, 1977”. | the bill names no machine-readable US Code section |
 | — | replace | Section 905 of the National Parks and Recreation Act of 1978 (16 U.S.C. 230d) is amended in the first sentence by striking “, except that within the core area and on those lands acquired by the Secretary pursuant to section 902(c) of thi… | the bill names no machine-readable US Code section |
 | — | strike | by striking the first sentence; and | the bill names no machine-readable US Code section |
 | — | replace | in the second sentence, by striking “Pending such establishment and thereafter the” and inserting “The”. | the bill names no machine-readable US Code section |
