@@ -1,7 +1,7 @@
 ---
 measure: S. 900
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 900
@@ -29,3 +29,7 @@ Boy Scouts of America Land Transfer Act of 2008
 - 2007-03-15 — Introduced in Senate
 - 2007-03-15 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-03-15 — Sponsor introductory remarks on measure. (CR S3207)
+- 2008-05-07 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-356.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-356.
+- 2008-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 788.

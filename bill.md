@@ -1,7 +1,7 @@
 ---
 legis-num: S. 900
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Boy Scouts of America Land Transfer Act of 2006”.
+This Act may be cited as the “Boy Scouts of America Land Transfer Act of 2006 2008”.
 
 ## § 2. Definitions
 
