@@ -1,7 +1,7 @@
 ---
 measure: S. 1380
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “dated July 1978” and inserting “dated May 2007”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “thirty-six thousand two hundred thirty-five acres” and inserting “35,235 acres”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “dated July 1978” and inserting “dated May 2007”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “seventy thousand acres” and inserting “74,195 acres”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “, dated July 1978” and inserting “and dated May 2007”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “thirty-six thousand two hundred thirty-five acres” and inserting “35,235 acres”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “, dated July 1978” and inserting “and dated May 2007”. | the bill names no machine-readable US Code section |
