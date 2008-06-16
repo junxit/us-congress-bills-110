@@ -1,7 +1,7 @@
 ---
 measure: S. 868
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 868
@@ -28,3 +28,8 @@ A bill to amend the Wild and Scenic Rivers Act to designate segments of the Taun
 
 - 2007-03-13 — Introduced in Senate
 - 2007-03-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2007-09-11 — Committee on Energy and Natural Resources Senate Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-213.
+- 2008-05-07 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-355.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-355.
+- 2008-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 787.
