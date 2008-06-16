@@ -1,7 +1,7 @@
 ---
 measure: S. 832
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 832
@@ -29,3 +29,8 @@ A bill to provide for the sale of approximately 25 acres of public land to the T
 - 2007-03-09 — Introduced in Senate
 - 2007-03-09 — Read twice and referred to the Committee on Energy and Natural Resources.
 - 2007-03-09 — Sponsor introductory remarks on measure. (CR S2970)
+- 2008-02-27 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-364.
+- 2008-05-07 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-354.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. With written report No. 110-354.
+- 2008-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 786.

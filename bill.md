@@ -1,7 +1,7 @@
 ---
 legis-num: S. 832
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -21,11 +21,11 @@ In this Act:
 
 ## § 2. Conveyance of Federal land to Turnabout Ranch
 
-- **(a)** *In general* Notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act (43 U.S.C. 1713), if not later than 30 days after completion of the appraisal required under subsection (b), Turnabout Ranch of Escalante, Utah submits to the Secretary an offer to acquire the Federal land for the appraised value, the Secretary shall, not later than 30 days after the date of the offer, convey to Turnabout Ranch all right, title, and interest to the Federal land, subject to valid existing rights.
+- **(a)** *In general* Notwithstanding the land use planning requirements of sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), if not later than 30 days after completion of the appraisal required under subsection (b), Turnabout Ranch of Escalante, Utah, submits to the Secretary an offer to acquire the Federal land for the appraised value, the Secretary shall, not later than 30 days after the date of the offer, convey to Turnabout Ranch all right, title, and interest to the Federal land, subject to valid existing rights.
 - **(b)** *Appraisal* Not later than 90 days after the date of enactment of this Act, the Secretary shall complete an appraisal of the Federal land. The appraisal shall be completed in accordance with the “Uniform Appraisal Standards for Federal Land Acquisitions” and the “Uniform Standards of Professional Appraisal Practice”. All costs associated with the appraisal shall be born by Turnabout Ranch.
 - **(c)** *Payment of consideration* Not later than 30 days after the date on which the Federal land is conveyed under subsection (a), as a condition of the conveyance, Turnabout Ranch shall pay to the Secretary an amount equal to the appraised value of the Federal land, as determined under subsection (b).
-- **(d)** *Costs of conveyance* As a condition of the conveyance, any costs of the conveyance under subsection (a) shall be paid by Turnabout Ranch.
-- **(e)** *Disposition of proceeds* The Secretary shall deposit the proceeds from the conveyance of the Federal land under subsection (a) in the Federal Land Deposit Account established by section 206 of the Federal Land Transaction Facilitation Act, Public Law 106–248, to be expended in accordance with that Act.
+- **(d)** *Costs of conveyance* As a condition of the conveyance, any costs of the conveyance under subsection (a)this Act shall be paid by Turnabout Ranch.
+- **(e)** *Disposition of proceeds* The Secretary shall deposit the proceeds from the conveyance of the Federal land under subsection (a) in the Federal Land Deposit Account established by section 206 of the Federal Land Transaction Facilitation Act, Public Law 106–248(43 U.S.C. 2305), to be expended in accordance with that Act.
 
 ## § 3. Modification of monument boundary
 
