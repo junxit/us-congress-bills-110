@@ -1,7 +1,7 @@
 ---
 measure: S. 2124
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2124
@@ -28,3 +28,8 @@ Montana Cemetery Act of 2007
 
 - 2007-10-01 — Introduced in Senate
 - 2007-10-01 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-04-15 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-485.
+- 2008-05-07 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-361.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. With written report No. 110-361.
+- 2008-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 793.
