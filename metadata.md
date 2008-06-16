@@ -1,7 +1,7 @@
 ---
 measure: S. 1633
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1633
@@ -24,3 +24,8 @@ A bill to authorize the Secretary of the Interior to conduct a special resource 
 
 - 2007-06-15 — Introduced in Senate
 - 2007-06-15 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-04-09 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-480.
+- 2008-05-07 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-359.
+- 2008-06-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. With written report No. 110-359.
+- 2008-06-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 791.

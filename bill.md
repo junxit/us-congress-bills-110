@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1633
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,6 +16,6 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** the suitability and feasibility of adding the Shepherdstown battlefield and sites relating to the Shepherdstown battlefield as part of—
     - **(A)** Harpers Ferry National Historical Park; or
     - **(B)** Antietam National Battlefield.
-- **(b)** *Criteria* In conducting the study authorized under subsection (a), the Secretary shall use the criteria for the study of areas for potential inclusion in the National Park System contained in section 8(a) of Public Law 91–383 (16 U.S.C. 1a–5(a)).
+- **(b)** *Criteria* In conducting the study authorized under subsection (a), the Secretary shall use the criteria for the study of areas for potential inclusion in the National Park System contained in section 8(a) of Public Law 91–383 (16 U.S.C. 1a–5(a))section 8(c) of Public Law 91–383 (16 U.S.C. 1a–5(c)).
 - **(c)** *Report* Not later than 3 years after the date on which funds are made available to carry out this Act, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing the findings, conclusions, and recommendations of the study conducted under subsection (a).
 - **(d)** *Authorization of appropriations* There are authorized to be appropriated such sums as are necessary to carry out this section.
