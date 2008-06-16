@@ -1,7 +1,7 @@
 ---
 measure: S. 570
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+18 amendatory instructions. 0 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -40,3 +40,12 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the semicolon at the end of paragraphs (1) and (2) and inserting a period; | the bill names no machine-readable US Code section |
 | — | replace | by striking “; and” at the end of paragraph (3) and inserting a period; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “System—” and inserting “System:”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “certain” each place it appears and inserting “Certain”; | the bill names no machine-readable US Code section |
+| — | replace | in each of paragraphs (1) through (6), by striking the semicolon at the end and inserting a period; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (7), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “certain” each place it appears and inserting “Certain”; | the bill names no machine-readable US Code section |
+| — | replace | in each of paragraphs (1) and (2), by striking the semicolon at the end and inserting a period; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “; and” and inserting a period; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
