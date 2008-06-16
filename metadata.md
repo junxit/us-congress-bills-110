@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 84
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 84
@@ -16,9 +16,10 @@ A concurrent resolution honoring the memory of Robert Mondavi.
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A concurrent resolution honoring the memory of Robert Mondavi.
 
 - 2008-05-22 — Introduced in Senate
 - 2008-05-22 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S4810)
+- 2008-06-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S5666)
+- 2008-06-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5666)
+- 2008-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5666)
+- 2008-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5666)
