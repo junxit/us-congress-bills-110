@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 31
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 31
@@ -25,3 +25,9 @@ Recognizing the Honorable Andrew L. Jefferson, Jr., on the occasion of the estab
 - 2007-01-05 — Introduced in House
 - 2007-01-05 — Introduced in House
 - 2007-01-05 — Referred to the House Committee on the Judiciary.
+- 2008-06-17 — Considered under suspension of the rules. (consideration: CR H5454-5456)
+- 2008-06-17 — DEBATE - The House proceeded with twenty minutes of debate on H. Res. 31.
+- 2008-06-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-17 — Ms. Jackson-Lee moved to suspend the rules and agree to the resolution.
+- 2008-06-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5454-5455)
+- 2008-06-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5454-5455)
