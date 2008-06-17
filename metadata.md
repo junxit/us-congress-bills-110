@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 84
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 84
@@ -21,9 +21,10 @@ A concurrent resolution honoring the memory of Robert Mondavi.
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A concurrent resolution honoring the memory of Robert Mondavi.
 - 2008-06-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S5666)
 - 2008-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5666)
 - 2008-06-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5666)
+- 2008-06-17 — Message on Senate action sent to the House.
+- 2008-06-17 — Received in the House.
+- 2008-06-17 — Referred to the House Committee on Oversight and Government Reform.
