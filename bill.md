@@ -62,7 +62,7 @@ In this Act:
       - **(iv)** the construction of the System.
 - **(b)** *Technical Assistance* At the request of the Authority, the Secretary may provide to the Authority any technical assistance that is necessary to assist the Authority in planning, designing, constructing, and operating the System.
 - **(c)** *Biological assessment* The Secretary shall consult with the New Mexico Interstate Stream Commission and the Authority in preparing any biological assessment under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) that may be required for planning and constructing the System.
-- **(d)** *Effect* Nothing in this Act–—
+- **(d)** *Effect* Nothing in this Act—
   - **(1)** affects or preempts—
     - **(A)** State water law; or
     - **(B)** an interstate compact relating to the allocation of water; or
