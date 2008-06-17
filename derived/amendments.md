@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5778
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
