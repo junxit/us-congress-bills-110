@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 814
-congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 814
@@ -17,7 +17,7 @@ This Act may be cited as the “Children’s Gasoline Burn Prevention Act”.
 
 - **(a)** *Consumer Product Safety Rule* The provision of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
 - **(b)** *Requirements* Effective 6 months after the date of enactment of this Act, each portable gasoline container manufactured on or after that date for sale in the United States shall conform to the child-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
-- **(c)** *Definition* As used in this Act, the term portable gasoline container means any portable gasoline container intended for use by consumers.
+- **(c)** *Definition* As used in this Act, the term “portable gasoline container” means any portable gasoline container intended for use by consumers.
 - **(d)** *Revision of Rule* If, after the enactment of this Act, ASTM International proposes to revise the child resistance requirements of ASTM F2517-05, ASTM International shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ASTM International that the Commission has determined that such revision does not carry out the purposes of subsection (b).
 - **(e)** *Implementing Regulations* Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section, and sections 7 and 9 of the Consumer Product Safety Act shall not apply to such issuance.
 - **(f)** *Report* Not later than 2 years after the date of enactment of this Act, the Consumer Product Safety Commission shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—

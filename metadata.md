@@ -1,7 +1,7 @@
 ---
 measure: H.R. 814
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 814
@@ -85,3 +85,9 @@ Children's Gasoline Burn Prevention Act
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-367.
 - 2007-10-09 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-367.
 - 2007-10-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2008-06-16 — Cleared for White House.
+- 2008-06-16 — Passed Senate without amendment by Unanimous Consent.
+- 2008-06-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-06-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S5665)
+- 2008-06-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S5665)
+- 2008-06-17 — Message on Senate action sent to the House.
