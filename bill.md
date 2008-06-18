@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1692
-congress: 110th CONGRESS
-session: 1st Session
+congress: One Hundred Tenth Congress of the United States of America
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
