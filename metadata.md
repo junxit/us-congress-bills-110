@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1002
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1002
@@ -16,7 +16,7 @@ Expressing support for the designation of a "Public Radio Recognition Month".
 
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
 
-## Cosponsors (31)
+## Cosponsors (59)
 
 - Rep. Boucher, Rick [D-VA-9] (B000657)
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
@@ -49,10 +49,42 @@ Expressing support for the designation of a "Public Radio Recognition Month".
 - Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
 - Rep. Walden, Greg [R-OR-2] (W000791)
 - Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Boswell, Leonard L. [D-IA-3] (B000652)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Ramstad, Jim [R-MN-3] (R000033)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
 
 ## Committees (1)
 
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2008-06-18 — [House 110-2-422](votes/house-110-2-0422.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (414–0)
 
 ## Actions
 
@@ -60,3 +92,14 @@ Expressing support for the designation of a "Public Radio Recognition Month".
 - 2008-02-26 — Introduced in House
 - 2008-02-26 — Referred to the House Committee on Oversight and Government Reform.
 - 2008-02-26 — Sponsor introductory remarks on measure. (CR E238-239)
+- 2008-06-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2008-06-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-17 — Considered under suspension of the rules. (consideration: CR H5431-5432)
+- 2008-06-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1002.
+- 2008-06-17 — Mr. Davis (IL) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-06-18 — Considered as unfinished business. (consideration: CR H5542-5543)
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 422). (text: CR 6/17/2008 H5431-5432)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 422).(text: CR 6/17/2008 H5431-5432)
+- 2008-06-18 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H. Res. 1002.
+- 2008-06-18 — The title of the measure was amended. Agreed to without objection.
