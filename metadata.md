@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1333
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1333
@@ -104,3 +104,10 @@ To direct the Comptroller General of the United States to conduct a study on the
 - 2008-06-12 — Placed on the Union Calendar, Calendar No. 451.
 - 2008-06-12 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-691, Part II.
 - 2008-06-12 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-691, Part II.
+- 2008-06-18 — Considered under suspension of the rules. (consideration: CR H5510-5513)
+- 2008-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1333.
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2008-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5510-5511)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5510-5511)
+- 2008-06-18 — The title of the measure was amended. Agreed to without objection.
