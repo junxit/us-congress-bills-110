@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4179
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | `49 U.S.C. § 44903` | redesignate | by redesignating subclauses (II) through (VII) as subclauses (III) through (VIII), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44903` | insert | by inserting after subclause (I) the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 44903` | insert | in subparagraph (E)(iii), by inserting before the period at the end the following: “, in accordance with the appeals and redress process established under section 890A of the Homeland Security Act of 2002”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 44903` | amend | in clause (i), by adding at the end the following new sentence: “The Assistant Secretary shall incorporate the process established pursuant to this clause into the appeals and redress process established under section 890A of the Homelan… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 44903` | amend | in clause (ii), by adding at the end the following new sentence: “The Assistant Secretary shall incorporate the record established and maintained pursuant to this clause into the Comprehensive Cleared List established and maintained unde… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44903` | add-at-end | in clause (i), by adding at the end the following new sentence: “The Assistant Secretary shall incorporate the process established pursuant to this clause into the appeals and redress process established under section 890A of the Homelan… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 44903` | add-at-end | in clause (ii), by adding at the end the following new sentence: “The Assistant Secretary shall incorporate the record established and maintained pursuant to this clause into the Comprehensive Cleared List established and maintained unde… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 451` | strike | Title 49, United States Code, is amended by striking section 44926 (and the item relating to such section in the analysis for chapter 449 of title 49). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 451` | amend | Section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101(b)) is amended by adding after the item relating to section 890 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | amend | Section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101(b)) is amended by adding after the item relating to section 890 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
