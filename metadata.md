@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4179
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4179
@@ -52,3 +52,10 @@ FAST Redress Act of 2008
 - 2008-06-05 — Placed on the Union Calendar, Calendar No. 430.
 - 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-686.
 - 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-686.
+- 2008-06-18 — Considered under suspension of the rules. (consideration: CR H5491-5496)
+- 2008-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4179.
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2008-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5491-5492)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5491-5492)
+- 2008-06-18 — The title of the measure was amended. Agreed to without objection.

@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4179
 
-> To amend the Homeland Security Act of 2002 to establish an appeal and redress process for individuals wrongly delayed or prohibited from boarding a flight, and for other purposes.
+> To amend the Homeland Security Act of 2002 to establish an appeal and redress process for individuals wrongly delayed or prohibited from boarding a flight, or denied a right, benefit, or privilege, and for other purposes.
 
 ## § 1. Short title
 
