@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1237
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1237
@@ -16,7 +16,7 @@ Recognizing the historical significance of Juneteenth Independence Day, and expr
 
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Cosponsors (64)
+## Cosponsors (70)
 
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Lee, Barbara [D-CA-9] (L000551)
@@ -82,6 +82,12 @@ Recognizing the historical significance of Juneteenth Independence Day, and expr
 - Rep. Schiff, Adam B. [D-CA-29] (S001150)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 - Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Holt, Rush [D-NJ-12] (H001032)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Lampson, Nick [D-TX-22] (L000043)
+- Rep. Loebsack, David [D-IA-2] (L000565)
 
 ## Committees (1)
 
@@ -92,3 +98,12 @@ Recognizing the historical significance of Juneteenth Independence Day, and expr
 - 2008-06-04 — Introduced in House
 - 2008-06-04 — Introduced in House
 - 2008-06-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-06-12 — Ordered to be Reported by Voice Vote.
+- 2008-06-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-06-17 — Considered under suspension of the rules. (consideration: CR H5440-5441)
+- 2008-06-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1237.
+- 2008-06-17 — Mr. Higgins moved to suspend the rules and agree to the resolution.
+- 2008-06-18 — Considered as unfinished business. (consideration: CR H5550)
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/17/2008 H5440)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 6/17/2008 H5440)
