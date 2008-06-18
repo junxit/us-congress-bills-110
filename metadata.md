@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5909
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5909
@@ -33,3 +33,9 @@ COVERT Act of 2008
 - 2008-06-05 — Placed on the Union Calendar, Calendar No. 431.
 - 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-687.
 - 2008-06-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-687.
+- 2008-06-18 — Considered under suspension of the rules. (consideration: CR H5498-5502)
+- 2008-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5909.
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — Mr. Thompson (MS) moved to suspend the rules and pass the bill, as amended.
+- 2008-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5498-5499)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5498-5499)
