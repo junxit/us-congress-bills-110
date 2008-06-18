@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1333
 
-> To amend the Homeland Security Act of 2002 to direct the Secretary to enter into an agreement with the Secretary of the Air Force to use Civil Air Patrol personnel and resources to support homeland security missions.
+> To direct the Comptroller General of the United States to conduct a study on the use of Civil Air Patrol personnel and resources to support homeland security missions, and for other purposes.
 
 ## § 1. Civil Air Patrol Study
 
@@ -15,7 +15,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** providing aerial reconnaissance or communications capabilities for border security;
   - **(2)** providing capabilities for collective response to an act of terrorism, natural disaster, or other man-made event, by assisting in damage assessment and situational awareness, conducting search and rescue operations, assisting in evacuations, transporting time-sensitive medical or other materials; or
   - **(3)** such other activities as may be determined appropriate by the Comptroller General in the conduct of this review.
-- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing the findings of the review conducted under subsection (a). The report shall include—
+- **(b)** *Report* Not later than 180 days after the date of enactment of this Act, the Comptroller General shall submit to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing the findings of the review conducted under subsection (a). The report shall include—
   - **(1)** an assessment of the feasibility and cost-effectiveness of using Civil Air Patrol assets for the purposes described in subsection (a); and
   - **(2)** an assessment as to whether the current mechanisms for Federal agencies and States to request support from the Civil Air Patrol are sufficient or whether new agreements between relevant Federal agencies and the Civil Air Patrol are necessary.
-- **(c)** *Report to Congress* Not later than 90 days after completing the study under this section, the Secretary of Homeland Security shall review and analyze the study and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on such review and analysis, which shall include any recommendations of the Secretary for further action that could affect the organization and administration of the Department of Homeland Security.
+- **(c)** *Report to Congress* Not later than 90 days after completing the study under this section, the Secretary of Homeland Security shall review and analyze the study and submit to the Committees on Homeland Security and Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on such review and analysis, which shall include any recommendations of the Secretary for further action that could affect the organization and administration of the Department of Homeland Security.
