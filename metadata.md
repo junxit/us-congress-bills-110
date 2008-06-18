@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6150
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6150
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 14500 L
 
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
@@ -33,6 +33,8 @@ To designate the facility of the United States Postal Service located at 14500 L
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Pryce, Deborah [R-OH-15] (P000555)
 
 ## Committees (1)
 
@@ -43,3 +45,12 @@ To designate the facility of the United States Postal Service located at 14500 L
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-06-12 — Ordered to be Reported by Voice Vote.
+- 2008-06-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-06-17 — Considered under suspension of the rules. (consideration: CR H5437-5438)
+- 2008-06-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6150.
+- 2008-06-17 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-06-18 — Considered as unfinished business. (consideration: CR H5550)
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/17/2008 H5437)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/17/2008 H5437)
