@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1150
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1150
@@ -38,3 +38,9 @@ Expressing the sense of the House of Representatives that the Transportation Sec
 - 2008-06-17 — Placed on the House Calendar, Calendar No. 235.
 - 2008-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-716.
 - 2008-06-17 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-716.
+- 2008-06-18 — Considered under suspension of the rules. (consideration: CR H5502-5506)
+- 2008-06-18 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1150.
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — Mr. Thompson (MS) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-06-18 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5502)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5502)
