@@ -1,15 +1,13 @@
 ---
 legis-num: S. 2146
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2146
 
-That the bill from the Senate (S. 2146) entitled “An Act to authorize the Administrator of the Environmental Protection Agency to accept, as part of a settlement, diesel emission reduction Supplemental Environmental Projects, and for other purposes”, do pass with the following
-
-*Strike out all after the enacting clause and insert:*
+> To authorize the Administrator of the Environmental Protection Agency to accept, as part of a settlement, diesel emission reduction Supplemental Environmental Projects, and for other purposes.
 
 ## § 1. EPA authority to accept diesel emissions reduction Supplemental Environmental Projects
 

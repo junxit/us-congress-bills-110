@@ -1,7 +1,7 @@
 ---
 measure: S. 2146
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
