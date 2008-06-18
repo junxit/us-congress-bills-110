@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2631
 
-> To strengthen efforts in the Department of Homeland Security to develop nuclear forensics capabilities to permit attribution of the source of nuclear material.
+> To strengthen efforts in the Department of Homeland Security to develop nuclear forensics capabilities to permit attribution of the source of nuclear material, and for other purposes.
 
 ## § 1. Short title
 
