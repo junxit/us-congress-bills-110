@@ -45,7 +45,7 @@ This Act may be cited as the “National Bombing Prevention Act of 2008”.
   >       - **(ii)** socially and economically disadvantaged households and communities;
   >       - **(iii)** the elderly; and
   >       - **(iv)** children.
-  > - **(c)** *Limitation on statutory construction* Nothing in this section shall be construed to affect the authority of the Administrator of the Federal Emergency Management Agency.
+  > - **(c)** *Limitation on statutory construction* Nothing in this section shall be construed to affect the authority of the Administrator of the Federal Emergency Management Agency, or the Attorney General of the United States.
   > - **(d)** *Authorization of appropriations*
   >   - **(1)** *In general* There are authorized to be appropriated to carry out this section—
   >     - **(A)** $10,000,000 for fiscal year 2009;

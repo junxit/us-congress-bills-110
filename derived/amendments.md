@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4749
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,6 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 210E the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new sections: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 317 the following new items: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 181` | add-at-end | Title III of the Homeland Security Act of 2002 (6 U.S.C. 181 et seq.) is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 101` | insert | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 317 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1307(f) of the Implementing Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53; 121 Stat. 395) is amended by striking “utilization” and all that follows through the end of the sentence and inserting “utilizatio… | the bill names no machine-readable US Code section |
