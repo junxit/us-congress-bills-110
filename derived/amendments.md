@@ -1,7 +1,7 @@
 ---
 measure: S. 1692
 congress: 110
-version: Reported to Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting after chapter 1103 the following new chapter: | the bill names no machine-readable US Code section |
-| — | amend | The item relating to chapter 1201 in the table of chapters at the beginning of subtitle II of title 36, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 501` | strike | by striking the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | insert | by inserting after chapter 1103 the following new chapter: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | amend | The item relating to chapter 1201 in the table of chapters at the beginning of subtitle II of title 36, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
