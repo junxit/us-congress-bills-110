@@ -2,7 +2,7 @@
 legis-num: H. RES. 1247
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1247
@@ -23,8 +23,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas caring and concerned citizens of the United States in the private and public sectors banded together to save, and help ensure the protection of, bald eagles;
 - Whereas in 1995, as a result of the efforts of those caring and concerned citizens, bald eagles were removed from the endangered species list and upgraded to the less imperiled threatened species status under the Endangered Species Act of 1973;
 - Whereas by 2006, the number of bald eagles in the lower 48 States had increased to approximately 7,000 to 8,000 nesting pairs;
-- Whereas the Secretary of the Interior is likely to officially delist the bald eagle from both the endangered species and threatened species lists under the Endangered Species Act of 1973, with a final decision expected no later than June 29, 2007;
-- Whereas if delisted under the Endangered Species Act of 1973, bald eagles should be provided strong protection under the Bald and Golden Eagle Protection Act and the Migratory Bird Treaty Act;
+- Whereas the Secretary of the Interior removed the bald eagle from the Federal list of threatened species effective August 8, 2007;
+- Whereas the bald eagle remains subject to the Migratory Bird Treaty Act and on May 28, 2008, the Secretary of the Interior issued regulations providing continued protection under the Act popularly known as the Bald and Golden Eagle Protection Act;
 - Whereas bald eagles would have been permanently extinct if not for vigilant conservation efforts of concerned citizens and strict protection laws;
 - Whereas the dramatic recovery of the bald eagle population is an endangered species success story and an inspirational example for other wildlife and natural resource conservation efforts around the world;
 - Whereas the initial recovery of the bald eagle population was accomplished by the concerted efforts of numerous government agencies, corporations, organizations, and individuals; and
