@@ -1,7 +1,7 @@
 ---
 measure: H.R. 634
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 634
@@ -342,3 +342,9 @@ American Veterans Disabled for Life Commemorative Coin Act
 - 2008-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 757.
 - 2008-06-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5456-5457; text as passed Senate: CR S5456-5457)
 - 2008-06-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S5456-5457; text as passed Senate: CR S5456-5457)
+- 2008-06-11 — Message on Senate action sent to the House.
+- 2008-06-18 — Cleared for White House.
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — Mr. Moore (KS) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H5533-5535; text as House agreed to Senate amendment: CR H5533)
+- 2008-06-18 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (consideration: CR H5535)
+- 2008-06-18 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(consideration: CR H5535)
