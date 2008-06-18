@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5680
 
-> To amend certain laws relating to Native Americans, and for others purposes.
+> To amend certain laws relating to Native Americans, and for other purposes.
 
 ## § 1. Table of contents
 
@@ -15,12 +15,7 @@ The table of contents for this Act is as follows:
 
 ## § 2. Colorado River Indian Tribes
 
-From revenues deposited into the Treasury after the date of the enactment of this Act pursuant to section 3 of the Act of August 7, 1946 (25 U.S.C. 385c) and disbursed pursuant to Public Law 82–136, from power operations on the reservation of the Colorado River Indian Tribe and earnings derived from such revenues under section 1(b) of the Act of June 24, 1938 (25 U.S.C. 162a(b)), the Secretary of the Interior may make an annual disbursement to the Colorado River Indian Tribes. Funds disbursed under this section—
-
-- **(1)** shall be used to fund the Office of the Colorado River Indian Tribes Reservation Energy Development;
-- **(2)** shall not affect funds held from any other irrigation project;
-- **(3)** shall not be less than $200,000 and not to exceed $350,000 annually; and
-- **(4)** shall only be disbursed in years that the revenues deposited exceed the amount required to carry out the purposes for which they were deposited under section 3(1) of the Act of August 7, 1946 (25 U.S.C. 385c(1)).
+The Secretary of the Interior may make, subject to amounts provided in subsequent appropriations Acts, an annual disbursement to the Colorado River Indian Tribes. Funds disbursed under this section shall be used to fund the Office of the Colorado River Indian Tribes Reservation Energy Development and shall not be less than $200,000 and not to exceed $350,000 annually.
 
 ## § 3. Gila River Indian Community contracts
 
@@ -53,7 +48,3 @@ Section 7 of the Alaska Native Claims Settlement Act, (Public Law 92–203; 85 S
   >   - **(III)** Such stock shall not be transferred by gift as provided in subparagraph (h)(1)(C)(iii).
 
 - **(2)** in subsection (h)(1)(C) (43 U.S.C. 1606(h)(1)(C)), by striking “Notwithstanding the restrictions ” and inserting “Expect as otherwise expressly provided in this chapter and”.
-
-## § 8. Miccosukee Tribe of Indians of Florida
-
-As soon as practicable after the date of the enactment of this Act, the Secretary of the Interior shall, consistent with the National Environmental Policy Act of 1969, take into trust for the benefit of the Miccosukee Tribe of Indians of Florida the land described as Tract A and Tract B, Kendale Lakes North Section One, according to the Map or Plat thereof, as recorded in Plat Book 93, Page 1, Public Records of Miami-Dade County, Florida. After having been taken into trust, the land described in this section shall be part of the reservation of the Miccosukee Tribe of Indians of Florida.

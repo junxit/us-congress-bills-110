@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5680
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5680
@@ -31,3 +31,10 @@ To amend certain laws relating to Native Americans, and for other purposes.
 - 2008-06-05 — Placed on the Union Calendar, Calendar No. 435.
 - 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-692.
 - 2008-06-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-692.
+- 2008-06-18 — Considered under suspension of the rules. (consideration: CR H5490-5491)
+- 2008-06-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5680.
+- 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-18 — Mrs. Christensen moved to suspend the rules and pass the bill, as amended.
+- 2008-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5490)
+- 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5490)
+- 2008-06-18 — The title of the measure was amended. Agreed to without objection.
