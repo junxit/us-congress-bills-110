@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 337
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 337
@@ -87,3 +87,6 @@ Honoring Seeds of Peace for its 15th anniversary as an organization promoting un
 - 2008-06-10 — Mr. Payne moved to suspend the rules and agree to the resolution.
 - 2008-06-10 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5149-5150)
 - 2008-06-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5149-5150)
+- 2008-06-11 — Received in the Senate.
+- 2008-06-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S5769)
+- 2008-06-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5769)
