@@ -1,0 +1,424 @@
+---
+measure: H.R. 2642
+congress: 110
+version: Engrossed Amendment House
+---
+
+# H.R. 2642
+
+Supplemental Appropriations Act, 2008
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+
+## Cosponsors (49)
+
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+
+## Committees (1)
+
+- House — Appropriations Committee
+
+## Actions
+
+- 2007-06-11 — Introduced in House
+- 2007-06-11 — Placed on the Union Calendar, Calendar No. 110.
+- 2007-06-11 — The House Committee on Appropriations reported an original measure, H. Rept. 110-186, by Mr. Edwards.
+- 2007-06-11 — The House Committee on Appropriations reported an original measure, H. Rept. 110-186, by Mr. Edwards.
+- 2007-06-13 — Rules Committee Resolution H. Res. 480 Reported to House. Rule provides for consideration of H.R. 2642 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be read by paragraph. Bill is open to amendments.
+- 2007-06-15 — Amendment (A001) offered by Mr. Hayes. (consideration: CR H6534-6536, H6561-6562; text: CR H6535)
+- 2007-06-15 — Amendment (A002) offered by Mr. Blumenauer. (consideration: CR H6536-6538, H6562; text: CR H6536)
+- 2007-06-15 — Amendment (A003) offered by Mr. Price (GA). (consideration: CR H6538-6540, H6562-6563; text: CR H6538)
+- 2007-06-15 — Amendment (A004) offered by Mr. Franks (AZ). (consideration: CR H6542; text: CR H6542)
+- 2007-06-15 — Amendment (A005) offered by Mr. Moran (KS). (consideration: CR H6546-6548, H6563-6564; text: CR H6546)
+- 2007-06-15 — Amendment (A006) offered by Mrs. Capito. (consideration: CR H6548-6549; text: CR H6548)
+- 2007-06-15 — Amendment (A007) offered by Ms. Brown, Corrine. (consideration: CR H6549; text: CR H6549)
+- 2007-06-15 — Amendment (A008) offered by Mr. Garrett (NJ). (consideration: CR H6549-6551, H6564; text: CR H6550)
+- 2007-06-15 — Amendment (A009) offered by Mrs. Wilson (NM). (consideration: CR H6551-6552; text: CR H6551)
+- 2007-06-15 — Amendment (A010) offered by Mrs. Blackburn. (consideration: CR H6553; text: CR H6553)
+- 2007-06-15 — Amendment (A011) offered by Mrs. Musgrave. (consideration: CR H6553-6555, H6564-6565; text: CR H6553)
+- 2007-06-15 — Amendment (A012) offered by Mr. Hall (NY). (consideration: CR H6555-6556; text: CR H6555)
+- 2007-06-15 — Amendment (A013) offered by Ms. Jackson-Lee (TX). (consideration: CR H6556-6558; text: CR H6556)
+- 2007-06-15 — Amendment (A014) offered by Mr. Upton. (consideration: CR H6558; text: CR H6558)
+- 2007-06-15 — Amendment (A015) offered by Mr. Pearce. (consideration: CR H6559; text: CR H6559)
+- 2007-06-15 — Amendment agreed to Committee of the Whole
+- 2007-06-15 — Amendment agreed to Committee of the Whole
+- 2007-06-15 — Amendment agreed to Committee of the Whole
+- 2007-06-15 — Amendment agreed to Committee of the Whole
+- 2007-06-15 — Amendment agreed to Committee of the Whole
+- 2007-06-15 — Amendment agreed to Committee of the Whole
+- 2007-06-15 — Amendment agreed to Committee of the Whole
+- 2007-06-15 — Amendment failed in Committee of the Whole
+- 2007-06-15 — Amendment failed in Committee of the Whole
+- 2007-06-15 — Amendment failed in Committee of the Whole
+- 2007-06-15 — Amendment failed in Committee of the Whole
+- 2007-06-15 — By unanimous consent, the Brown, Corrine amendment was withdrawn.
+- 2007-06-15 — By unanimous consent, the Hall (NY) amendment was withdrawn.
+- 2007-06-15 — By unanimous consent, the Jackson-Lee (TX) amendment was withdrawn.
+- 2007-06-15 — Considered pursuant to previous special order. (consideration: CR H6518-6566; text of Title I as reported in House: CR H6533-6534, H6536, H6540, H6541-6542, H6543-6544; text of Title II as reported in House: CR H6544-6546; text of Title III as reported in House: CR H6552-6553; text of Title IV as reported in House: CR H6553)
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Blumenauer amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Capito amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Corinne Brown (FL) amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Franks amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett (NJ) amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Hall (NY) amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Hayes amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson-Lee (TX) amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Moran (KS) amendment, pending reservation of a point of order. Subsequently, the reservation was withdrawn.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Pearce amendment, pending reservation of a point of order.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Price of Georgia amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Upton amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (NM) amendment.
+- 2007-06-15 — DEBATE - Pursuant to a previous special order, the Committee of the Whole proceeded with debate on the Musgrave amendment.
+- 2007-06-15 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2642.
+- 2007-06-15 — House amendment agreed to: On agreeing to the Blackburn amendment (A010) Agreed to by voice vote.
+- 2007-06-15 — House amendment agreed to: On agreeing to the Capito amendment (A006) Agreed to by voice vote.
+- 2007-06-15 — House amendment agreed to: On agreeing to the Franks (AZ) amendment (A004) Agreed to by voice vote.
+- 2007-06-15 — House amendment agreed to: On agreeing to the Moran (KS) amendment (A005) Agreed to by recorded vote: 264 - 152 (Roll no. 495).
+- 2007-06-15 — House amendment agreed to: On agreeing to the Musgrave amendment (A011) Agreed to by recorded vote: 383 - 34 (Roll no. 497).
+- 2007-06-15 — House amendment agreed to: On agreeing to the Upton amendment (A014) Agreed to by voice vote.
+- 2007-06-15 — House amendment agreed to: On agreeing to the Wilson (NM) amendment (A009) Agreed to by voice vote.
+- 2007-06-15 — House amendment not agreed to: On agreeing to the Blumenauer amendment (A002) Failed by recorded vote: 68 - 347 (Roll no. 493).
+- 2007-06-15 — House amendment not agreed to: On agreeing to the Garrett (NJ) amendment (A008) Failed by recorded vote: 206 - 211 (Roll no. 496).
+- 2007-06-15 — House amendment not agreed to: On agreeing to the Hayes amendment (A001) Failed by recorded vote: 110 - 304 (Roll no. 492).
+- 2007-06-15 — House amendment not agreed to: On agreeing to the Price (GA) amendment (A003) Failed by recorded vote: 154 - 260 (Roll no. 494).
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered
+- 2007-06-15 — House amendment offered/reported by : Amendment (A001) offered by Mr. Hayes.(consideration: CR H6534-6536, H6561-6562; text: CR H6535)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A002) offered by Mr. Blumenauer.(consideration: CR H6536-6538, H6562; text: CR H6536)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A003) offered by Mr. Price (GA).(consideration: CR H6538-6540, H6562-6563; text: CR H6538)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A004) offered by Mr. Franks (AZ).(consideration: CR H6542; text: CR H6542)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A005) offered by Mr. Moran (KS).(consideration: CR H6546-6548, H6563-6564; text: CR H6546)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A006) offered by Mrs. Capito.(consideration: CR H6548-6549; text: CR H6548)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A007) offered by Ms. Brown, Corrine.(consideration: CR H6549; text: CR H6549)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A008) offered by Mr. Garrett (NJ).(consideration: CR H6549-6551, H6564; text: CR H6550)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A009) offered by Mrs. Wilson (NM).(consideration: CR H6551-6552; text: CR H6551)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A010) offered by Mrs. Blackburn.(consideration: CR H6553; text: CR H6553)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A011) offered by Mrs. Musgrave.(consideration: CR H6553-6555, H6564-6565; text: CR H6553)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A012) offered by Mr. Hall (NY).(consideration: CR H6555-6556; text: CR H6555)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A013) offered by Ms. Jackson-Lee (TX).(consideration: CR H6556-6558; text: CR H6556)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A014) offered by Mr. Upton.(consideration: CR H6558; text: CR H6558)
+- 2007-06-15 — House amendment offered/reported by : Amendment (A015) offered by Mr. Pearce.(consideration: CR H6559; text: CR H6559)
+- 2007-06-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2007-06-15 — Mr. Edwards moved for the Committee of the Whole to rise and report.
+- 2007-06-15 — Mr. Edwards raised a point of order against the Pearce amendment (A015). Mr. Edwards stated that the provisions of the Pearce amendment sought to change existing law and constituted legislation in an appropriations bill. The Chair sustained the point of order.
+- 2007-06-15 — ORDER OF BUSINESS - Mr. Welch asked unanimous consent that (1) it be in order at any time for the Speaker, as though pursuant to clause 2(b) of rule 18, to declare the House resolved into the Committee of the Whole House on the State of the Union for consideration of the bill H.R. 2642, which shall proceed according to the following order: the first reading of the bill shall be dispensed with; all points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule 21; general debate shall be confined to the bill and shall not exceed one hour, equally divided and controlled; after general debate, the bill shall be considered for amendment under the five-minute rule; and no amendment shall be in order except those on a list submitted to the desk. Agreed to without objection.
+- 2007-06-15 — On agreeing to the Blackburn amendment (A010) Agreed to by voice vote.
+- 2007-06-15 — On agreeing to the Blumenauer amendment (A002) Failed by recorded vote: 68 - 347 (Roll no. 493).
+- 2007-06-15 — On agreeing to the Capito amendment (A006) Agreed to by voice vote.
+- 2007-06-15 — On agreeing to the Franks (AZ) amendment (A004) Agreed to by voice vote.
+- 2007-06-15 — On agreeing to the Garrett (NJ) amendment (A008) Failed by recorded vote: 206 - 211 (Roll no. 496).
+- 2007-06-15 — On agreeing to the Hayes amendment (A001) Failed by recorded vote: 110 - 304 (Roll no. 492).
+- 2007-06-15 — On agreeing to the Moran (KS) amendment (A005) Agreed to by recorded vote: 264 - 152 (Roll no. 495).
+- 2007-06-15 — On agreeing to the Musgrave amendment (A011) Agreed to by recorded vote: 383 - 34 (Roll no. 497).
+- 2007-06-15 — On agreeing to the Price (GA) amendment (A003) Failed by recorded vote: 154 - 260 (Roll no. 494).
+- 2007-06-15 — On agreeing to the Upton amendment (A014) Agreed to by voice vote.
+- 2007-06-15 — On agreeing to the Wilson (NM) amendment (A009) Agreed to by voice vote.
+- 2007-06-15 — On motion to rise and report Agreed to by voice vote.
+- 2007-06-15 — On passage Passed by the Yeas and Nays: 409 - 2 (Roll no. 498).
+- 2007-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Blumenauer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Blumenauer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett (NJ) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Garrett (NJ) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hayes amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hayes demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moran (KS) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Moran (KS) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Musgrave amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Salazar demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-06-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price of Georgia amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Price of Georgia demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.
+- 2007-06-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 409 - 2 (Roll no. 498).
+- 2007-06-15 — Roll call votes on amendments in House
+- 2007-06-15 — Roll call votes on amendments in House
+- 2007-06-15 — Roll call votes on amendments in House
+- 2007-06-15 — Roll call votes on amendments in House
+- 2007-06-15 — Roll call votes on amendments in House
+- 2007-06-15 — Roll call votes on amendments in House
+- 2007-06-15 — The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.
+- 2007-06-15 — The House resolved into Committee of the Whole on the state of the Union pursuant to previous special order.
+- 2007-06-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2642.
+- 2007-06-15 — The Speaker designated the Honorable Stephen F. Lynch to act as Chairman of the Committee.
+- 2007-06-15 — The previous question was ordered pursuant to a previous  order of the House. (consideration: CR H6565)
+- 2007-06-15 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
+- 2007-06-18 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 207.
+- 2007-09-04 — Amendment SA 2656 agreed to in Senate by Unanimous Consent.
+- 2007-09-04 — Amendment SA 2656 proposed by Senator Reed. (consideration: CR S11010) In the nature of a substitute.
+- 2007-09-04 — Measure laid before Senate by unanimous consent. (consideration: CR S11010-11019)
+- 2007-09-04 — Senate amendment agreed to: Amendment SA 2656 agreed to in Senate by Unanimous Consent.
+- 2007-09-04 — Senate amendment proposed (on the floor): Amendment SA 2656 proposed by Senator Reed.(consideration: CR S11010)
+- 2007-09-04 — Senate amendment submitted
+- 2007-09-04 — Senate amendment submitted
+- 2007-09-04 — Senate amendment submitted
+- 2007-09-04 — Senate amendment submitted
+- 2007-09-04 — Senate amendment submitted
+- 2007-09-04 — Senate amendment submitted
+- 2007-09-05 — Amendment SA 2658 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2658 proposed by Senator Reed for Senator Obama. (consideration: CR S11108; text: CR S11108) To provide that none of the funds appropriated or otherwise made available by this Act may be used to enter into a contract in an amount greater than $5,000,000 or to award a grant in excess of such amount unless the prospective contractor or grantee makes certain certifications regarding Federal tax liability.
+- 2007-09-05 — Amendment SA 2660 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2660 proposed by Senator Reed for Senator McCaskill. (consideration: CR S11108; text: CR S11108) To provide a mechanism by which individuals can report to the Inspector General of the Department of Veterans Affairs cases of waste, fraud, or abuse with respect to the Department of Veterans Affairs.
+- 2007-09-05 — Amendment SA 2661 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2661 proposed by Senator Reed for Senator Feingold. (consideration: CR S11107-11108; text: CR S11108) To require a report from the Comptroller General on the adequacy of mental health care services provided by the Department of Veterans Affairs and the Department of Defense to female members of the Armed Forces and female veterans.
+- 2007-09-05 — Amendment SA 2669 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2669 proposed by Senator Reed for Senator Tester. (consideration: CR S11109; text: CR S11109) To provide, with an offset, an additional $125,000,000 for the Veterans Beneficiary Travel Program.
+- 2007-09-05 — Amendment SA 2677 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2677 proposed by Senator Reed for Senator Murray. (consideration: CR S11108; text: CR S11108) To authorize the Secretary of Veterans Affairs to transfer funds to the Secretary of Health and Human Services to train psychologists.
+- 2007-09-05 — Amendment SA 2679 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2679 proposed by Senator Reed for Senator Landrieu. (consideration: CR S11108-11109; text: CR S11108-11109) To require reports on the reconstruction of the Department of Veterans Affairs Medical Center, New Orleans, Louisiana.
+- 2007-09-05 — Amendment SA 2680 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2680 proposed by Senator Reed for Senator Stabenow. (consideration: CR S11109; text: CR S11109) To designate the Department of Veterans Affairs clinic located in Alpena, Michigan as the "Lieutenant Colonel Clement C. Van Wagoner Department of Veterans Affairs Clinic".
+- 2007-09-05 — Amendment SA 2681 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2681 proposed by Senator Reed for Senator Hutchison. (consideration: CR S11109; text: CR S11109) To provide that the Secretary of Veterans Affairs may carry out a major medical facility lease in fiscal year 2008 in an amount not to exceed $12,000,000 to implement the recommendations outlined in the August, 2007 Study of South Texas VeteransÂ¿ Inpatient and Specialty Outpatient Health Care Needs.
+- 2007-09-05 — Amendment SA 2682 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2682 proposed by Senator Reed for Senator Stevens. (consideration: CR S11109-11110; text: CR S11109-11110) To require a report on access to medical services provided by the Department of Veterans Affairs to veterans who live in remote rural areas.
+- 2007-09-05 — Amendment SA 2686 proposed by Senator DeMint. (consideration: CR S11102-11107; text: CR S11103) To strike section 225, relating to a prohibition on the disposal of Department of Veterans Affairs lands and improvements at West Los Angeles Medical Center, California.
+- 2007-09-05 — Amendment SA 2688 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Amendment SA 2688 proposed by Senator Reed for Senator Allard. (consideration: CR S11110; text: CR S11110) To authorize the Secretary of the Interior to modify certain instruments to allow the City of Aurora, State of Colorado, to convey to the United States certain non-Federal land to be used by the Secretary of Veterans Affairs for the construction of a veterans medical facility.
+- 2007-09-05 — Considered by Senate. (consideration: CR S11092-11095, S11101-11112)
+- 2007-09-05 — Motion to table amendment SA 2686 agreed to in Senate by Yea-Nay Vote. 66 - 25. Record Vote Number: 312.
+- 2007-09-05 — Motion to table amendment SA 2686 made in Senate.
+- 2007-09-05 — Motion to table amendment SA 2686 made in Senate.
+- 2007-09-05 — Motion to table amendment SA 2686 withdrawn in Senate.
+- 2007-09-05 — Roll call votes on amendments in Senate: Motion to table amendment SA 2686 agreed to in Senate by Yea-Nay Vote. 66 - 25. Record Vote Number: 312.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2658 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2660 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2661 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2669 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2677 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2679 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2680 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2681 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2682 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment agreed to: Amendment SA 2688 agreed to in Senate by Voice Vote.
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2658 proposed by Senator Reed for Senator Obama.(consideration: CR S11108; text: CR S11108)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2660 proposed by Senator Reed for Senator McCaskill.(consideration: CR S11108; text: CR S11108)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2661 proposed by Senator Reed for Senator Feingold.(consideration: CR S11107-11108; text: CR S11108)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2669 proposed by Senator Reed for Senator Tester.(consideration: CR S11109; text: CR S11109)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2677 proposed by Senator Reed for Senator Murray.(consideration: CR S11108; text: CR S11108)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2679 proposed by Senator Reed for Senator Landrieu.(consideration: CR S11108-11109; text: CR S11108-11109)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2680 proposed by Senator Reed for Senator Stabenow.(consideration: CR S11109; text: CR S11109)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2681 proposed by Senator Reed for Senator Hutchison.(consideration: CR S11109; text: CR S11109)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2682 proposed by Senator Reed for Senator Stevens.(consideration: CR S11109-11110; text: CR S11109-11110)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2686 proposed by Senator DeMint.(consideration: CR S11102-11107; text: CR S11103)
+- 2007-09-05 — Senate amendment proposed (on the floor): Amendment SA 2688 proposed by Senator Reed for Senator Allard.(consideration: CR S11110; text: CR S11110)
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-05 — Senate amendment submitted
+- 2007-09-06 — Amendment SA 2662 agreed to in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 314.
+- 2007-09-06 — Amendment SA 2662 proposed by Senator Salazar. (consideration: CR S11141; text: CR S11141) To prohibit the use of funds to expand the boundaries or size of the Pinon Canyon Maneuver Site, Colorado.
+- 2007-09-06 — Amendment SA 2664 agreed to in Senate by Voice Vote.
+- 2007-09-06 — Amendment SA 2664 proposed by Senator Sanders. (consideration: CR S11140-11141; text: CR S11140) To prohibit the Secretary of Veterans Affairs, with respect to increases in dollar amounts for the payment of disability compensation and dependency and indemnity compensation, from rounding down such dollar amounts to the next lower whole dollar.
+- 2007-09-06 — Amendment SA 2673 agreed to in Senate by Yea-Nay Vote. 52 - 39. Record Vote Number: 315.
+- 2007-09-06 — Amendment SA 2673 proposed by Senator Brown. (consideration: CR S11141-11142; text: CR S11141) To limit the cases in which funds appropriated or otherwise made available by this Act may be used to convert to contractor performance an activity or function of the Department of Veterans Affairs that is performed by more than 10 Federal employees.
+- 2007-09-06 — Amendment SA 2687 agreed to in Senate by Yea-Nay Vote. 76 - 15. Record Vote Number: 313.
+- 2007-09-06 — Amendment SA 2687 proposed by Senator Coleman. (consideration: CR S11137-11140; text: CR S11139) To provide funding for security associated with the national party conventions.
+- 2007-09-06 — Considered by Senate. (consideration: CR S11137-11144)
+- 2007-09-06 — Passed Senate with an amendment by Yea-Nay Vote. 92 - 1. Record Vote Number: 316. (text as passed Senate: CR 9/7/2007 S11271-11278)
+- 2007-09-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 92 - 1. Record Vote Number: 316.(text as passed Senate: CR 9/7/2007 S11271-11278)
+- 2007-09-06 — Roll call votes on amendments in Senate: Amendment SA 2662 agreed to in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 314.
+- 2007-09-06 — Roll call votes on amendments in Senate: Amendment SA 2673 agreed to in Senate by Yea-Nay Vote. 52 - 39. Record Vote Number: 315.
+- 2007-09-06 — Roll call votes on amendments in Senate: Amendment SA 2687 agreed to in Senate by Yea-Nay Vote. 76 - 15. Record Vote Number: 313.
+- 2007-09-06 — Senate amendment agreed to: Amendment SA 2662 agreed to in Senate by Yea-Nay Vote. 47 - 45. Record Vote Number: 314.
+- 2007-09-06 — Senate amendment agreed to: Amendment SA 2664 agreed to in Senate by Voice Vote.
+- 2007-09-06 — Senate amendment agreed to: Amendment SA 2673 agreed to in Senate by Yea-Nay Vote. 52 - 39. Record Vote Number: 315.
+- 2007-09-06 — Senate amendment agreed to: Amendment SA 2687 agreed to in Senate by Yea-Nay Vote. 76 - 15. Record Vote Number: 313.
+- 2007-09-06 — Senate amendment proposed (on the floor): Amendment SA 2662 proposed by Senator Salazar.(consideration: CR S11141; text: CR S11141)
+- 2007-09-06 — Senate amendment proposed (on the floor): Amendment SA 2664 proposed by Senator Sanders.(consideration: CR S11140-11141; text: CR S11140)
+- 2007-09-06 — Senate amendment proposed (on the floor): Amendment SA 2673 proposed by Senator Brown.(consideration: CR S11141-11142; text: CR S11141)
+- 2007-09-06 — Senate amendment proposed (on the floor): Amendment SA 2687 proposed by Senator Coleman.(consideration: CR S11137-11140; text: CR S11139)
+- 2007-09-06 — Senate insists on its amendment, asks for a conference, appoints conferees Johnson; Inouye; Landrieu; Byrd; Murray; Reed; Nelson NE; Leahy; Hutchison; Craig; Brownback; Allard; McConnell; Bennett; Cochran. (consideration: CR S11144)
+- 2007-09-07 — Message on Senate action sent to the House.
+- 2008-05-14 — Rules Committee Resolution H. Res. 1197 Reported to House. The resolution provides for consideration of a motion that the House concur in the Senate amendment to H.R. 2642 with each of the three amendments printed in the report. The motion shall be debatable for two hours equally divided and controlled by the Chairman and ranking minority member of the Committee on Appropriations.
+- 2008-05-15 — DEBATE - Pursuant to the provisions of H.Res. 1197, the House proceeded with 2 hours of debate on the Obey motion to agree to the Senate amendment to H.R. 2642 with amendments.
+- 2008-05-15 — DEBATE - The House resumed debate on H.R. 2642.
+- 2008-05-15 — Message on House action received in Senate and at desk: House amendments to Senate amendment.
+- 2008-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-15 — Mr. Obey moved that the House agree with amendments to the Senate amendment. (consideration: CR H3905-4046; text as House agreed to Senate amendment: CR H3905-3912)
+- 2008-05-15 — On motion to agree to Senate Amendment with House Amendment No. 3 Agreed to by the Yeas and Nays: 256 - 166 (Roll No. 330). (consideration: CR H4046)
+- 2008-05-15 — On motion to agree to Senate amendment with House amendment No. 1 Failed by the Yeas and Nays: 141 - 149, 132 Present (Roll No. 328). (consideration: CR H3912-3917, H4044-4045; text: CR H3912-3917)
+- 2008-05-15 — On motion to agree to Senate amendment with House amendment No. 2 Agreed to by the Yeas and Nays: 227 - 196 (Roll No. 329). (consideration: CR H3917-3934, H4045-4046; text: CR H3917-3934)
+- 2008-05-15 — POINT OF ORDER - Mr. Ryan(WI) raised a point of order against H.R. 2642. Mr. Ryan(WI) stated that the proposed House amendments to the Senate amendment violate the Pay-Go rules. The Chair overruled the point order.
+- 2008-05-15 — Pursuant to the provisions of H. Res. 1197, the Chair announced that it would put the question on adoption of each of the 3 House amendments to the Senate amendment separately.
+- 2008-05-15 — Resolving differences -- House actions: On motion to agree to Senate Amendment with House Amendment No. 3 Agreed to by the Yeas and Nays: 256 - 166 (Roll No. 330).(consideration: CR H4046)
+- 2008-05-15 — Resolving differences -- House actions: On motion to agree to Senate amendment with House amendment No. 1 Failed by the Yeas and Nays: 141 - 149, 132 Present (Roll No. 328).(consideration: CR H3912-3917, H4044-4045; text: CR H3912-3917)
+- 2008-05-15 — Resolving differences -- House actions: On motion to agree to Senate amendment with House amendment No. 2 Agreed to by the Yeas and Nays: 227 - 196 (Roll No. 329).(consideration: CR H3917-3934, H4045-4046; text: CR H3917-3934)
+- 2008-05-15 — Rule H. Res. 1197 passed House.
+- 2008-05-15 — The previous question was ordered pursuant to the rule. (consideration: CR H4044)
+- 2008-05-19 — Senate amendment submitted
+- 2008-05-19 — Senate amendment submitted
+- 2008-05-19 — Senate amendment submitted
+- 2008-05-20 — Amendment SA 4789 (contained in the Reid motion to concur in the House amendment No. 2 to the Senate amendment) ruled out of order by the chair.
+- 2008-05-20 — Amendment SA 4789 proposed by Senator Reid. (consideration: CR S4460) In the nature of a substitute.
+- 2008-05-20 — Amendment SA 4790 proposed by Senator Reid to Amendment SA 4789. (consideration: CR S4460-4461) In the nature of a substitute.
+- 2008-05-20 — Amendment SA 4803 proposed by Senator Reid. (consideration: CR S4475) In the nature of substitute.
+- 2008-05-20 — Amendment SA 4804 proposed by Senator Reid to Amendment SA 4803. (consideration: CR S4475) In the nature of a substitute.
+- 2008-05-20 — Cloture motion on the Reid motion to concur in the House amendment No. 2 to the Senate amendment with an amendment (SA 4803) presented in Senate. (consideration: CR S4475; text: CR S4475)
+- 2008-05-20 — Measure laid before Senate by unanimous consent. (consideration: CR S4444-4461, S4461-4467, S4468-4469, S4471, S4475-4476)
+- 2008-05-20 — Point of order against Reid motion to concur in House amendment no. 2 to the Senate amendment with amendment (SA 4789) sustained.
+- 2008-05-20 — Point of order that Reid motion to concur in House amendment no. 2 to the Senate amendment with an amendment (SA 4789) (title VIII and portions of title X) violates Rule XVI made in Senate.
+- 2008-05-20 — Reid motion to concur in House amendment No. 2 to the Senate amendment with an amendment (SA 4789) made in Senate. (consideration: CR S4460)
+- 2008-05-20 — Reid motion to concur in House amendment No. 2 to the Senate amendment with an amendment (SA 4803) made in Senate. (consideration: CR S4475)
+- 2008-05-20 — SA 4790 fell when SA 4789 ruled out of order.
+- 2008-05-20 — Senate amendment proposed (on the floor): Amendment SA 4789 proposed by Senator Reid.(consideration: CR S4460)
+- 2008-05-20 — Senate amendment proposed (on the floor): Amendment SA 4790 proposed by Senator Reid to Amendment SA 4789.(consideration: CR S4460-4461)
+- 2008-05-20 — Senate amendment proposed (on the floor): Amendment SA 4803 proposed by Senator Reid.(consideration: CR S4475)
+- 2008-05-20 — Senate amendment proposed (on the floor): Amendment SA 4804 proposed by Senator Reid to Amendment SA 4803.(consideration: CR S4475)
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-20 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-21 — Senate amendment submitted
+- 2008-05-22 — Amendment SA 4803 (contained in the Reid motion to concur in House amendment No. 2 to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 75 - 22. Record Vote Number: 137.
+- 2008-05-22 — Amendment SA 4816 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment) ruled out of order by the chair.
+- 2008-05-22 — Amendment SA 4816 proposed by Senator Reid. (consideration: CR S4741-4742) In the nature of a substitute.
+- 2008-05-22 — Amendment SA 4817 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment) not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 138.
+- 2008-05-22 — Amendment SA 4817 proposed by Senator Reid. (consideration: CR S4742) In the nature of a substitute.
+- 2008-05-22 — Amendment SA 4818 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 139.
+- 2008-05-22 — Amendment SA 4818 proposed by Senator Reid. (consideration: CR S4742) In the nature of a substitute.
+- 2008-05-22 — Cloture motion on the Reid motion to concur in the House amendment No. 2 with an amendment (SA 4803) withdrawn by unanimous consent in Senate.
+- 2008-05-22 — Considered by Senate. (consideration: CR S4709-4713, S4714-4742)
+- 2008-05-22 — Considered by Senate. (consideration: CR S4710, S4741)
+- 2008-05-22 — Considered by Senate. (consideration: CR S4710, S4741)
+- 2008-05-22 — Message on Senate action sent to the House.
+- 2008-05-22 — Point of order against Reid motion to concur in House amendment No. 1 with an amendment (SA 4816) sustained.
+- 2008-05-22 — Point of order that Reid motion to concur in House amendment No. 1 to the Senate amendment with an amendment (SA 4816) (Section 11312) violates Rule XVI.
+- 2008-05-22 — Proposed amendment SA 4804 withdrawn in Senate.
+- 2008-05-22 — Proposed amendment SA 4817 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment), pursuant to the order of May 21, 2008, the motion having failed to achieve the required 60 votes in the affirmative, was withdrawn in Senate.
+- 2008-05-22 — Reid motion to concur in House amendment No. 1 to the Senate amendment with an amendment (SA 4816) made in Senate.
+- 2008-05-22 — Reid motion to concur in House amendment No. 1 to the Senate amendment with an amendment (SA 4817) made in Senate.
+- 2008-05-22 — Reid motion to concur in House amendment No. 1 to the Senate amendment with an amendment (SA 4818) made in Senate.
+- 2008-05-22 — Resolving differences -- Senate actions: Senate concurred in House amendment No. 1 to the Senate amendment with an amendment (SA 4818) Yea-Nay Vote. 70 - 26. Record Vote Number: 139.
+- 2008-05-22 — Resolving differences -- Senate actions: Senate concurred in House amendment No. 2 to the Senate amendment with an amendment (SA 4803) by Yea-Nay Vote. 75 - 22. Record Vote Number: 137.
+- 2008-05-22 — Resolving differences -- Senate actions: Senate disagreed to the Reid motion to concur in the House amendment No. 1 to the Senate amendment with an amendment (SA 4817) by Yea-Nay Vote. 34 - 63. Record Vote Number: 138.
+- 2008-05-22 — Roll call votes on amendments in Senate: Amendment SA 4803 (contained in the Reid motion to concur in House amendment No. 2 to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 75 - 22. Record Vote Number: 137.
+- 2008-05-22 — Roll call votes on amendments in Senate: Amendment SA 4817 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment) not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 138.
+- 2008-05-22 — Roll call votes on amendments in Senate: Amendment SA 4818 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 139.
+- 2008-05-22 — Senate amendment agreed to: Amendment SA 4803 (contained in the Reid motion to concur in House amendment No. 2 to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 75 - 22. Record Vote Number: 137.
+- 2008-05-22 — Senate amendment agreed to: Amendment SA 4818 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment) agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 139.
+- 2008-05-22 — Senate amendment not agreed to: Amendment SA 4817 (contained in the Reid motion to concur in House amendment No. 1 to the Senate amendment) not agreed to in Senate by Yea-Nay Vote. 34 - 63. Record Vote Number: 138.
+- 2008-05-22 — Senate amendment proposed (on the floor): Amendment SA 4816 proposed by Senator Reid.(consideration: CR S4741-4742)
+- 2008-05-22 — Senate amendment proposed (on the floor): Amendment SA 4817 proposed by Senator Reid.(consideration: CR S4742)
+- 2008-05-22 — Senate amendment proposed (on the floor): Amendment SA 4818 proposed by Senator Reid.(consideration: CR S4742)
+- 2008-05-22 — Senate amendment submitted
+- 2008-05-22 — Senate amendment submitted
+- 2008-05-22 — Senate amendment submitted
+- 2008-05-22 — Senate amendment submitted
+- 2008-05-22 — Senate concurred in House amendment No. 1 to the Senate amendment with an amendment (SA 4818) Yea-Nay Vote. 70 - 26. Record Vote Number: 139.
+- 2008-05-22 — Senate concurred in House amendment No. 2 to the Senate amendment with an amendment (SA 4803) by Yea-Nay Vote. 75 - 22. Record Vote Number: 137.
+- 2008-05-22 — Senate disagreed to the Reid motion to concur in the House amendment No. 1 to the Senate amendment with an amendment (SA 4817) by Yea-Nay Vote. 34 - 63. Record Vote Number: 138.
+- 2008-05-22 — The motion to concur in the House amendment No. 1 to the Senate amendment with an amendment (SA 4817), pursuant to the order of May 21, 2008, having failed to achieve the required 60 votes in the affirmative, was withdrawn in the Senate.
+- 2008-06-19 — At the conclusion of debate and pursuant to the provisions of H. Res. 1284, the previous question was ordered. Pursuant to the provisions of H. Res. 1284, the question of adoption of the Senate amendments will be divided to the end that the disposition of the Senate amendments will be decided separately.
+- 2008-06-19 — DEBATE - Pursuant to the provisions of H. Res. 1284, the House proceeded with one hour of debate on the Obey motion to agree to the Senate amendments to the House amendments to the Senate amendment to H.R. 2642, with an amendment.
+- 2008-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-19 — Mr. Obey moved that the House agree with an amendment to the Senate amendments to the House amendments to the Senate amendment. (consideration: CR H5622-5705)
+- 2008-06-19 — On motion to agree to Senate amendment to House amendment No. 1 to Senate amendment Agreed to by the Yeas and Nays: 268 - 155 (Roll no. 431).
+- 2008-06-19 — On motion to agree to Senate amendment to House amendment No. 2 to Senate amendment with amendment Agreed to by recorded vote: 416 - 12 (Roll No. 432).
+- 2008-06-19 — Pursuant to the provisions of H. Res. 1284, Mr. Obey called up from the Speaker's table the bill, H.R. 2642, and offered a motion.
+- 2008-06-19 — Resolving differences -- House actions: On motion to agree to Senate amendment to House amendment No. 1 to Senate amendment Agreed to by the Yeas and Nays: 268 - 155 (Roll no. 431).
+- 2008-06-19 — Resolving differences -- House actions: On motion to agree to Senate amendment to House amendment No. 2 to Senate amendment with amendment Agreed to by recorded vote: 416 - 12 (Roll No. 432).
