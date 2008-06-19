@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2452
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,5 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `33 U.S.C. § 1362` | add-at-end | Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1381` | strike | by striking “and” the first place it appears; and | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1381` | insert | by inserting after “section 320” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | strike | by striking “and” the first place it appears; and | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 1383` | insert | by inserting after “320 of this Act” the following: “, and (4) for the implementation of requirements to monitor, report, and notify the public of sewer overflows under section 402”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1383` | insert | by inserting after “section 320 of this Act” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402 of this Act”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
