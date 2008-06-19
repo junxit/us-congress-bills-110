@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1281
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1281
@@ -27,3 +27,9 @@ Waiving a requirement of clause 6(a) of rule XIII with respect to consideration 
 - 2008-06-18 — The House Committee on Rules reported an original measure, H. Rept. 110-719, by Ms. Slaughter.
 - 2008-06-18 — The House Committee on Rules reported an original measure, H. Rept. 110-719, by Ms. Slaughter.
 - 2008-06-18 — The resolution waives a requirement of clause 6(a) of rule XIII with respect to consideration of any resolution reported on the legislative day of June 19, 2008, providing for consideration or disposition of a measure making supplemental appropriations for the fiscal year ending September 30, 2008.
+- 2008-06-19 — Considered as privileged matter. (consideration: CR H5592)
+- 2008-06-19 — DEBATE - The House proceeded with one hour of debate on H. Res. 1281.
+- 2008-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-19 — On agreeing to the resolution Agreed to by voice vote. (text: CR H5592)
+- 2008-06-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H5592)
+- 2008-06-19 — The previous question was ordered without objection. (consideration: CR H5592)
