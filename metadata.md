@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5710
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5710
@@ -43,3 +43,7 @@ Eastern New Mexico Rural Water System Authorization Act
 - 2008-06-17 — Placed on the Union Calendar, Calendar No. 455.
 - 2008-06-17 — Reported by the Committee on Natural Resources. H. Rept. 110-714.
 - 2008-06-17 — Reported by the Committee on Natural Resources. H. Rept. 110-714.
+- 2008-06-19 — Considered as unfinished business. (consideration: CR H5594)
+- 2008-06-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 301 - 124 (Roll No. 425). (text: CR 6/17/2008 H5428-5429)
+- 2008-06-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays (2/3 required): 301 - 124 (Roll No. 425).(text: CR 6/17/2008 H5428-5429)
