@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6109
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6109
@@ -31,3 +31,8 @@ Pre-Disaster Mitigation Act of 2008
 - 2008-05-21 — Introduced in House
 - 2008-05-21 — Introduced in House
 - 2008-05-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-05-22 — Committee Consideration and Mark-up Session Held.
+- 2008-05-22 — Ordered to be Reported by Voice Vote.
+- 2008-06-19 — Placed on the Union Calendar, Calendar No. 460.
+- 2008-06-19 — Reported by the Committee on Transportation. H. Rept. 110-725.
+- 2008-06-19 — Reported by the Committee on Transportation. H. Rept. 110-725.
