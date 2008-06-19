@@ -23,7 +23,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       >   - **(B)** managing and maintaining the mine pool behind such blockage or bulkhead at a level that precludes surface runoff and releases and minimizes the potential for tunnel failure due to excessive water pressure in the tunnel.
 
   - **(3)** In section 708(f), by striking “and 708” and inserting “, 708, and 709”.
-  - **(4)** By adding at the end the following:
+  - **(4)** By adding at the end of title VII the following:
     > ## § 709. Tunnel maintenance
     >
     > The Secretary shall take such steps to repair or maintain the structural integrity of the Leadville Mine Drainage Tunnel (LMDT) as may be necessary in order to prevent tunnel failure and to preclude uncontrolled release of water from any portion of the tunnel.
+
+  - **(5)** In the table of sections contained in section 2—
+    - **(A)** by striking the item relating to section 705; and
+    - **(B)** by inserting after the item relating to section 708 the following new item:
