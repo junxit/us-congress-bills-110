@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2159
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -105,8 +105,13 @@ The Congress finds that—
 
 - **(a)** *Quality of coins* Coins minted under this Act shall be issued in proof quality only.
 - **(b)** *Mint facility* Only 1 facility of the United States Mint may be used to strike any particular combination of denomination and quality of the coins minted under this Act.
-- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2008.
-- **(d)** *Issuance of gold coins* Each gold coin minted under this Act may be issued only as part of a complete set with 1 of each of the 9 $1 coins minted under this Act.
+- **(c)** *Period for issuance* Notwithstanding any other provision of law, including section 7(d), the Secretary—
+  - **(1)** may accept orders for the coins authorized under this Act during the period beginning on January 1, 2008 and ending on December 31, 2008; and
+  - **(2)** may mint and issue such coins required to fulfill such orders during the period beginning on January 1, 2008 and ending on December 31, 2009.
+- **(d)** *Exception to program limitation* Notwithstanding any other provision of law, the minting or issuance of coins under this Act in 2009 does not—
+  - **(1)** preclude the Secretary from including a surcharge on the issuance of any other commemorative coin minted or issued in 2009; and
+  - **(2)** be counted against the annual 2 commemorative coin program minting and issuance limitation under section 5112(m)(1) of title 31, United States Code.
+- **(e)** *Issuance of gold coins* Each gold coin minted under this Act may be issued only as part of a complete set with 1 of each of the 9 $1 coins minted under this Act.
 
 ## § 6. Sale of coins
 
