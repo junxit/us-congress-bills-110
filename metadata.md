@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 91
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 91
@@ -20,8 +20,15 @@ A concurrent resolution honoring Army Specialist Monica L. Brown, of Lake Jackso
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
+## Committees (1)
+
+- House — Armed Services Committee
+
 ## Actions
 
 - 2008-06-18 — Introduced in Senate
 - 2008-06-18 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5769; text as passed Senate: CR S5769; text of measure as introduced: CR S5768)
 - 2008-06-18 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5769; text as passed Senate: CR S5769; text of measure as introduced: CR S5768)
+- 2008-06-20 — Message on Senate action sent to the House.
+- 2008-06-20 — Received in the House.
+- 2008-06-20 — Referred to the House Committee on Armed Services.
