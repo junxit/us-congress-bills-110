@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 335
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 335
@@ -21,9 +21,10 @@ Authorizing the use of the Capitol Grounds for a celebration of the 100th annive
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -43,3 +44,8 @@ Authorizing the use of the Capitol Grounds for a celebration of the 100th annive
 - 2008-06-04 — Ms. Johnson, E. B. moved to suspend the rules and agree to the resolution.
 - 2008-06-04 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4886)
 - 2008-06-04 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H4886)
+- 2008-06-05 — Received in the Senate and referred to the Committee on Rules and Administration.
+- 2008-06-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2008-06-20 — Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2008-06-20 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S5947)
+- 2008-06-20 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S5947)
