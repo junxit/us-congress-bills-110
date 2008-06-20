@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6275
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6275
@@ -40,3 +40,8 @@ Alternative Minimum Tax Relief Act of 2008
 - 2008-06-17 — Introduced in House
 - 2008-06-17 — Introduced in House
 - 2008-06-17 — Referred to the House Committee on Ways and Means.
+- 2008-06-18 — Committee Consideration and Mark-up Session Held.
+- 2008-06-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 16.
+- 2008-06-20 — Placed on the Union Calendar, Calendar No. 463.
+- 2008-06-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-728.
+- 2008-06-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 110-728.
