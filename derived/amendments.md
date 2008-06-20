@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6304
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 derived: true
 ---
 
