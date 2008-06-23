@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1242
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1242
@@ -16,7 +16,7 @@ Honoring the life, musical accomplishments, and contributions of Louis Jordan on
 
 - Rep. Snyder, Vic [D-AR-2] (S000672)
 
-## Cosponsors (57)
+## Cosponsors (64)
 
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Israel, Steve [D-NY-2] (I000057)
@@ -75,6 +75,13 @@ Honoring the life, musical accomplishments, and contributions of Louis Jordan on
 - Rep. Capps, Lois [D-CA-23] (C001036)
 - Rep. Davis, Susan A. [D-CA-53] (D000598)
 - Rep. Bono, Mary [R-CA-45] (B001228)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Brown, Corrine [D-FL-3] (B000911)
 
 ## Committees (1)
 
@@ -85,3 +92,11 @@ Honoring the life, musical accomplishments, and contributions of Louis Jordan on
 - 2008-06-05 — Introduced in House
 - 2008-06-05 — Introduced in House
 - 2008-06-05 — Referred to the House Committee on Education and Labor.
+- 2008-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-23 — Considered as unfinished business. (consideration: CR H5841-5842)
+- 2008-06-23 — Considered under suspension of the rules. (consideration: CR H5831-5832)
+- 2008-06-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1242.
+- 2008-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-23 — Mr. Sarbanes moved to suspend the rules and agree to the resolution.
+- 2008-06-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 348 - 0 (Roll no. 438). (text: CR H5831)
+- 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 348 - 0 (Roll no. 438).(text: CR H5831)
