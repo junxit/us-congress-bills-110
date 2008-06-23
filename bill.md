@@ -59,7 +59,7 @@ Section 2 of title 35, United States Code, is amended by adding at the end the f
 ## § 4. Authority of Director of PTO to accept late filings
 
 - **(a)** *Authority* Section 156 of title 35, United States Code, is amended by adding at the end the following new subsection:
-  > - **(i)** *Discretion to accept late filings in certain cases of unintentional delay*
+  > - **(i)** *Discretion To accept late filings in certain cases of unintentional delay*
   >   - **(1)** *In general* The Director may accept an application under this section that is filed not later than three business days after the expiration of the 60-day period provided in subsection (d)(1) if the applicant files a petition, not later than five business days after the expiration of that 60-day period, showing, to the satisfaction of the Director, that the delay in filing the application was unintentional.
   >   - **(2)** *Treatment of director’s actions on petition* If the Director has not made a determination on a petition filed under paragraph (1) within 60 days after the date on which the petition is filed, the petition shall be deemed to be denied. A decision by the Director to exercise or not to exercise, or a failure to exercise, the discretion provided by this subsection shall not be subject to judicial review.
 

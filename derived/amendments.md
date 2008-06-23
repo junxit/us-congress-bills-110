@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6344
 congress: 110
-version: Engrossed in House
+version: Introduced in House
 derived: true
 ---
 
