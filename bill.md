@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2452
 
-> To amend the Federal Water Pollution Control Act to ensure that sewage treatment plants monitor for and report discharges of raw sewage, and for other purposes.
+> To amend the Federal Water Pollution Control Act to ensure that publicly owned treatment works monitor for and report sewer overflows, and for other purposes.
 
 ## § 1. Short title
 
@@ -17,36 +17,50 @@ This Act may be cited as the “Sewage Overflow Community Right-to-Know Act”.
 
 Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following:
 
-> - **(25)** *Sanitary sewer overflow* The term sanitary sewer overflow means an overflow, spill, release, or diversion of wastewater from a sanitary sewer system. Such term does not include municipal combined sewer overflows or other discharges from a municipal combined storm and sanitary sewer system and does not include wastewater backups into buildings caused by a blockage or other malfunction of a building lateral that is privately owned. Such term includes overflows or releases of wastewater that reach waters of the United States, overflows or releases of wastewater in the United States that do not reach waters of the United States, and wastewater backups into buildings that are caused by blockages or flow conditions in a sanitary sewer other than a building lateral.
-> - **(26)** *Treatment works* The term treatment works has the meaning given that term in section 212.
+> - **(25)** *Sanitary sewer overflow* The term “sanitary sewer overflow” means an overflow, spill, release, or diversion of wastewater from a sanitary sewer system. Such term does not include municipal combined sewer overflows or other discharges from a municipal combined storm and sanitary sewer system and does not include wastewater backups into buildings caused by a blockage or other malfunction of a building lateral that is privately owned. Such term includes overflows or releases of wastewater that reach waters of the United States, overflows or releases of wastewater in the United States that do not reach waters of the United States, and wastewater backups into buildings that are caused by blockages or flow conditions in a sanitary sewer other than a building lateral.
+> - **(26)** *Treatment works* The term “treatment works” has the meaning given that term in section 212.
 
 ## § 3. Monitoring, reporting, and public notification of sewer overflows
 
 Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following:
 
-> - **(r)** *Sewer Overflow Notifications*
->   - **(1)** *General requirements* Not later than one year after the date of enactment of this subsection, the Administrator shall take such action as may be necessary to ensure that each permit issued under this section before, on, or after the date of enactment of this subsection for a publicly owned treatment works shall require, at a minimum, that the owner or operator of the treatment works—
->     - **(A)** institute and utilize a feasible methodology, technology, or management program to alert the owner or operator to the occurrence of a sewer overflow in a timely manner;
->     - **(B)** notify the public of a sewer overflow as soon as practicable, but not later than 24 hours after the time the owner or operator becomes aware of such overflow, if such overflow has the potential to affect human health, except for overflows that are wastewater backups into single-family residences;
->     - **(C)** immediately notify public health authorities and other affected entities, such as public water systems, of any sewer overflow that may imminently and substantially endanger human health, except for overflows that are wastewater backups into single-family residences;
->     - **(D)** report each sewer overflow (other than a release of wastewater that occurs in the course of maintenance of the treatment works, is managed consistently with the treatment works’ best management practices, and is intended to prevent overflows) on its monthly discharge monitoring report to the Administrator or the State, as the case may be, by describing—
+> - **(r)** *Sewer Overflow Monitoring, Reporting, and Notifications*
+>   - **(1)** *General requirements* After the last day of the 180-day period beginning on the date on which regulations are issued under paragraph (4), a permit issued, renewed, or modified under this section by the Administrator or the State, as the case may be, for a publicly owned treatment works shall require, at a minimum, beginning on the date of the issuance, modification, or renewal, that the owner or operator of the treatment works—
+>     - **(A)** institute and utilize a feasible methodology, technology, or management program for monitoring sewer overflows to alert the owner or operator to the occurrence of a sewer overflow in a timely manner;
+>     - **(B)** in the case of a sewer overflow that has the potential to affect human health, notify the public of the overflow as soon as practicable but not later than 24 hours after the time the owner or operator knows of the overflow;
+>     - **(C)** in the case of a sewer overflow that may imminently and substantially endanger human health, notify public health authorities and other affected entities, such as public water systems, of the overflow immediately after the owner or operator knows of the overflow;
+>     - **(D)** report each sewer overflow on its discharge monitoring report to the Administrator or the State, as the case may be, by describing—
 >       - **(i)** the magnitude, duration, and suspected cause of the overflow;
 >       - **(ii)** the steps taken or planned to reduce, eliminate, or prevent recurrence of the overflow; and
 >       - **(iii)** the steps taken or planned to mitigate the impact of the overflow; and
->     - **(E)** report to the Administrator or the State, as the case may be, the total number of sewer overflows (other than a release of wastewater that occurs in the course of maintenance of the treatment works, is managed consistently with the treatment works’ best management practices, and is intended to prevent overflows) in a calendar year, including—
+>     - **(E)** annually report to the Administrator or the State, as the case may be, the total number of sewer overflows in a calendar year, including—
 >       - **(i)** the details of how much wastewater was released per incident;
 >       - **(ii)** the duration of each sewer overflow;
 >       - **(iii)** the location of the overflow and any potentially affected receiving waters;
 >       - **(iv)** the responses taken to clean up the overflow; and
 >       - **(v)** the actions taken to mitigate impacts and avoid further sewer overflows at the site.
->   - **(2)** *Report to EPA* If a State receives a report under paragraph (1)(E), the State shall report to the Administrator annually, in summary, the details of reported sewer overflows that occurred in that State.
->   - **(3)** *Rulemaking by EPA* Not later than one year after the date of enactment of this subsection, the Administrator shall, after providing notice and the opportunity for public comment, issue regulations to—
->     - **(A)** establish a set of criteria to guide owners and operators of publicly owned treatment works in assessing whether a sewer overflow has the potential to affect human health or may imminently and substantially endanger human health; and
->     - **(B)** define the terms feasible and timely as such terms apply to paragraph (1)(A).
->   - **(4)** *Site specific conditions* The definitions under paragraph (3)(B) shall include site specific conditions.
->   - **(5)** *Definitions*
->     - **(A)** *Sewer overflow* In this subsection, the term sewer overflow means a sanitary sewer overflow or a municipal combined sewer overflow.
->     - **(B)** *Single family residence* In this subsection, the term single-family residence means an individual dwelling unit, including an apartment, condominium, house, or dormitory. Such term does not include the common areas of a multi-dwelling structure.
+>   - **(2)** *Exceptions*
+>     - **(A)** *Notification requirements* The notification requirements of paragraphs (1)(B) and (1)(C) shall not apply a sewer overflow that is a wastewater backup into a single-family residence.
+>     - **(B)** *Reporting requirements* The reporting requirements of paragraphs (1)(D) and (1)(E) shall not apply to a sewer overflow that is a release of wastewater that occurs in the course of maintenance of the treatment works, is managed consistently with the treatment works’ best management practices, and is intended to prevent sewer overflows.
+>   - **(3)** *Report to EPA* Each State shall provide to the Administrator annually a summary of sewer overflows that occurred in the State.
+>   - **(4)** *Rulemaking by EPA* Not later than one year after the date of enactment of this subsection, the Administrator, after providing notice and an opportunity for public comment, shall issue regulations to implement this subsection, including regulations to—
+>     - **(A)** establish a set of criteria to guide the owner or operator of a publicly owned treatment works in—
+>       - **(i)** assessing whether a sewer overflow has the potential to affect human health or may imminently and substantially endanger human health; and
+>       - **(ii)** developing communication measures that are sufficient to give notice under paragraphs (1)(B) and (1)(C); and
+>     - **(B)** define the terms “feasible” and “timely” as such terms apply to paragraph (1)(A), including site specific conditions.
+>   - **(5)** *Approval of State notification programs*
+>     - **(A)** *Requests for approval*
+>       - **(i)** *In general* After the date of issuance of regulations under paragraph (4), a State may submit to the Administrator evidence that the State has in place a legally enforceable notification program that is substantially equivalent to the requirements of paragraphs (1)(B) and (1)(C).
+>       - **(ii)** *Program review and authorization* If the evidence submitted by a State under clause (i) shows the notification program of the State to be substantially equivalent to the requirements of paragraphs (1)(B) and (1)(C), the Administrator shall authorize the State to carry out such program instead of the requirements of paragraphs (1)(B) and (1)(C).
+>       - **(iii)** *Factors for determining substantial equivalency* In carrying out a review of a State notification program under clause (ii), the Administrator shall take into account the scope of sewer overflows for which notification is required, the length of time during which notification must be made, the scope of persons who must be notified of sewer overflows, the scope of enforcement activities ensuring that notifications of sewer overflows are made, and such other factors as the Administrator considers appropriate.
+>     - **(B)** *Review period* If a State submits evidence with respect to a notification program under subparagraph (A)(i) on or before the last day of the 30-day period beginning on the date of issuance of regulations under paragraph (4), the requirements of paragraphs (1)(B) and (1)(C) shall not begin to apply to a publicly owned treatment works located in the State until the date on which the Administrator completes a review of the notification program under subparagraph (A)(ii).
+>     - **(C)** *Withdrawal of authorization* If the Administrator, after conducting a public hearing, determines that a State is not administering and enforcing a State notification program authorized under subparagraph (A)(ii) in accordance with the requirements of this paragraph, the Administrator shall so notify the State and, if appropriate corrective action is not taken within a reasonable time, not to exceed 90 days, the Administrator shall withdraw authorization of such program and enforce the requirements of paragraphs (1)(B) and (1)(C) with respect to the State.
+>   - **(6)** *Special rules concerning application of notification requirements* After the last day of the 30-day period beginning on the date of issuance of regulations under paragraph (4), the requirements of paragraphs (1)(B) and (1)(C) shall—
+>     - **(A)** apply to the owner or operator of a publicly owned treatment works and be subject to enforcement under section 309, and
+>     - **(B)** supersede any notification requirements contained in a permit issued under this section for the treatment works to the extent that the notification requirements are less stringent than the notification requirements of paragraphs (1)(B) and (1)(C),
+>   - **(7)** *Definitions* In this subsection, the following definitions apply:
+>     - **(A)** *Sewer overflow* The term “sewer overflow” means a sanitary sewer overflow or a municipal combined sewer overflow.
+>     - **(B)** *Single-family residence* The term “single-family residence” means an individual dwelling unit, including an apartment, condominium, house, or dormitory. Such term does not include the common areas of a multi-dwelling structure.
 
 ## § 4. Eligibility for assistance
 
@@ -55,11 +69,4 @@ Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amend
   - **(2)** by inserting after “section 320” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402”.
 - **(b)** *Water Pollution Control Revolving Loan Funds* Section 603(c) of the Federal Water Pollution Control Act (33 U.S.C. 1383(c)) is amended—
   - **(1)** by striking “and” the first place it appears; and
-  - **(2)** by inserting after “section 320 of this Act” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402 of this Act”.
-
-## § 5. Limitation on statutory construction
-
-Nothing in this Act, including any amendment made by this Act, shall be construed—
-
-- **(1)** to limit the ability of any State from implementing and enforcing more stringent monitoring and notification standards than those required by the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); or
-- **(2)** to supplant or diminish obligations to comply with all other requirements of the Federal Water Pollution Control Act.
+  - **(2)** by inserting after “section 320 of this Act” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402”.
