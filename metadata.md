@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 596
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 596
@@ -35,3 +35,7 @@ A resolution congratulating the Boston Celtics on winning the 2008 National Bask
 
 - 2008-06-19 — Introduced in Senate
 - 2008-06-19 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S5838-5839)
+- 2008-06-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S5971-5972)
+- 2008-06-23 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S5971-5972)
+- 2008-06-23 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S5971-5972)
+- 2008-06-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S5971-5972)
