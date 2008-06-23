@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2452
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,4 +36,4 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1381` | strike | by striking “and” the first place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1381` | insert | by inserting after “section 320” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1383` | strike | by striking “and” the first place it appears; and | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 1383` | insert | by inserting after “section 320 of this Act” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402 of this Act”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1383` | insert | by inserting after “section 320 of this Act” the following: “, and (4) for the implementation of requirements to monitor for sewer overflows under section 402”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

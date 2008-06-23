@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2452
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2452
@@ -93,3 +93,10 @@ Sewage Overflow Community Right-to-Know Act
 - 2008-06-19 — Placed on the Union Calendar, Calendar No. 458.
 - 2008-06-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-723.
 - 2008-06-19 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-723.
+- 2008-06-23 — Considered under suspension of the rules. (consideration: CR H5820-5824)
+- 2008-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2452.
+- 2008-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-23 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
+- 2008-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5820-5821)
+- 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5820-5821)
+- 2008-06-23 — The title of the measure was amended. Agreed to without objection.
