@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6109
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -69,5 +69,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 5133` | amend | Section 203(f) of such Act (42 U.S.C. 5133(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5133` | amend | Section 203(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5133` | amend | Section 203(m) of such Act (42 U.S.C. 5133(m)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
