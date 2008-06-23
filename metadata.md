@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3195
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3195
@@ -16,7 +16,7 @@ ADA Amendments Act of 2008
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 
-## Cosponsors (144)
+## Cosponsors (255)
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
@@ -162,6 +162,117 @@ ADA Amendments Act of 2008
 - Rep. Walz, Timothy J. [D-MN-1] (W000799)
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Bonner, Jo [R-AL-1] (B001244)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Mollohan, Alan B. [D-WV-1] (M000844)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Brown-Waite, Ginny [R-FL-5] (B001247)
+- Rep. Olver, John W. [D-MA-1] (O000085)
+- Rep. Castle, Michael N. [R-DE-At Large] (C000243)
+- Rep. Gillmor, Paul E. [R-OH-5] (G000210)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Carnahan, Russ [D-MO-3] (C001060)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Serrano, Jose E. [D-NY-16] (S000248)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Carson, Julia [D-IN-7] (C000191)
+- Rep. Wu, David [D-OR-1] (W000793)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Hodes, Paul W. [D-NH-2] (H001043)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Price, David E. [D-NC-4] (P000523)
+- Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Pomeroy, Earl [D-ND-At Large] (P000422)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Hill, Baron P. [D-IN-9] (H001030)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Davis, Susan A. [D-CA-53] (D000598)
+- Rep. Arcuri, Michael A. [D-NY-24] (A000363)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Napolitano, Grace F. [D-CA-38] (N000179)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Ellsworth, Brad [D-IN-8] (E000289)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Fattah, Chaka [D-PA-2] (F000043)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Meek, Kendrick B. [D-FL-17] (M001148)
+- Rep. Davis, Artur [D-AL-7] (D000602)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Eshoo, Anna G. [D-CA-14] (E000215)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Pryce, Deborah [R-OH-15] (P000555)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Buchanan, Vern [R-FL-13] (B001260)
+- Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Lipinski, Daniel [D-IL-3] (L000563)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Porter, Jon C. [R-NV-3] (P000589)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Gerlach, Jim [R-PA-6] (G000549)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Rep. Blunt, Roy [R-MO-7] (B000575)
+- Rep. Schmidt, Jean [R-OH-2] (S001164)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Weller, Jerry [R-IL-11] (W000273)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Sessions, Pete [R-TX-32] (S000250)
+- Rep. Lampson, Nick [D-TX-22] (L000043)
+- Rep. Gillibrand, Kirsten E. [D-NY-20] (G000555)
 
 ## Committees (4)
 
@@ -180,3 +291,23 @@ ADA Amendments Act of 2008
 - 2007-07-26 — Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-26 — Referred to the Committee on Education and Labor, and in addition to the Committees on the Judiciary, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-07-26 — Referred to the Subcommittee on Health.
+- 2007-07-27 — Referred to the Subcommittee on Aviation.
+- 2007-07-27 — Referred to the Subcommittee on Highways and Transit.
+- 2007-07-27 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2007-09-10 — Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.
+- 2007-09-19 — Referred to the Subcommittee on Health, Employment, Labor, and Pensions.
+- 2007-10-04 — Subcommittee Hearings Held.
+- 2008-06-18 — Committee Consideration and Mark-up Session Held.
+- 2008-06-18 — Committee Consideration and Mark-up Session Held.
+- 2008-06-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 0.
+- 2008-06-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 43 - 1.
+- 2008-06-18 — Subcommittee on the Constitution, Civil Rights, and Civil Liberties Discharged.
+- 2008-06-23 — Committee on Energy and Commerce discharged.
+- 2008-06-23 — Committee on Energy and Commerce discharged.
+- 2008-06-23 — Committee on Transportation discharged.
+- 2008-06-23 — Committee on Transportation discharged.
+- 2008-06-23 — Placed on the Union Calendar, Calendar No. 465.
+- 2008-06-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-730, Part I.
+- 2008-06-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-730, Part I.
+- 2008-06-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-730, Part II.
+- 2008-06-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-730, Part II.

@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3195
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,74 +11,114 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “ADA Restoration Act of 2007”.
+This Act may be cited as the “ADA Amendments Act of 2008”.
 
 ## § 2. Findings and purposes
 
 - **(a)** *Findings* Congress finds that—
-  - **(1)** in enacting the Americans with Disabilities Act of 1990 (ADA), Congress intended that the Act “establish a clear and comprehensive prohibition of discrimination on the basis of disability,” and provide broad coverage and vigorous and effective remedies without unnecessary and obstructive defenses;
-  - **(2)** decisions and opinions of the Supreme Court have unduly narrowed the broad scope of protection afforded in the ADA, eliminating protection for a broad range of individuals who Congress intended to protect;
-  - **(3)** in enacting the ADA, Congress recognized that physical and mental impairments are natural parts of the human experience that in no way diminish a person’s right to fully participate in all aspects of society, but Congress also recognized that people with physical or mental impairments having the talent, skills, abilities, and desire to participate in society are frequently precluded from doing so because of prejudice, antiquated attitudes, or the failure to remove societal and institutional barriers;
-  - **(4)** Congress modeled the ADA definition of disability on that of section 504 of the Rehabilitation Act of 1973, which, through the time of the ADA’s enactment, had been construed broadly to encompass both actual and perceived limitations, and limitations imposed by society;
-  - **(5)** the broad conception of the definition had been underscored by the Supreme Court’s statement in its decision in School Board of Nassau County v. Arline, 480 U.S. 273, 284 (1987), that the section 504 definition “acknowledged that society’s accumulated myths and fears about disability and disease are as handicapping as are the physical limitations that flow from actual impairment”;
-  - **(6)** in adopting the section 504 concept of disability in the ADA, Congress understood that adverse action based on a person’s physical or mental impairment is often unrelated to the limitations caused by the impairment itself;
-  - **(7)** instead of following congressional expectations that disability would be interpreted broadly in the ADA, the Supreme Court has ruled, in Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184, 197 (2002), that the elements of the definition “need to be interpreted strictly to create a demanding standard for qualifying as disabled,” and, consistent with that view, has narrowed the application of the definition in various ways; and
-  - **(8)** contrary to explicit congressional intent expressed in the ADA committee reports, the Supreme Court has eliminated from the Act’s coverage individuals who have mitigated the effects of their impairments through the use of such measures as medication and assistive devices.
-- **(b)** *Purpose* The purposes of this Act are—
-  - **(1)** to effect the ADA’s objectives of providing “a clear and comprehensive national mandate for the elimination of discrimination” and “clear, strong, consistent, enforceable standards addressing discrimination” by restoring the broad scope of protection available under the ADA;
-  - **(2)** to respond to certain decisions of the Supreme Court, including Sutton v. United Airlines, Inc., 527 U.S. 471 (1999), Murphy v. United Parcel Service, Inc., 527 U.S. 516 (1999), Albertson’s, Inc. v. Kirkingburg, 527 U.S. 555 (1999), and Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002), that have narrowed the class of people who can invoke the protection from discrimination the ADA provides; and
-  - **(3)** to reinstate original congressional intent regarding the definition of disability by clarifying that ADA protection is available for all individuals who are subjected to adverse treatment based on actual or perceived impairment, or record of impairment, or are adversely affected by prejudiced attitudes, such as myths, fears, ignorance, or stereotypes concerning disability or particular disabilities, or by the failure to remove societal and institutional barriers, including communication, transportation, and architectural barriers, and the failure to provide reasonable modifications to policies, practices, and procedures, reasonable accommodations, and auxiliary aids and services.
+  - **(1)** in enacting the Americans with Disabilities Act of 1990 (ADA), Congress intended that the Act “provide a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities” and provide broad coverage;
+  - **(2)** in enacting the ADA, Congress recognized that physical and mental disabilities in no way diminish a person’s right to fully participate in all aspects of society, but that people with physical or mental disabilities are frequently precluded from doing so because of prejudice, antiquated attitudes, or the failure to remove societal and institutional barriers;
+  - **(3)** while Congress expected that the definition of disability under the ADA would be interpreted consistently with how courts had applied the definition of handicap under the Rehabilitation Act of 1973, that expectation has not been fulfilled;
+  - **(4)** the holdings of the Supreme Court in Sutton v. United Airlines, Inc., 527 U.S. 471 (1999) and its companion cases, and in Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002) have narrowed the broad scope of protection intended to be afforded by the ADA, thus eliminating protection for many individuals whom Congress intended to protect; and
+  - **(5)** as a result of these Supreme Court cases, lower courts have incorrectly found in individual cases that people with a range of substantially limiting impairments are not people with disabilities.
+- **(b)** *Purposes* The purposes of this Act are—
+  - **(1)** to carry out the ADA’s objectives of providing “a clear and comprehensive national mandate for the elimination of discrimination” and “clear, strong, consistent, enforceable standards addressing discrimination” by reinstating a broad scope of protection to be available under the ADA;
+  - **(2)** to reject the requirement enunciated by the Supreme Court in Sutton v. United Airlines, Inc., 527 U.S. 471 (1999) and its companion cases that whether an impairment substantially limits a major life activity is to be determined with reference to the ameliorative effects of mitigating measures;
+  - **(3)** to reject the Supreme Court’s reasoning in Sutton v. United Airlines, Inc., 527 U.S. 471 (1999) with regard to coverage under the third prong of the definition of disability and to reinstate the reasoning of the Supreme Court in School Board of Nassau County v. Arline, 480 U.S. 273 (1987) which set forth a broad view of the third prong of the definition of handicap under the Rehabilitation Act of 1973;
+  - **(4)** to reject the standards enunciated by the Supreme Court in Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002), that the terms substantially and major in the definition of disability under the ADA “need to be interpreted strictly to create a demanding standard for qualifying as disabled,” and that to be substantially limited in performing a major life activity under the ADA “an individual must have an impairment that prevents or severely restricts the individual from doing activities that are of central importance to most people’s daily lives”; and
+  - **(5)** to provide a new definition of “substantially limits” to indicate that Congress intends to depart from the strict and demanding standard applied by the Supreme Court in Toyota Motor Manufacturing, Kentucky, Inc. v. Williams and by numerous lower courts.
 
 ## § 3. Codified findings
 
 Section 2(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101) is amended—
 
 - **(1)** by amending paragraph (1) to read as follows:
-  > - **(1)** physical or mental disabilities are natural parts of the human experience that in no way diminish a person’s right to fully participate in all aspects of society, yet people with physical or mental disabilities having the talent, skills, abilities, and desires to participate in society frequently are precluded from doing so because of discrimination; others who have a record of a disability or are regarded as having a disability also have been subjected to discrimination;
+  > - **(1)** physical or mental disabilities in no way diminish a person’s right to fully participate in all aspects of society, yet many people with physical or mental disabilities have been precluded from doing so because of discrimination; others who have a record of a disability or are regarded as having a disability also have been subjected to discrimination;
 
-- **(2)** by amending paragraph (7) to read as follows:
-  > - **(7)** individuals with disabilities have been subject to a history of purposeful unequal treatment, have had restrictions and limitations imposed upon them because of their disabilities, and have been relegated to positions of political powerlessness in society; classifications and selection criteria that exclude persons with disabilities should be strongly disfavored, subjected to skeptical and meticulous examination, and permitted only for highly compelling reasons, and never on the basis of prejudice, ignorance, myths, irrational fears, or stereotypes about disability;
+- **(2)** by striking paragraph (7).
 
-## § 4. Disability defined
+## § 4. Disability defined and rules of construction
 
-Section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102) is amended—
+- **(a)** *Definition of disability* Section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102) is amended to read as follows:
+  > ## § 3. Definition of disability
+  >
+  > As used in this Act:
+  >
+  > - **(1)** *Disability* The term disability means, with respect to an individual—
+  >   - **(A)** a physical or mental impairment that substantially limits one or more major life activities of such individual;
+  >   - **(B)** a record of such an impairment; or
+  >   - **(C)** being regarded as having such an impairment (as described in paragraph (4)).
+  > - **(2)** *Substantially limits* The term substantially limits means materially restricts.
+  > - **(3)** *Major life activities*
+  >   - **(A)** *In general* For purposes of paragraph (1), major life activities include, but are not limited to, caring for oneself, performing manual tasks, seeing, hearing, eating, sleeping, walking, standing, lifting, bending, speaking, breathing, learning, reading, concentrating, thinking, communicating and working.
+  >   - **(B)** *Major bodily functions* For purposes of paragraph (1), a major life activity also includes the operation of a major bodily function, including but not limited to, functions of the immune system, normal cell growth, digestive, bowel, bladder, neurological, brain, respiratory, circulatory, endocrine, and reproductive functions.
+  > - **(4)** *Regarded as having such an impairment* For purposes of paragraph (1)(C):
+  >   - **(A)** An individual meets the requirement of “being regarded as having such an impairment” if the individual establishes that he or she has been subjected to an action prohibited under this Act because of an actual or perceived physical or mental impairment whether or not the impairment limits or is perceived to limit a major life activity.
+  >   - **(B)** Paragraph (1)(C) shall not apply to impairments that are transitory and minor. A transitory impairment is an impairment with an actual or expected duration of 6 months or less.
+  > - **(5)** *Rules of construction regarding the definition of disability* The definition of “disability” in paragraph (1) shall be construed in accordance with the following:
+  >   - **(A)** To achieve the remedial purposes of this Act, the definition of “disability” in paragraph (1) shall be construed broadly.
+  >   - **(B)** An impairment that substantially limits one major life activity need not limit other major life activities in order to be considered a disability.
+  >   - **(C)** An impairment that is episodic or in remission is a disability if it would substantially limit a major life activity when active.
+  >   - **(D)**
+  >     - **(i)** The determination of whether an impairment substantially limits a major life activity shall be made without regard to the ameliorative effects of mitigating measures such as—
+  >       - **(I)** medication, medical supplies, equipment, or appliances, low-vision devices (which do not include ordinary eyeglasses or contact lenses), prosthetics including limbs and devices, hearing aids and cochlear implants or other implantable hearing devices, mobility devices, or oxygen therapy equipment and supplies;
+  >       - **(II)** use of assistive technology;
+  >       - **(III)** reasonable accommodations or auxiliary aids or services; or
+  >       - **(IV)** learned behavioral or adaptive neurological modifications.
+  >     - **(ii)** The ameliorative effects of the mitigating measures of ordinary eyeglasses or contact lenses shall be considered in determining whether an impairment substantially limits a major life activity.
+  >     - **(iii)** As used in this subparagraph—
+  >       - **(I)** the term ordinary eyeglasses or contact lenses means lenses that are intended to fully correct visual acuity or eliminate refractive error; and
+  >       - **(II)** the term low-vision devices means devices that magnify, enhance, or otherwise augment a visual image.
 
-- **(1)** by amending paragraph (2) to read as follows:
-  > - **(2)** *Disability*
-  >   - **(A)** *In general* The term disability means, with respect to an individual—
-  >     - **(i)** a physical or mental impairment;
-  >     - **(ii)** a record of a physical or mental impairment; or
-  >     - **(iii)** being regarded as having a physical or mental impairment.
-  >   - **(B)** *Rule of construction*
-  >     - **(i)** The determination of whether an individual has a physical or mental impairment shall be made without considering the impact of any mitigating measures the individual may or may not be using or whether or not any manifestations of an impairment are episodic, in remission, or latent.
-  >     - **(ii)** The term mitigating measures means any treatment, medication, device, or other measure used to eliminate, mitigate, or compensate for the effect of an impairment, and includes prescription and other medications, personal aids and devices (including assistive technology devices and services), reasonable accommodations, or auxiliary aids and services.
-  >     - **(iii)** Actions taken by a covered entity with respect to an individual because of that individual’s use of a mitigating measure or because of a side effect or other consequence of the use of such a measure shall be considered actions taken on the basis of a disability under this Act.
+- **(b)** *Conforming amendment* The Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is further amended by adding after section 3 the following:
+  > ## § 4. Additional definitions
+  >
+  > As used in this Act:
+  >
+  > - **(1)** *Auxiliary aids and services* The term auxiliary aids and services includes—
+  >   - **(A)** qualified interpreters or other effective methods of making aurally delivered materials available to individuals with hearing impairments;
+  >   - **(B)** qualified readers, taped texts, or other effective methods of making visually delivered materials available to individuals with visual impairments;
+  >   - **(C)** acquisition or modification of equipment or devices; and
+  >   - **(D)** other similar services and actions.
+  > - **(2)** *State* The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-- **(2)** by redesignating paragraph (3) as paragraph (7) and inserting after paragraph (2) the following:
-  > - **(3)** *Physical impairment* The term physical impairment means any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive; digestive; genito-urinary; hemic and lymphatic; skin; and endocrine.
-  > - **(4)** *Mental impairment* The term mental impairment means any mental or psychological disorder such as mental retardation, organic brain syndrome, emotional or mental illness, or specific learning disabilities.
-  > - **(5)** *Record of physical or mental impairment* The term record of physical or mental impairment means having a history of, or having been misclassified as having, a physical or mental impairment.
-  > - **(6)** *Regarded as having a physical or mental impairment* The term regarded as having a physical or mental impairment means being perceived or treated as having a physical or mental impairment whether or not the individual has an impairment.
+- **(c)** *Amendment to the table of contents* The table of contents contained in section 1(b) of the Americans with Disabilities Act of 1990 is amended by striking the item relating to section 3 and inserting the following items:
 
 ## § 5. Discrimination on the basis of disability
 
-Section 102 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12112) is amended—
+- **(a)** *On the basis of disability* Section 102 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12112) is amended—
+  - **(1)** in subsection (a), by striking “with a disability because of the disability of such individual” and inserting “on the basis of disability”; and
+  - **(2)** in subsection (b) in the matter preceding paragraph (1), by striking “discriminate” and inserting “discriminate against a qualified individual on the basis of disability”.
+- **(b)** *Qualification standards and tests related to uncorrected vision* Section 103 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12113) is amended by redesignating subsections (c) and (d) as subsections (d) and (e), respectively, and inserting after subsection (b) the following new subsection:
+  > - **(c)** *Qualification standards and tests related to uncorrected vision* Notwithstanding section 3(5)(D)(ii), a covered entity shall not use qualification standards, employment tests, or other selection criteria based on an individual’s uncorrected vision unless the standard, test, or other selection criteria, as used by the covered entity, is shown to be job-related for the position in question and consistent with business necessity.
 
-- **(1)** in subsection (a), by striking “against a qualified individual with a disability because of the disability of such individual” and inserting “against an individual on the basis of disability”; and
-- **(2)** in subsection (b), in the matter preceding paragraph (1), by striking “discriminate” and inserting “discriminate against an individual on the basis of disability”.
+- **(c)** *Conforming amendment* Section 101(8) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111(8)) is amended—
+  - **(1)** in the paragraph heading, by striking “with a disability”; and
+  - **(2)** by striking “with a disability” after “individual” both places it appears.
 
-## § 6. Qualified individual
+## § 6. Rules of construction
 
-Section 103(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12113(a)) is amended by striking “that an alleged application” and inserting
+Title V of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201) is amended—
 
-> that—
-> - **(1)** the individual alleging discrimination under this title is not a qualified individual with a disability; or
-> - **(2)** an alleged application
+- **(1)** by adding at the end of section 501 the following:
+  > - **(e)** *Benefits under state worker’s compensation laws* Nothing in this Act alters the standards for determining eligibility for benefits under State worker’s compensation laws or under State and Federal disability benefit programs.
+  > - **(f)** *Claims of no disability* Nothing in this Act shall provide the basis for a claim by a person without a disability that he or she was subject to discrimination because of his or her lack of disability.
+  > - **(g)** *Reasonable accommodations and modifications* A covered entity under title I, a public entity under title II, and any person who owns, leases (or leases to), or operates a place of public accommodation under title III, need not provide a reasonable accommodation or a reasonable modification to policies, practices, or procedures to an individual who meets the definition of disability in section 3(1) solely under subparagraph (C).
 
-## § 7. Rule of construction
+- **(2)** by redesignating section 506 through 514 as sections 507 through 515, respectively, and adding after section 505 the following:
+  > ## § 506. Rule of construction regarding regulatory authority
+  >
+  > The authority to issue regulations granted to the Equal Employment Opportunity Commission, the Attorney General, and the Secretary of Transportation under this Act includes the authority to issue regulations implementing the definitions contained in sections 3 and 4.
 
-Section 501 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201) is amended by adding at the end the following:
+- **(3)** in the table of contents contained in section 1(b), by redesignating the items relating to sections 506 through 514 as sections 507 through 515, respectively, and by inserting after the item relating to section 505 the following new item:
 
-> - **(e)** *Broad Construction* In order to ensure that this Act achieves its purpose of providing a comprehensive prohibition of discrimination on the basis of disability, the provisions of this Act shall be broadly construed to advance their remedial purpose.
-> - **(f)** *Regulations* In order to provide for consistent and effective standards among the agencies responsible for enforcing this Act, the Attorney General shall promulgate regulations and guidance in alternate accessible formats implementing the provisions herein. The Equal Employment Opportunity Commission and Secretary of Transportation shall then issue appropriate implementing directives, whether in the nature of regulations or policy guidance, consistent with the requirements prescribed by the Attorney General.
-> - **(g)** *Deference to regulations and guidance* Duly issued Federal regulations and guidance for the implementation of this Act, including provisions implementing and interpreting the definition of disability, shall be entitled to deference by administrative bodies or officers and courts hearing any action brought under this Act.
+## § 7. Conforming amendments
+
+Section 7 of the Rehabilitation Act of 1973 (29 U.S.C. 705) is amended—
+
+- **(1)** in paragraph (9)(B), by striking “a physical” and all that follows through “major life activities”, and inserting “the meaning given it in section 3 of the Americans with Disabilities Act of 1990”; and
+- **(2)** in paragraph (20)(B), by striking “any person who” and all that follows through the period at the end, and inserting “any person who has a disability as defined in section 3 of the Americans with Disabilities Act of 1990.”.
+
+## § 8. Effective date
+
+This Act and the amendments made by this Act shall become effective on January 1, 2009.
