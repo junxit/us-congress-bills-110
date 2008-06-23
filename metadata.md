@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4044
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4044
@@ -104,3 +104,10 @@ National Guard and Reservists Debt Relief Act of 2008
 - 2008-06-20 — Placed on the Union Calendar, Calendar No. 461.
 - 2008-06-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-726.
 - 2008-06-20 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-726.
+- 2008-06-23 — Considered under suspension of the rules. (consideration: CR H5801-5805)
+- 2008-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4044.
+- 2008-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-23 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
+- 2008-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5801-5802)
+- 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5801-5802)
+- 2008-06-23 — The title of the measure was amended. Agreed to without objection.
