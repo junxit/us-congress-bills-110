@@ -15,7 +15,7 @@ This Act may be cited as the “Pre-Disaster Mitigation Act of 2008”.
 
 ## § 2. Pre-disaster hazard mitigation
 
-- **(a)** *Allocation of funds* Section 203(f) of such Act (42 U.S.C. 5133(f)) is amended to read as follows:
+- **(a)** *Allocation of funds* Section 203(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(f)) is amended to read as follows:
   > - **(f)** *Allocation of funds*
   >   - **(1)** *Base amount* The amount of financial assistance made available to a State (including amounts made available to local governments of the State) under this section for a fiscal year—
   >     - **(A)** shall be not less than the lesser of—

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6109
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6109
@@ -36,3 +36,9 @@ Pre-Disaster Mitigation Act of 2008
 - 2008-06-19 — Placed on the Union Calendar, Calendar No. 460.
 - 2008-06-19 — Reported by the Committee on Transportation. H. Rept. 110-725.
 - 2008-06-19 — Reported by the Committee on Transportation. H. Rept. 110-725.
+- 2008-06-23 — Considered under suspension of the rules. (consideration: CR H5816-5818)
+- 2008-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6109.
+- 2008-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-23 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2008-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5816)
+- 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5816)
