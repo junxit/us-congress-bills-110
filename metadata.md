@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 372
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 372
@@ -63,3 +63,11 @@ Supporting the goals and ideals of Black Music Month and to honor the outstandin
 - 2008-06-12 — Introduced in House
 - 2008-06-12 — Introduced in House
 - 2008-06-12 — Referred to the House Committee on Education and Labor.
+- 2008-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-23 — Considered as unfinished business. (consideration: CR H5842-5843)
+- 2008-06-23 — Considered under suspension of the rules. (consideration: CR H5834-5836)
+- 2008-06-23 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 372.
+- 2008-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-23 — Mr. Sarbanes moved to suspend the rules and agree to the resolution.
+- 2008-06-23 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 353 - 0 (Roll no. 439). (text: CR H5834-5835)
+- 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 353 - 0 (Roll no. 439).(text: CR H5834-5835)
