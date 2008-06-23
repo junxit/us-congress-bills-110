@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1050
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1050
@@ -55,3 +55,9 @@ Recognizing Pittsfield, Massachusetts, as being home to the earliest known refer
 - 2008-03-13 — Introduced in House
 - 2008-03-13 — Referred to the House Committee on Education and Labor.
 - 2008-03-13 — Sponsor introductory remarks on measure. (CR E728)
+- 2008-06-23 — Considered under suspension of the rules. (consideration: CR H5832-5834)
+- 2008-06-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1050.
+- 2008-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-23 — Mr. Sarbanes moved to suspend the rules and agree to the resolution, as amended.
+- 2008-06-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5832-5833)
+- 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5832-5833)

@@ -2,7 +2,7 @@
 legis-num: H. RES. 1050
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1050
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the monuments will highlight and represent the great virtues of the game that have solidified baseball as our national pastime;
 - Whereas the virtues of baseball are innocence, youth, bridging generations, and how it parallels the great history of our Nation;
 - Whereas Pittsfield, Massachusetts, is also the home of many historical baseball moments;
-- Whereas Pittsfield, Massachusetts, is the birthplace of college baseball in the United States as it is the sight of the first intercollegiate baseball game between Amherst College and Williams College, which took place on July 1, 1859;
+- Whereas Pittsfield, Massachusetts, is the birthplace of college baseball in the United States as it is the site of the first intercollegiate baseball game between Amherst College and Williams College, which took place on July 1, 1859;
 - Whereas in 1865, Ulysses F. “Frank” Grant, generally considered the best African American player of the 19th century, was born in Pittsfield, Massachusetts;
 - Whereas Pittsfield, Massachusetts, is the home of Wahconah Park, an enclosed ballpark and grandstand, originally built in 1892 and placed on the National Historic Register in June 2005;
 - Whereas Pittsfield, Massachusetts, is where in 1921 and 1922, the Boston Red Sox played 2 exhibition games at Wahconah Park against the Hillies;
