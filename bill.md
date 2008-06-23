@@ -2,7 +2,7 @@
 legis-num: H. RES. 1229
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1229
@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas valedictorians are conferred as the highest academically-ranked student in their high school’s graduating class;
-- Whereas over 15,000 of our Nation’s secondary schools honor their highest academically-ranked students with the “valedictorian” title;
+- Whereas our Nation’s secondary schools honor their highest academically ranked students with the “valedictorian” title;
 - Whereas valedictorians have demonstrated consistency in their intellectual inquiry, academic discipline, and utilization of teacher mentoring throughout their high school careers;
 - Whereas valedictorians serve as peer role models to fellow high school students by succeeding academically and contributing to community improvement;
 - Whereas valedictorians are charged with the duty of giving a graduation speech that reflects upon the intellectual development and community involvement of the graduating class and inspires all graduating students to further their academic studies and social engagement;

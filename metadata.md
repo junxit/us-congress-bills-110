@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1229
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1229
@@ -16,7 +16,7 @@ Recognizing the achievements of America's high school valedictorians of the grad
 
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 
-## Cosponsors (98)
+## Cosponsors (108)
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 - Rep. Serrano, Jose E. [D-NY-16] (S000248)
@@ -116,6 +116,16 @@ Recognizing the achievements of America's high school valedictorians of the grad
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Walden, Greg [R-OR-2] (W000791)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
 
 ## Committees (1)
 
@@ -126,3 +136,9 @@ Recognizing the achievements of America's high school valedictorians of the grad
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Referred to the House Committee on Education and Labor.
+- 2008-06-23 — Considered under suspension of the rules. (consideration: CR H5828-5830)
+- 2008-06-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1229.
+- 2008-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-23 — Mr. Sarbanes moved to suspend the rules and agree to the resolution, as amended.
+- 2008-06-23 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H5828-5829)
+- 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H5828-5829)
