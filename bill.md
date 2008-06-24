@@ -128,11 +128,15 @@ Section 471(a) of the Social Security Act (42 U.S.C. 671(a)), as amended by sect
 
 - **(d)** *Effective date* The amendments made by this section shall take effect on October 1, 2010.
 
-## § 6. Short-term training for child welfare agencies and prospective relative guardians
+## § 6. Short-term training for child welfare agencies, prospective relative guardians, and court personnel
 
 - **(a)** *In general* Section 474(a)(3)(B) of the Social Security Act (42 U.S.C. 674(a)(3)(B)) is amended—
-  - **(1)** by inserting “or relative guardians” after “adoptive parents”; and
-  - **(2)** by inserting “, or State-licensed or State-approved child welfare agencies providing services,” after “providing care”.
+  - **(1)** by inserting “or relative guardians” after “adoptive parents”;
+  - **(2)** by striking “and the members” and inserting “, the members”;
+  - **(3)** by inserting “, or State-licensed or State-approved child welfare agencies providing services,” after “providing care”;
+  - **(4)** by inserting “, and members of the staff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of such courts” after “part,”;
+  - **(5)** by inserting “guardians,” before “staff members,”; and
+  - **(6)** by striking “and institutions” and inserting “institutions, attorneys, and advocates”.
 - **(b)** *Effective date* The amendment made by subsection (a) shall take effect on October 1, 2008.
 - **(c)** *Phase-in* With respect to an expenditure described in section 474(a)(3)(B) of the Social Security Act by reason of an amendment made by subsection (a) of this section, in lieu of the percentage set forth in such section 474(a)(3)(B), the percentage that shall apply is—
   - **(1)** 55 percent, if the expenditure is made in fiscal year 2009;
@@ -387,6 +391,6 @@ Section 323 of title 31, United States Code, is amended to read as follows:
 - **(a)** *In general* Except as otherwise provided in this Act, each amendment made by this Act to part B or E of title IV of the Social Security Act shall take effect on the date of the enactment of this Act, and shall apply to payments under the part amended for quarters beginning on or after the effective date of the amendment.
 - **(b)** *Delay permitted if State legislation required* In the case of a State plan approved under part B or E of title IV of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this Act, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the 1st day of the 1st calendar quarter beginning after the close of the 1st regular session of the State legislature that ends after the 1-year period beginning with the date of the enactment of this Act. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
 
-## § 17. No federal funding to unlawfully present individuals
+## § 17. No Federal funding to unlawfully present individuals
 
 Nothing in this Act shall be construed to alter prohibitions on Federal payments to individuals who are unlawfully present in the United States.
