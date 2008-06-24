@@ -1,7 +1,7 @@
 ---
 measure: S. 3145
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3145
@@ -28,3 +28,10 @@ A bill to designate a portion of United States Route 20A, located in Orchard Par
 
 - 2008-06-18 — Introduced in Senate
 - 2008-06-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-06-24 — Passed Senate without amendment by Unanimous Consent. (text as passed Senate: CR S6080)
+- 2008-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text as passed Senate: CR S6080)
+- 2008-06-24 — Referred to the Committee on Environment and Public Works.
+- 2008-06-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6080)
+- 2008-06-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6080)
+- 2008-06-24 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2008-06-24 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
