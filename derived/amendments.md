@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6307
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-81 amendatory instructions. 25 executed, 56 stated and not applied.
+85 amendatory instructions. 27 executed, 58 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,24 @@ to guess them.
 |---|---|
 | Removed | `(C)` |
 | Inserted | `(B)` |
+
+### 42 U.S.C. § 674
+
+> by striking “and the members” and inserting “, the members”;
+
+| | |
+|---|---|
+| Removed | `and the members` |
+| Inserted | `, the members` |
+
+### 42 U.S.C. § 674
+
+> by striking “and institutions” and inserting “institutions, attorneys, and advocates”.
+
+| | |
+|---|---|
+| Removed | `and institutions` |
+| Inserted | `institutions, attorneys, and advocates` |
 
 ### 42 U.S.C. § 672
 
@@ -258,29 +276,31 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 673` | strike | by striking “and” at the end of paragraph (26); | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 673` | replace | by striking the period at the end of paragraph (27) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 673` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 671` | strike | by striking “and” at the end of paragraph (26); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 671` | replace | by striking the period at the end of paragraph (27) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 671` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 673` | add-at-end | Section 473 of such Act (42 U.S.C. 673) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 671` | add-at-end | Section 473(a)(2) of such Act (42 U.S.C. 673(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 673` | add-at-end | Section 473(a)(2) of such Act (42 U.S.C. 673(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | amend | by adding “and” at the end of subparagraph (C); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `28 U.S.C. § 534` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | redesignate | by redesignating subparagraph (D) as subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 674` | replace | by striking the period at the end and inserting “; plus”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 674` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 674` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 675` | add-at-end | Section 475(1) of such Act (42 U.S.C. 675(1)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 674` | add-at-end | Section 474 of such Act (42 U.S.C. 674) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 620` | add-at-end | Part B of title IV of the Social Security Act (42 U.S.C. 620–629i) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | strike | by striking “and” at the end of paragraph (27); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 671` | replace | by striking the period at the end of paragraph (28) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 671` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 671` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 675` | add-at-end | Section 475 of the Social Security Act (42 U.S.C. 675) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 672` | insert | Section 472(c)(2) of such Act (42 U.S.C. 672(c)(2)) is amended by inserting “, except, in the case of a child who has attained 18 years of age, the term shall include a supervised setting in which the individual is living independently, … | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 673` | amend | Section 473(a)(4) of such Act (42 U.S.C. 673(a)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | by inserting “or relative guardians” after “adoptive parents”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, or State-licensed or State-approved child welfare agencies providing services,” after “providing care”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 674` | insert | by inserting “or relative guardians” after “adoptive parents”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 674` | insert | by inserting “, or State-licensed or State-approved child welfare agencies providing services,” after “providing care”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 674` | insert | by inserting “, and members of the staff of abuse and neglect courts, agency attorneys, attorneys representing children or parents, guardians ad litem, or other court-appointed special advocates representing children in proceedings of su… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 674` | insert | by inserting “guardians,” before “staff members,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 672` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 672` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 672` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 670` | add-at-end | Part E of title IV of such Act (42 U.S.C. 670 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 674` | insert | Paragraphs (1) and (2) of section 474(a) of such Act (42 U.S.C. 674(a)) are each amended by inserting “(or, with respect to such payments made during such quarter under an agreement entered into by the State and an Indian tribe, tribal o… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 674` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -291,19 +311,19 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 677` | replace | by striking the period and inserting “; and that each Indian tribe, tribal organization, or tribal consortium in the State that does not receive an allotment under subsection (j)(4) for a fiscal year may enter into a cooperative agreemen… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 622` | amend | Section 422(b)(15) of the Social Security Act (42 U.S.C. 622(b)(15)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 675` | redesignate | in subparagraph (C), by striking clause (iv) and redesignating clauses (v) through (viii) as clauses (iv) through (vii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 675` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 675` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 675` | insert | by inserting “, and reasonable travel for the child to remain in the school in which the child is enrolled at the time of placement” before the period. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 671` | strike | by striking “and” at the end of paragraph (28); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 671` | replace | by striking the period at the end of paragraph (29) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 671` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 671` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 671` | strike | by striking “and” at the end of paragraph (29); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 671` | replace | by striking the period at the end of paragraph (30) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 671` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 671` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 673b` | strike | in subsection (b)(4), by striking “in the case of fiscal years 2001 through 2007,”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 673b` | insert | by inserting “that are not older child adoptions” before “for a State”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 671` | strike | by striking “and” at the end of paragraph (30); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 671` | replace | by striking the period at the end of paragraph (31) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 671` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 671` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6402` | redesignate | Section 6402 of the Internal Revenue Code (relating to authority to make credits or refunds) is amended by redesignating subsections (f) through (k) as subsections (g) through (l), respectively, and by inserting after subsection (e) the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6402` | insert | Paragraph (3) of section 6103(a) of such Code is amended by inserting “(10),” after “(6),”. | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6402` | insert | in subparagraph (A) by inserting “, to officers and employees of the Department of Labor and its agent for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) of section 6402,” after “s… | the bill quotes the text inserted but describes where it goes |
@@ -311,6 +331,6 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 6402` | insert | by inserting “(10),” after “paragraph (6)(A),”; and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 6402` | strike | in subparagraph (E), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 6402` | insert | in subparagraph (F), by inserting “and” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6402` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6402` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 6402` | insert | Paragraph (3) of section 6402(e) of such Code is amended in the last sentence by inserting “or subsection (f)” after “paragraph (1)”. | the bill quotes the text inserted but describes where it goes |
-| — | amend | Section 323 of title 31, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 323` | amend | Section 323 of title 31, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
