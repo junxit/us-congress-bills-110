@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5687
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -59,7 +59,7 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 552` | add-at-end | Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | add-at-end | Section 11 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | replace | Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | amend | Section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) is amended in the matter following subparagraph (C) by adding at the end the following: “An advisory committee is considered to be established by an agency, agencies, or … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 552` | add-at-end | Section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.) is amended in the matter following subparagraph (C) by adding at the end the following: “An advisory committee is considered to be established by an agency, agencies, or … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | add-at-end | Section 4 of the Federal Advisory Committee Act (5 U.S.C. App.) is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 208` | replace | by striking the section designation and heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 208` | redesignate | by redesignating subsection (a) as subsection (d) and in that subsection— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -69,4 +69,4 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 208` | strike | by striking “and” at the end of subparagraph (I); | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 208` | replace | by striking the period and inserting a semicolon at the end of subparagraph (J); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 208` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 3 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 202` | add-at-end | Section 3 of the Federal Advisory Committee Act (5 U.S.C. App.) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
