@@ -1,7 +1,7 @@
 ---
 measure: S. 3009
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3009
@@ -32,3 +32,5 @@ A bill to designate the Federal Bureau of Investigation building under construct
 - 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
 - 2008-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 762.
+- 2008-06-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6080-6081; text as passed Senate: CR S6081)
+- 2008-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6080-6081; text as passed Senate: CR S6081)
