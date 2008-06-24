@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2818
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2818
@@ -16,7 +16,7 @@ Veterans' Epilepsy Treatment Act of 2008
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Cosponsors (134)
+## Cosponsors (135)
 
 - Rep. Filner, Bob [D-CA-51] (F000116)
 - Rep. Michaud, Michael H. [D-ME-2] (M001149)
@@ -152,6 +152,7 @@ Veterans' Epilepsy Treatment Act of 2008
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
 ## Committees (1)
 
@@ -171,3 +172,10 @@ Veterans' Epilepsy Treatment Act of 2008
 - 2008-06-19 — Placed on the Union Calendar, Calendar No. 457.
 - 2008-06-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-722.
 - 2008-06-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-722.
+- 2008-06-24 — Considered under suspension of the rules. (consideration: CR H5944-5949)
+- 2008-06-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2818.
+- 2008-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-24 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2008-06-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5944-5945)
+- 2008-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5944-5945)
+- 2008-06-24 — The title of the measure was amended. Agreed to without objection.
