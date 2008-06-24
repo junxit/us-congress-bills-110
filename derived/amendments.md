@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6331
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-332 amendatory instructions. 81 executed, 251 stated and not applied.
+334 amendatory instructions. 88 executed, 246 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `6 months` |
 | Inserted | `1 year` |
 
-### 42 U.S.C. § 1395l
+### 42 U.S.C. § 1395y
 
 > Section 1862(a)(1)(K) of the Social Security Act (42 U.S.C. 1395y(a)(1)(K)) is amended by striking “not later” and inserting “more”.
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `not later` |
 | Inserted | `more` |
 
-### 42 U.S.C. § 1395w-104
+### 42 U.S.C. § 1395w-21
 
 > by striking “cash or other monetary rebates” and inserting “, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates”; and
 
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `June 2008` |
 | Inserted | `December 2009` |
 
-### 42 U.S.C. § 1396a
+### 42 U.S.C. § 1396u-3
 
 > by striking “June 30” and inserting “September 30”;
 
@@ -69,7 +69,7 @@ to guess them.
 | Removed | `June 30` |
 | Inserted | `September 30` |
 
-### 42 U.S.C. § 1396a
+### 42 U.S.C. § 1396u-3
 
 > by striking “$200,000,000” and inserting “$300,000,000”; and
 
@@ -78,7 +78,7 @@ to guess them.
 | Removed | `$200,000,000` |
 | Inserted | `$300,000,000` |
 
-### 42 U.S.C. § 1396a
+### 42 U.S.C. § 1396u-3
 
 > in paragraph (3), in the matter preceding subparagraph (A), by striking “or (H)” and inserting “(H), (J), or (L)”.
 
@@ -143,7 +143,7 @@ to guess them.
 
 ### 42 U.S.C. § 1395
 
-> Section 117(a)(2) of the Medicare, Medicaid, and SCHIP Extension Act of 2008 (Public Law 110–173)) is amended by striking “September 30, 2008” and inserting “the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement and Extension Act of 2006 (division B of Public Law 109–432)”.
+> Section 117(a)(2) of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173)) is amended by striking “September 30, 2008” and inserting “the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement and Extension Act of 2006 (division B of Public Law 109–432)”.
 
 | | |
 |---|---|
@@ -303,7 +303,7 @@ to guess them.
 | Removed | `paragraph (2)` |
 | Inserted | `this subsection` |
 
-### 42 U.S.C. § 1395w-4
+### 42 U.S.C. § 1395l
 
 > by striking “section 1848(k) of the Social Security Act, as added by subsection (b),” and inserting “subsection (k)”; and
 
@@ -312,7 +312,7 @@ to guess them.
 | Removed | `section 1848(k) of the Social Security Act, as added by subsection (b),` |
 | Inserted | `subsection (k)` |
 
-### 42 U.S.C. § 1395w-4
+### 42 U.S.C. § 1395l
 
 > by striking “such section” and inserting “such subsection”;
 
@@ -321,7 +321,7 @@ to guess them.
 | Removed | `such section` |
 | Inserted | `such subsection` |
 
-### 42 U.S.C. § 1395w-4
+### 42 U.S.C. § 1395l
 
 > in subparagraph (E), in the matter preceding clause (i), by striking “1869 or 1878 of the Social Security Act or otherwise” and inserting “1869, section 1878, or otherwise”; and
 
@@ -348,7 +348,7 @@ to guess them.
 | Removed | `paragraph (4) of such section` |
 | Inserted | `subsection (k)(4)` |
 
-### 42 U.S.C. § 1395w-4
+### 42 U.S.C. § 1395l
 
 > in subparagraph (A), by striking “section 1848(k)(3) of the Social Security Act, as added by subsection (b)” and inserting “subsection (k)(3)”; and
 
@@ -357,7 +357,7 @@ to guess them.
 | Removed | `section 1848(k)(3) of the Social Security Act, as added by subsection (b)` |
 | Inserted | `subsection (k)(3)` |
 
-### 42 U.S.C. § 1395w-4
+### 42 U.S.C. § 1395l
 
 > in subparagraph (B), by striking “section 1848(k) of the Social Security Act, as added by subsection (b)” and inserting “subsection (k)”; and
 
@@ -483,7 +483,7 @@ to guess them.
 | Removed | `defined) or` |
 | Inserted | `defined),` |
 
-### 42 U.S.C. § 1395x
+### 42 U.S.C. § 1395m
 
 > in the heading, by striking “OWNERSHIP OF EQUIPMENT” and inserting “RENTAL CAP”; and
 
@@ -546,7 +546,7 @@ to guess them.
 | Removed | `The payment amounts` |
 | Inserted | `Subject to paragraph (14), the payment amounts` |
 
-### 42 U.S.C. § 1395m
+### 42 U.S.C. § 1395w-3
 
 > in subparagraph (B)(i)(II), by striking “80 ” and “in 2009” and inserting “an additional 70” and “in 2011”, respectively;
 
@@ -555,7 +555,7 @@ to guess them.
 | Removed | `80 ” and “in 2009` |
 | Inserted | `an additional 70` |
 
-### 42 U.S.C. § 1395m
+### 42 U.S.C. § 1395w-3
 
 > in subparagraph (B)(i)(III), by striking “after 2009” and inserting “after 2011 (or, in the case of national mail order for items and services, after 2010)”; and
 
@@ -636,7 +636,7 @@ to guess them.
 | Removed | `paragraph (2)` |
 | Inserted | `paragraphs (2) and (4)` |
 
-### 42 U.S.C. § 422
+### 42 U.S.C. § 1395w-22
 
 > in paragraph (4), in the second sentence, by striking “The Secretary” and inserting “Subject to paragraph (5), the Secretary”; and
 
@@ -645,7 +645,7 @@ to guess them.
 | Removed | `The Secretary` |
 | Inserted | `Subject to paragraph (5), the Secretary` |
 
-### 42 U.S.C. § 422
+### 42 U.S.C. § 1395w-22
 
 > in paragraph (4), in the second sentence, by striking “paragraph (5)” and inserting “paragraphs (5) and (6)”; and
 
@@ -654,7 +654,7 @@ to guess them.
 | Removed | `paragraph (5)` |
 | Inserted | `paragraphs (5) and (6)` |
 
-### 42 U.S.C. § 422
+### 42 U.S.C. § 1395w-22
 
 > Section 1852(d)(4)(B) of the Social Security Act (42 U.S.C. 1395w–22(d)(4)(B)) is amended by striking “a sufficient number” through “terms of the plan” and inserting “a sufficient number and range of providers within such category to meet the access standards in subparagraphs (A) through (E) of paragraph (1)”.
 
@@ -680,6 +680,24 @@ to guess them.
 |---|---|
 | Removed | `January 1, 2009` |
 | Inserted | `January 1, 2010` |
+
+### 42 U.S.C. § 1395w-104
+
+> in subparagraph (C)(i), by striking “The formulary” and inserting “Subject to subparagraph (G), the formulary”; and
+
+| | |
+|---|---|
+| Removed | `The formulary` |
+| Inserted | `Subject to subparagraph (G), the formulary` |
+
+### 42 U.S.C. § 1395w-102
+
+> by striking “(as defined in section 1927(k)(6))” and inserting “(as defined in paragraph (4))”; and
+
+| | |
+|---|---|
+| Removed | `(as defined in section 1927(k)(6))` |
+| Inserted | `(as defined in paragraph (4))` |
 
 ### 42 U.S.C. § 1396r-4
 
@@ -753,6 +771,51 @@ to guess them.
 | Removed | `14 percent` |
 | Inserted | `16 percent` |
 
+### 42 U.S.C. § 603
+
+> Section 7101(a) of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 135) is amended by striking “fiscal year 2008” and inserting “fiscal year 2009”.
+
+| | |
+|---|---|
+| Removed | `fiscal year 2008` |
+| Inserted | `fiscal year 2009` |
+
+### 42 U.S.C. § 674
+
+> Section 474(a) of the Social Security Act (42 U.S.C. 674(a)) is amended in each of paragraphs (1) and (2) by striking “(as defined in section 1905(b) of this Act)” and inserting “(which shall be as defined in section 1905(b), in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia)”.
+
+| | |
+|---|---|
+| Removed | `(as defined in section 1905(b) of this Act)` |
+| Inserted | `(which shall be as defined in section 1905(b), in the case of a State other than the District of Columbia, or 70 percent, in the case of the District of Columbia)` |
+
+### 42 U.S.C. § 254c-2
+
+> Section 330B(b)(2)(C) of the Public Health Service Act (42 U.S.C. 254c–2(b)(2)) is amended by striking “2009” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2011` |
+
+### 42 U.S.C. § 254c-3
+
+> Section 330C(c)(2)(C) of the Public Health Service Act (42 U.S.C. 254c–3(c)(2)(C)) is amended by striking “2009” and inserting “2011”.
+
+| | |
+|---|---|
+| Removed | `2009` |
+| Inserted | `2011` |
+
+### 42 U.S.C. § 1254c-2
+
+> by striking “a final report” and inserting “a second interim report”; and
+
+| | |
+|---|---|
+| Removed | `a final report` |
+| Inserted | `a second interim report` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -765,56 +828,56 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395x` | strike | in subparagraph (Z), by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395x` | amend | in subparagraph (AA), by adding “and” after the semicolon at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | amend | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | strike | by striking “and” before “(V)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395l` | insert | by inserting before the semicolon at the end the following: “, and (W) with respect to additional preventive services (as defined in section 1861(ddd)(1)), the amount paid shall be (i) in the case of such services which are clinical diag… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395y` | insert | Section 1862(a)(1)(A) of the Social Security Act (42 U.S.C. 1395y(a)(1)(A)) is amended by inserting “or additional preventive services (as described in section 1861(ddd)(1))” after “succeeding subparagraph”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | insert | by inserting “body mass index,” after “weight”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | strike | by striking “, and an electrocardiogram”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395l` | insert | by inserting “and end-of-life planning (as defined in paragraph (3)) upon the agreement with the individual” after “paragraph (2)”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | add-at-end | in paragraph (2), by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | insert | by inserting “body mass index,” after “weight”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | strike | by striking “, and an electrocardiogram”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395x` | insert | by inserting “and end-of-life planning (as defined in paragraph (3)) upon the agreement with the individual” after “paragraph (2)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | add-at-end | in paragraph (2), by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | strike | by striking “and” before “(8)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395l` | insert | by inserting “, and (9) such deductible shall not apply with respect to an initial preventive physical examination (as defined in section 1861(ww))” before the period at the end. | the bill quotes the text inserted but describes where it goes |
-| — | amend | Section 1833(c) of the Social Security Act (42 U.S.C. 1395l(c)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1395w-104` | replace | by striking “, and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395w-104` | replace | in subparagraph (B), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | amend | Section 1833(c) of the Social Security Act (42 U.S.C. 1395l(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | replace | by striking “, and” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395w-21` | replace | in subparagraph (B), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4 of the Social Security Act (42 U.S.C. 1395w–104) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | in subsection (h)(4), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | in subsection (j), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(l) of the Social Security Act, as added by subsection (a)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1851(h) of the Social Security Act (42 U.S.C. 1395w–21(h)) is amended by adding at the end following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(l) of the Social Security Act, as added by subsection (a)(2) and amended by subsection (b)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | amend | Section 1851(h) of the Social Security Act (42 U.S.C. 1395w–21(h), as amended by subsection (c)(1), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-104` | add-at-end | Section 1860D–4(l) of the Social Security Act, as amended by subsection (c)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | in subsection (h)(4), by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | in subsection (j), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | Section 1860D–4(l) of the Social Security Act, as added by subsection (a)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | Section 1851(h) of the Social Security Act (42 U.S.C. 1395w–21(h)) is amended by adding at the end following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | Section 1860D–4(l) of the Social Security Act, as added by subsection (a)(2) and amended by subsection (b)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | Section 1851(h) of the Social Security Act (42 U.S.C. 1395w–21(h), as amended by subsection (c)(1), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-21` | add-at-end | Section 1860D–4(l) of the Social Security Act, as amended by subsection (c)(2), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395s` | add-at-end | Section 1882(o) of the Social Security Act (42 U.S.C. 1395s(o)), as amended by section 104(b)(3) of the Genetic Information Nondiscrimination Act of 2008 (Public Law 110–233), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | strike | by striking “and” at the end of subparagraph (H); | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396a` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396a` | amend | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 1905(p)(1)(C) of such Act (42 U.S.C. 1396d(p)(1)(C)) is amended by inserting before the period at the end the following: “or, effective beginning with January 1, 2010, whose resources (as so determined) do not exceed the maximum … | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1396u-3` | strike | by striking “and” at the end of subparagraph (H); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1396u-3` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396u-3` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | insert | Section 1905(p)(1)(C) of such Act (42 U.S.C. 1396d(p)(1)(C)) is amended by inserting before the period at the end the following: “or, effective beginning with January 1, 2010, whose resources (as so determined) do not exceed the maximum … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1320b-14` | add-at-end | Section 1144 of such Act (42 U.S.C. 1320b–14) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396u-5` | add-at-end | Section 1935(a) of such Act (42 U.S.C. 1396u–5(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396u-5` | replace | Section 1935(a) of such Act (42 U.S.C. 1396u–5(a)) is amended in the subsection heading by striking “and” and by inserting “, and medicare cost-sharing” after “assistance”. | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `42 U.S.C. § 1395w-114` | add-at-end | Section 1860D–13(b) of the Social Security Act (42 U.S.C. 1395w–113(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 1917(b)(1)(B)(ii) of the Social Security Act (42 U.S.C. 1396p(b)(1)(B)(ii)) is amended by inserting “(but not including medical assistance for Medicare cost-sharing or for benefits described in section 1902(a)(10)(E))” before the… | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (C)(i), by inserting “and except that support and maintenance furnished in kind shall not be counted as income” after “section 1902(r)(2)”; | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (D), in the matter before clause (i), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” before “)”; | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (E)(i), in the matter before subclause (I), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” before “)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1395w-113` | add-at-end | Section 1860D–13(b) of the Social Security Act (42 U.S.C. 1395w–113(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396p` | insert | Section 1917(b)(1)(B)(ii) of the Social Security Act (42 U.S.C. 1396p(b)(1)(B)(ii)) is amended by inserting “(but not including medical assistance for medicare cost-sharing or for benefits described in section 1902(a)(10)(E))” before the… | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-114` | insert | in subparagraph (C)(i), by inserting “and except that support and maintenance furnished in kind shall not be counted as income” after “section 1902(r)(2)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-114` | insert | in subparagraph (D), in the matter before clause (i), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” before “)”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-114` | insert | in subparagraph (E)(i), in the matter before subclause (I), by inserting “subject to the life insurance policy exclusion provided under subparagraph (G)” before “)”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-114` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-114` | strike | in subclause (I), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-114` | replace | in subclause (II), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-114` | amend | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1396d` | amend | Section 1905(p)(5)(A) of the Social Security Act (42 U.S.C. 1396d(p)(5)(A)) is amended by adding at the end the following: “The Secretary shall provide for the translation of such application form into at least the 10 languages (other th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-114` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396d` | add-at-end | Section 1905(p)(5)(A) of the Social Security Act (42 U.S.C. 1396d(p)(5)(A)) is amended by adding at the end the following: “The Secretary shall provide for the translation of such application form into at least the 10 languages (other th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395i-4` | add-at-end | Section 1820(g) of the Social Security Act (42 U.S.C. 1395i–4(g)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395i-4` | insert | by inserting “and, of the total amount appropriated for grants under paragraphs (1), (2), and (6) for a fiscal year (beginning with fiscal year 2009)” after “2005)”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395i-4` | insert | by inserting “, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, and for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in … | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395i-4` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395i-4` | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395i-4` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395i-4` | amend | Section 1820(g) of the Social Security Act (42 U.S.C. 1395i–4(g)), as amended by subsection (a), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395ww` | amend | Section 1886(b)(3) of the Social Security Act (42 U.S.C. 1395ww(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395i-4` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395i-4` | add-at-end | Section 1820(g) of the Social Security Act (42 U.S.C. 1395i–4(g)), as amended by subsection (a), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395ww` | add-at-end | Section 1886(b)(3) of the Social Security Act (42 U.S.C. 1395ww(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395bb` | strike | by striking subsection (a); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395bb` | redesignate | by redesignating subsections (b), (c), (d), and (e) as subsections (a), (b), (c), and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395bb` | strike | by striking the comma after “Association”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -852,23 +915,23 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | replace | in paragraph (6), by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(k)(3)(B) of the Social Security Act (42 U.S.C. 1395w–4(k)(3)(B)), is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-4` | strike | in subparagraph (B), by striking “of the Social Security Act (42 U.S.C. 1395l)”; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395w-4` | strike | by striking paragraph (6)(D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | add-at-end | Section 1848 of the Social Security Act (42 U.S.C. 1395w–4), as amended by subsection (b), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | strike | in subparagraph (B), by striking “of the Social Security Act (42 U.S.C. 1395l)”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395l` | strike | by striking paragraph (6)(D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-4` | add-at-end | Section 1848 of the Social Security Act (42 U.S.C. 1395w–4), as amended by subsection (b), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | insert | by inserting after paragraph (1), the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | insert | in the heading, by inserting “and successful electronic prescriber” after “reporting”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-4` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | replace | in paragraph (5)(E), by striking clause (iii) and inserting the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(a) of the Social Security Act (42 U.S.C. 1395w–4(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395b-1` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395b-1` | amend | Section 204 of division B of the Tax Relief and Health Care Act of 2006 (42 U.S.C. 1395b–1 note) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395b-1` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395b-1` | add-at-end | Section 204 of division B of the Tax Relief and Health Care Act of 2006 (42 U.S.C. 1395b–1 note) is amended by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(c)(2)(B) of the Social Security Act (42 U.S.C. 1395w–4(c)(2)(B)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(e)(1)(G) of the Social Security Act (42 U.S.C. 1395w–4(e)(1)(G)) is amended by adding at the end the following new sentence: “For purposes of payment for services furnished in the State described in the preceding sentence on… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | amend | Section 602(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2301) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1301` | insert | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1301` | strike | in paragraph (21), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1301` | replace | in paragraph (22), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1301` | insert | by inserting after paragraph (22) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | insert | Section 1834 of the Social Security Act (42 U.S.C. 1395m) is amended by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395y` | strike | in paragraph (21), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395y` | replace | in paragraph (22), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395y` | insert | by inserting after paragraph (22) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395u` | strike | Section 1842(b)(6)(D)(iii) of the Social Security Act (42 U.S.C. 1395u(b)(6)(D)(iii)), as amended by section 116 of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173), is amended by striking “(before July 1, 200… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-4` | insert | in paragraph (4)(A), by inserting “except as provided in paragraph (5),” after “anesthesia cases,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-4` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -881,14 +944,14 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395x` | strike | Section 1861(p) of the Social Security Act (42 U.S.C. 1395x(p)) is amended by striking the fourth sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395x` | insert | Section 1861(s)(2)(D) of the Social Security Act (42 U.S.C. 1395x(s)(2)(D)) is amended by inserting “, outpatient speech-language pathology services,” after “physical therapy services”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395cc` | insert | by inserting before the semicolon at the end the following: “, or (through the operation of section 1861(ll)(2)) with respect to the furnishing of outpatient speech-language pathology ”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395nn` | amend | Section 1877(h)(6) of the Social Security Act (42 U.S.C. 1395nn(h)(6)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395nn` | add-at-end | Section 1877(h)(6) of the Social Security Act (42 U.S.C. 1395nn(h)(6)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395x` | strike | in subparagraph (AA), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1395x` | amend | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-4` | insert | Section 1848(j)(3) of the Social Security Act (42 U.S.C. 1395w–4(j)(3)) is amended by inserting “(2)(DD),” after “(2)(AA),”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-4` | add-at-end | Section 1848(b) of the Social Security Act (42 U.S.C. 1395w–4(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395x` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | strike | Section 1847 of the Social Security Act (42 U.S.C. 1395w–3) is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | replace | by striking clause (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3` | strike | Section 1847 of the Social Security Act (42 U.S.C. 1395w–3) is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | insert | by inserting “or” before “(ii)”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395l` | strike | by striking “or (iii) on the basis” and all that follows before the comma at the end. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395l` | insert | Section 1833(h)(2)(A)(i) of the Social Security Act (42 U.S.C. 1395l(h)(2)(A)(ii)) is amended by inserting “minus, for each of the years 2009 through 2013, 0.5 percentage points” after “city average)”. | the bill quotes the text inserted but describes where it goes |
@@ -897,9 +960,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395m` | insert | in clause (ii), by inserting “(or 2 percent if such service is furnished on or after July 1, 2008, and before January 1, 2010)” after “1 percent”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395m` | insert | by inserting “applicable” before “period”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395l` | replace | by striking the second sentence and inserting the following new sentence: “For purposes of the preceding sentence, the applicable percentage shall be 95 percent with respect to covered OPD services furnished in 2006, 90 percent with resp… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395l` | amend | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | amend | by adding at the end the following new sentence: “For purposes of the preceding sentence and section 1861(mm)(3), clinical diagnostic laboratory services furnished by a critical access hospital shall be treated as being furnished as part… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395yy` | add-at-end | Section 1834(m)(4)(C)(ii) of the Social Security Act (42 U.S.C. 1395m(m)(4)(C)(ii)) is amended by adding at the end the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395l` | add-at-end | by adding at the end the following new subclause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new sentence: “For purposes of the preceding sentence and section 1861(mm)(3), clinical diagnostic laboratory services furnished by a critical access hospital shall be treated as being furnished as part… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | Section 1834(m)(4)(C)(ii) of the Social Security Act (42 U.S.C. 1395m(m)(4)(C)(ii)) is amended by adding at the end the following new subclauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395yy` | insert | Section 1888(e)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395yy(e)(2)(A)(ii)) is amended by inserting “telehealth services furnished under section 1834(m)(4)(C)(ii)(VII),” after “section 1861(s)(2),”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395l` | add-at-end | Section 1833 of the Social Security Act (42 U.S.C. 1395l) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -914,7 +977,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395rr` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395rr` | insert | by inserting “and before January 1, 2009,” after “April 1, 2007,”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395rr` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395rr` | amend | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395rr` | add-at-end | by adding at the end the following new clauses: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395rr` | add-at-end | Section 1881(b)(12)(A) of the Social Security Act (42 U.S.C. 1395rr(b)(12)(A)) is amended by adding at the end the following new sentence: “Under such system, the payment rate for dialysis services furnished on or after January 1, 2009, … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395rr` | add-at-end | Section 1881(b) of the Social Security Act (42 U.S.C. 1395rr(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395y` | strike | in paragraph (22), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -927,9 +990,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395x` | insert | Section 1861(s)(2)(F) of the Social Security Act (42 U.S.C. 1395x(s)(2)(F)) is amended by inserting “, and, for items and services furnished on or after January 1, 2011, renal dialysis services (as defined in section 1881(b)(14)(B))” bef… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395rr` | repeal | Section 623(e) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (42 U.S.C. 1395rr note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395rr` | add-at-end | Section 1881 of the Social Security Act (42 U.S.C. 1395rr) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in subparagraph (B)(i), in the matter before subclause (I), by inserting “consistent with subparagraph (D)” after “in a manner”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395m` | insert | in paragraph (2)(A), by inserting before the period at the end the following: “and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories whe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3` | insert | in subparagraph (B)(i), in the matter before subclause (I), by inserting “consistent with subparagraph (D)” after “in a manner”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395w-3` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3` | insert | in paragraph (2)(A), by inserting before the period at the end the following: “and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories whe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | strike | by striking “and” at the end of subparagraphs (H) and (I); | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395m` | redesignate | by redesignating subparagraph (J) as subparagraph (M); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | insert | by inserting after subparagraph (I) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -937,13 +1000,13 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395m` | insert | in subparagraph (F), by inserting “subject to subparagraph (G),” before “that are included”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395m` | insert | in subsection (h)(1)(H), by inserting “subject to subsection (a)(1)(G),” before “that are included”. | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | insert | in subparagraph (E), by inserting “including subparagraph (F),” after “under this paragraph,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | amend | Section 1847(b)(3) of such Act (42 U.S.C. 1395w–3(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | amend | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | insert | in subparagraph (E), by inserting “including subparagraph (F),” after “under this paragraph,”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395m` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(b)(3) of such Act (42 U.S.C. 1395w–3(b)(3)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395m` | add-at-end | Such section is further amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-3` | insert | by inserting “and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008” after “as amended by paragraph (1)”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-3` | insert | by inserting before the period at the end the following: “and the topics specified in subparagraph (C)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-3` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-3` | add-at-end | Section 1847(a) of the Social Security Act (42 U.S.C. 1395w–3(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-3` | redesignate | by redesignating paragraph (10) as paragraph (11); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-3` | insert | by inserting after paragraph (9) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -951,11 +1014,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-3` | insert | in subparagraph (D), by inserting “and implementation of subsection (a)(1)(D)” after “(a)(1)(B)”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395w-3` | strike | in subparagraph (E), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-3` | replace | in subparagraph (F), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-3` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-3` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-23` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395eee` | add-at-end | Section 1894(d) of the Social Security Act (42 U.S.C. 1395eee(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 422` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 422` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-22` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-22` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-28` | add-at-end | Section 1859(b)(2) of the Social Security Act (42 U.S.C. 1395w–28(b)(2)) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-22` | strike | Section 1852(e)(1) of the Social Security Act (42 U.S.C. 1395w–22(e)(1)) is amended by striking “(other than an MA private fee-for-service plan or an MSA plan)”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1395w-22` | add-at-end | in clause (i), by adding at the end the following new sentence: “With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with r… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -969,47 +1032,42 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1395w-28` | add-at-end | Section 1859(f) of the Social Security Act (42 U.S.C. 1395w–28(f)), as amended by subsection (c)(1), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-27` | add-at-end | Section 1857(d) of the Social Security Act (42 U.S.C. 1395w–27(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-28` | insert | Section 1859(b)(6)(B)(iii) of the Social Security Act (42 U.S.C. 1395w–28(b)(6)(B)(iii)) is amended by inserting “who have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening… | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395w-28` | insert | Section 1852(e)(3)(A) of the Social Security Act (42 U.S.C. 1395w–22(e)(3)(A)), as amended by section 163, is amended by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 1852(a) of the Social Security Act (42 U.S.C. 1395w–22(a)) is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1395w-22` | insert | Section 1852(e)(3)(A) of the Social Security Act (42 U.S.C. 1395w–22(e)(3)(A)), as amended by section 163, is amended by inserting after clause (i) the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-22` | add-at-end | Section 1852(a) of the Social Security Act (42 U.S.C. 1395w–22(a)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “2013” and inserting “2014”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$1,790,000,000” and inserting “$1”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1395mm` | insert | Subclauses (I) and (II) of section 1876(h)(5)(C)(ii) of the Social Security Act (42 U.S.C. 1395mm(h)(5)(C)(ii)) are each amended by inserting “, provided that all such plans are not offered by the same Medicare Advantage organization” af… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395mm` | insert | Section 1876(h)(5)(C)(iii)(I) of the Social Security Act (42 U.S.C. 1395mm(h)(5)(C)(iii)(I)) is amended by inserting “that are not in another Metropolitan Statistical Area with a population of more than 250,000” after “such Metropolitan … | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395mm` | add-at-end | Section 1876(h)(5)(C)(iii)(I) of the Social Security Act (42 U.S.C. 1395mm(h)(5)(C)(iii)(I)) is amended by adding at the end the following new sentence: “If the service area includes a portion in more than 1 Metropolitan Statistical Area… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-112` | amend | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-27` | add-at-end | Section 1857(f) of the Social Security Act (42 U.S.C. 1395w–27) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)), as amended by section 171(a)(1), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1395w-112` | add-at-end | Section 1857(f)(3) of the Social Security Act, as amended by section 171(a)(2), is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)), as amended by section 171(a), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-112` | add-at-end | Section 1857(f)(3) of the Social Security Act, as added by section 171(b), is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b) of the Social Security Act (42 U.S.C. 1395w–112(b)), as amended by section 172(a)(1), is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-112` | add-at-end | Section 1857(f)(3) of the Social Security Act, as amended by section 172(a)(2), is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395w-102` | insert | Section 1860D–2(e)(2)(A) of the Social Security Act (42 U.S.C. 1395w–102(e)(2)(A)) is amended by inserting after “agents),” the following “other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in subparagraph (C)(i), by striking “The formulary” and inserting “Subject to subparagraph (G), the formulary”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (F) the following new subparagraph: | the bill names no machine-readable US Code section |
-| `42 U.S.C. § 1395w-112` | amend | Section 1860D–12(b)(3)(D) of the Social Security Act (42 U.S.C. 1395w–112(b)(3)(D)) is amended by adding at the end the following sentence: “Notwithstanding any other provision of law, information provided to the Secretary under the appl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “(as defined in section 1927(k)(6))” and inserting “(as defined in paragraph (4))”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 1861(t)(2)(B) of the Social Security Act (42 U.S.C. 1395x(t)(2)(B)) is amended by adding at the end the following new sentence: “On and after January 1, 2010, no compendia may be included on the list of compendia under this subpa… | the bill names no machine-readable US Code section |
-| — | insert | Part E of title XVIII of the Social Security Act (42 U.S.C. 1395x et seq.) is amended by inserting after section 1889 the following new section: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1395w-104` | insert | by inserting after subparagraph (F) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-112` | add-at-end | Section 1860D–12(b)(3)(D) of the Social Security Act (42 U.S.C. 1395w–112(b)(3)(D)) is amended by adding at the end the following sentence: “Notwithstanding any other provision of law, information provided to the Secretary under the appl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395w-102` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | add-at-end | Section 1861(t)(2)(B) of the Social Security Act (42 U.S.C. 1395x(t)(2)(B)) is amended by adding at the end the following new sentence: “On and after January 1, 2010, no compendia may be included on the list of compendia under this subpa… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | insert | Part E of title XVIII of the Social Security Act (42 U.S.C. 1395x et seq.) is amended by inserting after section 1889 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395l` | add-at-end | Section 1833 of the Social Security Act (42 U.S.C. 1395l), as amended by section 151(a), is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | insert | Title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by inserting after section 1808 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | add-at-end | Subject to paragraph (2), title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395` | insert | The alternative amendment described in this subparagraph is as follows: Section 1898(b)(1) of the Social Security Act, as added by the Supplemental Appropriations Act, 2008, is amended by inserting before the period at the end the follow… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6331` | add-at-end | Section 1874 of the Social Security Act (42 U.S.C. 1395kk) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 6331` | insert | by inserting “the Department of Health and Human Services,” after “United States Postal Service,” in subsection (c)(1)(A); and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 6331` | amend | by adding at the end of subsection (c)(3) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395kk` | add-at-end | Section 1874 of the Social Security Act (42 U.S.C. 1395kk) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 3716` | insert | by inserting “the Department of Health and Human Services,” after “United States Postal Service,” in subsection (c)(1)(A); and | the bill quotes the text inserted but describes where it goes |
+| `31 U.S.C. § 3716` | add-at-end | by adding at the end of subsection (c)(3) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “June 30, 2008” and inserting “June 30, 2009”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “the third quarter of fiscal year 2008” and inserting “the third quarter of fiscal year 2009”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “the third quarter of fiscal year 2007” and inserting “the third quarter of fiscal year 2008”. | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1396r-4` | strike | by striking “¾ of”; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 1396r-4` | amend | by adding at the end the following new sentences: “Only with respect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1396r-4` | add-at-end | by adding at the end the following new sentences: “Only with respect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Tennessee for such portion of the fiscal year, notwithstanding such table or terms… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1396r-4` | replace | by striking the second sentence and inserting the following: “Only with respect to fiscal year 2010 for the period ending on December 31, 2009, the DSH allotment for Hawaii for such portion of the fiscal year, notwithstanding the table s… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1316` | add-at-end | Section 1116 of the Social Security Act (42 U.S.C. 1316) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1316` | strike | Section 1116(d) of such Act (42 U.S.C. 1316(d)) is amended by striking “or XIX,”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1396b` | insert | in subparagraph (A), by inserting “, in the case of any health insuring organization described in such subparagraph that is operated by a public entity established by Ventura County, and in the case of any health insuring organization de… | the bill quotes the text inserted but describes where it goes |
-| — | replace | Section 7101(a) of the Deficit Reduction Act of 2005 (Public Law 109–171; 120 Stat. 135) is amended by striking “fiscal year 2008” and inserting “fiscal year 2009”. | the bill names no machine-readable US Code section |
-| — | amend | Section 403(a)(3)(H)(ii) of the Social Security Act (42 U.S.C. 603(a)(3)(H)(ii)) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 474(a) of the Social Security Act (42 U.S.C. 674(a)) is amended in each of paragraphs (1) and (2) by striking “(as defined in section 1905(b) of this Act)” and inserting “(which shall be as defined in section 1905(b), in the case… | the bill names no machine-readable US Code section |
-| — | replace | Section 330B(b)(2)(C) of the Public Health Service Act (42 U.S.C. 254c–2(b)(2)) is amended by striking “2009” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | replace | Section 330C(c)(2)(C) of the Public Health Service Act (42 U.S.C. 254c–3(c)(2)(C)) is amended by striking “2009” and inserting “2011”. | the bill names no machine-readable US Code section |
-| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | by striking “a final report” and inserting “a second interim report”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 603` | amend | Section 403(a)(3)(H)(ii) of the Social Security Act (42 U.S.C. 603(a)(3)(H)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1254c-2` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1254c-2` | replace | by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1254c-2` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
