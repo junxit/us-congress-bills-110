@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1283
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1283
@@ -16,7 +16,7 @@ Expressing heartfelt sympathy for the victims and their families following the t
 
 - Rep. Terry, Lee [R-NE-2] (T000459)
 
-## Cosponsors (66)
+## Cosponsors (79)
 
 - Rep. Latham, Tom [R-IA-4] (L000111)
 - Rep. King, Steve [R-IA-5] (K000362)
@@ -84,6 +84,19 @@ Expressing heartfelt sympathy for the victims and their families following the t
 - Rep. Miller, Gary G. [R-CA-42] (M001139)
 - Rep. Porter, Jon C. [R-NV-3] (P000589)
 - Rep. Shuler, Heath [D-NC-11] (S001171)
+- Rep. Cooper, Jim [D-TN-5] (C000754)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. McIntyre, Mike [D-NC-7] (M000485)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Poe, Ted [R-TX-2] (P000592)
 
 ## Committees (1)
 
@@ -94,3 +107,10 @@ Expressing heartfelt sympathy for the victims and their families following the t
 - 2008-06-18 — Introduced in House
 - 2008-06-18 — Introduced in House
 - 2008-06-18 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-06-20 — Ordered to be Reported by Voice Vote.
+- 2008-06-24 — Considered under suspension of the rules. (consideration: CR H5988-5991)
+- 2008-06-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1283.
+- 2008-06-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-24 — Mr. Clay moved to suspend the rules and agree to the resolution.
+- 2008-06-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5988-5989)
+- 2008-06-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H5988-5989)
