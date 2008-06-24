@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2818
 
-> To amend title 38, United States Code, to provide for the establishment of Epilepsy Centers of Excellence in the Veterans Health Administration of the Department of Veterans Affairs.
+> To amend title 38, United States Code, to provide for the establishment of epilepsy centers of excellence in the Veterans Health Administration of the Department of Veterans Affairs.
 
 ## § 1. Short title
 
