@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 32
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 32
@@ -69,9 +69,10 @@ Honoring the members of the United States Air Force who were killed in the June 
 - Rep. Buyer, Steve [R-IN-4] (B001203)
 - Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -85,3 +86,8 @@ Honoring the members of the United States Air Force who were killed in the June 
 - 2008-05-20 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.
 - 2008-05-20 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H4182)
 - 2008-05-20 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H4182)
+- 2008-05-21 — Received in the Senate and referred to the Committee on Armed Services.
+- 2008-06-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-06-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-06-24 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S6082)
+- 2008-06-24 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S6082)
