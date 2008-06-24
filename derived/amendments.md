@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6327
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 13 executed, 6 stated and not applied.
+15 amendatory instructions. 12 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -132,15 +132,6 @@ to guess them.
 | Removed | `June 30, 2008,` |
 | Inserted | `September 30, 2008,` |
 
-### 26 U.S.C. § 9503
-
-> The last sentence of section 9503(f)(1) of the Internal Revenue Code of 1986, as amended by subsection (a), is amended by striking “subsection” and inserting “paragraph”.
-
-| | |
-|---|---|
-| Removed | `subsection` |
-| Inserted | `paragraph` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -153,6 +144,3 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 9502` | insert | by inserting “or the Federal Aviation Administration Extension Act of 2008” before the semicolon at the end of subparagraph (A). | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 9502` | replace | Paragraph (2) of section 9502(e) of such Code is amended by striking the date specified in such paragraph and inserting “October 1, 2008”. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 48103` | amend | Section 48103(5) of title 49, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9503` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and by moving such subparagraphs 2 ems to the right, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9503` | replace | by striking “For purposes” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 9503` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
