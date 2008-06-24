@@ -1,7 +1,7 @@
 ---
 measure: S. 3145
 congress: 110
-version: Engrossed in Senate
+version: Reference Change Senate
 ---
 
 # S. 3145
