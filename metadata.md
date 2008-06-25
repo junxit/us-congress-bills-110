@@ -1,7 +1,7 @@
 ---
 measure: S. 2403
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2403
@@ -20,9 +20,10 @@ To designate the United States courthouse located in the 700 block of East Broad
 
 - Sen. Webb, Jim [D-VA] (W000803)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -35,3 +36,6 @@ To designate the United States courthouse located in the 700 block of East Broad
 - 2008-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 760.
 - 2008-06-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6080-6081; text as passed Senate: CR S6081)
 - 2008-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6080-6081; text as passed Senate: CR S6081)
+- 2008-06-25 — Message on Senate action sent to the House.
+- 2008-06-25 — Received in the House.
+- 2008-06-25 — Referred to the House Committee on Transportation and Infrastructure.
