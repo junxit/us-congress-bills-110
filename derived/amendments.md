@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3546
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 3758
 
-> Section 508 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3758) is amended by striking “for fiscal year 2006” through the period and inserting “for each of the fiscal years 2006 through 2012”.
+> Section 508 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3758) is amended by striking “for fiscal year 2006” through the period and inserting “for each of the fiscal years 2006 through 2012.”.
 
 | | |
 |---|---|
 | Removed | `for fiscal year 2006` |
-| Inserted | `for each of the fiscal years 2006 through 2012` |
+| Inserted | `for each of the fiscal years 2006 through 2012.` |
