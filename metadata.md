@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4140
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 4140
@@ -16,9 +16,10 @@ To designate the Port Angeles Federal Building in Port Angeles, Washington, as t
 
 - Rep. Dicks, Norman D. [D-WA-6] (D000327)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -40,3 +41,13 @@ To designate the Port Angeles Federal Building in Port Angeles, Washington, as t
 - 2008-01-28 — Placed on the House Calendar, Calendar No. 180.
 - 2008-01-28 — Reported by the Committee on Transportation. H. Rept. 110-515.
 - 2008-01-28 — Reported by the Committee on Transportation. H. Rept. 110-515.
+- 2008-01-29 — Received in the Senate.
+- 2008-02-28 — Read twice and referred to the Committee on Environment and Public Works.
+- 2008-05-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 766.
+- 2008-06-24 — Cleared for White House.
+- 2008-06-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6080-6081)
+- 2008-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6080-6081)
+- 2008-06-25 — Message on Senate action sent to the House.
