@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6275
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-38 amendatory instructions. 4 executed, 34 stated and not applied.
+38 amendatory instructions. 12 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,43 @@ to guess them.
 
 ## Executed
 
-### 26 U.S.C. § 710
+### 26 U.S.C. § 55
+
+> by striking “($66,250 in the case of taxable years beginning in 2007)” in subparagraph (A) and inserting “($69,950 in the case of taxable years beginning in 2008)”, and
+
+| | |
+|---|---|
+| Removed | `($66,250 in the case of taxable years beginning in 2007)` |
+| Inserted | `($69,950 in the case of taxable years beginning in 2008)` |
+
+### 26 U.S.C. § 55
+
+> by striking “($44,350 in the case of taxable years beginning in 2007)” in subparagraph (B) and inserting “($46,200 in the case of taxable years beginning in 2008)”.
+
+| | |
+|---|---|
+| Removed | `($44,350 in the case of taxable years beginning in 2007)` |
+| Inserted | `($46,200 in the case of taxable years beginning in 2008)` |
+
+### 26 U.S.C. § 26
+
+> by striking “or 2007” and inserting “2007, or 2008”, and
+
+| | |
+|---|---|
+| Removed | `or 2007` |
+| Inserted | `2007, or 2008` |
+
+### 26 U.S.C. § 26
+
+> by striking “2007” in the heading thereof and inserting “2008”.
+
+| | |
+|---|---|
+| Removed | `2007` |
+| Inserted | `2008` |
+
+### 26 U.S.C. § 6662A
 
 > by striking “section 6662(h)” and inserting “subsection (h) or (i) of section 6662”, and
 
@@ -33,7 +69,7 @@ to guess them.
 | Removed | `section 6662(h)` |
 | Inserted | `subsection (h) or (i) of section 6662` |
 
-### 26 U.S.C. § 710
+### 26 U.S.C. § 6662A
 
 > by striking “gross valuation misstatement penalty” in the heading and inserting “certain increased underpayment penalties”.
 
@@ -42,7 +78,7 @@ to guess them.
 | Removed | `gross valuation misstatement penalty` |
 | Inserted | `certain increased underpayment penalties` |
 
-### 26 U.S.C. § 710
+### 26 U.S.C. § 6664
 
 > by striking “paragraph (2)” in paragraph (4), as so redesignated, and inserting “paragraph (3)”, and
 
@@ -51,7 +87,25 @@ to guess them.
 | Removed | `paragraph (2)` |
 | Inserted | `paragraph (3)` |
 
-### 26 U.S.C. § 3406
+### 26 U.S.C. § 199
+
+> Subparagraph (B) of section 199(c)(4) (relating to exceptions) is amended by striking “or” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, or”, and by inserting after clause (iii) the following new clause:
+
+| | |
+|---|---|
+| Removed | `or` |
+| Inserted | `, or` |
+
+### 26 U.S.C. § 199
+
+> Section 199(d)(2) (relating to application to individuals) is amended by striking “subsection (a)(1)(B)” and inserting “subsections (a)(1)(B) and (d)(9)(A)(iii)”.
+
+| | |
+|---|---|
+| Removed | `subsection (a)(1)(B)` |
+| Inserted | `subsections (a)(1)(B) and (d)(9)(A)(iii)` |
+
+### 26 U.S.C. § 6724
 
 > by striking “and” at the end of clause (xxi), as redesignated by subparagraph (B) and inserting “or”, and
 
@@ -59,6 +113,24 @@ to guess them.
 |---|---|
 | Removed | `and` |
 | Inserted | `or` |
+
+### 26 U.S.C. § 3406
+
+> Paragraph (3) of section 3406(b) is amended by striking “or” at the end of subparagraph (D), by striking the period at the end of subparagraph (E) and inserting “, or”, and by adding at the end the following new subparagraph:
+
+| | |
+|---|---|
+| Removed | `or` |
+| Inserted | `, or` |
+
+### 26 U.S.C. § 6331
+
+> Paragraph (3) of section 6331(h) is amended by striking “goods” and inserting “property”.
+
+| | |
+|---|---|
+| Removed | `goods` |
+| Inserted | `property` |
 
 ## Stated, not applied
 
@@ -69,37 +141,29 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “($66,250 in the case of taxable years beginning in 2007)” in subparagraph (A) and inserting “($69,950 in the case of taxable years beginning in 2008)”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “($44,350 in the case of taxable years beginning in 2007)” in subparagraph (B) and inserting “($46,200 in the case of taxable years beginning in 2008)”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “or 2007” and inserting “2007, or 2008”, and | the bill names no machine-readable US Code section |
-| — | replace | by striking “2007” in the heading thereof and inserting “2008”. | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 710` | amend | Part I of subchapter K of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | amend | Subsection (c) of section 856 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | insert | Paragraph (4) of section 7704(d) is amended by inserting “(determined without regard to section 856(c)(8))” after “856(c)(2)”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 710` | insert | Subsection (b) of section 6662 is amended by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | add-at-end | Section 6662 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | insert | Subsection (d) of section 731 is amended by inserting “section 710(b)(4) (relating to distributions of partnership property),” before “section 736”. | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 710` | insert | Section 741 is amended by inserting “or section 710 (relating to special rules for partners providing investment management services to partnership)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 856` | add-at-end | Part I of subchapter K of chapter 1 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 856` | add-at-end | Subsection (c) of section 856 is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 7704` | insert | Paragraph (4) of section 7704(d) is amended by inserting “(determined without regard to section 856(c)(8))” after “856(c)(2)”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6662` | insert | Subsection (b) of section 6662 is amended by inserting after paragraph (5) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6662` | add-at-end | Section 6662 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6664` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6664` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 731` | insert | Subsection (d) of section 731 is amended by inserting “section 710(b)(4) (relating to distributions of partnership property),” before “section 736”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 741` | insert | Section 741 is amended by inserting “or section 710 (relating to special rules for partners providing investment management services to partnership)” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1402` | replace | by striking “other than guaranteed” and inserting | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 1402` | replace | by striking the semicolon at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1402` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 710` | replace | by striking “other than guaranteed” and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 710` | replace | by striking the semicolon at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
 | `26 U.S.C. § 710` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | replace | by striking “other than guaranteed” and inserting | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 710` | replace | by striking the semicolon at the end and inserting “, and”, and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 710` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 710` | add-at-end | The table of sections for part I of subchapter K of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Subparagraph (B) of section 199(c)(4) (relating to exceptions) is amended by striking “or” at the end of clause (ii), by striking the period at the end of clause (iii) and inserting “, or”, and by inserting after clause (iii) the followi… | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 199(c)(4)(B) is amended by adding at the end the following flush sentence: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 199(d) is amended by redesignating paragraph (9) as paragraph (10) and by inserting after paragraph (8) the following new paragraph: | the bill names no machine-readable US Code section |
-| — | replace | Section 199(d)(2) (relating to application to individuals) is amended by striking “subsection (a)(1)(B)” and inserting “subsections (a)(1)(B) and (d)(9)(A)(iii)”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 731` | add-at-end | The table of sections for part I of subchapter K of chapter 1 is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 199` | add-at-end | Section 199(c)(4)(B) is amended by adding at the end the following flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 199` | redesignate | Section 199(d) is amended by redesignating paragraph (9) as paragraph (10) and by inserting after paragraph (8) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 894 (relating to income affected by treaty) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 3406` | add-at-end | Subpart B of part III of subchapter A of chapter 61 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3406` | strike | by striking “and” at the end of clause (xx), | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 3406` | redesignate | by redesignating the clause (xix) that follows clause (xx) as clause (xxi), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3406` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 3406` | replace | Paragraph (2) of section 6724(d) is amended by inserting a comma at the end of subparagraph (BB), by striking the period at the end of the subparagraph (CC) and inserting “, or”, and by inserting after subparagraph (CC) the following: | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 3406` | add-at-end | Paragraph (3) of section 3406(b) is amended by striking “or” at the end of subparagraph (D), by striking the period at the end of subparagraph (E) and inserting “, or”, and by adding at the end the following new subparagraph: | the bill quotes text on both sides, but not as a single substitution this could carry out |
-| `26 U.S.C. § 3406` | insert | The table of sections for subpart B of part III of subchapter A of chapter 61 is amended by inserting after the item relating to section 6050V the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Paragraph (3) of section 6331(h) is amended by striking “goods” and inserting “property”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 6724` | add-at-end | Subpart B of part III of subchapter A of chapter 61 is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | strike | by striking “and” at the end of clause (xx), | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 6724` | redesignate | by redesignating the clause (xix) that follows clause (xx) as clause (xxi), | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 6724` | replace | Paragraph (2) of section 6724(d) is amended by inserting a comma at the end of subparagraph (BB), by striking the period at the end of the subparagraph (CC) and inserting “, or”, and by inserting after subparagraph (CC) the following: | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 6724` | insert | The table of sections for subpart B of part III of subchapter A of chapter 61 is amended by inserting after the item relating to section 6050V the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Subparagraph (B) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 is amended by striking the percentage contained therein and inserting “100 percent”. | the bill names no machine-readable US Code section |
