@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3712
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3712
@@ -16,9 +16,10 @@ To designate the United States courthouse located at 1716 Spielbusch Avenue in T
 
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -40,3 +41,10 @@ To designate the United States courthouse located at 1716 Spielbusch Avenue in T
 - 2008-06-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4888)
 - 2008-06-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H4888)
 - 2008-06-04 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-05 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2008-06-24 — Cleared for White House.
+- 2008-06-24 — Passed Senate without amendment by Unanimous Consent.
+- 2008-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-06-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6080)
+- 2008-06-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6080)
+- 2008-06-25 — Message on Senate action sent to the House.
