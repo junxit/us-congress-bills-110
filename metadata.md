@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2728
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2728
@@ -56,3 +56,9 @@ To designate the station of the United States Border Patrol located at 25762 Mad
 - 2007-10-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H12129)
 - 2007-10-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H12129)
 - 2007-10-30 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2008-06-24 — Cleared for White House.
+- 2008-06-24 — Passed Senate without amendment by Unanimous Consent.
+- 2008-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-06-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6080)
+- 2008-06-24 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6080)
+- 2008-06-25 — Message on Senate action sent to the House.
