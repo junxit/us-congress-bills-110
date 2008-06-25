@@ -1,7 +1,7 @@
 ---
 measure: S. 27
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 27
@@ -29,3 +29,8 @@ San Joaquin River Restoration Settlement Act
 - 2007-01-04 — Introduced in Senate
 - 2007-01-04 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S67-69)
 - 2007-01-04 — Sponsor introductory remarks on measure. (CR S66-67)
+- 2007-05-03 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held. With printed Hearing: S.Hrg. 110-93.
+- 2008-05-07 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-06-25 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-400.
+- 2008-06-25 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. With written report No. 110-400.
+- 2008-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 838.
