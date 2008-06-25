@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3195
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3195
@@ -281,6 +281,10 @@ ADA Amendments Act of 2008
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2008-06-25 — [House 110-2-460](votes/house-110-2-0460.md) — On Passage — **Passed** (402–17)
+
 ## Actions
 
 - 2007-07-26 — Introduced in House
@@ -311,3 +315,17 @@ ADA Amendments Act of 2008
 - 2008-06-23 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-730, Part I.
 - 2008-06-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-730, Part II.
 - 2008-06-23 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-730, Part II.
+- 2008-06-24 — Rules Committee Resolution H. Res. 1299 Reported to House. Rule provides for consideration of H.R. 3195 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as adopted.
+- 2008-06-25 — Amendment in the nature of a substitute reported by the House Committee on Rules. (text: CR H6059-6061)
+- 2008-06-25 — Considered as unfinished business. (consideration: CR H6081-6082)
+- 2008-06-25 — Considered under the provisions of rule H. Res. 1299. (consideration: CR H6058-6075; text of measure as introduced: CR H6058-6059)
+- 2008-06-25 — DEBATE - The House proceeded with one hour of debate on H.R. 3195.
+- 2008-06-25 — House amendment offered
+- 2008-06-25 — House amendment offered/reported by : Amendment in the nature of a substitute reported by the House Committee on Rules.(text: CR H6059-6061)
+- 2008-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-25 — On passage Passed by the Yeas and Nays: 402 - 17 (Roll no. 460). (text: CR H6059-6061)
+- 2008-06-25 — POSTPONED PROCEEINGS - At the conclusion of debate on H.R. 3195, the Chair put the question on adoption of H.R. 3195 and by voice vote, announced the ayes had prevailed. Mr. Sensenbrenner demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of H.R. 3195 until later in the legislative day.
+- 2008-06-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 402 - 17 (Roll no. 460).(text: CR H6059-6061)
+- 2008-06-25 — Rule H. Res. 1299 passed House.
+- 2008-06-25 — Rule provides for consideration of H.R. 3195 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Education and Labor now printed in the bill shall be considered as adopted.
+- 2008-06-25 — The previous question was ordered pursuant to the rule. (consideration: CR H6074)
