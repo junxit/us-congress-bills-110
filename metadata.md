@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6358
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6358
@@ -20,8 +20,20 @@ Stop Child Abuse in Residential Programs for Teens Act of 2008
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2008-06-25 — [House 110-2-459](votes/house-110-2-0459.md) — On Motion to Suspend the Rules and Pass — **Passed** (318–103)
+
 ## Actions
 
 - 2008-06-24 — Introduced in House
 - 2008-06-24 — Introduced in House
 - 2008-06-24 — Referred to the House Committee on Education and Labor.
+- 2008-06-25 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-06-25 — Considered as unfinished business. (consideration: CR H6080-6081)
+- 2008-06-25 — Considered under suspension of the rules. (consideration: CR H6075-6080)
+- 2008-06-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6358.
+- 2008-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-25 — Mr. Miller, George moved to suspend the rules and pass the bill.
+- 2008-06-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 318 - 103 (Roll no. 459). (text: CR H6075-6078)
+- 2008-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 318 - 103 (Roll no. 459).(text: CR H6075-6078)
