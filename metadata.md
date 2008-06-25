@@ -1,7 +1,7 @@
 ---
 measure: H.R. 781
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 781
@@ -46,3 +46,11 @@ To redesignate Lock and Dam No. 5 of the McClellan-Kerr Arkansas River Navigatio
 - 2007-07-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7811)
 - 2007-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7811)
 - 2007-07-17 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2008-05-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. Without written report.
+- 2008-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 763.
+- 2008-06-24 — Cleared for White House.
+- 2008-06-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6080-6081)
+- 2008-06-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6080-6081)
+- 2008-06-25 — Message on Senate action sent to the House.
