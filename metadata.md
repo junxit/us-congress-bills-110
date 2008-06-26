@@ -1,7 +1,7 @@
 ---
 measure: S. 2565
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2565
@@ -16,7 +16,7 @@ Law Enforcement Congressional Badge of Bravery Act of 2008
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Sen. Sununu, John E. [R-NH] (S001078)
 - Sen. Specter, Arlen [R-PA] (S000709)
@@ -27,6 +27,7 @@ Law Enforcement Congressional Badge of Bravery Act of 2008
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Stevens, Ted [R-AK] (S000888)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Boxer, Barbara [D-CA] (B000711)
 
 ## Committees (1)
 
@@ -41,3 +42,5 @@ Law Enforcement Congressional Badge of Bravery Act of 2008
 - 2008-06-24 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2008-06-24 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2008-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 833.
+- 2008-06-26 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6300-6302; text as passed Senate: CR S6300-6302)
+- 2008-06-26 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S6300-6302; text as passed Senate: CR S6300-6302)
