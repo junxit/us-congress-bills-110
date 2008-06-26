@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 379
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 379
@@ -27,3 +27,5 @@ Providing for an adjournment or recess of the two Houses.
 - 2008-06-24 — POSTPONED PROCEEDINGS - The Chair put the question on the adoption of the concurrent resolution and by voice vote, announced that the ayes had prevailed. Mr. McKeon demanded the yeas and nays and the Chair postponed further proceedings on the question of adoption of the concurrent resolution until a time to be announced.
 - 2008-06-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 197 (Roll no. 445).(text: CR H5949)
 - 2008-06-24 — Received in the Senate.
+- 2008-06-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S6305-6306; text as passed Senate: CR S6305-6306)
+- 2008-06-26 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S6305-6306; text as passed Senate: CR S6305-6306)
