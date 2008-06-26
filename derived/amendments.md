@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6052
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+9 amendatory instructions. 2 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -54,4 +54,7 @@ complete account of the bill's effect, which it is not.
 | `5 U.S.C. § 7905` | insert | by inserting “at a location in an urbanized area of the United States that is served by fixed route public transportation” before “shall be offered”. | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 7905` | strike | by striking subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 7905` | redesignate | by redesignating subparagraphs (B) through (F) as subparagraphs (A) through (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 7905` | amend | Section 3049(a) of such Act (5 U.S.C. 7905 note; 119 Stat. 1711) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 7905` | replace | Section 3049(a)(2) of such Act (5 U.S.C. 7905 note; 119 Stat. 1711) is amended by striking the period at the end and inserting the following: “, except that the maximum level of such benefits shall be the maximum amount which may be excl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 7905` | add-at-end | Section 3049(a) of such Act (5 U.S.C. 7905 note; 119 Stat. 1711) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “No Federal agency” and inserting “(a) Requirement.—Except as provided in subsection (b), no Federal agency”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
