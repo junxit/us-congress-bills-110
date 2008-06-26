@@ -25,16 +25,20 @@ Congress finds the following:
 - **(6)** An individual who commutes to work using a single occupancy vehicle can reduce carbon dioxide emissions by 20 pounds per day (more than 4,800 pounds per year) by switching to public transportation.
 - **(7)** Public transportation use provides an affordable alternative to driving, as households that use public transportation save an average of $6,251 every year.
 - **(8)** Although under existing laws Federal employees in the National Capital Region receive transit benefits, transit benefits should be available to all Federal employees in the United States so that the Federal Government sets a leading example of greater public transportation use.
-- **(9)** Increasing public transportation use is a national priority.
+- **(9)** Public transportation stakeholders should engage and involve local communities in the education and promotion of the importance of utilizing public transportation.
+- **(10)** Increasing public transportation use is a national priority.
 
 ## § 3. Grants to improve public transportation services
 
 - **(a)** *Authorizations of Appropriations*
-  - **(1)** *Urbanized area formula grants* In addition to amounts allocated under section 5338(b)(2)(B) of title 49, United States Code, to carry out section 5307 of such title, there is authorized to be appropriated $750,000,000 for each of fiscal years 2008 and 2009 to carry out such section 5307. Such funds shall be apportioned in accordance with section 5336 (other than subsections (i)(1) and (j)) of such title but may not be combined or commingled with any other funds apportioned under such section 5336.
-  - **(2)** *Formula grants for other than urbanized areas* In addition to amounts allocated under section 5338(b)(2)(G) of title 49, United States Code, to carry out section 5311 of such title, there is authorized to be appropriated $100,000,000 for each of fiscal years 2008 and 2009 to carry out such section 5311. Such funds shall be apportioned in accordance with such section 5311 but may not be combined or commingled with any other funds apportioned under such section 5311.
+  - **(1)** *Urbanized area formula grants* In addition to amounts allocated under section 5338(b)(2)(B) of title 49, United States Code, to carry out section 5307 of such title, there is authorized to be appropriated $750,000,000 for each of fiscal years 2008 and 2009 to carry out such section 5307. Such funds shall be apportioned, not later than 7 days after the date on which the funds are appropriated, in accordance with section 5336 (other than subsections (i)(1) and (j)) of such title but may not be combined or commingled with any other funds apportioned under such section 5336.
+  - **(2)** *Formula grants for other than urbanized areas* In addition to amounts allocated under section 5338(b)(2)(G) of title 49, United States Code, to carry out section 5311 of such title, there is authorized to be appropriated $100,000,000 for each of fiscal years 2008 and 2009 to carry out such section 5311. Such funds shall be apportioned, not later than 7 days after the date on which the funds are appropriated, in accordance with such section 5311 but may not be combined or commingled with any other funds apportioned under such section 5311.
 - **(b)** *Use of funds* Notwithstanding sections 5307 and 5311 of title 49, United States Code, the Secretary of Transportation may make grants under such sections from amounts appropriated under subsection (a) only for one or more of the following:
-  - **(1)** If the recipient of the grant is reducing, or certifies to the Secretary that, during the term of the grant, the recipient will reduce one or more fares the recipient charges for public transportation, those operating costs of equipment and facilities being used to provide the public transportation that the recipient is no longer able to pay from the revenues derived from such fare or fares as a result of such reduction.
-  - **(2)** If the recipient of the grant is expanding, or certifies to the Secretary that, during the term of the grant, the recipient will expand public transportation service, those operating and capital costs of equipment and facilities being used to provide the public transportation service that the recipient incurs as a result of the expansion of such service.
+  - **(1)** If the recipient of the grant is reducing, or certifies to the Secretary within the time the Secretary prescribes that, during the term of the grant, the recipient will reduce one or more fares the recipient charges for public transportation, or in the case of subsection (f) of such section 5311, intercity bus service, those operating costs of equipment and facilities being used to provide the public transportation, or in the case of subsection (f) of such section 5311, intercity bus service, that the recipient is no longer able to pay from the revenues derived from such fare or fares as a result of such reduction.
+  - **(2)** If the recipient of the grant is expanding, or certifies to the Secretary within the time the Secretary prescribes that, during the term of the grant, the recipient will expand public transportation service, or in the case of subsection (f) of such section 5311, intercity bus service, those operating and capital costs of equipment and facilities being used to provide the public transportation service, or in the case of subsection (f) of such section 5311, intercity bus service, that the recipient incurs as a result of the expansion of such service.
+  - **(3)** To avoid increases in fares for public transportation, or in the case of subsection (f) of such section 5311, intercity bus service, or decreases in current public transportation service, or in the case of subsection (f) of such section 5311, intercity bus service, that would otherwise result from an increase in costs to the public transportation or intercity bus agency for transportation-related fuel or meeting additional transportation-related equipment or facility maintenance needs, if the recipient of the grant certifies to the Secretary within the time the Secretary prescribes that, during the term of the grant, the recipient will not increase the fares that the recipient charges for public transportation, or in the case of subsection (f) of such section 5311, intercity bus service, or, will not decrease the public transportation service, or in the case of subsection (f) of such section 5311, intercity bus service, that the recipient provides.
+  - **(4)** If the recipient of the grant is acquiring, or certifies to the Secretary within the time the Secretary prescribes that, during the term of the grant, the recipient will acquire, clean fuel or alternative fuel vehicle-related equipment or facilities for the purpose of improving fuel efficiency, the costs of acquiring the equipment or facilities.
+  - **(5)** If the recipient of the grant is establishing or expanding, or certifies to the Secretary within the time the Secretary prescribes that, during the term of the grant, the recipient will establish or expand commuter matching services to provide commuters with information and assistance about alternatives to single occupancy vehicle use, those administrative costs in establishing or expanding such services.
 - **(c)** *Federal Share* Notwithstanding any other provision of law, the Federal share of the costs for which a grant is made under this section shall be 100 percent.
 - **(d)** *Period of availability* Funds appropriated under this section shall remain available for a period of 2 fiscal years.
 
@@ -53,7 +57,8 @@ Notwithstanding section 5323(i)(1) of title 49, United States Code, a grant for 
       - **(i)** by striking subparagraph (A); and
       - **(ii)** by redesignating subparagraphs (B) through (F) as subparagraphs (A) through (E), respectively; and
     - **(B)** in paragraph (4) by striking “a covered agency” and inserting “an agency”.
-- **(b)** *Guidance* Section 3049(a) of such Act (5 U.S.C. 7905 note; 119 Stat. 1711) is amended by adding at the end the following:
+- **(b)** *Benefits described* Section 3049(a)(2) of such Act (5 U.S.C. 7905 note; 119 Stat. 1711) is amended by striking the period at the end and inserting the following: “, except that the maximum level of such benefits shall be the maximum amount which may be excluded from gross income for qualified parking as in effect for a month under section 132(f)(2)(B) of the Internal Revenue Code of 1986.”.
+- **(c)** *Guidance* Section 3049(a) of such Act (5 U.S.C. 7905 note; 119 Stat. 1711) is amended by adding at the end the following:
   > - **(5)** *Guidance*
   >   - **(A)** *Issuance* Not later than 60 days after the date of enactment of this paragraph, the Secretary of Transportation shall issue guidance on nationwide implementation of the transit pass transportation fringe benefits program under this subsection.
   >   - **(B)** *Uniform application*
@@ -78,7 +83,7 @@ Notwithstanding section 5323(i)(1) of title 49, United States Code, a grant for 
   >     - **(vi)** Recommendations to increase program participation and thereby reduce single occupancy vehicle use by Federal employees nationwide.
   > - **(6)** *Reporting requirements* Not later than September 30 of the first fiscal year beginning after the date of enactment of this paragraph, and every 3 years thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on nationwide implementation of the transit pass transportation fringe benefits program under this subsection, including a summary of the information submitted by agencies pursuant to paragraph (5)(F).
 
-- **(c)** *Effective date* Except as otherwise specifically provided, the amendments made by this section shall become effective on the first day of the first fiscal year beginning after the date of enactment of this Act.
+- **(d)** *Effective date* Except as otherwise specifically provided, the amendments made by this section shall become effective on the first day of the first fiscal year beginning after the date of enactment of this Act.
 
 ## § 6. Capital cost of contracting vanpool pilot program
 
@@ -91,4 +96,20 @@ Notwithstanding section 5323(i)(1) of title 49, United States Code, a grant for 
 
 ## § 7. Increased Federal share for end-of-line fixed guideway stations
 
-Notwithstanding section 5309(h) of title 49, United States Code, a grant for a capital project to be assisted under section 5309 of such title during fiscal years 2008 and 2009 that involves the acquisition of real property for, or the design, engineering, or construction of, additional parking facilities at an end-of-line fixed guideway station shall be for 100 percent of the net capital cost of the project unless the grant recipient requests a lower grant percentage.
+Notwithstanding section 5309(h) of title 49, United States Code, a grant for a capital project to be assisted under section 5309 of such title during fiscal years 2008 and 2009 that involves the acquisition of real property for, or the design, engineering, or construction of, additional parking facilities at an end-of-line fixed guideway station or at a park-and-ride lot that serves a fixed route commuter bus route that is more than 20 miles in length shall be for 100 percent of the net capital cost of the project unless the grant recipient requests a lower grant percentage.
+
+## § 8. National consumer awareness program
+
+- **(a)** *In general* The Secretary of Transportation shall carry out a national consumer awareness program to educate the public on the environmental, energy, and economic benefits of public transportation alternatives to the use of single occupancy vehicles.
+- **(b)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,000,000 for fiscal year 2009. Such sums shall remain available until expended.
+
+## § 9. Exception to alternative fuel procurement requirement
+
+Section 526 of the Energy Independence and Security Act of 2007 (Public Law 110–140; 42 U.S. C. 17142) is amended—
+
+- **(1)** by striking “No Federal agency” and inserting “(a) Requirement.—Except as provided in subsection (b), no Federal agency”; and
+- **(2)** by adding at the end the following:
+  > - **(b)** *Exception* Subsection (a) does not prohibit a Federal agency from entering into a contract to purchase a generally available fuel that is not an alternative or synthetic fuel or predominantly produced from a nonconventional petroleum source, if—
+  >   - **(1)** the contract does not specifically require the contractor to provide an alternative or synthetic fuel or fuel from a nonconventional petroleum source;
+  >   - **(2)** the purpose of the contract is not to obtain an alternative or synthetic fuel or fuel from a nonconventional petroleum source; and
+  >   - **(3)** the contract does not provide incentives for a refinery upgrade or expansion to allow a refinery to use or increase its use of fuel from a nonconventional petroleum source.
