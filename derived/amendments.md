@@ -1,7 +1,7 @@
 ---
 measure: S. 3218
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
