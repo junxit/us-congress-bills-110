@@ -1,7 +1,7 @@
 ---
 legis-num: H. CON. RES. 163
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,7 +30,5 @@ That—
 - **(1)** Congress commends the Director of the National Institutes of Health for working with leading scientists and researchers to organize the first National Institutes of Health conference on hydrocephalus in September 2005 and the Inaugural “Cerebellar Development: Bench to Bedside International Conference” in November 2006; and
 - **(2)** it is the sense of Congress that—
   - **(A)** the Director of the National Institutes of Health should continue the current collaboration, with respect to Dandy-Walker syndrome, among the National Human Genome Research Institute, the National Institute of Biomedical Imaging and Bioengineering, the National Institute of Child Health and Human Development, the National Institute of Neurological Disorders and Stroke, and the Office of Rare Diseases;
-  - **(B)** further research into the epidemiology, diagnosis, pathophysiology, disease burden, and improved treatment of Dandy-Walker syndrome should be conducted and supported;
-  - **(C)** the National Institutes of Health should take the lead in sponsoring an annual workshop to increase awareness and set national research priorities for Dandy-Walker syndrome and hydrocephalus;
-  - **(D)** the Centers for Disease Control and Prevention should form a coordinating committee for Dandy-Walker syndrome and hydrocephalus research, which would annually report to the public its findings on the progress in the epidemiology, pathophysiology, disease burden, treatment improvements, diagnoses, and awareness for Dandy-Walker syndrome and hydrocephalus; and
-  - **(E)** public awareness and professional education regarding Dandy-Walker research should increase through partnerships between the Federal Government and patient advocacy organizations, such as the Dandy-Walker Alliance and the Hydrocephalus Association.
+  - **(B)** further research into the epidemiology, diagnosis, pathophysiology, disease burden, and improved treatment of Dandy-Walker syndrome and hydrocephalus should be conducted and supported; and
+  - **(C)** public awareness and professional education regarding Dandy-Walker research should increase through partnerships between the Federal Government and patient advocacy organizations, such as the Dandy-Walker Alliance and the Hydrocephalus Association.
