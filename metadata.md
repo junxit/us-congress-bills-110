@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 370
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 370
@@ -81,3 +81,12 @@ Expressing support for designation of September 2008 as "Gospel Music Heritage M
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-06-12 — Ordered to be Reported by Voice Vote.
+- 2008-06-24 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-06-24 — Considered under suspension of the rules. (consideration: CR H5984-5988)
+- 2008-06-24 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 370.
+- 2008-06-24 — Mr. Clay moved to suspend the rules and agree to the resolution.
+- 2008-06-26 — Considered as unfinished business. (consideration: CR H6121)
+- 2008-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/24/2008 H5985)
+- 2008-06-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 6/24/2008 H5985)
