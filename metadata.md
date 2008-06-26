@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6040
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6040
@@ -36,3 +36,8 @@ To amend the Water Resources Development Act of 2007 to clarify the authority of
 - 2008-06-23 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill.
 - 2008-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5824)
 - 2008-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5824)
+- 2008-06-24 — Received in the Senate, read twice.
+- 2008-06-25 — Cleared for White House.
+- 2008-06-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6171)
+- 2008-06-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6171)
+- 2008-06-26 — Message on Senate action sent to the House.
