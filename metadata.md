@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1304
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1304
@@ -27,3 +27,10 @@ Providing for consideration of the bill (H.R. 6052) to promote increased public 
 - 2008-06-25 — Placed on the House Calendar, Calendar No. 244.
 - 2008-06-25 — The House Committee on Rules reported an original measure, H. Rept. 110-734, by Ms. Castor.
 - 2008-06-25 — The House Committee on Rules reported an original measure, H. Rept. 110-734, by Ms. Castor.
+- 2008-06-26 — Considered as privileged matter. (consideration: CR H6094-6102)
+- 2008-06-26 — DEBATE - The House continued with further debate on H. Res. 1304.
+- 2008-06-26 — DEBATE - The House proceeded with one hour of debate on H. Res. 1304.
+- 2008-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-26 — On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 196 (Roll no. 463). (text: CR H6094-6095)
+- 2008-06-26 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 198 (Roll no. 462). (consideration: CR H6101)
+- 2008-06-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 230 - 196 (Roll no. 463).(text: CR H6094-6095)
