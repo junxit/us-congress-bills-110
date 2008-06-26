@@ -1,0 +1,73 @@
+---
+legis-num: H.R. 6401
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6401
+
+> To spur rapid and sustainable growth in renewable electricity generation in the United States through priority interconnection, renewable energy payments, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Renewable Energy Jobs and Security Act”.
+
+## § 2. Findings
+
+The Congress finds that:
+
+- **(1)** Electricity produced from renewable resources helps to reduce greenhouse gas emissions, and limits emissions of other pollutants regulated pursuant to the Clean Air Act, enhances national energy security, and provides substantial economic benefits.
+- **(2)** The need exists for the rapid expansion of low and zero carbon-emitting electric generation at a far greater pace than current levels.
+- **(3)** Distributed electric generation is energy efficient, promotes grid stability and reduces transmission system congestion during periods of peak demand.
+- **(4)** A transition toward renewable energy sources brings economic benefit to consumers by reducing their exposure to increasingly volatile fossil fuel markets.
+- **(5)** Renewable energy payments, also known as “feed-in tariffs”, are a proven mechanism for accelerating the development of renewable energy in grid-connected areas.
+- **(6)** By guaranteeing access to the grid and setting a favorable price per unit of power, feed-in tariffs ensure that renewable energy is a sound long-term investment for companies, for industry, and for individuals and thereby creates a strong economic incentive for investing in renewable energy technologies.
+- **(7)** The International Energy Agency, the European Commission and the United Kingdom’s Stern Review have determined that feed-in tariff policies in Germany, Spain, France and other European Union countries have achieved larger renewable energy deployment at lower costs, compared with policies in other European Union countries.
+
+## § 3. Purpose
+
+The purpose of this Act is to—
+
+- **(1)** enable the rapid and sustainable development of distributed renewable electricity generation in the United States;
+- **(2)** stimulate the development of new jobs and industry in the United States;
+- **(3)** create a stable and secure market for capital investments in renewable energy technologies;
+- **(4)** reduce air and water pollution, related health problems and health-care expenditures;
+- **(5)** help prevent greenhouse gas concentrations in the atmosphere from reaching levels that would cause dangerous global temperature increases of more than 2 degrees Celsius above pre-industrial levels;
+- **(6)** protect natural resources in the United States;
+- **(7)** allow all citizens to participate in renewable electricity generation;
+- **(8)** reduce the price volatility and long term costs of electricity;
+- **(9)** place the United States at the forefront of the global renewable energy revolution; and
+- **(10)** reduce the dependence of the United States on foreign sources of energy.
+
+## § 4. Definitions
+
+Section 3 of the Federal Power Act (16 U.S.C. 794) is amended by adding the following new paragraphs at the end:
+
+> - **(30)** The term renewable energy means energy generated from—
+>   - **(A)** solar thermal, solar photovoltaic, wind, geothermal or marine and hydrokinetic renewable energy;
+>   - **(B)** biomass (as defined in section 9001 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8101));
+>   - **(C)** landfill gas;
+>   - **(D)** biogas derived from farm waste; or
+>   - **(E)** qualified hydropower.
+> - **(31)** The term geothermal energy means energy derived from a geothermal deposit (within the meaning of section 613(e)(2) of the Internal Revenue Code of 1986).
+> - **(32)** The term marine and hydrokinetic renewable energy means energy derived from—
+>   - **(A)** waves, tides, and currents in oceans, estuaries, and tidal areas;
+>   - **(B)** free flowing water in rivers, lakes, and streams;
+>   - **(C)** free flowing water in an irrigation system, canal, or other man-made channel, including projects that utilize nonmechanical structures to accelerate the flow of water for electric power production purposes; or
+>   - **(D)** differentials in ocean temperature (ocean thermal energy conversion).
+> - **(33)** The term renewable energy facility means an electric energy generation unit owned and operated by any person (including a utility) that—
+>   - **(A)** is placed in service after December 31, 2008;
+>   - **(B)** provides electricity directly to the electric power grid;
+>   - **(C)** uses renewable energy as its sole energy source; and
+>   - **(D)** has a nameplate capacity of not more than 20 megawatts.
+> - **(34)** The term network upgrades means additions or modifications to any system for the transmission or distribution of electric energy at or beyond the point at which a generator interconnects to the system to accommodate renewable energy generated by a renewable energy facility and delivered to the system.
+> - **(35)**
+>   - **(A)** The term qualified hydropower means—
+>     - **(i)** incremental hydropower generation that is achieved from increased efficiency or additions of capacity made on or after January 1, 2009, at a hydroelectric facility that was placed in service before that date; or
+>     - **(ii)** additions of capacity made on or after January 1, 2009, at an existing nonhydroelectric dam, if—
+>       - **(I)** the hydroelectric project installed on the nonhydroelectric dam is licensed by the Federal Energy Regulatory Commission and meets all other applicable environmental, licensing, and regulatory requirements, including applicable fish passage requirements;
+>       - **(II)** the nonhydroelectric dam was placed in service before the date of the enactment of this paragraph and operated for flood control, navigation, or water supply purposes and did not produce hydroelectric power on the date of the enactment of this paragraph; and
+>       - **(III)** the hydroelectric project is operated so that the water surface elevation at any given location and time that would have occurred in the absence of the hydroelectric project is maintained, subject to any license requirements imposed under applicable law that change the water surface elevation for the purpose of improving the environmental quality of the affected waterway.
+>   - **(B)** The Federal Energy Regulatory Commission shall certify if a hydroelectric project licensed at a nonhydroelectric dam meets the criteria described in subparagraph (A)(ii)(III).
+>   - **(C)** Nothing in this paragraph shall affect the standards under which the Federal Energy Regulatory Commission issues licenses for and regulates hydropower projects under part I of the Federal Power Act.
