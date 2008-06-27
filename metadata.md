@@ -1,7 +1,7 @@
 ---
 measure: S. 2707
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2707
@@ -34,3 +34,7 @@ Chesapeake Bay Gateways and Watertrails Network Continuing Authorization Act
 
 - 2008-03-05 — Introduced in Senate
 - 2008-03-05 — Read twice and referred to the Committee on Environment and Public Works.
+- 2008-05-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-06-27 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-404.
+- 2008-06-27 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-404.
+- 2008-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 859.
