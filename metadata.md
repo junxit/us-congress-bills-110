@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3986
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3986
@@ -22,9 +22,10 @@ John F. Kennedy Center Reauthorization Act of 2008
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,13 @@ John F. Kennedy Center Reauthorization Act of 2008
 - 2007-12-11 — Mr. Oberstar moved to suspend the rules and pass the bill, as amended.
 - 2007-12-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H15255)
 - 2007-12-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H15255)
+- 2007-12-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2008-05-21 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. Without written report.
+- 2008-06-04 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute. Without written report.
+- 2008-06-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 765.
+- 2008-06-26 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6302-6303)
+- 2008-06-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S6302-6303)
+- 2008-06-27 — By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-406.
+- 2008-06-27 — By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-406.
+- 2008-06-27 — Message on Senate action sent to the House.
