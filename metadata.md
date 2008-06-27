@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5690
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5690
@@ -25,10 +25,11 @@ To remove the African National Congress from treatment as a terrorist organizati
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -55,3 +56,18 @@ To remove the African National Congress from treatment as a terrorist organizati
 - 2008-05-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/6/2008 H3078-3079)
 - 2008-05-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/6/2008 H3078-3079)
 - 2008-05-08 — The title of the measure was amended. Agreed to without objection.
+- 2008-05-12 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-06-26 — Cleared for White House.
+- 2008-06-26 — Committee on the Judiciary. Ordered to be reported with an amendment favorably.
+- 2008-06-26 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2008-06-26 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
+- 2008-06-26 — Message on Senate action sent to the House.
+- 2008-06-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-26 — Ms. Lee asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H6171-6172)
+- 2008-06-26 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H6171)
+- 2008-06-26 — Passed Senate with an amendment by Unanimous Consent. (consideration: S6231-6232)
+- 2008-06-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: S6231-6232)
+- 2008-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 852.
+- 2008-06-26 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H6171)
+- 2008-06-27 — Presented to President.
+- 2008-06-27 — Presented to President.
