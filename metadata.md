@@ -1,7 +1,7 @@
 ---
 measure: S. 3180
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3180
@@ -28,3 +28,12 @@ A bill to temporarily extend the programs under the Higher Education Act of 1965
 - 2008-06-24 — Message on Senate action sent to the House.
 - 2008-06-24 — Received in the House.
 - 2008-06-24 — Referred to the House Committee on Education and Labor.
+- 2008-06-25 — Cleared for White House.
+- 2008-06-25 — Considered under suspension of the rules. (consideration: CR H6075)
+- 2008-06-25 — DEBATE - The House proceeded with forty minutes of debate on S. 3180.
+- 2008-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-25 — Mr. Miller, George moved to suspend the rules and pass the bill.
+- 2008-06-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6075)
+- 2008-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6075)
+- 2008-06-26 — Presented to President.
+- 2008-06-26 — Presented to President.
