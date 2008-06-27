@@ -1,7 +1,7 @@
 ---
 measure: S. 3015
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3015
@@ -34,3 +34,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2008-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 841.
+- 2008-06-27 — Message on Senate action sent to the House.
+- 2008-06-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6331; text as passed Senate: CR S6331)
+- 2008-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6331; text as passed Senate: CR S6331)
