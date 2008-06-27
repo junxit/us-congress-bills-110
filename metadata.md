@@ -1,7 +1,7 @@
 ---
 measure: S. 1566
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1566
@@ -29,3 +29,7 @@ A bill to amend the Oil Pollution Act of 1990 to improve that Act, and for other
 
 - 2007-06-07 — Introduced in Senate
 - 2007-06-07 — Read twice and referred to the Committee on Environment and Public Works.
+- 2008-05-21 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-06-27 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-403.
+- 2008-06-27 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-403.
+- 2008-06-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 858.
