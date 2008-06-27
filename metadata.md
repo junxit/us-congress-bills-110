@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 377
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 377
@@ -31,3 +31,7 @@ Authorizing the use of the rotunda of the Capitol for a ceremony commemorating t
 - 2008-06-25 — Mrs. Davis (CA) moved to suspend the rules and agree to the resolution, as amended.
 - 2008-06-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6082-6083)
 - 2008-06-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6082-6083)
+- 2008-06-26 — Received in the Senate.
+- 2008-06-27 — Message on Senate action sent to the House.
+- 2008-06-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6331-6332)
+- 2008-06-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6331-6332)
