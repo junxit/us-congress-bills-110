@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5168
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5168
@@ -43,9 +43,10 @@ To designate the facility of the United States Postal Service located at 19101 C
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -60,3 +61,13 @@ To designate the facility of the United States Postal Service located at 19101 C
 - 2008-04-01 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2008-04-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1851)
 - 2008-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1851)
+- 2008-04-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-05-15 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 845.
+- 2008-06-27 — Cleared for White House.
+- 2008-06-27 — Message on Senate action sent to the House.
+- 2008-06-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6331)
+- 2008-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6331)
