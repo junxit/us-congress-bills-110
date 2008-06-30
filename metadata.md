@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5517
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5517
@@ -50,9 +50,10 @@ To designate the facility of the United States Postal Service located at 7231 FM
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -70,3 +71,13 @@ To designate the facility of the United States Postal Service located at 7231 FM
 - 2008-04-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 191). (text: CR 4/14/2008 H2231)
 - 2008-04-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 191).(text: CR 4/14/2008 H2231)
 - 2008-04-15 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 5719.
+- 2008-04-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-05-15 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-06-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 848.
+- 2008-06-27 — Cleared for White House.
+- 2008-06-27 — Message on Senate action sent to the House.
+- 2008-06-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6331)
+- 2008-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6331)
