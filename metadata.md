@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 594
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 594
@@ -32,3 +32,5 @@ A resolution designating September 2008 as "Tay-Sachs Awareness Month".
 - 2008-06-26 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-06-26 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-06-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 853.
+- 2008-07-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6367-6368; text as passed Senate: CR S6367-6368)
+- 2008-07-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6367-6368; text as passed Senate: CR S6367-6368)
