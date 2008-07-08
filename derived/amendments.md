@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5741
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -36,5 +36,5 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1826k` | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1826k` | redesignate | in subparagraph (C) (as so redesignated) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1826k` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1857` | strike | in subparagraph (P)(ii), by striking “fishing”; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 1857` | strike | by striking the matter following subparagraph (R). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1857` | amend | by amending subparagraph (P) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1857` | replace | by striking the matter following subparagraph (R) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
