@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1423
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1423
@@ -24,8 +24,29 @@ Dorothy Buell Memorial Visitor Center Partnership Act
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2008-07-08 — [House 110-2-472](votes/house-110-2-0472.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (376–11)
+
 ## Actions
 
 - 2007-03-08 — Introduced in House
 - 2007-03-08 — Introduced in House
 - 2007-03-08 — Referred to the House Committee on Natural Resources.
+- 2007-03-14 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-03-06 — Subcommittee Hearings Held.
+- 2008-06-11 — Committee Consideration and Mark-up Session Held.
+- 2008-06-11 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-06-11 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-07-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-07-08 — Considered as unfinished business. (consideration: CR H6200)
+- 2008-07-08 — Considered under suspension of the rules. (consideration: CR H6187-6189)
+- 2008-07-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1423.
+- 2008-07-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-08 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2008-07-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 11 (Roll no. 472). (text: CR H6187)
+- 2008-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 11 (Roll no. 472).(text: CR H6187)
+- 2008-07-08 — Placed on the Union Calendar, Calendar No. 468.
+- 2008-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-737.
+- 2008-07-08 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-737.
+- 2008-07-08 — The title of the measure was amended. Agreed to without objection.
