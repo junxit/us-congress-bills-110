@@ -9,9 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide a supplemental funding source for catastrophic emergency wildland fire suppression activities on Department of the Interior and National Forest System lands, to require the Secretary of the Interior and the Secretary of Agriculture to develop a cohesive wildland fire management strategy, and for other purposes.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Federal Land Assistance, Management and Enhancement Act” or “FLAME Act”.
+- **(a)** *Short title* This Act may be cited as the “Federal Land Assistance, Management and Enhancement Act” or “FLAME Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Flame Fund for catastrophic emergency wildland fire suppression activities
 
@@ -24,7 +25,7 @@ This Act may be cited as the “Federal Land Assistance, Management and Enhancem
     - **(E)** Lands in the National Forest System, as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a)).
   - **(2)** *Flame fund* The term “Flame Fund” means the Federal Land Assistance, Management, and Enhancement Fund established by this section.
   - **(3)** *Secretary concerned* The term “Secretary concerned” means—
-    - **(A)** the Secretary of the Interior, with respect to Federal land described in subparagraphs (A), (B), (C), and (E) of paragraph (1); and
+    - **(A)** the Secretary of the Interior, with respect to Federal land described in subparagraphs (A), (B), (C), and (D) of paragraph (1); and
     - **(B)** the Secretary of Agriculture, with respect to National Forest System land.
   - **(4)** *Secretaries* The term “Secretaries” means the Secretary of the Interior and the Secretary of Agriculture, acting jointly.
 - **(b)** *Establishment and Availability of Flame Fund*
@@ -32,28 +33,28 @@ This Act may be cited as the “Federal Land Assistance, Management and Enhancem
   - **(2)** *Contents* The Flame Fund shall consist of the following amounts:
     - **(A)** Amounts appropriated to the Flame Fund pursuant to the authorization of appropriations in subsection (c).
     - **(B)** Amounts transferred to the Flame Fund pursuant to subsection (d).
-    - **(C)** Any interest earned on investment of amounts in the Flame Fund under paragraph (4).
   - **(3)** *Availability* Subject to subsection (e), amounts in the Flame Fund shall be available to the Secretaries to pay the costs of catastrophic emergency wildland fire suppression activities that are separate from amounts annually appropriated to the Secretaries for the predicted annual workload for wildland fire suppression activities, based on analyses of historical workloads and anticipated increased workloads due to changing environmental or demographic conditions.
-  - **(4)** *Investment authority* The Secretary of the Treasury shall invest such portion of the assets of the Flame Fund as the Secretary of the Treasury determines is not required to meet anticipated withdrawals during the then-current fiscal year or the next fiscal year. Investments may be made only in interest-bearing obligations of the United States.
 - **(c)** *Authorization of appropriations*
-  - **(1)** *Authorization of appropriations* There is authorized to be appropriated to the Flame Fund for fiscal year 2009 and each subsequent fiscal year an amount equal to the average amount expended by the Secretaries for emergency wildland fire suppression activities over the five preceding fiscal years.
-  - **(2)** *Emergency designation* Amounts appropriated to the Flame Fund for fiscal year 2009 are designated as an emergency requirement pursuant to section 501 of H. Con. Res. 376 (109th Congress), as made applicable to the House of Representatives by section 511(a)(4) of H. Res. 6 (110th Congress), and for subsequent fiscal years pursuant to corresponding congressional resolutions authorizing the designation of emergency spending.
+  - **(1)** *Authorization of appropriations* There is authorized to be appropriated to the Flame Fund such funds as may be necessary to carry out this section. It is the intent of Congress that the amount appropriated to the Flame Fund for fiscal year 2009 and each subsequent fiscal year equal the average amount expended by the Secretaries for emergency wildland fire suppression activities over the five fiscal years preceding that fiscal year.
+  - **(2)** *Sense of congress on designation of certain appropriations as emergency requirement* It is the sense of Congress that the amounts appropriated to the Flame Fund that are above the average of the obligations of the preceding 10 years for wildland fire suppression in the Forest Service and the Department of the Interior, adjusted for inflation, should be designated as amounts necessary to meet emergency needs, and the new budget authority and outlays resulting therefrom should not count for the purposes of titles III and IV of the Congressional Budget Act of 1974.
+  - **(3)** *Notice of insufficient funds* The Secretaries shall notify the congressional committees specified in subsection (h)(2) whenever only an estimated two months worth of funding remains in the Flame Fund.
 - **(d)** *Transfer of excess wildland fire suppression amounts into Flame Fund* At the end of each fiscal year, the Secretary concerned shall transfer to the Flame Fund amounts appropriated to the Secretary concerned for wildland fire suppression activities for the fiscal year, but not obligated for wildland fire suppression activities before the end of the fiscal year.
 - **(e)** *Use of Flame Fund*
   - **(1)** *Declaration required* Amounts in the Flame Fund shall be made available to the Secretary concerned only after the Secretaries issue a declaration that a wildland fire suppression activity is eligible for funding through the Flame Fund.
   - **(2)** *Declaration criteria* A declaration by the Secretaries under paragraph (1) shall be based on the following criteria:
     - **(A)** In the case of an individual wildland fire incident—
-      - **(i)** the size of the fire, including fires of 300 acres or greater;
+      - **(i)** the fire covers 300 or more acres;
       - **(ii)** the severity of the fire, which may be based on incident complexity or the potential for increased complexity; and
       - **(iii)** the threat posed by the fire, including the potential for loss of lives, property, or critical resources.
-    - **(B)** In the case of a firefighting season, cumulative wildland fire suppression activities, when the costs of those activities for the Secretary concerned are projected to exceed amounts annually appropriated.
+    - **(B)** Consistent with subsection (f), in the case of a firefighting season, cumulative wildland fire suppression activities, when the costs of those activities for the Secretary concerned are projected to exceed amounts annually appropriated.
   - **(3)** *Transfer of amounts to secretary concerned* After issuance of a declaration under paragraph (1) and upon the request of the Secretary concerned, the Secretary of the Treasury shall transfer from the Flame Fund to the Secretary concerned such amounts as the Secretaries determine are necessary for wildland fire suppression activities associated with the declared suppression emergency.
   - **(4)** *State, private, and tribal land* Use of the Flame Fund for catastrophic emergency wildland fire suppression activities on State and private land and, where applicable, tribal land shall be consistent with existing agreements where the Secretaries have agreed to assume responsibility for wildland fire suppression activities on the land.
-- **(f)** *Treatment of anticipated and predicted activities* Notwithstanding the establishment of the Flame Fund, the Secretary concerned shall continue to fund anticipated and predicted wildland fire suppression activities within the appropriate agency budget for each fiscal year. Use of the additional funding made available through the Flame Fund is intended to supplement the budgeted and appropriated agency funding and is to be used only for purposes and in instances consistent with this section.
+- **(f)** *Treatment of anticipated and predicted activities* The Secretary concerned shall continue to fund anticipated and predicted wildland fire suppression activities within the appropriate agency budget for each fiscal year. Use of the additional funding made available through the Flame Fund is intended to supplement the budgeted and appropriated agency funding and is to be used only for purposes and in instances consistent with this section.
 - **(g)** *Prohibition on other transfers* All amounts in the Flame Fund, as well as all funds appropriated for the purpose of wildland fire suppression on Federal land, must be obligated before the Secretary concerned may transfer funds from non-fire accounts for wildland fire suppression.
 - **(h)** *Accounting and reports*
   - **(1)** *Accounting and reporting system* The Secretaries shall establish an accounting and reporting system for the Flame Fund compatible with existing National Fire Plan reporting procedures.
-  - **(2)** *Annual report* The Secretaries shall submit to the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources, the Committee on Indian Affairs, and the Committee on Appropriations of the Senate an annual report on the use of the funds from the Flame Fund, together with any recommendations that the Secretaries may have to improve the administrative control and oversight of the Flame Fund.
+  - **(2)** *Annual report* The Secretaries shall submit to the Committee on Natural Resources, the Committee on Agriculture, and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources, the Committee on Indian Affairs, and the Committee on Appropriations of the Senate an annual report on the use of the funds from the Flame Fund, together with any recommendations that the Secretaries may have to improve the administrative control and oversight of the Flame Fund.
+  - **(3)** *Public availability* The annual report required by paragraph (2) shall be made available to the public.
 
 ## § 3. Cohesive wildland fire management strategy
 
@@ -64,3 +65,33 @@ This Act may be cited as the “Federal Land Assistance, Management and Enhancem
   - **(3)** A description of how the Secretaries will employ appropriate management response.
   - **(4)** A system for assessing the level of risk to communities.
   - **(5)** A system to ensure that the highest priority fuels reduction projects are being funded first.
+- **(c)** *Notice of prescribed fires* As part of the strategy required by subsection (a) for the Forest Service, the Secretary of Agriculture shall ensure that, before any prescribed fire is used on National Forest System land, owners of adjacent private land are notified in writing of the date and scope of the proposed prescribed fire.
+
+## § 4. Review of certain wildfires to evaluate cost containment in wildland fire suppression activities
+
+- **(a)** *Review required* The Secretary of the Interior and the Secretary of Agriculture shall conduct a review, using independent panels, of each wildfire incident for which the Secretary concerned incurs expenses in excess of $10,000,000.
+- **(b)** *Report* The Secretary concerned shall submit to the Committee on Natural Resources, the Committee on Agriculture, and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources, the Committee on Indian Affairs, and the Committee on Appropriations of the Senate a report containing the results of each review conducted under subsection (a).
+
+## § 5. Reducing risk of wildfires in fire-ready communities
+
+- **(a)** *Fire-ready community defined* In this section, the term “fire-ready community” means a community that—
+  - **(1)** is located within a priority area identified pursuant to subsection (b);
+  - **(2)** has a cooperative fire agreement that articulates the roles and responsibilities for Federal, State and local government entities in local wildfire suppression and protection;
+  - **(3)** has local codes that require fire-resistant home design and building materials;
+  - **(4)** has a community wildfire protection plan (as defined in section 101 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6502)); and
+  - **(5)** is engaged in a successful collaborative process that includes multiple interested persons representing diverse interests and is transparent and nonexclusive, such as a resource advisory committee established under section 205 of the Secure Rural Schools and Community Self-Determination Act of 2000 (Public Law 106–393; 16 U.S.C. 500 note).
+- **(b)** *Fire risk mapping* As soon as is practicable after the date of the enactment of this Act, the Secretary of Agriculture and the Secretary of the Interior (in this section referred to as the “Secretaries”) shall develop regional maps of communities most at risk of wildfire and in need of hazardous fuel treatment and maintenance. The maps shall identify priority areas for hazardous fuels reduction projects, including—
+  - **(1)** at-risk communities in fire-prone areas of the wildland-urban interface (as defined in section 101 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6502));
+  - **(2)** watersheds and municipal drinking water sources;
+  - **(3)** emergency evacuation corridors;
+  - **(4)** electricity transmission corridors; and
+  - **(5)** low-capacity or low-income communities.
+- **(c)** *Local wildland firefighting capability grants*
+  - **(1)** *Grants available* The Secretaries may provide cost-share grants to fire-ready communities to assist such communities in carrying activities authorized by paragraph (2).
+  - **(2)** *Eligible activities* Grant funds may be used for the following:
+    - **(A)** Education programs to raise awareness of homeowners and citizens about wildland fire protection practices, including FireWise or similar programs.
+    - **(B)** Training programs for local firefighters on wildland firefighting techniques and approaches.
+    - **(C)** Equipment acquisition to facilitate wildland fire preparedness.
+    - **(D)** Implementation of a community wildfire protection plan.
+- **(d)** *Wildland fire cost-share agreements* In developing any wildland fire cost-share agreement with a State Forester or equivalent official, the Secretaries shall, to the greatest extent possible, encourage the State and local communities involved to become fire-ready communities.
+- **(e)** *Authorization of appropriations* There is authorized to be appropriated to the Secretaries to carry out this section such sums as may be necessary.
