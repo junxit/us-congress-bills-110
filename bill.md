@@ -74,3 +74,19 @@ This Act may be cited as the “Electronic Message Preservation Act”.
   >   - **(B)** whether the records management controls of that President met the requirements under sections 2203(a) and 2206(5) of this title.
 
 - **(d)** *Effective Date* The amendments made by this section shall take effect one year after the date of the enactment of this Act.
+
+## § 4. Procedures to prevent unauthorized removal of classified records from National Archives
+
+- **(a)** *In general* The Archivist of the United States shall prescribe internal procedures to prevent the unauthorized removal of classified records from the National Archives and Records Administration or the destruction or damage of such records, including when such records are accessed or searched electronically. The procedures shall include the following prohibitions:
+  - **(1)** No person, other than personnel of the National Archives and Records Administration (in this section hereafter referred to as “NARA personnel”), shall view classified records in any room that is not secure except in the presence of NARA personnel or under video surveillance.
+  - **(2)** No person, other than NARA personnel, shall at any time be left alone with classified records, unless that person is under video surveillance.
+  - **(3)** No person, other than NARA personnel, shall conduct any review of documents while in the possession of any cell phone or other personal communication device.
+  - **(4)** All persons seeking access to classified records, as a precondition to such access, must consent to a search of their belongings upon conclusion of their records review.
+  - **(5)** All notes and other writings prepared by persons during the course of a review of classified records shall be retained by the National Archives and Records Administration in a secure facility.
+- **(b)** *Definition of Records* In this section, the term “records” has the meaning provided in section 3301 of title 44, United States Code.
+
+## § 5. Restrictions on access to presidential records
+
+Section 2204 of title 44, United States Code (relating to restrictions on access to presidential records) is amended by adding at the end the following new subsection:
+
+> - **(f)** The Archivist shall not make available any original presidential records to any individual claiming access to any presidential record as a designated representative under section 2205(3) if that individual has been convicted of a crime relating to the review, retention, removal, or destruction of records of the Archives.
