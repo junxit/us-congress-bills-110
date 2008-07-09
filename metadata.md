@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6061
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6061
@@ -46,3 +46,11 @@ To designate the facility of the United States Postal Service located at 219 Eas
 - 2008-05-14 — Introduced in House
 - 2008-05-14 — Introduced in House
 - 2008-05-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-06-12 — Committee Consideration and Mark-up Session Held.
+- 2008-06-12 — Ordered to be Reported by Voice Vote.
+- 2008-07-09 — Considered under suspension of the rules. (consideration: CR H6311-6312)
+- 2008-07-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6061.
+- 2008-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-09 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-07-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6311)
+- 2008-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6311)
