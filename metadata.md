@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1260
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1260
@@ -16,7 +16,7 @@ Supporting the goals and ideals of "National Internet Safety Month".
 
 - Rep. Bean, Melissa L. [D-IL-8] (B001253)
 
-## Cosponsors (90)
+## Cosponsors (101)
 
 - Rep. Altmire, Jason [D-PA-4] (A000362)
 - Rep. Arcuri, Michael A. [D-NY-24] (A000363)
@@ -108,6 +108,17 @@ Supporting the goals and ideals of "National Internet Safety Month".
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Welch, Peter [D-VT-At Large] (W000800)
 - Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Inslee, Jay [D-WA-1] (I000026)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 
 ## Committees (1)
 
@@ -118,3 +129,9 @@ Supporting the goals and ideals of "National Internet Safety Month".
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Referred to the House Committee on Energy and Commerce.
+- 2008-07-09 — Considered under suspension of the rules. (consideration: CR H6309-6311)
+- 2008-07-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1260.
+- 2008-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-09 — Mr. Hill moved to suspend the rules and agree to the resolution.
+- 2008-07-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6309)
+- 2008-07-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6309)
