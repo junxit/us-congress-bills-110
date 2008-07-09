@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6216
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 13662` | replace | by striking “and” the second place it appears and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 13662` | insert | by inserting “, and firearms possessors” after “abusers”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 13662` | insert | by inserting “, and firearms users” after “abusers”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 13662` | strike | in paragraph (1), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 13662` | replace | in paragraph (2), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 13662` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13662` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

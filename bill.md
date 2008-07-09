@@ -39,10 +39,10 @@ Immigrants who are not lawfully present in the United States shall be ineligible
 ## § 6. Administrative provisions
 
 - **(a)** *Prohibition of management fees for agreements prohibiting or requiring registration of legal firearms* The Secretary of Housing and Urban Development shall not accept as reasonable any management or related fees for enforcing any provision of a dwelling lease agreement or other similar agreement that requires the registration of or prohibits the possession of any firearm that is possessed by an individual for his or her personal protection or for sport the possession of which is not prohibited, or the registration of which is not required, by existing law.
-- **(b)** *Termination of tenancy and assistance for illegal possession of firearm in federally assisted housing* Section 577 of the Quality Housing and Work Responsibility Act of 1998 (42 U.S.C. 13662) is amended—
+- **(b)** *Termination of tenancy and assistance for illegal use of firearm in federally assisted housing* Section 577 of the Quality Housing and Work Responsibility Act of 1998 (42 U.S.C. 13662) is amended—
   - **(1)** in the section heading—
     - **(A)** by striking “and” the second place it appears and inserting a comma; and
-    - **(B)** by inserting “, and firearms possessors” after “abusers”; and
+    - **(B)** by inserting “, and firearms users” after “abusers”; and
   - **(2)** in subsection (a)—
     - **(A)** in paragraph (1), by striking “or” at the end;
     - **(B)** in paragraph (2), by striking the period at the end and inserting “; or”; and
