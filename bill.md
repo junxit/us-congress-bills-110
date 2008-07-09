@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4174
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,92 +11,127 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short Title* This Act may be cited as the “Federal Ocean Acidification Research And Monitoring Act of 2007” or the “FOARAM Act”.
+- **(a)** *Short Title* This Act may be cited as the “Federal Ocean Acidification Research And Monitoring Act of 2008” or the “FOARAM Act”.
 - **(b)** *Table of Contents* The table of contents for this Act is as follows:
 
 ## § 2. Findings and purposes
 
 - **(a)** *Findings* The Congress finds the following:
-  - **(1)** The oceans help mitigate the effects of global warming by absorbing atmospheric carbon dioxide. About a third of anthropogenic carbon dioxide is currently absorbed by the ocean.
-  - **(2)** The rapid increase in atmospheric carbon dioxide due to human induced carbon dioxide emissions is overwhelming the natural ability of the oceans to cope with this increase.
-  - **(3)** The emission of carbon dioxide into the atmosphere is changing surface ocean carbon chemistry and lowering the pH. These changes in ocean chemistry are detrimental to organisms including corals, which support one of the richest habitats on Earth, marine shells, and many other organisms that form the base of the food chain for many fish and marine mammals.
+  - **(1)** The oceans help regulate atmospheric chemistry by acting as the largest sink for carbon dioxide.
+  - **(2)** The rapid increase in atmospheric carbon dioxide is overwhelming the natural ability of the oceans to absorb this gas.
+  - **(3)** The influx of carbon dioxide into the atmosphere and the subsequent absorption by the oceans is changing surface ocean carbon chemistry and lowering the pH. These changes in ocean chemistry are detrimental to organisms including corals, which support one of the richest habitats on Earth, marine shellfish, and many other organisms that form the base of the food chain for many fish and marine mammals.
   - **(4)** The rich biodiversity of marine organisms is an important contribution to the national economy and the change in ocean chemistry threatens tourism, our fisheries, and marine environmental quality, and could result in significant social and economic costs.
   - **(5)** Existing Federal programs support research in related ocean chemistry, but gaps in funding, coordination, and outreach have impeded national progress in addressing ocean acidification.
   - **(6)** National investment in a coordinated program of research and monitoring would improve the understanding of ocean acidification effects on whole ecosystems, advance our knowledge of the socioeconomic impacts of increased ocean acidification, and strengthen the ability of marine resource managers to assess and prepare for the harmful impacts of ocean acidification on our marine resources.
 - **(b)** *Purposes* The purposes of this Act are to provide for—
-  - **(1)** development and coordination of a comprehensive interagency plan to monitor and conduct research on the processes and consequences of ocean acidification on marine organisms and ecosystems and to establish an ocean acidification program within the National Oceanic and Atmospheric Administration;
-  - **(2)** assessment and consideration of regional and national ecosystem and socioeconomic impacts of increased ocean acidification, and integration into marine resource decisions; and
+  - **(1)** development and coordination of a comprehensive interagency plan to—
+    - **(A)** monitor and conduct research on the processes and consequences of ocean acidification on marine organisms and ecosystems; and
+    - **(B)** establish an interagency research and monitoring program on ocean acidification;
+  - **(2)** assessment and consideration of regional and national ecosystem and socioeconomic impacts of increased ocean acidification; and
   - **(3)** research on adaptation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification.
 
-## § 3. Interagency Committee on Ocean Acidification
-
-- **(a)** *Establishment*
-  - **(1)** *In general* There is hereby established an Interagency Committee on Ocean Acidification.
-  - **(2)** *Membership* The Committee shall be comprised of senior representatives from the National Oceanic and Atmospheric Administration, the National Science Foundation, the National Aeronautics and Space Administration, the United States Geological Survey, the United States Fish and Wildlife Service, the Environmental Protection Agency, the Department of Energy, and such other Federal agencies as the Secretary considers appropriate.
-  - **(3)** *Chairman* The Committee shall be chaired by the representative from the National Oceanic and Atmospheric Administration. The chairman may create subcommittees chaired by any member agency of the committee. Working groups may be formed by the full Committee to address issues that may require more specialized expertise than is provided by existing subcommittees, or to receive advice, input, or comments from the academic community and other relevant stakeholders.
-- **(b)** *Purpose* The Committee shall oversee the planning, establishment, and coordination of a plan designed to improve the understanding of the role of increased ocean acidification on marine ecosystems and to identify and develop through research adaptation strategies and techniques to effectively conserve marine ecosystems as they cope with increased ocean acidification.
-- **(c)** *Reports to Congress*
-  - **(1)** *Strategic research and implementation plan* The Committee shall submit the strategic research and implementation plan established under section 4 to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives not later than 18 months after the date of enactment of this Act.
-  - **(2)** *Triennial report* Not later than 2 years after the date of the enactment of this Act and every 3 years thereafter, the Committee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives that includes—
-    - **(A)** a summary of federally funded ocean acidification research and monitoring activities, including the budget for each of these activities; and
-    - **(B)** an analysis of the progress made toward achieving the goals and priorities for the interagency research plan developed by the Committee under section 4 and recommendations for future activities, including policy recommendations developed as part of this research.
-
-## § 4. Strategic research and implementation plan
-
-- **(a)** *In General* Within 18 months after the date of enactment of this Act, the Committee shall develop a strategic research and implementation plan for coordinated Federal activities. In developing the plan, the Committee shall consider and use reports and studies conducted by Federal agencies and departments, the National Research Council, the Ocean Research and Resources Advisory Panel, the Joint Subcommittee on Ocean, Science, and Technology and the Climate Change Science Program of the National Science and Technology Council, the Joint Ocean Commission Initiative, and other expert scientific bodies.
-- **(b)** *Scope* The plan shall—
-  - **(1)** provide for interdisciplinary research among the ocean sciences, and coordinated research and activities to improve understanding of ocean acidification that will affect marine ecosystems and to assess the potential and realized socioeconomic impact of ocean acidification, including—
-    - **(A)** effects of atmospheric carbon dioxide on ocean chemistry;
-    - **(B)** biological impacts of ocean acidification, including research on—
-      - **(i)** commercially and recreationally important species;
-      - **(ii)** protected or endangered or threatened species;
-      - **(iii)** ecologically important calcifiers that lie at the base of the food chain; and
-      - **(iv)** physiological consequences of ocean acidification for ocean-dwelling organisms;
-    - **(C)** identification and assessment of ecosystems most at risk from projected changes in ocean chemistry including—
-      - **(i)** coastal ecosystems, including coral reef ecosystems;
-      - **(ii)** deep sea coral ecosystems; and
-      - **(iii)** polar and subpolar ecosystems;
-    - **(D)** modeling the effects of changing carbon system chemistry, including ecosystem forecasting;
-    - **(E)** identifying feedback mechanisms resulting from ocean chemistry changes and decreases in calcification rates of organisms;
-    - **(F)** socioeconomic impacts of ocean acidification; and
-    - **(G)** identifying interactions between ocean acidification and other oceanic changes associated with climate change, including changes in sea temperature, ocean circulation, terrestrial runoff, and other changes;
-  - **(2)** establish, for the 10-year period beginning in the year it is submitted, goals, priorities, and guidelines for coordinated research activities that will—
-    - **(A)** most effectively advance scientific understanding of the characteristics and impacts of ocean acidification;
-    - **(B)** provide forecasts of ocean acidification and the consequent impacts on marine ecosystems; and
-    - **(C)** provide research that could serve as a basis for policy decisions to reduce and manage ocean acidification and its environmental impacts;
-  - **(3)** provide an estimate of Federal funding requirements for research and monitoring activities; and
-  - **(4)** identify and strengthen relevant programs and activities of the Federal agencies and departments that would contribute to accomplishing the goals of the plan and prevent unnecessary duplication of efforts, including making recommendations for the use of observing systems and technological research and development.
-
-## § 5. NOAA ocean acidification program
-
-- **(a)** *In General* The Secretary shall establish and maintain an ocean acidification program within the National Oceanic and Atmospheric Administration to implement activities consistent with the strategic research and implementation plan developed by the Committee under section 4 that—
-  - **(1)** includes—
-    - **(A)** interdisciplinary research among the ocean and atmospheric sciences, and coordinated research and activities to improve understanding of ocean acidification;
-    - **(B)** the establishment of a long-term monitoring program of ocean acidification utilizing existing global and national ocean observing assets, and adding instrumentation and sampling stations as appropriate to the aims of the research program;
-    - **(C)** research to identify and develop adaptation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification;
-    - **(D)** as an integral part of the research programs described in this Act, educational opportunities that encourage an interdisciplinary and international approach to exploring the impacts of ocean acidification;
-    - **(E)** as an integral part of the research programs described in this Act, national public outreach activities to improve the understanding of current scientific knowledge of ocean acidification and its impacts on marine resources; and
-    - **(F)** coordination of ocean acidification monitoring and impacts research with other appropriate international ocean science bodies such as the International Oceanographic Commission, the International Council for the Exploration of the Sea, the North Pacific Marine Science Organization, and others;
-  - **(2)** provides grants for critical research projects that explore the effects of ocean acidification on ecosystems and the socioeconomic impacts of increased ocean acidification that are relevant to the goals and priorities of the strategic research plan; and
-  - **(3)** incorporates a competitive merit-based grant process that may be conducted jointly with other participating agencies or under the National Oceanographic Partnership Program under section 7901 of title 10, United States Code.
-- **(b)** *Additional Authority* In conducting the Program, the Secretary may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this Act on such terms as the Secretary deems appropriate.
-
-## § 6. Definitions
+## § 3. Definitions
 
 In this Act:
 
-- **(1)** *Committee* The term Committee means the Interagency Committee on Ocean Acidification established by section 3(a).
-- **(2)** *Ocean acidification* The term ocean acidification means the decrease in pH of the Earth’s oceans caused by chemical inputs from the atmosphere, including anthropogenic carbon dioxide.
-- **(3)** *Program* The term Program means the National Oceanic and Atmospheric Administration Ocean Acidification Program established under section 5.
-- **(4)** *Secretary* The term Secretary means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+- **(1)** *Ocean acidification* The term ocean acidification means the decrease in pH of the Earth’s oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide.
+- **(2)** *Secretary* The term Secretary means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+- **(3)** *Subcommittee* The term “Subcommittee” means the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council.
 
-## § 7. Authorization of appropriations
+## § 4. Interagency subcommittee
 
-- **(a)** *In General* There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out the purposes of this Act—
+- **(a)** *Designation* The Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall coordinate Federal activities on ocean acidification.
+- **(b)** *Duties* The Subcommittee shall—
+  - **(1)** develop the strategic research and monitoring plan to guide Federal research on ocean acidification required under section 5 of this Act and oversee the implementation of the plan;
+  - **(2)** oversee the development of—
+    - **(A)** an assessment of the potential impacts of ocean acidification on marine organisms and marine ecosystems; and
+    - **(B)** adaptation and mitigation strategies to conserve marine organisms and ecosystems exposed to ocean acidification;
+  - **(3)** facilitate communication and outreach opportunities with nongovernmental organizations and members of the stakeholder community with interests in marine resources;
+  - **(4)** coordinate the United States Federal research and monitoring program with research and monitoring programs and scientists from other nations; and
+  - **(5)** establish or designate an Ocean Acidification Information Exchange to make information on ocean acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification.
+- **(c)** *Reports to Congress*
+  - **(1)** *Initial report* Not later than 1 year after the date of enactment of this Act, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives that—
+    - **(A)** includes a summary of federally funded ocean acidification research and monitoring activities, including the budget for each of these activities; and
+    - **(B)** describes the progress in developing the plan required under section 5 of this Act.
+  - **(2)** *Biennial report* Not later than 2 years after the delivery of the initial report under paragraph (1) and every 2 years thereafter, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives that includes—
+    - **(A)** a summary of federally funded ocean acidification research and monitoring activities, including the budget for each of these activities; and
+    - **(B)** an analysis of the progress made toward achieving the goals and priorities for the interagency research plan developed by the Subcommittee under section 5.
+  - **(3)** *Strategic research plan* Not later than 2 years after the date of enactment of this Act, the Subcommittee shall transmit the strategic research plan developed under section 5 to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
+
+## § 5. Strategic research plan
+
+- **(a)** *In general* Not later than 2 years after the date of enactment of this Act, the Subcommittee shall develop a strategic plan for Federal research and monitoring on ocean acidification that will provide for an assessment of the impacts of ocean acidification on marine organisms and marine ecosystems and the development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems. In developing the plan, the Subcommittee shall consider and use information, reports, and studies of ocean acidification that have identified research and monitoring needed to better understand ocean acidification and its potential impacts, and recommendations made by the National Academy of Sciences in the review of the plan required under subsection (d).
+- **(b)** *Contents of the plan* The plan shall—
+  - **(1)** establish, for the 10-year period beginning in the year the plan is submitted, the goals and priorities for Federal research and monitoring which will—
+    - **(A)** advance understanding of ocean acidification and its physical, chemical, and biological impacts on marine organisms and marine ecosystems;
+    - **(B)** improve the ability to assess the socioeconomic impacts of ocean acidification; and
+    - **(C)** provide information for the development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems;
+  - **(2)** describe specific activities, including—
+    - **(A)** efforts to determine user needs;
+    - **(B)** research activities;
+    - **(C)** monitoring activities;
+    - **(D)** technology and methods development;
+    - **(E)** data collection;
+    - **(F)** database development;
+    - **(G)** modeling activities;
+    - **(H)** assessment of ocean acidification impacts; and
+    - **(I)** participation in international research efforts;
+  - **(3)** identify relevant programs and activities of the Federal agencies that contribute to the interagency program directly and indirectly and set forth the role of each Federal agency in implementing the plan;
+  - **(4)** consider and utilize, as appropriate, reports and studies conducted by Federal agencies, the National Research Council, or other entities;
+  - **(5)** make recommendations for the coordination of the ocean acidification research and monitoring activities of the United States with such activities of other nations and international organizations;
+  - **(6)** outline budget requirements for Federal ocean acidification research and monitoring and assessment activities to be conducted by each agency under the plan;
+  - **(7)** identify the monitoring systems and sampling programs currently employed in collecting data relevant to ocean acidification and prioritize additional monitoring systems that may be needed to ensure adequate data collection and monitoring of ocean acidification and its impacts; and
+  - **(8)** describe specific activities designed to facilitate outreach and data and information exchange with stakeholder communities.
+- **(c)** *Program elements* The plan shall include at a minimum the following program elements:
+  - **(1)** Monitoring of ocean chemistry and biological impacts associated with ocean acidification at selected coastal and open-ocean monitoring stations, including satellite-based monitoring to characterize—
+    - **(A)** marine ecosystems;
+    - **(B)** changes in marine productivity; and
+    - **(C)** changes in surface ocean chemistry.
+  - **(2)** Research to understand the species specific physiological response of marine organisms to ocean acidification, impacts on marine food webs of ocean acidification, and to develop environmental and ecological indices that track marine ecosystem responses to ocean acidification.
+  - **(3)** Modeling to predict changes in the ocean carbon cycle as a function of carbon dioxide and atmosphere-induced changes in temperature, ocean circulation, biogeochemistry, ecosystem and terrestrial input, and modeling to determine impacts on marine ecosystems and individual marine organisms.
+  - **(4)** Technology development and standardization of carbonate chemistry measurements on moorings and autonomous floats.
+  - **(5)** Assessment of socioeconomic impacts of ocean acidification and development of adaptation and mitigation strategies to conserve marine organisms and marine ecosystems.
+- **(d)** *National academy of sciences evaluation* The Secretary shall enter into an agreement with the National Academy of Sciences to review the plan.
+- **(e)** *Public participation* In developing the plan, the Subcommittee shall consult with representatives of academic, State, industry and environmental groups. Not later than 90 days before the plan, or any revision thereof, is submitted to the Congress, the plan shall be published in the Federal Register for a public comment period of not less than 60 days.
+
+## § 6. NOAA ocean acidification activities
+
+The Secretary shall conduct research and monitoring activities and may establish a program on ocean acidification within the National Oceanic and Atmospheric Administration consistent with the strategic research plan developed by the Subcommittee under section 5 that—
+
+- **(1)** includes—
+  - **(A)** interdisciplinary research among the ocean and atmospheric sciences, and coordinated research and activities to improve understanding of ocean acidification;
+  - **(B)** the establishment of a long-term monitoring program of ocean acidification utilizing existing global and national ocean observing assets, and adding instrumentation and sampling stations as appropriate to the aims of the research program;
+  - **(C)** research to identify and develop adaptation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification;
+  - **(D)** as an integral part of the research programs described in this Act, educational opportunities that encourage an interdisciplinary and international approach to exploring the impacts of ocean acidification;
+  - **(E)** as an integral part of the research programs described in this Act, national public outreach activities to improve the understanding of current scientific knowledge of ocean acidification and its impacts on marine resources; and
+  - **(F)** coordination of ocean acidification monitoring and impacts research with other appropriate international ocean science bodies such as the International Oceanographic Commission, the International Council for the Exploration of the Sea, the North Pacific Marine Science Organization, and others;
+- **(2)** provides grants for critical research projects that explore the effects of ocean acidification on ecosystems and the socioeconomic impacts of increased ocean acidification that are relevant to the goals and priorities of the strategic research plan; and
+- **(3)** incorporates a competitive merit-based process for awarding grants that may be conducted jointly with other participating agencies or under the National Oceanographic Partnership Program under section 7901 of title 10, United States Code.
+
+## § 7. NSF ocean acidification activities
+
+- **(a)** *Research activities* The Director of the National Science Foundation shall continue to carry out research activities on ocean acidification which shall support competitive, merit-based, peer-reviewed proposals for research and monitoring of ocean acidification and its impacts, including—
+  - **(1)** impacts on marine organisms and marine ecosystems;
+  - **(2)** impacts on ocean, coastal, and estuarine biogeochemistry; and
+  - **(3)** the development of methodologies and technologies to evaluate ocean acidification and its impacts.
+- **(b)** *Consistency* The research activities shall be consistent with the strategic research plan developed by the Subcommittee under section 5.
+- **(c)** *Coordination* The Director shall encourage coordination of the Foundation’s ocean acidification activities with such activities of other nations and international organizations.
+
+## § 8. NASA ocean acidification activities
+
+- **(a)** *Ocean acidification activities* The Administrator of the National Aeronautics and Space Administration, in coordination with other relevant agencies, shall ensure that space-based monitoring assets are used in as productive a manner as possible for monitoring of ocean acidification and its impacts.
+- **(b)** *Program consistency* The Administrator shall ensure that the Agency’s research and monitoring activities on ocean acidification are carried out in a manner consistent with the strategic research plan developed by the Subcommittee under section 5.
+- **(c)** *Coordination* The Administrator shall encourage coordination of the Agency’s ocean acidification activities with such activities of other nations and international organizations.
+
+## § 9. Authorization of appropriations
+
+- **(a)** *NOAA* There are authorized to be appropriated to the National Oceanic and Atmospheric Administration to carry out the purposes of this Act—
+  - **(1)** $8,000,000 for fiscal year 2009;
+  - **(2)** $12,000,000 for fiscal year 2010;
+  - **(3)** $15,000,000 for fiscal year 2011; and
+  - **(4)** $20,000,000 for fiscal year 2012.
+- **(b)** *NSF* There are authorized to be appropriated to the National Science Foundation to carry out the purposes of this Act—
   - **(1)** $6,000,000 for fiscal year 2009;
   - **(2)** $8,000,000 for fiscal year 2010;
-  - **(3)** $11,000,000 for fiscal year 2011; and
-  - **(4)** $30,000,000 for fiscal year 2012 and each fiscal year thereafter.
-- **(b)** *Allocation*
-  - **(1)** Of the amounts made available to carry out this Act for a fiscal year, the Secretary shall allocate at least 60 percent to other departments and agencies to carry out the priorities of the plan developed by the Committee.
-  - **(2)** Of the amounts made available to carry out this Act for any fiscal year, the Secretary, and other departments and agencies to which amounts are allocated under paragraph (1), shall allocate at least 50 percent for competitive grants.
+  - **(3)** $12,000,000 for fiscal year 2011; and
+  - **(4)** $15,000,000 for fiscal year 2012.
