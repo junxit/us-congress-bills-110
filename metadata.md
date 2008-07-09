@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6184
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6184
@@ -30,6 +30,10 @@ America's Beautiful National Parks Quarter Dollar Coin Act of 2008
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2008-07-09 — [House 110-2-479](votes/house-110-2-0479.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–0)
+
 ## Actions
 
 - 2008-06-04 — Introduced in House
@@ -40,3 +44,11 @@ America's Beautiful National Parks Quarter Dollar Coin Act of 2008
 - 2008-07-08 — Placed on the Union Calendar, Calendar No. 474.
 - 2008-07-08 — Reported by the Committee on Financial Services. H. Rept. 110-748.
 - 2008-07-08 — Reported by the Committee on Financial Services. H. Rept. 110-748.
+- 2008-07-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-07-09 — Considered as unfinished business. (consideration: CR H6305-6306)
+- 2008-07-09 — Considered under suspension of the rules. (consideration: CR H6278-6285)
+- 2008-07-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6184.
+- 2008-07-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-09 — Mrs. Maloney (NY) moved to suspend the rules and pass the bill.
+- 2008-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 479). (text: CR H6278-6280)
+- 2008-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 479).(text: CR H6278-6280)
