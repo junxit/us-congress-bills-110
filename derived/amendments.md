@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3329
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -53,5 +53,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 3533` | add-at-end | Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | amend | Section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12705` | insert | in subsection (b)(1), by inserting “veterans (as such term is defined in section 101 of title 38, United States Code),” after “acquired immunodeficiency syndrome,”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 12705` | insert | in subsection (e)(1), by inserting “veterans (as such term is defined in section 101 of title 38, United States Code),” after “homeless persons,”. | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 101` | insert | in subsection (b)(1), by inserting “veterans (as such term is defined in section 101 of title 38, United States Code),” after “acquired immunodeficiency syndrome,”; | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 101` | insert | in subsection (e)(1), by inserting “veterans (as such term is defined in section 101 of title 38, United States Code),” after “homeless persons,”. | the bill quotes the text inserted but describes where it goes |
