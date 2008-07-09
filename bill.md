@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4461
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Community Building Code Administration Grant Act of 2007”.
+This Act may be cited as the “Community Building Code Administration Grant Act of 2008”.
 
 ## § 2. Grant program authorized
 
@@ -84,6 +84,6 @@ For purposes of this Act, the following definitions shall apply:
 
 ## § 9. Authorization of appropriations
 
-- **(a)** *In general* There are authorized to be appropriated $100,000,000 for each of fiscal years 2008 through 2013 to the Secretary of Housing and Urban Development to carry out the provisions of this Act.
+- **(a)** *In general* There are authorized to be appropriated $20,000,000 for each of fiscal years 2009 through 2013 to the Secretary of Housing and Urban Development to carry out the provisions of this Act.
 - **(b)** *Reservation* From the amount made available under subsection (a), the Secretary may reserve not more than 5 percent for administrative costs.
 - **(c)** *Availability* Any funds appropriated pursuant to subsection (a) shall remain available until expended.
