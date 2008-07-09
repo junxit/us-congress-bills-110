@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6382
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-246 amendatory instructions. 3 executed, 243 stated and not applied.
+246 amendatory instructions. 9 executed, 237 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -50,6 +50,60 @@ to guess them.
 |---|---|
 | Removed | `subparagraph (B)` |
 | Inserted | `subparagraphs (B) and (D)` |
+
+### 26 U.S.C. § 411
+
+> by striking “clause” in subparagraph (A)(iii) and inserting “subparagraph”, and
+
+| | |
+|---|---|
+| Removed | `clause` |
+| Inserted | `subparagraph` |
+
+### 26 U.S.C. § 411
+
+> by striking “clause” in subparagraph (A)(iii) and inserting “subparagraph”, and
+
+| | |
+|---|---|
+| Removed | `clause` |
+| Inserted | `subparagraph` |
+
+### 26 U.S.C. § 411
+
+> by striking “paragraph (2)” in clause (i) and inserting “subparagraph (B)”,
+
+| | |
+|---|---|
+| Removed | `paragraph (2)` |
+| Inserted | `subparagraph (B)` |
+
+### 26 U.S.C. § 411
+
+> by striking “paragraph (3)” in the matter following clause (ii) and inserting “subparagraph (C)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (3)` |
+| Inserted | `subparagraph (C)` |
+
+### 26 U.S.C. § 411
+
+> Section 701(d)(2) of the 2006 Act is amended by striking “204(g)” and inserting “205(g)”.
+
+| | |
+|---|---|
+| Removed | `204(g)` |
+| Inserted | `205(g)` |
+
+### 26 U.S.C. § 411
+
+> by striking “earlier” and inserting “later” in subparagraph (A),
+
+| | |
+|---|---|
+| Removed | `earlier` |
+| Inserted | `later` |
 
 ## Stated, not applied
 
@@ -140,7 +194,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “required minimum” in subsection (b)(1) and inserting “minimum required”, | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or unpaid minimum required contribution, whichever is applicable” after “accumulated funding deficiency” each place it appears in subsections (c)(3) and (d)(1), and | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 412(a)(1)(A)” in subsection (e)(1) and inserting “section 412(a)(2)”. | the bill names no machine-readable US Code section |
-| — | amend | Section 114 of the 2006 Act is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 114 of the 2006 Act is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 409A(b)(3)(A)(ii) of the 1986 Code is amended by inserting “to an applicable covered employee” after “under the plan”. | the bill names no machine-readable US Code section |
 | — | replace | Section 201(b)(2)(A) of the 2006 Act is amended by striking “has not used” and inserting “has not adopted, or ceased using,”. | the bill names no machine-readable US Code section |
 | — | replace | Section 302(b)(3) of ERISA is amended by striking “the plan adopts” and inserting “the plan sponsor adopts”. | the bill names no machine-readable US Code section |
@@ -148,10 +202,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 305(b)(3)(D) of ERISA is amended by striking “The Secretary” in clause (iii) and inserting “The Secretary of the Treasury, in consultation with the Secretary”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “to agree on” and all that follows in subparagraph (A)(ii) and inserting “to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (B) and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking all that follows “to adopt a” in clause (i)(II) and inserting “to adopt a contribution schedule with terms consistent with the rehabilitation plan and a schedule from the plan sponsor under paragraph (1)(B)(i),”, | the bill names no machine-readable US Code section |
 | — | replace | by striking clause (ii) and inserting the following new clause: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | strike | by striking “the date of” in subparagraph (A)(ii), and | the bill names no machine-readable US Code section |
 | — | replace | by striking “and taking” in subparagraph (B) and inserting “but taking”, | the bill names no machine-readable US Code section |
 | — | replace | by striking “paragraph (1)(B)(i)” and inserting “the last sentence of paragraph (1)”, and | the bill names no machine-readable US Code section |
@@ -228,22 +282,16 @@ complete account of the bill's effect, which it is not.
 | — | replace | in paragraphs (19), (20), and (21), by striking “party in interest” each place it appears and inserting “disqualified person”, and | the bill names no machine-readable US Code section |
 | — | strike | by striking “or less” in paragraph (21)(C). | the bill names no machine-readable US Code section |
 | — | replace | Section 404(c)(5) of ERISA is amended by striking “participant” each place it appears and inserting “participant or beneficiary”. | the bill names no machine-readable US Code section |
-| — | amend | Section 203(f)(1)(B) of ERISA is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “clause” in subparagraph (A)(iii) and inserting “subparagraph”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “otherwise” before “allowable” in subparagraph (C). | the bill names no machine-readable US Code section |
-| — | amend | Subclause (II) of section 204(b)(5)(B)(i) of ERISA is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | by striking “clause” in subparagraph (A)(iii) and inserting “subparagraph”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “otherwise” before “allowable” in subparagraph (C). | the bill names no machine-readable US Code section |
-| — | replace | by striking “paragraph (2)” in clause (i) and inserting “subparagraph (B)”, | the bill names no machine-readable US Code section |
-| — | replace | by striking clause (ii) and inserting the following new clause: | the bill names no machine-readable US Code section |
-| — | replace | by striking “paragraph (3)” in the matter following clause (ii) and inserting “subparagraph (C)”. | the bill names no machine-readable US Code section |
-| — | amend | Subclause (II) of section 411(b)(5)(B)(i) of the 1986 Code is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | Section 701(d)(2) of the 2006 Act is amended by striking “204(g)” and inserting “205(g)”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “on or” after “period” in paragraph (3), | the bill names no machine-readable US Code section |
-| — | insert | by inserting “the earlier of ” after “before” in the matter preceding subparagraph (A), and | the bill names no machine-readable US Code section |
-| — | replace | by striking “earlier” and inserting “later” in subparagraph (A), | the bill names no machine-readable US Code section |
-| — | insert | by inserting “on or” before “after” each place it appears in paragraph (5), and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 411` | amend | Section 203(f)(1)(B) of ERISA is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 411` | insert | by inserting “otherwise” before “allowable” in subparagraph (C). | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 411` | amend | Subclause (II) of section 204(b)(5)(B)(i) of ERISA is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 411` | insert | by inserting “otherwise” before “allowable” in subparagraph (C). | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 411` | replace | by striking clause (ii) and inserting the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 411` | amend | Subclause (II) of section 411(b)(5)(B)(i) of the 1986 Code is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 411` | insert | by inserting “on or” after “period” in paragraph (3), | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 411` | insert | by inserting “the earlier of ” after “before” in the matter preceding subparagraph (A), and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 411` | insert | by inserting “on or” before “after” each place it appears in paragraph (5), and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 411` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “430(g)(2)” in paragraph (2)(A)(ii) and inserting “430(g)(3)”, and | the bill names no machine-readable US Code section |
 | — | replace | by striking “412(f)(4)” in paragraph (4)(B) and inserting “412(d)(3)”. | the bill names no machine-readable US Code section |
 | — | strike | by striking the next to last sentence, and | the bill names no machine-readable US Code section |
@@ -252,7 +300,7 @@ complete account of the bill's effect, which it is not.
 | — | amend | Clause (iii) of section 404(a)(7)(C) of the 1986 Code is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | strike | by striking the second “an” before “eligible”, | the bill names no machine-readable US Code section |
 | — | strike | by striking “other than a Roth IRA”, and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new flush sentence: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new flush sentence: | the bill names no machine-readable US Code section |
 | — | replace | Section 408A(d)(3)(B), as in effect after the amendments made by section 824(b)(2)(B) of the 2006 Act, is amended by striking “(other than a Roth IRA)” and by inserting at the end the following new sentence: “This paragraph shall not app… | the bill names no machine-readable US Code section |
 | — | insert | The first sentence of section 72(t)(2)(G)(iv) of the 1986 Code is amended by inserting “on or” before “before”. | the bill names no machine-readable US Code section |
 | — | insert | by inserting “described in paragraph (8)(B)(iii)” after “eligible retirement plan” in subparagraph (A), and | the bill names no machine-readable US Code section |
@@ -281,25 +329,25 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subparagraph (D) as subparagraph (C). | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 414(w)(5) of the 1986 Code is amended by striking “and” at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting a comma, and by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 414(w)(6) of the 1986 Code is amended by inserting “or for purposes of applying the limitation under section 402(g)(1)” before the period at the end. | the bill names no machine-readable US Code section |
-| — | amend | Section 414(x)(1) of the 1986 Code is amended by adding at the end of paragraph (1) the following new sentence: “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eli… | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end of paragraph (1) the following new sentence: “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator sh… | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 414(x)(1) of the 1986 Code is amended by adding at the end of paragraph (1) the following new sentence: “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eli… | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end of paragraph (1) the following new sentence: “In the case of a termination of the defined benefit plan and the applicable defined contribution plan forming part of an eligible combined plan, the plan administrator sh… | the bill names no machine-readable US Code section |
 | — | redesignate | by striking paragraph (3) and by redesignating paragraphs (4), (5), and (6) as paragraphs (3), (4), and (5), respectively. | the bill names no machine-readable US Code section |
 | — | replace | Section 906(b)(1)(B)(ii) of the 2006 Act is amended by striking “paragraph (1)” and inserting “paragraph (10)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 4021(b) of ERISA is amended by inserting “or” at the end of paragraph (12), by striking “; or” at the end of paragraph (13) and inserting a period, and by striking paragraph (14). | the bill names no machine-readable US Code section |
-| `45 U.S.C. § 231m` | amend | Section 14(b) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `45 U.S.C. § 231m` | add-at-end | Section 14(b) of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 231d` | repeal | Subsection (d) of section 5 of the Railroad Retirement Act (45 U.S.C. 231d) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1104(d)(1) of the 2006 Act is amended by striking “Act” the first place it appears and inserting “section”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating clauses (i) and (ii) of subparagraph (A) as subclauses (I) and (II), | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), | the bill names no machine-readable US Code section |
 | — | redesignate | by striking the semicolon at the end of clause (ii) (as so redesignated) and inserting “, and”, | the bill names no machine-readable US Code section |
 | — | replace | by striking “(15)” and inserting “(15)(A) subject to subparagraph (B),”, and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking the last sentence. | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 101(b)(4)” in clause (v)(III) and inserting “section 101(b)(1)”. | the bill names no machine-readable US Code section |
 | — | amend | The last sentence of section 303(g)(3)(B) of ERISA is amended to read as follows: “Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan’s actuary on the basis of an assum… | the bill names no machine-readable US Code section |
 | — | amend | The last sentence of section 430(g)(3)(B) of the 1986 Code is amended to read as follows: “Any such averaging shall be adjusted for contributions, distributions, and expected earnings (as determined by the plan’s actuary on the basis of … | the bill names no machine-readable US Code section |
 | — | add-at-end | Subparagraph (E) of section 415(b)(2) of the 1986 Code (relating to limitation on certain assumptions) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 414` | add-at-end | Section 4(i)(10)(B)(i)(III) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623(i)(10)(B)(i)(III)) is amended by adding at the end the following: “In the case of a governmental plan (as defined in the first sentence of sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 623` | add-at-end | Section 4(i)(10)(B)(i)(III) of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623(i)(10)(B)(i)(III)) is amended by adding at the end the following: “In the case of a governmental plan (as defined in the first sentence of sec… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 105 of the 1986 Code (relating to amounts received under accident and health plans) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6698 of the 1986 Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 6699 of the 1986 Code is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
