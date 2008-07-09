@@ -2,7 +2,7 @@
 legis-num: H. RES. 1322
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1322
@@ -23,7 +23,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the cooperative, unified approach to addressing wildland fires by Federal, State, local, tribal, and volunteer agencies have worked as one team under California’s innovative incident command system;
 - Whereas the wildfires have been fought in a manner consistent with wilderness and wildlife protection, including protection of endangered species such as the Southern Sea Otter;
 - Whereas the people of California and the United States recognize that the dedication of the firefighters will remain steadfast throughout the ongoing suppression, repair, and rebuilding efforts;
-- Whereas firefighters continue to make progress in containing wildfires throughout California, and, as of July 8, 2008, more than 1,400 fires have been contained due to the diligent and tireless efforts of firefighters from California and throughout the United States; and
+- Whereas firefighters continue to make progress in containing wildfires throughout California, and, as of July 8, 2008, more than 1,400 fires have been contained due to the diligent and tireless efforts of firefighters from California and throughout the United States, and
 - Whereas several firefighters have been injured and one firefighter has given his life while fighting the wildfires: Now, therefore, be it
 
 That the House of Representatives—
