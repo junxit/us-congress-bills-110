@@ -50,13 +50,13 @@ In this Act:
   - **(4)** coordinate the United States Federal research and monitoring program with research and monitoring programs and scientists from other nations; and
   - **(5)** establish or designate an Ocean Acidification Information Exchange to make information on ocean acidification developed through or utilized by the interagency ocean acidification program accessible through electronic means, including information which would be useful to policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification.
 - **(c)** *Reports to Congress*
-  - **(1)** *Initial report* Not later than 1 year after the date of enactment of this Act, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives that—
+  - **(1)** *Initial report* Not later than 1 year after the date of enactment of this Act, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives that—
     - **(A)** includes a summary of federally funded ocean acidification research and monitoring activities, including the budget for each of these activities; and
     - **(B)** describes the progress in developing the plan required under section 5 of this Act.
-  - **(2)** *Biennial report* Not later than 2 years after the delivery of the initial report under paragraph (1) and every 2 years thereafter, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives that includes—
+  - **(2)** *Biennial report* Not later than 2 years after the delivery of the initial report under paragraph (1) and every 2 years thereafter, the Subcommittee shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives that includes—
     - **(A)** a summary of federally funded ocean acidification research and monitoring activities, including the budget for each of these activities; and
     - **(B)** an analysis of the progress made toward achieving the goals and priorities for the interagency research plan developed by the Subcommittee under section 5.
-  - **(3)** *Strategic research plan* Not later than 2 years after the date of enactment of this Act, the Subcommittee shall transmit the strategic research plan developed under section 5 to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
+  - **(3)** *Strategic research plan* Not later than 2 years after the date of enactment of this Act, the Subcommittee shall transmit the strategic research plan developed under section 5 to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
 
 ## § 5. Strategic research plan
 
@@ -96,7 +96,7 @@ In this Act:
 
 ## § 6. NOAA ocean acidification activities
 
-The Secretary shall conduct research and monitoring activities and may establish a program on ocean acidification within the National Oceanic and Atmospheric Administration consistent with the strategic research plan developed by the Subcommittee under section 5 that—
+The Secretary shall conduct research and monitoring activities on ocean acidification within the National Oceanic and Atmospheric Administration consistent with the strategic research plan developed by the Subcommittee under section 5 that—
 
 - **(1)** includes—
   - **(A)** interdisciplinary research among the ocean and atmospheric sciences, and coordinated research and activities to improve understanding of ocean acidification;
