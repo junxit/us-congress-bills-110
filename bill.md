@@ -41,7 +41,7 @@ Section 406(b)(3)(A)(ii) of the Federal Water Pollution Control Act (33 U.S.C. 1
     > - **(C)** *Validation of rapid testing methods* Not later than 2 years after the date of enactment of this subparagraph, and periodically thereafter, the Administrator shall validate the rapid testing methods.
 
 - **(c)** *Definition* Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following:
-  > - **(25)** *Rapid testing method* The term rapid testing method means a method of testing for which results are available within 2 hours.
+  > - **(25)** *Rapid testing method* The term rapid testing method means a method of testing for which results are available within 2 hours after commencement of the rapid testing method.
 
 ## § 6. Prompt communication with State environmental agencies
 
@@ -72,7 +72,7 @@ Section 406(h) of the Federal Water Pollution Control Act (33 U.S.C. 1346(h)) is
 - **(2)** by striking “In the” and inserting the following: “(1) In general.—In the”; and
 - **(3)** by adding at the end the following:
   > - **(2)** *Compliance review* On or before July 31 of each calendar year beginning after the date of enactment of this paragraph, the Administrator shall—
-  >   - **(A)** prepare a written assessment of compliance with all statutory and regulatory requirements of this section for each State and local government and of compliance with conditions of each grant made under this section to a State or local government;
+  >   - **(A)** prepare a written assessment of compliance with all statutory and regulatory requirements of this section for each State and local government, and of compliance with conditions of each grant made under this section to a State or local government, including compliance with any requirement or condition under subsection (a)(2) or (c);
   >   - **(B)** notify the State or local government of the assessment; and
   >   - **(C)** make each of the assessments available to the public in a searchable database on or before December 31 of the calendar year.
   > - **(3)** *Corrective action*
