@@ -1,13 +1,13 @@
 ---
 legis-num: S. 462
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 462
 
-> To approve the settlement of the water rights claims of the Shoshone-Paiute Tribes of the Duck Valley Indian Reservation in Nevada, to require the Secretary of the Interior to carry out the settlement, and for other purposes.
+> To approve the settlement of the water rights claims of the Shoshone-Paiute Tribes of the Duck Valley Reservation in Nevada, to require the Secretary of the Interior to carry out the settlement, and for other purposes.
 
 ## § 1. Short title
 
