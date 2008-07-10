@@ -25,7 +25,7 @@ This Act may be cited as the “A Child Is Missing Alert and Recovery Center Act
 
 ## § 3. Definition of missing child
 
-For purposes of this Act, the term “missing child” means an individual whose whereabouts are unknown to a Federal, State, or local law enforcement agency.
+For purposes of this Act, the term missing child means an individual whose whereabouts are unknown to a Federal, State, or local law enforcement agency.
 
 ## § 4. Authorization of appropriations
 
