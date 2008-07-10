@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3999
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,7 +30,7 @@ This Act may be cited as the “National Highway Bridge Reconstruction and Inspe
       - **(i)** *Participation of National Academy of Sciences* Not later than 18 months after the date of enactment of this Act, the Secretary shall enter into appropriate arrangements with the National Academy of Sciences to permit the Academy to conduct an independent review of the process for assigning risk-based priorities established under subparagraph (A).
       - **(ii)** *Report to Congress* Not later than 2 years after the date of enactment of this Act, the Academy shall submit a report on the results of the review to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate.
       - **(iii)** *Authorization of appropriations* There is authorized to be appropriated to carry out this subparagraph $2,000,000 for fiscal year 2008. Such sums shall remain available until expended.
-- **(b)** *Apportionment* Section 144(e) of such title is amended by adding at the end the following: “In this subsection, the term “deficient bridge” means a bridge that is structurally deficient or functionally obsolete.”.
+- **(b)** *Apportionment* Section 144(e) of such title is amended by adding at the end the following: “In this subsection, the term deficient bridge means a bridge that is structurally deficient or functionally obsolete.”.
 - **(c)** *Participation* Section 144(d) of such title is amended by adding at the end the following:
   > - **(5)** *Requirements for State participation*
   >   - **(A)** *In general* As a condition for providing assistance to a State under this section, the Secretary shall require the State—
@@ -58,12 +58,12 @@ This Act may be cited as the “National Highway Bridge Reconstruction and Inspe
 
 - **(f)** *Definitions* Section 144 of such title is further amended by adding at the end the following:
   > - **(t)** *Definitions* In this section, the following definitions apply:
-  >   - **(1)** *Functionally obsolete* The term “functionally obsolete” as used with respect to a bridge means a bridge that no longer meets current design standards relating to geometrics, including roadway width, shoulder width, and approach alignment, for the traffic demands on the bridge.
-  >   - **(2)** *Structurally deficient* The term “structurally deficient” as used with respect to a bridge means a bridge that has—
+  >   - **(1)** *Functionally obsolete* The term functionally obsolete as used with respect to a bridge means a bridge that no longer meets current design standards relating to geometrics, including roadway width, shoulder width, and approach alignment, for the traffic demands on the bridge.
+  >   - **(2)** *Structurally deficient* The term structurally deficient as used with respect to a bridge means a bridge that has—
   >     - **(A)** significant load-carrying elements that are in poor or worse condition due to deterioration or damage, or both; or
   >     - **(B)** a waterway opening that is insufficient to the point of causing significant traffic interruptions.
-  >   - **(3)** *Rehabilitation* The term “rehabilitation” means major work necessary to restore the structural integrity of a bridge and work necessary to correct a major safety defect.
-  >   - **(4)** *Replacement* The term “replacement” as used with respect to a structurally deficient or functionally obsolete bridge means a new facility constructed in the same general traffic corridor that meets the geometric, construction, and structural standards, in effect at the time of such construction, required for the types and volume of projected traffic of the facility over its design life.
+  >   - **(3)** *Rehabilitation* The term rehabilitation means major work necessary to restore the structural integrity of a bridge and work necessary to correct a major safety defect.
+  >   - **(4)** *Replacement* The term replacement as used with respect to a structurally deficient or functionally obsolete bridge means a new facility constructed in the same general traffic corridor that meets the geometric, construction, and structural standards, in effect at the time of such construction, required for the types and volume of projected traffic of the facility over its design life.
 
 - **(g)** *Technical amendments*
   - **(1)** *In general* Section 144 of such title is amended—
