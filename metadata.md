@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1315
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1315
@@ -16,7 +16,7 @@ Commemorating the 50th Anniversary of the National Aeronautics and Space Adminis
 
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Cosponsors (27)
+## Cosponsors (44)
 
 - Rep. Lampson, Nick [D-TX-22] (L000043)
 - Rep. Bilbray, Brian P. [R-CA-50] (B000461)
@@ -45,6 +45,23 @@ Commemorating the 50th Anniversary of the National Aeronautics and Space Adminis
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
 - Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Campbell, John [R-CA-48] (C001064)
+- Rep. Hall, Ralph M. [R-TX-4] (H000067)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Mahoney, Tim [D-FL-16] (M001164)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
+- Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Rep. Dreier, David [R-CA-26] (D000492)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
 
 ## Committees (1)
 
@@ -55,3 +72,11 @@ Commemorating the 50th Anniversary of the National Aeronautics and Space Adminis
 - 2008-06-26 — Introduced in House
 - 2008-06-26 — Introduced in House
 - 2008-06-26 — Referred to the House Committee on Science and Technology.
+- 2008-07-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-07-09 — Considered under suspension of the rules. (consideration: CR H6257-6261)
+- 2008-07-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1315.
+- 2008-07-09 — Mr. Lampson moved to suspend the rules and agree to the resolution.
+- 2008-07-10 — Considered as unfinished business. (consideration: CR H6373-6374)
+- 2008-07-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-10 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 7/9/2008 H6257)
+- 2008-07-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 7/9/2008 H6257)
