@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5170
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5170
@@ -30,3 +30,10 @@ Department of Homeland Security Component Privacy Officer Act of 2008
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Referred to the House Committee on Homeland Security.
 - 2008-01-29 — Sponsor introductory remarks on measure. (CR E103-104)
+- 2008-02-14 — Referred to the Subcommittee on Management, Investigations, and Oversight.
+- 2008-06-26 — Committee Consideration and Mark-up Session Held.
+- 2008-06-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-06-26 — Subcommittee on Management, Investigations, and Oversight Discharged.
+- 2008-07-10 — Placed on the Union Calendar, Calendar No. 482.
+- 2008-07-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-755.
+- 2008-07-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-755.
