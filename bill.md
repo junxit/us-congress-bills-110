@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Senior Professional Performance Act of 2007”.
+This Act may be cited as the “Senior Professional Performance Act of 2008”.
 
 ## § 2. Pay provisions relating to certain senior-level positions
 
@@ -39,32 +39,32 @@ This Act may be cited as the “Senior Professional Performance Act of 2007”.
         - **(I)** by striking “paragraph (1)(D)” and inserting “paragraph (1)(C)”; and
         - **(II)** by striking “or (vi)” and inserting “(vi), or (vii)”.
 - **(b)** *Access to higher maximum rate of basic pay* Section 5376(b) of title 5, United States Code, is amended—
-  - **(1)** in paragraph (1) by amending subparagraph (B) to read as follows:
+  - **(1)** in paragraph (1), by striking subparagraph (B) and inserting the following:
     > - **(B)** subject to paragraph (3), not greater than the rate of basic pay payable for level III of the Executive Schedule.
 
   - **(2)** by adding at the end the following:
-    > - **(3)** In the case of an agency which, under section 5307(d), has a performance appraisal system which, as designed and applied, is certified as making meaningful distinctions based on relative performance, paragraph (1)(B) shall apply as if the reference to “level III” were a reference to “level II”.
+    > - **(3)** In the case of an agency which has a performance appraisal system which, as designed and applied, is certified under section 5307(d) as making meaningful distinctions based on relative performance, paragraph (1)(B) shall apply as if the reference to “level III” were a reference to “level II”.
     > - **(4)** No employee may suffer a reduction in pay by reason of transfer from an agency with an applicable maximum rate of pay prescribed under paragraph (3) to an agency with an applicable maximum rate of pay prescribed under paragraph (1)(B).
 
 - **(c)** *Authority for employment; appointments; classification standards* Title 5, United States Code is amended—
-  - **(1)** in section 3104(a), in the second sentence, by striking “prescribes” and inserting “prescribes and publishes in such form as the Office may determine”;
+  - **(1)** in section 3104(a), in the second sentence, by striking “prescribes” and inserting “prescribes and publishes in such form as the Director may determine”;
   - **(2)** in section 3324(a) by striking “the Office of Personnel Management” and inserting: “the Director of the Office of Personnel Management on the basis of qualification standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director”;
   - **(3)** in section 3325—
     - **(A)** in subsection (a), in the second sentence, by striking “or its designee for this purpose” and inserting the following: “on the basis of standards developed by the agency involved in accordance with criteria specified in regulations prescribed by the Director of the Office of Personnel Management”; and
     - **(B)** by adding at the end the following:
       > - **(c)** The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the purpose of this section.
 
-  - **(4)** in section 5108(a)(2) by inserting “published by the Director of the Office of Personnel Management in such form as the Office may determine” after “and procedures”.
+  - **(4)** in section 5108(a)(2) by inserting “published by the Director of the Office of Personnel Management in such form as the Director may determine” after “and procedures”.
 - **(d)** *Effective date and application*
   - **(1)** *Effective date* The amendments made by this section shall take effect on the first day of the first pay period beginning on or after the 180th day following the date of enactment of this Act.
   - **(2)** *No reductions in rates of pay*
     - **(A)** *In general* The amendments made by this section may not result, at the time such amendments take effect, in a reduction in the rate of basic pay for an individual holding a position to which section 5376 of title 5, United States Code, applies.
-    - **(B)** *Determination of rate of pay* For the purposes of subparagraph (A), the rate of basic pay for an individual described in that subparagraph shall be deemed to be the rate of basic pay set for the individual under such section 5376, plus applicable locality pay paid to that individual, as of the effective date under paragraph (1).
+    - **(B)** *Determination of rate of pay* For the purposes of subparagraph (A), the rate of basic pay for an individual described in that subparagraph shall be deemed to be the rate of basic pay set for the individual under section 5376 of title 5, United States Code, plus any applicable locality pay paid to that individual on the day before the effective date under paragraph (1), subject to regulations that the Director of the Office of Personnel Management may prescribe.
   - **(3)** *References to maximum rates* Except as otherwise provided by law, any reference in a provision of law to the maximum rate under section 5376 of title 5, United States Code—
     - **(A)** as provided before the effective date of the amendments made by this section, shall be considered a reference to the rate of basic pay for level IV of the Executive Schedule; and
     - **(B)** as provided on or after the effective date of the amendments made by this section, shall be considered a reference to—
       - **(i)** the rate of basic pay for level III of the Executive Schedule; or
-      - **(ii)** if the head of the agency responsible for administering the applicable pay system certifies that the employees are covered by a performance appraisal system meeting requirements established by the Director of the Office of Personnel Management, level II of the Executive Schedule.
+      - **(ii)** if the head of the agency responsible for administering the applicable pay system certifies that the employees are covered by a performance appraisal system meeting the certification criteria established by regulation under section 5307(d), level II of the Executive Schedule.
 
 ## § 3. Limitations on certain payments
 
@@ -74,14 +74,14 @@ This Act may be cited as the “Senior Professional Performance Act of 2007”.
     - **(A)** by striking all beginning with “An” through “2 calendar years” and inserting “The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months”; and
     - **(B)** by striking “, for purposes of either or both of those years,”.
 - **(b)** *Extension of certification*
-  - **(1)** *Extension to 2008*
-    - **(A)** *In general* For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment of this Act and scheduled to expire at the end of calendar year 2007, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
-    - **(B)** *Limitation* The expiration of any extension under this paragraph shall be not later than the later of—
-      - **(i)** June 30, 2008; or
-      - **(ii)** the first anniversary of the date of the certification.
-  - **(2)** *Extension to 2009*
-    - **(A)** *In general* For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment and scheduled to expire at the end of calendar year 2008, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
+  - **(1)** *Extension to 2009*
+    - **(A)** *In general* For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment of this Act and scheduled to expire at the end of calendar year 2008, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
     - **(B)** *Limitation* The expiration of any extension under this paragraph shall be not later than the later of—
       - **(i)** June 30, 2009; or
+      - **(ii)** the first anniversary of the date of the certification.
+  - **(2)** *Extension to 2010*
+    - **(A)** *In general* For any certification of a performance appraisal system under section 5307(d) of title 5, United States Code, in effect on the date of enactment and scheduled to expire at the end of calendar year 2009, the Director of the Office of Personnel Management may provide that such a certification shall be extended without requiring additional justification by the agency.
+    - **(B)** *Limitation* The expiration of any extension under this paragraph shall be not later than the later of—
+      - **(i)** June 30, 2010; or
       - **(ii)** the second anniversary of the date of the certification.
 - **(c)** *Effective date* The amendments made by this section shall take effect on the date of enactment of this Act.
