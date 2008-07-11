@@ -1,7 +1,7 @@
 ---
 measure: S. 2967
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
