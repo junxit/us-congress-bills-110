@@ -36,10 +36,10 @@ Except as otherwise expressly provided therein, whenever in this Act an amendmen
   - **(1)** in paragraph (11) by striking “advisory services” and inserting “extension services”;
   - **(2)** in each of paragraphs (12) and (13) by striking “(33 U.S.C. 1126)”; and
   - **(3)** by adding at the end the following:
-    > - **(17)** The term “regional research and information plan” means a plan developed by one or more sea grant colleges or sea grant institutes that identifies regional priorities to implement the National Ocean Research Priorities Plan and Implementation Strategy.
-    > - **(18)** The term “National Ocean Research Priorities Plan and Implementation Strategy” means such plan and strategy issued by the National Science and Technology Council’s Joint Subcommittee on Ocean Science and Technology on January 26, 2007.
+    > - **(17)** The term regional research and information plan means a plan developed by one or more sea grant colleges or sea grant institutes that identifies regional priorities to implement the National Ocean Research Priorities Plan and Implementation Strategy.
+    > - **(18)** The term National Ocean Research Priorities Plan and Implementation Strategy means such plan and strategy issued by the National Science and Technology Council’s Joint Subcommittee on Ocean Science and Technology on January 26, 2007.
 
-- **(b)** *Repeal* Section 307 of the Flower Garden National Marine Sanctuary Act (Public Law 102–251; 106 Stat. 66) is repealed.
+- **(b)** *Repeal* Section 307 of the Act entitled “An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary” (Public Law 102–251; 106 Stat. 66) is repealed.
 
 ## § 5. National sea grant college program, generally
 
@@ -53,9 +53,9 @@ Except as otherwise expressly provided therein, whenever in this Act an amendmen
   - **(3)** by amending paragraph (4) to read as follows:
     > - **(4)** any regional or national strategic investments in fields relating to ocean, coastal, and Great Lakes resources developed in consultation with the board and with the approval of the sea grant colleges and the sea grant institutes.
 
-- **(b)** *Technical correction* Section 204(c)(1) (33 U.S.C. 1123(c)(1)) is amended by striking “Within 6 months of the date of enactment of the National Sea Grant College Program Reauthorization Act of 1998, the” and inserting “The”.
+- **(b)** *Technical correction* Section 204(c)(2) (33 U.S.C. 1123(c)(2)) is amended by striking “Within 6 months of the date of enactment of the National Sea Grant College Program Reauthorization Act of 1998, the” and inserting “The”.
 - **(c)** *Functions of Director of National Sea Grant College Program* Section 204(d) (33 U.S.C. 1123(d)) is amended—
-  - **(1)** in paragraph (2)(A), by striking “long range”;
+  - **(1)** in paragraph (2)(A), by striking “long-range”;
   - **(2)** in paragraph (3)(A)—
     - **(A)** by striking “(A)(i) evaluate” and inserting “(A) evaluate and assess”;
     - **(B)** by striking “activities; and” and inserting “activities;”; and
@@ -68,7 +68,7 @@ Except as otherwise expressly provided therein, whenever in this Act an amendmen
 
 ## § 6. Program or project grants and contracts
 
-- **(a)** *Exemption from limitation on cost share* Section 205(a) (33 U.S.C. 1124(a)) is amended in the matter following paragraph (2), by striking “section 204(c)(4)(F)” and inserting “section 204(d) or that are appropriated under section 208(b)”.
+- **(a)** *Exemption from limitation on cost share* Section 205(a) (33 U.S.C. 1124(a)) is amended in the matter following paragraph (2), by inserting “or that are appropriated under section 208(b)” before the period at the end.
 - **(b)** *Special grants; maximum amount* Section 205(b) (33 U.S.C. 1124(b)) is amended by striking the matter following paragraph (3) and inserting the following:
 
 ## § 7. Extension services by sea grant colleges and sea grant institutes
@@ -92,7 +92,7 @@ Section 208(a) (33 U.S.C. 1127(a)) is amended by striking “Not later than 1 ye
       > - **(a)** *Establishment* There shall be an independent committee to be known as the National Sea Grant Advisory Board.
 
     - **(B)** *Definition* Section 203(9) (33 U.S.C. 1122(9)) is amended to read as follows:
-      > - **(9)** The term “Board” means the National Sea Grant Advisory Board established under section 209.
+      > - **(9)** The term Board means the National Sea Grant Advisory Board established under section 209.
 
     - **(C)** *Other provisions* The following provisions are each amended by striking “panel” each place it appears and inserting “Board”:
       - **(i)** Section 204 (33 U.S.C. 1123).
@@ -106,7 +106,7 @@ Section 208(a) (33 U.S.C. 1127(a)) is amended by striking “Not later than 1 ye
   >     - **(C)** such other matters as the Secretary refers to the Board for review and advice.
   >   - **(2)** *Biennial report* The Board shall report to the Congress every two years on the state of the national sea grant college program. The Board shall indicate in each such report the progress made toward meeting the priorities identified in the strategic plan in effect under section 204(c). The Secretary shall make available to the Board such information, personnel, and administrative services and assistance as it may reasonably require to carry out its duties under this title.
 
-- **(c)** *Extension of term* Section 209(c)(3) (33 U.S.C. 1128(c)) is amended by striking the second sentence and inserting the following: “The Director may extend the term of office of a voting member of the Board once by up to 1 year.”.
+- **(c)** *Extension of term* Section 209(c)(2) (33 U.S.C. 1128(c)(2)) is amended by striking the second sentence and inserting the following: “The Director may extend the term of office of a voting member of the Board once by up to 1 year.”.
 - **(d)** *Establishment of subcommittees* Section 204(c) (33 U.S.C. 1123(c)) is amended by adding at the end the following:
   > - **(8)** The Board may establish such subcommittees as are reasonably necessary to carry out its duties under subsection (b). Such subcommittees may include individuals who are not Board members.
 
