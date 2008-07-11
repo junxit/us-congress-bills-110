@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 610
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 610
@@ -28,3 +28,7 @@ A resolution honoring the men and women of the Drug Enforcement Administration o
 
 - 2008-07-07 — Introduced in Senate
 - 2008-07-07 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6365-6366)
+- 2008-07-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S6611)
+- 2008-07-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S6611)
+- 2008-07-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S6611)
+- 2008-07-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S6611)
