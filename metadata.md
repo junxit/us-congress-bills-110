@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 576
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 576
@@ -63,3 +63,16 @@ A resolution designating August 2008 as "Digital Television Transition Awareness
 - 2008-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-06-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 777.
+- 2008-07-11 — Amendment SA 5070 agreed to in Senate by Unanimous Consent.
+- 2008-07-11 — Amendment SA 5070 proposed by Senator Reid for Senator Hatch. (consideration: CR S6611; text: CR S6611) To make minor changes.
+- 2008-07-11 — Amendment SA 5071 agreed to in Senate by Unanimous Consent.
+- 2008-07-11 — Amendment SA 5071 proposed by Senator Reid for Senator Hatch. (consideration: CR S6611; text: CR S6611) To make minor changes.
+- 2008-07-11 — Measure laid before Senate by unanimous consent. (consideration: CR S6611-6612)
+- 2008-07-11 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments and an amended preamble by Unanimous Consent.
+- 2008-07-11 — Resolution agreed to in Senate with amendments and an amended preamble by Unanimous Consent.
+- 2008-07-11 — Senate amendment agreed to: Amendment SA 5070 agreed to in Senate by Unanimous Consent.
+- 2008-07-11 — Senate amendment agreed to: Amendment SA 5071 agreed to in Senate by Unanimous Consent.
+- 2008-07-11 — Senate amendment proposed (on the floor): Amendment SA 5070 proposed by Senator Reid for Senator Hatch.(consideration: CR S6611; text: CR S6611)
+- 2008-07-11 — Senate amendment proposed (on the floor): Amendment SA 5071 proposed by Senator Reid for Senator Hatch.(consideration: CR S6611; text: CR S6611)
+- 2008-07-11 — Senate amendment submitted
+- 2008-07-11 — Senate amendment submitted
