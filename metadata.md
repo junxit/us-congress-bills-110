@@ -1,7 +1,7 @@
 ---
 measure: S. 1046
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1046
@@ -30,3 +30,11 @@ Senior Professional Performance Act of 2008
 - 2008-04-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-328.
 - 2008-04-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-328.
 - 2008-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 703.
+- 2008-07-11 — Amendment SA 5072 agreed to in Senate by Unanimous Consent.
+- 2008-07-11 — Amendment SA 5072 proposed by Senator Reid for Senator Voinovich. (consideration: CR S6609; text: CR S6609-6610) To modify pay provisions relating to certain senior-level positions in the Federal Government, and for other purposes.
+- 2008-07-11 — Measure laid before Senate by unanimous consent. (consideration: CR S6609-6610)
+- 2008-07-11 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-07-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-07-11 — Senate amendment agreed to: Amendment SA 5072 agreed to in Senate by Unanimous Consent.
+- 2008-07-11 — Senate amendment proposed (on the floor): Amendment SA 5072 proposed by Senator Reid for Senator Voinovich.(consideration: CR S6609; text: CR S6609-6610)
+- 2008-07-11 — Senate amendment submitted
