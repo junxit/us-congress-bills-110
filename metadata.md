@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3564
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3564
@@ -57,3 +57,9 @@ Regulatory Improvement Act of 2007
 - 2008-06-27 — Senate amendment agreed to: Amendment SA 5065 agreed to in Senate by Unanimous Consent.
 - 2008-06-27 — Senate amendment proposed (on the floor): Amendment SA 5065 proposed by Senator Levin for Senator Coburn.(consideration: CR S6332; text: CR S6332)
 - 2008-06-27 — Senate amendment submitted
+- 2008-07-14 — Cleared for White House.
+- 2008-07-14 — DEBATE - The House proceeded with forty minutes of debate on the motion to agree to the Senate amendment to H.R. 3564.
+- 2008-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-14 — Mr. Schiff moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6426-6428)
+- 2008-07-14 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agree to Senate amendment: CR H6426)
+- 2008-07-14 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agree to Senate amendment: CR H6426)
