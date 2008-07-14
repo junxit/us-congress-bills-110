@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 6 executed, 9 stated and not applied.
+19 amendatory instructions. 6 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `2009` |
 | Inserted | `2014` |
 
-### 42 U.S.C. § 14136a
+### 42 U.S.C. § 14136
 
 > Section 304(c) of such Act (42 U.S.C. 14136a(c)) is amended by striking “2009” and inserting “2014”.
 
@@ -87,6 +87,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `42 U.S.C. § 14135` | strike | by striking subparagraphs (A) through (D); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14135` | redesignate | by redesignating subparagraph (E) as subparagraph (A); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14135` | redesignate | by inserting after subparagraph (A) (as so redesignated) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 14135` | amend | by amending subsection (j) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14135` | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (4) through (6), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14135` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 14135` | strike | in paragraph (6), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
