@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 381
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 381
@@ -16,7 +16,7 @@ Honoring and recognizing the dedication and achievements of Thurgood Marshall on
 
 - Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
-## Cosponsors (34)
+## Cosponsors (55)
 
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
@@ -52,6 +52,27 @@ Honoring and recognizing the dedication and achievements of Thurgood Marshall on
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Clay, Wm. Lacy [D-MO-1] (C001049)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Moran, James P. [D-VA-8] (M000933)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Schiff, Adam B. [D-CA-29] (S001150)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
 
 ## Committees (1)
 
@@ -62,3 +83,9 @@ Honoring and recognizing the dedication and achievements of Thurgood Marshall on
 - 2008-06-24 — Introduced in House
 - 2008-06-24 — Introduced in House
 - 2008-06-24 — Referred to the House Committee on the Judiciary.
+- 2008-07-14 — Considered under suspension of the rules. (consideration: CR H6428-6432)
+- 2008-07-14 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 381.
+- 2008-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-14 — Mr. Schiff moved to suspend the rules and agree to the resolution.
+- 2008-07-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6428)
+- 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6428)
