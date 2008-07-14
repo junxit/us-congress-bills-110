@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1080
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1080
@@ -16,7 +16,7 @@ Honoring the extraordinary service and exceptional sacrifice of the 101st Airbor
 
 - Rep. Whitfield, Ed [R-KY-1] (W000413)
 
-## Cosponsors (42)
+## Cosponsors (56)
 
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
@@ -60,13 +60,40 @@ Honoring the extraordinary service and exceptional sacrifice of the 101st Airbor
 - Rep. Brown, Henry E., Jr. [R-SC-1] (B001235)
 - Rep. Petri, Thomas E. [R-WI-6] (P000265)
 - Rep. Linder, John [R-GA-7] (L000321)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Spratt, John M., Jr. [D-SC-5] (S000749)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Boozman, John [R-AR-3] (B001236)
+- Rep. Hensarling, Jeb [R-TX-5] (H001036)
+- Rep. Drake, Thelma D. [R-VA-2] (D000605)
+- Del. Faleomavaega, Eni F. H. [D-AS-At Large] (F000010)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
 
 ## Committees (1)
 
 - House — Armed Services Committee
+
+## Recorded votes (1)
+
+- 2008-07-14 — [House 110-2-487](votes/house-110-2-0487.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (378–0)
 
 ## Actions
 
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Introduced in House
 - 2008-04-03 — Referred to the House Committee on Armed Services.
+- 2008-04-18 — Referred to the Subcommittee on Military Personnel.
+- 2008-07-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-07-14 — Considered as unfinished business. (consideration: CR H6447-6448)
+- 2008-07-14 — Considered under suspension of the rules. (consideration: CR H6421-6422)
+- 2008-07-14 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1080.
+- 2008-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-14 — Mr. Courtney moved to suspend the rules and agree to the resolution, as amended.
+- 2008-07-14 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 0 (Roll no. 487). (text: CR H6421)
+- 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 0 (Roll no. 487).(text: CR H6421)
