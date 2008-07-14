@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5464
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5464
@@ -63,3 +63,9 @@ Child Is Missing Alert and Recovery Center Act
 - 2008-07-10 — Placed on the Union Calendar, Calendar No. 479.
 - 2008-07-10 — Reported by the Committee on Judiciary. H. Rept. 110-753.
 - 2008-07-10 — Reported by the Committee on Judiciary. H. Rept. 110-753.
+- 2008-07-14 — Considered under suspension of the rules. (consideration: CR H6443-6445)
+- 2008-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5464.
+- 2008-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-14 — Mr. Schiff moved to suspend the rules and pass the bill.
+- 2008-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6443)
+- 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6443)
