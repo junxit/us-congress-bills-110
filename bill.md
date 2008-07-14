@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 6486
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6486
+
+> To prohibit the manufacture, marketing, sale, or shipment in interstate commerce of products designed to assist in defrauding a drug test.
+
+## § 1. Short title
+
+This Act may be cited as the “Drug Testing Integrity Act of 2008”.
+
+## § 2. Ban of products designed to defraud drug tests
+
+- **(a)** *Conduct prohibited* It shall be unlawful to knowingly manufacture, market, sell, ship, or otherwise provide to another individual any product with the intent to assist such other individual to use such product to defraud a drug test.
+- **(b)** *Definition* As used in this Act, the term defraud a drug test means—
+  - **(1)** submit a substance that purports to be from an individual other than its actual source, or purports to have been excreted or collected other than when it was actually excreted or collected; or
+  - **(2)** engage in any other conduct with the intent to produce a false or misleading outcome of a test for the presence of a controlled substance.
+
+## § 3. Enforcement by the Federal Trade Commission
+
+- **(a)** *Unfair and deceptive act or practice* A violation of section 2 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+- **(b)** *Enforcement authority* The Federal Trade Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this Act.
