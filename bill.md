@@ -36,8 +36,8 @@ Except as otherwise expressly provided therein, whenever in this Act an amendmen
   - **(1)** in paragraph (11) by striking “advisory services” and inserting “extension services”;
   - **(2)** in each of paragraphs (12) and (13) by striking “(33 U.S.C. 1126)”; and
   - **(3)** by adding at the end the following:
-    > - **(17)** The term regional research and information plan means a plan developed by one or more sea grant colleges or sea grant institutes that identifies regional priorities to implement the National Ocean Research Priorities Plan and Implementation Strategy.
-    > - **(18)** The term National Ocean Research Priorities Plan and Implementation Strategy means such plan and strategy issued by the National Science and Technology Council’s Joint Subcommittee on Ocean Science and Technology on January 26, 2007.
+    > - **(17)** The term “regional research and information plan” means a plan developed by one or more sea grant colleges or sea grant institutes that identifies regional priorities to implement the National Ocean Research Priorities Plan and Implementation Strategy.
+    > - **(18)** The term “National Ocean Research Priorities Plan and Implementation Strategy” means such plan and strategy issued by the National Science and Technology Council’s Joint Subcommittee on Ocean Science and Technology on January 26, 2007.
 
 - **(b)** *Repeal* Section 307 of the Act entitled “An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary” (Public Law 102–251; 106 Stat. 66) is repealed.
 
@@ -61,10 +61,14 @@ Except as otherwise expressly provided therein, whenever in this Act an amendmen
     - **(B)** by striking “activities; and” and inserting “activities;”; and
     - **(C)** by striking clause (ii); and
   - **(3)** in paragraph (3)(B)—
-    - **(A)** by redesignating clauses (ii) through (iv) as clauses (iii) through (v), respectively, and by inserting after clause (i) the following:
+    - **(A)** by redesignating clauses (ii) through (iv) as clauses (iv) through (vi), respectively, and by inserting after clause (i) the following:
       > - **(ii)** encourage collaborations among sea grant colleges and sea grant institutes to address regional and national priorities established under subsection (c)(1);
+      > - **(iii)** encourage cooperation with Minority Serving Institutions—
+      >   - **(I)** to enhance collaborative research opportunities for faculty and students in the areas of atmospheric, oceanic, and environmental sciences, and remote sensing;
+      >   - **(II)** to improve opportunities for, and retention of, students and faculty from Minority Serving Institutions in the NOAA related sciences; and
+      >   - **(III)** to increase the number of such students graduating in NOAA science areas;
 
-    - **(B)** in clause (iii) (as so redesignated) by striking “encourage” and inserting “ensuring”.
+    - **(B)** in clause (iv) (as so redesignated) by striking “encourage” and inserting “ensuring”.
 
 ## § 6. Program or project grants and contracts
 
@@ -75,9 +79,12 @@ Except as otherwise expressly provided therein, whenever in this Act an amendmen
 
 Section 207(a) (33 U.S.C. 1126(a)) is amended in each of paragraphs (2)(B) and (3)(B) by striking “advisory services” and inserting “extension services”.
 
-## § 8. Technical correction relating to fellowships
+## § 8. Fellowships
 
-Section 208(a) (33 U.S.C. 1127(a)) is amended by striking “Not later than 1 year after the date of the enactment of the National Sea Grant College Program Act Amendments of 2002, and every 2 years thereafter,” and inserting “Every 2 years,”.
+- **(a)** *Restriction on use of funds available for fellowships* Section 208 (33 U.S.C. 1127) is amended by adding at the end the following:
+  > - **(c)** *Restriction on use of funds* Amounts available for fellowships under this section, including amounts accepted under section 204(c)(4)(F) or appropriated under section 212 to implement this section, shall be used only for award of such fellowships and administrative costs of implementing this section.
+
+- **(b)** *Technical correction* Section 208(a) (33 U.S.C. 1127(a)) is amended by striking “Not later than 1 year after the date of the enactment of the National Sea Grant College Program Act Amendments of 2002, and every 2 years thereafter,” and inserting “Every 2 years,”.
 
 ## § 9. National Sea Grant Advisory Board
 
@@ -92,7 +99,7 @@ Section 208(a) (33 U.S.C. 1127(a)) is amended by striking “Not later than 1 ye
       > - **(a)** *Establishment* There shall be an independent committee to be known as the National Sea Grant Advisory Board.
 
     - **(B)** *Definition* Section 203(9) (33 U.S.C. 1122(9)) is amended to read as follows:
-      > - **(9)** The term Board means the National Sea Grant Advisory Board established under section 209.
+      > - **(9)** The term “Board” means the National Sea Grant Advisory Board established under section 209.
 
     - **(C)** *Other provisions* The following provisions are each amended by striking “panel” each place it appears and inserting “Board”:
       - **(i)** Section 204 (33 U.S.C. 1123).
