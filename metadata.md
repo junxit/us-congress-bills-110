@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4289
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4289
@@ -16,9 +16,10 @@ To name the Department of Veterans Affairs outpatient clinic in Ponce, Puerto Ri
 
 - Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -31,3 +32,10 @@ To name the Department of Veterans Affairs outpatient clinic in Ponce, Puerto Ri
 - 2008-06-24 — Mr. Filner moved to suspend the rules and pass the bill.
 - 2008-06-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5972)
 - 2008-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5972)
+- 2008-06-25 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2008-07-11 — Cleared for White House.
+- 2008-07-11 — Passed Senate without amendment by Unanimous Consent.
+- 2008-07-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-07-11 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S6610)
+- 2008-07-11 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S6610)
+- 2008-07-14 — Message on Senate action sent to the House.
