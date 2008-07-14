@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5618
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5618
@@ -58,3 +58,9 @@ National Sea Grant College Program Amendments Act of 2008
 - 2008-07-11 — Placed on the Union Calendar, Calendar No. 481.
 - 2008-07-11 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-701, Part II.
 - 2008-07-11 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-701, Part II.
+- 2008-07-14 — Considered under suspension of the rules. (consideration: CR H6412-6414)
+- 2008-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5618.
+- 2008-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-14 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2008-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6412-6413)
+- 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6412-6413)
