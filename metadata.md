@@ -1,7 +1,7 @@
 ---
 measure: S. 1046
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1046
@@ -16,9 +16,10 @@ Senior Professional Performance Act of 2008
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ Senior Professional Performance Act of 2008
 - 2008-07-11 — Senate amendment agreed to: Amendment SA 5072 agreed to in Senate by Unanimous Consent.
 - 2008-07-11 — Senate amendment proposed (on the floor): Amendment SA 5072 proposed by Senator Reid for Senator Voinovich.(consideration: CR S6609; text: CR S6609-6610)
 - 2008-07-11 — Senate amendment submitted
+- 2008-07-14 — Message on Senate action sent to the House.
+- 2008-07-14 — Received in the House.
+- 2008-07-14 — Referred to the House Committee on Oversight and Government Reform.
