@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3227
 
-> To authorize the Secretary of the Interior to allow stocking fish in certain lakes in the North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area.
+> To direct the Secretary of the Interior to continue stocking fish in certain lakes in the North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area.
 
 ## § 1. Purpose
 
