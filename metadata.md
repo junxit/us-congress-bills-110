@@ -1,7 +1,7 @@
 ---
 measure: S. 231
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 231
@@ -71,9 +71,10 @@ A bill to authorize the Edward Byrne Memorial Justice Assistance Grant Program a
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Vitter, David [R-LA] (V000127)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -89,3 +90,11 @@ A bill to authorize the Edward Byrne Memorial Justice Assistance Grant Program a
 - 2007-05-25 — Message on Senate action sent to the House.
 - 2007-06-05 — Received in the House.
 - 2007-06-05 — Referred to the House Committee on the Judiciary.
+- 2007-06-25 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2008-07-14 — Cleared for White House.
+- 2008-07-14 — Considered under suspension of the rules. (consideration: CR H6445-6446)
+- 2008-07-14 — DEBATE - The House proceeded with forty minutes of debate on S. 231.
+- 2008-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-14 — Mr. Schiff moved to suspend the rules and pass the bill.
+- 2008-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6445)
+- 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6445)
