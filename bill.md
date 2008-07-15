@@ -2,7 +2,7 @@
 legis-num: H. RES. 1088
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1088
@@ -14,7 +14,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Alvin Ailey American Dance Theater (“AAADT”) is widely recognized as one of the world’s premier modern dance companies;
 - Whereas the AAADT is dedicated to promoting the uniqueness of the African-American cultural experience and the preservation and enrichment of the modern dance heritage to people across the globe;
 - Whereas, over its 50-year history, the AAADT has performed for an estimated 21,000,000 people in 48 States and in 71 countries on 6 continents;
-- Whereas the AAADT tours more than any other performing arts company in the world;
+- Whereas the AAADT has an extensive touring record;
 - Whereas the AAADT’s signature work, “Revelations”, has been seen by more people across the globe than any other work of dance;
 - Whereas the AAADT performs works by both emerging and established choreographers from throughout the United States and the world;
 - Whereas the AAADT’s home in New York City, the Joan Weill Center for Dance, is the largest facility dedicated exclusively to dance in the United States;
