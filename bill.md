@@ -31,4 +31,4 @@ That the Congress—
 - **(2)** promotes further public awareness and understanding of cystic fibrosis;
 - **(3)** advocates for increased support for people with cystic fibrosis and their families;
 - **(4)** encourages early diagnosis and access to high-quality care for people with cystic fibrosis to improve the quality of their lives; and
-- **(5)** supports research to find a cure for cystic fibrosis by fostering an enhanced research program through a strong Federal commitment and expanded public-private partnerships.
+- **(5)** supports research to find a cure for cystic fibrosis by fostering enhanced research programs and expanded public-private partnerships.
