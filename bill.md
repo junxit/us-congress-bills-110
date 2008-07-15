@@ -2,7 +2,7 @@
 legis-num: H. RES. 1327
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1327
@@ -21,14 +21,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas all Fresno State athletic programs pride themselves on recruiting male and female athletes from local high schools and junior colleges;
 - Whereas every member of this year’s championship baseball team is from California, with many players hailing from such San Joaquin Valley towns as Fresno, Clovis, Bakersfield, Visalia, Hanford, and Turlock;
 - Whereas the Fresno State Bulldogs baseball team beat the University of Georgia Bulldogs two games to one to win the 2008 College World Series;
-- Whereas the Fresno State Bulldogs opened the College World Series with a victory over fifth-seeded Rice University and had two wins over number-two national seed University of North Carolina at Chapel Hill;
-- Whereas the Bulldogs scored 14 home runs, breaking the College World Series home run record, and set the record for the most extra-base hits, runs batted in, and total bases in a championship game;
-- Whereas the Bulldogs became the only team in College World Series history to score more than 16 runs in 2 separate games;
-- Whereas the Bulldogs were the first number-four seed to reach the finals of a National Collegiate Athletic Association (NCAA) championship in any sport;
-- Whereas the Bulldogs earned 8 wins over teams ranking in the top 20;
+- Whereas the Fresno State Bulldogs opened the College World Series with a victory over sixth-seeded Rice University and had two wins over number-two national seed University of North Carolina at Chapel Hill;
+- Whereas the Bulldogs hit 14 home runs, the second most in College World Series history, and set the record for the most extra-base hits, runs batted in, and total bases in a championship game;
+- Whereas the Bulldogs became the first team in College World Series history to score at least 17 runs more than once in the same College World Series;
+- Whereas the Bulldogs became the first number-four regional seed to reach the College World Series since the tournament expanded in 1999;
+- Whereas all 10 of the Bulldogs’ postseason wins have come against teams ranked in the top 15, including its final 7 wins over national seeds;
 - Whereas the Bulldogs played on the road for over 40 days;
 - Whereas, throughout the College World Series, the Bulldogs won 6 elimination games, including a 19–10 victory over the University of Georgia Bulldogs in the championship series;
-- Whereas, for the third consecutive season, the Bulldogs earned a pre-season ranking in Collegiate Baseball Newspaper’s Fabulous 40 and an 18th-place ranking from Baseball America Magazine;
+- Whereas, for the third consecutive season, the Bulldogs earned a preseason ranking in Collegiate Baseball Newspaper’s Fabulous 40 and an 18th-place ranking from Baseball America Magazine;
 - Whereas the Bulldogs won 47 games and lost 31 games during the 2008 season;
 - Whereas 7 members of the Bulldog team were named to the Preseason All-Western Athletic Conference Team;
 - Whereas on May 17, 2008, the Bulldogs won their third straight Western Athletic Conference championship;

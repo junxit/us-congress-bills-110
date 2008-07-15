@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1327
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1327
@@ -16,7 +16,7 @@ Congratulating the 2008 National Collegiate Athletic Association (NCAA) Division
 
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 
-## Cosponsors (26)
+## Cosponsors (30)
 
 - Rep. Costa, Jim [D-CA-20] (C001059)
 - Rep. Radanovich, George [R-CA-19] (R000004)
@@ -44,6 +44,10 @@ Congratulating the 2008 National Collegiate Athletic Association (NCAA) Division
 - Rep. Bono, Mary [R-CA-45] (B001228)
 - Rep. Campbell, John [R-CA-48] (C001064)
 - Rep. Herger, Wally [R-CA-2] (H000528)
+- Rep. Baca, Joe [D-CA-43] (B001234)
+- Rep. Farr, Sam [D-CA-17] (F000030)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
 
 ## Committees (1)
 
@@ -54,3 +58,9 @@ Congratulating the 2008 National Collegiate Athletic Association (NCAA) Division
 - 2008-07-09 — Introduced in House
 - 2008-07-09 — Introduced in House
 - 2008-07-09 — Referred to the House Committee on Education and Labor.
+- 2008-07-15 — Considered under suspension of the rules. (consideration: CR H6500-6502)
+- 2008-07-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1327.
+- 2008-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-15 — Mr. Bishop (NY) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-07-15 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H6500)
+- 2008-07-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H6500)
