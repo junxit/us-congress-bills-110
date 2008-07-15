@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1259
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1259
@@ -54,8 +54,20 @@ Congratulating the Hamilton College Continentals on winning the NCAA Division II
 
 - House — Education and the Workforce Committee
 
+## Recorded votes (1)
+
+- 2008-07-15 — [House 110-2-489](votes/house-110-2-0489.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (423–0)
+
 ## Actions
 
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Referred to the House Committee on Education and Labor.
+- 2008-07-15 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-07-15 — Considered as unfinished business. (consideration: CR H6531-6532)
+- 2008-07-15 — Considered under suspension of the rules. (consideration: CR H6498-6500)
+- 2008-07-15 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1259.
+- 2008-07-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-15 — Mr. Bishop (NY) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-07-15 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 489). (text: CR H6498)
+- 2008-07-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 489).(text: CR H6498)
