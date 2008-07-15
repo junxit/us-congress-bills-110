@@ -2,7 +2,7 @@
 legis-num: H. RES. 1261
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1261
@@ -21,8 +21,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the House of Representatives—
 
-- **(1)** congratulates the East High School team on winning the 2008 “We the People: The Citizen and then Constitution” national competition;
-- **(2)** recognizes the academic accomplishments of Isabel Breit, Nicholas Brown, Maya Burchette, Nitai Deitel, Gideon Hertz, Gideon Irving, Katherine Jablonski, Gavin Jacobs, Noah Kaplan, Brendan Lamarre, Zachary Lass, Alexandria Leenatali, Richard Londer, Nathan Mackenzie, Rebecca Nathanson, Alyse Opatowski, Marley Pierce, Alyssa Roberts, Paige Romer, Hayley Round, Ryan Saunders, Lindsay Shields, Jeffrey Thalhofer, Shaquille Turner, Charlotte Vilkus, Taylor Want, and Jacob Zax;
-- **(3)** recognizes the guidance and commitment of coach Susan McHugh;
-- **(4)** recognizes the work of Loyal Darr, “We the People” coordinator for Colorado’s First District; and
-- **(5)** directs the Clerk of the House of Representatives to transmit a copy of this resolution to Denver School District Superintendent Michael Bennet and coach Susan McHugh for appropriate display.
+- **(1)** recognizes the importance of civics education and the role of the “We the People: The Citizen and the Constitution” competition in promoting greater understanding and appreciation of the principles of democracy upon which our Nation was founded;
+- **(2)** congratulates the organizers, teachers, and students from across the Nation who participated in the 2008 “We the People” competition;
+- **(3)** congratulates the East High School team from Denver, Colorado, on winning the 2008 “We the People” national competition; and
+- **(4)** directs the Clerk of the House of Representatives to transmit an enrolled copy of this resolution to Denver School District Superintendent Michael Bennet and coach Susan McHugh for appropriate display.
