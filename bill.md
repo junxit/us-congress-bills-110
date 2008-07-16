@@ -39,3 +39,18 @@ Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by
       - **(i)** by donation; or
       - **(ii)** with the consent of the owner of the parcel of land.
     - **(B)** *Prohibition relating to acquisition of land by condemnation* In accordance with section 6(c) of the Wild and Scenic Rivers Act (16 U.S.C. 1277(c)), with respect to each river segment added to section 3(a) of the Wild and Scenic Rivers Act by section 1 of this Act, the Secretary may not acquire any parcel of land by condemnation.
+
+## § 3. Energy and Congressional Review
+
+The Secretary of the Interior, in consultation with the Secretary of Energy and private industry, shall complete and submit to the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and Senators and Representatives from the States affected by the designation, a report using the best available data and regarding the energy resources available on the lands and waters included in the segments of the Taunton River designated under section 2 of this Act. The report shall—
+
+- **(1)** contain the best available description of the energy resources available on the land and report on the specific amount of energy withdrawn from possible development; and
+- **(2)** identify cubic feet of natural gas, natural gas transmission and storage potential, megawatts of geothermal, wind and solar energy that could be commercially produced, annual available biomass for energy production, and any megawatts of hydropower resources available, including tidal, traditional dams, and in-stream flow turbines.
+
+## § 4. Hunting, Fishing, Trapping, and Recreational Shooting
+
+Nothing in this Act shall be construed as affecting the authority, jurisdiction, or responsibility of the Commonwealth of Massachusetts to manage, control, or regulate fish and resident wildlife under State law or regulations, including the regulation of hunting, fishing, trapping, and recreational shooting. Nothing in this Act shall be construed as limiting access for hunting, fishing, trapping, or recreational shooting.
+
+## § 5. Domestically-produced energy resources
+
+Nothing in this Act shall impact the supply of domestically-produced energy resources.
