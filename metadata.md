@@ -16,7 +16,7 @@ Housing and Economic Recovery Act of 2008
 
 - Rep. Pelosi, Nancy [D-CA-8] (P000197)
 
-## Cosponsors (220)
+## Cosponsors (309)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
@@ -36,6 +36,95 @@ Housing and Economic Recovery Act of 2008
 - Rep. Peterson, Collin C. [D-MN-7] (P000258)
 - Rep. Velazquez, Nydia M. [D-NY-12] (V000081)
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Kohl, Herb [D-WI] (K000305)
@@ -252,7 +341,7 @@ Housing and Economic Recovery Act of 2008
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
 
-## Recorded votes (17)
+## Recorded votes (28)
 
 - 2007-08-04 — [House 110-1-827](votes/house-110-1-0827.md) — On Agreeing to the Amendment — **Agreed to** (220–190)
 - 2007-08-04 — [House 110-1-828](votes/house-110-1-0828.md) — On Agreeing to the Amendment — **Failed** (169–245)
@@ -271,6 +360,17 @@ Housing and Economic Recovery Act of 2008
 - 2008-04-10 — [Senate 110-2-94](votes/senate-110-2-0094.md) — On the Amendment — **Amendment Rejected** (15–79)
 - 2008-04-10 — [Senate 110-2-95](votes/senate-110-2-0095.md) — On the Amendment — **Amendment Agreed to** (88–8)
 - 2008-04-10 — [Senate 110-2-96](votes/senate-110-2-0096.md) — On Passage of the Bill — **Bill Passed** (84–12)
+- 2008-05-08 — [House 110-2-301](votes/house-110-2-0301.md) — On Agreeing to the Senate Amendment with Amendment No. 1 — **Passed** (266–154)
+- 2008-05-08 — [House 110-2-302](votes/house-110-2-0302.md) — On Agreeing to the Senate Amendment with Amendment No. 2 — **Passed** (322–94)
+- 2008-05-08 — [House 110-2-303](votes/house-110-2-0303.md) — On Agreeing to the Senate Amendment with Amendment No. 3 — **Passed** (256–160)
+- 2008-06-19 — [Senate 110-2-152](votes/senate-110-2-0152.md) — On the Amendment — **Amendment Rejected** (11–77)
+- 2008-06-19 — [Senate 110-2-153](votes/senate-110-2-0153.md) — On the Motion — **Motion Rejected** (21–69)
+- 2008-06-19 — [Senate 110-2-154](votes/senate-110-2-0154.md) — On the Motion — **Motion Rejected** (11–70)
+- 2008-06-24 — [Senate 110-2-155](votes/senate-110-2-0155.md) — On the Motion — **Motion Agreed to** (83–9)
+- 2008-06-25 — [Senate 110-2-157](votes/senate-110-2-0157.md) — On the Motion — **Motion Agreed to** (79–16)
+- 2008-07-07 — [Senate 110-2-163](votes/senate-110-2-0163.md) — On the Cloture Motion — **Cloture Motion Agreed to** (76–10)
+- 2008-07-10 — [Senate 110-2-170](votes/senate-110-2-0170.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–12)
+- 2008-07-11 — [Senate 110-2-173](votes/senate-110-2-0173.md) — On the Motion — **Motion Agreed to** (63–5)
 
 ## Actions
 
@@ -818,3 +918,184 @@ Housing and Economic Recovery Act of 2008
 - 2008-04-10 — Senate amendment proposed (on the floor): Amendment SA 4523 proposed by Senator Dodd.(consideration: CR S2859-2861; text: CR S2859)
 - 2008-04-10 — Senate amendment submitted
 - 2008-04-16 — Message on Senate action sent to the House.
+- 2008-05-06 — Rules Committee Resolution H. Res. 1175 Reported to House. Previous question shall be considered as ordered without intervening motions. The rule waives all points of order against the motion except for clause 10 of rule XXI. The rule also provides that the Chair shall divide the question of adoption of the motion among the three House amendments. The rule provides that upon adoption of the motion specified in the first section of the resolution, a motion that the House concur in the Senate amendment to the title shall be considered as adopted.
+- 2008-05-07 — Rule H. Res. 1175 passed House.
+- 2008-05-08 — DEBATE - Pursuant to the provisions of H.Res. 1175, the House proceeded with 3 hours of debate on the Frank (MA) motion to agree to the Senate amendments to H.R. 3221 with amendments.
+- 2008-05-08 — House agreed to Senate amendment to the title pursuant to H. Res. 1175.
+- 2008-05-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-08 — Mr. Frank (MA) moved that the House agree with amendments to the Senate amendments. (consideration: CR H3204-3308; text as House agreed to Senate amendments with amendments: CR H3219-3282)
+- 2008-05-08 — Mr. Frank asked unanimous consent that the Clerk be authorized to make technical corrections in the House amendments to the Senate amendments to H.R. 3221. Agreed to without objection.
+- 2008-05-08 — On motion to agree to the Senate amendment with House amendment No. 1 Agreed to by the Yeas and Nays: 266 - 154 (Roll No. 301).
+- 2008-05-08 — On motion to agree to the Senate amendment with House amendment No. 2 Agreed to by recorded vote: 322 - 94 (Roll No. 302).
+- 2008-05-08 — On motion to agree to the Senate amendment with House amendment No. 3 Agreed to by recorded vote: 256 - 160 (Roll No. 303).
+- 2008-05-08 — Resolving differences -- House actions: On motion to agree to the Senate amendment with House amendment No. 1 Agreed to by the Yeas and Nays: 266 - 154 (Roll No. 301).
+- 2008-05-08 — Resolving differences -- House actions: On motion to agree to the Senate amendment with House amendment No. 2 Agreed to by recorded vote: 322 - 94 (Roll No. 302).
+- 2008-05-08 — Resolving differences -- House actions: On motion to agree to the Senate amendment with House amendment No. 3 Agreed to by recorded vote: 256 - 160 (Roll No. 303).
+- 2008-05-08 — The previous question was ordered pursuant to the rule.
+- 2008-05-13 — Message on House action received in Senate and at desk: House amendments to Senate amendments.
+- 2008-06-19 — Amendment SA 4983 proposed by Senator Reid for Senator Dodd to the motion to concur in the House amendment striking section 1 through title V and inserting certain language to the Senate amendment. (consideration: CR S5776-5781) To improve the bill.
+- 2008-06-19 — Amendment SA 4984 proposed by Senator Dole to Amendment SA 4983. (consideration: CR S5785-5799, S5807; text: CR S5785) To improve the regulation of appraisal standards.
+- 2008-06-19 — Amendment SA 4985 proposed by Senator Bond to Amendment SA 4983. (consideration: CR S5781-5782, S5808, S5809-5811, S5812; text: CR S5781) To strike provisions relating to the HOPE for Homeowners Program.
+- 2008-06-19 — Amendment SA 4985 ruled out of order by the chair.
+- 2008-06-19 — Amendment SA 4986 not agreed to in Senate by Yea-Nay Vote. 11 - 77. Record Vote Number: 152.
+- 2008-06-19 — Amendment SA 4986 proposed by Senator Bond to Amendment SA 4983. (consideration: CR S5783-5785, S5807-5808, S5808-5809, S5811-5812; text: CR S5783; text as modified: CR S5808) To clarify that GSEs have no responsibility for funding housing entities under the Affordable Housing program.
+- 2008-06-19 — Amendment SA 4987 proposed by Senator Bond to Amendment SA 4983. (consideration: CR S5782-5783; text: CR S5783) To enhance mortgage loan disclosure requirements with additional safeguards for adjustable rate mortgages with an initial fixed rate and loans that contain a prepayment penalty.
+- 2008-06-19 — Amendment SA 4988 proposed by Senator Kohl to Amendment SA 4983. (consideration: CR S5804-5807) To protect the property and security of homeowners who are subject to foreclosure proceedings.
+- 2008-06-19 — Amendment SA 4999 proposed by Senator Sununu to Amendment SA 4983. (consideration: CR S5799-5804; text: CR S5799-5800) To address small public housing agency paperwork reduction.
+- 2008-06-19 — Measure laid before Senate by unanimous consent. (consideration: CR S5775-5819)
+- 2008-06-19 — Motion by Senator Bunning to refer to Senate Committee on Banking, Housing, and Urban Affairs with instructions rejected in Senate by Yea-Nay Vote. 11 - 70. Record Vote Number: 154.
+- 2008-06-19 — Motion by Senator Bunning to refer to Senate Committee on Banking, Housing, and Urban Affairs, with instructions to assess the potential financial benefits the legislation could provide to Countrywide Financial Corporation and other lenders, as well as mortgages originated by Countrywide Financial Corporation and other lenders that are held by third parties made in Senate. (consideration: CR S5814-5817)
+- 2008-06-19 — Motion by Senator Bunning to refer to Senate Committee on Banking, Housing, and Urban Affairs, with instructions, pursuant to the order of June 19, 2008, having not received 60 votes in the affirmative was withdrawn in Senate. (consideration: CR S5817)
+- 2008-06-19 — Motion to waive the Budget Act with respect to amendment SA 4985 rejected in Senate by Yea-Nay Vote. 21 - 69. Record Vote Number: 153.
+- 2008-06-19 — Point of order raised in Senate with respect to amendment SA 4985.
+- 2008-06-19 — Reid motion to concur in House amendment striking section 1 through title V and inserting certain language to the Senate amendment with an amendment (SA 4983) made in Senate.
+- 2008-06-19 — Roll call votes on amendments in Senate: Amendment SA 4986 not agreed to in Senate by Yea-Nay Vote. 11 - 77. Record Vote Number: 152.
+- 2008-06-19 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 4985 rejected in Senate by Yea-Nay Vote. 21 - 69. Record Vote Number: 153.
+- 2008-06-19 — Senate amendment not agreed to: Amendment SA 4986 not agreed to in Senate by Yea-Nay Vote. 11 - 77. Record Vote Number: 152.
+- 2008-06-19 — Senate amendment proposed (on the floor): Amendment SA 4983 proposed by Senator Reid for Senator Dodd to the motion to concur in the House amendment striking section 1 through title V and inserting certain language to the Senate amendment.(consideration: CR S5776-5781)
+- 2008-06-19 — Senate amendment proposed (on the floor): Amendment SA 4984 proposed by Senator Dole to Amendment SA 4983.(consideration: CR S5785-5799, S5807; text: CR S5785)
+- 2008-06-19 — Senate amendment proposed (on the floor): Amendment SA 4985 proposed by Senator Bond to Amendment SA 4983.(consideration: CR S5781-5782, S5808, S5809-5811, S5812; text: CR S5781)
+- 2008-06-19 — Senate amendment proposed (on the floor): Amendment SA 4986 proposed by Senator Bond to Amendment SA 4983.(consideration: CR S5783-5785, S5807-5808, S5808-5809, S5811-5812; text: CR S5783; text as modified: CR S5808)
+- 2008-06-19 — Senate amendment proposed (on the floor): Amendment SA 4987 proposed by Senator Bond to Amendment SA 4983.(consideration: CR S5782-5783; text: CR S5783)
+- 2008-06-19 — Senate amendment proposed (on the floor): Amendment SA 4988 proposed by Senator Kohl to Amendment SA 4983.(consideration: CR S5804-5807)
+- 2008-06-19 — Senate amendment proposed (on the floor): Amendment SA 4999 proposed by Senator Sununu to Amendment SA 4983.(consideration: CR S5799-5804; text: CR S5799-5800)
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-19 — Senate amendment submitted
+- 2008-06-20 — Cloture motion on the Reid motion to concur in the amendment of the House, striking section 1 and all that follows through the end of Title V, and inserting certain language, to the amendment of the Senate, with amendment (SA 4983) presented in Senate. (consideration: CR S5922; text: CR S5922)
+- 2008-06-20 — Considered by Senate.
+- 2008-06-20 — Considered by Senate. (consideration: CR S5921)
+- 2008-06-20 — Considered by Senate. (consideration: CR S5921)
+- 2008-06-20 — Considered by Senate. (consideration: CR S5921)
+- 2008-06-20 — Considered by Senate. (consideration: CR S5921-5922)
+- 2008-06-20 — Considered by Senate. (consideration: CR S5921-5928)
+- 2008-06-20 — Senate amendment submitted
+- 2008-06-20 — Senate amendment submitted
+- 2008-06-20 — Senate amendment submitted
+- 2008-06-20 — Senate amendment submitted
+- 2008-06-23 — Considered by Senate. (consideration: CR S5949)
+- 2008-06-23 — Considered by Senate. (consideration: CR S5949)
+- 2008-06-23 — Considered by Senate. (consideration: CR S5949)
+- 2008-06-23 — Considered by Senate. (consideration: CR S5949)
+- 2008-06-23 — Considered by Senate. (consideration: CR S5949)
+- 2008-06-23 — Considered by Senate. (consideration: CR S5949)
+- 2008-06-23 — Senate amendment submitted
+- 2008-06-23 — Senate amendment submitted
+- 2008-06-23 — Senate amendment submitted
+- 2008-06-23 — Senate amendment submitted
+- 2008-06-23 — Senate amendment submitted
+- 2008-06-23 — Senate amendment submitted
+- 2008-06-24 — Cloture on the Reid motion to concur in the amendment of the House, striking section 1 and all that follows through the end of Title V, and inserting certain language, to the amendment of the Senate, with amendment (SA 4983) invoked in Senate by Yea-Nay Vote. 83 - 9. Record Vote Number: 155. (consideration: CR S5978; text: CR S5978)
+- 2008-06-24 — Considered by Senate. (consideration: CR S5975)
+- 2008-06-24 — Considered by Senate. (consideration: CR S5975)
+- 2008-06-24 — Considered by Senate. (consideration: CR S5975)
+- 2008-06-24 — Considered by Senate. (consideration: CR S5975)
+- 2008-06-24 — Considered by Senate. (consideration: CR S5975)
+- 2008-06-24 — Considered by Senate. (consideration: CR S5975-5976, S5977-5928, S5980-5983, S5983, S5987-5988, S5988-5989, S5989-5992, S6003-6005, S6082-6095)
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-24 — Senate amendment submitted
+- 2008-06-25 — Amendment SA 4983 agreed to in Senate by Yea-Nay Vote. 79 - 16. Record Vote Number: 157.
+- 2008-06-25 — Amendment SA 4987 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S6138)
+- 2008-06-25 — Amendment SA 4988 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S6139-6140)
+- 2008-06-25 — Amendment SA 4999 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S6138-6139)
+- 2008-06-25 — Considered by Senate. (consideration: CR S6097)
+- 2008-06-25 — Considered by Senate. (consideration: CR S6097, S6138-6140)
+- 2008-06-25 — Considered by Senate. (consideration: CR S6097, S6138-6140)
+- 2008-06-25 — Considered by Senate. (consideration: CR S6097, S6140-6141)
+- 2008-06-25 — Considered by Senate. (consideration: CR S6097-6098, S6102-6103, S6105-6106, S6107-6108, S6112-6114, S6137-6141)
+- 2008-06-25 — Considered by Senate. (consideration: CR S6098, S6138-6140)
+- 2008-06-25 — Proposed amendment SA 4984 withdrawn in Senate. (consideration: CR S6140)
+- 2008-06-25 — Resolving differences -- Senate actions: Senate concurred in House amendment striking section 1 through title V and inserting certain language to the Senate amendment with an amendment (SA 4983) by Yea-Nay Vote. 79 - 16. Record Vote Number: 157.(consideration: CR S6141)
+- 2008-06-25 — Roll call votes on amendments in Senate: Amendment SA 4983 agreed to in Senate by Yea-Nay Vote. 79 - 16. Record Vote Number: 157.
+- 2008-06-25 — Senate amendment agreed to: Amendment SA 4983 agreed to in Senate by Yea-Nay Vote. 79 - 16. Record Vote Number: 157.
+- 2008-06-25 — Senate amendment agreed to: Amendment SA 4987 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S6138)
+- 2008-06-25 — Senate amendment agreed to: Amendment SA 4988 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S6139-6140)
+- 2008-06-25 — Senate amendment agreed to: Amendment SA 4999 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S6138-6139)
+- 2008-06-25 — Senate concurred in House amendment striking section 1 through title V and inserting certain language to the Senate amendment with an amendment (SA 4983) by Yea-Nay Vote. 79 - 16. Record Vote Number: 157. (consideration: CR S6141)
+- 2008-06-26 — Cloture motion on Reid motion to concur in the amendments of the House, striking title VI through XI, to the Senate amendment presented in Senate. (consideration: CR S6224-6225; text: CR S6224)
+- 2008-06-26 — Reid motion to concur in the amendments of the House, striking title VI through XI, to the Senate amendment made in Senate. (consideration: CR S6224)
+- 2008-07-07 — Cloture on Reid motion to concur in the amendments of the House, striking title VI through XI, to the Senate amendment invoked in Senate by Yea-Nay Vote. 76 - 10. Record Vote Number: 163. (consideration: CR S6355-6356; text: CR S6355)
+- 2008-07-07 — Considered by Senate. (consideration: CR S6354-6356)
+- 2008-07-08 — Amendment SA 5067 proposed by Senator Reid to the motion to disagree to the amendment of the House adding a new title. (consideration: CR S6448; text: CR S6448) To change the enactment date.
+- 2008-07-08 — Amendment SA 5068 proposed by Senator Reid to Amendment SA 5067. (consideration: CR S6448; text: CR S6448) Of a perfecting nature.
+- 2008-07-08 — Cloture motion on the Reid motion to disagree presented in Senate. (consideration: CR S6448; text: CR S6448)
+- 2008-07-08 — Considered by Senate. (consideration: CR S6448)
+- 2008-07-08 — Motion by Senator Reid to concur in the amendment of the House adding a new title to the Senate amendment to H.R.3221 with an amendment (SA 5067) made in Senate. (consideration: CR S6448)
+- 2008-07-08 — Motion by Senator Reid to disagree to the amendments of the House adding a new title and inserting a new section to the amendment of the Senate to H.R.3221 made in Senate. (consideration: CR S6448)
+- 2008-07-08 — Resolving differences -- Senate actions: Senate agreed to amendments of the House, striking titles VI through XI, to the Senate amendment by Unanimous Consent.
+- 2008-07-08 — Senate agreed to amendments of the House, striking titles VI through XI, to the Senate amendment by Unanimous Consent.
+- 2008-07-08 — Senate amendment proposed (on the floor): Amendment SA 5067 proposed by Senator Reid to the motion to disagree to the amendment of the House adding a new title.(consideration: CR S6448; text: CR S6448)
+- 2008-07-08 — Senate amendment proposed (on the floor): Amendment SA 5068 proposed by Senator Reid to Amendment SA 5067.(consideration: CR S6448; text: CR S6448)
+- 2008-07-08 — Senate amendment submitted
+- 2008-07-08 — Senate amendment submitted
+- 2008-07-09 — Considered by Senate. (consideration: CR S6490)
+- 2008-07-09 — Considered by Senate. (consideration: CR S6490)
+- 2008-07-09 — Considered by Senate. (consideration: CR S6490, S6494)
+- 2008-07-10 — Cloture on the motion by Senator Reid to disagree to the amendments of the House adding a new title and inserting a new section to the amendment of the Senate to H.R.3221 invoked in Senate by Yea-Nay Vote. 84 - 12. Record Vote Number: 170. (consideration: CR S6520-6521; text: CR S6520)
+- 2008-07-10 — Considered by Senate. (consideration: CR S6513)
+- 2008-07-10 — Considered by Senate. (consideration: CR S6513)
+- 2008-07-10 — Considered by Senate. (consideration: CR S6513-6514, S6516-6521, S6524-6525, S6535, S6547-6548, S6550)
+- 2008-07-10 — Reid Motion to concur in the amendment of the House adding a new title to the Senate amendment to H.R. 3221 with an amendment (SA 5067) fell when cloture was invoked on the Reid motion to disagree to the amendments of the House adding a new title and inserting a new section to the amendment of the Senate to H.R. 3221.
+- 2008-07-10 — SA 5067 fell when cloture invoked on the Reid motion to disagree to the amendments of the House adding a new title and inserting a new section to the amendment of the Senate to H.R. 3221.
+- 2008-07-10 — SA 5068 fell when SA 5067 fell.
+- 2008-07-11 — Considered by Senate. (consideration: CR S6585, S6588, S6590-6595)
+- 2008-07-11 — Resolving differences -- Senate actions: Senate disagreed to the amendments of the House adding a new title and inserting a new section to the amendment of the Senate to H.R. 3221 by Yea-Nay Vote. 63 - 5. Record Vote Number: 173.(text of Senate amendment to House amendments to Senate amendment: CR 7/15/2008 S6736-6797)
+- 2008-07-11 — Senate disagreed to the amendments of the House adding a new title and inserting a new section to the amendment of the Senate to H.R. 3221 by Yea-Nay Vote. 63 - 5. Record Vote Number: 173. (text of Senate amendment to House amendments to Senate amendment: CR 7/15/2008 S6736-6797)
+- 2008-07-15 — Message on Senate action sent to the House.
