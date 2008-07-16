@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 381
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 381
@@ -89,3 +89,6 @@ Honoring and recognizing the dedication and achievements of Thurgood Marshall on
 - 2008-07-14 — Mr. Schiff moved to suspend the rules and agree to the resolution.
 - 2008-07-14 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H6428)
 - 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H6428)
+- 2008-07-15 — Received in the Senate.
+- 2008-07-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S6877-6878)
+- 2008-07-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6877-6878)
