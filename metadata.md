@@ -1,7 +1,7 @@
 ---
 measure: S. 2062
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2062
@@ -16,7 +16,7 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 
 - Sen. Dorgan, Byron L. [D-ND] (D000432)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Reid, Harry [D-NV] (R000146)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -27,6 +27,7 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Domenici, Pete V. [R-NM] (D000407)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Stevens, Ted [R-AK] (S000888)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 - Sen. Shelby, Richard C. [R-AL] (S000320)
 
@@ -57,3 +58,16 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2008-05-22 — Senate amendment agreed to: Amendment SA 4820 agreed to in Senate by Unanimous Consent.
 - 2008-05-22 — Senate amendment proposed (on the floor): Amendment SA 4820 proposed by Senator Reid for Senator Dodd.(consideration: CR S4844; text: CR S4844)
 - 2008-05-22 — Senate amendment submitted
+- 2008-06-02 — Amendment 4820, previously agreed to, was modified by by Unanimous Consent. (consideration: CR S4857-4858; text as modified: CR S4857-4858)
+- 2008-06-02 — Message on Senate action sent to the House.
+- 2008-06-03 — Held at the desk.
+- 2008-06-03 — Received in the House.
+- 2008-07-16 — House insisted on its amendment and asked for a conference pursuant to H. Res. 1339.
+- 2008-07-16 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 1339, S. 2062 is considered passed House as amended.(consideration: CR H6599)
+- 2008-07-16 — Pursuant to the provisions of H. Res. 1339, S. 2062 is considered passed House as amended. (consideration: CR H6599)
+- 2008-07-17 — DEBATE - The House proceeded with one hour of debate on the Roskam motion to instruct conferees on S. 2062. The instructions contained in the motion seek to require the managers on the part of the House to agree to language providing that development and rehabilitation of utilities and utility services shall be eligible affordable housing activities under the Indian Housing Block Grant Program.
+- 2008-07-17 — Message on House action received in Senate and at desk: House amendment to Senate bill House requests a conference.
+- 2008-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-17 — Mr. Roskam moved that the House instruct conferees. (consideration: CR H6681-6688; text: CR H6681)
+- 2008-07-17 — On motion that the House instruct conferees Agreed to by voice vote.
+- 2008-07-17 — The previous question was ordered without objection. (consideration: CR H6688)
