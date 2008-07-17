@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 

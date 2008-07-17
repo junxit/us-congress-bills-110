@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 35
@@ -29,3 +29,7 @@ A joint resolution to amend Public Law 108-331 to provide for the construction a
 
 - 2008-05-22 — Introduced in Senate
 - 2008-05-22 — Read twice and referred to the Committee on Rules and Administration.
+- 2008-07-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6946; text as passed Senate: CR S6946)
+- 2008-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6946; text as passed Senate: CR S6946)
+- 2008-07-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2008-07-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
