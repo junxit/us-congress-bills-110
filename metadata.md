@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1350
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1350
@@ -20,6 +20,11 @@ Providing for consideration of motions to suspend the rules.
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2008-07-17 — [House 110-2-509](votes/house-110-2-0509.md) — On Ordering the Previous Question — **Passed** (228–188)
+- 2008-07-17 — [House 110-2-510](votes/house-110-2-0510.md) — On Agreeing to the Resolution — **Passed** (222–194)
+
 ## Actions
 
 - 2008-07-16 — Introduced in House
@@ -27,3 +32,9 @@ Providing for consideration of motions to suspend the rules.
 - 2008-07-16 — Placed on the House Calendar, Calendar No. 250.
 - 2008-07-16 — The House Committee on Rules reported an original measure, H. Rept. 110-761, by Mr. Welch (VT).
 - 2008-07-16 — The House Committee on Rules reported an original measure, H. Rept. 110-761, by Mr. Welch (VT).
+- 2008-07-17 — Considered as privileged matter. (consideration: CR H6688-6697)
+- 2008-07-17 — DEBATE - The House proceeded with one hour of debate on H. Res. 1350.
+- 2008-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-17 — On agreeing to the resolution Agreed to by recorded vote: 222 - 194 (Roll no. 510). (text: CR H6688)
+- 2008-07-17 — On ordering the previous question Agreed to by the Yeas and Nays: 228 - 188 (Roll no. 509). (consideration: CR H6695-6696)
+- 2008-07-17 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 222 - 194 (Roll no. 510).(text: CR H6688)
