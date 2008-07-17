@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5501
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5501
@@ -24,16 +24,18 @@ Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, T
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2008-04-02 — [House 110-2-156](votes/house-110-2-0156.md) — On Agreeing to the Amendment — **Agreed to** (415–10)
 - 2008-04-02 — [House 110-2-157](votes/house-110-2-0157.md) — On Motion to Recommit with Instructions — **Failed** (175–248)
 - 2008-04-02 — [House 110-2-158](votes/house-110-2-0158.md) — On Passage — **Passed** (308–116)
+- 2008-07-16 — [Senate 110-2-182](votes/senate-110-2-0182.md) — On Passage of the Bill — **Bill Passed** (80–16)
 
 ## Actions
 
@@ -99,3 +101,12 @@ Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, T
 - 2008-04-02 — The Speaker designated the Honorable Eleanor Holmes Norton to act as Chairwoman of the Committee.
 - 2008-04-02 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1941)
 - 2008-04-02 — The previous question was ordered pursuant to the rule. (consideration: CR H1939)
+- 2008-04-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2008-07-16 — Measure laid before Senate by unanimous consent. (consideration: CR S6838-6857)
+- 2008-07-16 — Passed Senate with an amendment by Yea-Nay Vote. 80 - 16. Record Vote Number: 182. (text: CR S6842-6855)
+- 2008-07-16 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 80 - 16. Record Vote Number: 182.(text: CR S6842-6855)
+- 2008-07-16 — See also S. 2731.
+- 2008-07-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2008-07-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2008-07-16 — Senate struck all after the Enacting Clause and substituted the language of S. 2731 amended.
+- 2008-07-17 — Message on Senate action sent to the House.
