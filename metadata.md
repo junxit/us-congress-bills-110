@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1553
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 1553
@@ -275,3 +275,8 @@ Caroline Pryce Walker Conquer Childhood Cancer Act of 2008
 - 2008-06-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 409).
 - 2008-06-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 409).
 - 2008-06-12 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-16 — Received in the Senate, read twice.
+- 2008-07-16 — Cleared for White House.
+- 2008-07-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6857-6858)
+- 2008-07-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6857-6858)
+- 2008-07-17 — Message on Senate action sent to the House.
