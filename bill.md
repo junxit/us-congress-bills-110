@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 6553
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6553
+
+> To clarify the authority of the Secretary of Agriculture regarding additional recreational uses of National Forest System lands subject to ski area permits.
+
+## § 1. Findings and purpose
+
+- **(a)** *Findings* The Congress finds the following:
+  - **(1)** It is in the national interest to provide, and encourage Americans to take advantage of, opportunities during all four seasons to engage in outdoor recreational activities that can contribute to their health and well-being.
+  - **(2)** Under current law, National Forest System lands are managed in ways that not only encourage understanding and appreciation of nature and the importance of conserving natural resources, but also provide year-round opportunities for natural resource-based outdoor developed recreation outside of urban settings.
+  - **(3)** Increasing the extent to which National Forest System lands can provide opportunities for outdoor recreational activities will make it possible for more Americans to engage in such activities.
+  - **(4)** National Forest System lands used for skiing and other snow-sports can provide additional opportunities for seasonal and year-round recreational activities.
+  - **(5)** Authorizing increased use of some National Forest System lands for such additional activities and associated facilities can reduce the impact of such activities and facilities on other National Forest System lands.
+  - **(6)** It is desirable to revise the National Forest Ski Area Permit Act of 1986 to reflect that snow-sports other than nordic and alpine skiing may occur on National Forest System lands subject to ski area permits and to clarify the authority of the Secretary of Agriculture to permit appropriate additional seasonal or year-round recreational activities and facilities on such lands.
+- **(b)** *Purpose* The purpose of this Act is to amend the National Forest Ski Area Permit Act of 1986 to reflect that snow-sports other than nordic and alpine skiing may occur on National Forest System lands subject to ski area permits and to clarify the authority of the Secretary of Agriculture to permit appropriate additional seasonal or year-round recreational uses of lands subject to ski area permits under such Act.
+
+## § 2. Amendments to National Forest Ski Area Permit Act of 1986
+
+Section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b) is amended as follows:
+
+- **(1)** In subsection (a), by striking “nordic and alpine ski areas and facilities” and inserting “ski areas and associated facilities”.
+- **(2)** In subsection (b), by striking “nordic and alpine skiing operations and purposes” and inserting “skiing and other snow-sports and such other seasonal or year-round recreational activities associated with mountain resorts as the Secretary may authorize pursuant to subsection (c)”.
+- **(3)** By redesignating subsections (c) and (d) as subsections (d) and (e), respectively.
+- **(4)** By adding after subsection (b) the following new subsection:
+  > - **(c)** *Other Recreational Uses*
+  >   - **(1)** The Secretary may authorize the holder of a ski area permit issued pursuant to subsection (b) to also provide on lands subject to such permit such other seasonal or year-round outdoor and natural-resource based developed recreation activities and associated facilities, in addition to skiing and other snow-sports, as the Secretary determines appropriate.
+  >   - **(2)** Activities and facilities authorized under this subsection shall encourage outdoor recreation, harmonize with the natural environment to the extent practicable, and be subject to such terms and conditions as the Secretary determines appropriate.
+  >   - **(3)** No activity or facility shall be authorized under this subsection if the Secretary determines that its authorization would result in the primary recreational purpose of lands subject to a ski area permit not being skiing or other snow-sports.
+
+- **(5)** In subsection (d), as redesignated, by—
+  - **(A)** striking “Within one year after the date of enactment of this Act, the” and inserting “The”; and
+  - **(B)** striking “within 3 years of the date of enactment of this Act”.
+
+## § 3. Other laws
+
+Nothing in this Act shall be construed as affecting any authority of the Secretary of Agriculture, including authority with respect to recreational activities or facilities on National Forest System lands, under any law other than the National Forest Ski Area Permit Act of 1986.
