@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in the long title, by striking “on Kitt Peak near Tucson, Arizona” and inserting “in Arizona”; and | the bill names no machine-readable US Code section |
-| — | replace | in section 1, by striking “on Kitt Peak near Tucson, Arizona” and inserting “at the Fred Lawrence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location”. | the bill names no machine-readable US Code section |
+| — | replace | in section 1, by striking “on Kitt Peak near Tucson, Arizona” and inserting “at the Fred Law-rence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location”. | the bill names no machine-readable US Code section |
