@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.J.Res. 35
@@ -21,9 +21,10 @@ A joint resolution to amend Public Law 108-331 to provide for the construction a
 - Sen. Cochran, Thad [R-MS] (C000567)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Rules and Administration Committee
+- House — Transportation and Infrastructure Committee
 
 ## Actions
 
@@ -33,3 +34,6 @@ A joint resolution to amend Public Law 108-331 to provide for the construction a
 - 2008-07-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6946; text as passed Senate: CR S6946)
 - 2008-07-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
 - 2008-07-17 — Senate Committee on Rules and Administration discharged by Unanimous Consent.
+- 2008-07-18 — Message on Senate action sent to the House.
+- 2008-07-21 — Received in the House.
+- 2008-07-21 — Referred to the House Committee on Transportation and Infrastructure.
