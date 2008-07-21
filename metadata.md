@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3815
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3815
@@ -16,7 +16,7 @@ Homeland Security Open Source Information Enhancement Act of 2008
 
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 
-## Cosponsors (7)
+## Cosponsors (13)
 
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
@@ -25,6 +25,12 @@ Homeland Security Open Source Information Enhancement Act of 2008
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 - Rep. Renzi, Rick [R-AZ-1] (R000574)
 - Rep. Harman, Jane [D-CA-36] (H000213)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Dicks, Norman D. [D-WA-6] (D000327)
+- Rep. Richardson, Laura [D-CA-37] (R000581)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
 ## Committees (1)
 
@@ -35,3 +41,11 @@ Homeland Security Open Source Information Enhancement Act of 2008
 - 2007-10-10 — Introduced in House
 - 2007-10-10 — Introduced in House
 - 2007-10-10 — Referred to the House Committee on Homeland Security.
+- 2007-10-12 — Referred to the Subcommittee on Intelligence, Information Sharing, and Terrorism Risk Assessment.
+- 2008-06-11 — Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .
+- 2008-06-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-06-26 — Committee Consideration and Mark-up Session Held.
+- 2008-06-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-21 — Placed on the Union Calendar, Calendar No. 486.
+- 2008-07-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-763.
+- 2008-07-21 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-763.
