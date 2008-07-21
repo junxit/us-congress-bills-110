@@ -1,7 +1,7 @@
 ---
 measure: S. 901
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 901
@@ -16,7 +16,7 @@ Health Care Safety Net Act of 2007
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
-## Cosponsors (68)
+## Cosponsors (75)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
@@ -86,6 +86,13 @@ Health Care Safety Net Act of 2007
 - Sen. Webb, Jim [D-VA] (W000803)
 - Sen. Hutchison, Kay Bailey [R-TX] (H001016)
 - Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
@@ -102,3 +109,14 @@ Health Care Safety Net Act of 2007
 - 2007-12-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2007-12-18 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Kennedy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2007-12-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.
+- 2008-03-12 — By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-274.
+- 2008-03-12 — By Senator Kennedy from Committee on Health, Education, Labor, and Pensions filed written report. Report No. 110-274.
+- 2008-07-21 — Amendment SA 5088 agreed to in Senate by Unanimous Consent.
+- 2008-07-21 — Amendment SA 5088 proposed by Senator Durbin for Senator Kennedy. (consideration: CR S6979) In the nature of a substitute.
+- 2008-07-21 — Measure laid before Senate by unanimous consent. (consideration: CR S6978-6979; text of measure as reported in Senate: CR S6978-6979)
+- 2008-07-21 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2008-07-21 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2008-07-21 — Senate amendment agreed to: Amendment SA 5088 agreed to in Senate by Unanimous Consent.
+- 2008-07-21 — Senate amendment proposed (on the floor): Amendment SA 5088 proposed by Senator Durbin for Senator Kennedy.(consideration: CR S6979)
+- 2008-07-21 — Senate amendment submitted
+- 2008-07-21 — The committee substitute as amended agreed to by Unanimous Consent.
