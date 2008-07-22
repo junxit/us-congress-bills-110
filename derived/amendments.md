@@ -1,7 +1,7 @@
 ---
 measure: S. 3295
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+6 amendatory instructions. 3 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 35 U.S.C. § 6
+
+> in the second sentence, by striking “Deputy Commissioner” and inserting “Deputy Director”; and
+
+| | |
+|---|---|
+| Removed | `Deputy Commissioner` |
+| Inserted | `Deputy Director` |
+
+### 35 U.S.C. § 6
+
+> in the last sentence, by striking “Director” and inserting “Secretary of Commerce, in consultation with the Director”; and
+
+| | |
+|---|---|
+| Removed | `Director` |
+| Inserted | `Secretary of Commerce, in consultation with the Director` |
+
+### 35 U.S.C. § 6
+
+> by striking “appointed by the Director” and inserting “appointed by the Secretary of Commerce, in consultation with the Director”; and
+
+| | |
+|---|---|
+| Removed | `appointed by the Director` |
+| Inserted | `appointed by the Secretary of Commerce, in consultation with the Director` |
 
 ## Stated, not applied
 
@@ -31,9 +60,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the second sentence, by striking “Deputy Commissioner” and inserting “Deputy Director”; and | the bill names no machine-readable US Code section |
-| — | replace | in the last sentence, by striking “Director” and inserting “Secretary of Commerce, in consultation with the Director”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | by inserting “Deputy Director of the United States Patent and Trademark Office”, after “Director,”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “appointed by the Director” and inserting “appointed by the Secretary of Commerce, in consultation with the Director”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `35 U.S.C. § 6` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `35 U.S.C. § 6` | insert | by inserting “Deputy Director of the United States Patent and Trademark Office”, after “Director,”; and | the bill quotes the text inserted but describes where it goes |
+| `35 U.S.C. § 6` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
