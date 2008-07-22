@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4049
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Money Service Business Act of 2007”.
+This Act may be cited as the “Money Service Business Act of 2008”.
 
 ## § 2. Findings
 
@@ -33,7 +33,7 @@ The Congress finds as follows:
 
 - **(a)** *In general* Section 5318(h) of title 31, United States Code, is amended by adding at the end the following new paragraphs:
   > - **(4)** *Money transmitting business accounts*
-  >   - **(A)** *In general* A federally insured depository institution shall have no obligation, beyond the obligation of the institution to comply with the requirements of this chapter, to conduct any review of the compliance by a money transmitting business (as defined in section 5330(d)(1)) for which the depository institution maintains an account, or any agent of such business, with the requirements of this section if the institution has on file—
+  >   - **(A)** *In general* A federally insured depository institution that maintains an account for a money transmitting business (as defined in section 5330(d)(1)) shall have no obligation to review the compliance of that business, or any agent thereof, with that business’s or agent’s obligations under this section, if the institution has on file—
   >     - **(i)** a certification submitted by the money transmitting business that meets the requirements of paragraph (5)(A); or
   >     - **(ii)** in the case of an agent of a money transmitting business—
   >       - **(I)** the certification required under paragraph (5)(B); and
@@ -42,7 +42,7 @@ The Congress finds as follows:
   >     - **(i)** *Civil penalties* A money transmitting business or an agent of any such business making a material misrepresentation in a certification referred to in subparagraph (A) shall be subject to the civil penalties prescribed under section 5321 without regard to whether such violation was willful.
   >     - **(ii)** *Criminal penalties* A person who knowingly makes a material misrepresentation in a certification referred to in subparagraph (A) shall be subject to penalties prescribed under section 5322 without regard to whether such violation was willful.
   >   - **(C)** *Rule of construction* No provision of this paragraph shall be construed as requiring any federally insured depository institution to establish, maintain, administer or manage an account for a money transmitting business or an agent of any such business.
-  >   - **(D)** *Reliance for insured depository institutions* A federally insured depository institution shall have no increased liability under this chapter for the failure of any money transmitting business or an agent of any such business to comply with any provision of this section and regulations prescribed under any such provision to the extent that the institution has itself complied with the requirements of this chapter and such regulations.
+  >   - **(D)** *Reliance for insured depository institutions* A federally insured depository institution shall have no liability under this chapter for the failure of any money transmitting business or an agent of any such business to comply with any provision of this section and regulations prescribed under any such provision.
   >   - **(E)** *Federally insured depository institution defined* The term federally insured depository institution means any insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act) and any insured credit union (as defined in section 101(7) of the Federal Credit Union Act).
   > - **(5)** *Paragraph (4) certification*
   >   - **(A)** *Money transmitting business* A certification by a money transmitting business meets the requirement of paragraph (4) if the money transmitting business certifies as follows, to the satisfaction of the Secretary:
