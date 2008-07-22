@@ -1,7 +1,7 @@
 ---
 measure: S. 3294
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3294
@@ -20,8 +20,15 @@ United States Parole Commission Extension Act of 2008
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2008-07-21 — Introduced in Senate
 - 2008-07-21 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S6979-6980; text as passed Senate: CR S6980)
 - 2008-07-21 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S6979-6980; text as passed Senate: CR S6980)
+- 2008-07-22 — Message on Senate action sent to the House.
+- 2008-07-22 — Received in the House.
+- 2008-07-22 — Referred to the House Committee on the Judiciary.
