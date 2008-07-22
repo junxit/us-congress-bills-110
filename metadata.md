@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5531
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5531
@@ -29,3 +29,10 @@ Next Generation Radiation Screening Act of 2008
 - 2008-03-05 — Introduced in House
 - 2008-03-05 — Introduced in House
 - 2008-03-05 — Referred to the House Committee on Homeland Security.
+- 2008-03-18 — Referred to the Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology.
+- 2008-06-26 — Committee Consideration and Mark-up Session Held.
+- 2008-06-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-06-26 — Subcommittee on Emerging Threats, Cybersecurity, and Science and Technology Discharged.
+- 2008-07-22 — Placed on the Union Calendar, Calendar No. 487.
+- 2008-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-764.
+- 2008-07-22 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-764.
