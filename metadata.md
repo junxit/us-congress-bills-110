@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6226
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6226
@@ -63,3 +63,11 @@ To designate the facility of the United States Postal Service located at 300 Eas
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Introduced in House
 - 2008-06-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-16 — Ordered to be Reported by Voice Vote.
+- 2008-07-22 — Considered under suspension of the rules. (consideration: CR H6785-6786)
+- 2008-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6226.
+- 2008-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-22 — Mr. Higgins moved to suspend the rules and pass the bill.
+- 2008-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6785)
+- 2008-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6785)
