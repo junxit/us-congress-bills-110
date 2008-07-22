@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4049
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4049
@@ -31,3 +31,11 @@ Money Service Business Act of 2008
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Introduced in House
 - 2007-11-01 — Referred to the House Committee on Financial Services.
+- 2008-06-24 — Committee Consideration and Mark-up Session Held.
+- 2008-06-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-22 — Considered under suspension of the rules. (consideration: CR H6775-6777)
+- 2008-07-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4049.
+- 2008-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-22 — Mrs. Maloney (NY) moved to suspend the rules and pass the bill, as amended.
+- 2008-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6775-6776)
+- 2008-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6775-6776)
