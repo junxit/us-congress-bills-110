@@ -1,7 +1,7 @@
 ---
 measure: S. 2766
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 312 of the Federal Water Pollution Control Act (33 U.S.C. 1322) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 1342` | add-at-end | Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1362` | add-at-end | Section 502 of the Federal Water Pollution Control Act (33 U.S.C. 1362) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1322` | amend | Section 312 of the Federal Water Pollution Control Act (33 U.S.C. 1322) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: S. 2766
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2766
@@ -16,7 +16,7 @@ Clean Boating Act of 2008
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (38)
+## Cosponsors (39)
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Reed, Jack [D-RI] (R000122)
@@ -56,6 +56,7 @@ Clean Boating Act of 2008
 - Sen. Lugar, Richard G. [R-IN] (L000504)
 - Sen. Kerry, John F. [D-MA] (K000148)
 - Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -69,3 +70,15 @@ Clean Boating Act of 2008
 - 2008-06-23 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-398. Additional views filed.
 - 2008-06-23 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-398. Additional views filed.
 - 2008-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 832.
+- 2008-07-22 — Cleared for White House.
+- 2008-07-22 — Considered under suspension of the rules. (consideration: CR H6749-6752)
+- 2008-07-22 — DEBATE - The House proceeded with forty minutes of debate on S. 2766.
+- 2008-07-22 — Held at the desk.
+- 2008-07-22 — Message on Senate action sent to the House.
+- 2008-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-22 — Mr. Oberstar moved to suspend the rules and pass the bill.
+- 2008-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6749)
+- 2008-07-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6981-6983; text as passed Senate: CR S6982-6983)
+- 2008-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6749)
+- 2008-07-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6981-6983; text as passed Senate: CR S6982-6983)
+- 2008-07-22 — Received in the House.
