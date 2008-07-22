@@ -1,0 +1,282 @@
+---
+measure: S. 294
+congress: 110
+version: Engrossed Amendment House
+---
+
+# S. 294
+
+Passenger Rail Investment and Improvement Act of 2008
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+
+## Cosponsors (46)
+
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Lott, Trent [R-MS] (L000447)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Webb, Jim [D-VA] (W000803)
+
+## Committees (2)
+
+- Senate — Commerce, Science, and Transportation Committee
+- House — Transportation and Infrastructure Committee
+
+## Recorded votes (6)
+
+- 2007-10-25 — [Senate 110-1-395](votes/senate-110-1-0395.md) — On the Amendment — **Amendment Rejected** (28–66)
+- 2007-10-25 — [Senate 110-1-396](votes/senate-110-1-0396.md) — On the Amendment — **Amendment Rejected** (27–64)
+- 2007-10-30 — [Senate 110-1-397](votes/senate-110-1-0397.md) — On the Amendment — **Amendment Rejected** (24–67)
+- 2007-10-30 — [Senate 110-1-398](votes/senate-110-1-0398.md) — On the Cloture Motion — **Cloture Motion Agreed to** (79–13)
+- 2007-10-30 — [Senate 110-1-399](votes/senate-110-1-0399.md) — On the Amendment — **Amendment Rejected** (27–65)
+- 2007-10-30 — [Senate 110-1-400](votes/senate-110-1-0400.md) — On Passage of the Bill — **Bill Passed** (70–22)
+
+## Actions
+
+- 2007-01-16 — Introduced in Senate
+- 2007-01-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S580-595)
+- 2007-01-16 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2007-01-16 — Senate amendment submitted
+- 2007-01-16 — Sponsor introductory remarks on measure. (CR S579-580)
+- 2007-02-27 — Committee on Commerce, Science, and Transportation Subcommittee on Surface Transportation and Merchant Marine. Hearings held. With printed Hearing: S.Hrg. 110-1064.
+- 2007-04-25 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2007-05-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with amendments. With written report No. 110-67.
+- 2007-05-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Inouye with amendments. With written report No. 110-67.
+- 2007-05-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.
+- 2007-10-24 — Amendment SA 3451 agreed to in Senate by Unanimous Consent.
+- 2007-10-24 — Amendment SA 3451 proposed by Senator Lautenberg. (consideration: CR S13346-13348; text: CR S13346) Of a perfecting nature.
+- 2007-10-24 — Amendment SA 3452 proposed by Senator Sununu. (consideration: CR S13349-13351; text: CR S13349-13350) To amend the Internet Tax Freedom Act to make permanent the moratorium on certain taxes relating to the Internet and to electronic commerce.
+- 2007-10-24 — Amendment SA 3453 proposed by Senator Sununu. (consideration: CR S13351-13352; text: CR S13351) To prohibit Federal subsidies in excess of specified amounts on any Amtrak train route.
+- 2007-10-24 — Amendment SA 3454 proposed by Senator Lautenberg for Senator Carper to Amendment SA 3452. (consideration: CR S13353-13354; text: CR S13353) Of a perfecting nature.
+- 2007-10-24 — Cloture motion on amendment SA 3452 presented in Senate. (consideration: CR S13350; text: CR S13350)
+- 2007-10-24 — Committee reported amendments agreed to by Unanimous Consent.
+- 2007-10-24 — Measure laid before Senate by unanimous consent. (consideration: CR S13323-13354; text of measure as reported in Senate: CR S13323-13344)
+- 2007-10-24 — Senate amendment agreed to: Amendment SA 3451 agreed to in Senate by Unanimous Consent.
+- 2007-10-24 — Senate amendment proposed (on the floor): Amendment SA 3451 proposed by Senator Lautenberg.(consideration: CR S13346-13348; text: CR S13346)
+- 2007-10-24 — Senate amendment proposed (on the floor): Amendment SA 3452 proposed by Senator Sununu.(consideration: CR S13349-13351; text: CR S13349-13350)
+- 2007-10-24 — Senate amendment proposed (on the floor): Amendment SA 3453 proposed by Senator Sununu.(consideration: CR S13351-13352; text: CR S13351)
+- 2007-10-24 — Senate amendment proposed (on the floor): Amendment SA 3454 proposed by Senator Lautenberg for Senator Carper to Amendment SA 3452.(consideration: CR S13353-13354; text: CR S13353)
+- 2007-10-24 — Senate amendment submitted
+- 2007-10-24 — Senate amendment submitted
+- 2007-10-24 — Senate amendment submitted
+- 2007-10-24 — Senate amendment submitted
+- 2007-10-25 — Amendment SA 3453 not agreed to in Senate by Yea-Nay Vote. 28 - 66. Record Vote Number: 395.
+- 2007-10-25 — Amendment SA 3455 proposed by Senator Allard. (consideration: CR S13413-13415; text: CR S13413) To strike the provisions repealing Amtrak's self-sufficiency requirements.
+- 2007-10-25 — Amendment SA 3456 not agreed to in Senate by Yea-Nay Vote. 27 - 64. Record Vote Number: 396.
+- 2007-10-25 — Amendment SA 3456 proposed by Senator Sununu. (consideration: CR S13412-13413, S13417, S13426; text: CR S13413; text as modified: CR S13417) To remove the limitation on the number of Amtrak routes available for competitive bid.
+- 2007-10-25 — Amendment SA 3457 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S13427)
+- 2007-10-25 — Amendment SA 3457 proposed by Senator Lautenberg for Senator Murray. (consideration: CR S13427) To require the development of a strategic plan to facilitate expanded cross-border passenger rail service on the Amtrak Cascades route during the 2010 Olympic Games.
+- 2007-10-25 — Amendment SA 3459 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S13427)
+- 2007-10-25 — Amendment SA 3459 proposed by Senator Lautenberg for Senator Murray. (consideration: CR S13427) To require a report by the Inspector General of the Department of Transportation on service delays on the Coast Starlight and Amtrak Cascades routes.
+- 2007-10-25 — Amendment SA 3460 agreed to in Senate by Unanimous Consent.
+- 2007-10-25 — Amendment SA 3460 proposed by Senator Lott for Senator DeMint. (consideration: CR S13427; text: CR S13427) To ensure that capital investment grants authorized under section 24402 of title 49, United States Code, may be used for passenger rail infrastructure.
+- 2007-10-25 — Amendment SA 3461 agreed to in Senate by Unanimous Consent.
+- 2007-10-25 — Amendment SA 3461 proposed by Senator Lott for Senator DeMint. (consideration: CR S13427; text: CR S13427) To direct the Government Accountability Office to conduct a study that compares passenger rail systems in certain developed countries.
+- 2007-10-25 — Cloture motion on amendment SA 3452 withdrawn by unanimous consent in Senate.
+- 2007-10-25 — Considered by Senate. (consideration: CR S13405, S13405-13412)
+- 2007-10-25 — Considered by Senate. (consideration: CR S13405, S13412)
+- 2007-10-25 — Considered by Senate. (consideration: CR S13405, S13417-13419)
+- 2007-10-25 — Considered by Senate. (consideration: CR S13405-13428)
+- 2007-10-25 — Proposed amendment SA 3452 withdrawn in Senate. (consideration: CR S13430)
+- 2007-10-25 — Roll call votes on amendments in Senate: Amendment SA 3453 not agreed to in Senate by Yea-Nay Vote. 28 - 66. Record Vote Number: 395.
+- 2007-10-25 — Roll call votes on amendments in Senate: Amendment SA 3456 not agreed to in Senate by Yea-Nay Vote. 27 - 64. Record Vote Number: 396.
+- 2007-10-25 — SA 3454 fell when SA 3452 was withdrawn.
+- 2007-10-25 — Senate amendment agreed to: Amendment SA 3457 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S13427)
+- 2007-10-25 — Senate amendment agreed to: Amendment SA 3459 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S13427)
+- 2007-10-25 — Senate amendment agreed to: Amendment SA 3460 agreed to in Senate by Unanimous Consent.
+- 2007-10-25 — Senate amendment agreed to: Amendment SA 3461 agreed to in Senate by Unanimous Consent.
+- 2007-10-25 — Senate amendment not agreed to: Amendment SA 3453 not agreed to in Senate by Yea-Nay Vote. 28 - 66. Record Vote Number: 395.
+- 2007-10-25 — Senate amendment not agreed to: Amendment SA 3456 not agreed to in Senate by Yea-Nay Vote. 27 - 64. Record Vote Number: 396.
+- 2007-10-25 — Senate amendment proposed (on the floor): Amendment SA 3455 proposed by Senator Allard.(consideration: CR S13413-13415; text: CR S13413)
+- 2007-10-25 — Senate amendment proposed (on the floor): Amendment SA 3456 proposed by Senator Sununu.(consideration: CR S13412-13413, S13417, S13426; text: CR S13413; text as modified: CR S13417)
+- 2007-10-25 — Senate amendment proposed (on the floor): Amendment SA 3457 proposed by Senator Lautenberg for Senator Murray.(consideration: CR S13427)
+- 2007-10-25 — Senate amendment proposed (on the floor): Amendment SA 3459 proposed by Senator Lautenberg for Senator Murray.(consideration: CR S13427)
+- 2007-10-25 — Senate amendment proposed (on the floor): Amendment SA 3460 proposed by Senator Lott for Senator DeMint.(consideration: CR S13427; text: CR S13427)
+- 2007-10-25 — Senate amendment proposed (on the floor): Amendment SA 3461 proposed by Senator Lott for Senator DeMint.(consideration: CR S13427; text: CR S13427)
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-25 — Senate amendment submitted
+- 2007-10-26 — Amendment SA 3464 proposed by Senator Bond. (consideration: CR S13467-13469; text: CR S13467) To amend section 24101 of title 49, United States Code, to clarify Amtrak's mission.
+- 2007-10-26 — Amendment SA 3467 proposed by Senator Bond for Senator DeMint. (consideration: CR S13466-13467; text: CR S13466) To require Amtrak to disclose the Federal subsidy of every ticket sold for transportation on Amtrak.
+- 2007-10-26 — Amendment SA 3468 proposed by Senator Bond for Senator DeMint. (consideration: CR S13466-13467; text: CR S13466-13467) To increase competition in the American rail system by allowing any qualified rail operator or transportation company to compete for passenger rail service.
+- 2007-10-26 — Amendment SA 3469 proposed by Senator Bond for Senator DeMint. (consideration: CR S13466-13467; text: CR S13467) To clarify the level of detail to be included in the modern financial accounting and reporting system required under section 203.
+- 2007-10-26 — Amendment SA 3470 proposed by Senator Bond for Senator DeMint. (consideration: CR S13466-13467; text: CR S13467) To require the Performance Improvement Plan to address reaching financial solvency by eliminating routes and services that do not make a profit.
+- 2007-10-26 — Cloture motion on the bill presented in Senate.
+- 2007-10-26 — Considered by Senate. (consideration: CR S13466)
+- 2007-10-26 — Considered by Senate. (consideration: CR S13466-13469)
+- 2007-10-26 — Senate amendment proposed (on the floor): Amendment SA 3464 proposed by Senator Bond.(consideration: CR S13467-13469; text: CR S13467)
+- 2007-10-26 — Senate amendment proposed (on the floor): Amendment SA 3467 proposed by Senator Bond for Senator DeMint.(consideration: CR S13466-13467; text: CR S13466)
+- 2007-10-26 — Senate amendment proposed (on the floor): Amendment SA 3468 proposed by Senator Bond for Senator DeMint.(consideration: CR S13466-13467; text: CR S13466-13467)
+- 2007-10-26 — Senate amendment proposed (on the floor): Amendment SA 3469 proposed by Senator Bond for Senator DeMint.(consideration: CR S13466-13467; text: CR S13467)
+- 2007-10-26 — Senate amendment proposed (on the floor): Amendment SA 3470 proposed by Senator Bond for Senator DeMint.(consideration: CR S13466-13467; text: CR S13467)
+- 2007-10-29 — Amendment SA 3472 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3472 proposed by Senator Lott for Senator Tester. (consideration: CR S13509-13510; text: CR S13510) To require Amtrak to conduct a 1-time evaluation of passenger rail service between Chicago and Seattle through Southern Montana.
+- 2007-10-29 — Amendment SA 3473 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3473 proposed by Senator Lott for Senator Sanders. (consideration: CR S13509-13510; text: CR S13510) To clarify that the Secretary of Transportation should favor projects that involve the purchase of environmentally sensitive, fuel-efficient, and cost-effective passenger rail equipment in selecting projects to receive capital investment grants to support intercity passenger rail service.
+- 2007-10-29 — Amendment SA 3475 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3475 proposed by Senator Lott for Senator Coburn. (consideration: CR S13509-13510; text: CR S13509) To require Amtrak to publish a comprehensive annual financial report that allocates revenues and costs among each of its routes.
+- 2007-10-29 — Amendment SA 3476 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3476 proposed by Senator Lott for Senator Allard. (consideration: CR S13509-13510; text: CR S13510) To require Amtrak to develop a plan to operate within budgetary limits, including a longterm plan.
+- 2007-10-29 — Amendment SA 3477 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3477 proposed by Senator Lott for Senator Crapo. (consideration: CR S13509-13510; text: CR S13510) To give additional consideration to States with limited Amtrak service when considering new intercity passenger rail routes.
+- 2007-10-29 — Amendment SA 3483 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3483 proposed by Senator Lott for Senator DeMint. (consideration: CR S13509-13510; text: CR S13509) To encourage private sector funding of passenger trains.
+- 2007-10-29 — Amendment SA 3484 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3484 proposed by Senator Lott for Senator DeMint. (consideration: CR S13509-13510; text: CR S13510) To include private rail passenger operations on the Next Generation Corridor Equipment Pool Committee.
+- 2007-10-29 — Amendment SA 3485 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3485 proposed by Senator Lott for Senator Bond. (consideration: CR S13509-13510; text: CR S13510) To provide a mission statement for Amtrak, and for other purposes.
+- 2007-10-29 — Amendment SA 3488 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Amendment SA 3488 proposed by Senator Lott for Senator Hutchison. (consideration: CR S13509-13510; text: CR S13509-13510) To express the sense of the Senate regarding the need to maintain Amtrak as a national passenger rail system.
+- 2007-10-29 — Considered by Senate. (consideration: CR S13509)
+- 2007-10-29 — Considered by Senate. (consideration: CR S13509)
+- 2007-10-29 — Considered by Senate. (consideration: CR S13509)
+- 2007-10-29 — Considered by Senate. (consideration: CR S13509)
+- 2007-10-29 — Considered by Senate. (consideration: CR S13509, S13510)
+- 2007-10-29 — Considered by Senate. (consideration: CR S13509, S13510)
+- 2007-10-29 — Considered by Senate. (consideration: CR S13509-13512)
+- 2007-10-29 — Proposed amendment SA 3455 withdrawn in Senate. (consideration: CR S13510)
+- 2007-10-29 — Proposed amendment SA 3464 withdrawn in Senate. (consideration: CR S13510)
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3472 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3473 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3475 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3476 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3477 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3483 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3484 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3485 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment agreed to: Amendment SA 3488 agreed to in Senate by Unanimous Consent.
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3472 proposed by Senator Lott for Senator Tester.(consideration: CR S13509-13510; text: CR S13510)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3473 proposed by Senator Lott for Senator Sanders.(consideration: CR S13509-13510; text: CR S13510)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3475 proposed by Senator Lott for Senator Coburn.(consideration: CR S13509-13510; text: CR S13509)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3476 proposed by Senator Lott for Senator Allard.(consideration: CR S13509-13510; text: CR S13510)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3477 proposed by Senator Lott for Senator Crapo.(consideration: CR S13509-13510; text: CR S13510)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3483 proposed by Senator Lott for Senator DeMint.(consideration: CR S13509-13510; text: CR S13509)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3484 proposed by Senator Lott for Senator DeMint.(consideration: CR S13509-13510; text: CR S13510)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3485 proposed by Senator Lott for Senator Bond.(consideration: CR S13509-13510; text: CR S13510)
+- 2007-10-29 — Senate amendment proposed (on the floor): Amendment SA 3488 proposed by Senator Lott for Senator Hutchison.(consideration: CR S13509-13510; text: CR S13509-13510)
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-29 — Senate amendment submitted
+- 2007-10-30 — Amendment SA 3467 not agreed to in Senate by Yea-Nay Vote. 27 - 65. Record Vote Number: 399.
+- 2007-10-30 — Amendment SA 3469 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S13548)
+- 2007-10-30 — Amendment SA 3474 not agreed to in Senate by Yea-Nay Vote. 24 - 67. Record Vote Number: 397.
+- 2007-10-30 — Amendment SA 3474 proposed by Senator Coburn. (consideration: CR S13537-13541; text: CR S13537) To require Amtrak to regularly report to Congress on the profits or losses relating to the provision of food and beverage service and to limit such service on Amtrak rail lines that incur losses.
+- 2007-10-30 — Amendment SA 3486 agreed to in Senate by Unanimous Consent.
+- 2007-10-30 — Amendment SA 3486 proposed by Senator Lautenberg for Senator Vitter. (consideration: CR S13548; text: CR S13548) To require the rail cooperative research program to include research designed to review rail crossing safety improvements, including improvements using new safety technology.
+- 2007-10-30 — Amendment SA 3489 as modified agreed to in Senate by Unanimous Consent. (text as modified: CR S13548)
+- 2007-10-30 — Amendment SA 3489 proposed by Senator Lautenberg for Senator Schumer. (consideration: CR S13548) To authorize a passenger rail study.
+- 2007-10-30 — Cloture on the bill invoked in Senate by Yea-Nay Vote. 79 - 13. Record Vote Number: 398. (consideration: CR S13541; text: CR S13541)
+- 2007-10-30 — Considered by Senate. (consideration: CR S13536-13541, S13541-13567)
+- 2007-10-30 — Considered by Senate. (consideration: CR S13537)
+- 2007-10-30 — Considered by Senate. (consideration: CR S13537)
+- 2007-10-30 — Considered by Senate. (consideration: CR S13537, S13541-13548, S13548)
+- 2007-10-30 — Considered by Senate. (consideration: CR S13537, S13548)
+- 2007-10-30 — Passed Senate with amendments by Yea-Nay Vote. 70 - 22. Record Vote Number: 400. (text: CR S13551-13564)
+- 2007-10-30 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay Vote. 70 - 22. Record Vote Number: 400.(text: CR S13551-13564)
+- 2007-10-30 — Proposed amendment SA 3468 withdrawn in Senate.
+- 2007-10-30 — Proposed amendment SA 3470 withdrawn in Senate.
+- 2007-10-30 — Roll call votes on amendments in Senate: Amendment SA 3467 not agreed to in Senate by Yea-Nay Vote. 27 - 65. Record Vote Number: 399.
+- 2007-10-30 — Roll call votes on amendments in Senate: Amendment SA 3474 not agreed to in Senate by Yea-Nay Vote. 24 - 67. Record Vote Number: 397.
+- 2007-10-30 — Senate amendment agreed to: Amendment SA 3469 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S13548)
+- 2007-10-30 — Senate amendment agreed to: Amendment SA 3486 agreed to in Senate by Unanimous Consent.
+- 2007-10-30 — Senate amendment agreed to: Amendment SA 3489 as modified agreed to in Senate by Unanimous Consent.(text as modified: CR S13548)
+- 2007-10-30 — Senate amendment not agreed to: Amendment SA 3467 not agreed to in Senate by Yea-Nay Vote. 27 - 65. Record Vote Number: 399.
+- 2007-10-30 — Senate amendment not agreed to: Amendment SA 3474 not agreed to in Senate by Yea-Nay Vote. 24 - 67. Record Vote Number: 397.
+- 2007-10-30 — Senate amendment proposed (on the floor): Amendment SA 3474 proposed by Senator Coburn.(consideration: CR S13537-13541; text: CR S13537)
+- 2007-10-30 — Senate amendment proposed (on the floor): Amendment SA 3486 proposed by Senator Lautenberg for Senator Vitter.(consideration: CR S13548; text: CR S13548)
+- 2007-10-30 — Senate amendment proposed (on the floor): Amendment SA 3489 proposed by Senator Lautenberg for Senator Schumer.(consideration: CR S13548)
+- 2007-10-30 — Senate amendment submitted
+- 2007-10-31 — Message on Senate action sent to the House.
+- 2007-10-31 — Received in the House.
+- 2007-10-31 — Referred to the House Committee on Transportation and Infrastructure.
+- 2007-11-01 — Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- 2008-07-22 — Considered under suspension of the rules. (consideration: CR H6756-6773, H6788-6793)
+- 2008-07-22 — DEBATE - The House proceeded with 1 hour of debate on the Heller (NV) motion to instruct conferees on S. 294. The instructions contained in the motion seek to require the managers on the part of the House to insist on the provisions contained in section 221 of the House amendment.
+- 2008-07-22 — DEBATE - The House proceeded with forty minutes of debate on S. 294.
+- 2008-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-22 — Mr. Heller moved that the House instruct conferees. (consideration: CR H6788)
+- 2008-07-22 — Mr. Oberstar asked unanimous consent that the House insist upon its amendment, and request a conference.
+- 2008-07-22 — Mr. Oberstar moved to suspend the rules and pass the bill, as amended.
+- 2008-07-22 — On motion that the House insist upon its amendment, and request a conference Agreed to without objection. (consideration: CR H6788)
+- 2008-07-22 — On motion that the House instruct conferees Agreed to by voice vote. (consideration: CR H6793)
+- 2008-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6756-6770)
+- 2008-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6756-6770)
+- 2008-07-22 — The Speaker appointed conferees - from the Committee on Science and Technology for consideration of secs. 105 and 305 of the Senate bill, and modifications committed to conference: Gordon, Wu, and Gingrey.
+- 2008-07-22 — The Speaker appointed conferees - from the Committee on Transportation and Infrastructure for consideration of the Senate bill and the House amendment, and modifications committed to conference: Oberstar, Brown, Corrine, Cummings, Capuano, Bishop (NY), Napolitano, Lipinski, Braley (IA), Arcuri, Mica, Petri, LaTourette, Brown (SC), Shuster, Diaz-Balart, M., and Westmoreland.
+- 2008-07-22 — The previous question was ordered without objection. (consideration: CR H6793)
