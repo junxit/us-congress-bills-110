@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 94
 congress: 110
-version: Agreed to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 94

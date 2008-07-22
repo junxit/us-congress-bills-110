@@ -12,7 +12,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 ## Preamble
 
 - Whereas service members representing a wide diversity of races and nationalities have fought in every war in the history of the United States;
-- Whereas, on July 26, 1948, President Harry Truman signed Executive Order 9981, ordering the racial integration of the Armed Forces;
+- Whereas on July 26, 1948, President Harry Truman signed Executive Order 9981, ordering the racial integration of the Armed Forces;
 - Whereas President Truman declared that there should be equality of treatment and opportunity for all persons in the Armed Forces, without regard to race, color, religion, or national origin;
 - Whereas the United States could not maintain an all-volunteer force without the service of, and critical role played by, service members representing a wide diversity of races and nationalities;
 - Whereas service member diversity brings a unique perspective and experience to the Armed Forces;
@@ -20,7 +20,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the Armed Forces led the way in social integration prior to the passage of the Civil Rights Act of 1964, which banned discrimination in employment practices and public accommodations, the Voting Rights Act of 1965, which restored and protected voting rights, and the Civil Rights Act of 1968, which banned discrimination in the sale or rental of housing;
 - Whereas the integration of the Armed Forces enhanced the combat effectiveness of the military 60 years ago, and that still holds true to the current day;
 - Whereas the efforts of the Armed Forces to ensure equality of treatment and opportunity for their personnel significantly assisted in the advancement of that goal for all Americans; and
-- Whereas, in 2008, members representing a wide diversity of races and nationalities serve in senior leadership positions throughout the Armed Forces, as commissioned and warrant officers, as senior noncommissioned officers, and as civilian leaders: Now, therefore, be it
+- Whereas in 2008, members representing a wide diversity of races and nationalities serve in senior leadership positions throughout the Armed Forces, as commissioned and warrant officers, as senior noncommissioned officers, and as civilian leaders: Now, therefore, be it
 
 That Congress—
 
