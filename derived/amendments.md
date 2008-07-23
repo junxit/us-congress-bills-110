@@ -1,7 +1,7 @@
 ---
 measure: S. 3295
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `Director` |
 | Inserted | `Secretary of Commerce, in consultation with the Director` |
 
-### 35 U.S.C. § 6
+### 15 U.S.C. § 1067
 
 > by striking “appointed by the Director” and inserting “appointed by the Secretary of Commerce, in consultation with the Director”; and
 
@@ -61,5 +61,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `35 U.S.C. § 6` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `35 U.S.C. § 6` | insert | by inserting “Deputy Director of the United States Patent and Trademark Office”, after “Director,”; and | the bill quotes the text inserted but describes where it goes |
-| `35 U.S.C. § 6` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1067` | insert | by inserting “Deputy Director of the United States Patent and Trademark Office”, after “Director,”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 1067` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
