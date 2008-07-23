@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6532
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 

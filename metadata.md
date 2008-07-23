@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6532
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6532
@@ -16,7 +16,7 @@ To amend the Internal Revenue Code of 1986 to restore the Highway Trust Fund bal
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (70)
+## Cosponsors (109)
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 - Rep. Mica, John L. [R-FL-7] (M000689)
@@ -88,13 +88,64 @@ To amend the Internal Revenue Code of 1986 to restore the Highway Trust Fund bal
 - Rep. Westmoreland, Lynn A. [R-GA-3] (W000796)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 - Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Chandler, Ben [D-KY-6] (C001058)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Knollenberg, Joe [R-MI-9] (K000288)
+- Rep. King, Peter T. [R-NY-3] (K000210)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Miller, Gary G. [R-CA-42] (M001139)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Turner, Michael R. [R-OH-3] (T000463)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Bachus, Spencer [R-AL-6] (B000013)
+- Rep. Braley, Bruce L. [D-IA-1] (B001259)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Donnelly, Joe [D-IN-2] (D000607)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (1)
+
+- 2008-07-23 — [House 110-2-518](votes/house-110-2-0518.md) — On Motion to Suspend the Rules and Pass — **Passed** (387–37)
 
 ## Actions
 
 - 2008-07-17 — Introduced in House
 - 2008-07-17 — Introduced in House
 - 2008-07-17 — Referred to the House Committee on Ways and Means.
+- 2008-07-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-07-23 — Considered as unfinished business. (consideration: CR H6854)
+- 2008-07-23 — Considered under suspension of the rules. (consideration: CR H6833-6838)
+- 2008-07-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6532.
+- 2008-07-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-23 — Mr. Lewis (GA) moved to suspend the rules and pass the bill.
+- 2008-07-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 37 (Roll no. 518). (text: CR H6833)
+- 2008-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 37 (Roll no. 518).(text: CR H6833)
