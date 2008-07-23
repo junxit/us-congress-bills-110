@@ -1,7 +1,7 @@
 ---
 measure: S. 3295
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3295
@@ -20,9 +20,10 @@ A bill to amend title 35, United States Code, and the Trademark Act of 1946 to p
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -32,3 +33,6 @@ A bill to amend title 35, United States Code, and the Trademark Act of 1946 to p
 - 2008-07-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S7079)
 - 2008-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S7079)
 - 2008-07-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S7079)
+- 2008-07-23 — Message on Senate action sent to the House.
+- 2008-07-23 — Received in the House.
+- 2008-07-23 — Referred to the House Committee on the Judiciary.
