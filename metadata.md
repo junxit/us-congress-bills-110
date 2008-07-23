@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 41
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.J.Res. 41
@@ -16,7 +16,7 @@ A joint resolution approving the renewal of import restrictions contained in the
 
 - Sen. McConnell, Mitch [R-KY] (M000355)
 
-## Cosponsors (26)
+## Cosponsors (38)
 
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. McCain, John [R-AZ] (M000303)
@@ -44,6 +44,18 @@ A joint resolution approving the renewal of import restrictions contained in the
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 - Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
 
 ## Committees (1)
 
@@ -54,3 +66,7 @@ A joint resolution approving the renewal of import restrictions contained in the
 - 2008-06-12 — Introduced in Senate
 - 2008-06-12 — Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S5633)
 - 2008-06-12 — Sponsor introductory remarks on measure. (CR S5632-5633)
+- 2008-07-23 — Committee on Finance. Ordered to be reported without amendment favorably.
+- 2008-07-23 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2008-07-23 — Committee on Finance. Reported by Senator Baucus without amendment. Without written report.
+- 2008-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 895.
