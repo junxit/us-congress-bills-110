@@ -1,0 +1,121 @@
+---
+legis-num: H.R. 6580
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6580
+
+> To ensure the fair treatment of a member of the Armed Forces who is discharged from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early discharge of a member who is the only surviving child in a family in which the father or mother, or one or more siblings, served in the Armed Forces and, because of hazards incident to such service, was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently disabled, to amend the Internal Revenue Code of 1986 to repeal the dollar limitation on contributions to funeral trusts, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Hubbard Act”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Continued payment of bonuses and similar benefits for members of the Armed Forces who receive sole survivorship discharge
+
+- **(a)** *Effect of sole survivorship discharge* Section 303a(e) of title 37, United States Code, is amended—
+  - **(1)** in paragraph (1), by striking “A member” and inserting “(A) Except as provided in paragraph (2), a member”;
+  - **(2)** by redesignating paragraph (2) as subparagraph (B) of paragraph (1); and
+  - **(3)** by inserting after paragraph (1), as so amended, the following new paragraph (2):
+    > - **(2)**
+    >   - **(A)** If a member of the uniformed services receives a sole survivorship discharge, the Secretary concerned—
+    >     - **(i)** shall not require repayment by the member of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
+    >     - **(ii)** may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
+    >   - **(B)** In this paragraph, the term sole survivorship discharge means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+    >     - **(i)** the father or mother or one or more siblings—
+    >       - **(I)** served in the Armed Forces; and
+    >       - **(II)** was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
+    >     - **(ii)** the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
+
+- **(b)** *Sense of congress* In light of the extraordinary discretion granted to the Secretary of a military department by statute and policy to continue to pay the unpaid amounts of a bonus, incentive pay, or similar benefit otherwise due to a member of the Armed Forces under the jurisdiction of the Secretary who receives a sole survivorship discharge, it is the sense of Congress that the Secretaries of the military departments should aggressively use such discretion to the benefit of members receiving a sole survivorship discharge.
+
+## § 3. Availability of separation pay for members of the Armed Forces with less than six years of active service who receive sole survivorship discharge
+
+Section 1174 of title 10, United States Code, is amended—
+
+- **(1)** by redesignating subsection (i) as subsection (j); and
+- **(2)** by inserting after subsection (h) the following new subsection:
+  > - **(i)** *Special rule for members receiving sole survivorship discharge*
+  >   - **(1)** A member of the Armed Forces who receives a sole survivorship discharge shall be entitled to separation pay under this section even though the member has completed less than six years of active service immediately before that discharge. Subsection (e) shall not apply to a member who receives a sole survivorship discharge.
+  >   - **(2)** The amount of the separation pay to be paid to a member pursuant to this subsection shall be based on the years of active service actually completed by the member before the member’s sole survivorship discharge.
+  >   - **(3)** In this subsection, the term sole survivorship discharge means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+  >     - **(A)** the father or mother or one or more siblings—
+  >       - **(i)** served in the Armed Forces; and
+  >       - **(ii)** was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
+  >     - **(B)** the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
+
+## § 4. Transitional health care for members of the Armed Forces who receive sole survivorship discharge
+
+Section 1145(a)(2) of title 10, United States Code, is amended by adding at the end the following new subparagraph:
+
+> - **(E)** A member who receives a sole survivorship discharge (as defined in section 1174(i) of this title).
+
+## § 5. Transitional commissary and exchange benefits for members of the Armed Forces who receive sole survivorship discharge
+
+Section 1146 of title 10, United States Code, is amended—
+
+- **(1)** by striking “The Secretary of Defense” and inserting the following:
+  > - **(a)** *Benefits for members involuntarily separated* The Secretary of Defense
+
+- **(2)** by adding at the end the following new subsection:
+  > - **(b)** *Benefits for members receiving sole survivorship discharge* A member of the Armed Forces who receives a sole survivorship discharge (as defined in section 1174(i) of this title) is entitled to continue to use commissary and exchange stores and morale, welfare, and recreational facilities in the same manner as a member on active duty during the two-year period beginning on the later of the following dates:
+  >   - **(1)** The date of the separation of the member.
+  >   - **(2)** The date on which the member is first notified of the members entitlement to benefits under this section.
+
+## § 6. Veterans benefits for members of the Armed Forces who receive sole survivorship discharge
+
+- **(a)** *Housing loan benefits* Section 3702(a)(2) of title 38, United States Code, is amended by adding at the end the following new subparagraph:
+  > - **(F)** Each veteran who was discharged or released from a period of active duty of 90 days or more by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10).
+
+- **(b)** *Employment and training* Section 4211(4) of such title is amended—
+  - **(1)** in subparagraph (B), by striking “or” at the end;
+  - **(2)** in subparagraph (C), by striking the period at the end and inserting “; or”; and
+  - **(3)** by adding at the end the following new subparagraph:
+    > - **(D)** was discharged or released from active duty by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10).
+
+- **(c)** *Existing basic educational assistance*
+  - **(1)** *Service on active duty* Section 3011(a)(1) of such title is amended—
+    - **(A)** in subparagraph (A)(ii), by inserting after “service-connected disability,” the following: “by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10),”;
+    - **(B)** in subparagraph (B)(ii), by inserting after “service-connected disability,” the following: “by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10),”; and
+    - **(C)** in subparagraph (C)(iii)(II), by inserting after “service-connected disability,” the following: “by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10),”.
+  - **(2)** *Service in the Selected Reserve* Section 3012(b)(1) of such title is amended—
+    - **(A)** in subparagraph (A)—
+      - **(i)** by striking “, or (vi)” and inserting “, (vi)”; and
+      - **(ii)** by inserting before the period at the end the following: “, or (vii) by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10)”; and
+    - **(B)** in subparagraph (B)—
+      - **(i)** in clause (i), by inserting after “service-connected disability,” the following: “by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10),”; and
+      - **(ii)** in clause (ii)—
+        - **(I)** by striking “, or (VI)” and inserting “, (VI)”; and
+        - **(II)** by inserting before the period at the end the following: “, or (VII) by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10)”.
+
+## § 7. Unemployment compensation for members of the Armed Forces who receive sole survivorship discharge
+
+Section 8521(a)(1)(B)(ii)(III) of title 5, United States Code, is amended by striking “hardship,” and inserting “hardship (including pursuant to a sole survivorship discharge, as that term is defined in section 1174(i) of title 10),”.
+
+## § 8. Preference-eligible status for members of the Armed Forces who receive sole survivorship discharge
+
+Section 2108(3) of title 5, United States Code, is amended—
+
+- **(1)** in subparagraph (F), by striking “and” at the end;
+- **(2)** in subparagraph (G), by inserting “and” at the end; and
+- **(3)** by inserting after subparagraph (G) the following:
+  > - **(H)** a veteran who was discharged or released from a period of active duty by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10);
+
+## § 9. Repeal of dollar limitation on contributions to funeral trusts
+
+- **(a)** *In general* Subsection (c) of section 685 of the Internal Revenue Code of 1986 (relating to treatment of funeral trusts) is repealed.
+- **(b)** *Conforming amendment* Subsections (d), (e), and (f) of such section are redesignated as subsections (c), (d), and (e), respectively.
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+
+## § 10. Effective dates
+
+- **(a)** *Retroactive effective date* Except as provided in subsection (b) and section 9, this Act and the amendments made by this Act shall apply with respect to any sole survivorship discharge granted after September 11, 2001.
+- **(b)** *Date of enactment effective date for certain amendments* The amendments made by sections 4, 7, and 8 shall apply with respect to any sole survivorship discharge granted after the date of the enactment of this Act.
+- **(c)** *Sole survivorship discharge defined* In this section, the term sole survivorship discharge means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+  - **(1)** the father or mother or one or more siblings—
+    - **(A)** served in the Armed Forces; and
+    - **(B)** was killed, died as a result of wounds, accident, or disease, is in a captured or missing in action status, or is permanently 100 percent disabled or hospitalized on a continuing basis (and is not employed gainfully because of the disability or hospitalization); and
+  - **(2)** the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
