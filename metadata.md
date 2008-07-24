@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4806
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4806
@@ -42,3 +42,11 @@ Reducing Over-Classification Act of 2008
 - 2007-12-18 — Introduced in House
 - 2007-12-18 — Referred to the House Committee on Homeland Security.
 - 2007-12-18 — Sponsor introductory remarks on measure. (CR E2611)
+- 2008-01-31 — Referred to the Subcommittee on Intelligence, Information Sharing, and Terrorism Risk Assessment.
+- 2008-06-11 — Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .
+- 2008-06-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-06-26 — Committee Consideration and Mark-up Session Held.
+- 2008-06-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-24 — Placed on the Union Calendar, Calendar No. 495.
+- 2008-07-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-776.
+- 2008-07-24 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-776.
