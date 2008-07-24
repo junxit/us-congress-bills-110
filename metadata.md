@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4841
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4841
@@ -49,3 +49,8 @@ Soboba Band of Luiseno Indians Settlement Act
 - 2008-05-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2008-05-22 — Received in the Senate, read twice.
+- 2008-07-23 — Cleared for White House.
+- 2008-07-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7197-7198)
+- 2008-07-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7197-7198)
+- 2008-07-24 — Message on Senate action sent to the House.
