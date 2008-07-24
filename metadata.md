@@ -1,7 +1,7 @@
 ---
 measure: S. 3298
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3298
