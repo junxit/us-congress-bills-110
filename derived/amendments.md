@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6388
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -36,8 +36,8 @@ complete account of the bill's effect, which it is not.
 | — | repeal | The Comptroller General is authorized to obtain such agency records as the Comptroller General requires to discharge his duties (including audit, evaluation, and investigative duties), including through the bringing of civil actions unde… | the bill names no machine-readable US Code section |
 | — | insert | Section 716(a) of title 31, United States Code, as amended by subsection (a), is further amended in the second sentence of paragraph (2) by inserting “and interview agency officers and employees” after “agency record”. | the bill names no machine-readable US Code section |
 | `31 U.S.C. § 711` | replace | Section 711 of title 31, United States Code, is amended by striking paragraph (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subchapter II of chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The analysis for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 720 the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1905` | add-at-end | Subchapter II of chapter 7 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1905` | insert | The analysis for chapter 7 of title 31, United States Code, is amended by inserting after the item relating to section 720 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subsection (b)(1)(B), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(1)(C), by striking the period at the end and inserting “; and”; | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end of subsection (b)(1) the following: | the bill names no machine-readable US Code section |
