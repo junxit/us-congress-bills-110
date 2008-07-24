@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 674
@@ -29,3 +29,10 @@ To amend title 38, United States Code, to repeal the provision of law requiring 
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Introduced in House
 - 2007-01-24 — Referred to the House Committee on Veterans' Affairs.
+- 2007-03-02 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-16 — Ordered to be Reported by Voice Vote.
+- 2008-07-16 — Subcommittee on Disability Assistance and Memorial Affairs Discharged.
+- 2008-07-24 — Placed on the Union Calendar, Calendar No. 491.
+- 2008-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-772.
+- 2008-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-772.
