@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2780
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2780
@@ -25,3 +25,11 @@ To amend section 8339(p) of title 5, United States Code, to clarify the method f
 - 2007-06-19 — Introduced in House
 - 2007-06-19 — Introduced in House
 - 2007-06-19 — Referred to the House Committee on Oversight and Government Reform.
+- 2007-06-28 — Referred to the Subcommittee on Federal Workforce, Post Office, and the District of Columbia.
+- 2007-09-18 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .
+- 2007-09-18 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-03-13 — Committee Consideration and Mark-up Session Held.
+- 2008-03-13 — Ordered to be Reported by Voice Vote.
+- 2008-07-24 — Placed on the Union Calendar, Calendar No. 489.
+- 2008-07-24 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-770.
+- 2008-07-24 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-770.
