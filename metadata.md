@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6388
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6388
@@ -47,3 +47,8 @@ Government Accountability Office Improvement Act of 2008
 - 2008-06-26 — Introduced in House
 - 2008-06-26 — Referred to the House Committee on Oversight and Government Reform.
 - 2008-06-26 — Sponsor introductory remarks on measure. (CR E1382)
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-24 — Placed on the Union Calendar, Calendar No. 490.
+- 2008-07-24 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-771.
+- 2008-07-24 — Reported (Amended) by the Committee on Oversight and Government. H. Rept. 110-771.
