@@ -2,7 +2,7 @@
 legis-num: H. RES. 1296
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1296
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - Whereas millions of American children and youth represent the hopes and future of our Nation;
 - Whereas numerous individuals, children’s organizations, and youth-serving organizations that work with children and youth collaborate to provide invaluable services to enrich and better the lives of the young;
-- Whereas heightening awareness of and increasing support for organizations that provide access to healthcare, social services, education, the arts, sports, and other services will result in the development of character and the future success of youngsters;
+- Whereas heightening awareness of and increasing support for organizations that provide access to healthcare, social services, education, the arts, sports, and other services will assist in the development of character and the future success of our Nation’s youth;
 - Whereas the President issued a proclamation on May 30, 2008, proclaiming June 1, 2008 as National Child’s Day to demonstrate a commitment to our youth;
 - Whereas September is a time when parents, families, teachers, school administrators, and communities in general increase their focus on children and youth nationwide as the school year begins;
 - Whereas September is a time for the people of the United States as a whole to highlight and be mindful of the needs of children and youth;
