@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 93
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 93
@@ -67,3 +67,7 @@ Approving the renewal of import restrictions contained in the Burmese Freedom an
 - 2008-07-23 — On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote. (text: CR H6831)
 - 2008-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution, as amended Agreed to by voice vote.(text: CR H6831)
 - 2008-07-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 896.
+- 2008-07-24 — Cleared for White House.
+- 2008-07-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7432)
+- 2008-07-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7432)
+- 2008-07-25 — Message on Senate action sent to the House.
