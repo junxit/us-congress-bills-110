@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5501
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5501
@@ -103,3 +103,15 @@ Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, T
 - 2008-07-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
 - 2008-07-16 — Senate struck all after the Enacting Clause and substituted the language of S. 2731 amended.
 - 2008-07-17 — Message on Senate action sent to the House.
+- 2008-07-24 — Cleared for White House.
+- 2008-07-24 — Considered as unfinished business. (consideration: CR H7132-7133)
+- 2008-07-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-24 — Mr. Berman moved that the House agree to the Senate amendment. (consideration: CR H7110)
+- 2008-07-24 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 303 - 115 (Roll no. 531). (text as House agreed to Senate amendment: CR H7079-7110)
+- 2008-07-24 — POSTPONED PROCEEDINGS - Pursuant to the provisions in section 2 of H.Res. 1362, the Chair may postpone further consideration of the motion.
+- 2008-07-24 — Pursuant to the provisions of H.Res. 1362, Mr. Berman took from the Speaker's table H.R. 5501 with the Senate amendment thereto, and was recoginzed for a motion. (consideration: CR H7097-7122)
+- 2008-07-24 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 303 - 115 (Roll no. 531).(text as House agreed to Senate amendment: CR H7079-7110)
+- 2008-07-24 — The House proceeded with one hour of debate on the Berman motion to agree to the Senate amendment to H.R. 5501.
+- 2008-07-24 — The previous question was ordered pursuant to the rule. (consideration: CR H7122)
+- 2008-07-25 — Presented to President.
+- 2008-07-25 — Presented to President.
