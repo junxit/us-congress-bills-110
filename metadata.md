@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 395
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 395
@@ -36,3 +36,6 @@ Authorizing the printing of an additional number of copies of the 23rd edition o
 - 2008-07-23 — On agreeing to the resolution Agreed to without objection. (text: CR H6840)
 - 2008-07-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H6840)
 - 2008-07-23 — Referred to the House Committee on House Administration.
+- 2008-07-24 — Received in the Senate.
+- 2008-07-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S7537)
+- 2008-07-26 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S7537)
