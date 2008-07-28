@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6193
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6193
@@ -35,3 +35,12 @@ Improving Public Access to Documents Act of 2008
 - 2008-06-05 — Introduced in House
 - 2008-06-05 — Introduced in House
 - 2008-06-05 — Referred to the House Committee on Homeland Security.
+- 2008-06-09 — Referred to the Subcommittee on Intelligence, Information Sharing, and Terrorism Risk Assessment.
+- 2008-06-11 — Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .
+- 2008-06-11 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-06-11 — Subcommittee Hearings Held.
+- 2008-06-26 — Committee Consideration and Mark-up Session Held.
+- 2008-06-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-28 — Placed on the Union Calendar, Calendar No. 498.
+- 2008-07-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-779.
+- 2008-07-28 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-779.

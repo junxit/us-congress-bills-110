@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6193
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,5 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 121` | amend | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is further amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 101` | amend | The table of contents in section 1(b) of the Homeland Security Act of 2002 (6 U.S.C. 101(b)) is amended by adding after the item relating to section 210E the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
