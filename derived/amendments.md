@@ -1,7 +1,7 @@
 ---
 measure: S. 2756
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | redesignate | by redesignating section 5 as section 6; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 4 the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking “60-month”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: “The Child Safety Pilot Program under this paragraph shall terminate on the date that the program for national criminal history background checks for child-serving organizations established under the C… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating section 5 as section 6; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 4 the following: | the bill names no machine-readable US Code section |
 | — | strike | by striking “60-month”; and | the bill names no machine-readable US Code section |
