@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1338
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,10 @@ This Act may be cited as the “Paycheck Fairness Act”.
 
 ## § 2. Findings
 
-Congress makes the following findings:
+Congress finds the following:
 
 - **(1)** Women have entered the workforce in record numbers over the past 50 years.
-- **(2)** Even today, women earn significantly lower pay than men for work on jobs that require equal skill, effort, and responsibility and that are performed under similar working conditions. These pay disparities exist in both the private and governmental sectors. In many instances, the pay disparities can only be due to continued intentional discrimination or the lingering effects of past discrimination.
+- **(2)** Despite the enactment of the Equal Pay Act in 1963, many women continue to earn significantly lower pay than men for equal work. These pay disparities exist in both the private and governmental sectors. In many instances, the pay disparities can only be due to continued intentional discrimination or the lingering effects of past discrimination.
 - **(3)** The existence of such pay disparities—
   - **(A)** depresses the wages of working families who rely on the wages of all members of the family to make ends meet;
   - **(B)** undermines women's retirement security, which is often based on earnings while in the workforce;
@@ -31,49 +31,52 @@ Congress makes the following findings:
   - **(I)** in many instances, may deprive workers of equal protection on the basis of sex in violation of the 5th and 14th amendments.
 - **(4)**
   - **(A)** Artificial barriers to the elimination of discrimination in the payment of wages on the basis of sex continue to exist decades after the enactment of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.) and the Civil Rights Act of 1964 (42 U.S.C. 2000a et seq.).
-  - **(B)** Elimination of such barriers would have positive effects, including—
+  - **(B)** These barriers have resulted, in significant part, because the Equal Pay Act has not worked as Congress originally intended. Improvements and modifications to the law are necessary to ensure that the Act provides effective protection to those subject to pay discrimination on the basis of their sex.
+  - **(C)** Elimination of such barriers would have positive effects, including—
     - **(i)** providing a solution to problems in the economy created by unfair pay disparities;
     - **(ii)** substantially reducing the number of working women earning unfairly low wages, thereby reducing the dependence on public assistance;
     - **(iii)** promoting stable families by enabling all family members to earn a fair rate of pay;
     - **(iv)** remedying the effects of past discrimination on the basis of sex and ensuring that in the future workers are afforded equal protection on the basis of sex; and
     - **(v)** ensuring equal protection pursuant to Congress’ power to enforce the 5th and 14th amendments.
-- **(5)** The Department of Labor has important and unique responsibilities to help ensure that women receive equal pay for doing work that is substantially equal to men's work.
+- **(5)** The Department of Labor and the Equal Employment Opportunity Commission have important and unique responsibilities to help ensure that women receive equal pay for equal work.
 - **(6)** The Department of Labor is responsible for—
   - **(A)** collecting and making publicly available information about women’s pay;
   - **(B)** ensuring that companies receiving Federal contracts comply with anti-discrimination affirmative action requirements of Executive Order 11246 (relating to equal employment opportunity);
   - **(C)** disseminating information about women’s rights in the workplace;
   - **(D)** helping women who have been victims of pay discrimination obtain a remedy; and
   - **(E)** being proactive in investigating and prosecuting equal pay violations, especially systemic violations, and in enforcing all of its mandates.
-- **(7)** With a stronger commitment by the Department of Labor to its responsibilities, increased information about the provisions added by the Equal Pay Act of 1963, wage data, and more effective remedies, women will be better able to recognize and enforce their rights.
-- **(8)** Certain employers have already made great strides in eradicating unfair pay disparities in the workplace and their achievements should be recognized.
+- **(7)** The Equal Employment Opportunity Commission is the primary enforcement agency for claims made under the Equal Pay Act, and issues regulations and guidance on appropriate interpretations of the law.
+- **(8)** With a stronger commitment by the Department of Labor and the Equal Employment Opportunity Commission to their responsibilities, increased information about the provisions added by the Equal Pay Act of 1963, wage data, and more effective remedies, women will be better able to recognize and enforce their rights.
+- **(9)** Certain employers have already made great strides in eradicating unfair pay disparities in the workplace and their achievements should be recognized.
 
 ## § 3. Enhanced enforcement of equal pay requirements
 
-- **(a)** *Required demonstration for affirmative defense* Section 6(d)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(1)) is amended by striking “(iv) a differential” and all that follows through the period and inserting the following:
-  > (iv) a differential based on a bona fide factor other than sex, such as education, training or experience, except that the bona fide factor defense shall apply only if—
-  > - **(I)** the employer demonstrates that—
-  >   - **(aa)** such factor—
-  >     - **(AA)** is job-related with respect to the position in question; or
-  >     - **(BB)** furthers a legitimate business purpose, except that this item shall not apply where the employee demonstrates that an alternative employment practice exists that would serve the same business purpose without producing such differential and that the employer has refused to adopt such alternative practice; and
-  >   - **(bb)** such factor was actually applied and used reasonably in light of the asserted justification; and
-  > - **(II)** upon the employer succeeding under subclause (I), the employee fails to demonstrate that the differential produced by the reliance of the employer on such factor is itself the result of discrimination on the basis of sex by the employer.
+- **(a)** *Bona-fide factor defense and modification of same establishment requirement* Section 6(d)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(1)) is amended—
+  - **(1)** by striking “No employer having” and inserting “(A) No employer having”;
+  - **(2)** by striking “any other factor other than sex” and inserting “a bona fide factor other than sex, such as education, training, or experience”; and
+  - **(3)** by inserting at the end the following:
+    > - **(B)** The bona fide factor defense described in subparagraph (A)(v) shall apply only if the employer demonstrates that such factor (i) is not based upon or derived from a sex-based differential in compensation; (ii) is job-related with respect to the position in question; and (iii) is consistent with business necessity. Such defense shall not apply where the employee demonstrates that an alternative employment practice exists that would serve the same business purpose without producing such differential and that the employer has refused to adopt such alternative practice.
+    > - **(C)** For purposes of subparagraph (A), employees shall be deemed to work in the same establishment if the employees work for the same employer at workplaces located in the same county or similar political subdivision of a State. The preceding sentence shall not be construed as limiting broader applications of the term “establishment” consistent with rules prescribed or guidance issued by the Equal Opportunity Employment Commission.
 
-- **(b)** *Application of provisions* Section 6(d)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(1)) is amended by adding at the end the following: “The provisions of this subsection shall apply to applicants for employment if such applicants, upon employment by the employer, would be subject to any provisions of this section.”.
-- **(c)** *Elimination of establishment requirement* Section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)) is amended—
-  - **(1)** by striking “, within any establishment in which such employees are employed,”; and
-  - **(2)** by striking “in such establishment” each place it appears.
-- **(d)** *Nonretaliation provision* Section 15(a)(3) of the Fair Labor Standards Act of 1938 (29 U.S.C. 215(a)(3)) is amended—
-  - **(1)** by striking “or has” each place it appears and inserting “has”; and
-  - **(2)** by inserting before the semicolon the following: “, or has inquired about, discussed, or otherwise disclosed the wages of the employee or another employee, or because the employee (or applicant) has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, hearing, or action under section 6(d)”.
-- **(e)** *Enhanced penalties* Section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)) is amended—
-  - **(1)** by inserting after the first sentence the following: “Any employer who violates section 6(d) shall additionally be liable for such compensatory or punitive damages as may be appropriate, except that the United States shall not be liable for punitive damages.”;
+- **(b)** *Application of Provisions* Section 6(d)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(1)) is further amended by adding at the end the following: “The provisions of this subsection shall apply to applicants for employment if such applicants, upon employment by the employer, would be subject to any provisions of this section.”.
+- **(c)** *Nonretaliation provision* Section 15 of the Fair Labor Standards Act of 1938 (29 U.S.C. 215(a)(3)) is amended—
+  - **(1)** in subsection (a)(3), by striking “employee has filed” and all that follows and inserting
+    > employee—
+    > - **(A)** has made a charge or filed any complaint or instituted or caused to be instituted any investigation, proceeding, hearing, or action under or related to this Act, including an investigation conducted by the employer, or has testified or is planning to testify or has assisted or participated in any manner in any such investigation, proceeding, hearing or action or in an investigation conducted by the employer, or has served or is planning to serve on an industry Committee; or
+    > - **(B)** has inquired about, discussed or disclosed the wages of the employee or another employee.
+
+  - **(2)** by adding at the end the following:
+    > - **(c)** Subsection (a)(3)(B) shall not apply to instances in which an employee who has access to the wage information of other employees as a part of such employee’s essential job functions discloses the wages of such other employees to individuals who do not otherwise have access to such information, unless such disclosure is in response to a complaint or charge or in furtherance of an investigation, proceeding, hearing, or action under section 6(d) or an investigation conducted by the employer. Nothing in this subsection shall be construed to limit the rights of an employee provided under any other provision of law.
+
+- **(d)** *Enhanced penalties* Section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)) is amended—
+  - **(1)** by inserting after the first sentence the following: “Any employer who violates section 6(d) shall additionally be liable for such compensatory damages or punitive damages as may be appropriate, except that the United States shall not be liable for punitive damages.”;
   - **(2)** in the sentence beginning “An action to”, by striking “either of the preceding sentences” and inserting “any of the preceding sentences of this subsection”;
   - **(3)** in the sentence beginning “No employees shall”, by striking “No employees” and inserting “Except with respect to class actions brought to enforce section 6(d), no employee”;
   - **(4)** by inserting after the sentence referred to in paragraph (3), the following: “Notwithstanding any other provision of Federal law, any action brought to enforce section 6(d) may be maintained as a class action as provided by the Federal Rules of Civil Procedure.”; and
   - **(5)** in the sentence beginning “The court in”—
     - **(A)** by striking “in such action” and inserting “in any action brought to recover the liability prescribed in any of the preceding sentences of this subsection”; and
     - **(B)** by inserting before the period the following: “, including expert fees”.
-- **(f)** *Action by Secretary* Section 16(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(c)) is amended—
+- **(e)** *Action by Secretary* Section 16(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(c)) is amended—
   - **(1)** in the first sentence—
     - **(A)** by inserting “or, in the case of a violation of section 6(d), additional compensatory or punitive damages,” before “and the agreement”; and
     - **(B)** by inserting before the period the following: “, or such compensatory or punitive damages, as appropriate”;
@@ -86,7 +89,7 @@ Congress makes the following findings:
 
     - **(B)** by striking the period and inserting “; or”; and
     - **(C)** by adding at the end the following:
-      > - **(2)** in the case of a class action brought to enforce section 6(d), on the date on which the individual becomes a party plaintiff to the class action
+      > - **(2)** in the case of a class action brought to enforce section 6(d), on the date on which the individual becomes a party plaintiff to the class action.
 
 ## § 4. Training
 
@@ -99,11 +102,11 @@ The Equal Employment Opportunity Commission and the Office of Federal Contract C
   - **(2)** *Grants* In carrying out the program, the Secretary of Labor may make grants on a competitive basis to eligible entities, to carry out negotiation skills training programs for girls and women.
   - **(3)** *Eligible entities* To be eligible to receive a grant under this subsection, an entity shall be a public agency, such as a State, a local government in a metropolitan statistical area (as defined by the Office of Management and Budget), a State educational agency, or a local educational agency, a private nonprofit organization, or a community-based organization.
   - **(4)** *Application* To be eligible to receive a grant under this subsection, an entity shall submit an application to the Secretary of Labor at such time, in such manner, and containing such information as the Secretary of Labor may require.
-  - **(5)** *Use of funds* An entity that receives a grant under this subsection shall use the funds made available through the grant to carry out an effective negotiation skills training program that empowers girls and women. The training provided through the program shall help girls and women strengthen their negotiation skills to allow the girls and women to obtain higher salaries and the best compensation packages possible for themselves.
+  - **(5)** *Use of funds* An entity that receives a grant under this subsection shall use the funds made available through the grant to carry out an effective negotiation skills training program that empowers girls and women. The training provided through the program shall help girls and women strengthen their negotiation skills to allow the girls and women to obtain higher salaries and rates of compensation that are equal to those paid to similarly-situated male employees.
 - **(b)** *Incorporating training into existing programs* The Secretary of Labor and the Secretary of Education shall issue regulations or policy guidance that provides for integrating the negotiation skills training, to the extent practicable, into programs authorized under—
   - **(1)** in the case of the Secretary of Education, the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and other programs carried out by the Department of Education that the Secretary of Education determines to be appropriate; and
   - **(2)** in the case of the Secretary of Labor, the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), and other programs carried out by the Department of Labor that the Secretary of Labor determines to be appropriate.
-- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Secretary of Labor and the Secretary of Education shall prepare and submit to Congress a report describing the activities conducted under this section.
+- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Secretary of Labor and the Secretary of Education shall prepare and submit to Congress a report describing the activities conducted under this section and evaluating the effectiveness of such activities in achieving the purposes of this Act.
 
 ## § 6. Research, education, and outreach
 
@@ -116,28 +119,11 @@ The Secretary of Labor shall conduct studies and provide information to employer
 - **(5)** recognizing and promoting the achievements of employers, labor organizations, and professional associations that have worked to eliminate the pay disparities; and
 - **(6)** convening a national summit to discuss, and consider approaches for rectifying, the pay disparities.
 
-## § 7. Technical assistance and employer recognition program
+## § 7. Establishment of the National Award for Pay Equity in the Workplace
 
-- **(a)** *Guidelines*
-  - **(1)** *In general* The Secretary of Labor shall develop guidelines to enable employers to evaluate job categories based on objective criteria such as educational requirements, skill requirements, independence, working conditions, and responsibility, including decisionmaking responsibility and de facto supervisory responsibility.
-  - **(2)** *Use* The guidelines developed under paragraph (1) shall be designed to enable employers voluntarily to compare wages paid for different jobs to determine if the pay scales involved adequately and fairly reflect the educational requirements, skill requirements, independence, working conditions, and responsibility for each such job with the goal of eliminating unfair pay disparities between occupations traditionally dominated by men or women.
-  - **(3)** *Publication* The guidelines shall be developed under paragraph (1) and published in the Federal Register not later than 180 days after the date of enactment of this Act.
-- **(b)** *Employer recognition*
-  - **(1)** *Purpose* It is the purpose of this subsection to emphasize the importance of, encourage the improvement of, and recognize the excellence of employer efforts to pay wages to women that reflect the real value of the contributions of such women to the workplace.
-  - **(2)** *In general* To carry out the purpose of this subsection, the Secretary of Labor shall establish a program under which the Secretary shall provide for the recognition of employers who, pursuant to a voluntary job evaluation conducted by the employer, adjust their wage scales (such adjustments shall not include the lowering of wages paid to men) using the guidelines developed under subsection (a) to ensure that women are paid fairly in comparison to men.
-  - **(3)** *Technical assistance* The Secretary of Labor may provide technical assistance to assist an employer in carrying out an evaluation under paragraph (2).
-- **(c)** *Regulations* The Secretary of Labor shall promulgate such rules and regulations as may be necessary to carry out this section.
-
-## § 8. Establishment of the National Award for Pay Equity in the Workplace
-
-- **(a)** *In general* There is established the Secretary of Labor’s National Award for Pay Equity in the Workplace, which shall be evidenced by a medal bearing the inscription “Secretary of Labor’s National Award for Pay Equity in the Workplace”. The medal shall be of such design and materials, and bear such additional inscriptions, as the Secretary of Labor may prescribe.
-- **(b)** *Criteria for qualification* To qualify to receive an award under this section a business shall—
-  - **(1)** submit a written application to the Secretary of Labor, at such time, in such manner, and containing such information as the Secretary may require, including at a minimum information that demonstrates that the business has made substantial effort to eliminate pay disparities between men and women, and deserves special recognition as a consequence; and
-  - **(2)** meet such additional requirements and specifications as the Secretary of Labor determines to be appropriate.
-- **(c)** *Making and presentation of award*
-  - **(1)** *Award* After receiving recommendations from the Secretary of Labor, the President or the designated representative of the President shall annually present the award described in subsection (a) to businesses that meet the qualifications described in subsection (b).
-  - **(2)** *Presentation* The President or the designated representative of the President shall present the award under this section with such ceremonies as the President or the designated representative of the President may determine to be appropriate.
-- **(d)** *Business* In this section, the term business includes—
+- **(a)** *In general* There is established the Secretary of Labor’s National Award for Pay Equity in the Workplace, which shall be awarded, as appropriate, to encourage proactive efforts to comply with this Act.
+- **(b)** *Criteria for qualification* The Secretary of Labor shall set criteria for receipt of the award, including a requirement that an employer has made substantial effort to eliminate pay disparities between men and women, and deserves special recognition as a consequence of such effort. The secretary shall establish procedures for the application and presentation of the award.
+- **(c)** *Business* In this section, the term “employer” includes—
   - **(1)**
     - **(A)** a corporation, including a nonprofit corporation;
     - **(B)** a partnership;
@@ -147,7 +133,7 @@ The Secretary of Labor shall conduct studies and provide information to employer
   - **(2)** an entity carrying out an education referral program, a training program, such as an apprenticeship or management training program, or a similar program; and
   - **(3)** an entity carrying out a joint program, formed by a combination of any entities described in paragraph (1) or (2).
 
-## § 9. Collection of pay information by the equal employment opportunity Commission
+## § 8. Collection of pay information by the equal employment opportunity Commission
 
 Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by adding at the end the following:
 
@@ -157,22 +143,20 @@ Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by 
 >     - **(B)** based on the results of the survey and consultations under subparagraph (A), issue regulations to provide for the collection of pay information data from employers as described by the sex, race, and national origin of employees.
 >   - **(2)** In implementing paragraph (1), the Commission shall have as its primary consideration the most effective and efficient means for enhancing the enforcement of Federal laws prohibiting pay discrimination. For this purpose, the Commission shall consider factors including the imposition of burdens on employers, the frequency of required reports (including which employers should be required to prepare reports), appropriate protections for maintaining data confidentiality, and the most effective format for the data collection reports.
 
-## § 10. Reinstatement of pay equity programs and pay equity data collection
+## § 9. Reinstatement of pay equity programs and pay equity data collection
 
-- **(a)** *Bureau of Labor Statistics data collection* The Commissioner of Labor Statistics shall collect data on women workers in the Current Employment Statistics survey.
-- **(b)** *Office of Federal Contract Compliance Programs initiatives*
-  - **(1)** *In general* The Director of the Office of Federal Contract Compliance Programs shall ensure that employees of the Office—
-    - **(A)**
-      - **(i)** shall use the full range of investigatory tools at the Office's disposal, including pay grade methodology;
-      - **(ii)** in considering evidence of possible compensation discrimination—
-        - **(I)** shall not limit its consideration to a small number of types of evidence; and
-        - **(II)** shall not limit its evaluation of the evidence to a small number of methods of evaluating the evidence; and
-      - **(iii)** shall not require a multiple regression analysis or anecdotal evidence for a compensation discrimination case;
-    - **(B)** for purposes of its investigative, compliance, and enforcement activities, shall define similarly situated employees in a way that is consistent with and not more stringent than the definition provided in item 1 of subsection A of section 10–III of the Equal Employment Opportunity Commission Compliance Manual (2000), and shall consider only factors that the Office's investigation reveals were used in making compensation decisions; and
-    - **(C)** shall designate not less than half of all nonconstruction contractor establishments each year to prepare and file the Equal Opportunity Survey, required by section 60–2.18 of title 41, Code of Federal Regulations, and shall review and utilize the responses to the survey to identify contractor establishments for further evaluation.
-  - **(2)** *Regulations* In promulgating any regulations with respect to the compensation discrimination cases, the Secretary of Labor, in establishing standards for similarly situated employees, shall include examples of similar jobs.
+- **(a)** *Bureau of Labor Statistics data collection* The Commissioner of Labor Statistics shall continue to collect data on women workers in the Current Employment Statistics survey.
+- **(b)** *Office of Federal Contract Compliance Programs initiatives* The Director of the Office of Federal Contract Compliance Programs shall ensure that employees of the Office—
+  - **(1)**
+    - **(A)** shall use the full range of investigatory tools at the Office's disposal, including pay grade methodology;
+    - **(B)** in considering evidence of possible compensation discrimination—
+      - **(i)** shall not limit its consideration to a small number of types of evidence; and
+      - **(ii)** shall not limit its evaluation of the evidence to a small number of methods of evaluating the evidence; and
+    - **(C)** shall not require a multiple regression analysis or anecdotal evidence for a compensation discrimination case;
+  - **(2)** for purposes of its investigative, compliance, and enforcement activities, shall define similarly situated employees in a way that is consistent with and not more stringent than the definition provided in item 1 of subsection A of section 10–III of the Equal Employment Opportunity Commission Compliance Manual (2000), and shall consider only factors that the Office's investigation reveals were used in making compensation decisions; and
+  - **(3)** shall reinstate the Equal Opportunity Survey, as required by section 60–2.18 of title 41, Code of Federal Regulations, designating not less than half of all nonconstruction contractor establishments each year to prepare and file such survey, and shall review and utilize the responses to such survey to identify contractor establishments for further evaluation and for other enforcement purposes as appropriate.
 - **(c)** *Department of Labor distribution of wage discrimination information* The Secretary of Labor shall make readily available (in print, on the Department of Labor website, and through any other forum that the Department may use to distribute compensation discrimination information), accurate information on compensation discrimination, including statistics, explanations of employee rights, historical analyses of such discrimination, instructions for employers on compliance, and any other information that will assist the public in understanding and addressing such discrimination.
 
-## § 11. Authorization of appropriations
+## § 10. Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary to carry out this Act.
+There are authorized to be appropriated $15,000,000 to carry out this Act.
