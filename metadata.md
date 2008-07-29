@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2192
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2192
@@ -82,3 +82,11 @@ To amend title 38, United States Code, to establish an Ombudsman within the Depa
 - 2008-07-24 — Placed on the Union Calendar, Calendar No. 492.
 - 2008-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-773.
 - 2008-07-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-773.
+- 2008-07-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Moran (KS) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-07-29 — Considered as unfinished business. (text: CR H7244)
+- 2008-07-29 — Considered under suspension of the rules. (consideration: CR H7244-7245)
+- 2008-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2192.
+- 2008-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-29 — Mr. Hare moved to suspend the rules and pass the bill, as amended.
+- 2008-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 536).
+- 2008-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 536).
