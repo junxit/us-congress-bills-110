@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6098
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6098
@@ -45,3 +45,11 @@ PRICE of Homeland Security Act
 - 2008-07-10 — Placed on the Union Calendar, Calendar No. 478.
 - 2008-07-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-752.
 - 2008-07-10 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 110-752.
+- 2008-07-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Harman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-07-29 — Considered as unfinished business. (consideration: CR H7191-7192)
+- 2008-07-29 — Considered under suspension of the rules. (consideration: CR H7191-7192)
+- 2008-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6098.
+- 2008-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-29 — Ms. Harman moved to suspend the rules and pass the bill, as amended.
+- 2008-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7191)
+- 2008-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7191)
