@@ -1,7 +1,7 @@
 ---
 measure: S. 2136
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 0 executed, 17 stated and not applied.
+38 amendatory instructions. 0 executed, 38 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,3 +48,24 @@ complete account of the bill's effect, which it is not.
 | — | strike | in paragraph (8), by striking “or” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (9), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (40A) and (40B) as paragraphs (40B) and (40C), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (40) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (53B) through (53D) as paragraphs (53C), (53D), (53E), and (53F), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (53A) the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (11) as paragraph (12); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (10) the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 1325(a)(5) of title 11, United States Code, is amended by inserting before “with respect” the following: “except as otherwise provided in section 1322(b)(11) of this title,”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 109(h) of title 11, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking the period at the end and inserting a semicolon; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 554(e) of title 11, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 1334 of title 28, United States Code, is amended by adding at the end the following: “Notwithstanding any agreement for arbitration that is subject to chapter 1 of title 9, in any core proceeding under section 157(b) of this titl… | the bill names no machine-readable US Code section |
+| — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 522(d)(1) of title 11, United States Code, is amended by inserting “or, if the debtor is 55 years of age or older, $75,000 in value,” before “in real property”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (8), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (9), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
