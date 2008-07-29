@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6295
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `46 U.S.C. § 70504` | add-at-end | Chapter 111 of title 18, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 70504` | add-at-end | The table of sections for chapter 111 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70502` | add-at-end | Chapter 111 of title 18, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70502` | add-at-end | The table of sections at the beginning of chapter 111 of title 18, United States Code, is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
