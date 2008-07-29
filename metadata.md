@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3299
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3299
@@ -16,6 +16,11 @@ To provide for a boundary adjustment and land conveyances involving Roosevelt Na
 
 - Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
 
+## Cosponsors (2)
+
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Lamborn, Doug [R-CO-5] (L000564)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +30,11 @@ To provide for a boundary adjustment and land conveyances involving Roosevelt Na
 - 2007-08-01 — Introduced in House
 - 2007-08-01 — Introduced in House
 - 2007-08-01 — Referred to the House Committee on Natural Resources.
+- 2007-08-07 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-07-10 — Subcommittee Hearings Held.
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-16 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2008-07-16 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-07-29 — Placed on the Union Calendar, Calendar No. 511.
+- 2008-07-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-793.
+- 2008-07-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-793.
