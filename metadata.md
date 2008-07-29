@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1575
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1575
@@ -29,3 +29,9 @@ Burt Lake Band of Ottawa and Chippewa Indians Reaffirmation Act
 - 2007-03-19 — Introduced in House
 - 2007-03-19 — Introduced in House
 - 2007-03-19 — Referred to the House Committee on Natural Resources.
+- 2007-06-13 — Committee Hearings Held.
+- 2008-04-17 — Committee Consideration and Mark-up Session Held.
+- 2008-04-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-29 — Placed on the Union Calendar, Calendar No. 512.
+- 2008-07-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-794.
+- 2008-07-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-794.
