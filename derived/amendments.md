@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2933
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,11 +33,13 @@ to guess them.
 | Removed | `fiscal years 2004 through 2008` |
 | Inserted | `fiscal years 2009 through 2013` |
 
-### 16 U.S.C. § 469k
+## Stated, not applied
 
-> in subsection (e), by striking “September 30, 2008” and inserting “September 30, 2013” .
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
 
-| | |
-|---|---|
-| Removed | `September 30, 2008` |
-| Inserted | `September 30, 2013` |
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `16 U.S.C. § 469k` | strike | by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
