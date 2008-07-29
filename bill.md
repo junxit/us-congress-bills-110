@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 160
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,25 +13,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Revolutionary War and War of 1812 Battlefield Protection Act”.
 
-## § 2. Findings
-
-Congress finds the following:
-
-- **(1)** The battlefields of the American Revolutionary War and the War of 1812 provide a unique means for the people of the United States to relate to these epic struggles in the history of the United States and to understand their importance in the establishment and early development of the United States.
-- **(2)** Urbanization, suburban sprawl, and unplanned commercial and residential development are constantly encroaching on many of the nationally significant battlefields of the American Revolutionary War and the War of 1812, as well as on associated sites, and this encroachment poses a severe and growing risk to the preservation of such battlefields and related sites.
-- **(3)** According to the Revolutionary War and War of 1812 Historical Preservation Study, prepared by the National Park Service, and dated September 2003, of the 825 principal nationally significant battlefields and associated sites of the American Revolutionary War and the War of 1812—
-  - **(A)** thirteen percent are lost;
-  - **(B)** thirty percent are fragmented or in poor condition; or
-  - **(C)** twenty-seven percent may be destroyed or impaired within the next ten years, and nine percent of this percentage figure are in imminent danger of damage occurring within the next three years.
-
-## § 3. Battlefield Acquisition Grant Program for battlefields of the Revolutionary War and War of 1812
+## § 2. Battlefield Acquisition Grant Program for battlefields of the Revolutionary War and War of 1812
 
 - **(a)** *Grant program* The American Battlefield Protection Act of 1996 (section 604 of division I of Public Law 104–333; 16 U.S.C. 469k) is amended—
   - **(1)** by redesignating subsection (e) as subsection (f); and
   - **(2)** by inserting after subsection (d) the following new subsection:
     > - **(e)** *Battlefield acquisition grant program for battlefields of the revolutionary war and war of 1812*
     >   - **(1)** *Definitions* In this subsection:
-    >     - **(A)** *Battlefield report* The term battlefield report means the document entitled “Revolutionary War and War of 1812 Historic Preservation Study”, prepared by the National Park Service, and dated September 2003.
+    >     - **(A)** *Battlefield report* The term battlefield report means the document entitled “Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States”, prepared by the National Park Service, and dated September 2007.
     >     - **(B)** *Eligible entity* The term eligible entity means a State or local government.
     >     - **(C)** *Eligible site* The term eligible site means a site that—
     >       - **(i)** is not within the exterior boundaries of a unit of the National Park System; and
@@ -44,11 +33,11 @@ Congress finds the following:
     >   - **(6)** *Reports*
     >     - **(A)** *In general* Not later than 5 years after the date of the enactment of this subsection, the Secretary shall submit to Congress a report on the activities carried out under this subsection.
     >     - **(B)** *Update on battlefield report* Not later than 3 years after the date of the enactment of this subsection, the Secretary shall submit to Congress a report that updates the battlefield report to reflect—
-    >       - **(i)** preservation activities carried out at the 871 battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the update;
+    >       - **(i)** preservation activities carried out at the 677 battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the update;
     >       - **(ii)** changes in the condition of the battlefields and associated sites during that period; and
     >       - **(iii)** any other relevant developments relating to the battlefields and associated sites during that period.
     >   - **(7)** *Authorizations of appropriations*
-    >     - **(A)** *In general* There are authorized to be appropriated to the Secretary from the Land and Water Conservation Fund to provide grants under this subsection $10,000,000 for each of fiscal years 2008 through 2010.
+    >     - **(A)** *In general* There are authorized to be appropriated to the Secretary from the Land and Water Conservation Fund to provide grants under this subsection $10,000,000 for each of fiscal years 2009 through 2013.
     >     - **(B)** *Update of battlefield report* There are authorized to be appropriated to the Secretary to carry out paragraph (6)(B), $500,000.
 
 - **(b)** *Conforming amendments*
