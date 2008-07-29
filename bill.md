@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 901
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 901
