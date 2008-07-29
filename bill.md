@@ -21,14 +21,14 @@ This Act may be cited as the “Lead-Safe Housing for Kids Act of 2008” .
     > - **(b)** *Environmental intervention blood lead level and lead hazard screens* For purposes of this title and title III of the Lead-Based Paint Poisoning Prevention Act, and any regulations issued under this title or such title III—
     >   - **(1)** an environmental intervention blood lead level shall be defined as the lower of—
     >     - **(A)** the elevated blood lead level of concern for a child under six years of age that has been established by the Centers for Disease Control and Prevention; or
-    >     - **(B)** a confirmed concentration of lead in whole blood equal to or greater than 10 ug/dL (micrograms of lead per deciliter) for a confirmatory test; and
+    >     - **(B)** a confirmed concentration of lead in whole blood equal to or greater than 10 ug/dL (micrograms of lead per deciliter); and
     >   - **(2)** a lead hazard screen conducted as a result of a reported environmental intervention blood lead level, as established in paragraph (1), for any housing may include an examination of toys and materials in the child’s environment that are likely to contain lead, except that such examination shall be conducted by an appropriate agency determined by the Secretary to have the ability to test such toys and materials.
 
 - **(b)** *Regulations* Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall amend the regulations of such Department to comply with the amendments made by subsection (a).
 
-## § 3. Report to Congress on previous lead hazard abatement programs
+## § 3. Report to Congress on previous lead hazard inspection programs
 
-Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall submit a report to the Congress on the status of the program of the Department of Housing and Urban Development known as the Big Buy Reimbursement program and any other voluntary programs the Secretary has implemented, or has planned to implement, through which the Secretary has conducted lead evaluations of housing covered by section 35.715 of the Secretary’s regulations (24 C.F.R. 35.715; Lead Safe Housing Rule for pre-1978 assisted housing). Such report shall include the following information:
+Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall submit a report to the Congress on the status of the program of the Department of Housing and Urban Development known as the Big Buy program and any other voluntary programs the Secretary has implemented, or has planned to implement, through which the Secretary has conducted, or planned to conduct, lead evaluations of housing covered by section 35.715 of the Secretary’s regulations (24 C.F.R. 35.715; Lead Safe Housing Rule for pre-1978 assisted housing). Such report shall include the following information:
 
 - **(1)** A description of the purpose of such programs implemented or planned to be implemented.
 - **(2)** A statement of the amounts allocated for each of such programs.
@@ -43,4 +43,5 @@ Not later than the expiration of the 90-day period beginning on the date of the 
 
 ## § 4. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this Act and the amendments made by this Act such sums as may be appropriated for fiscal year 2009.
+- **(a)** *In general* There is authorized to be appropriated to carry out this Act and the amendments made by this Act such sums as may be appropriated for fiscal year 2009.
+- **(b)** *Costs of compliance* This Act and the amendments made by this Act shall not create any obligation or requirement on the part of any owner of housing, public housing agency, or other party (other than the Secretary of Housing and Urban Development) to comply with any new obligations established by or pursuant to this Act or such amendments, except to the extent that the Secretary of Housing and Urban Development makes amounts available to such owner, agency, or party for the costs of such compliance.
