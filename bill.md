@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3336
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,25 +11,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Camp Hale Historic District Study Act”.
+This Act may be cited as the “Camp Hale Study Act”.
 
-## § 2. Definitions
+## § 2. Special resource study of the suitability and feasibility of establishing Camp Hale as a unit of the National Park System
 
-In this Act:
+- **(a)** *In General* The Secretary of the Interior, acting through the Director of the National Park Service, (hereinafter referred to as the “Secretary”) shall complete a special resource study of Camp Hale to determine—
+  - **(1)** the suitability and feasibility of designating Camp Hale as a separate unit of the National Park System; and
+  - **(2)** the methods and means for the protection and interpretation of Camp Hale by the National Park Service, other Federal, State, or local government entities or private or nonprofit organizations.
+- **(b)** *Study requirements* The Secretary shall conduct the study in accordance with section 8(c) of Public Law 91–383 (16 U.S.C. 1a–5).
+- **(c)** *Report* Not later than 3 years after the date on which funds are made available to carry out this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report containing—
+  - **(1)** the results of the study; and
+  - **(2)** any recommendations of the Secretary.
 
-- **(1)** *Camp Hale* The term “Camp Hale” means the Camp Hale Site listed on the National Register of Historic Places, including the buildings and structures on approximately 247,243 acres of land located near Leadville, Colorado.
-- **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior, acting through the Director of the National Park Service.
+## § 3. Effect of study
 
-## § 3. Study of suitability and feasibility of establishing camp hale as a national historic district
+Nothing in this Act shall affect valid existing rights, including—
 
-- **(a)** *Study* Not later than 2 years after the date that funds are made available for this section, the Secretary shall conduct a special resource study to evaluate—
-  - **(1)** the significance of Camp Hale near Leadville, Colorado; and
-  - **(2)** the suitability and feasibility of including Camp Hale in the National Park System as a National Historic District.
-- **(b)** *Content of Study* The study shall include an analysis of the following:
-  - **(1)** The significance of Camp Hale in relation to the defense of our Nation during World War II and the Cold War, including—
-    - **(A)** use of Camp Hale for training of the 10th Mountain Division and other elements of the United States Armed Forces; and
-    - **(B)** use of Camp Hale for training by the Central Intelligence Agency of Tibetan refugees seeking to resist the Chinese occupation of Tibet.
-  - **(2)** Opportunities for public enjoyment of the site as a National Historic District.
-  - **(3)** Any operational, management, and private property issues that need to be considered if Camp Hale were to be added to the National Park Service system as a National Historic District.
-  - **(4)** A determination of the feasibility of administering Camp Hale considering its size, configuration, ownership, costs, and other factors, as a National Historic District.
-  - **(5)** An evaluation of the adequacy of other alternatives for management and resource protection of Camp Hale and for appropriately commemorating the role of Camp Hale in connection with training of United States troops and assistance to Tibetans opposed to the occupation of Tibet.
+- **(1)** all interstate water compacts in existence on the date of the enactment of this Act (including full development of any apportionment made in accordance with the compacts);
+- **(2)** water rights decreed at the Camp Hale site or flowing within, below, or through the Camp Hale site;
+- **(3)** water rights in the State of Colorado;
+- **(4)** water rights held by the United States; and
+- **(5)** the management and operation of any reservoir, including the storage, management, release, or transportation of water.
