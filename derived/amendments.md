@@ -1,7 +1,7 @@
 ---
 measure: S. 1211
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | amend | in the section heading, by adding at the end the following: “; marketing to minors”; | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a), by inserting after “twenty-one years of age” the following: “, or who manufactures, creates, distributes, or possesses with intent to distribute a controlled substance that is flavored, colored, packaged, or otherwise … | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting after “twenty-one years of age” the following: “, or who manufactures, creates, distributes, or possesses with intent to distribute a controlled substance that is flavored, colored, packaged, or otherwise … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 401 of the Controlled Substances Act (21 U.S.C. 841) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
