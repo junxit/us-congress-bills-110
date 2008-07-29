@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6340
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6340
@@ -56,3 +56,14 @@ To designate the Federal building and United States courthouse located at 300 Qu
 - 2008-06-20 — Introduced in House
 - 2008-06-20 — Introduced in House
 - 2008-06-20 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-06-23 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-07-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boozman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-07-29 — Considered as unfinished business. (consideration: CR H7267)
+- 2008-07-29 — Considered under suspension of the rules. (consideration: CR H7174-7175)
+- 2008-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6340.
+- 2008-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-29 — Ms. Norton moved to suspend the rules and pass the bill, as amended.
+- 2008-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7174)
+- 2008-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7174)
+- 2008-07-29 — Received in the Senate, read twice.
+- 2008-07-29 — The title of the measure was amended. Agreed to without objection.
