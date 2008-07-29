@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6113
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `44 U.S.C. § 3506` | strike | in subclause (IV) by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
-| `44 U.S.C. § 3506` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `44 U.S.C. § 3506` | strike | in subclause (IV) by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `44 U.S.C. § 3506` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
