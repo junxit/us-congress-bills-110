@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5751
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5751
@@ -29,3 +29,11 @@ Walnut Canyon Study Act of 2008
 - 2008-04-09 — Introduced in House
 - 2008-04-09 — Introduced in House
 - 2008-04-09 — Referred to the House Committee on Natural Resources.
+- 2008-04-14 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-07-10 — Subcommittee Hearings Held.
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-16 — Ordered to be Reported by Unanimous Consent.
+- 2008-07-16 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-07-29 — Placed on the Union Calendar, Calendar No. 517.
+- 2008-07-29 — Reported by the Committee on Natural Resources. H. Rept. 110-799.
+- 2008-07-29 — Reported by the Committee on Natural Resources. H. Rept. 110-799.
