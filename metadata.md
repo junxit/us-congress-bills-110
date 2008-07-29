@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6580
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6580
@@ -42,3 +42,9 @@ Hubbard Act
 - 2008-07-23 — Referred to the Committee on Armed Services, and in addition to the Committees on Veterans' Affairs, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-23 — Referred to the Committee on Armed Services, and in addition to the Committees on Veterans' Affairs, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-23 — Referred to the Committee on Armed Services, and in addition to the Committees on Veterans' Affairs, Ways and Means, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-07-29 — Considered under suspension of the rules. (consideration: CR H7276-7280)
+- 2008-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6580.
+- 2008-07-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-29 — Mr. Kind moved to suspend the rules and pass the bill.
+- 2008-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7276-7278)
+- 2008-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7276-7278)
