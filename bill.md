@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5531
 
-> To amend the Homeland Security Act of 2002 to clarify criteria for certification relating to advanced spectroscopic portal monitors, and for other purposes.
+> To amend the Homeland Security Act of 2002 to clarify criteria for certification relating to Advanced Spectroscopic Portal monitors, and for other purposes.
 
 ## § 1. Short title
 
