@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3957
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Water Use Efficiency and Conservation Research A
 Congress finds the following:
 
 - **(1)** Between 1950 and 2000, the United States population increased nearly 90 percent. In that same period, public demand for water increased 209 percent. Americans now use an average of 100 gallons of water per person each day. This increased demand has put additional stress on water supplies and distribution systems, threatening both human health and the environment.
-- **(2)** Thirty six States are anticipating local, regional, or statewide water shortages by 2013. In addition, climate change related effects are expected to exacerbate already scarce water resources in many areas of the country.
+- **(2)** Thirty-six States are anticipating local, regional, or statewide water shortages by 2013. In addition, climate change related effects are expected to exacerbate already scarce water resources in many areas of the country.
 - **(3)** The Intergovernmental Panel on Climate Change’s 2007 assessment states that water stored in glaciers and snow cover is projected to decline, reducing water availability to one-sixth of the world’s population that relies upon meltwater from major mountain ranges. The Intergovernmental Panel on Climate Change also predicts droughts will become more severe and longer lasting in a number of regions.
 - **(4)** Water conservation should be a national goal and the Environmental Protection Agency should work with nongovernmental partners to achieve that goal. The Environmental Protection Agency should support the research, development, and dissemination of technologies and processes that will achieve greater water use efficiency.
 - **(5)** WaterSense is a voluntary public-private partnership program established by the Environmental Protection Agency to promote water efficiency by helping consumers identify water-efficient products and practices. The Environmental Protection Agency estimates that if all United States households installed water-efficient appliances, the country would save more than 3,000,000,000,000 gallons of water and more than $17,000,000,000 per year.
@@ -26,31 +26,71 @@ Congress finds the following:
 
 ## § 3. Research program
 
-- **(a)** *In general* The Assistant Administrator for Research and Development of the Environmental Protection Agency (in this Act referred to as the “Assistant Administrator”) shall establish a research and development program to promote water use efficiency and conservation, including—
-  - **(1)** technologies and processes that enable the collection, treatment, and reuse of rainwater and greywater;
-  - **(2)** water storage and distribution systems; and
-  - **(3)** behavioral, social, and economic barriers to achieving greater water use efficiency.
-- **(b)** *Considerations* In planning and implementing the program the Assistant Administrator shall consider—
+- **(a)** *In general* The Assistant Administrator for Research and Development of the Environmental Protection Agency (in this Act referred to as the “Assistant Administrator”) shall establish a research and development program consistent with the plan developed under section 4 that promotes water use efficiency and conservation, including—
+  - **(1)** technologies and processes that enable the collection, storage, treatment, and reuse of rainwater, stormwater, and greywater;
+  - **(2)** water storage and distribution systems;
+  - **(3)** behavioral, social, and economic barriers to achieving greater water use efficiency; and
+  - **(4)** use of watershed planning directed toward water quality, conservation, and supply.
+- **(b)** *Considerations* In planning and implementing the program, the Assistant Administrator shall consider—
   - **(1)** research needs identified by water resource managers, State and local governments, and other interested parties; and
-  - **(2)** technologies and processes likely to achieve the greatest increases in water use efficiency.
+  - **(2)** technologies and processes likely to achieve the greatest increases in water use efficiency and conservation.
+- **(c)** *Minority Serving Institutions* In the execution of this program, the Assistant Administrator may award extramural grants to institutions of higher education and shall encourage participation by Minority Serving Institutions.
 
-## § 4. Technology transfer
+## § 4. Strategic Research Plan
+
+- **(a)** *In general* The Assistant Administrator shall coordinate the development of a strategic research plan (in this Act referred to as the “plan”) for the water use efficiency and conservation research and development program established in section 3 with all other Environmental Protection Agency research and development strategic plans.
+- **(b)** *Plan Contents* The plan shall—
+  - **(1)** outline research goals and priorities for a water use efficiency and conservation research agenda, including—
+    - **(A)** developing innovative water supply-enhancing processes and technologies; and
+    - **(B)** improving existing processes and technologies, including wastewater treatment, desalinization, and groundwater recharge and recovery schemes;
+  - **(2)** identify current Federal research efforts on water that are directed toward meeting the goals of improving water use efficiency, water conservation, or expanding water supply and describe how such efforts are coordinated with the program established in section 3 in order to leverage resources and avoid duplication; and
+  - **(3)** consider and utilize, as appropriate, recommendations in reports and studies conducted by Federal agencies, the National Research Council, the National Science and Technology Council, or other entities in the development of the plan.
+- **(c)** *Science Advisory Board Review* The Assistant Administrator shall submit the plan to the Science Advisory Board of the Environmental Protection Agency for review.
+- **(d)** *Revision* The plan shall be revised and amended as needed to reflect current scientific findings and national research priorities.
+
+## § 5. Technology transfer
 
 The Assistant Administrator, building on the results of the activities of the program established under section 3, shall—
 
-- **(1)** facilitate the adoption of technology and processes to increase water use, water efficiency, and conservation; and
-- **(2)** collect and disseminate information on technologies and processes to increase water use and conservation, including information on—
+- **(1)** facilitate the adoption of technology and processes to promote water use efficiency and conservation; and
+- **(2)** collect and disseminate information, including the establishment of a publicly-accessible clearinghouse, on technologies and processes to promote water use efficiency and conservation, including information on—
   - **(A)** incentives and impediments to development and commercialization;
   - **(B)** best practices; and
-  - **(C)** anticipated increases in water use efficiency resulting from the implementation of specific technologies and processes.
+  - **(C)** anticipated increases in water use efficiency and conservation resulting from the implementation of specific technologies and processes.
 
-## § 5. Report
+## § 6. Advanced water efficiency development projects
+
+- **(a)** *In general* As part of the program under section 3, the Assistant Administrator shall carry out at least 4 projects under which the funding is provided for the incorporation into a building of the latest water use efficiency and conservation technologies and designs. Funding for each project shall be provided only to cover incremental costs of water-use efficiency and conservation technologies.
+- **(b)** *Criteria* Of the 4 projects described in subsection (a), at least 1 shall be for a residential building and at least 1 shall be for a commercial building.
+- **(c)** *Public availability* The designs of buildings with respect to which funding is provided under subsection (a) shall be made available to the public, and such buildings shall be accessible to the public for tours and educational purposes.
+
+## § 7. Report
 
 Not later than 18 months after the date of enactment of this Act, and once every 2 years thereafter, the Assistant Administrator shall transmit to Congress a report which details the progress being made by the Environmental Protection Agency with regard to—
 
-- **(1)** research projects initiated by the Agency; and
-- **(2)** outreach and communication activities conducted by the Agency.
+- **(1)** water use efficiency and conservation research projects initiated by the Agency;
+- **(2)** development projects initiated by the Agency;
+- **(3)** outreach and communication activities conducted by the Agency concerning water use efficiency and conservation; and
+- **(4)** development and implementation of the plan.
 
-## § 6. Authorization of appropriations
+## § 8. Water management study and report
 
-There are authorized to be appropriated to the Assistant Administrator for carrying out this Act such sums as may be necessary for each of the fiscal years 2009 through 2013.
+- **(a)** *Study*
+  - **(1)** *Requirement* The Administrator of the Environmental Protection Agency shall enter into an arrangement with the National Academy of Sciences to complete a study of low impact and soft path strategies for management of water supply, wastewater, and stormwater.
+  - **(2)** *Contents* The study shall—
+    - **(A)** examine and compare the state of research, technology development, and emerging practices in other developed and developing countries with those in the United States;
+    - **(B)** identify and evaluate relevant system approaches for comprehensive water management, including the interrelationship of water systems with other major systems such as energy and transportation;
+    - **(C)** identify priority research and development needs; and
+    - **(D)** assess implementation needs and barriers.
+- **(b)** *Report* Not later than 2 years after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the key findings of the study conducted under subsection (a). The report shall evaluate challenges and opportunities and serve as a practical reference for water managers, planners, developers, scientists, engineers, non-governmental organizations, federal agencies, and regulators by recommending innovative and integrated solutions.
+- **(c)** *Definitions* For purposes of this section—
+  - **(1)** the term “low impact” means a strategy that manages rainfall at the source using uniformly distributed decentralized micro-scale controls to mimic a site’s predevelopment hydrology by using design techniques that infiltrate, filter, store, evaporate, and detain runoff close to its source; and
+  - **(2)** the term “soft path” means a general framework that encompasses—
+    - **(A)** increased efficiency of water use;
+    - **(B)** integration of water supply, wastewater treatment, and stormwater management systems; and
+    - **(C)** protection, restoration, and effective use of the natural capacities of ecosystems to provide clean water.
+- **(d)** *Authorization of Appropriations* There are authorized to be appropriated to the Administrator of the Environmental Protection Agency for carrying out this section $1,000,000 for fiscal year 2009.
+
+## § 9. Authorization of appropriations
+
+There are authorized to be appropriated to the Assistant Administrator for carrying out this Act $20,000,000 for each of the fiscal years 2009 through 2013.
