@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6456
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 4 executed, 0 stated and not applied.
+6 amendatory instructions. 5 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `2008` |
 | Inserted | `2009` |
+
+### 22 U.S.C. § 4083
+
+> in section 903(b) (22 U.S.C. 4083(b)), by striking “, its territories and possessions, or the Commonwealth of Puerto Rico” and inserting “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands”.
+
+| | |
+|---|---|
+| Removed | `, its territories and possessions, or the Commonwealth of Puerto Rico` |
+| Inserted | `or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands` |
 
 ### 22 U.S.C. § 2704
 
@@ -59,3 +68,14 @@ to guess them.
 |---|---|
 | Removed | `2008` |
 | Inserted | `2009` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `22 U.S.C. § 4081` | insert | in section 901(6)(B) (22 U.S.C. 4081(6)(B)), by inserting after “United States” the following: “or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
