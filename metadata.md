@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 361
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 361
@@ -16,7 +16,7 @@ Commemorating Irena Sendler, a woman whose bravery saved the lives of thousands 
 
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
 
-## Cosponsors (34)
+## Cosponsors (66)
 
 - Rep. Markey, Edward J. [D-MA-7] (M000133)
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
@@ -52,6 +52,38 @@ Commemorating Irena Sendler, a woman whose bravery saved the lives of thousands 
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Lofgren, Zoe [D-CA-16] (L000397)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Green, Gene [D-TX-29] (G000410)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. McDermott, Jim [D-WA-7] (M000404)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
 
 ## Committees (1)
 
@@ -62,3 +94,9 @@ Commemorating Irena Sendler, a woman whose bravery saved the lives of thousands 
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Referred to the House Committee on Foreign Affairs.
+- 2008-07-30 — Considered under suspension of the rules. (consideration: CR H7336-7338)
+- 2008-07-30 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 361.
+- 2008-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-30 — Mr. Berman moved to suspend the rules and agree to the resolution.
+- 2008-07-30 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7336-7337)
+- 2008-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7336-7337)
