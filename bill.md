@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; references
 
-- **(a)** *Short title* This title may be cited as the “Animal Generic Drug User Fee Act of 2008”.
+- **(a)** *Short title* This Act may be cited as the “Animal Generic Drug User Fee Act of 2008”.
 - **(b)** *References in Act* Except as otherwise specified, amendments made by this Act to a section or other provision of law are amendments to such section or other provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
 
 ## § 2. Findings
@@ -20,7 +20,7 @@ Congress finds as follows:
 
 - **(1)** Prompt approval of abbreviated applications for safe and effective generic new animal drugs will reduce animal healthcare costs and promote the well-being of animal health and the public health.
 - **(2)** Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of abbreviated applications for the approval of generic new animal drugs.
-- **(3)** The fees authorized by this title will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.
+- **(3)** The fees authorized by this Act will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record.
 
 ## § 3. Fees relating to abbreviated applications for generic new animal drugs
 
@@ -49,7 +49,7 @@ Part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Ac
 >     - **(B)** hold a public meeting at which the public may present its views on the reauthorization, including specific suggestions for changes to the goals referred to in subsection (a);
 >     - **(C)** provide a period of 30 days after the public meeting to obtain written comments from the public suggesting changes to this part; and
 >     - **(D)** publish the comments on the Food and Drug Administration’s Internet Web site.
->   - **(3)** *Periodic consultation* Not less frequently than once every month during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this part as expressed under paragraph (2).
+>   - **(3)** *Periodic consultation* Not less frequently than once every 4 months during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of veterinary, patient, and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this part as expressed under paragraph (2).
 >   - **(4)** *Public review of recommendations* After negotiations with the regulated industry, the Secretary shall—
 >     - **(A)** present the recommendations developed under paragraph (1) to the congressional committees specified in such paragraph;
 >     - **(B)** publish such recommendations in the Federal Register;

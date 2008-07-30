@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6433
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6433
@@ -16,12 +16,13 @@ Animal Generic Drug User Fee Act of 2008
 
 - Rep. Pallone, Frank, Jr. [D-NJ-6] (P000034)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Dingell, John D. [D-MI-15] (D000355)
 - Rep. Barton, Joe [R-TX-6] (B000213)
 - Rep. Deal, Nathan [R-GA-9] (D000168)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
 
 ## Committees (1)
 
@@ -33,3 +34,10 @@ Animal Generic Drug User Fee Act of 2008
 - 2008-07-08 — Introduced in House
 - 2008-07-08 — Referred to the House Committee on Energy and Commerce.
 - 2008-07-08 — Referred to the Subcommittee on Health.
+- 2008-07-09 — Forwarded by Subcommittee to Full Committee by Voice Vote .
+- 2008-07-09 — Subcommittee Consideration and Mark-up Session Held.
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-16 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-30 — Placed on the Union Calendar, Calendar No. 521.
+- 2008-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-805.
+- 2008-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-805.
