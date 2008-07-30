@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2851
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,9 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 1185` | amend | Subpart B of part 7 of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185` | add-at-end | Subpart B of part 7 of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185` | insert | The table of contents in section 1 of such Act is amended by inserting after the item relating to section 713 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300gg-4` | add-at-end | Subpart 2 of part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–4 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 300gg-4` | add-at-end | Subpart 3 of part B of title XXVII of such Act (42 U.S.C. 300gg–51 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-51` | add-at-end | Subpart 3 of part B of title XXVII of such Act (42 U.S.C. 300gg–51 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185` | insert | Subchapter B of chapter 100 of the Internal Revenue Code of 1986 (relating to other group health plan requirements) is amended by inserting after section 9812 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185` | insert | The table of sections for subchapter B of chapter 100 of such Code is amended by inserting after the item relating to section 9812 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
