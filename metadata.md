@@ -1,7 +1,7 @@
 ---
 measure: S. 2617
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2617
@@ -43,3 +43,5 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2008
 - 2008-07-24 — Committee on Veterans' Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-430.
 - 2008-07-24 — Committee on Veterans' Affairs. Reported by Senator Akaka with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-430.
 - 2008-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 897.
+- 2008-07-30 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7795-7797; text: CR S7795-7796)
+- 2008-07-30 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7795-7797; text: CR S7795-7796)
