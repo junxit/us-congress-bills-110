@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1108
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1108
@@ -257,6 +257,10 @@ Family Smoking Prevention and Tobacco Control Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2008-07-30 — [House 110-2-542](votes/house-110-2-0542.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (326–102)
+
 ## Actions
 
 - 2007-02-15 — Introduced in House
@@ -272,3 +276,11 @@ Family Smoking Prevention and Tobacco Control Act
 - 2008-07-17 — Placed on the Union Calendar, Calendar No. 485.
 - 2008-07-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-762.
 - 2008-07-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-762.
+- 2008-07-30 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Barton (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-07-30 — Considered as unfinished business. (consideration: CR H7587)
+- 2008-07-30 — Considered under suspension of the rules. (consideration: CR H7546-7577)
+- 2008-07-30 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1108.
+- 2008-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-30 — Mr. Dingell moved to suspend the rules and pass the bill, as amended.
+- 2008-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 102 (Roll no. 542). (text: CR H7546-7568)
+- 2008-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 326 - 102 (Roll no. 542).(text: CR H7546-7568)

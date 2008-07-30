@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1108
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-61 amendatory instructions. 12 executed, 49 stated and not applied.
+82 amendatory instructions. 17 executed, 65 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,21 @@ to guess them.
 
 ### 21 U.S.C. § 331
 
-> by striking “or 761 or the refusal to permit access to” and inserting “761, 909, or 921 or the refusal to permit access to”;
+> by striking “or 761 or the refusal to permit access to” and inserting “761, 909, or 920 or the refusal to permit access to”;
 
 | | |
 |---|---|
 | Removed | `or 761 or the refusal to permit access to` |
-| Inserted | `761, 909, or 921 or the refusal to permit access to` |
+| Inserted | `761, 909, or 920 or the refusal to permit access to` |
 
 ### 21 U.S.C. § 331
 
-> by striking “708, or 721” and inserting “708, 721, 904, 905, 906, 907, 908, 909, or 921(b)”;
+> by striking “708, or 721” and inserting “708, 721, 904, 905, 906, 907, 908, 909, or 920(b)”;
 
 | | |
 |---|---|
 | Removed | `708, or 721` |
-| Inserted | `708, 721, 904, 905, 906, 907, 908, 909, or 921(b)` |
+| Inserted | `708, 721, 904, 905, 906, 907, 908, 909, or 920(b)` |
 
 ### 21 U.S.C. § 331
 
@@ -96,6 +96,15 @@ to guess them.
 | Removed | `section 903(g)` |
 | Inserted | `section 1003(g)` |
 
+### 21 U.S.C. § 301
+
+> by striking “(a)(1)” and inserting “(a)(1)(A)”; and
+
+| | |
+|---|---|
+| Removed | `(a)(1)` |
+| Inserted | `(a)(1)(A)` |
+
 ### 21 U.S.C. § 374
 
 > in subsection (g)(13), by striking “section 903(g)” and inserting “section 1003(g)”.
@@ -105,7 +114,7 @@ to guess them.
 | Removed | `section 903(g)` |
 | Inserted | `section 1003(g)` |
 
-### 21 U.S.C. § 331
+### 21 U.S.C. § 301
 
 > Section 1009(b) (as redesignated by section 101(b)) is amended by striking “section 908” and inserting “section 1008”.
 
@@ -123,7 +132,16 @@ to guess them.
 | Removed | `section 902(b)` |
 | Inserted | `section 1002(b)` |
 
-### 15 U.S.C. § 4402
+### 15 U.S.C. § 1334
+
+> Section 5(a) of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1334(a)) is amended by striking “No” and inserting “Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under section 903(a)(2) or section 920(a) of the Federal Food, Drug, and Cosmetic Act, no”.
+
+| | |
+|---|---|
+| Removed | `No` |
+| Inserted | `Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under section 903(a)(2) or section 920(a) of the Federal Food, Drug, and Cosmetic Act, no` |
+
+### 15 U.S.C. § 4406
 
 > Section 7(a) of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4406(a)) is amended by striking “No” and inserting “Except as provided in the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), no”.
 
@@ -131,6 +149,33 @@ to guess them.
 |---|---|
 | Removed | `No` |
 | Inserted | `Except as provided in the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), no` |
+
+### 5 U.S.C. § 8439
+
+> by striking “either such Fund” and inserting “any such fund or option”.
+
+| | |
+|---|---|
+| Removed | `either such Fund` |
+| Inserted | `any such fund or option` |
+
+### 5 U.S.C. § 8415
+
+> by striking “(l) In computing” and inserting “(l)(1) In computing”; and
+
+| | |
+|---|---|
+| Removed | `(l) In computing` |
+| Inserted | `(l)(1) In computing` |
+
+### 5 U.S.C. § 8422
+
+> Section 8422(d)(2) of title 5, United States Code, is amended by striking “section 8415(k)” and inserting “paragraph (1) or (2) of section 8415(l)”.
+
+| | |
+|---|---|
+| Removed | `section 8415(k)` |
+| Inserted | `paragraph (1) or (2) of section 8415(l)` |
 
 ## Stated, not applied
 
@@ -142,8 +187,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `21 U.S.C. § 321` | add-at-end | Section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | redesignate | by redesignating chapter IX as chapter X; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `5 U.S.C. § 552` | redesignate | by redesignating sections 901 through 910 as sections 1001 through 1010; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 301` | redesignate | by redesignating chapter IX as chapter X; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 301` | redesignate | by redesignating sections 901 through 910 as sections 1001 through 1010; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 552` | insert | by inserting after chapter VIII the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | The Secretary may exempt from the requirements of this subsection relating to the demonstration that a tobacco product is substantially equivalent within the meaning of section 910, tobacco products that are modified by adding or deletin… | the bill names no machine-readable US Code section |
 | `21 U.S.C. § 331` | insert | in subsection (a), by inserting “tobacco product,” after “device,”; | the bill quotes the text inserted but describes where it goes |
@@ -169,7 +214,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 334` | insert | in subsection (d)(1), by inserting “tobacco product,” after “device,”; | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 334` | insert | in subsection (g)(1), by inserting “or tobacco product” after the term device each place such term appears; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 334` | insert | in subsection (g)(2)(A), by inserting “or tobacco product” after “device”. | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 372` | amend | Section 702(a) (21 U.S.C. 372(a)) is amended by adding at the end of paragraph (1) the following: “For a tobacco product, to the extent feasible, the Secretary shall contract with the States in accordance with this paragraph to carry out… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 373` | insert | by inserting “tobacco product,” after the term device, each place such term appears; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 373` | insert | by inserting “tobacco products,” after the term devices, each place such term appears. | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 374` | insert | in subsection (a)(1)(A), by inserting “tobacco products,” after the term devices, each place such term appears; | the bill quotes the text inserted but describes where it goes |
@@ -182,7 +227,7 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 381` | replace | by striking the term drugs or devices each time such term appears and inserting “drugs, devices, or tobacco products”; | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 381` | insert | in subsection (e)(1), by inserting “tobacco product,” after “device,”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 381` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 331` | strike | by striking “and” after “cosmetics,”; and | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 301` | strike | by striking “and” after “cosmetics,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1333` | amend | Section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1333` | add-at-end | Section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by section 201, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1334` | add-at-end | Section 5 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1334) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -190,3 +235,19 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 4402` | add-at-end | Section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402), as amended by section 204, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1333` | add-at-end | Section 4 of the Federal Cigarette Labeling and Advertising Act (15 U.S.C. 1333), as amended by sections 201 and 202, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter IX of the Federal Food, Drug, and Cosmetic Act, as added by section 101, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 8432` | replace | Section 8432(b) of title 5, United States Code, is amended by striking paragraphs (2) through (4) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8432` | strike | Section 8432(b)(1) of title 5, United States Code, is amended by striking the parenthetical matter in subparagraph (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8438` | amend | Section 8438(c)(2) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8432c` | insert | Subchapter III of chapter 84 of title 5, United States Code, is amended by inserting after section 8432c the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8432c` | insert | The analysis for chapter 84 of title 5, United States Code, is amended by inserting after the item relating to section 8432c the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8438` | strike | in subparagraph (D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `5 U.S.C. § 8438` | replace | in subparagraph (E), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 8438` | amend | by adding after subparagraph (E) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8438` | add-at-end | Section 8438(b) of title 5, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8439` | replace | by striking the matter after “who elects to invest in” and before “shall sign an acknowledgement” and inserting “any investment fund or option under this chapter, other than the Government Securities Investment Fund,”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 8439` | redesignate | by redesignating subsection (d) as subsection (d)(1); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8439` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8477` | redesignate | by redesignating subparagraph (C) as subparagraph (C)(i); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8477` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8415` | redesignate | by redesignating the second subsection (k) and subsection (l) as subsections (l) and (m), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 8415` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

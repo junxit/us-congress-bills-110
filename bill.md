@@ -24,7 +24,7 @@ The Congress finds the following:
 - **(4)** Virtually all new users of tobacco products are under the minimum legal age to purchase such products.
 - **(5)** Tobacco advertising and marketing contribute significantly to the use of nicotine-containing tobacco products by adolescents.
 - **(6)** Because past efforts to restrict advertising and marketing of tobacco products have failed adequately to curb tobacco use by adolescents, comprehensive restrictions on the sale, promotion, and distribution of such products are needed.
-- **(7)** Federal and State Governments have lacked the legal and regulatory authority and resources they need to address comprehensively the public health and societal problems caused by the use of tobacco products.
+- **(7)** Federal and State governments have lacked the legal and regulatory authority and resources they need to address comprehensively the public health and societal problems caused by the use of tobacco products.
 - **(8)** Federal and State public health officials, the public health community, and the public at large recognize that the tobacco industry should be subject to ongoing oversight.
 - **(9)** Under article I, section 8 of the Constitution, the Congress is vested with the responsibility for regulating interstate commerce and commerce with Indian tribes.
 - **(10)** The sale, distribution, marketing, advertising, and use of tobacco products are activities in and substantially affecting interstate commerce because they are sold, marketed, advertised, and distributed in interstate commerce on a nationwide basis, and have a substantial effect on the Nation’s economy.
@@ -88,7 +88,7 @@ The purposes of this Act are—
 
 - **(a)** *Intended effect* Nothing in this Act (or an amendment made by this Act) shall be construed to—
   - **(1)** establish a precedent with regard to any other industry, situation, circumstance, or legal action; or
-  - **(2)** affect any action pending in Federal, State, or tribal court, or any agreement, consent decree, or contract of any kind.
+  - **(2)** affect any action pending in Federal, State, or Tribal court, or any agreement, consent decree, or contract of any kind.
 - **(b)** *Agricultural activities* The provisions of this Act (or an amendment made by this Act) which authorize the Secretary to take certain actions with regard to tobacco and tobacco products shall not be construed to affect any authority of the Secretary of Agriculture under existing law regarding the growing, cultivation, or curing of raw tobacco.
 - **(c)** *Revenue activities* The provisions of this Act (or an amendment made by this Act) which authorize the Secretary to take certain actions with regard to tobacco products shall not be construed to affect any authority of the Secretary of the Treasury under chapter 52 of the Internal Revenue Code of 1986.
 
