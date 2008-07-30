@@ -24,7 +24,7 @@ Congress makes the following findings:
 - **(4)** During fiscal year 2006, almost 250,000 beneficiaries began receiving benefits with 162,805 of these being veterans whose compensation claims were granted.
 - **(5)** Since October 7, 2001, the number of claims for new or increased benefits has risen sharply, exceeding 838,000 in 2007.
 - **(6)** The Department of Veterans Affairs projects that the number of claims will surpass 1,000,000 by the end of fiscal year 2008.
-- **(7)** The number of disability compensation claims pending before the Department stands at nearly 650,000, as of the date of the enactment of this Act, about a quarter of which have been backlogged for over six months.
+- **(7)** The number of disability compensation claims pending before the Department stands at nearly 630,000, as of the date of the enactment of this Act, about a quarter of which have been backlogged for over six months.
 - **(8)** Processing times have increased from an average of 177 days in 2006 to 183 days in 2007.
 - **(9)** The paper-based, labor-intensive process employed by the Department leaves many disabled veterans and survivors waiting months or years to receive the benefits they have earned.
 - **(10)** The most prevalent disabilities among veterans that are service-connected are auditory, with almost 840,000 veterans receiving compensation for such a disability, followed by musculoskeletal disabilities and arthritis.
