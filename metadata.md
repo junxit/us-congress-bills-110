@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5892
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5892
@@ -101,6 +101,10 @@ Veterans Disability Benefits Claims Modernization Act of 2008
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2008-07-30 — [House 110-2-538](votes/house-110-2-0538.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (429–0)
+
 ## Actions
 
 - 2008-04-24 — Introduced in House
@@ -115,3 +119,7 @@ Veterans Disability Benefits Claims Modernization Act of 2008
 - 2008-07-29 — Placed on the Union Calendar, Calendar No. 507.
 - 2008-07-29 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-789.
 - 2008-07-29 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-789.
+- 2008-07-30 — Considered as unfinished business. (consideration: CR H7518)
+- 2008-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 429 - 0 (Roll no. 538). (text: CR 7/29/2008 H7256-7261)
+- 2008-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 429 - 0 (Roll no. 538).(text: CR 7/29/2008 H7256-7261)
