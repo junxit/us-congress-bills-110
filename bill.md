@@ -77,9 +77,7 @@ Section 703 of the Homeland Security Act of 2002 (6 U.S.C. 343) is further amend
 - **(a)** *In general* Subtitle D of title VIII of the Homeland Security Act of 2002 (6 U.S.C. 391 et seq.) is amended by adding at the end the following new section:
   > ## § 836. Requirements for network service providers
   >
-  > - **(a)** *Compatibility determination*
-  >   - **(1)** *In general* Before entering into or renewing a covered contract, the Secretary, acting through the Chief Information Officer, must determine that the contractor has an internal information systems security policy that complies with the Department’s information security requirements for risk assessment, risk management, and risk mitigation, with primary regard to the implementation of best practices such as authentication, access control (including remote access), intrusion detection and prevention, data protection and integrity, and any other policies that the Secretary considers necessary to ensure the security of the Department’s information infrastructure.
-  >   - **(2)** *Limitation on public disclosures* The Chief Information Officer shall not disclose to the public any information provided for purposes of such determination, notwithstanding any other provision of Federal, State, or local law, including section 552 of title 5, United States Code.
+  > - **(a)** *Compatibility determination* Before entering into or renewing a covered contract, the Secretary, acting through the Chief Information Officer, must determine that the contractor has an internal information systems security policy that complies with the Department’s information security requirements for risk assessment, risk management, and risk mitigation, with primary regard to the implementation of best practices such as authentication, access control (including remote access), intrusion detection and prevention, data protection and integrity, and any other policies that the Secretary considers necessary to ensure the security of the Department’s information infrastructure.
   > - **(b)** *Contract requirements regarding security* The Secretary shall include in each covered contract provisions requiring the contractor to—
   >   - **(1)** implement and regularly update the internal information systems security policy required under subsection (a);
   >   - **(2)** maintain the capability to provide contracted services on a continuing and ongoing basis to the Department in the event of unplanned or disruptive event; and
@@ -104,3 +102,7 @@ Section 703 of the Homeland Security Act of 2002 (6 U.S.C. 343) is further amend
   - **(2)** a plan, including an estimated budget and a timeline, to investigate breaches against the Department of Homeland Security’s information infrastructure for purposes of counterintelligence assessment, attribution, and response;
   - **(3)** a proposal to increase threat information sharing with cleared and uncleared contractors and provide specialized damage assessment training to private sector information security professionals; and
   - **(4)** a process to coordinate the Department of Homeland Security’s information infrastructure protection activities.
+
+## § 7. Rule of construction
+
+Nothing in this Act shall be construed as affecting in any manner the application of the Federal Information Management Security Act of 2002 (44 U.S.C. 3541 et seq.), to the Department of Homeland Security, including all requirements and deadlines in that Act.
