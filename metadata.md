@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6575
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6575
@@ -31,3 +31,6 @@ Over-Classification Reduction Act
 - 2008-07-23 — Introduced in House
 - 2008-07-23 — Ordered to be Reported by Voice Vote.
 - 2008-07-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-07-30 — Placed on the Union Calendar, Calendar No. 523.
+- 2008-07-30 — Reported by the Committee on Oversight and Government. H. Rept. 110-809.
+- 2008-07-30 — Reported by the Committee on Oversight and Government. H. Rept. 110-809.
