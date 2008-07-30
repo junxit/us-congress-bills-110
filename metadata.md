@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4137
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4137
@@ -48,12 +48,13 @@ Higher Education Opportunity Act
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Committees (4)
+## Committees (5)
 
 - House — Financial Services Committee
 - House — Science, Space, and Technology Committee
 - House — Judiciary Committee
 - House — Education and the Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (5)
 
@@ -276,3 +277,25 @@ Higher Education Opportunity Act
 - 2008-02-07 — The Speaker designated the Honorable Ed Pastor to act as Chairman of the Committee.
 - 2008-02-07 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H781)
 - 2008-02-07 — The previous question was ordered pursuant to the rule. (consideration: CR H780)
+- 2008-02-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2008-07-29 — Amendment SA 5250 agreed to in Senate by Unanimous Consent.
+- 2008-07-29 — Amendment SA 5250 proposed by Senator Durbin for Senator Kennedy. (consideration: CR S7591) In the nature of a substitute.
+- 2008-07-29 — Conferees agreed to file conference report. (consideration: CR S7591)
+- 2008-07-29 — Conference committee actions: Conferees agreed to file conference report.(consideration: CR S7591)
+- 2008-07-29 — Measure laid before Senate by unanimous consent. (consideration: CR S7591)
+- 2008-07-29 — Message on Senate action sent to the House.
+- 2008-07-29 — Mr. Miller, George asked unanimous consent that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H7269)
+- 2008-07-29 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection. (consideration: CR H7269)
+- 2008-07-29 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-07-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-07-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2008-07-29 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2008-07-29 — Senate amendment agreed to: Amendment SA 5250 agreed to in Senate by Unanimous Consent.
+- 2008-07-29 — Senate amendment proposed (on the floor): Amendment SA 5250 proposed by Senator Durbin for Senator Kennedy.(consideration: CR S7591)
+- 2008-07-29 — Senate amendment submitted
+- 2008-07-29 — Senate insists on its amendment, asks for a conference, appoints conferees Kennedy; Dodd; Harkin; Mikulski; Bingaman; Murray; Reed; Clinton; Obama; Sanders; Brown; Enzi; Gregg; Alexander; Burr; Isakson; Murkowski; Hatch; Roberts; Allard; Coburn. (consideration: CR S7591)
+- 2008-07-29 — The Speaker appointed conferees - from the Committee on Education and Labor for consideration of the House bill and the Senate amendment, and modifications committed to conference: Miller, George, Hinojosa, Tierney, Wu, Bishop (NY), Altmire, Yarmuth, Courtney, Andrews, Scott (VA), Davis (CA), Davis (IL), Hirono, Keller, Petri, McMorris Rodgers, Foxx, Kuhl (NY), Walberg, Castle, Souder, Ehlers, Biggert, and McKeon.
+- 2008-07-29 — The Speaker appointed conferees - from the Committee on Science and Technology for consideration of secs. 961 and 962 of the House bill, and sec. 804 of the Senate amendment, and modifications committed to conference: Gordon, Baird, and Neugebauer.
+- 2008-07-29 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 951 and 952 of the House bill, and secs. 951 and 952 of the Senate amendment, and modifications committed to conference: Conyers, Waters, and Gohmert.
+- 2008-07-30 — Conference report H. Rept. 110-803 filed. (text of conference report: CR H7353-7517)
+- 2008-07-30 — Conference report filed: Conference report H. Rept. 110-803 filed.(text of conference report: CR H7353-7517)
