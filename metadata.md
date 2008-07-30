@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6445
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6445
@@ -49,3 +49,8 @@ Veterans' Health Care Policy Enhancement Act of 2008
 - 2008-07-29 — Placed on the Union Calendar, Calendar No. 505.
 - 2008-07-29 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-786.
 - 2008-07-29 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-786.
+- 2008-07-30 — Considered as unfinished business. (consideration: CR H7531)
+- 2008-07-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 541). (text: CR 7/29/2008 H7240)
+- 2008-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 0 (Roll no. 541).(text: CR 7/29/2008 H7240)
+- 2008-07-30 — The title of the measure was amended. Agreed to without objection.
