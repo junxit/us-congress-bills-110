@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3437
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Jackson Gulch Rehabilitation Act of 2007”.
+This Act may be cited as the “Jackson Gulch Rehabilitation Act of 2008”.
 
 ## § 2. Definitions
 
@@ -26,20 +26,24 @@ In this Act:
 - **(4)** *Secretary* The term “Secretary” means the Secretary of the Interior, acting through the Commissioner of Reclamation.
 - **(5)** *State* The term “State” means the State of Colorado.
 
-## § 3. Authorization of jackson gulch rehabilitation project
+## § 3. Authorization of Jackson Gulch Rehabilitation Project
 
-- **(a)** *In general* The Secretary shall pay the Federal share of the total cost of carrying out the Project.
+- **(a)** *In general* Subject to the reimbursement requirement described in subsection (c), the Secretary shall pay the Federal share of the total cost of carrying out the Project.
 - **(b)** *Use of existing information* In preparing any studies relating to the Project, the Secretary shall, to the maximum extent practicable, use existing studies, including engineering and resource information provided by, or at the direction of—
   - **(1)** Federal, State, or local agencies; and
   - **(2)** the District.
-- **(c)** *Cost-sharing requirement*
-  - **(1)** *Federal share* The Federal share of the total cost of carrying out the Project shall be 80 percent.
-  - **(2)** *Non-federal share* The non-Federal share of the total cost of carrying out the Project may be in the form of—
-    - **(A)** any in-kind, documented contribution of goods or services; or
-    - **(B)** any amounts paid by the District before, on, or after the date of enactment of this Act for engineering and improvement costs for the Jackson Gulch Conveyance Works.
+- **(c)** *Reimbursement requirement*
+  - **(1)** *Amount* The Secretary shall recover from the District as reimbursable expenses the lesser of—
+    - **(A)** the amount equal to 35 percent of the cost of the Project; or
+    - **(B)** $2,900,000.
+  - **(2)** *Manner* The Secretary shall recover reimbursable expenses under paragraph (1)—
+    - **(A)** in a manner agreed to by the Secretary and the District;
+    - **(B)** over a period of 15 years; and
+    - **(C)** with no interest.
+  - **(3)** *Credit* In determining the exact amount of reimburseable expenses to be recovered from the District, the Secretary shall credit the District for any amounts it paid before the date of the enactment of this Act for engineering work and improvements directly associated with the Project.
 - **(d)** *Prohibition on Operation and Maintenance costs* The District shall be responsible for the operation and maintenance of any facility constructed or rehabilitated under this Act.
 - **(e)** *Liability* The United States shall not be liable for damages of any kind arising out of any act, omission, or occurrence relating to a facility rehabilitated or constructed under this Act.
 - **(f)** *Effect* An activity provided Federal funding under this Act shall not be considered a supplemental or additional benefit under—
   - **(1)** the reclamation laws; or
   - **(2)** the Act of August 11, 1939 (16 U.S.C. 590y et seq.).
-- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to pay the Federal share of the total cost of carrying out the Project $6,452,311.
+- **(g)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to pay the Federal share of the total cost of carrying out the Project $8,250,000.
