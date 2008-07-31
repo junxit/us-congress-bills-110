@@ -1,7 +1,7 @@
 ---
 measure: H.R. 674
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 674
@@ -36,3 +36,11 @@ To amend title 38, United States Code, to repeal the provision of law requiring 
 - 2008-07-24 — Placed on the Union Calendar, Calendar No. 491.
 - 2008-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-772.
 - 2008-07-24 — Reported by the Committee on Veterans' Affairs. H. Rept. 110-772.
+- 2008-07-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Lamborn objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-07-29 — Considered under suspension of the rules. (consideration: CR H7255-7256)
+- 2008-07-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 674.
+- 2008-07-29 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2008-07-31 — Considered as unfinished business. (consideration: CR 8/1/2008 H7709)
+- 2008-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/29/2008 H7255)
+- 2008-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/29/2008 H7255)
