@@ -2,7 +2,7 @@
 legis-num: H. RES. 1288
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1288
@@ -12,8 +12,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## Preamble
 
 - Whereas college and university campuses are not immune from the crime problems that face the rest of society in the United States;
-- Whereas a total of 37 homicides, 8,114 forcible-sex offenses, 8,923 aggravated assaults, and 3,071 cases of arson were reported on college and university campuses from 2004 to 2006, in accordance with the reporting requirements under the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (20 U.S.C. 1092(f); Public Law 89–329);
-- Whereas between 1/5 and 1/4 of female students become the victim of a completed or attempted rape, usually by someone they know, during their college careers, but fewer than 5 percent report the assault to law enforcement;
+- Whereas a total of 37 homicides, 8,112 forcible-sex offenses, 8,923 aggravated assaults, and 3,071 cases of arson were reported on college and university campuses from 2004 to 2006, in accordance with the reporting requirements under the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (20 U.S.C. 1092(f); Public Law 89–329);
+- Whereas criminal experts estimate that between 1/5 and 1/4 of female students become the victim of a completed or attempted rape, usually by someone they know, during their college careers, but fewer than 5 percent report the assault to law enforcement;
 - Whereas each year, 13 percent of female students enrolled in an undergraduate program at a college or university will be victims of stalking;
 - Whereas 1,700 college and university students between the ages of 18 and 24 die each year from unintentional alcohol-related injuries, including motor vehicle accidents;
 - Whereas Security On Campus, Inc. (hereinafter referred to as “SOC”), a national nonprofit group dedicated to promoting safety and security on college and university campuses, has designated September as National Campus Safety Awareness Month;
