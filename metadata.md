@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6309
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6309
@@ -43,3 +43,8 @@ Lead-Safe Housing for Kids Act of 2008
 - 2008-07-29 — Placed on the Union Calendar, Calendar No. 506.
 - 2008-07-29 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-788.
 - 2008-07-29 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-788.
+- 2008-07-31 — Considered as unfinished business. (consideration: CR H7706)
+- 2008-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/29/2008 H7280-7281)
+- 2008-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/29/2008 H7280-7281)
+- 2008-07-31 — The title of the measure was amended. Agreed to without objection.

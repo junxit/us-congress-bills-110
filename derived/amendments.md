@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6309
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 42 U.S.C. § 4852c
 
-> by striking “Not later than” and inserting “(a) In general.—Not later than”; and—
+> by striking “Not later than” and inserting “(a) In general.—Not later than”; and
 
 | | |
 |---|---|

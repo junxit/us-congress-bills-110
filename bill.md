@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6309
 
-> To amend the Residential Lead-Based Paint Hazard Reduction Act of 1992 to define environmental intervention blood lead level and establish additional requirements for certain lead hazard screens, and for other purposes.
+> To amend the Residential Lead-Based Paint Hazard Reduction Act of 1992 to define environmental intervention blood lead level, and for other purposes.
 
 ## § 1. Short Title
 
@@ -16,13 +16,13 @@ This Act may be cited as the “Lead-Safe Housing for Kids Act of 2008” .
 ## § 2. Amendments to Residential Lead-Based Paint Hazard Reduction Act of 1992
 
 - **(a)** *Amendments* Section 1017 of the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4852c) is amended—
-  - **(1)** by striking “Not later than” and inserting “(a) In general.—Not later than”; and—
+  - **(1)** by striking “Not later than” and inserting “(a) In general.—Not later than”; and
   - **(2)** by adding at the end the following new subsection:
-    > - **(b)** *Environmental intervention blood lead level and lead hazard screens* For purposes of this title and title III of the Lead-Based Paint Poisoning Prevention Act, and any regulations issued under this title or such title III—
-    >   - **(1)** an environmental intervention blood lead level shall be defined as the lower of—
-    >     - **(A)** the elevated blood lead level of concern for a child under six years of age that has been established by the Centers for Disease Control and Prevention; or
-    >     - **(B)** a confirmed concentration of lead in whole blood equal to or greater than 10 ug/dL (micrograms of lead per deciliter); and
-    >   - **(2)** a lead hazard screen conducted as a result of a reported environmental intervention blood lead level, as established in paragraph (1), for any housing may include an examination of toys and materials in the child’s environment that are likely to contain lead, except that such examination shall be conducted by an appropriate agency determined by the Secretary to have the ability to test such toys and materials.
+    > - **(b)** *Environmental intervention blood lead level*
+    >   - **(1)** *In general* For purposes of this title and any regulations issued under this title, an environmental intervention blood lead level shall be defined as the lower of—
+    >     - **(A)** 10 ug/dL (micrograms of lead per deciliter); or
+    >     - **(B)** the elevated blood lead level of concern for a child under six years of age that has been recommended by the Centers for Disease Control and Prevention.
+    >   - **(2)** *Relation to other authorities* This Act may not be construed as affecting the authority of the Environmental Protection Agency under section 403 of the Toxic Substances Control Act.
 
 - **(b)** *Regulations* Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall amend the regulations of such Department to comply with the amendments made by subsection (a).
 
