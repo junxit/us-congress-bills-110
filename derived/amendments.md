@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6221
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 4 executed, 6 stated and not applied.
+8 amendatory instructions. 4 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -70,8 +70,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `38 U.S.C. § 8127` | redesignate | by redesignating subsections (j) and (k) as subsections (k) and (l), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 8127` | insert | by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 8127` | redesignate | by redesignating subsections (j) and (k) as subsections (k) and (l), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 8127` | insert | by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 631` | insert | by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3687` | insert | Subchapter II of chapter 36 of title 38, United States Code, is amended by inserting after section 3687 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 3687` | insert | The table of sections for such chapter is amended by inserting after the item relating to section 3687 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

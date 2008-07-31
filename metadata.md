@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6221
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6221
@@ -44,3 +44,7 @@ Improving Veterans' Opportunity in Education and Business Act of 2008
 - 2008-07-29 — Placed on the Union Calendar, Calendar No. 504.
 - 2008-07-29 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-785.
 - 2008-07-29 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-785.
+- 2008-07-31 — Considered as unfinished business. (consideration: CR H7707)
+- 2008-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/29/2008 H7253-7254)
+- 2008-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/29/2008 H7253-7254)
