@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6041
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6041
@@ -48,3 +48,10 @@ To redesignate the Rio Grande American Canal in El Paso, Texas, as the "Travis C
 - 2008-05-13 — Introduced in House
 - 2008-05-13 — Introduced in House
 - 2008-05-13 — Referred to the House Committee on Natural Resources.
+- 2008-05-15 — Referred to the Subcommittee on Water and Power.
+- 2008-06-25 — Committee Consideration and Mark-up Session Held.
+- 2008-06-25 — Ordered to be Reported by Voice Vote.
+- 2008-06-25 — Subcommittee on Water and Power Discharged.
+- 2008-07-31 — Placed on the Union Calendar, Calendar No. 528.
+- 2008-07-31 — Reported by the Committee on Natural Resources. H. Rept. 110-814.
+- 2008-07-31 — Reported by the Committee on Natural Resources. H. Rept. 110-814.
