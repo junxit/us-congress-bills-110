@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1338
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1338
@@ -267,3 +267,75 @@ Paycheck Fairness Act
 - 2008-07-28 — Placed on the Union Calendar, Calendar No. 502.
 - 2008-07-28 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-783.
 - 2008-07-28 — Reported (Amended) by the Committee on Education and Labor. H. Rept. 110-783.
+- 2008-07-30 — Rules Committee Resolution H. Res. 1388 Reported to House. Rule provides for consideration of H.R. 1338 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2008-07-31 — Amendment (A001) offered by Ms. Bean. (consideration: CR H7693; text: CR H7693)
+- 2008-07-31 — Amendment (A002) offered by Mr. Price (GA). (consideration: CR H7693-7695, H7698-7699; text: CR H7693)
+- 2008-07-31 — Amendment (A003) offered by Mr. Altmire. (consideration: CR H7695-7696, H7669-7700; text: CR H7695)
+- 2008-07-31 — Amendment (A004) offered by Ms. Giffords. (consideration: CR H7696-7697, H7700; text: CR H7696)
+- 2008-07-31 — Amendment (A005) offered by Mr. Cazayoux. (consideration: CR H7697, H7700-7701; text: CR H7697)
+- 2008-07-31 — Amendment (A006) offered by Mr. Flake. (consideration: CR H7697-7698; text: CR H7697)
+- 2008-07-31 — Amendment agreed to Committee of the Whole
+- 2008-07-31 — Amendment agreed to Committee of the Whole
+- 2008-07-31 — Amendment agreed to Committee of the Whole
+- 2008-07-31 — Amendment agreed to Committee of the Whole
+- 2008-07-31 — Amendment agreed to Committee of the Whole
+- 2008-07-31 — Amendment failed in Committee of the Whole
+- 2008-07-31 — Committee of the Whole House on the state of the Union rises leaving H.R. 1338 as unfinished business.
+- 2008-07-31 — Considered as unfinished business. (consideration: CR H7681-7704)
+- 2008-07-31 — Considered under the provisions of rule H. Res. 1388. (consideration: CR H7678-7681)
+- 2008-07-31 — DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Altmire amendment.
+- 2008-07-31 — DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Bean amendment.
+- 2008-07-31 — DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Cazayoux amendment.
+- 2008-07-31 — DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Flake amendment.
+- 2008-07-31 — DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Giffords amendment.
+- 2008-07-31 — DEBATE - Pursuant to the provisions of H. Res. 1388, the Committee of the Whole proceeded with ten minutes of debate on the Price (GA) amendment.
+- 2008-07-31 — DEBATE - The House proceeded with 10 minutes of debate on the Price (GA) motion to recommit with instructions. The instructions contained in the motion seek to report the bill back to the House with an amendment.
+- 2008-07-31 — GENERAL DEBATE - The Committee of the Whole continued with general debate on H.R. 1338.
+- 2008-07-31 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1338.
+- 2008-07-31 — House amendment agreed to: On agreeing to the Altmire amendment (A003) Agreed to by recorded vote: 426 - 1 (Roll no. 552).
+- 2008-07-31 — House amendment agreed to: On agreeing to the Bean amendment (A001) Agreed to by voice vote.
+- 2008-07-31 — House amendment agreed to: On agreeing to the Cazayoux amendment (A005) Agreed to by recorded vote: 410 - 16, 1 Present (Roll no. 554).
+- 2008-07-31 — House amendment agreed to: On agreeing to the Flake amendment (A006) Agreed to by voice vote.
+- 2008-07-31 — House amendment agreed to: On agreeing to the Giffords amendment (A004) Agreed to by recorded vote: 397 - 29 (Roll no. 553).
+- 2008-07-31 — House amendment not agreed to: On agreeing to the Price (GA) amendment (A002) Failed by recorded vote: 188 - 240 (Roll no. 551).
+- 2008-07-31 — House amendment offered
+- 2008-07-31 — House amendment offered
+- 2008-07-31 — House amendment offered
+- 2008-07-31 — House amendment offered
+- 2008-07-31 — House amendment offered
+- 2008-07-31 — House amendment offered
+- 2008-07-31 — House amendment offered/reported by : Amendment (A001) offered by Ms. Bean.(consideration: CR H7693; text: CR H7693)
+- 2008-07-31 — House amendment offered/reported by : Amendment (A002) offered by Mr. Price (GA).(consideration: CR H7693-7695, H7698-7699; text: CR H7693)
+- 2008-07-31 — House amendment offered/reported by : Amendment (A003) offered by Mr. Altmire.(consideration: CR H7695-7696, H7669-7700; text: CR H7695)
+- 2008-07-31 — House amendment offered/reported by : Amendment (A004) offered by Ms. Giffords.(consideration: CR H7696-7697, H7700; text: CR H7696)
+- 2008-07-31 — House amendment offered/reported by : Amendment (A005) offered by Mr. Cazayoux.(consideration: CR H7697, H7700-7701; text: CR H7697)
+- 2008-07-31 — House amendment offered/reported by : Amendment (A006) offered by Mr. Flake.(consideration: CR H7697-7698; text: CR H7697)
+- 2008-07-31 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1388 and Rule XVIII.
+- 2008-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — Mr. Price (GA) moved to recommit with instructions to Education and Labor. (consideration: CR H7701-7703; text: CR H7701)
+- 2008-07-31 — On agreeing to the Altmire amendment (A003) Agreed to by recorded vote: 426 - 1 (Roll no. 552).
+- 2008-07-31 — On agreeing to the Bean amendment (A001) Agreed to by voice vote.
+- 2008-07-31 — On agreeing to the Cazayoux amendment (A005) Agreed to by recorded vote: 410 - 16, 1 Present (Roll no. 554).
+- 2008-07-31 — On agreeing to the Flake amendment (A006) Agreed to by voice vote.
+- 2008-07-31 — On agreeing to the Giffords amendment (A004) Agreed to by recorded vote: 397 - 29 (Roll no. 553).
+- 2008-07-31 — On agreeing to the Price (GA) amendment (A002) Failed by recorded vote: 188 - 240 (Roll no. 551).
+- 2008-07-31 — On motion to recommit with instructions Failed by recorded vote: 189 - 236 (Roll no. 555).
+- 2008-07-31 — On passage Passed by recorded vote: 247 - 178 (Roll no. 556).
+- 2008-07-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Altmire amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Altmire demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2008-07-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Cazayoux amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Andrews demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2008-07-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Giffords amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Giffords demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2008-07-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Price (GA) amendment the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Price (GA) demanded a recorded vote and pursuant to the rule, the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.
+- 2008-07-31 — Passed/agreed to in House: On passage Passed by recorded vote: 247 - 178 (Roll no. 556).
+- 2008-07-31 — Roll call votes on amendments in House
+- 2008-07-31 — Roll call votes on amendments in House
+- 2008-07-31 — Roll call votes on amendments in House
+- 2008-07-31 — Roll call votes on amendments in House
+- 2008-07-31 — Rule H. Res. 1388 passed House.
+- 2008-07-31 — Rule provides for consideration of H.R. 1338 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI.
+- 2008-07-31 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1338.
+- 2008-07-31 — The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union. (text: CR H7691-7693)
+- 2008-07-31 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2008-07-31 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1338.
+- 2008-07-31 — The Speaker designated the Honorable Michael E. Capuano to act as Chairman of the Committee.
+- 2008-07-31 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H7703)
+- 2008-07-31 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
