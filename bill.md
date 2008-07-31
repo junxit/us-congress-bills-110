@@ -58,8 +58,7 @@ Congress finds the following:
     > - **(B)** The bona fide factor defense described in subparagraph (A)(v) shall apply only if the employer demonstrates that such factor (i) is not based upon or derived from a sex-based differential in compensation; (ii) is job-related with respect to the position in question; and (iii) is consistent with business necessity. Such defense shall not apply where the employee demonstrates that an alternative employment practice exists that would serve the same business purpose without producing such differential and that the employer has refused to adopt such alternative practice.
     > - **(C)** For purposes of subparagraph (A), employees shall be deemed to work in the same establishment if the employees work for the same employer at workplaces located in the same county or similar political subdivision of a State. The preceding sentence shall not be construed as limiting broader applications of the term “establishment” consistent with rules prescribed or guidance issued by the Equal Opportunity Employment Commission.
 
-- **(b)** *Application of Provisions* Section 6(d)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(1)) is further amended by adding at the end the following: “The provisions of this subsection shall apply to applicants for employment if such applicants, upon employment by the employer, would be subject to any provisions of this section.”.
-- **(c)** *Nonretaliation provision* Section 15 of the Fair Labor Standards Act of 1938 (29 U.S.C. 215(a)(3)) is amended—
+- **(b)** *Nonretaliation provision* Section 15 of the Fair Labor Standards Act of 1938 (29 U.S.C. 215(a)(3)) is amended—
   - **(1)** in subsection (a)(3), by striking “employee has filed” and all that follows and inserting
     > employee—
     > - **(A)** has made a charge or filed any complaint or instituted or caused to be instituted any investigation, proceeding, hearing, or action under or related to this Act, including an investigation conducted by the employer, or has testified or is planning to testify or has assisted or participated in any manner in any such investigation, proceeding, hearing or action or in an investigation conducted by the employer, or has served or is planning to serve on an industry Committee; or
@@ -68,15 +67,15 @@ Congress finds the following:
   - **(2)** by adding at the end the following:
     > - **(c)** Subsection (a)(3)(B) shall not apply to instances in which an employee who has access to the wage information of other employees as a part of such employee’s essential job functions discloses the wages of such other employees to individuals who do not otherwise have access to such information, unless such disclosure is in response to a complaint or charge or in furtherance of an investigation, proceeding, hearing, or action under section 6(d) or an investigation conducted by the employer. Nothing in this subsection shall be construed to limit the rights of an employee provided under any other provision of law.
 
-- **(d)** *Enhanced penalties* Section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)) is amended—
-  - **(1)** by inserting after the first sentence the following: “Any employer who violates section 6(d) shall additionally be liable for such compensatory damages or punitive damages as may be appropriate, except that the United States shall not be liable for punitive damages.”;
+- **(c)** *Enhanced penalties* Section 16(b) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(b)) is amended—
+  - **(1)** by inserting after the first sentence the following: “Any employer who violates section 6(d) shall additionally be liable for such compensatory damages, or, where the employee demonstrates that the employer acted with malice or reckless indifference, punitive damages as may be appropriate, except that the United States shall not be liable for punitive damages.”;
   - **(2)** in the sentence beginning “An action to”, by striking “either of the preceding sentences” and inserting “any of the preceding sentences of this subsection”;
   - **(3)** in the sentence beginning “No employees shall”, by striking “No employees” and inserting “Except with respect to class actions brought to enforce section 6(d), no employee”;
   - **(4)** by inserting after the sentence referred to in paragraph (3), the following: “Notwithstanding any other provision of Federal law, any action brought to enforce section 6(d) may be maintained as a class action as provided by the Federal Rules of Civil Procedure.”; and
   - **(5)** in the sentence beginning “The court in”—
     - **(A)** by striking “in such action” and inserting “in any action brought to recover the liability prescribed in any of the preceding sentences of this subsection”; and
     - **(B)** by inserting before the period the following: “, including expert fees”.
-- **(e)** *Action by Secretary* Section 16(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(c)) is amended—
+- **(d)** *Action by Secretary* Section 16(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 216(c)) is amended—
   - **(1)** in the first sentence—
     - **(A)** by inserting “or, in the case of a violation of section 6(d), additional compensatory or punitive damages,” before “and the agreement”; and
     - **(B)** by inserting before the period the following: “, or such compensatory or punitive damages, as appropriate”;
@@ -159,4 +158,15 @@ Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by 
 
 ## § 10. Authorization of appropriations
 
-There are authorized to be appropriated $15,000,000 to carry out this Act.
+- **(a)** *Authorization of Appropriations* There are authorized to be appropriated $15,000,000 to carry out this Act.
+- **(b)** *Prohibition on Earmarks* None of the funds appropriated pursuant to subsection (a) for purposes of the grant program in section 5 of this Act may be used for a Congressional earmark as defined in clause 9(d) of rule XXI of the Rules of the House of Representatives.
+
+## § 11. Small Business Assistance
+
+- **(a)** *Effective date* This Act and the amendments made by this Act shall take effect on the date that is 6 months after the date of enactment of this Act.
+- **(b)** *Technical assistance materials* The Secretary of Labor and the Commissioner of the Equal Employment Opportunity Commission shall jointly develop technical assistance material to assist small businesses in complying with the requirements of this Act and the amendments made by this Act.
+- **(c)** *Small Businesses* A small business shall be exempt from the provisions of this Act to the same extent that such business is exempt from the requirements of the Fair Labor Standards Act pursuant to section 3(s)(1)(A)(i) and (ii) of such Act.
+
+## § 12. Rule of Construction
+
+Nothing in this Act, or in any amendments made by this Act, shall affect the obligation of employers and employees to fully comply with all applicable immigration laws, including any penalties, fines, or other sanctions.

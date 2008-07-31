@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1338
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 6 executed, 14 stated and not applied.
+19 amendatory instructions. 6 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -88,10 +88,9 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `29 U.S.C. § 206` | insert | by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 206` | add-at-end | Section 6(d)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(1)) is further amended by adding at the end the following: “The provisions of this subsection shall apply to applicants for employment if such applicants, upon emp… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 206` | replace | in subsection (a)(3), by striking “employee has filed” and all that follows and inserting | the bill quotes the text struck but describes what replaces it |
-| `29 U.S.C. § 206` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `29 U.S.C. § 216` | insert | by inserting after the first sentence the following: “Any employer who violates section 6(d) shall additionally be liable for such compensatory damages or punitive damages as may be appropriate, except that the United States shall not be… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 215` | replace | in subsection (a)(3), by striking “employee has filed” and all that follows and inserting | the bill quotes the text struck but describes what replaces it |
+| `29 U.S.C. § 215` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 216` | insert | by inserting after the first sentence the following: “Any employer who violates section 6(d) shall additionally be liable for such compensatory damages, or, where the employee demonstrates that the employer acted with malice or reckless … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 216` | insert | by inserting after the sentence referred to in paragraph (3), the following: “Notwithstanding any other provision of Federal law, any action brought to enforce section 6(d) may be maintained as a class action as provided by the Federal R… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 216` | insert | by inserting before the period the following: “, including expert fees”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 216` | insert | by inserting “or, in the case of a violation of section 6(d), additional compensatory or punitive damages,” before “and the agreement”; and | the bill quotes the text inserted but describes where it goes |
@@ -100,4 +99,4 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 216` | replace | by striking “commenced in the case” and inserting | the bill quotes the text struck but describes what replaces it |
 | `29 U.S.C. § 216` | replace | by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 216` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 2000e-8` | add-at-end | Section 709 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–8) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
