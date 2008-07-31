@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 622
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 622
@@ -66,3 +66,7 @@ A resolution designating the week beginning September 7, 2008, as "National Hist
 
 - 2008-07-24 — Introduced in Senate
 - 2008-07-24 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7301)
+- 2008-07-31 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 923.
