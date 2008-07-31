@@ -67,7 +67,7 @@ In this Act:
 
 - **(a)** *In general* Except as provided in subsection (c) and except to the extent that the Agreement otherwise conflicts with provisions of this Act, the Agreement is approved, ratified, and confirmed.
 - **(b)** *Secretarial Authorization* The Secretary is authorized and directed to execute the Agreement as approved by Congress.
-- **(c)** *Exception for tribal water marketing* Notwithstanding any language in the Agreement to the contrary, nothing in this Act authorizes the Tribes to use or authorize others to use tribal water rights off the Reservation, other than use for storage at Wild Horse Reservoir or use on tribal land off the Reservation.
+- **(c)** *Exception for tribal water marketing* Notwithstanding any language in the Agreement to the contrary, nothing in this Act authorizes the Tribes to use or authorize others to use tribal water rights off the Reservation, other than use for storage at Wild Horse Reservoir for use on tribal land and for the allocation of 265 acre feet to Upstream Water Users under the Agreement, or use on tribal land off the Reservation.
 - **(d)** *Environmental compliance* Execution of the Agreement by the Secretary under this section shall not constitute major Federal action under the National Environmental Policy Act (42 U.S.C. 4321 et seq.). The Secretary shall carry out all environmental compliance required by Federal law in implementing the Agreement.
 - **(e)** *Performance of obligations* The Secretary and any other head of a Federal agency obligated under the Agreement shall perform actions necessary to carry out an obligation under the Agreement in accordance with this Act.
 
@@ -136,7 +136,7 @@ In this Act:
   - **(3)** all claims arising out of the negotiation and adoption of the Agreement.
 - **(c)** *Retention of rights* Notwithstanding the waivers and releases set forth in subsections (a) and (b), the Tribes and their members and the United States as trustee for the Tribes and their members, shall retain—
   - **(1)** all claims for enforcement of the Agreement, the Final Consent Decree, or this Act, through such legal and equitable remedies as may be available in any court of competent jurisdiction;
-  - **(2)** all rights to use and protect water rights acquired pursuant to any state law;
+  - **(2)** all rights to use and protect water rights acquired pursuant to any State law;
   - **(3)** all claims relating to activities affecting the quality of water;
   - **(4)** all rights to land outside the Reservation; and
   - **(5)** all rights, remedies, privileges, immunities, and powers not specifically waived and released under the terms of the Agreement or this Act.
@@ -151,7 +151,7 @@ In this Act:
 - **(f)** *Tolling of claims*
   - **(1)** *In general* Each applicable period of limitation and time-based equitable defense relating to a claim described in this section shall be tolled for the period beginning on the date of enactment of this Act and ending on the date on which the amounts authorized to be appropriated under subsections (b)(3) and (c)(3) of section 8 are appropriated.
   - **(2)** *Effect of subparagraph* Nothing in this subparagraph revives any claim or tolls any period of limitation or time-based equitable defense that expired before the date of enactment of this Act.
-  - **(3)** *Future acquisition of water rights* Nothing in the Agreement or this Act precludes the Tribes, or the United States as trustee for the Tribes, from acquiring a water right in a state to the same extent as any other entity in the state, in accordance with state law.
+  - **(3)** *Future acquisition of water rights* Nothing in the Agreement or this Act precludes the Tribes, or the United States as trustee for the Tribes, from acquiring a water right in a State to the same extent as any other entity in the State, in accordance with State law.
 
 ## § 10. Miscellaneous
 
