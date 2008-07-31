@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1388
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1388
@@ -27,3 +27,11 @@ Providing for consideration of the bill (H.R. 1338) to amend the Fair Labor Stan
 - 2008-07-30 — Placed on the House Calendar, Calendar No. 256.
 - 2008-07-30 — The House Committee on Rules reported an original measure, H. Rept. 110-807, by Ms. Slaughter.
 - 2008-07-30 — The House Committee on Rules reported an original measure, H. Rept. 110-807, by Ms. Slaughter.
+- 2008-07-31 — Considered as privileged matter. (consideration: CR H7637-7642)
+- 2008-07-31 — Considered as unfinished business. (consideration: CR H7676-7677)
+- 2008-07-31 — DEBATE - The House proceeded with one hour of debate on H. Res. 1388.
+- 2008-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 194 (Roll no. 548). (text: CR H7637)
+- 2008-07-31 — On ordering the previous question Agreed to by the Yeas and Nays: 232 - 191 (Roll no. 547). (consideration: CR H7642, H7676)
+- 2008-07-31 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1388, the Chair put the question on adoption of ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Lincoln Diaz-Balart (FL) demanded the yeas and nays, and the Chair postponed further proceedings on adoption until later in the legislative day.
+- 2008-07-31 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 229 - 194 (Roll no. 548).(text: CR H7637)
