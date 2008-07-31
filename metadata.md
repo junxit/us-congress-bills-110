@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5938
@@ -16,15 +16,17 @@ Former Vice President Protection Act of 2008
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Gohmert, Louie [R-TX-1] (G000552)
+- Sen. Specter, Arlen [R-PA] (S000709)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +48,15 @@ Former Vice President Protection Act of 2008
 - 2008-06-09 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.
 - 2008-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5063)
 - 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H5063)
+- 2008-06-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-07-30 — Amendment SA 5257 agreed to in Senate by Unanimous Consent.
+- 2008-07-30 — Amendment SA 5257 proposed by Senator Pryor for Senator Leahy. (consideration: CR S7797-7798; text: CR S7797-7798) To amend title 18, United States Code, to enable increased federal prosecution of identity theft crimes and to allow for restitution to victims of identity theft.
+- 2008-07-30 — Measure laid before Senate by unanimous consent. (consideration: CR S7797-7798)
+- 2008-07-30 — Passed Senate with amendments by Unanimous Consent.
+- 2008-07-30 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2008-07-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-07-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-07-30 — Senate amendment agreed to: Amendment SA 5257 agreed to in Senate by Unanimous Consent.
+- 2008-07-30 — Senate amendment proposed (on the floor): Amendment SA 5257 proposed by Senator Pryor for Senator Leahy.(consideration: CR S7797-7798; text: CR S7797-7798)
+- 2008-07-30 — Senate amendment submitted
+- 2008-07-31 — Message on Senate action sent to the House.
