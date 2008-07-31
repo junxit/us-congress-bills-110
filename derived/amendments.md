@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6225
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 3 executed, 12 stated and not applied.
+16 amendatory instructions. 2 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 38 U.S.C. § 4323
-
-> Section 4323(e) of title 38, United States Code, is amended by striking “may use” and inserting “shall use, in any case in which the court determines it is appropriate,”.
-
-| | |
-|---|---|
-| Removed | `may use` |
-| Inserted | `shall use, in any case in which the court determines it is appropriate,` |
 
 ### 38 U.S.C. § 4323
 
@@ -71,4 +62,6 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 431` | amend | The heading for such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 431` | amend | The item relating to such section in the table of contents in section 1(b) of such Act is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “A servicemember” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the subsection designation and heading and all that follows through “Compensation” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
