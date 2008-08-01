@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4137
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4137
@@ -56,13 +56,15 @@ Higher Education Opportunity Act
 - House — Education and the Workforce Committee
 - Senate — Health, Education, Labor, and Pensions Committee
 
-## Recorded votes (5)
+## Recorded votes (7)
 
 - 2008-02-07 — [House 110-2-36](votes/house-110-2-0036.md) — On Agreeing to the Amendment — **Agreed to** (260–153)
 - 2008-02-07 — [House 110-2-37](votes/house-110-2-0037.md) — On Agreeing to the Amendment — **Agreed to** (222–191)
 - 2008-02-07 — [House 110-2-38](votes/house-110-2-0038.md) — On Agreeing to the Amendment — **Failed** (179–236)
 - 2008-02-07 — [House 110-2-39](votes/house-110-2-0039.md) — On Motion to Recommit with Instructions — **Failed** (194–216)
 - 2008-02-07 — [House 110-2-40](votes/house-110-2-0040.md) — On Passage — **Passed** (354–58)
+- 2008-07-31 — [House 110-2-544](votes/house-110-2-0544.md) — On Agreeing to the Conference Report — **Passed** (380–49)
+- 2008-07-31 — [Senate 110-2-194](votes/senate-110-2-0194.md) — On the Conference Report — **Conference Report Agreed to** (83–8)
 
 ## Actions
 
@@ -299,3 +301,13 @@ Higher Education Opportunity Act
 - 2008-07-29 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 951 and 952 of the House bill, and secs. 951 and 952 of the Senate amendment, and modifications committed to conference: Conyers, Waters, and Gohmert.
 - 2008-07-30 — Conference report H. Rept. 110-803 filed. (text of conference report: CR H7353-7517)
 - 2008-07-30 — Conference report filed: Conference report H. Rept. 110-803 filed.(text of conference report: CR H7353-7517)
+- 2008-07-31 — Cleared for White House.
+- 2008-07-31 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 380 - 49 (Roll no. 544).(consideration: CR H7673)
+- 2008-07-31 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 83 - 8. Record Vote Number: 194.(consideration: CR S7878)
+- 2008-07-31 — Conference report considered in Senate.
+- 2008-07-31 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 4137.
+- 2008-07-31 — Message on Senate action sent to the House.
+- 2008-07-31 — Motions to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — Mr. Miller, George brought up conference report H. Rept. 110-803 for consideration under the provisions of H. Res. 1389. (consideration: CR H7658-7673)
+- 2008-07-31 — On agreeing to the conference report Agreed to by the Yeas and Nays: 380 - 49 (Roll no. 544). (consideration: CR H7673)
+- 2008-07-31 — Senate agreed to conference report by Yea-Nay Vote. 83 - 8. Record Vote Number: 194. (consideration: CR S7878)
