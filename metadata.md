@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2245
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 2245
@@ -16,9 +16,10 @@ To designate the Department of Veterans Affairs outpatient clinic in Wenatchee, 
 
 - Rep. Hastings, Doc [R-WA-4] (H000329)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,10 @@ To designate the Department of Veterans Affairs outpatient clinic in Wenatchee, 
 - 2008-06-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-06-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/24/2008 H5969)
 - 2008-06-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/24/2008 H5969)
+- 2008-06-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2008-08-01 — Cleared for White House.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate without amendment by Unanimous Consent.
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-08-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent. (consideration: CR S8003)
+- 2008-08-01 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.(consideration: CR S8003)
