@@ -1,7 +1,7 @@
 ---
 measure: S. 3241
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3241
@@ -33,3 +33,6 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2008-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 913.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7984; text as passed Senate: CR S7984)
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7984; text as passed Senate: CR S7984)
