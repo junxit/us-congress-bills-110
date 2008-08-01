@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6150
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6150
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 14500 L
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Pryce, Deborah [R-OH-15] (P000555)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,12 @@ To designate the facility of the United States Postal Service located at 14500 L
 - 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/17/2008 H5437)
 - 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/17/2008 H5437)
+- 2008-06-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 920.
+- 2008-08-01 — Cleared for White House.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7984)
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7984)
