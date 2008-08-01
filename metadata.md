@@ -1,7 +1,7 @@
 ---
 measure: S. 3295
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3295
@@ -36,3 +36,12 @@ A bill to amend title 35, United States Code, and the Trademark Act of 1946 to p
 - 2008-07-23 — Message on Senate action sent to the House.
 - 2008-07-23 — Received in the House.
 - 2008-07-23 — Referred to the House Committee on the Judiciary.
+- 2008-07-29 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. King (IA) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-07-29 — Considered under suspension of the rules. (consideration: CR H7233-7235)
+- 2008-07-29 — DEBATE - The House proceeded with forty minutes of debate on S. 3295.
+- 2008-07-29 — Mr. Cohen moved to suspend the rules and pass the bill.
+- 2008-07-31 — Cleared for White House.
+- 2008-07-31 — Considered as unfinished business. (consideration: CR H7707)
+- 2008-07-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/29/2008 H7233-7234)
+- 2008-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/29/2008 H7233-7234)
