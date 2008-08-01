@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5683
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5683
@@ -27,9 +27,10 @@ Government Accountability Office Act of 2008
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 - Rep. Filner, Bob [D-CA-51] (F000116)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,18 @@ Government Accountability Office Act of 2008
 - 2008-06-09 — Mr. Davis (IL) moved to suspend the rules and pass the bill, as amended.
 - 2008-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5080-5082)
 - 2008-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5080-5082)
+- 2008-06-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2008-07-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2008-07-26 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. Without written report.
+- 2008-07-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 901.
+- 2008-08-01 — Amendment SA 5264 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Amendment SA 5264 proposed by Senator Reid for Senator Lieberman. (consideration: CR S8073) To make certain reforms with respect to the Government Accountability Office, and for other purposes.
+- 2008-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S8070-8073; text of measure as reported in Senate: CR S8071-8073)
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-08-01 — Senate amendment agreed to: Amendment SA 5264 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Senate amendment proposed (on the floor): Amendment SA 5264 proposed by Senator Reid for Senator Lieberman.(consideration: CR S8073)
+- 2008-08-01 — Senate amendment submitted
+- 2008-08-01 — The committee amendments were withdrawn by Unanimous Consent.
