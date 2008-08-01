@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6340
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6340
@@ -67,3 +67,7 @@ To designate the Federal building and United States courthouse located at 300 Qu
 - 2008-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7174)
 - 2008-07-29 — Received in the Senate, read twice.
 - 2008-07-29 — The title of the measure was amended. Agreed to without objection.
+- 2008-08-01 — Cleared for White House.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8004)
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8004)
