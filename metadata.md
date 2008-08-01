@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6580
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6580
@@ -48,3 +48,8 @@ Hubbard Act
 - 2008-07-29 — Mr. Kind moved to suspend the rules and pass the bill.
 - 2008-07-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7276-7278)
 - 2008-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7276-7278)
+- 2008-07-30 — Received in the Senate, read twice.
+- 2008-08-01 — Cleared for White House.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8004-8005)
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8004-8005)
