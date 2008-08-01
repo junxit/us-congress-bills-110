@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 318
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 318
@@ -81,3 +81,7 @@ Supporting the goals and ideals of the International Year of Sanitation.
 - 2008-06-10 — Mr. Payne moved to suspend the rules and agree to the resolution, as amended.
 - 2008-06-10 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0, 1 Present (Roll no. 395). (text: CR H5145-5146)
 - 2008-06-10 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 411 - 0, 1 Present (Roll no. 395).(text: CR H5145-5146)
+- 2008-06-11 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 775.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8016)
+- 2008-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8016)
