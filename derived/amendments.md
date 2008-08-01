@@ -1,7 +1,7 @@
 ---
 measure: S. 2840
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,5 +33,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | by striking “the Bureau of” each place it appears and inserting “United States”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | repeal | This Act and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 451 of the Homeland Security Act of 2002 (6 U.S.C. 271) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | repeal | This Act and the amendments made by this Act are repealed on the date that is 5 years after the date of the enactment of this Act. | the bill names no machine-readable US Code section |

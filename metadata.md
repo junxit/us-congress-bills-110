@@ -1,7 +1,7 @@
 ---
 measure: S. 2840
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2840
@@ -16,9 +16,13 @@ Military Personnel Citizenship Processing Act
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
 
 ## Committees (1)
 
@@ -28,3 +32,8 @@ Military Personnel Citizenship Processing Act
 
 - 2008-04-10 — Introduced in Senate
 - 2008-04-10 — Read twice and referred to the Committee on the Judiciary.
+- 2008-05-08 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-08-01 — An errata sheet on written report No. 110-440 was printed.
+- 2008-08-01 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. With written report No. 110-440.
+- 2008-08-01 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. With written report No. 110-440.
+- 2008-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 936.
