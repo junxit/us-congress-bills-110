@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 624
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 624
@@ -38,3 +38,5 @@ A resolution designating August 2008 as "National Truancy Prevention Month".
 - 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 924.
+- 2008-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8015-8016; text as passed Senate: CR S8015-8016)
+- 2008-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8015-8016; text as passed Senate: CR S8015-8016)
