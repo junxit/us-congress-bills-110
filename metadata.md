@@ -1,7 +1,7 @@
 ---
 measure: S. 3370
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3370
@@ -39,3 +39,5 @@ Libyan Claims Resolution Act
 - 2008-07-31 — Passed/agreed to in House: On passage Passed without objection.(text: CR H7705-7706)
 - 2008-07-31 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7979-7981; text as passed Senate: CR S7980-7981)
 - 2008-07-31 — Received in the House.
+- 2008-08-01 — Presented to President.
+- 2008-08-01 — Presented to President.
