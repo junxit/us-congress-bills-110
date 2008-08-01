@@ -2,12 +2,14 @@
 legis-num: H.R. 5683
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 5683
 
-> To make certain reforms with respect to the Government Accountability Office, and for other purposes.
+That the bill from the House of Representatives (H.R. 5683) entitled “An Act to make certain reforms with respect to the Government Accountability Office, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title; references; table of contents
 
@@ -45,18 +47,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Pay increase defined* For purposes of this section, the term pay increase, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under sections 731(b) and 732(c)(3) of title 31, United States Code, in such year.
 - **(c)** *Prospective effect* Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 - **(d)** *Lump-sum payment* Not later than 6 months after the date of the enactment of this Act, the Comptroller General shall, subject to the availability of appropriations, pay to each individual to whom this section applies a lump-sum payment. Subject to subsection (e), such lump-sum payment shall be equal to—
-  - **(1)** the total amount of basic pay that would have been paid to the individual, for service performed during the period beginning on the effective date of the pay increase for 2006 and ending on the day before the effective date of the pay adjustment under subsection (c) (or, if earlier, the date on which the individual retires or otherwise ceases to be employed by the Government Accountability Office), if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, minus
-  - **(2)** the total amount of basic pay that was in fact paid to the individual for service performed during the period described in paragraph (1).
+  - **(1)**
+    - **(A)** the total amount of basic pay that would have been paid to the individual, for service performed during the period beginning on the effective date of the pay increase for 2006 and ending on the day before the effective date of the pay adjustment under subsection (c) (or, if earlier, the date on which the individual retires or otherwise ceases to be employed by the Government Accountability Office), if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, minus
+    - **(B)** the total amount of basic pay that was in fact paid to the individual for service performed during the period described in subparagraph (A); and
+  - **(2)** increased by 4 percent of the amount calculated under paragraph (1).
 - **(e)** *Conditions* Nothing in subsection (c) or (d) shall be considered to permit or require—
-  - **(1)** the payment of any rate (or lump-sum amount based on a rate) for any pay period, to the extent that such rate would be (or would have been) inconsistent with the limitation that applies (or that applied) with respect to such pay period under section 732(c)(2) of title 31, United States Code; or
+  - **(1)** the payment of any rate (or portion of the lump-sum amount as calculated under subsection (d)(1) based on a rate) for any pay period, to the extent that such rate would be (or would have been) inconsistent with the limitation that applies (or that applied) with respect to such pay period under section 732(c)(2) of title 31, United States Code; or
   - **(2)** the payment of any rate or amount based on the pay increase for 2006 or 2007 (as the case may be), if—
     - **(A)** the performance of the officer or employee involved was not at a satisfactory level, as determined by the Comptroller General under paragraph (3) of section 732(c) of such title 31 for purposes of the adjustment under such paragraph for that year; or
     - **(B)** the individual involved was not an officer or employee of the Government Accountability Office on the date as of which that increase took effect.
 - **(f)** *Retirement*
-  - **(1)** *In general* The lump-sum payment paid under subsection (d) to an officer or employee shall, for purposes of any determination of the average pay (as defined by section 8331 or 8401 of title 5, United States Code) which is used to compute an annuity under subchapter III of chapter 83 or chapter 84 of such title—
+  - **(1)** *In general* The portion of the lump-sum payment paid under subsection (d) to an officer or employee as calculated under subsection (d)(1) shall, for purposes of any determination of the average pay (as defined by section 8331 or 8401 of title 5, United States Code) which is used to compute an annuity under subchapter III of chapter 83 or chapter 84 of such title—
     - **(A)** be treated as basic pay (as defined by section 8331 or 8401 of such title); and
     - **(B)** be allocated to the biweekly pay periods covered by subsection (d).
-  - **(2)** *Contributions* Notwithstanding section 8334, 8422, 8423, or any other provision of title 5, United States Code, no employee or agency contribution shall be required for purposes of this subsection.
+  - **(2)** *Contributions to Civil Service Retirement and Disability Retirement Fund*
+    - **(A)** *Employee contributions* The Government Accountability Office shall deduct and withhold from the lump-sum payment paid to each employee under subsection (d) an amount equal to the difference between—
+      - **(i)** employee contributions that would have been deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, if the portion of the lump-sum payment as calculated under subsection (d)(1) had been additionally paid as basic pay during the period described under subsection (d)(1) of this section; and
+      - **(ii)** employee contributions that were actually deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during that period.
+    - **(B)** *Agency contributions and payment to the Fund* Not later than 9 months after the Government Accountability Office makes the lump-sum payments under subsection (d), the Government Accountability Office shall pay into the Civil Service Retirement and Disability Fund—
+      - **(i)** the amount of each deduction and withholding under subparagraph (A); and
+      - **(ii)** an amount for applicable agency contributions under section 8334 or 8423 of title 5, United states Code, based on payments made under clause (i).
 - **(g)** *Exclusive remedy* This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.
 
 ## § 4. Lump-sum payment for certain performance-based compensation
@@ -113,8 +123,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(2)** The Comptroller General shall transmit the semiannual reports of the Inspector General, together with any comments the Comptroller General considers appropriate, to Congress within 30 days after receipt of such reports.
   > - **(f)** *Independence in carrying out duties and responsibilities* The Comptroller General may not prevent or prohibit the Inspector General from carrying out any of the duties or responsibilities of the Inspector General under this section.
   > - **(g)** *Authority for staff*
-  >   - **(1)** *In general* The Inspector General shall select, appoint, and employ such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
-  >   - **(2)** *Experts and consultants* The Inspector General may procure temporary and intermittent services under section 3109 of title 5 at rates not to exceed the daily equivalent of the annual rate of basic pay for level V of the Executive Schedule under section 5315 of such title.
+  >   - **(1)** *In general* The Inspector General shall select, appoint, and employ (including fixing and adjusting the rates of pay of) such personnel as may be necessary to carry out this section consistent with the provisions of this title governing selections, appointments, and employment (including the fixing and adjusting the rates of pay) in the Government Accountability Office. Such personnel shall be appointed, promoted, and assigned only on the basis of merit and fitness, but without regard to those provisions of title 5 governing appointments and other personnel actions in the competitive service, except that no personnel of the Office may be paid at an annual rate greater than $1,000 less than the annual rate of pay of the Inspector General.
+  >   - **(2)** *Experts and consultants* The Inspector General may procure temporary and intermittent services under section 3109 of title 5 at rates not to exceed the daily equivalent of the annual rate of basic pay for level IV of the Executive Schedule under section 5315 of such title.
   >   - **(3)** *Independence in appointing staff* No individual may carry out any of the duties or responsibilities of the Office of the Inspector General unless the individual is appointed by the Inspector General, or provides services obtained by the Inspector General, pursuant to this paragraph.
   >   - **(4)** *Limitation on program responsibilities* The Inspector General and any individual carrying out any of the duties or responsibilities of the Office of the Inspector General are prohibited from performing any program responsibilities.
   > - **(h)** *Office space* The Comptroller General shall provide the Office of the Inspector General—
@@ -131,11 +141,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *In general* Section 3521 is amended by adding at the end the following:
   > - **(i)**
-  >   - **(1)** If the Government Accountability Office audits any financial statement or related schedule which is prepared under section 3515 by an executive agency (or component thereof) for a fiscal year beginning on or after October 1, 2009, such executive agency (or component) shall reimburse the Government Accountability Office for the cost of such audit if—
-  >     - **(A)** the statement or schedule audited is that of an executive agency (or component) which submitted a financial statement or related schedule under section 3515 for fiscal year 2007 which was audited by the Government Accountability Office; or
-  >     - **(B)** the reason for the audit (described in the matter before subparagraph (A)) is because of the Comptroller General’s determination of materiality to the statements required under section 331(e).
-  >   - **(2)** Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests the Government Accountability Office to audit such statement or any related schedule may reimburse the Government Accountability Office for the cost of such audit.
-  >   - **(3)** Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
+  >   - **(1)** If the Government Accountability Office audits any financial statement or related schedule which is prepared under section 3515 by an executive agency (or component thereof) for a fiscal year beginning on or after October 1, 2009, such executive agency (or component) shall reimburse the Government Accountability Office for the cost of such audit, if the Government Accountability Office audited the statement or schedule of such executive agency (or component) for fiscal year 2007.
+  >   - **(2)** Any executive agency (or component thereof) that prepares a financial statement under section 3515 for a fiscal year beginning on or after October 1, 2009, and that requests, with the concurrence of the Inspector General of such agency, the Government Accountability Office to conduct the audit of such statement or any related schedule required by section 3521 may reimburse the Government Accountability Office for the cost of such audit.
+  >   - **(3)** For the audits conducted under paragraphs (1) and (2), the Government Accountability Office shall consult prior to the initiation of the audit with the relevant executive agency (or component) and the Inspector General of such agency on the scope, terms, and cost of such audit.
+  >   - **(4)** Any reimbursement under paragraph (1) or (2) shall be deposited to a special account in the Treasury and shall be available to the Government Accountability Office for such purposes and in such amounts as are specified in annual appropriations Acts.
 
 - **(b)** *Conforming amendment* Section 1401 of title I of Public Law 108–83 (31 U.S.C. 3523 note) is repealed, effective October 1, 2010.
 
