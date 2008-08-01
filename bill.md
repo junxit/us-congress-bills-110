@@ -1,13 +1,15 @@
 ---
 legis-num: H.R. 2608
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 2608
 
-> To amend section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to provide, in fiscal years 2008 through 2010, extensions of supplemental security income for refugees, asylees, and certain other humanitarian immigrants, and to amend the Internal Revenue Code to collect unemployment compensation debts resulting from fraud.
+That the bill from the House of Representatives (H.R. 2608) entitled “An Act to amend section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to provide, in fiscal years 2008 through 2010, extensions of supplemental security income for refugees, asylees, and certain other humanitarian immigrants, and to amend the Internal Revenue Code to collect unemployment compensation debts resulting from fraud.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short Title
 
@@ -17,13 +19,22 @@ This Act may be cited as the “SSI Extension for Elderly and Disabled Refugees 
 
 Section 402(a)(2) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(a)(2)) is amended by adding at the end the following:
 
-> - **(M)** *SSI extensions through fiscal year 2010*
->   - **(i)** *Two-year extension*
->     - **(I)** *In general* Except as provided in clause (ii), with respect to eligibility for benefits for the specified Federal program described in paragraph (3)(A), the 7-year period described in subparagraph (A) shall be deemed to be a 9-year period during fiscal years 2008 through 2010.
->     - **(II)** *Aliens whose benefits ceased in prior fiscal years*
->       - **(aa)** *In general* Beginning on the date of the enactment of the SSI Extension for Elderly and Disabled Refugees Act, any qualified alien rendered ineligible for the specified Federal program described in paragraph (3)(A) during fiscal years prior to fiscal year 2008 solely by reason of the termination of the 7-year period described in subparagraph (A) shall be eligible for such program for an additional 2-year period in accordance with this clause, if such alien meets all other eligibility factors under title XVI of the Social Security Act.
->       - **(bb)** *Payment of benefits* Benefits paid under item (aa) shall be paid prospectively over the duration of the qualified alien’s renewed eligibility.
->   - **(ii)** *Pending naturalization application* With respect to eligibility for benefits for the specified program described in paragraph (3)(A), subsection (a)(1) shall not apply during fiscal years 2008 through 2010 to an alien described in one of clauses (i) through (v) of subparagraph (A), if the alien has submitted an application for naturalization that is pending before the Secretary of Homeland Security, and such submission is verified by the Commissioner of Social Security either by receiving a receipt number from the alien for such submitted application or by receiving confirmation from the Secretary of Homeland Security.
+> - **(M)** *SSI extensions through fiscal year 2011*
+>   - **(i)** *Two-year extension for certain aliens and victims of trafficking*
+>     - **(I)** *In general* Subject to clause (ii), with respect to eligibility for benefits under subparagraph (A) for the specified Federal program described in paragraph (3)(A) of qualified aliens (as defined in section 431(b)) and victims of trafficking in persons (as defined in section 107(b)(1)(C) of division A of the Victims of Trafficking and Violence Protection Act of 2000 (Public Law 106–386) or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act), the 7-year period described in subparagraph (A) shall be deemed to be a 9-year period during fiscal years 2009 through 2011 in the case of such a qualified alien or victim of trafficking who furnishes to the Commissioner of Social Security the declaration required under subclause (IV) (if applicable) and is described in subclause (III).
+>     - **(II)** *Aliens and victims whose benefits ceased in prior fiscal years* Subject to clause (ii), beginning on the date of the enactment of the SSI Extension for Elderly and Disabled Refugees Act, any qualified alien (as defined in section 431(b)) or victim of trafficking in persons (as defined in section 107(b)(1)(C) of division A of the Victims of Trafficking and Violence Protection Act of 2000 (Public Law 106–386) or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act) rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A) shall be eligible for such program for an additional 2-year period in accordance with this clause, if such qualified alien or victim of trafficking meets all other eligibility factors under title XVI of the Social Security Act, furnishes to the Commissioner of Social Security the declaration required under subclause (IV) (if applicable), and is described in subclause (III).
+>     - **(III)** *Aliens and victims described* For purposes of subclauses (I) and (II), a qualified alien or victim of trafficking described in this subclause is an alien or victim who—
+>       - **(aa)** has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act, or terminated through removal proceedings under section 240 of the Immigration and Nationality Act, and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+>       - **(bb)** has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
+>       - **(cc)** has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96–422), for purposes of the specified Federal program described in paragraph (3)(A);
+>       - **(dd)** has had his or her deportation withheld by the Secretary of Homeland Security under section 243(h) of the Immigration and Nationality Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208), or whose removal is withheld under section 241(b)(3) of such Act;
+>       - **(ee)** has not attained age 18; or
+>       - **(ff)** has attained age 70.
+>     - **(IV)** *Declaration required*
+>       - **(aa)** *In general* For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+>       - **(bb)** *Exception for children* A qualified alien or victim of trafficking described in subclause (I) or (II) who has not attained age 18 shall not be required to furnish to the Commissioner of Social Security a declaration described in item (aa) as a condition of being eligible for the specified Federal program described in paragraph (3)(A) for an additional 2-year period in accordance with this clause.
+>     - **(V)** *Payment of benefits to aliens whose benefits ceased in prior fiscal years* Benefits paid to a qualified alien or victim described in subclause (II) shall be paid prospectively over the duration of the qualified alien’s or victim's renewed eligibility.
+>   - **(ii)** *Special rule in case of pending or approved naturalization application* With respect to eligibility for benefits for the specified program described in paragraph (3)(A), paragraph (1) shall not apply during fiscal years 2009 through 2011 to an alien described in one of clauses (i) through (v) of subparagraph (A) or a victim of trafficking in persons (as defined in section 107(b)(1)(C) of division A of the Victims of Trafficking and Violence Protection Act of 2000 (Public Law 106–386) or as granted status under section 101(a)(15)(T)(ii) of the Immigration and Nationality Act), if such alien or victim (including any such alien or victim rendered ineligible for the specified Federal program described in paragraph (3)(A) during the period beginning on August 22, 1996, and ending on September 30, 2008, solely by reason of the termination of the 7-year period described in subparagraph (A)) has filed an application for naturalization that is pending before the Secretary of Homeland Security or a United States district court based on section 336(b) of the Immigration and Nationality Act, or has been approved for naturalization but not yet sworn in as a United States citizen, and the Commissioner of Social Security has verified, through procedures established in consultation with the Secretary of Homeland Security, that such application is pending or has been approved.
 
 ## § 3. Collection of unemployment compensation debts resulting from fraud
 
@@ -39,27 +50,33 @@ Section 402(a)(2) of the Personal Responsibility and Work Opportunity Reconcilia
   >       - **(ii)** subsection (c) with respect to past-due support; and
   >       - **(iii)** subsection (d) with respect to any past-due, legally enforceable debt owed to a Federal agency; and
   >     - **(B)** before such overpayment is credited to the future liability for any Federal internal revenue tax of such person pursuant to subsection (b).
-  >   - **(3)** *Notice; consideration of evidence* No State may take action under this subsection until such State—
-  >     - **(A)** notifies the person owing the covered unemployment compensation debt that the State proposes to take action pursuant to this section;
+  >   - **(3)** *Offset permitted only against residents of State seeking offset* Paragraph (1) shall apply to an overpayment by any person for a taxable year only if the address shown on the Federal return for such taxable year of the overpayment is an address within the State seeking the offset.
+  >   - **(4)** *Notice; consideration of evidence* No State may take action under this subsection until such State—
+  >     - **(A)** notifies by certified mail with return receipt the person owing the covered unemployment compensation debt that the State proposes to take action pursuant to this section;
   >     - **(B)** provides such person at least 60 days to present evidence that all or part of such liability is not legally enforceable or due to fraud;
   >     - **(C)** considers any evidence presented by such person and determines that an amount of such debt is legally enforceable and due to fraud; and
   >     - **(D)** satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C) is valid and that the State has made reasonable efforts to obtain payment of such covered unemployment compensation debt.
-  >   - **(4)** *Covered unemployment compensation debt* For purposes of this subsection, the term “covered unemployment compensation debt” means—
-  >     - **(A)** a past-due debt for erroneous payment of unemployment compensation due to fraud which has become final under the law of a State certified by the Secretary of Labor pursuant to section 3304 and which remains uncollected;
-  >     - **(B)** contributions due to the unemployment fund of a State for which the State has determined the person to be liable due to fraud; and
+  >   - **(5)** *Covered unemployment compensation debt* For purposes of this subsection, the term “covered unemployment compensation debt” means—
+  >     - **(A)** a past-due debt for erroneous payment of unemployment compensation due to fraud which has become final under the law of a State certified by the Secretary of Labor pursuant to section 3304 and which remains uncollected for not more than 10 years;
+  >     - **(B)** contributions due to the unemployment fund of a State for which the State has determined the person to be liable due to fraud and which remain uncollected for not more than 10 years; and
   >     - **(C)** any penalties and interest assessed on such debt.
-  >   - **(5)** *Regulations*
+  >   - **(6)** *Regulations*
   >     - **(A)** *In general* The Secretary may issue regulations prescribing the time and manner in which States must submit notices of covered unemployment compensation debt and the necessary information that must be contained in or accompany such notices. The regulations may specify the minimum amount of debt to which the reduction procedure established by paragraph (1) may be applied.
   >     - **(B)** *Fee payable to Secretary* The regulations may require States to pay a fee to the Secretary, which may be deducted from amounts collected, to reimburse the Secretary for the cost of applying such procedure. Any fee paid to the Secretary pursuant to the preceding sentence shall be used to reimburse appropriations which bore all or part of the cost of applying such procedure.
   >     - **(C)** *Submission of notices through Secretary of Labor* The regulations may include a requirement that States submit notices of covered unemployment compensation debt to the Secretary via the Secretary of Labor in accordance with procedures established by the Secretary of Labor. Such procedures may require States to pay a fee to the Secretary of Labor to reimburse the Secretary of Labor for the costs of applying this subsection. Any such fee shall be established in consultation with the Secretary of the Treasury. Any fee paid to the Secretary of Labor may be deducted from amounts collected and shall be used to reimburse the appropriation account which bore all or part of the cost of applying this subsection.
-  >   - **(6)** *Erroneous payment to state* Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
+  >   - **(7)** *Erroneous payment to state* Any State receiving notice from the Secretary that an erroneous payment has been made to such State under paragraph (1) shall pay promptly to the Secretary, in accordance with such regulations as the Secretary may prescribe, an amount equal to the amount of such erroneous payment (without regard to whether any other amounts payable to such State under such paragraph have been paid to such State).
+  >   - **(8)** *Termination* This section shall not apply to refunds payable after the date which is 10 years after the date of the enactment of this subsection.
 
 - **(b)** *Disclosure of certain information to States requesting refund offsets for legally enforceable state unemployment compensation debt resulting from fraud*
   - **(1)** *General rule* Paragraph (3) of section 6103(a) of such Code is amended by inserting “(10),” after “(6),”.
   - **(2)** *Disclosure to Department of Labor and its agent* Paragraph (10) of section 6103(l) of such Code is amended—
     - **(A)** by striking “(c), (d), or (e)” each place it appears in the heading and text and inserting “(c), (d), (e), or (f)”,
-    - **(B)** in subparagraph (A) by inserting “, to officers and employees of the Department of Labor and its agent for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) of section 6402,” after “section 6402”, and
-    - **(C)** in subparagraph (B) by inserting “, and any agents of the Department of Labor,” after “agency” the first place it appears.
+    - **(B)** in subparagraph (A) by inserting “, to officers and employees of the Department of Labor for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) of section 6402,” after “section 6402”, and
+    - **(C)** in subparagraph (B)—
+      - **(i)** by inserting “(i)” after “(B)”; and
+      - **(ii)** by adding at the end the following:
+        > - **(ii)** Notwithstanding clause (i), return information disclosed to officers and employees of the Department of Labor may be accessed by agents who maintain and provide technological support to the Department of Labor’s Interstate Connection Network (ICON) solely for the purpose of providing such maintenance and support.
+
   - **(3)** *Safeguards* Paragraph (4) of section 6103(p) of such Code is amended—
     - **(A)** in the matter preceding subparagraph (A), by striking “(l)(16),” and inserting “(l)(10), (16),”;
     - **(B)** in subparagraph (F)(i), by striking “(l)(16),” and inserting “(l)(10), (16),”; and

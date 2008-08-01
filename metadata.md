@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2608
@@ -16,7 +16,7 @@ SSI Extension for Elderly and Disabled Refugees Act
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Cosponsors (15)
+## Cosponsors (18)
 
 - Rep. Weller, Jerry [R-IL-11] (W000273)
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
@@ -33,6 +33,9 @@ SSI Extension for Elderly and Disabled Refugees Act
 - Rep. McCollum, Betty [D-MN-4] (M001143)
 - Rep. Ellison, Keith [D-MN-5] (E000288)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
 ## Committees (2)
 
@@ -52,3 +55,19 @@ SSI Extension for Elderly and Disabled Refugees Act
 - 2007-07-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H7559-7560)
 - 2007-07-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H7559-7560)
 - 2007-07-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2008-08-01 — Amendment SA 5260 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Amendment SA 5260 proposed by Senator Cantwell for Senator Smith. (consideration: CR S8004) In the nature of a substitute.
+- 2008-08-01 — Amendment SA 5261 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Amendment SA 5261 proposed by Senator Cantwell for Senator Smith. (consideration: CR S8004; text: CR S8004) To amend the title.
+- 2008-08-01 — Measure laid before Senate by unanimous consent. (consideration: CR S8003-8004)
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2008-08-01 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2008-08-01 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2008-08-01 — Senate amendment agreed to: Amendment SA 5260 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Senate amendment agreed to: Amendment SA 5261 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Senate amendment proposed (on the floor): Amendment SA 5260 proposed by Senator Cantwell for Senator Smith.(consideration: CR S8004)
+- 2008-08-01 — Senate amendment proposed (on the floor): Amendment SA 5261 proposed by Senator Cantwell for Senator Smith.(consideration: CR S8004; text: CR S8004)
+- 2008-08-01 — Senate amendment submitted
+- 2008-08-01 — Senate amendment submitted

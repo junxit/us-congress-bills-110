@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-19 amendatory instructions. 0 executed, 19 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,8 +35,9 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | Section 6402 of the Internal Revenue Code (relating to authority to make credits or refunds) is amended by redesignating subsections (f) through (k) as subsections (g) through (l), respectively, and by inserting after subsection (e) the … | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (3) of section 6103(a) of such Code is amended by inserting “(10),” after “(6),”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “(c), (d), or (e)” each place it appears in the heading and text and inserting “(c), (d), (e), or (f)”, | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A) by inserting “, to officers and employees of the Department of Labor and its agent for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) of section 6402,” after “s… | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B) by inserting “, and any agents of the Department of Labor,” after “agency” the first place it appears. | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (A) by inserting “, to officers and employees of the Department of Labor for purposes of facilitating the exchange of data in connection with a request made under subsection (f)(5) of section 6402,” after “section 6402”, and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(i)” after “(B)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “(l)(16),” and inserting “(l)(10), (16),”; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (F)(i), by striking “(l)(16),” and inserting “(l)(10), (16),”; and | the bill names no machine-readable US Code section |
 | — | replace | in each of the first two places it appears, by striking “(l)(16),” and inserting “(l)(10), (16),”; | the bill names no machine-readable US Code section |
@@ -44,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in each of the last two places it appears, by striking “(l)(16)” and inserting “(l)(10) or (16)”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (E), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (F), by inserting “and” after the semicolon; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Subsection (a) of section 6402 of such Code is amended by striking “(c), (d), and (e),” and inserting “(c), (d), (e), and (f)”. | the bill names no machine-readable US Code section |
 | — | replace | Paragraph (2) of section 6402(d) of such Code is amended by striking “and before such overpayment is reduced pursuant to subsection (e)” and inserting “and before such overpayment is reduced pursuant to subsections (e) and (f)”. | the bill names no machine-readable US Code section |
 | — | insert | Paragraph (3) of section 6402(e) of such Code is amended in the last sentence by inserting “or subsection (f)” after “paragraph (1)”. | the bill names no machine-readable US Code section |
