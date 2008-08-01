@@ -2,7 +2,7 @@
 legis-num: H. RES. 1008
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1008
@@ -26,6 +26,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas in November 2007, the Iranian Ministry of Information in Shiraz detained Bahá’ís Ms. Raha Sabet, 33; Mr. Sasan Taqva, 32; and Ms. Haleh Roohi, 29, for educating underprivileged children;
 - Whereas Mr. Taqva reportedly was detained while suffering from an injured leg which required medical attention;
 - Whereas on January 23, 2008, the State Department released a statement urging the Iranian regime to release all individuals held without due process and a fair trial, including the 3 young Bahá’ís being held in an Iranian Ministry of Intelligence detention center in Shiraz;
+- Whereas in March and May of 2008, Iranian intelligence officials in Mashhad and Tehran arrested and imprisoned Mrs. Fariba Kamalabadi, Mr. Jamaloddin Khanjani, Mr. Afif Naeimi, Mr. Saeid Rezaie, Mr. Behrouz Tavakkoli, Mrs. Mahvash Sabet, and Mr. Vahid Tizfahm, the members of the coordinating group for the Bahá’í community in Iran;
+- Whereas those seven individuals remain imprisoned without charge;
 - Whereas the Government of Iran is party to the International Covenants on Human Rights; and
 - Whereas in December 2007, the Iranian Parliament published a draft Islamic penal code, which violates Iran’s commitment under the International Covenants on Human Rights by requiring the death penalty for “apostates”, a term applied to Bahá’ís and any convert from Islam: Now, therefore, be it
 
@@ -33,5 +35,5 @@ That the House of Representatives—
 
 - **(1)** condemns the Government of Iran for its state-sponsored persecution of Bahá’ís, calls on the Government of Iran to immediately cease activities aimed at the repression of the Iranian Bahá’í community, and continues to hold the Government of Iran responsible for upholding all the rights of its nationals, including members of the Bahá’í community;
 - **(2)** condemns the Government of Iran’s continued imprisonment of individuals without due process and a fair trial;
-- **(3)** calls on the Government of Iran to immediately release 3 Bahá’ís: Ms. Raha Sabet, Mr. Sasan Taqva, and Ms. Haleh Roohi; and
+- **(3)** calls on the Government of Iran to immediately release 10 Bahá’ís: Ms. Raha Sabet, Mr. Sasan Taqva, Ms. Haleh Roohi, Mrs. Fariba Kamalabadi, Mr. Jamaloddin Khanjani, Mr. Afif Naeimi, Mr. Saeid Rezaie, Mr. Behrouz Tavakkoli, Mrs. Mahvash Sabet, and Mr. Vahid Tizfahm; and
 - **(4)** calls on the Government of Iran and the Iranian Parliament to reject a draft Islamic penal code, which violates Iran’s commitments under the International Covenants on Human Rights.
