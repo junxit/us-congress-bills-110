@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6085
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6085
@@ -132,9 +132,10 @@ To designate the facility of the United States Postal Service located at 42222 R
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 - Rep. Upton, Fred [R-MI-6] (U000031)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -151,3 +152,13 @@ To designate the facility of the United States Postal Service located at 42222 R
 - 2008-06-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-06-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 6/17/2008 H5438)
 - 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 6/17/2008 H5438)
+- 2008-06-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-07-21 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 919.
+- 2008-08-01 — Cleared for White House.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7984)
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7984)
