@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6432
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 6432
@@ -48,3 +48,8 @@ To amend the Federal Food, Drug, and Cosmetic Act to revise and extend the anima
 - 2008-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-804.
 - 2008-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-804.
 - 2008-07-30 — The title of the measure was amended. Agreed to without objection.
+- 2008-07-31 — Received in the Senate, read twice.
+- 2008-08-01 — Cleared for White House.
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7984)
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7984)
