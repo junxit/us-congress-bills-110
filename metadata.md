@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4040
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 4040
@@ -130,9 +130,14 @@ Consumer Product Safety Improvement Act of 2008
 - House — Energy and Commerce Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (1)
+## Recorded votes (6)
 
 - 2007-12-19 — [House 110-1-1185](votes/house-110-1-1185.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (407–0)
+- 2008-03-06 — [Senate 110-2-41](votes/senate-110-2-0041.md) — On Passage of the Bill — **Bill Passed** (79–13)
+- 2008-05-14 — [House 110-2-320](votes/house-110-2-0320.md) — On Motion to Instruct Conferees — **Passed** (405–0)
+- 2008-06-25 — [House 110-2-461](votes/house-110-2-0461.md) — On Motion to Instruct Conferees — **Passed** (415–0)
+- 2008-07-30 — [House 110-2-543](votes/house-110-2-0543.md) — On Motion to Suspend the Rules and Agree to the Conference Report — **Passed** (424–1)
+- 2008-07-31 — [Senate 110-2-193](votes/senate-110-2-0193.md) — On the Conference Report — **Conference Report Agreed to** (89–3)
 
 ## Actions
 
@@ -157,3 +162,47 @@ Consumer Product Safety Improvement Act of 2008
 - 2007-12-19 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2007-12-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-501.
 - 2007-12-19 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-501.
+- 2008-01-23 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 562.
+- 2008-03-06 — Measure laid before Senate by unanimous consent. (consideration: CR S1697)
+- 2008-03-06 — Passed Senate in lieu of S.2663 with an amendment by Yea-Nay. 79 - 13. Record Vote Number: 41. (text: CR 3/7/2008 S1768-1781)
+- 2008-03-06 — Passed/agreed to in Senate: Passed Senate in lieu of S.2663 with an amendment by Yea-Nay. 79 - 13. Record Vote Number: 41.(text: CR 3/7/2008 S1768-1781)
+- 2008-03-06 — See also S.2663.
+- 2008-03-06 — Senate struck all after the Enacting Clause and substituted the language of S.2663 amended.
+- 2008-04-29 — Senate insists on its amendment, asks for a conference, appoints conferees Inouye; Pryor; Boxer; Klobuchar; Stevens; Hutchison; Sununu. (consideration: CR S3549)
+- 2008-04-30 — Committee on Appropriations Subcommittee on Financial Services and General Government. Hearings held.
+- 2008-04-30 — Message on Senate action sent to the House.
+- 2008-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-05-14 — Mr. Dingell moved that the House disagree to the Senate amendment, and agree to a conference. (consideration: CR H3854-3856)
+- 2008-05-14 — Mr. Whitfield (KY) moved that the House instruct conferees. (consideration: CR H3854; text: CR H3854)
+- 2008-05-14 — On motion that the House disagree to the Senate amendment, and agree to a conference Agreed to without objection.
+- 2008-05-14 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 405 - 0 (Roll no. 320). (consideration: CR H3855-3856)
+- 2008-05-14 — The House proceeded with one hour of debate on the Whitfield motion to instruct conferees on H.R. 4040. The instructions contained in the motion seek to require the managers on the part of the House be instructed to insist upon the provisions contained in the House bill.
+- 2008-05-14 — The Speaker appointed conferees: Dingell, Waxman, Rush, DeGette, Schakowsky, Barton (TX), Whitfield (KY), and Stearns.
+- 2008-05-14 — The previous question was ordered without objection. (consideration: CR H3855)
+- 2008-06-23 — NOTICE OF INTENT TO OFFER MOTION TO INSTRUCT - Mr. Kirk notified the House of his intent to offer a motion to instruct conferees on H.R. 4040.
+- 2008-06-24 — DEBATE - The House proceeded with one hour of debate on the Kirk motion to instruct conferees on H.R. 4040. The instructions contained in the motion seek to insist on the provisions contained in the House bill with regard to the definition of "children's product".
+- 2008-06-24 — Mr. Kirk moved that the House instruct conferees. (consideration: CR H5997-5998; text: CR H5997)
+- 2008-06-24 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Kirk motion to instruct conferees on H.R. 4040, the Chair put the question on adoption of the motion to instruct conferees and by voice vote, announced that the noes had prevailed. Mr. Kirk demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2008-06-24 — The previous question was ordered without objection. (consideration: CR H5998)
+- 2008-06-25 — Conference committee actions: Conference held.
+- 2008-06-25 — Conference held.
+- 2008-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-06-25 — On motion that the House instruct conferees Agreed to by the Yeas and Nays: 415 - 0 (Roll no. 461). (consideration: CR H6082)
+- 2008-07-17 — Conference committee actions: Conference held.
+- 2008-07-17 — Conference held.
+- 2008-07-29 — Conference report H. Rept. 110-787 filed. (text of conference report: CR H7194-7214)
+- 2008-07-29 — Conference report filed: Conference report H. Rept. 110-787 filed.(text of conference report: CR H7194-7214)
+- 2008-07-30 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-07-30 — Conference papers: Senate report and manager's statement and message on House action held at the desk in Senate.
+- 2008-07-30 — Conference report agreed to in House: On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 543).
+- 2008-07-30 — DEBATE - Mr. Dingell asked unanimous consent that debate on the motion to suspend the rules and pass the conference report to accompany H.R. 4040 be extended by 20 minutes, equally divided and controlled. Agreed to without objection.
+- 2008-07-30 — DEBATE - The House proceeded with forty minutes of debate on the conference report to accompany H.R. 4040.
+- 2008-07-30 — Motions to reconsider laid on the table Agreed to without objection.
+- 2008-07-30 — Mr. Dingell moved to suspend the rules and agree to the conference report, H. Rept. 110-787. (consideration: CR H7577-7586)
+- 2008-07-30 — On motion to suspend the rules and agree to the conference report Agreed to by the Yeas and Nays: (2/3 required): 424 - 1 (Roll no. 543).
+- 2008-07-30 — The House proceeded to consider the conference report H.Rept. 110-787 as unfinished business. (consideration: CR H7587-7588)
+- 2008-07-31 — Cleared for White House.
+- 2008-07-31 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 89 - 3. Record Vote Number: 193.(consideration: CR S7878)
+- 2008-07-31 — Conference report considered in Senate. (consideration: CR S7867-7878)
+- 2008-07-31 — Message on Senate action sent to the House.
+- 2008-07-31 — Senate agreed to conference report by Yea-Nay Vote. 89 - 3. Record Vote Number: 193. (consideration: CR S7878)
