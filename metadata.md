@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4137
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4137
@@ -291,3 +291,13 @@ Higher Education Opportunity Act
 - 2008-07-29 — The Speaker appointed conferees - from the Committee on the Judiciary for consideration of secs. 951 and 952 of the House bill, and secs. 951 and 952 of the Senate amendment, and modifications committed to conference: Conyers, Waters, and Gohmert.
 - 2008-07-30 — Conference report H. Rept. 110-803 filed. (text of conference report: CR H7353-7517)
 - 2008-07-30 — Conference report filed: Conference report H. Rept. 110-803 filed.(text of conference report: CR H7353-7517)
+- 2008-07-31 — Cleared for White House.
+- 2008-07-31 — Conference report agreed to in House: On agreeing to the conference report Agreed to by the Yeas and Nays: 380 - 49 (Roll no. 544).(consideration: CR H7673)
+- 2008-07-31 — Conference report agreed to in Senate: Senate agreed to conference report by Yea-Nay Vote. 83 - 8. Record Vote Number: 194.(consideration: CR S7878)
+- 2008-07-31 — Conference report considered in Senate.
+- 2008-07-31 — DEBATE - The House proceeded with one hour of debate on the conference report to accompany H.R. 4137.
+- 2008-07-31 — Message on Senate action sent to the House.
+- 2008-07-31 — Motions to reconsider laid on the table Agreed to without objection.
+- 2008-07-31 — Mr. Miller, George brought up conference report H. Rept. 110-803 for consideration under the provisions of H. Res. 1389. (consideration: CR H7658-7673)
+- 2008-07-31 — On agreeing to the conference report Agreed to by the Yeas and Nays: 380 - 49 (Roll no. 544). (consideration: CR H7673)
+- 2008-07-31 — Senate agreed to conference report by Yea-Nay Vote. 83 - 8. Record Vote Number: 194. (consideration: CR S7878)
