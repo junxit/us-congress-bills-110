@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 620
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 620
@@ -33,3 +33,5 @@ A resolution designating the week of September 14-20, 2008, as National Polycyst
 - 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 922.
+- 2008-09-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8141-8142; text as passed Senate: CR S8142)
+- 2008-09-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8141-8142; text as passed Senate: CR S8142)
