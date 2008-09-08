@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 647
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 647
@@ -33,3 +33,7 @@ A resolution designating September 9, 2008, as "National Fetal Alcohol Spectrum 
 
 - 2008-08-01 — Introduced in Senate
 - 2008-08-01 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8049-8050)
+- 2008-09-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S8141)
+- 2008-09-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S8141)
+- 2008-09-08 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8141-8142)
+- 2008-09-08 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S8141-8142)
