@@ -24,5 +24,6 @@ Section 5(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(a)) is amended by
 Section 5(b) of the Wild and Scenic Rivers Act (16 U.S.C. 1276(b)) is amended by adding at the end the following:
 
 > - **(19)** *Missisquoi and trout rivers, vermont* Not later than 3 years after funds are made available to carry out this paragraph, the Secretary of the Interior shall—
->   - **(A)** complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(__); and
->   - **(B)** submit a report describing the results of that study to the appropriate committees of Congress.
+>   - **(A) analyze the potential impact of the designation on private lands within the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(__) or adjacent to that area;)**
+>   - **(B)** complete the study of the Missisquoi and Trout Rivers, Vermont, described in subsection (a)(__); and
+>   - **(C)** submit a report describing the results of that study to the appropriate committees of Congress.
