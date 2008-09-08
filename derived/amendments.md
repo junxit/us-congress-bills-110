@@ -1,7 +1,7 @@
 ---
 measure: S. 3061
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-154 amendatory instructions. 0 executed, 154 stated and not applied.
+156 amendatory instructions. 0 executed, 156 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -134,6 +134,8 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | Chapter 117 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 77 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of chapter 77 of title 18, United States Code, is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 237(a)(2)(A)(iii) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)(A)(iii)) is amended by adding at the end the following “For purposes of this clause, an alien who has been convicted of a sex offense (as that term is … | the bill names no machine-readable US Code section |
 | — | replace | by striking “section 107(b)” and inserting “subsections (b) and (f) of section 107”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “the Attorney General,” after “the Secretary of Labor,”; | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (G), by striking “and” at the end; | the bill names no machine-readable US Code section |
