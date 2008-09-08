@@ -1,7 +1,7 @@
 ---
 measure: S. 3241
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3241
@@ -20,9 +20,10 @@ A bill to designate the facility of the United States Postal Service located at 
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -36,3 +37,5 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2008-08-01 — Message on Senate action sent to the House.
 - 2008-08-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7984; text as passed Senate: CR S7984)
 - 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7984; text as passed Senate: CR S7984)
+- 2008-09-08 — Received in the House.
+- 2008-09-08 — Referred to the House Committee on Oversight and Government Reform.
