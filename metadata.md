@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 622
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 622
@@ -16,7 +16,7 @@ A resolution designating the week beginning September 7, 2008, as "National Hist
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
-## Cosponsors (39)
+## Cosponsors (40)
 
 - Sen. Alexander, Lamar [R-TN] (A000360)
 - Sen. Bayh, Evan [D-IN] (B001233)
@@ -57,6 +57,7 @@ A resolution designating the week beginning September 7, 2008, as "National Hist
 - Sen. Vitter, David [R-LA] (V000127)
 - Sen. Warner, John [R-VA] (W000154)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
 
 ## Committees (1)
 
@@ -70,3 +71,5 @@ A resolution designating the week beginning September 7, 2008, as "National Hist
 - 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-07-31 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 923.
+- 2008-09-08 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S8141-8142; text as passed Senate: CR S8142)
+- 2008-09-08 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8141-8142; text as passed Senate: CR S8142)
