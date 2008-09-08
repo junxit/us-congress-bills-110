@@ -1,0 +1,34 @@
+---
+measure: H.R. 6834
+congress: 110
+version: Introduced in House
+---
+
+# H.R. 6834
+
+To designate the facility of the United States Postal Service located at 4 South Main Street in Wallingford, Connecticut, as the "CWO Richard R. Lee Post Office Building".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+
+## Cosponsors (4)
+
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Shays, Christopher [R-CT-4] (S001144)
+
+## Committees (1)
+
+- House — Oversight and Accountability Committee
+
+## Actions
+
+- 2008-09-08 — Introduced in House
+- 2008-09-08 — Introduced in House
+- 2008-09-08 — Referred to the House Committee on Oversight and Government Reform.
