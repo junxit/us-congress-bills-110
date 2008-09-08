@@ -1,7 +1,7 @@
 ---
 measure: S. 3430
 congress: 110
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S. 3430
@@ -20,3 +20,4 @@ Emmett Till Unsolved Civil Rights Crime Act of 2008
 
 - 2008-08-01 — Introduced in Senate
 - 2008-08-01 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-09-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 944.
