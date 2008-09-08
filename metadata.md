@@ -1,7 +1,7 @@
 ---
 measure: S. 2837
 congress: 110
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 2837
@@ -21,6 +21,10 @@ A bill to designate the United States courthouse located at 225 Cadman Plaza Eas
 - Senate — Environment and Public Works Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2008-09-08 — [House 110-2-568](votes/house-110-2-0568.md) — On Motion to Suspend the Rules and Pass — **Passed** (375–1)
+
 ## Actions
 
 - 2008-04-09 — Introduced in Senate
@@ -34,3 +38,19 @@ A bill to designate the United States courthouse located at 225 Cadman Plaza Eas
 - 2008-06-25 — Message on Senate action sent to the House.
 - 2008-06-25 — Received in the House.
 - 2008-06-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-06-26 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Ordered to be Reported by Voice Vote.
+- 2008-07-31 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-09-08 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-08 — Cleared for White House.
+- 2008-09-08 — Considered as unfinished business. (consideration: CR H7824-7825)
+- 2008-09-08 — Considered under suspension of the rules. (consideration: CR H7816-7817)
+- 2008-09-08 — DEBATE - The House proceeded with forty minutes of debate on S. 2837.
+- 2008-09-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-08 — Mr. Carney moved to suspend the rules and pass the bill.
+- 2008-09-08 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 568). (text: CR H7816)
+- 2008-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 375 - 1 (Roll no. 568).(text: CR H7816)
+- 2008-09-08 — Placed on the House Calendar, Calendar No. 259.
+- 2008-09-08 — Reported by the Committee on Transportation. H. Rept. 110-823.
+- 2008-09-08 — Reported by the Committee on Transportation. H. Rept. 110-823.
