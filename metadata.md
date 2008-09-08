@@ -33,3 +33,6 @@ Missisquoi and Trout Rivers Wild and Scenic River Study Act of 2008
 - 2008-05-22 — Placed on the Union Calendar, Calendar No. 420.
 - 2008-05-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-668.
 - 2008-05-22 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-668.
+- 2008-09-08 — PERMISSION TO FILE A SUPPLEMENTAL REPORT - Mrs. Capps asked unanimous consent that the Natural Resources Committee be allowed to file a supplemental report on H.R. 3667. Agreed to without objection.
+- 2008-09-08 — Supplemental report filed by the Committee on Natural Resources, H. Rept. 110-668, Part II.
+- 2008-09-08 — Supplemental report filed by the Committee on Natural Resources, H. Rept. 110-668, Part II.
