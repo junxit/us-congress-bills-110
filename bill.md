@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4081
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; findings; purposes
 
-- **(a)** *Short title* This Act may be cited as the “Prevent All Cigarette Trafficking Act of 2007” or “PACT Act”.
+- **(a)** *Short title* This Act may be cited as the “Prevent All Cigarette Trafficking Act of 2008” or “PACT Act”.
 - **(b)** *Findings* Congress finds that—
   - **(1)** the sale of illegal cigarettes and smokeless tobacco products significantly reduces Federal, State, and local government revenues, with Internet sales alone accounting for billions of dollars of lost Federal, State, and local tobacco tax revenue each year;
   - **(2)** Hezbollah, Hamas, al Qaeda, and other terrorist organizations have profited from trafficking in illegal cigarettes or counterfeit cigarette tax stamps;
@@ -43,27 +43,30 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(A)** *In general* For purposes of this Act, the term cigarette shall—
   >     - **(i)** have the same meaning given that term in section 2341 of title 18, United States Code; and
   >     - **(ii)** include “roll-your-own tobacco” (as that term is defined in section 5702 of the Internal Revenue Code of 1986).
-  >   - **(B)** *Exception* For purposes of this Act, the term cigarette does not include a “cigar,” as that term is defined in section 5702 of the Internal Revenue Code of 1986.
+  >   - **(B)** *Exception* For purposes of this Act, the term cigarette does not include a “cigar”, as that term is defined in section 5702 of the Internal Revenue Code of 1986.
   > - **(3)** *Common carrier* The term common carrier means any person (other than a local messenger service or the United States Postal Service) that holds itself out to the general public as a provider for hire of the transportation by water, land, or air of merchandise, whether or not the person actually operates the vessel, vehicle, or aircraft by which the transportation is provided, between a port or place and a port or place in the United States.
   > - **(4)** *Consumer* The term consumer means any person that purchases cigarettes or smokeless tobacco, but does not include any person lawfully operating as a manufacturer, distributor, wholesaler, or retailer of cigarettes or smokeless tobacco.
   > - **(5)** *Delivery sale* The term delivery sale means any sale of cigarettes or smokeless tobacco to a consumer if—
   >   - **(A)** the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mails, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made; or
   >   - **(B)** the cigarettes or smokeless tobacco are delivered by use of a common carrier, private delivery service, or the mails, or the seller is not in the physical presence of the buyer when the buyer obtains possession of the cigarettes or smokeless tobacco.
   > - **(6)** *Delivery seller* The term delivery seller means a person who makes a delivery sale.
-  > - **(7)** *Indian country* The term Indian country has the meaning given that term in section 1151 of title 18, United States Code, except that within the State of Alaska that term applies only to the Metlakatla Indian Community, Annette Island Reserve.
+  > - **(7)** *Indian country* The term “Indian country” means—
+  >   - **(A)** Indian country as defined in section 1151 of title 18, United States Code, except that within the State of Alaska that term applies only to the Metlakatla Indian Community, Annette Island Reserve; and
+  >   - **(B)** any other land held by the United States in trust for one or more Indian tribes.
   > - **(8)** *Indian tribe* The term Indian tribe, tribe, or tribal refers to an Indian tribe as defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) or as listed pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a–1).
   > - **(9)** *Interstate commerce* The term interstate commerce means commerce between a State and any place outside the State, commerce between a State and any Indian country in the State, or commerce between points in the same State but through any place outside the State or through any Indian country.
   > - **(10)** *Person* The term person means an individual, corporation, company, association, firm, partnership, society, State government, local government, Indian tribal government, governmental organization of such government, or joint stock company.
   > - **(11)** *State* The term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
   > - **(12)** *Smokeless tobacco* The term smokeless tobacco means any finely cut, ground, powdered, or leaf tobacco, or other product containing tobacco, that is intended to be placed in the oral or nasal cavity or otherwise consumed without being combusted.
   > - **(13)** *Tobacco tax administrator* The term tobacco tax administrator means the State, local, or tribal official duly authorized to collect the tobacco tax or administer the tax law of a State, locality, or tribe, respectively.
-  > - **(14)** *Use* The term use, in addition to its ordinary meaning, means the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
+  > - **(14)** *Tribal enterprise* The term “tribal enterprise” means any business enterprise, incorporated or unincorporated under federal or tribal law, of an Indian tribe or group of Indian tribe.
+  > - **(15)** *Use* The term use, in addition to its ordinary meaning, means the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
 
 - **(b)** *Reports to State tobacco tax administrators* Section 2 of the Jenkins Act (15 U.S.C. 376) is amended—
   - **(1)** by striking “cigarettes” each place it appears and inserting “cigarettes or smokeless tobacco”;
   - **(2)** in subsection (a)—
     - **(A)** in the matter preceding paragraph (1)—
-      - **(i)** by inserting “Contents.—”after “(a)”
+      - **(i)** by inserting “Contents.—” after “(a)”
       - **(ii)** by striking “or transfers” and inserting “, transfers, or ships”;
       - **(iii)** by inserting “, locality, or Indian country of an Indian tribe” after “a State”;
       - **(iv)** by striking “to other than a distributor licensed by or located in such State,”; and
@@ -120,7 +123,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(2)** *Exception* Paragraph (1) does not apply to a delivery sale of smokeless tobacco if the law of the State or local government of the place where the smokeless tobacco is to be delivered requires or otherwise provides that delivery sellers collect the excise tax from the consumer and remit the excise tax to the State or local government, and the delivery seller complies with the requirement.
   > - **(e)** *List of unregistered or noncompliant delivery sellers*
   >   - **(1)** *In general*
-  >     - **(A)** *Initial list* Not later than 90 days after this subsection goes into effect under the Prevent All Cigarette Trafficking Act of 2007, the Attorney General of the United States shall compile a list of delivery sellers of cigarettes or smokeless tobacco that have not registered with the Attorney General, pursuant to section 2(a) or that are otherwise not in compliance with this Act, and—
+  >     - **(A)** *Initial list* Not later than 90 days after this subsection goes into effect under the Prevent All Cigarette Trafficking Act of 2008, the Attorney General of the United States shall compile a list of delivery sellers of cigarettes or smokeless tobacco that have not registered with the Attorney General, pursuant to section 2(a) or that are otherwise not in compliance with this Act, and—
   >       - **(i)** distribute the list to—
   >         - **(I)** the attorney general and tax administrator of every State;
   >         - **(II)** common carriers and other persons that deliver small packages to consumers in interstate commerce, including the United States Postal Service; and
@@ -133,13 +136,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(iv)** any other information that the Attorney General determines would facilitate compliance with this subsection by recipients of the list.
   >     - **(C)** *Updating* The Attorney General of the United States shall update and distribute the list at least once every 4 months, and may distribute the list and any updates by regular mail, electronic mail, or any other reasonable means, or by providing recipients with access to the list through a nonpublic website that the Attorney General of the United States regularly updates.
   >     - **(D)** *State, local, or Tribal additions* The Attorney General of the United States shall include in the list under subparagraph (A) any noncomplying delivery sellers identified by any State, local, or tribal government under paragraph (5), and shall distribute the list to the attorney general or chief law enforcement official and the tax administrator of any government submitting any such information and to any common carriers or other persons who deliver small packages to consumers identified by any government pursuant to paragraph (5).
-  >     - **(E)** *Confidentiality* The list distributed pursuant to subparagraph (A) shall be confidential, and any person receiving the list shall maintain the confidentiality of the list but may deliver the list, for enforcement purposes, to any government official or to any common carrier or other person that delivers tobacco products or small packages to consumers. Nothing in this section shall prohibit a common carrier, the United States Postal Service, or any other person receiving the list from discussing with the listed delivery sellers the delivery sellers’ inclusion on the list and the resulting effects on any services requested by such listed delivery seller.
+  >     - **(E)** *Accuracy and completeness of list of noncomplying delivery sellers* In preparing and revising the list required by subparagraph (A), the Attorney General shall—
+  >       - **(i)** use reasonable procedures to ensure maximum possible accuracy and completeness of the records and information relied on for the purpose of determining that such delivery seller is noncomplying;
+  >       - **(ii)** not later than 14 days prior to including any delivery seller on the list under paragraph (1), make a reasonable attempt to send notice to the delivery seller by letter, electronic mail, or other means that the delivery seller is being placed on such list or update, with that notice citing the relevant provisions of this Act and the specific reasons for being placed on such list;
+  >       - **(iii)** provide an opportunity to such delivery seller to challenge placement on such list;
+  >       - **(iv)** investigate each such challenge by contacting the relevant Federal, State, tribal, and local law enforcement officials, and provide the specific findings and results of such investigation to such delivery seller not later than 30 days after the challenge is made; and
+  >       - **(v)** upon finding that any placement is inaccurate, incomplete, or cannot be verified, promptly delete such delivery seller from the list as appropriate and notify each appropriate Federal, State, tribal, and local authority of such finding.
+  >     - **(F)** *Confidentiality* The list distributed pursuant to subparagraph (A) shall be confidential, and any person receiving the list shall maintain the confidentiality of the list but may deliver the list, for enforcement purposes, to any government official or to any common carrier or other person that delivers tobacco products or small packages to consumers. Nothing in this section shall prohibit a common carrier, the United States Postal Service, or any other person receiving the list from discussing with the listed delivery sellers the delivery sellers’ inclusion on the list and the resulting effects on any services requested by such listed delivery seller.
   >   - **(2)** *Prohibition on delivery*
   >     - **(A)** *In general* Commencing on the date that is 60 days after the date of the initial distribution or availability of the list under paragraph (1)(A), no person who receives the list under paragraph (1), and no person who delivers cigarettes or smokeless tobacco to consumers, shall knowingly complete, cause to be completed, or complete its portion of a delivery of any package for any person whose name and address are on the list, unless—
   >       - **(i)** the person making the delivery knows or believes in good faith that the item does not include cigarettes or smokeless tobacco;
   >       - **(ii)** the delivery is made to a person lawfully engaged in the business of manufacturing, distributing, or selling cigarettes or smokeless tobacco; or
   >       - **(iii)** the package being delivered weighs more than 100 pounds and the person making the delivery does not know or have reasonable cause to believe that the package contains cigarettes or smokeless tobacco.
   >     - **(B)** *Implementation of updates* Commencing on the date that is 30 days after the date of the distribution or availability of any updates or corrections to the list under paragraph (1), all recipients and all common carriers or other persons that deliver cigarettes or smokeless tobacco to consumers shall be subject to subparagraph (A) in regard to such corrections or updates.
+  >     - **(C)** *Exemptions* Subparagraphs (A) and (B), and any other requirements or restrictions placed directly on common carriers elsewhere in this subsection, shall not apply to a common carrier that is subject to a settlement agreement relating to tobacco product deliveries to consumers. For the purposes of this section, “settlement agreement” shall be defined to include the Assurance of Discontinuance entered into by the Attorney General of New York and DHL Holdings USA, Inc. and DHL Express (USA), Inc. on or about July 1, 2005, the Assurance of Discontinuance entered into by the Attorney General of New York and United Parcel Service, Inc. on or about October 21, 2005, and the Assurance of Compliance entered into by the Attorney General of New York and Federal Express Corporation and Fed Ex Ground package Systems, Inc. on or about February 3, 2006, so long as each is honored nationwide to block illegal deliveries of cigarettes or smokeless tobacco to consumers, and also includes any other active agreement between a common carrier and the states that operates nationwide to ensure that no deliveries of cigarettes and smokeless tobacco shall be made to consumers for illegally operating Internet or mail-order sellers and that any such deliveries to consumers shall not be made to minors or without payment to the states and localities where the consumers are located of all taxes on the tobacco products.
   >   - **(3)** *Shipments from persons on list*
   >     - **(A)** *In general* In the event that a common carrier or other delivery service delays or interrupts the delivery of a package it has in its possession because it determines or has reason to believe that the person ordering the delivery is on a list distributed under paragraph (1)—
   >       - **(i)** the person ordering the delivery shall be obligated to pay—
@@ -155,11 +165,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >       - **(iii)** requiring that the common carrier or other delivery service verify that all applicable taxes have been paid;
   >       - **(iv)** requiring that packages delivered by the common carrier or other delivery service contain any particular labels, notice, or markings; or
   >       - **(v)** prohibiting common carriers or other delivery services from making deliveries on the basis of whether the delivery seller is or is not identified on any list of delivery sellers maintained and distributed by any entity other than the Federal Government.
-  >     - **(B)** *Relationship to other laws* Nothing in this paragraph shall be construed to prohibit, expand, restrict, or otherwise amend or modify—
+  >     - **(B)** *Relationship to other laws* Except as provided in subparagraph (C), nothing in this paragraph shall be construed to prohibit, expand, restrict, or otherwise amend or modify—
   >       - **(i)** section 14501(c)(1) or 41713(b)(4) of title 49, United States Code;
   >       - **(ii)** any other restrictions in Federal law on the ability of State, local, or tribal governments to regulate common carriers; or
-  >       - **(iii)** any provision of State, local, or tribal law regulating common carriers that falls within the provisions of chapter 49 of the United States Code, sections 14501(c)(2) or 41713(b)(4)(B).
-  >     - **(C)** *State laws prohibiting delivery sales* Nothing in the Prevent All Cigarette Trafficking Act of 2007, or the amendments made by that Act, may be construed to preempt or supersede State laws prohibiting the delivery sale, or the shipment or delivery pursuant to a delivery sale, of cigarettes or smokeless tobacco to individual consumers.
+  >       - **(iii)** any provision of State, local, or tribal law regulating common carriers that falls within the provisions of sections 14501(c)(2) or 41713(b)(4)(B) of title 49 of the United States Code.
+  >     - **(C)** *State laws prohibiting delivery sales* Nothing in the Prevent All Cigarette Trafficking Act of 2008, the amendments made by that Act, or in any other Federal statute shall be construed to preempt, supersede, or otherwise limit or restrict State laws prohibiting the delivery sale, or the shipment or delivery pursuant to a delivery sale, of cigarettes or other tobacco products to individual consumers or personal residences.
   >   - **(5)** *State, local, and tribal additions*
   >     - **(A)** *In general* Any State, local, or tribal government shall provide the Attorney General of the United States with—
   >       - **(i)** all known names, addresses, website addresses, and other primary contact information of any delivery seller that offers for sale or makes sales of cigarettes or smokeless tobacco in or into the State, locality, or tribal land but has failed to register with or make reports to the respective tax administrator, as required by this Act, or that has been found in a legal proceeding to have otherwise failed to comply with this Act; and
@@ -234,22 +244,43 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(1)** *In general* The Attorney General of the United States shall make available to the public, by posting such information on the Internet and by other appropriate means, information regarding all enforcement actions undertaken by the Attorney General or United States attorneys, or reported to the Attorney General, under this section, including information regarding the resolution of such actions and how the Attorney General and the United States attorney have responded to referrals of evidence of violations pursuant to subsection (c)(2).
   >   - **(2)** *Reports to Congress* The Attorney General shall submit to Congress each year a report containing the information described in paragraph (1).
 
-## § 3. Treatment of cigarettes and smokeless tobacco as nonmailable matter
+## § 3. TREATMENT OF CIGARETTES AND SMOKELESS TOBACCO AS NONMAILABLE MATTER
 
-Section 1716 of title 18, United States Code, is amended—
+- **(a)** Section 1716 of title 18, United States Code, is amended—
+  - **(1)** by redesignating subsections (j) and (k) as subsections (k) and (l), respectively; and
+  - **(2)** by inserting after subsection (i) the following:
+    > - **(j)** *Tobacco products*
+    >   - **(1)** *Prohibition* All cigarettes (as that term is defined in section 2341 of this title) and smokeless tobacco (as that term is defined in section 2341 of this title) are nonmailable and shall not be deposited in or carried through the mails. The United States Postal Service shall not accept for delivery or transmit through the mails any package that is knows, or has reasonable cause to believe, contains any cigarettes or smokeless tobacco made nonmailable by this subsection.
+    >   - **(2)** *Reasonable cause to believe* For purposes of this section, notification to the United States Postal Service by the Attorney General, a United States attorney, a State attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products that an individual or entity is regularly engaged in the business of transmitting cigarettes or smokeless tobacco made nonmailable by this section shall constitute reasonable cause to believe that any packages presented to the United States Postal Service by such individual or entity contain nonmailable cigarettes or smokeless tobacco.
+    >   - **(3)** *Exceptions* This subsection shall not apply to the following:
+    >     - **(A)** *Cigars* Cigars (as that term is defined in section 5702(a) of the Internal Revenue Code of 1986).
+    >     - **(B)** *Geographic exception* Mailings within any State that is not contiguous with at least 1 other State of the United States.
+    >     - **(C)** *Business purposes* Tobacco products mailed only for business purposes between legally operating businesses that have all applicable State and Federal government licenses or permits and are engaged in tobacco product manufacturing, distribution, wholesale, export, import, testing, investigation or research or for regulatory purposes between any such businesses and State or Federal Government regulatory agencies, if the Postal Service issues a final rule establishing the standards and requirements that applies to all such mailings and which includes the following:
+    >       - **(i)** The Postal Service shall verify that any person submitting an otherwise nonmailable tobacco product into the mails as authorized by this paragraph is a business or government agency permitted to make such mailings pursuant to this subsection and the related final rule.
+    >       - **(ii)** The Postal Service shall ensure that any recipient of an otherwise nonmailable tobacco product sent through the mails pursuant to this paragraph is a business or government agency.
+    >       - **(iii)** The mailings shall be sent through the Postal Service’s systems that provide for the tracking and confirmation of the delivery.
+    >       - **(iv)** The identities of the business or government entity submitting the mailing containing otherwise nonmailable tobacco products for delivery and the business or government entity receiving the mailing shall be clearly set forth on the package and such information shall be kept in Postal Service records and made available to the Postal Service, the Attorney General, and to persons eligible to bring enforcement actions pursuant to subsection (j)(7) for a period of at least three years.
+    >       - **(v)** The mailings shall be marked with a Postal Service label or marking that makes it clear to Postal Service employees that it is a permitted mailing of otherwise nonmailable tobacco products that may be delivered only to a permitted government agency or business and may not be delivered to any residence or individual person.
+    >       - **(vi)** The mailings shall be delivered only to verified adult employees of the recipient businesses or government agencies who shall be required to sign for the mailing.
+    >     - **(D)** *Certain individuals* Tobacco products mailed by individual adult people for noncommercial, nonbusiness and non-money making purposes, including the return of a damaged or unacceptable tobacco product to its manufacturer, if the Postal Service issues a final rule establishing the standards and requirements that applies to all such mailings and which includes the following:
+    >       - **(i)** The Postal Service shall verify that any person submitting an otherwise nonmailable tobacco product into the mails as authorized by this subsection is the individual person identified on the return address label of the package and is an adult.
+    >       - **(ii)** For mailings to individual persons the Postal Service shall require the person submitting the otherwise nonmailable tobacco product into the mails as authorized by this subsection to affirm that the recipient is an adult.
+    >       - **(iii)** The package shall not weigh more than 10 ounces.
+    >       - **(iv)** The mailings shall be sent through the Postal Service’s systems that provide for the tracking and confirmation of the delivery.
+    >       - **(v)** No package shall be delivered or placed in the possession of any individual person who is not a verified adult and, for mailings to individual persons. The Postal Service shall deliver the package only to the verified adult recipient at the recipient address or transfer it for delivery to an Air/Army Postal Office (APO) or Fleet Postal Office (FPO) number designated in the recipient address.
+    >       - **(vi)** No person shall initiate more than ten such mailings in any thirty-day period.
+    >     - **(E)** *Definition of adult* For the purposes of subparagraphs (C) and (D), the term “adult” means an individual person of at least the minimum age required for the legal sale or purchase of tobacco products as determined by the applicable law at the place the individual person is located.
+    >   - **(4)** *Packaging exceptions inapplicable* Subsection (b) of this section shall not apply to any tobacco product made nonmailable by paragraph (2) of this subsection.
+    >   - **(5)** *Seizure and forfeiture* Any cigarettes or smokeless tobacco made nonmailable by this subsection that are deposited in the mails shall be subject to seizure and forfeiture, pursuant to the procedures set forth in chapter 46 of this title. Any tobacco products so seized and forfeited shall either be destroyed or retained by Government officials for the detection or prosecution of crimes or related investigations and then destroyed.
+    >   - **(6)** *Additional penalties* In addition to any other fines and penalties imposed by this chapter for violations of this section, any person violating this subsection shall be subject to an additional penalty in the amount of 10 times the retail value of the nonmailable cigarettes or smokeless tobacco, including all Federal, State, and local taxes.
 
-- **(1)** by redesignating subsections (j) and (k) as subsections (k) and (l), respectively; and
-- **(2)** by inserting after subsection (i) the following:
-  > - **(j)** *Tobacco products*
-  >   - **(1)** *Prohibition*
-  >     - **(A)** *In general* Except as provided in subparagraphs (C) and (D), all cigarettes (as that term is defined in section 1(2) of the Act of October 19, 1949 (15 U.S.C. 375; commonly referred to as the “Jenkins Act”)) and smokeless tobacco (as that term is defined in section 1(12) of that Act), are nonmailable and shall not be deposited in or carried through the mails. The United States Postal Service shall not accept for delivery or transmit through the mails any package that it knows or has reasonable cause to believe contains any cigarettes or smokeless tobacco made nonmailable by this subsection.
-  >     - **(B)** *Reasonable cause to believe* For purposes of this section, notification to the United States Postal Service by the Attorney General, a United States attorney, or a State Attorney General that an individual or entity is primarily engaged in the business of transmitting cigarettes or smokeless tobacco made nonmailable by this section shall constitute reasonable cause to believe that any packages presented to the United States Postal Service by such individual or entity contain nonmailable cigarettes or smokeless tobacco.
-  >     - **(C)** *Cigars* Subparagraph (A) shall not apply to cigars (as that term is defined in section 5702(a) of the Internal Revenue Code of 1986).
-  >     - **(D)** *Geographic exception* Subparagraph (A) shall not apply to mailings within or into any State that is not contiguous with at least 1 other State of the United States. For purposes of this paragraph, State means any of the 50 States or the District of Columbia.
-  >   - **(2)** *Packaging exceptions inapplicable* Subsection (b) shall not apply to any tobacco product made nonmailable by this subsection.
-  >   - **(3)** *Seizure and forfeiture* Any cigarettes or smokeless tobacco made nonmailable by this subsection that are deposited in the mails shall be subject to seizure and forfeiture, and any tobacco products so seized and forfeited shall either be destroyed or retained by Government officials for the detection or prosecution of crimes or related investigations and then destroyed.
-  >   - **(4)** *Additional penalties* In addition to any other fines and penalties imposed by this chapter for violations of this section, any person violating this subsection shall be subject to an additional penalty in the amount of 10 times the retail value of the nonmailable cigarettes or smokeless tobacco, including all Federal, State, and local taxes.
-  >   - **(5)** *Use of penalties* There is established a separate account in the Treasury known as the “PACT Postal Service Fund”. Notwithstanding any other provision of law, an amount equal to 50 percent of any criminal and civil fines or monetary penalties collected by the United States Government in enforcing the provisions of this subsection shall be transferred into the PACT Postal Service Fund and shall be available to the Postmaster General for the purpose of enforcing the provisions of this subsection.
+- **(b)** *Use of penalties* There is established a separate account in the Treasury of the United States, to be known as the “PACT Postal Service Fund”. Notwithstanding any other provision of law, an amount equal to 50 percent of any criminal and civil fines or monetary penalties collected by the United States Government in enforcing the provisions of this subsection shall be transferred into the PACT Postal Service Fund and shall be available to the Postmaster General for the purpose of enforcing the provisions of this subsection.
+- **(c)** *Coordination of efforts* In the enforcement of this section, the Postal Service shall cooperate and coordinate its efforts with related enforcement activities of any other Federal agency or of any State, local, or tribal government, whenever appropriate.
+- **(d)** *Actions by state, local or tribal governments relating to certain tobacco products*
+  - **(1)** A State, through its attorney general (or a designee thereof), or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer (or a designee thereof), may bring a civil action in a United States district court to prevent and restrain any person (or any person controlling such person or aiding and abetting such person) or to obtain damages, penalties, including the penalties specified in paragraph (6), injunctive or other equitable relief from any such person (or from any person either controlling such person or aiding and abetting such person) who violates paragraph (1) by depositing nonmailable tobacco products into the mails for commercial, business, or money-making purposes.
+  - **(2)** Nothing in this section shall be deemed to abrogate or constitute a waiver of any sovereign immunity of a State or local government or Indian tribe against any unconsented lawsuit under paragraph (1), or otherwise to restrict, expand, or modify any sovereign immunity of a State or local government or Indian tribe.
+  - **(3)** A State, through its attorney general, or a local government or Indian tribe that levies an excise tax on tobacco products, through its chief law enforcement officer (or a designee thereof), may provide evidence of a violation of paragraph (1) for commercial, business or money-making purposes by any person not subject to State, local, or tribal government enforcement actions for violations of paragraph (1) to the Attorney General of the United States or a United States attorney, who shall take appropriate actions to enforce the provisions of this subsection.
+  - **(4)** The remedies available under this subsection are in addition to any other remedies available under Federal, State, local, tribal, or other law. Nothing in this subsection shall be construed to expand, restrict, or otherwise modify any right of an authorized State, local, or tribal government official to proceed in a State, tribal, or other appropriate court, or take other enforcement actions, on the basis of an alleged violation of State, local, tribal, or other law.
 
 ## § 4. Compliance with Model Statute or Qualifying Statute
 
@@ -273,28 +304,23 @@ Section 1716 of title 18, United States Code, is amended—
   - **(4)** *Model statute; qualifying statute* The terms Model Statute and Qualifying Statute means a statute as defined in section IX(d)(2)(e) of the Master Settlement Agreement.
   - **(5)** *Tobacco Product Manufacturer* The term Tobacco Product Manufacturer has the meaning given that term in section II(uu) of the Master Settlement Agreement.
 
-## § 5. Inspection by Bureau of Alcohol, Tobacco, Firearms, and Explosives of records of certain cigarette and smokeless tobacco sellers
+## § 5. Inspection by bureau of alcohol, tobacco, firearms, and explosives of records of certain cigarette and smokeless tobacco sellers; criminal penalty
 
-- **(a)** *In general* Any officer of the Bureau of Alcohol, Tobacco, Firearms, and Explosives may, during normal business hours, enter the premises of any person described in subsection (b) for the purposes of inspecting—
-  - **(1)** any records or information required to be maintained by such person under the provisions of law referred to in subsection (d); or
-  - **(2)** any cigarettes or smokeless tobacco kept or stored by such person at such premises.
-- **(b)** *Covered persons* Subsection (a) applies to any person who engages in a delivery sale, and who ships, sells, distributes, or receives any quantity in excess of 10,000 cigarettes, or any quantity in excess of 500 single-unit consumer-sized cans or packages of smokeless tobacco, within a single month.
-- **(c)** *Relief*
-  - **(1)** *In general* The district courts of the United States shall have the authority in a civil action under this subsection to compel inspections authorized by subsection (a).
-  - **(2)** *Violations* Whoever violates subsection (a) or an order issued pursuant to paragraph (1) shall be subject to a civil penalty in an amount not to exceed $10,000 for each violation.
-- **(d)** *Covered provisions of law* The provisions of law referred to in this subsection are—
-  - **(1)** the Act of October 19, 1949 (15 U.S.C. 375; commonly referred to as the “Jenkins Act”);
-  - **(2)** chapter 114 of title 18, United States Code; and
-  - **(3)** this Act.
-- **(e)** *Delivery sale defined* In this section, the term delivery sale has the meaning given that term in 2343(e) of title 18, United States Code, as amended by this Act.
+- **(a)** *Recordkeeping, reporting, and inspection* Section 2343(c) of title 18, United States Code, is amended to read as follows:
+  > - **(c)** Any officer of the Bureau of Alcohol, Tobacco, Firearms, and Explosives may, during normal business hours, enter the premises of any person described in subsection (a) or (b) for the purposes of inspecting—
+  >   - **(1)** any records or information required to be maintained by such person under the provisions of law referred to in this chapter; or
+  >   - **(2)** any cigarettes or smokeless tobacco kept or stored by such person at such premises.
+
+- **(b)** *Penalties* Section 2344(b) of title 18, United States Code, is amended to read as follows:
+  > - **(b)** Whoever knowingly violates any rule or regulation promulgated under section 2343 or 2346 or violates section 2342(b) shall be fined under this title or imprisoned not more than three years, or both.
 
 ## § 6. Exclusions regarding Indian Tribes and Tribal matters
 
 - **(a)** *In general* Nothing in this Act or the amendments made by this Act is intended nor shall be construed to affect, amend, or modify—
-  - **(1)** any agreements, compacts, or other intergovernmental arrangements between any State or local government and any government of an Indian tribe (as that term is defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)) relating to the collection of taxes on cigarettes or smokeless tobacco sold in Indian country (as that term is defined in section 1151 of title 18, United States Code);
+  - **(1)** any agreements, compacts, or other intergovernmental arrangements between any State or local government and any government of an Indian tribe (as that term is defined in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e))) relating to the collection of taxes on cigarettes or smokeless tobacco sold in Indian country;
   - **(2)** any State laws that authorize or otherwise pertain to any such intergovernmental arrangements or create special rules or procedures for the collection of State, local, or tribal taxes on cigarettes or smokeless tobacco sold in Indian country;
-  - **(3)** any limitations under existing Federal law, including Federal common law and treaties, on State, local, and tribal tax and regulatory authority with respect to the sale, use, or distribution of cigarettes and smokeless tobacco by or to Indian tribes or tribal members or in Indian country;
-  - **(4)** any existing Federal law, including Federal common law and treaties, regarding State jurisdiction, or lack thereof, over any tribe, tribal members, or tribal reservations; and
+  - **(3)** any limitations under existing Federal or State law, including Federal common law and treaties, on State, local, and tribal tax and regulatory authority with respect to the sale, use, or distribution of cigarettes and smokeless tobacco by or to Indian tribes, tribal members, tribal enterprises, or in Indian country;
+  - **(4)** any existing Federal law, including Federal common law and treaties, regarding State jurisdiction, or lack thereof, over any tribe, tribal members, tribal enterprises, tribal reservations, or other lands held by the United States in trust for one or more Indian tribes; and
   - **(5)** any existing State or local government authority to bring enforcement actions against persons located in Indian country.
 - **(b)** *Coordination of law enforcement* Nothing in this Act or the amendments made by this Act shall be construed to inhibit or otherwise affect any coordinated law enforcement effort by 1 or more States or other jurisdictions, including Indian tribes, through interstate compact or otherwise, that—
   - **(1)** provides for the administration of tobacco product laws or laws pertaining to interstate sales or other sales of tobacco products;
@@ -304,11 +330,15 @@ Section 1716 of title 18, United States Code, is amended—
 - **(d)** *Enforcement within Indian Country* Nothing in this Act or the amendments made by this Act is intended to prohibit, limit, or restrict enforcement by the Attorney General of the United States of the provisions herein within Indian country.
 - **(e)** *Ambiguity* Any ambiguity between the language of this section or its application and any other provision of this Act shall be resolved in favor of this section.
 
-## § 7. Effective date
+## § 7. Sense of Congress concerning the precedential effect of this Act
+
+It is the sense of Congress that unique harms are associated with online cigarette sales, including problems with verifying the ages of consumers in the digital market and the long-term health problems associated with the use of certain tobacco products. This Act was introduced recognizing the longstanding interest of Congress in urging compliance with States’ laws regulating remote sales of certain tobacco products to citizens of those States, including the passage of the Jenkins Act over 50 years ago, which established reporting requirements for out-of-State companies that sell certain tobacco products to citizens of the taxing States, and which gave authority to the Department of Justice and the Bureau of Alcohol, Tobacco and Firearms to enforce the Jenkins Act. In light of the unique harms and circumstances surrounding the online sale of certain tobacco products, this Act is intended to help collect cigarette excise taxes, to stop tobacco sales to underage youth, and to help the States enforce their laws that target the online sales of certain tobacco products only. This Act is in no way meant to create a precedent regarding the collection of State sales or use taxes by, or the validity of efforts to impose other types of taxes on, out-of-State entities that do not have a physical presence within the taxing State.
+
+## § 8. Effective date
 
 - **(a)** *In general* Except as provided in subsection (b), this Act shall take effect on the date that is 90 days after the date of enactment of this Act.
 - **(b)** *BATFE authority* Section 5 shall take effect on the date of enactment of this Act.
 
-## § 8. Severability
+## § 9. Severability
 
 If any provision of this, or an amendment made by this Act or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of it to any other person or circumstance shall not be affected thereby.
