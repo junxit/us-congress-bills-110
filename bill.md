@@ -1,0 +1,38 @@
+---
+legis-num: S. 3455
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3455
+
+> To rescind unexpended Iraq reconstruction funds.
+
+## § 1. Short title
+
+This Act may be cited as the “Rescission of Unneeded Iraq Reconstruction Funds Act of 2008”.
+
+## § 2. Findings
+
+Congress finds that—
+
+- **(1)** Iraq has abundant financial resources to fund relief and reconstruction projects;
+- **(2)**
+  - **(A)** in November 2007, the Government of Iraq estimated that oil income in 2008 would amount to $35,000,000,000; but
+  - **(B)** with high crude oil prices and Iraq oil production at record levels, the Special Inspector General for Iraq estimates that oil revenues could exceed $70,000,000,000;
+- **(3)** Iraqi Deputy Prime Minister Barham Salih stated recently that “Iraq does not need financial assistance.”;
+- **(4)** the Government Accountability Office estimates that the Government of Iraq—
+  - **(A)** has accumulated a budget surplus of approximately $29,000,000,000 from fiscal year 2005 through 2007; and
+  - **(B)** will accumulate a budget surplus of between $38,200,000,000 and $50,300,000,000 for fiscal year 2008; and
+- **(5)** according to the July 2008 quarterly report of the Special Inspector General for Iraq—
+  - **(A)** Congress has appropriated $43,560,000,000 for the major United States reconstruction accounts in Iraq; but
+  - **(B)** over 1/4 of those funds, or $12,570,000,000, have not yet been expended, including unobligated funds from appropriations for prior fiscal years.
+
+## § 3. Rescission of unexpended Iraq reconstruction funds
+
+There are rescinded any amounts that remain unexpended as of the date of enactment of this Act in—
+
+- **(1)** the Iraq Relief and Reconstruction Fund;
+- **(2)** the Iraq Security Forces Fund; and
+- **(3)** the Economic Support Fund authorized under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.) that are available for Iraq.
