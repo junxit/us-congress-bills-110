@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5683
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5683
@@ -67,3 +67,9 @@ Government Accountability Office Act of 2008
 - 2008-08-01 — Senate amendment proposed (on the floor): Amendment SA 5264 proposed by Senator Reid for Senator Lieberman.(consideration: CR S8073)
 - 2008-08-01 — Senate amendment submitted
 - 2008-08-01 — The committee amendments were withdrawn by Unanimous Consent.
+- 2008-09-09 — Cleared for White House.
+- 2008-09-09 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 5683.
+- 2008-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-09 — Mr. Davis (IL) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H7881-7884)
+- 2008-09-09 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H7881-7883)
+- 2008-09-09 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H7881-7883)
