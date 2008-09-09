@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6308
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6308
@@ -30,3 +30,8 @@ Municipal Bond Fairness Act
 - 2008-06-19 — Introduced in House
 - 2008-06-19 — Introduced in House
 - 2008-06-19 — Referred to the House Committee on Financial Services.
+- 2008-07-30 — Committee Consideration and Mark-up Session Held.
+- 2008-07-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-09-09 — Placed on the Union Calendar, Calendar No. 536.
+- 2008-09-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-835.
+- 2008-09-09 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-835.
