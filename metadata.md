@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1159
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1159
@@ -16,7 +16,7 @@ Recognizing the historical significance of the United States sloop-of-war Conste
 
 - Rep. Cummings, Elijah E. [D-MD-7] (C000984)
 
-## Cosponsors (28)
+## Cosponsors (34)
 
 - Rep. Meeks, Gregory W. [D-NY-6] (M001137)
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
@@ -46,6 +46,12 @@ Recognizing the historical significance of the United States sloop-of-war Conste
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -56,3 +62,9 @@ Recognizing the historical significance of the United States sloop-of-war Conste
 - 2008-04-29 — Introduced in House
 - 2008-04-29 — Introduced in House
 - 2008-04-29 — Referred to the House Committee on Foreign Affairs.
+- 2008-09-09 — Considered under suspension of the rules. (consideration: CR H7874-7876)
+- 2008-09-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1159.
+- 2008-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-09 — Ms. Jackson-Lee moved to suspend the rules and agree to the resolution.
+- 2008-09-09 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H7874)
+- 2008-09-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H7874)
