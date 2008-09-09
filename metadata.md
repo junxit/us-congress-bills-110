@@ -1,7 +1,7 @@
 ---
 measure: S. 2403
 congress: 110
-version: Reported in House
+version: Engrossed Amendment House
 ---
 
 # S. 2403
@@ -55,3 +55,7 @@ To designate the United States courthouse located in the 700 block of East Broad
 - 2008-09-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-824.
 - 2008-09-08 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-824.
 - 2008-09-08 — The title of the measure was amended. Agreed to without objection.
+- 2008-09-09 — Cleared for White House.
+- 2008-09-09 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2008-09-09 — Resolving differences -- Senate actions: Senate agreed to House amendments by Unanimous Consent.(consideration: CR S8217-8218; text as Senate agreed to House amendments: CR S8217)
+- 2008-09-09 — Senate agreed to House amendments by Unanimous Consent. (consideration: CR S8217-8218; text as Senate agreed to House amendments: CR S8217)
