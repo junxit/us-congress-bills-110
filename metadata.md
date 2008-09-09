@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 344
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 344
@@ -16,7 +16,7 @@ Recognizing the disproportionate impact of the global food crisis on children in
 
 - Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
 
-## Cosponsors (46)
+## Cosponsors (49)
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 - Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
@@ -64,13 +64,29 @@ Recognizing the disproportionate impact of the global food crisis on children in
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 - Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
 
 ## Committees (1)
 
 - House — Foreign Affairs Committee
+
+## Recorded votes (1)
+
+- 2008-09-09 — [House 110-2-570](votes/house-110-2-0570.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (404–1)
 
 ## Actions
 
 - 2008-05-07 — Introduced in House
 - 2008-05-07 — Introduced in House
 - 2008-05-07 — Referred to the House Committee on Foreign Affairs.
+- 2008-09-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-09 — Considered as unfinished business. (consideration: CR H7893-7894)
+- 2008-09-09 — Considered under suspension of the rules. (consideration: CR H7866-7869)
+- 2008-09-09 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 344.
+- 2008-09-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-09 — Ms. Jackson-Lee moved to suspend the rules and agree to the resolution, as amended.
+- 2008-09-09 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 1, 4 Present (Roll no. 570). (text: CR H7866)
+- 2008-09-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 1, 4 Present (Roll no. 570).(text: CR H7866)
+- 2008-09-09 — The title of the measure was amended. Agreed to without objection.
