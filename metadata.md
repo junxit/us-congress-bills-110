@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6456
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6456
@@ -20,9 +20,10 @@ To provide for extensions of certain authorities of the Department of State, and
 
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -35,3 +36,11 @@ To provide for extensions of certain authorities of the Department of State, and
 - 2008-07-30 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
 - 2008-07-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7336)
 - 2008-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7336)
+- 2008-07-31 — Received in the Senate.
+- 2008-08-01 — Read twice and referred to the Committee on Foreign Relations.
+- 2008-09-08 — Cleared for White House.
+- 2008-09-08 — Passed Senate without amendment by Unanimous Consent.
+- 2008-09-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-09-08 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S8141)
+- 2008-09-08 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S8141)
+- 2008-09-09 — Message on Senate action sent to the House.
