@@ -1,7 +1,7 @@
 ---
 measure: S. 2135
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,5 +37,3 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1101` | add-at-end | in the table of sections for chapter 213, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1182` | add-at-end | Section 212(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `8 U.S.C. § 1227` | add-at-end | Section 237(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(4)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1231` | add-at-end | Section 241(b)(3)(B) of the Immigration and Nationality Act (8 U.S.C. 1231(b)(3)(B)) is amended by adding at the end the following: “For purposes of clause (iii), an alien who is removable under section 237(a)(4)(F) or inadmissible under… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `8 U.S.C. § 1158` | add-at-end | Section 208(b)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1158(b)(2)(B) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
