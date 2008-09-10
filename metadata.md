@@ -1,7 +1,7 @@
 ---
 measure: S. 3052
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3052
@@ -29,3 +29,7 @@ Naval Vessel Transfer Act of 2008
 - 2008-05-22 — Introduced in Senate
 - 2008-05-22 — Read twice and referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4795-4796)
 - 2008-05-22 — Sponsor introductory remarks on measure. (CR  S4795)
+- 2008-07-29 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2008-09-10 — Committee on Foreign Relations. Reported by Senator Dodd without amendment. With written report No. 110-451.
+- 2008-09-10 — Committee on Foreign Relations. Reported by Senator Dodd without amendment. With written report No. 110-451.
+- 2008-09-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 949.
