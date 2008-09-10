@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6630
 congress: 110
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6630
@@ -60,9 +60,10 @@ To prohibit the Secretary of Transportation from granting authority to a motor c
 - Rep. Calvert, Ken [R-CA-44] (C000059)
 - Rep. Lipinski, Daniel [D-IL-3] (L000563)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ To prohibit the Secretary of Transportation from granting authority to a motor c
 - 2008-09-09 — Placed on the Union Calendar, Calendar No. 535.
 - 2008-09-09 — Reported by the Committee on Transportation. H. Rept. 110-833.
 - 2008-09-09 — Reported by the Committee on Transportation. H. Rept. 110-833.
+- 2008-09-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
