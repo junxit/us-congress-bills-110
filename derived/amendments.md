@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4081
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 6 executed, 16 stated and not applied.
+21 amendatory instructions. 6 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,7 +87,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `18 U.S.C. § 2341` | replace | The Act of October 19, 1949 (15 U.S.C. 375 et seq.; commonly referred to as the “Jenkins Act”) (referred to in this Act as the “Jenkins Act”), is amended by striking the first section and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 375` | replace | The Act of October 19, 1949 (15 U.S.C. 375 et seq.; commonly referred to as the “Jenkins Act”) (referred to in this Act as the “Jenkins Act”), is amended by striking the first section and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 376` | insert | by inserting “Contents.—” after “(a)” | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 376` | insert | by inserting “, locality, or Indian country of an Indian tribe” after “a State”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 376` | strike | by striking “to other than a distributor licensed by or located in such State,”; and | the bill quotes the text struck but describes what replaces it |
@@ -97,9 +97,8 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 376` | replace | by striking “, and (2)” and all that follows and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 376` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 14101` | insert | The Jenkins Act is amended by inserting after section 2 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2341` | replace | The Jenkins Act is amended by striking section 3 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 375` | replace | The Jenkins Act is amended by striking section 3 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 5712` | replace | The Jenkins Act is amended by striking section 4 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1716` | redesignate | by redesignating subsections (j) and (k) as subsections (k) and (l), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 1716` | insert | by inserting after subsection (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1716D` | insert | Chapter 83 of title 18, United States Code, is amended by inserting after section 1716D the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1716D` | amend | The table of sections at the beginning of chapter 83 of title 18 is amended by adding after the item relating to section 1716D the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2343` | amend | Section 2343(c) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2344` | amend | Section 2344(b) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
