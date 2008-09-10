@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1527
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1527
@@ -67,3 +67,12 @@ Rural Veterans Access to Care Act
 - 2008-08-01 — Placed on the Union Calendar, Calendar No. 530.
 - 2008-08-01 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-817.
 - 2008-08-01 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 110-817.
+- 2008-09-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-09 — Considered under suspension of the rules. (consideration: CR H7903-7907)
+- 2008-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1527.
+- 2008-09-09 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2008-09-10 — Considered as unfinished business. (consideration: CR H7968-7969)
+- 2008-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 578). (text: CR 9/09/2008 H7903)
+- 2008-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 578).(text: CR 9/09/2008 H7903)
+- 2008-09-10 — The title of the measure was amended. Agreed to without objection.

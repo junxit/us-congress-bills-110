@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1527
 
-> To amend title 38, United States Code, to allow highly rural veterans enrolled in the health system of the Department of Veterans Affairs to receive covered health services through providers other than those of the Department, and for other purposes.
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to conduct a pilot program to permit certain highly rural veterans enrolled in the health system of the Department of Veterans Affairs to receive covered health services through providers other than those of the Department.
 
 ## § 1. Short title
 
