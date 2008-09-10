@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4081
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4081
@@ -43,3 +43,7 @@ Prevent All Cigarette Trafficking Act of 2008
 - 2008-09-09 — Placed on the Union Calendar, Calendar No. 537.
 - 2008-09-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-836.
 - 2008-09-09 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-836.
+- 2008-09-10 — Considered as unfinished business. (consideration: CR H7987-7988)
+- 2008-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 379 - 12 (Roll No. 584). (text: CR 9/09/2008 H7918-7924)
+- 2008-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays (2/3 required): 379 - 12 (Roll No. 584).(text: CR 9/09/2008 H7918-7924)
