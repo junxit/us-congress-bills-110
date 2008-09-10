@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1527
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 1703 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1703` | add-at-end | Section 1703 of title 38, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
