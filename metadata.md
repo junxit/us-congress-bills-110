@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6168
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6168
@@ -27,9 +27,10 @@ To designate the facility of the United States Postal Service located at 112 Sou
 - Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 - Rep. Skelton, Ike [D-MO-4] (S000465)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ To designate the facility of the United States Postal Service located at 112 Sou
 - 2008-09-09 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2008-09-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 574). (text: CR H7884)
 - 2008-09-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 403 - 0 (Roll no. 574).(text: CR H7884)
+- 2008-09-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
