@@ -9,25 +9,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the National Trails System Act to provide for the inclusion of new trail segments, land components, and campgrounds associated with the Trail of Tears National Historic Trail, and for other purposes.
 
-## § 1. Additions to Trail of Tears National Historic Trail
+## § 1. Short title
+
+This Act may be cited as the “Trail of Tears Documentation Act”.
+
+## § 2. Additions to Trail of Tears National Historic Trail
 
 Section 5(a)(16) of the National Trails System Act (16 U.S.C. 1244(a)(16)) is amended as follows:
 
 - **(1)** By amending subparagraph (C) to read as follows:
-  > - **(C)** In addition to the areas otherwise designated under this paragraph, the following routes and land components by which the Cherokee Nation was removed to Oklahoma are components of the Trail of Tears National Historic Trail:
+  > - **(C)** In addition to the areas otherwise designated under this paragraph, the following routes and land components by which the Cherokee Nation was removed to Oklahoma are components of the Trail of Tears National Historic Trail, as generally described in the environmentally preferred alternative of the November 2007 Feasibility Study Amendment and Environmental Assessment for Trail of Tears National Historic Trail:
   >   - **(i)** The Benge and Bell routes.
   >   - **(ii)** The land components of the designated water routes in Alabama, Arkansas, Oklahoma, and Tennessee.
   >   - **(iii)** The routes from the collection forts in Alabama, Georgia, North Carolina, and Tennessee to the emigration depots.
   >   - **(iv)** The related campgrounds located along the routes and land components described in clauses (i) through (iii).
 
-- **(2)** By striking the first sentence in subparagraph (D).
-- **(3)** By adding at the end the following new subparagraphs:
-  > - **(E)** The Secretary may not use eminent domain to acquire lands for the Trail of Tears National Historic Trail and shall only include lands in that trail that are consistent with and appropriate to the purpose for which the trail was designated.
-  > - **(F)** Nothing in this paragraph shall be construed to—
-  >   - **(i)** require any private property owner to allow public access (including Federal, State, or local government access) to such private property;
-  >   - **(ii)** modify any provision of Federal, State, or local law with regard to public access to or use of private property;
-  >   - **(iii)** modify the authority of Federal, State, or local governments to regulate land use;
-  >   - **(iv)** require the owner of any private property located within the boundaries of the trail to participate in or be associated with the trail;
-  >   - **(v)** provide any nonexisting regulatory authority on land use within the trail; or
-  >   - **(vi)** be considered to create any liability, or to have any effect on any liability under any other law, of any private property owner with respect to any persons injured on such private property.
-  > - **(G)** The boundaries designated for the trail represent the area within which Federal funds appropriated for the purpose of this paragraph may be expended.
+- **(2)** In subparagraph (D)—
+  - **(A)** by striking the first sentence; and
+  - **(B)** by adding at the end the following: “No lands or interests in lands outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Trail of Tears National Historic Trail except with the consent of the owner thereof.”.
