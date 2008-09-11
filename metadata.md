@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6532
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6532
@@ -172,3 +172,7 @@ To amend the Internal Revenue Code of 1986 to restore the Highway Trust Fund bal
 - 2008-09-11 — Presented to President.
 - 2008-09-11 — Presented to President.
 - 2008-09-11 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 376 - 29 (Roll no. 587).(text as House agreed to Senate amendment: CR H8039)
+- 2008-09-15 — Became Public Law No: 110-318.
+- 2008-09-15 — Became Public Law No: 110-318.
+- 2008-09-15 — Signed by President.
+- 2008-09-15 — Signed by President.
