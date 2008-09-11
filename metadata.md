@@ -1,7 +1,7 @@
 ---
 measure: S. 3406
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3406
@@ -16,7 +16,7 @@ ADA Amendments Act of 2008
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 
-## Cosponsors (64)
+## Cosponsors (77)
 
 - Sen. Hatch, Orrin G. [R-UT] (H000338)
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
@@ -82,6 +82,19 @@ ADA Amendments Act of 2008
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
 - Sen. Menendez, Robert [D-NJ] (M000639)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
 
 ## Actions
 
@@ -89,3 +102,6 @@ ADA Amendments Act of 2008
 - 2008-07-31 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (text of measure as introduced: CR S7957-7959)
 - 2008-07-31 — Sponsor introductory remarks on measure. (CR S7956-7957)
 - 2008-08-01 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 927.
+- 2008-09-11 — Message on Senate action sent to the House.
+- 2008-09-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8342-8356; text as passed Senate: CR S8342-8344)
+- 2008-09-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8342-8356; text as passed Senate: CR S8342-8344)
