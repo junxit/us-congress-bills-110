@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6177
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6177
@@ -25,3 +25,11 @@ Rio Grande Wild and Scenic River Extension Act of 2008
 - 2008-06-04 — Introduced in House
 - 2008-06-04 — Introduced in House
 - 2008-06-04 — Referred to the House Committee on Natural Resources.
+- 2008-06-10 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-07-10 — Subcommittee Hearings Held.
+- 2008-07-23 — Committee Consideration and Mark-up Session Held.
+- 2008-07-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-23 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-09-11 — Placed on the Union Calendar, Calendar No. 538.
+- 2008-09-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-838.
+- 2008-09-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-838.
