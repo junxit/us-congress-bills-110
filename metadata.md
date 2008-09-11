@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6532
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6532
@@ -128,13 +128,15 @@ To amend the Internal Revenue Code of 1986 to restore the Highway Trust Fund bal
 - Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2008-07-23 — [House 110-2-518](votes/house-110-2-0518.md) — On Motion to Suspend the Rules and Pass — **Passed** (387–37)
+- 2008-09-11 — [House 110-2-587](votes/house-110-2-0587.md) — On Motion to Suspend the Rules and Agree to the Senate Amendment — **Passed** (376–29)
 
 ## Actions
 
@@ -149,3 +151,24 @@ To amend the Internal Revenue Code of 1986 to restore the Highway Trust Fund bal
 - 2008-07-23 — Mr. Lewis (GA) moved to suspend the rules and pass the bill.
 - 2008-07-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 37 (Roll no. 518). (text: CR H6833)
 - 2008-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 387 - 37 (Roll no. 518).(text: CR H6833)
+- 2008-07-24 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2008-09-10 — Amendment SA 5427 agreed to in Senate by Unanimous Consent.
+- 2008-09-10 — Amendment SA 5427 proposed by Senator Boxer for Senator Baucus. (consideration: CR S8257; text: CR S8257) To change the date of restoration.
+- 2008-09-10 — Cleared for White House.
+- 2008-09-10 — Measure laid before Senate by unanimous consent. (consideration: CR S8256-8264)
+- 2008-09-10 — Message on Senate action sent to the House.
+- 2008-09-10 — Passed Senate with an amendment by Voice Vote. (text: CR S8263)
+- 2008-09-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.(text: CR S8263)
+- 2008-09-10 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2008-09-10 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2008-09-10 — Senate amendment agreed to: Amendment SA 5427 agreed to in Senate by Unanimous Consent.
+- 2008-09-10 — Senate amendment proposed (on the floor): Amendment SA 5427 proposed by Senator Boxer for Senator Baucus.(consideration: CR S8257; text: CR S8257)
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-11 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2008-09-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6532.
+- 2008-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-11 — Mr. Lewis (GA) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H8039-8043, H8045)
+- 2008-09-11 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 376 - 29 (Roll no. 587). (text as House agreed to Senate amendment: CR H8039)
+- 2008-09-11 — Presented to President.
+- 2008-09-11 — Presented to President.
+- 2008-09-11 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 376 - 29 (Roll no. 587).(text as House agreed to Senate amendment: CR H8039)
