@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6513
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6513
@@ -43,3 +43,11 @@ Securities Act of 2008
 - 2008-07-16 — Introduced in House
 - 2008-07-16 — Introduced in House
 - 2008-07-16 — Referred to the House Committee on Financial Services.
+- 2008-09-09 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Ehlers objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-09 — Considered under suspension of the rules. (consideration: CR H7888-7893)
+- 2008-09-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6513.
+- 2008-09-09 — Mr. Kanjorski moved to suspend the rules and pass the bill, as amended.
+- 2008-09-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-11 — ORDER OF PROCEDURE - Mr. Hoyer asked unanimous consent that the motion to suspend the rules be considered as adopted in the form considered by the House on Tuesday, September 9, 2008. (consideration: CR H8025)
+- 2008-09-11 — On motion to suspend the rules and pass the bill, as amended Agreed to without objection. (text: CR 09/09/2008 H7888-7892)
+- 2008-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to without objection.(text: CR 09/09/2008 H7888-7892)
