@@ -1,7 +1,7 @@
 ---
 measure: S. 3328
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3328
@@ -28,3 +28,7 @@ A bill to amend the Homeland Security Act of 2002 to provide for a one-year exte
 
 - 2008-07-24 — Introduced in Senate
 - 2008-07-24 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-09-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-454.
+- 2008-09-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-454.
+- 2008-09-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 952.
