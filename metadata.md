@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5335
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5335
@@ -16,7 +16,7 @@ Trail of Tears Documentation Act
 
 - Rep. Wamp, Zach [R-TN-3] (W000119)
 
-## Cosponsors (17)
+## Cosponsors (21)
 
 - Rep. Aderholt, Robert B. [R-AL-4] (A000055)
 - Rep. Boozman, John [R-AR-3] (B001236)
@@ -35,6 +35,10 @@ Trail of Tears Documentation Act
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
 - Rep. Price, Tom [R-GA-6] (P000591)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+- Rep. Emerson, Jo Ann [R-MO-8] (E000172)
+- Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Linder, John [R-GA-7] (L000321)
 
 ## Committees (1)
 
@@ -45,3 +49,11 @@ Trail of Tears Documentation Act
 - 2008-02-08 — Introduced in House
 - 2008-02-08 — Introduced in House
 - 2008-02-08 — Referred to the House Committee on Natural Resources.
+- 2008-02-13 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-07-15 — Subcommittee Hearings Held.
+- 2008-07-23 — Committee Consideration and Mark-up Session Held.
+- 2008-07-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-23 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-09-11 — Placed on the Union Calendar, Calendar No. 540.
+- 2008-09-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-840.
+- 2008-09-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-840.

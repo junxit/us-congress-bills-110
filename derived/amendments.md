@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5335
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 1244` | amend | By amending subparagraph (C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244` | strike | By striking the first sentence in subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1244` | amend | By adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | strike | by striking the first sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1244` | add-at-end | by adding at the end the following: “No lands or interests in lands outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Trail of Tears National Historic Trail except with t… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
