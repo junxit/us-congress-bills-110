@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6832
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-46 amendatory instructions. 6 executed, 40 stated and not applied.
+46 amendatory instructions. 8 executed, 38 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,6 +41,24 @@ to guess them.
 |---|---|
 | Removed | `September 30, 2008` |
 | Inserted | `September 30, 2010` |
+
+### 38 U.S.C. § 3707
+
+> Section 3707(a) of title 38, United States Code, is amended by striking “2008” and inserting “2012”.
+
+| | |
+|---|---|
+| Removed | `2008` |
+| Inserted | `2012` |
+
+### 38 U.S.C. § 3707
+
+> Section 3707A(a) of such title is amended by striking “2008” and inserting “2012”.
+
+| | |
+|---|---|
+| Removed | `2008` |
+| Inserted | `2012` |
 
 ### 38 U.S.C. § 1712A
 
@@ -98,20 +116,18 @@ complete account of the bill's effect, which it is not.
 | — | replace | Paragraph (12) of such section is amended by striking “$189,205,000” and inserting “$295,600,000”. | the bill names no machine-readable US Code section |
 | `31 U.S.C. § 1105` | add-at-end | Subchapter I of chapter 81 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 1105` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end of the items relating to subchapter I the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | by striking paragraph (10); and | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subparagraph (D) the following new subparagraph (E): | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1701` | strike | by striking paragraph (10); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | redesignate | by redesignating subparagraphs (E) and (F) as subparagraphs (F) and (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | insert | by inserting after subparagraph (D) the following new subparagraph (E): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1703` | replace | Section 1703(d)(4) of title 38, United States Code, is amended by striking September 30, 2008 and inserting September 30, 2013. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1710` | insert | in subparagraph (B), by inserting “and” after the semicolon; | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1710` | replace | in subparagraph (C), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 1710` | strike | by striking subparagraph (D). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 1710(f)(2)(B) of title 38, United States Code, is amended by striking September 30, 2008 and inserting September 30, 2010. | the bill names no machine-readable US Code section |
-| — | replace | Section 1729(a)(2)(E) of title 38, United States Code, is amended by striking October 1, 2008 and inserting October 1, 2010. | the bill names no machine-readable US Code section |
-| — | replace | Section 1710A(d) of title 38, United States Code, is amended by striking December 31, 2008 and inserting December 31, 2013. | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1710` | replace | Section 1710(f)(2)(B) of title 38, United States Code, is amended by striking September 30, 2008 and inserting September 30, 2010. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1729` | replace | Section 1729(a)(2)(E) of title 38, United States Code, is amended by striking October 1, 2008 and inserting October 1, 2010. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1710A` | replace | Section 1710A(d) of title 38, United States Code, is amended by striking December 31, 2008 and inserting December 31, 2013. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | Title 38, United States Code, is amended by striking section 7368. | the bill names no machine-readable US Code section |
 | — | strike | The table of sections at the beginning of chapter 73 of such title is amended by striking the item relating to section 7368. | the bill names no machine-readable US Code section |
-| — | replace | Section 3707(a) of title 38, United States Code, is amended by striking “2008” and inserting “2012”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3707A(a) of such title is amended by striking “2008” and inserting “2012”. | the bill names no machine-readable US Code section |
 | `38 U.S.C. § 542` | strike | Section 542(c)(1) of title 38, United States Code, is amended by striking “through 2008”. | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 544` | strike | Section 544 of title 38, United States Code, is amended by striking subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 2201 of the Housing and Economic Recovery Act of 2008 (Public Law 110–289) is amended by striking “December 31, 2008” and inserting “December 31, 2011”. | the bill names no machine-readable US Code section |
