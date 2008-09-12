@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2352
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “School Safety Enhancements Act of 2007”.
+This Act may be cited as the “School Safety Enhancements Act of 2008”.
