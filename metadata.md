@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6608
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6608
@@ -47,3 +47,4 @@ House Reservists Pay Adjustment Act of 2008
 - 2008-09-11 — ORDER OF PROCEDURE - Mr. Lewis of Georgia asked unanimous consent that the ordering of the yeas and nays be vacated with respect to the motion to suspend the rules and pass H.R. 6608 to the end that the motion be considered as adopted in the form considered by the House on Tuesday, September 9, 2008. (consideration: CR H8038-8039)
 - 2008-09-11 — On motion to suspend the rules and pass the bill Agreed to without objection. (text: CR 09/09/2008 H7897-7899)
 - 2008-09-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to without objection.(text: CR 09/09/2008 H7897-7899)
+- 2008-09-12 — Received in the Senate.

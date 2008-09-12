@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6608
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Clause 8 of rule XXIII of the Rules of the House of Representatives is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| `2 U.S.C. § 125` | add-at-end | The last undesignated paragraph under the center heading “House of Representatives” and the center subheading “Contingent Expenses of the House” in the first section of the Legislative Branch Appropriation Act, 1955 (2 U.S.C. 125), is am… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | The last undesignated paragraph under the center heading “House of Representatives” and the center subheading “Contingent Expenses of the House” in the first section of the Legislative Branch Appropriation Act, 1955 (2 U.S.C. 125), is am… | the bill names no machine-readable US Code section |
