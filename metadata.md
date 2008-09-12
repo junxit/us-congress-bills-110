@@ -1,7 +1,7 @@
 ---
 measure: S. 2617
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2617
@@ -45,3 +45,15 @@ Veterans' Compensation Cost-of-Living Adjustment Act of 2008
 - 2008-07-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 897.
 - 2008-07-30 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S7795-7797; text: CR S7795-7796)
 - 2008-07-30 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S7795-7797; text: CR S7795-7796)
+- 2008-07-31 — Held at the desk.
+- 2008-07-31 — Message on Senate action sent to the House.
+- 2008-07-31 — Received in the House.
+- 2008-09-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-09 — Considered under suspension of the rules. (consideration: CR H7907-7909)
+- 2008-09-09 — DEBATE - The House proceeded with forty minutes of debate on S. 2617.
+- 2008-09-09 — Mr. Filner moved to suspend the rules and pass the bill.
+- 2008-09-10 — Cleared for White House.
+- 2008-09-10 — Considered as unfinished business. (consideration: CR H7969-7970)
+- 2008-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 579). (text: CR 9/9/2008 H7907-7908)
+- 2008-09-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 579).(text: CR 9/9/2008 H7907-7908)
