@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6460
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6460
@@ -16,9 +16,54 @@ Great Lakes Legacy Reauthorization Act of 2008
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 
-## Cosponsors (1)
+## Cosponsors (46)
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Kildee, Dale E. [D-MI-5] (K000172)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Kirk, Mark Steven [R-IL-10] (K000360)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Kuhl, John R. "Randy", Jr. [R-NY-29] (K000364)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Tiberi, Patrick J. [R-OH-12] (T000462)
+- Rep. Biggert, Judy [R-IL-13] (B001232)
+- Rep. Capito, Shelley Moore [R-WV-2] (C001047)
+- Rep. Bartlett, Roscoe G. [R-MD-6] (B000208)
+- Rep. Regula, Ralph [R-OH-16] (R000141)
+- Rep. Dent, Charles W. [R-PA-15] (D000604)
+- Rep. Camp, Dave [R-MI-4] (C000071)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Hoekstra, Peter [R-MI-2] (H000676)
+- Rep. Knollenberg, Joe [R-MI-9] (K000288)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Dingell, John D. [D-MI-15] (D000355)
+- Rep. Walberg, Timothy [R-MI-7] (W000798)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Visclosky, Peter J. [D-IN-1] (V000108)
+- Rep. Petri, Thomas E. [R-WI-6] (P000265)
+- Rep. Emanuel, Rahm [D-IL-5] (E000287)
+- Rep. Stupak, Bart [D-MI-1] (S001045)
+- Rep. Higgins, Brian [D-NY-27] (H001038)
+- Rep. Reynolds, Thomas M. [R-NY-26] (R000569)
+- Rep. Wilson, Charles A. [D-OH-6] (W000801)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Ryan, Tim [D-OH-17] (R000577)
 
 ## Committees (2)
 
@@ -32,3 +77,13 @@ Great Lakes Legacy Reauthorization Act of 2008
 - 2008-07-10 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-10 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-10 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Science and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-07-11 — Referred to the Subcommittee on Water Resources and Environment.
+- 2008-07-14 — Referred to the Subcommittee on Energy and Environment.
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-31 — Subcommittee on Water Resources and Environment Discharged.
+- 2008-09-15 — Committee on Science and Technology discharged.
+- 2008-09-15 — Committee on Science and Technology discharged.
+- 2008-09-15 — Placed on the Union Calendar, Calendar No. 549.
+- 2008-09-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-849, Part I.
+- 2008-09-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-849, Part I.
