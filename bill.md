@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Termination of mainstream tenant-based rental assistance program* Section 811 is amended—
   - **(1)** in subsection (b)—
-    - **(A)** by striking the subsection designation and all that follows through the end of subparagraph (B) of paragraph (2) and inserting the following:
+    - **(A)** by striking the first subsection designation and all that follows through the end of subparagraph (B) of paragraph (2) and inserting the following:
       > - **(b)** *Authority To provide assistance* The Secretary is authorized to provide assistance to private nonprofit organizations to expand the supply of supportive housing for persons with disabilities, which shall be provided as—
       >   - **(1)** capital advances in accordance with subsection (d)(1), and
       >   - **(2)** contracts for project rental assistance in accordance with subsection (d)(2).
@@ -40,8 +40,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
     - **(C)** by striking “annual contract amount” each place such term appears and inserting “amount provided under the contract for each year covered by the contract”; and
     - **(D)** by adding at the end the following new subparagraph:
       > - **(B)** *Renewal of and increases in contract amounts*
-      >   - **(i)** *Expiration of contract term* Upon the expiration of each contract term, subject to the availability of amounts made available in appropriation Acts, the Secretary shall adjust the annual contract amount to provide for reasonable project costs, and any increases, including adequate reserves, supportive services, and service coordinators, except that any contract amounts not used by a project during a contract term shall not be available for such adjustments upon renewal.
-      >   - **(ii)** *Emergency situations* In the event of emergency situations that are outside the control of the owner, the Secretary shall increase the annual contract amount, subject to reasonable review and limitations as the Secretary shall provide and to the availability of amounts made available in appropriation Acts.
+      >   - **(i)** *Expiration of contract term* Upon the expiration of each contract term, subject to the availability of amounts made available in appropriation Acts, the Secretary shall adjust the annual contract amount to provide for reasonable project costs, and any increases, including adequate reserves and service coordinators, except that any contract amounts not used by a project during a contract term shall not be available for such adjustments upon renewal.
+      >   - **(ii)** *Emergency situations* In the event of emergency situations that are outside the control of the owner, the Secretary shall increase the annual contract amount, subject to reasonable review and limitations as the Secretary shall provide.
 
   - **(2)** in subsection (e)(2)—
     - **(A)** in the first sentence, by inserting before the period at the end the following: “, except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 or with any tax-exempt housing bonds, the contract shall have an initial term of not be less than 360 months and shall provide funding for a term of 60 months”; and
@@ -122,10 +122,10 @@ Section 811, as amended by the preceding provisions of this Act, is further amen
 - **(1)** by redesignating subsections (k) through (n) as subsections (l) through (o), respectively; and
 - **(2)** by inserting after subsection (j) the following new subsection:
   > - **(k)** *Project rental assistance-only competitive demonstration program*
-  >   - **(1)** *Authority* The Secretary shall carry out a demonstration program under this subsection to expand the supply of supportive housing for non-elderly adults with disabilities, under which the Secretary shall make funds available for project rental assistance pursuant to paragraph (2) for eligible projects under paragraph (3). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projects based upon criteria established by the Secretary for the demonstration program under this subsection.
+  >   - **(1)** *Authority* The Secretary shall carry out a demonstration program under this subsection to expand the supply of supportive housing for non-elderly adults with disabilities, under which the Secretary shall make funds available for project rental assistance pursuant to paragraph (2) for eligible projects under paragraph (3). The Secretary shall provide for State housing finance agencies and other appropriate entities to apply to the Secretary for such project rental assistance funds, which shall be made available by such agencies and entities for dwelling units in eligible projects based upon criteria established by the Secretary for the demonstration program under this subsection. The Secretary may not require any State housing finance agency or other entity applying for project rental assistance funds under the demonstration program to identify in such application the eligible projects for which such funds will be used, and shall allow such agencies and applicants to subsequently identify such eligible projects pursuant to the making of commitments described in paragraph (3)(B).
   >   - **(2)** *Project rental assistance*
   >     - **(A)** *Contract terms* Project rental assistance under the demonstration program under this subsection shall be provided—
-  >       - **(i)** in accordance with subsection (d)(2);
+  >       - **(i)** in accordance with subsection (d)(2); and
   >       - **(ii)** under a contract having an initial term of not less than 180 months that provides funding for a term 60 months, which funding shall be renewed upon expiration, subject to the availability of sufficient amounts in appropriation Acts.
   >     - **(B)** *Limitation on units assisted* Of the total number of dwelling units in any multifamily housing project containing any unit for which project rental assistance under the demonstration program under this subsection is provided, the aggregate number that are provided such project rental assistance, that are used for supportive housing for persons with disabilities, or to which any occupancy preference for persons with disabilities applies, may not exceed 25 percent of such total.
   >     - **(C)** *Prohibition of capital advances* The Secretary may not provide a capital advance under subsection (d)(1) for any project for which assistance is provided under the demonstration program.
@@ -187,7 +187,7 @@ Section 811 is amended—
   - **(B)** by striking paragraph (2) and inserting the following:
     > - **(2)**
     >   - **(A)** The term person with disabilities means a person who is 18 years of age or older and less than 62 years of age, who—
-    >     - **(i)** has a disability as defined in section 223 of the Social Security Act,
+    >     - **(i)** has a disability as defined in section 223 of the Social Security Act;
     >     - **(ii)** is determined, pursuant to regulations issued by the Secretary, to have a physical, mental, or emotional impairment which—
     >       - **(I)** is expected to be of long-continued and indefinite duration;
     >       - **(II)** substantially impedes his or her ability to live independently; and
@@ -220,3 +220,11 @@ Subsection (n) of section 811 (as so redesignated by section 4(1) of this Act) i
 ## § 7. New regulations and program guidance
 
 Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall issue new regulations and guidance for the program under section 811 of the Cranston-Gonzalez National Affordable Housing Act for supportive housing for persons with disabilities to carry out such program in accordance with the amendments made by this Act.
+
+## § 8. GAO study
+
+The Comptroller General of the United States shall conduct a study of the supportive housing for persons with disabilities program under section 811 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013) to determine the adequacy and effectiveness of such program in assisting households of persons with disabilities. Such study shall determine—
+
+- **(1)** the total number of households assisted under such program;
+- **(2)** the extent to which households assisted under other programs of the Department of Housing and Urban Development that provide rental assistance or rental housing would be eligible to receive assistance under such section 811 program; and
+- **(3)** the extent to which households described in paragraph (2) who are eligible for, but not receiving, assistance under such section 811 program are receiving supportive services from, or assisted by, the Department of Housing and Urban Development other than through the section 811 program (including under the Resident Opportunity and Self-Sufficiency program) or from other sources.
