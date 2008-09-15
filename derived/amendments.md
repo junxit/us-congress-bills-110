@@ -1,7 +1,7 @@
 ---
 measure: S. 1276
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in subparagraph (A)(iii), by striking “a written or electronic list” and inserting “a written list or an electronic list that complies with subparagraph (H)”; and | the bill names no machine-readable US Code section |
+| — | replace | Section 310(e)(1)(A) of the Controlled Substances Act (21 U.S.C. 830(e)(1)(A)) is amended by striking clauses (iv) through (vi) and inserting the following: | the bill names no machine-readable US Code section |
