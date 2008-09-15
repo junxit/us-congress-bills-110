@@ -19,6 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the 28th Infantry Division contributed to military operations in Normandy, Northern France, Rhineland, Ardennes-Alsace, and Central Europe during World War II;
 - Whereas the 28th Infantry Division’s perseverance through the harsh winter of 1944–1945 on the western front led to a decisive victory in the Battle for the Huertgen Forest, the longest single battle engaged by the Army;
 - Whereas soon after the Battle of the Huertgen Forest, the 28th Infantry Division withstood the onslaught of the main thrust of the last great German offensive during the Battle of the Bulge, giving time for reinforcements to arrive and defeat the Germans;
+- Whereas the 28th Infantry Division was activated again in 1950 to serve in Germany;
 - Whereas the 28th Infantry Division was folded into the Army Selective Reserve Force during the Vietnam War;
 - Whereas the 28th Infantry Division aided relief efforts throughout the devastating aftermath of Hurricane Agnes in 1972;
 - Whereas the 28th Infantry Division was called into action during the partial meltdown of the nuclear reactor of Three Mile Island Nuclear Generating Station in 1979;
