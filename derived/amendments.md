@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5772
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `assistance under this paragraph` |
 | Inserted | `Assistance under this subsection` |
 
-### 42 U.S.C. § 8013
+### 26 U.S.C. § 42
 
 > by striking “annual contract amount” each place such term appears and inserting “amount provided under the contract for each year covered by the contract”; and
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `annual contract amount` |
 | Inserted | `amount provided under the contract for each year covered by the contract` |
 
-### 42 U.S.C. § 8013
+### 26 U.S.C. § 42
 
 > by striking “extend any expiring contract” and insert “upon expiration of a contract (or any renewed contract), renew such contract”.
 
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `Selection criteria.—` |
 | Inserted | `Selection criteria and processing.—(1) Selection criteria.—` |
 
-### 42 U.S.C. § 8013
+### 26 U.S.C. § 42
 
 > in the first sentence, by striking “various types and sizes” and inserting “group homes”;
 
@@ -78,36 +78,36 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 1437f` | replace | by striking the subsection designation and all that follows through the end of subparagraph (B) of paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437f` | replace | by striking the first subsection designation and all that follows through the end of subparagraph (B) of paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | strike | in subsection (d), by striking paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | strike | in subsection (l), by striking paragraph (1). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | add-at-end | Section 811 is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | insert | by inserting “(A) Initial project rental assistance contract.—” after “Project rental assistance.—” | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 8013` | insert | in the first sentence, by inserting after “shall” the following: “comply with subsection (e)(2) and shall”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | insert | in the first sentence, by inserting before the period at the end the following: “, except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | replace | by striking the subsection heading and inserting the following: “Program requirements”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | replace | by striking paragraph (1) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | amend | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | strike | in subsection (l), by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | insert | by inserting “(A) Initial project rental assistance contract.—” after “Project rental assistance.—” | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 42` | insert | in the first sentence, by inserting after “shall” the following: “comply with subsection (e)(2) and shall”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | insert | in the first sentence, by inserting before the period at the end the following: “, except that, in the case of the sponsor of a project assisted with any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | replace | by striking the subsection heading and inserting the following: “Program requirements”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | replace | by striking paragraph (1) and inserting the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | strike | in subsection (l), by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 8013` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), and (7) as subparagraphs (A), (B), (C), (D), (E), (G), and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | redesignate | Paragraph (1) of section 811(g) (as so designated by subsection (c)(1) of this section) is amended by inserting after subparagraph (E) (as so redesignated by subsection (c)(2) of this section) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | replace | Section 811 is amended by striking subsection (i) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | replace | by striking the paragraph heading and inserting “Group homes”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 8013` | strike | by striking subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | redesignate | by redesignating subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | insert | in paragraph (3), by inserting “established pursuant to paragraph (1)” after “cost limitation”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 8013` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | strike | in paragraph (1), by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 8013` | strike | in paragraph (4), by striking “(or such higher number of persons” and all that follows through “subsection (h)(6))”. | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 8013` | insert | Subsection (l) of section 811, as amended by the preceding provisions of this Act, is further amended by inserting before paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 8013` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | redesignate | Paragraph (1) of section 811(g) (as so designated by subsection (c)(1) of this section) is amended by inserting after subparagraph (E) (as so redesignated by subsection (c)(2) of this section) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | replace | Section 811 is amended by striking subsection (i) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | replace | by striking the paragraph heading and inserting “Group homes”; | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 42` | strike | by striking subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | redesignate | by redesignating subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | insert | in paragraph (3), by inserting “established pursuant to paragraph (1)” after “cost limitation”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 42` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | strike | in paragraph (1), by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 42` | strike | in paragraph (4), by striking “(or such higher number of persons” and all that follows through “subsection (h)(6))”. | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 42` | insert | Subsection (l) of section 811, as amended by the preceding provisions of this Act, is further amended by inserting before paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | redesignate | by redesignating subsections (k) through (n) as subsections (l) through (o), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | insert | by inserting after subsection (j) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in paragraph (1), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | by striking “provides” and inserting “makes available”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; and” ; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “special” and inserting “housing and community-based services”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subparagraph (A) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking the comma and inserting a semicolon; | the bill names no machine-readable US Code section |
