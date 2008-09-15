@@ -1,7 +1,7 @@
 ---
 measure: S. 3325
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3325
@@ -16,13 +16,16 @@ Prioritizing Resources and Organization for Intellectual Property Act of 2008
 
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Sen. Specter, Arlen [R-PA] (S000709)
 - Sen. Bayh, Evan [D-IN] (B001233)
 - Sen. Voinovich, George V. [R-OH] (V000126)
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
 ## Committees (1)
 
@@ -33,3 +36,7 @@ Prioritizing Resources and Organization for Intellectual Property Act of 2008
 - 2008-07-24 — Introduced in Senate
 - 2008-07-24 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S7281-7286)
 - 2008-07-24 — Sponsor introductory remarks on measure. (CR S7280-7281)
+- 2008-09-11 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2008-09-15 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2008-09-15 — Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.
+- 2008-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 964.
