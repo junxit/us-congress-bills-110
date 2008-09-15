@@ -14,4 +14,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 Public Law 108–331 (118 Stat. 1281) is amended—
 
 - **(1)** in the long title, by striking “on Kitt Peak near Tucson, Arizona” and inserting “in Arizona”; and
-- **(2)** in section 1, by striking “on Kitt Peak near Tucson, Arizona” and inserting “at the Fred Law-rence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location”.
+- **(2)** in section 1, by striking “on Kitt Peak near Tucson, Arizona” and inserting “at the Fred Lawrence Whipple Observatory Base Camp on Mount Hopkins, Arizona, or other similar location”.

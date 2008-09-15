@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 110
-version: Referred in House
+version: Reported in House
 ---
 
 # S.J.Res. 35
@@ -37,3 +37,10 @@ A joint resolution to amend Public Law 108-331 to provide for the construction a
 - 2008-07-18 — Message on Senate action sent to the House.
 - 2008-07-21 — Received in the House.
 - 2008-07-21 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-07-22 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Ordered to be Reported by Voice Vote.
+- 2008-07-31 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-09-15 — Placed on the Union Calendar, Calendar No. 551.
+- 2008-09-15 — Reported by the Committee on Transportation. H. Rept. 110-850.
+- 2008-09-15 — Reported by the Committee on Transportation. H. Rept. 110-850.
