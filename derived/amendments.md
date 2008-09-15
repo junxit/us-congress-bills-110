@@ -1,7 +1,7 @@
 ---
 measure: S. 3325
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-77 amendatory instructions. 0 executed, 77 stated and not applied.
+80 amendatory instructions. 0 executed, 80 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -49,6 +49,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “and of all plates” and inserting “, of all plates”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period and inserting “, and of records documenting the manufacture, sale, or receipt of things involved in such violation. The court shall enter, if appropriate, a protective order with respect to discovery of any records… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 34(d)(1)(A) of the Trademark Act (15 U.S.C. 1116(d)(1)(A)) is amended by adding at the end the following: “The court shall enter, if appropriate, a protective order with respect to discovery of any records that have been seized. … | the bill names no machine-readable US Code section |
+| — | amend | Section 503(a) of title 17, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 34(d)(7) of the Trademark Act (15 U.S.C. 1116(d)(7)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 35(b) of the Trademark Act of 1946 (15 U.S.C. 1117(b)) is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | by striking “$500” and inserting “$1,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “$100,000” and inserting “$200,000”; and | the bill names no machine-readable US Code section |
@@ -106,5 +108,6 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 596(c)(2)(c) of the Tariff Act of 1950 (19 U.S.C. 1595a(c)(2)(c)) is amended by striking “or 509”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5312 of title 5, United States Code, is amended by adding at the end the following: “United States Intellectual Property Enforcement Coordinator.”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 653 of the Treasury and General Government Appropriations Act, 2000 (15 U.S.C. 1128) is repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Section 653 of the Treasury and General Government Appropriations Act, 2000 (15 U.S.C. 1128) is repealed effective upon confirmation of the IPEC by the Senate and publication of such appointment in the Congressional Record. | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b), by inserting after “computer crime” each place it appears the following: “, including infringement of copyrighted works over the Internet”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e)(1), relating to authorization of appropriations, by striking “fiscal years 2001 through 2004” and inserting “fiscal years 2009 through 2013”. | the bill names no machine-readable US Code section |
