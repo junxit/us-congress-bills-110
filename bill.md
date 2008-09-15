@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5167
 
-> To terminate the authority of the President to waive, with regard to Iraq, certain provisions under the National Defense Authorization Act for Fiscal Year 2008 unless certain conditions are met.
+> To amend the National Defense Authorization Act for Fiscal Year 2008 to remove the authority of the President to waive certain provisions.
 
 ## § 1. Short title
 
@@ -47,7 +47,7 @@ The Congress finds the following:
         - **(II)** negotiations are ongoing with the Government of Iraq to settle the claims in the cases referred to in subsection (b), and the President believes that those negotiations are being conducted in good faith and could lead to a satisfactory settlement of those claims; or
       - **(ii)** if a certification is made under clause (i), the day after the date on which that certification terminates or, if a subsequent certification is in effect under subparagraph (B), the day after the date on which the last such certification terminates.
     - **(B)** *Duration of certifications* A certification under subclause (I) or (II) of subparagraph (A)(i) terminates 180 days after it is made. The President may make subsequent certifications under subclause (I) or (II) of subparagraph (A)(i) for periods of not more than 180 days each.
-- **(b)** *Cases* The cases referred to in subsection (a)(1) are cases numbered 99:00CV03346 (TPJ), 1:01CV02674 (HHK), CIV.A. 02-632 (RWR) (July 7, 2003), 1:03CV00691 (HHK), and 1:03CV00888 (HHK), in the United States District Court for the District of Columbia.
+- **(b)** *Cases* The cases referred to in subsection (a)(1) are cases numbered 99:00CV03346 (TPJ), 1:01CV02674 (HHK), CIV.A. 02–632 (RWR) (July 7, 2003), 1:03CV00691 (HHK), and 1:03CV00888 (HHK), in the United States District Court for the District of Columbia.
 - **(c)** *Adequate settlement* For purposes of subsection (a)(1), adequate settlement means payment by the Government of Iraq of, or an unqualified and unconditional guarantee made by a United States depository institution to pay within 30 days after the end of the 90-day period described in subsection (a)(1), at least the following amounts to the following persons:
   - **(1)** To any person—
     - **(A)** whose claim in the applicable case referred to in subsection (b) arose from an act of hostage taking or from being held in hostage status, and
