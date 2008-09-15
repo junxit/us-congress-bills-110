@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 998
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Civil Rights History Project Act of 2007”.
+This Act may be cited as the “Civil Rights History Project Act of 2007 2008”.
 
 ## § 2. Findings; purpose
 
@@ -55,5 +55,5 @@ This Act may be cited as the “Civil Rights History Project Act of 2007”.
 
 There are authorized to be appropriated to carry out this Act—
 
-- **(1)** $500,000 for fiscal year 2008; and
-- **(2)** such sums as may be necessary for each of the fiscal years 2009 through 2012.
+- **(1)** $500,000 for fiscal year 2008 2009; and
+- **(2)** such sums as may be necessary for each of the fiscal years 2009 through 2012 2010 through 2013.
