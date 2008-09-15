@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1255
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -9,9 +9,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 > To protect Indian arts and crafts through the improvement of applicable criminal proceedings, and for other purposes.
 
-## § 1. Short title
+## § 1. 7
 
-This Act may be cited as the “Indian Arts and Crafts Amendments Act of 2007”.
+This Act may be cited as the “Indian Arts and Crafts Amendments Act of 20078”.
 
 ## § 2. Indian arts and crafts
 
@@ -20,12 +20,14 @@ This Act may be cited as the “Indian Arts and Crafts Amendments Act of 2007”
   >
   > - **(a)** *Definition of Federal law enforcement officer* In this section, the term Federal law enforcement officer includes a Federal law enforcement officer (as defined in section 115(c) of title 18, United States Code).
   > - **(b)** *Conduct of investigations* Any Federal law enforcement officer may conduct an investigation relating to a violation of this Act that occurs on land under the jurisdiction of the Federal Government.
+  > - **(b)** *Authority To conduct investigations* Any Federal law enforcement officer shall have the authority to conduct an investigation relating to an alleged violation of this Act occurring within the jurisdiction of the United States.
   > - **(c)** *Criminal proceedings*
   >   - **(1)** *Investigation*
   >     - **(A)** *In general* The Board may refer an alleged violation of section 1159 of title 18, United States Code, to any Federal law enforcement officer for appropriate investigation.
   >     - **(B)** *Referral not required* A Federal law enforcement officer may investigate an alleged violation of section 1159 of that title regardless of whether the Federal law enforcement officer receives a referral under subparagraph (A).
-  >   - **(2)** *Findings* The findings of an investigation of an alleged violation of section 1159 of title 18, United States Code, by any Federal department or agency under paragraph (1)(A) shall be submitted to—
+  >   - **(2)** *Findings* The findings of an investigation of an alleged violation of section 1159 of title 18, United States Code, by any Federal department or agency under paragraph (1)(A) shall be submitted, as appropriate, to—mitted to—
   >     - **(A)** the Attorney General; or
+  >     - **(A)** a Federal or State prosecuting authority; or
   >     - **(B)** the Board.
   >   - **(3)** *Recommendations* On receiving the findings of an investigation under paragraph (2), the Board may—
   >     - **(A)** recommend to the Attorney General that criminal proceedings be initiated under section 1159 of title 18, United States Code; and
