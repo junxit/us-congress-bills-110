@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Extension of student loan purchase authority
 
-Section 459A of the Higher Education Act of 1965 (20 U.S.C. 1087i–1) is amended—
+Section 459A of the Higher Education Act of 1965 (20 U.S.C. 1087i-1) is amended—
 
 - **(1)** by striking “July 1, 2009” each place it appears in subsections (a)(1) and (f) and inserting “July 1, 2010”; and
 - **(2)** in subsection (e)—
