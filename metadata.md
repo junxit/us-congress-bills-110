@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5167
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5167
@@ -16,7 +16,7 @@ Justice for Victims of Torture and Terrorism Act
 
 - Rep. Braley, Bruce L. [D-IA-1] (B001259)
 
-## Cosponsors (28)
+## Cosponsors (38)
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 - Rep. Frank, Barney [D-MA-4] (F000339)
@@ -46,6 +46,16 @@ Justice for Victims of Torture and Terrorism Act
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Moran, James P. [D-VA-8] (M000933)
 - Rep. Hooley, Darlene [D-OR-5] (H000762)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Goode, Virgil H., Jr. [R-VA-5] (G000280)
+- Rep. Johnson, Sam [R-TX-3] (J000174)
 
 ## Committees (1)
 
@@ -56,3 +66,17 @@ Justice for Victims of Torture and Terrorism Act
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Introduced in House
 - 2008-01-29 — Referred to the House Committee on the Judiciary.
+- 2008-02-25 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2008-07-28 — Subcommittee on Crime, Terrorism, and Homeland Security Discharged.
+- 2008-07-30 — Committee Consideration and Mark-up Session Held.
+- 2008-07-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-09-15 — Considered under suspension of the rules. (consideration: CR H8098-8103)
+- 2008-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5167.
+- 2008-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-15 — Mr. Scott (VA) moved to suspend the rules and pass the bill, as amended.
+- 2008-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8098-8100)
+- 2008-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8098-8100)
+- 2008-09-15 — Placed on the Union Calendar, Calendar No. 545.
+- 2008-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-844.
+- 2008-09-15 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-844.
+- 2008-09-15 — The title of the measure was amended. Agreed to without objection.
