@@ -2,7 +2,7 @@
 legis-num: H. RES. 1200
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1200
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas as of May 3, 2008, 491 members of our Armed Forces have died and 1,944 have been wounded in action in Afghanistan, while deployed in support of Operation Enduring Freedom;
 - Whereas members of our Armed Forces and their families deserve all the medical, financial, education, and moral support that our Nation can provide;
 - Whereas the spouses, children, family, friends, coworkers, and neighbors of members of our Armed Forces play a key role in the success of our Nation’s troops;
-- Whereas Secretary of Defense Robert Gates has recognized the families and community members who support America’s troops as “the power behind the power”;
+- Whereas Secretary of Defense Robert Gates has recognized the families and community members who support America’s troops as “the power behind the power” and the Department of Defense has created the America Supports You program to recognize the efforts of those citizens and organizations;
 - Whereas military support groups play a crucial role in supporting every family member and loved one of members of our Armed Forces;
 - Whereas military support groups provide a variety of crucial services to members of our Armed Forces and their families, including financial assistance, employment assistance, tax return preparation, counseling, prayer groups, and sending care packages; and
 - Whereas military support groups provide a compassionate community and incalculable moral support to the hundreds of thousands of military families with loved ones at home and deployed overseas: Now, therefore, be it
