@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6889
 congress: 110
-version: Considered and Passed House
+version: Engrossed in House
 derived: true
 ---
 
