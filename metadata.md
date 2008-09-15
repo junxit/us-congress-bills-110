@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6627
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6627
@@ -40,3 +40,16 @@ Smithsonian Institution Facilities Authorization Act of 2008
 - 2008-07-29 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-29 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-29 — Sponsor introductory remarks on measure. (CR E1585)
+- 2008-07-30 — Committee Consideration and Mark-up Session Held.
+- 2008-07-30 — Ordered to be Reported by Voice Vote.
+- 2008-07-30 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Ordered to be Reported by Voice Vote.
+- 2008-07-31 — Ordered to be Reported by Voice Vote.
+- 2008-07-31 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-09-11 — Reported by the Committee on House Administration. H. Rept. 110-842, Part I.
+- 2008-09-11 — Reported by the Committee on House Administration. H. Rept. 110-842, Part I.
+- 2008-09-15 — Placed on the Union Calendar, Calendar No. 550.
+- 2008-09-15 — Reported by the Committee on Transportation. H. Rept. 110-842, Part II.
+- 2008-09-15 — Reported by the Committee on Transportation. H. Rept. 110-842, Part II.
