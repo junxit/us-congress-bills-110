@@ -47,3 +47,11 @@ Congress finds the following:
   - **(1)** The need to ensure the safety and security of the Nation’s capital so that nothing in the revisions will place at risk the safety and security of Federal buildings or other Federal interests located in the District of Columbia, including the safety and security of Federal employees, or will place at risk the safety and security of the people who reside in or visit the District.
   - **(2)** The need to ensure that nothing in the revisions will interfere with the operations of Federal law enforcement officials (including officials of the Secret Service, the Federal Protective Service of the Department of Homeland Security, the United States Marshals Service and Supreme Court Police, and the United States Capitol Police) and the Metropolitan Police Department and other local law enforcement officials in carrying out their duties to protect those who work in, reside in, or visit the District of Columbia.
   - **(3)** The need to ensure that nothing in the revisions will compromise the ability of local and Federal homeland security and military officials to carry out their duties to protect the Nation’s capital from terrorism.
+
+## § 3. Revision of District of Columbia Firearms Laws
+
+- **(a)** *Requiring District to Revise Laws* Not later than 180 days after the date of the enactment of this Act, the District of Columbia shall revise the laws and regulations of the District of Columbia which govern the use and possession of firearms, as necessary to comply with the requirements of the decision of the Supreme Court in the case of District of Columbia v. Heller.
+- **(b)** *Conforming amendment to local law* Title VII of the Firearms Control Regulations Act of 1975 (sec. 7–2507.01 et seq., D.C. Official Code) is amended by adding at the end the following new section:
+  > ## § 712. Consistency With Federal Requirements
+  >
+  > The Mayor and the Council shall ensure that this Act and the regulations promulgated to carry out this Act are consistent with the requirements of the decision of the Supreme Court in the case of District of Columbia v. Heller.
