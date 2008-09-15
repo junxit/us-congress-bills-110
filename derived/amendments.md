@@ -1,7 +1,7 @@
 ---
 measure: S. 3197
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,4 +34,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating such clauses as subclauses (I) and (II), respectively; | the bill names no machine-readable US Code section |
 | — | replace | by striking “if the debtor is a disabled veteran” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating such clauses as subclauses (I) and (II), respectively, | the bill names no machine-readable US Code section |
+| — | replace | by striking “testing, if the debtor is a disabled veteran” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the period at the end and inserting “; or”, and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
