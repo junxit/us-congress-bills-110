@@ -31,7 +31,7 @@ The Secretary of Veterans Affairs shall permit a State to designate facilities o
 In addition to the duties required under section 7 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5), any facility of the Department of Veterans Affairs designated as a voter registration agency under section 3 shall—
 
 - **(1)** provide information relating to the opportunity to request an absentee ballot;
-- **(2)** make available absentee ballot applications and absentee ballots upon request, as well as assistance in completing such applications and ballots; and
+- **(2)** make available absentee ballot applications and absentee ballots upon request, as well as assistance in completing such applications and ballots;, except that nothing in this paragraph may be construed to waive any requirement under State or local law regarding an individual’s eligibility to receive an absentee ballot or vote by absentee ballot in any election; and
 - **(3)** work with local election officials to ensure the proper delivery of absentee ballot applications and absentee ballots.
 
 ## § 5. Information provided by nonpartisan organizations

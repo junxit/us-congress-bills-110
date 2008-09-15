@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6625
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6625
@@ -16,7 +16,7 @@ Veteran Voting Support Act
 
 - Rep. Brady, Robert A. [D-PA-1] (B001227)
 
-## Cosponsors (37)
+## Cosponsors (55)
 
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
@@ -55,6 +55,24 @@ Veteran Voting Support Act
 - Rep. Holt, Rush [D-NJ-12] (H001032)
 - Rep. Green, Gene [D-TX-29] (G000410)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Lowey, Nita M. [D-NY-18] (L000480)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 
 ## Committees (2)
 
@@ -68,3 +86,10 @@ Veteran Voting Support Act
 - 2008-07-29 — Referred to the Committee on House Administration, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-29 — Referred to the Committee on House Administration, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-07-29 — Referred to the Committee on House Administration, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-07-30 — Committee Consideration and Mark-up Session Held.
+- 2008-07-30 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-09-15 — Committee on Veterans' Affairs discharged.
+- 2008-09-15 — Committee on Veterans' Affairs discharged.
+- 2008-09-15 — Placed on the Union Calendar, Calendar No. 552.
+- 2008-09-15 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-851, Part I.
+- 2008-09-15 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-851, Part I.
