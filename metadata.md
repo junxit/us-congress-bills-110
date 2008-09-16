@@ -1,7 +1,7 @@
 ---
 measure: S. 3010
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3010
@@ -16,6 +16,10 @@ Route 66 Corridor Preservation Program Reauthorization Act
 
 - Sen. Domenici, Pete V. [R-NM] (D000407)
 
+## Cosponsors (1)
+
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -25,3 +29,8 @@ Route 66 Corridor Preservation Program Reauthorization Act
 - 2008-05-13 — Introduced in Senate
 - 2008-05-13 — Read twice and referred to the Committee on Energy and Natural Resources. (text of measure as introduced: CR S4108)
 - 2008-05-13 — Sponsor introductory remarks on measure. (CR S4108)
+- 2008-06-17 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-539.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 992.
