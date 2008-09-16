@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2760
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2760
@@ -33,3 +33,8 @@ For the relief of Shigeru Yamada.
 - 2008-07-08 — Placed on the Private Calendar, Calendar No. 2.
 - 2008-07-08 — Reported by the Committee on Judiciary. H. Rept. 110-742.
 - 2008-07-08 — Reported by the Committee on Judiciary. H. Rept. 110-742.
+- 2008-09-16 — Called up from the Private Calendar for consideration.
+- 2008-09-16 — Considered from the Private Calendar. (consideration: CR H8137)
+- 2008-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-16 — On passage Passed by voice vote. (text: CR H8137)
+- 2008-09-16 — Passed/agreed to in House: On passage Passed by voice vote.(text: CR H8137)
