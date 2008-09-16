@@ -1,7 +1,7 @@
 ---
 measure: S. 3179
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3179
@@ -28,3 +28,8 @@ Lovelace Respiratory Research Institute Land Conveyance Act
 
 - 2008-06-23 — Introduced in Senate
 - 2008-06-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-07-09 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-572.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1004.
