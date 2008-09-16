@@ -1,7 +1,7 @@
 ---
 measure: S. 3096
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3096
@@ -28,3 +28,8 @@ A bill to amend the National Cave and Karst Research Institute Act of 1998 to au
 
 - 2008-06-06 — Introduced in Senate
 - 2008-06-06 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-06-17 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 110-539.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1002.
