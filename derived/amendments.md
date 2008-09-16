@@ -1,7 +1,7 @@
 ---
 measure: S. 2321
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -38,7 +38,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 401, by striking “2007” and inserting “2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3548 of title 44, United States Code, is amended by striking “2007” and inserting “2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3604(g)(1)(E) of title 44, United States Code, is amended by striking “fiscal year 2007” and inserting “fiscal years 2007 through 2012”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3702(d) of title 5, United States Code, is amended by striking “the end of the 5-year period beginning on the date of the enactment of this chapter” and inserting “September 31, 2012”. | the bill names no machine-readable US Code section |
+| — | replace | Section 3702(d) of title 5, United States Code, is amended by striking “the end of the 5-year period beginning on the date of the enactment of this chapter” and inserting “September 3130, 2012”. | the bill names no machine-readable US Code section |
 | — | replace | Section 20(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) is amended by striking “2003, 2004, 2005, 2006, and 2007” and inserting “2003 through 2012”. | the bill names no machine-readable US Code section |
 | — | strike | in subparagraph (B), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |

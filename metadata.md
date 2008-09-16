@@ -1,7 +1,7 @@
 ---
 measure: S. 2321
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2321
@@ -29,3 +29,8 @@ E-Government Reauthorization Act of 2007
 
 - 2007-11-07 — Introduced in Senate
 - 2007-11-07 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2007-11-14 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2007-12-11 — Committee on Homeland Security and Governmental Affairs. Hearings held.
+- 2008-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 110-465.
+- 2008-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment. With written report No. 110-465.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 970.
