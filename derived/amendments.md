@@ -1,7 +1,7 @@
 ---
 measure: H.R. 236
 congress: 110
-version: Engrossed in House
+version: Reported to Senate
 derived: true
 ---
 

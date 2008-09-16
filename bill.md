@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 236
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 236
