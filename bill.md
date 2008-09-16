@@ -1,0 +1,61 @@
+---
+legis-num: S. 3493
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3493
+
+> To require rail carriers to develop positive rail control system plans for improving railroad safety and to increase the civil penalties for railroad safety violations.
+
+## § 1. Positive train control systems
+
+- **(a)** *Submission of plan*
+  - **(1)** *In general* Not later than 12 months after the date of the enactment of this Act, each rail carrier that is a Class I railroad, a rail carrier that has inadequate safety performance (as determined by the Secretary), or a rail carrier that provides intercity passenger or commuter rail passenger transportation shall develop and submit to the Secretary a plan for implementing a positive train control system by December 31, 2014.
+  - **(2)** *Technical assistance* The Secretary may provide technical assistance and guidance to railroad carriers in developing the plans required under this subsection.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Positive train control system* The term positive train control system means a system designed to prevent train-to-train collisions, overspeed derailments, and incursions into roadway worker work limits.
+  - **(2)** *Secretary* The term Secretary means the Secretary of Transportation.
+- **(c)** *Safety redundancy* The positive train control system required under subsection (a) shall—
+  - **(1)** minimize the risk of train collisions and over-speed derailments;
+  - **(2)** provide protection to maintenance-of-way workers within established work zone limits;
+  - **(3)** provide a safety redundancy to minimize the risk of accidents by overriding human performance failures involving train movements on main line tracks; and
+  - **(4)** minimize the risk of the movement of a train through a switch left in the wrong position.
+- **(d)** *Contents of plan* The plans submitted under paragraph (1) shall include—
+  - **(1)** measurable goals, including a strategy and time line for implementation of such systems;
+  - **(2)** a prioritization of how the systems will be implemented, with particular emphasis on high-risk corridors such as those that have significant movements of hazardous materials or where commuter and intercity passenger railroads operate;
+  - **(3)** identification of detailed steps the carriers will take to implement the systems; and
+  - **(4)** any other element the Secretary considers appropriate.
+- **(e)** *Review and approval*
+  - **(1)** *In general* Not later than 90 days after the Secretary receives a plan from a rail carrier under this section, the Secretary shall—
+    - **(A)** review the plan;
+    - **(B)** notify the rail carrier that the plan has been approved; or
+    - **(C)** notify the affected railroad carrier of the specific points in which the proposed plan is deficient.
+  - **(2)** *Correction of deficiencies* A railroad carrier shall correct all deficiencies of a plan submitted under this section not later than 30 days after receiving written notice from the Secretary of such deficiencies.
+  - **(3)** *Compliance with plan* Upon receiving notification from the Secretary that a plan submitted under this section has been approved, the rail carrier that submitted such plan shall comply with goals, strategy, and time line contained in such plan.
+  - **(4)** *Annual review* The Secretary shall conduct an annual review to ensure that each rail carrier is complying with the plan submitted by such rail carrier under this section.
+- **(f)** *Report* Not later than December 31, 2011, the Secretary shall submit a report that describes the progress made by rail carriers in implementing positive train control systems to—
+  - **(1)** the Committee on Commerce, Science, and Transportation of the Senate; and
+  - **(2)** the Committee on Transportation and Infrastructure of the House of Representatives.
+- **(g)** Positive train control systems shall be implemented no later than December 31, 2012, in those areas determined by the Secretary of Transportation to have the highest safety risk due to shared track between commuter and freight rail.
+- **(h)** *Certification*
+  - **(1)** *In general* The Secretary may not permit the installation of any positive train control system or component unless the Secretary has certified that such system or component has not experienced a safety-critical failure during prior testing and evaluation.
+  - **(2)** *Repair and reevaluation* If a failure described in paragraph (1) occurs, the system or component may be—
+    - **(A)** repaired and evaluated in accordance with part 236 of title 49, Code of Federal Regulations; and
+    - **(B)** installed if the Secretary—
+      - **(i)** certifies that the factors causing the failure have been corrected; and
+      - **(ii)** approves the system for installation in accordance with such part 236.
+- **(i)** *Enforcement* The Secretary is authorized to assess civil penalties pursuant to chapter 213 of title 49, United States Code, for a violation of this section, including the failure to submit, certify, or comply with a plan for implementing a positive train control system.
+
+## § 2. Civil penalty increases
+
+- **(a)** *General violations of chapter 201* Section 21301(a)(2) of title 49, United States Code, is amended—
+  - **(1)** by striking “$10,000” and inserting “$25,000”; and
+  - **(2)** by striking “$20,000” and inserting “$100,000”.
+- **(b)** *Accident and incident violations of chapter 201; violations of chapters 203 through 209* Section 21302(a)(2) of such title is amended—
+  - **(1)** by striking “$10,000” and inserting “$25,000”; and
+  - **(2)** by striking “$20,000” and inserting “$100,000”.
+- **(c)** *Violations of chapter 211* Section 21303(a)(2) of such title is amended—
+  - **(1)** by striking “$10,000” and inserting “$25,000”; and
+  - **(2)** by striking “$20,000” and inserting “$100,000”.
