@@ -41,6 +41,8 @@ As used in this Act:
 
 ## § 4. Boundary adjustments to the historic site
 
+## § 3. Boundary adjustments to the historic site
+
 - **(a)** *Boundary adjustment* The boundary of the historic site is adjusted to include approximately 261 acres of land identified as the “PROPOSED PARK BOUNDARY”, as generally depicted on the map.
 - **(b)** *Acquisition authority* The Secretary may acquire the land and any interests in the land described in subsection (a) from willing sellers by donation, purchase with donated or appropriated funds, or exchange.
 - **(c)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
@@ -48,4 +50,6 @@ As used in this Act:
 
 ## § 5. Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this Act.
+## § 4. Authorization of appropriations
+
+-  There are authorized to be appropriated such sums as are necessary to carry out this Act.
