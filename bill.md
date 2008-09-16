@@ -35,10 +35,11 @@ Congress finds that—
 
 ## § 3. Designation of Pacific Northwest National Scenic Trail
 
-Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following:
+## § 2. Designation of Pacific Northwest National Scenic Trail
 
-> - **(26)** *Pacific Northwest National Scenic Trail*
->   - **(A)** *In general* The Pacific Northwest National Scenic Trail, a trail of approximately 1,200 miles, extending from the Continental Divide in Glacier National Park, Montana, to the Pacific Ocean Coast in Olympic National Park, Washington, following the route depicted on the map entitled “Pacific Northwest National Scenic Trail: Proposed Trail”, numbered T12/80,000, and dated February 2008 (referred to in this paragraph as the “map”).
->   - **(B)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
->   - **(C)** *Administration* The Pacific Northwest National Scenic Trail shall be administered by the Secretary of the Interior.
->   - **(D)** *Land acquisition* The United States shall not acquire for the Pacific Northwest National Scenic Trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
+-  Section 5(a) of the National Trails System Act (16 U.S.C. 1244(a)) is amended by adding at the end the following:
+  > - **(26)** *Pacific Northwest National Scenic Trail*
+  >   - **(A)** *In general* The Pacific Northwest National Scenic Trail, a trail of approximately 1,200 miles, extending from the Continental Divide in Glacier National Park, Montana, to the Pacific Ocean Coast in Olympic National Park, Washington, following the route depicted on the map entitled “Pacific Northwest National Scenic Trail: Proposed Trail”, numbered T12/80,000, and dated February 2008 (referred to in this paragraph as the “map”).
+  >   - **(B)** *Availability of map* The map shall be on file and available for public inspection in the appropriate offices of the National Park Service Forest Service.
+  >   - **(C)** *Administration* The Pacific Northwest National Scenic Trail shall be administered by the Secretary of the Interior Secretary of Agriculture.
+  >   - **(D)** *Land acquisition* The United States shall not acquire for the Pacific Northwest National Scenic Trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
