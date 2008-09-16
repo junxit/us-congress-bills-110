@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6323
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6323
@@ -16,12 +16,14 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2008
 
 - Rep. Sensenbrenner, F. James, Jr. [R-WI-5] (S000244)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 - Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Reichert, David G. [R-WA-8] (R000578)
+- Rep. Miller, Brad [D-NC-13] (M001154)
 
 ## Committees (1)
 
@@ -32,3 +34,8 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2008
 - 2008-06-19 — Introduced in House
 - 2008-06-19 — Introduced in House
 - 2008-06-19 — Referred to the House Committee on Science and Technology.
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-09-16 — Placed on the Union Calendar, Calendar No. 553.
+- 2008-09-16 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-855.
+- 2008-09-16 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-855.
