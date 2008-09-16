@@ -1,7 +1,7 @@
 ---
 measure: S. 3189
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 0 executed, 16 stated and not applied.
+27 amendatory instructions. 0 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -47,3 +47,14 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the sixth sentence, by striking “2011” and inserting “2023”; | the bill names no machine-readable US Code section |
 | — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (5), by inserting “, rehabilitation, and repair” after “and replacement”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (6), by inserting “those for protection of critical habitat, those for preventing entrainment of fish in water diversions,” after “instream flows,”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “$61,000,000” and inserting “$88,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “2010” and inserting “2023”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “2010” and inserting “2023”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “$126,000,000” and inserting “$209,000,000”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “$108,000,000” and inserting “$179,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2010” and inserting “2023”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “$18,000,000” and inserting “$30,000,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “2010” and inserting “2023”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(4), by striking “$31,000,000” and inserting “$87,000,000”. | the bill names no machine-readable US Code section |
