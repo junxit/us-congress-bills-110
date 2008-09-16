@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 4 executed, 16 stated and not applied.
+22 amendatory instructions. 5 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 18 U.S.C. § 3056
+
+> in the sentence immediately preceding subsection (b) of section 3056, by striking “(7)” and inserting “(8)”.
+
+| | |
+|---|---|
+| Removed | `(7)` |
+| Inserted | `(8)` |
 
 ### 18 U.S.C. § 1030
 
@@ -69,6 +78,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `18 U.S.C. § 3056` | insert | by inserting immediately after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 3663` | replace | in paragraph (4), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
 | `18 U.S.C. § 3663` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 3663` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -82,6 +92,6 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 1030` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1030` | strike | by striking paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 1030` | amend | Section 1030(a)(7) of title 18, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 1030(b) of title 18, United States Code, is amended by inserting “conspires to commit or” after “Whoever”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1030` | insert | Section 1030(b) of title 18, United States Code, is amended by inserting “conspires to commit or” after “Whoever”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 1030` | insert | Section 1030(e)(2)(B) of title 18, United States Code, is amended by inserting “or affecting” after “which is used in”. | the bill quotes the text inserted but describes where it goes |
-| — | add-at-end | Section 1030 of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1030` | add-at-end | Section 1030 of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
