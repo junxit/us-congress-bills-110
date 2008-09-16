@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5030
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5030
@@ -33,3 +33,8 @@ For the relief of Corina de Chalup Turcinovic.
 - 2008-07-08 — Placed on the Private Calendar, Calendar No. 3.
 - 2008-07-08 — Reported by the Committee on Judiciary. H. Rept. 110-743.
 - 2008-07-08 — Reported by the Committee on Judiciary. H. Rept. 110-743.
+- 2008-09-16 — Called up from the Private Calendar for consideration.
+- 2008-09-16 — Considered from the Private Calendar. (consideration: CR H8137-8138)
+- 2008-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-16 — On passage Passed by voice vote. (text: CR H8137-8138)
+- 2008-09-16 — Passed/agreed to in House: On passage Passed by voice vote.(text: CR H8137-8138)
