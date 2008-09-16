@@ -1,7 +1,7 @@
 ---
 measure: S. 2448
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
