@@ -1,7 +1,7 @@
 ---
 measure: H.R. 236
 congress: 110
-version: Engrossed in House
+version: Reported to Senate
 ---
 
 # H.R. 236
@@ -20,9 +20,10 @@ North Bay Water Reuse Program Act of 2007
 
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,8 @@ North Bay Water Reuse Program Act of 2007
 - 2007-12-05 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-12-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 55 (Roll no. 1130). (text: CR 12/4/2007 H14095-14096)
 - 2007-12-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 358 - 55 (Roll no. 1130).(text: CR 12/4/2007 H14095-14096)
+- 2007-12-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1010.
