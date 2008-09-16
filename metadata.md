@@ -1,7 +1,7 @@
 ---
 measure: S. 3051
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3051
@@ -24,3 +24,7 @@ National Park Service Special Resource Studies and Technical Corrections Act of 
 
 - 2008-05-22 — Introduced in Senate
 - 2008-05-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 996.
