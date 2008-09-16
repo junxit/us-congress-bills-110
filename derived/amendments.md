@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5244
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 0 executed, 16 stated and not applied.
+17 amendatory instructions. 0 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,6 +44,7 @@ complete account of the bill's effect, which it is not.
 | — | insert | Section 127B of the Truth in Lending Act is amended by inserting after subsection (i) (as added by subsection (f)) the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 127B of the Truth in Lending Act is amended by inserting after subsection (j) (as added by section 3(g)) the following new subsections: | the bill names no machine-readable US Code section |
 | `15 U.S.C. § 1646` | replace | by striking “Collection required.—The Board shall” and inserting | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1646` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1646` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1646` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Section 127B of the Truth in Lending Act is amended by inserting after subsection (l) (as added by section 4) the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Section 127B of the Truth in Lending Act is amended by inserting after subsection (m) (as added by section 4) the following new subsection: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 1637` | add-at-end | Section 127(c) of the Truth in Lending Act (15 U.S.C. 1637(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
