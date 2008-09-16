@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2354
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,9 +17,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(2)** Parcel 2 contains lots 10, 11, and 12 of section 30, T. 9 S., R. 17 E., B.M., in which lot 10 is approximately 30.90 acres, lot 11 is approximately 16.20 acres, and lot 12 is approximately 6.9 acres.
   - **(3)** Parcel 3 contains the approximately 5-acre portion of the SW1/4NW1/4 lying south of the Snake River in section 29, T. 9 S., R. 17 E., B.M. and the approximately 25-acre portion of the SE1/4NE1/4 lying south of the Snake River in section 30, T. 9 S., R. 17 E., B.M.
   - **(4)** Parcel 4 contains the approximately 15-acre portion of the NE1/4SW1/4 lying south of the Snake River in section 29, T. 9 S., R. 17 E., B.M.
+- **(b)** *Land description* The 4 parcels of land to be conveyed under subsection (a) are the approximately 165 acres of land in Twin Falls County, Idaho, that are identified as “Land to be conveyed to Twin Falls” on the map titled “Twin Falls Land Conveyance” and dated July 28, 2008.
 - **(c)** *Map on file* A map depicting the land described in subsection (b) shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
 - **(d)** *Use of conveyed lands*
   - **(1)** *Purpose* The land conveyed under this section shall be used to support public purposes, including a limited agricultural exemption to allow for water quality and wildlife habitat improvements.
+  - **(1)** *Purpose* The land conveyed under this section shall be used to support the public purposes of the Auger Falls Project, including a limited agricultural exemption to allow for water quality and wildlife habitat improvements.
   - **(2)** *Restriction* The land conveyed under this section shall not be used for residential or commercial purposes, except for the limited agricultural exemption described in paragraph (1).
   - **(3)** *Additional Terms and Conditions* The Secretary of the Interior may require such additional terms and conditions in connection with the conveyance as the Secretary considers appropriate to protect the interests of the United States.
 - **(e)** *Reversion* If the land conveyed under this section is no longer used in accordance with subsection (d)—

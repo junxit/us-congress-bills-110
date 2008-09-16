@@ -1,7 +1,7 @@
 ---
 measure: S. 2354
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2354
@@ -28,3 +28,8 @@ A bill to direct the Secretary of the Interior to convey 4 parcels of land from 
 
 - 2007-11-14 — Introduced in Senate
 - 2007-11-14 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-07-16 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-603.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with amendments. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 981.
