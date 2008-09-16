@@ -1,7 +1,7 @@
 ---
 measure: S. 3069
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3069
@@ -16,6 +16,10 @@ Eastern Sierra and Northern San Gabriel Wild Heritage Act
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
+## Cosponsors (1)
+
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +28,8 @@ Eastern Sierra and Northern San Gabriel Wild Heritage Act
 
 - 2008-05-22 — Introduced in Senate
 - 2008-05-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-07-16 — Committee on Energy and Natural Resources Subcommittee on Public Lands and Forests. Hearings held. With printed Hearing: S.Hrg. 110-603.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 998.
