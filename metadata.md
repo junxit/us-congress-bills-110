@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5243
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5243
@@ -32,3 +32,8 @@ For the relief of Kumi Iizuka-Barcena.
 - 2008-09-08 — Placed on the Private Calendar, Calendar No. 4.
 - 2008-09-08 — Reported by the Committee on Judiciary. H. Rept. 110-826.
 - 2008-09-08 — Reported by the Committee on Judiciary. H. Rept. 110-826.
+- 2008-09-16 — Called up from the Private Calendar for consideration.
+- 2008-09-16 — Considered from the Private Calendar. (consideration: H8138)
+- 2008-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-16 — On passage Passed by voice vote. (text: CR H8138)
+- 2008-09-16 — Passed/agreed to in House: On passage Passed by voice vote.(text: CR H8138)
