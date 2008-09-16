@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1737
 congress: 110
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1737
@@ -34,3 +34,8 @@ City of Oxnard Water Recycling and Desalination Act of 2007
 - 2007-05-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4505)
 - 2007-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H4505)
 - 2007-05-08 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2008-04-08 — Committee on Energy and Natural Resources Senate Subcommittee on Water and Power. Hearings held.
+- 2008-09-11 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Committee on Energy and Natural Resources. Reported by Senator Bingaman without amendment. Without written report.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1016.
