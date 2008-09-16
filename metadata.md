@@ -1,7 +1,7 @@
 ---
 measure: S. 2816
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2816
@@ -16,9 +16,10 @@ A bill to provide for the appointment of the Chief Human Capital Officer of the 
 
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A bill to provide for the appointment of the Chief Human Capital Officer of the 
 - 2008-04-03 — Introduced in Senate
 - 2008-04-03 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
 - 2008-04-03 — Sponsor introductory remarks on measure. (CR S2443-2444)
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-466.
+- 2008-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-466.
+- 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 971.
