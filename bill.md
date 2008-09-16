@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Gray Wolf Livestock Loss Mitigation Act of 2008”.
+This Act may be cited as the “Wolf Livestock Loss Prevention and Mitigation Act”.
 
 ## § 2. Definitions
 
