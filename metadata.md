@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1376
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1376
@@ -36,3 +36,11 @@ Commemorating the 80th anniversary of the Okeechobee Hurricane of September 1928
 - 2008-07-24 — Introduced in House
 - 2008-07-24 — Introduced in House
 - 2008-07-24 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-07-25 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-07-25 — Sponsor introductory remarks on measure. (CR E1567)
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-31 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-09-16 — Placed on the House Calendar, Calendar No. 267.
+- 2008-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-856.
+- 2008-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-856.
