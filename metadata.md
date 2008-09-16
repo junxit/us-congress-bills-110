@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5938
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5938
@@ -60,3 +60,11 @@ Former Vice President Protection Act of 2008
 - 2008-07-30 — Senate amendment proposed (on the floor): Amendment SA 5257 proposed by Senator Pryor for Senator Leahy.(consideration: CR S7797-7798; text: CR S7797-7798)
 - 2008-07-30 — Senate amendment submitted
 - 2008-07-31 — Message on Senate action sent to the House.
+- 2008-09-15 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Issa objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-15 — Cleared for White House.
+- 2008-09-15 — Considered as unfinished business. (consideration: CR H8094)
+- 2008-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-15 — Mr. Scott (VA) moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H8075-8078)
+- 2008-09-15 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote. (text as House agreed to Senate amendment: CR H8075-8076)
+- 2008-09-15 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.(text as House agreed to Senate amendment: CR H8075-8076)
+- 2008-09-15 — The House proceeded with forty minutes of debate on H.R. 5938.
