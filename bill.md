@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2321
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -23,7 +23,7 @@ This Act may be cited as the “E-Government Reauthorization Act of 2007”.
   - **(5)** in section 401, by striking “2007” and inserting “2012”.
 - **(b)** *Information Security* Section 3548 of title 44, United States Code, is amended by striking “2007” and inserting “2012”.
 - **(c)** *E-Government Fund* Section 3604(g)(1)(E) of title 44, United States Code, is amended by striking “fiscal year 2007” and inserting “fiscal years 2007 through 2012”.
-- **(d)** *Information technology exchange program* Section 3702(d) of title 5, United States Code, is amended by striking “the end of the 5-year period beginning on the date of the enactment of this chapter” and inserting “September 31, 2012”.
+- **(d)** *Information technology exchange program* Section 3702(d) of title 5, United States Code, is amended by striking “the end of the 5-year period beginning on the date of the enactment of this chapter” and inserting “September 3130, 2012”.
 - **(e)** *Computer standards program* Section 20(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) is amended by striking “2003, 2004, 2005, 2006, and 2007” and inserting “2003 through 2012”.
 
 ## § 3. Best practices for privacy impact assessments
