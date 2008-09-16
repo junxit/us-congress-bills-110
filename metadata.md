@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 390
 congress: 110
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 390
@@ -127,9 +127,10 @@ Honoring the 28th Infantry Division for serving and protecting the United States
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
 - Rep. Turner, Michael R. [R-OH-3] (T000463)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Recorded votes (1)
 
@@ -149,3 +150,4 @@ Honoring the 28th Infantry Division for serving and protecting the United States
 - 2008-09-15 — Ms. Bordallo moved to suspend the rules and agree to the resolution, as amended.
 - 2008-09-15 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 590). (text: CR H8067)
 - 2008-09-15 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 0 (Roll no. 590).(text: CR H8067)
+- 2008-09-16 — Received in the Senate and referred to the Committee on Armed Services.
