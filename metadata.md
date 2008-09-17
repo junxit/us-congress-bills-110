@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 664
 congress: 110
-version: Agreed to Senate
+version: Introduced in Senate
 ---
 
 # S.Res. 664
