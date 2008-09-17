@@ -1,7 +1,7 @@
 ---
 measure: S. 3001
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3001
@@ -16,9 +16,605 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 
 - Sen. Levin, Carl [D-MI] (L000261)
 
+## Cosponsors (584)
+
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Inouye, Daniel K. [D-HI] (I000025)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Stabenow, Debbie [D-MI] (S000770)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Mikulski, Barbara A. [D-MD] (M000702)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Rockefeller, John D., IV [D-WV] (R000361)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Barrasso, John [R-WY] (B001261)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Shelby, Richard C. [R-AL] (S000320)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. McCain, John [R-AZ] (M000303)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Reid, Harry [D-NV] (R000146)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Casey, Robert P., Jr. [D-PA] (C001070)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Bennett, Robert F. [R-UT] (B000382)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Dole, Elizabeth [R-NC] (D000601)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Byrd, Robert C. [D-WV] (B001210)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Coburn, Tom [R-OK] (C000560)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Cornyn, John [R-TX] (C001056)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Enzi, Michael B. [R-WY] (E000285)
+- Sen. Cochran, Thad [R-MS] (C000567)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Brownback, Sam [R-KS] (B000953)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. DeMint, Jim [R-SC] (D000595)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Warner, John [R-VA] (W000154)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. McConnell, Mitch [R-KY] (M000355)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Bunning, Jim [R-KY] (B001066)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Corker, Bob [R-TN] (C001071)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Vitter, David [R-LA] (V000127)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Levin, Carl [D-MI] (L000261)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Kyl, Jon [R-AZ] (K000352)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Menendez, Robert [D-NJ] (M000639)
+- Sen. Roberts, Pat [R-KS] (R000307)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Carper, Thomas R. [D-DE] (C000174)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Allard, Wayne [R-CO] (A000109)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Bayh, Evan [D-IN] (B001233)
+- Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Nelson, Ben [D-NE] (N000180)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Sessions, Jeff [R-AL] (S001141)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. McCaskill, Claire [D-MO] (M001170)
+- Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
+- Sen. Obama, Barack [D-IL] (O000167)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Tester, Jon [D-MT] (T000464)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Boxer, Barbara [D-CA] (B000711)
+- Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Johnson, Tim [D-SD] (J000177)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Martinez, Mel [R-FL] (M001162)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Feinstein, Dianne [D-CA] (F000062)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Webb, Jim [D-VA] (W000803)
+- Sen. Kennedy, Edward M. [D-MA] (K000105)
+- Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Leahy, Patrick J. [D-VT] (L000174)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hutchison, Kay Bailey [R-TX] (H001016)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Cardin, Benjamin L. [D-MD] (C000141)
+- Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Alexander, Lamar [R-TN] (A000360)
+- Sen. Inhofe, James M. [R-OK] (I000024)
+- Sen. Lautenberg, Frank R. [D-NJ] (L000123)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Wyden, Ron [D-OR] (W000779)
+
 ## Committees (1)
 
 - Senate — Armed Services Committee
+
+## Recorded votes (6)
+
+- 2008-07-31 — [Senate 110-2-195](votes/senate-110-2-0195.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (51–39)
+- 2008-09-08 — [Senate 110-2-197](votes/senate-110-2-0197.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–0)
+- 2008-09-10 — [Senate 110-2-198](votes/senate-110-2-0198.md) — On the Amendment — **Amendment Rejected** (39–57)
+- 2008-09-10 — [Senate 110-2-199](votes/senate-110-2-0199.md) — On the Amendment — **Amendment Agreed to** (94–2)
+- 2008-09-16 — [Senate 110-2-200](votes/senate-110-2-0200.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–32)
+- 2008-09-17 — [Senate 110-2-201](votes/senate-110-2-0201.md) — On Passage of the Bill — **Bill Passed** (88–8)
 
 ## Actions
 
@@ -42,3 +638,453 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 - 2008-05-12 — Committee on Armed Services. Original measure reported to Senate by Senator Levin. With written report No. 110-335.
 - 2008-05-12 — Introduced in Senate
 - 2008-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 732.
+- 2008-06-06 — Senate amendment submitted
+- 2008-06-26 — Senate amendment submitted
+- 2008-07-30 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S7759; text: CR S7759)
+- 2008-07-30 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S7759-7768)
+- 2008-07-31 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 39. Record Vote Number: 195. (consideration: CR S7879; text: CR S7879)
+- 2008-07-31 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote Number 195) entered in Senate.
+- 2008-07-31 — Motion to proceed to measure considered in Senate. (consideration: CR S7811-7845, S7878-7880)
+- 2008-08-01 — Motion to proceed to measure considered in Senate. (consideration: CR S7983, S7984-7987)
+- 2008-09-08 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 83 - 0. Record Vote Number: 197. (consideration: CR S8109-8110; text: CR S8109-8110)
+- 2008-09-08 — Motion by Senator Reid to reconsider the vote by which cloture was not invoked on the motion to proceed to the measure (Record Vote Number 195) agreed to in Senate by Unanimous Consent.
+- 2008-09-08 — Motion to proceed to to the measure measure considered in Senate. (consideration: CR S8104-8110)
+- 2008-09-08 — Senate amendment submitted
+- 2008-09-08 — Senate amendment submitted
+- 2008-09-08 — Senate amendment submitted
+- 2008-09-09 — Amendment SA 5290 proposed by Senator Reid. (consideration: CR S8159; text: CR S8159) To change the enactment date.
+- 2008-09-09 — Amendment SA 5291 proposed by Senator Reid to Amendment SA 5290. (consideration: CR S8159; text: CR S8159) Of a perfecting nature.
+- 2008-09-09 — Amendment SA 5292 proposed by Senator Reid. (consideration: CR S8160; text: CR S8160) To change the enactment date.
+- 2008-09-09 — Amendment SA 5293 proposed by Senator Reid to the instructions [SA 5292]. (consideration: CR S8160; text: CR S8160) Of a perfecting nature.
+- 2008-09-09 — Amendment SA 5294 proposed by Senator Reid to Amendment SA 5293. (consideration: CR S8160; text: CR S8160) Of a perfecting nature.
+- 2008-09-09 — Amendment SA 5323 proposed by Senator Levin for Senator Leahy. (consideration: CR S8161; text: CR S8161) To provide for a suspension of certain statutes of limitations when Congress has authorized the use of military force.
+- 2008-09-09 — Measure laid before Senate by motion.
+- 2008-09-09 — Motion by Senator Reid to recommit to Senate Committee on Armed Services with instructions to report back with an amendment [SA 5292] made in Senate. (consideration: CR S8159-8160)
+- 2008-09-09 — Motion to proceed to measure considered in Senate. (consideration: CR S8159-8161)
+- 2008-09-09 — Senate amendment proposed (on the floor): Amendment SA 5290 proposed by Senator Reid.(consideration: CR S8159; text: CR S8159)
+- 2008-09-09 — Senate amendment proposed (on the floor): Amendment SA 5291 proposed by Senator Reid to Amendment SA 5290.(consideration: CR S8159; text: CR S8159)
+- 2008-09-09 — Senate amendment proposed (on the floor): Amendment SA 5292 proposed by Senator Reid.(consideration: CR S8160; text: CR S8160)
+- 2008-09-09 — Senate amendment proposed (on the floor): Amendment SA 5293 proposed by Senator Reid to the instructions [SA 5292].(consideration: CR S8160; text: CR S8160)
+- 2008-09-09 — Senate amendment proposed (on the floor): Amendment SA 5294 proposed by Senator Reid to Amendment SA 5293.(consideration: CR S8160; text: CR S8160)
+- 2008-09-09 — Senate amendment proposed (on the floor): Amendment SA 5323 proposed by Senator Levin for Senator Leahy.(consideration: CR S8161; text: CR S8161)
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-09 — Senate amendment submitted
+- 2008-09-10 — Amendment SA 4979 agreed to in Senate by Yea-Nay Vote. 94 - 2. Record Vote Number: 199.
+- 2008-09-10 — Amendment SA 4979 proposed by Senator Nelson FL. (consideration: CR S8240-8242, S8244-8250, S8264-8266; text: CR S8240) To repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation.
+- 2008-09-10 — Amendment SA 5280 not agreed to in Senate by Yea-Nay Vote. 39 - 57. Record Vote Number: 198.
+- 2008-09-10 — Amendment SA 5280 proposed by Senator Vitter. (consideration: CR S8231-8240, S8242-8244, S8251-8256, S8264; text: CR S8231-8232) To authorize, with an offset, an additional $100,000,000 for Procurement, Defense-wide, and an additional $171,000,000 for Research, Development, Test, and Evaluation, Defense-wide, for near-term missile defense programs and activities.
+- 2008-09-10 — Amendment SA 5323 agreed to in Senate by Voice Vote.
+- 2008-09-10 — Amendment SA 5414 agreed to in Senate by Voice Vote.
+- 2008-09-10 — Amendment SA 5414 proposed by Senator Kyl. (consideration: CR S8250-8251; text: CR S8250) To make available from Research, Development, Test, and Evaluation, Defense-wide activities, $89,000,000 for the activation and deployment of the AN/TPY-2 forward-based X-band radar.
+- 2008-09-10 — Considered by Senate. (consideration: CR S8228)
+- 2008-09-10 — Considered by Senate. (consideration: CR S8228)
+- 2008-09-10 — Considered by Senate. (consideration: CR S8228)
+- 2008-09-10 — Considered by Senate. (consideration: CR S8228-8256, S8264-8266)
+- 2008-09-10 — Considered by Senate. (consideration: CR S8229)
+- 2008-09-10 — Considered by Senate. (consideration: CR S8229)
+- 2008-09-10 — Considered by Senate. (consideration: CR S8229-8231, S8251)
+- 2008-09-10 — Roll call votes on amendments in Senate: Amendment SA 4979 agreed to in Senate by Yea-Nay Vote. 94 - 2. Record Vote Number: 199.
+- 2008-09-10 — Roll call votes on amendments in Senate: Amendment SA 5280 not agreed to in Senate by Yea-Nay Vote. 39 - 57. Record Vote Number: 198.
+- 2008-09-10 — Senate amendment agreed to: Amendment SA 4979 agreed to in Senate by Yea-Nay Vote. 94 - 2. Record Vote Number: 199.
+- 2008-09-10 — Senate amendment agreed to: Amendment SA 5323 agreed to in Senate by Voice Vote.
+- 2008-09-10 — Senate amendment agreed to: Amendment SA 5414 agreed to in Senate by Voice Vote.
+- 2008-09-10 — Senate amendment not agreed to: Amendment SA 5280 not agreed to in Senate by Yea-Nay Vote. 39 - 57. Record Vote Number: 198.
+- 2008-09-10 — Senate amendment proposed (on the floor): Amendment SA 4979 proposed by Senator Nelson FL.(consideration: CR S8240-8242, S8244-8250, S8264-8266; text: CR S8240)
+- 2008-09-10 — Senate amendment proposed (on the floor): Amendment SA 5280 proposed by Senator Vitter.(consideration: CR S8231-8240, S8242-8244, S8251-8256, S8264; text: CR S8231-8232)
+- 2008-09-10 — Senate amendment proposed (on the floor): Amendment SA 5414 proposed by Senator Kyl.(consideration: CR S8250-8251; text: CR S8250)
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-10 — Senate amendment submitted
+- 2008-09-11 — Considered by Senate. (consideration: CR S8333)
+- 2008-09-11 — Considered by Senate. (consideration: CR S8333)
+- 2008-09-11 — Considered by Senate. (consideration: CR S8333)
+- 2008-09-11 — Considered by Senate. (consideration: CR S8333)
+- 2008-09-11 — Considered by Senate. (consideration: CR S8333)
+- 2008-09-11 — Considered by Senate. (consideration: CR S8333-8334, S8339-8342, S8361-8364)
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-11 — Senate amendment submitted
+- 2008-09-12 — Cloture motion on the measure presented in Senate. (consideration: CR S8470; text: CR S8470)
+- 2008-09-12 — Considered by Senate. (consideration: CR S8457)
+- 2008-09-12 — Considered by Senate. (consideration: CR S8457)
+- 2008-09-12 — Considered by Senate. (consideration: CR S8457)
+- 2008-09-12 — Considered by Senate. (consideration: CR S8457)
+- 2008-09-12 — Considered by Senate. (consideration: CR S8457)
+- 2008-09-12 — Considered by Senate. (consideration: CR S8457-8471)
+- 2008-09-12 — Senate amendment submitted
+- 2008-09-12 — Senate amendment submitted
+- 2008-09-12 — Senate amendment submitted
+- 2008-09-12 — Senate amendment submitted
+- 2008-09-12 — Senate amendment submitted
+- 2008-09-12 — Senate amendment submitted
+- 2008-09-15 — Considered by Senate. (consideration: CR S8506-8512, S8517-8520, S8521-8523)
+- 2008-09-15 — Considered by Senate. (consideration: CR S8507)
+- 2008-09-15 — Considered by Senate. (consideration: CR S8507)
+- 2008-09-15 — Considered by Senate. (consideration: CR S8507)
+- 2008-09-15 — Considered by Senate. (consideration: CR S8507)
+- 2008-09-15 — Considered by Senate. (consideration: CR S8507)
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-15 — Senate amendment submitted
+- 2008-09-16 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 61 - 32. Record Vote Number: 200. (consideration: CR S8826; text: CR S8826)
+- 2008-09-16 — Considered by Senate. (consideration: CR S8814)
+- 2008-09-16 — Considered by Senate. (consideration: CR S8814)
+- 2008-09-16 — Considered by Senate. (consideration: CR S8814)
+- 2008-09-16 — Considered by Senate. (consideration: CR S8814)
+- 2008-09-16 — Considered by Senate. (consideration: CR S8814)
+- 2008-09-16 — Considered by Senate. (consideration: CR S8814-8821, S8821, S8824-8826, S8828, S8830-8831, S8836-8837)
+- 2008-09-16 — Motion by Senator Reid to recommit to Senate Committee on Armed Services with instructions to report back with an amendment [SA5292] fell post-cloture in Senate. (consideration: CR S8826)
+- 2008-09-16 — SA 5292 fell when cloture invoked on the measure. (consideration: CR S8826)
+- 2008-09-16 — SA 5293 fell when SA 5292 fell. (consideration: CR S8826)
+- 2008-09-16 — SA 5294 fell when SA 5293 fell. (consideration: CR S8826)
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-16 — Senate amendment submitted
+- 2008-09-17 — Considered by Senate. (consideration: CR S8931)
+- 2008-09-17 — Considered by Senate. (consideration: CR S8931)
+- 2008-09-17 — Considered by Senate. (consideration: CR S8931-8933)
+- 2008-09-17 — Passed Senate with amendments by Yea-Nay. 88 - 8. Record Vote Number: 201. (text: CR 9/18/2008 S9042-9163)
+- 2008-09-17 — Passed/agreed to in Senate: Passed Senate with amendments by Yea-Nay. 88 - 8. Record Vote Number: 201.(text: CR 9/18/2008 S9042-9163)
+- 2008-09-17 — Proposed amendment SA 5290 withdrawn in Senate. (consideration: CR S8933)
+- 2008-09-17 — Proposed amendment SA 5291 withdrawn in Senate. (consideration: CR S8933)
+- 2008-09-17 — See also S.3002, S.3003, and S.3004.
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
+- 2008-09-17 — Senate amendment submitted
