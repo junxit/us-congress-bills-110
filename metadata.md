@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 87
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 87
@@ -25,9 +25,10 @@ A concurrent resolution congratulating the Republic of Latvia on the 90th annive
 - Sen. Levin, Carl [D-MI] (L000261)
 - Sen. Voinovich, George V. [R-OH] (V000126)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Foreign Relations Committee
+- House — Foreign Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,6 @@ A concurrent resolution congratulating the Republic of Latvia on the 90th annive
 - 2008-09-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S8890)
 - 2008-09-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent. (consideration: CR S8889-8890)
 - 2008-09-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.(consideration: CR S8889-8890)
+- 2008-09-17 — Message on Senate action sent to the House.
+- 2008-09-17 — Received in the House.
+- 2008-09-17 — Referred to the House Committee on Foreign Affairs.
