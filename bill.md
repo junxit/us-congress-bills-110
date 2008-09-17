@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3019
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,16 +25,17 @@ Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533
 >       - **(i)** research, grant administration, public outreach, and policy development relating to such counseling; and
 >       - **(ii)** establishment, coordination, and administration of all regulations, requirements, standards, and performance measures under programs and laws administered by the Department that relate to housing counseling, homeownership counseling (including maintenance of homes), mortgage-related counseling (including home equity conversion mortgages and credit protection options to avoid foreclosure), and rental housing counseling, including the requirements, standards, and performance measures relating to housing counseling.
 >     - **(B)** *Specific functions* The Director shall carry out the functions assigned to the Director and the Office under this section and any other provisions of law. Such functions shall include establishing rules necessary for—
->       - **(i)** the counseling procedures under section 106(h)(1) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(h)(1));
->       - **(ii)** carrying out all other functions of the Secretary under section 106(h) of the Housing and Urban Development Act of 1968, including the establishment, operation, and publication of the availability of the toll-free telephone number under paragraph (2) of such section;
+>       - **(i)** the counseling procedures under section 106(g)(1) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(h)(1));
+>       - **(ii)** carrying out all other functions of the Secretary under section 106(g) of the Housing and Urban Development Act of 1968, including the establishment, operation, and publication of the availability of the toll-free telephone number under paragraph (2) of such section;
 >       - **(iii)** carrying out section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604) for home buying information booklets prepared pursuant to such section;
 >       - **(iv)** carrying out the certification program under section 106(e) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e));
 >       - **(v)** carrying out the assistance program under section 106(a)(4) of the Housing and Urban Development Act of 1968, including criteria for selection of applications to receive assistance;
 >       - **(vi)** carrying out any functions regarding abusive, deceptive, or unscrupulous lending practices relating to residential mortgage loans that the Secretary considers appropriate, which shall include conducting the study under section 6 of the Expand and Preserve Home Ownership Through Counseling Act;
->       - **(vii)** providing for operation of the advisory committee established under paragraph (4) of this subsection; and
->       - **(viii)** collaborating with community-based organizations with expertise in the field of housing counseling.
+>       - **(vii)** providing for operation of the advisory committee established under paragraph (4) of this subsection;
+>       - **(viii)** collaborating with community-based organizations with expertise in the field of housing counseling; and
+>       - **(ix)** providing for the building of capacity to provide housing counseling services in areas that lack sufficient services.
 >   - **(4)** *Advisory Committee*
->     - **(A)** *In general* The Secretary shall appoint an advisory committee to provide advice and oversight regarding the carrying out of the functions of the Director.
+>     - **(A)** *In general* The Secretary shall appoint an advisory committee to provide advice regarding the carrying out of the functions of the Director.
 >     - **(B)** *Members* Such advisory committee shall consist of not more than 12 individuals, and the membership of the committee shall equally represent all aspects of the mortgage and real estate industry, including consumers.
 >     - **(C)** *Terms* Except as provided in subparagraph (D), each member of the advisory committee shall be appointed for a term of 3 years. Members may be reappointed at the discretion of the Secretary.
 >     - **(D)** *Terms of initial appointees* As designated by the Secretary at the time of appointment, of the members first appointed to the advisory committee, 4 shall be appointed for a term of 1 year and 4 shall be appointed for a term of 2 years.
@@ -44,8 +45,8 @@ Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533
 
 ## § 3. Counseling procedures
 
-- **(a)** *In general* Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection:
-  > - **(h)** *Procedures and activities*
+- **(a)** *In general* Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x) is amended by adding at the end the following new subsection:
+  > - **(g)** *Procedures and activities*
   >   - **(1)** *Counseling procedures*
   >     - **(A)** *In general* The Secretary shall establish, coordinate, and monitor the administration by the Department of Housing and Urban Development of the counseling procedures for homeownership counseling and rental housing counseling provided in connection with any program of the Department, including all requirements, standards, and performance measures that relate to homeownership and rental housing counseling.
   >     - **(B)** *Homeownership counseling* For purposes of this subsection and as used in the provisions referred to in this subparagraph, the term homeownership counseling means counseling related to homeownership and residential mortgage loans. Such term includes counseling related to homeownership and residential mortgage loans that is provided pursuant to—
@@ -87,7 +88,7 @@ Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533
   >       - **(vi)** section 491(b)(1)(F)(iii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11408(b)(1)(F)(iii));
   >       - **(vii)** sections 202(3) and 810(b)(2)(A) of the Native American Housing and Self-Determination Act of 1996 (25 U.S.C. 4132(3), 4229(b)(2)(A)); and
   >       - **(viii)** the rental assistance program under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f).
-  >   - **(2)** *Standards for materials* The Secretary, in conjunction with the advisory committee established under subsection (g)(4), shall establish standards for materials and forms to be used, as appropriate, by organizations providing homeownership counseling services, including any recipients of assistance pursuant to subsection (a)(4).
+  >   - **(2)** *Standards for materials* The Secretary, in conjunction with the advisory committee established under section 4(g)(4) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(g)(4), shall establish standards for materials and forms to be used, as appropriate, by organizations providing homeownership counseling services, including any recipients of assistance pursuant to subsection (a)(4).
   >   - **(3)** *Mortgage software systems*
   >     - **(A)** *Certification* The Secretary shall provide for the certification of various computer software programs for consumers to use in evaluating different residential mortgage loan proposals. The Secretary shall require, for such certification, that the mortgage software systems take into account—
   >       - **(i)** the consumer’s financial situation and the cost of maintaining a home, including insurance, taxes, and utilities;
@@ -102,22 +103,22 @@ Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533
   >   - **(5)** *Education programs* The Secretary shall provide advice and technical assistance to States, units of general local government, and nonprofit organizations regarding the establishment and operation of, including assistance with the development of content and materials for, educational programs to inform and educate consumers, particularly those most vulnerable with respect to residential mortgage loans (such as elderly persons, persons facing language barriers, low-income persons, and other potentially vulnerable consumers), regarding home mortgages, mortgage refinancing, home equity loans, and home repair loans.
 
 - **(b)** *Conforming amendments to grant program for homeownership counseling organizations* Section 106(c)(5)(A)(ii) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(c)(5)(A)(ii)) is amended—
-  - **(1)** in subclause (II), by striking “and” at the end;
-  - **(2)** in subclause (III) by striking the period at the end and inserting “; and”; and
-  - **(3)** by inserting after subclause (III) the following new subclause:
-    > - **(IV)** notify the housing or mortgage applicant of the availability of mortgage software systems provided pursuant to subsection (h)(4).
+  - **(1)** in subclause (III), by striking “and” at the end;
+  - **(2)** in subclause (IV) by striking the period at the end and inserting “; and”; and
+  - **(3)** by inserting after subclause (IV) the following new subclause:
+    > - **(V)** notify the housing or mortgage applicant of the availability of mortgage software systems provided pursuant to subsection (g)(3).
 
 ## § 4. Grants for housing counseling assistance
 
 Section 106(a) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(a)(3)) is amended by adding at the end the following new paragraph:
 
 > - **(4)** *Homeownership and rental counseling assistance*
->   - **(A)** *In general* The Secretary shall make financial assistance available under this paragraph to States, units of general local governments, and nonprofit organizations providing homeownership or rental counseling (as such terms are defined in subsection (h)(1)).
+>   - **(A)** *In general* The Secretary shall make financial assistance available under this paragraph to States, units of general local governments, and nonprofit organizations providing homeownership or rental counseling (as such terms are defined in subsection (g)(1)).
 >   - **(B)** *Qualified entities* The Secretary shall establish standards and guidelines for eligibility of organizations (including governmental and nonprofit organizations) to receive assistance under this paragraph.
 >   - **(C)** *Distribution* Assistance made available under this paragraph shall be distributed in a manner that encourages efficient and successful counseling programs.
 >   - **(D)** *Authorization of appropriations* There are authorized to be appropriated $45,000,000 for each of fiscal years 2008 through 2011 for—
 >     - **(i)** the operations of the Office of Housing Counseling of the Department of Housing and Urban Development;
->     - **(ii)** the responsibilities of the Secretary under paragraphs (2) through (6) of subsection (h); and
+>     - **(ii)** the responsibilities of the Secretary under paragraphs (2) through (5) of subsection (g); and
 >     - **(iii)** assistance pursuant to this paragraph for entities providing homeownership and rental counseling.
 
 ## § 5. Requirements to use HUD-certified counselors under HUD programs
@@ -133,7 +134,7 @@ Section 106(e) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x
 - **(3)** in paragraph (3), by inserting “organizations and” before “individuals”;
 - **(4)** by redesignating paragraph (3) as paragraph (5); and
 - **(5)** by inserting after paragraph (2) the following new paragraphs:
-  > - **(3)** *Requirement under hud programs* Any homeownership counseling or rental housing counseling (as such terms are defined in subsection (h)(1)) required under, or provided in connection with, any program administered by the Department of Housing and Urban Development shall be provided only by organizations or counselors certified by the Secretary under this subsection as competent to provide such counseling.
+  > - **(3)** *Requirement under hud programs* Any homeownership counseling or rental housing counseling (as such terms are defined in subsection (g)(1)) required under, or provided in connection with, any program administered by the Department of Housing and Urban Development shall be provided only by organizations or counselors certified by the Secretary under this subsection as competent to provide such counseling.
   > - **(4)** *Outreach* The Secretary shall take such actions as the Secretary considers appropriate to ensure that individuals and organizations providing homeownership or rental housing counseling are aware of the certification requirements and standards of this subsection and of the training and certification programs under subsection (f).
 
 ## § 6. Study of defaults and foreclosures
@@ -142,9 +143,9 @@ The Secretary of Housing and Urban Development shall conduct an extensive study 
 
 ## § 7. Definitions for counseling-related programs
 
-Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x), as amended by the preceding provisions of this title, is further amended by adding at the end the following new subsection:
+Section 106 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x), as amended by the preceding provisions of this Act, is further amended by adding at the end the following new subsection:
 
-> - **(i)** *Definitions* For purposes of this section:
+> - **(h)** *Definitions* For purposes of this section:
 >   - **(1)** *Nonprofit organization* The term nonprofit organization has the meaning given such term in section 104(5) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704(5)), except that subparagraph (D) of such section shall not apply for purposes of this section.
 >   - **(2)** *State* The term State means each of the several States, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific, or any other possession of the United States.
 >   - **(3)** *Unit of general local government* The term unit of general local government means any city, county, parish, town, township, borough, village, or other general purpose political subdivision of a State.
@@ -174,5 +175,5 @@ Section 5 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2604) 
   >   - **(12)** An explanation of the nature and purpose of real estate appraisals, including the difference between an appraisal and a home inspection.
   >   - **(13)** Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochure regarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
 
-- **(3)** in subsection (c), by striking the last sentence and inserting the following new sentence: “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 106(e) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)) and located in the area of the lender.”; and
+- **(3)** in subsection (c), by inserting at the end the following new sentence: “Each lender shall also include with the booklet a reasonably complete or updated list of homeownership counselors who are certified pursuant to section 106(e) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(e)) and located in the area of the lender.”; and
 - **(4)** in subsection (d), by inserting after the period at the end of the first sentence the following: “The lender shall provide the HUD-issued booklet in the version that is most appropriate for the person receiving it.”.
