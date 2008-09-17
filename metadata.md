@@ -1,7 +1,7 @@
 ---
 measure: S. 3341
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3341
@@ -29,3 +29,7 @@ Federal Financial Assistance Management Improvement Act of 2008
 - 2008-07-26 — Introduced in Senate
 - 2008-07-26 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S7527-7528)
 - 2008-07-26 — Sponsor introductory remarks on measure. (CR S7526-7527)
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-09-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-468.
+- 2008-09-17 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-468.
+- 2008-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1027.
