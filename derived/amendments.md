@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5772
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -60,7 +60,7 @@ to guess them.
 | Removed | `Selection criteria.—` |
 | Inserted | `Selection criteria and processing.—(1) Selection criteria.—` |
 
-### 26 U.S.C. § 42
+### 42 U.S.C. § 12742
 
 > in the first sentence, by striking “various types and sizes” and inserting “group homes”;
 
@@ -94,11 +94,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 8013` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | redesignate | Paragraph (1) of section 811(g) (as so designated by subsection (c)(1) of this section) is amended by inserting after subparagraph (E) (as so redesignated by subsection (c)(2) of this section) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | replace | Section 811 is amended by striking subsection (i) and inserting the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | replace | by striking the paragraph heading and inserting “Group homes”; | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 42` | strike | by striking subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | redesignate | by redesignating subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 42` | insert | in paragraph (3), by inserting “established pursuant to paragraph (1)” after “cost limitation”; and | the bill quotes the text inserted but describes where it goes |
-| `26 U.S.C. § 42` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12742` | replace | by striking the paragraph heading and inserting “Group homes”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12742` | strike | by striking subparagraph (E); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12742` | redesignate | by redesignating subparagraphs (F) and (G) as subparagraphs (E) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12742` | insert | in paragraph (3), by inserting “established pursuant to paragraph (1)” after “cost limitation”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 12742` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | strike | in paragraph (1), by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `26 U.S.C. § 42` | strike | in paragraph (4), by striking “(or such higher number of persons” and all that follows through “subsection (h)(6))”. | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 42` | insert | Subsection (l) of section 811, as amended by the preceding provisions of this Act, is further amended by inserting before paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
