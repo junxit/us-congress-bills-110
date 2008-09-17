@@ -1,7 +1,7 @@
 ---
 measure: S. 3002
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3002
@@ -26,3 +26,7 @@ Department of Defense Authorization Act for Fiscal Year 2009
 - 2008-05-12 — Committee on Armed Services. Original measure reported to Senate by Senator Levin. Without written report.
 - 2008-05-12 — Introduced in Senate
 - 2008-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 733.
+- 2008-09-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8933)
+- 2008-09-17 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-17 — Senate struck all after the Enacting Clause and substituted the language of S.3001 amended (Division A only).

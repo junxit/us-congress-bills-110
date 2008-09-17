@@ -15,7 +15,7 @@ This Act may be cited as the “Department of Defense Authorization Act for Fisc
 
 ## § 2. Table of contents
 
-The table of contents for this Act is as follows:
+-  The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees
 
