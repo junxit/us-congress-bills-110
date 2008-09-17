@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2352
 congress: 110
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -66,7 +66,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3797a` | replace | by striking subsection (d)(1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3797b` | amend | Section 2702(a)(2) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797b(a)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | Paragraph (5) of section 2701(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797a(b)) (as amended by section 101 of this Act) is further amended by inserting “, including hazardous conditions” after “and situati… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 3797a` | insert | Paragraph (5) of section 2701(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797a(b)) (as amended by section 101 of this Act) is further amended by inserting “, including hazardous conditions” after “and situati… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3797a` | redesignate | Section 2701(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3797a(b)) (as amended by sections 101 and 105 of this Act) is further amended by inserting after paragraph (4) the following new paragraph (and redesign… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1092` | amend | Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1092` | amend | Section 485 of the Higher Education Act of 1965, as amended in section 201 (20 U.S.C. 1092), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | add-at-end | Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1092` | add-at-end | Section 485 of the Higher Education Act of 1965, as amended in section 201 (20 U.S.C. 1092), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
