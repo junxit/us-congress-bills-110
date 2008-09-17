@@ -15,16 +15,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** determines that the conveyance is in the best interests of NOAA and the Federal Government; and
   - **(2)** has provided prior notification to the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate.
 - **(b)** *Consideration*
-  - **(1)** *In general* For any conveyance under this section the Secretary shall require provision to the United States of consideration having a value that is not less than the fair market value of the property conveyed by the United States.
+  - **(1)** *In general* For any conveyance under this section the Secretary shall require the City of Norfolk to provide consideration to the United States that is not less than the fair market value of the property conveyed by the United States.
   - **(2)** *Form* Consideration under this subsection may include any combination of—
     - **(A)** cash or cash equivalents;
     - **(B)** other property (either real or personal); and
     - **(C)** consideration in-kind, including—
       - **(i)** provision of space, goods, or services of benefit to NOAA including construction, repair, remodeling, or other physical improvements of NOAA property;
-      - **(ii)** maintenance of NOAA property; or
-      - **(iii)** provision of office, storage, or other useable space.
-  - **(3)** *Determination of fair market value* The Secretary shall determine fair market value for purposes of paragraph (1) based upon an appraisal of the property conveyed under subsection (a) conducted in conformance with the Uniform Appraisal Standards for Federal Land Acquisitions.
+      - **(ii)** maintenance of NOAA property;
+      - **(iii)** provision of office, storage, or other useable space; or
+      - **(iv)** relocation services associated with conveyance of property under this section.
+  - **(3)** *Determination of fair market value* The Secretary shall determine fair market value for purposes of paragraph (1) based upon a highest- and best-use appraisal of the property conveyed under subsection (a) conducted in conformance with the Uniform Appraisal Standards for Professional Appraisal Practice.
 - **(c)** *Use of Proceeds* Amounts received under subsection (b)(2)(A) by the United States as proceeds of any conveyance under this section shall be available to the Secretary, subject to appropriation, for—
   - **(1)** activities related to the operations of, or capital improvements, to NOAA property; or
   - **(2)** relocation and other costs associated with the sale or exchange.
-- **(d)** *Termination* Authority granted to the Secretary under subsections (a) and (b) shall terminate at the end of the 24-month period beginning on the date of enactment of this Act.
+- **(d)** *Additional terms and conditions* The Secretary may require such additional terms and conditions in connection with the conveyance of property by the United States under subsection (a) as the Secretary considers appropriate to protect the interest of the United States, including the recoupment of any profit the City of Norfolk may realize within three years after the date of conveyance to the City due to resale of the property
+- **(e)** *Termination* The authority granted to the Secretary under subsections (a) and (b) shall terminate at the end of the 24-month period beginning on the date of enactment of this Act if no contract for sale or exchange under subsection (a) has been entered into by the City of Norfolk and the United States.
