@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 998
@@ -116,3 +116,9 @@ Civil Rights History Project Act of 2008
 - 2008-09-15 — Placed on the Union Calendar, Calendar No. 548.
 - 2008-09-15 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-848.
 - 2008-09-15 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-848.
+- 2008-09-17 — Considered under suspension of the rules. (consideration: CR H8369-8371)
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 998.
+- 2008-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-17 — Mrs. Davis (CA) moved to suspend the rules and pass the bill, as amended.
+- 2008-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8369)
+- 2008-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8369)
