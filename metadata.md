@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2760
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2760
@@ -38,3 +38,4 @@ For the relief of Shigeru Yamada.
 - 2008-09-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-16 — On passage Passed by voice vote. (text: CR H8137)
 - 2008-09-16 — Passed/agreed to in House: On passage Passed by voice vote.(text: CR H8137)
+- 2008-09-17 — Received in the Senate.
