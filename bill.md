@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1594
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
