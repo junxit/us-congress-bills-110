@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5551
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5551
@@ -20,9 +20,10 @@ To amend title 11, District of Columbia Official Code, to implement the increase
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,12 @@ To amend title 11, District of Columbia Official Code, to implement the increase
 - 2008-04-01 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2008-04-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1852)
 - 2008-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1852)
+- 2008-04-02 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-04-10 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-07-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-432.
+- 2008-07-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-432.
+- 2008-07-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 900.
+- 2008-09-16 — Cleared for White House.
+- 2008-09-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8875)
+- 2008-09-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S8875)
+- 2008-09-17 — Message on Senate action sent to the House.
