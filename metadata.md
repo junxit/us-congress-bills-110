@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6460
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6460
@@ -70,6 +70,10 @@ Great Lakes Legacy Reauthorization Act of 2008
 - House — Science, Space, and Technology Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2008-09-18 — [House 110-2-615](votes/house-110-2-0615.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (371–20)
+
 ## Actions
 
 - 2008-07-10 — Introduced in House
@@ -87,3 +91,11 @@ Great Lakes Legacy Reauthorization Act of 2008
 - 2008-09-15 — Placed on the Union Calendar, Calendar No. 549.
 - 2008-09-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-849, Part I.
 - 2008-09-15 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-849, Part I.
+- 2008-09-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boozman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-17 — Considered under suspension of the rules. (consideration: CR H8343-8349)
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6460.
+- 2008-09-17 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill, as amended.
+- 2008-09-18 — Considered as unfinished business. (consideration: CR H8451-8452)
+- 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 371 - 20 (Roll no. 615). (text: CR 9/17/2008 H8343-8344)
+- 2008-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 371 - 20 (Roll no. 615).(text: CR 9/17/2008 H8343-8344)
