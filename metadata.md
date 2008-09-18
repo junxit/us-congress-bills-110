@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1356
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1356
@@ -16,7 +16,7 @@ Celebrating the 221st anniversary of the signing of the Constitution of the Unit
 
 - Rep. Garrett, Scott [R-NJ-5] (G000548)
 
-## Cosponsors (41)
+## Cosponsors (52)
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Chabot, Steve [R-OH-1] (C000266)
@@ -59,6 +59,17 @@ Celebrating the 221st anniversary of the signing of the Constitution of the Unit
 - Rep. Mack, Connie [R-FL-14] (M001155)
 - Rep. Carter, John R. [R-TX-31] (C001051)
 - Rep. Tiahrt, Todd [R-KS-4] (T000260)
+- Rep. Smith, Lamar [R-TX-21] (S000583)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Bilbray, Brian P. [R-CA-50] (B000461)
+- Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Bachmann, Michele [R-MN-6] (B001256)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
+- Rep. Jordan, Jim [R-OH-4] (J000289)
+- Rep. Ferguson, Mike [R-NJ-7] (F000443)
+- Rep. Gohmert, Louie [R-TX-1] (G000552)
 
 ## Committees (1)
 
@@ -69,3 +80,13 @@ Celebrating the 221st anniversary of the signing of the Constitution of the Unit
 - 2008-07-17 — Introduced in House
 - 2008-07-17 — Introduced in House
 - 2008-07-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-10 — Committee Consideration and Mark-up Session Held.
+- 2008-09-10 — Ordered to be Reported by Voice Vote.
+- 2008-09-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-17 — Considered under suspension of the rules. (consideration: CR H8332-8336)
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1356.
+- 2008-09-17 — Ms. McCollum (MN) moved to suspend the rules and agree to the resolution.
+- 2008-09-18 — Considered as unfinished business. (consideration: CR H8454)
+- 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-18 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 9/17/2008 H8332)
+- 2008-09-18 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 9/17/2008 H8332)
