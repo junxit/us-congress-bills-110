@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 540
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 540
@@ -28,3 +28,7 @@ A resolution recognizing the historical significance of the sloop-of-war USS Con
 
 - 2008-04-29 — Introduced in Senate
 - 2008-04-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3514-3515)
+- 2008-09-18 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-09-18 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-09-18 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-09-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1030.
