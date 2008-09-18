@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6159
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6159
@@ -16,6 +16,12 @@ Deafy Glade Land Exchange Act
 
 - Rep. Miller, George [D-CA-7] (M000725)
 
+## Cosponsors (3)
+
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Thompson, Mike [D-CA-1] (T000460)
+- Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +31,11 @@ Deafy Glade Land Exchange Act
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Referred to the House Committee on Natural Resources.
+- 2008-06-02 — Referred to the Subcommittee on National Parks, Forests and Public Lands.
+- 2008-07-15 — Subcommittee Hearings Held.
+- 2008-07-23 — Committee Consideration and Mark-up Session Held.
+- 2008-07-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-07-23 — Subcommittee on National Parks, Forests, and Public Lands Discharged.
+- 2008-09-18 — Placed on the Union Calendar, Calendar No. 557.
+- 2008-09-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-861.
+- 2008-09-18 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-861.
