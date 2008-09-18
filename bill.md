@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 2608
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 2608
 
-That the bill from the House of Representatives (H.R. 2608) entitled “An Act to amend section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to provide, in fiscal years 2008 through 2010, extensions of supplemental security income for refugees, asylees, and certain other humanitarian immigrants, and to amend the Internal Revenue Code to collect unemployment compensation debts resulting from fraud.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to provide, in fiscal years 2009 through 2011, extensions of supplemental security income for refugees, asylees, and certain other humanitarian immigrants, and to amend the Internal Revenue Code of 1986 to collect unemployment compensation debts resulting from fraud.
 
 ## § 1. Short Title
 

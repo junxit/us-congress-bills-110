@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2608
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2608
@@ -71,3 +71,9 @@ SSI Extension for Elderly and Disabled Refugees Act
 - 2008-08-01 — Senate amendment proposed (on the floor): Amendment SA 5261 proposed by Senator Cantwell for Senator Smith.(consideration: CR S8004; text: CR S8004)
 - 2008-08-01 — Senate amendment submitted
 - 2008-08-01 — Senate amendment submitted
+- 2008-09-17 — Cleared for White House.
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendments to H.R. 2608.
+- 2008-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-17 — Mr. McDermott moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H8298-8304)
+- 2008-09-17 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.
+- 2008-09-17 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by voice vote.
