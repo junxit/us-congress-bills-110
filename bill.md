@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3036
 
-> To amend the Elementary and Secondary Education Act of 1965 regarding environmental education, and for other purposes.
+> To reauthorize and enhance the National Environmental Education Act, and for other purposes.
 
 ## § 1. Short title
 
@@ -66,7 +66,7 @@ This Act may be cited as the “No Child Left Inside Act of 2008”.
     > ## § 11. National capacity environmental education grant program
     >
     > - **(a)** *Grants authorized*
-    >   - **(1)** *In general* The Secretary is authorized to award grants, on a competitive basis, to nonprofit organizations, State educational agencies, local educational agencies, or institutions of higher education that have demonstrated expertise and experience in the development of the institutional, financial, intellectual, or policy resources needed to help the field of environmental education become more effective and widely practiced. Notwithstanding any other provision of this section, a State educational agency, a local educational agency, an institution of higher education, or a not-for-profit organization may use funds provided under this section to coordinate with any program or unit operated by a Federal Natural Resource Management Agency to carry out environmental education programs based on the full range of the resources and mission of the Agency.
+    >   - **(1)** *In general* The Secretary is authorized to award grants, on a competitive basis, to nonprofit organizations, State educational agencies, local educational agencies, municipalities, or institutions of higher education that have demonstrated expertise and experience in the development of the institutional, financial, intellectual, or policy resources needed to help the field of environmental education become more effective and widely practiced. Notwithstanding any other provision of this section, a State educational agency, a local educational agency, an institution of higher education, a municipality, or a not-for-profit organization may use funds provided under this section to coordinate with any program or unit operated by a Federal Natural Resource Management Agency to carry out environmental education programs based on the full range of the resources and mission of the Agency.
     >   - **(2)** *Duration* The Secretary shall award each grant under this section for a period of not less than 1 year and not more than 3 years.
     > - **(b)** *Use of funds* Grant funds made available under this section shall be used for 1 or more of the following:
     >   - **(1)** Developing and implementing challenging State academic content standards, student academic achievement standards, and State curriculum frameworks in environmental education, including the need to balance conservation of the environment with the development of the Nation’s energy resources.
@@ -74,8 +74,14 @@ This Act may be cited as the “No Child Left Inside Act of 2008”.
     >     - **(A)** use the environment as an integrating theme or content throughout the curriculum;
     >     - **(B)** provide integrated, interdisciplinary instruction about natural, social, and economic systems along with field experience that provides students with opportunities to directly experience nature in ways designed to improve overall academic performance, self-esteem, personal responsibility, community involvement, personal health (including addressing child obesity issues), or their understanding of nature;
     >     - **(C)** provide integrated instruction on waste reduction, reuse, recycling, and composting programs and, when possible, promote such activities within the school; or
-    >     - **(D)** address issues of environmental justice, including policies and methods for eliminating disparate enforcement of environmental laws and regulations with respect to minority and low-income communities, with particular attention to the development of environmental justice curriculum at the middle and high school level.
-    >   - **(3)** Developing and implementing new policy approaches to advancing environmental education at the State and national level.
+    >     - **(D)** address issues of environmental justice, including policies and methods for eliminating disparate enforcement of environmental laws and regulations, including with respect to low-income communities.
+    >   - **(3)** Developing and implementing new policy approaches to environmental education, which shall include a discussion of—
+    >     - **(A)** the benefits and costs to the environment and to consumers regarding increasing the supply of energy produced in the United States from—
+    >       - **(i)** oil and gas drilling;
+    >       - **(ii)** nuclear power;
+    >       - **(iii)** new coal technologies; and
+    >       - **(iv)** clean renewable and alternative sources of energy, including wind, solar, geothermal, hydropower, and advanced biofuels; and
+    >     - **(B)** the best strategies for reducing energy consumption through an enhanced emphasis on efficiency and conservation.
     >   - **(4)** Conducting studies of national significance that—
     >     - **(A)** evaluate the effectiveness of teaching environmental education as a separate subject, and as an integrating concept or theme;
     >     - **(B)** evaluate the effectiveness of using environmental education in helping students improve their assessment scores in mathematics, reading or language arts, science, and the other core academic subjects; or
@@ -91,7 +97,7 @@ This Act may be cited as the “No Child Left Inside Act of 2008”.
     >       - **(iii)** field-based pedagogical skills.
     >     - **(C)** A description of how the State educational agency will implement the plan, including securing funding and other necessary support.
     >   - **(7)** Developing evidence-based approaches to build capacity to increase the number of elementary and secondary environmental educators.
-    > - **(c)** *Applications* Each nonprofit organization, State educational agency, local educational agency, or institution of higher education desiring a grant under this section shall submit to the Secretary an application that contains a plan to initiate, expand, or improve environmental education programs in order to make progress toward meeting State standards for environmental learning (to the extent such standards exist) and environmental literacy and contains an evaluation and accountability plan for activities assisted under this section that includes rigorous objectives that measure the impact of activities funded under this section.
+    > - **(c)** *Applications* Each municipality, nonprofit organization, State educational agency, local educational agency, or institution of higher education desiring a grant under this section shall submit to the Secretary an application that contains a plan to initiate, expand, or improve environmental education programs in order to make progress toward meeting State standards for environmental learning (to the extent such standards exist) and environmental literacy and contains an evaluation and accountability plan for activities assisted under this section that includes rigorous objectives that measure the impact of activities funded under this section. Such application may describe how the applicant has partnered, or intends to partner, with a State and local park and recreation department.
     > - **(d)** *Requirements*
     >   - **(1)** *Annual report* In order to continue receiving grant funds under this section after the first year of a multi-year grant under this section, the grantee shall submit to the Secretary an annual report that—
     >     - **(A)** describes the activities assisted under this section that were conducted during the preceding year;
