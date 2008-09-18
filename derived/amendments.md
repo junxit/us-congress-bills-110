@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6893
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
