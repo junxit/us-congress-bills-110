@@ -70,7 +70,7 @@ The table of contents of this Act is as follows:
 
 Section 4 of the Commodity Exchange Act (7 U.S.C. 6), as amended by section 4 of this Act, is amended by adding at the end the following:
 
-> - **(g)** *Disaggregation of index funds and other data in energy and agriculture markets* Subject to section 8 and beginning within 30 days of the issuance of the final rule required by section 4h, the Commission shall disaggregate and make public weekly—
+> - **(g)** *Disaggregation of index funds and other data in energy and agriculture markets* Subject to section 8 and beginning within 30 days of the issuance of the final rule required by section 4(h), the Commission shall disaggregate and make public weekly—
 >   - **(1)** the number of positions and total value of index funds and other passive, long-only and short-only positions (as defined by the Commission) in all energy and agricultural markets to the extent such information is available; and
 >   - **(2)** data on speculative positions relative to bona fide physical hedgers in those markets to the extent such information is available.
 
@@ -96,9 +96,9 @@ Section 4 of the Commodity Exchange Act (7 U.S.C. 6), as amended by sections 4 a
 - **(c)** *Conforming amendments*
   - **(1)** Section 2(g) of such Act (7 U.S.C. 2(g)) is amended—
     - **(A)** by inserting “4g(a), 4i,” before “5a (to”; and
-    - **(B)** by inserting “, and the regulations of the Commission pursuant to section 4c(b) requiring reporting in connection with commodity option transactions,” before “shall apply”.
+    - **(B)** by inserting “, and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions,” before “shall apply”.
   - **(2)** Section 2(h)(2)(A) of such Act (7 U.S.C. 2(h)(2)(A)) is amended to read as follows:
-    > - **(A)** sections 4g(a), 4i, 5b and 12(e)(2)(B), and the regulations of the Commission pursuant to section 4c(b) requiring reporting in connection with commodity option transactions;
+    > - **(A)** sections 4g(a), 4i, 5b and 12(e)(2)(B), and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions;
 
 ## § 8. Trading limits to prevent excessive speculation
 
@@ -107,7 +107,7 @@ Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) is amended—
 - **(1)** in subsection (a)—
   - **(A)** by inserting “(1)” after “(a)”; and
   - **(B)** by adding after and below the end the following:
-    > - **(2)** In accordance with the standards set forth in paragraph (1) of this subsection and consistent with the good faith exception cited in subsection (b)(2), with respect to agricultural commodities enumerated in section 1a(4) and energy commodities, the Commission, within 60 days after the date of the enactment of this paragraph, shall by rule, regulation, or order establish limits on the amount of positions that may be held by any person with respect to contracts of sale for future delivery or with respect to options on such contracts or commodities traded on or subject to the rules of a contract market or derivatives transaction execution facility, or on an electronic trading facility as a significant price discovery contract.
+    > - **(2)** In accordance with the standards set forth in paragraph (1) of this subsection and consistent with the good faith exception cited in subsection (b)(2), with respect to agricultural commodities enumerated in section 1a(4) and energy commodities, the Commission, within 60 days after the date of the enactment of this paragraph, shall by rule, regulation, or order establish limits on the amount of positions, other than bona fide hedge positions, that may be held by any person with respect to contracts of sale for future delivery or with respect to options on such contracts or commodities traded on or subject to the rules of a contract market or derivatives transaction execution facility, or on an electronic trading facility as a significant price discovery contract.
     > - **(3)** In establishing the limits required in paragraph (2), the Commission shall set limits—
     >   - **(A)** on the number of positions that may be held by any person for the spot month, each other month, and the aggregate number of positions that may be held by any person for all months;
     >   - **(B)** to the maximum extent practicable, in its discretion—
@@ -118,8 +118,8 @@ Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) is amended—
     >   - **(C)** to the maximum extent practicable, in its discretion, take into account the total number of positions in fungible agreements, contracts, or transactions that a person can hold in agricultural and energy commodities in other markets.
     > - **(4)**
     >   - **(A)** Not later than 150 days after the date of the enactment of this paragraph, the Commission shall convene a Position Limit Agricultural Advisory Group and a Position Limit Energy Group, each group consisting of representatives from—
-    >     - **(i)** 5 predominantly commercial short hedgers of the actual physical commodity for future delivery;
-    >     - **(ii)** 5 predominantly commercial long hedgers of the actual physical commodity for future delivery;
+    >     - **(i)** 7 predominantly commercial short hedgers of the actual physical commodity for future delivery;
+    >     - **(ii)** 7 predominantly commercial long hedgers of the actual physical commodity for future delivery;
     >     - **(iii)** 4 non-commercial participants in markets for commodities for future delivery; and
     >     - **(iv)** each designated contract market or derivatives transaction execution facility upon which a contract in the commodity for future delivery is traded, and each electronic trading facility that has a significant price discovery contract in the commodity.
     >   - **(B)** Not later than 60 days after the date on which the advisory groups are convened under subparagraph (A), and annually thereafter, the advisory groups shall submit to the Commission advisory recommendations regarding the position limits to be established in paragraph (2) and a recommendation as to whether the position limits should be administered directly by the Commission, or by the registered entity on which the commodity is listed (with enforcement by both the registered entity and the Commission).
@@ -127,7 +127,7 @@ Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) is amended—
 - **(2)** in subsection (c)—
   - **(A)** by inserting “(1)” after “(c)”; and
   - **(B)** by adding after and below the end the following:
-    > - **(2)** With respect to agricultural and energy commodities, for the purposes of contracts of sale for future delivery and options on such contracts or commodities, a bona fide hedging transaction or position is a transaction or position that—
+    > - **(2)** With respect to agricultural and energy commodities, for the purposes of contracts of sale for future delivery and options on such contracts or commodities, the Commission shall define what constitutes a bona fide hedging transaction or position as a transaction or position that—
     >   - **(A)**
     >     - **(i)** represents a substitute for transactions to be made or positions to be taken at a later time in a physical marketing channel;
     >     - **(ii)** is economically appropriate to the reduction of risks in the conduct and management of a commercial enterprise; and
@@ -147,17 +147,12 @@ Section 4a of the Commodity Exchange Act (7 U.S.C. 6a) is amended—
 
 ## § 10. CFTC Administration
 
-- **(a)** *Additional Commodity Futures Trading Commission employees for improved enforcement* Section 2(a)(7) of the Commodity Exchange Act (7 U.S.C. 2(a)(7)) is amended by adding at the end the following:
-  > - **(D)** *Additional employees* As soon as practicable after the date of the enactment of this subparagraph, subject to appropriations, the Commission shall appoint at least 100 full-time employees (in addition to the employees employed by the Commission as of the date of the enactment of this subparagraph)—
-  >   - **(i)** to increase the public transparency of operations in agriculture and energy markets;
-  >   - **(ii)** to improve the enforcement of this Act in those markets; and
-  >   - **(iii)** to carry out such other duties as are prescribed by the Commission.
+Section 2(a)(7) of the Commodity Exchange Act (7 U.S.C. 2(a)(7)) is amended by adding at the end the following:
 
-- **(b)** *Inspector General of Commodity Futures Trading Commission*
-  - **(1)** *Elevation of office*
-    - **(A)** *Inclusion of CFTC in definition of establishment* Section 11(2) of the Inspector General Act of 1878 (5 U.S.C. App.) is amended by striking “or the Export-Import Bank,” and inserting “, the Export-Import Bank, or the Commodity Futures Trading Commission,”.
-    - **(B)** *Exclusion of CFTC from definition of designated Federal entity* Section 8G(a)(2) of such Act (5 U.S.C. App.) is amended by striking “the Commodity Futures Trading Commission,”.
-  - **(2)** *Transition* Until such time as the Inspector General of the Commodity Futures Trading Commission is appointed in accordance with section 3 of the Inspector General Act of 1978, the Office of Inspector General of the Commission shall continue in effect as provided in such Act before the date of the enactment of this Act.
+> - **(D)** *Additional employees* As soon as practicable after the date of the enactment of this subparagraph, subject to appropriations, the Commission shall appoint at least 100 full-time employees (in addition to the employees employed by the Commission as of the date of the enactment of this subparagraph)—
+>   - **(i)** to increase the public transparency of operations in agriculture and energy markets;
+>   - **(ii)** to improve the enforcement of this Act in those markets; and
+>   - **(iii)** to carry out such other duties as are prescribed by the Commission.
 
 ## § 11. Review of prior actions
 
@@ -166,8 +161,8 @@ Notwithstanding any other provision of the Commodity Exchange Act, the Commodity
 ## § 12. Review of over-the-counter markets
 
 - **(a)** *Study* The Commodity Futures Trading Commission shall conduct a study—
-  - **(1)** to determine the efficacy, practicality, and consequences of establishing position limits for agreements, contracts, or transactions conducted in reliance on sections 2(g) and 2(h) of the Commodity Exchange Act and of any exemption issued by the Commission by rule, regulation or order, as a means to deter and prevent price manipulation or any other disruption to market integrity or to diminish, eliminate, or prevent excessive speculation as described in section 4a of such Act for physical-based commodities; and
-  - **(2)** to determine the efficacy, practicality, and consequences of establishing aggregate position limits for similar agreements, contracts, or transactions for physical-based commodities traded—
+  - **(1)** to determine the efficacy, practicality, and consequences of establishing limits on the amount of positions, other than bona fide hedge positions, that may be held by any person with respect to agreements, contracts, or transactions involving an agricultural or energy commodity, conducted in reliance on sections 2(g) and 2(h) of the Commodity Exchange Act and of any exemption issued by the Commission by rule, regulation or order, that are fungible (as defined by the Commission) with agreements, contracts, or transactions traded on or subject to the rules of any board of trade or of any electronic trading facility with respect to a significant price discovery contract, as a means to deter and prevent price manipulation or any other disruption to market integrity or to diminish, eliminate, or prevent excessive speculation as described in section 4a of such Act for physical-based agricultural or energy commodities; and
+  - **(2)** to determine the efficacy, practicality, and consequences of establishing aggregate position limits for similar agreements, contracts, or transactions for physical-based agricultural or energy commodities traded—
     - **(A)** on designated contract markets;
     - **(B)** on derivatives transaction execution facilities; and
     - **(C)** in reliance on such sections 2(g) and 2(h) and of any exemption issued by the Commission by rule, regulation or order.
@@ -193,7 +188,7 @@ Notwithstanding any other provision of the Commodity Exchange Act, the Commodity
     - **(B)** addresses whether there is excessive speculation, and if so, the effects of any such speculation and energy price volatility on energy futures; and
     - **(C)** provides recommendations to improve openness, transparency, and other necessary elements of a properly functioning market in a manner that protects consumers in the United States.
 - **(b)** *Study relating to effects of speculators on agriculture and energy futures markets and agriculture and energy prices*
-  - **(1)** *Study* The Comptroller General of the United States shall conduct a study of the effects of speculators on agriculture and energy futures markets and agriculture and energy prices.
+  - **(1)** *Study* The Commodity Futures Trading Commission shall conduct a study of the effects of speculators on agriculture and energy futures markets and agriculture and energy prices.
   - **(2)** *Analysis* The study shall include an analysis of, at a minimum—
     - **(A)** the effect of increased amounts of capital in agriculture and energy futures markets;
     - **(B)** the impact of the roll-over of positions by index fund traders and swap dealers on agriculture and energy futures markets and agriculture and energy prices; and
@@ -202,7 +197,7 @@ Notwithstanding any other provision of the Commodity Exchange Act, the Commodity
         - **(I)** the pricing of agriculture and energy commodities; and
         - **(II)** risk management functions; and
       - **(ii)** contribute to economically efficient price discovery.
-  - **(3)** *Report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study.
+  - **(3)** *Report* Not later than 2 years after the date of the enactment of this Act, the Commodity Futures Trading Commission shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study.
 
 ## § 14. Over-the-counter authority
 
@@ -213,7 +208,7 @@ Notwithstanding any other provision of the Commodity Exchange Act, the Commodity
   >     - **(A)** disrupt the liquidity or price discovery function on a registered entity;
   >     - **(B)** cause a severe market disturbance in the underlying cash or futures market for an agricultural or energy commodity; or
   >     - **(C)** prevent or otherwise impair the price of a contract listed for trading on a registered entity from reflecting the forces of supply and demand in any market for an agricultural commodity enumerated in section 1a(4) or an energy commodity.
-  >   - **(3)** If the Commission makes a finding pursuant to paragraph (2) of this subsection, the Commission may, in its discretion, utilize its authority under section 8a(9) to impose position limits for speculators on the agreements, contracts, or transactions involved and take corrective actions to enforce the limits.
+  >   - **(3)** If the Commission makes a finding pursuant to paragraph (2) of this subsection, the Commission may, in its discretion, utilize its authority under section 8a(9) to impose position limits (including, as appropriate and in its discretion, related hedge exemption provisions for bona fide hedging comparable to bona fide hedge provisions of section 4a(c)(2)) on agreements, contracts, or transactions involved, and take corrective actions to enforce the limits.
 
 - **(b)** *Conforming amendments*
   - **(1)** Section 2(g) of such Act (7 U.S.C. 2(g)) is amended by inserting “subsection (j) of this section, and” after “(other than”.
