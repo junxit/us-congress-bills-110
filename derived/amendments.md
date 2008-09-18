@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6604
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 8 executed, 28 stated and not applied.
+34 amendatory instructions. 7 executed, 27 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -87,15 +87,6 @@ to guess them.
 | Removed | `where necessary” and all that follows through “in significant price discovery contracts` |
 | Inserted | `for speculators, position limitations with respect to significant price discovery contracts in energy commodities, and position limitations or position accountability with respect to significant price discovery contracts in other commodities` |
 
-### 7 U.S.C. § 2
-
-> Section 11(2) of the Inspector General Act of 1878 (5 U.S.C. App.) is amended by striking “or the Export-Import Bank,” and inserting “, the Export-Import Bank, or the Commodity Futures Trading Commission,”.
-
-| | |
-|---|---|
-| Removed | `or the Export-Import Bank,` |
-| Inserted | `, the Export-Import Bank, or the Commodity Futures Trading Commission,` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -119,7 +110,7 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 6i` | insert | by inserting “in the United States or elsewhere, and of transactions and positions in any such commodity entered into pursuant to subsection (g), (h)(1), or (h)(2) of section 2, or any exemption issued by the Commission by rule, regulati… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 6i` | replace | by striking all that follows the 1st sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | insert | by inserting “4g(a), 4i,” before “5a (to”; and | the bill quotes the text inserted but describes where it goes |
-| `7 U.S.C. § 2` | insert | by inserting “, and the regulations of the Commission pursuant to section 4c(b) requiring reporting in connection with commodity option transactions,” before “shall apply”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 2` | insert | by inserting “, and the regulations of the Commission pursuant to section 4i(b) requiring reporting in connection with commodity option transactions,” before “shall apply”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2` | amend | Section 2(h)(2)(A) of such Act (7 U.S.C. 2(h)(2)(A)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 6a` | insert | by inserting “(1)” after “(a)”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 6a` | amend | by adding after and below the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -128,7 +119,6 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 7` | replace | Section 5(d)(5) of the Commodity Exchange Act (7 U.S.C. 7(d)(5)) is amended by striking all that follows “adopt” and inserting “, for speculators, position limitations with respect to agricultural commodities enumerated in section 1a(4) … | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 7a` | replace | Section 5a(d)(4) of such Act (7 U.S.C. 7a(d)(4)) is amended by striking all that follows “adopt” and inserting “, for speculators, position limitations with respect to energy commodities, and position limitations or position accountabili… | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2` | add-at-end | Section 2(a)(7) of the Commodity Exchange Act (7 U.S.C. 2(a)(7)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 2` | strike | Section 8G(a)(2) of such Act (5 U.S.C. App.) is amended by striking “the Commodity Futures Trading Commission,”. | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 2` | add-at-end | Section 2 of the Commodity Exchange Act (7 U.S.C. 2) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 2` | insert | Section 2(g) of such Act (7 U.S.C. 2(g)) is amended by inserting “subsection (j) of this section, and” after “(other than”. | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 2` | insert | Section 2(h)(2)(A) of such Act (7 U.S.C. 2(h)(2)(A)) is amended by inserting “subsection (j) of this section and” before “sections”. | the bill quotes the text inserted but describes where it goes |
