@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 601
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 601
@@ -28,3 +28,7 @@ A resolution designating October 19 through October 25, 2008, as "National Save 
 
 - 2008-06-25 — Introduced in Senate
 - 2008-06-25 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6169-6170)
+- 2008-09-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9165)
+- 2008-09-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9165)
+- 2008-09-18 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9164-9165)
+- 2008-09-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9164-9165)
