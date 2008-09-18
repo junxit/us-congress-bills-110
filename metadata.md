@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5893
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 5893
@@ -20,10 +20,11 @@ Library of Congress Sound Recording and Film Preservation Programs Reauthorizati
 
 - Rep. Conyers, John, Jr. [D-MI-14] (C000714)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -45,3 +46,10 @@ Library of Congress Sound Recording and Film Preservation Programs Reauthorizati
 - 2008-06-04 — Placed on the Union Calendar, Calendar No. 428.
 - 2008-06-04 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-683, Part I.
 - 2008-06-04 — Reported (Amended) by the Committee on House Administration. H. Rept. 110-683, Part I.
+- 2008-06-05 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2008-09-16 — Cleared for White House.
+- 2008-09-16 — Passed Senate without amendment by Unanimous Consent.
+- 2008-09-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-09-16 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S8875)
+- 2008-09-16 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S8875)
+- 2008-09-17 — Message on Senate action sent to the House.
