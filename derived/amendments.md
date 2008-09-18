@@ -1,7 +1,7 @@
 ---
 measure: S. 3136
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 6(b) of the Presidential Threat Protection Act of 2000 (28 U.S.C. 566 note) is amended by adding at the end the following: “There are authorized to be appropriated to the Attorney General for the United States Marshals Service to… | the bill names no machine-readable US Code section |
+| — | replace | Section 6(b) of the Presidential Threat Protection Act of 2000 (28 U.S.C. 566 note) is amended by striking “and $10,000,000 for each of fiscal years 2008 through 2012” and inserting “$10,000,000 for fiscal year 2008, and $50,000,000 for … | the bill names no machine-readable US Code section |
