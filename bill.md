@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 5893
-congress: 110th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5893
@@ -49,7 +49,7 @@ This Act may be cited as the “Library of Congress Sound Recording and Film Pre
       > - **(L)** Screen Actors Guild.
 
 - **(b)** *National Film Preservation Foundation*
-  - **(1)** *Reauthorization* Section 151711(a) of title 36, United States Code, is amended to read as follows:
+  - **(1)** *Reauthorization* Section 151711(a) of title 36, United States Code, is amended to read as follows: by inserting after the first sentence the following:
     > - **(a)** *Authorization of Appropriations*
     >   - **(1)** *In general* There are authorized to be appropriated to the Library of Congress amounts necessary to carry out this chapter, not to exceed—
     >     - **(A)** $530,000 for each of the fiscal years 2005 through 2009;
@@ -59,7 +59,3 @@ This Act may be cited as the “Library of Congress Sound Recording and Film Pre
 
   - **(2)** *Repatriation of films from foreign archives as purpose of Foundation* Section 151702(1) of such title is amended by striking “United States;” and inserting “United States and the repatriation of American films from foreign archives;”.
   - **(3)** *Extension of deadline for filling vacancies in membership of Board of Directors* Section 151703(b)(5) of such title is amended by striking “60 days” and inserting “120 days”.
-
-## § 4. Permitting Distribution of Acquired News Transmissions in American Television and Radio Archives for Research or Deposit in Public Libraries or Archives
-
-Section 113(b)(3) of Public Law 94–553 (commonly known as the “American Television and Radio Archives Act”) (2 U.S.C. 170(b)(3)) is amended by striking “this subsection” and inserting “this subsection or a copy or phonorecord of a transmission program described under this subsection which is acquired by the Librarian pursuant to subsection (a)(1)”.

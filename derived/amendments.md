@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5893
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 10 executed, 8 stated and not applied.
+17 amendatory instructions. 9 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `for each of the first 7 fiscal years beginning on or after the date of the enactment of this Act` |
 | Inserted | `for the first fiscal year beginning on or after the date of the enactment of this Act and each succeeding fiscal year through fiscal year 2016` |
 
-### 2 U.S.C. § 1743
+### 36 U.S.C. § 152411
 
 > Section 152411(a) of title 36, United States Code, is amended by striking “for each of the first 7 fiscal years beginning on or after the date of the enactment of this chapter” and inserting “for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2016”.
 
@@ -42,7 +42,7 @@ to guess them.
 | Removed | `for each of the first 7 fiscal years beginning on or after the date of the enactment of this chapter` |
 | Inserted | `for the first fiscal year beginning on or after the date of the enactment of this chapter and each succeeding fiscal year through fiscal year 2016` |
 
-### 2 U.S.C. § 1743
+### 36 U.S.C. § 152411
 
 > Section 152406 of such title is amended by striking “District of Columbia.” and inserting “District of Columbia or another place as determined by the Board of Directors.”.
 
@@ -51,7 +51,7 @@ to guess them.
 | Removed | `District of Columbia.` |
 | Inserted | `District of Columbia or another place as determined by the Board of Directors.` |
 
-### 2 U.S.C. § 1743
+### 36 U.S.C. § 152411
 
 > Section 152405(b) of such title is amended by striking “District of Columbia,” and inserting “jurisdiction in which the principal office of the corporation is located,”.
 
@@ -87,7 +87,7 @@ to guess them.
 | Removed | `Film and Television` |
 | Inserted | `Cinema Studies` |
 
-### 2 U.S.C. § 179v
+### 36 U.S.C. § 151711
 
 > Section 151702(1) of such title is amended by striking “United States;” and inserting “United States and the repatriation of American films from foreign archives;”.
 
@@ -96,7 +96,7 @@ to guess them.
 | Removed | `United States;` |
 | Inserted | `United States and the repatriation of American films from foreign archives;` |
 
-### 2 U.S.C. § 179v
+### 36 U.S.C. § 151711
 
 > Section 151703(b)(5) of such title is amended by striking “60 days” and inserting “120 days”.
 
@@ -104,15 +104,6 @@ to guess them.
 |---|---|
 | Removed | `60 days` |
 | Inserted | `120 days` |
-
-### 2 U.S.C. § 170
-
-> Section 113(b)(3) of Public Law 94–553 (commonly known as the “American Television and Radio Archives Act”) (2 U.S.C. 170(b)(3)) is amended by striking “this subsection” and inserting “this subsection or a copy or phonorecord of a transmission program described under this subsection which is acquired by the Librarian pursuant to subsection (a)(1)”.
-
-| | |
-|---|---|
-| Removed | `this subsection` |
-| Inserted | `this subsection or a copy or phonorecord of a transmission program described under this subsection which is acquired by the Librarian pursuant to subsection (a)(1)` |
 
 ## Stated, not applied
 
@@ -124,10 +115,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `2 U.S.C. § 1722` | amend | Section 122(d)(2) of such Act (2 U.S.C. 1722(d)(2)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1743` | strike | Section 152403(b)(4) of such title is amended by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 1743` | amend | Section 152411(b) of such title is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 152411` | strike | Section 152403(b)(4) of such title is amended by striking the second sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 152411` | amend | Section 152411(b) of such title is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 179v` | insert | Section 112 of the National Film Preservation Act of 1996 (2 U.S.C. 179v) is amended by inserting after “the Librarian” the following: “for the first fiscal year beginning on or after the date of the enactment of this Act and each succee… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 179w` | strike | Section 113 of such Act (2 U.S.C. 179w) is amended by striking the first sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 179m` | add-at-end | Section 103(b) of such Act (2 U.S.C. 179m(b)) is amended by adding at the end the following: “The Librarian may authorize the use of the seal by the Library or by others for other limited purposes in order to promote in the National Film… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 179n` | amend | by amending subparagraph (L) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 179v` | amend | Section 151711(a) of title 36, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `36 U.S.C. § 151711` | insert | Section 151711(a) of title 36, United States Code, is amended to read as follows: by inserting after the first sentence the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
