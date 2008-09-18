@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 2969
 
-> To amend title 38, United States Code, to enhance the capacity of the Department of Veterans Affairs to recruit and retain nurses and other critical health-care professionals, and for other purposes.
+> To amend title 38, United States Code, to enhance the capacity of the Department of Veterans Affairs to recruit and retain nurses and other critical health care professionals, and for other purposes.
 
 ## § 1. Short title
 
