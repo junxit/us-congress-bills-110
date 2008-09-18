@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6627
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6627
@@ -59,3 +59,4 @@ Smithsonian Institution Facilities Authorization Act of 2008
 - 2008-09-17 — Ms. Johnson, E. B. moved to suspend the rules and pass the bill.
 - 2008-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8350)
 - 2008-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8350)
+- 2008-09-18 — Received in the Senate.
