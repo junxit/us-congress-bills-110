@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6681
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6681
@@ -46,3 +46,12 @@ To designate the facility of the United States Postal Service located at 300 Vin
 - 2008-07-30 — Introduced in House
 - 2008-07-30 — Introduced in House
 - 2008-07-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-10 — Ordered to be Reported by Voice Vote.
+- 2008-09-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Foxx objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-17 — Considered under suspension of the rules. (consideration: CR H8324-8325)
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6681.
+- 2008-09-17 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
+- 2008-09-18 — Considered as unfinished business. (consideration: CR H8454)
+- 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/17/208 H8324)
+- 2008-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/17/208 H8324)
