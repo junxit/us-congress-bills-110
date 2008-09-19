@@ -1,7 +1,7 @@
 ---
 measure: S. 531
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
