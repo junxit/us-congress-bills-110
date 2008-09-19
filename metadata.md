@@ -1,7 +1,7 @@
 ---
 measure: S. 996
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 996
@@ -37,3 +37,11 @@ A bill to amend title 49, United States Code, to expand passenger facility fee e
 - 2008-02-29 — Message on Senate action sent to the House.
 - 2008-03-03 — Received in the House.
 - 2008-03-03 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-03-04 — Referred to the Subcommittee on Aviation.
+- 2008-09-17 — Cleared for White House.
+- 2008-09-17 — Considered under suspension of the rules. (consideration: CR H8336-8338)
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes debate on S. 996.
+- 2008-09-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-17 — Ms. Richardson moved to suspend the rules and pass the bill.
+- 2008-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8336)
+- 2008-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8336)
