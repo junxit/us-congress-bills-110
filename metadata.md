@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1438
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1438
@@ -16,7 +16,7 @@ Commemorating the 50th anniversary of the Azorean Refugee Act of 1958 and celebr
 
 - Rep. Nunes, Devin [R-CA-21] (N000181)
 
-## Cosponsors (12)
+## Cosponsors (15)
 
 - Rep. Costa, Jim [D-CA-20] (C001059)
 - Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
@@ -30,6 +30,9 @@ Commemorating the 50th anniversary of the Azorean Refugee Act of 1958 and celebr
 - Rep. Radanovich, George [R-CA-19] (R000004)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
 - Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Diaz-Balart, Mario [R-FL-25] (D000600)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
 
 ## Committees (1)
 
@@ -40,3 +43,9 @@ Commemorating the 50th anniversary of the Azorean Refugee Act of 1958 and celebr
 - 2008-09-15 — Introduced in House
 - 2008-09-15 — Introduced in House
 - 2008-09-15 — Referred to the House Committee on the Judiciary.
+- 2008-09-22 — Considered under suspension of the rules. (consideration: CR H8522-8524)
+- 2008-09-22 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1438.
+- 2008-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-22 — Ms. Sutton moved to suspend the rules and agree to the resolution.
+- 2008-09-22 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8522-8523)
+- 2008-09-22 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8522-8523)
