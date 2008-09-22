@@ -1,7 +1,7 @@
 ---
 measure: S. 3507
 congress: 110
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 3507
@@ -16,7 +16,7 @@ Unemployment Compensation Extension Act of 2008
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 - Sen. Baucus, Max [D-MT] (B000243)
@@ -35,12 +35,19 @@ Unemployment Compensation Extension Act of 2008
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Harkin, Tom [D-IA] (H000206)
 - Sen. Dodd, Christopher J. [D-CT] (D000388)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Murray, Patty [D-WA] (M001111)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- Senate — Finance Committee
 
 ## Actions
 
 - 2008-09-17 — Introduced in Senate
 - 2008-09-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S8951-8952)
+- 2008-09-22 — Referred to the Committee on Finance by unanimous consent.
+- 2008-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S9220)
+- 2008-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S9220)
