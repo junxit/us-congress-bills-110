@@ -1,7 +1,7 @@
 ---
 measure: S. 531
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | repeal | Section 10(f) of Public Law 93–531 (25 U.S.C. 640d–9(f)) is repealed. | the bill names no machine-readable US Code section |
+| `25 U.S.C. § 640d-9` | repeal | Section 10(f) of Public Law 93–531 (25 U.S.C. 640d–9(f)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
