@@ -1,7 +1,7 @@
 ---
 measure: S. 3175
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3175
@@ -16,9 +16,10 @@ Predisaster Hazard Mitigation Act of 2008
 
 - Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Akaka, Daniel K. [D-HI] (A000069)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ Predisaster Hazard Mitigation Act of 2008
 
 - 2008-06-20 — Introduced in Senate
 - 2008-06-20 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-06-25 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with amendments favorably.
+- 2008-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-479.
+- 2008-09-22 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-479.
+- 2008-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1040.

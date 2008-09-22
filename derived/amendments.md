@@ -1,7 +1,7 @@
 ---
 measure: S. 3175
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 0 executed, 17 stated and not applied.
+19 amendatory instructions. 0 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,3 +48,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “Director of the Federal Emergency Management Agency” each place it appears and inserting “Administrator”; | the bill names no machine-readable US Code section |
 | — | replace | in sections 623 and 624 (42 U.S.C. 5197b and 5197c), by striking “Director” each place it appears and inserting “Administrator”; and | the bill names no machine-readable US Code section |
 | — | replace | in section 629 (42 U.S.C. 5197h), by striking “Director” each place it appears and inserting “Administrator”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
