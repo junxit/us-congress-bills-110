@@ -1,7 +1,7 @@
 ---
 measure: S. 3192
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -39,3 +39,5 @@ complete account of the bill's effect, which it is not.
 | — | strike | in subparagraph (C) (as designated by subparagraph (B)), by striking “which”; | the bill names no machine-readable US Code section |
 | — | replace | in the third sentence, by striking “Leases for public” and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in the fourth sentence, by striking “Prior to approval of” and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, land held in trust for the Cow Creek Band of Umpqua Indians of Oregon, land held in trust for the Coquille Tribe of Oregon, and land held in trust for the Confederated Tribes of the Siletz Reservation, Oregon” after “Devi… | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and except leases of land held in trust for the Morongo Band of Cahuilla Mission Indians of the Morongo Reservation, California, which may be for a term not to exceed 50 years,” before “and except”. | the bill names no machine-readable US Code section |
