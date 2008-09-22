@@ -1,7 +1,7 @@
 ---
 measure: S. 1193
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1193
@@ -33,3 +33,5 @@ Albuquerque Indian School Act
 - 2008-07-31 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-434.
 - 2008-07-31 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-434.
 - 2008-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 925.
+- 2008-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9218; text as passed Senate: CR S9218)
+- 2008-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9218; text as passed Senate: CR S9218)
