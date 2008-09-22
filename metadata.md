@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5335
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5335
@@ -57,3 +57,8 @@ Trail of Tears Documentation Act
 - 2008-09-11 — Placed on the Union Calendar, Calendar No. 540.
 - 2008-09-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-840.
 - 2008-09-11 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 110-840.
+- 2008-09-22 — Considered under suspension of the rules. (consideration: CR H8498-8500)
+- 2008-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill, as amended.
+- 2008-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8498-8499)
+- 2008-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8498-8499)
