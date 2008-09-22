@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2352
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2352
@@ -110,3 +110,4 @@ School Safety Enhancements Act of 2008
 - 2008-09-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/15/2008 H8083-8084)
 - 2008-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/15/2008 H8083-8084)
+- 2008-09-22 — Received in the Senate.
