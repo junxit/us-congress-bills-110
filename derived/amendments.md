@@ -1,7 +1,7 @@
 ---
 measure: S. 906
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 1 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 2611
+
+> in subsection (a) by striking “subsection (b)” and inserting “subsections (b) and (c)”; and
+
+| | |
+|---|---|
+| Removed | `subsection (b)` |
+| Inserted | `subsections (b) and (c)` |
 
 ## Stated, not applied
 
@@ -34,3 +45,5 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “subsection (b)” and inserting “subsections (b) and (c)”; and | the bill names no machine-readable US Code section |
 | — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 2605` | add-at-end | Section 6 of the Toxic Substances Control Act (15 U.S.C. 2605) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2611` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
