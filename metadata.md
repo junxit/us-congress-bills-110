@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 648
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 648
@@ -30,3 +30,7 @@ A resolution recognizing the 50th anniversary of the crossing of the North Pole 
 
 - 2008-08-01 — Introduced in Senate
 - 2008-08-01 — Referred to the Committee on Armed Services. (text of measure as introduced: CR S8050)
+- 2008-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9181-9182)
+- 2008-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9181-9182)
+- 2008-09-22 — Senate Committee on Armed Services discharged by Unanimous Consent. (consideration: CR S9179-9185)
+- 2008-09-22 — Senate Committee on Armed Services discharged by Unanimous Consent.(consideration: CR S9179-9185)
