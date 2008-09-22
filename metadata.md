@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 163
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 163
@@ -124,9 +124,10 @@ Expressing the sense of Congress in support of further research and activities t
 - Rep. Altmire, Jason [D-PA-4] (A000362)
 - Rep. Crenshaw, Ander [R-FL-4] (C001045)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -142,3 +143,9 @@ Expressing the sense of Congress in support of further research and activities t
 - 2008-06-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-06-26 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR 6/24/2008 H5940)
 - 2008-06-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR 6/24/2008 H5940)
+- 2008-06-27 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2008-09-22 — Message on Senate action sent to the House.
+- 2008-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9181)
+- 2008-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9181)
+- 2008-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S9179-9185)
+- 2008-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S9179-9185)
