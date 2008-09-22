@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 62
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.J.Res. 62
@@ -102,9 +102,10 @@ Native American Heritage Day Act of 2008
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
 - Rep. Issa, Darrell E. [R-CA-49] (I000056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and the Workforce Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -117,3 +118,11 @@ Native American Heritage Day Act of 2008
 - 2007-11-13 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR H13818)
 - 2007-11-13 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR H13818)
 - 2007-11-13 — Referred to the House Committee on Education and Labor.
+- 2007-11-14 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2008-04-24 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-07-31 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 110-435.
+- 2008-07-31 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 110-435.
+- 2008-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 926.
+- 2008-09-22 — Message on Senate action sent to the House.
+- 2008-09-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9186; text as passed Senate: CR S9186)
+- 2008-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9186; text as passed Senate: CR S9186)
