@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 998
@@ -122,3 +122,4 @@ Civil Rights History Project Act of 2008
 - 2008-09-17 — Mrs. Davis (CA) moved to suspend the rules and pass the bill, as amended.
 - 2008-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8369)
 - 2008-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8369)
+- 2008-09-22 — Received in the Senate.
