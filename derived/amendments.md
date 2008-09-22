@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 

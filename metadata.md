@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 35
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S.J.Res. 35
@@ -44,3 +44,12 @@ A joint resolution to amend Public Law 108-331 to provide for the construction a
 - 2008-09-15 — Placed on the Union Calendar, Calendar No. 551.
 - 2008-09-15 — Reported by the Committee on Transportation. H. Rept. 110-850.
 - 2008-09-15 — Reported by the Committee on Transportation. H. Rept. 110-850.
+- 2008-09-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Graves objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-17 — Considered under suspension of the rules. (consideration: CR H8349-8350)
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes of debate on S.J. Res. 35.
+- 2008-09-17 — Ms. Johnson, E. B. moved to suspend the rules and pass the resolution.
+- 2008-09-18 — Cleared for White House.
+- 2008-09-18 — Considered as unfinished business. (consideration: CR H8454)
+- 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-18 — On motion to suspend the rules and pass the resolution Agreed to by voice vote. (text: CR 9/17/2008 H8349)
+- 2008-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the resolution Agreed to by voice vote.(text: CR 9/17/2008 H8349)
