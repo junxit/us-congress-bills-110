@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1471
 congress: 110
-version: Agreed to House
+version: Engrossed in House
 ---
 
 # H.Res. 1471
