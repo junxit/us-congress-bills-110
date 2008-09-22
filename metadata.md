@@ -1,7 +1,7 @@
 ---
 measure: S. 199
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 199
@@ -25,3 +25,7 @@ A bill to amend the Safe Drinking Water Amendments of 1996 to modify the grant p
 - 2007-01-08 — Introduced in Senate
 - 2007-01-08 — Read twice and referred to the Committee on Environment and Public Works. (text of measure as introduced: CR S238-239)
 - 2007-01-08 — Sponsor introductory remarks on measure. (CR S239)
+- 2008-07-31 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-09-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-476.
+- 2008-09-22 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-476.
+- 2008-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1037.
