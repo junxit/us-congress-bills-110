@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6890
 
-> To extend the waiver authority for the Secretary of Education under section 105 of subtitle A of title IV of division B of Public Law 109–148, relating to elementary and secondary education hurricane recovery relief.
+> To extend the waiver authority for the Secretary of Education under section 105 of subtitle A of title IV of division B of Public Law 109–148, relating to elementary and secondary education hurricane recovery relief, and for other purposes.
 
 ## § 1. Extension of waiver authority to ease fiscal burdens
 
@@ -15,3 +15,7 @@ Section 105 of subtitle A of title IV of division B of Public Law 109–148 (119
 
 - **(1)** in the second sentence of subsection (b), by striking “2008” and inserting “2009”; and
 - **(2)** in subsection (c)(2), by striking “for fiscal year 2006 or 2007” and inserting “for any fiscal year”.
+
+## § 2. Hold harmless for local educational agencies serving major disaster areas
+
+In the case of a local educational agency that serves an area in which the President has declared that a major disaster exists in accordance with section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), related to severe storms, tornadoes, or flooding in the Midwest or hurricanes in the Gulf of Mexico in calendar year 2008, the amount made available for such local educational agency under each of sections 1124, 1124A, 1125, and 1125A of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333, 6334, 6335, and 6337) for fiscal year 2009 shall be not less than the amount made available for such local educational agency under each of such sections for fiscal year 2008.
