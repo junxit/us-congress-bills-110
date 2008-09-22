@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6855
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 40 U.S.C. § 6121
-
-> Section 6121(b)(2) of title 40, United States Code, is amended by striking “2008” and inserting “2013”.
-
-| | |
-|---|---|
-| Removed | `2008` |
-| Inserted | `2013` |
 
 ## Stated, not applied
 
@@ -42,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Section 6121(b)(2) of title 40, United States Code, is amended by striking “2008” and inserting “2013”. | the bill names no machine-readable US Code section |
 | — | replace | in section 133(b)(2), by striking “administrative assistant” and inserting “Counselor”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraphs (1)(E) and (2)(E) of section 376(a), by striking “an administrative assistant” and inserting “a Counselor”; | the bill names no machine-readable US Code section |
 | — | replace | in the heading, by striking “Administrative Assistant” and inserting “Counselor”; | the bill names no machine-readable US Code section |
