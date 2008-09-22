@@ -31,6 +31,11 @@ This Act may be cited as the “Predisaster Hazard Mitigation Act of 2008”.
   >   - **(3)** $180,000,000 for fiscal year 2011;
   >   - **(4)** $190,000,000 for fiscal year 2012; and
   >   - **(5)** $200,000,000 for fiscal year 2013.
+  >   - **(1)** $210,000,000 for fiscal year 2009;
+  >   - **(2)** $220,000,000 for fiscal year 2010;
+  >   - **(3)** $230,000,000 for fiscal year 2011;
+  >   - **(4)** $240,000,000 for fiscal year 2012; and
+  >   - **(5)** $250,000,000 for fiscal year 2013.
 
 ## § 3. Technical and conforming amendments
 
@@ -56,3 +61,18 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5
     - **(ii)** by striking “Director of the Federal Emergency Management Agency” each place it appears and inserting “Administrator”;
 - **(10)** in sections 623 and 624 (42 U.S.C. 5197b and 5197c), by striking “Director” each place it appears and inserting “Administrator”; and
 - **(11)** in section 629 (42 U.S.C. 5197h), by striking “Director” each place it appears and inserting “Administrator”.
+
+## § 4. Program eligibility
+
+Section 203(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133(e)) is amended—
+
+- **(1)** by redesignating paragraph (2) as paragraph (3); and
+- **(2)** by inserting after paragraph (1) the following:
+  > - **(2)** *Flood control projects*
+  >   - **(A)** *In general* A State may use not more than 25 percent of the financial assistance under this section made available to the State in a fiscal year (including any such financial assistance made available to local governments of the State) for flood control projects.
+  >   - **(B)** *Definition* In this paragraph, the term flood control project—
+  >     - **(i)** means—
+  >       - **(I)** a project relating to the construction, demolition, repair, or improvement of a dam, dike, levee, floodwall, seawall, groin, jetty, or breakwater;
+  >       - **(II)** a waterway channelization; or
+  >       - **(III)** an erosion project relating to beach nourishment or renourishment; and
+  >     - **(ii)** does not include any project the maintenance of which is the responsibility of a Federal department or agency, including the Corps of Engineers.
