@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3336
 
-> To direct the Secretary of the Interior to carry out a study to determine the suitability and feasibility of establishing a historic district to the Camp Hale on parcels of land in the State of Colorado.
+> To direct the Secretary of the Interior to carry out a study to determine the suitability and feasibility of establishing Camp Hale as a unit of the National Park System.
 
 ## § 1. Short title
 
