@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 634
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 634
@@ -40,3 +40,7 @@ A resolution recognizing July 30 , 2008, as the 40th anniversary of the enactmen
 
 - 2008-07-30 — Introduced in Senate
 - 2008-07-30 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text of measure as introduced: CR S7791)
+- 2008-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9182-9183)
+- 2008-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9182-9183)
+- 2008-09-22 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S9179-9185)
+- 2008-09-22 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.(consideration: CR S9179-9185)
