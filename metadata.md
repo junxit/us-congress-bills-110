@@ -1,7 +1,7 @@
 ---
 measure: S. 531
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 531
@@ -16,9 +16,10 @@ A bill to repeal section 10(f) of Public Law 93-531, commonly known as the "Benn
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -33,3 +34,5 @@ A bill to repeal section 10(f) of Public Law 93-531, commonly known as the "Benn
 - 2008-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9165-9166; text as passed Senate: CR S9166)
 - 2008-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9165-9166; text as passed Senate: CR S9166)
 - 2008-09-19 — Message on Senate action sent to the House.
+- 2008-09-22 — Received in the House.
+- 2008-09-22 — Referred to the House Committee on Natural Resources.
