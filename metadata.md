@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 614
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 614
@@ -29,3 +29,7 @@ A resolution designating the month of August 2008 as "National Medicine Abuse Aw
 - 2008-07-16 — Introduced in Senate
 - 2008-07-16 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S6875)
 - 2008-07-16 — Sponsor introductory remarks on measure. (CR S6875-6876)
+- 2008-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9180)
+- 2008-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9180)
+- 2008-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9179-9185)
+- 2008-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9179-9185)
