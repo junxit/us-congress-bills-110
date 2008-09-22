@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6176
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6176
@@ -33,3 +33,9 @@ To authorize the expansion of the Fort Davis National Historic Site in Fort Davi
 - 2008-07-29 — Placed on the Union Calendar, Calendar No. 515.
 - 2008-07-29 — Reported by the Committee on Natural Resources. H. Rept. 110-797.
 - 2008-07-29 — Reported by the Committee on Natural Resources. H. Rept. 110-797.
+- 2008-09-22 — Considered under suspension of the rules. (consideration: CR H8496-8497)
+- 2008-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6176.
+- 2008-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill.
+- 2008-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8497)
+- 2008-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8497)
