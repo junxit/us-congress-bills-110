@@ -1,7 +1,7 @@
 ---
 measure: S. 1315
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1315
@@ -80,3 +80,9 @@ Veterans' Benefits Enhancement Act of 2008
 - 2008-04-24 — Senate amendment proposed (on the floor): Amendment SA 4576 proposed by Senator Akaka.(consideration: CR S3353-3354; text: CR S3353-3354)
 - 2008-04-24 — Senate amendment submitted
 - 2008-04-24 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2008-09-22 — Considered under suspension of the rules. (consideration: CR H8487-8491)
+- 2008-09-22 — DEBATE - The House proceeded with forty minutes of debate on S. 1315.
+- 2008-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-22 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2008-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H8487-8490)
+- 2008-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8487-8490)
