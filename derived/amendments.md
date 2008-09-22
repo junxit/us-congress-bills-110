@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6503
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 14181` | amend | by amending subsection (a) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 14181` | insert | by inserting “competitive” after “to receive a”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 14181` | add-at-end | by adding at the end the following new sentence: “The Attorney General shall periodically solicit applications for grants under this section by publishing a request for applications in the Federal Register and by posting such a request o… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 14181` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 14181` | amend | by amending subsection (d) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “competitive” after “to receive a”; and | the bill names no machine-readable US Code section |
+| — | amend | by adding at the end the following new sentence: “The Attorney General shall periodically solicit applications for grants under this section by publishing a request for applications in the Federal Register and by posting such a request o… | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (c) to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (d) to read as follows: | the bill names no machine-readable US Code section |
