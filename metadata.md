@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 96
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 96
@@ -28,3 +28,7 @@ A concurrent resolution commemorating Irena Sendler, a woman whose bravery saved
 
 - 2008-07-29 — Introduced in Senate
 - 2008-07-29 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S7640)
+- 2008-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9179-9180)
+- 2008-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9179-9180)
+- 2008-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9179-9185)
+- 2008-09-22 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9179-9185)
