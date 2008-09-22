@@ -7,11 +7,33 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3299
 
-> To provide for a boundary adjustment and land conveyances involving Roosevelt National Forest, Colorado, to correct the effects of an erroneous land survey that resulted in approximately 7 acres of the Crystal Lakes Subdivision, Ninth Filing, encroaching on National Forest System land.
+> To provide for a boundary adjustment and land conveyances involving Roosevelt National Forest, Colorado, to correct the effects of an erroneous land survey that resulted in approximately 7 acres of the Crystal Lakes Subdivision, Ninth Filing, encroaching on National Forest System land, and for other purposes.
 
 ## § 1. Boundary adjustment and land conveyances, Roosevelt National Forest, Colorado
 
 - **(a)** *Boundary adjustment* The boundaries of Roosevelt National Forest, Colorado, are hereby modified to exclude from the national forest a parcel of real property consisting of approximately 7 acres within the Crystal Lakes Subdivision as depicted on the map entitled “Crystal Lakes Encroachment, HR 3299” and dated July 15, 2008.
-- **(b)** *Conveyance of land removed from national forest* The Secretary of Agriculture shall use the authority provided by Public Law 97–465 (commonly known as the Small Tracts Act; 16 U.S.C. 521c–521i) to convey all right, title, and interest of the United States in and to the real property excluded from the boundaries of Roosevelt National Forest under subsection (a) to the landowners whose real property adjoins the excluded land and who, as of the date of the enactment of this Act, occupy the excluded land.
+- **(b)** *Conveyance of land removed from national forest* The Secretary of Agriculture shall use the authority provided by Public Law 97–465 (commonly known as the Small Tracts Act; 16 U.S.C. 521c-521i) to convey all right, title, and interest of the United States in and to the real property excluded from the boundaries of Roosevelt National Forest under subsection (a) to the landowners whose real property adjoins the excluded land and who, as of the date of the enactment of this Act, occupy the excluded land.
 - **(c)** *Consideration* The conveyances required by subsection (b) shall be made without consideration.
 - **(d)** *Description of real property* The exact acreage and legal description of the land excluded from the boundaries of Roosevelt National Forest under subsection (a) and conveyed under subsection (b) shall be determined by a survey satisfactory to the Secretary.
+
+## § 2. Sale or exchange of NOAA property in Norfolk, Virginia
+
+- **(a)** *In General* The Secretary of Commerce may sell or exchange to the City of Norfolk, Virginia, in accordance with chapter 13 of title 40, United States Code, real property under the administrative jurisdiction of the National Oceanic and Atmospheric Administration (in this section referred to as “NOAA”), including land and improvements thereon, located at 538 Front Street, Norfolk, Virginia, consisting of approximately 3.78 acres, if the Secretary—
+  - **(1)** determines that the conveyance is in the best interests of NOAA and the Federal Government; and
+  - **(2)** has provided prior notification to the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate.
+- **(b)** *Consideration*
+  - **(1)** *In general* For any conveyance under this section the Secretary shall require the City of Norfolk to provide consideration to the United States that is not less than the fair market value of the property conveyed by the United States.
+  - **(2)** *Form* Consideration under this subsection may include any combination of—
+    - **(A)** cash or cash equivalents;
+    - **(B)** other property (either real or personal); and
+    - **(C)** consideration in-kind, including—
+      - **(i)** provision of space, goods, or services of benefit to NOAA including construction, repair, remodeling, or other physical improvements of NOAA property;
+      - **(ii)** maintenance of NOAA property;
+      - **(iii)** provision of office, storage, or other useable space; or
+      - **(iv)** relocation services associated with conveyance of property under this section.
+  - **(3)** *Determination of fair market value* The Secretary shall determine fair market value for purposes of paragraph (1) based upon a highest- and best-use appraisal of the property conveyed under subsection (a) conducted in conformance with the Uniform Appraisal Standards for Professional Appraisal Practice.
+- **(c)** *Use of Proceeds* Amounts received under subsection (b)(2)(A) by the United States as proceeds of any conveyance under this section shall be available to the Secretary, subject to appropriation, for—
+  - **(1)** activities related to the operations of, or capital improvements, to NOAA property; or
+  - **(2)** relocation and other costs associated with the sale or exchange.
+- **(d)** *Additional terms and conditions* The Secretary may require such additional terms and conditions in connection with the conveyance of property by the United States under subsection (a) as the Secretary considers appropriate to protect the interest of the United States, including the recoupment of any profit the City of Norfolk may realize within three years after the date of conveyance to the City due to resale of the property
+- **(e)** *Termination* The authority granted to the Secretary under subsections (a) and (b) shall terminate at the end of the 24-month period beginning on the date of enactment of this Act if no contract for sale or exchange under subsection (a) has been entered into by the City of Norfolk and the United States.
