@@ -28,25 +28,24 @@ The Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) is amended by i
 > - **(c)** *Grant process* The Secretary shall allocate funds to coastal states or National Estuarine Research Reserves under this section through a competitive grant process in accordance with guidelines that meet the following requirements:
 >   - **(1)** The Secretary shall consult with the coastal state’s coastal zone management program, any National Estuarine Research Reserve in that State, and the lead agency designated by the Governor for coordinating the implementation of this section (if different from the coastal zone management program).
 >   - **(2)** Each participating coastal state, after consultation with local governmental entities and other interested stakeholders, shall identify priority conservation needs within the State, the values to be protected by inclusion of lands in the program, and the threats to those values that should be avoided.
->   - **(3)** Each participating coastal state shall to the extent practicable ensure that the acquisition of property or easements shall not impact working waterfront needs.
+>   - **(3)** Each participating coastal state shall to the extent practicable ensure that the acquisition of property or easements shall complement working waterfront needs.
 >   - **(4)** The applicant shall identify the values to be protected by inclusion of the lands in the program, management activities that are planned and the manner in which they may affect the values identified, and any other information from the landowner relevant to administration and management of the land.
 >   - **(5)** Awards shall be based on demonstrated need for protection and ability to successfully leverage funds among participating entities, including Federal programs, regional organizations, State and other governmental units, landowners, corporations, or private organizations.
 >   - **(6)** The governor, or the lead agency designated by the governor for coordinating the implementation of this section, where appropriate in consultation with the appropriate local government, shall determine that the application is consistent with the State’s or territory’s approved coastal zone plan, program, and policies prior to submittal to the Secretary.
->   - **(7)** Priority shall be given to lands described in subsection (a) that can be effectively managed and protected and that have significant ecological value.
+>   - **(7)**
+>     - **(A)** Priority shall be given to lands described in subsection (a) that can be effectively managed and protected and that have significant ecological value.
+>     - **(B)** Of the projects that meet the standard in subparagraph (A), priority shall be given to lands that—
+>       - **(i)** are under an imminent threat of conversion to a use that will degrade or otherwise diminish their natural, undeveloped, or recreational state; and
+>       - **(ii)** serve to mitigate the adverse impacts caused by coastal population growth in the coastal environment.
 >   - **(8)** In developing guidelines under this section, the Secretary shall consult with coastal states, other Federal agencies, and other interested stakeholders with expertise in land acquisition and conservation procedures.
 >   - **(9)** Eligible coastal states or National Estuarine Research Reserves may allocate grants to local governments or agencies eligible for assistance under section 306A(e).
 >   - **(10)** The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program’s effectiveness in accomplishing its purposes, and shall submit such evaluations to Congress triennially.
->   - **(11)** For projects that rank equally under the guidelines, priority shall be given to projects that leverage a higher percentage of non-Federal matching funds.
-> - **(d)** *Limitations*
->   - **(1)** A grant awarded under this section may be used to purchase land or an interest in land, including an easement, only from a willing seller.
->   - **(2)** All acquisitions of land with a grant under this section shall be made in a voluntary manner and shall not be the result of a forced taking.
->   - **(3)** Any interest in land, including any easement, acquired with a grant under this section shall not be considered to create any liability, or have any effect on liability under any other law, of any private property owner with respect to any person injured on the private property.
-> - **(e)** *Private property protections* Nothing in this title—
->   - **(1)** requires a private property owner to participate in the program under this section;
->   - **(2)** requires any private property owner to allow public access (including Federal, State, or local government access) to the private property; or
->   - **(3)** modifies the application of any provision of Federal, State, or local law with regard to public access to or use of private property, except as provided by a voluntary agreement entered into by the owner or custodian of the property.
-> - **(f)** *Recognition of authority To control land use* Nothing in this title modifies the authority of Federal, State, or local governments to regulate land use.
-> - **(g)** *Matching requirements*
+> - **(d)** *Limitations and private property protections*
+>   - **(1)** A grant awarded under this section may be used to purchase land or an interest in land, including an easement, only from a willing seller. Any such purchase shall not be the result of a forced taking under this section. Nothing in this section requires a private property owner to participate in the program under this section.
+>   - **(2)** Any interest in land, including any easement, acquired with a grant under this section shall not be considered to create any new liability, or have any effect on liability under any other law, of any private property owner with respect to any person injured on the private property.
+>   - **(3)** Nothing in this section requires a private property owner to provide access (including Federal, State, or local government access) to or use of private property unless such property or an interest in such property (including a conservation easement) has been purchased with funds made available under this section.
+> - **(e)** *Recognition of authority to control land use* Nothing in this title modifies the authority of Federal, State, or local governments to regulate land use.
+> - **(f)** *Matching requirements*
 >   - **(1)** *In general* The Secretary may not make a grant under the program unless the Federal funds are matched by non-Federal funds in accordance with this subsection.
 >   - **(2)** *Cost share requirement*
 >     - **(A)** *In general* Grant funds under the program shall require a 100 percent match from other non-Federal sources.
@@ -59,17 +58,16 @@ The Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) is amended by i
 >       - **(iii)** the land or easement is connected either physically or through a conservation planning process to the land or easement that would be acquired.
 >     - **(B)** The appraised value of the land or conservation easement at the time of the grant closing will be considered and applied as the non-Federal cost share.
 >     - **(C)** Costs associated with land acquisition, land management planning, remediation, restoration, and enhancement may be used as non- Federal match if the activities are identified in the plan and expenses are incurred within the period of the grant award, or, for lands described in (A), within the same time limits described therein. These costs may include either cash or in-kind contributions.
-> - **(h)** *Reservation of funds for national estuarine research reserve sites* No less than 15 percent of funds made available under this section shall be available for acquisitions benefitting National Estuarine Research Reserves.
-> - **(i)** *Limit on administrative costs* No more than 5 percent of the funds made available to the Secretary under this section shall be used by the Secretary for planning or administration of the program. The Secretary shall provide a report to Congress with an account of all expenditures under this section for fiscal year 2009 and triennially thereafter.
-> - **(j)** *Title and management of acquired property* If any property is acquired in whole or in part with funds made available through a grant under this section, the grant recipient shall provide—
+> - **(g)** *Reservation of funds for national estuarine research reserve sites* No less than 15 percent of funds made available under this section shall be available for acquisitions benefitting National Estuarine Research Reserves.
+> - **(h)** *Limit on administrative costs* No more than 5 percent of the funds made available to the Secretary under this section shall be used by the Secretary for planning or administration of the program. The Secretary shall provide a report to Congress with an account of all expenditures under this section for fiscal year 2009 and triennially thereafter.
+> - **(i)** *Title and management of acquired property* If any property is acquired in whole or in part with funds made available through a grant under this section, the grant recipient shall provide—
 >   - **(1)** such assurances as the Secretary may require that—
 >     - **(A)** the title to the property will be held by the grant recipient or another appropriate public agency designated by the recipient in perpetuity;
 >     - **(B)** the property will be managed in a manner that is consistent with the purposes for which the land entered into the program and shall not convert such property to other uses; and
 >     - **(C)** if the property or interest in land is sold, exchanged, or divested, funds equal to the current value will be returned to the Secretary in accordance with applicable Federal law for redistribution in the grant process; and
 >   - **(2)** certification that the property (including any interest in land) will be acquired from a willing seller.
-> - **(k)** *Requirement for property used for non-Federal match* If the grant recipient elects to use any land or interest in land held by a non-governmental organization as a non-Federal match under subsection (g), the grant recipient must to the Secretary’s satisfaction demonstrate in the grant application that such land or interest will satisfy the same requirements as the lands or interests in lands acquired under the program.
-> - **(l)** *Definitions* In this section:
+> - **(j)** *Requirement for property used for non-Federal match* If the grant recipient elects to use any land or interest in land held by a non-governmental organization as a non-Federal match under subsection (g), the grant recipient must to the Secretary’s satisfaction demonstrate in the grant application that such land or interest will satisfy the same requirements as the lands or interests in lands acquired under the program.
+> - **(k)** *Definitions* In this section:
 >   - **(1)** *Conservation easement* The term “conservation easement” includes an easement or restriction, recorded deed, or a reserve interest deed where the grantee acquires all rights, title, and interest in a property, that do not conflict with the goals of this section except those rights, title, and interests that may run with the land that are expressly reserved by a grantor and are agreed to at the time of purchase.
 >   - **(2)** *Interest in property* The term “interest in property” includes a conservation easement.
-> - **(m)** *Application* Only States with coastal populations with at least 85 people per square mile may be eligible for grants under this program. For purposes of this subsection, coastal population shall be calculated using the most recent Census Bureau numbers for the population of coastal counties that are wholly or partially within the State’s legally defined coastal zones.
-> - **(n)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to carry out this section $60,000,000 for each of fiscal years 2009 through 2013.
+> - **(l)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary to carry out this section $60,000,000 for each of fiscal years 2009 through 2013.
