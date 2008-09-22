@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6772
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6772
@@ -61,3 +61,4 @@ To designate the facility of the United States Postal Service located at 1717 Or
 - 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/17/2008 H8331)
 - 2008-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/17/2008 H8331)
+- 2008-09-22 — Received in the Senate.
