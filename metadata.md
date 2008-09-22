@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 296
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 296
@@ -129,9 +129,10 @@ Expressing support for the designation of August 2008 as "National Heat Stroke A
 - Rep. Regula, Ralph [R-OH-16] (R000141)
 - Rep. Gonzalez, Charles A. [D-TX-20] (G000544)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -145,3 +146,10 @@ Expressing support for the designation of August 2008 as "National Heat Stroke A
 - 2008-07-30 — Mr. Pallone moved to suspend the rules and agree to the resolution, as amended.
 - 2008-07-30 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H7531-7532)
 - 2008-07-30 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H7531-7532)
+- 2008-07-31 — Received in the Senate.
+- 2008-08-01 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2008-09-22 — Message on Senate action sent to the House.
+- 2008-09-22 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9182)
+- 2008-09-22 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9182)
+- 2008-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S9179-9185)
+- 2008-09-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S9179-9185)
