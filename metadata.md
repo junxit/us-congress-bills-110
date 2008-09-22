@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5853
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5853
@@ -46,3 +46,9 @@ Minute Man National Historical Park Boundary Revision Act
 - 2008-09-11 — Placed on the Union Calendar, Calendar No. 539.
 - 2008-09-11 — Reported by the Committee on Natural Resources. H. Rept. 110-839.
 - 2008-09-11 — Reported by the Committee on Natural Resources. H. Rept. 110-839.
+- 2008-09-22 — Considered under suspension of the rules. (consideration: CR H8496)
+- 2008-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5853.
+- 2008-09-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-22 — Ms. Bordallo moved to suspend the rules and pass the bill.
+- 2008-09-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8496)
+- 2008-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8496)
