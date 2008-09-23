@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6908
 congress: 110
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 6908
