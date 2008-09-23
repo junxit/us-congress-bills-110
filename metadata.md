@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5244
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5244
@@ -178,6 +178,11 @@ Credit Cardholders' Bill of Rights Act of 2008
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2008-09-23 — [House 110-2-622](votes/house-110-2-0622.md) — On Motion to Recommit with Instructions — **Failed** (198–219)
+- 2008-09-23 — [House 110-2-623](votes/house-110-2-0623.md) — On Passage — **Passed** (312–112)
+
 ## Actions
 
 - 2008-02-07 — Introduced in House
@@ -191,3 +196,17 @@ Credit Cardholders' Bill of Rights Act of 2008
 - 2008-09-16 — Placed on the Union Calendar, Calendar No. 554.
 - 2008-09-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-857.
 - 2008-09-16 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-857.
+- 2008-09-22 — Rules Committee Resolution H. Res. 1476 Reported to House. Rule provides for consideration of H.R. 5244 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill shall be considered as adopted.
+- 2008-09-23 — Considered under the provisions of rule H. Res. 1476. (consideration: CR H8598-8613)
+- 2008-09-23 — DEBATE - The House proceeded with 10 minutes of debate on the Castle motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment inserting a new section providing a trigger for enactment.
+- 2008-09-23 — DEBATE - The House proceeded with one hour of debate on H.R. 5244.
+- 2008-09-23 — House amendment offered
+- 2008-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-23 — Mr. Castle moved to recommit with instructions to Financial Services. (consideration: CR H8611-8612; text: CR H8612)
+- 2008-09-23 — On motion to recommit with instructions Failed by the Yeas and Nays: 198 - 219 (Roll no. 622). (text: CR H8612-8613)
+- 2008-09-23 — On passage Passed by recorded vote: 312 - 112 (Roll no. 623). (text: CR H8598-8602)
+- 2008-09-23 — Passed/agreed to in House: On passage Passed by recorded vote: 312 - 112 (Roll no. 623).(text: CR H8598-8602)
+- 2008-09-23 — Rule H. Res. 1476 passed House.
+- 2008-09-23 — Rule provides for consideration of H.R. 5244 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 9 or 10 of rule XXI. The amendment in the nature of a substitute recommended by the Committee on Financial Services now printed in the bill shall be considered as adopted.
+- 2008-09-23 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8598-8613)
+- 2008-09-23 — The previous question was ordered pursuant to the rule. (consideration: CR H8612)
