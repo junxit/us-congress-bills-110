@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6897
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6897
