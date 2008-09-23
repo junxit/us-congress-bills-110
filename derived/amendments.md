@@ -1,7 +1,7 @@
 ---
 measure: S. 3341
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -31,12 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `31 U.S.C. § 6101` | strike | in the section heading, by striking “AND SUNSET”; and | the bill quotes the text struck but describes what replaces it |
-| `31 U.S.C. § 6101` | strike | by striking “and shall cease to be effective 8 years after such date of enactment”. | the bill quotes the text struck but describes what replaces it |
+| — | strike | in the section heading, by striking “AND SUNSET”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “and shall cease to be effective 8 years after such date of enactment”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (d) the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (g), as so redesignated, by striking “All actions” and inserting “Except for actions relating to establishing the website required under subsection (e), all actions”. | the bill names no machine-readable US Code section |
-| `31 U.S.C. § 6101` | replace | The Federal Financial Assistance Management Improvement Act of 1999 (31 U.S.C. 6101 note) is amended by striking section 7 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 6101` | redesignate | by redesignating sections 8, 9, 10, and 11 as sections 9, 10, 11, and 12, respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 6101` | insert | by inserting after section 7, as amended by this Act, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `31 U.S.C. § 6101` | insert | Section 5(d) of the Federal Financial Assistance Management Improvement Act of 1999 (31 U.S.C. 6101 note) is amended by inserting “, until the date on which the Federal agency submits the first report by the Federal agency required under… | the bill quotes the text inserted but describes where it goes |
+| — | replace | The Federal Financial Assistance Management Improvement Act of 1999 (31 U.S.C. 6101 note) is amended by striking section 7 and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating sections 8, 9, 10, and 11 as sections 9, 10, 11, and 12, respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 7, as amended by this Act, the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 5(d) of the Federal Financial Assistance Management Improvement Act of 1999 (31 U.S.C. 6101 note) is amended by inserting “, until the date on which the Federal agency submits the first report by the Federal agency required under… | the bill names no machine-readable US Code section |
