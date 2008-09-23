@@ -1,7 +1,7 @@
 ---
 measure: S. 1007
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1007
@@ -25,3 +25,7 @@ Western Hemisphere Energy Compact
 - 2007-03-28 — Introduced in Senate
 - 2007-03-28 — Read twice and referred to the Committee on Foreign Relations.
 - 2007-03-28 — Sponsor introductory remarks on measure. (CR S4054)
+- 2008-09-23 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-23 — Committee on Foreign Relations. Reported by Senator Dodd with an amendment in the nature of a substitute. Without written report.
+- 2008-09-23 — Committee on Foreign Relations. Reported by Senator Dodd with an amendment in the nature of a substitute. Without written report.
+- 2008-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1044.
