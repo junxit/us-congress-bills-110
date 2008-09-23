@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6370
 congress: 110
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6370
@@ -38,3 +38,4 @@ Oregon Surplus Federal Land Act of 2008
 - 2008-09-22 — Placed on the Union Calendar, Calendar No. 562.
 - 2008-09-22 — Reported by the Committee on Transportation. H. Rept. 110-865.
 - 2008-09-22 — Reported by the Committee on Transportation. H. Rept. 110-865.
+- 2008-09-23 — Received in the Senate.
