@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1473
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1473
@@ -29,3 +29,9 @@ Recognizing the 150th anniversary year of the founding of Macy's, Inc., as an Am
 - 2008-09-22 — Introduced in House
 - 2008-09-22 — Introduced in House
 - 2008-09-22 — Referred to the House Committee on Small Business.
+- 2008-09-23 — Considered under suspension of the rules. (consideration: CR H8625-8626)
+- 2008-09-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1473.
+- 2008-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-23 — Ms. Velazquez moved to suspend the rules and agree to the resolution.
+- 2008-09-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8625)
+- 2008-09-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8625)
