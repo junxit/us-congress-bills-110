@@ -187,3 +187,8 @@ This Act may be cited as the “Paul Wellstone and Pete Domenici Mental Health P
     - **(C)** whether implementation of this Act has affected trends in coverage or exclusion of such diagnoses; and
     - **(D)** the impact of covering or excluding specific diagnoses on participants’ and enrollees’ health, their health care coverage, and the costs of delivering health care.
   - **(2)** *Reports* Not later than 3 years after the date of the enactment of this Act, and 2 years after the date of submission the first report under this paragraph, the Comptroller General shall submit to Congress a report on the results of the study conducted under paragraph (1).
+
+## § 3. Delay in application of worldwide allocation of interest
+
+- **(a)** *In general* Paragraphs (5)(D) and (6) of section 864(f) of the Internal Revenue Code of 1986 are each amended by striking “December 31, 2010” and inserting “December 31, 2012”.
+- **(b)** *Transition* Paragraph (7) of section 864(f) of such Code is amended by striking “30 percent” and inserting “85 percent”.
