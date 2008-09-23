@@ -18,7 +18,7 @@ This Act may be cited as the “Ryan Haight Online Pharmacy Consumer Protection 
 Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by adding at the end the following:
 
 > - **(e)** *Controlled substances dispensed by means of the Internet*
->   - **(1)** No controlled substance may be delivered, distributed, or dispensed by means of the Internet without a valid prescription.
+>   - **(1)** No controlled substance that is a prescription drug as determined under the Federal Food, Drug, and Cosmetic Act may be delivered, distributed, or dispensed by means of the Internet without a valid prescription.
 >   - **(2)** As used in this subsection:
 >     - **(A)** The term valid prescription means a prescription that is issued for a legitimate medical purpose in the usual course of professional practice by—
 >       - **(i)** a practitioner who has conducted at least 1 in-person medical evaluation of the patient; or
@@ -41,19 +41,19 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
   > - **(52)** The term online pharmacy—
   >   - **(A)** means a person, entity, or Internet site, whether in the United States or abroad, that knowingly or intentionally delivers, distributes, or dispenses, or offers or attempts to deliver, distribute, or dispense, a controlled substance by means of the Internet; and
   >   - **(B)** does not include—
-  >     - **(i)** manufacturers or distributors registered under subsection (a), (b), (c), or (d) of section 303 who do not dispense controlled substances to an unregistered individual or entity;
+  >     - **(i)** manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 303 who do not dispense controlled substances to an unregistered individual or entity;
   >     - **(ii)** nonpharmacy practitioners who are registered under section 303(f) and whose activities are authorized by that registration;
   >     - **(iii)** any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 303(f);
-  >     - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.);
+  >     - **(iv)** a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act;
   >     - **(v)** any agent or employee of any hospital or facility referred to in clause (iii) or (iv), provided such agent or employee is lawfully acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee, with such hospital or facility, and, with respect to agents or employees of health care facilities specified in clause (iv), only to the extent such individuals are furnishing services pursuant to the contracts or compacts described in such clause;
   >     - **(vi)** mere advertisements that do not attempt to facilitate an actual transaction involving a controlled substance;
   >     - **(vii)** a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
   >     - **(viii)** a pharmacy registered under section 303(f) whose dispensing of controlled substances via the Internet consists solely of—
-  >       - **(I)** “refilling prescriptions for controlled substances in schedule III, IV, or V”, as defined in paragraph (55); or
-  >       - **(II)** “filling new prescriptions for controlled substances in schedule III, IV, or V”, as defined in paragraph (56); or
+  >       - **(I)** refilling prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (55); or
+  >       - **(II)** filling new prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (56); or
   >     - **(ix)** any other persons for whom the Attorney General and the Secretary have jointly, by regulation, found it to be consistent with effective controls against diversion and otherwise consistent with the public health and safety to exempt from the definition of an “online pharmacy”.
   > - **(53)** The term homepage means the opening or main page or screen of the website of an online pharmacy that is viewable on the Internet.
-  > - **(54)** The term practice of telemedicine means, for purposes of this title, the practice of medicine in accordance with applicable Federal and State laws by a practitioner (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)), and that—
+  > - **(54)** The term practice of telemedicine means, for purposes of this title, the practice of medicine in accordance with applicable Federal and State laws by a practitioner (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1834(m) of the Social Security Act, which practice—
   >   - **(A)** is being conducted—
   >     - **(i)** while the patient is being treated by, and physically located in, a hospital or clinic registered under section 303(f); and
   >     - **(ii)** by a practitioner—
@@ -73,11 +73,11 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
   >         - **(aa)** an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
   >         - **(bb)** registered under section 303(f) in any State or is using the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 303(f);
   >   - **(C)** is being conducted by a practitioner—
-  >     - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.);
+  >     - **(i)** who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact with the Indian Health Service under the Indian Self-Determination and Education Assistance Act;
   >     - **(ii)** acting within the scope of the employment, contract, or compact described in clause (i); and
   >     - **(iii)** who is designated as an Internet Eligible Controlled Substances Provider by the Secretary under section 311(g)(2);
   >   - **(D)**
-  >     - **(i)** is being conducted during a public health emergency declared by the Secretary under section 319 of the Public Health Service Act (42 U.S.C. 247d); and
+  >     - **(i)** is being conducted during a public health emergency declared by the Secretary under section 319 of the Public Health Service Act; and
   >     - **(ii)** involves patients located in such areas, and such controlled substances, as the Secretary, with the concurrence of the Attorney General, designates, provided that such designation shall not be subject to the procedures prescribed by subchapter II of chapter 5 of title 5, United States Code;
   >   - **(E)** is being conducted by a practitioner who has obtained from the Attorney General a special registration under section 311(h);
   >   - **(F)** is being conducted—
@@ -92,10 +92,10 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
   >       - **(III)** issues a controlled substance prescription in this emergency context that is limited to a maximum of a 5-day supply which may not be extended or refilled; or
   >   - **(G)** is being conducted under any other circumstances that the Attorney General and the Secretary have jointly, by regulation, determined to be consistent with effective controls against diversion and otherwise consistent with the public health and safety.
   > - **(55)** The term refilling prescriptions for controlled substances in schedule III, IV, or V—
-  >   - **(A)** means the dispensing of a controlled substance in schedule III, IV, or V in accordance with refill instructions issued by a practitioner as part of a valid prescription that meets the requirements of subsection (b) or (c) of section 309, as appropriate; and
+  >   - **(A)** means the dispensing of a controlled substance in schedule III, IV, or V in accordance with refill instructions issued by a practitioner as part of a valid prescription that meets the requirements of subsections (b) and (c) of section 309, as appropriate; and
   >   - **(B)** does not include the issuance of a new prescription to an individual for a controlled substance that individual was previously prescribed.
-  > - **(56)** The term filling new prescriptions for controlled substances in schedule III, IV, or V means a prescription for an individual for a controlled substance in schedule III, IV, or V, if—
-  >   - **(A)** the pharmacy dispensing that prescription has previously dispensed to the patient that same controlled substance other than by means of the Internet and pursuant to the valid prescription of a practitioner that meets the applicable requirements of sections 309(b) or (c) (in this paragraph referred to as the “original prescription”);
+  > - **(56)** The term filling new prescriptions for controlled substances in schedule III, IV, or V means filling a prescription for an individual for a controlled substance in schedule III, IV, or V, if—
+  >   - **(A)** the pharmacy dispensing that prescription has previously dispensed to the patient a controlled substance other than by means of the Internet and pursuant to the valid prescription of a practitioner that meets the applicable requirements of subsections (b) and (c) of section 309 (in this paragraph referred to as the “original prescription”);
   >   - **(B)** the pharmacy contacts the practitioner who issued the original prescription at the request of that individual to determine whether the practitioner will authorize the issuance of a new prescription for that individual for the controlled substance described in subparagraph (A); and
   >   - **(C)** the practitioner, acting in the usual course of professional practice, determines there is a legitimate medical purpose for the issuance of the new prescription.
 
@@ -103,9 +103,9 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
   - **(1)** in the first sentence, by adding after “schedule II, III, IV, or V” the following: “and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet”; and
   - **(2)** in the second sentence, by striking “if he determines that the issuance of such registration” and inserting “or such modification of registration if the Attorney General determines that the issuance of such registration or modification”.
 - **(c)** *Reporting requirements* Section 307(d) of the Controlled Substances Act (21 U.S.C. 827(d)) is amended by—
-  - **(1)** designating the text as paragraph (1); and
-  - **(2)** inserting after paragraph (1), as so designated by this Act, the following:
-    > - **(2)** Each pharmacy with a modified registration under section 303(f) that authorizes the dispensing of controlled substances by means of the Internet shall report to the Attorney General the controlled substances it dispenses, in the amount specified, and in such time and manner as the Attorney General by regulation shall require, except that the Attorney General, under this paragraph, may not require any pharmacy to report any information other than the total quantity of each controlled substance that the pharmacy has dispensed each month. For purposes of this subsection, no reporting shall be required unless the pharmacy has met 1 of the following thresholds in the month for which the reporting is required:
+  - **(1)** striking “(d) Every” and inserting “(d)(1) Every”; and
+  - **(2)** adding at the end the following:
+    > - **(2)** Each pharmacy with a modified registration under section 303(f) that authorizes the dispensing of controlled substances by means of the Internet shall report to the Attorney General the controlled substances it dispenses, in the amount specified, and in such time and manner as the Attorney General by regulation shall require, except that the Attorney General, under this paragraph, may not require any pharmacy to report any information other than the total quantity of each controlled substance that the pharmacy has dispensed each month. For purposes of this paragraph, no reporting shall be required unless the pharmacy has met 1 of the following thresholds in the month for which the reporting is required:
     >   - **(A)** 100 or more prescriptions dispensed.
     >   - **(B)** 5,000 or more dosage units of all controlled substances combined.
 
@@ -122,21 +122,21 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
     >   - **(4)** A list of the States in which the pharmacy is licensed to dispense controlled substances.
     >   - **(5)** A certification that the pharmacy is registered under this part to deliver, distribute, or dispense by means of the Internet controlled substances.
     >   - **(6)** The name, address, telephone number, professional degree, and States of licensure of any practitioner who has a contractual relationship to provide medical evaluations or issue prescriptions for controlled substances, through referrals from the website or at the request of the owner or operator of the website, or any employee or agent thereof.
-    >   - **(7)** The following statement, unless revised by the Attorney General by regulation: “This online pharmacy will only dispense a controlled substance to a person who has a valid prescription issued for a legitimate medical purpose based upon a medical relationship with a prescribing practitioner. This includes at least one prior in-person medical evaluation or medical evaluation via telemedicine in accordance with applicable requirements of section 309 of the Controlled Substances Act (21 U.S.C. 829).”.
+    >   - **(7)** The following statement, unless revised by the Attorney General by regulation: “This online pharmacy will only dispense a controlled substance to a person who has a valid prescription issued for a legitimate medical purpose based upon a medical relationship with a prescribing practitioner. This includes at least one prior in-person medical evaluation or medical evaluation via telemedicine in accordance with applicable requirements of section 309.”.
     > - **(d)** *Notification*
-    >   - **(1)** Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in the form and manner as the Attorney General shall determine, and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
-    >   - **(2)** The notification required under paragraph (1) shall include—
+    >   - **(1)** *In general* Thirty days prior to offering a controlled substance for sale, delivery, distribution, or dispensing, the online pharmacy shall notify the Attorney General, in such form and manner as the Attorney General shall determine, and the State boards of pharmacy in any States in which the online pharmacy offers to sell, deliver, distribute, or dispense controlled substances.
+    >   - **(2)** *Contents* The notification required under paragraph (1) shall include—
     >     - **(A)** the information required to be posted on the online pharmacy’s Internet site under subsection (c) and shall notify the Attorney General and the applicable State boards of pharmacy, under penalty of perjury, that the information disclosed on its Internet site under subsection (c) is true and accurate;
     >     - **(B)** the online pharmacy’s Internet site address and a certification that the online pharmacy shall notify the Attorney General of any change in the address at least 30 days in advance; and
     >     - **(C)** the Drug Enforcement Administration registration numbers of any pharmacies and practitioners referred to in subsection (c), as applicable.
-    >   - **(3)** An online pharmacy that is already operational as of the effective date of this section, shall notify the Attorney General and applicable State boards of pharmacy in accordance with this subsection not later than 30 days after the effective date of this section.
+    >   - **(3)** *Existing online pharmacies* An online pharmacy that is already operational as of the effective date of this section, shall notify the Attorney General and applicable State boards of pharmacy in accordance with this subsection not later than 30 days after such date.
     > - **(e)** *Declaration of compliance* On and after the date on which it makes the notification under subsection (d), each online pharmacy shall display on the homepage of its Internet site, in such form as the Attorney General shall by regulation require, a declaration that it has made such notification to the Attorney General.
     > - **(f)** *Reports* Any statement, declaration, notification, or disclosure required under this section shall be considered a report required to be kept under this part.
-    > - **(g)** *Notice and designations concerning indian tribes*
-    >   - **(1)** *In general* For purposes of sections 102(52) and 512(c)(6)(B), the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) for the tribes or tribal organizations to provide pharmacy services.
+    > - **(g)** *Notice and designations concerning Indian tribes*
+    >   - **(1)** *In general* For purposes of sections 102(52) and 512(c)(6)(B), the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act for the tribes or tribal organizations to provide pharmacy services.
     >   - **(2)** *Designations*
     >     - **(A)** *In general* The Secretary may designate a practitioner described in subparagraph (B) as an Internet Eligible Controlled Substances Provider. Such designations shall be made only in cases where the Secretary has found that there is a legitimate need for the practitioner to be so designated because the population served by the practitioner is in a sufficiently remote location that access to medical services is limited.
-    >     - **(B)** *Practitioners* A practitioner described in this subparagraph is a practitioner who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) with the Indian Health Service.
+    >     - **(B)** *Practitioners* A practitioner described in this subparagraph is a practitioner who is an employee or contractor of the Indian Health Service, or is working for an Indian tribe or tribal organization under its contract or compact under the Indian Self-Determination and Education Assistance Act with the Indian Health Service.
     > - **(h)** *Special registration for telemedicine*
     >   - **(1)** *In general* The Attorney General may issue to a practitioner a special registration to engage in the practice of telemedicine for purposes of section 102(54)(E) if the practitioner, upon application for such special registration—
     >     - **(A)** demonstrates a legitimate need for the special registration; and
@@ -153,11 +153,10 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
   - **(2)** *Technical and conforming amendments* The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 (Public Law 91–513; 84 Stat. 1236) is amended by inserting after the item relating to section 310 the following:
 - **(e)** *Offenses involving controlled substances in Schedules III, IV, and V* Section 401(b) of the Controlled Substances Act (21 U.S.C. 841(b)) is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** in subparagraph (C), by striking “1 gram of” before “flunitrazepam”;
-    - **(B)** in subparagraph (D), by striking “or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam”; and
-    - **(C)** by adding at the end the following:
+    - **(A)** in subparagraph (D), by striking “or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam”; and
+    - **(B)** by adding at the end the following:
       > - **(E)**
-      >   - **(i)** In the case of any controlled substance in schedule III, such person shall be sentenced to a term of imprisonment of not more than 10 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than 20 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $500,000 if the defendant is an individual or $2,500,000 if the defendant is other than an individual, or both.
+      >   - **(i)** Except as provided in subparagraphs (C) and (D), in the case of any controlled substance in schedule III, such person shall be sentenced to a term of imprisonment of not more than 10 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than 15 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $500,000 if the defendant is an individual or $2,500,000 if the defendant is other than an individual, or both.
       >   - **(ii)** If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not more than 20 years and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not more than 30 years, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18, United States Code, or $1,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual, or both.
       >   - **(iii)** Any sentence imposing a term of imprisonment under this subparagraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 2 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 4 years in addition to such term of imprisonment.
 
@@ -166,35 +165,35 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
     - **(B)** by striking “6 years” and inserting “10 years”;
     - **(C)** by striking “after one or more prior convictions” and all that follows through “have become final,” and inserting “after a prior conviction for a felony drug offense has become final,”; and
   - **(3)** in paragraph (3)—
-    - **(A)** by striking “2 years” and inserting “6 years”;
+    - **(A)** by striking “2 years” and inserting “4 years”;
     - **(B)** by striking “after one or more convictions” and all that follows through “have become final,” and inserting “after a prior conviction for a felony drug offense has become final,”; and
     - **(C)** by adding at the end the following “Any sentence imposing a term of imprisonment under this paragraph may, if there was a prior conviction, impose a term of supervised release of not more than 1 year, in addition to such term of imprisonment.”.
 - **(f)** *Offenses involving dispensing of controlled substances by means of the Internet* Section 401 of the Controlled Substances Act (21 U.S.C. 841) is amended by adding at the end the following:
-  > - **(g)** *Offenses involving dispensing of controlled substances by means of the Internet*
-  >   - **(1)** It shall be unlawful for any person to knowingly or intentionally—
+  > - **(h)** *Offenses involving dispensing of controlled substances by means of the Internet*
+  >   - **(1)** *In general* It shall be unlawful for any person to knowingly or intentionally—
   >     - **(A)** deliver, distribute, or dispense a controlled substance by means of the Internet, except as authorized by this title; or
   >     - **(B)** aid or abet (as such terms are used in section 2 of title 18, United States Code) any activity described in subparagraph (A) that is not authorized by this title.
-  >   - **(2)** Examples of activities that violate paragraph (1) include, but are not limited to, knowingly or intentionally—
+  >   - **(2)** *Examples* Examples of activities that violate paragraph (1) include, but are not limited to, knowingly or intentionally—
   >     - **(A)** delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by section 303(f) (unless exempt from such registration);
   >     - **(B)** writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of section 309(e);
   >     - **(C)** serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 303(f) or 309(e);
   >     - **(D)** offering to fill a prescription for a controlled substance based solely on a consumer’s completion of an online medical questionnaire; and
-  >     - **(E)** making a material false, fictitious, or fraudulent statement or representation in the submission to the Attorney General under section 311.
-  >   - **(3)**
+  >     - **(E)** making a material false, fictitious, or fraudulent statement or representation in a notification or declaration under subsection (d) or (e), respectively, of section 311.
+  >   - **(3)** *Inapplicability*
   >     - **(A)** This subsection does not apply to—
   >       - **(i)** the delivery, distribution, or dispensation of controlled substances by nonpractitioners to the extent authorized by their registration under this title;
   >       - **(ii)** the placement on the Internet of material that merely advocates the use of a controlled substance or includes pricing information without attempting to propose or facilitate an actual transaction involving a controlled substance; or
   >       - **(iii)** except as provided in subparagraph (B), any activity that is limited to—
-  >         - **(I)** the provision of a telecommunications service, or of an Internet access service or Internet information location tool (as those terms are defined in section 231 of the Communications Act of 1934 (47 U.S.C. 231)); or
-  >         - **(II)** the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication, without selection or alteration of the content of the communication, except that deletion of a particular communication or material made by another person in a manner consistent with section 230(c) of the Communications Act of 1934 (47 U.S.C. 230(c)) shall not constitute such selection or alteration of the content of the communication.
+  >         - **(I)** the provision of a telecommunications service, or of an Internet access service or Internet information location tool (as those terms are defined in section 231 of the Communications Act of 1934); or
+  >         - **(II)** the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication, without selection or alteration of the content of the communication, except that deletion of a particular communication or material made by another person in a manner consistent with section 230(c) of the Communications Act of 1934 shall not constitute such selection or alteration of the content of the communication.
   >     - **(B)** The exceptions under subclauses (I) and (II) of subparagraph (A)(iii) shall not apply to a person acting in concert with a person who violates paragraph (1).
-  >   - **(4)** Any person who knowingly or intentionally violates this subsection shall be sentenced in accordance with subsection (b) of this section.
+  >   - **(4)** *Knowing or intentional violation* Any person who knowingly or intentionally violates this subsection shall be sentenced in accordance with subsection (b).
 
 - **(g)** *Publication* Section 403(c) of the Controlled Substances Act (21 U.S.C. 843(c)) is amended by—
-  - **(1)** designating the text as paragraph (1); and
+  - **(1)** striking “(c)” and inserting “(c)(1)”; and
   - **(2)** adding at the end the following:
     > - **(2)**
-    >   - **(A)** Except as authorized by this title, it shall be unlawful for any person by means of the Internet to knowingly advertise the sale or distribution of, or to offer to sell, distribute, or dispense, a controlled substance.
+    >   - **(A)** It shall be unlawful for any person to knowingly or intentionally use the Internet, or cause the Internet to be used, to advertise the sale of, or to offer to sell, distribute, or dispense, a controlled substance where such sale, distribution, or dispensing is not authorized by this title or by the Controlled Substances Import and Export Act.
     >   - **(B)** Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement that refers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under section 303(f).
     >   - **(C)** Subparagraph (A) does not apply to material that either—
     >     - **(i)** merely advertises the distribution of controlled substances by nonpractitioners to the extent authorized by their registration under this title; or
@@ -202,38 +201,35 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
 
 - **(h)** *Injunctive relief* Section 512 of the Controlled Substances Act (21 U.S.C. 882) is amended by adding at the end the following:
   > - **(c)** *State cause of action pertaining to online pharmacies*
-  >   - **(1)** In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 303(f), 309(e), or 311, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
+  >   - **(1)** *In general* In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 303(f), 309(e), or 311, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
   >     - **(A)** to enjoin the conduct which violates this section;
   >     - **(B)** to enforce compliance with this section;
   >     - **(C)** to obtain damages, restitution, or other compensation, including civil penalties under section 402(b); and
   >     - **(D)** to obtain such other legal or equitable relief as the court may find appropriate.
-  >   - **(2)**
+  >   - **(2)** *Service; intervention*
   >     - **(A)** Prior to filing a complaint under paragraph (1), the State shall serve a copy of the complaint upon the Attorney General and upon the United States Attorney for the judicial district in which the complaint is to be filed. In any case where such prior service is not feasible, the State shall serve the complaint on the Attorney General and the appropriate United States Attorney on the same day that the State’s complaint is filed in Federal district court of the United States. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or any other proceedings under this title or any other laws of the United States.
-  >     - **(B)** Upon receiving notice respecting a civil action pursuant to this section, the United States shall have the right to intervene in such action, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
+  >     - **(B)** Upon receiving notice respecting a civil action pursuant to this section, the United States shall have the right to intervene in such action and, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
   >     - **(C)** Service of a State’s complaint on the United States as required in this paragraph shall be made in accord with the requirements of rule 4(i)(1) of the Federal Rule of Civil Procedure.
-  >   - **(3)** For purposes of bringing any civil action under paragraph (1), nothing in this Act shall prevent an attorney general of a State from exercising the powers conferred on the attorney general of a State by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses of or the production of documentary or other evidence.
-  >   - **(4)** Any civil action brought under paragraph (1) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28, United States Code. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
-  >   - **(5)** No private right of action is created under this subsection.
-  >   - **(6)** No civil action may be brought under paragraph (1) against—
+  >   - **(3)** *Powers conferred by State law* For purposes of bringing any civil action under paragraph (1), nothing in this Act shall prevent an attorney general of a State from exercising the powers conferred on the attorney general of a State by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses of or the production of documentary or other evidence.
+  >   - **(4)** *Venue* Any civil action brought under paragraph (1) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28, United States Code. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+  >   - **(5)** *No private right of action* No private right of action is created under this subsection.
+  >   - **(6)** *Limitation* No civil action may be brought under paragraph (1) against—
   >     - **(A)** the United States;
   >     - **(B)** an Indian Tribe or tribal organization, to the extent such tribe or tribal organization is lawfully carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act; or
   >     - **(C)** any employee of the United States or such Indian tribe or tribal organization, provided such agent or employee is acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee therewith.
 
-- **(i)** *Forfeiture of facilitating property in drug cases* Section 511(a)(4) of the Controlled Substances Act (21 U.S.C. 881(a)(4)) is amended to read as follows:
-  > - **(4)** Any property, real or personal, tangible or intangible, used or intended to be used to commit, or to facilitate the commission, of a violation of this title or title III, and any property traceable thereto.
-
-- **(j)** *Import and Export Act* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended—
+- **(i)** *Import and Export Act* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended—
   - **(1)** in paragraph (4)—
     - **(A)** by striking “or any quantity of a controlled substance in schedule III, IV, or V, (except a violation involving flunitrazepam and except a violation involving gamma hydroxybutyric acid)”;
-    - **(B)** by inserting “, or” before “less than one kilogram of hashish oil”; and
-    - **(C)** striking “imprisoned” and all that follows through the end of the paragraph and inserting “sentenced in accordance with section 401(b)(1)(D) of this title (21 U.S.C. 841(b)(1)(E)).”;
+    - **(B)** by inserting “or” before “less than one kilogram of hashish oil”; and
+    - **(C)** by striking “imprisoned” and all that follows through the end of the paragraph and inserting “sentenced in accordance with section 401(b)(1)(D).”;
   - **(2)** by adding at the end the following:
-    > - **(5)** In the case of a violation of subsection (a) of this section involving a controlled substance in schedule III, such person shall be sentenced in accordance with section 401(b)(1)(E).
-    > - **(6)** In the case of a violation of subsection (a) of this section involving a controlled substance in schedule IV (except a violation involving flunitrazepam), such person shall be sentenced in accordance with section 401(b)(2).
-    > - **(7)** In the case of a violation of subsection (a) of this section involving a controlled substance in schedule V, such person shall be sentenced in accordance with section 401(b)(3).
+    > - **(5)** In the case of a violation of subsection (a) involving a controlled substance in schedule III, such person shall be sentenced in accordance with section 401(b)(1).
+    > - **(6)** In the case of a violation of subsection (a) involving a controlled substance in schedule IV, such person shall be sentenced in accordance with section 401(b)(2).
+    > - **(7)** In the case of a violation of subsection (a) involving a controlled substance in schedule V, such person shall be sentenced in accordance with section 401(b)(3).
 
   - **(3)** in paragraph (3), by striking “, nor shall a person so sentenced be eligible for parole during the term of such a sentence” in the final sentence.
-- **(k)** *Effective date*
+- **(j)** *Effective date*
   - **(1)** *In general* Except as provided in paragraph (2), the amendments made by this Act shall take effect 180 days after the date of enactment of this Act.
   - **(2)** *Definition of practice of telemedicine*
     - **(A)** *In general* Until the earlier of 3 months after the date on which regulations are promulgated to carry out section 311(h) of the Controlled Substances Act, as amended by this Act, or 15 months after the date of enactment of this Act—
@@ -241,12 +237,10 @@ Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by addin
       - **(ii)** the definition of the term practice of telemedicine in section 102(54) of the Controlled Substances Act, as amended by this Act, shall not apply.
     - **(B)** *Temporary phase-in of telemedicine regulation* During the period specified in subparagraph (A), the term practice of telemedicine means the practice of medicine in accordance with applicable Federal and State laws by a practitioner (as that term is defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) (other than a pharmacist) who is at a location remote from the patient and is communicating with the patient, or health care professional who is treating the patient, using a telecommunications system referred to in section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)), if the practitioner is using an interactive telecommunications system that satisfies the requirements of section 410.78(a)(3) of title 42, Code of Federal Regulations.
     - **(C)** *Rule of construction* Nothing in this subsection may be construed to create a precedent that any specific course of conduct constitutes the “practice of telemedicine” (as that term is defined in section 102(54) of the Controlled Substances Act, as amended by this Act) after the end of the period specified in subparagraph (A).
-- **(l)** *Guidelines and regulations*
-  - **(1)** *In general* The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provides, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date.
-  - **(2)** *Sentencing guidelines* The United States Sentencing Commission, in determining whether to amend, or establish new, guidelines or policy statements, to conform the Federal sentencing guidelines and policy statements to this Act and the amendments made by this Act—
-    - **(A)** shall consult with the Department of Justice, experts and other affected parties concerning which penalties for scheduled substances amended by this Act should be reflected in the Federal sentencing guidelines; and
-    - **(B)** should not construe any change in the maximum penalty for a violation involving a controlled substance in a particular schedule as being the sole reason to amend a, or establish a new, guideline or policy statement.
-- **(m)** *Annual report* Not later than 180 days after the date of enactment of this Act, and annually for 2 years after the initial report, the Drug Enforcement Administration, in consultation with the Department of State, shall submit to Congress a report describing—
+- **(k)** *Guidelines and regulations*
+  - **(1)** *In general* The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date.
+  - **(2)** *Sentencing guidelines* The United States Sentencing Commission, in determining whether to amend, or establish new, guidelines or policy statements, to conform the Federal sentencing guidelines and policy statements to this Act and the amendments made by this Act, should not construe any change in the maximum penalty for a violation involving a controlled substance in a particular schedule as being the sole reason to amend, or establish a new, guideline or policy statement.
+- **(l)** *Annual report* Not later than 180 days after the date of enactment of this Act, and annually for 2 years after the initial report, the Drug Enforcement Administration, in consultation with the Department of State, shall submit to Congress a report describing—
   - **(1)** the foreign supply chains and sources of controlled substances offered for sale without a valid prescription on the Internet;
   - **(2)** the efforts and strategy of the Drug Enforcement Administration to decrease the foreign supply chain and sources of controlled substances offered for sale without a valid prescription on the Internet; and
   - **(3)** the efforts of the Drug Enforcement Administration to work with domestic and multinational pharmaceutical companies and others to build international cooperation and a commitment to fight on a global scale the problem of distribution of controlled substances over the Internet without a valid prescription.
