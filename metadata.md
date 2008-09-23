@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6893
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6893
@@ -36,3 +36,7 @@ Fostering Connections to Success and Increasing Adoptions Act of 2008
 - 2008-09-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8305-8313)
 - 2008-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8305-8313)
 - 2008-09-18 — Received in the Senate, read twice.
+- 2008-09-22 — Cleared for White House.
+- 2008-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9218)
+- 2008-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9218)
+- 2008-09-23 — Message on Senate action sent to the House.
