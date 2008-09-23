@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6965
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `September 30, 2008` |
 | Inserted | `April 30, 2009` |
 
-### 42 U.S.C. § 4026
+### 42 U.S.C. § 4016
 
 > Section 1309(a) of such Act (42 U.S.C. 4016(a)) is amended by striking “September 30, 2008” and inserting “April 30, 2009”.
 
