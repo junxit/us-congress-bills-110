@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3986
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
