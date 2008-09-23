@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3986
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3986
@@ -56,3 +56,11 @@ John F. Kennedy Center Reauthorization Act of 2008
 - 2008-06-27 — By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-406.
 - 2008-06-27 — By Senator Boxer from Committee on Environment and Public Works filed written report. Report No. 110-406.
 - 2008-06-27 — Message on Senate action sent to the House.
+- 2008-09-17 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Graves objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3986.
+- 2008-09-17 — Ms. Johnson, E. B. moved that the House suspend the rules an agree to the Senate amendment. (consideration: CR H8341-8343)
+- 2008-09-18 — Cleared for White House.
+- 2008-09-18 — Considered as unfinished business. (consideration: CR H8454)
+- 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-18 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR 9/17/2008 H8341)
+- 2008-09-18 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR 9/17/2008 H8341)
