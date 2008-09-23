@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1014
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,111 +11,76 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the Heart Disease Education, Analysis Research, and Treatment for Women Act or the “HEART for Women Act”.
+This Act may be cited as the “Heart Disease Education, Analysis Research, and Treatment for Women Act” or the “HEART for Women Act”.
 
-## § 2. Findings
+## § 2. Reporting of data in applications for drugs, biologics, and devices
 
-Congress makes the following findings:
-
-- **(1)** Heart disease, stroke, and other cardiovascular diseases are the leading cause of death among women.
-- **(2)** Despite being the number 1 killer, only 13 percent of women are aware that cardiovascular diseases, including heart disease and stroke, are their greatest health risk.
-- **(3)** Many minority women, including African American, Hispanic, Native American, and some Asian American women, are at a higher risk of death from heart disease, stroke, and other cardiovascular diseases, but they are less likely to know of this risk.
-- **(4)** There is a pervasive lack of awareness among healthcare providers that cardiovascular disease is the leading killer of women.
-- **(5)** Women are less likely than men to receive certain treatments for cardiovascular diseases, perhaps due to lack of awareness and the presence of different symptoms in women than in men.
-- **(6)** Women tend to experience later onset of heart disease than men, and therefore more often suffer from multiple conditions that mask symptoms of heart disease and complicate treatment.
-- **(7)** Certain diagnostic tests for cardiovascular disease may be less accurate in women than in men.
-- **(8)** Drug effectiveness and metabolism differ in women and men, impacting successful treatment of cardiovascular disease.
-- **(9)** In addition, stroke kills 2.3 times as many females as does breast cancer. Nearly 61 percent of stroke-related deaths occur in females. Studies have found differences in the effects, diagnosis, and treatment of stroke depending on the sex of the patient. For instance—
-  - **(A)** stroke severity is greater in women than in men;
-  - **(B)** women often receive fewer diagnostic tests and intervention procedures than men; and
-  - **(C)** strokes present treatment issues unique to women.
-
-## § 3. Reporting of data in applications for drugs, biologics, and devices
-
-- **(a)** *New drug applications* Section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) is amended by adding at the end the following:
-  > - **(6)**
-  >   - **(A)** Notwithstanding any other provision of this Act, the applicant shall include in any submission to the Secretary pursuant to this subsection, to the extent appropriate, information stratified by sex, race, and ethnicity, including any differences in safety and effectiveness.
-  >   - **(B)** The Secretary shall withhold approval of an application if the applicant fails to submit the required information described in subparagraph (A).
-  >   - **(C)** The Secretary shall develop standards to ensure that submissions to the Secretary pursuant to this subsection are adequately reviewed to determine whether such submissions include the information required under subparagraph (A).
-  >   - **(D)** Upon the approval under this subsection of an application for a drug, the Secretary shall report to the scientific community and make available to the public, in a timely manner, data regarding such drug stratified by sex, race, and ethnicity.
-
-- **(b)** *Investigational new drug applications* Section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) is amended—
-  - **(1)** in paragraph (2), by inserting “and paragraph (5)” after “Subject to paragraph (3)”; and
-  - **(2)** by adding at the end the following:
-    > - **(5)**
-    >   - **(A)** Notwithstanding any other provision of this Act, the manufacturer or sponsor of an investigation of a new drug shall include in any submission to the Secretary pursuant to this subsection on the clinical investigation of the new drug and to the extent appropriate, information stratified by sex, race, and ethnicity, including any differences in safety and effectiveness.
-    >   - **(B)** The Secretary shall place a clinical hold (as described in paragraph (3)) on an investigation if the manufacturer or sponsor of the investigation fails to submit the required information described in subparagraph (A).
-    >   - **(C)** The Secretary shall develop standards that ensure that submissions to the Secretary pursuant to this subsection on clinical investigations of new drugs are adequately reviewed to determine whether such submissions include the information required under this paragraph.
-
-- **(c)** *Abbreviated new drug applications* Section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) is amended—
-  - **(1)** in paragraph (2)(A), by inserting before the period at the end the following: “, subject to paragraph (10)”;
-  - **(2)** in paragraph (3)(A), by adding at the end the following: “The Secretary shall require such individuals who review such applications to ensure that such applications include the information on sex, race, and ethnicity data required under paragraph (10).”;
-  - **(3)** in paragraph (4)—
-    - **(A)** in subparagraph (J), by striking “or” after the semicolon;
-    - **(B)** in subparagraph (K), by striking the period at the end and inserting “; or”; and
-    - **(C)** by adding at the end the following:
-      > - **(L)** the application does not include appropriate information stratified by sex, race, and ethnicity, as required under paragraph (10).
-
-  - **(4)** by adding at the end the following:
-    > - **(10)**
-    >   - **(A)** Notwithstanding any other provision of this Act, a person shall include in any submission to the Secretary pursuant to this subsection appropriate drug information stratified by sex, race, and ethnicity, including any differences in safety and effectiveness.
-    >   - **(B)** The Secretary shall develop standards that ensure that submissions to the Secretary pursuant to this subsection are adequately reviewed to determine whether such submissions include the information required under this paragraph.
-    >   - **(C)** Upon the approval under this subsection of an application for a drug, the Secretary shall report to the scientific community and make available to the public, in a timely manner, data regarding such drug stratified by sex, race, and ethnicity.
-
-- **(d)** *Premarket approvals* Section 515 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e) is amended—
-  - **(1)** in subsection (c)—
-    - **(A)** in paragraph (1)—
-      - **(i)** in subparagraph (F), by striking “and” at the end;
-      - **(ii)** in subparagraph (G), by striking the period and inserting “; and”; and
-      - **(iii)** by adding at the end the following:
-        > - **(H)** information regarding the device, to the extent appropriate, stratified by sex, race, and ethnicity, including differences in safety and effectiveness.
-
+- **(a)** *Drugs*
+  - **(1)** *New drug applications* Section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) is amended—
+    - **(A)** in paragraph (1), in the second sentence—
+      - **(i)** by striking “drug, and (G)” and inserting “drug; (G)”; and
+      - **(ii)** by inserting before the period the following: “; and (H) the information required under paragraph (7)”; and
     - **(B)** by adding at the end the following:
-      > - **(5)** The Secretary shall develop standards that ensure that submissions to the Secretary pursuant to this subsection are adequately reviewed to determine whether such submissions include the information required under paragraph (1)(H).
+      > - **(7)**
+      >   - **(A)** With respect to clinical data in an application under this subsection, the Secretary may deny such an application if the application fails to meet the requirements of sections 314.50(d)(5)(v) and 314.50(d)(5)(vi)(a) of title 21, Code of Federal Regulations.
+      >   - **(B)** The Secretary shall modify the sections referred to in subparagraph (A) to require that an application under this subsection include any clinical data possessed by the applicant that relates to the safety or effectiveness of the drug involved by gender, age, and racial subgroup.
+      >   - **(C)** Promptly after approving an application under this subsection, the Secretary shall, through an Internet site of the Department of Health and Human Services, make available to the public the information submitted to the Secretary pursuant to subparagraphs (A) and (B), subject to sections 301(j) and 520(h)(4) of this Act, subsection (b)(4) of section 552 of title 5, United States Code (commonly referred to as the “Freedom of Information Act”), and other provisions of law that relate to trade secrets or confidential commercial information.
+      >   - **(D)** The Secretary shall develop guidance for staff of the Food and Drug Administration to ensure that applications under this subsection are adequately reviewed to determine whether the applications include the information required pursuant to subparagraphs (A) and (B).
 
-  - **(2)** in subsection (d)—
-    - **(A)** in paragraph (2)—
-      - **(i)** in subparagraph (D), by striking “or” at the end;
-      - **(ii)** in subparagraph (E), by striking the period and inserting “; or”; and
-      - **(iii)** by inserting after subparagraph (E), the following:
-        > - **(F)** the application does not contain, as appropriate, the information required in subsection (c)(1)(H).
-
+  - **(2)** *Investigational new drug applications* Section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) is amended—
+    - **(A)** in paragraph (2), by striking “Subject to paragraph (3),” and inserting “Subject to paragraphs (3) and (5),” ; and
     - **(B)** by adding at the end the following:
-      > - **(7)** Upon the approval of an application under this section, the Secretary shall report to the scientific community and make available to the public, in a timely manner, data regarding such device stratified by sex, race, and ethnicity.
+      > - **(5)**
+      >   - **(A)** The Secretary may place a clinical hold (as described in paragraph (3)) on an investigation if the sponsor of the investigation fails to meet the requirements of section 312.33(a) of title 21, Code of Federal Regulations.
+      >   - **(B)** The Secretary shall modify the section referred to in subparagraph (A) to require that reports under such section include any clinical data possessed by the sponsor of the investigation that relates to the safety or effectiveness of the drug involved by gender, age, and racial subgroup.
 
-- **(e)** *Investigational device exemptions* Section 520(g)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(g)) is amended—
-  - **(1)** in subparagraph (B), by adding at the end the following:
-    > - **(iv)** A requirement that any application include information regarding the device, to the extent appropriate, stratified by sex, race, and ethnicity, including differences in safety and effectiveness.
+- **(b)** *Biologics license applications* Section 351 of the Public Health Service Act (42 U.S.C. 262) is amended by adding at the end the following:
+  > - **(k)** The provisions of section 505(b)(7) of the Federal Food, Drug, and Cosmetic Act (relating to clinical data submission) apply with respect to an application under subsection (a) of this section to the same extent and in the same manner as such provisions apply with respect to an application under section 505(b) of such Act.
 
-  - **(2)** by adding at the end the following:
-    > - **(D)** The Secretary shall develop standards that ensure that submissions to the Secretary pursuant to this subsection are adequately reviewed to determine whether such submissions include the information required under subparagraph (B)(iv).
+- **(c)** *Devices*
+  - **(1)** *Premarket approval* Section 515 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e) is amended—
+    - **(A)** in subsection (c)(1)—
+      - **(i)** in subparagraph (G)—
+        - **(I)** by moving the margin 2 ems to the left; and
+        - **(II)** by striking “and” after the semicolon at the end;
+      - **(ii)** by redesignating subparagraph (H) as subparagraph (I); and
+      - **(iii)** by inserting after subparagraph (G) the following subparagraph:
+        > - **(H)** the information required under subsection (d)(7); and
 
-- **(f)** *Biological product licenses* Section 351(a)(2) of the Public Health Service Act (42 U.S.C. 262) is amended by adding at the end the following:
-  > - **(D)**
-  >   - **(i)** Notwithstanding any other provision of this Act, the applicant shall include in any application to the Secretary pursuant to this section appropriate information regarding the subject biological product stratified by sex, race, and ethnicity, including differences in safety and effectiveness.
-  >   - **(ii)** The Secretary shall develop standards that ensure that submissions to the Secretary pursuant to this section are adequately reviewed to determine whether such submissions include the information required under clause (i).
-  >   - **(iii)** Upon the approval of an application under this subsection, the Secretary shall report to the scientific community and make available to the public, in a timely manner, data regarding such biological product stratified by sex, race, and ethnicity.
+    - **(B)** in subsection (d), by adding at the end the following paragraph:
+      > - **(7)** To the extent consistent with the regulation of devices, the provisions of section 505(b)(7) (relating to clinical data submission) apply with respect to an application for premarket approval of a device under subsection (c) of this section to the same extent and in the same manner as such provisions apply with respect to an application for premarket approval of a drug under section 505(b).
 
-- **(g)** *GAO study* Not later than 2 years after the date of enactment of this section, the Comptroller General of the United States shall study the drug approval processes of the Food and Drug Administration to ensure that the Food and Drug Administration is complying with the amendments made by this section.
+  - **(2)** *Investigational devices* Section 520(g)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(g)(2)) is amended by adding at the end the following subparagraph:
+    > - **(D)** To the extent consistent with the regulation of devices, the provisions of section 505(i)(5) (relating to individual study information) apply with respect to an application for an exemption pursuant to subparagraph (A) of this paragraph to the same extent and in the same manner as such provisions apply with respect to an application for an exemption under section 505(i).
 
-## § 4. Reporting and analysis of patient safety data
+- **(d)** *Rules of construction* This Act and the amendments made by this Act may not be construed—
+  - **(1)** as establishing new requirements under the Federal Food, Drug, and Cosmetic Act relating to the design of clinical investigations that were not otherwise in effect on the day before the date of the enactment of this Act; or
+  - **(2)** as having any effect on the authority of the Secretary of Health and Human Services to enforce regulations under the Federal Food, Drug, and Cosmetic Act that are not expressly referenced in this Act or the amendments made by this Act.
+- **(e)** *Application* This section and the amendments made by this section apply only with respect to applications received under section 505 or 515 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355, 360e) or section 351 of the Public Health Service Act (42 U.S.C. 262) on or after the date of the enactment of this Act.
+
+## § 3. Reporting and analysis of patient safety data
 
 - **(a)** *Data standards* Section 923(b) of the Public Health Service Act (42 U.S.C. 299b–23(b)) is amended by adding at the end the following: “The Secretary shall provide that all nonidentifiable patient safety work product reported to and among the network of patient safety databases be stratified by sex.”.
 - **(b)** *Use of information* Section 923(c) of the Public Health Service Act (42 U.S.C. 299b–23(c)) is amended by adding at the end the following: “Such analyses take into account data that specifically relates to women and any disparities between treatment and the quality of care between males and females.”.
 
-## § 5. Quality of care reports by the Agency for Healthcare Research and Quality
+## § 4. Quality of care reports by the Agency for Healthcare Research and Quality
 
 Section 903 of the Public Health Service Act (42 U.S.C. 299a–1) is amended—
 
 - **(1)** in subsection (b)(1)(B), by inserting before the semicolon the following: “, including quality of and access to care for women with heart disease, stroke, and other cardiovascular diseases”; and
 - **(2)** in subsection (c), by adding at the end the following:
-  > - **(4)** *Annual report on women and heart disease* Not later than September 30, 2007, and annually thereafter, the Secretary, acting through the Director, shall prepare and submit to Congress a report concerning the findings related to the quality of and access to care for women with heart disease, stroke, and other cardiovascular diseases. The report shall contain recommendations for eliminating disparities in, and improving the treatment of, heart disease, stroke, and other cardiovascular diseases in women.
+  > - **(4)** *Annual report on women and heart disease* Not later than September 30, 2009, and annually thereafter, the Secretary, acting through the Director, shall prepare and submit to Congress a report concerning the findings related to the quality of and access to care for women with heart disease, stroke, and other cardiovascular diseases. The report shall contain recommendations for eliminating disparities in, and improving the treatment of, heart disease, stroke, and other cardiovascular diseases in women.
 
-## § 6. Educational campaigns
+## § 5. Educational campaigns
 
 - **(a)** *Distribution of educational material* The Secretary of Health and Human Services (referred to in this section as the Secretary) shall develop and distribute to females who are age 65 or older, physicians, and other appropriate healthcare professionals, educational materials relating to the prevention, diagnosis, and treatment of heart disease, stroke, and cardiovascular diseases in women. The Secretary may carry out this subsection through contracts with public and private nonprofit entities.
 - **(b)** *Healthcare professional educational campaign* The Secretary, acting through the Bureau of Health Professions of the Health Resources and Services Administration, shall conduct an education and awareness campaign for physicians and other healthcare professionals relating to the prevention, diagnosis, and treatment of heart disease, stroke, and other cardiovascular diseases in women. The Bureau of Health Professions may carry out this subsection through contracts with public and private nonprofit entities.
 
-## § 7. Extension of WISEWOMAN
+## § 6. Extension of WISEWOMAN program
 
-There are authorized to be appropriated such sums as may be necessary for each fiscal year to enable the Director of the Centers for Disease Control and Prevention to implement Well-Integrated Screening and Evaluation for Women Across the Nation (WISEWOMAN) program projects in all States and territories, which may include projects among Indian tribes.
+Section 1509 of the Public Health Service Act (42 U.S.C. 300n–4a) is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** by striking the heading and inserting “In general.—”; and
+  - **(B)** in the matter preceding paragraph (1), by striking “may make grants” and all that follows through “purpose” and inserting the following: “may make grants to such States for the purpose”; and
+- **(2)** in subsection (d)(1), by striking “there are authorized” and all that follows through the period and inserting “there are authorized to be appropriated $37,000,000 for fiscal year 2009, $38,850,000 for fiscal year 2010, $40,792,500 for fiscal year 2011, $42,832,000 for fiscal year 2012, and $44,974,000 for fiscal year 2013.”.
