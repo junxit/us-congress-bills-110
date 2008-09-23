@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6983
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 6 executed, 25 stated and not applied.
+33 amendatory instructions. 8 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -77,6 +77,24 @@ to guess them.
 |---|---|
 | Removed | `mental health benefits` |
 | Inserted | `mental health or substance use disorder benefits` |
+
+### 26 U.S.C. § 864
+
+> Paragraphs (5)(D) and (6) of section 864(f) of the Internal Revenue Code of 1986 are each amended by striking “December 31, 2010” and inserting “December 31, 2012”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2010` |
+| Inserted | `December 31, 2012` |
+
+### 26 U.S.C. § 864
+
+> Paragraph (7) of section 864(f) of such Code is amended by striking “30 percent” and inserting “85 percent”.
+
+| | |
+|---|---|
+| Removed | `30 percent` |
+| Inserted | `85 percent` |
 
 ## Stated, not applied
 
