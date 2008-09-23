@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5352
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5352
@@ -28,6 +28,10 @@ Elder Abuse Victims Act of 2008
 - House — Ways and Means Committee
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2008-09-23 — [House 110-2-626](votes/house-110-2-0626.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (387–28)
+
 ## Actions
 
 - 2008-02-12 — Introduced in House
@@ -53,3 +57,8 @@ Elder Abuse Victims Act of 2008
 - 2008-09-22 — Placed on the Union Calendar, Calendar No. 561.
 - 2008-09-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-864, Part I.
 - 2008-09-22 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-864, Part I.
+- 2008-09-23 — Considered as unfinished business. (consideration: CR H8658)
+- 2008-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 28 (Roll no. 626). (text: CR H 9/22/2008 H8658)
+- 2008-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 387 - 28 (Roll no. 626).(text: CR H 9/22/2008 H8658)
+- 2008-09-23 — The title of the measure was amended. Agreed to without objection.
