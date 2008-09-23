@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6984
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-31 amendatory instructions. 14 executed, 17 stated and not applied.
+31 amendatory instructions. 15 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 26 U.S.C. § 4261
+### 26 U.S.C. § 4081
 
 > Subparagraph (B) of section 4081(d)(2) of the Internal Revenue Code of 1986 is amended by striking “September 30, 2008” and inserting “March 31, 2009”.
 
@@ -51,6 +51,15 @@ to guess them.
 | Removed | `September 30, 2008` |
 | Inserted | `March 31, 2009` |
 
+### 26 U.S.C. § 9502
+
+> by striking “October 1, 2008” and inserting “April 1, 2009”, and
+
+| | |
+|---|---|
+| Removed | `October 1, 2008` |
+| Inserted | `April 1, 2009` |
+
 ### 49 U.S.C. § 48103
 
 > Section 47104(c) of such title is amended by striking “September 30, 2008,” and inserting “March 31, 2009,”.
@@ -60,7 +69,7 @@ to guess them.
 | Removed | `September 30, 2008,` |
 | Inserted | `March 31, 2009,` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > Section 40117(l)(7) of title 49, United States Code, is amended by striking “September 30, 2008.” and inserting “April 1, 2009.”.
 
@@ -69,7 +78,7 @@ to guess them.
 | Removed | `September 30, 2008.` |
 | Inserted | `April 1, 2009.` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > Section 41743(e)(2) of such title is amended by striking “2008” and inserting “2009”.
 
@@ -78,7 +87,7 @@ to guess them.
 | Removed | `2008` |
 | Inserted | `2009` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > by striking “November 30, 2008,” and inserting “March 31, 2009,”; and
 
@@ -87,7 +96,7 @@ to guess them.
 | Removed | `November 30, 2008,` |
 | Inserted | `March 31, 2009,` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > by striking “December 31, 2008,” and inserting “May 31, 2009,”.
 
@@ -96,7 +105,7 @@ to guess them.
 | Removed | `December 31, 2008,` |
 | Inserted | `May 31, 2009,` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > Section 44303(b) of such title is amended by striking “March 31, 2009,” and inserting “May 31, 2009,”.
 
@@ -105,7 +114,7 @@ to guess them.
 | Removed | `March 31, 2009,` |
 | Inserted | `May 31, 2009,` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > Section 47107(s)(3) of such title is amended by striking “October 1, 2008.” and inserting “April 1, 2009.”.
 
@@ -114,7 +123,7 @@ to guess them.
 | Removed | `October 1, 2008.` |
 | Inserted | `April 1, 2009.` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > Section 47141(f) of such title is amended by striking “September 30, 2008.” and inserting “March 31, 2009.”.
 
@@ -123,7 +132,7 @@ to guess them.
 | Removed | `September 30, 2008.` |
 | Inserted | `March 31, 2009.` |
 
-### 49 U.S.C. § 47109
+### 49 U.S.C. § 40117
 
 > Section 49108 of such title is amended by striking “October 1, 2008,” and inserting “March 31, 2009,”.
 
@@ -159,20 +168,19 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking “October 1, 2008” and inserting “April 1, 2009”, and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or the Federal Aviation Administration Extension Act of 2008, Part II” before the semicolon at the end of subparagraph (A). | the bill names no machine-readable US Code section |
-| — | replace | Paragraph (2) of section 9502(e) of such Code is amended by striking the date specified in such paragraph and inserting “April 1, 2009”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 9502` | insert | by inserting “or the Federal Aviation Administration Extension Act of 2008, Part II” before the semicolon at the end of subparagraph (A). | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 9502` | replace | Paragraph (2) of section 9502(e) of such Code is amended by striking the date specified in such paragraph and inserting “April 1, 2009”. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 48103` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 48103` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 48103` | insert | by inserting after paragraph (5) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 47109` | insert | Section 47115(j) of such title is amended by inserting “and for the portion of fiscal year 2009 ending before April 1, 2009,” after “2008,”. | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 47109` | insert | Section 186(d) of such Act (117 Stat. 2518) is amended by inserting “and for the portion of fiscal year 2009 ending before April 1, 2009,” after “2008,”. | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 40117` | insert | Section 47115(j) of such title is amended by inserting “and for the portion of fiscal year 2009 ending before April 1, 2009,” after “2008,”. | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 40117` | insert | Section 186(d) of such Act (117 Stat. 2518) is amended by inserting “and for the portion of fiscal year 2009 ending before April 1, 2009,” after “2008,”. | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 106` | strike | by striking “and” at the end of subparagraph (C); | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 106` | replace | by striking the period at the end of subparagraph (D) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `49 U.S.C. § 106` | insert | by inserting after subparagraph (D) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 48101` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `49 U.S.C. § 48101` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 48101` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | strike | by striking “and” at the end of paragraph (11)(K); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (12)(L) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 48101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 48102` | strike | by striking “and” at the end of paragraph (11)(K); | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 48102` | replace | by striking the period at the end of paragraph (12)(L) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `49 U.S.C. § 48102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
