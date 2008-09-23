@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1435
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1435
@@ -16,7 +16,7 @@ Recognizing the 70th anniversary of the 1938 occurrence of Kristallnacht, The Ni
 
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
 
-## Cosponsors (36)
+## Cosponsors (43)
 
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
@@ -54,6 +54,13 @@ Recognizing the 70th anniversary of the 1938 occurrence of Kristallnacht, The Ni
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. Nadler, Jerrold [D-NY-8] (N000002)
 - Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Wolf, Frank R. [R-VA-10] (W000672)
+- Rep. Gutierrez, Luis V. [D-IL-4] (G000535)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
 
 ## Committees (1)
 
@@ -64,3 +71,9 @@ Recognizing the 70th anniversary of the 1938 occurrence of Kristallnacht, The Ni
 - 2008-09-15 — Introduced in House
 - 2008-09-15 — Introduced in House
 - 2008-09-15 — Referred to the House Committee on Foreign Affairs.
+- 2008-09-23 — Considered under suspension of the rules. (consideration: CR H8637-8638)
+- 2008-09-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1435.
+- 2008-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-23 — Mr. Scott (GA) moved to suspend the rules and agree to the resolution.
+- 2008-09-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8637)
+- 2008-09-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8637)
