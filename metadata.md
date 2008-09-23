@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1402
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1402
@@ -16,7 +16,7 @@ Supporting a transition to democracy through free, fair, credible, peaceful, and
 
 - Rep. Crowley, Joseph [D-NY-7] (C001038)
 
-## Cosponsors (39)
+## Cosponsors (41)
 
 - Rep. King, Peter T. [R-NY-3] (K000210)
 - Rep. Weiner, Anthony D. [D-NY-9] (W000792)
@@ -57,6 +57,8 @@ Supporting a transition to democracy through free, fair, credible, peaceful, and
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Scott, David [D-GA-13] (S001157)
 - Rep. Blumenauer, Earl [D-OR-3] (B000574)
+- Rep. Rothman, Steven R. [D-NJ-9] (R000462)
+- Rep. Moran, James P. [D-VA-8] (M000933)
 
 ## Committees (1)
 
@@ -67,3 +69,9 @@ Supporting a transition to democracy through free, fair, credible, peaceful, and
 - 2008-07-31 — Introduced in House
 - 2008-07-31 — Introduced in House
 - 2008-07-31 — Referred to the House Committee on Foreign Affairs.
+- 2008-09-23 — Considered under suspension of the rules. (consideration: CR H8635-8637)
+- 2008-09-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1402.
+- 2008-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-23 — Mr. Crowley moved to suspend the rules and agree to the resolution.
+- 2008-09-23 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H8635-8636)
+- 2008-09-23 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H8635-8636)
