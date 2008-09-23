@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6353
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 21 U.S.C. § 823
+### 21 U.S.C. § 830
 
 > in the second sentence, by striking “if he determines that the issuance of such registration” and inserting “or such modification of registration if the Attorney General determines that the issuance of such registration or modification”.
 
@@ -97,15 +97,15 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `21 U.S.C. § 829` | add-at-end | Section 309 of the Controlled Substances Act (21 U.S.C. 829) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 802` | add-at-end | Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 823` | amend | in the first sentence, by adding after “schedule II, III, IV, or V” the following: “and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 830` | add-at-end | Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 830` | amend | in the first sentence, by adding after “schedule II, III, IV, or V” the following: “and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 830` | insert | The Controlled Substances Act is amended by inserting after section 310 (21 U.S.C. 830) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 830` | insert | The table of contents for the Comprehensive Drug Abuse Prevention and Control Act of 1970 (Public Law 91–513; 84 Stat. 1236) is amended by inserting after the item relating to section 310 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 841` | strike | in subparagraph (D), by striking “or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam”; and | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 841` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 841` | add-at-end | by adding at the end the following “Any sentence imposing a term of imprisonment under this paragraph may, if there was a prior conviction, impose a term of supervised release of not more than 1 year, in addition to such term of imprison… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 841` | add-at-end | Section 401 of the Controlled Substances Act (21 U.S.C. 841) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 882` | add-at-end | Section 512 of the Controlled Substances Act (21 U.S.C. 882) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2` | add-at-end | Section 401 of the Controlled Substances Act (21 U.S.C. 841) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 830` | add-at-end | Section 512 of the Controlled Substances Act (21 U.S.C. 882) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 960` | strike | by striking “or any quantity of a controlled substance in schedule III, IV, or V, (except a violation involving flunitrazepam and except a violation involving gamma hydroxybutyric acid)”; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 960` | insert | by inserting “or” before “less than one kilogram of hashish oil”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 960` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
