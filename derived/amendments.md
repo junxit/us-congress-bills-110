@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6908
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `29 U.S.C. § 1182` | insert | Section 702(a)(2)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1182(a)(2)(B)) is amended by inserting before the period at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 300gg-1` | insert | Section 2702(a)(2)(B) of the Public Health Service Act (42 U.S.C. 300gg–1(a)(2)(B)) is amended by inserting before the period at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 9802` | insert | Section 9802(a)(2)(B) of the Internal Revenue Code of 1986 is amended by inserting before the period at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1182` | insert | Section 9802(a)(2)(B) of the Internal Revenue Code of 1986 is amended by inserting before the period at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
