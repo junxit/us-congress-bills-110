@@ -2,105 +2,35 @@
 legis-num: H.R. 5834
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 5834
 
-> To amend the North Korean Human Rights Act of 2004 to promote respect for the fundamental human rights of the people of North Korea, and for other purposes.
+That the bill from the House of Representatives (H.R. 5834) entitled “An Act to amend the North Korean Human Rights Act of 2004 to promote respect for the fundamental human rights of the people of North Korea, and for other purposes.”, do pass with the following
 
-## § 1. Short title
+*(1)On page 3, beginning on line 4, strike the comma and all that follows to the end period and insert the following: “and has increased the bounty paid for turning in North Korean refugees”.*
 
-This Act may be cited as the “North Korean Human Rights Reauthorization Act of 2008”.
+*(2)On page 3, beginning on line 11, strike “, including” and all that follows through “killings” on line 17.*
 
-## § 2. Findings
+*(3)On page 4, line 4, strike “On February”, and insert the following: “Since the passage of the North Korean Human Rights Act, Congress has on several occasions expressed interest in the status of North Korean refugees, and on February”.*
 
-Congress finds the following:
+*(4)On page 4, line 19, strike “at overseas posts”.*
 
-- **(1)** The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) (in this section referred to as “the Act”) was the product of broad, bipartisan consensus in Congress regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and refugee protection.
-- **(2)** In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many in the two-million strong Korean-American community have family ties to North Korea.
-- **(3)** Human rights and humanitarian conditions inside North Korea are deplorable, North Korean refugees remain acutely vulnerable, and the findings in section 3 of the Act remain accurate today.
-- **(4)** The Government of China is conducting an increasingly aggressive campaign to locate and forcibly return border-crossers to North Korea, where they routinely face torture and imprisonment, and sometimes execution. According to recent reports, the Chinese Government is shutting down Christian churches and imprisoning people who help North Korean defectors, and has increased the bounty paid for turning in a North Korean refugee by a factor of sixteen, to an amount roughly equivalent to the average annual income in China.
-- **(5)** In an attempt to deter escape attempts, the Government of North Korea has reportedly stepped up its public execution of border-crossers and those who help others cross into China, including the February 20, 2008, shooting of 13 women and 2 men in Onsung County, and the March 30, 2008, execution of three residents in Hyesan. As is commonly the case, employees and residents of nearby institutions, enterprises, and neighborhoods were required to attend and observe those killings.
-- **(6)** In spite of the requirement of the Act that the Special Envoy on Human Rights in North Korea (the “Special Envoy”) report to the Congress no later than April 16, 2005, a Special Envoy was not appointed until August 19, 2005, more than four months after the reporting deadline.
-- **(7)** The Special Envoy appointed by the President has filled that position on a part-time basis only.
-- **(8)** On February 21, 2006, a bipartisan group of senior Members of the House and Senate wrote Secretary of State Condoleezza Rice “to express [their] deep concern for the lack of progress in funding and implementing the key provisions of the North Korean Human Rights Act”, particularly the lack of North Korean refugee admissions to the United States.
-- **(9)** Although the United States refugee resettlement program remains the largest in the world by far, the United States has resettled only 37 North Koreans in the period from 2004 through 2007.
-- **(10)** From the end of 2004 through 2007, the Republic of Korea resettled 5,961 North Koreans.
-- **(11)** Extensive delays in assessment and processing at overseas posts have led numerous North Korean refugees to abandon their quest for United States resettlement, and long waits (of more than a year in some cases) have been the source of considerable discouragement and frustration among refugees, many of whom are awaiting United States resettlement in circumstances that are unsafe and insecure.
-- **(12)** From 2000 through 2006, the United States granted asylum to 15 North Koreans, as compared to 60 North Korean asylum grantees in the United Kingdom, and 135 in Germany during that same period.
+*(5)On page 5, line 10, after “should”, insert “continue to”.*
 
-## § 3. Sense of Congress
+*(6)On page 6, line 3, strike “rights, humanitarian, and refugee issues,” and insert the following: “rights and humanitarian issues, and to participate in policy planning and implementation with respect to refugee issues,”.*
 
-It is the sense of Congress that—
+*(7)On page 7, line 20, strike “$4,000,000” and insert “$2,000,000”.*
 
-- **(1)** the United States should make it a priority to seek broader permission and greater cooperation from foreign governments to allow the United States to process North Korean refugees overseas for resettlement in the United States, through persistent diplomacy by senior officials of the United States, including United States ambassadors to Asia-Pacific nations;
-- **(2)** at the same time that careful screening of intending refugees is important, the United States also should make every effort to ensure that its screening, processing, and resettlement of North Korean refugees are as efficient and expeditious as possible;
-- **(3)** the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights, humanitarian, and refugee issues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.);
-- **(4)** in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availed themselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea; and
-- **(5)** because there are genuine refugees among North Koreans fleeing into China who face severe punishments upon their forcible return, the United States should urge the Government of China to—
-  - **(A)** immediately halt its forcible repatriation of North Koreans;
-  - **(B)** fulfill its obligations pursuant to the 1951 United Nations Convention Relating to the Status of Refugees, the 1967 Protocol Relating to the Status of Refugees, and the 1995 Agreement on the Upgrading of the UNHCR Mission in the People’s Republic of China to UNHCR Branch Office in the People’s Republic of China; and
-  - **(C)** allow the United Nations High Commissioner for Refugees (UNHCR) unimpeded access to North Koreans inside China to determine whether they are refugees and whether they require assistance.
+*(8)On page 9, line 13, after “including”, insert the following: “, in coordination with the Bureau of Population, Refugees, and Migration,”.*
 
-## § 4. Definitions
+*(9)On page 9, line 21, strike “coordinate” and insert “participate in the formulation and”.*
 
-Section 5(1)(A) of the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7803(1)(A)) is amended by striking “International Relations” and inserting “Foreign Affairs”.
+*(10)On page 11, line 13, strike “paragraphs” and insert “paragraph”.*
 
-## § 5. Support for human rights and democracy programs
+*(11)On page 11, strike line 14 and all that follows through line 19.*
 
-Section 102(b)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7812(b)(1)) is amended by inserting after “2008” the following: “and $4,000,000 for each of fiscal years 2009 through 2012”.
+*(12)On page 11, line 20, strike “(4)” and insert “(3)”.*
 
-## § 6. Radio broadcasting to North Korea
-
-Not later than 120 days after the date of the enactment of this Act, the Broadcasting Board of Governors (BBG) shall submit to the appropriate congressional committees, as defined in section 5(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7803(1)), a report that describes the status and content of current United States broadcasting to North Korea and the extent to which the BBG has achieved the goal of 12-hour-per-day broadcasting to North Korea pursuant to section 103 of such Act (22 U.S.C. 7813).
-
-## § 7. Actions to promote freedom of information
-
-Section 104 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7814) is amended—
-
-- **(1)** in subsection (b)(1), by striking “2008” and inserting “2012”; and
-- **(2)** in subsection (c), by striking “in each of the 3 years thereafter” and inserting “annually through 2012”.
-
-## § 8. Special envoy on North Korean human rights issues
-
-Section 107 of the North Korean Human Rights Act of 2004 (22 U.S.C. 7817) is amended—
-
-- **(1)** in the section heading, by striking “HUMAN RIGHTS IN NORTH KOREA” and inserting “NORTH KOREAN HUMAN RIGHTS ISSUES”;
-- **(2)** in subsection (a)—
-  - **(A)** in the first sentence—
-    - **(i)** by striking “human rights in North Korea” and inserting “North Korean human rights issues”; and
-    - **(ii)** by inserting before the period at the end the following: “, by and with the advice and consent of the Senate”;
-  - **(B)** in the second sentence, by inserting before the period at the end the following: “who shall have the rank of ambassador and shall hold the office at the pleasure of the President”;
-- **(3)** in subsection (b), by inserting before the period at the end the following: “, including the protection of those people who have fled as refugees”;
-- **(4)** in subsection (c)—
-  - **(A)** by redesignating paragraphs (1) through (6) as paragraphs (2) through (7), respectively;
-  - **(B)** by inserting before paragraph (2), as so redesignated, the following new paragraph:
-    > - **(1)** coordinate the implementation of activities carried out pursuant to this Act;
-
-  - **(C)** in paragraph (5), as so redesignated, by striking “section 102” and inserting “sections 102 and 104”; and
-- **(5)** in subsection (d), by striking “for the subsequent 5 year-period” and inserting “thereafter through 2012”.
-
-## § 9. Report on United States humanitarian assistance
-
-Section 201(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7831(a)) is amended, in the matter preceding paragraph (1), by striking “in each of the 2 years thereafter” and inserting “annually thereafter through 2012”.
-
-## § 10. Assistance provided outside of North Korea
-
-Section 203(c)(1) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7833(c)(1)) is amended by striking “2008” and inserting “2012”.
-
-## § 11. Annual reports
-
-Section 305(a) of the North Korean Human Rights Act of 2004 (22 U.S.C. 7845(a)) is amended—
-
-- **(1)** in the subsection heading, by inserting “and refugee” before “information”;
-- **(2)** in the matter preceding paragraph (1)—
-  - **(A)** by striking “for each of the following 5 years” and inserting “through 2012”; and
-  - **(B)** by striking “which shall include—” and inserting “which shall include the following:”;
-- **(3)** in paragraph (1)—
-  - **(A)** by striking “the number of aliens” and inserting “The number of aliens”; and
-  - **(B)** by striking “; and” at the end and inserting a period;
-- **(4)** in paragraph (2), by striking “the number of aliens” and inserting “The number of aliens”; and
-- **(5)** by adding at the end the following new paragraphs:
-  > - **(3)** The number of aliens who are nationals or citizens of North Korea who contacted United States personnel overseas and expressed an interest in pursuing resettlement in the United States, irrespective of whether such aliens pursued the resettlement process to its conclusion.
-  > - **(4)** A detailed description of the measures undertaken by the Secretary of State to carry out section 303, including country-specific information with respect to United States efforts to secure the cooperation and permission of the governments of countries in East and Southeast Asia to facilitate United States processing of North Koreans seeking protection as refugees. The information required under this paragraph may be provided in a classified format, if necessary.
+*(13)On page 12, lines 3 and 4, strike “may be provided in a classified format, if necessary” and insert the following: “shall be provided in unclassified form, with a classified annex, if necessary”.*
