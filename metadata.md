@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 598
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 598
@@ -16,7 +16,7 @@ A resolution expressing the sense of the Senate regarding the need for the Unite
 
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
-## Cosponsors (10)
+## Cosponsors (14)
 
 - Sen. Snowe, Olympia J. [R-ME] (S000663)
 - Sen. Boxer, Barbara [D-CA] (B000711)
@@ -28,6 +28,10 @@ A resolution expressing the sense of the Senate regarding the need for the Unite
 - Sen. Bayh, Evan [D-IN] (B001233)
 - Sen. Stabenow, Debbie [D-MI] (S000770)
 - Sen. Feingold, Russell D. [D-WI] (F000061)
+- Sen. Hagel, Chuck [R-NE] (H001028)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Nelson, Bill [D-FL] (N000032)
 
 ## Committees (1)
 
@@ -38,3 +42,7 @@ A resolution expressing the sense of the Senate regarding the need for the Unite
 - 2008-06-24 — Introduced in Senate
 - 2008-06-24 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S6024-6025)
 - 2008-06-24 — Sponsor introductory remarks on measure. (CR S6025)
+- 2008-09-23 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2008-09-23 — Committee on Foreign Relations. Reported by Senator Dodd without amendment and with a preamble. Without written report.
+- 2008-09-23 — Committee on Foreign Relations. Reported by Senator Dodd without amendment and with a preamble. Without written report.
+- 2008-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1049.
