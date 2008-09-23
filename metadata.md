@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6853
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6853
@@ -51,3 +51,4 @@ Nationwide Mortgage Fraud Coordinator Act of 2008
 - 2008-09-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 23 (Roll no. 618). (text: CR H8517-8518)
 - 2008-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 23 (Roll no. 618).(text: CR H8517-8518)
 - 2008-09-22 — The title of the measure was amended. Agreed to without objection.
+- 2008-09-23 — Received in the Senate.
