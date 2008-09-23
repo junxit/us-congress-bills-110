@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1014
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 0 executed, 24 stated and not applied.
+18 amendatory instructions. 3 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 21 U.S.C. § 355
+
+> by striking “drug, and (G)” and inserting “drug; (G)”; and
+
+| | |
+|---|---|
+| Removed | `drug, and (G)` |
+| Inserted | `drug; (G)` |
+
+### 21 U.S.C. § 355
+
+> in paragraph (2), by striking “Subject to paragraph (3),” and inserting “Subject to paragraphs (3) and (5),” ; and
+
+| | |
+|---|---|
+| Removed | `Subject to paragraph (3),` |
+| Inserted | `Subject to paragraphs (3) and (5),` |
+
+### 42 U.S.C. § 300n-4a
+
+> in subsection (d)(1), by striking “there are authorized” and all that follows through the period and inserting “there are authorized to be appropriated $37,000,000 for fiscal year 2009, $38,850,000 for fiscal year 2010, $40,792,500 for fiscal year 2011, $42,832,000 for fiscal year 2012, and $44,974,000 for fiscal year 2013.”.
+
+| | |
+|---|---|
+| Removed | `there are authorized` |
+| Inserted | `there are authorized to be appropriated $37,000,000 for fiscal year 2009, $38,850,000 for fiscal year 2010, $40,792,500 for fiscal year 2011, $42,832,000 for fiscal year 2012, and $44,974,000 for fiscal year 2013.` |
 
 ## Stated, not applied
 
@@ -31,27 +60,18 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 355` | add-at-end | Section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | insert | in paragraph (2), by inserting “and paragraph (5)” after “Subject to paragraph (3)”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | insert | in paragraph (2)(A), by inserting before the period at the end the following: “, subject to paragraph (10)”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | add-at-end | in paragraph (3)(A), by adding at the end the following: “The Secretary shall require such individuals who review such applications to ensure that such applications include the information on sex, race, and ethnicity data required under … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | strike | in subparagraph (J), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 355` | replace | in subparagraph (K), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 355` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 355` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360e` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 360e` | replace | in subparagraph (G), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 360e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360e` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360e` | strike | in subparagraph (D), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `21 U.S.C. § 360e` | replace | in subparagraph (E), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `21 U.S.C. § 360e` | insert | by inserting after subparagraph (E), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360e` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360j` | add-at-end | in subparagraph (B), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360j` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 262` | add-at-end | Section 351(a)(2) of the Public Health Service Act (42 U.S.C. 262) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 299b-23` | amend | Section 923(b) of the Public Health Service Act (42 U.S.C. 299b–23(b)) is amended by adding at the end the following: “The Secretary shall provide that all nonidentifiable patient safety work product reported to and among the network of … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | insert | by inserting before the period the following: “; and (H) the information required under paragraph (7)”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 314` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | Section 351 of the Public Health Service Act (42 U.S.C. 262) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360e` | strike | by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 360e` | redesignate | by redesignating subparagraph (H) as subparagraph (I); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360e` | insert | by inserting after subparagraph (G) the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360e` | add-at-end | in subsection (d), by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 360j` | add-at-end | Section 520(g)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(g)(2)) is amended by adding at the end the following subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 299b-23` | add-at-end | Section 923(b) of the Public Health Service Act (42 U.S.C. 299b–23(b)) is amended by adding at the end the following: “The Secretary shall provide that all nonidentifiable patient safety work product reported to and among the network of … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 299b-23` | add-at-end | Section 923(c) of the Public Health Service Act (42 U.S.C. 299b–23(c)) is amended by adding at the end the following: “Such analyses take into account data that specifically relates to women and any disparities between treatment and the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 299a-1` | insert | in subsection (b)(1)(B), by inserting before the semicolon the following: “, including quality of and access to care for women with heart disease, stroke, and other cardiovascular diseases”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 299a-1` | add-at-end | in subsection (c), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300n-4a` | replace | by striking the heading and inserting “In general.—”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 300n-4a` | replace | in the matter preceding paragraph (1), by striking “may make grants” and all that follows through “purpose” and inserting the following: “may make grants to such States for the purpose”; and | the bill quotes the text struck but describes what replaces it |
