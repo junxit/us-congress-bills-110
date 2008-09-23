@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 758
@@ -16,7 +16,7 @@ Breast Cancer Patient Protection Act of 2008
 
 - Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
 
-## Cosponsors (127)
+## Cosponsors (223)
 
 - Rep. Ackerman, Gary L. [D-NY-5] (A000022)
 - Rep. Allen, Thomas H. [D-ME-1] (A000357)
@@ -145,6 +145,102 @@ Breast Cancer Patient Protection Act of 2008
 - Rep. Wynn, Albert Russell [D-MD-4] (W000784)
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Boyda, Nancy E. [D-KS-2] (B001258)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
+- Rep. Etheridge, Bob [D-NC-2] (E000226)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Oberstar, James L. [D-MN-8] (O000006)
+- Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
+- Rep. Frelinghuysen, Rodney P. [R-NJ-11] (F000372)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Altmire, Jason [D-PA-4] (A000362)
+- Rep. Upton, Fred [R-MI-6] (U000031)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Edwards, Chet [D-TX-17] (E000063)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Snyder, Vic [D-AR-2] (S000672)
+- Rep. Saxton, Jim [R-NJ-3] (S000097)
+- Rep. Kagen, Steve [D-WI-8] (K000365)
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Peterson, Collin C. [D-MN-7] (P000258)
+- Rep. Cardoza, Dennis A. [D-CA-18] (C001050)
+- Rep. Alexander, Rodney [R-LA-5] (A000361)
+- Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Moran, Jerry [R-KS-1] (M000934)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Issa, Darrell E. [R-CA-49] (I000056)
+- Rep. Abercrombie, Neil [D-HI-1] (A000014)
+- Rep. Murphy, Christopher [D-CT-5] (M001169)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Langevin, James R. [D-RI-2] (L000559)
+- Rep. Boren, Dan [D-OK-2] (B001254)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. Murtha, John P. [D-PA-12] (M001120)
+- Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
+- Rep. Walsh, James T. [R-NY-25] (W000099)
+- Rep. Davis, Geoff [R-KY-4] (D000603)
+- Rep. Boyd, Allen [D-FL-2] (B000716)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Lantos, Tom [D-CA-12] (L000090)
+- Rep. Skelton, Ike [D-MO-4] (S000465)
+- Rep. Salazar, John T. [D-CO-3] (S001158)
+- Rep. McNerney, Jerry [D-CA-11] (M001166)
+- Rep. Baird, Brian [D-WA-3] (B001229)
+- Rep. Lewis, Ron [R-KY-2] (L000293)
+- Rep. Costello, Jerry F. [D-IL-12] (C000794)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Goode, Virgil H., Jr. [R-VA-5] (G000280)
+- Rep. Jones, Stephanie Tubbs [D-OH-11] (J000284)
+- Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
+- Rep. Sestak, Joe [D-PA-7] (S001169)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Rush, Bobby L. [D-IL-1] (R000515)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Rogers, Mike J. [R-MI-8] (R000572)
+- Rep. Latham, Tom [R-IA-4] (L000111)
+- Rep. Rodriguez, Ciro D. [D-TX-23] (R000568)
+- Rep. Platts, Todd Russell [R-PA-19] (P000585)
+- Rep. Schwartz, Allyson Y. [D-PA-13] (S001162)
+- Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
+- Rep. Castor, Kathy [D-FL-11] (C001066)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Herseth Sandlin, Stephanie [D-SD-At Large] (H001037)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Rep. Becerra, Xavier [D-CA-31] (B000287)
+- Rep. Watson, Diane E. [D-CA-33] (W000794)
+- Rep. Butterfield, G. K. [D-NC-1] (B001251)
+- Rep. Welch, Peter [D-VT-At Large] (W000800)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Bean, Melissa L. [D-IL-8] (B001253)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. Wittman, Robert J. [R-VA-1] (W000804)
+- Rep. Carson, Andre [D-IN-7] (C001072)
+- Rep. Sarbanes, John P. [D-MD-3] (S001168)
+- Rep. Roskam, Peter J. [R-IL-6] (R000580)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Shea-Porter, Carol [D-NH-1] (S001170)
 
 ## Committees (3)
 
@@ -160,3 +256,20 @@ Breast Cancer Patient Protection Act of 2008
 - 2007-01-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2007-01-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2007-02-02 — Referred to the Subcommittee on Health.
+- 2007-02-20 — Referred to the Subcommittee on Health.
+- 2007-05-18 — Referred to the Subcommittee on Health, Employment, Labor, and Pensions.
+- 2008-05-21 — Subcommittee Hearings Held.
+- 2008-09-17 — Committee Consideration and Mark-up Session Held.
+- 2008-09-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-09-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-23 — Committee on Education and Labor discharged.
+- 2008-09-23 — Committee on Education and Labor discharged.
+- 2008-09-23 — Committee on Ways and Means discharged.
+- 2008-09-23 — Committee on Ways and Means discharged.
+- 2008-09-23 — Considered under suspension of the rules. (consideration: CR H8661-8666)
+- 2008-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 758.
+- 2008-09-23 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
+- 2008-09-23 — Placed on the Union Calendar, Calendar No. 564.
+- 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-868, Part I.
+- 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-868, Part I.

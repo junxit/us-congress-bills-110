@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,8 +34,11 @@ complete account of the bill's effect, which it is not.
 | `29 U.S.C. § 1185` | add-at-end | Subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1185` | insert | The table of contents in section 1 of the Employee Retirement Income Security Act of 1974 is amended by inserting after the item relating to section 713 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subpart 2 of part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–4 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding after section 2752 the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating such subpart 3 as subpart 2. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subpart 2 of part B of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–51 et seq.) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | in the table of sections, by inserting after the item relating to section 9812 the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after section 9812 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents for chapter 100 of such Code is amended by inserting after the item relating to section 9812 the following: | the bill names no machine-readable US Code section |
+| — | insert | in its heading, by inserting “, continuation in force, including prohibition of rescission,” after “Guaranteed renewability”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (a), by inserting “, including without rescission,” after “continue in force”; and | the bill names no machine-readable US Code section |
+| — | insert | in subsection (b)(2), by inserting before the period at the end the following: “, including intentional concealment of material facts regarding a health condition related to the condition for which coverage is being claimed”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Subpart 1 of part B of title XXVII of the Public Health Service Act is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
