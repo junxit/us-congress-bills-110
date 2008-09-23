@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 758
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Breast Cancer Patient Protection Act of 2007”.
+This Act may be cited as the “Breast Cancer Patient Protection Act of 2008”.
 
 ## § 2. Findings
 
@@ -62,11 +62,11 @@ Congress finds that—
   >
   > - **(a)** *Inpatient care*
   >   - **(1)** *In general* A group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan, that provides medical and surgical benefits shall ensure that inpatient (and in the case of a lumpectomy, outpatient) coverage and radiation therapy is provided for breast cancer treatment. Such plan or coverage may not—
-  >     - **(A)** except as provided for in paragraph (2)—
+  >     - **(A)** insofar as the attending physician, in consultation with the patient, determines it to be medically necessary—
   >       - **(i)** restrict benefits for any hospital length of stay in connection with a mastectomy or breast conserving surgery (such as a lumpectomy) for the treatment of breast cancer to less than 48 hours; or
   >       - **(ii)** restrict benefits for any hospital length of stay in connection with a lymph node dissection for the treatment of breast cancer to less than 24 hours; or
-  >     - **(B)** require that a provider obtain authorization from the plan or the issuer for prescribing any length of stay required under subparagraph (A) (without regard to paragraph (2)).
-  >   - **(2)** *Exception* Nothing in this section shall be construed as requiring the provision of inpatient coverage if the attending physician and patient determine that either a shorter period of hospital stay, or outpatient treatment, is medically appropriate.
+  >     - **(B)** require that a provider obtain authorization from the plan or the issuer for prescribing any length of stay required under this paragraph.
+  >   - **(2)** *Exception* Nothing in this section shall be construed as requiring the provision of inpatient coverage if the attending physician, in consultation with the patient, determines that either a shorter period of hospital stay, or outpatient treatment, is medically appropriate.
   > - **(b)** *Prohibition on certain modifications* In implementing the requirements of this section, a group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan, may not modify the terms and conditions of coverage based on the determination by a participant or beneficiary to request less than the minimum coverage required under subsection (a).
   > - **(c)** *Notice* A group health plan, and a health insurance issuer providing health insurance coverage in connection with a group health plan shall provide notice to each participant and beneficiary under such plan regarding the coverage required by this section in accordance with regulations promulgated by the Secretary. Such notice shall be in writing and prominently positioned in any literature or correspondence made available or distributed by the plan or issuer and shall be transmitted—
   >   - **(1)** in the next mailing made by the plan or issuer to the participant or beneficiary; or
@@ -86,13 +86,11 @@ Congress finds that—
 
 ## § 5. Amendment to the Public Health Service Act relating to the individual market
 
-- **(a)** *In general* The first subpart 3 of part B of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–11 et seq.) is amended—
-  - **(1)** by adding after section 2752 the following:
-    > ## § 2753. Required coverage for minimum hospital stay for mastectomies, lumpectomies, and lymph node dissections for the treatment of breast cancer and secondary consultations
-    >
-    > The provisions of section 2707 shall apply to health insurance coverage offered by a health insurance issuer in the individual market in the same manner as they apply to health insurance coverage offered by a health insurance issuer in connection with a group health plan in the small or large group market.
+- **(a)** *In general* Subpart 2 of part B of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–51 et seq.) is amended by adding at the end the following new section:
+  > ## § 2754. Required coverage for minimum hospital stay for mastectomies, lumpectomies, and lymph node dissections for the treatment of breast cancer and secondary consultations
+  >
+  > The provisions of section 2707 shall apply to health insurance coverage offered by a health insurance issuer in the individual market in the same manner as they apply to health insurance coverage offered by a health insurance issuer in connection with a group health plan in the small or large group market.
 
-  - **(2)** by redesignating such subpart 3 as subpart 2.
 - **(b)** *Effective date* The amendment made by this section shall apply with respect to health insurance coverage offered, sold, issued, renewed, in effect, or operated in the individual market on or after the date of enactment of this Act.
 
 ## § 6. Amendments to the Internal Revenue Code of 1986
@@ -127,3 +125,17 @@ Congress finds that—
 - **(c)** *Effective dates*
   - **(1)** *In general* The amendments made by this section shall apply with respect to plan years beginning on or after the date of enactment of this Act.
   - **(2)** *Special rule for collective bargaining agreements* In the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act, the amendments made by this section shall not apply to plan years beginning before the date on which the last collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of enactment of this Act). For purposes of this paragraph, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.
+
+## § 7. Opportunity for independent, external third party reviews of certain nonrenewals and discontinuations, including rescissions, of individual health insurance coverage
+
+- **(a)** *Clarification regarding application of guaranteed renewability of individual health insurance coverage* Section 2742 of the Public Health Service Act (42 U.S.C. 300gg–42) is amended—
+  - **(1)** in its heading, by inserting “, continuation in force, including prohibition of rescission,” after “Guaranteed renewability”;
+  - **(2)** in subsection (a), by inserting “, including without rescission,” after “continue in force”; and
+  - **(3)** in subsection (b)(2), by inserting before the period at the end the following: “, including intentional concealment of material facts regarding a health condition related to the condition for which coverage is being claimed”.
+- **(b)** *Opportunity for independent, external third party review in certain cases* Subpart 1 of part B of title XXVII of the Public Health Service Act is amended by adding at the end the following new section:
+  > ## § 2746. Opportunity for independent, external third party review in certain cases
+  >
+  > - **(a)** *Notice and review right* If a health insurance issuer determines to nonrenew or not continue in force, including rescind, health insurance coverage for an individual in the individual market on the basis described in section 2742(b)(2) before such nonrenewal, discontinuation, or rescission, may take effect the issuer shall provide the individual with notice of such proposed nonrenewal, discontinuation, or rescission and an opportunity for a review of such determination by an independent, external third party under procedures specified by the Secretary.
+  > - **(b)** *Independent determination* If the individual requests such review by an independent, external third party of a nonrenewal, discontinuation, or rescission of health insurance coverage, the coverage shall remain in effect until such third party determines that the coverage may be nonrenewed, discontinued, or rescinded under section 2742(b)(2).
+
+- **(c)** *Effective date* The amendments made by this section shall apply after the date of the enactment of this Act with respect to health insurance coverage issued before, on, or after such date.
