@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1476
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1476
@@ -27,3 +27,9 @@ Providing for consideration of the bill (H.R. 5244) to amend the Truth in Lendin
 - 2008-09-22 — Placed on the House Calendar, Calendar No. 269.
 - 2008-09-22 — The House Committee on Rules reported an original measure, H. Rept. 110-867, by Mr. Welch (VT).
 - 2008-09-22 — The House Committee on Rules reported an original measure, H. Rept. 110-867, by Mr. Welch (VT).
+- 2008-09-23 — Considered as privileged matter. (consideration: CR H8590-8597)
+- 2008-09-23 — DEBATE - The House proceeded with one hour of debate on H. Res. 1476.
+- 2008-09-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-23 — On agreeing to the resolution Agreed to by recorded vote: 220 - 194 (Roll no. 620). (text: CR H8590)
+- 2008-09-23 — On ordering the previous question Agreed to by the Yeas and Nays: 221 - 192 (Roll no. 619). (consideration: CR H8596-8597)
+- 2008-09-23 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 220 - 194 (Roll no. 620).(text: CR H8590)
