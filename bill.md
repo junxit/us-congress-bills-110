@@ -25,7 +25,7 @@ Congress finds the following:
 
 ## § 2. Mandatory congressional briefings
 
-- **(a)** *Briefings* Not later than 90 days after the date of enactment of this Act, and not later than 120 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide detailed briefings to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on—
+- **(a)** *Briefings* Not later than 90 days after the date of enactment of this Act, and not later than 120 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide detailed briefings to Congress on—
   - **(1)** any discussions conducted between any executive branch agency and the Government of Taiwan during the covered period; and
   - **(2)** any potential transfer of defense articles or defense services to the Government of Taiwan.
 - **(b)** *Definitions* In this section:
