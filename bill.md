@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 6893
-congress: 110th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6893
