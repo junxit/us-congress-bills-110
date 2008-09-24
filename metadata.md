@@ -1,7 +1,7 @@
 ---
 measure: S. 1828
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1828
@@ -25,3 +25,7 @@ A bill to require the Administrator of the Environmental Protection Agency to co
 - 2007-07-19 — Introduced in Senate
 - 2007-07-19 — Read twice and referred to the Committee on Environment and Public Works.
 - 2007-07-19 — Sponsor introductory remarks on measure. (CR S9619-9620)
+- 2008-09-17 — Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.
+- 2008-09-24 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 110-494.
+- 2008-09-24 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment. With written report No. 110-494.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1070.
