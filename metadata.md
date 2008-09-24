@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1376
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1376
@@ -44,3 +44,9 @@ Commemorating the 80th anniversary of the Okeechobee Hurricane of September 1928
 - 2008-09-16 — Placed on the House Calendar, Calendar No. 267.
 - 2008-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-856.
 - 2008-09-16 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-856.
+- 2008-09-24 — Considered under suspension of the rules. (consideration: CR H9367-9369)
+- 2008-09-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1376.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Ms. Edwards (MD) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-09-24 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H9367)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.(text: CR H9367)
