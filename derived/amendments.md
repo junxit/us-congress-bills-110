@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6406
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 40 U.S.C. § 15301
+
+> Section 11(1) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” and inserting “the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; or the Chairman of the Commodity Futures Trading Commission;”.
+
+| | |
+|---|---|
+| Removed | `or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;` |
+| Inserted | `the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; or the Chairman of the Commodity Futures Trading Commission;` |
+
+### 40 U.S.C. § 15301
+
+> Section 11(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “or the Commissions established under section 15301 of title 40, United States Code,” and inserting “the Commissions established under section 15301 of title 40, United States Code, or the Commodity Futures Trading Commission,”.
+
+| | |
+|---|---|
+| Removed | `or the Commissions established under section 15301 of title 40, United States Code,` |
+| Inserted | `the Commissions established under section 15301 of title 40, United States Code, or the Commodity Futures Trading Commission,` |
 
 ## Stated, not applied
 
@@ -31,5 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 11(2) of the Inspector General Act of 1878 (5 U.S.C. App.) is amended by striking “or the Export-Import Bank,” and inserting “, the Export-Import Bank, or the Commodity Futures Trading Commission,”. | the bill names no machine-readable US Code section |
-| — | strike | Section 8G(a) of such Act is amended in paragraph (2) by striking “the Commodity Futures Trading Commission,”. | the bill names no machine-readable US Code section |
+| `40 U.S.C. § 15301` | strike | Section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.) is amended by striking “the Commodity Futures Trading Commission,”. | the bill quotes the text struck but describes what replaces it |
