@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6323
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6323
@@ -39,3 +39,11 @@ Heavy Duty Hybrid Vehicle Research, Development, and Demonstration Act of 2008
 - 2008-09-16 — Placed on the Union Calendar, Calendar No. 553.
 - 2008-09-16 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-855.
 - 2008-09-16 — Reported (Amended) by the Committee on Science and Technology. H. Rept. 110-855.
+- 2008-09-22 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Hall (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-22 — Considered under suspension of the rules. (consideration: CR H8539-8541)
+- 2008-09-22 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6323.
+- 2008-09-22 — Ms. Edwards (MD) moved to suspend the rules and pass the bill, as amended.
+- 2008-09-24 — Considered as unfinished business.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/22/2008 H8539-8540)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/22/2008 H8539-8540)
