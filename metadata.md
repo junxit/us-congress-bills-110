@@ -1,7 +1,7 @@
 ---
 measure: S. 2816
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 2816
