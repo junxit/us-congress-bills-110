@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6849
 congress: 110
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `7 U.S.C. § 8711` | add-at-end | Section 1101(d) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8711(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 8752` | add-at-end | Section 1302(d) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8752(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 8716` | add-at-end | Section 1106 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8716) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 8755` | add-at-end | Section 1305 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8755) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 8711` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 8711` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 2003` | insert | by inserting after paragraph (1) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 8711` | add-at-end | Section 1101(d) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8711(d)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
