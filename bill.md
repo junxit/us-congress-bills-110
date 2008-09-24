@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1911
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Toxic Chemical Exposure Reduction Act of 2007” or the “TCE Reduction Act of 2007”.
+- **(a)** *Short title* This Act may be cited as the “Toxic Chemical Exposure Reduction Act of 2008” or the “TCE Reduction Act of 2008”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
 
 ## § 2. Findings and purpose
