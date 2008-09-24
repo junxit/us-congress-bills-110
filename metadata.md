@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4120
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4120
@@ -20,9 +20,10 @@ Effective Child Pornography Prosecution Act of 2007
 
 - Rep. Biggert, Judy [R-IL-13] (B001232)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,15 @@ Effective Child Pornography Prosecution Act of 2007
 - 2007-11-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2007-11-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 1105). (text: CR 11/13/2007 H13591)
 - 2007-11-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 1105).(text: CR 11/13/2007 H13591)
+- 2007-11-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-09-23 — Amendment SA 5641 agreed to in Senate by Unanimous Consent.
+- 2008-09-23 — Amendment SA 5641 proposed by Senator Menendez for Senator Reid. (consideration: CR S9343-9344; text: CR S9343-9344) In the nature of a substitute.
+- 2008-09-23 — Measure laid before Senate by unanimous consent. (consideration: CR S9343-9344)
+- 2008-09-23 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-23 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-23 — Senate amendment agreed to: Amendment SA 5641 agreed to in Senate by Unanimous Consent.
+- 2008-09-23 — Senate amendment proposed (on the floor): Amendment SA 5641 proposed by Senator Menendez for Senator Reid.(consideration: CR S9343-9344; text: CR S9343-9344)
+- 2008-09-23 — Senate amendment submitted
+- 2008-09-24 — Message on Senate action sent to the House.
