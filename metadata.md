@@ -1,7 +1,7 @@
 ---
 measure: S. 1387
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1387
@@ -28,3 +28,7 @@ Federal Greenhouse Gas Registry Act of 2008
 
 - 2007-05-14 — Introduced in Senate
 - 2007-05-14 — Read twice and referred to the Committee on Environment and Public Works.
+- 2008-09-17 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-24 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-491. Minority views filed.
+- 2008-09-24 — Committee on Environment and Public Works. Reported by Senator Boxer with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-491. Minority views filed.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1067.
