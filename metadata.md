@@ -1,7 +1,7 @@
 ---
 measure: S. 3489
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3489
@@ -16,10 +16,11 @@ A bill to require the Administrator of the Environmental Protection Agency to co
 
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Carper, Thomas R. [D-DE] (C000174)
 - Sen. Kerry, John F. [D-MA] (K000148)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A bill to require the Administrator of the Environmental Protection Agency to co
 
 - 2008-09-15 — Introduced in Senate
 - 2008-09-15 — Read twice and referred to the Committee on Environment and Public Works.
+- 2008-09-17 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2008-09-24 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-489.
+- 2008-09-24 — Committee on Environment and Public Works. Reported by Senator Boxer without amendment. With written report No. 110-489.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1060.
