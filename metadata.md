@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6965
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6965
@@ -31,3 +31,4 @@ To extend the authorization of the national flood insurance program, and for oth
 - 2008-09-23 — Mr. Watt moved to suspend the rules and pass the bill.
 - 2008-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8705)
 - 2008-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8705)
+- 2008-09-24 — Received in the Senate.
