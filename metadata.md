@@ -1,7 +1,7 @@
 ---
 measure: S. 3128
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3128
@@ -25,3 +25,8 @@ White Mountain Apache Tribe Rural Water System Loan Authorization Act
 - 2008-06-12 — Introduced in Senate
 - 2008-06-12 — Read twice and referred to the Committee on Indian Affairs. (text of measure as introduced: CR S5626-5627)
 - 2008-06-12 — Sponsor introductory remarks on measure. (CR S5626)
+- 2008-09-11 — Committee on Indian Affairs. Hearings held. Hearings printed: S.Hrg. 110-678.
+- 2008-09-23 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-24 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 110-502.
+- 2008-09-24 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 110-502.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1080.
