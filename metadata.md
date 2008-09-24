@@ -1,7 +1,7 @@
 ---
 measure: S. 3328
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3328
