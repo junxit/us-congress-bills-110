@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1418
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1418
@@ -16,7 +16,7 @@ Congratulating Michael Phelps, 2008 Beijing Summer Olympics champion swimmer, on
 
 - Rep. Sarbanes, John P. [D-MD-3] (S001168)
 
-## Cosponsors (52)
+## Cosponsors (56)
 
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
@@ -70,6 +70,10 @@ Congratulating Michael Phelps, 2008 Beijing Summer Olympics champion swimmer, on
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 - Rep. Murphy, Patrick J. [D-PA-8] (M001168)
 - Rep. Miller, George [D-CA-7] (M000725)
+- Rep. McHugh, John M. [R-NY-23] (M000472)
+- Rep. Putnam, Adam H. [R-FL-12] (P000586)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Moore, Dennis [D-KS-3] (M001140)
 
 ## Committees (1)
 
@@ -80,3 +84,12 @@ Congratulating Michael Phelps, 2008 Beijing Summer Olympics champion swimmer, on
 - 2008-09-08 — Introduced in House
 - 2008-09-08 — Introduced in House
 - 2008-09-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-10 — Committee Consideration and Mark-up Session Held.
+- 2008-09-10 — Ordered to be Reported by Voice Vote.
+- 2008-09-24 — Committee on Oversight and Government discharged.
+- 2008-09-24 — Committee on Oversight and Government discharged.
+- 2008-09-24 — Considered by unanimous consent. (consideration: CR H8716)
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Ms. Sutton asked unanimous consent to discharge from committee and consider.
+- 2008-09-24 — On agreeing to the resolution Agreed to without objection. (text: CR H8716)
+- 2008-09-24 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H8716)
