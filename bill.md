@@ -1,0 +1,30 @@
+---
+legis-num: H. RES. 1498
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1498
+
+> To honor the visionary and extraordinary work of Los Alamos National Laboratory and IBM on the Roadrunner supercomputer.
+
+## Preamble
+
+- Whereas on May 26, 2008, the Roadrunner supercomputer of the Los Alamos National Laboratory broke a historic barrier by being powerful enough to run at a petaflop, 1,000,000,000,000,000 calculations per second, making the Roadrunner supercomputer the fastest computer in the world;
+- Whereas International Business Machines Corporation (referred to in this resolution as “IBM”) and Los Alamos National Laboratory overcame the challenges of technological innovation to achieve a petaflop ahead of schedule;
+- Whereas the Roadrunner supercomputer will enable the United States to tackle new and more challenging problems;
+- Whereas the Roadrunner supercomputer will be primarily devoted to national security in the United States and will be used for ensuring the safety and reliability of the weapons stockpile of the United States and for research in astrophysics, materials science, energy research, medicine, and biotechnology;
+- Whereas Cell-based supercomputer technology of IBM is the most energy efficient in the world;
+- Whereas the new high-performance computing capabilities enabled by hybrid Opteron-Cell machines of IBM in the Roadrunner supercomputer of Los Alamos National Laboratory enhance and improve United States competitiveness;
+- Whereas from maintaining employment records for millions of people in the United States, to providing technology to help the United States run the Ballistic Missile Early Warning System, land on Mars, end the physical testing of atomic weapons, and now help national security by ensuring the safety of the nuclear weapons stockpile of the United States and researching issues of critical importance such as human genome science and climate change, the partnership of IBM with the Federal Government and the dedication of that partnership to solving critical problems that are seemingly impossible have remained unrivaled and relentless for more than 80 years;
+- Whereas the Roadrunner supercomputer is the most recent achievement of the long-standing science and technology leadership of Los Alamos National Laboratory, from the Manhattan Project to the role of the Laboratory today as a premier national security science laboratory; and
+- Whereas, the Roadrunner supercomputer funding was initiated with $35,000,000 in the Energy and Water Development Appropriations Act, 2006 (Public Law 109–103): Now, therefore, be it
+
+That the House of Representatives honors the visionary and extraordinary work of Los Alamos National Laboratory and IBM for—
+
+- **(1)** pushing the barriers of science and providing the United States with historical high-performance computing capabilities that will allow some of the most challenging problems in science and engineering to be solved; and
+- **(2)** achieving the capability to make petaflop calculations, which—
+  - **(A)** is considered a crucial milestone internationally;
+  - **(B)** is considered a sign of the competitiveness of the United States in the critical new area of high-performance computing capability; and
+  - **(C)** will allow the United States to solve even bigger and more complex problems from the safety of the nuclear deterrent of the United States to human genome science and climate change.
