@@ -1,7 +1,7 @@
 ---
 measure: S. 1255
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1255
@@ -16,15 +16,18 @@ Indian Arts and Crafts Amendments Act of 2008
 
 - Sen. McCain, John [R-AZ] (M000303)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Kyl, Jon [R-AZ] (K000352)
 - Sen. Thomas, Craig [R-WY] (T000162)
 - Sen. Domenici, Pete V. [R-NM] (D000407)
+- Sen. Dorgan, Byron L. [D-ND] (D000432)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Indian Affairs Committee
+- House — Judiciary Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +38,10 @@ Indian Arts and Crafts Amendments Act of 2008
 - 2008-09-15 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-460.
 - 2008-09-15 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-460.
 - 2008-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 961.
+- 2008-09-23 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S9336-9338; text of measure as reported in Senate: CR S9336-9337; text as passed Senate: CR S9337-9338)
+- 2008-09-23 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S9336-9338; text of measure as reported in Senate: CR S9336-9337; text as passed Senate: CR S9337-9338)
+- 2008-09-24 — Message on Senate action sent to the House.
+- 2008-09-24 — Received in the House.
+- 2008-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-09-24 — Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
