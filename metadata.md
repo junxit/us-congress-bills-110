@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7006
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7006
@@ -16,7 +16,7 @@ Disaster Tax Relief Act of 2008
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Kind, Ron [D-WI-3] (K000188)
 - Rep. Lampson, Nick [D-TX-22] (L000043)
@@ -29,6 +29,7 @@ Disaster Tax Relief Act of 2008
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Mahoney, Tim [D-FL-16] (M001164)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
 
 ## Committees (1)
 
@@ -39,3 +40,12 @@ Disaster Tax Relief Act of 2008
 - 2008-09-23 — Introduced in House
 - 2008-09-23 — Introduced in House
 - 2008-09-23 — Referred to the House Committee on Ways and Means.
+- 2008-09-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-24 — Considered as unfinished business. (consideration: CR H9365)
+- 2008-09-24 — Considered under suspension of the rules. (consideration: CR H9312-9319)
+- 2008-09-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7006.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Mr. Rangel moved to suspend the rules and pass the bill.
+- 2008-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 4 (Roll no. 635). (text: CR H9312-9314)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 4 (Roll no. 635).(text: CR H9312-9314)
+- 2008-09-24 — Received in the Senate.
