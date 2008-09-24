@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5265
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -39,4 +39,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 247b-18` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-19` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 247b-19` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 299` | amend | Part A of title IX of the Public Health Service Act (42 U.S.C. 299 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 299` | add-at-end | Part A of title IX of the Public Health Service Act (42 U.S.C. 299 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
