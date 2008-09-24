@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2994
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2994
@@ -94,3 +94,7 @@ National Pain Care Policy Act of 2008
 - 2008-09-23 — Placed on the Union Calendar, Calendar No. 567.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-871.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-871.
+- 2008-09-24 — Considered as unfinished business. (consideration: CR H9406)
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/23/2008 H8674-8675)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/23/2008 H8674-8675)
