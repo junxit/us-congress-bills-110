@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 551
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 derived: true
 ---
 
