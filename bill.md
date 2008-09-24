@@ -23,7 +23,7 @@ Section 831 of the Homeland Security Act of 2002 (6 U.S.C. 391(a)) is amended—
   - **(B)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and realigning such subparagraphs, as so redesignated, so as to be indented 4 ems from the left margin; and
   - **(C)** by adding at the end the following new paragraph:
     > - **(2)** *Annual report on exercise of other transaction authority*
-    >   - **(A)** *In general* The Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives an annual report on the exercise of other transaction authority under subsection (a).
+    >   - **(A)** *In general* The Secretary shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives an annual report on the exercise of other transaction authority under subsection (a).
     >   - **(B)** *Content* The report required under subparagraph (A) shall include the following:
     >     - **(i)** The technology areas in which research projects were conducted under other transactions.
     >     - **(ii)** The extent of the cost-sharing among Federal and non-Federal sources.
