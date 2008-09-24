@@ -1,7 +1,7 @@
 ---
 measure: S. 3009
 congress: 110
-version: Referred in House
+version: Reported in House
 ---
 
 # S. 3009
@@ -38,3 +38,17 @@ A bill to designate the Federal Bureau of Investigation building under construct
 - 2008-06-25 — Message on Senate action sent to the House.
 - 2008-06-25 — Received in the House.
 - 2008-06-25 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-06-26 — Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Ordered to be Reported by Voice Vote.
+- 2008-07-31 — Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.
+- 2008-09-24 — Cleared for White House.
+- 2008-09-24 — Considered under suspension of the rules. (consideration: CR H9366-9367)
+- 2008-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 3009.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Ms. Edwards (MD) moved to suspend the rules and pass the bill.
+- 2008-09-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9366)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9366)
+- 2008-09-24 — Placed on the House Calendar, Calendar No. 272.
+- 2008-09-24 — Reported by the Committee on Transportation. H. Rept. 110-878.
+- 2008-09-24 — Reported by the Committee on Transportation. H. Rept. 110-878.
