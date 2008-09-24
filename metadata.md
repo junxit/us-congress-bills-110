@@ -1,7 +1,7 @@
 ---
 measure: S. 2816
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2816
@@ -21,9 +21,10 @@ A bill to provide for the appointment of the Chief Human Capital Officer of the 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 - Sen. Domenici, Pete V. [R-NM] (D000407)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Homeland Security Committee
 
 ## Actions
 
@@ -34,3 +35,8 @@ A bill to provide for the appointment of the Chief Human Capital Officer of the 
 - 2008-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-466.
 - 2008-09-16 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. With written report No. 110-466.
 - 2008-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 971.
+- 2008-09-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9340; text as passed Senate: CR S9340)
+- 2008-09-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9340; text as passed Senate: CR S9340)
+- 2008-09-24 — Message on Senate action sent to the House.
+- 2008-09-24 — Received in the House.
+- 2008-09-24 — Referred to the House Committee on Homeland Security.
