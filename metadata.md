@@ -1,7 +1,7 @@
 ---
 measure: S. 3350
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3350
@@ -24,3 +24,8 @@ A bill to provide that claims of the United States to certain documents relating
 
 - 2008-07-28 — Introduced in Senate
 - 2008-07-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-09-10 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-09-23 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1072.
