@@ -1,7 +1,7 @@
 ---
 measure: S. 1255
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -66,5 +66,5 @@ complete account of the bill's effect, which it is not.
 | `25 U.S.C. § 450b` | redesignate | by inserting before subsection (b) (as redesignated by paragraph (2)) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 305e` | redesignate | by striking subsection (d) (as redesignated by paragraph (2)) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 305e` | replace | in subsection (e), by striking “(e) In the event that” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `25 U.S.C. § 450b` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 1159` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 450b` | replace | in subsection (c), by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
