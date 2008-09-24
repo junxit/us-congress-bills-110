@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1532
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1532
@@ -96,3 +96,7 @@ Comprehensive Tuberculosis Elimination Act of 2008
 - 2008-09-23 — Placed on the Union Calendar, Calendar No. 569.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-873.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-873.
+- 2008-09-24 — Considered as unfinished business. (consideration: CR H9406)
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/23/2008 H8671-8673)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/23/2008 H8671-8673)
