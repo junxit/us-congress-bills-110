@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 665
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 665
@@ -16,7 +16,7 @@ A resolution designating October 3, 2008, as "National Alternative Fuel Vehicle 
 
 - Sen. Byrd, Robert C. [D-WV] (B001210)
 
-## Cosponsors (22)
+## Cosponsors (26)
 
 - Sen. Bayh, Evan [D-IN] (B001233)
 - Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
@@ -40,6 +40,10 @@ A resolution designating October 3, 2008, as "National Alternative Fuel Vehicle 
 - Sen. Ensign, John [R-NV] (E000194)
 - Sen. Hagel, Chuck [R-NE] (H001028)
 - Sen. Lugar, Richard G. [R-IN] (L000504)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Lincoln, Blanche L. [D-AR] (L000035)
+- Sen. Thune, John [R-SD] (T000250)
+- Sen. Levin, Carl [D-MI] (L000261)
 
 ## Committees (1)
 
@@ -49,3 +53,7 @@ A resolution designating October 3, 2008, as "National Alternative Fuel Vehicle 
 
 - 2008-09-18 — Introduced in Senate
 - 2008-09-18 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S9038)
+- 2008-09-24 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9437)
+- 2008-09-24 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9437)
+- 2008-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9437)
+- 2008-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9437)
