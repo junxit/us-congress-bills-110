@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6950
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6950
@@ -16,7 +16,7 @@ Stephanie Tubbs Jones Gift of Life Medal Act of 2008
 
 - Rep. Stark, Fortney Pete [D-CA-13] (S000810)
 
-## Cosponsors (45)
+## Cosponsors (52)
 
 - Rep. Camp, Dave [R-MI-4] (C000071)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
@@ -63,6 +63,13 @@ Stephanie Tubbs Jones Gift of Life Medal Act of 2008
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
 - Rep. Watson, Diane E. [D-CA-33] (W000794)
 - Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Crowley, Joseph [D-NY-7] (C001038)
+- Rep. Doggett, Lloyd [D-TX-25] (D000399)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
 ## Committees (2)
 
@@ -77,3 +84,11 @@ Stephanie Tubbs Jones Gift of Life Medal Act of 2008
 - 2008-09-18 — Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-18 — Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-18 — Sponsor introductory remarks on measure. (CR E1849)
+- 2008-09-23 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mrs. Capito objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-23 — Considered under suspension of the rules. (consideration: CR H8700-8703)
+- 2008-09-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6950.
+- 2008-09-23 — Ms. Moore (WI) moved to suspend the rules and pass the bill.
+- 2008-09-25 — Considered as unfinished business. (consideration: CR H9927-9928)
+- 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 643). (text: CR 9/23/2008 H8700-8701)
+- 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 643).(text: CR 9/23/2008 H8700-8701)
