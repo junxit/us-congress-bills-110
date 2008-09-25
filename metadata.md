@@ -1,7 +1,7 @@
 ---
 measure: S. 2489
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2489
@@ -28,3 +28,7 @@ Oglala Sioux Tribe Angostura Irrigation Project Modernization and Development Ac
 
 - 2007-12-14 — Introduced in Senate
 - 2007-12-14 — Read twice and referred to the Committee on Indian Affairs.
+- 2008-06-19 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2008-09-25 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-506.
+- 2008-09-25 — Committee on Indian Affairs. Reported by Senator Dorgan without amendment. With written report No. 110-506.
+- 2008-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1090.
