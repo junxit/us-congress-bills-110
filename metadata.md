@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 110
-version: Reported in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1343
@@ -16,7 +16,7 @@ Health Care Safety Net Act of 2008
 
 - Rep. Green, Gene [D-TX-29] (G000410)
 
-## Cosponsors (249)
+## Cosponsors (250)
 
 - Rep. Pickering, Charles W. "Chip" [R-MS-3] (P000323)
 - Rep. Capps, Lois [D-CA-23] (C001036)
@@ -267,10 +267,12 @@ Health Care Safety Net Act of 2008
 - Rep. Jefferson, William J. [D-LA-2] (J000070)
 - Rep. Hulshof, Kenny C. [R-MO-9] (H000948)
 - Rep. Fortenberry, Jeff [R-NE-1] (F000449)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -299,3 +301,20 @@ Health Care Safety Net Act of 2008
 - 2008-06-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-680.
 - 2008-06-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-680.
 - 2008-06-04 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-05 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2008-09-24 — Amendment SA 5642 agreed to in Senate by Unanimous Consent.
+- 2008-09-24 — Amendment SA 5642 proposed by Senator Dorgan for Senator Kennedy. (consideration: CR S9373) In the nature of a substitute.
+- 2008-09-24 — Measure laid before Senate by unanimous consent. (consideration: CR S9372-9373)
+- 2008-09-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-24 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2008-09-24 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2008-09-24 — Senate amendment agreed to: Amendment SA 5642 agreed to in Senate by Unanimous Consent.
+- 2008-09-24 — Senate amendment proposed (on the floor): Amendment SA 5642 proposed by Senator Dorgan for Senator Kennedy.(consideration: CR S9373)
+- 2008-09-24 — Senate amendment submitted
+- 2008-09-25 — Cleared for White House.
+- 2008-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1343.
+- 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-25 — Mr. Pallone moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9923-9926)
+- 2008-09-25 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H9923-9924)
+- 2008-09-25 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H9923-9924)

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 110
-version: Reported in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 2 executed, 10 stated and not applied.
+16 amendatory instructions. 7 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,23 +24,68 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 233
+### 42 U.S.C. § 254k
 
-> in the first sentence, by striking “or employee” and inserting “employee, or (subject to subsection (k)(4)) volunteer practitioner”; and
-
-| | |
-|---|---|
-| Removed | `or employee` |
-| Inserted | `employee, or (subject to subsection (k)(4)) volunteer practitioner` |
-
-### 42 U.S.C. § 233
-
-> in paragraph (1)(B)(ii), by striking “subparagraph (C)” and inserting “subparagraph (C) and paragraph (6)”; and
+> Section 338(a) of the Public Health Service Act (42 U.S.C. 254k(a)) is amended by striking “2002 through 2006” and inserting “2008 through 2012”.
 
 | | |
 |---|---|
-| Removed | `subparagraph (C)` |
-| Inserted | `subparagraph (C) and paragraph (6)` |
+| Removed | `2002 through 2006` |
+| Inserted | `2008 through 2012` |
+
+### 42 U.S.C. § 254q-1
+
+> Section 338I(h) of the Public Health Service Act (42 U.S.C. 254q–1(h)) is amended by striking “several States” and inserting “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands”.
+
+| | |
+|---|---|
+| Removed | `several States` |
+| Inserted | `50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands` |
+
+### 42 U.S.C. § 254q-1
+
+> Section 338I(i)(1) of such Act (42 U.S.C. 254q–1(i)(1)) is amended by striking “2002” and all that follows through the period and inserting “2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.”.
+
+| | |
+|---|---|
+| Removed | `2002` |
+| Inserted | `2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.` |
+
+### 42 U.S.C. § 254c
+
+> Section 330A(j) of the Public Health Service Act (42 U.S.C. 254c(j)) is amended by striking “$40,000,000” and all that follows through the period and inserting “$45,000,000 for each of fiscal years 2008 through 2012.”.
+
+| | |
+|---|---|
+| Removed | `$40,000,000` |
+| Inserted | `$45,000,000 for each of fiscal years 2008 through 2012.` |
+
+### 42 U.S.C. § 256g
+
+> by striking “$50,000,000” and inserting “$25,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$50,000,000` |
+| Inserted | `$25,000,000` |
+
+### 42 U.S.C. § 256g
+
+> by striking “2002” and inserting “2008”.
+
+| | |
+|---|---|
+| Removed | `2002` |
+| Inserted | `2008` |
+
+### 42 U.S.C. § 1395x
+
+> The second sentence of section 1861(aa)(2) of the Social Security Act (42 U.S.C. 1395x(aa)(2)) is amended by striking “3-year period” and inserting “4-year period” in the matter in clause (i) preceding subclause (I).
+
+| | |
+|---|---|
+| Removed | `3-year period` |
+| Inserted | `4-year period` |
 
 ## Stated, not applied
 
@@ -51,13 +96,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 254b` | amend | Section 330(r)(1) of the Public Health Service Act (42 U.S.C. 254b(r)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254b` | amend | Section 330(r) of the Public Health Service Act (42 U.S.C. 254b(r)) is amended by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 254b` | add-at-end | Section 330(c) of the Public Health Service Act (42 U.S.C. 254b(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 233` | insert | in the second sentence, by inserting “and subsection (k)(4)” after “subject to paragraph (5)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 233` | replace | by striking the term employee, or contractor each place such term appears and inserting employee, volunteer practitioner, or contractor; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 233` | replace | by striking the term employee, and contractor each place such term appears and inserting employee, volunteer practitioner, and contractor; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 233` | replace | by striking the term employee, or any contractor each place such term appears and inserting employee, volunteer practitioner, or contractor; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 233` | replace | by striking the term employees, or contractors each place such term appears and inserting employees, volunteer practitioners, or contractors. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 233` | add-at-end | Section 224(k) of the Public Health Service Act (42 U.S.C. 233(k)) is amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 233` | add-at-end | by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 259b` | add-at-end | Part D of title III of the Public Health Service Act (42 U.S.C. 259b et seq.) is amended by adding at the end the following new subpart: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254k` | replace | Subsection (a) of section 338H of such Act (42 U.S.C. 254q) is amended by striking “appropriated $146,250,000” and all that follows through the period and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254e` | strike | Section 332(a)(1) of the Public Health Service Act (42 U.S.C. 254e(a)(1)) is amended by striking “Not earlier than 6 years” and all that follows through “purposes of this section.”. | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254f` | strike | in subclause (IV), by striking “and”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254f` | replace | in subclause (V), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 254f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254h-1` | amend | Subsection (d) of section 336 of the Public Health Service Act (42 U.S.C. 254h–1) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300hh-10` | add-at-end | Subtitle B of title XXVIII of the Public Health Service Act (42 U.S.C. 300hh–10 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

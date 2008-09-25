@@ -2,80 +2,165 @@
 legis-num: H.R. 1343
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1343
 
-> To amend the Public Health Service Act to provide additional authorizations of appropriations for the health centers program under section 330 of such Act.
+That the bill from the House of Representatives (H.R. 1343) entitled “An Act to amend the Public Health Service Act to provide additional authorizations of appropriations for the health centers program under section 330 of such Act, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “Health Centers Renewal Act of 2008”.
+This Act may be cited as the “Health Care Safety Net Act of 2008”.
 
-## § 2. Additional authorizations of appropriations for health centers program
+## § 2. Community health centers program of the Public Health Service Act
 
-Section 330(r)(1) of the Public Health Service Act (42 U.S.C. 254b(r)(1)) is amended to read as follows:
+- **(a)** *Additional Authorizations of Appropriations for the Health Centers Program of Public Health Service Act* Section 330(r) of the Public Health Service Act (42 U.S.C. 254b(r)) is amended by amending paragraph (1) to read as follows:
+  > - **(1)** *In general* For the purpose of carrying out this section, in addition to the amounts authorized to be appropriated under subsection (d), there are authorized to be appropriated—
+  >   - **(A)** $2,065,000,000 for fiscal year 2008;
+  >   - **(B)** $2,313,000,000 for fiscal year 2009;
+  >   - **(C)** $2,602,000,000 for fiscal year 2010;
+  >   - **(D)** $2,940,000,000 for fiscal year 2011; and
+  >   - **(E)** $3,337,000,000 for fiscal year 2012.
 
-> - **(1)** *In general* For the purpose of carrying out this section, in addition to the amounts authorized to be appropriated under subsection (d), there are authorized to be appropriated—
->   - **(A)** for fiscal year 2008, $2,213,020,000;
->   - **(B)** for fiscal year 2009, $2,451,394,400;
->   - **(C)** for fiscal year 2010, $2,757,818,700;
->   - **(D)** for fiscal year 2011, $3,116,335,131; and
->   - **(E)** for fiscal year 2012, $3,537,040,374.
+- **(b)** *Studies Relating to Community Health Centers*
+  - **(1)** *Definitions* For purposes of this subsection—
+    - **(A)** the term “community health center” means a health center receiving assistance under section 330 of the Public Health Service Act (42 U.S.C. 254b); and
+    - **(B)** the term “medically underserved population” has the meaning given that term in such section 330.
+  - **(2)** *School-based health center study*
+    - **(A)** *In general* Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall issue a study of the economic costs and benefits of school-based health centers and the impact on the health of students of these centers.
+    - **(B)** *Content* In conducting the study under subparagraph (A), the Comptroller General of the United States shall analyze—
+      - **(i)** the impact that Federal funding could have on the operation of school-based health centers;
+      - **(ii)** any cost savings to other Federal programs derived from providing health services in school-based health centers;
+      - **(iii)** the effect on the Federal Budget and the health of students of providing Federal funds to school-based health centers and clinics, including the result of providing disease prevention and nutrition information;
+      - **(iv)** the impact of access to health care from school-based health centers in rural or underserved areas; and
+      - **(v)** other sources of Federal funding for school-based health centers.
+  - **(3)** *Health care quality study*
+    - **(A)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services (referred to in this Act as the “Secretary”), acting through the Administrator of the Health Resources and Services Administration, and in collaboration with the Agency for Healthcare Research and Quality, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes agency efforts to expand and accelerate quality improvement activities in community health centers.
+    - **(B)** *Content* The report under subparagraph (A) shall focus on—
+      - **(i)** Federal efforts, as of the date of enactment of this Act, regarding health care quality in community health centers, including quality data collection, analysis, and reporting requirements;
+      - **(ii)** identification of effective models for quality improvement in community health centers, which may include models that—
+        - **(I)** incorporate care coordination, disease management, and other services demonstrated to improve care;
+        - **(II)** are designed to address multiple, co-occurring diseases and conditions;
+        - **(III)** improve access to providers through non-traditional means, such as the use of remote monitoring equipment;
+        - **(IV)** target various medically underserved populations, including uninsured patient populations;
+        - **(V)** increase access to specialty care, including referrals and diagnostic testing; and
+        - **(VI)** enhance the use of electronic health records to improve quality;
+      - **(iii)** efforts to determine how effective quality improvement models may be adapted for implementation by community health centers that vary by size, budget, staffing, services offered, populations served, and other characteristics determined appropriate by the Secretary;
+      - **(iv)** types of technical assistance and resources provided to community health centers that may facilitate the implementation of quality improvement interventions;
+      - **(v)** proposed or adopted methodologies for community health center evaluations of quality improvement interventions, including any development of new measures that are tailored to safety-net, community-based providers;
+      - **(vi)** successful strategies for sustaining quality improvement interventions in the long-term; and
+      - **(vii)** partnerships with other Federal agencies and private organizations or networks as appropriate, to enhance health care quality in community health centers.
+    - **(C)** *Dissemination* The Administrator of the Health Resources and Services Administration shall establish a formal mechanism or mechanisms for the ongoing dissemination of agency initiatives, best practices, and other information that may assist health care quality improvement efforts in community health centers.
+  - **(4)** *GAO study on integrated health systems model for the delivery of health care services to medically underserved and uninsured populations*
+    - **(A)** *Study* The Comptroller General of the United States shall conduct a study on integrated health system models of at least 15 sites for the delivery of health care services to medically underserved and uninsured populations. The study shall include an examination of—
+      - **(i)** health care delivery models sponsored by public or private non-profit entities that—
+        - **(I)** integrate primary, specialty, and acute care; and
+        - **(II)** serve medically underserved and uninsured populations; and
+      - **(ii)** such models in rural and urban areas.
+    - **(B)** *Report* Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the study conducted under subparagraph (A). The report shall include—
+      - **(i)** an evaluation of the models, as described in subparagraph (A), in—
+        - **(I)** expanding access to primary, preventive, and specialty services for medically underserved and uninsured populations; and
+        - **(II)** improving care coordination and health outcomes;
+        - **(III)** increasing efficiency in the delivery of quality health care; and
+        - **(IV)** conducting some combination of the following services—
+          - **(aa)** outreach activities;
+          - **(bb)** case management and patient navigation services;
+          - **(cc)** chronic care management;
+          - **(dd)** transportation to health care facilities;
+          - **(ee)** development of provider networks and other innovative models to engage local physicians and other providers to serve the medically underserved within a community;
+          - **(ff)** recruitment, training, and compensation of necessary personnel;
+          - **(gg)** acquisition of technology for the purpose of coordinating care;
+          - **(hh)** improvements to provider communication, including implementation of shared information systems or shared clinical systems;
+          - **(ii)** determination of eligibility for Federal, State, and local programs that provide, or financially support the provision of, medical, social, housing, educational, or other related services;
+          - **(jj)** development of prevention and disease management tools and processes;
+          - **(kk)** translation services;
+          - **(ll)** development and implementation of evaluation measures and processes to assess patient outcomes;
+          - **(mm)** integration of primary care and mental health services; and
+          - **(nn)** carrying out other activities that may be appropriate to a community and that would increase access by the uninsured to health care, such as access initiatives for which private entities provide non-Federal contributions to supplement the Federal funds provided through the grants for the initiatives; and
+      - **(ii)** an assessment of—
+        - **(I)** challenges, including barriers to Federal programs, encountered by such entities in providing care to medically underserved and uninsured populations; and
+        - **(II)** advantages and disadvantages of such models compared to other models of care delivery for medically underserved and uninsured populations, including—
+          - **(aa)** quality measurement and quality outcomes;
+          - **(bb)** administrative efficiencies; and
+          - **(cc)** geographic distribution of federally-supported clinics compared to geographic distribution of integrated health systems.
+  - **(5)** *GAO study on volunteer enhancement*
+    - **(A)** *In general* Not later than 6 months after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study, and submit a report to Congress, concerning the implications of extending Federal Tort Claims Act (chapter 171 of title 28, United States Code) coverage to health care professionals who volunteer to furnish care to patients of health centers.
+    - **(B)** *Content* In conducting the study under subparagraph (A), the Comptroller General of the United States shall analyze—
+      - **(i)** the potential financial implications for the Federal Government of such an extension, including any increased funding needed for current health center Federal Tort Claims Act coverage;
+      - **(ii)** an estimate of the increase in the number of health care professionals at health centers, and what types of such professionals would most likely volunteer given the extension of Federal Tort Claims Act coverage;
+      - **(iii)** the increase in services provided by health centers as a result of such an increase in health care professionals, and in particular the effect of such action on the ability of health centers to secure specialty and diagnostic services needed by their uninsured and other patients;
+      - **(iv)** the volume of patient workload at health centers and how volunteer health care professionals may help address the patient volume;
+      - **(v)** the most appropriate manner of extending such coverage to volunteer health care professionals at health centers, including any potential difference from the mechanism currently used for health care professional volunteers at free clinics;
+      - **(vi)** State laws that have been shown to encourage physicians and other health care providers to provide charity care as an agent of the State; and
+      - **(vii)** other policies, including legislative or regulatory changes, that have the potential to increase the number of volunteer health care staff at health centers and the financial implications of such policies, including the cost savings associated with the ability to provide more services in health centers rather than more expensive sites of care.
+- **(c)** *Recognition of high poverty*
+  - **(1)** *In General* Section 330(c) of the Public Health Service Act (42 U.S.C. 254b(c)) is amended by adding at the end the following new paragraph:
+    > - **(3)** *Recognition of high poverty*
+    >   - **(A)** *In general* In making grants under this subsection, the Secretary may recognize the unique needs of high poverty areas.
+    >   - **(B)** *High poverty area defined* For purposes of subparagraph (A), the term “high poverty area” means a catchment area which is established in a manner that is consistent with the factors in subsection (k)(3)(J), and the poverty rate of which is greater than the national average poverty rate as determined by the Bureau of the Census.
 
-## § 3. Recognition of high poverty areas
+  - **(2)** *Effective Date* The amendment made by paragraph (1) shall apply to grants made on or after January 1, 2009.
 
-- **(a)** *In general* Section 330(c) of the Public Health Service Act (42 U.S.C. 254b(c)) is amended by adding at the end the following new paragraph:
-  > - **(3)** *Recognition of high poverty areas*
-  >   - **(A)** *In general* In making grants under this subsection, the Secretary may recognize the unique needs of high poverty areas.
-  >   - **(B)** *High poverty area defined* For purposes of subparagraph (A), the term high poverty area means a catchment area which is established in a manner that is consistent with the factors in subsection (k)(3)(J), and the poverty rate of which is greater than the national average poverty rate as determined by the Bureau of the Census.
+## § 3. National health service corps
 
-- **(b)** *Effective date* The amendment made by subsection (a) shall apply to grants made on or after January 1, 2009.
+- **(a)** *Funding*
+  - **(1)** *Reauthorization of National Health Service Corps Program* Section 338(a) of the Public Health Service Act (42 U.S.C. 254k(a)) is amended by striking “2002 through 2006” and inserting “2008 through 2012”.
+  - **(2)** *Scholarship and loan repayment programs* Subsection (a) of section 338H of such Act (42 U.S.C. 254q) is amended by striking “appropriated $146,250,000” and all that follows through the period and inserting the following:
+    > appropriated—
+    > - **(1)** for fiscal year 2008, $131,500,000;
+    > - **(2)** for fiscal year 2009, $143,335,000;
+    > - **(3)** for fiscal year 2010, $156,235,150;
+    > - **(4)** for fiscal year 2011, $170,296,310; and
+    > - **(5)** for fiscal year 2012, $185,622,980.
 
-## § 4. Liability protections for health center volunteer practitioners
+- **(b)** *Elimination of 6-Year Demonstration Requirement* Section 332(a)(1) of the Public Health Service Act (42 U.S.C. 254e(a)(1)) is amended by striking “Not earlier than 6 years” and all that follows through “purposes of this section.”.
+- **(c)** *Assignment to Shortage Area* Section 333(a)(1)(D)(ii) of the Public Health Service Act (42 U.S.C. 254f(a)(1)(D)(ii)) is amended—
+  - **(1)** in subclause (IV), by striking “and”;
+  - **(2)** in subclause (V), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(VI)** the entity demonstrates willingness to support or facilitate mentorship, professional development, and training opportunities for Corps members.
 
-- **(a)** *In General* Section 224 of the Public Health Service Act (42 U.S.C. 233) is amended—
-  - **(1)** in subsection (g)(1)(A)—
-    - **(A)** in the first sentence, by striking “or employee” and inserting “employee, or (subject to subsection (k)(4)) volunteer practitioner”; and
-    - **(B)** in the second sentence, by inserting “and subsection (k)(4)” after “subject to paragraph (5)”; and
-  - **(2)** in each of subsections (g), (i), (j), (k), (l), and (m)—
-    - **(A)** by striking the term employee, or contractor each place such term appears and inserting employee, volunteer practitioner, or contractor;
-    - **(B)** by striking the term employee, and contractor each place such term appears and inserting employee, volunteer practitioner, and contractor;
-    - **(C)** by striking the term employee, or any contractor each place such term appears and inserting employee, volunteer practitioner, or contractor; and
-    - **(D)** by striking the term employees, or contractors each place such term appears and inserting employees, volunteer practitioners, or contractors.
-- **(b)** *Applicability; Definition* Section 224(k) of the Public Health Service Act (42 U.S.C. 233(k)) is amended by adding at the end the following paragraph:
-  > - **(4)**
-  >   - **(A)** Subsections (g) through (m) apply with respect to volunteer practitioners beginning with the first fiscal year for which an appropriations Act provides that amounts in the fund under paragraph (2) are available with respect to such practitioners.
-  >   - **(B)** For purposes of subsections (g) through (m), the term volunteer practitioner means a practitioner who, with respect to an entity described in subsection (g)(4), meets the following conditions:
-  >     - **(i)** In the State involved, the practitioner is a licensed physician, a licensed clinical psychologist, or other licensed or certified health care practitioner.
-  >     - **(ii)** At the request of such entity, the practitioner provides services to patients of the entity, at a site at which the entity operates or at a site designated by the entity. The weekly number of hours of services provided to the patients by the practitioner is not a factor with respect to meeting conditions under this subparagraph.
-  >     - **(iii)** The practitioner does not for the provision of such services receive any compensation from such patients, from the entity, or from third-party payors (including reimbursement under any insurance policy or health plan, or under any Federal or State health benefits program).
+- **(d)** *Professional Development and Training* Subsection (d) of section 336 of the Public Health Service Act (42 U.S.C. 254h–1) is amended to read as follows:
+  > - **(d)** *Professional Development and Training*
+  >   - **(1)** *In general* The Secretary shall assist Corps members in establishing and maintaining professional relationships and development opportunities, including by—
+  >     - **(A)** establishing appropriate professional relationships between the Corps member involved and the health professions community of the geographic area with respect to which the member is assigned;
+  >     - **(B)** establishing professional development, training, and mentorship linkages between the Corps member involved and the larger health professions community, including through distance learning, direct mentorship, and development and implementation of training modules designed to meet the educational needs of offsite Corps members;
+  >     - **(C)** establishing professional networks among Corps members; or
+  >     - **(D)** engaging in other professional development, mentorship, and training activities for Corps members, at the discretion of the Secretary.
+  >   - **(2)** *Assistance in establishing professional relationships* In providing such assistance under paragraph (1), the Secretary shall focus on establishing relationships with hospitals, with academic medical centers and health professions schools, with area health education centers under section 751, with health education and training centers under section 752, and with border health education and training centers under such section 752. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
+  >   - **(3)** *Supplement not supplant* Such efforts under this subsection shall supplement, not supplant, non-government efforts by professional health provider societies to establish and maintain professional relationships and development opportunities.
 
-## § 5. Liability protections for health center practitioners providing services in emergency areas
+- **(e)** *Eligibility of the District of Columbia and territories for the State Loan Repayment Program*
+  - **(1)** *In general* Section 338I(h) of the Public Health Service Act (42 U.S.C. 254q–1(h)) is amended by striking “several States” and inserting “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands”.
+  - **(2)** *Authorization of appropriations* Section 338I(i)(1) of such Act (42 U.S.C. 254q–1(i)(1)) is amended by striking “2002” and all that follows through the period and inserting “2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.”.
 
-Section 224(g) of the Public Health Service Act (42 U.S.C. 233(g)) is amended—
+## § 4. Reauthorization of rural health care programs
 
-- **(1)** in paragraph (1)(B)(ii), by striking “subparagraph (C)” and inserting “subparagraph (C) and paragraph (6)”; and
-- **(2)** by adding at the end the following paragraph:
-  > - **(6)**
-  >   - **(A)** Subject to subparagraph (C), paragraph (1)(B)(ii) applies to health services provided to individuals who are not patients of the entity involved if, as determined under criteria issued by the Secretary, the following conditions are met:
-  >     - **(i)** The services are provided by a contractor, volunteer practitioner (as defined in subsection (k)(4)(B)), or employee of the entity who is a physician or other licensed or certified health care practitioner and who is otherwise deemed to be an employee for purposes of paragraph (1)(A) when providing services with respect to the entity.
-  >     - **(ii)** The services are provided in an emergency area (as defined in subparagraph (D)), with respect to a public health emergency or major disaster described in subparagraph (D), and during the period for which such emergency or disaster is determined or declared, respectively.
-  >     - **(iii)** The services of the contractor, volunteer practitioner, or employee (referred to in this paragraph as the out-of-area practitioner) are provided under an arrangement with—
-  >       - **(I)** an entity that is deemed to be an employee for purposes of paragraph (1)(A) and that serves the emergency area involved (referred to in this paragraph as an emergency-area entity); or
-  >       - **(II)** a Federal agency that has responsibilities regarding the provision of health services in such area during the emergency.
-  >     - **(iv)** The purposes of the arrangement are—
-  >       - **(I)** to coordinate, to the extent practicable, the provision of health services in the emergency area by the out-of-area practitioner with the provision of services by the emergency-area entity, or by the Federal agency, as the case may be;
-  >       - **(II)** to identify a location in the emergency area to which such practitioner should report for purposes of providing health services, and to identify an individual or individuals in the area to whom the practitioner should report for such purposes; and
-  >       - **(III)** to verify the identity of the practitioner and that the practitioner is licensed or certified by one or more of the States.
-  >     - **(v)** With respect to the licensure or certification of health care practitioners, the provision of services by the out-of-area practitioner in the emergency area is not a violation of the law of the State in which the area is located.
-  >   - **(B)** In issuing criteria under subparagraph (A), the Secretary shall take into account the need to rapidly enter into arrangements under such subparagraph in order to provide health services in emergency areas promptly after the emergency begins.
-  >   - **(C)** Subparagraph (A) applies with respect to an act or omission of an out-of-area practitioner only to the extent that the practitioner is not immune from liability for such act or omission under the Volunteer Protection Act of 1997.
-  >   - **(D)** For purposes of this paragraph, the term emergency area means a geographic area for which—
-  >     - **(i)** the Secretary has made a determination under section 319 that a public health emergency exists; or
-  >     - **(ii)** a presidential declaration of major disaster has been issued under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+Section 330A(j) of the Public Health Service Act (42 U.S.C. 254c(j)) is amended by striking “$40,000,000” and all that follows through the period and inserting “$45,000,000 for each of fiscal years 2008 through 2012.”.
 
-## § 6. Demonstration project for integrated health systems to expand access to primary and preventive services for the medically underserved
+## § 5. Reauthorization of primary dental health workforce programs
 
-Part D of title III of the Public Health Service Act (42 U.S.C. 259b et seq.) is amended by adding at the end the following new subpart:
+Section 340G(f) of the Public Health Service Act (42 U.S.C. 256g(f)) is amended—
+
+- **(1)** by striking “$50,000,000” and inserting “$25,000,000”; and
+- **(2)** by striking “2002” and inserting “2008”.
+
+## § 6. Emergency response coordination of primary care providers
+
+- **(a)** *In general* Subtitle B of title XXVIII of the Public Health Service Act (42 U.S.C. 300hh–10 et seq.) is amended by adding at the end the following:
+  > ## § 2815. Emergency response coordination of primary care providers
+  >
+  > The Secretary, acting through Administrator of the Health Resources and Services Administration, and in coordination with the Assistant Secretary for Preparedness and Response, shall
+  >
+  > - **(1)** provide guidance and technical assistance to health centers funded under section 330 and to State and local health departments and emergency managers to integrate health centers into State and local emergency response plans and to better meet the primary care needs of populations served by health centers during public health emergencies; and
+  > - **(2)** encourage employees at health centers funded under section 330 to participate in emergency medical response programs including the National Disaster Medical System authorized in section 2812, the Volunteer Medical Reserve Corps authorized in section 2813, and the Emergency System for Advance Registration of Health Professions Volunteers authorized in section 319I.
+
+- **(b)** *Sense of the Congress* It is the Sense of Congress that the Secretary of Health and Human Services, to the extent permitted by law, utilize the existing authority provided under the Federal Tort Claims Act for health centers funded under section 330 of the Public Health Service Act (42 U.S.C. 254b) in order to establish expedited procedures under which such health centers and their health care professionals that have been deemed eligible for Federal Tort Claims Act coverage are able to respond promptly in a coordinated manner and on a temporary basis to public health emergencies outside their traditional service area and sites, and across State lines, as necessary and appropriate.
+
+## § 7. Revision of the timeframe for the recognition of certain designations in certifying rural health clinics under the Medicare program
+
+- **(a)** *In general* The second sentence of section 1861(aa)(2) of the Social Security Act (42 U.S.C. 1395x(aa)(2)) is amended by striking “3-year period” and inserting “4-year period” in the matter in clause (i) preceding subclause (I).
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on the date of the enactment of this Act.
