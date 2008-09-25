@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6370
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6370
@@ -39,3 +39,7 @@ Oregon Surplus Federal Land Act of 2008
 - 2008-09-22 — Reported by the Committee on Transportation. H. Rept. 110-865.
 - 2008-09-22 — Reported by the Committee on Transportation. H. Rept. 110-865.
 - 2008-09-23 — Received in the Senate.
+- 2008-09-24 — Cleared for White House.
+- 2008-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9434)
+- 2008-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9434)
+- 2008-09-25 — Message on Senate action sent to the House.
