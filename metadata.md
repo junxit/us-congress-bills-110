@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 758
