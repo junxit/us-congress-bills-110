@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3232
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 4 executed, 10 stated and not applied.
+17 amendatory instructions. 4 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 22 U.S.C. § 2122
 
-> by striking “United States National Tourism Organization” and inserting “Corporation for Travel Promotion (established by section 3 of the Travel Promotion Act of 2007)”;
+> by striking “United States National Tourism Organization” and inserting “Corporation for Travel Promotion (established by section 3 of the Travel Promotion Act of 2008)”;
 
 | | |
 |---|---|
 | Removed | `United States National Tourism Organization` |
-| Inserted | `Corporation for Travel Promotion (established by section 3 of the Travel Promotion Act of 2007)` |
+| Inserted | `Corporation for Travel Promotion (established by section 3 of the Travel Promotion Act of 2008)` |
 
 ### 22 U.S.C. § 2122
 
@@ -69,6 +69,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `8 U.S.C. § 1187` | replace | in clause (i), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1187` | replace | in clause (ii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1187` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2122` | strike | by striking “and by the United States National Tourism Organization Act of 1996”; and | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2122` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2124` | strike | by striking paragraphs (8) through (10); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
