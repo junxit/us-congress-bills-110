@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6946
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6946
@@ -33,3 +33,10 @@ To make a technical correction in the NET 911 Improvement Act of 2008.
 - 2008-09-18 — Introduced in House
 - 2008-09-18 — Introduced in House
 - 2008-09-18 — Referred to the House Committee on Energy and Commerce.
+- 2008-09-25 — Committee on Energy and Commerce discharged.
+- 2008-09-25 — Committee on Energy and Commerce discharged.
+- 2008-09-25 — Considered by unanimous consent. (consideration: CR H9926)
+- 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-25 — Mr. Pallone asked unanimous consent to discharge from committee and consider.
+- 2008-09-25 — On passage Passed without objection. (text: CR H9926)
+- 2008-09-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9926)
