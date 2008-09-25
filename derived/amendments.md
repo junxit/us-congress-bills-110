@@ -1,7 +1,7 @@
 ---
 measure: H.R. 923
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
