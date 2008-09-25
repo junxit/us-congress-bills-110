@@ -2,7 +2,7 @@
 legis-num: H. RES. 988
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 988
@@ -25,7 +25,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 That the United States House of Representatives—
 
-- **(1)** recognizes the need to apply what is already known about reducing the transmission of infections in hospitals and assuring appropriate use and utilization of antibiotics to meet patient and public health needs;
-- **(2)** recognizes the need to pursue operational research to find the best ways of preventing hospital- and community-acquired Methicillin-resistant Staphylococcus aureus (MRSA) and developing new antibiotics for improving care for MRSA patients;
+- **(1)** recognizes the importance of reducing the transmission of infections in hospitals and ensuring appropriate use and utilization of antibiotics to meet patient and public health needs;
+- **(2)** recognizes the importance of operational research for finding the best ways of preventing hospital- and community-acquired Methicillin-resistant Staphylococcus aureus (MRSA) and developing new antibiotics for improving care for MRSA patients;
 - **(3)** recognizes the importance of raising awareness of MRSA and methods of preventing MRSA infections; and
 - **(4)** supports the work of advocates, healthcare practitioners, and science-based experts in educating, supporting, and providing hope for individuals and their families affected by community and healthcare associated infections.
