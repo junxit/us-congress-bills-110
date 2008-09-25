@@ -1,7 +1,7 @@
 ---
 measure: S. 2840
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2840
@@ -24,9 +24,10 @@ Military Personnel Citizenship Processing Act
 - Sen. Specter, Arlen [R-PA] (S000709)
 - Sen. Leahy, Patrick J. [D-VT] (L000174)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -37,3 +38,8 @@ Military Personnel Citizenship Processing Act
 - 2008-08-01 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. With written report No. 110-440.
 - 2008-08-01 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. With written report No. 110-440.
 - 2008-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 936.
+- 2008-09-24 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9433-9434; text as passed Senate: CR S9433-9434)
+- 2008-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9433-9434; text as passed Senate: CR S9433-9434)
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Received in the House.
+- 2008-09-25 — Referred to the House Committee on the Judiciary.
