@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 758
@@ -273,3 +273,8 @@ Breast Cancer Patient Protection Act of 2008
 - 2008-09-23 — Placed on the Union Calendar, Calendar No. 564.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-868, Part I.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-868, Part I.
+- 2008-09-25 — Considered as unfinished business. (consideration: CR H9896)
+- 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 639). (text: CR 9/23/2008 H8661-8664)
+- 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 421 - 2 (Roll no. 639).(text: CR 9/23/2008 H8661-8664)
+- 2008-09-25 — Received in the Senate.
