@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Organ Transplant Authorization Act of 2008”.
+This Act may be cited as the “Stephanie Tubbs Jones Organ Transplant Authorization Act of 2008”.
 
 ## § 2. Findings
 
