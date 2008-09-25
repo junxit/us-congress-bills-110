@@ -1,7 +1,7 @@
 ---
 measure: H.R. 923
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 923
@@ -132,3 +132,6 @@ Emmett Till Unsolved Civil Rights Crime Act of 2007
 - 2007-06-20 — The title of the measure was amended. Agreed to without objection.
 - 2007-06-21 — Received in the Senate.
 - 2007-06-26 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 237.
+- 2008-09-24 — Cleared for White House.
+- 2008-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9350-9355)
+- 2008-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9350-9355)
