@@ -1,7 +1,7 @@
 ---
 measure: S. 1276
 congress: 110
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 1276
@@ -33,9 +33,11 @@ Methamphetamine Production Prevention Act of 2008
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
+- House — Energy and Commerce Committee
 
 ## Actions
 
@@ -46,3 +48,10 @@ Methamphetamine Production Prevention Act of 2008
 - 2008-09-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2008-09-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2008-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 962.
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S9461-9463; text of measure as reported in Senate: CR S9461-9462)
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S9461-9463; text of measure as reported in Senate: CR S9461-9462)
+- 2008-09-25 — Received in the House.
+- 2008-09-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-09-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-09-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
