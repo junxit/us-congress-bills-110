@@ -33,7 +33,7 @@ Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended t
 > ## § 1271. Maintenance of the national toll-free number
 >
 > - **(a)** *In general* The Secretary shall provide coordination and assistance to poison control centers for the establishment of a nationwide toll-free phone number, and the maintenance of such number, to be used to access such centers.
-> - **(b)** *Authorization of appropriations* There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $1,000,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a).
+> - **(b)** *Authorization of appropriations* There is authorized to be appropriated $2,000,000 for fiscal year 2009 to carry out this section, and $700,000 for each of fiscal years 2010 through 2014 for the maintenance of the nationwide toll free phone number under subsection (a).
 
 ## § 4. Reauthorization of nationwide media campaign to promote poison control center utilization
 
@@ -48,7 +48,7 @@ Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended t
   > - **(c)** *Evaluation* The Secretary shall—
   >   - **(1)** establish baseline measures and benchmarks to quantitatively evaluate the impact of the nationwide media campaign carried out under this section; and
   >   - **(2)** on an annual basis, prepare and submit to the appropriate committees of Congress, an evaluation of the nationwide media campaign.
-  > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal year 2009, and $1,500,000 for each of fiscal years 2010 through 2014.
+  > - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal year 2009, and $800,000 for each of fiscal years 2010 through 2014.
 
 - **(b)** *Effective date* The amendment made by this section shall be effective on the date of the enactment of this Act and shall apply to contracts entered into on or after January 1, 2009.
 
@@ -58,7 +58,7 @@ Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended t
   > ## § 1273. Maintenance of the poison control center grant program
   >
   > - **(a)** *Authorization of program* The Secretary shall award grants to poison control centers certified under subsection (c) (or granted a waiver under subsection (d)) and professional organizations in the field of poison control for the purposes of preventing, and providing treatment recommendations for, poisonings and complying with the operational requirements needed to sustain the certification of the center under subsection (c).
-  > - **(b)** *Additional uses of grant funds* In addition to the purposes described in subsection (a), a poison center or professional organization awarded a grant under such subsection may also use amounts received under such grant—
+  > - **(b)** *Additional uses of funds* In addition to the purposes described in subsection (a), a poison center or professional organization awarded a grant, contract, or cooperative agreement under such subsection may also use amounts received under such grant, contract, or cooperative agreement—
   >   - **(1)** to establish and evaluate best practices in the United States for poison prevention, poison control center outreach, and emergency and preparedness programs;
   >   - **(2)** to research, develop, implement, revise, and communicate standard patient management guidelines for commonly encountered toxic exposures;
   >   - **(3)** to improve national toxic exposure surveillance by enhancing cooperative activities between poison control centers in the United States and the Centers for Disease Control and Prevention;
@@ -73,8 +73,8 @@ Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended t
   >   - **(1)** *In general* The Secretary may grant a waiver of the certification requirements of subsection (c) with respect to a noncertified poison control center that applies for a grant under this section if such center can reasonably demonstrate that the center will obtain such a certification within a reasonable period of time as determined appropriate by the Secretary.
   >   - **(2)** *Renewal* The Secretary may renew a waiver under paragraph (1).
   >   - **(3)** *Limitation* In no case may the sum of the number of years for a waiver under paragraph (1) and a renewal under paragraph (2) exceed 5 years. The preceding sentence shall take effect as of the date of the enactment of the Poison Center Support, Enhancement, and Awareness Act of 2008.
-  > - **(e)** *Supplement not supplant* Amounts made available to a poison control center under this section shall be used to supplement and not supplant other Federal, State, or local funds provided for such center.
+  > - **(e)** *Supplement not supplant* Amounts made available to a poison control center under this section shall be used to supplement and not supplant other Federal, State or local funds provided for such center.
   > - **(f)** *Maintenance of effort* A poison control center, in utilizing the proceeds of a grant under this section, shall maintain the expenditures of the center for activities of the center at a level that is not less than the level of expenditures maintained by the center for the fiscal year preceding the fiscal year for which the grant is received.
-  > - **(g)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $27,500,000 for fiscal year 2009, and $35,000,000 for each of fiscal years 2010 through 2014.
+  > - **(g)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section, $27,500,000 for fiscal year 2009, and $28,600,000 for each of fiscal years 2010 through 2014. The Secretary may utilize not to exceed 8 percent of the amount appropriated under this preceding sentence in each fiscal year for coordination, dissemination, technical assistance, program evaluation, data activities, and other program administration functions that do not include grants, contracts, or cooperative agreements under subsections (a) and (b), which are determined by the Secretary to be appropriate for carrying out the program under this section.
 
 - **(b)** *Effective date* The amendment made by this section shall be effective as of the date of the enactment of this Act and shall apply to grants made on or after January 1, 2009.
