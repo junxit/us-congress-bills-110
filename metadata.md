@@ -1,7 +1,7 @@
 ---
 measure: S. 3241
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3241
@@ -39,3 +39,11 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2008-08-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S7984; text as passed Senate: CR S7984)
 - 2008-09-08 — Received in the House.
 - 2008-09-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-24 — Cleared for White House.
+- 2008-09-24 — Committee on Oversight and Government discharged.
+- 2008-09-24 — Committee on Oversight and Government discharged.
+- 2008-09-24 — Considered by unanimous consent. (consideration: CR H8717-8718)
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Ms. Sutton asked unanimous consent to discharge from committee and consider.
+- 2008-09-24 — On passage Passed without objection. (text: CR H8718)
+- 2008-09-24 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8718)
