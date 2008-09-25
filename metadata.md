@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1199
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1199
@@ -69,3 +69,8 @@ Drug Endangered Children Act of 2007
 - 2007-09-24 — Reported by the Committee on Judiciary. H. Rept. 110-341, Part I.
 - 2007-09-24 — Reported by the Committee on Judiciary. H. Rept. 110-341, Part I.
 - 2007-09-25 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-09-24 — Cleared for White House.
+- 2008-09-24 — Passed Senate without amendment by Unanimous Consent.
+- 2008-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9350)
+- 2008-09-24 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9350)
