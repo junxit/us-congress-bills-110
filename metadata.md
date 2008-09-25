@@ -1,7 +1,7 @@
 ---
 measure: S. 3550
 congress: 110
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3550
@@ -16,9 +16,10 @@ An original bill to designate a portion of the Rappahannock River in the Commonw
 
 - Sen. Boxer, Barbara [D-CA] (B000711)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Environment and Public Works Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -29,3 +30,6 @@ An original bill to designate a portion of the Rappahannock River in the Commonw
 - 2008-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9434; text as passed Senate: CR S9434)
 - 2008-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9434; text as passed Senate: CR S9434)
 - 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1053.
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Received in the House.
+- 2008-09-25 — Referred to the House Committee on Natural Resources.
