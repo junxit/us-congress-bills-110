@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6984
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6984
@@ -49,3 +49,4 @@ Federal Aviation Administration Extension Act of 2008, Part II
 - 2008-09-23 — Provisions of measure incorporated into H.R. 6327 (P.L. 110-253)..
 - 2008-09-23 — Provisions of measure incorporated into H.R. 6984 (P.L. 110-330)..
 - 2008-09-23 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S9338-9340)
+- 2008-09-24 — Message on Senate action sent to the House.
