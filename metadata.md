@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6874
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6874
@@ -38,3 +38,11 @@ To designate the facility of the United States Postal Service located at 156 Tau
 - 2008-09-11 — Introduced in House
 - 2008-09-11 — Introduced in House
 - 2008-09-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-24 — Committee on Oversight and Government discharged.
+- 2008-09-24 — Committee on Oversight and Government discharged.
+- 2008-09-24 — Considered by unanimous consent. (consideration: CR H8715)
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Ms. Sutton asked unanimous consent to discharge from committee and consider.
+- 2008-09-24 — On passage Passed without objection. (text: CR H8715)
+- 2008-09-24 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8715)
+- 2008-09-25 — Received in the Senate, read twice.

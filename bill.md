@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6874
 
-> To designate the facility of the United States Postal Service located at 156 Taunton Avenue in Seekonk, Massachusetts, as the “Lance Corporal Eric Paul Valdepenas Post Office Building”.
+> To designate the facility of the United States Postal Service located at 156 Taunton Avenue in Seekonk, Massachusetts, as the “Lance Corporal Eric Paul Valdepeñas Post Office Building”.
 
 ## § 1. Lance Corporal Eric Paul Valdepeñas Post Office Building
 
