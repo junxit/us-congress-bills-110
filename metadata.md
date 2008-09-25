@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1461
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1461
@@ -29,3 +29,12 @@ Recognizing the 10th anniversary of the terrorist bombings of the United States 
 - 2008-09-18 — Introduced in House
 - 2008-09-18 — Introduced in House
 - 2008-09-18 — Referred to the House Committee on Foreign Affairs.
+- 2008-09-23 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Ms. Ros-Lehtinen objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-23 — Considered under suspension of the rules. (consideration: CR H8643-8645; text of measure as introduced: CR H8643-8644)
+- 2008-09-23 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1461.
+- 2008-09-23 — Mr. Scott (GA) moved to suspend the rules and agree to the resolution, as amended.
+- 2008-09-25 — Considered as unfinished business.
+- 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.
+- 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.
+- 2008-09-25 — The title of the measure was amended. Agreed to without objection.
