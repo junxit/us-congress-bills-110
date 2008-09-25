@@ -1,7 +1,7 @@
 ---
 measure: S. 2932
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1273 of the Public Health Service Act (42 U.S.C. 300d–73) is amended to read as follows: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 300d-71` | amend | Section 1271 of the Public Health Service Act (42 U.S.C. 300d–71) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300d-72` | amend | Section 1272 of the Public Health Service Act (42 U.S.C. 300d–72) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300d-73` | amend | Section 1273 of the Public Health Service Act (42 U.S.C. 300d–73) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
