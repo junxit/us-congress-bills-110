@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2095
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 2095
@@ -16,7 +16,7 @@ Railroad Safety Enhancement Act of 2008
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (94)
+## Cosponsors (95)
 
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
@@ -112,6 +112,7 @@ Railroad Safety Enhancement Act of 2008
 - Rep. Van Hollen, Chris [D-MD-8] (V000128)
 - Rep. Boren, Dan [D-OK-2] (B001254)
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
 
 ## Committees (2)
 
@@ -185,3 +186,16 @@ Railroad Safety Enhancement Act of 2008
 - 2007-10-17 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H11695)
 - 2007-10-17 — The previous question was ordered pursuant to the rule. (consideration: CR H11694)
 - 2007-10-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2008-08-01 — Amendment SA 5259 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Amendment SA 5259 proposed by Senator Cantwell for Senator Lautenberg. (consideration: CR S8003) In the nature of a substitute.
+- 2008-08-01 — Measure laid before Senate by unanimous consent. (consideration:  CR S8003)
+- 2008-08-01 — Message on Senate action sent to the House.
+- 2008-08-01 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-08-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-08-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2008-08-01 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2008-08-01 — Senate amendment agreed to: Amendment SA 5259 agreed to in Senate by Unanimous Consent.
+- 2008-08-01 — Senate amendment proposed (on the floor): Amendment SA 5259 proposed by Senator Cantwell for Senator Lautenberg.(consideration: CR S8003)
+- 2008-08-01 — Senate amendment submitted
+- 2008-09-24 — House agreed to Senate amendment with an amendment pursuant to H.Res. 1492.
+- 2008-09-25 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
