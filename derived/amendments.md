@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1199
 congress: 110
-version: Referred in Senate
+version: Enrolled Bill
 derived: true
 ---
 
