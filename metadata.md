@@ -1,7 +1,7 @@
 ---
 measure: H.R. 928
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 928
@@ -16,7 +16,7 @@ Inspector General Reform Act of 2008
 
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 
-## Cosponsors (7)
+## Cosponsors (10)
 
 - Rep. Gordon, Bart [D-TN-6] (G000309)
 - Rep. Castle, Michael N. [R-DE-At Large] (C000243)
@@ -25,6 +25,9 @@ Inspector General Reform Act of 2008
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Shays, Christopher [R-CT-4] (S001144)
+- Sen. Salazar, Ken [D-CO] (S001163)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Lieberman, Joseph I. [ID-CT] (L000304)
 
 ## Committees (2)
 
@@ -106,3 +109,17 @@ Inspector General Reform Act of 2008
 - 2007-10-03 — The previous question was ordered pursuant to the rule. (consideration: CR H11200)
 - 2007-10-03 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of an amendment which had been debated earlier and on which further proceedings had been postponed.
 - 2007-10-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-09-24 — Amendment SA 5644 agreed to in Senate by Unanimous Consent.
+- 2008-09-24 — Amendment SA 5644 proposed by Senator Salazar for Senator McCaskill. (consideration: CR S9434) To amend the Inspector General Act of 1978 (5 U.S.C. App.) to enhance the Offices of the Inspectors General, to create a Council of the Inspectors General on Integrity and Efficiency, and for other purposes.
+- 2008-09-24 — Measure laid before Senate by unanimous consent. (consideration: CR S9434)
+- 2008-09-24 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-24 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2008-09-24 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2008-09-24 — Senate amendment agreed to: Amendment SA 5644 agreed to in Senate by Unanimous Consent.
+- 2008-09-24 — Senate amendment proposed (on the floor): Amendment SA 5644 proposed by Senator Salazar for Senator McCaskill.(consideration: CR S9434)
+- 2008-09-24 — Senate amendment submitted
+- 2008-09-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Shays objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Mr. Towns moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9877-9882)
+- 2008-09-25 — The House proceeded with forty minutes of debate on H.R. 928.
