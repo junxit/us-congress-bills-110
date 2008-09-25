@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6908
 congress: 110
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 6908
@@ -49,3 +49,4 @@ Health Insurance Restrictions and Limitations Clarification Act of 2008
 - 2008-09-23 — Placed on the Union Calendar, Calendar No. 566.
 - 2008-09-23 — Reported by the Committee on Energy and Commerce. H. Rept. 110-870, Part I.
 - 2008-09-23 — Reported by the Committee on Energy and Commerce. H. Rept. 110-870, Part I.
+- 2008-09-25 — Received in the Senate.
