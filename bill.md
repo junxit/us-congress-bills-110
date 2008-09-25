@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4544
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Code Talkers Recognition Act of 2007”.
+This Act may be cited as the “Code Talkers Recognition Act of 2008”.
 
 ## § 2. Purpose
 
@@ -22,36 +22,58 @@ The purpose of this Act is to require the issuance of medals to express the sens
 
 ## § 3. Findings
 
-The Congress finds that—
+The Congress finds the following:
 
-- **(1)** when the United States entered World War I, Native Americans were not accorded the status of citizens of the United States;
-- **(2)** without regard to that lack of citizenship, members of Indian tribes and nations enlisted in the Armed Forces to fight on behalf of the United States;
-- **(3)** the first reported use of Native American code talkers was on October 17, 1918;
-- **(4)**
-  - **(A)** during World War I, Choctaw code talkers were the first code talkers who played a role in United States military operations by transmitting vital communications that helped defeat German forces in Europe;
-  - **(B)** because the language used by the Choctaw code talkers in the transmission of information was not based on a European language or on a mathematical progression, the Germans were unable to understand any of the transmissions;
-  - **(C)** this was the first time in modern warfare that such a transmission of messages in a native language was used for the purpose of confusing an enemy;
-- **(5)** on December 7, 1941, Japan attacked Pearl Harbor, Hawaii, and the Congress declared war the following day;
-- **(6)**
-  - **(A)** the Federal Government called on the Comanche Nation to support the military effort during World War II by recruiting and enlisting Comanche men to serve in the Army to develop a secret code based on the Comanche language;
-  - **(B)** the Army recruited approximately 50 Native Americans for special native language communication assignments; and
-  - **(C)** the Marines recruited several hundred Navajos for duty in the Pacific region;
-- **(7)**
-  - **(A)** during World War II, the United States employed Native American code talkers who developed secret means of communication based on native languages and were critical to winning the war; and
-  - **(B)** to the frustration of the enemies of the United States, the code developed by the Native American code talkers proved to be unbreakable and was used extensively throughout the European theater;
-- **(8)** in 2001, the Congress and President Bush honored Navajo code talkers with congressional gold medals for the contributions of the code talkers to the United States Armed Forces as radio operators during World War II;
-- **(9)** soldiers from the Assiniboine, Cherokee, Cheyenne, Chippewa/Oneida, Choctaw, Comanche, Cree, Crow, Hopi, Kiowa, Menominee, Meskwaki, Mississauga, Muscogee, Osage, Pawnee, Sac and Fox, Seminole, and Sioux (Lakota and Dakota) Indian tribes and nations also served as code talkers during World War II;
-- **(10)** the heroic and dramatic contributions of Native American code talkers were instrumental in driving back Axis forces across the Pacific during World War II; and
-- **(11)** the Congress should provide to all Native American code talkers the recognition the code talkers deserve for the contributions of the code talkers to United States victories in World War I and World War II.
+- **(1)** When the United States entered World War I, Native Americans were not accorded the status of citizens of the United States.
+- **(2)** Without regard to that lack of citizenship, members of Indian tribes and nations enlisted in the Armed Forces to fight on behalf of the United States.
+- **(3)** The first reported use of Native American code talkers was on October 17, 1918.
+- **(4)** Because the language used by the Choctaw code talkers in the transmission of information was not based on a European language or on a mathematical progression, the Germans were unable to understand any of the transmissions.
+- **(5)** This use of Native American code talkers was the first time in modern warfare that such a transmission of messages in a native language was used for the purpose of confusing an enemy.
+- **(6)** On December 7, 1941, Japan attacked Pearl Harbor, Hawaii, and the Congress declared war the following day.
+- **(7)** The Federal Government called on the Comanche Nation to support the military effort during World War II by recruiting and enlisting Comanche men to serve in the Army to develop a secret code based on the Comanche language.
+- **(8)** The United States Army recruited approximately 50 Native Americans for special native language communication assignments.
+- **(9)** The United States Marine Corps recruited several hundred Navajos for duty in the Pacific region.
+- **(10)** During World War II, the United States employed Native American code talkers who developed secret means of communication based on native languages and were critical to winning the war.
+- **(11)** To the frustration of the enemies of the United States, the code developed by the Native American code talkers proved to be unbreakable and was used extensively throughout the European theater.
+- **(12)** In 2001, the Congress and President Bush honored Navajo code talkers with congressional gold medals for the contributions of the code talkers to the United States Armed Forces as radio operators during World War II.
+- **(13)** The heroic and dramatic contributions of Native American code talkers were instrumental in driving back Axis forces across the Pacific during World War II.
+- **(14)** The Congress should provide to all Native American code talkers the recognition the code talkers deserve for the contributions of the code talkers to United States victories in World War I and World War II.
 
 ## § 4. Definitions
 
 In this Act, the following definitions shall apply:
 
-- **(1)** *Code talker* The term code talker means a Native American who—
+- **(1)** *Code talker* The term “code talker” means a Native American who—
   - **(A)** served in the Armed Forces during a foreign conflict in which the United States was involved; and
-  - **(B)** during the term of service of the Native American, participated in communication using a native language.
-- **(2)** *Recognized tribe* The term recognized tribe means any of the following Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)):
+  - **(B)** transmitted (encoded and translated) secret coded messages for tactical military operations during World War I and World War II using their native tribal language (non-spontaneous communications)
+- **(2)** *Secretary* The term “Secretary” means the Secretary of the Treasury.
+
+## § 5. Congressional gold medals
+
+- **(a)** *Award authorization* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of gold medals of appropriate design in recognition of the service of Native American code talkers during World War I and World War II.
+- **(b)** *Identification of recipients* The Secretary, in consultation with the Secretary of Defense and the tribes, shall—
+  - **(1)** determine the identity, to the maximum extent practicable, of each Native American tribe that had a member of that tribe serve as a Native American code talker, with the exception of the Navajo Nation;
+  - **(2)** include the name of each Native American tribe identified under subparagraph (A) on a list; and
+  - **(3)** provide the list, and any updates to the list, to the Smithsonian Institution for maintenance under section 5(c)(2).
+- **(c)** *Design and striking of medals*
+  - **(1)** *In general* The Secretary shall strike the gold medals awarded under subsection (a) with appropriate emblems, devices, and inscriptions, as determined by the Secretary.
+  - **(2)** *Designs of medals emblematic of tribal affiliation and participation* The design of a gold medal under paragraph (1) shall be emblematic of the participation of the code talkers of each recognized tribe.
+  - **(3)** *Treatment* Each medal struck pursuant to this subsection shall be considered to be a national medal for purposes of chapter 51 of title 31, United States Code.
+- **(d)** *Action by Smithsonian Institution* The Smithsonian Institution—
+  - **(1)** shall accept and maintain such gold medals, and such silver duplicates of those medals, as recognized tribes elect to send to the Smithsonian Institution;
+  - **(2)** shall maintain the list developed under section 6(1) of the names of Native American code talkers of each recognized tribe; and
+  - **(3)** is encouraged to create a standing exhibit for Native American code talkers or Native American veterans.
+
+## § 6. Native American code talkers
+
+The Secretary, in consultation with the Secretary of Defense and the tribes, shall—
+
+- **(1)** with respect to tribes recognized as of the date of the enactment of this Act —
+  - **(A)** determine the identity, to the maximum extent practicable, of each Native American code talker of each recognized tribe with the exception of the Navajo Nation;
+  - **(B)** include the name of each Native American code talker identified under subparagraph (A) on a list, to be organized by recognized tribe; and
+  - **(C)** provide the list, and any updates to the list, to the Smithsonian Institution for maintenance under section 5(d)(2);
+- **(2)** in the future, determine whether any Indian tribe that is not a recognized as of the date of the enactment of this Act, should be eligible to receive a gold medal under this Act; and
+- **(3)** with consultation from the tribes listed in following subsection, examine the following specific tribes to determine the existence of Code Talkers:
   - **(A)** Assiniboine.
   - **(B)** Chippewa and Oneida.
   - **(C)** Choctaw.
@@ -65,29 +87,6 @@ In this Act, the following definitions shall apply:
   - **(K)** Muscogee.
   - **(L)** Sac and Fox.
   - **(M)** Sioux.
-- **(3)** *Secretary* The term Secretary means the Secretary of the Treasury.
-
-## § 5. Congressional gold medals
-
-- **(a)** *Award authorization* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of the Congress, of gold medals of appropriate design in recognition of the service of Native American code talkers of each recognized tribe.
-- **(b)** *Design and striking*
-  - **(1)** *In general* The Secretary shall strike the gold medals awarded under subsection (a) with appropriate emblems, devices, and inscriptions, as determined by the Secretary.
-  - **(2)** *Designs of medals emblematic of tribal affiliation and participation* The design of a gold medal under paragraph (1) shall be emblematic of the participation of the code talkers of each recognized tribe.
-  - **(3)** *Treatment* Each medal struck pursuant to this subsection shall be considered to be a national medal for purposes of chapter 51 of title 31, United States Code.
-- **(c)** *Action by Smithsonian Institution* The Smithsonian Institution—
-  - **(1)** shall accept and maintain such gold medals, and such silver duplicates of those medals, as recognized tribes elect to send to the Smithsonian Institution;
-  - **(2)** shall maintain the list developed under section 6(1) of the names of Native American code talkers of each recognized tribe; and
-  - **(3)** is encouraged to create a standing exhibit for Native American code talkers or Native American veterans.
-
-## § 6. Native American code talkers
-
-The Secretary, in consultation with the Secretary of Defense and the tribes, shall—
-
-- **(1)**
-  - **(A)** determine the identity, to the maximum extent practicable, of each Native American code talker of each recognized tribe;
-  - **(B)** include the name of each Native American code talker identified under subparagraph (A) on a list, to be organized by recognized tribe; and
-  - **(C)** provide the list, and any updates to the list, to the Smithsonian Institution for maintenance under section 5(c)(2); and
-- **(2)** determine whether any Indian tribe that is not a recognized tribe should be eligible to receive a gold medal under this Act.
 
 ## § 7. Duplicate medals
 
@@ -101,5 +100,5 @@ The Secretary, in consultation with the Secretary of Defense and the tribes, sha
 
 ## § 8. Authority to use fund amounts; proceeds of sale
 
-- **(a)** *Authority To use fund amounts* There are authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this Act.
+- **(a)** *Authority to use fund amounts* There are authorized to be charged against the United States Mint Public Enterprise Fund such amounts as may be necessary to pay for the cost of the medals struck pursuant to this Act.
 - **(b)** *Proceeds of sale* Amounts received from the sale of duplicate bronze medals authorized under section 7(b) shall be deposited into the United States Mint Public Enterprise Fund.
