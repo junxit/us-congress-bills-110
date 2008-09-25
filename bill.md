@@ -29,7 +29,7 @@ This Act may be cited as the “Breast Cancer and Environmental Research Act of 
   >       - **(iv)** expand the number of collaborative, multidisciplinary, and multi-institutional research grants;
   >     - **(C)** develop a summary of advances in breast cancer research supported or conducted by Federal agencies relevant to the diagnosis, prevention, and treatment of cancer and other diseases and disorders; and
   >     - **(D)** not later than 2 years after the date of the establishment of the Committee, make recommendations to the Secretary—
-  >       - **(i)** regarding any appropriate changes to research activities, including recommendations to improve the research portfolio of the National Institutes of Health to ensure that scientifically-based strategic planning is implemented in support of research priorities that impact breast cancer research activities;
+  >       - **(i)** regarding any appropriate changes to research activities, including recommendations to improve the research portfolio of the National Institutes of Health to ensure that scientifically based strategic planning is implemented in support of research priorities that impact breast cancer research activities;
   >       - **(ii)** to ensure that the activities of the National Institutes of Health and other Federal agencies, including the Department of Defense, are free of unnecessary duplication of effort;
   >       - **(iii)** regarding public participation in decisions relating to breast cancer research to increase the involvement of patient advocacy and community organizations representing a broad geographical area;
   >       - **(iv)** on how best to disseminate information on breast cancer research progress; and
