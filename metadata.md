@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6474
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6474
@@ -16,9 +16,10 @@ To authorize the Chief Administrative Officer of the House of Representatives to
 
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Wamp, Zach [R-TN-3] (W000119)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ To authorize the Chief Administrative Officer of the House of Representatives to
 - 2008-07-10 — Introduced in House
 - 2008-07-10 — Introduced in House
 - 2008-07-10 — Referred to the House Committee on House Administration.
+- 2008-07-30 — Committee Consideration and Mark-up Session Held.
+- 2008-07-30 — Ordered to be Reported by the Yeas and Nays: 4 - 3.
+- 2008-09-25 — Placed on the Union Calendar, Calendar No. 575.
+- 2008-09-25 — Reported by the Committee on House Administration. H. Rept. 110-890.
+- 2008-09-25 — Reported by the Committee on House Administration. H. Rept. 110-890.
