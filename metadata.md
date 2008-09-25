@@ -1,7 +1,7 @@
 ---
 measure: S. 2162
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2162
@@ -31,9 +31,10 @@ Veterans' Mental Health and Other Care Improvements Act of 2008
 - Sen. Stevens, Ted [R-AK] (S000888)
 - Sen. Burr, Richard [R-NC] (B001135)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Veterans' Affairs Committee
+- House — Veterans' Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,13 @@ Veterans' Mental Health and Other Care Improvements Act of 2008
 - 2008-06-03 — Senate amendment proposed (on the floor): Amendment SA 4824 proposed by Senator Boxer for Senator Akaka.(consideration: CR S4986)
 - 2008-06-03 — Senate amendment submitted
 - 2008-06-03 — The committee substitute was withdrawn by Unanimous Consent.
+- 2008-06-04 — Message on Senate action sent to the House.
+- 2008-06-04 — Received in the House.
+- 2008-06-04 — Referred to the House Committee on Veterans' Affairs.
+- 2008-09-24 — Considered under suspension of the rules. (consideration: CR H9369-9387)
+- 2008-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 2162.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9369-9378)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9369-9378)
+- 2008-09-25 — Message on House action received in Senate and at desk: House amendment to Senate bill.
