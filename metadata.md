@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1014
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1014
@@ -261,6 +261,10 @@ HEART for Women Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2008-09-25 — [House 110-2-642](votes/house-110-2-0642.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (418–4)
+
 ## Actions
 
 - 2007-02-13 — Introduced in House
@@ -277,3 +281,7 @@ HEART for Women Act
 - 2008-09-23 — Placed on the Union Calendar, Calendar No. 570.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-874.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-874.
+- 2008-09-25 — Considered as unfinished business. (consideration: CR H9927)
+- 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 4 (Roll no. 642). (text: CR 9/23/2008 H8689)
+- 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 4 (Roll no. 642).(text: CR 9/23/2008 H8689)
