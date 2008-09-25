@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 659
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 659
@@ -16,10 +16,11 @@ A resolution designating September 27, 2008, as Alcohol and Drug Addiction Recov
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
+- Sen. Biden, Joseph R., Jr. [D-DE] (B000444)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ A resolution designating September 27, 2008, as Alcohol and Drug Addiction Recov
 
 - 2008-09-15 — Introduced in Senate
 - 2008-09-15 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S8531)
+- 2008-09-25 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-09-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-09-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
+- 2008-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1084.
