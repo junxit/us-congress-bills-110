@@ -1,7 +1,7 @@
 ---
 measure: S. 1760
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,8 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 254c-8` | replace | by striking “(b) Requirements” and all that follows through “In making grants under subsection (a)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 254c-8` | add-at-end | by adding at the end the following paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-8` | strike | in subsection (a), by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-8` | strike | by striking subsections (e) and (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-8` | add-at-end | Section 330H of the Public Health Service Act, as amended by subsection (b) of this section, is amended by adding at the end the following subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “(b) Requirements” and all that follows through “In making grants under subsection (a)” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following paragraphs: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (a), by striking paragraph (3); and | the bill names no machine-readable US Code section |
+| — | strike | by striking subsections (e) and (f). | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 330H of the Public Health Service Act, as amended by subsection (b) of this section, is amended by adding at the end the following subsection: | the bill names no machine-readable US Code section |
