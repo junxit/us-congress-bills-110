@@ -2,7 +2,7 @@
 legis-num: H. RES. 1333
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1333
@@ -19,7 +19,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas approximately 1,200,000 Americans are carriers of Tay-Sachs disease;
 - Whereas these unaffected carriers of the disease possess the recessive gene that can trigger the disease in future generations;
 - Whereas if both parents of a child are carriers of Tay-Sachs disease, there is a 1 in 4 chance that the child will develop Tay-Sachs disease;
-- Whereas a simple and inexpensive blood test can determine if an individual is a carrier of Tay-Sachs disease, and all people in the United States, especially those citizens who are members of high-risk populations, should be screened; and
-- Whereas heightened awareness and increased research are the best ways to eradicate this horrific disease: Now, therefore, be it
+- Whereas a blood test can determine if an individual is a carrier of Tay-Sachs disease, and those citizens who are members of high-risk populations should consider being screened; and
+- Whereas heightened awareness and continued research efforts are the best ways to find a treatment for this horrific disease: Now, therefore, be it
 
 That the House of Representatives supports the goals and ideals of Tay-Sachs Awareness Month and encourages and supports education and research efforts with respect to Tay-Sachs disease.
