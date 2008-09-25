@@ -1,7 +1,7 @@
 ---
 measure: S. 3023
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3023
@@ -38,3 +38,13 @@ Veterans' Benefits Improvement Act of 2008
 - 2008-09-16 — Senate amendment proposed (on the floor): Amendment SA 5614 proposed by Senator Levin for Senator Akaka.(consideration: CR S8883; text: CR S8883)
 - 2008-09-16 — Senate amendment submitted
 - 2008-09-16 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2008-09-17 — Held at the desk.
+- 2008-09-17 — Message on Senate action sent to the House.
+- 2008-09-17 — Received in the House.
+- 2008-09-24 — Considered under suspension of the rules. (consideration: CR H9387-9405)
+- 2008-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 3023.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Mr. Filner moved to suspend the rules and pass the bill, as amended.
+- 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9387-9400)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9387-9400)
+- 2008-09-25 — Message on House action received in Senate and at desk: House amendment to Senate bill.
