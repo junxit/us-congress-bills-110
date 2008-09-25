@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4828
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4828
@@ -46,3 +46,4 @@ Palo Alto Battlefield National Historical Park Boundary Expansion and Redesignat
 - 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (CR 9/22/2008 H8495)
 - 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(CR 9/22/2008 H8495)
+- 2008-09-25 — Received in the Senate.
