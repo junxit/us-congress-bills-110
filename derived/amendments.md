@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 1` | repeal | Subsection (d) of section 568 of the Improving America’s Schools Act of 1994 (15 U.S.C. 1 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1` | replace | On page 2, strike lines 5 and 6 and insert the following: “Section 568(d) of the Improving America’s Schools Act of 1994 (15 U.S.C. 1 note) is amended by striking 2008 and inserting 2015.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
