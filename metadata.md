@@ -1,7 +1,7 @@
 ---
 measure: S. 3009
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # S. 3009
