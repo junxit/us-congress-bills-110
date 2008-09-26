@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1014
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1014
@@ -281,3 +281,4 @@ HEART for Women Act
 - 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 4 (Roll no. 642). (text: CR 9/23/2008 H8689)
 - 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 4 (Roll no. 642).(text: CR 9/23/2008 H8689)
+- 2008-09-26 — Received in the Senate.
