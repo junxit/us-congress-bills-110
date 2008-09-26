@@ -1,7 +1,7 @@
 ---
 measure: S. 1276
 congress: 110
-version: Referred in House
+version: Engrossed in Senate
 ---
 
 # S. 1276
