@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1224
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 1224
@@ -16,13 +16,16 @@ Commending the Tennessee Valley Authority on its 75th anniversary.
 
 - Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Rep. Wamp, Zach [R-TN-3] (W000119)
 - Rep. Cooper, Jim [D-TN-5] (C000754)
 - Rep. Blackburn, Marsha [R-TN-7] (B001243)
 - Rep. Childers, Travis [D-MS-1] (C001074)
 - Rep. Gingrey, Phil [R-GA-11] (G000550)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Davis, Lincoln [D-TN-4] (D000599)
+- Rep. Duncan, John J., Jr. [R-TN-2] (D000533)
 
 ## Committees (1)
 
@@ -33,3 +36,10 @@ Commending the Tennessee Valley Authority on its 75th anniversary.
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Introduced in House
 - 2008-05-22 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-05-23 — Referred to the Subcommittee on Water Resources and Environment.
+- 2008-07-31 — Committee Consideration and Mark-up Session Held.
+- 2008-07-31 — Ordered to be Reported by Voice Vote.
+- 2008-07-31 — Subcommittee on Water Resources and Environment Discharged.
+- 2008-09-26 — Placed on the House Calendar, Calendar No. 281.
+- 2008-09-26 — Reported by the Committee on Transportation. H. Rept. 110-892.
+- 2008-09-26 — Reported by the Committee on Transportation. H. Rept. 110-892.
