@@ -1,7 +1,7 @@
 ---
 measure: S. 3001
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3001
@@ -1079,3 +1079,16 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 - 2008-09-17 — Senate amendment submitted
 - 2008-09-17 — Senate amendment submitted
 - 2008-09-17 — Senate amendment submitted
+- 2008-09-18 — Held at the desk.
+- 2008-09-18 — Message on Senate action sent to the House.
+- 2008-09-18 — Received in the House.
+- 2008-09-18 — Senate ordered measure printed as passed.
+- 2008-09-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-24 — Considered as unfinished business. (consideration: CR H9231)
+- 2008-09-24 — Considered under suspension of the rules. (consideration: CR H9090-9216)
+- 2008-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 3001.
+- 2008-09-24 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Mr. Skelton moved to suspend the rules and pass the bill, as amended.
+- 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 39 (Roll no. 631). (text: CR H9090-9206)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 39 (Roll no. 631).(text: CR H9090-9206)
