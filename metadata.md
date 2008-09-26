@@ -1,7 +1,7 @@
 ---
 measure: S. 3597
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3597
@@ -16,8 +16,15 @@ A bill to provide that funds allocated for community food projects for fiscal ye
 
 - Sen. Harkin, Tom [D-IA] (H000206)
 
+## Committees (1)
+
+- House — Agriculture Committee
+
 ## Actions
 
 - 2008-09-25 — Introduced in Senate
 - 2008-09-25 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S9553; text as passed Senate: CR S9553)
 - 2008-09-25 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S9553; text as passed Senate: CR S9553)
+- 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-26 — Received in the House.
+- 2008-09-26 — Referred to the House Committee on Agriculture.
