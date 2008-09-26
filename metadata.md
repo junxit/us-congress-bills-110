@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1430
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1430
@@ -29,3 +29,10 @@ Expressing support for the goals of the National Step Up For Kids Day by promoti
 - 2008-09-11 — Introduced in House
 - 2008-09-11 — Introduced in House
 - 2008-09-11 — Referred to the House Committee on Education and Labor.
+- 2008-09-26 — Committee on Education and Labor discharged.
+- 2008-09-26 — Committee on Education and Labor discharged.
+- 2008-09-26 — Considered by unanimous consent. (consideration: CR H10115)
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — Mr. Andrews asked unanimous consent to discharge from committee and consider.
+- 2008-09-26 — On agreeing to the resolution Agreed to without objection. (text: CR H10115)
+- 2008-09-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10115)
