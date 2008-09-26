@@ -1,7 +1,7 @@
 ---
 measure: S. 3001
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 3001
@@ -607,7 +607,7 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 
 - Senate — Armed Services Committee
 
-## Recorded votes (6)
+## Recorded votes (7)
 
 - 2008-07-31 — [Senate 110-2-195](votes/senate-110-2-0195.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (51–39)
 - 2008-09-08 — [Senate 110-2-197](votes/senate-110-2-0197.md) — On the Cloture Motion — **Cloture Motion Agreed to** (83–0)
@@ -615,6 +615,7 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 - 2008-09-10 — [Senate 110-2-199](votes/senate-110-2-0199.md) — On the Amendment — **Amendment Agreed to** (94–2)
 - 2008-09-16 — [Senate 110-2-200](votes/senate-110-2-0200.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–32)
 - 2008-09-17 — [Senate 110-2-201](votes/senate-110-2-0201.md) — On Passage of the Bill — **Bill Passed** (88–8)
+- 2008-09-24 — [House 110-2-631](votes/house-110-2-0631.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (392–39)
 
 ## Actions
 
@@ -1088,3 +1089,16 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 - 2008-09-17 — Senate amendment submitted
 - 2008-09-17 — Senate amendment submitted
 - 2008-09-17 — Senate amendment submitted
+- 2008-09-18 — Held at the desk.
+- 2008-09-18 — Message on Senate action sent to the House.
+- 2008-09-18 — Received in the House.
+- 2008-09-18 — Senate ordered measure printed as passed.
+- 2008-09-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-24 — Considered as unfinished business. (consideration: CR H9231)
+- 2008-09-24 — Considered under suspension of the rules. (consideration: CR H9090-9216)
+- 2008-09-24 — DEBATE - The House proceeded with forty minutes of debate on S. 3001.
+- 2008-09-24 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — Mr. Skelton moved to suspend the rules and pass the bill, as amended.
+- 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 39 (Roll no. 631). (text: CR H9090-9206)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 39 (Roll no. 631).(text: CR H9090-9206)
