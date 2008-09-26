@@ -1,7 +1,7 @@
 ---
 measure: S. 1738
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 0 executed, 21 stated and not applied.
+10 amendatory instructions. 2 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 13032
+
+> in subsection (b)(6), by striking “section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)” and inserting “section 2258A”; and
+
+| | |
+|---|---|
+| Removed | `section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)` |
+| Inserted | `section 2258A` |
+
+### 42 U.S.C. § 13032
+
+> in subsection (c)(5), by striking “section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)” and inserting “section 2258A”.
+
+| | |
+|---|---|
+| Removed | `section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)` |
+| Inserted | `section 2258A` |
 
 ## Stated, not applied
 
@@ -31,24 +51,11 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 2516(2) of title 18, United States Code, is amended by inserting “or crimes against children, including child exploitation, child obscenity, or other crimes dangerous to the life, limb, and well-being of minor children,” after “o… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a), by striking “knows or has reason to know” and all that follows through the period at the end, and inserting “transported in or affecting interstate or foreign commerce or using a facility or means of interstate or fore… | the bill names no machine-readable US Code section |
-| — | replace | in subsection (b), by striking “knows or has reason to know” and all that follows through the period at the end, and inserting “transported in or affecting interstate or foreign commerce or using a facility or means of interstate or fore… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “computer” and inserting “using a facility or means of interstate or foreign commerce”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “computer” and inserting “using a facility or means of interstate or foreign commerce”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (A), by striking “transported in interstate” and all that follows through “computer” and inserting “transported in or affecting interstate or foreign commerce or using a facility or means of interstate or foreign commerce… | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “transported in interstate” and all that follows through “computer” and inserting “transported in or affecting interstate or foreign commerce or using a facility or means of interstate or foreign commerce,”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (c)(2) of section 2251A of title 18, United States Code, is amended by striking “in interstate or foreign” and all that follows through “computer or” and inserting “in or affecting interstate or foreign commerce or using a fac… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “in interstate or foreign” and all that follows through “computer” and inserting “in or affecting interstate or foreign commerce or using a facility or means of interstate or foreign commerce”; | the bill names no machine-readable US Code section |
-| — | replace | by striking “has been shipped or transported in interstate or foreign commerce” and inserting “has been shipped or transported in or affecting interstate or foreign commerce or using a facility or means of interstate or foreign commerce”… | the bill names no machine-readable US Code section |
-| — | replace | by striking “distribution in interstate or foreign commerce” and inserting “distribution in or affecting interstate or foreign commerce or using a facility or means of interstate or foreign commerce”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3)(B), by striking “has been shipped or transported in interstate or foreign commerce” and inserting “has been shipped or transported in or affecting interstate or foreign commerce or using a facility or means of interstate… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (4)(B), by striking “has been shipped or transported in interstate or foreign commerce” and inserting “has been shipped or transported in or affecting interstate or foreign commerce or using a facility or means of interstate… | the bill names no machine-readable US Code section |
-| — | replace | by striking “in interstate or foreign commerce by any means, including by computer” each place that term appears and inserting “in or affecting interstate or foreign commerce or using a facility or means of interstate or foreign commerce… | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (6)(C), by striking “or by transmitting or causing to be transmitted any wire communication in interstate or foreign commerce, including by computer” and inserting “or a facility or means of interstate or foreign commerce”. | the bill names no machine-readable US Code section |
-| — | replace | Subsection (d)(4) of section 1466A of title 18, United States Code, is amended by striking “has been shipped transported in interstate or foreign commerce by any means, including by computer” and inserting “has been shipped or transporte… | the bill names no machine-readable US Code section |
-| — | insert | after “visual image” by inserting “, and data which is capable of conversion into a visual image that has been transmitted by any means, whether or not stored in a permanent format”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (5) by striking “; or” and inserting a semicolon; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (6), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 2252A(b) of title 18, United States Code, is amended by striking “(4), or (6)” and inserting “(4), (6), or (7)”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 2256` | insert | after “visual image” by inserting “, and data which is capable of conversion into a visual image that has been transmitted by any means, whether or not stored in a permanent format”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252A` | replace | in paragraph (5), by striking “; or” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `18 U.S.C. § 2252A` | replace | in paragraph (6), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252A` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `18 U.S.C. § 2252A` | amend | Subsection (b) of section 2252A of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5773` | insert | Chapter 110 of title 18, United States Code, is amended by inserting after section 2258 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13032` | repeal | Section 227 of the Crime Control Act of 1990 (42 U.S.C. 13032) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 13032` | insert | The table of sections for chapter 110 of title 18, United States Code, is amended by inserting after the item relating to section 2258 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
