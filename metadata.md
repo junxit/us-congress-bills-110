@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6092
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6092
@@ -62,9 +62,10 @@ To designate the facility of the United States Postal Service located at 101 Tal
 - Rep. Jones, Walter B., Jr. [R-NC-3] (J000255)
 - Rep. Wasserman Schultz, Debbie [D-FL-20] (W000797)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -79,3 +80,13 @@ To designate the facility of the United States Postal Service located at 101 Tal
 - 2008-07-08 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2008-07-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6197)
 - 2008-07-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6197)
+- 2008-07-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-07-21 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-09-23 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1065.
+- 2008-09-26 — Cleared for White House.
+- 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9607)
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9607)
