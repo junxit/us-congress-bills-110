@@ -1,7 +1,7 @@
 ---
 measure: S. 3128
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3128
@@ -16,9 +16,10 @@ White Mountain Apache Tribe Rural Water System Loan Authorization Act
 
 - Sen. Kyl, Jon [R-AZ] (K000352)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -30,3 +31,8 @@ White Mountain Apache Tribe Rural Water System Loan Authorization Act
 - 2008-09-24 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 110-502.
 - 2008-09-24 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute. With written report No. 110-502.
 - 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1080.
+- 2008-09-25 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9552-9553; text as passed in Senate: CR S9552)
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9552-9553; text as passed in Senate: CR S9552)
+- 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-26 — Received in the House.
+- 2008-09-26 — Referred to the House Committee on Natural Resources.
