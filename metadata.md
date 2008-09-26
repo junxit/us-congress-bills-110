@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6460
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6460
@@ -16,7 +16,7 @@ Great Lakes Legacy Reauthorization Act of 2008
 
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 
-## Cosponsors (46)
+## Cosponsors (47)
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 - Rep. Kildee, Dale E. [D-MI-5] (K000172)
@@ -64,6 +64,7 @@ Great Lakes Legacy Reauthorization Act of 2008
 - Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
 - Rep. McHugh, John M. [R-NY-23] (M000472)
 - Rep. Ryan, Tim [D-OH-17] (R000577)
+- Sen. Voinovich, George V. [R-OH] (V000126)
 
 ## Committees (2)
 
@@ -95,3 +96,13 @@ Great Lakes Legacy Reauthorization Act of 2008
 - 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 371 - 20 (Roll no. 615). (text: CR 9/17/2008 H8343-8344)
 - 2008-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 371 - 20 (Roll no. 615).(text: CR 9/17/2008 H8343-8344)
+- 2008-09-22 — Received in the Senate, read twice.
+- 2008-09-25 — Amendment SA 5649 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Amendment SA 5649 proposed by Senator Nelson FL for Senator Levin. (consideration: CR S9473-9474; text: CR S9473-9474) To limit the duration of reauthorization.
+- 2008-09-25 — Measure laid before Senate by unanimous consent. (consideration: CR S9473-9474)
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Senate amendment agreed to: Amendment SA 5649 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5649 proposed by Senator Nelson FL for Senator Levin.(consideration: CR S9473-9474; text: CR S9473-9474)
+- 2008-09-25 — Senate amendment submitted
