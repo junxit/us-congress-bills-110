@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Runaway and Homeless Youth Protection Act”.
+This Act may be cited as the “Reconnecting Homeless Youth Act of 2008”.
 
 ## § 2. Findings
 
@@ -33,12 +33,16 @@ Section 302 of the Runaway and Homeless Youth Act (42 U.S.C. 5701) is amended—
     > - **(i)** safe and appropriate shelter provided for not to exceed 21 days; and
 
   - **(2)** in subsection (b)(2)—
-    - **(A)** by striking “$100,000” and inserting “$200,000”;
-    - **(B)** by striking “$45,000” and inserting “$70,000”; and
-    - **(C)** by adding at the end the following: “Whenever the Secretary determines that any part of the amount allotted under paragraph (1) to a State for a fiscal year will not be obligated before the end of the fiscal year, the Secretary shall reallot such part to the remaining States for obligation for the fiscal year.”.
+    - **(A)** by striking “(2) The” and inserting “(2)(A) Except as provided in subparagraph (B), the”;
+    - **(B)** by striking “$100,000” and inserting “$200,000”;
+    - **(C)** by striking “$45,000” and inserting “$70,000”; and
+    - **(D)** by adding at the end the following:
+      > - **(B)** For fiscal years 2009 and 2010, the amount allotted under paragraph (1) with respect to a State for a fiscal year shall be not less than the amount allotted under paragraph (1) with respect to such State for fiscal year 2008.
+      > - **(C)** Whenever the Secretary determines that any part of the amount allotted under paragraph (1) to a State for a fiscal year will not be obligated before the end of the fiscal year, the Secretary shall reallot such part to the remaining States for obligation for the fiscal year.
+
 - **(b)** *Eligibility* Section 312(b) of the Runaway and Homeless Youth Act (42 U.S.C. 5712(b)) is amended—
-  - **(1)** in paragraph (11) by striking “and” at the end;
-  - **(2)** in paragraph (12) by striking the period and inserting “; and”; and
+  - **(1)** in paragraph (11), by striking “and” at the end;
+  - **(2)** in paragraph (12), by striking the period and inserting “; and”; and
   - **(3)** by adding at the end the following:
     > - **(13)** shall develop an adequate emergency preparedness and management plan.
 
@@ -46,34 +50,43 @@ Section 302 of the Runaway and Homeless Youth Act (42 U.S.C. 5701) is amended—
 
 - **(a)** *Eligibility* Section 322(a) of the Runaway and Homeless Youth Act (42 U.S.C. 5714–2(a)) is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** by striking “indirectly” and inserting “by contract”; and
-    - **(B)** by striking “services” the first place it appears and inserting “provide, directly or indirectly, services,”;
-  - **(2)** in paragraph (2), by striking “a continuous period not to exceed 540 days, except that” and all that follows and inserting the following: “a continuous period not to exceed 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 635-day period;”;
+    - **(A)** by striking “directly or indirectly” and inserting “by grant, agreement, or contract”; and
+    - **(B)** by striking “services” the first place it appears and inserting “provide, by grant, agreement, or contract, services,”;
+  - **(2)** in paragraph (2), by striking “a continuous period not to exceed 540 days, except that” and all that follows and inserting the following: “a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;”;
   - **(3)** in paragraph (14), by striking “and” at the end;
   - **(4)** in paragraph (15), by striking the period and inserting “; and”; and
   - **(5)** by adding at the end the following:
     > - **(16)** to develop an adequate emergency preparedness and management plan.
+
+- **(b)** *Definitions* Section 322(c) of the Runaway and Homeless Youth Act (42 U.S.C. 5714–2(c)) is amended by—
+  - **(1)** striking “part, the term” and inserting the following:
+    > part—
+    > - **(1)** the term
+
+  - **(2)** striking the period and inserting “; and”; and
+  - **(3)** adding at the end thereof the following:
+    > - **(2)** the term ‘exceptional circumstances’ means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
 ## § 5. Grants for research evaluation, demonstration, and service projects
 
 Section 343 of the Runaway and Homeless Youth Act (42 U.S.C. 5714–23) is amended—
 
 - **(1)** in subsection (b)—
-  - **(A)** in the matter preceding paragraph (1), by striking “give special consideration to” and inserting “prioritize”;
-  - **(B)** by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively; and
-  - **(C)** by inserting after paragraph (1) the following:
-    > - **(2)** positive youth development service delivery methods, providing links to community services, promoting mental and physical health development, enabling youth to obtain and maintain housing after program completion, and developing self-sufficiency competencies;
-
-- **(2)** in subsection (c)—
-  - **(A)** by inserting “for eligibility and selection” after “priority”;
-  - **(B)** by striking “shall give” and inserting the following: “shall—”
-    > - **(A)** give
-
-  - **(C)** by striking the period and inserting “; and”; and
+  - **(A)** in the matter preceding paragraph (1), by striking “special consideration” and inserting “priority”;
+  - **(B)** in paragraph (8)—
+    - **(i)** by striking “to health” and inserting “to quality health”;
+    - **(ii)** by striking “mental health care” and inserting “behavioral health care”; and
+    - **(iii)** by striking “and” at the end;
+  - **(C)** in paragraph (9), by striking the period at the end and inserting “, including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and”; and
   - **(D)** by adding at the end the following:
-    > - **(B)** ensure that the applicants selected—
-    >   - **(i)** are geographically representative of regions of the United States; and
-    >   - **(ii)** carry out projects that serve diverse populations of homeless youth.
+    > - **(10)** providing programs, including innovative programs, that assist youth in obtaining and maintaining safe and stable housing, and which may include programs with supportive services that continue after the youth complete the remainder of the programs.
+
+- **(2)** by striking subsection (c) and inserting the following:
+  > - **(c)** In selecting among applicants for grants under subsection (a), the Secretary shall—
+  >   - **(1)** give priority to applicants who have experience working with runaway or homeless youth; and
+  >   - **(2)** ensure that the applicants selected—
+  >     - **(A)** represent diverse geographic regions of the United States; and
+  >     - **(B)** carry out projects that serve diverse populations of runaway or homeless youth.
 
 ## § 6. Coordinating, training, research, and other activities
 
@@ -81,75 +94,79 @@ Part D of the Runaway and Homeless Youth Act (42 U.S.C. 5714–21 et seq.) is am
 
 > ## § 345. Periodic estimate of incidence and prevalence of youth homelessness
 >
-> - **(a)** *Periodic estimate* Not later than 2 years after the date of enactment of the Runaway and Homeless Youth Protection Act, and at 5-year intervals thereafter, the Secretary shall prepare, and submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a written report that—
->   - **(1)** contains an estimate, obtained by using the best quantitative and qualitative social science research methods available, of the incidence and prevalence of runaway and homeless individuals who are not less than 13 years of age but less than 26 years of age; and
->   - **(2)** includes with such estimate an assessment of the characteristics of such individuals.
-> - **(b)** *Content* Each assessment required by subsection (a) shall include—
->   - **(1)** the results of conducting a survey of, and direct interviews with, a representative sample of runaway and homeless individuals who are not less than 13 years of age but less than 26 years of age to determine past and current—
+> - **(a)** *Periodic estimate* Not later than 2 years after the date of enactment of the Reconnecting Homeless Youth Act of 2008, and at 5-year intervals thereafter, the Secretary, in consultation with the United States Interagency Council on Homelessness, shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate, and make available to the public, a report—
+>   - **(1)** by using the best quantitative and qualitative social science research methods available, containing an estimate of the incidence and prevalence of runaway and homeless individuals who are not less than 13 years of age but are less than 26 years of age; and
+>   - **(2)** that includes with such estimate an assessment of the characteristics of such individuals.
+> - **(b)** *Content* The report required by subsection (a) shall include—
+>   - **(1)** the results of conducting a survey of, and direct interviews with, a representative sample of runaway and homeless individuals who are not less than 13 years of age but are less than 26 years of age, to determine past and current—
 >     - **(A)** socioeconomic characteristics of such individuals; and
 >     - **(B)** barriers to such individuals obtaining—
 >       - **(i)** safe, quality, and affordable housing;
 >       - **(ii)** comprehensive and affordable health insurance and health services; and
 >       - **(iii)** incomes, public benefits, supportive services, and connections to caring adults; and
 >   - **(2)** such other information as the Secretary determines, in consultation with States, units of local government, and national nongovernmental organizations concerned with homelessness, may be useful.
-> - **(c)** *Implementation* If the Secretary enters into any agreement with a non-Federal entity for purposes of carrying out subsection (a), such entity shall be a nongovernmental organization, or an individual, determined by the Secretary to have appropriate expertise in quantitative and qualitative social science research.
+> - **(c)** *Implementation* If the Secretary enters into any contract with a non-Federal entity for purposes of carrying out subsection (a), such entity shall be a nongovernmental organization, or an individual, determined by the Secretary to have appropriate expertise in quantitative and qualitative social science research.
 
 ## § 7. Sexual abuse prevention program
 
 Section 351(b) of the Runaway and Homeless Youth Act (42 U.S.C. 5714–41(b)) is amended by inserting “public and” after “priority to”.
 
-## § 8. National homeless youth awareness campaign
+## § 8. Performance standards
 
-The Runaway and Homeless Youth Act (42 U.S.C. 5701 et seq.) is amended—
-
-- **(1)** by redesignating part F as part G; and
-- **(2)** by inserting after part E the following:
-
-## § 9. Conforming amendments
-
-- **(a)** *Reports* Section 382(a) of the Runaway and Homeless Youth Act (42 U.S.C. 5715(a)) is amended by striking “, and E” and inserting “, E, and F”.
-- **(b)** *Consolidated review* Section 385 of the Runaway and Homeless Youth Act (42 U.S.C. 5731a) is amended by striking “, and E” and inserting “, E, and F”.
-- **(c)** *Evaluation and Information* Section 386(a) of the Runaway and Homeless Youth Act (42 U.S.C. 5732(a)) is amended by striking “, or E” and inserting “, E, or F”.
-
-## § 10. Performance standards
-
-Part G of the Runaway and Homeless Youth Act (42 U.S.C. 5714a et seq.), as redesignated by section 8, is amended by inserting after section 386 the following:
+Part F of the Runaway and Homeless Youth Act (42 U.S.C. 5714a et seq.) is amended by inserting after section 386 the following:
 
 > ## § 386A. Performance standards
 >
-> - **(a)** *Establishment of performance standards* Not later than 1 year after the date of enactment of the Runaway and Homeless Youth Protection Act, the Secretary shall issue rules that specify performance standards for public and nonprofit private entities that receive grants under sections 311, 321, and 351.
-> - **(b)** *Consultation* The Secretary shall consult with representatives of public and nonprofit private entities that receive grants under this title, including statewide and regional nonprofit organizations (including combinations of such organizations) that receive grants under this title, and national nonprofit organizations concerned with youth homelessness, in developing the performance standards required by subsection (a).
-> - **(c)** *Implementation of performance standards* The Secretary shall integrate the performance standards into the processes of the Department of Health and Human Services for grantmaking, monitoring, and evaluation for programs under parts A, B, and E.
+> - **(a)** *Establishment of performance standards* Not later than 1 year after the date of enactment of the Reconnecting Homeless Youth Act of 2008, the Secretary shall issue rules that specify performance standards for public and nonprofit private entities and agencies that receive grants under sections 311, 321, and 351.
+> - **(b)** *Consultation* The Secretary shall consult with representatives of public and nonprofit private entities and agencies that receive grants under this title, including statewide and regional nonprofit organizations (including combinations of such organizations) that receive grants under this title, and national nonprofit organizations concerned with youth homelessness, in developing the performance standards required by subsection (a).
+> - **(c)** *Implementation of performance standards* The Secretary shall integrate the performance standards into the processes of the Department of Health and Human Services for grantmaking, monitoring, and evaluation for programs under sections 311, 321, and 351.
 
-## § 11. Appeals
+## § 9. Government Accountability Office study and report
 
-Part G of the Runaway and Homeless Youth Act (42 U.S.C. 5714a et seq.) as amended by section 10, is further amended by inserting after section 386A the following:
+- **(a)** *Study*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study, including making findings and recommendations, relating to the processes for making grants under parts A, B, and E of the Runaway and Homeless Youth Act (42 U.S.C. 5711 et seq., 5714–1 et seq., 5714–41).
+  - **(2)** *Subjects* In particular, the Comptroller General shall study—
+    - **(A)** the Secretary’s written responses to and other communications with applicants who do not receive grants under part A, B, or E of such Act, to determine if the information provided in the responses and communications is conveyed clearly;
+    - **(B)** the content and structure of the grant application documents, and of other associated documents (including grant announcements), to determine if the requirements of the applications and other associated documents are presented and structured in a way that gives an applicant a clear understanding of the information that the applicant must provide in each portion of an application to successfully complete it, and a clear understanding of the terminology used throughout the application and other associated documents;
+    - **(C)** the peer review process for applications for the grants, including the selection of peer reviewers, the oversight of the process by staff of the Department of Health and Human Services, and the extent to which such staff make funding determinations based on the comments and scores of the peer reviewers;
+    - **(D)** the typical timeframe, and the process and responsibilities of such staff, for responding to applicants for the grants, and the efforts made by such staff to communicate with the applicants when funding decisions or funding for the grants is delayed, such as when funding is delayed due to funding of a program through appropriations made under a continuing resolution; and
+    - **(E)** the plans for implementation of, and the implementation of, where practicable, the technical assistance and training programs carried out under section 342 of the Runaway and Homeless Youth Act (42 U.S.C. 5714–22), and the effect of such programs on the application process for the grants.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate a report containing the findings and recommendations resulting from the study.
 
-> ## § 386B. Appeals
->
-> - **(a)** *Establishment of appeal procedure* Not later than 6 months after the date of enactment of the Runaway and Homeless Youth Protection Act, the Secretary shall establish by rule an appeal procedure to enable applicants to obtain timely reviews of the amounts of grants made, and the denials of grants requested, under this title.
-> - **(b)** *Consultation* The Secretary shall consult with representatives of public and nonprofit private entities that receive grants under this title, including statewide and regional nonprofit organizations (including combinations of such organizations) that receive grants under this title, and national nonprofit organizations concerned with youth homelessness, in developing the appeal procedure required by subsection (a).
-
-## § 12. Definitions
+## § 10. Definitions
 
 - **(a)** *Homeless youth* Section 387(3) of the Runaway and Homeless Youth Act (42 U.S.C. 5732a(3)) is amended—
   - **(1)** in the matter preceding subparagraph (A), by striking “The” and all that follows through “means” and inserting “The term homeless, used with respect to a youth, means”; and
-  - **(2)** in subparagraph (A)(ii), by striking “not less than 16 years of age” and inserting “not less than 16 years of age and not more than 21 years of age, except that nothing in this clause shall prevent a participant who enters the program carried out under part B prior to reaching 22 years of age from being eligible for the 635-day length of stay authorized by section 322(a)(2); and”.
+  - **(2)** in subparagraph (A)—
+    - **(A)** in clause (i)—
+      - **(i)** by striking “not more than” each place it appears and inserting “less than”; and
+      - **(ii)** by inserting after “age” the last place it appears the following: “, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities”; and
+    - **(B)** in clause (ii), by striking “age;” and inserting the following:
+      > age and either—
+      > - **(I)** less than 22 years of age; or
+      > - **(II)** not less than 22 years of age, as of the expiration of the maximum period of stay permitted under section 322(a)(2) if such individual commences such stay before reaching 22 years of age;
+
 - **(b)** *Runaway youth* Section 387 of the Runaway and Homeless Youth Act (42 U.S.C. 5732a) is amended—
   - **(1)** by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (5), (6), (7), and (8), respectively; and
   - **(2)** by inserting after paragraph (3) the following:
     > - **(4)** *Runaway youth* The term runaway, used with respect to a youth, means an individual who is less than 18 years of age and who absents himself or herself from home or a place of legal residence without the permission of a parent or legal guardian.
 
-## § 13. Authorization of appropriations
+## § 11. Authorization of appropriations
 
 Section 388(a) of the Runaway and Homeless Youth Act (42 U.S.C. 5751(a)) is amended—
 
 - **(1)** in paragraph (1)—
   - **(A)** by striking “is authorized” and inserting “are authorized”;
-  - **(B)** by striking “part E) $105,000,000 for fiscal year 2004” and inserting “parts E and F) $150,000,000 for fiscal year 2009”; and
-  - **(C)** by striking “2005, 2006, 2007, and 2008” and inserting “2010, 2011, 2012, and 2013”; and
-- **(2)** in paragraph (4)—
+  - **(B)** by striking “part E) $105,000,000 for fiscal year 2004” and inserting “section 345 and part E) $140,000,000 for fiscal year 2009”; and
+  - **(C)** by striking “2005, 2006, 2007, and 2008” and inserting “2010, 2011, 2012, and 2013”;
+- **(2)** in paragraph (3)—
+  - **(A)** by striking “In” and inserting the following:
+    > - **(A)** *In general* In
+
+  - **(B)** by inserting “(other than section 345)” before the period; and
+  - **(C)** by adding at the end the following:
+    > - **(B)** *Periodic estimate* There are authorized to be appropriated to carry out section 345 such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.
+
+- **(3)** in paragraph (4)—
   - **(A)** by striking “is authorized” and inserting “are authorized”; and
-  - **(B)** by striking “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008” and inserting “$30,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”; and
-- **(3)** by adding at the end the following:
-  > - **(5)** *Part F* There is authorized to be appropriated to carry out part F $3,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013.
+  - **(B)** by striking “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008” and inserting “$25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”.
