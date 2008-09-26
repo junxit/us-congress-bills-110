@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3068
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3068
@@ -42,3 +42,13 @@ Federal Protective Service Guard Contracting Reform Act of 2008
 - 2007-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H11108)
 - 2007-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H11108)
 - 2007-10-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-455.
+- 2008-09-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. With written report No. 110-455.
+- 2008-09-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 953.
+- 2008-09-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9336; text as passed Senate: CR S9336)
+- 2008-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9336; text as passed Senate: CR S9336)
+- 2008-09-24 — Message on Senate action sent to the House.
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Senate requests return of papers with respect to H.R. 3068 by Unanimous Consent.
+- 2008-09-26 — Message on Senate action sent to the House.
