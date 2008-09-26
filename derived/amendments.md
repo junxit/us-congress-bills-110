@@ -1,7 +1,7 @@
 ---
 measure: S. 3166
 congress: 110
-version: Reported to Senate
+version: Referred in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | Section 277 of the Immigration and Nationality Act (8 U.S.C. 1327) is amended by striking “(other than subparagraph (E) thereof)”. | the bill names no machine-readable US Code section |
+| `8 U.S.C. § 1327` | strike | Section 277 of the Immigration and Nationality Act (8 U.S.C. 1327) is amended by striking “(other than subparagraph (E) thereof)”. | the bill quotes the text struck but describes what replaces it |

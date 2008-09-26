@@ -1,7 +1,7 @@
 ---
 measure: S. 3166
 congress: 110
-version: Reported to Senate
+version: Referred in House
 ---
 
 # S. 3166
@@ -24,9 +24,10 @@ A bill to amend the Immigration and Nationality Act to impose criminal penalties
 - Sen. Specter, Arlen [R-PA] (S000709)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Judiciary Committee
+- House — Judiciary Committee
 
 ## Actions
 
@@ -36,3 +37,8 @@ A bill to amend the Immigration and Nationality Act to impose criminal penalties
 - 2008-09-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2008-09-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2008-09-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 960.
+- 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9606; text as passed Senate: CR S9606)
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9606; text as passed Senate: CR S9606)
+- 2008-09-26 — Received in the House.
+- 2008-09-26 — Referred to the House Committee on the Judiciary.
