@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2786
@@ -103,3 +103,14 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2007-09-06 — The previous question was ordered pursuant to the rule. (consideration: CR H10195)
 - 2007-09-06 — UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.
 - 2007-09-10 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2008-09-25 — Amendment SA 5647 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Amendment SA 5647 proposed by Senator Nelson FL for Senator Dorgan. (consideration: CR S9474) In the nature of a substitute.
+- 2008-09-25 — Measure laid before Senate by unanimous consent. (consideration: CR S9474)
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2008-09-25 — Senate Committee on Indian Affairs discharged by Unanimous Consent.
+- 2008-09-25 — Senate amendment agreed to: Amendment SA 5647 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5647 proposed by Senator Nelson FL for Senator Dorgan.(consideration: CR S9474)
+- 2008-09-25 — Senate amendment submitted
