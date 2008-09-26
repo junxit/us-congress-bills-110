@@ -1,7 +1,7 @@
 ---
 measure: S. 1810
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1810
@@ -51,3 +51,10 @@ Prenatally and Postnatally Diagnosed Conditions Awareness Act
 - 2008-09-24 — Message on Senate action sent to the House.
 - 2008-09-24 — Received in the House.
 - 2008-09-24 — Referred to the House Committee on Energy and Commerce.
+- 2008-09-25 — Cleared for White House.
+- 2008-09-25 — Considered under suspension of the rules. (consideration: CR H9918-9920)
+- 2008-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 1810.
+- 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-25 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2008-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H9918)
+- 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H9918)
