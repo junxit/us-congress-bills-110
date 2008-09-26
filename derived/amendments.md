@@ -1,7 +1,7 @@
 ---
 measure: S. 3597
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 4406(a)(7) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–234; 122 Stat. 1902) is amended by striking “Food and Nutrition Act of 2008” and inserting “Food Stamp Act of 1977”. | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 2034` | replace | Section 4406(a)(7) of the Food, Conservation, and Energy Act of 2008 (Public Law 110–234; 122 Stat. 1902) is amended by striking “Food and Nutrition Act of 2008” and inserting “Food Stamp Act of 1977”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
