@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4120
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -76,8 +76,8 @@ complete account of the bill's effect, which it is not.
 | `18 U.S.C. § 2252` | insert | in each of paragraphs (4) and (5), by inserting “using any means or facility of interstate or foreign commerce or” after “has been mailed, or shipped or transported”; and | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2252` | insert | in paragraph (6), by inserting “using any means or facility of interstate or foreign commerce or” after “has been mailed, shipped, or transported”. | the bill quotes the text inserted but describes where it goes |
 | `18 U.S.C. § 2252` | insert | Section 2252(a)(3)(B) of title 18, United States Code, is amended by inserting “, shipped, or transported using any means or facility of interstate or foreign commerce” after “that has been mailed”. | the bill quotes the text inserted but describes where it goes |
-| — | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 2252A (relating to child pornography) where the child pornography contains a visual depiction of an actual minor engaging in sexually explicit conduc… | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting “, or knowingly accesses with intent to view,” after “possesses”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B), by inserting “, or knowingly accesses with intent to view,” after “possesses”. | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (A), by inserting “, or knowingly accesses with intent to view,” after “possesses”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B), by inserting “, or knowingly accesses with intent to view,” after “possesses”. | the bill names no machine-readable US Code section |
+| `18 U.S.C. § 1956` | insert | Section 1956(c)(7)(D) of title 18, United States Code, is amended by inserting “section 2252A (relating to child pornography) where the child pornography contains a visual depiction of an actual minor engaging in sexually explicit conduc… | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252` | insert | in subparagraph (A), by inserting “, or knowingly accesses with intent to view,” after “possesses”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252` | insert | in subparagraph (B), by inserting “, or knowingly accesses with intent to view,” after “possesses”. | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252A` | insert | in subparagraph (A), by inserting “, or knowingly accesses with intent to view,” after “possesses”; and | the bill quotes the text inserted but describes where it goes |
+| `18 U.S.C. § 2252A` | insert | in subparagraph (B), by inserting “, or knowingly accesses with intent to view,” after “possesses”. | the bill quotes the text inserted but describes where it goes |
