@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1777
@@ -16,13 +16,15 @@ Need-Based Educational Aid Act of 2008
 
 - Rep. Delahunt, William D. [D-MA-10] (D000210)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
+- Sen. Hatch, Orrin G. [R-UT] (H000338)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +42,15 @@ Need-Based Educational Aid Act of 2008
 - 2008-04-30 — Mr. Delahunt moved to suspend the rules and pass the bill, as amended.
 - 2008-04-30 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2922)
 - 2008-04-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H2922)
+- 2008-05-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-09-25 — Amendment SA 5653 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Amendment SA 5653 proposed by Senator Durbin for Senator Leahy. (consideration: CR S9552; text: CR S9552) To amend the Improving America's Schools Act of 1994 to extend the favorable treatment of need-based educational aid under the antitrust laws.
+- 2008-09-25 — Measure laid before Senate by unanimous consent. (consideration: CR S9552)
+- 2008-09-25 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-25 — Senate amendment agreed to: Amendment SA 5653 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5653 proposed by Senator Durbin for Senator Leahy.(consideration: CR S9552; text: CR S9552)
+- 2008-09-25 — Senate amendment submitted
+- 2008-09-26 — Message on Senate action sent to the House.
