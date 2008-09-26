@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2851
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 derived: true
 ---
 

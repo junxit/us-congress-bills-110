@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2851
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 2851
@@ -169,11 +169,12 @@ Michelle's Law
 - Rep. Ryan, Tim [D-OH-17] (R000577)
 - Rep. Lewis, John [D-GA-5] (L000287)
 
-## Committees (3)
+## Committees (4)
 
 - House — Ways and Means Committee
 - House — Education and the Workforce Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -204,3 +205,10 @@ Michelle's Law
 - 2008-07-30 — Placed on the Union Calendar, Calendar No. 522.
 - 2008-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-806, Part I.
 - 2008-07-30 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-806, Part I.
+- 2008-07-31 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2008-09-25 — Cleared for White House.
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Passed Senate without amendment by Unanimous Consent.
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-09-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S9459)
+- 2008-09-25 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S9459)
