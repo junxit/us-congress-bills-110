@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4120
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4120
@@ -50,3 +50,10 @@ Effective Child Pornography Prosecution Act of 2007
 - 2008-09-23 — Senate amendment proposed (on the floor): Amendment SA 5641 proposed by Senator Menendez for Senator Reid.(consideration: CR S9343-9344; text: CR S9343-9344)
 - 2008-09-23 — Senate amendment submitted
 - 2008-09-24 — Message on Senate action sent to the House.
+- 2008-09-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cannon objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-25 — Ms. Lofgren, Zoe moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9887-9889)
+- 2008-09-25 — The House proceeded with forty minutes of debate on H.R. 4120.
+- 2008-09-26 — Cleared for White House.
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 656). (consideration: CR H10058-10059; text as House agreed to Senate amendment: CR 9/25/2008 H9887-9888)
+- 2008-09-26 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 656).(consideration: CR H10058-10059; text as House agreed to Senate amendment: CR 9/25/2008 H9887-9888)
