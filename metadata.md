@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6894
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6894
@@ -36,3 +36,8 @@ Defense Production Act Extension and Reauthorization of 2008
 - 2008-09-23 — Mr. Gutierrez moved to suspend the rules and pass the bill.
 - 2008-09-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H8699)
 - 2008-09-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H8699)
+- 2008-09-24 — Received in the Senate, read twice.
+- 2008-09-25 — Cleared for White House.
+- 2008-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9551-9552)
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9551-9552)
+- 2008-09-26 — Message on Senate action sent to the House.
