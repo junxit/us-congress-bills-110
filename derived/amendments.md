@@ -1,7 +1,7 @@
 ---
 measure: S. 2606
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -77,7 +77,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 2206` | redesignate | by redesignating subparagraphs (I) through (N) as subparagraphs (M) through (R), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2206` | insert | by inserting after subparagraph (H) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2206` | insert | in subsection (c)(6), by inserting “, including on-site training” after “United States”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 2206` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2206` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2206` | add-at-end | Such section 7 (15 U.S.C. 2206) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2208` | add-at-end | Section 9 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2208) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2207` | amend | Section 8(d) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2207(d)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -89,4 +89,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 2218` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2203` | strike | in paragraph (7), by striking the “and” after the semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 2203` | replace | in paragraph (8), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 2203` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 2203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

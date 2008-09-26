@@ -1,7 +1,7 @@
 ---
 measure: S. 2606
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2606
@@ -36,6 +36,10 @@ United States Fire Administration Reauthorization Act of 2008
 
 - Senate — Homeland Security and Governmental Affairs Committee
 
+## Recorded votes (1)
+
+- 2008-09-24 — [House 110-2-636](votes/house-110-2-0636.md) — On Motion to Suspend the Rules and Pass — **Passed** (418–2)
+
 ## Actions
 
 - 2008-02-07 — Introduced in Senate
@@ -55,3 +59,14 @@ United States Fire Administration Reauthorization Act of 2008
 - 2008-09-18 — Senate amendment submitted
 - 2008-09-18 — The committee substitute as amended agreed to by Unanimous Consent.
 - 2008-09-19 — Message on Senate action sent to the House.
+- 2008-09-22 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-09-22 — Considered under suspension of the rules. (consideration: CR H8534-8538)
+- 2008-09-22 — DEBATE - The House proceeded with forty minutes of debate on S. 2606.
+- 2008-09-22 — Held at the desk.
+- 2008-09-22 — Ms. Edwards (MD) moved to suspend the rules and pass the bill.
+- 2008-09-22 — Received in the House.
+- 2008-09-24 — Cleared for White House.
+- 2008-09-24 — Considered as unfinished business. (consideration: CR H9365-9366)
+- 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 636). (text: CR 9/22/2008 H8534-8536)
+- 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 636).(text: CR 9/22/2008 H8534-8536)
