@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1157
 congress: 110
-version: Reported in House
+version: Received in Senate
 ---
 
 # H.R. 1157
@@ -328,3 +328,4 @@ Breast Cancer and Environmental Research Act of 2008
 - 2008-09-25 — Placed on the Union Calendar, Calendar No. 574.
 - 2008-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-889.
 - 2008-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-889.
+- 2008-09-26 — Received in the Senate, read twice.

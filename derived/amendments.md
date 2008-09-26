@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1157
 congress: 110
-version: Reported in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 285` | add-at-end | Subpart 1 of part C of title IV of the Public Health Service Act (42 U.S.C. 285 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Subpart 1 of part C of title IV of the Public Health Service Act (42 U.S.C. 285 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
