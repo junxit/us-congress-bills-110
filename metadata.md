@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6568
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6568
@@ -62,3 +62,4 @@ Tom Lantos Pulmonary Hypertension Research and Education Act of 2008
 - 2008-09-25 — Mr. Pallone moved to suspend the rules and pass the bill, as amended.
 - 2008-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9914)
 - 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9914)
+- 2008-09-26 — Received in the Senate.
