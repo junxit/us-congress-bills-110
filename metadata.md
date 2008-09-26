@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6950
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6950
@@ -96,3 +96,4 @@ Stephanie Tubbs Jones Gift of Life Medal Act of 2008
 - 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 643). (text: CR 9/23/2008 H8700-8701)
 - 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 420 - 1 (Roll no. 643).(text: CR 9/23/2008 H8700-8701)
+- 2008-09-26 — Received in the Senate.
