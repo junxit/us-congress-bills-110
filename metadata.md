@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1502
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1502
@@ -30,3 +30,8 @@ Providing for consideration of the bill (H.R. 7060) to amend the Internal Revenu
 - 2008-09-25 — The House Committee on Rules reported an original measure, H. Rept. 110-887, by Mr. Arcuri.
 - 2008-09-25 — The House Committee on Rules reported an original measure, H. Rept. 110-887, by Mr. Arcuri.
 - 2008-09-25 — Waives all points of order against consideration of the bill except those arising under clause 10 for rule XXI.
+- 2008-09-26 — Considered as unfinished business. (consideration: CR H9979-9980)
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 188 (Roll no. 646). (text: CR 9/25/2008 H9938)
+- 2008-09-26 — On ordering the previous question Agreed to by the Yeas and Nays: 206 - 186 (Roll no. 645). (consideration: CR H9979-9980)
+- 2008-09-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 188 (Roll no. 646).(text: CR 9/25/2008 H9938)
