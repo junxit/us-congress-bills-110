@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6901
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6901
@@ -39,3 +39,4 @@ Meth Free Families and Communities Act
 - 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/23/2008 H8678-8679)
 - 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/23/2008 H8678-8679)
+- 2008-09-26 — Received in the Senate.
