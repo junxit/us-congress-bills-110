@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 110
-version: Reported in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5057
@@ -67,9 +67,11 @@ Debbie Smith Reauthorization Act of 2008
 - Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
 - Rep. Heller, Dean [R-NV-2] (H001041)
 
-## Committees (1)
+## Committees (3)
 
 - House — Judiciary Committee
+- Senate — Health, Education, Labor, and Pensions Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -94,3 +96,19 @@ Debbie Smith Reauthorization Act of 2008
 - 2008-07-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-757.
 - 2008-07-14 — Reported (Amended) by the Committee on Judiciary. H. Rept. 110-757.
 - 2008-07-14 — The title of the measure was amended. Agreed to without objection.
+- 2008-07-15 — Received in the Senate.
+- 2008-08-01 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2008-09-08 — Referred to the Committee on the Judiciary.
+- 2008-09-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S8141)
+- 2008-09-08 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S8141)
+- 2008-09-25 — Amendment SA 5646 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Amendment SA 5646 proposed by Senator Reid for Senator Biden. (consideration: CR S9461; text: CR S9461) In the nature of a substitute.
+- 2008-09-25 — Measure laid before Senate by unanimous consent. (consideration: CR S9461)
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-25 — Senate amendment agreed to: Amendment SA 5646 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5646 proposed by Senator Reid for Senator Biden.(consideration: CR S9461; text: CR S9461)
+- 2008-09-25 — Senate amendment submitted
