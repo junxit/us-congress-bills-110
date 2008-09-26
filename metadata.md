@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1343
