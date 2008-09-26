@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 104
 congress: 110
-version: Agreed to Senate
+version: Referred in House
 ---
 
 # S.Con.Res. 104
