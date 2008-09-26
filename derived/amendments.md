@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1343
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -98,7 +98,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 254b` | amend | Section 330(r) of the Public Health Service Act (42 U.S.C. 254b(r)) is amended by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 254b` | add-at-end | Section 330(c) of the Public Health Service Act (42 U.S.C. 254b(c)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254k` | replace | Subsection (a) of section 338H of such Act (42 U.S.C. 254q) is amended by striking “appropriated $146,250,000” and all that follows through the period and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 254q` | replace | Subsection (a) of section 338H of such Act (42 U.S.C. 254q) is amended by striking “appropriated $146,250,000” and all that follows through the period and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 254e` | strike | Section 332(a)(1) of the Public Health Service Act (42 U.S.C. 254e(a)(1)) is amended by striking “Not earlier than 6 years” and all that follows through “purposes of this section.”. | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 254f` | strike | in subclause (IV), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 254f` | replace | in subclause (V), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
