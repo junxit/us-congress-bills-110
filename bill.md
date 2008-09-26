@@ -12,7 +12,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2008”.
-- **(a)** *Table of contents* The table of contents for this Act is as follows:
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Support for diplomatic efforts relating to preventing Iran from acquiring nuclear weapons
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7112
 congress: 110
-version: Engrossed in House
+version: Introduced in House
 derived: true
 ---
 
