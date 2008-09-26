@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 666
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 666
@@ -16,7 +16,7 @@ A resolution recognizing and honoring the 50th anniversary of the founding of AA
 
 - Sen. Roberts, Pat [R-KS] (R000307)
 
-## Cosponsors (29)
+## Cosponsors (33)
 
 - Sen. Salazar, Ken [D-CO] (S001163)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -47,6 +47,10 @@ A resolution recognizing and honoring the 50th anniversary of the founding of AA
 - Sen. Lincoln, Blanche L. [D-AR] (L000035)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Nelson, Bill [D-FL] (N000032)
+- Sen. Bond, Christopher S. [R-MO] (B000611)
+- Sen. Kohl, Herb [D-WI] (K000305)
+- Sen. Craig, Larry E. [R-ID] (C000858)
+- Sen. Baucus, Max [D-MT] (B000243)
 
 ## Committees (1)
 
@@ -56,3 +60,7 @@ A resolution recognizing and honoring the 50th anniversary of the founding of AA
 
 - 2008-09-18 — Introduced in Senate
 - 2008-09-18 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S9039)
+- 2008-09-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text: CR S9876-9877)
+- 2008-09-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR S9876-9877)
+- 2008-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9876-9877)
+- 2008-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9876-9877)
