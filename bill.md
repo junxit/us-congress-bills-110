@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 135
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 135
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas there are 103 historically Black colleges and universities in the United States;
+- Whereas there are 105 historically Black colleges and universities in the United States;
 - Whereas historically Black colleges and universities provide the quality education essential to full participation in a complex, highly technological society;
 - Whereas historically Black colleges and universities have a rich heritage and have played a prominent role in the history of the United States;
 - Whereas historically Black colleges and universities have allowed many underprivileged students to attain their full potential through higher education; and

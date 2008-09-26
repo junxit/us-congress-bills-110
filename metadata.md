@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 135
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 135
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that a National Historicall
 
 - Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
 
-## Cosponsors (26)
+## Cosponsors (42)
 
 - Rep. Hall, Ralph M. [R-TX-4] (H000067)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
@@ -44,6 +44,22 @@ Expressing the sense of the House of Representatives that a National Historicall
 - Rep. Meek, Kendrick B. [D-FL-17] (M001148)
 - Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
+- Rep. Hinojosa, Ruben [D-TX-15] (H000636)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Wynn, Albert Russell [D-MD-4] (W000784)
+- Rep. Clarke, Yvette D. [D-NY-11] (C001067)
+- Del. Christensen, Donna M. [D-VI-At Large] (C000380)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Payne, Donald M. [D-NJ-10] (P000149)
 
 ## Committees (1)
 
@@ -54,3 +70,16 @@ Expressing the sense of the House of Representatives that a National Historicall
 - 2007-02-07 — Introduced in House
 - 2007-02-07 — Introduced in House
 - 2007-02-07 — Referred to the House Committee on Education and Labor.
+- 2008-09-26 — Amendment (A001) offered by Mr. Andrews. (consideration: CR H10116; text: CR H10116)
+- 2008-09-26 — Amendment agreed to by House: On agreeing to the Andrews amendment (A001) Agreed to without objection.
+- 2008-09-26 — Committee on Education and Labor discharged.
+- 2008-09-26 — Committee on Education and Labor discharged.
+- 2008-09-26 — Considered by unanimous consent. (consideration: CR H10115; text of measure as introduced: CR H10115)
+- 2008-09-26 — House amendment agreed to: On agreeing to the Andrews amendment (A001) Agreed to without objection.
+- 2008-09-26 — House amendment offered
+- 2008-09-26 — House amendment offered/reported by : Amendment (A001) offered by Mr. Andrews.(consideration: CR H10116; text: CR H10116)
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — Mr. Andrews asked unanimous consent to discharge from committee and consider.
+- 2008-09-26 — On agreeing to the Andrews amendment (A001) Agreed to without objection.
+- 2008-09-26 — On agreeing to the resolution Agreed to without objection.
+- 2008-09-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
