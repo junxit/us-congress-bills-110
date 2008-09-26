@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6890
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6890
@@ -43,3 +43,7 @@ To extend the waiver authority for the Secretary of Education under section 105 
 - 2008-09-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H8525-8526)
 - 2008-09-22 — Received in the Senate, read twice.
 - 2008-09-22 — The title of the measure was amended. Agreed to without objection.
+- 2008-09-25 — Cleared for White House.
+- 2008-09-25 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9551)
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9551)
+- 2008-09-26 — Message on Senate action sent to the House.
