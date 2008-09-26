@@ -1,7 +1,7 @@
 ---
 measure: S. 3296
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3296
@@ -33,3 +33,14 @@ A bill to extend the authority of the United States Supreme Court Police to prot
 - 2008-09-11 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2008-09-11 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
 - 2008-09-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 956.
+- 2008-09-25 — Amendment SA 5645 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Amendment SA 5645 proposed by Senator Reid for Senator Kyl. (consideration: CR S9459; text: CR S9459) To provide for a limitation on acceptance of honorary memberships by justices and judges.
+- 2008-09-25 — Held at the desk.
+- 2008-09-25 — Measure laid before Senate by unanimous consent. (consideration: CR S9459)
+- 2008-09-25 — Message on Senate action sent to the House.
+- 2008-09-25 — Passed Senate with an amendment by Unanimous Consent. (text: CR S9459)
+- 2008-09-25 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text: CR S9459)
+- 2008-09-25 — Received in the House.
+- 2008-09-25 — Senate amendment agreed to: Amendment SA 5645 agreed to in Senate by Unanimous Consent.
+- 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5645 proposed by Senator Reid for Senator Kyl.(consideration: CR S9459; text: CR S9459)
+- 2008-09-25 — Senate amendment submitted

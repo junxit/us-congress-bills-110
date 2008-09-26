@@ -25,3 +25,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
         - **(II)** in the second and third sentences, by striking “Administrative Assistant” each place that term appears and inserting “Counselor”; and
       - **(iii)** in subsections (b) and (c), by striking “Administrative Assistant” each place that term appears and inserting “Counselor”.
     - **(B)** *Table of sections* The table of sections for chapter 45 of title 28, United States Code, is amended by striking the item relating to section 677 and inserting the following:
+
+## § 2. Limitation on acceptance of honorary club memberships
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Gift* The term gift has the meaning given under section 109(5) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+  - **(2)** *Judicial officer* The term judicial officer has the meaning given under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+- **(b)** *Prohibition on acceptance of honorary club memberships* A judicial officer may not accept a gift of an honorary club membership with a value of more than $50 in any calendar year.
