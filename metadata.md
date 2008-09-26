@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5571
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5571
@@ -20,9 +20,10 @@ To extend for 5 years the program relating to waiver of the foreign country resi
 
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -46,3 +47,15 @@ To extend for 5 years the program relating to waiver of the foreign country resi
 - 2008-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/19/2008 H4113)
 - 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/19/2008 H4113)
 - 2008-05-21 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-09-26 — Amendment SA 5654 agreed to in Senate by Unanimous Consent.
+- 2008-09-26 — Amendment SA 5654 proposed by Senator Reid for Senator Conrad. (consideration: CR S9573; text: CR S9573) To reduce the length of the waiver program extension.
+- 2008-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S9573)
+- 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-26 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2008-09-26 — Senate amendment agreed to: Amendment SA 5654 agreed to in Senate by Unanimous Consent.
+- 2008-09-26 — Senate amendment proposed (on the floor): Amendment SA 5654 proposed by Senator Reid for Senator Conrad.(consideration: CR S9573; text: CR S9573)
+- 2008-09-26 — Senate amendment submitted
