@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 659
 congress: 110
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 659
@@ -34,3 +34,5 @@ A resolution designating September 27, 2008, as Alcohol and Drug Addiction Recov
 - 2008-09-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-09-25 — Committee on the Judiciary. Reported by Senator Leahy without amendment and with a preamble. Without written report.
 - 2008-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1084.
+- 2008-09-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S9876; text as passed Senate: CR S9876)
+- 2008-09-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S9876; text as passed Senate: CR S9876)
