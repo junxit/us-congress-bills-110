@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6045
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6045
@@ -16,7 +16,7 @@ Bulletproof Vest Partnership Grant Act of 2008
 
 - Rep. Visclosky, Peter J. [D-IN-1] (V000108)
 
-## Cosponsors (106)
+## Cosponsors (171)
 
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 - Rep. Stupak, Bart [D-MI-1] (S001045)
@@ -124,13 +124,92 @@ Bulletproof Vest Partnership Grant Act of 2008
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 - Rep. Fattah, Chaka [D-PA-2] (F000043)
 - Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Waters, Maxine [D-CA-35] (W000187)
+- Rep. Mack, Connie [R-FL-14] (M001155)
+- Rep. Lee, Barbara [D-CA-9] (L000551)
+- Rep. Ruppersberger, C. A. Dutch [D-MD-2] (R000576)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Barrow, John [D-GA-12] (B001252)
+- Rep. Boucher, Rick [D-VA-9] (B000657)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Matheson, Jim [D-UT-2] (M001142)
+- Rep. LaTourette, Steven C. [R-OH-14] (L000553)
+- Rep. Jefferson, William J. [D-LA-2] (J000070)
+- Rep. Delahunt, William D. [D-MA-10] (D000210)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. English, Phil [R-PA-3] (E000187)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Loebsack, David [D-IA-2] (L000565)
+- Rep. Levin, Sander M. [D-MI-12] (L000263)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Miller, Brad [D-NC-13] (M001154)
+- Rep. Tsongas, Niki [D-MA-5] (T000465)
+- Rep. McCarthy, Carolyn [D-NY-4] (M000309)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Weiner, Anthony D. [D-NY-9] (W000792)
+- Rep. Porter, Jon C. [R-NV-3] (P000589)
+- Rep. Hare, Phil [D-IL-17] (H001040)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Murphy, Tim [R-PA-18] (M001151)
+- Rep. Miller, Candice S. [R-MI-10] (M001150)
+- Rep. Keller, Ric [R-FL-8] (K000361)
+- Rep. Gallegly, Elton [R-CA-24] (G000021)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Souder, Mark E. [R-IN-3] (S001143)
+- Rep. Space, Zachary T. [D-OH-18] (S001173)
+- Rep. Maloney, Carolyn B. [D-NY-14] (M000087)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. Kind, Ron [D-WI-3] (K000188)
+- Rep. Franks, Trent [R-AZ-2] (F000448)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Kanjorski, Paul E. [D-PA-11] (K000008)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Bishop, Timothy H. [D-NY-1] (B001242)
+- Rep. Sherman, Brad [D-CA-27] (S000344)
+- Rep. Heller, Dean [R-NV-2] (H001041)
+- Rep. Johnson, Timothy V. [R-IL-15] (J000285)
+- Rep. Diaz-Balart, Lincoln [R-FL-21] (D000299)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. Forbes, J. Randy [R-VA-4] (F000445)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Doyle, Michael F. [D-PA-14] (D000482)
+- Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Gordon, Bart [D-TN-6] (G000309)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Marshall, Jim [D-GA-8] (M001146)
+- Rep. Feeney, Tom [R-FL-24] (F000447)
+- Rep. Kennedy, Patrick J. [D-RI-1] (K000113)
+- Rep. Ross, Mike [D-AR-4] (R000573)
+- Rep. Shimkus, John [R-IL-19] (S000364)
+- Rep. Hirono, Mazie K. [D-HI-2] (H001042)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Scalise, Steve [R-LA-1] (S001176)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2008-09-26 — [House 110-2-647](votes/house-110-2-0647.md) — On Motion to Suspend the Rules and Pass — **Passed** (404–2)
 
 ## Actions
 
 - 2008-05-13 — Introduced in House
 - 2008-05-13 — Introduced in House
 - 2008-05-13 — Referred to the House Committee on the Judiciary.
+- 2008-06-03 — Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.
+- 2008-09-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Cannon objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-25 — Considered under suspension of the rules. (consideration: CR H9884-9886)
+- 2008-09-25 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6045.
+- 2008-09-25 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2008-09-26 — Considered as unfinished business. (consideration: CR H9980-9981)
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 647). (text: CR 9/25/2008 H9884)
+- 2008-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 647).(text: CR 9/25/2008 H9884)
+- 2008-09-26 — Received in the Senate, read twice.
