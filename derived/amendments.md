@@ -1,7 +1,7 @@
 ---
 measure: S. 3605
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -22,13 +22,13 @@ document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
-## Stated, not applied
+## Executed
 
-Each of these is reproduced as the bill writes it, with the reason
-it was not executed. They are listed rather than dropped: an
-instruction that vanished would leave this file reading as a
-complete account of the bill's effect, which it is not.
+### 42 U.S.C. § 5119a
 
-| Target | Operation | Instruction | Why not applied |
-|---|---|---|---|
-| — | replace | Section 108(a)(3)(A) of the PROTECT Act (42 U.S.C. 5119a note) is amended by striking “a 66-month” and inserting “a 78-month”. | the bill names no machine-readable US Code section |
+> Section 108(a)(3)(A) of the PROTECT Act (42 U.S.C. 5119a note) is amended by striking “a 66-month” and inserting “a 78-month”.
+
+| | |
+|---|---|
+| Removed | `a 66-month` |
+| Inserted | `a 78-month` |
