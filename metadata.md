@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6707
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6707
@@ -16,7 +16,7 @@ Taking Responsible Action for Community Safety Act
 
 - Rep. Oberstar, James L. [D-MN-8] (O000006)
 
-## Cosponsors (20)
+## Cosponsors (22)
 
 - Rep. Bean, Melissa L. [D-IL-8] (B001253)
 - Rep. Biggert, Judy [R-IL-13] (B001232)
@@ -38,6 +38,8 @@ Taking Responsible Action for Community Safety Act
 - Rep. Gilchrest, Wayne T. [R-MD-1] (G000180)
 - Rep. LaHood, Ray [R-IL-18] (L000552)
 - Rep. Cramer, Robert E. (Bud), Jr. [D-AL-5] (C000868)
+- Rep. Holden, Tim [D-PA-17] (H000712)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
 ## Committees (1)
 
@@ -48,3 +50,10 @@ Taking Responsible Action for Community Safety Act
 - 2008-07-31 — Introduced in House
 - 2008-07-31 — Introduced in House
 - 2008-07-31 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-08-01 — Sponsor introductory remarks on measure. (CR E1671)
+- 2008-09-09 — Committee Hearings Held.
+- 2008-09-24 — Committee Consideration and Mark-up Session Held.
+- 2008-09-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2008-09-26 — Placed on the Union Calendar, Calendar No. 576.
+- 2008-09-26 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-893.
+- 2008-09-26 — Reported (Amended) by the Committee on Transportation. H. Rept. 110-893.
