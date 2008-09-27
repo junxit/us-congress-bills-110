@@ -1,7 +1,7 @@
 ---
 measure: S. 3641
 congress: 110
-version: Considered and Passed Senate
+version: Referred in House
 derived: true
 ---
 
