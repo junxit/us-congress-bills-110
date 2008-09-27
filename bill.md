@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7082
 
-> To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury to disclose certain prisoner return information to the Federal Bureau of Prisons.
+> To amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury to disclose certain prisoner return information to the Federal Bureau of Prisons, and for other purposes.
 
 ## § 1. Short title
 
@@ -28,3 +28,20 @@ This Act may be cited as the “Inmate Tax Fraud Prevention Act of 2008”.
 
 - **(d)** *Effective date* The amendments made by this section shall apply to disclosures made after December 31, 2008.
 - **(e)** *Annual reports* The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison.
+
+## § 3. Restoration of certain judicial survivors’ annuities
+
+- **(a)** *In general* Section 376 of title 28, United States Code, is amended by adding at the end the following:
+  > - **(x)** In the case of a widow or widower whose annuity under clause (i) or (ii) of subsection (h)(1) is terminated because of remarriage before attaining 55 years of age, the annuity shall be restored at the same rate commencing on the day the remarriage is dissolved by death, divorce, or annulment, if—
+  >   - **(1)** the widow or widower elects to receive this annuity instead of any other survivor annuity to which such widow or widower may be entitled, under this chapter or under another retirement system for Government employees, by reason of the remarriage; and
+  >   - **(2)** any payment made to such widow or widower under subsection (o) or (p) on termination of the annuity is returned to the Judicial Survivors' Annuities Fund.
+
+- **(b)** *Conforming amendment* Section 376(h)(2) of title 28, United States Code, is amended by striking the period at the end and inserting “, subject to subsection (x).”.
+- **(c)** *Effective date*
+  - **(1)** *In general* This section and the amendments made by this section shall take effect on the first day of the first month beginning at least 30 days after the date of the enactment of this Act and shall apply in the case of a remarriage which is dissolved by death, divorce, or annulment on or after such first day.
+  - **(2)** *Limited retroactive effect*
+    - **(A)** *In general* In the case of a remarriage which is dissolved by death, divorce, or annulment within the 4-year period ending on the day before the effective date of this section, the amendments made by this section shall apply only if the widow or widower satisfies the requirements of paragraphs (1) and (2) of section 376(x) of title 28, United States Code (as amended by this section) before—
+      - **(i)** the end of the 1-year period beginning on the effective date of this section; or
+      - **(ii)** such later date as Director of the Administrative Office of the United States Courts may by regulation prescribe.
+    - **(B)** *Restoration* If the requirements of paragraph (1) are satisfied, the survivor annuity shall be restored, commencing on the date the remarriage was dissolved by death, annulment, or divorce, at the rate which was in effect when the annuity was terminated.
+    - **(C)** *Lump-sum payment* Any amounts becoming payable to the widow or widower under this subsection for the period beginning on the date on which the annuity was terminated and ending on the date on which periodic annuity payments resume shall be payable in a lump-sum payment.
