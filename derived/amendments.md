@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1283
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,11 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 314 the following: | the bill names no machine-readable US Code section |
-| — | insert | Title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended by inserting after section 439 the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Part A of title IV of the Public Health Service Act (42 U.S.C. 281 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 320A the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Part Q of title III of the Public Health Service Act (42 U.S.C. 280h et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | amend | Part Q of title III of the Public Health Service Act (42 U.S.C. 280h et seq.), as amended by subsection (a), is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating the second section 487F (relating to a pediatric research loan repayment program) as section 487G; | the bill names no machine-readable US Code section |
-| — | redesignate | by inserting after section 487G (as so redesignated) the following: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 243` | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 314 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 243` | insert | Part B of title III of the Public Health Service Act (42 U.S.C. 243 et seq.) is amended by inserting after section 320A the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
