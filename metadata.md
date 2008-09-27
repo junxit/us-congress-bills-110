@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 195
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 195
@@ -73,9 +73,10 @@ Expressing the sense of the Congress that a National Dysphagia Awareness Month s
 - Rep. English, Phil [R-PA-3] (E000187)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -91,3 +92,9 @@ Expressing the sense of the Congress that a National Dysphagia Awareness Month s
 - 2008-06-26 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-06-26 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 6/24/2008 H5991)
 - 2008-06-26 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 6/24/2008 H5991)
+- 2008-06-27 — Received in the Senate and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-09-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2008-09-27 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S10020)
+- 2008-09-27 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S10020)
