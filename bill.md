@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Enforcement of Intellectual Property Rights Act of 2008”.
+- **(a)** *Short title* This Act may be cited as the “Prioritizing Resources and Organization for Intellectual Property Act of 2008”.
 - **(b)** *Table of contents* The table of contents is as follows:
 
 ## § 2. Reference
