@@ -1,7 +1,7 @@
 ---
 measure: S. 1382
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1382
@@ -192,3 +192,15 @@ ALS Registry Act
 - 2008-09-23 — Senate amendment agreed to: Amendment SA 5637 agreed to in Senate by Unanimous Consent.
 - 2008-09-23 — Senate amendment proposed (on the floor): Amendment SA 5637 proposed by Senator Reid.(consideration: CR S9230-9231)
 - 2008-09-23 — Senate amendment submitted
+- 2008-09-24 — Held at the desk.
+- 2008-09-24 — Message on Senate action sent to the House.
+- 2008-09-24 — Received in the House.
+- 2008-09-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Terry objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-25 — Considered under suspension of the rules. (consideration: CR H9916-9917)
+- 2008-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 1382.
+- 2008-09-25 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2008-09-26 — Cleared for White House.
+- 2008-09-26 — Considered as unfinished business. (consideration: CR H10042-10043)
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 415 - 2 (Roll no. 650). (text: CR 9/25/2008 H9916)
+- 2008-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 415 - 2 (Roll no. 650).(text: CR 9/25/2008 H9916)
