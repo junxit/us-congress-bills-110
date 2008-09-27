@@ -1,7 +1,7 @@
 ---
 measure: S. 3192
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3192
@@ -20,9 +20,10 @@ A bill to amend the Act of August 9, 1955, to authorize the Cow Creek Band of Um
 
 - Sen. Smith, Gordon H. [R-OR] (S001142)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Indian Affairs Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,8 @@ A bill to amend the Act of August 9, 1955, to authorize the Cow Creek Band of Um
 - 2008-09-22 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-480.
 - 2008-09-22 — Committee on Indian Affairs. Reported by Senator Dorgan with an amendment in the nature of a substitute and an amendment to the title. With written report No. 110-480.
 - 2008-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1041.
+- 2008-09-26 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S9858-9859; text as passed Senate: CR S9858-9859)
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.(consideration: CR S9858-9859; text as passed Senate: CR S9858-9859)
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Received in the House.
+- 2008-09-27 — Referred to the House Committee on Natural Resources.
