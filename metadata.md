@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 660
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 660
@@ -16,7 +16,7 @@ A resolution condemning ongoing sales of arms to belligerents in Sudan, includin
 
 - Sen. Nelson, Bill [D-FL] (N000032)
 
-## Cosponsors (17)
+## Cosponsors (30)
 
 - Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Brownback, Sam [R-KS] (B000953)
@@ -35,6 +35,19 @@ A resolution condemning ongoing sales of arms to belligerents in Sudan, includin
 - Sen. Boxer, Barbara [D-CA] (B000711)
 - Sen. Cardin, Benjamin L. [D-MD] (C000141)
 - Sen. Coleman, Norm [R-MN] (C001057)
+- Sen. Harkin, Tom [D-IA] (H000206)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Bingaman, Jeff [D-NM] (B000468)
+- Sen. Landrieu, Mary L. [D-LA] (L000550)
+- Sen. Sununu, John E. [R-NH] (S001078)
+- Sen. Voinovich, George V. [R-OH] (V000126)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Ensign, John [R-NV] (E000194)
+- Sen. Smith, Gordon H. [R-OR] (S001142)
+- Sen. Specter, Arlen [R-PA] (S000709)
+- Sen. Burr, Richard [R-NC] (B001135)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 
 ## Committees (1)
 
@@ -45,3 +58,13 @@ A resolution condemning ongoing sales of arms to belligerents in Sudan, includin
 - 2008-09-15 — Introduced in Senate
 - 2008-09-15 — Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S8531-8532)
 - 2008-09-15 — Sponsor introductory remarks on measure. (CR S8532-8533)
+- 2008-09-27 — Amendment SA 5675 agreed to in Senate by Unanimous Consent.
+- 2008-09-27 — Amendment SA 5675 proposed by Senator Landrieu for Senator Nelson FL. (consideration: CR S10019; text: CR S10019) To improve the resolution.
+- 2008-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S10019)
+- 2008-09-27 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.
+- 2008-09-27 — Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.
+- 2008-09-27 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2008-09-27 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2008-09-27 — Senate amendment agreed to: Amendment SA 5675 agreed to in Senate by Unanimous Consent.
+- 2008-09-27 — Senate amendment proposed (on the floor): Amendment SA 5675 proposed by Senator Landrieu for Senator Nelson FL.(consideration: CR S10019; text: CR S10019)
+- 2008-09-27 — Senate amendment submitted
