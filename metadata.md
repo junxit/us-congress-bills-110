@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1494
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1494
@@ -16,7 +16,7 @@ Recognizing the 100th anniversary of The Christian Science Monitor newspaper.
 
 - Rep. Smith, Lamar [R-TX-21] (S000583)
 
-## Cosponsors (55)
+## Cosponsors (57)
 
 - Rep. Capuano, Michael E. [D-MA-8] (C001037)
 - Rep. Davis, Tom [R-VA-11] (D000136)
@@ -73,6 +73,8 @@ Recognizing the 100th anniversary of The Christian Science Monitor newspaper.
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
 - Rep. Paul, Ron [R-TX-14] (P000583)
+- Rep. McHenry, Patrick T. [R-NC-10] (M001156)
+- Rep. McGovern, James P. [D-MA-3] (M000312)
 
 ## Committees (1)
 
@@ -83,3 +85,10 @@ Recognizing the 100th anniversary of The Christian Science Monitor newspaper.
 - 2008-09-24 — Introduced in House
 - 2008-09-24 — Introduced in House
 - 2008-09-24 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10213)
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
+- 2008-09-27 — On agreeing to the resolution Agreed to without objection. (text: CR H10213)
+- 2008-09-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10213)
