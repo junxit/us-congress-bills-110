@@ -2,7 +2,7 @@
 legis-num: S. CON. RES. 104
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. CON. RES. 104
