@@ -18,16 +18,9 @@ This Act may be cited as the “Presidential Historical Records Preservation Act
 Section 2504 of title 44, United States Code, is amended by—
 
 - **(1)** redesignating subsection (f) as subsection (g); and
-- **(2)** amending subsection (g)(1) (as so redesignated by paragraph (1))—
-  - **(A)** in subparagraph (R), by striking “and”;
-  - **(B)** in subparagraph (S), by striking the period and inserting “; and”; and
-  - **(C)** by adding at the end the following:
-    > - **(T)** $15,000,000 for fiscal year 2010.
-
-- **(3)** inserting after subsection (e), the following:
 - **(2)** inserting after subsection (e) the following:
   > - **(f)** *Grants for Presidential Centers of Historical Excellence*
-  >   - **(1)** *In general* The Archivist, with the recommendation of the Commission, shallmay make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the “Presidential Libraries Act of 1955”).
+  >   - **(1)** *In general* The Archivist, with the recommendation of the Commission, may make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the “Presidential Libraries Act of 1955”).
   >   - **(2)** *Eligible entity* For purposes of this subsection, an eligible entity is—
   >     - **(A)** an organization described under section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of that Code; or
   >     - **(B)** a State or local government of the United States.
@@ -116,3 +109,13 @@ Section 2504 of title 44, United States Code, is amended by—
   - **(1)** reduce the financial burden on the Federal Government;
   - **(2)** improve the preservation of presidential records; and
   - **(3)** reduce the delay in public access to all presidential records.
+
+## § 7. Establishment of national database for records of servitude, emancipation, and post-civil war reconstruction
+
+- **(a)** *In general* The Archivist of the United States may preserve relevant records and establish, as part of the National Archives and Records Administration, an electronically searchable national database consisting of historic records of servitude, emancipation, and post-Civil War reconstruction, including the Refugees, Freedman, and Abandoned Land Records, Southern Claims Commission Records, Records of the Freedmen's Bank, Slave Impressments Records, Slave Payroll Records, Slave Manifest, and others, contained within the agencies and departments of the Federal Government to assist African Americans and others in conducting genealogical and historical research.
+- **(b)** *Maintenance* Any database established under this section shall be maintained by the National Archives and Records Administration or an entity within the National Archives and Records Administration designated by the Archivist of the United States.
+
+## § 8. Grants for establishment of State and local databases for records of servitude, emancipation, and post-civil war reconstruction
+
+- **(a)** *In general* The Executive Director of the National Historical Publications and Records Commission of the National Archives and Records Administration may make grants to States, colleges and universities, museums, libraries, and genealogical associations to preserve records and establish electronically searchable databases consisting of local records of servitude, emancipation, and post-Civil War reconstruction.
+- **(b)** *Maintenance* Any database established using a grant under this section shall be maintained by appropriate agencies or institutions designated by the Executive Director of the National Historical Publications and Records Commission.
