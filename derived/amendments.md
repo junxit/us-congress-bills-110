@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7081
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -46,7 +46,7 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 8003` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8003` | strike | in subparagraph (K)(iv), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 8003` | replace | in subparagraph (L), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 8003` | amend | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8003` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2153` | add-at-end | Section 123 of the Atomic Energy Act of 1954 (42 U.S.C. 2153) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 129 a. of the Atomic Energy Act of 1954 (42 U.S.C. 2158 (a)) is amended by striking “Congress adopts a concurrent resolution” and inserting “Congress adopts, and there is enacted, a joint resolution”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “means a joint resolution” and all that follows through “, with the date” and inserting the following: | the bill names no machine-readable US Code section |
