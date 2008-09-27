@@ -1,7 +1,7 @@
 ---
 measure: S. 3109
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subtitle C of the Solid Waste Disposal Act (42 U.S.C. 6921 et seq.) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of contents of the Solid Waste Disposal Act (42 U.S.C. 6901) is amended by inserting at the end of the items relating to subtitle C the following: | the bill names no machine-readable US Code section |
+| `31 U.S.C. § 3515` | add-at-end | Subtitle C of the Solid Waste Disposal Act (42 U.S.C. 6921 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6901` | insert | The table of contents of the Solid Waste Disposal Act (42 U.S.C. 6901) is amended by inserting at the end of the items relating to subtitle C the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
