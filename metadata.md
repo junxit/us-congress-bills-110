@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2963
 congress: 110
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2963
@@ -20,9 +20,10 @@ Pechanga Band of Luiseno Mission Indians Land Transfer Act of 2007
 
 - Rep. Baca, Joe [D-CA-43] (B001234)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,11 @@ Pechanga Band of Luiseno Mission Indians Land Transfer Act of 2007
 - 2007-07-30 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8828-8829)
 - 2007-07-31 — Received in the Senate.
 - 2007-08-03 — Read twice and referred to the Committee on Indian Affairs.
+- 2008-05-15 — Committee on Indian Affairs. Hearings held.
+- 2008-09-23 — Committee on Indian Affairs. Ordered to be reported with an amendment favorably.
+- 2008-09-25 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-503.
+- 2008-09-25 — Committee on Indian Affairs. Reported by Senator Dorgan with amendments. With written report No. 110-503.
+- 2008-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1081.
+- 2008-09-26 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S9851-9852; text as passed Senate: CR S9851-9852)
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S9851-9852; text as passed Senate: CR S9851-9852)
+- 2008-09-27 — Message on Senate action sent to the House.
