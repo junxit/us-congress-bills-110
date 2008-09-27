@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2631
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2631
@@ -24,10 +24,11 @@ Nuclear Forensics and Attribution Act
 - Rep. Thornberry, Mac [R-TX-13] (T000238)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -54,3 +55,11 @@ Nuclear Forensics and Attribution Act
 - 2008-06-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5513-5514)
 - 2008-06-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5513-5514)
 - 2008-06-18 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-19 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-09-23 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-25 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1086.
+- 2008-09-26 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9852-9853; text as passed Senate: CR S9852-9853)
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9852-9853; text as passed Senate: CR S9852-9853)
+- 2008-09-27 — Message on Senate action sent to the House.
