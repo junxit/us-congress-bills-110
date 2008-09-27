@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1429
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1429
@@ -16,7 +16,7 @@ Expressing the sense of the House of Representatives that the employees of the D
 
 - Rep. Clarke, Yvette D. [D-NY-11] (C001067)
 
-## Cosponsors (10)
+## Cosponsors (11)
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Carney, Christopher P. [D-PA-10] (C001065)
@@ -28,6 +28,7 @@ Expressing the sense of the House of Representatives that the employees of the D
 - Rep. Dent, Charles W. [R-PA-15] (D000604)
 - Rep. Miller, Candice S. [R-MI-10] (M001150)
 - Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Bilirakis, Gus M. [R-FL-9] (B001257)
 
 ## Committees (1)
 
@@ -39,3 +40,9 @@ Expressing the sense of the House of Representatives that the employees of the D
 - 2008-09-11 — Introduced in House
 - 2008-09-11 — Referred to the House Committee on Homeland Security.
 - 2008-09-11 — Sponsor introductory remarks on measure. (CR E1769)
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10274-10276)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1429.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Etheridge moved to suspend the rules and agree to the resolution.
+- 2008-09-27 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H10274)
+- 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR H10274)
