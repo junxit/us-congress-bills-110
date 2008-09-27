@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6558
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6558
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 1750 Lu
 
 - Rep. Honda, Michael M. [D-CA-15] (H001034)
 
-## Cosponsors (47)
+## Cosponsors (50)
 
 - Rep. Napolitano, Grace F. [D-CA-38] (N000179)
 - Rep. Harman, Jane [D-CA-36] (H000213)
@@ -65,6 +65,9 @@ To designate the facility of the United States Postal Service located at 1750 Lu
 - Rep. Becerra, Xavier [D-CA-31] (B000287)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 - Rep. Lungren, Daniel E. [R-CA-3] (L000517)
+- Rep. Rohrabacher, Dana [R-CA-46] (R000409)
+- Rep. McCarthy, Kevin [R-CA-22] (M001165)
+- Rep. Nunes, Devin [R-CA-21] (N000181)
 
 ## Committees (1)
 
@@ -75,3 +78,10 @@ To designate the facility of the United States Postal Service located at 1750 Lu
 - 2008-07-21 — Introduced in House
 - 2008-07-21 — Introduced in House
 - 2008-07-21 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10209)
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
+- 2008-09-27 — On passage Passed without objection. (text: CR H10209)
+- 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10209)
