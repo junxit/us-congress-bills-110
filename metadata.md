@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5265
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5265
@@ -16,7 +16,7 @@ Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Educati
 
 - Rep. Engel, Eliot L. [D-NY-17] (E000179)
 
-## Cosponsors (123)
+## Cosponsors (128)
 
 - Rep. Burgess, Michael C. [R-TX-26] (B001248)
 - Rep. Upton, Fred [R-MI-6] (U000031)
@@ -141,6 +141,11 @@ Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Educati
 - Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
 - Rep. Hall, John J. [D-NY-19] (H001039)
 - Rep. Wexler, Robert [D-FL-19] (W000314)
+- Sen. Isakson, Johnny [R-GA] (I000055)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Brown, Sherrod [D-OH] (B000944)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Harkin, Tom [D-IA] (H000206)
 
 ## Committees (1)
 
@@ -166,3 +171,18 @@ Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Educati
 - 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 2 (Roll no. 633). (text: CR 9/23/2008 H8676-8677)
 - 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by recorded vote (2/3 required): 418 - 2 (Roll no. 633).(text: CR 9/23/2008 H8676-8677)
+- 2008-09-25 — Received in the Senate.
+- 2008-09-26 — Amendment SA 5658 agreed to in Senate by Unanimous Consent.
+- 2008-09-26 — Amendment SA 5658 proposed by Senator Nelson FL for Senator Klobuchar. (consideration: CR S9605-9606; text: CR S9605-9606) In the nature of a substitute.
+- 2008-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S9605-9606)
+- 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-26 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-26 — Senate amendment agreed to: Amendment SA 5658 agreed to in Senate by Unanimous Consent.
+- 2008-09-26 — Senate amendment proposed (on the floor): Amendment SA 5658 proposed by Senator Nelson FL for Senator Klobuchar.(consideration: CR S9605-9606; text: CR S9605-9606)
+- 2008-09-26 — Senate amendment submitted
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Pallone asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H10176-10177)
+- 2008-09-27 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H10176-10177)
+- 2008-09-27 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H10176-10177)
