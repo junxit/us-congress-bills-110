@@ -2,7 +2,7 @@
 legis-num: H. CON. RES. 416
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H. CON. RES. 416

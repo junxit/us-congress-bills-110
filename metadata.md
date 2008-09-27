@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 416
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 416
@@ -62,3 +62,4 @@ Commending Barter Theatre on the occasion of its 75th anniversary.
 - 2008-09-26 — Mr. Andrews asked unanimous consent to discharge from committee and consider.
 - 2008-09-26 — On agreeing to the resolution Agreed to without objection. (text: CR H10116)
 - 2008-09-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10116)
+- 2008-09-27 — Received in the Senate.
