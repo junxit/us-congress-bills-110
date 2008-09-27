@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 426
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 426
@@ -16,7 +16,7 @@ Recognizing the 10th anniversary of the establishment of the Minority AIDS Initi
 
 - Rep. Waters, Maxine [D-CA-35] (W000187)
 
-## Cosponsors (51)
+## Cosponsors (80)
 
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 - Rep. Hastings, Alcee L. [D-FL-23] (H000324)
@@ -69,6 +69,35 @@ Recognizing the 10th anniversary of the establishment of the Minority AIDS Initi
 - Del. Christensen, Donna M. [D-VI-At Large] (C000380)
 - Rep. Carson, Andre [D-IN-7] (C001072)
 - Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. Michaud, Michael H. [D-ME-2] (M001149)
+- Rep. Berman, Howard L. [D-CA-28] (B000410)
+- Rep. Nadler, Jerrold [D-NY-8] (N000002)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Resident Commissioner Fortuno, Luis G. [R-PR-At Large] (F000452)
+- Rep. Edwards, Donna F. [D-MD-4] (E000290)
+- Rep. Johnson, Eddie Bernice [D-TX-30] (J000126)
+- Rep. Watt, Melvin L. [D-NC-12] (W000207)
+- Rep. McNulty, Michael R. [D-NY-21] (M000590)
+- Rep. Cummings, Elijah E. [D-MD-7] (C000984)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Waxman, Henry A. [D-CA-30] (W000215)
+- Rep. Rangel, Charles B. [D-NY-15] (R000053)
+- Rep. Matsui, Doris O. [D-CA-5] (M001163)
+- Rep. Sánchez, Linda T. [D-CA-39] (S001156)
+- Rep. Solis, Hilda L. [D-CA-32] (S001153)
+- Rep. Conyers, John, Jr. [D-MI-14] (C000714)
+- Rep. Pascrell, Bill, Jr. [D-NJ-8] (P000096)
+- Rep. Stark, Fortney Pete [D-CA-13] (S000810)
+- Rep. Kilpatrick, Carolyn C. [D-MI-13] (K000180)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Sutton, Betty [D-OH-13] (S001174)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
+- Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4] (J000288)
+- Rep. Meeks, Gregory W. [D-NY-6] (M001137)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Ellison, Keith [D-MN-5] (E000288)
 
 ## Committees (1)
 
@@ -79,3 +108,22 @@ Recognizing the 10th anniversary of the establishment of the Minority AIDS Initi
 - 2008-09-24 — Introduced in House
 - 2008-09-24 — Introduced in House
 - 2008-09-24 — Referred to the House Committee on Energy and Commerce.
+- 2008-09-27 — Amendment (A001) offered by Mr. Pallone. (consideration: CR H10228-10229; text: CR H10228-10229)
+- 2008-09-27 — Amendment (A002) offered by Mr. Pallone.
+- 2008-09-27 — Amendment agreed to by House: On agreeing to the Pallone amendment (A001) Agreed to without objection.
+- 2008-09-27 — Amendment agreed to by House: On agreeing to the Pallone amendment (A002) Agreed to without objection.
+- 2008-09-27 — Committee on Energy and Commerce discharged.
+- 2008-09-27 — Committee on Energy and Commerce discharged.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10228-10229; text of measure as introduced: CR H10228)
+- 2008-09-27 — House amendment agreed to: On agreeing to the Pallone amendment (A001) Agreed to without objection.
+- 2008-09-27 — House amendment agreed to: On agreeing to the Pallone amendment (A002) Agreed to without objection.
+- 2008-09-27 — House amendment offered
+- 2008-09-27 — House amendment offered
+- 2008-09-27 — House amendment offered/reported by : Amendment (A001) offered by Mr. Pallone.(consideration: CR H10228-10229; text: CR H10228-10229)
+- 2008-09-27 — House amendment offered/reported by : Amendment (A002) offered by Mr. Pallone.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Pallone asked unanimous consent to discharge from committee and consider.
+- 2008-09-27 — On agreeing to the Pallone amendment (A001) Agreed to without objection.
+- 2008-09-27 — On agreeing to the Pallone amendment (A002) Agreed to without objection.
+- 2008-09-27 — On agreeing to the resolution Agreed to without objection.
+- 2008-09-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
