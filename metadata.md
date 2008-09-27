@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1262
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1262
@@ -78,3 +78,12 @@ Expressing the sense of the House of Representatives that the Secretary of Comme
 - 2008-06-11 — Introduced in House
 - 2008-06-11 — Introduced in House
 - 2008-06-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-07-16 — Committee Consideration and Mark-up Session Held.
+- 2008-07-16 — Ordered to be Reported by Voice Vote.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10215)
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
+- 2008-09-27 — On agreeing to the resolution Agreed to without objection. (text: CR H10215)
+- 2008-09-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10215)
