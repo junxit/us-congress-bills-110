@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5350
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 5350
@@ -53,3 +53,13 @@ To authorize the Secretary of Commerce to sell or exchange certain National Ocea
 - 2008-09-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/15/2008 H8055)
 - 2008-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/15/2008 H8055)
+- 2008-09-22 — Received in the Senate.
+- 2008-09-26 — Amendment SA 5663 agreed to in Senate by Unanimous Consent.
+- 2008-09-26 — Amendment SA 5663 proposed by Senator Whitehouse for Senator Shelby. (consideration: CR S9851; text: CR S9851) To provide authority to NOAA to enter a no cost land lease for a NOAA facility.
+- 2008-09-26 — Measure laid before Senate by unanimous consent. (consideration: CR S9851)
+- 2008-09-26 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-26 — Senate amendment agreed to: Amendment SA 5663 agreed to in Senate by Unanimous Consent.
+- 2008-09-26 — Senate amendment proposed (on the floor): Amendment SA 5663 proposed by Senator Whitehouse for Senator Shelby.(consideration: CR S9851; text: CR S9851)
+- 2008-09-26 — Senate amendment submitted
+- 2008-09-27 — Message on Senate action sent to the House.
