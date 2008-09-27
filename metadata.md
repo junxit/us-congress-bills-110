@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7112
 congress: 110
-version: Introduced in House
+version: Received in Senate
 ---
 
 # H.R. 7112
@@ -54,3 +54,4 @@ Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2008
 - 2008-09-26 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Financial Services, Oversight and Government Reform, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-26 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Financial Services, Oversight and Government Reform, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-26 — Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Financial Services, Oversight and Government Reform, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-09-27 — Received in the Senate.
