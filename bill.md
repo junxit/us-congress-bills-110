@@ -30,4 +30,4 @@ Section 114(f)(5) of title 17, United States Code, is amended—
 - **(4)** in subparagraph (D)—
   - **(A)** by striking “the Small Webcasters Settlement Act of 2002” and inserting “the Webcaster Settlement Act of 2008” ; and
   - **(B)** by striking “Librarian of Congress of July 8, 2002” and inserting “Copyright Royalty Judges of May 1, 2007”; and
-- **(5)** in subparagraph (F), by striking “2002” and all that follows through “2003” and inserting “2008”.
+- **(5)** in subparagraph (F), by striking “December 15, 2002” and all that follows through “2003” and inserting “February 15, 2009” .
