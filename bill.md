@@ -1,8 +1,8 @@
 ---
 legis-num: H. RES. 875
 congress: 110th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 875
@@ -17,7 +17,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Hadley School for the Blind has a high school degree program, an adult continuing study program, and in 2008 will be launching the Hadley School for Professional Studies;
 - Whereas the Hadley School for the Blind offers a wide range of distance education courses for blind or visually impaired individuals who are at least 14 years of age, relatives of blind or visually impaired children, family members of blind or visually impaired adults, and professionals in the blindness field;
 - Whereas there are more than 90 courses offered in Braille, large print, audiocassette, and online and students study in their own homes, at their own pace, completely free of charge; and
-- Whereas student Christine Gilson is bridging cultural boundaries by teaching visually impaired Chinese students English online: Now, therefore, be it
+- Whereas student Christie Gilson is bridging cultural boundaries by teaching visually impaired Chinese students English online: Now, therefore, be it
 
 That the House of Representatives—
 
