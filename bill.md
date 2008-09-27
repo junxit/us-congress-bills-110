@@ -1,0 +1,36 @@
+---
+legis-num: H.R. 7176
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7176
+
+> To prohibit the installation on a computer of certain “peer-to-peer” file sharing software without first providing notice and obtaining consent from the owner or authorized user of the computer.
+
+## § 1. Short title
+
+This Act may be cited as the “Informed P2P User Act”.
+
+## § 2. Conduct prohibited
+
+- **(a)** *Improper installation without notice and consent* It is unlawful for any person who is not the owner or authorized user of a protected computer to cause or induce the owner or authorized user of the protected computer to install any component of a peer-to-peer file sharing program that intentionally obtains files on the protected computer, or makes such files available to another computer without first providing clear and conspicuous notice that such program obtains files on the protected computer, or makes such files available to another computer, and obtaining the informed consent to the installation of such program for such activities from the owner or authorized user of the protected computer.
+- **(b)** *Preventing the disabling or removal of certain software* It is unlawful for any person who is not the owner or authorized user of a protected computer to prevent reasonable efforts by such owner or authorized user to—
+  - **(1)** block the installation of a peer-to-peer file sharing program that intentionally obtains files on the protected computer, or makes such files available to another computer; or
+  - **(2)** disable or remove any peer-to-peer file sharing program that intentionally obtains files on the protected computer, or makes such files available to another computer.
+
+## § 3. Enforcement
+
+- **(a)** *Unfair and deceptive acts and practices* A violation of section 2 shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+- **(b)** *Federal Trade Commission enforcement* The Federal Trade Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this Act.
+
+## § 4. Definitions
+
+As used in this Act—
+
+- **(1)** the term protected computer has the meaning given such term in section 1030(e)(2) of title 18, United States Code; and
+- **(2)** the term peer-to-peer file sharing program means computer software that allows the computer on which such software is installed—
+  - **(A)** to designate files available for transmission to another computer;
+  - **(B)** to transmit files directly to another computer; and
+  - **(C)** to request the transmission of files from another computer.
