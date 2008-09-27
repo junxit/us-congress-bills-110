@@ -50,7 +50,8 @@ This Act may be cited as the “Hazardous Waste Electronic Manifest Establishmen
   >       - **(i)** *In general* The Administrator shall increase or decrease amount of a service fee determined under the fee structure described in subparagraph (A) to a level that will—
   >         - **(I)** result in the collection of an aggregate amount for deposit in the Fund that is sufficient to cover current and projected system-related costs (including any necessary system upgrades); and
   >         - **(II)** minimize, to the maximum extent practicable, the accumulation of unused amounts in the Fund.
-  >       - **(ii)** *Timing of adjustments* Adjustments to service fees described in clause (i) shall be made—
+  >       - **(ii)** *Exception for initial period of operation* The requirement described in clause (i)(II) shall not apply to any additional fees that accumulate in the Fund, in an amount that does not exceed $2,000,000, during the 3-year period beginning on the date on which the system enters operation.
+  >       - **(iii)** *Timing of adjustments* Adjustments to service fees described in clause (i) shall be made—
   >         - **(I)** initially, at the time at which initial development costs of the system have been recovered by the Administrator such that the service fee may be reduced to reflect the elimination of the system development component of the fee; and
   >         - **(II)** periodically thereafter, upon receipt and acceptance of the findings of any annual accounting or auditing report under subsection (d)(6), if the report discloses a significant disparity for a fiscal year between the funds collected from service fees under this subsection for the fiscal year and expenditures made for the fiscal year to provide system-related services.
   > - **(d)** *Hazardous Waste Electronic Manifest System Fund*
@@ -118,10 +119,11 @@ This Act may be cited as the “Hazardous Waste Electronic Manifest Establishmen
   >       - **(iii)** funds subsequently appropriated for payment of costs of the cancellation or termination.
   >     - **(C)** *Negotiation of amounts* The amount payable in the event of cancellation or termination of a contract entered into under this subsection shall be negotiated with the contractor at the time at which the contract is awarded.
   >     - **(D)** *Authority to enter into contracts* The Administrator may enter into a contract under this subsection for any fiscal year, regardless of whether funds are made specifically available for the full costs of cancellation or termination of the contract, if—
-  >       - **(i)** funds are available at the time at which the contract is awarded to make payments with respect to a contingent liability in an amount equal to at least 75 percent of the estimated costs of a cancellation or termination during the first fiscal year of the contract, as determined by the Administrator; or
+  >       - **(i)** funds are available at the time at which the contract is awarded to make payments with respect to a contingent liability in an amount equal to at least 100 percent of the estimated costs of a cancellation or termination during the first fiscal year of the contract, as determined by the Administrator; or
   >       - **(ii)** funds described in clause (i) are not available as described in that clause, but the contractor—
   >         - **(I)** is informed of the amount of any unfunded contingent liability; and
   >         - **(II)** agrees to perform the contract despite the unfunded contingent liability.
+  >   - **(6)** *No effect on ownership* Regardless of whether the Administrator enters into a contract under this subsection, the system shall be owned by the Federal Government.
   > - **(f)** *Hazardous Waste Electronic Manifest System Governing Board*
   >   - **(1)** *Establishment* Not later than 3 years after the date of enactment of this section, the Administrator shall establish a board to be known as the “Hazardous Waste Electronic Manifest System Governing Board”.
   >   - **(2)** *Composition* The Board shall be composed of 7 members, of which—
@@ -136,7 +138,7 @@ This Act may be cited as the “Hazardous Waste Electronic Manifest Establishmen
   >     - **(A)** *In general* Not later than 1 year after the date of enactment of this section, the Administrator shall promulgate regulations to carry out this section.
   >     - **(B)** *Inclusions* The regulations promulgated pursuant to subparagraph (A) may include such requirements as the Administrator determines to be necessary to facilitate the transition from the use of paper manifests to the use of electronic manifests, or to accommodate the processing of data from paper manifests in the electronic manifest system, including a requirement that users of paper manifests submit to the system copies of the paper manifests for data processing purposes.
   >     - **(C)** *Requirements* The regulations promulgated pursuant to subparagraph (A) shall ensure that each electronic manifest provides, to the same extent as paper manifests under applicable Federal and State law, for—
-  >       - **(i)** the ability to track and maintain accountability of—
+  >       - **(i)** the ability to track and maintain legal accountability of—
   >         - **(I)** the person that certifies that the information provided in the manifest is accurately described; and
   >         - **(II)** the person that acknowledges receipt of the manifest;
   >       - **(ii)** if the manifest is electronically submitted, State authority to access paper copies of manifest; and
