@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1440
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1440
@@ -16,7 +16,7 @@ Expressing support for designation of the month of October as "National Work and
 
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 
-## Cosponsors (17)
+## Cosponsors (21)
 
 - Rep. Platts, Todd Russell [R-PA-19] (P000585)
 - Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
@@ -35,6 +35,10 @@ Expressing support for designation of the month of October as "National Work and
 - Rep. English, Phil [R-PA-3] (E000187)
 - Rep. Brown, Corrine [D-FL-3] (B000911)
 - Rep. Towns, Edolphus [D-NY-10] (T000326)
+- Rep. Allen, Thomas H. [D-ME-1] (A000357)
+- Rep. Mitchell, Harry E. [D-AZ-5] (M001167)
+- Rep. Brady, Robert A. [D-PA-1] (B001227)
+- Rep. Roybal-Allard, Lucille [D-CA-34] (R000486)
 
 ## Committees (1)
 
@@ -45,3 +49,16 @@ Expressing support for designation of the month of October as "National Work and
 - 2008-09-16 — Introduced in House
 - 2008-09-16 — Introduced in House
 - 2008-09-16 — Referred to the House Committee on Education and Labor.
+- 2008-09-27 — Amendment (A001) in the nature of a substitute offered by Mr. Altmire. (consideration: CR H10196; text: CR H10196)
+- 2008-09-27 — Amendment agreed to by House: On agreeing to the Altmire amendment (A001) Agreed to without objection.
+- 2008-09-27 — Committee on Education and Labor discharged.
+- 2008-09-27 — Committee on Education and Labor discharged.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10195-10196; text of measure as introduced: CR H10195-10196)
+- 2008-09-27 — House amendment agreed to: On agreeing to the Altmire amendment (A001) Agreed to without objection.
+- 2008-09-27 — House amendment offered
+- 2008-09-27 — House amendment offered/reported by : Amendment (A001) in the nature of a substitute offered by Mr. Altmire.(consideration: CR H10196; text: CR H10196)
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Altmire asked unanimous consent to discharge from committee and consider.
+- 2008-09-27 — On agreeing to the Altmire amendment (A001) Agreed to without objection.
+- 2008-09-27 — On agreeing to the resolution Agreed to without objection.
+- 2008-09-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
