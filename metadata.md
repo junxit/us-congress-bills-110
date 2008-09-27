@@ -1,7 +1,7 @@
 ---
 measure: S. 3309
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3309
@@ -33,3 +33,8 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
 - 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1062.
+- 2008-09-26 — Held at the desk.
+- 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9607; text as passed Senate: CR S9607)
+- 2008-09-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9607; text as passed Senate: CR S9607)
+- 2008-09-26 — Received in the House.
