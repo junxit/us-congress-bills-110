@@ -1,6 +1,6 @@
 ---
 legis-num: S. 1382
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
@@ -64,7 +64,7 @@ Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is
 >       - **(vi)** the National Vital Statistics System; and
 >       - **(vii)** any other existing or relevant databases that collect or maintain information on those motor neuron diseases recommended by the Advisory Committee established in subsection (b); and
 >     - **(B)** provide for research access to ALS data as recommended by the Advisory Committee established in subsection (b) to the extent permitted by applicable statutes and regulations and in a manner that protects personal privacy consistent with applicable privacy statutes and regulations.
->   - **(2)** *Coordination with nih and department of veterans affairs* Consistent with applicable privacy statutes and regulations, the Secretary may ensure that epidemiological and other types of information obtained under subsection (a) is made available to the National Institutes of Health and the Department of Veterans Affairs.
+>     - **(C)** *Coordination with nih and department of veterans affairs* Consistent with applicable privacy statutes and regulations, the Secretary may ensure that epidemiological and other types of information obtained under subsection (a) is made available to the National Institutes of Health and the Department of Veterans Affairs.
 > - **(e)** *Definition* For the purposes of this section, the term national voluntary health association means a national non-profit organization with chapters or other affiliated organizations in States throughout the United States with experience serving the population of individuals with ALS and have demonstrated experience in ALS research, care, and patient services.
 
 ## § 3. Report on registries
