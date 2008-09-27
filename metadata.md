@@ -1,7 +1,7 @@
 ---
 measure: S. 2932
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2932
@@ -70,3 +70,8 @@ Poison Center Support, Enhancement, and Awareness Act of 2008
 - 2008-09-25 — Considered under suspension of the rules. (consideration: CR H9920-9922)
 - 2008-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 2932.
 - 2008-09-25 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2008-09-26 — Cleared for White House.
+- 2008-09-26 — Considered as unfinished business. (consideration: CR H10049)
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 403 - 6 (Roll no. 653). (text: CR 9/25/2008 H9920-9921)
+- 2008-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 403 - 6 (Roll no. 653).(text: CR 9/25/2008 H9920-9921)
