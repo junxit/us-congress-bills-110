@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5872
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 5872
@@ -315,9 +315,10 @@ Boy Scouts of America Centennial Commemorative Coin Act
 - Rep. Young, C. W. Bill [R-FL-10] (Y000031)
 - Rep. Young, Don [R-AK-At Large] (Y000033)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -332,3 +333,10 @@ Boy Scouts of America Centennial Commemorative Coin Act
 - 2008-05-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-05-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 8 (Roll no. 327). (text: CR 5/13/2008 H3724-3725)
 - 2008-05-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 8 (Roll no. 327).(text: CR 5/13/2008 H3724-3725)
+- 2008-05-19 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Passed Senate without amendment by Unanimous Consent.
+- 2008-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-09-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S9901)
+- 2008-09-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S9901)
