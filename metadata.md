@@ -1,7 +1,7 @@
 ---
 measure: S. 1046
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 1046
@@ -20,6 +20,10 @@ Senior Professional Performance Act of 2008
 
 - Senate — Homeland Security and Governmental Affairs Committee
 - House — Oversight and Accountability Committee
+
+## Recorded votes (1)
+
+- 2008-09-26 — [House 110-2-659](votes/house-110-2-0659.md) — On Motion to Suspend the Rules and Pass — **Passed** (419–0)
 
 ## Actions
 
@@ -42,3 +46,12 @@ Senior Professional Performance Act of 2008
 - 2008-07-14 — Message on Senate action sent to the House.
 - 2008-07-14 — Received in the House.
 - 2008-07-14 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-25 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Shays objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-25 — Considered under suspension of the rules. (consideration: CR H9882-9884)
+- 2008-09-25 — DEBATE - The House proceeded with forty minutes of debate on S. 1046.
+- 2008-09-25 — Mr. Towns moved to suspend the rules and pass the bill.
+- 2008-09-26 — Cleared for White House.
+- 2008-09-26 — Considered as unfinished business. (consideration: CR H10074-10075)
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 659). (text: CR 9/25/2008 H9882-9883)
+- 2008-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 659).(text: CR 9/25/2008 H9882-9883)
