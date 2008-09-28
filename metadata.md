@@ -1,7 +1,7 @@
 ---
 measure: S. 3560
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3560
@@ -36,3 +36,12 @@ QI Program Supplemental Funding Act of 2008
 - 2008-09-25 — Referred to the House Committee on Energy and Commerce.
 - 2008-09-25 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S9459-9461)
 - 2008-09-25 — Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S9459-9461)
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10170-10176)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 3560.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Pallone moved to suspend the rules and pass the bill.
+- 2008-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10170-10171)
+- 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10170-10171)
+- 2008-09-27 — RE-REFERRAL OF S. 3560 - Mr. Pallone asked unanimous consent that the bill, S. 3560, be re-referred to the Committee on Energy and Commerce, and in addition, to the Committee on Ways and Means. Agreed to without objection.
+- 2008-09-27 — Rereferred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
