@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5159
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 2 executed, 7 stated and not applied.
+14 amendatory instructions. 3 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,15 @@ to guess them.
 | Removed | `the Capitol Guide Service,` |
 | Inserted | `the Office of Congressional Accessibility Services,` |
 
+### 2 U.S.C. § 1831
+
+> Section 1302 of the Legislative Branch Appropriations Act, 2008 (2 U.S.C. 1831 note; 121 Stat. 2242) is amended in the third sentence by striking “September 30, 2008” and inserting “September 30, 2010”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2008` |
+| Inserted | `September 30, 2010` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -52,9 +61,13 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `2 U.S.C. § 2165` | repeal | Section 301 of the National Visitor Center Facilities Act of 1968 (2 U.S.C. 2165) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 2134` | insert | Section 1815 of the Revised Statutes (2 U.S.C. 2134) is amended by inserting “Emancipation Hall of the Capitol Visitor Center,” after “Rotunda,”. | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1806` | repeal | Section 6701 of the U.S. Troop Readiness, Veterans’ Care, Katrina Recovery, and Iraq Accountability Appropriation Act of 2007 (2 U.S.C. 1806) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 130e` | repeal | Section 310 of the Legislative Branch Appropriations Act, 1990 (2 U.S.C. 130e) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1807` | repeal | Section 1309 of the Legislative Branch Appropriations Act, 2008 (2 U.S.C. 1807) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 130e` | amend | Section 310 of the Legislative Branch Appropriations Act, 1990 (2 U.S.C. 130e) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 2166` | repeal | Section 441 of the Legislative Reorganization Act of 1970 (2 U.S.C. 2166) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1301` | amend | Section 101(3)(C) of the Congressional Accountability Act of 1995 (2 U.S.C. 1301(3)(C)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1301` | amend | Section 210(a)(4) of such Act (2 U.S.C. 1331(a)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 2166` | amend | Section 2107(9) of title 5, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 1825` | repeal | Section 1305 of the Legislative Branch Appropriations Act, 2008 (2 U.S.C. 1825) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 5379(a)(1)(A) of title 5, United States Code, is amended by inserting “, the Architect of the Capitol, the Botanic Garden, and the Office of Congressional Accessibility Services ” after “title”. | the bill names no machine-readable US Code section |
