@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 62
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 62
@@ -126,3 +126,8 @@ Native American Heritage Day Act of 2008
 - 2008-09-22 — Message on Senate action sent to the House.
 - 2008-09-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9186; text as passed Senate: CR S9186)
 - 2008-09-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9186; text as passed Senate: CR S9186)
+- 2008-09-26 — Cleared for White House.
+- 2008-09-26 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-26 — Mr. Andrews asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H10116-10117)
+- 2008-09-26 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H10116-10117)
+- 2008-09-26 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H10116-10117)

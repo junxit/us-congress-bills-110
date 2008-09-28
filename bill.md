@@ -1,15 +1,13 @@
 ---
 legis-num: H.J. RES. 62
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.J. RES. 62
 
-That the resolution from the House of Representatives (H.J. Res. 62) entitled “Joint resolution to honor the achievements and contributions of Native Americans to the United States, and for other purposes.”, do pass with the following
-
-*Strike out all after the resolving clause and insert:*
+> To honor the achievements and contributions of Native Americans to the United States, and for other purposes.
 
 ## § 1. Short title
 
