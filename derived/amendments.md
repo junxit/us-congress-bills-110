@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5265
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

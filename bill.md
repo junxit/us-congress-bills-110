@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5265
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5265
 
-That the bill from the House of Representatives (H.R. 5265) entitled “An Act to amend the Public Health Service Act to provide for research with respect to various forms of muscular dystrophy, including Becker, congenital, distal, Duchenne, Emery-Dreifuss facioscapulohumeral, limb-girdle, myotonic, and oculopharyngeal, muscular dystrophies.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Public Health Service Act to provide for research with respect to various forms of muscular dystrophy, including Becker, congenital, distal, Duchenne, Emery-Dreifuss facioscapulohumeral, limb-girdle, myotonic, and oculopharyngeal, muscular dystrophies.
 
 ## § 1. Short title
 
