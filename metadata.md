@@ -1,7 +1,7 @@
 ---
 measure: S. 2482
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2482
@@ -34,3 +34,11 @@ A bill to repeal the provision of title 46, United States Code, requiring a lice
 - 2008-06-06 — Message on Senate action sent to the House.
 - 2008-06-09 — Received in the House.
 - 2008-06-09 — Referred to the House Committee on Transportation and Infrastructure.
+- 2008-06-10 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10141-10142)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 2482.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Cummings moved to suspend the rules and pass the bill.
+- 2008-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10141)
+- 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10141)
