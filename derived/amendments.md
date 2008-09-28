@@ -1,7 +1,7 @@
 ---
 measure: S. 2482
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
