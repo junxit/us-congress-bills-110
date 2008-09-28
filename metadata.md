@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3229
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3229
@@ -309,9 +309,10 @@ National Infantry Museum and Soldier Center Commemorative Coin Act
 - Rep. Waxman, Henry A. [D-CA-30] (W000215)
 - Rep. Capito, Shelley Moore [R-WV-2] (C001047)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -325,3 +326,10 @@ National Infantry Museum and Soldier Center Commemorative Coin Act
 - 2008-06-10 — Mr. Davis, Lincoln moved to suspend the rules and pass the bill, as amended.
 - 2008-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5167-5168)
 - 2008-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H5167-5168)
+- 2008-06-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S9900-9901)
+- 2008-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S9900-9901)
+- 2008-09-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2008-09-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
