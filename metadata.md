@@ -1,7 +1,7 @@
 ---
 measure: S. 431
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 431
@@ -62,3 +62,17 @@ KIDS Act of 2008
 - 2008-05-20 — Senate amendment agreed to: Amendment SA 4798 agreed to in Senate by Unanimous Consent.
 - 2008-05-20 — Senate amendment proposed (on the floor): Amendment SA 4798 proposed by Senator Reid for Senator Schumer.(consideration: CR S4553)
 - 2008-05-20 — Senate amendment submitted
+- 2008-05-21 — Held at the desk.
+- 2008-05-21 — Message on Senate action sent to the House.
+- 2008-05-21 — Received in the House.
+- 2008-09-27 — Amendment (A001) in the nature of a substitute offered by Mr. Conyers. (consideration: CR H10240-10241; text: CR H10240-10241)
+- 2008-09-27 — Amendment agreed to by House: On agreeing to the Conyers amendment (A001) Agreed to without objection.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10238-10241)
+- 2008-09-27 — House amendment agreed to: On agreeing to the Conyers amendment (A001) Agreed to without objection.
+- 2008-09-27 — House amendment offered
+- 2008-09-27 — House amendment offered/reported by : Amendment (A001) in the nature of a substitute offered by Mr. Conyers.(consideration: CR H10240-10241; text: CR H10240-10241)
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Conyers asked unanimous consent to take from the Speaker's table and consider.
+- 2008-09-27 — On agreeing to the Conyers amendment (A001) Agreed to without objection.
+- 2008-09-27 — On passage Passed without objection.
+- 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.
