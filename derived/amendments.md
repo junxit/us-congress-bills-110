@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6098
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `6 U.S.C. § 609` | replace | in the matter preceding paragraph (1) by striking “Grants” and all that follows through “plans, through” and inserting the following: “The Administrator shall permit grant recipients under section 2003 or 2004 to use grant funds to achie… | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 609` | insert | in paragraph (10) by inserting the following after “analysts”: “regardless of whether such analysts are current or new full-time employees or contract employees and such funding shall be made available without time limitations placed on … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 609` | replace | Section 2008(b)(2) of the Homeland Security Act of 2002 (6 U.S.C. 609(b)(2)) is amended by striking so much as precedes subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609` | replace | in the matter preceding paragraph (1), by striking “Grants” and all that follows through “used” and inserting the following: “The Administrator shall permit the recipient of a grant under section 2003 or 2004 to use grant funds”; and | the bill quotes the text struck but describes what replaces it |
+| `6 U.S.C. § 609` | insert | in paragraph (10), by inserting “, regardless of whether such analysts are current or new full-time employees or contract employees” after “analysts”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 609` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 609` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
