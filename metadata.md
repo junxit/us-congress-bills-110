@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6098
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6098
@@ -28,9 +28,10 @@ PRICE of Homeland Security Act
 - Rep. Perlmutter, Ed [D-CO-7] (P000593)
 - Rep. Bishop, Sanford D., Jr. [D-GA-2] (B000490)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,11 @@ PRICE of Homeland Security Act
 - 2008-07-29 — Ms. Harman moved to suspend the rules and pass the bill, as amended.
 - 2008-07-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7191)
 - 2008-07-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H7191)
+- 2008-07-30 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-09-23 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with an amendment in the nature of a substitute. Without written report.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1052.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9901; text as passed Senate: CR S9901)
+- 2008-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9901; text as passed Senate: CR S9901)
