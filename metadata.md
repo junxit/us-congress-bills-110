@@ -1,7 +1,7 @@
 ---
 measure: S. 496
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 496
@@ -61,3 +61,7 @@ Appalachian Regional Development Act Amendments of 2008
 - 2008-07-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6489-6490)
 - 2008-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H6489-6490)
 - 2008-07-16 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2008-09-26 — Cleared for White House.
+- 2008-09-26 — Resolving differences -- Senate actions: Senate agreed to House amendment by Unanimous Consent.(consideration: CR S9872-9874; text as Senate agreed to House amendment: CR S9872-9874)
+- 2008-09-26 — Senate agreed to House amendment by Unanimous Consent. (consideration: CR S9872-9874; text as Senate agreed to House amendment: CR S9872-9874)
+- 2008-09-27 — Message on Senate action sent to the House.
