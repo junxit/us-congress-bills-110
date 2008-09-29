@@ -1,0 +1,42 @@
+---
+legis-num: S. 3653
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3653
+
+> To amend the Agricultural Marketing Act of 1946 to provide for country of origin labeling for dairy products.
+
+## § 1. Short title
+
+This Act may be cited as the “Dairy COOL Act of 2008”.
+
+## § 2. Country of origin labeling for dairy products
+
+- **(a)** *Definitions* Section 281 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1638) is amended—
+  - **(1)** in paragraph (2)—
+    - **(A)** in subparagraph (A)—
+      - **(i)** in clause (x), by striking “and” at the end;
+      - **(ii)** in clause (xi), by striking the period at the end and inserting “; and”; and
+      - **(iii)** by adding at the end the following:
+        > - **(xii)** dairy products.
+
+    - **(B)** in subparagraph (B), by inserting “(other than clause (xii) of that subparagraph)” after “subparagraph (A)”;
+  - **(2)** by redesignating paragraphs (3) through (9) as paragraphs (4) through (10), respectively; and
+  - **(3)** by inserting after paragraph (2) the following:
+    > - **(3)** *Dairy product* The term dairy product means—
+    >   - **(A)** fluid milk;
+    >   - **(B)** cheese, including cottage cheese and cream cheese;
+    >   - **(C)** yogurt;
+    >   - **(D)** ice cream;
+    >   - **(E)** butter; and
+    >   - **(F)** any other dairy product.
+
+- **(b)** *Notice of country of origin* Section 282(a) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1638a(a)) is amended by adding at the end the following:
+  > - **(5)** *Designation of country of origin for dairy products*
+  >   - **(A)** *In general* A retailer of a covered commodity that is a dairy product shall designate the origin of the covered commodity as—
+  >     - **(i)** each country in which or from the 1 or more dairy ingredients or dairy components of the covered commodity were produced, originated, or sourced; and
+  >     - **(ii)** each country in which the covered commodity was processed.
+  >   - **(B)** *State, region, locality of the United States* With respect to a covered commodity that is a dairy product produced exclusively in the United States, designation by a retailer of the State, region, or locality of the United States where the covered commodity was produced shall be sufficient to identify the United States as the country of origin.
