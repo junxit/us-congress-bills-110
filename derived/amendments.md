@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6838
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 3711` | add-at-end | Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3711 et seq.) is amended by adding at the end the following new part: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3711 et seq.) is amended by adding at the end the following new part: | the bill names no machine-readable US Code section |
