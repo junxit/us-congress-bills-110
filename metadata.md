@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6669
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6669
@@ -25,3 +25,11 @@ To provide that claims of the United States to certain documents relating to Fra
 - 2008-07-30 — Introduced in House
 - 2008-07-30 — Introduced in House
 - 2008-07-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Davis, Tom objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10205-10206)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6669.
+- 2008-09-27 — Mr. Clay moved to suspend the rules and pass the bill.
+- 2008-09-29 — Considered as unfinished business. (consideration: CR H10631)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/27/2008 H10205)
+- 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/27/2008 H10205)
