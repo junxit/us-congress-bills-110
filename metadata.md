@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1224
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1224
@@ -43,3 +43,11 @@ Commending the Tennessee Valley Authority on its 75th anniversary.
 - 2008-09-26 — Placed on the House Calendar, Calendar No. 281.
 - 2008-09-26 — Reported by the Committee on Transportation. H. Rept. 110-892.
 - 2008-09-26 — Reported by the Committee on Transportation. H. Rept. 110-892.
+- 2008-09-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Boozman objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10137-10140)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1224.
+- 2008-09-27 — Mr. DeFazio moved to suspend the rules and agree to the resolution.
+- 2008-09-29 — Considered as unfinished business. (consideration: CR H10631)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR 9/27/2008 H10137)
+- 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.(text: CR 9/27/2008 H10137)
