@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7198
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7198
@@ -34,3 +34,12 @@ Stephanie Tubbs Jones Gift of Life Medal Act of 2008
 - 2008-09-28 — Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-28 — Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-28 — Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-09-29 — Committee on Energy and Commerce discharged.
+- 2008-09-29 — Committee on Energy and Commerce discharged.
+- 2008-09-29 — Committee on Financial Services discharged.
+- 2008-09-29 — Committee on Financial Services discharged.
+- 2008-09-29 — Considered by unanimous consent. (consideration: CR H10629)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Ms. Moore (WI) asked unanimous consent to discharge from committee and consider.
+- 2008-09-29 — On passage Passed without objection. (text: CR H10629)
+- 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10629)

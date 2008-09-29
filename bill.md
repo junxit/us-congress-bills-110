@@ -16,7 +16,7 @@ This Act may be cited as the “Stephanie Tubbs Jones Gift of Life Medal Act of 
 ## § 2. Eligibility requirements for Stephanie Tubbs Jones gift of life medal
 
 - **(a)** *In general* Subject to the provisions of this section and the availability of funds under this Act, any organ donor, or the family of any organ donor, shall be eligible for a Stephanie Tubbs Jones Gift of Life Medal (hereafter in this Act referred to as a “medal”).
-- **(b)** *Documentation* The Secretary of Health and Human Services shall direct the entity operating the Organ Procurement and Transplantation Network to—
+- **(b)** *DOCUMENTATION* The Secretary of Health and Human Services shall direct the entity operating the Organ Procurement and Transplantation Network to—
   - **(1)** establish an application procedure requiring the relevant organ procurement organization through which an individual or family of the individual made an organ donation, to submit to such entity documentation supporting the eligibility of the individual or the family, respectively, to receive a medal;
   - **(2)** determine through the documentation provided and, if necessary, independent investigation whether the individual or family, respectively, is eligible to receive such a medal; and
   - **(3)** arrange for the presentation to the relevant organ procurement organization all medals struck pursuant to section 4 to individuals or families that are determined to be eligible to receive medals.
@@ -60,4 +60,4 @@ For purposes of this Act:
 
 - **(1)** *Organ* The term organ has the meaning given such term in section 121.2 of title 42, Code of Federal Regulations.
 - **(2)** *Organ procurement organization* The term organ procurement organization means a qualified organ procurement organization described in section 371(b)(1) of the Public Health Service Act (42 U.S.C. 273(b)(1)).
-- **(3)** *Organ procurement and transplantation network* The term Organ Procurement and Transplantation Network means the Organ Procurement and Transplantation Network established under section 372 of the Public Health Service Act (42 U.S.C. 274).
+- **(3)** *Organ procurement and transplantation network* The term Organ Procurementand Transplantation Network means the Organ Procurement and Transplantation Network established under section 372 of the Public Health Service Act (42 U.S.C. 274).
