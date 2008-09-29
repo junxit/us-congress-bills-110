@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-67 amendatory instructions. 13 executed, 54 stated and not applied.
+66 amendatory instructions. 13 executed, 53 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -151,7 +151,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `49 U.S.C. § 102` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 102` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 102` | amend | by adding after subsection (f) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Part E of subtitle V of title 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of chapters of such subtitle is amended by adding after the item relating to chapter 283 the following: | the bill names no machine-readable US Code section |
 | `23 U.S.C. § 120` | strike | in the subsection heading by striking “for certain safety projects”; | the bill quotes the text struck but describes what replaces it |
@@ -162,19 +162,19 @@ complete account of the bill's effect, which it is not.
 | — | amend | Title 46, United States Code, is amended by adding after chapter 555 the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of chapters at the beginning of subtitle V of such title is amended by inserting after the item relating to chapter 555 the following: | the bill names no machine-readable US Code section |
 | `46 U.S.C. § 53501` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1901` | redesignate | by redesignating the paragraphs (1) through (12) as paragraphs (2) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1901` | redesignate | by redesignating paragraphs (1) through (12) as paragraphs (2) through (13), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1901` | redesignate | by inserting before paragraph (2) (as so redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1901` | redesignate | by redesignating paragraphs (7) through (13) (as redesignated) as paragraphs (8) through (14), respectively, and inserting after paragraph (6) (as redesignated) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | strike | by striking “and” at the end of paragraph (3); | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 1902` | replace | by striking the period at the end of paragraph (4) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1902` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1902` | redesignate | by redesignating subsections (c) through (g) as subsections (d) through (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1902` | redesignate | by redesignating subsections (c) through (g) as subsections (d) through (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1902` | insert | by inserting “or the Administrator, consistent with section 4 of this Act,” after “Secretary”; | the bill quotes the text inserted but describes where it goes |
-| `33 U.S.C. § 1903` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1903` | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `46 U.S.C. § 116` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1903` | redesignate | by redesignating paragraph (2) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1903` | redesignate | by redesignating paragraph (2) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1903` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1903` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1905` | add-at-end | in subsection (a) by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -190,7 +190,7 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 1908` | insert | in subsection (c) by inserting “, or the Administrator as provided for in this Act,” after “Secretary” each place it appears; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1908` | insert | in subsection (f) by inserting “, or the Administrator as provided for in this Act” after “Secretary” the first place appears. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 1911` | amend | Section 15 (33 U.S.C. 1911) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Subchapter I of chapter 475 is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 475 of tite 49, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for such subchapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `40 U.S.C. § 3307` | strike | by striking “and” at the end of paragraph (5); | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 3307` | replace | by striking the period at the end of paragraph (6) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -201,6 +201,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 6294a` | insert | by inserting after section 3312 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6294a` | replace | The analysis for such chapter is amended by striking the items relating to sections 3313, 3314, and 3315 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 3307` | insert | Such chapter is further amended by inserting after section 3313 (as inserted by subsection (c)(1) of this section) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `40 U.S.C. § 3307` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
 | `40 U.S.C. § 3307` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (4), (5), and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `40 U.S.C. § 3307` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
