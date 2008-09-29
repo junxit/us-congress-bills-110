@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6849
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -213,13 +213,13 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1531` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1531` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1531` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1531` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1531` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1531` | amend | The actual production on the farm shall equal the sum obtained by adding— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1531` | add-at-end | Section 531(g) of the Federal Crop Insurance Act (7 U.S.C. 1531(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1531` | insert | in subparagraph (A), by inserting “, excluding grazing land” after “producers on the farm”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1531` | replace | in paragraph (4), by striking “(4)” and all that follows through “In the case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `7 U.S.C. § 1531` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1308` | add-at-end | Section 531(h) of the Federal Crop Insurance Act (7 U.S.C. 1531) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1531` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1531` | add-at-end | Section 531(h) of the Federal Crop Insurance Act (7 U.S.C. 1531) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2497` | insert | in paragraph (3)(B), by inserting “has” after “on a farm that”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 7912` | replace | in paragraph (4), by striking “section 1102 of the Farm Security and Rural Investment Act of 2002” and all that follows through the end of the paragraph and inserting “under— | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2497` | strike | in paragraph (5)(B)(ii), by striking “, the total loss” and all that follows through the end of the paragraph and adding “the actual production on the farm is less than 50 percent of the normal production on the farm.”; | the bill quotes the text struck but describes what replaces it |
@@ -243,10 +243,10 @@ complete account of the bill's effect, which it is not.
 | `19 U.S.C. § 2497` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 2497` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2497` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2497` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2497` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2497` | amend | The actual production on the farm shall equal the sum obtained by adding— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 2497` | amend | Section 901(g) of the Trade Act of 1974 (19 U.S.C. 2497(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2497` | add-at-end | Section 901(g) of the Trade Act of 1974 (19 U.S.C. 2497(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 2497` | insert | in subparagraph (A), by inserting “, excluding grazing land” after “producers on the farm”; | the bill quotes the text inserted but describes where it goes |
 | `19 U.S.C. § 2497` | replace | in paragraph (4), by striking “(4)” and all that follows through “In the case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `19 U.S.C. § 2497` | amend | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `7 U.S.C. § 1308` | add-at-end | Section 901(h) of the Trade Act of 1974 (19 U.S.C. 2497(h)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2497` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `19 U.S.C. § 2497` | add-at-end | Section 901(h) of the Trade Act of 1974 (19 U.S.C. 2497(h)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

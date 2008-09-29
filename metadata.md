@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6849
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6849
@@ -119,3 +119,9 @@ To amend the commodity provisions of the Food, Conservation, and Energy Act of 2
 - 2008-09-29 — Senate amendment agreed to: Amendment SA 5679 agreed to in Senate by Unanimous Consent.
 - 2008-09-29 — Senate amendment proposed (on the floor): Amendment SA 5679 proposed by Senator Cardin for Senator Harkin.(consideration: CR S10039)
 - 2008-09-29 — Senate amendment submitted
+- 2008-10-03 — Presented to President.
+- 2008-10-03 — Presented to President.
+- 2008-10-13 — Became Public Law No: 110-398.
+- 2008-10-13 — Became Public Law No: 110-398.
+- 2008-10-13 — Signed by President.
+- 2008-10-13 — Signed by President.
