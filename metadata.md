@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6849
 congress: 110
-version: Reported in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6849
@@ -16,7 +16,7 @@ To amend the commodity provisions of the Food, Conservation, and Energy Act of 2
 
 - Rep. Etheridge, Bob [D-NC-2] (E000226)
 
-## Cosponsors (61)
+## Cosponsors (65)
 
 - Rep. Moran, Jerry [R-KS-1] (M000934)
 - Rep. Holden, Tim [D-PA-17] (H000712)
@@ -79,6 +79,10 @@ To amend the commodity provisions of the Food, Conservation, and Energy Act of 2
 - Rep. Souder, Mark E. [R-IN-3] (S001143)
 - Rep. Hall, John J. [D-NY-19] (H001039)
 - Rep. Lewis, Ron [R-KY-2] (L000293)
+- Sen. Chambliss, Saxby [R-GA] (C000286)
+- Sen. Conrad, Kent [D-ND] (C000705)
+- Sen. Baucus, Max [D-MT] (B000243)
+- Sen. Grassley, Chuck [R-IA] (G000386)
 
 ## Committees (1)
 
@@ -100,3 +104,18 @@ To amend the commodity provisions of the Food, Conservation, and Energy Act of 2
 - 2008-09-24 — Placed on the Union Calendar, Calendar No. 572.
 - 2008-09-24 — Reported (Amended) by the Committee on Agriculture. H. Rept. 110-881.
 - 2008-09-24 — Reported (Amended) by the Committee on Agriculture. H. Rept. 110-881.
+- 2008-09-25 — Received in the Senate, read twice.
+- 2008-09-29 — Amendment SA 5679 agreed to in Senate by Unanimous Consent.
+- 2008-09-29 — Amendment SA 5679 proposed by Senator Cardin for Senator Harkin. (consideration: CR S10039) In the nature of a substitute.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Measure laid before Senate by unanimous consent. (consideration: CR S10039)
+- 2008-09-29 — Message on Senate action sent to the House.
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Etheridge asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H10623-10625)
+- 2008-09-29 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H10623-10625)
+- 2008-09-29 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-09-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H10623-10625)
+- 2008-09-29 — Senate amendment agreed to: Amendment SA 5679 agreed to in Senate by Unanimous Consent.
+- 2008-09-29 — Senate amendment proposed (on the floor): Amendment SA 5679 proposed by Senator Cardin for Senator Harkin.(consideration: CR S10039)
+- 2008-09-29 — Senate amendment submitted
