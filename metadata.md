@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6946
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6946
@@ -40,3 +40,8 @@ To make a technical correction in the NET 911 Improvement Act of 2008.
 - 2008-09-25 — Mr. Pallone asked unanimous consent to discharge from committee and consider.
 - 2008-09-25 — On passage Passed without objection. (text: CR H9926)
 - 2008-09-25 — Passed/agreed to in House: On passage Passed without objection.(text: CR H9926)
+- 2008-09-26 — Received in the Senate, read twice.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10019)
+- 2008-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10019)
