@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 6849
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6849
 
-That the bill from the House of Representatives (H.R. 6849) entitled “An Act to amend the commodity provisions of the Food, Conservation, and Energy Act of 2008 to permit producers to aggregate base acres and reconstitute farms to avoid the prohibition on receiving direct payments, counter-cyclical payments, or average crop revenue election payments when the sum of the base acres of a farm is 10 acres or less, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the commodity provisions of the Food, Conservation, and Energy Act of 2008 to permit producers to aggregate base acres and reconstitute farms to avoid the prohibition on receiving direct payments, counter-cyclical payments, or average crop revenue election payments when the sum of the base acres of a farm is 10 acres or less, and for other purposes.
 
 ## § 1. Treatment of farms with limited base acres
 
