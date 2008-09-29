@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6489
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6489
@@ -39,3 +39,4 @@ To designate the facility of the United States Postal Service located at 501 4th
 - 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
 - 2008-09-27 — On passage Passed without objection. (text: CR H10212)
 - 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10212)
+- 2008-09-29 — Received in the Senate.
