@@ -1,7 +1,7 @@
 ---
 measure: S. 3325
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3325
@@ -44,6 +44,10 @@ Prioritizing Resources and Organization for Intellectual Property Act of 2008
 
 - Senate — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2008-09-28 — [House 110-2-664](votes/house-110-2-0664.md) — On Motion to Suspend the Rules and Pass — **Passed** (381–41)
+
 ## Actions
 
 - 2008-07-24 — Introduced in Senate
@@ -69,3 +73,8 @@ Prioritizing Resources and Organization for Intellectual Property Act of 2008
 - 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10229-10238)
 - 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 3325.
 - 2008-09-27 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2008-09-28 — Cleared for White House.
+- 2008-09-28 — Considered as unfinished business. (consideration: CR H10304-10305)
+- 2008-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 41 (Roll no. 664). (text: CR 9/27/2008 H10229-10236)
+- 2008-09-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 381 - 41 (Roll no. 664).(text: CR 9/27/2008 H10229-10236)
