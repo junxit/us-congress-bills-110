@@ -1,7 +1,7 @@
 ---
 measure: S. 1193
 congress: 110
-version: Referred in House
+version: Engrossed Amendment House
 ---
 
 # S. 1193
@@ -39,3 +39,17 @@ Albuquerque Indian School Act
 - 2008-09-23 — Message on Senate action sent to the House.
 - 2008-09-23 — Received in the House.
 - 2008-09-23 — Referred to the House Committee on Natural Resources.
+- 2008-09-29 — Amendment (A001) in the nature of a substitute offered by Mr. Rahall. (consideration: CR H10610-10612; text: CR H10610-10612)
+- 2008-09-29 — Amendment agreed to by House: On agreeing to the Rahall amendment (A001) Agreed to without objection.
+- 2008-09-29 — Committee on Natural Resources discharged.
+- 2008-09-29 — Committee on Natural Resources discharged.
+- 2008-09-29 — Considered by unanimous consent. (consideration: CR H10610-10612)
+- 2008-09-29 — House amendment agreed to: On agreeing to the Rahall amendment (A001) Agreed to without objection.
+- 2008-09-29 — House amendment offered
+- 2008-09-29 — House amendment offered/reported by : Amendment (A001) in the nature of a substitute offered by Mr. Rahall.(consideration: CR H10610-10612; text: CR H10610-10612)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Rahall asked unanimous consent to discharge from committee and consider.
+- 2008-09-29 — On agreeing to the Rahall amendment (A001) Agreed to without objection.
+- 2008-09-29 — On passage Passed without objection.
+- 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.
+- 2008-09-29 — The title of the measure was amended. Agreed to without objection.
