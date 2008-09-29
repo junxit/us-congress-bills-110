@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7222
 congress: 110
-version: Considered and Passed House
+version: Engrossed in House
 derived: true
 ---
 
