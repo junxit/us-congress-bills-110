@@ -1,7 +1,7 @@
 ---
 measure: S. 2382
 congress: 110
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 2382
@@ -45,3 +45,16 @@ FEMA Accountability Act of 2008
 - 2008-09-26 — Senate amendment proposed (on the floor): Amendment SA 5657 proposed by Senator Nelson FL for Senator Lieberman.(consideration: CR S9605; text: CR S9605)
 - 2008-09-26 — Senate amendment submitted
 - 2008-09-26 — The committee substitute as amended agreed to by Unanimous Consent.
+- 2008-09-29 — Amendment (A001) in the nature of a substitute offered by Mr. Rahall. (consideration: CR H10616-10617; text: CR H10616-10617)
+- 2008-09-29 — Amendment agreed to by House: On agreeing to the Rahall amendment (A001) Agreed to without objection.
+- 2008-09-29 — Committee on Transportation discharged.
+- 2008-09-29 — Committee on Transportation discharged.
+- 2008-09-29 — Considered by unanimous consent. (consideration: CR H10615-10618)
+- 2008-09-29 — House amendment agreed to: On agreeing to the Rahall amendment (A001) Agreed to without objection.
+- 2008-09-29 — House amendment offered
+- 2008-09-29 — House amendment offered/reported by : Amendment (A001) in the nature of a substitute offered by Mr. Rahall.(consideration: CR H10616-10617; text: CR H10616-10617)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Rahall asked unanimous consent to discharge from committee and consider.
+- 2008-09-29 — On agreeing to the Rahall amendment (A001) Agreed to without objection.
+- 2008-09-29 — On passage Passed without objection.
+- 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.
