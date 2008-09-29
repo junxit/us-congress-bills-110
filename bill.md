@@ -1,8 +1,8 @@
 ---
 legis-num: S. 3082
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 3082
