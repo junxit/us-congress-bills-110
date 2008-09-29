@@ -1,7 +1,7 @@
 ---
 measure: S. 3605
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3605
@@ -32,3 +32,11 @@ Criminal History Background Checks Pilot Extension Act of 2008
 - 2008-09-26 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S9574; text as passed Senate: CR S9574)
 - 2008-09-26 — Received in the House.
 - 2008-09-26 — Referred to the House Committee on the Judiciary.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Committee on Judiciary discharged.
+- 2008-09-27 — Committee on Judiciary discharged.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10241)
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Conyers asked unanimous consent to discharge from committee and consider.
+- 2008-09-27 — On passage Passed without objection. (text: CR H10241)
+- 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10241)
