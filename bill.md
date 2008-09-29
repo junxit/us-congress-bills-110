@@ -1,0 +1,115 @@
+---
+legis-num: H.R. 7222
+congress: 110th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7222
+
+> To extend the Andean Trade Preference Act, and for other purposes.
+
+## § 1. Extension of Andean Trade Preference Act
+
+- **(a)** *Extension* Section 208 of the Andean Trade Preference Act (19 U.S.C. 3206) is amended by striking “December 31, 2008” and inserting “December 31, 2009”.
+- **(b)** *Treatment of certain apparel articles* Section 204(b)(3) of such Act (19 U.S.C. 3203(b)(3)) is amended—
+  - **(1)** in subparagraph (B)—
+    - **(A)** in clause (iii)—
+      - **(i)** in subclause (II), by striking “6 succeeding 1-year periods” and inserting “7 succeeding 1-year periods”; and
+      - **(ii)** in subclause (III)(bb), by striking “and for the succeeding 1-year period” and inserting “and for the succeeding 2-year period”; and
+    - **(B)** in clause (v)(II), by striking “5 succeeding 1-year periods” and inserting “6 succeeding 1-year periods”; and
+  - **(2)** in subparagraph (E)(ii)(II), by striking “December 31, 2008” and inserting “December 31, 2009”.
+
+## § 2. Earned import allowance program
+
+- **(a)** *In general* Title IV of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (Public Law 109–53; 119 Stat. 495) is amended by adding at the end the following:
+  > ## § 404. Earned import allowance program
+  >
+  > - **(a)** *Preferential treatment*
+  >   - **(1)** *In general* Eligible apparel articles wholly assembled in an eligible country and imported directly from an eligible country shall enter the United States free of duty, without regard to the source of the fabric or yarns from which the articles are made, if such apparel articles are accompanied by an earned import allowance certificate that reflects the amount of credits equal to the total square meter equivalents of fabric in such apparel articles, in accordance with the program established under subsection (b).
+  >   - **(2)** *Determination of quantity of SME* For purposes of determining the quantity of square meter equivalents under paragraph (1), the conversion factors listed in “Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008”, or its successor publications, of the United States Department of Commerce, shall apply.
+  > - **(b)** *Earned import allowance program*
+  >   - **(1)** *Establishment* The Secretary of Commerce shall establish a program to provide earned import allowance certificates to any producer or entity controlling production of eligible apparel articles in an eligible country for purposes of subsection (a), based on the elements described in paragraph (2).
+  >   - **(2)** *Elements* The elements referred to in paragraph (1) are the following:
+  >     - **(A)** One credit shall be issued to a producer or an entity controlling production for every two square meter equivalents of qualifying fabric that the producer or entity controlling production can demonstrate that it has purchased for the manufacture in an eligible country of articles like or similar to any article eligible for preferential treatment under subsection (a). The Secretary of Commerce shall, if requested by a producer or entity controlling production, create and maintain an account for such producer or entity controlling production, into which such credits may be deposited.
+  >     - **(B)** Such producer or entity controlling production may redeem credits issued under subparagraph (A) for earned import allowance certificates reflecting such number of earned credits as the producer or entity may request and has available.
+  >     - **(C)** Any textile mill or other entity located in the United States that exports qualifying fabric to an eligible country may submit, upon such export or upon request, the Shipper’s Export Declaration, or successor documentation, to the Secretary of Commerce—
+  >       - **(i)** verifying that the qualifying fabric was exported to a producer or entity controlling production in an eligible country; and
+  >       - **(ii)** identifying such producer or entity controlling production, and the quantity and description of qualifying fabric exported to such producer or entity controlling production.
+  >     - **(D)** The Secretary of Commerce may require that a producer or entity controlling production submit documentation to verify purchases of qualifying fabric.
+  >     - **(E)** The Secretary of Commerce may make available to each person or entity identified in the documentation submitted under subparagraph (C) or (D) information contained in such documentation that relates to the purchase of qualifying fabric involving such person or entity.
+  >     - **(F)** The program shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to the earned import allowance certificates required under subsection (a)(1).
+  >     - **(G)** The Secretary of Commerce may reconcile discrepancies in the information provided under subparagraph (C) or (D) and verify the accuracy of such information.
+  >     - **(H)** The Secretary of Commerce shall establish procedures to carry out the program under this section by September 30, 2008, and may establish additional requirements to carry out the program.
+  > - **(c)** *Definitions* For purposes of this section—
+  >   - **(1)** the term appropriate congressional committees means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate;
+  >   - **(2)** the term eligible apparel articles means the following articles classified in chapter 62 of the HTS (and meeting the requirements of the rules relating to chapter 62 of the HTS contained in general note 29(n) of the HTS) of cotton (but not of denim): trousers, bib and brace overalls, breeches and shorts, skirts and divided skirts, and pants;
+  >   - **(3)** the term eligible country means the Dominican Republic; and
+  >   - **(4)** the term qualifying fabric means woven fabric of cotton wholly formed in the United States from yarns wholly formed in the United States and certified by the producer or entity controlling production as being suitable for use in the manufacture of apparel items such as trousers, bib and brace overalls, breeches and shorts, skirts and divided skirts or pants, all the foregoing of cotton, except that—
+  >     - **(A)** fabric otherwise eligible as qualifying fabric shall not be ineligible as qualifying fabric because the fabric contains nylon filament yarn with respect to which section 213(b)(2)(A)(vii)(IV) of the Caribbean Basin Economic Recovery Act applies;
+  >     - **(B)** fabric that would otherwise be ineligible as qualifying fabric because the fabric contains yarns not wholly formed in the United States shall not be ineligible as qualifying fabric if the total weight of all such yarns is not more than 10 percent of the total weight of the fabric, except that any elastomeric yarn contained in an eligible apparel article must be wholly formed in the United States; and
+  >     - **(C)** fabric otherwise eligible as qualifying fabric shall not be ineligible as qualifying fabric because the fabric contains yarns or fibers that have been designated as not commercially available pursuant to—
+  >       - **(i)** article 3.25(4) or Annex 3.25 of the Agreement;
+  >       - **(ii)** Annex 401 of the North American Free Trade Agreement;
+  >       - **(iii)** section 112(b)(5) of the African Growth and Opportunity Act;
+  >       - **(iv)** section 204(b)(3)(B)(i)(III) or (ii) of the Andean Trade Preference Act;
+  >       - **(v)** section 213(b)(2)(A)(v) or 213A(b)(5)(A) of the Caribbean Basin Economic Recovery Act; or
+  >       - **(vi)** any other provision, relating to determining whether a textile or apparel article is an originating good eligible for preferential treatment, of a law that implements a free trade agreement entered into by the United States that is in effect at the time the claim for preferential treatment is made.
+  > - **(d)** *Review and report*
+  >   - **(1)** *Review* The United States International Trade Commission shall carry out a review of the program under this section annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program.
+  >   - **(2)** *Report* The United States International Trade Commission shall submit to the appropriate congressional committees annually a report on the results of the review carried out under paragraph (1).
+  > - **(e)** *Effective date and applicability*
+  >   - **(1)** *Effective date* The program under this section shall be in effect for the 10-year period beginning on the date on which the President certifies to the appropriate congressional committees that sections A, B, C, and D of the Annex to Presidential Proclamation 8213 (December 20, 2007) have taken effect.
+  >   - **(2)** *Applicability* The program under this section shall apply with respect to qualifying fabric exported to an eligible country on or after August 1, 2007.
+
+- **(b)** *Clerical amendment* The table of contents for the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act is amended by inserting after the item relating to section 403 the following:
+
+## § 3. African Growth and Opportunity Act
+
+- **(a)** *In general* Section 112 of the African Growth and Opportunity Act (19 U.S.C. 3721) is amended—
+  - **(1)** in subsection (b)(6)(A), by striking “ethic” in the second sentence and inserting “ethnic”; and
+  - **(2)** in subsection (c)—
+    - **(A)** in paragraph (1), by striking “, and subject to paragraph (2),”;
+    - **(B)** by striking paragraphs (2) and (3);
+    - **(C)** in paragraph (4)—
+      - **(i)** by striking “Subsection (b)(3)(C)” and inserting “Subsection (b)(3)(B)”; and
+      - **(ii)** by redesignating such paragraph (4) as paragraph (2); and
+    - **(D)** by striking paragraph (5) and inserting the following:
+      > - **(3)** *Definition* In this subsection, the term lesser developed beneficiary sub-Saharan African country means—
+      >   - **(A)** a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 in 1998, as measured by the International Bank for Reconstruction and Development;
+      >   - **(B)** Botswana;
+      >   - **(C)** Namibia; and
+      >   - **(D)** Mauritius.
+
+- **(b)** *Applicability* The amendments made by subsection (a) apply to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act.
+- **(c)** *Review and reports*
+  - **(1)** *ITC review and report*
+    - **(A)** *Review* The United States International Trade Commission shall conduct a review to identify yarns, fabrics, and other textile and apparel inputs that through new or increased investment or other measures can be produced competitively in beneficiary sub-Saharan African countries.
+    - **(B)** *Report* Not later than 7 months after the date of the enactment of this Act, the United States International Trade Commission shall submit to the appropriate congressional committees and the Comptroller General a report on the results of the review carried out under subparagraph (A).
+  - **(2)** *GAO report* Not later than 90 days after the submission of the report under paragraph (1)(B), the Comptroller General shall submit to the appropriate congressional committees a report that, based on the results of the report submitted under paragraph (1)(B) and other available information, contains recommendations for changes to United States trade preference programs, including the African Growth and Opportunity Act (19 U.S.C. 3701 et seq.) and the amendments made by that Act, to provide incentives to increase investment and other measures necessary to improve the competitiveness of beneficiary sub-Saharan African countries in the production of yarns, fabrics, and other textile and apparel inputs identified in the report submitted under paragraph (1)(B), including changes to requirements relating to rules of origin under such programs.
+  - **(3)** *Definitions* In this subsection—
+    - **(A)** the term appropriate congressional committees means the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate; and
+    - **(B)** the term beneficiary sub-Saharan African countries has the meaning given the term in section 506A(c) of the Trade Act of 1974 (19 U.S.C. 2466a(c)).
+- **(d)** *Clerical amendment* Section 6002(a)(2)(B) of Public Law 109–432 is amended by striking “(B) by striking” and inserting “(B) in paragraph (3), by striking”.
+
+## § 4. Generalized System of Preferences
+
+Section 505 of the Trade Act of 1974 (19 U.S.C. 2465) is amended by striking “December 31, 2008” and inserting “December 31, 2009”.
+
+## § 5. Customs user fees
+
+- **(a)** *In general* Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended—
+  - **(1)** in subparagraph (A), by striking “November 14, 2017” and inserting “February 21, 2018”; and
+  - **(2)** in subparagraph (B)(i), by striking “October 7, 2017” and inserting “January 31, 2018”.
+- **(b)** *Repeal* Section 15201 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246) is amended by striking subsections (c) and (d).
+
+## § 6. Time for payment of corporate estimated taxes
+
+The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 in effect on the date of the enactment of this Act is increased by 2.25 percentage points.
+
+## § 7. Technical corrections
+
+Section 15402 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246) is amended—
+
+- **(1)** in subsections (a) and (b), by striking “Carribean” each place it appears and inserting “Caribbean”; and
+- **(2)** in subsection (d), by striking “231A(b)” and inserting “213A(b)”.
