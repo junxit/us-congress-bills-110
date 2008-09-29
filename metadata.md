@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1777
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1777
@@ -54,3 +54,9 @@ Need-Based Educational Aid Act of 2008
 - 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5653 proposed by Senator Durbin for Senator Leahy.(consideration: CR S9552; text: CR S9552)
 - 2008-09-25 — Senate amendment submitted
 - 2008-09-26 — Message on Senate action sent to the House.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — DEBATE - The House proceeded with fourty minutes of debate on H.R. 1777.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Ms. Lofgren, Zoe moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10264-10265)
+- 2008-09-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H10264)
+- 2008-09-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H10264)
