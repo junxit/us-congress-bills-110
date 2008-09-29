@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6146
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6146
@@ -54,3 +54,4 @@ To amend title 28, United States Code, to prohibit recognition and enforcement o
 - 2008-09-27 — Mr. Conyers moved to suspend the rules and pass the bill, as amended.
 - 2008-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10258)
 - 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10258)
+- 2008-09-29 — Received in the Senate.

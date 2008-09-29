@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6146
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Part VI of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | The table of chapters for part VI of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of chapters for part VI of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
