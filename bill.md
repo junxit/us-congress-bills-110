@@ -1,8 +1,8 @@
 ---
 legis-num: S. 2840
-congress: 110th CONGRESS
+congress: One Hundred Tenth Congress of the United States of America
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # S. 2840
@@ -30,7 +30,7 @@ This Act may be cited as the “Military Personnel Citizenship Processing Act”
 
 - **(a)** *In general* Section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) is amended by adding at the end the following:
   > - **(g)** Not later than 6 months after receiving an application for naturalization filed by a current member of the Armed Forces under subsection (a), section 329(a), or section 329A, by the spouse of such member under section 319(b), or by a surviving spouse or child under section 319(d), United States Citizenship and Immigration Services shall—
-  >   - **(1)** process and adjudicate the application, including completing all required background checks to the satisfaction of the Secretary of Homeland Security ; or
+  >   - **(1)** process and adjudicate the application, including completing all required background checks to the satisfaction of the Secretary of Homeland Security; or
   >   - **(2)** provide the applicant with—
   >     - **(A)** an explanation for its inability to meet the processing and adjudication deadline under this subsection; and
   >     - **(B)** an estimate of the date by which the application will be processed and adjudicated.
