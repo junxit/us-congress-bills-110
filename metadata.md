@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7217
 congress: 110
-version: Considered and Passed House
+version: Engrossed in House
 ---
 
 # H.R. 7217
