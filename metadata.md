@@ -1,7 +1,7 @@
 ---
 measure: S. 2816
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 2816
@@ -40,3 +40,10 @@ A bill to provide for the appointment of the Chief Human Capital Officer of the 
 - 2008-09-24 — Message on Senate action sent to the House.
 - 2008-09-24 — Received in the House.
 - 2008-09-24 — Referred to the House Committee on Homeland Security.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10273-10274)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 2816.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Etheridge moved to suspend the rules and pass the bill.
+- 2008-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10273)
+- 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10273)
