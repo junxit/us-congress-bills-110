@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6460
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+17 amendatory instructions. 4 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,7 +24,34 @@ to guess them.
 
 ## Executed
 
-### 33 U.S.C. § 1271a
+### 33 U.S.C. § 1268
+
+> Section 118(c)(12)(B)(ii) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(12)(B)(ii)) is amended by striking “sediment” and inserting “sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment”.
+
+| | |
+|---|---|
+| Removed | `sediment` |
+| Inserted | `sediment, including activities to restore aquatic habitat that are carried out in conjunction with a project for the remediation of contaminated sediment` |
+
+### 33 U.S.C. § 1268
+
+> in the subparagraph heading by striking “Limitation” and inserting “Limitations”;
+
+| | |
+|---|---|
+| Removed | `Limitation` |
+| Inserted | `Limitations` |
+
+### 33 U.S.C. § 1268
+
+> in clause (iv) (as redesignated by paragraph (1) of this subsection) by striking “service” each place it appears and inserting “contribution”.
+
+| | |
+|---|---|
+| Removed | `service` |
+| Inserted | `contribution` |
+
+### 33 U.S.C. § 1268
 
 > Section 118(c)(13)(B) of such Act (33 U.S.C. 1268(c)(13)(B)) is amended by striking “2008” and inserting “2010”.
 
@@ -42,6 +69,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `33 U.S.C. § 1271a` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1271a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | strike | in subparagraph (I) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1268` | replace | in subparagraph (J) by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | strike | in clause (i) by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 1268` | replace | in clause (ii) by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | amend | Section 118(c)(12)(E)(ii) of such Act (33 U.S.C. 1268(c)(12)(E)(ii)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | redesignate | by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | amend | Section 118(c)(12)(F) of such Act (33 U.S.C. 1268(c)(12)(F)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | replace | by striking clause (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1268` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 1271a` | replace | Section 106(b) of the Great Lakes Legacy Act of 2002 (33 U.S.C. 1271a(b)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
