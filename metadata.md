@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6460
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6460
@@ -106,3 +106,10 @@ Great Lakes Legacy Reauthorization Act of 2008
 - 2008-09-25 — Senate amendment agreed to: Amendment SA 5649 agreed to in Senate by Unanimous Consent.
 - 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5649 proposed by Senator Nelson FL for Senator Levin.(consideration: CR S9473-9474; text: CR S9473-9474)
 - 2008-09-25 — Senate amendment submitted
+- 2008-09-27 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 6460.
+- 2008-09-27 — Mr. Oberstar moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10155-10158)
+- 2008-09-28 — Cleared for White House.
+- 2008-09-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-28 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 665). (consideration: CR H10305; text as House agreed to Senate amendment: CR 9/27/2008 H10155)
+- 2008-09-28 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 411 - 9 (Roll no. 665).(consideration: CR H10305; text as House agreed to Senate amendment: CR 9/27/2008 H10155)
