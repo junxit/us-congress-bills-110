@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7083
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7083
@@ -39,3 +39,4 @@ Charity Enhancement Act of 2008
 - 2008-09-27 — Mr. Lewis (GA) moved to suspend the rules and pass the bill.
 - 2008-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10196-10197)
 - 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10196-10197)
+- 2008-09-29 — Received in the Senate.
