@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1157
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1157
@@ -329,3 +329,7 @@ Breast Cancer and Environmental Research Act of 2008
 - 2008-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-889.
 - 2008-09-25 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-889.
 - 2008-09-26 — Received in the Senate, read twice.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10018)
+- 2008-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10018)
