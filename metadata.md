@@ -1,7 +1,7 @@
 ---
 measure: S. 3597
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3597
@@ -28,3 +28,10 @@ A bill to provide that funds allocated for community food projects for fiscal ye
 - 2008-09-26 — Message on Senate action sent to the House.
 - 2008-09-26 — Received in the House.
 - 2008-09-26 — Referred to the House Committee on Agriculture.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10272-10273)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 3597.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Baca moved to suspend the rules and pass the bill.
+- 2008-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10272)
+- 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10272)

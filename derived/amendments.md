@@ -1,7 +1,7 @@
 ---
 measure: S. 3597
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
