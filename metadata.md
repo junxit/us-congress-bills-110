@@ -1,7 +1,7 @@
 ---
 measure: S. 3015
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3015
@@ -40,3 +40,11 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2008-06-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6331; text as passed Senate: CR S6331)
 - 2008-07-08 — Received in the House.
 - 2008-07-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Committee on Oversight and Government discharged.
+- 2008-09-27 — Considered by unanimous consent. (consideration: CR H10213-10214)
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
+- 2008-09-27 — On passage Passed without objection. (text: CR H10214)
+- 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10214)
