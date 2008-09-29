@@ -1,7 +1,7 @@
 ---
 measure: S. 3477
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3477
