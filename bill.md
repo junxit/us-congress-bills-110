@@ -15,4 +15,4 @@ Section 5 of Public Law 100–573 (16 U.S.C. 460o note) is amended to read as fo
 
 > ## § 5. Termination of Commission
 >
-> The Commission shall terminate on the date that is 1 year after the date of the enactment of this Act.
+> The Commission shall terminate on the date that is 21 years after the date of the enactment of this Act.
