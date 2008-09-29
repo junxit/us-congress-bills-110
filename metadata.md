@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6600
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6600
@@ -16,7 +16,7 @@ Medicare Identity Theft Prevention Act of 2008
 
 - Rep. Doggett, Lloyd [D-TX-25] (D000399)
 
-## Cosponsors (40)
+## Cosponsors (43)
 
 - Rep. Johnson, Sam [R-TX-3] (J000174)
 - Rep. Hodes, Paul W. [D-NH-2] (H001043)
@@ -58,6 +58,9 @@ Medicare Identity Theft Prevention Act of 2008
 - Rep. Hinojosa, Ruben [D-TX-15] (H000636)
 - Rep. Ortiz, Solomon P. [D-TX-27] (O000107)
 - Rep. Reyes, Silvestre [D-TX-16] (R000170)
+- Rep. Woolsey, Lynn C. [D-CA-6] (W000738)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Porter, Jon C. [R-NV-3] (P000589)
 
 ## Committees (1)
 
@@ -68,3 +71,12 @@ Medicare Identity Theft Prevention Act of 2008
 - 2008-07-24 — Introduced in House
 - 2008-07-24 — Introduced in House
 - 2008-07-24 — Referred to the House Committee on Ways and Means.
+- 2008-09-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Johnson, Sam objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10200-10202l)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6600.
+- 2008-09-27 — DEBATE - The House resumed debate on H.R. 6600.
+- 2008-09-27 — Mr. Doggett moved to suspend the rules and pass the bill, as amended.
+- 2008-09-29 — Considered as unfinished business. (consideration: CR H10631)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/27/2008 H10200)
+- 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/27/2008 H10200)

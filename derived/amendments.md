@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6600
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) is amended by adding at the end the following new clause: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 405` | add-at-end | Section 205(c)(2)(C) of the Social Security Act (42 U.S.C. 405(c)(2)(C)) is amended by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
