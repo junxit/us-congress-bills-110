@@ -1,7 +1,7 @@
 ---
 measure: S. 2162
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 2162
@@ -16,7 +16,7 @@ Veterans' Mental Health and Other Care Improvements Act of 2008
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Burr, Richard [R-NC] (B001135)
 - Sen. Mikulski, Barbara A. [D-MD] (M000702)
@@ -29,6 +29,7 @@ Veterans' Mental Health and Other Care Improvements Act of 2008
 - Sen. Clinton, Hillary Rodham [D-NY] (C001041)
 - Sen. Sessions, Jeff [R-AL] (S001141)
 - Sen. Stevens, Ted [R-AK] (S000888)
+- Sen. Inhofe, James M. [R-OK] (I000024)
 - Sen. Burr, Richard [R-NC] (B001135)
 
 ## Committees (2)
@@ -65,3 +66,7 @@ Veterans' Mental Health and Other Care Improvements Act of 2008
 - 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9369-9378)
 - 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9369-9378)
 - 2008-09-25 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the bill by Unanimous Consent.(consideration: CR S10017-10018; text as Senate agreed to House amendment: CR S10017)
+- 2008-09-27 — Senate agreed to the House amendment to the bill by Unanimous Consent. (consideration: CR S10017-10018; text as Senate agreed to House amendment: CR S10017)
