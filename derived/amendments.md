@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 

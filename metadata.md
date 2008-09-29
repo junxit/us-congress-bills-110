@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5057
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5057
@@ -112,3 +112,9 @@ Debbie Smith Reauthorization Act of 2008
 - 2008-09-25 — Senate amendment agreed to: Amendment SA 5646 agreed to in Senate by Unanimous Consent.
 - 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5646 proposed by Senator Reid for Senator Biden.(consideration: CR S9461; text: CR S9461)
 - 2008-09-25 — Senate amendment submitted
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 5057.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Conyers moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10255-10257)
+- 2008-09-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H10255)
+- 2008-09-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H10255)
