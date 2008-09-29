@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5571
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5571
@@ -59,3 +59,9 @@ To extend for 5 years the program relating to waiver of the foreign country resi
 - 2008-09-26 — Senate amendment agreed to: Amendment SA 5654 agreed to in Senate by Unanimous Consent.
 - 2008-09-26 — Senate amendment proposed (on the floor): Amendment SA 5654 proposed by Senator Reid for Senator Conrad.(consideration: CR S9573; text: CR S9573)
 - 2008-09-26 — Senate amendment submitted
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5571.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Ms. Lofgren, Zoe moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H10266-10267)
+- 2008-09-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H10267)
+- 2008-09-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H10267)
