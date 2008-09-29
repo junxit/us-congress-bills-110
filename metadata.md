@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6859
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6859
@@ -47,3 +47,4 @@ To designate the facility of the United States Postal Service located at 1501 So
 - 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
 - 2008-09-27 — On passage Passed without objection. (text: CR H10209)
 - 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10209)
+- 2008-09-29 — Received in the Senate, read twice.
