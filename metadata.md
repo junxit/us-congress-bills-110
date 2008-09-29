@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1382
 congress: 110
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1382
@@ -62,3 +62,8 @@ Honoring the heritage of the Coast Guard.
 - 2008-09-28 — Placed on the House Calendar, Calendar No. 284.
 - 2008-09-28 — Reported by the Committee on Transportation. H. Rept. 110-899.
 - 2008-09-28 — Reported by the Committee on Transportation. H. Rept. 110-899.
+- 2008-09-29 — Considered by unanimous consent. (consideration: CR H10618)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Rahall asked unanimous consent to take from the Speaker's table and consider.
+- 2008-09-29 — On agreeing to the resolution Agreed to without objection. (text: CR H10618)
+- 2008-09-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10618)
