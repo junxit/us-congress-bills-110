@@ -1,7 +1,7 @@
 ---
 measure: S. 3477
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `a term` |
 | Inserted | `not more than 4 terms` |
 
-### 44 U.S.C. § 2112
+### 44 U.S.C. § 2101
 
 > Section 2112(g)(5)(B) of title 44, United States Code, is amended by striking “40” and inserting “60”.
 
