@@ -1,7 +1,7 @@
 ---
 measure: S. 3023
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3023
@@ -15,6 +15,10 @@ Veterans' Benefits Improvement Act of 2008
 ## Sponsor
 
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
+
+## Cosponsors (1)
+
+- Sen. Snowe, Olympia J. [R-ME] (S000663)
 
 ## Committees (1)
 
@@ -48,3 +52,7 @@ Veterans' Benefits Improvement Act of 2008
 - 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H9387-9400)
 - 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H9387-9400)
 - 2008-09-25 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the bill by Unanimous Consent.(consideration: CR S10016-10017; text as Senate agreed to House amendment: CR S10016)
+- 2008-09-27 — Senate agreed to the House amendment to the bill by Unanimous Consent. (consideration: CR S10016-10017; text as Senate agreed to House amendment: CR S10016)
