@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5350
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5350
@@ -63,3 +63,8 @@ To authorize the Secretary of Commerce to sell or exchange certain National Ocea
 - 2008-09-26 — Senate amendment proposed (on the floor): Amendment SA 5663 proposed by Senator Whitehouse for Senator Shelby.(consideration: CR S9851; text: CR S9851)
 - 2008-09-26 — Senate amendment submitted
 - 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Rahall asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H10615)
+- 2008-09-29 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H10615)
+- 2008-09-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H10615)
