@@ -17,20 +17,6 @@ This Act may be cited as the “National Guard and Reservists Debt Relief Act of
 
 Section 707(b)(2)(D) of title 11, United States Code, is amended—
 
-- **(1)** in each of clauses (i) and (ii)—
-  - **(A)** by indenting the left margins of such clauses 2 ems to the right; and
-  - **(B)** by redesignating such clauses as subclauses (I) and (II), respectively;
-- **(2)** by striking “if the debtor is a disabled veteran” and inserting the following:
-  > - **(i)** the debtor is a disabled veteran
-
-- **(3)** by striking the period at the end and inserting “; or”; and
-- **(4)** by adding at the end the following:
-  > - **(ii)** while—
-  >   - **(I)** the debtor is—
-  >     - **(aa)** on, and during the 540-day period beginning immediately after the debtor is released from, a period of active duty (as defined in section 101(d)(1) of title 10) of not less than 90 days; or
-  >     - **(bb)** performing, and during the 540-day period beginning immediately after the debtor is no longer performing, a homeland defense activity (as defined in section 901(1) of title 32) performed for a period of not less than 90 days; and
-  >   - **(II)** if, after September 11, 2001, the debtor while a member of a reserve component of the Armed Forces or a member of the National Guard, was called to such active duty or performed such homeland defense activity.
-
 - **(1)** in clauses (i) and (ii)—
   - **(A)** by indenting the left margin of such clauses 2 ems to the right, and
   - **(B)** by redesignating such clauses as subclauses (I) and (II), respectively,

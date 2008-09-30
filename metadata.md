@@ -1,7 +1,7 @@
 ---
 measure: S. 3197
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3197
@@ -34,3 +34,5 @@ National Guard and Reservists Debt Relief Act of 2008
 - 2008-09-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
 - 2008-09-15 — Committee on the Judiciary. Reported by Senator Leahy with an amendment. Without written report.
 - 2008-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 963.
+- 2008-09-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S10186-10187; text  as passed in Senate: CR S10186-10187)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S10186-10187; text  as passed in Senate: CR S10186-10187)
