@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6098
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6098
@@ -62,3 +62,8 @@ PRICE of Homeland Security Act
 - 2008-09-27 — Message on Senate action sent to the House.
 - 2008-09-27 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S9901; text as passed Senate: CR S9901)
 - 2008-09-27 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(consideration: CR S9901; text as passed Senate: CR S9901)
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Etheridge asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H10625)
+- 2008-09-29 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H10625)
+- 2008-09-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H10625)
