@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6600
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6600
@@ -80,3 +80,4 @@ Medicare Identity Theft Prevention Act of 2008
 - 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/27/2008 H10200)
 - 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/27/2008 H10200)
+- 2008-09-30 — Received in the Senate.
