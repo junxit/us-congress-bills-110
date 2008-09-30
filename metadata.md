@@ -1,7 +1,7 @@
 ---
 measure: S. 906
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 906
@@ -27,6 +27,10 @@ Mercury Export Ban Act of 2008
 ## Committees (1)
 
 - Senate — Environment and Public Works Committee
+
+## Recorded votes (1)
+
+- 2008-09-29 — [House 110-2-669](votes/house-110-2-0669.md) — On Motion to Suspend the Rules and Pass — **Passed** (393–5)
 
 ## Actions
 
@@ -54,3 +58,8 @@ Mercury Export Ban Act of 2008
 - 2008-09-27 — Message on Senate action sent to the House.
 - 2008-09-27 — Mr. Allen moved to suspend the rules and pass the bill.
 - 2008-09-27 — Received in the House.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Considered as unfinished business. (consideration: CR H10333-10334)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 5, 6 Present (Roll no. 669). (text: CR 9/27/2008 H10178-10179)
+- 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 5, 6 Present (Roll no. 669).(text: CR 9/27/2008 H10178-10179)
