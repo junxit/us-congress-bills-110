@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6669
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 6669
@@ -33,3 +33,4 @@ To provide that claims of the United States to certain documents relating to Fra
 - 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/27/2008 H10205)
 - 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/27/2008 H10205)
+- 2008-09-30 — Received in the Senate.
