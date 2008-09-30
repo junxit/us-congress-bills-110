@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2963
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2963
@@ -47,3 +47,8 @@ Pechanga Band of Luiseno Mission Indians Land Transfer Act of 2007
 - 2008-09-26 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S9851-9852; text as passed Senate: CR S9851-9852)
 - 2008-09-26 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(consideration: CR S9851-9852; text as passed Senate: CR S9851-9852)
 - 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Rahall asked unanimous consent that the House agree to the Senate amendments. (consideration: CR H10609-10610; text as House agreed to Senate amendment: CR H10609-10610)
+- 2008-09-29 — On motion that the House agree to the Senate amendments Agreed to without objection.
+- 2008-09-29 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to without objection.
