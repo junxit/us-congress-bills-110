@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2786
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2786
@@ -121,3 +121,9 @@ Native American Housing Assistance and Self-Determination Reauthorization Act of
 - 2008-09-25 — Senate amendment agreed to: Amendment SA 5647 agreed to in Senate by Unanimous Consent.
 - 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5647 proposed by Senator Nelson FL for Senator Dorgan.(consideration: CR S9474)
 - 2008-09-25 — Senate amendment submitted
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2786.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mrs. McCarthy (NY) moved that the House suspend the rules an agree to the Senate amendment. (consideration: CR H10216-10222)
+- 2008-09-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text as House agreed to Senate amendment: CR H10216-10220)
+- 2008-09-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.(text as House agreed to Senate amendment: CR H10216-10220)
