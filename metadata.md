@@ -1,7 +1,7 @@
 ---
 measure: H.R. 928
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 928
@@ -123,3 +123,7 @@ Inspector General Reform Act of 2008
 - 2008-09-25 — Message on Senate action sent to the House.
 - 2008-09-25 — Mr. Towns moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H9877-9882)
 - 2008-09-25 — The House proceeded with forty minutes of debate on H.R. 928.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 414 - 0 (Roll No. 661).
+- 2008-09-27 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by recorded vote (2/3 required): 414 - 0 (Roll No. 661).
