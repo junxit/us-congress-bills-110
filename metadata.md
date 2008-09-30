@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1532
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 1532
@@ -100,3 +100,8 @@ Comprehensive Tuberculosis Elimination Act of 2008
 - 2008-09-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/23/2008 H8671-8673)
 - 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/23/2008 H8671-8673)
+- 2008-09-25 — Received in the Senate, read twice.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10018-10019)
+- 2008-09-27 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10018-10019)
