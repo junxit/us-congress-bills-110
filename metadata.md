@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7017
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7017
@@ -42,3 +42,4 @@ To amend Public Law 100-573 to extend the authorization of the Delaware Water Ga
 - 2008-09-29 — On agreeing to the Rahall amendment (A001) Agreed to without objection.
 - 2008-09-29 — On passage Passed without objection.
 - 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.
+- 2008-09-30 — Received in the Senate.
