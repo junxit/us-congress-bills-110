@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 416
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 416
@@ -63,3 +63,6 @@ Commending Barter Theatre on the occasion of its 75th anniversary.
 - 2008-09-26 — On agreeing to the resolution Agreed to without objection. (text: CR H10116)
 - 2008-09-26 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10116)
 - 2008-09-27 — Received in the Senate.
+- 2008-09-30 — Message on Senate action sent to the House.
+- 2008-09-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S10130)
+- 2008-09-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S10130)
