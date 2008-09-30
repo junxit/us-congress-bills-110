@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7216
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7216
@@ -36,3 +36,4 @@ To amend section 3328 of title 5, United States Code, relating to Selective Serv
 - 2008-09-29 — On passage Passed without objection. (text: CR H10625-10626)
 - 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10625-10626)
 - 2008-09-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-30 — Received in the Senate.
