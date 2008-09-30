@@ -1,7 +1,7 @@
 ---
 measure: S. 1276
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1276
@@ -55,3 +55,13 @@ Methamphetamine Production Prevention Act of 2008
 - 2008-09-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-09-25 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Committee on Energy and Commerce discharged.
+- 2008-09-29 — Committee on Energy and Commerce discharged.
+- 2008-09-29 — Committee on Judiciary discharged.
+- 2008-09-29 — Committee on Judiciary discharged.
+- 2008-09-29 — Considered by unanimous consent. (consideration: CR H10621-10622)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Markey asked unanimous consent to discharge from committee and consider.
+- 2008-09-29 — On passage Passed without objection. (text: CR H10621-10622)
+- 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10621-10622)
