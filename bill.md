@@ -2,7 +2,7 @@
 legis-num: H.R. 7216
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 7216
@@ -24,4 +24,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   >   - **(2)** The procedures under paragraph (1) may provide that determinations referred to in paragraph (1)(A) shall be adjudicated by the Executive agency making the appointment for which the eligibility is determined.
 
 - **(b)** *Regulations* Not later than 60 days after the date of enactment of this Act, the Director of the Selective Service System, in consultation with the Director of the Office of Personnel Management, shall prescribe regulations under section 3328(c) of title 5, United States Code, as added by subsection (a) of this section.
-- **(c)** *Readjudication of determinations* Any individual whose case was or is adjudicated under section 3328(b) of title 5, United States Code, during the period beginning on February 21, 2007, through the date on which the regu1ations are prescribed or amended under subsection (b) of this section are in effect, and whose case involve a determination of whether a failure to register was knowing and willful, may have his or her case readjudicated in accordance with such regulations as so prescribed.
+- **(c)** *Readjudication of determinations* Any individual whose case was or is adjudicated under section 3328(b) of title 5, United States Code, during the period beginning on February 21, 2007, through the date on which the regu1ations are prescribed or amended under subsection (b) of this section are in effect, and whose case involve a determination of whether a failure to register was knowing and willful, may have his or her case readju-dicated in accordance with such regulations as so prescribed.
