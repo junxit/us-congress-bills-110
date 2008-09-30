@@ -1,7 +1,7 @@
 ---
 measure: S. 2304
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2304
@@ -53,3 +53,8 @@ Mentally Ill Offender Treatment and Crime Reduction Reauthorization and Improvem
 - 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10268-10270)
 - 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 2304.
 - 2008-09-27 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Considered as unfinished business. (consideration: CR H10631)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/27/2008 H10268-10269)
+- 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/27/2008 H10268-10269)
