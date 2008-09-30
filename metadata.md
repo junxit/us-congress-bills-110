@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7217
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7217
@@ -36,3 +36,4 @@ Federal Real Property Disposal Enhancement Act of 2008
 - 2008-09-29 — On passage Passed without objection. (text: CR H10626-10628)
 - 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10626-10628)
 - 2008-09-29 — Referred to the House Committee on Oversight and Government Reform.
+- 2008-09-30 — Received in the Senate.
