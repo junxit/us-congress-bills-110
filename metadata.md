@@ -1,7 +1,7 @@
 ---
 measure: S. 1738
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1738
@@ -151,3 +151,10 @@ PROTECT Our Children Act of 2008
 - 2008-09-26 — Held at the desk.
 - 2008-09-26 — Message on Senate action sent to the House.
 - 2008-09-26 — Received in the House.
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10241-10251)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 1738.
+- 2008-09-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-27 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2008-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10242-10248)
+- 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10242-10248)

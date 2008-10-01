@@ -1,7 +1,7 @@
 ---
 measure: S. 1738
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -24,7 +24,7 @@ to guess them.
 
 ## Executed
 
-### 42 U.S.C. § 13032
+### 18 U.S.C. § 2702
 
 > in subsection (b)(6), by striking “section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)” and inserting “section 2258A”; and
 
@@ -33,7 +33,7 @@ to guess them.
 | Removed | `section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)` |
 | Inserted | `section 2258A` |
 
-### 42 U.S.C. § 13032
+### 18 U.S.C. § 2702
 
 > in subsection (c)(5), by striking “section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)” and inserting “section 2258A”.
 
@@ -52,10 +52,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `18 U.S.C. § 2256` | insert | after “visual image” by inserting “, and data which is capable of conversion into a visual image that has been transmitted by any means, whether or not stored in a permanent format”. | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2252A` | replace | in paragraph (5), by striking “; or” at the end and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `18 U.S.C. § 2252A` | replace | in paragraph (6), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `18 U.S.C. § 2252A` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2252A` | amend | Subsection (b) of section 2252A of title 18, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (5), by striking “; or” at the end and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (6) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subsection (b) of section 2252A of title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 5773` | insert | Chapter 110 of title 18, United States Code, is amended by inserting after section 2258 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13032` | repeal | Section 227 of the Crime Control Act of 1990 (42 U.S.C. 13032) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 13032` | insert | The table of sections for chapter 110 of title 18, United States Code, is amended by inserting after the item relating to section 2258 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
