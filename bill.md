@@ -29,7 +29,7 @@ Section 1 of title 9, United States Code, is amended—
   > - **(C)** a public facility, proprietary facility, or facility of a private nonprofit corporation that—
   >   - **(i)** makes available to adult residents supportive services to assist the residents in carrying out activities such as bathing, dressing, eating, getting in and out of bed or chairs, walking, going outdoors, using the toilet, obtaining or taking medication, and which may make available to residents home health care services, such as nursing and therapy; and
   >   - **(ii)** provides a dwelling place for residents in order to deliver such supportive services referred to in clause (i), each of which may contain a full kitchen and bathroom, and which includes common rooms and other facilities appropriate for the provision of supportive services to the residents of the facility; and
-  > -  (4) pre-dispute arbitration agreement means any agreement to arbitrate disputes that had not yet arisen at the time of the making of the agreement.
+  > - **(4)** pre-dispute arbitration agreement means any agreement to arbitrate disputes that had not yet arisen at the time of the making of the agreement.
   > - **(b)** The definition of “long-term care facility” in subsection (a)(3) shall not apply to any facility or portion of facility that—
   >   - **(1)** does not provide the services described in subsection (a)(3)(C)(i); or
   >   - **(2)** has as its primary purpose, to educate or to treat substance abuse problems.
