@@ -1,7 +1,7 @@
 ---
 measure: S. 967
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 5 U.S.C. § 4121
 
-> by striking “In consultation with” and inserting “(b) Under operating standards promulgated by, and in consultation with,”; and
+> by striking “In consultation with” and inserting “(b) Under operating standardscompetencies promulgated by, and in consultation with,”; and
 
 | | |
 |---|---|
 | Removed | `In consultation with` |
-| Inserted | `(b) Under operating standards promulgated by, and in consultation with,` |
+| Inserted | `(b) Under operating standardscompetencies promulgated by, and in consultation with,` |
 
 ## Stated, not applied
 
