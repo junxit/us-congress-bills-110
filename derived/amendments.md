@@ -1,7 +1,7 @@
 ---
 measure: S. 2148
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,3 +43,4 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 3594 of such title is amended in subsections (a) and (b) by striking “3393(d)” and inserting “3393(e)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3595(b)(1) of such title is amended by striking “3393(d)” and inserting “3393(e)”. | the bill names no machine-readable US Code section |
 | — | replace | Section 7541(1)(A) of such title is amended by striking “3393(d)” and inserting “3393(e)”. | the bill names no machine-readable US Code section |
+| — | insert | Section 3393(b) of title 5, United States Code, is amended by inserting after the first sentence the following: “In establishing an executive resources board, the head of the agency shall, to the extent practicable, ensure diversity of t… | the bill names no machine-readable US Code section |
