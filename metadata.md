@@ -1,7 +1,7 @@
 ---
 measure: S. 431
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 431
@@ -76,3 +76,8 @@ KIDS Act of 2008
 - 2008-09-27 — On agreeing to the Conyers amendment (A001) Agreed to without objection.
 - 2008-09-27 — On passage Passed without objection.
 - 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.
+- 2008-09-29 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Resolving differences -- Senate actions: Senate agreed to the House amendment by Unanimous Consent.(consideration: CR S10182-10183; text as Senate agreed to House amendment: CR S10182-10183)
+- 2008-09-30 — Senate agreed to the House amendment by Unanimous Consent. (consideration: CR S10182-10183; text as Senate agreed to House amendment: CR S10182-10183)
+- 2008-10-01 — Message on Senate action sent to the House.
