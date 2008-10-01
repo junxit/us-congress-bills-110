@@ -1,7 +1,7 @@
 ---
 measure: S. 3128
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3128
@@ -36,3 +36,11 @@ White Mountain Apache Tribe Rural Water System Loan Authorization Act
 - 2008-09-26 — Message on Senate action sent to the House.
 - 2008-09-26 — Received in the House.
 - 2008-09-26 — Referred to the House Committee on Natural Resources.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Committee on Natural Resources discharged.
+- 2008-09-29 — Committee on Natural Resources discharged.
+- 2008-09-29 — Considered by unanimous consent. (consideration: CR H10609)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — Mr. Rahall asked unanimous consent to discharge from committee and consider.
+- 2008-09-29 — On passage Passed without objection. (text as passed House: CR H10609)
+- 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.(text as passed House: CR H10609)
