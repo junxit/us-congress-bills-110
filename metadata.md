@@ -1,7 +1,7 @@
 ---
 measure: S. 3296
 congress: 110
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 3296
@@ -44,3 +44,12 @@ A bill to extend the authority of the United States Supreme Court Police to prot
 - 2008-09-25 — Senate amendment agreed to: Amendment SA 5645 agreed to in Senate by Unanimous Consent.
 - 2008-09-25 — Senate amendment proposed (on the floor): Amendment SA 5645 proposed by Senator Reid for Senator Kyl.(consideration: CR S9459; text: CR S9459)
 - 2008-09-25 — Senate amendment submitted
+- 2008-09-27 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Smith (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was withdrawn.
+- 2008-09-27 — Considered under suspension of the rules. (consideration: CR H10254-10255)
+- 2008-09-27 — DEBATE - The House proceeded with forty minutes of debate on S. 3296.
+- 2008-09-27 — Mr. Conyers moved to suspend the rules and pass the bill.
+- 2008-09-29 — Cleared for White House.
+- 2008-09-29 — Considered as unfinished business. (consideration: CR H10631)
+- 2008-09-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-09-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/27/2008 H10254)
+- 2008-09-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/27/2008 H10254)
