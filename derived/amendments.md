@@ -1,7 +1,7 @@
 ---
 measure: S. 1779
 congress: 110
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 0 executed, 13 stated and not applied.
+15 amendatory instructions. 0 executed, 15 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,3 +44,5 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsections (a) and (b), by striking “subsection (e)” each place it appears and inserting “subsection (d)”; | the bill names no machine-readable US Code section |
 | — | strike | by striking subsection (d); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (e) as subsection (d). | the bill names no machine-readable US Code section |
+| — | amend | Section 166 of the Workforce Investment Act of 1998 (29 U.S.C. 2911) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 166(b) of the Workforce Investment Act of 1998 (29 U.S.C. 2911(b)) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
