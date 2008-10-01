@@ -1,7 +1,7 @@
 ---
 measure: S. 431
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 16981` | amend | Subparagraph (C) of section 621(a)(1) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16981(a)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Subparagraph (C) of section 621(a)(1) of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16981(a)(1)) is amended to read as follows: | the bill names no machine-readable US Code section |
