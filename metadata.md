@@ -1,7 +1,7 @@
 ---
 measure: S. 3658
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 3658
@@ -21,3 +21,4 @@ A bill to require the accreditation of English language training programs, and f
 - 2008-09-30 — Introduced in Senate
 - 2008-09-30 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10181-10182; text as passed Senate: CR S10181-10182)
 - 2008-09-30 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10181-10182; text as passed Senate: CR S10181-10182)
+- 2008-10-01 — Message on Senate action sent to the House.
