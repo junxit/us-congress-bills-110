@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7177
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 7177
@@ -35,3 +35,8 @@ Naval Vessel Transfer Act of 2008
 - 2008-09-27 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H10277)
 - 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H10277)
 - 2008-09-27 — Referred to the House Committee on Foreign Affairs.
+- 2008-09-29 — Received in the Senate, read twice.
+- 2008-10-01 — Cleared for White House.
+- 2008-10-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10396)
+- 2008-10-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10396)
+- 2008-10-02 — Message on Senate action sent to the House.
