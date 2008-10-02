@@ -31,5 +31,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 That the Senate—
 
-- **(1)** makes a stronger commitment to reducing maternal mortality both at home and abroad through greater financial investment and participation in global initiatives; and
-- **(2)** recognizes maternal health as a human right.
+- **(1)** makes a stronger commitment to reducing maternal mortality both at home and abroad through more effective financial investment and participation in global initiatives; and
+- **(2)** recognizes that the right to access quality and affordable health care is essential to improving maternal health.
