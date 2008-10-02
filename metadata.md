@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6847
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6847
@@ -48,3 +48,8 @@ To designate the facility of the United States Postal Service located at 801 Ind
 - 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-25 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text CR 9/24/2008 H9323)
 - 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text CR 9/24/2008 H9323)
+- 2008-09-26 — Received in the Senate, read twice.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Message on Senate action sent to the House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10129-10130)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10129-10130)
