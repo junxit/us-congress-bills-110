@@ -1,7 +1,7 @@
 ---
 measure: S. 3073
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
