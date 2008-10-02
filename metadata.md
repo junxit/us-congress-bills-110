@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 426
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 426
@@ -127,3 +127,6 @@ Recognizing the 10th anniversary of the establishment of the Minority AIDS Initi
 - 2008-09-27 — On agreeing to the Pallone amendment (A002) Agreed to without objection.
 - 2008-09-27 — On agreeing to the resolution Agreed to without objection.
 - 2008-09-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
+- 2008-09-29 — Received in the Senate.
+- 2008-10-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S10423)
+- 2008-10-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S10423)
