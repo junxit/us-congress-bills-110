@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3511
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3511
@@ -44,3 +44,7 @@ To designate the facility of the United States Postal Service located at 2150 Ea
 - 2008-09-24 — On passage Passed without objection. (text: CR H8718)
 - 2008-09-24 — Passed/agreed to in House: On passage Passed without objection.(text: CR H8718)
 - 2008-09-25 — Received in the Senate, read twice.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Message on Senate action sent to the House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10129-10130)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10129-10130)
