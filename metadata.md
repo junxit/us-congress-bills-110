@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1424
@@ -299,11 +299,13 @@ A bill to provide authority for the Federal Government to purchase and insure ce
 - House — Ways and Means Committee
 - House — Education and the Workforce Committee
 
-## Recorded votes (3)
+## Recorded votes (5)
 
 - 2008-03-05 — [House 110-2-99](votes/house-110-2-0099.md) — Table Appeal of the Ruling of the Chair — **Passed** (223–186)
 - 2008-03-05 — [House 110-2-100](votes/house-110-2-0100.md) — On Motion to Recommit with Instructions — **Failed** (196–221)
 - 2008-03-05 — [House 110-2-101](votes/house-110-2-0101.md) — On Passage — **Passed** (268–148)
+- 2008-10-01 — [Senate 110-2-212](votes/senate-110-2-0212.md) — On the Amendment — **Amendment Agreed to** (74–25)
+- 2008-10-01 — [Senate 110-2-213](votes/senate-110-2-0213.md) — On Passage of the Bill — **Bill Passed** (74–25)
 
 ## Actions
 
@@ -356,3 +358,27 @@ A bill to provide authority for the Federal Government to purchase and insure ce
 - 2008-03-05 — Rule provides for consideration of H.R. 1424 with 2 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.
 - 2008-03-05 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H1314)
 - 2008-03-05 — The previous question was ordered pursuant to the rule. (consideration: CR H1307)
+- 2008-03-06 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-03-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 610.
+- 2008-10-01 — Amendment SA 5685 proposed by Senator Dodd. (consideration: CR S10222-10234, S10292-10294) In the nature of a substitute.
+- 2008-10-01 — Amendment SA 5685, pursuant to the order of September 30, 2008, having achieved the required 60 votes in the affirmative, was agreed to in Senate by Yea-Nay. 74 - 25. Record Vote Number: 212.
+- 2008-10-01 — Amendment SA 5686 agreed to in Senate by Unanimous Consent.
+- 2008-10-01 — Amendment SA 5686 proposed by Senator Dodd. (consideration: CR S10295; text: CR S10295) To amend the title.
+- 2008-10-01 — Amendment SA 5687 not agreed to in Senate by Voice Vote.
+- 2008-10-01 — Amendment SA 5687 proposed by Senator Sanders to Amendment SA 5685. (consideration: CR S10234-10236, S10291-10292; text: CR S10234) To amend the Internal Revenue Code of 1986 to increase the tax on high income individuals.
+- 2008-10-01 — Measure laid before Senate by unanimous consent. (consideration: CR S10220-10283, S10291-10295)
+- 2008-10-01 — Passed Senate, pursuant to the order of September 30, 2008, having achieved the required 60 votes in the affirmative, with an amendment and an amendment to the Title by Yea-Nay Vote. 74 - 25. Record Vote Number: 213.
+- 2008-10-01 — Passed/agreed to in Senate: Passed Senate, pursuant to the order of September 30, 2008, having achieved the required 60 votes in the affirmative, with an amendment and an amendment to the Title by Yea-Nay Vote. 74 - 25. Record Vote Number: 213.
+- 2008-10-01 — Roll call votes on amendments in Senate: Amendment SA 5685, pursuant to the order of September 30, 2008, having achieved the required 60 votes in the affirmative, was agreed to in Senate by Yea-Nay. 74 - 25. Record Vote Number: 212.
+- 2008-10-01 — Senate amendment agreed to: Amendment SA 5685, pursuant to the order of September 30, 2008, having achieved the required 60 votes in the affirmative, was agreed to in Senate by Yea-Nay. 74 - 25. Record Vote Number: 212.
+- 2008-10-01 — Senate amendment agreed to: Amendment SA 5686 agreed to in Senate by Unanimous Consent.
+- 2008-10-01 — Senate amendment not agreed to: Amendment SA 5687 not agreed to in Senate by Voice Vote.
+- 2008-10-01 — Senate amendment proposed (on the floor): Amendment SA 5685 proposed by Senator Dodd.(consideration: CR S10222-10234, S10292-10294)
+- 2008-10-01 — Senate amendment proposed (on the floor): Amendment SA 5686 proposed by Senator Dodd.(consideration: CR S10295; text: CR S10295)
+- 2008-10-01 — Senate amendment proposed (on the floor): Amendment SA 5687 proposed by Senator Sanders to Amendment SA 5685.(consideration: CR S10234-10236, S10291-10292; text: CR S10234)
+- 2008-10-01 — Senate amendment submitted
+- 2008-10-01 — Senate amendment submitted
+- 2008-10-01 — Senate amendment submitted
+- 2008-10-01 — Senate amendment submitted
+- 2008-10-02 — Message on Senate action sent to the House.
+- 2008-10-02 — Rules Committee Resolution H. Res. 1525 Reported to House. Previous question shall be considered as ordered without intervening motions. Providing for consideration of the Senate amendments to H.R. 1424: the Emergency Economic Stabilization Act of 2008; the Energy Improvement and Extension Act of 2008; and the Tax Extenders and Alternative Minimum Tax Relief Act of 2008. The resolution makes in order a motion by the Chairman of the Committee on Financial Services to concur in the Senate amendments. The resolution waives all points of order against consideration of the motion.
