@@ -1,7 +1,7 @@
 ---
 measure: S. 3073
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,13 +31,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | The Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) is amended by inserting after section 103 the following new section: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (6); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (4); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | strike | by striking “and” at the end of paragraph (7); | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end of paragraph (8) and inserting “; and”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 1973ff` | insert | The Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) is amended by inserting after section 103 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1973ff` | strike | by striking “and” at the end of paragraph (6); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1973ff` | replace | by striking the period at the end of paragraph (7) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1973ff` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1973ff` | strike | by striking “and” at the end of paragraph (4); | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1973ff` | replace | by striking the period at the end of paragraph (5) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1973ff` | amend | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1973ff-1` | add-at-end | Section 102 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–1) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1973ff-2` | redesignate | by redesignating subsection (f) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 15344` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
