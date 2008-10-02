@@ -2,7 +2,7 @@
 legis-num: S. 1703
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 1703
