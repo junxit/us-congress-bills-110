@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1272
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1272
@@ -16,7 +16,7 @@ Honoring and recognizing Alice Mary Robertson who, while a Member of Congress, b
 
 - Rep. Fallin, Mary [R-OK-5] (F000453)
 
-## Cosponsors (12)
+## Cosponsors (21)
 
 - Rep. McMorris Rodgers, Cathy [R-WA-5] (M001159)
 - Rep. Sullivan, John [R-OK-1] (S001155)
@@ -30,6 +30,15 @@ Honoring and recognizing Alice Mary Robertson who, while a Member of Congress, b
 - Rep. Musgrave, Marilyn N. [R-CO-4] (M001152)
 - Rep. Myrick, Sue Wilkins [R-NC-9] (M001134)
 - Rep. Boren, Dan [D-OK-2] (B001254)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Cubin, Barbara [R-WY-At Large] (C000962)
+- Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Capps, Lois [D-CA-23] (C001036)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
+- Rep. Poe, Ted [R-TX-2] (P000592)
+- Rep. Melancon, Charlie [D-LA-3] (M001161)
 
 ## Committees (1)
 
@@ -40,3 +49,10 @@ Honoring and recognizing Alice Mary Robertson who, while a Member of Congress, b
 - 2008-06-12 — Introduced in House
 - 2008-06-12 — Introduced in House
 - 2008-06-12 — Referred to the House Committee on House Administration.
+- 2008-10-02 — Committee on House Administration discharged.
+- 2008-10-02 — Committee on House Administration discharged.
+- 2008-10-02 — Considered by unanimous consent. (consideration: CR H10678)
+- 2008-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-10-02 — Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.
+- 2008-10-02 — On agreeing to the resolution Agreed to without objection. (text: CR H10678)
+- 2008-10-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10678)
