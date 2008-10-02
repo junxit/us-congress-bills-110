@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6524
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 6524
@@ -48,3 +48,8 @@ To authorize the Administrator of General Services to take certain actions with 
 - 2008-09-22 — Placed on the Union Calendar, Calendar No. 563.
 - 2008-09-22 — Reported by the Committee on Transportation. H. Rept. 110-866, Part I.
 - 2008-09-22 — Reported by the Committee on Transportation. H. Rept. 110-866, Part I.
+- 2008-09-23 — Received in the Senate, read twice.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10185-10186)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10185-10186)
+- 2008-10-01 — Message on Senate action sent to the House.
