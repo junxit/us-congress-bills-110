@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6338
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6338
@@ -62,3 +62,8 @@ To designate the facility of the United States Postal Service located at 4233 We
 - 2008-09-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-18 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 9/17/2008 H8328)
 - 2008-09-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 9/17/2008 H8328)
+- 2008-09-22 — Received in the Senate, read twice.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Message on Senate action sent to the House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10129-10130)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10129-10130)
