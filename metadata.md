@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6531
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6531
@@ -37,3 +37,9 @@ Vessel Hull Design Protection Amendments of 2008
 - 2008-07-22 — Mr. Scott (VA) moved to suspend the rules and pass the bill.
 - 2008-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6740)
 - 2008-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6740)
+- 2008-07-23 — Received in the Senate.
+- 2008-08-01 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 931.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10186)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10186)
+- 2008-10-01 — Message on Senate action sent to the House.
