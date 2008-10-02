@@ -1,7 +1,7 @@
 ---
 measure: S. 3013
 congress: 110
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3013
@@ -22,9 +22,11 @@ Non-Foreign Area Retirement Equity Assurance Act of 2008
 - Sen. Inouye, Daniel K. [D-HI] (I000025)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Committees (1)
+## Committees (3)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- House — Veterans' Affairs Committee
+- House — Oversight and Accountability Committee
 
 ## Actions
 
@@ -36,3 +38,17 @@ Non-Foreign Area Retirement Equity Assurance Act of 2008
 - 2008-09-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-456.
 - 2008-09-11 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman with amendments. With written report No. 110-456.
 - 2008-09-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 954.
+- 2008-10-01 — Amendment SA 5689 agreed to in Senate by Unanimous Consent.
+- 2008-10-01 — Amendment SA 5689 proposed by Senator Durbin for Senator Collins. (consideration: CR S10392; text: CR S10392) To strike the provision relating to election of coverage by employees, and for other purposes.
+- 2008-10-01 — Measure laid before Senate by unanimous consent. (consideration: CR S10390-10394; text of measure as reported in Senate: CR S10390-10392)
+- 2008-10-01 — Passed Senate with amendments by Unanimous Consent. (text: CR S10392-10394)
+- 2008-10-01 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.(text: CR S10392-10394)
+- 2008-10-01 — Senate amendment agreed to: Amendment SA 5689 agreed to in Senate by Unanimous Consent.
+- 2008-10-01 — Senate amendment proposed (on the floor): Amendment SA 5689 proposed by Senator Durbin for Senator Collins.(consideration: CR S10392; text: CR S10392)
+- 2008-10-01 — Senate amendment submitted
+- 2008-10-01 — The committee amendments were agreed to by Unanimous Consent.
+- 2008-10-02 — Message on Senate action sent to the House.
+- 2008-10-02 — Received in the House.
+- 2008-10-02 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-10-02 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-10-02 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
