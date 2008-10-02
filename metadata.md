@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6073
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6073
@@ -38,9 +38,10 @@ To provide that Federal employees receiving their pay by electronic funds transf
 - Del. Bordallo, Madeleine Z. [D-GU-At Large] (B001245)
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -62,3 +63,12 @@ To provide that Federal employees receiving their pay by electronic funds transf
 - 2008-07-30 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-07-30 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR 7/29/2008 H7218)
 - 2008-07-30 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR 7/29/2008 H7218)
+- 2008-07-31 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-09-23 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-09-24 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Lieberman without amendment. Without written report.
+- 2008-09-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 1073.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10184)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10184)
+- 2008-10-01 — Message on Senate action sent to the House.
