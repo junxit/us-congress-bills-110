@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7084
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 7084
@@ -38,3 +38,8 @@ Webcaster Settlement Act of 2008
 - 2008-09-27 — Mr. Berman moved to suspend the rules and pass the bill, as amended.
 - 2008-09-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H10278-10279)
 - 2008-09-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H10278-10279)
+- 2008-09-29 — Received in the Senate, read twice.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10186)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10186)
+- 2008-10-01 — Message on Senate action sent to the House.
