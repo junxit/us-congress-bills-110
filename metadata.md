@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6083
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6083
@@ -37,9 +37,10 @@ To authorize funding to conduct a national training program for State and local 
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Rahall, Nick J., II [D-WV-3] (R000011)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -60,3 +61,10 @@ To authorize funding to conduct a national training program for State and local 
 - 2008-07-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 7/29/2008 H7232)
 - 2008-07-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 7/29/2008 H7232)
 - 2008-07-31 — The title of the measure was amended. Agreed to without objection.
+- 2008-08-01 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S10184)
+- 2008-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S10184)
+- 2008-10-01 — Message on Senate action sent to the House.
