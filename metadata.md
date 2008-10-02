@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 378
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 378
@@ -90,3 +90,6 @@ Expressing support for designation of September 6, 2008, as Louisa Swain Day.
 - 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
 - 2008-09-27 — On agreeing to the resolution Agreed to without objection. (text: CR H10214-10215)
 - 2008-09-27 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10214-10215)
+- 2008-09-29 — Received in the Senate.
+- 2008-10-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S10422-10423)
+- 2008-10-02 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S10422-10423)
