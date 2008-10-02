@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6296
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6296
@@ -21,9 +21,10 @@ To extend through 2013 the authority of the Federal Election Commission to impos
 - Rep. Ehlers, Vernon J. [R-MI-3] (E000092)
 - Rep. Lofgren, Zoe [D-CA-16] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -36,3 +37,10 @@ To extend through 2013 the authority of the Federal Election Commission to impos
 - 2008-07-15 — Ms. Lofgren, Zoe moved to suspend the rules and pass the bill.
 - 2008-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6535)
 - 2008-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6535)
+- 2008-07-16 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
+- 2008-10-02 — Cleared for White House.
+- 2008-10-02 — Message on Senate action sent to the House.
+- 2008-10-02 — Passed Senate without amendment by Unanimous Consent.
+- 2008-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-10-02 — Senate Committee on Rules and Administration discharged by Unanimous Consent. (consideration: CR S10405)
+- 2008-10-02 — Senate Committee on Rules and Administration discharged by Unanimous Consent.(consideration: CR S10405)
