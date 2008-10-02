@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7198
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 7198
@@ -43,3 +43,8 @@ Stephanie Tubbs Jones Gift of Life Medal Act of 2008
 - 2008-09-29 — Ms. Moore (WI) asked unanimous consent to discharge from committee and consider.
 - 2008-09-29 — On passage Passed without objection. (text: CR H10629)
 - 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10629)
+- 2008-09-30 — Received in the Senate, read twice.
+- 2008-10-01 — Cleared for White House.
+- 2008-10-01 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10396)
+- 2008-10-01 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10396)
+- 2008-10-02 — Message on Senate action sent to the House.
