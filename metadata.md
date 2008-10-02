@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6353
 congress: 110
-version: Reported in House
+version: Enrolled Bill
 ---
 
 # H.R. 6353
@@ -57,3 +57,8 @@ Ryan Haight Online Pharmacy Consumer Protection Act of 2008
 - 2008-09-23 — Placed on the Union Calendar, Calendar No. 565.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-869, Part I.
 - 2008-09-23 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 110-869, Part I.
+- 2008-09-25 — Received in the Senate, read twice.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10184-10185)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10184-10185)
+- 2008-10-01 — Message on Senate action sent to the House.
