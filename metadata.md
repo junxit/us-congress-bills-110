@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7221
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 7221
@@ -34,3 +34,11 @@ Homeless Emergency Assistance and Rapid Transition to Housing Act of 2008
 - 2008-09-29 — Introduced in House
 - 2008-09-29 — Introduced in House
 - 2008-09-29 — Referred to the House Committee on Financial Services.
+- 2008-10-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2008-10-02 — Considered as unfinished business. (consideration: CR H10672-10673)
+- 2008-10-02 — Considered under suspension of the rules. (consideration: CR H10654-10670)
+- 2008-10-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7221.
+- 2008-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-10-02 — Ms. Moore (WI) moved to suspend the rules and pass the bill, as amended.
+- 2008-10-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 61 (Roll no. 678). (text: CR H10654-10665)
+- 2008-10-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 355 - 61 (Roll no. 678).(text: CR H10654-10665)
