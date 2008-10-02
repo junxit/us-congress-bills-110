@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6694
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1709` | replace | in subparagraph (C), by striking “In no case shall the funds required by subparagraph (A)” and inserting the following: “Except in the case of a mortgage described in subparagraph (D), the funds required by subparagraph (A) shall not”; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1709` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | add-at-end | Section 2133 of the FHA Modernization Act of 2008 is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 1709` | replace | in subparagraph (C), by striking “In no case shall the funds required by subparagraph (A)” and inserting the following: “Except in the case of a mortgage described in subparagraph (D), the funds required by subparagraph (A) shall not”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1709` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1709` | add-at-end | Section 203(c) of the National Housing Act (12 U.S.C. 1709(c)) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
