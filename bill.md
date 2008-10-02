@@ -15,9 +15,6 @@ This Act may be cited as the “Non-Foreign Area Retirement Equity Assurance Act
 
 ## § 2. Extension of Locality Pay
 
-- **(a)** *Locality-based comparability payments* Section 5304(f)(1) of title 5, United States Code, is amended by striking subparagraph (A) and inserting the following:
-  > - **(A)** each General Schedule position in the United States, as defined under section 5921(4), and its territories and possessions, including the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands shall be included within a pay locality; and
-
 - **(a)** *Locality-based comparability payments* Section 5304 of title 5, United States Code, is amended—
   - **(1)** in subsection (f)(1), by striking subparagraph (A) and inserting the following:
     > - **(A)** each General Schedule position in the United States, as defined under section 5921(4), and its territories and possessions, including the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands, shall be included within a pay locality;
@@ -61,7 +58,7 @@ This Act may be cited as the “Non-Foreign Area Retirement Equity Assurance Act
 
 ## § 3. Adjustment of special rates
 
-- **(a)** *In General* Each special rate of pay established under section 5305 of title 5, United States Code, and payable in an area designated as a cost-of-living allowance area under section 5941(a) of that title, shall be adjusted, on the dates prescribed by section 4 of this Act, in accordance with regulations prescribed by the Director of the Office of Personnel Management under section 9 of this Act.
+- **(a)** *In General* Each special rate of pay established under section 5305 of title 5, United States Code, and payable in an area designated as a cost-of-living allowance area under section 5941(a) of that title, shall be adjusted, on the dates prescribed by section 4 of this Act, in accordance with regulations prescribed by the Director of the Office of Personnel Management under section 8 of this Act.
 - **(b)** *Department of Veterans Affairs* Each special rate of pay established under section 7455 of title 38, United States Code, and payable in a location designated as a cost-of-living allowance area under section 5941(a)(1) of title 5, United States Code, shall be adjusted in accordance with regulations prescribed by the Secretary of Veterans Affairs that are consistent with the regulations issued by the Director of the Office of Personnel Management under subsection (a).
 - **(c)** *Temporary adjustment* Regulations issued under subsection (a) or (b) may provide that statutory limitations on the amount of such special rates may be temporarily raised to a higher level during the transition period described in section 4 ending on the first day of the first pay period beginning on or after January 1, 2011, at which time any special rate of pay in excess of the applicable limitation shall be converted to a retained rate under section 5363 of title 5, United States Code.
 
@@ -75,11 +72,10 @@ Notwithstanding any other provision of this Act or section 5304 or 5304a of titl
 
 ## § 5. Savings provision
 
-- **(a)** *In General* The application of this Act to any employee may not result in the amount of the decrease in the amount of pay attributable to special rate pay and the cost-of-living allowance as in effect on the date of enactment of this Act exceeding the amount of the increase in the locality-based comparability payments paid to that employee.
-- **(b)(a)** *Sense of Congress* It is the sense of Congress that the application of this Act to any employee should not result in a decrease in the take home pay of that employee.
+- **(a)** *Sense of Congress* It is the sense of Congress that the application of this Act to any employee should not result in a decrease in the take home pay of that employee.
 - **(b)** *Sense of Congress* It is the sense of Congress that the Bureau of Labor Statistics will conduct separate surveys pursuant to the establishment by the President’s Pay Agent of 1 new locality area for the entire State of Hawaii and 1 new locality area for the entire state of Alaska, and that upon the completion of the phase in period no employee shall receive less than the Rest of the U.S. locality pay rate.
 - **(c)** *Savings provisions*
-  - **(1)** *In general* During the period described under section 4 of this Act, an employee paid a special rate under 5305 of title 5, United States Code, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under section 5941 of title 5, United States Code, and who continues to be officially stationed in an allowance area, shall receive an increase in the employee’s special rate consistent with increases in the applicable special rate schedule. For employees in allowance areas, the minimum step rate for any grade of a special rate schedule shall be increased at the time of an increase in the applicable locality rate percentage for the allowance area by not less than the dollar increase in the locality-based comparability payment for a non-special rate employee at the same minimum step provided under section 4 of the Act, and corresponding increases shall be provided for all step rates of the given pay range.
+  - **(1)** *In general* During the period described under section 4 of this Act, an employee paid a special rate under 5305 of title 5, United States Code, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under section 5941 of title 5, United States Code, and who continues to be officially stationed in an allowance area, shall receive an increase in the employee’s special rate consistent with increases in the applicable special rate schedule. For employees in allowance areas, the minimum step rate for any grade of a special rate schedule shall be increased at the time of an increase in the applicable locality rate percentage for the allowance area by not less than the dollar increase in the locality-based comparability payment for a non-special rate employee at the same minimum step provided under section 4 of this Act, and corresponding increases shall be provided for all step rates of the given pay range.
   - **(2)** *Continuation of cost of living allowance rate* If an employee, who the day before the date of enactment of this Act was eligible to receive a cost-of-living allowance under section 5941 of title 5, United States Code, would receive a rate of basic pay and applicable locality-based comparability payment which is in excess of the maximum rate limitation set under section 5304(g) of title 5, United States Code, for his position (but for that maximum rate limitation) due to the operation of this Act, the employee shall continue to receive the cost-of-living allowance rate in effect on December 31, 2008 without adjustment until—
     - **(A)** the employee leaves the allowance area or pay system; or
     - **(B)** the employee is entitled to receive basic pay (including any applicable locality-based comparability payment or similar supplement) at a higher rate,
@@ -108,10 +104,9 @@ Notwithstanding any other provision of this Act or section 5304 or 5304a of titl
         - **(II)** becomes eligible to be paid an allowance under section 1005(b) of title 39, United States Code; or
         - **(III)** is employed by the Transportation Security Administration of the Department of Homeland Security and becomes eligible to be paid an allowance based on section 5941 of title 5, United States Code.
   - **(2)** *Application to covered employees*
-    - **(A)** *In general* Notwithstanding any provision of title 5, United States Code,other provision of law, for purposes of this Act (including the amendments made by this Act) any covered employee shall be treated as an employee to whom section 5941 of title 5, United States Code (as amended by section 2 of this Act), and section 4 of this Act apply.
+    - **(A)** *In general* Notwithstanding any other provision of law, for purposes of this Act (including the amendments made by this Act) any covered employee shall be treated as an employee to whom section 5941 of title 5, United States Code (as amended by section 2 of this Act), and section 4 of this Act apply.
     - **(B)** *Pay fixed by statute* Pay to covered employees under section 5304 or 5304a of title 5, United States Code, as a result of the application of this Act shall be considered to be fixed by statute.
     - **(C)** *Performance appraisal system* With respect to a covered employee who is subject to a performance appraisal system no part of pay attributable to locality-based comparability payments as a result of the application of this Act including section 5941 of title 5, United States Code (as amended by section 2 of this Act), may be reduced on the basis of the performance of that employee.
-- **(b)** *Postal Service employees in nonforeign areas* Section 1005(b) of title 39, United States Code, is amended by inserting “and the Non-Foreign Area Retirement Equity Assurance Act of 2008” after “Section 5941 of title 5”.
 - **(b)** *Postal employees in non-foreign areas*
   - **(1)** *In general* Section 1005(b) of title 39, United States Code, is amended—
     - **(A)** by inserting “(1)” after “(b)”;
@@ -130,7 +125,7 @@ Notwithstanding any other provision of this Act or section 5304 or 5304a of titl
         - **(II)** the applicable locality-based comparability pay percentage under section 4.
     - **(B)** *Rule of construction* Nothing in this Act shall be construed to—
       - **(i)** provide for an employee described under subparagraph (A) to be a covered employee as defined under subsection (a); or
-      - **(ii)** authorize an employee described under subparagraph (A) to file an election under section 7 or 8 of this Act.
+      - **(ii)** authorize an employee described under subparagraph (A) to file an election under section 7 of this Act.
 
 ## § 7. Election of additional basic pay for annuity computation by employees
 
@@ -141,7 +136,6 @@ Notwithstanding any other provision of this Act or section 5304 or 5304a of titl
 - **(b)** *Election*
   - **(1)** *In general* An employee described under subsection (a) (1) and (2) may file an election with the Office of Personnel Management to be covered under this section.
   - **(2)** *Deadline* An election under this subsection may be filed not later than December 31, 2011.
-- **(c)** *Computation of annuity* For purposes of the computation of an annuity of a covered employee any cost-of-living allowance under section 5941 of title 5, United States Code, paid to that employee during the first applicable pay period beginning on or after January 1, 2009 through the first applicable pay period ending on or after December 31, 2011, shall be considered basic pay as defined under section 8331(3) or 8401(4) of that title.
 - **(c)** *Computation of annuity*
   - **(1)** *In general* Except as provided under paragraph (2), for purposes of the computation of an annuity of a covered employee any cost-of-living allowance under section 5941 of title 5, United States Code, paid to that employee during the first applicable pay period beginning on or after January 1, 2009 through the first applicable pay period ending on or after December 31, 2011, shall be considered basic pay as defined under section 8331(3) or 8401(4) of that title.
   - **(2)** *Limitation* The amount of the cost-of-living allowance which may be considered basic pay under paragraph (1) may not exceed the amount of the locality-based comparability payments the employee would have received during that period for the applicable pay area if the limitation under section 4 of this Act did not apply.
@@ -156,23 +150,7 @@ Notwithstanding any other provision of this Act or section 5304 or 5304a of titl
     - **(B)** *Source* Amounts paid under this paragraph shall be contributed from the appropriation or fund used to pay the employee.
   - **(3)** *Regulations* The Office of Personnel Management may prescribe regulations to carry out this section.
 
-## § 8. Election of coverage by employees
-
-- **(a)** *In general* Notwithstanding any other provision of this Act (other than section 6(b)), an employee may make an irrevocable election in accordance with this section, if—
-  - **(1)** that employee is paid an allowance under section 54915941 of title 5, United States Code, during a pay period in which the date of the enactment of this Act occurs; or
-  - **(2)** that employee—
-    - **(A)** is a covered employee as defined under section 6(a)(1); and
-    - **(B)** during a pay period in which the date of the enactment of this Act occurs is paid an allowance—
-      - **(i)** under section 1603(b) of title 10, United States Code;
-      - **(ii)** under section 1005(b) of title 39, United States Code; or
-      - **(iii)** based on section 5941 of title 5, United States Code.
-- **(b)** *Filing election* Not later than 60 days after the date of enactment of this Act, an employee described under subsection (a) may file an election with the Office of Personnel Management to be treated for all purposes—
-  - **(1)** in accordance with the provisions of this Act (including the amendments made by this Act); or
-  - **(2)** as if the provisions of this Act (including the amendments made by this Act) had not been enacted, except that the cost-of-living allowance rate paid to that employee shall be the cost-of-living allowance rate in effect on December 31, 2008, for that employee without any adjustment after that date.
-- **(c)** *Failure To file* Failure to make a timely election under this section shall be treated in the same manner as an election made under subsection (b)(1) on the last day authorized under that subsection.
-- **(d)** *Notice* To the greatest extent practicable, the Office of Personnel Management shall provide timely notice of the election which may be filed under this section to employees described under subsection (a).
-
-## § 9. Regulations
+## § 8. Regulations
 
 - **(a)** *In General* The Director of the Office of Personnel Management shall prescribe regulations to carry out this Act, including—
   - **(1)** rules for special rate employees described under section 3;
@@ -180,7 +158,7 @@ Notwithstanding any other provision of this Act or section 5304 or 5304a of titl
   - **(3)** rules governing establishment and adjustment of saved or retained rates for any employee whose rate of pay exceeds applicable pay limitations on the first day of the first pay period beginning on or after January 1, 2011.
 - **(b)** *Other Pay Systems* With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this Act with respect to employees in such pay system, consistent with the regulations issued by the Office under subsection (a).
 
-## § 10. Effective dates
+## § 9. Effective dates
 
 - **(a)** *In General* Except as provided by subsection (b), this Act (including the amendments made by this Act) shall take effect on the date of enactment of this Act.
 - **(b)** *Locality pay and schedule* The amendments made by section 2 and the provisions of section 4 shall take effect on the first day of the first applicable pay period beginning on or after January 1, 2009.
