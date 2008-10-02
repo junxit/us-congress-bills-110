@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6045
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6045
@@ -209,3 +209,7 @@ Bulletproof Vest Partnership Grant Act of 2008
 - 2008-09-26 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 647). (text: CR 9/25/2008 H9884)
 - 2008-09-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 404 - 2 (Roll no. 647).(text: CR 9/25/2008 H9884)
 - 2008-09-26 — Received in the Senate, read twice.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10183-10184)
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10183-10184)
+- 2008-10-01 — Message on Senate action sent to the House.
