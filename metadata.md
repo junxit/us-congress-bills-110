@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1714
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 1714
@@ -16,9 +16,10 @@ To clarify the boundaries of Coastal Barrier Resources System Clam Pass Unit FL-
 
 - Rep. Mack, Connie [R-FL-14] (M001155)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -32,3 +33,10 @@ To clarify the boundaries of Coastal Barrier Resources System Clam Pass Unit FL-
 - 2008-07-14 — Ms. Bordallo moved to suspend the rules and pass the bill.
 - 2008-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6414)
 - 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6414)
+- 2008-07-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2008-09-30 — Cleared for White House.
+- 2008-09-30 — Passed Senate without amendment by Unanimous Consent.
+- 2008-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-09-30 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S10183)
+- 2008-09-30 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S10183)
+- 2008-10-01 — Message on Senate action sent to the House.
