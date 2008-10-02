@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3480
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 3480
@@ -62,9 +62,10 @@ Let Our Veterans Rest in Peace Act of 2008
 - Rep. Klein, Ron [D-FL-22] (K000366)
 - Rep. LoBiondo, Frank A. [R-NJ-2] (L000554)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -89,3 +90,12 @@ Let Our Veterans Rest in Peace Act of 2008
 - 2008-05-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 5/19/2008 H4109)
 - 2008-05-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 5/19/2008 H4109)
 - 2008-05-21 — The title of the measure was amended. Agreed to without objection.
+- 2008-06-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2008-06-12 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2008-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2008-06-12 — Committee on the Judiciary. Reported by Senator Leahy without amendment. Without written report.
+- 2008-06-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 778.
+- 2008-10-02 — Cleared for White House.
+- 2008-10-02 — Message on Senate action sent to the House.
+- 2008-10-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10405)
+- 2008-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10405)
