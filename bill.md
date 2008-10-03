@@ -2,16 +2,32 @@
 legis-num: H.R. 7222
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 7222
 
-> To extend the Andean Trade Preference Act, and for other purposes.
+That the bill from the House of Representatives (H.R. 7222) entitled “An Act to extend the Andean Trade Preference Act, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Extension of Andean Trade Preference Act
 
-- **(a)** *Extension* Section 208 of the Andean Trade Preference Act (19 U.S.C. 3206) is amended by striking “December 31, 2008” and inserting “December 31, 2009”.
+- **(a)** *Extension* Section 208 of the Andean Trade Preference Act (19 U.S.C. 3206) is amended to read as follows:
+  > ## § 208. Termination of preferential treatment
+  >
+  > - **(a)** *In general* No duty-free treatment or other preferential treatment extended to beneficiary countries under this title shall—
+  >   - **(1)** remain in effect with respect to Colombia or Peru after December 31, 2009;
+  >   - **(2)** remain in effect with respect to Ecuador after June 30, 2009, except that duty-free treatment and other preferential treatment under this title shall remain in effect with respect to Ecuador during the period beginning on July 1, 2009, and ending on December 31, 2009, unless the President reviews the criteria set forth in section 203, and on or before June 30, 2009, reports to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives pursuant to subsection (b) that—
+  >     - **(A)** the President has determined that Ecuador does not satisfy the requirements set forth in section 203(c) for being designated as a beneficiary country; and
+  >     - **(B)** in making that determination, the President has taken into account each of the factors set forth in section 203(d); and
+  >   - **(3)** remain in effect with respect to Bolivia after June 30, 2009, except that duty-free treatment and other preferential treatment under this title shall remain in effect with respect to Bolivia during the period beginning on July 1, 2009, and ending on December 31, 2009, only if the President reviews the criteria set forth in section 203, and on or before June 30, 2009, reports to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives pursuant to subsection (b) that—
+  >     - **(A)** the President has determined that Bolivia satisfies the requirements set forth in section 203(c) for being designated as a beneficiary country; and
+  >     - **(B)** in making that determination, the President has taken into account each of the factors set forth in section 203(d).
+  > - **(b)** *Reports* On or before June 30, 2009, the President shall make determinations pursuant to subsections (a)(2)(A) and (a)(3)(A) and report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives on—
+  >   - **(1)** such determinations; and
+  >   - **(2)** the reasons for such determinations.
+
 - **(b)** *Treatment of certain apparel articles* Section 204(b)(3) of such Act (19 U.S.C. 3203(b)(3)) is amended—
   - **(1)** in subparagraph (B)—
     - **(A)** in clause (iii)—
@@ -99,13 +115,13 @@ Section 505 of the Trade Act of 1974 (19 U.S.C. 2465) is amended by striking “
 ## § 5. Customs user fees
 
 - **(a)** *In general* Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended—
-  - **(1)** in subparagraph (A), by striking “November 14, 2017” and inserting “February 21, 2018”; and
+  - **(1)** in subparagraph (A), by striking “November 14, 2017” and inserting “February 14, 2018”; and
   - **(2)** in subparagraph (B)(i), by striking “October 7, 2017” and inserting “January 31, 2018”.
 - **(b)** *Repeal* Section 15201 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246) is amended by striking subsections (c) and (d).
 
 ## § 6. Time for payment of corporate estimated taxes
 
-The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 in effect on the date of the enactment of this Act is increased by 2.25 percentage points.
+The percentage under subparagraph (C) of section 401(1) of the Tax Increase Prevention and Reconciliation Act of 2005 in effect on the date of the enactment of this Act is increased by 2 percentage points.
 
 ## § 7. Technical corrections
 
