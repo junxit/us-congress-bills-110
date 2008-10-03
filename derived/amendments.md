@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7222
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-20 amendatory instructions. 11 executed, 9 stated and not applied.
+20 amendatory instructions. 8 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,15 +26,6 @@ to guess them.
 
 ### 19 U.S.C. § 3206
 
-> Section 208 of the Andean Trade Preference Act (19 U.S.C. 3206) is amended by striking “December 31, 2008” and inserting “December 31, 2009”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2008` |
-| Inserted | `December 31, 2009` |
-
-### 19 U.S.C. § 3203
-
 > in subclause (II), by striking “6 succeeding 1-year periods” and inserting “7 succeeding 1-year periods”; and
 
 | | |
@@ -42,7 +33,7 @@ to guess them.
 | Removed | `6 succeeding 1-year periods` |
 | Inserted | `7 succeeding 1-year periods` |
 
-### 19 U.S.C. § 3203
+### 19 U.S.C. § 3206
 
 > in subclause (III)(bb), by striking “and for the succeeding 1-year period” and inserting “and for the succeeding 2-year period”; and
 
@@ -51,7 +42,7 @@ to guess them.
 | Removed | `and for the succeeding 1-year period` |
 | Inserted | `and for the succeeding 2-year period` |
 
-### 19 U.S.C. § 3203
+### 19 U.S.C. § 3206
 
 > in clause (v)(II), by striking “5 succeeding 1-year periods” and inserting “6 succeeding 1-year periods”; and
 
@@ -60,7 +51,7 @@ to guess them.
 | Removed | `5 succeeding 1-year periods` |
 | Inserted | `6 succeeding 1-year periods` |
 
-### 19 U.S.C. § 3203
+### 19 U.S.C. § 3206
 
 > in subparagraph (E)(ii)(II), by striking “December 31, 2008” and inserting “December 31, 2009”.
 
@@ -105,24 +96,6 @@ to guess them.
 | Removed | `December 31, 2008` |
 | Inserted | `December 31, 2009` |
 
-### 19 U.S.C. § 58c
-
-> in subparagraph (A), by striking “November 14, 2017” and inserting “February 21, 2018”; and
-
-| | |
-|---|---|
-| Removed | `November 14, 2017` |
-| Inserted | `February 21, 2018` |
-
-### 19 U.S.C. § 58c
-
-> in subparagraph (B)(i), by striking “October 7, 2017” and inserting “January 31, 2018”.
-
-| | |
-|---|---|
-| Removed | `October 7, 2017` |
-| Inserted | `January 31, 2018` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -132,12 +105,15 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Title IV of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (Public Law 109–53; 119 Stat. 495) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `19 U.S.C. § 3206` | amend | Section 208 of the Andean Trade Preference Act (19 U.S.C. 3206) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Title IV of the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (Public Law 109–53; 119 Stat. 495) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of contents for the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act is amended by inserting after the item relating to section 403 the following: | the bill names no machine-readable US Code section |
 | `19 U.S.C. § 3721` | strike | in paragraph (1), by striking “, and subject to paragraph (2),”; | the bill quotes the text struck but describes what replaces it |
 | `19 U.S.C. § 3721` | strike | by striking paragraphs (2) and (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 3721` | redesignate | by redesignating such paragraph (4) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 3721` | replace | by striking paragraph (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `19 U.S.C. § 58c` | strike | Section 15201 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246) is amended by striking subsections (c) and (d). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (A), by striking “November 14, 2017” and inserting “February 14, 2018”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(i), by striking “October 7, 2017” and inserting “January 31, 2018”. | the bill names no machine-readable US Code section |
+| — | strike | Section 15201 of the Food, Conservation, and Energy Act of 2008 (Public Law 110–246) is amended by striking subsections (c) and (d). | the bill names no machine-readable US Code section |
 | — | replace | in subsections (a) and (b), by striking “Carribean” each place it appears and inserting “Caribbean”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “231A(b)” and inserting “213A(b)”. | the bill names no machine-readable US Code section |
