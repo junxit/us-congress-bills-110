@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4010
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 4010
@@ -22,9 +22,10 @@ To designate the facility of the United States Postal Service located at 100 Wes
 - Rep. Pickering, Charles W. "Chip" [R-MS-3] (P000323)
 - Rep. Childers, Travis [D-MS-1] (C001074)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Accountability Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,11 @@ To designate the facility of the United States Postal Service located at 100 Wes
 - 2008-07-14 — Mr. Davis (IL) moved to suspend the rules and pass the bill.
 - 2008-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6418)
 - 2008-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H6418)
+- 2008-07-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2008-07-21 — Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security.
+- 2008-10-02 — Cleared for White House.
+- 2008-10-02 — Passed Senate without amendment by Unanimous Consent.
+- 2008-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-10-02 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S10422)
+- 2008-10-02 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S10422)
+- 2008-10-03 — Message on Senate action sent to the House.
