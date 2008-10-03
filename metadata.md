@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 442
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 442
@@ -24,3 +24,7 @@ Directing the Secretary of the Senate to correct the enrollment of the bill S. 3
 - 2008-10-02 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-10-02 — On agreeing to the resolution Agreed to by voice vote. (text: CR H10673)
 - 2008-10-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by voice vote.(text: CR H10673)
+- 2008-10-03 — Message on Senate action sent to the House.
+- 2008-10-03 — Passed/agreed to in Senate: Resolution agreed to in Senate Pursuant to the order of the Senate of October 2, 2008, without amendment by Unanimous Consent.
+- 2008-10-03 — Received in the Senate, pursuant to the order of October 2, 2008, during the recess of the Senate.
+- 2008-10-03 — Resolution agreed to in Senate Pursuant to the order of the Senate of October 2, 2008, without amendment by Unanimous Consent.
