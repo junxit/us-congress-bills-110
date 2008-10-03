@@ -2,28 +2,29 @@
 legis-num: H.R. 6469
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6469
 
-> To amend the Public Health Service Act to authorize increased Federal funding for the Organ Procurement and Transplantation Network.
+That the bill from the House of Representatives (H.R. 6469) entitled “An Act to amend the Public Health Service Act to authorize increased Federal funding for the Organ Procurement and Transplantation Network.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
 This Act may be cited as the “Stephanie Tubbs Jones Organ Transplant Authorization Act of 2008”.
 
-## § 2. Findings
-
-Congress makes the following findings:
-
-- **(1)** The National Organ Transplant Act of 1984 amended the Public Health Service Act to require the Secretary of Health and Human Services to provide for, by contract with a private nonprofit entity, the establishment and operation of an Organ Procurement and Transplantation Network.
-- **(2)** The Organ Procurement and Transplantation Network represents a unique public-private organization that requires each party to contribute a certain amount of funding to the network’s operation.
-- **(3)** The National Organ Transplant Act of 1984 provided a statutory annual authorization of $2,000,000 for such purpose with remaining costs to be paid by the private sector contractor.
-- **(4)** In 1984, the annual total operating cost of the Organ Procurement and Transplantation Network was $5,000,000, but in 2007 such annual cost exceeded $27,000,000.
-- **(5)** The original authorization amount for the Organ Procurement and Transplantation Network has never been increased since the enactment of the National Organ Transplant Act of 1984, resulting in a greatly increased cost burden on the private sector contractor.
-- **(6)** Much of the increased costs of operation of the Organ Procurement and Transplantation Network have resulted from additional duties and responsibilities assigned to the private sector contractor by Federal regulations and Secretarial directives.
-
-## § 3. Increased funding for the Organ Procurement and Transplantation Network
+## § 2. Increased funding for the Organ Procurement and Transplantation Network
 
 Section 372(a) of the Public Health Service Act (42 U.S.C. 274(a)) is amended by striking “$2,000,000” and inserting “$7,000,000”.
+
+## § 3. Report
+
+- **(a)** *In general* The Secretary of Health and Human Services shall request that the Executive Director of the Organ Procurement and Transplantation Network submit to Congress, not later than 1 year after the date of enactment of this Act, a report that shall include—
+  - **(1)** the identity of transplant programs that have become inactive or have closed since the heart allocation policy change of 2006;
+  - **(2)** the distance to the next closest operational heart transplant center from such inactivated or closed programs and an evaluation of whether or not access to care has been reduced to the population previously serviced by such inactive or closed program;
+  - **(3)** the number of patients with rural zip codes that received transplants after the heart allocation policy change of 2006 as compared with the number of such patients that received such transplants prior to such heart allocation policy change;
+  - **(4)** a comparison of the number of transplants performed, the mortality rate for individuals on the transplant waiting lists, and the post-transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006; and
+  - **(5)** specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the post heart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006.
+- **(b)** *Limitation on funding* The increase provided for in the amendment made by section 2 shall not apply with respect to contracts entered into under section 372(a) of the Public Health Service Act (42 U.S.C. 274(a)) after the date that is 1 year after the date of enactment of this Act if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a).

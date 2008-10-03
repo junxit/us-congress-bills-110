@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6469
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6469
@@ -48,3 +48,18 @@ Stephanie Tubbs Jones Organ Transplant Authorization Act of 2008
 - 2008-09-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2008-09-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR 9/23/2008 H8668)
 - 2008-09-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR 9/23/2008 H8668)
+- 2008-09-26 — Received in the Senate, read twice.
+- 2008-10-02 — Amendment SA 5693 agreed to in Senate by Unanimous Consent.
+- 2008-10-02 — Amendment SA 5693 proposed by Senator Nelson NE for Senator Dorgan. (consideration: CR S10421-10422; text: CR S10421-10422) In the nature of a substitute.
+- 2008-10-02 — Measure laid before Senate by unanimous consent. (consideration: CR S10421-10422)
+- 2008-10-02 — Message on Senate action sent to the House.
+- 2008-10-02 — Passed Senate with an amendment by Unanimous Consent.
+- 2008-10-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2008-10-02 — Senate amendment agreed to: Amendment SA 5693 agreed to in Senate by Unanimous Consent.
+- 2008-10-02 — Senate amendment proposed (on the floor): Amendment SA 5693 proposed by Senator Nelson NE for Senator Dorgan.(consideration: CR S10421-10422; text: CR S10421-10422)
+- 2008-10-02 — Senate amendment submitted
+- 2008-10-03 — Cleared for White House.
+- 2008-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-10-03 — Ms. DeGette asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H10807)
+- 2008-10-03 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H10807)
+- 2008-10-03 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H10807)
