@@ -1,7 +1,7 @@
 ---
 measure: S. 3001
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 3001
@@ -1092,3 +1092,7 @@ Duncan Hunter National Defense Authorization Act for Fiscal Year 2009
 - 2008-09-24 — Mr. Skelton moved to suspend the rules and pass the bill, as amended.
 - 2008-09-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 39 (Roll no. 631). (text: CR H9090-9206)
 - 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 39 (Roll no. 631).(text: CR H9090-9206)
+- 2008-09-27 — Cleared for White House.
+- 2008-09-27 — Message on Senate action sent to the House.
+- 2008-09-27 — Resolving differences -- Senate actions: Senate agreed to the House amendment to the bill by Unanimous Consent.(consideration: CR S9977-9981; text as Senate agreed to House amendment: CR S9977)
+- 2008-09-27 — Senate agreed to the House amendment to the bill by Unanimous Consent. (consideration: CR S9977-9981; text as Senate agreed to House amendment: CR S9977)
