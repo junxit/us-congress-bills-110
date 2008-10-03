@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6870
 congress: 110
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6870
@@ -29,3 +29,8 @@ Payments System Protection Act of 2008
 - 2008-09-11 — Introduced in House
 - 2008-09-11 — Introduced in House
 - 2008-09-11 — Referred to the House Committee on Financial Services.
+- 2008-09-16 — Committee Consideration and Mark-up Session Held.
+- 2008-09-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 19.
+- 2008-10-03 — Placed on the Union Calendar, Calendar No. 585.
+- 2008-10-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-910.
+- 2008-10-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 110-910.
