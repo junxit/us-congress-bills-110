@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1071
 congress: 110th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,7 @@ This Act may be cited as the “September 11 Family Humanitarian Relief and Patr
     - **(B)** is otherwise admissible to the United States for permanent residence, except in determining such admissibility the grounds for inadmissibility specified in paragraphs (4), (5), (6)(A), (7)(A), and (9)(B) of section 212(a) of the Immigration and Nationality Act (8 U.S.C. 1182(a)) shall not apply.
   - **(2)** *Rules in applying certain provisions* In the case of an alien described in subsection (b) who is applying for adjustment of status under this section—
     - **(A)** the provisions of section 241(a)(5) of the Immigration and Nationality Act shall not apply; and
-    - **(B)** the Secretary of Homeland Security may grant the alien a waiver on the grounds of inadmissibility under subparagraphs (A) and (C) of section 212(a)(9) of such Act.
+    - **(B)** the Secretary of Homeland Security may grant the alien a waiver of the grounds of inadmissibility under subparagraphs (A) and (C) of section 212(a)(9) of such Act.
   - **(3)** *Relationship of application to certain orders* An alien present in the United States who has been ordered excluded, deported, removed, or ordered to depart voluntarily from the United States under any provision of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may, notwithstanding such order, apply for adjustment of status under paragraph (1). Such an alien may not be required, as a condition of submitting or granting such application, to file a separate motion to reopen, reconsider, or vacate such order. If the Secretary of Homeland Security grants the application, the Secretary shall cancel the order. If the Secretary renders a final administrative decision to deny the application, the order shall be effective and enforceable to the same extent as if the application had not been made.
 - **(b)** *Aliens eligible for adjustment of status* The benefits provided by subsection (a) shall apply to any alien who—
   - **(1)** was lawfully present in the United States as a nonimmigrant alien described in section 101(a)(15) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)) on September 10, 2001;
@@ -30,8 +30,8 @@ This Act may be cited as the “September 11 Family Humanitarian Relief and Patr
     - **(B)** died as a direct result of a specified terrorist activity; and
   - **(3)** was deemed to be a beneficiary of, and by, the September 11th Victim Compensation Fund of 2001 (42 U.S.C. 40101).
 - **(c)** *Stay of removal; work authorization*
-  - **(1)** *In general* The Secretary of Homeland Security shall provide by regulation for an alien subject to a final order of removal to seek a stay of such order based on the filing of an application under subsection (a).
-  - **(2)** *During certain proceedings* Notwithstanding any provision of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), the Secretary of Homeland Security shall not order any alien to be removed from the United States, if the alien is in removal proceedings under any provision of such Act and has applied for adjustment of status under subsection (a), except where the Secretary has rendered a final administrative determination to deny the application.
+  - **(1)** *In general* The Secretary of Homeland Security and the Attorney General shall provide by regulation for an alien subject to a final order of removal to seek a stay of such order based on the filing of an application under subsection (a).
+  - **(2)** *During certain proceedings* Notwithstanding any provision of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), the Attorney General shall not order any alien to be removed from the United States, if the alien is in removal proceedings under any provision of such Act and has applied for adjustment of status under subsection (a), except where the Secretary has rendered a final administrative determination to deny the application.
   - **(3)** *Work authorization* The Secretary of Homeland Security shall authorize an alien who has applied for adjustment of status under subsection (a) to engage in employment in the United States during the pendency of such application.
 - **(d)** *Availability of administrative review* The Secretary of Homeland Security shall provide to applicants for adjustment of status under subsection (a) the same right to, and procedures for, administrative review as are provided to—
   - **(1)** applicants for adjustment of status under section 245 of the Immigration and Nationality Act; or
@@ -39,14 +39,14 @@ This Act may be cited as the “September 11 Family Humanitarian Relief and Patr
 
 ## § 3. Cancellation of removal for certain immigrant victims of terrorism
 
-- **(a)** *In general* Subject to the provisions of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), other than subsections (b)(1), (d)(1), and (e) of section 240A of such Act (8 U.S.C. 1229b), the Secretary of Homeland Security shall, under such section 240A, cancel the removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien described in subsection (b), if the alien applies for such relief.
+- **(a)** *In general* Subject to the provisions of the Immigration and Nationality Act (8 U.S.C. 1101 et seq.), other than subsections (b)(1), (d)(1), and (e) of section 240A of such Act (8 U.S.C. 1229b), the Attorney General shall, under such section 240A, cancel the removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien described in subsection (b), if the alien applies for such relief.
 - **(b)** *Aliens eligible for cancellation of removal* The benefits provided by subsection (a) shall apply to any alien who—
   - **(1)** was, on September 10, 2001, the spouse, child, dependent son, or dependent daughter of an alien who died as a direct result of a specified terrorist activity; and
   - **(2)** was deemed to be a beneficiary of, and by, the September 11th Victim Compensation Fund of 2001 (49 U.S.C. 40101).
 - **(c)** *Stay of removal; work authorization*
-  - **(1)** *In general* The Secretary of Homeland Security shall provide by regulation for an alien subject to a final order of removal to seek a stay of such order based on the filing of an application under subsection (a).
+  - **(1)** *In general* The Secretary of Homeland Security and the Attorney General shall provide by regulation for an alien subject to a final order of removal to seek a stay of such order based on the filing of an application under subsection (a).
   - **(2)** *Work authorization* The Secretary of Homeland Security shall authorize an alien who has applied for cancellation of removal under subsection (a) to engage in employment in the United States during the pendency of such application.
-- **(d)** *Motions To reopen removal proceedings* Notwithstanding any limitation imposed by law on motions to reopen removal proceedings (except limitations premised on an alien’s conviction of an aggravated felony (as defined in section 101(a)(43) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(43))), any alien who has become eligible for cancellation of removal as a result of the enactment of this section may file one motion to reopen removal proceedings to apply for such relief. The Secretary of Homeland Security shall designate a specific time period in which all such motions to reopen are required to be filed. The period shall begin not later than 60 days after the date of the enactment of this Act and shall extend for a period not to exceed 240 days.
+- **(d)** *Motions To reopen removal proceedings* Notwithstanding any limitation imposed by law on motions to reopen removal proceedings (except limitations premised on an alien’s conviction of an aggravated felony (as defined in section 101(a)(43) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(43))), any alien who has become eligible for cancellation of removal as a result of the enactment of this section may file one motion to reopen removal proceedings to apply for such relief. The Secretary of Homeland Security and the Attorney General shall designate a specific time period in which all such motions to reopen are required to be filed. The period shall begin not later than 60 days after the date of the enactment of this Act and shall extend for a period not to exceed 240 days.
 
 ## § 4. Exceptions
 
@@ -57,7 +57,7 @@ Notwithstanding any other provision of this Act, an alien may not be provided re
 
 ## § 5. Evidence of death
 
-For purposes of this Act, the Secretary of Homeland Security shall use the standards established under section 426 of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 in determining whether death occurred as a direct result of a specified terrorist activity.
+For purposes of this Act, the Secretary of Homeland Security and the Attorney General shall use the standards established under section 426 of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 in determining whether death occurred as a direct result of a specified terrorist activity.
 
 ## § 6. Definitions
 
