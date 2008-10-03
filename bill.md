@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 7222
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 7222
 
-That the bill from the House of Representatives (H.R. 7222) entitled “An Act to extend the Andean Trade Preference Act, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To extend the Andean Trade Preference Act, and for other purposes.
 
 ## § 1. Extension of Andean Trade Preference Act
 
