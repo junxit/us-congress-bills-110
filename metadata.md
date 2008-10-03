@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2095
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # H.R. 2095
@@ -119,10 +119,12 @@ Railroad Safety Enhancement Act of 2008
 - House — Transportation and Infrastructure Committee
 - Senate — Commerce, Science, and Transportation Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2007-10-17 — [House 110-1-979](votes/house-110-1-0979.md) — On Motion to Recommit with Instructions — **Failed** (198–222)
 - 2007-10-17 — [House 110-1-980](votes/house-110-1-0980.md) — On Passage — **Passed** (377–38)
+- 2008-09-29 — [Senate 110-2-209](votes/senate-110-2-0209.md) — On the Cloture Motion — **Cloture Motion Agreed to** (69–17)
+- 2008-10-01 — [Senate 110-2-210](votes/senate-110-2-0210.md) — On the Motion — **Motion Agreed to** (74–24)
 
 ## Actions
 
@@ -199,3 +201,33 @@ Railroad Safety Enhancement Act of 2008
 - 2008-08-01 — Senate amendment submitted
 - 2008-09-24 — House agreed to Senate amendment with an amendment pursuant to H.Res. 1492.
 - 2008-09-25 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2008-09-27 — Amendment SA 5677 proposed by Senator Reid. (consideration: CR S10019; text: CR S10019) To establish the enactment date.
+- 2008-09-27 — Amendment SA 5678 proposed by Senator Reid to Amendment SA 5677. (consideration: CR S10019; text: CR S10019) Of a perfecting nature.
+- 2008-09-27 — Cloture motion on the motion to concur in the House amendment to Senate amendment presented in Senate. (consideration: CR S10019; text: CR S10019)
+- 2008-09-27 — Measure laid before Senate by unanimous consent. (consideration: CR S10019-10020)
+- 2008-09-27 — Motion to concur in House amendment to Senate amendment made in Senate.
+- 2008-09-27 — Motion to concur in House amendment to Senate amendment with an amendment (SA 5677) made in Senate. (consideration: CR S10019)
+- 2008-09-27 — Senate amendment proposed (on the floor): Amendment SA 5677 proposed by Senator Reid.(consideration: CR S10019; text: CR S10019)
+- 2008-09-27 — Senate amendment proposed (on the floor): Amendment SA 5678 proposed by Senator Reid to Amendment SA 5677.(consideration: CR S10019; text: CR S10019)
+- 2008-09-27 — Senate amendment submitted
+- 2008-09-27 — Senate amendment submitted
+- 2008-09-29 — Cloture on the motion to concur in House amendment to Senate amendment with an amendment (SA 5677) invoked in Senate by Yea-Nay Vote. 69 - 17. Record Vote Number: 209. (consideration: CR S10037; text: CR S10037)
+- 2008-09-29 — Considered by Senate. (consideration: CR S10031)
+- 2008-09-29 — Considered by Senate. (consideration: CR S10031)
+- 2008-09-29 — Considered by Senate. (consideration: CR S10031-10037, S10039-10041, S10041, S10049, S10051-10052)
+- 2008-09-29 — Senate amendment submitted
+- 2008-09-29 — Senate amendment submitted
+- 2008-09-29 — Senate amendment submitted
+- 2008-09-30 — Considered by Senate. (consideration: CR S10119)
+- 2008-09-30 — Considered by Senate. (consideration: CR S10119)
+- 2008-09-30 — Considered by Senate. (consideration: CR S10119-10126)
+- 2008-10-01 — Cleared for White House.
+- 2008-10-01 — Considered by Senate. (consideration: CR S10283)
+- 2008-10-01 — Considered by Senate. (consideration: CR S10283)
+- 2008-10-01 — Considered by Senate. (consideration: CR S10283-10290)
+- 2008-10-01 — Motion to concur in House amendment to Senate amendment with an amendment (SA 5677) withdrawn by Unanimous Consent. (consideration: CR S10290)
+- 2008-10-01 — Proposed amendment SA 5677 withdrawn in Senate.
+- 2008-10-01 — Resolving differences -- Senate actions: Senate agreed to motion to agree to House amendment to Senate amendment to the measure by Yea-Nay Vote. 74 - 24. Record Vote Number: 210.
+- 2008-10-01 — SA 5678 fell when Amendment SA 5677 was withdrawn.
+- 2008-10-01 — Senate agreed to motion to agree to House amendment to Senate amendment to the measure by Yea-Nay Vote. 74 - 24. Record Vote Number: 210.
+- 2008-10-02 — Message on Senate action sent to the House.
