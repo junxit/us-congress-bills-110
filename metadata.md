@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 100
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 100
@@ -25,3 +25,8 @@ Appointing the day for the convening of the first session of the One Hundred Ele
 - 2008-09-28 — Mr. Arcuri asked unanimous consent to consider as introduced.
 - 2008-09-28 — On passage Passed without objection. (text: CR H10316)
 - 2008-09-28 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10316)
+- 2008-09-29 — Received in the Senate, read twice.
+- 2008-10-02 — Cleared for White House.
+- 2008-10-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10501)
+- 2008-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10501)
+- 2008-10-03 — Message on Senate action sent to the House.

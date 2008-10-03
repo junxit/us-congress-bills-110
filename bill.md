@@ -1,8 +1,8 @@
 ---
 legis-num: H.J. RES. 100
-congress: 110th CONGRESS
-session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.J. RES. 100
