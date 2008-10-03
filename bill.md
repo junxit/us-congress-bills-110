@@ -47,8 +47,13 @@ Section 4007(b) of the Supplemental Appropriations Act, 2008 (26 U.S.C. 3304 not
 - **(1)** in paragraph (1), by striking “paragraph (2),” and inserting “paragraphs (2) and (3),”; and
 - **(2)** by striking paragraph (2) and inserting the following:
   > - **(2)** *No augmentation after March 31, 2009* If the amount established in an individual’s account under subsection (b)(1) is exhausted after March 31, 2009, then section 4002(c) shall not apply and such account shall not be augmented under such section, regardless of whether such individual’s State is in an extended benefit period (as determined under paragraph (2) of such section).
-  > - **(3)** *Termination* No compensation under this title shall be payable for any week beginning after November 27, 2009.
+  > - **(3)** *Termination* No compensation under this title shall be payable for any week beginning after August 27, 2009.
 
-## § 5. Effective date
+## § 5. Temporary Federal matching for the first week of extended benefits for States with no waiting week
 
-The amendments made by this Act shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008.
+With respect to weeks of unemployment beginning after the date of the enactment of this Act and ending on or before December 8, 2009, subparagraph (B) of section 204(a)(2) of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note) shall not apply.
+
+## § 6. Effective date
+
+- **(a)** *In general* The amendments made by sections 2, 3, and 4 shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008, subject to subsection (b).
+- **(b)** *Additional benefits* In applying the amendments made by sections 2 and 3, any additional emergency unemployment compensation made payable by such amendments (which would not otherwise have been payable if such amendments had not been enacted) shall be payable only with respect to any week of unemployment beginning on or after the date of the enactment of this Act.
