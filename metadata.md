@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 440
 congress: 110
-version: Enrolled Bill
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 440
