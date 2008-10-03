@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6034
 congress: 110
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `8 U.S.C. § 1151` | insert | The second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)) is amended by inserting “(or if, married for less than two years at the time of the citizen’s death, an alien who proves by… | the bill quotes the text inserted but describes where it goes |
+| `8 U.S.C. § 1151` | insert | The second sentence of section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)) is amended by inserting “(or, if married for less than 2 years at the time of the citizen’s death, an alien who proves by a… | the bill quotes the text inserted but describes where it goes |
