@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6197
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6197
@@ -48,3 +48,8 @@ To designate the facility of the United States Postal Service located at 7095 Hi
 - 2008-09-27 — Mr. Clay asked unanimous consent to discharge from committee and consider.
 - 2008-09-27 — On passage Passed without objection. (text: CR H10214)
 - 2008-09-27 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10214)
+- 2008-09-29 — Received in the Senate, read twice.
+- 2008-10-02 — Cleared for White House.
+- 2008-10-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S10422)
+- 2008-10-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S10422)
+- 2008-10-03 — Message on Senate action sent to the House.
