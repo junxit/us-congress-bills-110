@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6469
 congress: 110
-version: Engrossed in House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
