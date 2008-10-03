@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 5159
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 5159
 
-That the bill from the House of Representatives (H.R. 5159) entitled “An Act to establish the Office of the Capitol Visitor Center within the Office of the Architect of the Capitol, headed by the Chief Executive Officer for Visitor Services, to provide for the effective management and administration of the Capitol Visitor Center, and for other purposes.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To establish the Office of the Capitol Visitor Center within the Office of the Architect of the Capitol, headed by the Chief Executive Officer for Visitor Services, to provide for the effective management and administration of the Capitol Visitor Center, and for other purposes.
 
 ## § 1. Short title; table of contents
 
