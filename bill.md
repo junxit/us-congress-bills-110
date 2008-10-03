@@ -1,15 +1,13 @@
 ---
 legis-num: H.R. 6469
-congress: 110th CONGRESS
-session: 2d Session
-chamber: In the Senate of the United States,
+congress: One Hundred Tenth Congress of the United States of America
+session: At the Second Session
+chamber: 
 ---
 
 # H.R. 6469
 
-That the bill from the House of Representatives (H.R. 6469) entitled “An Act to amend the Public Health Service Act to authorize increased Federal funding for the Organ Procurement and Transplantation Network.”, do pass with the following
-
-*Strike all after the enacting clause and insert the following:*
+> To amend the Public Health Service Act to authorize increased Federal funding for the Organ Procurement and Transplantation Network.
 
 ## § 1. Short title
 
