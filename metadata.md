@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1424
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1424
@@ -374,3 +374,16 @@ A bill to provide authority for the Federal Government to purchase and insure ce
 - 2008-10-01 — Senate amendment submitted
 - 2008-10-02 — Message on Senate action sent to the House.
 - 2008-10-02 — Rules Committee Resolution H. Res. 1525 Reported to House. Previous question shall be considered as ordered without intervening motions. Providing for consideration of the Senate amendments to H.R. 1424: the Emergency Economic Stabilization Act of 2008; the Energy Improvement and Extension Act of 2008; and the Tax Extenders and Alternative Minimum Tax Relief Act of 2008. The resolution makes in order a motion by the Chairman of the Committee on Financial Services to concur in the Senate amendments. The resolution waives all points of order against consideration of the motion.
+- 2008-10-03 — Became Public Law No: 110-343.
+- 2008-10-03 — Became Public Law No: 110-343.
+- 2008-10-03 — Cleared for White House.
+- 2008-10-03 — DEBATE - The House proceeded with 90 minutes of debate on the motion to agree to the Senate amendments to H.R. 1424.
+- 2008-10-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-10-03 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 263 - 171 (Roll no. 681). (text as House agreed to Senate amendment: CR H10712-10755)
+- 2008-10-03 — Presented to President.
+- 2008-10-03 — Presented to President.
+- 2008-10-03 — Pursuant to the provisions of H. Res. 1525, the House moved to agree to the Senate amendments. (consideration: CR H10712-10806)
+- 2008-10-03 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 263 - 171 (Roll no. 681).(text as House agreed to Senate amendment: CR H10712-10755)
+- 2008-10-03 — Signed by President.
+- 2008-10-03 — Signed by President.
+- 2008-10-03 — The previous question was ordered pursuant to the rule. (consideration: CR H10805)
