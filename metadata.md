@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5159
 congress: 110
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5159
@@ -52,3 +52,8 @@ Capitol Visitor Center Act of 2008
 - 2008-09-27 — Senate amendment agreed to: Amendment SA 5674 agreed to in Senate by Unanimous Consent.
 - 2008-09-27 — Senate amendment proposed (on the floor): Amendment SA 5674 proposed by Senator Reid for Senator Feinstein.(consideration: CR S9883)
 - 2008-09-27 — Senate amendment submitted
+- 2008-10-02 — Cleared for White House.
+- 2008-10-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-10-02 — Mr. Brady (PA) asked unanimous consent that the House agree to the Senate amendment. (consideration: CR H10673-10677)
+- 2008-10-02 — On motion that the House agree to the Senate amendment Agreed to without objection. (text as House agreed to Senate amendment: CR H10673-10677)
+- 2008-10-02 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to without objection.(text as House agreed to Senate amendment: CR H10673-10677)
