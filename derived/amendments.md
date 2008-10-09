@@ -1,7 +1,7 @@
 ---
 measure: S. 3569
 congress: 110
-version: Enrolled Bill
+version: Engrossed in Senate
 derived: true
 ---
 
