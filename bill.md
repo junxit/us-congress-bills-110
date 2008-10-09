@@ -1,6 +1,6 @@
 ---
 legis-num: S. 3569
-congress: One Hundred Tenth Congress of the United States of America
+congress: 110th CONGRESS
 session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---

@@ -1,7 +1,7 @@
 ---
 measure: S. 3569
 congress: 110
-version: Enrolled Bill
+version: Engrossed in Senate
 ---
 
 # S. 3569
@@ -45,3 +45,5 @@ Judicial Administration and Technical Amendments Act of 2008
 - 2008-09-27 — Received in the House.
 - 2008-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S9897-9899)
 - 2008-09-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S9897-9899)
+- 2008-10-02 — Presented to President.
+- 2008-10-02 — Presented to President.
