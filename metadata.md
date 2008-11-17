@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5714
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 5714
@@ -389,3 +389,6 @@ United States Army Commemorative Coin Act of 2008
 - 2008-10-03 — On agreeing to the Skelton amendment (A001) Agreed to without objection.
 - 2008-10-03 — On passage Passed without objection.
 - 2008-10-03 — Passed/agreed to in House: On passage Passed without objection.
+- 2008-11-17 — Cleared for White House.
+- 2008-11-17 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10601)
+- 2008-11-17 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10601)
