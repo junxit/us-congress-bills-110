@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 435
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 435
@@ -36,3 +36,4 @@ Authorizing the use of Emancipation Hall on December 2, 2008, for ceremonies and
 - 2008-10-02 — Mr. Brady (PA) asked unanimous consent to discharge from committee and consider.
 - 2008-10-02 — On agreeing to the resolution Agreed to without objection. (text: CR H10678)
 - 2008-10-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10678)
+- 2008-11-17 — Received in the Senate.
