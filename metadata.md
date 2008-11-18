@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6899
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6899
@@ -66,3 +66,5 @@ Comprehensive American Energy Security and Consumer Protection Act
 - 2008-09-16 — Rules Committee Resolution H. Res. 1433 Reported to House. Rule provides for consideration of H.R. 6899 with 3 hours of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments.
 - 2008-09-16 — The previous question on the motion to recommit with instructions was ordered without objection. (consideration: CR H8250-8255)
 - 2008-09-16 — The previous question was ordered pursuant to the rule. (consideration: CR H8250)
+- 2008-09-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-11-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1118 under authority of the order of the Senate of 11/17/2008.
