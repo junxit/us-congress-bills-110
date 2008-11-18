@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6842
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6842
@@ -61,3 +61,5 @@ Second Amendment Enforcement Act
 - 2008-09-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2008-09-17 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 6842.
 - 2008-09-17 — The title of the measure was amended. Agreed to without objection.
+- 2008-09-18 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-11-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1117 under authority of the order of the Senate of 11/17/2008.
