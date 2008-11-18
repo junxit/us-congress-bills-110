@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7110
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7110
@@ -38,3 +38,5 @@ Job Creation and Unemployment Relief Act of 2008
 - 2008-09-26 — Rule provides for consideration of H.R. 7110 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 10 of rule XXI.
 - 2008-09-26 — Rules Committee Resolution H. Res. 1507 Reported to House. Rule provides for consideration of H.R. 7110 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit. Measure will be considered read. Bill is closed to amendments. All points of order against consideration of the bill are waived except those arising under clause 10 of rule XXI.
 - 2008-09-26 — The previous question was ordered without objection. (consideration: CR H10087)
+- 2008-11-17 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-11-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1124 under authority of the order of the Senate of 11/17/2008.
