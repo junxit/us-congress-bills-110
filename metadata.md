@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6867
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6867
@@ -59,3 +59,5 @@ Unemployment Compensation Extension Act of 2008
 - 2008-10-03 — ORDER OF BUSINESS - Mr. Rangel asked unanimous consent that it be in order today for the Speaker to entertain motions to suspend the rules relating to H.R. 6867. Agreed to without objection.
 - 2008-10-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 28 (Roll no. 683). (text: CR H10808-10809)
 - 2008-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 28 (Roll no. 683).(text: CR H10808-10809)
+- 2008-11-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-11-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1123 under authority of the order of the Senate of 11/17/2008.
