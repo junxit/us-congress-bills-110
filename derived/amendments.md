@@ -1,7 +1,7 @@
 ---
 measure: S. 3646
 congress: 110
-version: Introduced in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
