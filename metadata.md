@@ -1,7 +1,7 @@
 ---
 measure: S. 1193
 congress: 110
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 1193
@@ -53,3 +53,8 @@ Albuquerque Indian School Act
 - 2008-09-29 — On passage Passed without objection.
 - 2008-09-29 — Passed/agreed to in House: On passage Passed without objection.
 - 2008-09-29 — The title of the measure was amended. Agreed to without objection.
+- 2008-09-30 — Message on House action received in Senate and at desk: House amendments to Senate bill.
+- 2008-11-19 — Cleared for White House.
+- 2008-11-19 — Resolving differences -- Senate actions: Senate agreed to House amendments by Unanimous Consent.(consideration: CR S10676-10678; text as Senate agreed to House amendment: CR S10676-10678)
+- 2008-11-19 — Senate agreed to House amendments by Unanimous Consent. (consideration: CR S10676-10678; text as Senate agreed to House amendment: CR S10676-10678)
+- 2008-11-20 — Message on Senate action sent to the House.
