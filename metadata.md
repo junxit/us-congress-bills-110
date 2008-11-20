@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2040
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 2040
@@ -332,9 +332,10 @@ Civil Rights Act of 1964 Commemorative Coin Act
 - Rep. Hoyer, Steny H. [D-MD-5] (H000874)
 - Rep. Jackson, Jesse L., Jr. [D-IL-2] (J000283)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -348,3 +349,10 @@ Civil Rights Act of 1964 Commemorative Coin Act
 - 2008-04-01 — Mr. Scott (GA) moved to suspend the rules and pass the bill, as amended.
 - 2008-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1841-1842)
 - 2008-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.(text: CR H1841-1842)
+- 2008-04-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-11-19 — Cleared for White House.
+- 2008-11-19 — Passed Senate without amendment by Unanimous Consent.
+- 2008-11-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-11-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S10678)
+- 2008-11-19 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S10678)
+- 2008-11-20 — Message on Senate action sent to the House.
