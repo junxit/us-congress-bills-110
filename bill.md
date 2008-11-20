@@ -11,4 +11,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Technical correction in mental health parity effective date
 
-Section 512(e)(2)(B) of the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008 (subtitle B of title V of division C of Public Law 110-343) is amended by striking “January 1, 2009” and inserting “January 1, 2010”.
+Section 512(e)(2)(B) of the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008 (subtitle B of title V of division C of Public Law 110–343) is amended by striking “January 1, 2009” and inserting “January 1, 2010”.
