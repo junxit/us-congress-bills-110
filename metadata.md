@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5714
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5714
@@ -392,3 +392,6 @@ United States Army Commemorative Coin Act of 2008
 - 2008-11-17 — Cleared for White House.
 - 2008-11-17 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10601)
 - 2008-11-17 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10601)
+- 2008-11-18 — Message on Senate action sent to the House.
+- 2008-11-20 — Presented to President.
+- 2008-11-20 — Presented to President.
