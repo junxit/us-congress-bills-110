@@ -1,7 +1,7 @@
 ---
 measure: S. 3681
 congress: 110
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3681
@@ -25,3 +25,7 @@ A bill to designate the facility of the United States Postal Service located at 
 - 2008-10-02 — Introduced in Senate
 - 2008-10-02 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S10489)
 - 2008-10-02 — Sponsor introductory remarks on measure. (CR S10488-10489)
+- 2008-11-20 — Passed Senate without amendment by Unanimous Consent. (text: CR S10768)
+- 2008-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S10768)
+- 2008-11-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent. (consideration: CR S10768)
+- 2008-11-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.(consideration: CR S10768)
