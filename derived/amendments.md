@@ -1,7 +1,7 @@
 ---
 measure: S. 3712
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 512(e)(2)(B) of the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008 (subtitle B of title V of division C of Public Law 110-343) is amended by striking “January 1, 2009” and inserting “Januar… | the bill names no machine-readable US Code section |
+| — | replace | Section 512(e)(2)(B) of the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008 (subtitle B of title V of division C of Public Law 110–343) is amended by striking “January 1, 2009” and inserting “Januar… | the bill names no machine-readable US Code section |
