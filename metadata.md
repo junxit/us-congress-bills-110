@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 435
 congress: 110
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 435
@@ -37,3 +37,5 @@ Authorizing the use of Emancipation Hall on December 2, 2008, for ceremonies and
 - 2008-10-02 — On agreeing to the resolution Agreed to without objection. (text: CR H10678)
 - 2008-10-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10678)
 - 2008-11-17 — Received in the Senate.
+- 2008-11-20 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S10771)
+- 2008-11-20 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S10771)
