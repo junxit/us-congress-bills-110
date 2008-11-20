@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6867
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6867
@@ -16,7 +16,7 @@ Unemployment Compensation Extension Act of 2008
 
 - Rep. McDermott, Jim [D-WA-7] (M000404)
 
-## Cosponsors (20)
+## Cosponsors (21)
 
 - Rep. Rangel, Charles B. [D-NY-15] (R000053)
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
@@ -38,14 +38,16 @@ Unemployment Compensation Extension Act of 2008
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Yarmuth, John A. [D-KY-3] (Y000062)
 - Rep. Porter, Jon C. [R-NV-3] (P000589)
+- Sen. Martinez, Mel [R-FL] (M001162)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2008-10-03 — [House 110-2-683](votes/house-110-2-0683.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (368–28)
+- 2008-11-20 — [Senate 110-2-214](votes/senate-110-2-0214.md) — On the Cloture Motion — **Cloture Motion Agreed to** (89–6)
 
 ## Actions
 
@@ -61,3 +63,16 @@ Unemployment Compensation Extension Act of 2008
 - 2008-10-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 368 - 28 (Roll no. 683).(text: CR H10808-10809)
 - 2008-11-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2008-11-18 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1123 under authority of the order of the Senate of 11/17/2008.
+- 2008-11-19 — Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S10627-10628; text: CR S10627)
+- 2008-11-19 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S10627-10628)
+- 2008-11-20 — Cleared for White House.
+- 2008-11-20 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 89 - 6. Record Vote Number: 214. (consideration: CR S10701-10702; text: CR S10701)
+- 2008-11-20 — Measure laid before Senate by motion.
+- 2008-11-20 — Message on Senate action sent to the House.
+- 2008-11-20 — Motion to proceed to consideration of measure agreed to in Senate. (consideration: CR S10701-10702)
+- 2008-11-20 — Passed Senate without amendment by Voice Vote.
+- 2008-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2008-11-20 — Presented to President.
+- 2008-11-20 — Presented to President.
+- 2008-11-20 — Senate amendment submitted
+- 2008-11-20 — Senate amendment submitted

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6867
 congress: 110
-version: Placed on Calendar Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,13 +14,42 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+5 amendatory instructions. 3 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 26 U.S.C. § 3304
+
+> in subparagraph (A), by striking “50” and inserting “80”; and
+
+| | |
+|---|---|
+| Removed | `50` |
+| Inserted | `80` |
+
+### 26 U.S.C. § 3304
+
+> in subparagraph (B), by striking “13” and inserting “20”.
+
+| | |
+|---|---|
+| Removed | `13` |
+| Inserted | `20` |
+
+### 26 U.S.C. § 3304
+
+> in paragraph (1), by striking “paragraph (2),” and inserting “paragraphs (2) and (3),”; and
+
+| | |
+|---|---|
+| Removed | `paragraph (2),` |
+| Inserted | `paragraphs (2) and (3),` |
 
 ## Stated, not applied
 
@@ -31,8 +60,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subparagraph (A), by striking “50” and inserting “80”; and | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (B), by striking “13” and inserting “20”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 4002 of the Supplemental Appropriations Act, 2008 (26 U.S.C. 3304 note) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “paragraph (2),” and inserting “paragraphs (2) and (3),”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking paragraph (2) and inserting the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 3304` | add-at-end | Section 4002 of the Supplemental Appropriations Act, 2008 (26 U.S.C. 3304 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 3304` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
