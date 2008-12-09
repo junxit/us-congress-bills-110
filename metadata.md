@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 719
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 719
@@ -47,3 +47,7 @@ A resolution recognizing National American Indian and Alaska Native Heritage Mon
 - 2008-11-20 — Introduced in Senate
 - 2008-11-20 — Referred to the Committee on Indian Affairs. (text of measure as introduced: CR S10755)
 - 2008-11-20 — Sponsor introductory remarks on measure. (CR S10755-10756)
+- 2008-12-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S10836)
+- 2008-12-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S10836)
+- 2008-12-09 — Senate Committee on Indian Affairs discharged by Unanimous Consent. (consideration: CR S10836)
+- 2008-12-09 — Senate Committee on Indian Affairs discharged by Unanimous Consent.(consideration: CR S10836)
