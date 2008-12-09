@@ -1,7 +1,7 @@
 ---
 measure: S. 3712
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
