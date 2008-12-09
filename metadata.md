@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7060
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7060
@@ -48,3 +48,5 @@ Renewable Energy and Job Creation Tax Act of 2008
 - 2008-09-26 — Received in the Senate.
 - 2008-09-26 — Rule H. Res. 1502 passed House.
 - 2008-09-26 — Rule provides for consideration of H.R. 7060 with 1 hour of general debate. Motion to recommit with or without installowed. Measure will be considered read. Bill is closed to amendments. Waives all points of order against consideration of the bill except those arising under clause 10 for rule XXI.
+- 2008-12-08 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-12-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1130.
