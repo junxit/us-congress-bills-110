@@ -1,7 +1,7 @@
 ---
 measure: S. 3711
 congress: 110
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 3711
@@ -25,8 +25,15 @@ A bill to authorize a cost of living adjustment for the Federal judiciary.
 - Sen. Feinstein, Dianne [D-CA] (F000062)
 - Sen. Bingaman, Jeff [D-NM] (B000468)
 
+## Committees (1)
+
+- House — Judiciary Committee
+
 ## Actions
 
 - 2008-11-20 — Introduced in Senate
 - 2008-11-20 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10768-10769; text as passed Senate: CR S10769; text of measure as introduced: CR S10746)
 - 2008-11-20 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10768-10769; text as passed Senate: CR S10769; text of measure as introduced: CR S10746)
+- 2008-11-24 — Message on Senate action sent to the House.
+- 2008-12-09 — Received in the House.
+- 2008-12-09 — Referred to the House Committee on the Judiciary.
