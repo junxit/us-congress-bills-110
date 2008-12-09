@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 720
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 720
@@ -29,3 +29,7 @@ A resolution supporting the goals and ideals of Pancreatic Cancer Awareness Mont
 
 - 2008-11-20 — Introduced in Senate
 - 2008-11-20 — Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S10756)
+- 2008-12-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S10835-10836)
+- 2008-12-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S10835-10836)
+- 2008-12-09 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S10835-10836)
+- 2008-12-09 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.(consideration: CR S10835-10836)
