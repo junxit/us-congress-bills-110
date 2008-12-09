@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7005
 congress: 110
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7005
@@ -51,3 +51,5 @@ Alternative Minimum Tax Relief Act of 2008
 - 2008-09-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 30 (Roll no. 634). (text: CR H9306-9307)
 - 2008-09-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 393 - 30 (Roll no. 634).(text: CR H9306-9307)
 - 2008-09-24 — Received in the Senate.
+- 2008-12-08 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2008-12-09 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1128.
