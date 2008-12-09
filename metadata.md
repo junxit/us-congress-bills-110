@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 718
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 718
@@ -29,3 +29,7 @@ A resolution designating November 30, 2008, as "Drive Safer Sunday".
 
 - 2008-11-20 — Introduced in Senate
 - 2008-11-20 — Referred to the Committee on the Judiciary. (text of measure as introduced: CR S10754)
+- 2008-12-09 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S10835)
+- 2008-12-09 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S10835)
+- 2008-12-09 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S10835)
+- 2008-12-09 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S10835)
