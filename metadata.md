@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 46
 congress: 110
-version: Enrolled Bill
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 46
