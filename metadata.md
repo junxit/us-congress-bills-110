@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1534
 congress: 110
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 1534
