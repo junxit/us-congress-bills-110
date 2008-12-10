@@ -2,7 +2,7 @@
 legis-num: H. RES. 1532
 congress: 110th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1532
@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas President George W. Bush and President-elect Barack Obama immediately condemned the Mumbai attacks and extended their condolences and the support of the American people to all Indians;
 - Whereas this is the second large-scale terrorist attack in Mumbai since the July 2006 train bombings;
 - Whereas India has long been ravaged by similar attacks over the past few years in other large Indian cities, including Ahmedabad, Bangalore, Delhi, and Hyderabad, as well as by attacks abroad, most recently at the Indian Embassy in Kabul;
-- Whereas India has been a strong partner of the United States in combating violent extremism and offered immediate support to the United States after the terrorist attacks of September 11, 2001; and
+- Whereas India has been a strong partner of the United States in combating violent extremism and offered immediate support to the United States after the terrorist attacks of September 11, 2001;
 - Whereas the United States and India are both multicultural, multiethnic, multi-religious democracies that oppose terrorism in all its forms and will continue to work steadfastly to overcome terrorist ideologies and to promote international peace and security: Now, therefore, be it
 
 That the House of Representatives—

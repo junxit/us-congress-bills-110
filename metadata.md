@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1532
 congress: 110
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1532
@@ -16,7 +16,7 @@ Condemning the November 26, 2008, terrorist attacks in Mumbai, India, and expres
 
 - Rep. McCarthy, Carolyn [D-NY-4] (M000309)
 
-## Cosponsors (53)
+## Cosponsors (80)
 
 - Rep. Berman, Howard L. [D-CA-28] (B000410)
 - Rep. Ros-Lehtinen, Ileana [R-FL-18] (R000435)
@@ -71,6 +71,33 @@ Condemning the November 26, 2008, terrorist attacks in Mumbai, India, and expres
 - Rep. Levin, Sander M. [D-MI-12] (L000263)
 - Rep. McNerney, Jerry [D-CA-11] (M001166)
 - Rep. Pastor, Ed [D-AZ-4] (P000099)
+- Rep. Israel, Steve [D-NY-2] (I000057)
+- Rep. Markey, Edward J. [D-MA-7] (M000133)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Berkley, Shelley [D-NV-1] (B001231)
+- Rep. Sires, Albio [D-NJ-13] (S001165)
+- Rep. Engel, Eliot L. [D-NY-17] (E000179)
+- Rep. Walz, Timothy J. [D-MN-1] (W000799)
+- Rep. Baldwin, Tammy [D-WI-2] (B001230)
+- Rep. Filner, Bob [D-CA-51] (F000116)
+- Rep. Tauscher, Ellen O. [D-CA-10] (T000057)
+- Rep. Slaughter, Louise McIntosh [D-NY-28] (S000480)
+- Rep. Kucinich, Dennis J. [D-OH-10] (K000336)
+- Rep. Hinchey, Maurice D. [D-NY-22] (H000627)
+- Rep. McCotter, Thaddeus G. [R-MI-11] (M001147)
+- Rep. Lewis, John [D-GA-5] (L000287)
+- Rep. Capuano, Michael E. [D-MA-8] (C001037)
+- Rep. Van Hollen, Chris [D-MD-8] (V000128)
+- Rep. Lynch, Stephen F. [D-MA-9] (L000562)
+- Rep. Honda, Michael M. [D-CA-15] (H001034)
+- Rep. Wexler, Robert [D-FL-19] (W000314)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Sanchez, Loretta [D-CA-47] (S000030)
+- Rep. Klein, Ron [D-FL-22] (K000366)
+- Rep. Culberson, John Abney [R-TX-7] (C001048)
+- Rep. Jackson-Lee, Sheila [D-TX-18] (J000032)
+- Rep. Udall, Mark [D-CO-2] (U000038)
+- Rep. Green, Gene [D-TX-29] (G000410)
 
 ## Committees (1)
 
@@ -81,3 +108,10 @@ Condemning the November 26, 2008, terrorist attacks in Mumbai, India, and expres
 - 2008-12-09 — Introduced in House
 - 2008-12-09 — Introduced in House
 - 2008-12-09 — Referred to the House Committee on Foreign Affairs.
+- 2008-12-10 — Committee on Foreign Affairs discharged.
+- 2008-12-10 — Committee on Foreign Affairs discharged.
+- 2008-12-10 — Considered by unanimous consent. (consideration: CR H10905-10906)
+- 2008-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-12-10 — Mr. Berman asked unanimous consent to discharge from committee and consider.
+- 2008-12-10 — On agreeing to the resolution Agreed to without objection. (text: CR H10905-10906)
+- 2008-12-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10905-10906)
