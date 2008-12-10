@@ -1,7 +1,7 @@
 ---
 measure: S. 3712
 congress: 110
-version: Referred in House
+version: Enrolled Bill
 ---
 
 # S. 3712
@@ -38,3 +38,15 @@ A bill to make a technical correction in the Paul Wellstone and Pete Domenici Me
 - 2008-12-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-12-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-12-09 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Labor, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-12-10 — Cleared for White House.
+- 2008-12-10 — Committee on Education and Labor discharged.
+- 2008-12-10 — Committee on Education and Labor discharged.
+- 2008-12-10 — Committee on Energy and Commerce discharged.
+- 2008-12-10 — Committee on Energy and Commerce discharged.
+- 2008-12-10 — Committee on Ways and Means discharged.
+- 2008-12-10 — Committee on Ways and Means discharged.
+- 2008-12-10 — Considered by unanimous consent. (consideration: CR H10944)
+- 2008-12-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2008-12-10 — Mrs. Capps asked unanimous consent to discharge from committee and consider.
+- 2008-12-10 — On passage Passed without objection. (text: CR H10944)
+- 2008-12-10 — Passed/agreed to in House: On passage Passed without objection.(text: CR H10944)
