@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6184
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 6184
@@ -26,9 +26,10 @@ America's Beautiful National Parks Quarter Dollar Coin Act of 2008
 - Rep. Sutton, Betty [D-OH-13] (S001174)
 - Rep. Sestak, Joe [D-PA-7] (S001169)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,10 @@ America's Beautiful National Parks Quarter Dollar Coin Act of 2008
 - 2008-07-09 — Mrs. Maloney (NY) moved to suspend the rules and pass the bill.
 - 2008-07-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 479). (text: CR H6278-6280)
 - 2008-07-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 0 (Roll no. 479).(text: CR H6278-6280)
+- 2008-07-10 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2008-12-10 — Cleared for White House.
+- 2008-12-10 — Message on Senate action sent to the House.
+- 2008-12-10 — Passed Senate without amendment by Unanimous Consent.
+- 2008-12-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2008-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S10885)
+- 2008-12-10 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S10885)
