@@ -1,7 +1,7 @@
 ---
 measure: S. 3731
 congress: 110
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -33,11 +33,11 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | in subsection (c), by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d)(2), by striking “subsection (c)(1)” and inserting “subsection (c)(1) and (4)”. | the bill names no machine-readable US Code section |
-| — | insert | by inserting “(A)” after “(1)”; and | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `5 U.S.C. § 3161` | insert | by inserting “(A)” after “(1)”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 3161` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsections (f), (g), and (h) as subsections (h), (i), and (j), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
-| — | amend | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | redesignate | Section 121(i)(1) of the Emergency Economic Stabilization Act of 2008 (division A of Public Law 110–343), as redesignated by this Act, is amended by inserting before the period at the end the following: “, not later than 7 days after the… | the bill names no machine-readable US Code section |

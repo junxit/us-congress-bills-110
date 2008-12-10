@@ -60,7 +60,7 @@ Section 121(h) of the Emergency Economic Stabilization Act of 2008 (division A o
 
 - **(1)** by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;
 - **(2)** by inserting after paragraph (1) the following:
-  > - **(2)** Not later than July 1, 2009, the Special Inspector General shall submit a report to Congress analyzing the use of any funds received by a financial institution under the TARP and make the report available to the public, including posting the report on the home page of the website of the the Special Inspector General within 24 hours after the submission of the report.
+  > - **(2)** Not later than July 1, 2009, the Special Inspector General shall submit a report to Congress analyzing the use of any funds received by a financial institution under the TARP and make the report available to the public, including posting the report on the home page of the website of the Special Inspector General within 24 hours after the submission of the report.
 
 - **(3)** by adding at the end the following:
   > - **(5)** Except as provided under paragraph (3), all reports submitted under this subsection shall be available to the public.
