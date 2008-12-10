@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7311
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 7311
