@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7321
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7321
@@ -15,6 +15,10 @@ Auto Industry Financing and Restructuring Act
 ## Sponsor
 
 - Rep. Frank, Barney [D-MA-4] (F000339)
+
+## Cosponsors (1)
+
+- Sen. Shelby, Richard C. [R-AL] (S000320)
 
 ## Committees (6)
 
@@ -55,3 +59,5 @@ Auto Industry Financing and Restructuring Act
 - 2008-12-10 — Rule provides for consideration of H.R. 7321 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2008-12-10 — Rules Committee Resolution H. Res. 1534 Reported to House. Rule provides for consideration of H.R. 7321 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order.
 - 2008-12-10 — The previous question was ordered on the amendment (A001) without objection. (consideration: CR H10934)
+- 2008-12-11 — Received in the Senate.
+- 2008-12-11 — Senate amendment submitted
