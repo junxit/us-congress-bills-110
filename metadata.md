@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7327
 congress: 110
-version: Enrolled Bill
+version: Received in Senate
 ---
 
 # H.R. 7327
