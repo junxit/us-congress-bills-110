@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7327
 congress: 110
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.R. 7327
@@ -22,6 +22,11 @@ Worker, Retiree, and Employer Recovery Act of 2008
 - Rep. Miller, George [D-CA-7] (M000725)
 - Rep. McKeon, Howard P. "Buck" [R-CA-25] (M000508)
 
+## Committees (2)
+
+- House — Education and the Workforce Committee
+- House — Ways and Means Committee
+
 ## Actions
 
 - 2008-12-10 — Committee on Education and Labor discharged.
@@ -38,3 +43,6 @@ Worker, Retiree, and Employer Recovery Act of 2008
 - 2008-12-10 — Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-12-10 — Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2008-12-10 — Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2008-12-11 — Cleared for White House.
+- 2008-12-11 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S10914-10915)
+- 2008-12-11 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S10914-10915)
