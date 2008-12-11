@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 728
 congress: 110
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 728
@@ -16,7 +16,7 @@ A resolution designating January 2009 as "National Mentoring Month".
 
 - Sen. Kennedy, Edward M. [D-MA] (K000105)
 
-## Cosponsors (17)
+## Cosponsors (18)
 
 - Sen. McCain, John [R-AZ] (M000303)
 - Sen. Akaka, Daniel K. [D-HI] (A000069)
@@ -35,6 +35,7 @@ A resolution designating January 2009 as "National Mentoring Month".
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Ensign, John [R-NV] (E000194)
 - Sen. Pryor, Mark L. [D-AR] (P000590)
+- Sen. Isakson, Johnny [R-GA] (I000055)
 
 ## Committees (1)
 
@@ -44,3 +45,7 @@ A resolution designating January 2009 as "National Mentoring Month".
 
 - 2008-12-10 — Introduced in Senate
 - 2008-12-10 — Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S10883)
+- 2008-12-11 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(text as passed Senate: CR S10958)
+- 2008-12-11 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text as passed Senate: CR S10958)
+- 2008-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S10957-10958)
+- 2008-12-11 — Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S10957-10958)
