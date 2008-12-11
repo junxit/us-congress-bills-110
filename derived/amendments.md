@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7321
 congress: 110
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
